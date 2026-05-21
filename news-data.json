@@ -1,9 +1,209 @@
 {
-  "updated_at": "pending",
+  "updated_at": "2026-05-21T19:07:02Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Microsoft lanza una actualización urgente en Windows 11 para arreglar aplicaciones que dejaron de funcionar",
+        "description": "Microsoft lanza una actualización urgente en Windows 11 para arreglar aplicaciones que dejaron de funcionar Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOGEycEpXQTg5dXc0eHlhZDlSY0VJN3ZqLVo2ak9Ybnh2cHpMbndZak1oLW8xWUdqalZ1SFZGQVo0QzRBaTdUR3JoWnhldWVoTm53NHZaa0p2dm1VbXZCRzBDMEZjeEs5TGZTN0FiVnplN3NEQkRfdGhTNDZMVGU0TUluWERmS1BjcEZLbDBrWWp3U3luNllETTlfaGpqNDJSTC1JRFktbU9yM0hPODVtZTBCZVhUQzU2S05xX2xSTUdBQ3gwd1B6OVdoY3FiMThXTmNQS1FOd1BWRkRXMlA5Rl9ja9IB_gFBVV95cUxNWGU1UE1mSTFCYjZCanN3NXNZTkswckxYV1Q2cFd1bDBUR3NGM3A5dmJ1bjNTOWJWTEF6YXZtY2c0M00yLTU4UE1WMXVBNVdhWjY4QmEzeXdiZkpodERNOEN3Q19XRXZiT3FLSkFEZXB2cWZjRU5uM2tQcGFnWVYtaWRTSDVoNWI2blRlZ1JJX3NhZmpSM29TR19sU2FKc1duMFdHR09jZFg2MUZkaXhJeDdqLTNPSkg2MHJwU01ZR0daaTdrRXdoX21sRXZCaEN4dXl5S2tPVFNqdVdkU3JXX2ppMS1oVUF3b2dXaUxyY3cza2syZVJlQTN5YVNOQQ?oc=5",
+        "date": "2026-05-20T13:56:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Al descubierto el mayor secreto de Microsoft: así planean arreglar Windows (y no es lanzando Windows 12)",
+        "description": "Al descubierto el mayor secreto de Microsoft: así planean arreglar Windows (y no es lanzando Windows 12) Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSm9KNDc4VmNtcTliQ1BTaS02ZlVLeXJNVW4tUm1QVmcyUkZLVTZYdVVmWmZnOGFiTk45R2RXd0d4dm5hQXktTGxOWWgxNFBOQlVTSVpVbUs2MjN3cG83S2hPY05NYmZITXE0cVVuWkg1NGNGNV9QeUtsUXB4R3oxXzNSSFRIWDQtWGc3STNHQzdiTmpEYnlkb1FzRUY5RXhrajY5c1lYUU1PWi1nTENybXVuUUtic2xCTDhURndQdVFGVlhvQnlBWUxlckRscTlKa25mRQ?oc=5",
+        "date": "2026-05-18T11:46:10+00:00",
+        "source": "Hipertextual"
+      },
+      {
+        "title": "Apostar por lo imposible: la lección de Microsoft y OpenAI para los economistas",
+        "description": "Apostar por lo imposible: la lección de Microsoft y OpenAI para los economistas Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUExVjk4M0p1NlBCenJkV0RXRXYycmVQUk9JZHdjUUl5c1ZnUTVXeFFHOWI4M0hqMk0wVmRjSE9zcDBCQnI3VzNtdktXcl9rOVNNYlZCOWU1Wm1JYW01Z1M4aFJGc2J6V3hUWGZ4YUktZDU3SmVJeW5zMDV2REF3UG0wenY2WkViQzVxNWFmWlc3RmlVZENuaTdTSQ?oc=5",
+        "date": "2026-05-21T17:29:00+00:00",
+        "source": "Yahoo"
+      },
+      {
+        "title": "Estafadores usan cuentas internas de Microsoft para enviar spam",
+        "description": "Estafadores usan cuentas internas de Microsoft para enviar spam Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BtbFR1WEJBTC0wVUt6Y0VXNmpmSXo5UXJQTjBFM0FKaS1XX2EwdDRsZS1vdWVKdFZYVXZId042dmMtdVQzbzhiUldMdFJ3aVAtbHRSQ3VqUWpJZEthYlIxOVRkWlhiT3c5NzNXWnNUa2dPRXZKMkdlN2VhRmhqN1I1bmp2ZW5XMThiVUFoemtvSUZWbEk2QnhVS2s4TG9uaXRCQ0ZqZ195a2lKRy1YT2tqb9IBuAFBVV95cUxNazRHTWdVUVdoeUpQLUY4UDR2MkdkUi1WMHMwVExzY1BhV25NU1UxY2RYZ0dDNzh6Ni1tbVlLVklTd3dHQ0JnX1B0Rnozc0pSX1NGMXlPNjQ2YUYzNUNnd3FXb0dTZVVPQ2RVQzlCMGFESnNmYlBxSzMtT3lxdHBZZ245dlRNMWJTOEVyeEIwTEg5N0kyZmZ5c3dPY2hnQjVtRDZfSC1ndm9aRTloNElqbzBxYXAwazBl?oc=5",
+        "date": "2026-05-21T13:01:04+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
+        "title": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information",
+        "description": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information El Destape",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVE3VE04bktGNm1XVzhhYzFIUHlnZlpKQkUzT0tfQ0drM3VEc0JhR1RzWkxSVjBpVThYc2FQOC1OQkNNZG0wUlQ0dDlydXN6U1NDLVNLTUhKaW1KMGNKODJPcHF5LTJBTnFvWThvb2ZGNnNqZS0tZzAyMjRrSy1EYVhSNmM5SV9SX2pxU1RGdjUzNFpuRUpXWEpTOFVyOE84Sno1bkVzY0wwU1JWSEV4YjFNd1NucEtZaDB6UDBfdWozV2pxTUhCMUl4ZmNVU1B5c3QwbUlXWFAtbG1xM3dySWd3QjB3UXAw0gHoAUFVX3lxTE4xUTdUTThuS0Y2bVdXOGFjMUhQeWdmWkpCRTNPS19DR2szdURzQmFHVHNaTFJWMGlVOFhzYVA4LU5CQ01kbTBSVDR0OXJ1c3pTU0MtU0tNSEppbUowY0o4Mk9wcXktMkFOcW9ZOG9vZkY2c2plLS1nMDIyNGtLLURhWFI2YzlJX1JfanFTVEZ2NTM0Wm5FSldYSlM4VXI4TzhKejVuRXNjTDBTUlZIRXhiMU13U25wS1loMHpQMF91ajNXanFNSEIxSXhmY1VTUHlzdDBtSVdYUC1sbXEzd3JJZ3dCMHdRcDA?oc=5",
+        "date": "2026-05-21T14:29:28+00:00",
+        "source": "El Destape"
+      },
+      {
+        "title": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo",
+        "description": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkk3d0ItTTdFQjc2amxuMGQ1bDhBa2Vzc1BSVEVVN2l1eklrOElJdm5DS3Jwa0hxaFdiQzhCb2VxRDZyRzJUVk5iMld2UXNSRHVhQVlsUWdpM1VrcFlCNHFGWGxBV3JoTG5MYjgzYmdRTG1FbjJEV3JiN0VLenNFLVRJVFZIbGZhcnoxY2lvWG5mWXJ0UnJ0ZzQxSmwyVWd2TTM5N0JqbjQyZGdiMXVDZFlmZl94LU1fWG05RkpkbVB0T3JDcmZWdFBRN09FRUQ3SmVpctIB2gFBVV95cUxOS1pHdEFPd2NaZHNBQk1tRlhrNXEzSWgzN2UxMy0xdE9pcUE2Vy1yR3NaU0lLUkNiejlnT3liYnJWeVJMME9MamZnM3dZRjljVy05cDM0YWxpM3ltV1ZSWmxFYk9jb0tVVVRUb0hlUnpnX25yTThMb0FPeXRlQW8yeWpLc0EzVFZ4STlnTW9YT2xjTnFsclFKbWpTTV9MLUNOTFZ2SmZ6VXJ0aHg5RDMxZlI2VUZ6OVpDeF9xU1BRVVlYNXh3T0pqcHYteWNUeWJVOEhkWk5SRWl4Zw?oc=5",
+        "date": "2026-05-20T10:15:56+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Microsoft presenta sus nuevos dispositivos Surface Pro y Latop para empresas equipados con Intel Core Ultra Series 3",
+        "description": "Microsoft presenta sus nuevos dispositivos Surface Pro y Latop para empresas equipados con Intel Core Ultra Series 3 Notimérica",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTHFLdFFLTlE3dTN5WDFfWVQyR2J4UnRtNnFyT2w5LU5pLUxLZzNyMk1UZjF4SmZoa0QzS1RxZ1Z0WGZiSHMyZFhIaTdHcWFXY01qbWdWSzlrOHU5MWJlZ2lsekVQbTNJTU9oR1A0WTJ0ZmtRWnZDT2VRbkQyV1g5anc2VWExcmJiWDFRU2NLYXpQTVJBcXF0cXBlalMyeWp1Ujg1WEdCeDdWa01sNWFaX3M5UTdlSlA2dElyWXJaaTZsalM4N29SWGFlUUNhTkZQeExqbWV5dGdRNUZSYVpRN2R0T0tHX1RKbEY5WVJvRE5CcjctUFNNZlZTa1FyU2VnUHdZ?oc=5",
+        "date": "2026-05-20T14:12:43+00:00",
+        "source": "Notimérica"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
+        "description": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNjNWeFE4R0QyQzNxS09obi1Wbjc0ZnZCakkwbGk0UURjREFWUUp4eGp2S0tVX1hOa1VmalZZRjBueVhKMnZqckxqbTd6SHBXRGpmUlI3VmROREl4RGw0dzNQc3BkS2dldnhsa2ZIaUI4NUJWdHA4cUVSOENfdjNfc3JJLUQzSXJoQ1BCSkludjhWR0xFZktJeTJZY3ZxRjZuSUlQb3N5Ti1aX3FYOTByMzdDekE1U0dmYkNUY3dSd2pMVER1bDJoaGpYRWwtbkRUNUFjVFBZNmYyVXQwWEFjeDN1THlDMmZ6bkpxVi1FNnozQTlKZThF0gGSAkFVX3lxTFB4WG5Ka3lHZVRZeDZzQ3JvZ3drWnpvZGxfQldxY2s5MWtNSW1KTWt5Q1pydFBUZktteUZaalBmQnJkXzduR1N3LTJuRVJoN1lkX3RPOHBMN0w4UHF0bmxCWlR3dzlIOHVIQlUyS09SZTZwcDlPdzNyR2pFb0FYUnM3N1BpVW9mOC1RTnpTTXhMbjh5MFVHc29PeWxwc0F3anZvZTdTa1Mzck5CMmtDV2tvMlItUDlMcjZJWFpRdEVlMWdiMXdmaVVNb2VaOXU0b1Y1UEJVZVBaYW1qOGU0TVV2a3lhVWhHSUljSXZIb2xKMHlCVndBV0VOTGpyUnd0eTIxMVNUWmJnc1UyZG9xeVpfaEE?oc=5",
+        "date": "2026-05-21T16:01:04+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Social Media Day Buenos Aires 2026: tendencias, marketing e inteligencia artificial en un evento clave para la industria digital",
+        "description": "Social Media Day Buenos Aires 2026: tendencias, marketing e inteligencia artificial en un evento clave para la industria digital revistagente.com",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVDRsR3RFSlRaZkNZVkxMdlBkYlE3V3lvdmFIZDhhWmprMWlwUVBvZHBLcTdnanZCZlZDNi1aTEZtS1V2akQ0UzJJT2p4c2E2ZW5rTTRTOFNXZlF2WjlzZHctUDh3SXBscDhGc2VOTGliUFlRSmYyQWhzeGM1UEktQ2NkUWhxNlp0M3VrQmNKYUNEbGZOVlVlSWlWUTVGNkJTQ3JZWDB3a3U4ZEU5QWVzRHkwUFRFZmpPdUFEWmZhNTg5WGlZVjJjQUFDalQ4WTRYeXlrQ1ZMRTY3MFZCWkZDNGZqZFRvbjNnLUNzbWlaUVpqSjFnWFhfZ2tjWQ?oc=5",
+        "date": "2026-05-21T18:55:03+00:00",
+        "source": "revistagente.com"
+      },
+      {
+        "title": "El Lápiz de Platino de Marketing Digital fue para Calm y Ogilvy",
+        "description": "El Lápiz de Platino de Marketing Digital fue para Calm y Ogilvy DossierNet",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFEtSVVIZ04zWjA5Ylo5dlhwZW9LaGlhOGYya1N0UW1hcWh2NmxuUTlHZ0lkbkduZWE2QUxUVmw2SjVCZmVNVnNSMmJGOVR0SFVaMmtFSzRoY2dlcC1nWFBnbThEZlNLUUNBTmJsdU1PQkVPZ213eWFwalFQckZiRjNhYnFDS3JBdUdRbzFVWC1CMTdCX2s0ckkxWlJlYU9vSFlJ?oc=5",
+        "date": "2026-05-20T15:27:34+00:00",
+        "source": "DossierNet"
+      },
+      {
+        "title": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g...",
+        "description": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTVzejRtWGc0OUt2SUZBZmRZaTBHLUZKenRNMXNuakR2TFZ4MFNaX0hTRGh2M0VKRkFadzNaNU1lUFluQkM5dm4tYUFHeUVLQjRjMDVLbUVvLS1wREdmeHE1WjZjTWdTLU1iZ0t6VlZWc0gwS0FyY2cyYnIwZWRlUkhRTFRxMmhycXNZQXhtcmVVQTItQ3Nmd3MxWDZGbFQxZ004TkM2d2N0aDRxX2JnZmxUZUxvaHIwYjRZTGQ5VDRDbklQZ21HLTVkN0dPWFdfZ1NNb1BfT0FJeFF6NURicTdTcV9iRUktU3lIZVloSUjSAfYBQVVfeXFMUGpxZ3VrZmt0WmI2eWpKMUU2cU9McFdDZzB5WkhqeXBHOHNTVVlRU3o4NHZPUlNkdnV4WGpvbHNqMmJONDlTVTRpM21kWktQSTVOckQ4MTViclVhSlVmZndpdzQ4OEYzQWhGUGxpcjdzaDF1OVBDVnBSZ01ON0NJdDBOUHdTSUFoSmtVdDVZd1lhM0tTeGRZZExsLU5mOG84ZlJJN0Rpcm91emdFb0NoVEx4WmNKM2tpVi1EaENhVjN1RVA1eUxiZkpTZlBGUzJTcFZwMWRQcGFlUllUYm9mRjUzeW9ickpfN3B4YkxwTmVIbzUwcnF3?oc=5",
+        "date": "2026-05-19T16:59:43+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Se realizó en Godoy una jornada de introducción al marketing digital",
+        "description": "Se realizó en Godoy una jornada de introducción al marketing digital Sur Multimedios",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjY4MDlFVjg4SzNPQUF4c2ZremlMY0t4NDVMZEhmZEtlcnFPVDA1MGw4UWNrbi1oYU9YNUgtdml0Y0pxeXpsWnJCVkxscVMzMjlZdnZ1b1lMM2hxeUdWNzhsY2hleHJMVkJmYm03Mi1uV3drVldhOFRyMHJwQ01MY093VUNBU09ocWJNZlRnYlVWTktIQTZ5a2l2QzJ4Z1RROXlmX2Z6MW94aWV5RHo1TUFR?oc=5",
+        "date": "2026-05-18T15:40:35+00:00",
+        "source": "Sur Multimedios"
+      },
+      {
+        "title": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora",
+        "description": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora NOVA Chubut",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkQtcUhKR1dNNXpTbHAzb0ZKMWpGT2hURXhtZzc4MklJdGVLMGJYSHhyWWFzMjNKdTc4Nk1TV01uRi0yNXFyZXk4ZHo4TDlEYWpZZnV1b3JUQzRVcmlwVW9QM0dhOHU3bHNibHhNY3BRZnZNMW9BSFJuTlBOajZzcWc1TzNVUXRQdk1mX3FiakpkdXFUOXBuc2Zuc0Z1RkNjMHBoRFFaR0ZGbXYweEtyM0xWSXN3c3ktWW5sRGlqMG9ObHZheWlBdUZwOHU5bERENGdxQ2tn?oc=5",
+        "date": "2026-05-18T11:43:43+00:00",
+        "source": "NOVA Chubut"
+      },
+      {
+        "title": "La agencia de publicidad Veramarket cumple 25 años \"dándole valor a las marcas\"",
+        "description": "La agencia de publicidad Veramarket cumple 25 años \"dándole valor a las marcas\" Dos Florines",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVzl5TWNXcHVVb3RIRmlIVndDdnhpdFpfZHlYcGUxVFhjRV84d0JQUG4tQWFQSndnWHhxcmZSdklmOTltMl8xbzdrcXNKcjN5Ynh5X01KeWNFM0R1RWZJR1JlclNqOFdTRnZBS0V6emI5RjA5czBQWEJLbjQ2MkFqd0c2WkxaNl9ZNnVQOGxKU3IyTE5qZDhoZmIzdXZKbnlIV1EtTktneUY?oc=5",
+        "date": "2026-05-20T15:22:20+00:00",
+        "source": "Dos Florines"
+      }
+    ],
+    "IA": [
+      {
+        "title": "La Casa Blanca pospone la firma de su decreto sobre inteligencia artificial",
+        "description": "La Casa Blanca pospone la firma de su decreto sobre inteligencia artificial CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnRmcU82aHFNU0cycnN0RWFwWHJmRWI2cC1vQXpIQlNwQkZyU0hFODhfN3hsdnllSU9CZkNNWUkxMXBCOFhPRGpPSDVZT1JMQ2hqRmdROTFMcWFIX3BfRTBWanZWVjJLMGtqc2hrOWFzbWNRN29kQUNNVnJzdXgybHdHWDZPOXh4UVl2ZVV1YmZsVzFURy1J?oc=5",
+        "date": "2026-05-21T16:10:00+00:00",
+        "source": "CNN en Español"
+      },
+      {
+        "title": "Spotify y Universal Music acordaron habilitar versiones y remixes con IA",
+        "description": "Spotify y Universal Music acordaron habilitar versiones y remixes con IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQREFwVGVaaVlrYWhTbFhJOFY4cnJJa1RLbFhmNlZjTVA0cl9JMFJVTndCT1dSUWE1aW5qTWxSLThpVzZsSHd5WjYwcmhJRm5ESGdtQmVqTllOdTRuOTBhZFFVVF9SLVI3RmNuc3dDXzJ5Z2RHWlFkVnBUbzduN0xfMG9TRi1qcFRqdjNXRWJWUGllWmdPY3JLV0tra0RDVFNscDFxS0t5azg0LVlvZF9Tb0Nn0gHMAUFVX3lxTE5mVXBqQktMY29jYmxhYm1kTWFYdEdndUE3UDR3eE5QUnAzYy1aZ2Yxd0l4cXpfRmViVnpob1g3NmdmbEJMS2hydEFhZUViY19DX3Bra0JZMTZFSUE2SThrNlZNckdFRVltbWN4TWtPVDFMbDRseVFCQjFrU1VpeFZERV9jUmhfemdGOW5YZlZTclFKa2VFc0NsWkFrc1o2Yk92eWUwVkphUzAwWjdZdUlZQTYzVWtEYU9saF9xSW5XN3dvR2JhQTJoTkdPNQ?oc=5",
+        "date": "2026-05-21T18:12:15+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Celam publica investigación sobre Inteligencia Artificial y desarrollo humano integral",
+        "description": "Celam publica investigación sobre Inteligencia Artificial y desarrollo humano integral Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVBNVElVeFREdUdObXZQcUZtZUNfSkJySG05UlAwRUxKM21TRDVzUFlYQXNjUk44Wld4ZFVwUGo4U3RDd285QUVHQXhXU2doMDRrZUdXLWtXYTdZUXB3Q19ub05CM0wyV2l0U0FnU0R1OV9PX2RfdDlkMDdmcnJRTkwxOXZRRmxqcGJaRGljb21ZUnBCWGhQeXhoRlJVR2Jhay0yaEZMNzgxWXZ4UFEwU1d6Zw?oc=5",
+        "date": "2026-05-21T14:06:31+00:00",
+        "source": "Vatican News"
+      },
+      {
+        "title": "Regulemos el uso de la Inteligencia Artificial: Campaña de la Asociación Argentina de Actores y Actrices",
+        "description": "Regulemos el uso de la Inteligencia Artificial: Campaña de la Asociación Argentina de Actores y Actrices Asociación Argentina de Actores y Actrices",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rUl83UnN5ZHJTNTNtbTQ4UmI4a1Q2cjJNZG9hRUVhTWN2Mi1jU0J2OXFWY1haVEhnRUI4MjJBcUkwdXlxRlVvcHViUnNNSWhqVEtTeXJvdFFwMjFwamc?oc=5",
+        "date": "2026-05-20T13:47:45+00:00",
+        "source": "Asociación Argentina de Actores y Actrices"
+      },
+      {
+        "title": "El fuerte pedido de Ricardo Darín para regular la inteligencia artificial",
+        "description": "El fuerte pedido de Ricardo Darín para regular la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHhudHIxbUQ2bXh4UGxRWEZrbnpxbWV2dVBQVF9OX3BDb2lPNy11Um9EN0tiZVpYN0VhNzBDM0lkYkZ5bHp2ei1tZ2FTdTdNVC1qUHpDR2JNLXBxSXNMYzdpTDF6QWE0OGNFcEc4QVFLUkJJUTJ4U2hVU0F4V2o3RUUtaWhKUUh0Mmo0WkptTGw1LWthSVIzTVNiNzhwVE54NXBtMFNlT2QtcXUzSWcxN2lKUWgtd1F2ZTJIcHR6SHU1U1QtMWRWV2pnMEcyNzBneDNMUQ?oc=5",
+        "date": "2026-05-20T18:15:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Ricardo Darín lanzó una fuerte advertencia sobre la inteligencia artificial: “No puede justificar el engaño”",
+        "description": "Ricardo Darín lanzó una fuerte advertencia sobre la inteligencia artificial: “No puede justificar el engaño” Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdkVndGN3NTVRb3BBNnRPSkN2NmIzMjliZGxRbjg4U0pXc2FqNFgtc1lNWlVqQllpNUtkV1UtVzlza2NYbExQTnZNXzZnRXBCMi1XTm84VGNNeUVIMkVHNzRQeTM1WGdhYWZsUzZGcUY1T2J6Yi1IeFlvOWVfUnhEYUc3VlJmUjhLRVBVWEJvSHRaZ1VmMUYwLUpKUGhMS0hoTkQyd2o5S2JlSWtjcWJrMlltRk44WEZvRDRiOUQ4SjAtMlRuMjdQajEwd25fVEg4NXNKN0lfVGRPMUlqTHpCRndjbDh0RS1BNHpkTA?oc=5",
+        "date": "2026-05-20T23:02:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Argentina se apoyará en la inteligencia artificial en Copa del Mundo",
+        "description": "Argentina se apoyará en la inteligencia artificial en Copa del Mundo ESPN Deportes",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVdoMFU0UFUydnRCVTJrM0pNdkpBNS05UHZHalZ5MVgtUnh0cDhMaUoxd2l4U0Vsd0dvMlNuUlJsNWtLMG1RNnpLaERMS01kN2Z5b2V5WEwwZGxiSWNPVEswdTVRTU1YWk9mekROUU9nOEJaYjR1aWFwbmdDNDFMZWhPRUstN2JQZFQ0Wk1nTHdCX3pyMGhYYXo2QlZoTWlyb2lxV2pMYVhibWRVaUpXb0xoX2xjanByZUtmdFgwYUlVS004N3NTV1BR?oc=5",
+        "date": "2026-05-21T01:21:00+00:00",
+        "source": "ESPN Deportes"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "Encontraron el camión robado en Vaca Muerta: estaba en marcha y abandonado en la banquina",
+        "description": "Encontraron el camión robado en Vaca Muerta: estaba en marcha y abandonado en la banquina La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLU42WVZuQmN2d2EyUm1ZODVYMTIxNEJ2OHJMb2VUakNsQkhyVENrb3JucTVzMHMxY0Y0TkM4NFpNYUV2ajJUMFZoeHVjZ0VrR1hERHBTMi1KNi04T184UF9rZFlKMWRTSTZtdkJLcGJWUkdhR1FuMVM0aktNQ3hBeklrdjFpYlMzTGhxWERZWW5nRUVXb3ltN1p4WjZQSjZIVlFsQTdhdC1UT3hKbUdzUVFhV0xuZw?oc=5",
+        "date": "2026-05-19T00:52:06+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "Insólito robo en Vaca Muerta: quedaron filmados y ofrecen $2 millones para hallar a los ladrones",
+        "description": "Insólito robo en Vaca Muerta: quedaron filmados y ofrecen $2 millones para hallar a los ladrones a24.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1dFOGZCSE9zR1VyMzFWWjRDNEVwWHJHeVJHc1V6LTVySjRhTjRQR3JBY2ZndDB6Q2s3SUJpU1ZFalgydDhpMXBmeGJvZG1ISlNNU3k5ODdyM080NFpnQzhXVFFLalkxUHNCd3dJcU1YQXdLSWlGZTBRUEdXQzZqeWR5Q1pSUnhPOENrWVNEbEgyNElhNUI4SUNiaGtxel9Fc2hxT01tTG9mYXJ3RThvbm5DN05HRjUta1VvOUREVDBNUdIBxwFBVV95cUxOLU1HMmdiRVdUWUNhZjdlMjNlS1Z1LU1UQ0RfZDR6cm9PTXpCZGwzVnZrSV8wMG1ILXU2ZWM4Tk5rdldOdkg5OXU4Q3dlLUNzOE1KTVcxWlhrSjI3Y3ZWdmFIdXdnMlpVOF80bGZUS1dnZERubU1xa29VQVB2UnpaNDFCTUVPT2FnRUdiVDZYN1NJR1RKbGNzNW1QMW5ObXdjeEZJYVV2WTNXcDZwRl9id3NvZXYwUVVXaC14RHhPS2FwOVFmZ0RR?oc=5",
+        "date": "2026-05-18T11:24:00+00:00",
+        "source": "a24.com"
+      },
+      {
+        "title": "El camión robado en Vaca Muerta es \"fácilmente reconocible\" y sigue desaparecido: sospechan que desactivaron el GPS",
+        "description": "El camión robado en Vaca Muerta es \"fácilmente reconocible\" y sigue desaparecido: sospechan que desactivaron el GPS LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHJhcUsyVzFIOVlWRUlIVmZIcEFPSXA0ZGhzX09HWXRzVnJiejVYZGgwNWgzc1puU3AwYTBtR3EtbkJfb2t1TlJUOWprM3B0RGd6ejdGUkdXZHQtclNuSnpMUVlCeXhOaFE2VmZaSzBtVWhhS2ZNQnQ3YmRpVWVKUzE5Z1JuaVpfNWtxSzVzZjhSMVhJLTZZc0Y2d3BrRWk4YlJ4S0p2UDlPWVFpY3prMXNmSlBTNjYwT0xGRkRRZTF5Q3VRcUJMVXpGUE8wcV95MWZMemFpQTI2Qm40eWpKdEJROWduV2dDbFB30gHwAUFVX3lxTE1acGpkQS1ySzlhUjJhX1FqcmR4UzJYZzQ2dkhRQjFKOFVGMnZ1V2JZZDBvRXdIUjlSa1BXM3k2ZjE3Mm0xaURuMXhVTGxRMnEyUU1faHJxVWpIeDRVSWdVOEpDU3FpWDA1YWxkQm1XZ01vbHMzRTFQT1F3Vk1XR0trNnYzY0cxUkVvV0pieHNZdl9CdDBwaW9vZEtUMVZLb05kcGxSRXM3UTRZdTdrOUw3UjhCWHdrdFFnenB0aUlOOHppTUFTME90RW1SVW1oR3JwSm9HaWZ2LUxSOWtmSldZb1pObDVaRU1Makp1bUt5Rw?oc=5",
+        "date": "2026-05-18T14:49:00+00:00",
+        "source": "LM Neuquén"
+      },
+      {
+        "title": "Vaca Muerta: la Corte falló a favor de YPF y otras petroleras en una demanda ambiental",
+        "description": "Vaca Muerta: la Corte falló a favor de YPF y otras petroleras en una demanda ambiental Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0FzaENBNTd5dXBsVWhIMk9IZUtHa3pWSnpaeWd4bFRoMy1BYmpQcmkzZ3Fmb0FLQzFUNXJRS2lvNUVGY3Y2bFpKb1dTUVRTcTctY1V1a1hiSkdVLXFOalVVU0cyUV95cjJ3bmNycGFRNXl2VVNnTXFrb1R2V0tqZ2JsQ3BuQVdIVUY0R1BjQ0ExZmV2QlNmZ0IyTHlLZHc5SktZUTJ0UTlhQ0hxVjdIVnd3?oc=5",
+        "date": "2026-05-21T15:05:21+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta",
+        "description": "La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0hWUk8xUTZlYnZlYUxaTFVPX1dtdlY5MWpRRnZaSzFOSmFTWkZjX3VmcjA5YXl4MC01d1IydjVSa1hoMXVUOV9ZTVpSUmRDd1FTdjVqbW9VOWxHcHAxNVVYWFEwbFpXcm9sYndIUHgwQ1JHRUMzNmIzZTFRNU9uOXNsd19TcXhMZ3JIQlhyb2ZOeHdPSmFxTl9mWHV1YUEtZnFXTzNZVUxqMmItam80MEJVekJfWktOeXc?oc=5",
+        "date": "2026-05-21T18:46:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "La Corte Suprema rechazó una demanda contra empresas petroleras que operan en Vaca Muerta",
+        "description": "La Corte Suprema rechazó una demanda contra empresas petroleras que operan en Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUxjaGFUTEJqT1gyZ3FkeHFQY1pobzI4SFVpNTM0Y2xNWmpDYW93MlVNWVJRb1VnUG50VkNsekpEZkNtd3FvWHAwVThUVER0QjNscXpxT1RCb25VOXJXN0poSk9YN3JhQ0ctaUJ6TEtwLXNRRlFTU1Z0VVNxUmVBYlRHeUxKcHdsWjF2cXFxZ19lYUlZeFFURWxkbFhvaHhtZUNfRUpOZ3ZCTWVudnNPQVVmSWI4TldSUTgtYnlKNjBIRVh2ZnRwcEloYnJSdXZqdFHSAewBQVVfeXFMUHhKODNBaHNRemh4V2UxaWNJSkhwaDQySUJLMFZ0NUhYLUM1QVdadU5qM3pxRnpOei03WmRHaVBsQUpKa2NjYVpiQjVTMFduNkpQYlFXWXc0QXNKUDV6ZUxheHNwMVNzNWpfM3p2a2tEeFluT2hoZkRRZ0s2LUpoMWJSSkxURV90ZWE0Z0NKQkJSTTh4VGxHbVV0cl9uMzVIWmdzcEpvblZYdjUyZ3ZNRUdCSDJYQ1dWWHVPOV9ZQWY0SHVSeFowQTJ6cHdYUENRWHVldFFkdVBzTzNRcUZscjNQZzRma2V2dktiM3M?oc=5",
+        "date": "2026-05-21T17:11:57+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Tragedia en la Vaca Muerta mendocina: explotó un camión cisterna y murieron dos trabajadores petroleros",
+        "description": "Tragedia en la Vaca Muerta mendocina: explotó un camión cisterna y murieron dos trabajadores petroleros Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2ZCZVhjYk0zYW1nUE9hWFhnRHFoLUNmeUZ5cExrZm9pWFNNNjI3WEpwcl9semtpaE9ndjFLbzVJOTJuMkI0TFNTMFZLdHloRHpCMl9xRkd4RFBvQnQzTjBUTlV3OUd4ZlhNcE5yRXdQS0IxdHhWRFV0OUFfSFQwT0w5WmxBcUNkcFFDUWNaTVNhMjFTRXJxeS05NmUydFRLSU5mbU9CckpYdnk1RTZIcS1Sclk5Nmx2RUZuUFYwd0hKWFBhTzJ3U3lrMVRXQWNHMmdoQWZR0gHbAUFVX3lxTFBBb2tzNW9pSTFNcjRqb0V3cWlDS0R2OU50U2ZwZHk0SDJWb1Z0S2RaWHJqUTNMdEJnbjRENVBfSEI1alBvT1YyN1hybXNZbkQ2ZG94SmFwc0tnY3BTcnJ6MnpmdDloQnItTFpLYWJjNkZ4LWQ1VG5HUnVOVXlLb05ORWVsUDZlWnpJejA5U2JMelpweGJvSDdrSnNwcXJCcmtyVDZKUXlVWGpDZDRJemhORWRFVWtGNVRqRERiVFV2b2tLSmRCZUNFbHQ0MG0yZzhNc2tLX1BHYWFIZw?oc=5",
+        "date": "2026-05-21T12:29:47+00:00",
+        "source": "Clarin.com"
+      }
+    ]
   }
 }
