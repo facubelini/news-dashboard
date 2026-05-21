@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Radar — Resumen de noticias</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+
+:root{
+  --bg:#0d1117;
+  --surface:#161b22;
+  --surface-alt:#21262d;
+  --border:#30363d;
+  --text:#e6edf3;
+  --text-muted:#7d8590;
+  --accent:#58a6ff;
+  --radius:10px;
+  --font:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;
+}
+
+body{
+  font-family:var(--font);
+  background:var(--bg);
+  color:var(--text);
+  min-height:100vh;
+  line-height:1.5;
+}
+
+/* Header */
+.header{
+  background:var(--surface);
+  border-bottom:1px solid var(--border);
+  padding:14px 28px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  position:sticky;
+  top:0;
+  z-index:100;
+  gap:16px;
+}
+
+.header-left{display:flex;align-items:center;gap:12px;}
+
+.header-icon{
+  width:38px;height:38px;
+  background:linear-gradient(135deg,#1f6feb,#388bfd);
+  border-radius:9px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:20px;flex-shrink:0;
+}
+
+.header-title{font-size:1.05rem;font-weight:700;letter-spacing:-.025em;}
+.header-sub{font-size:.72rem;color:var(--text-muted);margin-top:2px;}
+
+.header-right{display:flex;align-items:center;gap:14px;flex-shrink:0;}
+
+#ts{font-size:.72rem;color:var(--text-muted);}
+
+.btn-refresh{
+  display:flex;align-items:center;gap:6px;
+  background:var(--surface-alt);
+  border:1px solid var(--border);
+  color:var(--text);
+  padding:6px 13px;
+  border-radius:6px;
+  font-size:.78rem;
+  cursor:pointer;
+  transition:background .15s,border-color .15s;
+  font-family:var(--font);
+}
+.btn-refresh:hover{background:#2d333b;border-color:#444c56;}
+
+/* Main */
+.main{padding:24px;max-width:1440px;margin:0 auto;}
+
+.grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:20px;
+}
+
+@media(max-width:1100px){.grid{grid-template-columns:repeat(2,1fr);}}
+@media(max-width:600px){
+  .grid{grid-template-columns:1fr;}
+  .main{padding:16px;}
+  .header{padding:12px 16px;}
+  #ts{display:none;}
+}
+
+/* Category card */
+.card{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+}
+
+.card-head{
+  padding:12px 16px;
+  display:flex;align-items:center;justify-content:space-between;
+  border-bottom:1px solid var(--border);
+  gap:8px;
+}
+
+.cat-label{display:flex;align-items:center;gap:8px;}
+
+.cat-dot{width:9px;height:9px;border-radius:50%;flex-shrink:0;}
+
+.cat-name{font-size:.88rem;font-weight:600;}
+
+.cat-count{
+  font-size:.68rem;
+  color:var(--text-muted);
+  background:var(--surface-alt);
+  border:1px solid var(--border);
+  padding:2px 8px;
+  border-radius:20px;
+  white-space:nowrap;
+}
+
+/* News list */
+.news-list{list-style:none;flex:1;}
+
+.news-item{
+  padding:12px 16px;
+  border-bottom:1px solid var(--border);
+}
+.news-item:last-child{border-bottom:none;}
+
+.news-bullet{display:flex;gap:10px;align-items:flex-start;}
+
+.bullet-dot{
+  margin-top:6px;
+  width:6px;height:6px;
+  border-radius:50%;
+  flex-shrink:0;
+  opacity:.75;
+}
+
+.news-body{flex:1;min-width:0;}
+
+.news-title{
+  color:var(--text);
+  text-decoration:none;
+  font-size:.845rem;
+  font-weight:500;
+  line-height:1.45;
+  display:block;
+  transition:color .15s;
+}
+.news-title:hover{color:var(--accent);text-decoration:underline;text-underline-offset:3px;}
+
+.news-meta{
+  margin-top:4px;
+  font-size:.7rem;
+  color:var(--text-muted);
+  display:flex;align-items:center;gap:5px;flex-wrap:wrap;
+}
+.meta-sep{opacity:.4;}
+
+.news-desc{
+  margin-top:5px;
+  font-size:.78rem;
+  color:var(--text-muted);
+  line-height:1.5;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+
+/* States */
+.state{
+  padding:36px 20px;
+  text-align:center;
+  color:var(--text-muted);
+  font-size:.83rem;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  gap:12px;
+}
+
+.spinner{
+  width:22px;height:22px;
+  border:2px solid var(--border);
+  border-top-color:var(--accent);
+  border-radius:50%;
+  animation:spin .7s linear infinite;
+}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+.err{color:#f85149;}
+
+/* Footer */
+.footer{
+  text-align:center;
+  padding:20px 24px;
+  font-size:.72rem;
+  color:var(--text-muted);
+  border-top:1px solid var(--border);
+  margin-top:8px;
+}
+.footer a{color:var(--accent);text-decoration:none;}
+.footer a:hover{text-decoration:underline;}
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-left">
+    <div class="header-icon">📡</div>
+    <div>
+      <div class="header-title">News Radar</div>
+      <div class="header-sub">Microsoft · Marketing · IA · Vaca Muerta</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <span id="ts">Cargando…</span>
+    <button class="btn-refresh" onclick="location.reload()">
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/>
+        <path d="M3 3v5h5"/>
+      </svg>
+      Actualizar
+    </button>
+  </div>
+</header>
+
+<main class="main">
+  <div class="grid" id="grid">
+    <div style="grid-column:1/-1" class="state">
+      <div class="spinner"></div>
+      <span>Cargando noticias…</span>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  Actualizado automáticamente cada hora vía GitHub Actions ·
+  <a href="https://github.com/facubelini/news-dashboard" target="_blank" rel="noopener">Ver en GitHub</a>
+</footer>
+
+<script>
+const CATS = [
+  { key: 'Microsoft',   color: '#0078D4' },
+  { key: 'Marketing',   color: '#a855f7' },
+  { key: 'IA',          color: '#06b6d4' },
+  { key: 'Vaca Muerta', color: '#f97316' },
+];
+
+function esc(s) {
+  return String(s || '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+function fmtDate(iso) {
+  if (!iso) return '';
+  try {
+    const d = new Date(iso);
+    if (isNaN(d)) return '';
+    return d.toLocaleDateString('es-AR', { day:'numeric', month:'short', year:'numeric' });
+  } catch { return ''; }
+}
+
+function buildCard(cat, items) {
+  const colorDot = `<span class="cat-dot" style="background:${esc(cat.color)}"></span>`;
+  const head = `
+    <div class="card-head">
+      <div class="cat-label">${colorDot}<span class="cat-name">${esc(cat.key)}</span></div>
+      <span class="cat-count">${items.length} noticias</span>
+    </div>`;
+
+  if (!items.length) {
+    return `<div class="card">${head}<div class="state">Sin noticias disponibles</div></div>`;
+  }
+
+  const rows = items.map(it => {
+    const meta = [
+      it.source ? `<span>${esc(it.source)}</span>` : '',
+      it.source && it.date ? `<span class="meta-sep">·</span>` : '',
+      it.date   ? `<span>${esc(fmtDate(it.date))}</span>` : '',
+    ].join('');
+
+    return `
+    <li class="news-item">
+      <div class="news-bullet">
+        <div class="bullet-dot" style="background:${esc(cat.color)}"></div>
+        <div class="news-body">
+          <a class="news-title" href="${esc(it.link)}" target="_blank" rel="noopener noreferrer">${esc(it.title)}</a>
+          <div class="news-meta">${meta}</div>
+          ${it.description ? `<div class="news-desc">${esc(it.description)}</div>` : ''}
+        </div>
+      </div>
+    </li>`;
+  }).join('');
+
+  return `<div class="card">${head}<ul class="news-list">${rows}</ul></div>`;
+}
+
+async function load() {
+  const grid = document.getElementById('grid');
+  try {
+    const r = await fetch('news-data.json?_=' + Date.now());
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+
+    if (data.updated_at && data.updated_at !== 'pending') {
+      const d = new Date(data.updated_at);
+      document.getElementById('ts').textContent =
+        'Actualizado: ' + d.toLocaleString('es-AR', {
+          day:'numeric', month:'short', hour:'2-digit', minute:'2-digit'
+        });
+    } else {
+      document.getElementById('ts').textContent = 'Actualización pendiente';
+    }
+
+    grid.innerHTML = CATS.map(c => buildCard(c, data.categories?.[c.key] || [])).join('');
+
+  } catch {
+    document.getElementById('ts').textContent = 'Error al cargar';
+    grid.innerHTML = `
+      <div style="grid-column:1/-1" class="state">
+        <span class="err">
+          ⚠️ No se pudo cargar news-data.json.<br>
+          Las noticias se actualizan cada hora vía GitHub Actions. Recargá la página en unos minutos.
+        </span>
+      </div>`;
+  }
+}
+
+load();
+</script>
+</body>
+</html>
