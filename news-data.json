@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T08:23:09Z",
+  "updated_at": "2026-05-22T11:41:37Z",
   "categories": {
     "Microsoft": [
       {
@@ -24,11 +24,11 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information",
-        "description": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information El Destape",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVE3VE04bktGNm1XVzhhYzFIUHlnZlpKQkUzT0tfQ0drM3VEc0JhR1RzWkxSVjBpVThYc2FQOC1OQkNNZG0wUlQ0dDlydXN6U1NDLVNLTUhKaW1KMGNKODJPcHF5LTJBTnFvWThvb2ZGNnNqZS0tZzAyMjRrSy1EYVhSNmM5SV9SX2pxU1RGdjUzNFpuRUpXWEpTOFVyOE84Sno1bkVzY0wwU1JWSEV4YjFNd1NucEtZaDB6UDBfdWozV2pxTUhCMUl4ZmNVU1B5c3QwbUlXWFAtbG1xM3dySWd3QjB3UXAw0gHoAUFVX3lxTE4xUTdUTThuS0Y2bVdXOGFjMUhQeWdmWkpCRTNPS19DR2szdURzQmFHVHNaTFJWMGlVOFhzYVA4LU5CQ01kbTBSVDR0OXJ1c3pTU0MtU0tNSEppbUowY0o4Mk9wcXktMkFOcW9ZOG9vZkY2c2plLS1nMDIyNGtLLURhWFI2YzlJX1JfanFTVEZ2NTM0Wm5FSldYSlM4VXI4TzhKejVuRXNjTDBTUlZIRXhiMU13U25wS1loMHpQMF91ajNXanFNSEIxSXhmY1VTUHlzdDBtSVdYUC1sbXEzd3JJZ3dCMHdRcDA?oc=5",
-        "date": "2026-05-21T14:29:28+00:00",
-        "source": "El Destape"
+        "title": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo",
+        "description": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkk3d0ItTTdFQjc2amxuMGQ1bDhBa2Vzc1BSVEVVN2l1eklrOElJdm5DS3Jwa0hxaFdiQzhCb2VxRDZyRzJUVk5iMld2UXNSRHVhQVlsUWdpM1VrcFlCNHFGWGxBV3JoTG5MYjgzYmdRTG1FbjJEV3JiN0VLenNFLVRJVFZIbGZhcnoxY2lvWG5mWXJ0UnJ0ZzQxSmwyVWd2TTM5N0JqbjQyZGdiMXVDZFlmZl94LU1fWG05RkpkbVB0T3JDcmZWdFBRN09FRUQ3SmVpctIB2gFBVV95cUxOS1pHdEFPd2NaZHNBQk1tRlhrNXEzSWgzN2UxMy0xdE9pcUE2Vy1yR3NaU0lLUkNiejlnT3liYnJWeVJMME9MamZnM3dZRjljVy05cDM0YWxpM3ltV1ZSWmxFYk9jb0tVVVRUb0hlUnpnX25yTThMb0FPeXRlQW8yeWpLc0EzVFZ4STlnTW9YT2xjTnFsclFKbWpTTV9MLUNOTFZ2SmZ6VXJ0aHg5RDMxZlI2VUZ6OVpDeF9xU1BRVVlYNXh3T0pqcHYteWNUeWJVOEhkWk5SRWl4Zw?oc=5",
+        "date": "2026-05-19T09:30:00+00:00",
+        "source": "Xataka"
       },
       {
         "title": "Microsoft Teams se despide de una de sus funciones más queridas para mejorar la experiencia de usuario",
@@ -38,18 +38,18 @@
         "source": "20Minutos"
       },
       {
-        "title": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo",
-        "description": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkk3d0ItTTdFQjc2amxuMGQ1bDhBa2Vzc1BSVEVVN2l1eklrOElJdm5DS3Jwa0hxaFdiQzhCb2VxRDZyRzJUVk5iMld2UXNSRHVhQVlsUWdpM1VrcFlCNHFGWGxBV3JoTG5MYjgzYmdRTG1FbjJEV3JiN0VLenNFLVRJVFZIbGZhcnoxY2lvWG5mWXJ0UnJ0ZzQxSmwyVWd2TTM5N0JqbjQyZGdiMXVDZFlmZl94LU1fWG05RkpkbVB0T3JDcmZWdFBRN09FRUQ3SmVpctIB2gFBVV95cUxOS1pHdEFPd2NaZHNBQk1tRlhrNXEzSWgzN2UxMy0xdE9pcUE2Vy1yR3NaU0lLUkNiejlnT3liYnJWeVJMME9MamZnM3dZRjljVy05cDM0YWxpM3ltV1ZSWmxFYk9jb0tVVVRUb0hlUnpnX25yTThMb0FPeXRlQW8yeWpLc0EzVFZ4STlnTW9YT2xjTnFsclFKbWpTTV9MLUNOTFZ2SmZ6VXJ0aHg5RDMxZlI2VUZ6OVpDeF9xU1BRVVlYNXh3T0pqcHYteWNUeWJVOEhkWk5SRWl4Zw?oc=5",
-        "date": "2026-05-19T09:30:00+00:00",
-        "source": "Xataka"
+        "title": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information",
+        "description": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information El Destape",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVE3VE04bktGNm1XVzhhYzFIUHlnZlpKQkUzT0tfQ0drM3VEc0JhR1RzWkxSVjBpVThYc2FQOC1OQkNNZG0wUlQ0dDlydXN6U1NDLVNLTUhKaW1KMGNKODJPcHF5LTJBTnFvWThvb2ZGNnNqZS0tZzAyMjRrSy1EYVhSNmM5SV9SX2pxU1RGdjUzNFpuRUpXWEpTOFVyOE84Sno1bkVzY0wwU1JWSEV4YjFNd1NucEtZaDB6UDBfdWozV2pxTUhCMUl4ZmNVU1B5c3QwbUlXWFAtbG1xM3dySWd3QjB3UXAw0gHoAUFVX3lxTE4xUTdUTThuS0Y2bVdXOGFjMUhQeWdmWkpCRTNPS19DR2szdURzQmFHVHNaTFJWMGlVOFhzYVA4LU5CQ01kbTBSVDR0OXJ1c3pTU0MtU0tNSEppbUowY0o4Mk9wcXktMkFOcW9ZOG9vZkY2c2plLS1nMDIyNGtLLURhWFI2YzlJX1JfanFTVEZ2NTM0Wm5FSldYSlM4VXI4TzhKejVuRXNjTDBTUlZIRXhiMU13U25wS1loMHpQMF91ajNXanFNSEIxSXhmY1VTUHlzdDBtSVdYUC1sbXEzd3JJZ3dCMHdRcDA?oc=5",
+        "date": "2026-05-21T14:29:28+00:00",
+        "source": "El Destape"
       },
       {
-        "title": "Microsoft elimina un gran riesgo legal con OpenAI",
-        "description": "Microsoft elimina un gran riesgo legal con OpenAI Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkUwMjVtZEctWW80OHhwNUVmTXBwOTVlU0s4ODNMN3hOQ1JqakxpR1F3d0c1ZlIwZVVpS1V0akhBdmZDcVd5S245TEZZNEJESkZaLVV3aVJFQ1FaV1QtT0ZNbVZDNThxMFZLZzRrZ3A3bGM4cGw2RHQtU3h1dlphX3o2VkUySEdUMmdrdGhRdG5LU0YxamNpTXh3?oc=5",
-        "date": "2026-05-19T17:44:27+00:00",
-        "source": "Yahoo Finanzas"
+        "title": "De Microsoft a Nvidia: Citi Casa de Bolsa se adueña del apetito mexicano por acciones de firmas extranjeras",
+        "description": "De Microsoft a Nvidia: Citi Casa de Bolsa se adueña del apetito mexicano por acciones de firmas extranjeras El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQVlRdlN5Z3ptVTMyRnQtNHhXMExrVmZCYXdrbHhzNWRZb2lUUEtUT2FlanhXSFpRMEFoYVBYZjYxS2p0eVdGdEozOEpnMjhoX0NiR3Izbld3VHVGX0hscjBhZmM5cmJJaGJ6WlhLWmdOX1FSZ3ZXblBCNDNUR2hZd3JaeDRTVFNwTWg5WmlOdURYOFdjR3Fybk9nTEw0ZzN2c1Zwdi0td3pYSmZuOTFuMWlrQ3BNZzdZc1NWWmxMel92eFpJcXlyV2g2WnJyWWNycUU5UmtDMlVkU2FrcVZ6Yzl5MFc2b0JXZk1PaE9n0gGIAkFVX3lxTE5ac2FPcS1TX1NfVW1LUVoxaTBUdk5YYWd1U2ZlV2FPdnVQS2tNVUlNVk05ZUl4YmRjcUZTZXYxR0dneDdELU9MbWw2YVR5UXpkZXdOU19ramtwV0VVSXpLdkJZQ0xkNUNOWjZLa0RGdDYtSjRabUhCNkxEUHVwQ2xjVzYtU29ST2tHbDhkV1QxaDBVNEZnMFhXUnI3Q29lcUtpbmZHZEpvS1MxT0tvVEFudUM3WnFOMTZXaW1MUFIzaDhnem5MdXJsSHhjb0pfZVFYMzF2eDJrUE5xUEZaeks0YUpWczE3NWNyUXNMLUpsT2VCYzRaQnl5U0w0NGdkeEJIcXNXcjBxQw?oc=5",
+        "date": "2026-05-21T20:41:53+00:00",
+        "source": "El Cronista"
       }
     ],
     "Marketing": [
@@ -68,32 +68,25 @@
         "source": "DossierNet"
       },
       {
-        "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
-        "description": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNjNWeFE4R0QyQzNxS09obi1Wbjc0ZnZCakkwbGk0UURjREFWUUp4eGp2S0tVX1hOa1VmalZZRjBueVhKMnZqckxqbTd6SHBXRGpmUlI3VmROREl4RGw0dzNQc3BkS2dldnhsa2ZIaUI4NUJWdHA4cUVSOENfdjNfc3JJLUQzSXJoQ1BCSkludjhWR0xFZktJeTJZY3ZxRjZuSUlQb3N5Ti1aX3FYOTByMzdDekE1U0dmYkNUY3dSd2pMVER1bDJoaGpYRWwtbkRUNUFjVFBZNmYyVXQwWEFjeDN1THlDMmZ6bkpxVi1FNnozQTlKZThF0gGSAkFVX3lxTFB4WG5Ka3lHZVRZeDZzQ3JvZ3drWnpvZGxfQldxY2s5MWtNSW1KTWt5Q1pydFBUZktteUZaalBmQnJkXzduR1N3LTJuRVJoN1lkX3RPOHBMN0w4UHF0bmxCWlR3dzlIOHVIQlUyS09SZTZwcDlPdzNyR2pFb0FYUnM3N1BpVW9mOC1RTnpTTXhMbjh5MFVHc29PeWxwc0F3anZvZTdTa1Mzck5CMmtDV2tvMlItUDlMcjZJWFpRdEVlMWdiMXdmaVVNb2VaOXU0b1Y1UEJVZVBaYW1qOGU0TVV2a3lhVWhHSUljSXZIb2xKMHlCVndBV0VOTGpyUnd0eTIxMVNUWmJnc1UyZG9xeVpfaEE?oc=5",
-        "date": "2026-05-21T16:04:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g...",
-        "description": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g... perfil.com",
+        "description": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g... Perfil",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTVzejRtWGc0OUt2SUZBZmRZaTBHLUZKenRNMXNuakR2TFZ4MFNaX0hTRGh2M0VKRkFadzNaNU1lUFluQkM5dm4tYUFHeUVLQjRjMDVLbUVvLS1wREdmeHE1WjZjTWdTLU1iZ0t6VlZWc0gwS0FyY2cyYnIwZWRlUkhRTFRxMmhycXNZQXhtcmVVQTItQ3Nmd3MxWDZGbFQxZ004TkM2d2N0aDRxX2JnZmxUZUxvaHIwYjRZTGQ5VDRDbklQZ21HLTVkN0dPWFdfZ1NNb1BfT0FJeFF6NURicTdTcV9iRUktU3lIZVloSUjSAfYBQVVfeXFMUGpxZ3VrZmt0WmI2eWpKMUU2cU9McFdDZzB5WkhqeXBHOHNTVVlRU3o4NHZPUlNkdnV4WGpvbHNqMmJONDlTVTRpM21kWktQSTVOckQ4MTViclVhSlVmZndpdzQ4OEYzQWhGUGxpcjdzaDF1OVBDVnBSZ01ON0NJdDBOUHdTSUFoSmtVdDVZd1lhM0tTeGRZZExsLU5mOG84ZlJJN0Rpcm91emdFb0NoVEx4WmNKM2tpVi1EaENhVjN1RVA1eUxiZkpTZlBGUzJTcFZwMWRQcGFlUllUYm9mRjUzeW9ickpfN3B4YkxwTmVIbzUwcnF3?oc=5",
         "date": "2026-05-19T16:59:43+00:00",
-        "source": "perfil.com"
+        "source": "Perfil"
       },
       {
         "title": "Se realizó en Godoy una jornada de introducción al marketing digital",
         "description": "Se realizó en Godoy una jornada de introducción al marketing digital Sur Multimedios",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjY4MDlFVjg4SzNPQUF4c2ZremlMY0t4NDVMZEhmZEtlcnFPVDA1MGw4UWNrbi1oYU9YNUgtdml0Y0pxeXpsWnJCVkxscVMzMjlZdnZ1b1lMM2hxeUdWNzhsY2hleHJMVkJmYm03Mi1uV3drVldhOFRyMHJwQ01MY093VUNBU09ocWJNZlRnYlVWTktIQTZ5a2l2QzJ4Z1RROXlmX2Z6MW94aWV5RHo1TUFR?oc=5",
-        "date": "2026-05-18T15:40:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUZRTXRiUkN2bkNDRFlUNVJsRVZ1REMyS2lYU1BTSWctVDhvR0VRcTROX04yZTdlbEJlWFRsUm02ZVhBSG4wbVFUb1BUbUFFU3IwYUtoSTFxdi1LbzRTckpZdEtWMXFldVJ0ZWNncFkxRENQaUtDaFlXWHRlbVAxVnpYM0lMOHFIbTJYWGRHNnliZk9zYjl0SlZLMGFlcVVOTHEwSTgzM0JreU1J?oc=5",
+        "date": "2026-05-18T15:11:38+00:00",
         "source": "Sur Multimedios"
       },
       {
-        "title": "Romang: capacitación en Marketing Digital para emprendedores locales",
-        "description": "Romang: capacitación en Marketing Digital para emprendedores locales SEPER NOTICIAS",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3JQcUJqVHg4amdLY08tX3oyTlc0aTRFQURIMEdqZ0FmdE1Bc3FCWmZlYkZqZGY1QU5VUGRkSUV2YVNfVVZOX0FsbGEwQjlxYVdVbzRtQ01lUTFyOERCTTdWUVp4cl9wYWs2U1VmOERPTmRNS1NFTEhnOWVTWGhKd0NOemVSc3RXZVpnUU9pcWNNWDF6bXNsRzZ2OXhpVDVyS1J1TzFFbEZ6ekU1VFE?oc=5",
-        "date": "2026-05-19T15:45:00+00:00",
-        "source": "SEPER NOTICIAS"
+        "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
+        "description": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNjNWeFE4R0QyQzNxS09obi1Wbjc0ZnZCakkwbGk0UURjREFWUUp4eGp2S0tVX1hOa1VmalZZRjBueVhKMnZqckxqbTd6SHBXRGpmUlI3VmROREl4RGw0dzNQc3BkS2dldnhsa2ZIaUI4NUJWdHA4cUVSOENfdjNfc3JJLUQzSXJoQ1BCSkludjhWR0xFZktJeTJZY3ZxRjZuSUlQb3N5Ti1aX3FYOTByMzdDekE1U0dmYkNUY3dSd2pMVER1bDJoaGpYRWwtbkRUNUFjVFBZNmYyVXQwWEFjeDN1THlDMmZ6bkpxVi1FNnozQTlKZThF0gGSAkFVX3lxTFB4WG5Ka3lHZVRZeDZzQ3JvZ3drWnpvZGxfQldxY2s5MWtNSW1KTWt5Q1pydFBUZktteUZaalBmQnJkXzduR1N3LTJuRVJoN1lkX3RPOHBMN0w4UHF0bmxCWlR3dzlIOHVIQlUyS09SZTZwcDlPdzNyR2pFb0FYUnM3N1BpVW9mOC1RTnpTTXhMbjh5MFVHc29PeWxwc0F3anZvZTdTa1Mzck5CMmtDV2tvMlItUDlMcjZJWFpRdEVlMWdiMXdmaVVNb2VaOXU0b1Y1UEJVZVBaYW1qOGU0TVV2a3lhVWhHSUljSXZIb2xKMHlCVndBV0VOTGpyUnd0eTIxMVNUWmJnc1UyZG9xeVpfaEE?oc=5",
+        "date": "2026-05-21T16:50:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkQtcUhKR1dNNXpTbHAzb0ZKMWpGT2hURXhtZzc4MklJdGVLMGJYSHhyWWFzMjNKdTc4Nk1TV01uRi0yNXFyZXk4ZHo4TDlEYWpZZnV1b3JUQzRVcmlwVW9QM0dhOHU3bHNibHhNY3BRZnZNMW9BSFJuTlBOajZzcWc1TzNVUXRQdk1mX3FiakpkdXFUOXBuc2Zuc0Z1RkNjMHBoRFFaR0ZGbXYweEtyM0xWSXN3c3ktWW5sRGlqMG9ObHZheWlBdUZwOHU5bERENGdxQ2tn?oc=5",
         "date": "2026-05-18T11:43:43+00:00",
         "source": "NOVA Chubut"
+      },
+      {
+        "title": "Día Mundial de la Protección de la Lactancia Materna - salvaguardias digitales: protegiendo la lactancia materna",
+        "description": "Día Mundial de la Protección de la Lactancia Materna - salvaguardias digitales: protegiendo la lactancia materna Pan American Health Organization (PAHO)",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXBHaXptZUVsYVZZNzRfZGEtR2dLTTE1bGNwc2NpNHNGWFd3bzdMaFAtRmxNNENRX3gtT1NOa3dmc3Z2Q05Yd2VrekxxUmtRbWg5NkszNzd2X1Q2bFltUkpObW4yMXFOMVJhUUstRS1zMUx2LTdEcEpyQUhDOW5jLWozdk82dDRuQ3EzME5oYUtqUDFITzJmaW03Nkd6Z2xSMlVzd3pubFdEWFdObzRHNTFrZVBCa2I2SEE?oc=5",
+        "date": "2026-05-19T17:51:42+00:00",
+        "source": "Pan American Health Organization (PAHO)"
       }
     ],
     "IA": [
@@ -119,10 +119,10 @@
         "source": "ACI Prensa"
       },
       {
-        "title": "Cuando la IA entra a tribunales",
-        "description": "Cuando la IA entra a tribunales Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOREVULWVkMTFPbW9xWHFQZkh0OE42Vk16SnZGdW84NGUzUWhrRXZHaHRiTEN4cFlKdm1sQWt2ZGVqd2FrMzdVclhJRlFvMXpvNEpXcTd0VE81Z0JIWE5jbjJtdElMZElwN29BNTM5ZFZCMmhwaTdCUlZ3QWZYQlVMNdIBmwFBVV95cUxQclhOUlo5NE5vY0t6ZkYyWWRONDdyZUU3NjVXYkZpWXphTEVsd1hyRk45NEIwRlBjdzJiZXRrMGtnR1ZHa0hoWUI3eDFRdEdMY2c5OXZoRTg2OWVWTF9UaTFPMkRIUEljU3M0UGl3YVkzcG1wY3lzbHZPalRuakMzdzQyMU9vRThxUTRRMVhPMGVEMUlfWFR3aFpFQQ?oc=5",
-        "date": "2026-05-22T06:18:31+00:00",
+        "title": "La infraestructura legacy es una barrera para las iniciativas de IA en el 47% de las organizaciones en España y LATAM",
+        "description": "La infraestructura legacy es una barrera para las iniciativas de IA en el 47% de las organizaciones en España y LATAM Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN1hsV3Q0Ui1lemlocFBCRmZZb0pIbzJESUJYTnBPMlJhVDdtUTNxbEpPSExoUEdqMlpsMWVJTW5yT3FHdXJnWC1UaXhNdVQ2MnI3aGU0eVdLUGlVcy1mNXlEd0tRbFhBQnBWYzYxWTBxLTJwbk5LNHQwc1VYeXVINXJ2NzFRdTZHMHZZenIxLVk1ekJjRjFEVmVTRk9lLXNqcFJkR1JPYVM0S0JMQzYyS1Y4TUxZaFRWYWktanRZa08wTUdVNlVHbUtzVlE0Q0pRaGVqY0JDN3VINjZZUmJJaWNVZDVBOGNtaUtSc3B4QmU4ZGxGT09yNV9hejFlZ9IBmAJBVV95cUxPOExMQ2wxRy1PTDJUQngxMjdjb0p0UVdVVVNPTHBLQ1ZJdUVkMHJfSlVPRzVMcHlNakh0OTNBcWtFUUFFc3RfWS1ERnNxaEFBMmFqMnRzb0FaZVV1WjNNcXJIU0JsRXJCZlcwU3VPXzJSQm5PaldEdWpqbkI5Yy1CYWZaTDRfTUF6U3ptRndmQjIxaXJETGxvS2pDQ2pLUWNBTVp3MEQwTVBJVllQel80MFphcldFeHV0LVhlbnpiWlNCLTdzSk9Zc3hGUkk4VC1MY1ZOc1VFanNWNGNKV2FBSkVNSGtlb1pUNXViYldiQldYMlM2UVY1YmJ5SHRJeTR0WE90aGdfWGcyNXdiNDdQeW45dU1ZUEps?oc=5",
+        "date": "2026-05-22T11:37:23+00:00",
         "source": "Infobae"
       },
       {
@@ -133,11 +133,18 @@
         "source": "ESPN Argentina"
       },
       {
-        "title": "Celam publica investigación sobre Inteligencia Artificial y desarrollo humano integral",
-        "description": "Celam publica investigación sobre Inteligencia Artificial y desarrollo humano integral Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVBNVElVeFREdUdObXZQcUZtZUNfSkJySG05UlAwRUxKM21TRDVzUFlYQXNjUk44Wld4ZFVwUGo4U3RDd285QUVHQXhXU2doMDRrZUdXLWtXYTdZUXB3Q19ub05CM0wyV2l0U0FnU0R1OV9PX2RfdDlkMDdmcnJRTkwxOXZRRmxqcGJaRGljb21ZUnBCWGhQeXhoRlJVR2Jhay0yaEZMNzgxWXZ4UFEwU1d6Zw?oc=5",
-        "date": "2026-05-21T14:06:31+00:00",
-        "source": "Vatican News"
+        "title": "Cómo hacer gratis y fácil tu propia figurita del Mundial con inteligencia artificial",
+        "description": "Cómo hacer gratis y fácil tu propia figurita del Mundial con inteligencia artificial TyC Sports",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmR6c3F5bWJqcWZERDdBdmtwRWFhN2lCRlVTTzJObGI3RHVMejB3RmJhdkRuc2xjUEY2MjFYcFdNallmSW5STTR6Slh6a3NKNXVkeHpIdWllZU1JQW5nRDhEMUNHWUpIcW9haVB6cU1IQnhiMWxqQkZuODdsR0hwcEFranNOSzgxa2wwYjdScTF5eFo2dXZtdWpFTUdkcHo3ek90czZUMVJuZkk1c0VBa2Nvd0xwQldEbko2cl9SeW5ISmlKaWx5SFpuTQ?oc=5",
+        "date": "2026-05-21T14:20:15+00:00",
+        "source": "TyC Sports"
+      },
+      {
+        "title": "La inteligencia artificial es el nuevo jugador del Mundial: Google Gemini llegó a Times Square con la Selección Argentina",
+        "description": "La inteligencia artificial es el nuevo jugador del Mundial: Google Gemini llegó a Times Square con la Selección Argentina Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUHBzV0RNZTgxU3Z5bUJ3MEN2anVUc2JHWlE0ZGh2a0ZqSkM1d0JtanlEOWI0Sm1rQmpKbjZDRUdUYlNfMlZWdHFQYXRBV1ZUMm1aUTN6OEhBLVZYNWsxVTBpeFU3SUtsWkctXzZyTXAzNWZTRGVFS0liWWtEb19IWk5rTW1RM0RkT0NBYUNQZTRfLVJIZElnb2xPcnZLTXZ6VW0zWnlPM0tZTnY2cXlWdlJrVFp0eWRuVTA3Mkt2TWI2VUREVno1QTVpUjNMSXFLYmp6SU8yWGoyMHg0aEZscUt6cGJMaVBKYW9xckZzQmR2LVBwLUs4Y1QxSmEwZW5L0gGbAkFVX3lxTE9aZ0xfVTI0em4zSldYV3pPdHRObmxTVTl6OXJPU1A3eXNfSUs3NzhqVG56Um1mWDZiSVZmZS01blBjRWV0ZWVvaHE1TnI2VlJOV1ZjOVZFTjFoSXd6QUQ0bWFCckRnX0NBN0lGRnFEMUdIa0NYd3NMcnJ0N0lZNzQtcWNkYmxuTlJyNUhtTWxvbGloQ3pobmROYlNYTXlFUE9QQjFYSkdmRW1qOVp4bkZyUEdaTzZGR2x0cUgyWWRiSklxVFViUEFUbktfQVB1M2hKN1ZPMkQ1a1d5QlZ5YnN6NEd2VmF1ZkhvY1hOTEo2eXpsZ1E5NHB4QXg4WEhEUFd1VGxIMjJPSzFCX3cwZHdFc3V0LUUyRnRKOTA?oc=5",
+        "date": "2026-05-21T15:58:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "El audio filtrado de Mark Zuckerberg que revela el secreto de Meta para entrenar su inteligencia artificial",
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0NGOVF2SEFxZTJGOUNEREZWbU9sV0xTeE1YSEMzMFp2QzlxbEEya1Y1ZUxmZ3pFamJqYzlrN3QwX3lvbERoLVBiVFlqa2tDSjBKbmtXZXRxV2EzdGpscDFzc0pWUkxSQ05VRi1qU1B0Q00tZUFabmZPX2hreTJmaWhWYkFBTmFHTFk2NVNBaVlkdWFMbFpzU1NwS09RcEI2UnMyVmJvR25EWUQ3X1luVU83bUNPdnkzT1VPeVpnanV4WlBESS1BXzlLblpodVBjZXNYUtIB2gFBVV95cUxNSHJPeFF1TGlPX0NjY0dNeFRtQTJTX3hkVmsxcV81TXNOcy1heHc0ZG40TU1wX3NFWlQtb2hhOVhkdmxCdE5zWkEyb1V4NGU2YlZqSHNhZzFBaEdpTTJESXJ3Q1pBa09xS3RqZU9FTGVhXy1SaUdYcDl2VlJYMlRwTThYQ2tQbzRSN2pLTGtIcFoxczh3ZTl2OG4tNWtad3EwdTJZZDRqcVk2LVZNT0NRREMtQ3d0UnVQQld4dE10RGE4RUtabnhsMWlkSTkxQVc2SklRWVVtUURIZw?oc=5",
         "date": "2026-05-21T20:03:25+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Google I/O 2026: por qué los hispanos llevan ventaja en la transición a la inteligencia artificial",
-        "description": "Google I/O 2026: por qué los hispanos llevan ventaja en la transición a la inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY1p4aTNaYVVfeTlDUFR3dWtTQ2JHREVtRG05MGtFdTN2Q3IzUjhyZmVHbW9EZDQ4ZHViUE5WSnZQMVk3VzZlS1E0aEdmNDJlQ1NMVGlyUDdGUVF0M1g1Y2lSYjc1WWJVVHBhV3JHWWxiWjRhcktCT1RzWVZ5SG9iNENNTGhZZS1QM192MkpjTXBCdW5sbkgyOS1ING1lenRKU0VSVWdpdERHLW9FYW94Y1dteVVPSDZfOE1rZkxiNG0xNThGSkJ3MXo1dXNySEREZU1PY0lLTFhKLVh4WWVSY9IB-wFBVV95cUxNRXZNVHFxYlk1TlIwbXlDZzJkTmF2bkZIbzh2bjZhY3FpRlJUTnh3NGlLYnJOSE9JTmtNUGhiQUtnbG1xRXlmOEdXdTdZT3pvSTkyWkRIOXZYRUJIck1YcmRpZ2ZoelBtY3Q0dE83ZFpfOXNvdnFHSndLWUhtUzdhYkJ3NE1lbXp2TXhxb2JXckVQa0dsVDVHbG5nWGtxOFg5WFU3N1NoU2Jyc0d0VEJmVzkyQi10MC1mUFF1d1FGU1ZnT0JKYXpRUjZZRW03U1dvdnNlbGtMTGNvOXBGOVo1WkpHZFpiM2p6RkdjbHFscjBVcDNlcjBxcWJhZw?oc=5",
-        "date": "2026-05-20T17:16:23+00:00",
-        "source": "Infobae"
       }
     ],
     "Vaca Muerta": [
@@ -170,18 +170,18 @@
         "source": "LM Neuquén"
       },
       {
-        "title": "Vaca Muerta aparece como una de las apuestas regionales para exportar más gas",
-        "description": "Vaca Muerta aparece como una de las apuestas regionales para exportar más gas LA17",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHRJZmNxVzE5azlObkI3TFRyNzdfYXdUa20xZUpzOE8tTjVVSDVlbWlWWTdlVThpMmlkUTNmYkI0QnNEUXRjVFR1aU13TTRLN1IxYUFNN0ZWYjVsSkNvVzBEZmRFTkRQczZQMm5kRDBNZVc3blpvR1NjV3VlaUNObFdoYWRaUmNOOVZLV1BFVm03d1JNZFdHeFk2V0tnMjhkWTJkdjdsZ2hhbmU5NTY2MQ?oc=5",
-        "date": "2026-05-21T23:36:00+00:00",
-        "source": "LA17"
+        "title": "Vaca Muerta y Brasil, más cerca: estudian un gasoducto a través de Uruguay",
+        "description": "Vaca Muerta y Brasil, más cerca: estudian un gasoducto a través de Uruguay Minuto Neuquen",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnRfTi1Cbkd1RlRicVFIMFJCMV9QMXJSQmE4aXdId1RqdVJMX1BwTURkWGFSeXNlYko4T0J6Z3J4LVpVVXRCenhPM1QxNEJaS1Q5Y2pWeTNoMEZtckI2VWU1aWFLTFN2QmdjX2xydktoZTNTakxVbW1kcTlteEhnb3Q5OHhNVEV1bHE3MzN0U0lER2JLMS13ak1XOFlIRFlsczB0OVJIbFZDeW9ZZ3RtNTRXUjJqUDkxWkppQjdOOWMxb2RVZTNB0gHHAUFVX3lxTE5udF9OLUJuR3VGVGJxUUgwUkIxX1AxclJCYThpd0h3VGp1UkxfUHBNRGRYYVJ5c2ViSjhPQnpncngtWlVVdEJ6eE8zVDE0QlpLVDljalZ5M2gwRm1yQjZVZTVpYUtMU3ZCZ2NfbHJ2S2hlM1NqTFVtbWRxOW14SGdvdDk4eE1URXVscTczM3RTSURHYksxLXdqTVc4WUhEWWxzMHQ5UkhsVkN5b1lndG01NFdSMmpQOTFaSmlCN045YzFvZFVlM0E?oc=5",
+        "date": "2026-05-21T16:36:00+00:00",
+        "source": "Minuto Neuquen"
       },
       {
-        "title": "La Corte Suprema rechazó una demanda contra empresas petroleras que operan en Vaca Muerta",
-        "description": "La Corte Suprema rechazó una demanda contra empresas petroleras que operan en Vaca Muerta Infobae La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación Vaca Muerta: la Corte falló a favor de YPF y otras petroleras en una demanda ambiental Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUxjaGFUTEJqT1gyZ3FkeHFQY1pobzI4SFVpNTM0Y2xNWmpDYW93MlVNWVJRb1VnUG50VkNsekpEZkNtd3FvWHAwVThUVER0QjNscXpxT1RCb25VOXJXN0poSk9YN3JhQ0ctaUJ6TEtwLXNRRlFTU1Z0VVNxUmVBYlRHeUxKcHdsWjF2cXFxZ19lYUlZeFFURWxkbFhvaHhtZUNfRUpOZ3ZCTWVudnNPQVVmSWI4TldSUTgtYnlKNjBIRVh2ZnRwcEloYnJSdXZqdFHSAewBQVVfeXFMUHhKODNBaHNRemh4V2UxaWNJSkhwaDQySUJLMFZ0NUhYLUM1QVdadU5qM3pxRnpOei03WmRHaVBsQUpKa2NjYVpiQjVTMFduNkpQYlFXWXc0QXNKUDV6ZUxheHNwMVNzNWpfM3p2a2tEeFluT2hoZkRRZ0s2LUpoMWJSSkxURV90ZWE0Z0NKQkJSTTh4VGxHbVV0cl9uMzVIWmdzcEpvblZYdjUyZ3ZNRUdCSDJYQ1dWWHVPOV9ZQWY0SHVSeFowQTJ6cHdYUENRWHVldFFkdVBzTzNRcUZscjNQZzRma2V2dktiM3M?oc=5",
-        "date": "2026-05-21T20:37:08+00:00",
-        "source": "Infobae"
+        "title": "La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta",
+        "description": "La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación La Corte Suprema rechazó una demanda contra empresas petroleras que operan en Vaca Muerta Infobae Vaca Muerta: la Corte falló a favor de YPF y otras petroleras en una demanda ambiental Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0hWUk8xUTZlYnZlYUxaTFVPX1dtdlY5MWpRRnZaSzFOSmFTWkZjX3VmcjA5YXl4MC01d1IydjVSa1hoMXVUOV9ZTVpSUmRDd1FTdjVqbW9VOWxHcHAxNVVYWFEwbFpXcm9sYndIUHgwQ1JHRUMzNmIzZTFRNU9uOXNsd19TcXhMZ3JIQlhyb2ZOeHdPSmFxTl9mWHV1YUEtZnFXTzNZVUxqMmItam80MEJVekJfWktOeXc?oc=5",
+        "date": "2026-05-21T18:46:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Tragedia en la Vaca Muerta mendocina: explotó un camión cisterna y murieron dos trabajadores petroleros",
@@ -191,18 +191,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Vaca Muerta: explotó un camión y murieron tres personas",
-        "description": "Vaca Muerta: explotó un camión y murieron tres personas Diario Jornada",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXBrLXYyR2RYS3JodTA1Mkl3amxITGlfY3l4ZHZ5b0p1MFpiX3EwWmRYRkFpb2xzaGFRMUxvNG4xQS1Sc0RMemdJS001NERnVTBaTGZvQUhqVFRlVElkSGdQdE55MnJCYlB2dElpM3BzcWk4MWU0QnNXZDVmME1NOFl5dlFkXzBHNV9DNmtuVEVydnBSSjhQSTZWVjdUUVpKM1VlVGtwZE8?oc=5",
-        "date": "2026-05-21T10:42:00+00:00",
-        "source": "Diario Jornada"
-      },
-      {
         "title": "Tragedia en la \"Vaca Muerta mendocina\": murieron dos operarios por una explosión en una base petrolera",
         "description": "Tragedia en la \"Vaca Muerta mendocina\": murieron dos operarios por una explosión en una base petrolera La Voz del Interior",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkdOOGlkRDJRZGhkYk42N25NUEVUaXRuSDFKbjFpZ21HUTNXYU5iRXQ5b1JHWHA5NVdIdzg4QlRyOWItTDhELXdYREFnMEV3aUU0dHBjdjhIYThTR05NUTEzSVlkY2hiVXlmT0g0RzlRUndieElla2VnT3dSbnRpNjBxRk5ROXJicGpxdjB6aWdLMUIzR2tla05Fc3BTN1JoNVFCdDd2OHc2VWwycGVLZWU1M0RvM1J1NGk4V2szVmliNkk?oc=5",
         "date": "2026-05-21T12:42:54+00:00",
         "source": "La Voz del Interior"
+      },
+      {
+        "title": "Vaca Muerta: explotó un camión y murieron tres personas",
+        "description": "Vaca Muerta: explotó un camión y murieron tres personas Diario Jornada",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXBrLXYyR2RYS3JodTA1Mkl3amxITGlfY3l4ZHZ5b0p1MFpiX3EwWmRYRkFpb2xzaGFRMUxvNG4xQS1Sc0RMemdJS001NERnVTBaTGZvQUhqVFRlVElkSGdQdE55MnJCYlB2dElpM3BzcWk4MWU0QnNXZDVmME1NOFl5dlFkXzBHNV9DNmtuVEVydnBSSjhQSTZWVjdUUVpKM1VlVGtwZE8?oc=5",
+        "date": "2026-05-21T10:42:00+00:00",
+        "source": "Diario Jornada"
       }
     ]
   }
