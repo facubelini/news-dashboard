@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-05-22T17:04:57Z",
+  "updated_at": "2026-05-22T19:28:07Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF»",
-        "description": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF» MuyLinux",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1cxZjJJYndZMmp3am9qaXZLcEhSS2VZYTliREZScmRhSWJzUEhGdF9SQUEtVWs4X3pUWDR1U2NoVndkMmNnNFZNLWhaRy02bDdQRUE1SFM1dGVuTm81UFlwUmhjSWNTMHR6Z2Y0R2lWUGpSQ3hSdXIwSkp0cURtdg?oc=5",
-        "date": "2026-05-21T18:28:16+00:00",
-        "source": "MuyLinux"
-      },
       {
         "title": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación",
         "description": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación Infobae",
@@ -33,9 +26,16 @@
       {
         "title": "Microsoft rectifica con Copilot en Office y permitirá mover de nuevo el botón flotante a la cinta",
         "description": "Microsoft rectifica con Copilot en Office y permitirá mover de nuevo el botón flotante a la cinta Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZDFsTUNlYTNkakJoVEtxUkh1ZGlNS2liMmZxV2VOb1hzY1VyTE5aUlVpcm9YVlVBZTlxcTN3M0J5ckkzbFRPTWgyT0J0dWVjR3ZLMmpka1NFMGNYdUs5SDdjNjJYTEpEWVA0MWhQaVMzQ3QzMWhMUjJsVVVHRVRvMF85RFB5M3ZRR3J4SWtJWHA0Z3RMRGRmc2steHd0ek95UzZZM1dvTnZmellVSVF4SFJkSm00WGtVaXAzZm80X0M5VW5IanRGRjZvV3c3a3BOanc5MTl4eUJvejDSAeABQVVfeXFMUDc3VGg5dVllLURUMjVkc3ozRnlvdnhWd0ZWd21PNldLRHFGNDZXTUFZVW1mOWlua1NwRFg3NmlzeHFPYjFLQ3JrcTVNZGlQOWlQXzhINXpHS1lDMTBFcmtTTUgxbmg5Y1otV0tzRHk2UmtaS0pCVk5qeENROGpKVHFmTFh5SHBZYmphMkdKV1NnZkZ2WVlkV3ZjaE5LeWw4bkRCS0oyaE5zbnlCVURDcjZTS3VTancwUi1vNWZ0ZWlxMGN6SlpKMjMzTVNiYWNSd1JXR0EzMUZFUm5vZHA1dGo?oc=5",
-        "date": "2026-05-22T14:00:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNzdUaDl1WWUtRFQyNWRzejNGeW92eFZ3RlZ3bU82V0tEcUY0NldNQVlVbWY5aW5rU3BEWDc2aXN4cU9iMUtDcmtxNU1kaVA5aVBfOEg1ekdLWUMxMEVya1NNSDFuaDljWi1XS3NEeTZSa1pLSkJWTmp4Q1E4akpUcWZMWHlIcFliamEyR0pXU2dmRnZZWWRXdmNoTkt5bDhuREJLSjJoTnNueUJVRENyNlNLdVNqdzBSLW81ZnRlaXEwY3pKWkoyMzNNU2JhY1J3UldHQTMxRkVSbm9kcDV0atIB4AFBVV95cUxQNzdUaDl1WWUtRFQyNWRzejNGeW92eFZ3RlZ3bU82V0tEcUY0NldNQVlVbWY5aW5rU3BEWDc2aXN4cU9iMUtDcmtxNU1kaVA5aVBfOEg1ekdLWUMxMEVya1NNSDFuaDljWi1XS3NEeTZSa1pLSkJWTmp4Q1E4akpUcWZMWHlIcFliamEyR0pXU2dmRnZZWWRXdmNoTkt5bDhuREJLSjJoTnNueUJVRENyNlNLdVNqdzBSLW81ZnRlaXEwY3pKWkoyMzNNU2JhY1J3UldHQTMxRkVSbm9kcDV0ag?oc=5",
+        "date": "2026-05-22T14:14:32+00:00",
         "source": "Profesional Review"
+      },
+      {
+        "title": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF»",
+        "description": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF» MuyLinux",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1cxZjJJYndZMmp3am9qaXZLcEhSS2VZYTliREZScmRhSWJzUEhGdF9SQUEtVWs4X3pUWDR1U2NoVndkMmNnNFZNLWhaRy02bDdQRUE1SFM1dGVuTm81UFlwUmhjSWNTMHR6Z2Y0R2lWUGpSQ3hSdXIwSkp0cURtdg?oc=5",
+        "date": "2026-05-21T18:28:16+00:00",
+        "source": "MuyLinux"
       },
       {
         "title": "De Microsoft a Nvidia: Citi Casa de Bolsa se adueña del apetito mexicano por acciones de firmas extranjeras",
@@ -54,18 +54,18 @@
     ],
     "Marketing": [
       {
-        "title": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien",
-        "description": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien InfoMendoza",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalQzNzFTRm9PdjFpRV9DYl9KT0NtT2w4V0VxVzBpTHI2YjBfc3h3dmxwOXVtMGRrc3dxNmxXRHRUNUhkSUUxUzhMR2tGanJLejZMZURMajZGenRMbVk0aUsyNzhJbnI1QWpGMjVWcUZzemdDckt2RjZWRG1IcEN6MFUwNFdMOFhESzRzR1B6S1JmRWNwX25XdXVNOXhKN2pUQnZNY1VFX3c0X1k3bkhSeFJfQzRGQWVnSDVNYXRCNUhJNnRjbUdQV1FYZGM4S2dKUXgtSkEyT2ZPcmQwNXM3MA?oc=5",
-        "date": "2026-05-21T23:59:21+00:00",
-        "source": "InfoMendoza"
-      },
-      {
         "title": "El Lápiz de Platino de Marketing Digital fue para Calm y Ogilvy",
         "description": "El Lápiz de Platino de Marketing Digital fue para Calm y Ogilvy DossierNet",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZFEtSVVIZ04zWjA5Ylo5dlhwZW9LaGlhOGYya1N0UW1hcWh2NmxuUTlHZ0lkbkduZWE2QUxUVmw2SjVCZmVNVnNSMmJGOVR0SFVaMmtFSzRoY2dlcC1nWFBnbThEZlNLUUNBTmJsdU1PQkVPZ213eWFwalFQckZiRjNhYnFDS3JBdUdRbzFVWC1CMTdCX2s0ckkxWlJlYU9vSFlJ?oc=5",
         "date": "2026-05-20T15:27:34+00:00",
         "source": "DossierNet"
+      },
+      {
+        "title": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien",
+        "description": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien InfoMendoza",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalQzNzFTRm9PdjFpRV9DYl9KT0NtT2w4V0VxVzBpTHI2YjBfc3h3dmxwOXVtMGRrc3dxNmxXRHRUNUhkSUUxUzhMR2tGanJLejZMZURMajZGenRMbVk0aUsyNzhJbnI1QWpGMjVWcUZzemdDckt2RjZWRG1IcEN6MFUwNFdMOFhESzRzR1B6S1JmRWNwX25XdXVNOXhKN2pUQnZNY1VFX3c0X1k3bkhSeFJfQzRGQWVnSDVNYXRCNUhJNnRjbUdQV1FYZGM4S2dKUXgtSkEyT2ZPcmQwNXM3MA?oc=5",
+        "date": "2026-05-21T23:59:21+00:00",
+        "source": "InfoMendoza"
       },
       {
         "title": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g...",
@@ -82,6 +82,13 @@
         "source": "Sur Multimedios"
       },
       {
+        "title": "Romang: capacitación en Marketing Digital para emprendedores locales",
+        "description": "Romang: capacitación en Marketing Digital para emprendedores locales SEPER NOTICIAS",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3JQcUJqVHg4amdLY08tX3oyTlc0aTRFQURIMEdqZ0FmdE1Bc3FCWmZlYkZqZGY1QU5VUGRkSUV2YVNfVVZOX0FsbGEwQjlxYVdVbzRtQ01lUTFyOERCTTdWUVp4cl9wYWs2U1VmOERPTmRNS1NFTEhnOWVTWGhKd0NOemVSc3RXZVpnUU9pcWNNWDF6bXNsRzZ2OXhpVDVyS1J1TzFFbEZ6ekU1VFE?oc=5",
+        "date": "2026-05-19T15:45:00+00:00",
+        "source": "SEPER NOTICIAS"
+      },
+      {
         "title": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora",
         "description": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora NOVA Chubut",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkQtcUhKR1dNNXpTbHAzb0ZKMWpGT2hURXhtZzc4MklJdGVLMGJYSHhyWWFzMjNKdTc4Nk1TV01uRi0yNXFyZXk4ZHo4TDlEYWpZZnV1b3JUQzRVcmlwVW9QM0dhOHU3bHNibHhNY3BRZnZNMW9BSFJuTlBOajZzcWc1TzNVUXRQdk1mX3FiakpkdXFUOXBuc2Zuc0Z1RkNjMHBoRFFaR0ZGbXYweEtyM0xWSXN3c3ktWW5sRGlqMG9ObHZheWlBdUZwOHU5bERENGdxQ2tn?oc=5",
@@ -94,23 +101,9 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNjNWeFE4R0QyQzNxS09obi1Wbjc0ZnZCakkwbGk0UURjREFWUUp4eGp2S0tVX1hOa1VmalZZRjBueVhKMnZqckxqbTd6SHBXRGpmUlI3VmROREl4RGw0dzNQc3BkS2dldnhsa2ZIaUI4NUJWdHA4cUVSOENfdjNfc3JJLUQzSXJoQ1BCSkludjhWR0xFZktJeTJZY3ZxRjZuSUlQb3N5Ti1aX3FYOTByMzdDekE1U0dmYkNUY3dSd2pMVER1bDJoaGpYRWwtbkRUNUFjVFBZNmYyVXQwWEFjeDN1THlDMmZ6bkpxVi1FNnozQTlKZThF0gGSAkFVX3lxTFB4WG5Ka3lHZVRZeDZzQ3JvZ3drWnpvZGxfQldxY2s5MWtNSW1KTWt5Q1pydFBUZktteUZaalBmQnJkXzduR1N3LTJuRVJoN1lkX3RPOHBMN0w4UHF0bmxCWlR3dzlIOHVIQlUyS09SZTZwcDlPdzNyR2pFb0FYUnM3N1BpVW9mOC1RTnpTTXhMbjh5MFVHc29PeWxwc0F3anZvZTdTa1Mzck5CMmtDV2tvMlItUDlMcjZJWFpRdEVlMWdiMXdmaVVNb2VaOXU0b1Y1UEJVZVBaYW1qOGU0TVV2a3lhVWhHSUljSXZIb2xKMHlCVndBV0VOTGpyUnd0eTIxMVNUWmJnc1UyZG9xeVpfaEE?oc=5",
         "date": "2026-05-21T16:50:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
-        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
-        "date": "2026-02-13T23:09:21+00:00",
-        "source": "Universidad Nacional de Cuyo"
       }
     ],
     "IA": [
-      {
-        "title": "La Casa Blanca pospone la firma de su decreto sobre inteligencia artificial",
-        "description": "La Casa Blanca pospone la firma de su decreto sobre inteligencia artificial CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnRmcU82aHFNU0cycnN0RWFwWHJmRWI2cC1vQXpIQlNwQkZyU0hFODhfN3hsdnllSU9CZkNNWUkxMXBCOFhPRGpPSDVZT1JMQ2hqRmdROTFMcWFIX3BfRTBWanZWVjJLMGtqc2hrOWFzbWNRN29kQUNNVnJzdXgybHdHWDZPOXh4UVl2ZVV1YmZsVzFURy1J?oc=5",
-        "date": "2026-05-21T16:10:00+00:00",
-        "source": "CNN en Español"
-      },
       {
         "title": "El Ministerio de Capital Humano presentó “Gemelo Digital Social”, un sistema de inteligencia artificial para diseñar políticas y predecir su impacto",
         "description": "El Ministerio de Capital Humano presentó “Gemelo Digital Social”, un sistema de inteligencia artificial para diseñar políticas y predecir su impacto Infobae",
@@ -126,11 +119,11 @@
         "source": "Filo News"
       },
       {
-        "title": "Qué es \"Gemelo Digital Social\", la nueva herramienta de Inteligencia Artificial del Ministerio de Capital Humano",
-        "description": "Qué es \"Gemelo Digital Social\", la nueva herramienta de Inteligencia Artificial del Ministerio de Capital Humano Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTjJMMVBHSVMzbWlFNUFpaHV4bXpfdVFjaFdqMWdnZzhzV0R1MWYzLWJ3TkVqWWJHQ1VRV1c4U09xdDhCZmRmYV91UkxFTkZkMVkyN0FXMzRKWndZU1pMYnh0c3BGSllYQURHc282LW5waWJHOUgwMEJ5R3RvZWp2LVkxa0VIUFlWT1NLVU9GQ3FjREpQUXZPNXhoaGc0NHZiT0MxcERsUUU3VHVLYzcwRV9PUEl1eERQN1Z5Z0lBOEI2b3o1X0ZpX1o3THByYVZEMEJWMTVnTzlSdlpq0gHiAUFVX3lxTFBxcWJnZHNPZTNnaUU5VTZQZDJqbVFhU2xPaWZ4N25sMElSbl9DRFFfR1ZWRzZvdXlhYllWcG9EWnFoR2kzaTVrY0JEQ2lVSkxkT1pxbFRsOEY0SjBzRXQ1Nlhmc3d6NExDMVFRWHpLa0g4X1JsVHdwMlBld0xucFdkRHhhZHNSMWpXZF9DaXdVRWU2LWpNT0dLbWhSUGxIR3lUek10VWNZRjhuQ0V5VVd0YWVwR0ZFZEVXNmE4TjQ0N2VGTnBnQkhFWWhPWWhSNU9SdlZvZk83TnpQWUNKRjFrWUE?oc=5",
-        "date": "2026-05-22T15:58:00+00:00",
-        "source": "Ambito"
+        "title": "Proyecto Gemelo Digital del Gobierno: los puntos ciegos y el nulo control generan preocupación",
+        "description": "Proyecto Gemelo Digital del Gobierno: los puntos ciegos y el nulo control generan preocupación Perfil",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMU9tdEtqaDl2VmVOT3FTWWJxLXdOS1pVYUZWOXVJeFVJZkVsb2JtXzI2Q1hvOWJVTEprM0s2d3p4Z21hWjIzOFI0SDhzQlVoVlV6RFQyVVgxeTNUZHpidmllSkFyd0hjY2Z1VjhEZ0xQR3lsRTlYTm1FNXVtQW1GUng5cjYyU2tocmhzU0FtNTU3YWxUWmRjUklVN3nSAaIBQVVfeXFMUHcyVFFoRDdTcFVlN3JGcEc0cE1jYkJ2WVBFSzVzSDVkMDNvcFE1N2pLOV9LVWtKRHFTWFZ4bzBNS21VcEdpeUY2Q0M4VGR0S0pSd3dMMFNhNTM5Z0lCMjRSUHY1bFFzQWlMTng1SGNyeGxoZUkyb0sxaFN0OXFQdk9yanJnN3hicjBObnRjdkF4VkRSWDQtLW41MFYtVmozTXRn?oc=5",
+        "date": "2026-05-22T18:32:00+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Este país de Europa busca regular la IA en su constitución: ¿qué propone?",
@@ -152,12 +145,19 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU0s3cmR0ZUtfQzlnbGVZcmwzSV9MTnEyQUhrM2F2RDI2Q0hkUE9jZzA2TDlGdUVPYkZnQUc2OWFOSm5ldG1CVnlzV2tRdnBYckh0WkcydDFrNXQ4QVk4V1d1TTUteGtEOUdpLXJaSHp0eU1Ld1lLVkxmUVVidC1CandKTU8zYm1SSHd5VlNpdk5SdnlSc3FZTnkyOVJaZGJ5NWJtMER4VmtHTEp1Uy13R1lwWnNtQzlVYWlpS0ExbnFuUkNQc2R3SlBsUGxmVmdqZnpLWTlTdWFWVU5UUXRfNg?oc=5",
         "date": "2026-05-20T20:37:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "El audio filtrado de Mark Zuckerberg que revela el secreto de Meta para entrenar su inteligencia artificial",
+        "description": "El audio filtrado de Mark Zuckerberg que revela el secreto de Meta para entrenar su inteligencia artificial Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0NGOVF2SEFxZTJGOUNEREZWbU9sV0xTeE1YSEMzMFp2QzlxbEEya1Y1ZUxmZ3pFamJqYzlrN3QwX3lvbERoLVBiVFlqa2tDSjBKbmtXZXRxV2EzdGpscDFzc0pWUkxSQ05VRi1qU1B0Q00tZUFabmZPX2hreTJmaWhWYkFBTmFHTFk2NVNBaVlkdWFMbFpzU1NwS09RcEI2UnMyVmJvR25EWUQ3X1luVU83bUNPdnkzT1VPeVpnanV4WlBESS1BXzlLblpodVBjZXNYUtIB2gFBVV95cUxNSHJPeFF1TGlPX0NjY0dNeFRtQTJTX3hkVmsxcV81TXNOcy1heHc0ZG40TU1wX3NFWlQtb2hhOVhkdmxCdE5zWkEyb1V4NGU2YlZqSHNhZzFBaEdpTTJESXJ3Q1pBa09xS3RqZU9FTGVhXy1SaUdYcDl2VlJYMlRwTThYQ2tQbzRSN2pLTGtIcFoxczh3ZTl2OG4tNWtad3EwdTJZZDRqcVk2LVZNT0NRREMtQ3d0UnVQQld4dE10RGE4RUtabnhsMWlkSTkxQVc2SklRWVVtUURIZw?oc=5",
+        "date": "2026-05-21T20:03:25+00:00",
+        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras",
-        "description": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras econojournal.com.ar La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación Vaca Muerta, demanda floja Diario Judicial",
+        "description": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras econojournal.com.ar La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación La Corte Suprema rechazó una demanda contra empresas petroleras que operan en…",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJ3Ql9IVGZpQmNOQ2prdFFOZDFNTWdPemQzcFRvVGUydmxVZ2tJck0wLU1Kc0pULWhpZm1acVNEQ05hV2VqcjZqYXNjQk5wQ1pjTzFXU3VIWk1DTlhYamZ1UDNKM0ljcmhYQ0FXY2dJYnpiY3dQZXJRS0FTY0ptOWgwSVhzcXB3NlVTT20tR1JDVHJRbUhhTVBCdlJ1SVVEejNmYUFn?oc=5",
         "date": "2026-05-21T19:21:44+00:00",
         "source": "econojournal.com.ar"
@@ -198,11 +198,11 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Un puñado de petroleras se enriquece mientras los trabajadores quedamos en zona fría",
-        "description": "Un puñado de petroleras se enriquece mientras los trabajadores quedamos en zona fría Prensa Obrera",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTJEOHFYaTlNMkVhS1JTbmprS01Qcm9QbVFIWFctWWxFS1lhLW9yamNtbXVqSWpwQmpNdlFfSld4YzI4OGRmdHUtenN5NjlPWmxyNlpvWUZhVUl3cDgtMDVwZl9qdkhvMEpBLWh0SVVodl91MGZnNzdfTmJvZDFvdUYwNEthdVlBbGttQkxFbFBhNzVCSnNBNmxSSm5XWjZhMzMxN0N6UUZDdmt6by1ydVVRMEwtRzM3WmxF?oc=5",
-        "date": "2026-05-21T16:37:44+00:00",
-        "source": "Prensa Obrera"
+        "title": "Uruguay acelera el plan para un gasoducto binacional que conectará Vaca Muerta con el sur de Brasil",
+        "description": "Uruguay acelera el plan para un gasoducto binacional que conectará Vaca Muerta con el sur de Brasil Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEhHejZDbURESEZXbXRzSU1QMDJLX0VoSHVXcUNnek00NXRDMncyeGI3dUM2eTZONDdmUFlpYzJpbWlySnRWanlRZW94TmZGQXRLbkNSR0NRSlQ4MlJBY1lxc3ZBazRFWjh2SllGMEwwNTdmZm9VNlBUdmZxMm9SQmpfM2VkbV90eUhJOVFrd0NqX0k0MV9oZnpqb29VR0ZtZWhBWUc5TFRieFlNMV94TWJnRjIyREdRN0xZ0gHAAUFVX3lxTE9UZ2lWUm00NXp4MUpSSlRpbkxoV0pseW9PX25zYU05SEg5QXRKRUdaXzJsUEpVQS1kLXJoYTBCRTlJUWVVVDJWZlZGc3dkdTUtNm5PTmFpc19nMTFINUwxOWpOWjM2bFM4WElkLVhqWFhFNWx3OTYtMnRXZ3RoNjZJdTZFcll3SDMyeUVDOGpRdEFKcFk2UUxreHhRVWU3LV9GSGgyMU5BdkJTNGFybE9TeDFiYVlVdWthNFZZV0Rvdg?oc=5",
+        "date": "2026-05-19T22:15:00+00:00",
+        "source": "Ambito"
       }
     ]
   }
