@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T11:41:37Z",
+  "updated_at": "2026-05-22T14:27:58Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,11 +10,18 @@
         "source": "MuyLinux"
       },
       {
-        "title": "Investigadores de Microsoft ponen límites: la IA aún no puede reemplazar la programación más allá de Python",
-        "description": "Investigadores de Microsoft ponen límites: la IA aún no puede reemplazar la programación más allá de Python Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON2pkY0tFMFZQODk4UFM0V1kwSkJsNlFfa25OMndrNW5ZTjlsXzc0T3RmV21xRnEyd0NJZlJja3pfczJDNlJsa1ctUE0zamJFcGZ6TUdGaG1uNGNfbmpJS0ZyMkF2MlluQ290RWJCdFVjR3J4QktVV1RLQ25GdzNTY1RaYjY5c3RNWmVWeDR0emZSeWZPU0wzbTk4NmJ1Nld5amFQcE1zeFNoYUVIbmZhWmRGdExZMHdoX3cyUU5sZXVkMDNLU3ZEOHBmN014VTAyTTJHWVZoQ00yQXRuTHZhaFdn0gH8AUFVX3lxTE1ieFB5VlVlbTJXSEQ2WkdDYXMzcWRlR1NGY01wTVItbVFxd2ZBQ1EwTWliV1I2VWRacVZuUWJ6bThWcDR4N3lYQ19GaUQzdjh4ZWYtU3ZsUWdSdnhuQ0NMeVlpUWtoODdfXzlhWmo5T05seTQxQ05QdHZ1MUt3ZXItZU5JQVNSWDlqUC1QaXVhaEZwZHVFRDhKUk10RjhocjVwQzFhRnhTYk9vVXlsQVAtMWI5RVczRl9GM1dYWDVjMmlKVkNaQnFlR0lYWk12X1VMektWYmJCTkJ2aEJMdDRXRnA4RGZoMi1vMkhEdkVScVpUNFJnYkVsMDRPag?oc=5",
-        "date": "2026-05-21T23:56:00+00:00",
+        "title": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación",
+        "description": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWURZa0lzRm5FeFpZSWVLZUlMdElMeVAwU1ZySmJ3NXdwQ0w1Q0pLaFpWNTlYYkVOZFRzeEs5ZWRxS0xiMXF1VXRnTGJtMVV4ZUxjNzdCWm5ManppSlJ6bEJGVGh3cFdGZFRTT0ZXaHR1d0xjN3dnblJqZHNlMG9iRW40Nkp2MHdTZnBvYXRMVTg3MHlGRS1lN3pER2NiTExpN2VkdERpbk1ycV9ldDlPZWdyMHlRU3VWX2FWdkxNeElIUWVIeS1BZFlVU0FxSm1iemNuZVhsQ1rSAfMBQVVfeXFMTmZueFNNWThiZ3BvaFAxd283Q0x1c0FtU0wyLUJ0RTlNanFhQmF3blJPclFTOTZfVWYxZjk0eGZ2cjI3Ykhpemx4U0sycGpzN3dOcXFLcUlHQnJGVXRXYzVtbG5yNFBsOTVQcmVfSXpJREl2QnZyVkVWVkMwSzBjQ04xeHMxRDlyYjlzZ2NDTmxRV0xIN2ROb2FqbkZCOGMtQUw3TW91eEhVOXJVeFkxQnZKNWZuckRuWEtTMThkM3lpSkZtUWhxUXJuSUc1UkpyRU1OTEJiWGVhS3d4cU9lRGhtOFg1WGtnWjJ4MTVEeFBlNDNz?oc=5",
+        "date": "2026-05-22T13:25:14+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
+        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
+        "date": "2026-05-22T10:30:00+00:00",
+        "source": "Xataka"
       },
       {
         "title": "Estafadores usan cuentas internas de Microsoft para enviar spam",
@@ -24,11 +31,11 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo",
-        "description": "Con Windows 11, Microsoft está haciendo algo que hasta hace poco era tabú: poner a macOS como ejemplo Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkk3d0ItTTdFQjc2amxuMGQ1bDhBa2Vzc1BSVEVVN2l1eklrOElJdm5DS3Jwa0hxaFdiQzhCb2VxRDZyRzJUVk5iMld2UXNSRHVhQVlsUWdpM1VrcFlCNHFGWGxBV3JoTG5MYjgzYmdRTG1FbjJEV3JiN0VLenNFLVRJVFZIbGZhcnoxY2lvWG5mWXJ0UnJ0ZzQxSmwyVWd2TTM5N0JqbjQyZGdiMXVDZFlmZl94LU1fWG05RkpkbVB0T3JDcmZWdFBRN09FRUQ3SmVpctIB2gFBVV95cUxOS1pHdEFPd2NaZHNBQk1tRlhrNXEzSWgzN2UxMy0xdE9pcUE2Vy1yR3NaU0lLUkNiejlnT3liYnJWeVJMME9MamZnM3dZRjljVy05cDM0YWxpM3ltV1ZSWmxFYk9jb0tVVVRUb0hlUnpnX25yTThMb0FPeXRlQW8yeWpLc0EzVFZ4STlnTW9YT2xjTnFsclFKbWpTTV9MLUNOTFZ2SmZ6VXJ0aHg5RDMxZlI2VUZ6OVpDeF9xU1BRVVlYNXh3T0pqcHYteWNUeWJVOEhkWk5SRWl4Zw?oc=5",
-        "date": "2026-05-19T09:30:00+00:00",
-        "source": "Xataka"
+        "title": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information",
+        "description": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information El Destape",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVE3VE04bktGNm1XVzhhYzFIUHlnZlpKQkUzT0tfQ0drM3VEc0JhR1RzWkxSVjBpVThYc2FQOC1OQkNNZG0wUlQ0dDlydXN6U1NDLVNLTUhKaW1KMGNKODJPcHF5LTJBTnFvWThvb2ZGNnNqZS0tZzAyMjRrSy1EYVhSNmM5SV9SX2pxU1RGdjUzNFpuRUpXWEpTOFVyOE84Sno1bkVzY0wwU1JWSEV4YjFNd1NucEtZaDB6UDBfdWozV2pxTUhCMUl4ZmNVU1B5c3QwbUlXWFAtbG1xM3dySWd3QjB3UXAw0gHoAUFVX3lxTE4xUTdUTThuS0Y2bVdXOGFjMUhQeWdmWkpCRTNPS19DR2szdURzQmFHVHNaTFJWMGlVOFhzYVA4LU5CQ01kbTBSVDR0OXJ1c3pTU0MtU0tNSEppbUowY0o4Mk9wcXktMkFOcW9ZOG9vZkY2c2plLS1nMDIyNGtLLURhWFI2YzlJX1JfanFTVEZ2NTM0Wm5FSldYSlM4VXI4TzhKejVuRXNjTDBTUlZIRXhiMU13U25wS1loMHpQMF91ajNXanFNSEIxSXhmY1VTUHlzdDBtSVdYUC1sbXEzd3JJZ3dCMHdRcDA?oc=5",
+        "date": "2026-05-21T14:29:28+00:00",
+        "source": "El Destape"
       },
       {
         "title": "Microsoft Teams se despide de una de sus funciones más queridas para mejorar la experiencia de usuario",
@@ -38,18 +45,11 @@
         "source": "20Minutos"
       },
       {
-        "title": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information",
-        "description": "Anthropic está en conversaciones para utilizar los chips de IA de Microsoft, reporta The Information El Destape",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVE3VE04bktGNm1XVzhhYzFIUHlnZlpKQkUzT0tfQ0drM3VEc0JhR1RzWkxSVjBpVThYc2FQOC1OQkNNZG0wUlQ0dDlydXN6U1NDLVNLTUhKaW1KMGNKODJPcHF5LTJBTnFvWThvb2ZGNnNqZS0tZzAyMjRrSy1EYVhSNmM5SV9SX2pxU1RGdjUzNFpuRUpXWEpTOFVyOE84Sno1bkVzY0wwU1JWSEV4YjFNd1NucEtZaDB6UDBfdWozV2pxTUhCMUl4ZmNVU1B5c3QwbUlXWFAtbG1xM3dySWd3QjB3UXAw0gHoAUFVX3lxTE4xUTdUTThuS0Y2bVdXOGFjMUhQeWdmWkpCRTNPS19DR2szdURzQmFHVHNaTFJWMGlVOFhzYVA4LU5CQ01kbTBSVDR0OXJ1c3pTU0MtU0tNSEppbUowY0o4Mk9wcXktMkFOcW9ZOG9vZkY2c2plLS1nMDIyNGtLLURhWFI2YzlJX1JfanFTVEZ2NTM0Wm5FSldYSlM4VXI4TzhKejVuRXNjTDBTUlZIRXhiMU13U25wS1loMHpQMF91ajNXanFNSEIxSXhmY1VTUHlzdDBtSVdYUC1sbXEzd3JJZ3dCMHdRcDA?oc=5",
-        "date": "2026-05-21T14:29:28+00:00",
-        "source": "El Destape"
-      },
-      {
-        "title": "De Microsoft a Nvidia: Citi Casa de Bolsa se adueña del apetito mexicano por acciones de firmas extranjeras",
-        "description": "De Microsoft a Nvidia: Citi Casa de Bolsa se adueña del apetito mexicano por acciones de firmas extranjeras El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQVlRdlN5Z3ptVTMyRnQtNHhXMExrVmZCYXdrbHhzNWRZb2lUUEtUT2FlanhXSFpRMEFoYVBYZjYxS2p0eVdGdEozOEpnMjhoX0NiR3Izbld3VHVGX0hscjBhZmM5cmJJaGJ6WlhLWmdOX1FSZ3ZXblBCNDNUR2hZd3JaeDRTVFNwTWg5WmlOdURYOFdjR3Fybk9nTEw0ZzN2c1Zwdi0td3pYSmZuOTFuMWlrQ3BNZzdZc1NWWmxMel92eFpJcXlyV2g2WnJyWWNycUU5UmtDMlVkU2FrcVZ6Yzl5MFc2b0JXZk1PaE9n0gGIAkFVX3lxTE5ac2FPcS1TX1NfVW1LUVoxaTBUdk5YYWd1U2ZlV2FPdnVQS2tNVUlNVk05ZUl4YmRjcUZTZXYxR0dneDdELU9MbWw2YVR5UXpkZXdOU19ramtwV0VVSXpLdkJZQ0xkNUNOWjZLa0RGdDYtSjRabUhCNkxEUHVwQ2xjVzYtU29ST2tHbDhkV1QxaDBVNEZnMFhXUnI3Q29lcUtpbmZHZEpvS1MxT0tvVEFudUM3WnFOMTZXaW1MUFIzaDhnem5MdXJsSHhjb0pfZVFYMzF2eDJrUE5xUEZaeks0YUpWczE3NWNyUXNMLUpsT2VCYzRaQnl5U0w0NGdkeEJIcXNXcjBxQw?oc=5",
-        "date": "2026-05-21T20:41:53+00:00",
-        "source": "El Cronista"
+        "title": "Microsoft rectifica con Copilot en Office y permitirá mover de nuevo el botón flotante a la cinta",
+        "description": "Microsoft rectifica con Copilot en Office y permitirá mover de nuevo el botón flotante a la cinta Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZDFsTUNlYTNkakJoVEtxUkh1ZGlNS2liMmZxV2VOb1hzY1VyTE5aUlVpcm9YVlVBZTlxcTN3M0J5ckkzbFRPTWgyT0J0dWVjR3ZLMmpka1NFMGNYdUs5SDdjNjJYTEpEWVA0MWhQaVMzQ3QzMWhMUjJsVVVHRVRvMF85RFB5M3ZRR3J4SWtJWHA0Z3RMRGRmc2steHd0ek95UzZZM1dvTnZmellVSVF4SFJkSm00WGtVaXAzZm80X0M5VW5IanRGRjZvV3c3a3BOanc5MTl4eUJvejDSAeABQVVfeXFMUDc3VGg5dVllLURUMjVkc3ozRnlvdnhWd0ZWd21PNldLRHFGNDZXTUFZVW1mOWlua1NwRFg3NmlzeHFPYjFLQ3JrcTVNZGlQOWlQXzhINXpHS1lDMTBFcmtTTUgxbmg5Y1otV0tzRHk2UmtaS0pCVk5qeENROGpKVHFmTFh5SHBZYmphMkdKV1NnZkZ2WVlkV3ZjaE5LeWw4bkRCS0oyaE5zbnlCVURDcjZTS3VTancwUi1vNWZ0ZWlxMGN6SlpKMjMzTVNiYWNSd1JXR0EzMUZFUm5vZHA1dGo?oc=5",
+        "date": "2026-05-22T14:00:31+00:00",
+        "source": "Profesional Review"
       }
     ],
     "Marketing": [
@@ -77,9 +77,16 @@
       {
         "title": "Se realizó en Godoy una jornada de introducción al marketing digital",
         "description": "Se realizó en Godoy una jornada de introducción al marketing digital Sur Multimedios",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUZRTXRiUkN2bkNDRFlUNVJsRVZ1REMyS2lYU1BTSWctVDhvR0VRcTROX04yZTdlbEJlWFRsUm02ZVhBSG4wbVFUb1BUbUFFU3IwYUtoSTFxdi1LbzRTckpZdEtWMXFldVJ0ZWNncFkxRENQaUtDaFlXWHRlbVAxVnpYM0lMOHFIbTJYWGRHNnliZk9zYjl0SlZLMGFlcVVOTHEwSTgzM0JreU1J?oc=5",
-        "date": "2026-05-18T15:11:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjY4MDlFVjg4SzNPQUF4c2ZremlMY0t4NDVMZEhmZEtlcnFPVDA1MGw4UWNrbi1oYU9YNUgtdml0Y0pxeXpsWnJCVkxscVMzMjlZdnZ1b1lMM2hxeUdWNzhsY2hleHJMVkJmYm03Mi1uV3drVldhOFRyMHJwQ01MY093VUNBU09ocWJNZlRnYlVWTktIQTZ5a2l2QzJ4Z1RROXlmX2Z6MW94aWV5RHo1TUFR?oc=5",
+        "date": "2026-05-18T15:40:35+00:00",
         "source": "Sur Multimedios"
+      },
+      {
+        "title": "Romang: capacitación en Marketing Digital para emprendedores locales",
+        "description": "Romang: capacitación en Marketing Digital para emprendedores locales SEPER NOTICIAS",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3JQcUJqVHg4amdLY08tX3oyTlc0aTRFQURIMEdqZ0FmdE1Bc3FCWmZlYkZqZGY1QU5VUGRkSUV2YVNfVVZOX0FsbGEwQjlxYVdVbzRtQ01lUTFyOERCTTdWUVp4cl9wYWs2U1VmOERPTmRNS1NFTEhnOWVTWGhKd0NOemVSc3RXZVpnUU9pcWNNWDF6bXNsRzZ2OXhpVDVyS1J1TzFFbEZ6ekU1VFE?oc=5",
+        "date": "2026-05-19T15:45:00+00:00",
+        "source": "SEPER NOTICIAS"
       },
       {
         "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkQtcUhKR1dNNXpTbHAzb0ZKMWpGT2hURXhtZzc4MklJdGVLMGJYSHhyWWFzMjNKdTc4Nk1TV01uRi0yNXFyZXk4ZHo4TDlEYWpZZnV1b3JUQzRVcmlwVW9QM0dhOHU3bHNibHhNY3BRZnZNMW9BSFJuTlBOajZzcWc1TzNVUXRQdk1mX3FiakpkdXFUOXBuc2Zuc0Z1RkNjMHBoRFFaR0ZGbXYweEtyM0xWSXN3c3ktWW5sRGlqMG9ObHZheWlBdUZwOHU5bERENGdxQ2tn?oc=5",
         "date": "2026-05-18T11:43:43+00:00",
         "source": "NOVA Chubut"
-      },
-      {
-        "title": "Día Mundial de la Protección de la Lactancia Materna - salvaguardias digitales: protegiendo la lactancia materna",
-        "description": "Día Mundial de la Protección de la Lactancia Materna - salvaguardias digitales: protegiendo la lactancia materna Pan American Health Organization (PAHO)",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXBHaXptZUVsYVZZNzRfZGEtR2dLTTE1bGNwc2NpNHNGWFd3bzdMaFAtRmxNNENRX3gtT1NOa3dmc3Z2Q05Yd2VrekxxUmtRbWg5NkszNzd2X1Q2bFltUkpObW4yMXFOMVJhUUstRS1zMUx2LTdEcEpyQUhDOW5jLWozdk82dDRuQ3EzME5oYUtqUDFITzJmaW03Nkd6Z2xSMlVzd3pubFdEWFdObzRHNTFrZVBCa2I2SEE?oc=5",
-        "date": "2026-05-19T17:51:42+00:00",
-        "source": "Pan American Health Organization (PAHO)"
       }
     ],
     "IA": [
@@ -119,69 +119,48 @@
         "source": "ACI Prensa"
       },
       {
-        "title": "La infraestructura legacy es una barrera para las iniciativas de IA en el 47% de las organizaciones en España y LATAM",
-        "description": "La infraestructura legacy es una barrera para las iniciativas de IA en el 47% de las organizaciones en España y LATAM Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNN1hsV3Q0Ui1lemlocFBCRmZZb0pIbzJESUJYTnBPMlJhVDdtUTNxbEpPSExoUEdqMlpsMWVJTW5yT3FHdXJnWC1UaXhNdVQ2MnI3aGU0eVdLUGlVcy1mNXlEd0tRbFhBQnBWYzYxWTBxLTJwbk5LNHQwc1VYeXVINXJ2NzFRdTZHMHZZenIxLVk1ekJjRjFEVmVTRk9lLXNqcFJkR1JPYVM0S0JMQzYyS1Y4TUxZaFRWYWktanRZa08wTUdVNlVHbUtzVlE0Q0pRaGVqY0JDN3VINjZZUmJJaWNVZDVBOGNtaUtSc3B4QmU4ZGxGT09yNV9hejFlZ9IBmAJBVV95cUxPOExMQ2wxRy1PTDJUQngxMjdjb0p0UVdVVVNPTHBLQ1ZJdUVkMHJfSlVPRzVMcHlNakh0OTNBcWtFUUFFc3RfWS1ERnNxaEFBMmFqMnRzb0FaZVV1WjNNcXJIU0JsRXJCZlcwU3VPXzJSQm5PaldEdWpqbkI5Yy1CYWZaTDRfTUF6U3ptRndmQjIxaXJETGxvS2pDQ2pLUWNBTVp3MEQwTVBJVllQel80MFphcldFeHV0LVhlbnpiWlNCLTdzSk9Zc3hGUkk4VC1MY1ZOc1VFanNWNGNKV2FBSkVNSGtlb1pUNXViYldiQldYMlM2UVY1YmJ5SHRJeTR0WE90aGdfWGcyNXdiNDdQeW45dU1ZUEps?oc=5",
-        "date": "2026-05-22T11:37:23+00:00",
+        "title": "¿Miedo o moda viral? Por qué la IA se convirtió en la palabra prohibida de las graduaciones en EEUU",
+        "description": "¿Miedo o moda viral? Por qué la IA se convirtió en la palabra prohibida de las graduaciones en EEUU Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa0VDNFN6b0ctQjdITERidmVEWEl4eEJpOFhqRW96QjYzY0RRX0pqclJrTmd5bHV4cEJFX2dSVXNRQl9ieUVBVGhlZWhiM0dyNDMySnJyTGV6MHVOdTdVNks4U1l6UkRpNEVzdjVtai1wTWRidnd2QzhSWlo3Q0hCQ2JkXzFHSE82RXVGV2lIYXYzNlpUOUpZNWdEc0xiNzNCMnUycFgyVWYzNzRJcGlvRUhZMlFPNldoVTVjUnQ2aE5MRjh4U0NaSnlsbzZIMFlNT0c0czNjZlRyd2tnUUY3WTJn0gH8AUFVX3lxTE5GZXBXVWtDZVB5Mmo3akh6aWp1SFRuZUl6QnRmWGlxMk14TTYwVjgyWmJnelNNRDVYbGh1TXhRVFhpWHdfaGxQem5xNHhkUzZPbWRWY1ZRR3RfcWVXRjlsWnR3NFlNSmRNZUpWbWxYdEFmZjZnalhNSFRldE94UnVfQzc3MmJBbWV1SmljWjRCNElXeFg5VEVBcGo2X196QjF5anRUNU9ydU1LcW5SNlZXcEJmV0xfcXRkSVFOalJOVThMM3FJZUlZcnpiQTRxM1pRUW1SOEpfV0FEMUxhd2FMeUlVeVhlMmYxY0hhTkR5NEl3UUQ1Qkg2OTMyaw?oc=5",
+        "date": "2026-05-22T12:39:02+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Argentina se apoyará en la inteligencia artificial en Copa del Mundo",
-        "description": "Argentina se apoyará en la inteligencia artificial en Copa del Mundo ESPN Argentina",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREp1dllPa01vZFZyVU5rQUNmODMtd1RDMDRWclBzRF9aeGM4Mkh0X2RYM3dxRFQwN2YzbjRMRWxHYmlUZ0hCWWNTWnJXejJSWE1RN3FfaXduYzNMa2lzWk1LUFU1VG9UX3V2SHpxRElua0ZzVE8yTTZlS1d5ZGJYUUI4UEpmZWFDRWwxZHMtWDNEX2Y5TTB0UWxRM05SOVhqT196VXdwaUhfdHNQNTRqOEhna0hSYnpaRTVqdVo5RFlwdw?oc=5",
-        "date": "2026-05-21T01:21:00+00:00",
-        "source": "ESPN Argentina"
-      },
-      {
-        "title": "Cómo hacer gratis y fácil tu propia figurita del Mundial con inteligencia artificial",
-        "description": "Cómo hacer gratis y fácil tu propia figurita del Mundial con inteligencia artificial TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmR6c3F5bWJqcWZERDdBdmtwRWFhN2lCRlVTTzJObGI3RHVMejB3RmJhdkRuc2xjUEY2MjFYcFdNallmSW5STTR6Slh6a3NKNXVkeHpIdWllZU1JQW5nRDhEMUNHWUpIcW9haVB6cU1IQnhiMWxqQkZuODdsR0hwcEFranNOSzgxa2wwYjdScTF5eFo2dXZtdWpFTUdkcHo3ek90czZUMVJuZkk1c0VBa2Nvd0xwQldEbko2cl9SeW5ISmlKaWx5SFpuTQ?oc=5",
-        "date": "2026-05-21T14:20:15+00:00",
-        "source": "TyC Sports"
-      },
-      {
-        "title": "La inteligencia artificial es el nuevo jugador del Mundial: Google Gemini llegó a Times Square con la Selección Argentina",
-        "description": "La inteligencia artificial es el nuevo jugador del Mundial: Google Gemini llegó a Times Square con la Selección Argentina Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUHBzV0RNZTgxU3Z5bUJ3MEN2anVUc2JHWlE0ZGh2a0ZqSkM1d0JtanlEOWI0Sm1rQmpKbjZDRUdUYlNfMlZWdHFQYXRBV1ZUMm1aUTN6OEhBLVZYNWsxVTBpeFU3SUtsWkctXzZyTXAzNWZTRGVFS0liWWtEb19IWk5rTW1RM0RkT0NBYUNQZTRfLVJIZElnb2xPcnZLTXZ6VW0zWnlPM0tZTnY2cXlWdlJrVFp0eWRuVTA3Mkt2TWI2VUREVno1QTVpUjNMSXFLYmp6SU8yWGoyMHg0aEZscUt6cGJMaVBKYW9xckZzQmR2LVBwLUs4Y1QxSmEwZW5L0gGbAkFVX3lxTE9aZ0xfVTI0em4zSldYV3pPdHRObmxTVTl6OXJPU1A3eXNfSUs3NzhqVG56Um1mWDZiSVZmZS01blBjRWV0ZWVvaHE1TnI2VlJOV1ZjOVZFTjFoSXd6QUQ0bWFCckRnX0NBN0lGRnFEMUdIa0NYd3NMcnJ0N0lZNzQtcWNkYmxuTlJyNUhtTWxvbGloQ3pobmROYlNYTXlFUE9QQjFYSkdmRW1qOVp4bkZyUEdaTzZGR2x0cUgyWWRiSklxVFViUEFUbktfQVB1M2hKN1ZPMkQ1a1d5QlZ5YnN6NEd2VmF1ZkhvY1hOTEo2eXpsZ1E5NHB4QXg4WEhEUFd1VGxIMjJPSzFCX3cwZHdFc3V0LUUyRnRKOTA?oc=5",
-        "date": "2026-05-21T15:58:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "El audio filtrado de Mark Zuckerberg que revela el secreto de Meta para entrenar su inteligencia artificial",
-        "description": "El audio filtrado de Mark Zuckerberg que revela el secreto de Meta para entrenar su inteligencia artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU0NGOVF2SEFxZTJGOUNEREZWbU9sV0xTeE1YSEMzMFp2QzlxbEEya1Y1ZUxmZ3pFamJqYzlrN3QwX3lvbERoLVBiVFlqa2tDSjBKbmtXZXRxV2EzdGpscDFzc0pWUkxSQ05VRi1qU1B0Q00tZUFabmZPX2hreTJmaWhWYkFBTmFHTFk2NVNBaVlkdWFMbFpzU1NwS09RcEI2UnMyVmJvR25EWUQ3X1luVU83bUNPdnkzT1VPeVpnanV4WlBESS1BXzlLblpodVBjZXNYUtIB2gFBVV95cUxNSHJPeFF1TGlPX0NjY0dNeFRtQTJTX3hkVmsxcV81TXNOcy1heHc0ZG40TU1wX3NFWlQtb2hhOVhkdmxCdE5zWkEyb1V4NGU2YlZqSHNhZzFBaEdpTTJESXJ3Q1pBa09xS3RqZU9FTGVhXy1SaUdYcDl2VlJYMlRwTThYQ2tQbzRSN2pLTGtIcFoxczh3ZTl2OG4tNWtad3EwdTJZZDRqcVk2LVZNT0NRREMtQ3d0UnVQQld4dE10RGE4RUtabnhsMWlkSTkxQVc2SklRWVVtUURIZw?oc=5",
-        "date": "2026-05-21T20:03:25+00:00",
+        "title": "Una comunidad instaló colmenas robóticas con IA y afirman haber reducido en un 70% el colapso de las colonias de abejas que amenaza los cultivos",
+        "description": "Una comunidad instaló colmenas robóticas con IA y afirman haber reducido en un 70% el colapso de las colonias de abejas que amenaza los cultivos Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWXE3bklCdmk1RVFpVVlQNVNHbVpxZnprV2RSSEx4MVpsUnpRVUlQd2hSa1JGSjZTcm5HOEg1RXhUdWljZ0ZBNUpqYUlwakFtaGM2dlhBT3hncVdSSUpxQ2JKNDFBemNnZ0xtYkVqSEhSRzE0ck45TnN3SFY2U0NVUjl5OFlkU1pOMUtvcVg1aG5ySFkyOGxsdkV4bDVFT3ZwX1RTUXpvZmZBb3RlWGsxNjNfYmN2WmVDTkR1VnUycTZMVUNhTlR0d21iQURpMzhOZlh6S0E1V0pDdXJHWnY1V0gwRU90Q0Z1MzdrM9IB8gFBVV95cUxQeDFPclB6M29uV1hhd29MaDdhOGtpR0NKMFl6WmRQV2tzd01EdUE1VnJkbm9ZVml2TG80LUVmbHZ6UmV3Um5icmcwZTBWYmtiTVdQdHFGdnd3dHN1VERjeG5sOG05cXRfLVJvZ0xCazZBSk5DakcxM2l5QlBCMUJLLUdwNUhwU28ybktfbzJMRGYtaklEWUlBZnVYdkdlR0tfYS01R0VkZjg0X3NkOG5zVWl1OWJLZXhGTDZBdlU4NURmN0NzeGdPYWlhZDgwelYxeHVVVVFxUnFhdExRQlVCdDlNLVVRQmI0SE92RFMweHpWQQ?oc=5",
+        "date": "2026-05-22T14:05:08+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Google vuelve más realista la generación de videos con inteligencia artificial a través de su nuevo modelo Omni",
+        "description": "Google vuelve más realista la generación de videos con inteligencia artificial a través de su nuevo modelo Omni La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUVdmUGcwNk1Xd0l3M1d3NXpnVkFPN000eS1zb1RtUkpfR00xSS1ycE5PR0xVUzRuVmQwN004Szd1Y3N5YXhzSnBYZ1RvYzhKN3pPUnVlaHBVQ0t5QVlBWjY5dndwYTd4cmJuREJSLXV5ZXpFYWoyS3h1dkZqaV8xUmp1S01jMmo3a01kcjZKU2J6QkpBX1d5LXVYNEdaWl91VlNpWXlZaUpJa0xHUmJySExLcGF2SnhaR0F4UGU4REFtMFFjSU90SUl5Vi1Lb2JoQUk1SGp4Z01BcTJqQVBVV1FB0gHnAUFVX3lxTE5hWVRiU1pFV0xBUEdmcUx4aFYxN29aVTZNeHZqQmU2SWVGa0gyNmpvR2pfZ1VXRDU5N3IxSUFZdkJsQTBuLUtnRVN6eUxSb0NxTllra1V2blRVdHZxZ3hfbm8zZzVfNWlSd2UxRmptU2Q5dmd0YnNxd1VnQjhFZG5hTGMteUtfbVFaRUhJU0xmbkdIREdjNDlQT3JISWh3X1Jac3Y5aDNYVzAxOFdjR19hRl92LUc3LWsxbUNQT2tPZXhidE81WUwwU2RMTkFpMFFrUV9HT1M2djVYTm51SUNpYXQ2YW5vbw?oc=5",
+        "date": "2026-05-21T14:05:50+00:00",
+        "source": "La Gaceta"
+      },
+      {
+        "title": "Google I/O 2026: la inteligencia artificial dejó de ayudar a programar y empezó a programar sola",
+        "description": "Google I/O 2026: la inteligencia artificial dejó de ayudar a programar y empezó a programar sola Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOODh3YksydTdxOXFBUGREbXZGXzFZVzA5b05XSkVaWWR1aG03X043bmZNdVZUVGVjT253bkl5MXEyTnNGczQ4dl9LMzlUUEJQbDJiZUlScU9VV3VQZ0xhSDhueTI4SjVNQTJqUERwYlFpRDM1RTlac0J5YUNGYUc3SzcxZW9CNXp3dUFyZDVYNHlHRFJxTHRVYUZTcDI1aHVoV1U3Z19UMmFQOUZ2V0dDLVlBSWdMREVQZW9OSzVwcFBSRjYtRlNWbW42bjJKUFNWcVROenVKNFRQOVJwY0HSAfgBQVVfeXFMTnVoMWpia2dWNkU1ZWYwT3JuS3lEN2psQ2g0WlBnMnYtX1pWWE9SREF2RVlPX0tSdE12SnFma0oxZWdTNWVvYjVTcW9YUFFxUnhCUVdnSGVYblFZU1NIM3RmQ1BZcFpEYnpYY2lQMDhkSmZnX1RaZUhNWEZZbGUtc3ZWWXZVUmFfcy12dllNYWxQN2JWa21nSEw2OWZVcFRiM0F6M2lDYXJLQW1JM0xjc3BUN0M0LUJBVWY0YWdLdjFBRVE4YmkySllJcW9pLXZ5QVlJS0ZKM201MHcyWFQ0cnJmSDU5dHRhODNSeE5MLTJpVXRSYXVWb2Q?oc=5",
+        "date": "2026-05-19T20:39:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Así será la llegada de la era de los agentes autónomos según el director de Google, Sundar Pichai",
+        "description": "Así será la llegada de la era de los agentes autónomos según el director de Google, Sundar Pichai La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVhyM2U5WVIwM3p6bzZ2TUVzcjV5MnROSWoxMHU0SDZaWVJIZ3JPb1FnVEJSSzZBUVFnRWt5aThsdkJwTzV6ckJoZ1ZPR2JENXI3cGh2M0s2TUhNbGY2ZGFoTmhpdjEycHJGSklfMDZMV0d2d2dXeWpMdzJOTzE2bFk2OENzTjNKQWtPaW8xQzRaVElObklsX3RKVm5ydHd6SGdoWHpMOTRVTVc2LWhGRm1XSTNfbGlKeVlGMldvX0RTRzhsQUlIT9IBzgFBVV95cUxNME0wRXZ5OU1GeWgwM2wwMEZWV3Nua0hVUVFhNXY2cjhPODlVRVhkMDhITjk0b0FpYzdSci0xSDVMOVRiRExjSDlKbmRFX0JuZ05vbE9JYVN2WUVVRnlTLWJheFhpSjBCUmdvek81aTNDMjJGOTY3dzJpUEhFUnJHaTNmTGlWMEFxVmhrUWtjSFNmS19VRUNLWmtfWHB1MDI3RGp5eDZoYkMtRjBGSWotYUNUZG5nMjVuMGEyVFlaY29qT243NGNzcjVIOERjdw?oc=5",
+        "date": "2026-05-22T12:42:04+00:00",
+        "source": "La Gaceta"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Uruguay acelera el plan para un gasoducto binacional que conectará Vaca Muerta con el sur de Brasil",
-        "description": "Uruguay acelera el plan para un gasoducto binacional que conectará Vaca Muerta con el sur de Brasil Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZEhHejZDbURESEZXbXRzSU1QMDJLX0VoSHVXcUNnek00NXRDMncyeGI3dUM2eTZONDdmUFlpYzJpbWlySnRWanlRZW94TmZGQXRLbkNSR0NRSlQ4MlJBY1lxc3ZBazRFWjh2SllGMEwwNTdmZm9VNlBUdmZxMm9SQmpfM2VkbV90eUhJOVFrd0NqX0k0MV9oZnpqb29VR0ZtZWhBWUc5TFRieFlNMV94TWJnRjIyREdRN0xZ0gHAAUFVX3lxTE9UZ2lWUm00NXp4MUpSSlRpbkxoV0pseW9PX25zYU05SEg5QXRKRUdaXzJsUEpVQS1kLXJoYTBCRTlJUWVVVDJWZlZGc3dkdTUtNm5PTmFpc19nMTFINUwxOWpOWjM2bFM4WElkLVhqWFhFNWx3OTYtMnRXZ3RoNjZJdTZFcll3SDMyeUVDOGpRdEFKcFk2UUxreHhRVWU3LV9GSGgyMU5BdkJTNGFybE9TeDFiYVlVdWthNFZZV0Rvdg?oc=5",
-        "date": "2026-05-19T22:15:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Todo listo para la audiencia del gasoducto Tratayén–San Antonio Oeste: las claves",
-        "description": "Todo listo para la audiencia del gasoducto Tratayén–San Antonio Oeste: las claves LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS28tRUZ3cDQ0b1Zpd05YQnB2dll5N0hVcDBraUt0dFdQS2FtS21qYTFaYWFub0hCdXFVaWwtcjRnVXFPZVpMNHVFZ1Q5cEJsSHMzU2tQSDlFVzdQTHkycHJFRkdSNVpHM2t3MFNmNFE2a3FVQUF3c2U0Z0xjS2hfMExMT2NnQ2tNNVp1VmxvdGN1S0w5RGZGb3JCako0UEFuYUcxeTU3TFlsZHJ5LUpMV2RlaUZaN2duYVJ0WWZ2ONIBxAFBVV95cUxQRVpSajM5ZkJfc0pVSGZlM2g0eUhEdlZrZkNfWFo4d19oZi1fWUltbUJRV2lELThTdUI2X1piTTIyYzVEaGdaRWNKNzhRaXVxQlNTTGJMVzRkOVUxVkpxWGpGZG5MMGxleU9NMjdpcEZ5OXBSWUV2T3Z5bTJmZlQ5dmhpQ1lCOXZmNElNSUZVU0lBSFNURnhJUi1jSldSYkdmOFRiOVk4Y0pDY2JIXzJ5WjdIV2VJSURNb3VxeE9OMkItQVl0?oc=5",
-        "date": "2026-05-21T17:49:00+00:00",
-        "source": "LM Neuquén"
-      },
-      {
-        "title": "Vaca Muerta y Brasil, más cerca: estudian un gasoducto a través de Uruguay",
-        "description": "Vaca Muerta y Brasil, más cerca: estudian un gasoducto a través de Uruguay Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnRfTi1Cbkd1RlRicVFIMFJCMV9QMXJSQmE4aXdId1RqdVJMX1BwTURkWGFSeXNlYko4T0J6Z3J4LVpVVXRCenhPM1QxNEJaS1Q5Y2pWeTNoMEZtckI2VWU1aWFLTFN2QmdjX2xydktoZTNTakxVbW1kcTlteEhnb3Q5OHhNVEV1bHE3MzN0U0lER2JLMS13ak1XOFlIRFlsczB0OVJIbFZDeW9ZZ3RtNTRXUjJqUDkxWkppQjdOOWMxb2RVZTNB0gHHAUFVX3lxTE5udF9OLUJuR3VGVGJxUUgwUkIxX1AxclJCYThpd0h3VGp1UkxfUHBNRGRYYVJ5c2ViSjhPQnpncngtWlVVdEJ6eE8zVDE0QlpLVDljalZ5M2gwRm1yQjZVZTVpYUtMU3ZCZ2NfbHJ2S2hlM1NqTFVtbWRxOW14SGdvdDk4eE1URXVscTczM3RTSURHYksxLXdqTVc4WUhEWWxzMHQ5UkhsVkN5b1lndG01NFdSMmpQOTFaSmlCN045YzFvZFVlM0E?oc=5",
-        "date": "2026-05-21T16:36:00+00:00",
-        "source": "Minuto Neuquen"
-      },
-      {
-        "title": "La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta",
-        "description": "La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación La Corte Suprema rechazó una demanda contra empresas petroleras que operan en Vaca Muerta Infobae Vaca Muerta: la Corte falló a favor de YPF y otras petroleras en una demanda ambiental Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0hWUk8xUTZlYnZlYUxaTFVPX1dtdlY5MWpRRnZaSzFOSmFTWkZjX3VmcjA5YXl4MC01d1IydjVSa1hoMXVUOV9ZTVpSUmRDd1FTdjVqbW9VOWxHcHAxNVVYWFEwbFpXcm9sYndIUHgwQ1JHRUMzNmIzZTFRNU9uOXNsd19TcXhMZ3JIQlhyb2ZOeHdPSmFxTl9mWHV1YUEtZnFXTzNZVUxqMmItam80MEJVekJfWktOeXc?oc=5",
-        "date": "2026-05-21T18:46:00+00:00",
-        "source": "La Nación"
+        "title": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras",
+        "description": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras econojournal.com.ar La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación La Corte Suprema rechazó una demanda contra empresas petroleras que operan en…",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJ3Ql9IVGZpQmNOQ2prdFFOZDFNTWdPemQzcFRvVGUydmxVZ2tJck0wLU1Kc0pULWhpZm1acVNEQ05hV2VqcjZqYXNjQk5wQ1pjTzFXU3VIWk1DTlhYamZ1UDNKM0ljcmhYQ0FXY2dJYnpiY3dQZXJRS0FTY0ptOWgwSVhzcXB3NlVTT20tR1JDVHJRbUhhTVBCdlJ1SVVEejNmYUFn?oc=5",
+        "date": "2026-05-21T19:21:44+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Tragedia en la Vaca Muerta mendocina: explotó un camión cisterna y murieron dos trabajadores petroleros",
@@ -203,6 +182,27 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXBrLXYyR2RYS3JodTA1Mkl3amxITGlfY3l4ZHZ5b0p1MFpiX3EwWmRYRkFpb2xzaGFRMUxvNG4xQS1Sc0RMemdJS001NERnVTBaTGZvQUhqVFRlVElkSGdQdE55MnJCYlB2dElpM3BzcWk4MWU0QnNXZDVmME1NOFl5dlFkXzBHNV9DNmtuVEVydnBSSjhQSTZWVjdUUVpKM1VlVGtwZE8?oc=5",
         "date": "2026-05-21T10:42:00+00:00",
         "source": "Diario Jornada"
+      },
+      {
+        "title": "Por qué Argentina aún importa gas pese a Vaca Muerta",
+        "description": "Por qué Argentina aún importa gas pese a Vaca Muerta Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZktCWUZ1Qm9BUTg2TzkzVmhjOHg5Z1cxVmd1Rnl5cWNlbU9NWmtPODFZbmp0eVpXTng5ZDFoRVhyelRhVHFjMUF5WTY2RERqeHRvQldHUG1OWWZ2aGxQZHUwcWxaS1FRR0xwWXR2Q0hETUs2SmI1UG1OT3cxd2xoajZNS2l5V0JYTm9rdktGMk9GeWF2V0JqUUJyMWtzUXB4WUJLadIBqgFBVV95cUxQS0wyNFkzcjdlWGJXMDVEMHNCdDIxbXFwb1A3NU5jYVVuQ0Uwb09tbWlVZW5jTmRzaXd1NFYyVjZQTVdMYVllR2Q0RXkyck02S283NEluX0NNVFExS0NJR3puWmQxUkp4NWVCaFVDNU5BVWpFNlhYbGJUUkFiR2Q0elVUZWZaNHJTd2tMSl9qR2dsZElxa2NlN2pJWHd5NTFqcExlTzYtZWtiUQ?oc=5",
+        "date": "2026-05-21T22:52:30+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
+        "title": "Un puñado de petroleras se enriquece mientras los trabajadores quedamos en zona fría",
+        "description": "Un puñado de petroleras se enriquece mientras los trabajadores quedamos en zona fría Prensa Obrera",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWTJEOHFYaTlNMkVhS1JTbmprS01Qcm9QbVFIWFctWWxFS1lhLW9yamNtbXVqSWpwQmpNdlFfSld4YzI4OGRmdHUtenN5NjlPWmxyNlpvWUZhVUl3cDgtMDVwZl9qdkhvMEpBLWh0SVVodl91MGZnNzdfTmJvZDFvdUYwNEthdVlBbGttQkxFbFBhNzVCSnNBNmxSSm5XWjZhMzMxN0N6UUZDdmt6by1ydVVRMEwtRzM3WmxF?oc=5",
+        "date": "2026-05-21T16:37:44+00:00",
+        "source": "Prensa Obrera"
+      },
+      {
+        "title": "Trabajo en Vaca Muerta: lanzan nuevas búsquedas laborales para ingenieros y técnicos",
+        "description": "Trabajo en Vaca Muerta: lanzan nuevas búsquedas laborales para ingenieros y técnicos LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemR3ZkxlMEw4WnAwZHRXdXhCNWNua2QtdlhtSUNjTmdnOEZfTzFSYTNaOWZzcENYR2lGLWZWV1YwZ1hFY0c3TU4xcE5KR2tZNXlIMTBobW9SWXNPMDdfaVFJdFdrSkUxSm12UDJFMWFvOFA1ODR6Xy03bXdiSHRKM1FPUDROMzNaMHg0b0hoaUI3NzB1VENJLWFGeXFOX0hDWWFKTHRRRGs3Rm5KS1poSGpDYWJzRUNNNlBvSnJoWF_SAcYBQVVfeXFMUEFkbVBSN3NuekFpTDgtTDZBNjc0UXhmUGdrVGx0ZS1vSUpEVnJXWU5ERkRsZlpyUFBZckxTc2xsSFlJNlVldVpPTVIzVUJBLXBWSEVRSDI0Sm9vN1VTMWtNSW40TVE2UTJnRzB6SGZGbTdLVHNiTWVUUlZPQXRXWG43RmtKbUxDZnp5YncyajRfdkhRQWFsSzgwWWRJV2lneVBBSnhIYVVSeFNNamEtcTFyemNYbkJIVzIzLXloN3RGVnZrR0ZB?oc=5",
+        "date": "2026-05-21T12:00:00+00:00",
+        "source": "LM Neuquén"
       }
     ]
   }
