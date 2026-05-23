@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-05-23T00:01:40Z",
+  "updated_at": "2026-05-23T04:35:23Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF»",
+        "description": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF» MuyLinux",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1cxZjJJYndZMmp3am9qaXZLcEhSS2VZYTliREZScmRhSWJzUEhGdF9SQUEtVWs4X3pUWDR1U2NoVndkMmNnNFZNLWhaRy02bDdQRUE1SFM1dGVuTm81UFlwUmhjSWNTMHR6Z2Y0R2lWUGpSQ3hSdXIwSkp0cURtdg?oc=5",
+        "date": "2026-05-21T18:28:16+00:00",
+        "source": "MuyLinux"
+      },
       {
         "title": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación",
         "description": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación Infobae",
@@ -31,13 +38,6 @@
         "source": "Profesional Review"
       },
       {
-        "title": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF»",
-        "description": "TDF (LibreOffice) vuelve a cargar contra Microsoft por OOXML: «No existe soberanía digital sin ODF» MuyLinux",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa1cxZjJJYndZMmp3am9qaXZLcEhSS2VZYTliREZScmRhSWJzUEhGdF9SQUEtVWs4X3pUWDR1U2NoVndkMmNnNFZNLWhaRy02bDdQRUE1SFM1dGVuTm81UFlwUmhjSWNTMHR6Z2Y0R2lWUGpSQ3hSdXIwSkp0cURtdg?oc=5",
-        "date": "2026-05-21T18:28:16+00:00",
-        "source": "MuyLinux"
-      },
-      {
         "title": "De Microsoft a Nvidia: Citi Casa de Bolsa se adueña del apetito mexicano por acciones de firmas extranjeras",
         "description": "De Microsoft a Nvidia: Citi Casa de Bolsa se adueña del apetito mexicano por acciones de firmas extranjeras El Cronista",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQVlRdlN5Z3ptVTMyRnQtNHhXMExrVmZCYXdrbHhzNWRZb2lUUEtUT2FlanhXSFpRMEFoYVBYZjYxS2p0eVdGdEozOEpnMjhoX0NiR3Izbld3VHVGX0hscjBhZmM5cmJJaGJ6WlhLWmdOX1FSZ3ZXblBCNDNUR2hZd3JaeDRTVFNwTWg5WmlOdURYOFdjR3Fybk9nTEw0ZzN2c1Zwdi0td3pYSmZuOTFuMWlrQ3BNZzdZc1NWWmxMel92eFpJcXlyV2g2WnJyWWNycUU5UmtDMlVkU2FrcVZ6Yzl5MFc2b0JXZk1PaE9n0gGIAkFVX3lxTE5ac2FPcS1TX1NfVW1LUVoxaTBUdk5YYWd1U2ZlV2FPdnVQS2tNVUlNVk05ZUl4YmRjcUZTZXYxR0dneDdELU9MbWw2YVR5UXpkZXdOU19ramtwV0VVSXpLdkJZQ0xkNUNOWjZLa0RGdDYtSjRabUhCNkxEUHVwQ2xjVzYtU29ST2tHbDhkV1QxaDBVNEZnMFhXUnI3Q29lcUtpbmZHZEpvS1MxT0tvVEFudUM3WnFOMTZXaW1MUFIzaDhnem5MdXJsSHhjb0pfZVFYMzF2eDJrUE5xUEZaeks0YUpWczE3NWNyUXNMLUpsT2VCYzRaQnl5U0w0NGdkeEJIcXNXcjBxQw?oc=5",
@@ -45,11 +45,11 @@
         "source": "El Cronista"
       },
       {
-        "title": "Es oficial: Microsoft lanza sus nuevos Surface con inteligencia artificial local y seguridad blindada para la empresa",
-        "description": "Es oficial: Microsoft lanza sus nuevos Surface con inteligencia artificial local y seguridad blindada para la empresa El Español",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPV3FFOUFjMjBZbmprQno3ZFI0VFF1TjFNRk5iUWVwSlk0U2ZObFlxdC01cldDQVNrYUV4X1R1YzVKdTlVeExsNkd0Y3Fjazd2ZkRyUVBkd25QUnkwbnpZQU9hQm5XSFh3WmpjUjdYSzlFdnhlUHN0WWVadnBZLVRQMmo3RmowZ2Y2VE03LVVfdEI1SnU0bnpLSFFFS1J6R1NKY3J1SmVxVGVFY1VZWXNRZWU4bjhNSG84ZkFYaFRaSkRrUC1zUm9sZEgzaTEyZm5aY0ljNnNkeGRlanBRZm02VEtNNEFKZFVwUXo2OHhoMV9LY0lNLXhHaUlfbzV1ZklubVBGTTVLYUJ2cmJxaWNYamdWei1qNHfSAZwCQVVfeXFMT1Y5djViVjVVaTV5T3F3Z2V2LW9JdUh0Y1VudGhYWGd2a240d0tCX1NUSWJDamVCcjk0MGh2bllVTFJTN0hnaEpVTi1ZbG1mdHJvNGR1WWRyT2xfQi0tMUhFaDk0UjVXUlFMRnRFTjE3QlhSR1NNRDZXeVg1NkwwRFNxM05FUWFuWm9hd3QtdXJmS0FaamxURHJVMndKdWo4dFU4bnJ1WGRYX3c2Qm5wT0NrNzJQYjlSS3lDRGppN2JsZGVNOFFXaEZCekdtNEE5ek9zVUt1dExpeEhNWjd1QzN6YXpTVmhRNWtqM2QtODlnNm1RbHdCZUFVUGFQclRfbFVrLUJubmlBTU4yU3gxVVVrVkloWFRsSXlpZjg?oc=5",
-        "date": "2026-05-20T14:13:38+00:00",
-        "source": "El Español"
+        "title": "Microsoft elimina un gran riesgo legal con OpenAI",
+        "description": "Microsoft elimina un gran riesgo legal con OpenAI Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUkUwMjVtZEctWW80OHhwNUVmTXBwOTVlU0s4ODNMN3hOQ1JqakxpR1F3d0c1ZlIwZVVpS1V0akhBdmZDcVd5S245TEZZNEJESkZaLVV3aVJFQ1FaV1QtT0ZNbVZDNThxMFZLZzRrZ3A3bGM4cGw2RHQtU3h1dlphX3o2VkUySEdUMmdrdGhRdG5LU0YxamNpTXh3?oc=5",
+        "date": "2026-05-19T17:44:27+00:00",
+        "source": "Yahoo Finanzas"
       }
     ],
     "Marketing": [
@@ -96,11 +96,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Conectividad y desarrollo: Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora",
-        "description": "Conectividad y desarrollo: Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora diariocronica.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUzc3bGRvSmg3SUpmMkZDcTdiZlVyWVRuY3ZPUzg5ZGxpdlkwWnRtM19YUmFkYUh2cm02c0RoYmxIWGNMTnc4d09heTQ1d2NVbkFIYjdVamR2eWlOZHBxelRfRmlCeHRRc1hkZ3JSLWRpRndaNWVyYWxEeExpLXpoblpFR0dZVzhKRk9HVG5NLXRwZnp2UWF3UFY2R2V1UmtSWFFzMTNYRjI3YWZIZWJfbjhlQ2xBb0Ywbl9iMGlkNm1UeFd4ajBHSWdMd2JtcGhWLW0yZ1ZNWWE1LUk4bjgzRkR0U3k1UnNEOHBEblR3Z3daLTFuX2fSAfsBQVVfeXFMUE15SVNqaTdaVmYtZTQ2YTUxM1I1WUFrc24wOFlOVTExUFZ4YXVtaHZDTUhkdmRtX0xqNXhuMDFhOERob19DSXVXR21wSHA0SzR6dVEwTFNGdlNCakJieUNXTTlJMmo5dzBMR2FCRU9LbkZ3WGx1WlAxSllrLWNlMFVXX0czNGpINHN5eFZzampidHhmb1ZvYThFSUs1ZFFyTmw5ZzVMUGNVTXQtemxTa1VtVzVZaWZBQjFFQUNZRHUtLTlMNHlkcnE5bUttOVdfZlphcnE3MkVqZmdFQnowZEViQWpfQTctNkpoeWxNSHI2OVJpaTZYWTRBdG8?oc=5",
-        "date": "2026-05-17T02:49:09+00:00",
-        "source": "diariocronica.com.ar"
+        "title": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora",
+        "description": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora NOVA Chubut",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkQtcUhKR1dNNXpTbHAzb0ZKMWpGT2hURXhtZzc4MklJdGVLMGJYSHhyWWFzMjNKdTc4Nk1TV01uRi0yNXFyZXk4ZHo4TDlEYWpZZnV1b3JUQzRVcmlwVW9QM0dhOHU3bHNibHhNY3BRZnZNMW9BSFJuTlBOajZzcWc1TzNVUXRQdk1mX3FiakpkdXFUOXBuc2Zuc0Z1RkNjMHBoRFFaR0ZGbXYweEtyM0xWSXN3c3ktWW5sRGlqMG9ObHZheWlBdUZwOHU5bERENGdxQ2tn?oc=5",
+        "date": "2026-05-18T11:43:43+00:00",
+        "source": "NOVA Chubut"
       }
     ],
     "IA": [
@@ -126,38 +126,38 @@
         "source": "Perfil"
       },
       {
+        "title": "Bruce Dern, leyenda viva del cine a los 90 años: “No me da miedo la inteligencia artificial. Hollywood no desaparecerá”",
+        "description": "Bruce Dern, leyenda viva del cine a los 90 años: “No me da miedo la inteligencia artificial. Hollywood no desaparecerá” EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSWxMSmV2dXRtM19BVW9PenhzZmVDc0FPbWJfNl9NVWpsVHZZUGhRTmhKTi1fWlFqb3BPVjZYeU56NE9lQ3V5OFhCNmlLVWtaTHpTNDJCbGlFWEVOV0VnSVVFOUw5aVJ1ZmZPcWdmc0lwUXRtZjRfUkZ2R0hZS2NUcTlTNm9BLVk3b1hPLXV6eHdNM2xyQTI5TlZVNTl0WFh3b3JtNjJQSkd3UjZ2ZGdoM1RZWVpWVXVRaklneWtmZl83UGhYU3hOSHJqMExreTdkNHp4dFBBY1dFaTlrN2M5MHZiWEVGMXUyT1J3eXNrUXFXajRR0gGIAkFVX3lxTFB5U3daOUVtVWV5b01ERERfYnV6MVRuSUVQWlJYSXZHQW1INmtJTkc4OVpNLWZtLS1qNWJNa0tfTDA5UHZlUjZhNHhKaGt4MHo3MjRaSkVmWk95bGQ5ODVOWmI2aDY5UjEyaUI5d21xMXR3aXpGNGhhNWdwbEtyUTB5bkdRdk5kNEY2YVFydUdzTE9LQjFZZXJDVzBrWjBoVjJ3SlNkU2hOYW9ERW1yeGdHQWdZLTNPT0kxdFNzc0xsNUVOZFlHbldFdF9HVzF6ZEZEUUVZS0Rpd0NFR3Z4MktTQXJNanlnQ3JFNjVYMWtBbzNrTGNFeG9iXzY4d2g3MDBmUWxtN0ZyeQ?oc=5",
+        "date": "2026-05-23T03:30:01+00:00",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "Trump publicó un video hecho con inteligencia artificial en el que “tira a la basura” a Stephen Colbert",
+        "description": "Trump publicó un video hecho con inteligencia artificial en el que “tira a la basura” a Stephen Colbert La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYzNOWWlqWXZ5QkMyOUpMdVg4T01VSWdDZmUzN1Z4OGJJbGRsVV8zakhHaklsS2pLVVFoajdjcC1mYjNBT21wSjZFUV82NlB0djJybmRhekVVaFJ1SjNOWTdHdWtLYkVySjhFRHhKb3hHaWZ5R2MwV1Y0R1AtTnRockJuQXg5YTBjRV9wVUxTVWNTQmlZczRBRC1rVjVyaXZWbzFCVUJ3SDhscllmN2c4eWo0Wkk4ME9hektQVmtUU2xwU1RXb3JBMEtxdkl0Nzg2MUxVWVJlVlpBbkE?oc=5",
+        "date": "2026-05-23T04:11:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Personal acelera su transformación hacia una operación impulsada por inteligencia artificial",
+        "description": "Personal acelera su transformación hacia una operación impulsada por inteligencia artificial Personal Institucional",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yblRyNGhRQXFxdEQ3ZnVVVFptTmdTMEtyNk5vc2NZc0FYQXNpY1FBZ0FjbEh2RVdFVFh5dC11Y3NSaU40cWlzRzc2enBQaWRFMHdRWV9LaXk4eHh0NFRNYmpXaFdKTUZUSE9YRkRSeW9Sei1xWGc?oc=5",
+        "date": "2026-05-21T07:00:00+00:00",
+        "source": "Personal Institucional"
+      },
+      {
         "title": "Este país de Europa busca regular la IA en su constitución: ¿qué propone?",
         "description": "Este país de Europa busca regular la IA en su constitución: ¿qué propone? Página|12",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3ZqNmh0ZG51Nl82VGl3QUZNQnVJbzVKVl9lcDItNXhxa2JER0VxQmZSd3V2aThQdklkcE0wdm9iTlZYSDltbWtBVU9aRWxES0tmTXpuMHZBSnpza3JIcjUyYmZNUVB2N1psSEZXYVlMbkp2M3hlcGNWaGJXdzI0WVkxTEgwanduWG5nQkczd2liNm5rcGFMNERmZFRwT1NDajZDWGFsODRjQnhvUXdr?oc=5",
         "date": "2026-05-22T14:37:01+00:00",
         "source": "Página|12"
-      },
-      {
-        "title": "Personal transforma su operación con el uso de la Inteligencia Artificial",
-        "description": "Personal transforma su operación con el uso de la Inteligencia Artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVRyUjBKU09UR3BOVnR1VjVvUHVvSzhsbVNfbzRHTjJxRVZnejZVQkowcHBZdWlHbzNVejYxcFhGd0FaOFB0eEEtdzd4R204bEwxQ3dFRmx6dnVfVlJhRXpubWVaNUJZZ2N6NmdjTG5QaExVcTUyMGgzazBXTGFBa09ZNm1YN1BSWjJkZTVqSkxYV1Z5YlY1TXREYTdqLWU2REY1dUF0SWpJU0NJeWc?oc=5",
-        "date": "2026-05-22T15:22:01+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Por primera vez, una inteligencia artificial permite ver cómo una enfermedad altera todo el cuerpo, célula por célula",
-        "description": "Por primera vez, una inteligencia artificial permite ver cómo una enfermedad altera todo el cuerpo, célula por célula La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU0s3cmR0ZUtfQzlnbGVZcmwzSV9MTnEyQUhrM2F2RDI2Q0hkUE9jZzA2TDlGdUVPYkZnQUc2OWFOSm5ldG1CVnlzV2tRdnBYckh0WkcydDFrNXQ4QVk4V1d1TTUteGtEOUdpLXJaSHp0eU1Ld1lLVkxmUVVidC1CandKTU8zYm1SSHd5VlNpdk5SdnlSc3FZTnkyOVJaZGJ5NWJtMER4VmtHTEp1Uy13R1lwWnNtQzlVYWlpS0ExbnFuUkNQc2R3SlBsUGxmVmdqZnpLWTlTdWFWVU5UUXRfNg?oc=5",
-        "date": "2026-05-20T20:37:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "NVIDIA rompe récords: ganancias millonarias, inteligencia artificial y dudas de los inversores sobre los divid...",
-        "description": "NVIDIA rompe récords: ganancias millonarias, inteligencia artificial y dudas de los inversores sobre los divid... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTG5lbFZTdElmZ082b1pzcE1EYWMwV09HVVFySmFlT1lmQndxQzlfOS1aSTFaZVN3T1d2dHp1RW1jbVc4VndBY3hyRFFoSHZLREptdGxJbWNpcGtoUmRxYjBGRllxZHhPVEhyZTlSakYwM294aUV5Szg1R1ZJa2tXYzhCbncyWHlDcVNqb3VoRGNMdmRWdi1qemx0MDNVWTk3NTYyc01MYXNpbVFxYVByWHg0N21EQkJpZmYzLUJycU5GYjlJb2QzRkJfRFBZYmZyTjQ3dWFncGRPVjY0TnFmM1FSa2hvRlU3d21DQ0FPdzXSAfYBQVVfeXFMTzdXeE1ndGFNSXl6a2sycE1oOXdrTV95dHRzX0JYcnRTb2NoX1NBSkNZZEVONU5SXzUtLVptd2FxMDloYW5Wb1FwTmdjMVpJTS12X0xYaVdHZG5hajdJOGdNb3pSVmIwZm9IQVA3c3MzMVdEN1p2bUo4NGhnTk9iRkhqNXh4MmJQTndLZkJYbXgyODllUVFOZi1XQkFTbWVRU0VCREhiSlBwdk9ERlIxV2hEXzEtTGt4UkJKTlVWQkxOV01WNTVYZTlYNVRsZzlpXzcxREVPSDloMFFQS2hCbEJjZGlic2V1SElwUG40Mnlqa3pzWktR?oc=5",
-        "date": "2026-05-22T22:13:49+00:00",
-        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras",
-        "description": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras econojournal.com.ar La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación Fallo de la Corte en favor de Vaca Muerta La Política Online",
+        "description": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras econojournal.com.ar La Corte Suprema rechazó una demanda contra empresas petroleras que operan en Vaca Muerta Infobae Vaca Muerta, demanda floja Diario Judicial",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJ3Ql9IVGZpQmNOQ2prdFFOZDFNTWdPemQzcFRvVGUydmxVZ2tJck0wLU1Kc0pULWhpZm1acVNEQ05hV2VqcjZqYXNjQk5wQ1pjTzFXU3VIWk1DTlhYamZ1UDNKM0ljcmhYQ0FXY2dJYnpiY3dQZXJRS0FTY0ptOWgwSVhzcXB3NlVTT20tR1JDVHJRbUhhTVBCdlJ1SVVEejNmYUFn?oc=5",
         "date": "2026-05-21T19:21:44+00:00",
         "source": "econojournal.com.ar"
@@ -170,18 +170,25 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Tragedia en la \"Vaca Muerta mendocina\": murieron dos operarios por una explosión en una base petrolera",
-        "description": "Tragedia en la \"Vaca Muerta mendocina\": murieron dos operarios por una explosión en una base petrolera La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkdOOGlkRDJRZGhkYk42N25NUEVUaXRuSDFKbjFpZ21HUTNXYU5iRXQ5b1JHWHA5NVdIdzg4QlRyOWItTDhELXdYREFnMEV3aUU0dHBjdjhIYThTR05NUTEzSVlkY2hiVXlmT0g0RzlRUndieElla2VnT3dSbnRpNjBxRk5ROXJicGpxdjB6aWdLMUIzR2tla05Fc3BTN1JoNVFCdDd2OHc2VWwycGVLZWU1M0RvM1J1NGk4V2szVmliNkk?oc=5",
-        "date": "2026-05-21T12:42:54+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
         "title": "Vaca Muerta: explotó un camión y murieron tres personas",
         "description": "Vaca Muerta: explotó un camión y murieron tres personas Diario Jornada",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXBrLXYyR2RYS3JodTA1Mkl3amxITGlfY3l4ZHZ5b0p1MFpiX3EwWmRYRkFpb2xzaGFRMUxvNG4xQS1Sc0RMemdJS001NERnVTBaTGZvQUhqVFRlVElkSGdQdE55MnJCYlB2dElpM3BzcWk4MWU0QnNXZDVmME1NOFl5dlFkXzBHNV9DNmtuVEVydnBSSjhQSTZWVjdUUVpKM1VlVGtwZE8?oc=5",
         "date": "2026-05-21T10:42:00+00:00",
         "source": "Diario Jornada"
+      },
+      {
+        "title": "Qué dijo la empresa tras la tragedia en Vaca Muerta que terminó con la vida de dos petroleros",
+        "description": "Qué dijo la empresa tras la tragedia en Vaca Muerta que terminó con la vida de dos petroleros ANBariloche",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWEFsTjgxOGJQcG1nQVYxVm1ENDlmdXdjdWttMTQ1cHVwazgwZmpRc05TLUkxRHRjMVZSNmRNRE5wYl9IN1BIMS1nZlRtd2FINkdFNmhfZTZvUWFWYnNHZWItZjU0LUYzelpPd1VGT2haVVBDeTgxazQyOXVWU2dVRFZrMGZnTVU4VmdQTXZKWVV0Q0xZWXI2MjJRdExfaURVR1hOZUhMODZwRk5xc0xfbmw3ek1zazVCMzJTZEFKYUZ4NW9VNG93TE11Z0g5N3RlcHJNUzV6eWVFVVJDaVNIbVJvQ2F0Z9IB6wFBVV95cUxNYi0wdmFfaHloLUpONDRYc3l2alBNUDI5eEVCNmxTMkY1THdwNWZLZXoybXg1M2JCRFZOOVlmMktjWEY0a1BaYVYyR1JCbEh3akJFZ25uQWJEczVYUzBWcWw2VVJKV0JOeV9vbmdoZTJPTFJLQ3YxU3BGcGxWeTZFdm5mdjBFazE0MnZUcHhDTkpFa29jYmFydGpDS2lIekg4T25MZTVrSFcwaElIT21BZHZsZDhzVnptUVBfTFBlM2ZzVDBGNGhvSHY0SGplajFkdnd5aFA1SmJobzRpN2E0cEczcENkT0t5X2dJ?oc=5",
+        "date": "2026-05-21T15:30:00+00:00",
+        "source": "ANBariloche"
+      },
+      {
+        "title": "Vaca Muerta sigue en auge inmobiliario: por qué crece y cómo funciona el primer fideicomiso con renta desde u$s1.000",
+        "description": "Vaca Muerta sigue en auge inmobiliario: por qué crece y cómo funciona el primer fideicomiso con renta desde u$s1.000 Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdXRUa2VIN0NKem1GNGpLUjVONFRTdDU2WW9TVXRpOFM5bzBpYm9MM0kyeHpIVm5RVFVJcXhBZ2ppQ0hWbDlkSnN1aDM3REUxNFJLLXFKcEgxVk9nOXhoaHlIRlhNaDVOSmNyY05RYXlWRUNTa3FSMzJiNjVkb21CN0ozblhpejZsX1lHZ2g0eUZ1Zmhjb3BMbk9lWHI3REk4Zk1aYjBCbUZGM3d0dVZKTUloZlZFQklpTkpoZ0JCT3NjUko0R2xEd2ZFeDNuQnprNlZpa0R2Y9IB3AFBVV95cUxNNG9rV3ljbTBFNDdNWU95STNVVUhMNjUxMEIyR3R5bFNraVlIazdvaGNabUx2bnAwTWt3VDB4enlrVUlXVDlKa2pLeTA2SmtPdk13cGxRNko2NWY2TzJ1Z1RIYlltQnZZejRvQzJVcGZPOV9KOUV1aEVrYkxoX1hLQTVIdnlSUUlneTdLd3JEd1h3cnJEcHFCeUs4WFNrZ0NGR3pYV0xkbnRZa0ZMLXltY3dJVHBoLXkzSk1UR1Q3NVRqbDA0Rm9SeHFRdFZzeHRaMVBIMi1JZUYyNDlE?oc=5",
+        "date": "2026-05-23T03:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Por qué Argentina aún importa gas pese a Vaca Muerta",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQk9OZjVJcHBJSVdsTDI5eEFTRWhocGJ6bHp5djhHdmg2ZmFMbVNJa0pFVDU5bXZxbFhqVWdXODJNM0ZqdDVtMERFOWpMaUtRQnN6aHZsRnNWSUtIcEdKNFR0WlJzbkhjQWRjRV9vQ2psS3ZXMXpFU0R6aXZkZndQdVp3ak1YY3BDc1ZyUNIBkgFBVV95cUxPVEhXejFIWlNHSkN6d2xFVTEtMExmYTN0aGthZWxlTHRRS2hPR3VBdUpCOWxJb3g5dUVkdTFwcmJURVBPSURzZm9JRGJBbHRTLXNlNDRkc25xNGp6Y0hjajNwUE5aeEhiXzEzUU14azNrbDJhNHZIcTB2Rnd4QXVTR2VfQlYwVTdpOGlaRHk2SzlMQQ?oc=5",
         "date": "2026-05-22T17:52:00+00:00",
         "source": "Urgente24"
-      },
-      {
-        "title": "De la fruta a exportar Vaca Muerta: cómo Río Negro busca convertirse en la nueva potencia petrolera",
-        "description": "De la fruta a exportar Vaca Muerta: cómo Río Negro busca convertirse en la nueva potencia petrolera LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZmN3R1pqcnBnM2JXRDFScEd4LXB4MFU5OG8yNEdZaDNzY21IeEM2Z2wydDdEZDZNSTdyTTRkbU9nRFZiZnhYdkFmYW5ueDYtZGkwU0ZPdkRkLWRtcVpDYW9OWFhDTm9yWkJmQlRkcUZncGNja2FQNk5RZ3FHQi1TM1Z3YllFZEo4UFd2eUF5c0RKQVlTRFVQeWdYbFpIRjctdjduanpHZjhESTNzZ29iOUh6OVB6MVMtU2o4dDVVTmN2Xzh4QmJ3bWxXSDk5MlFpTE1FU3JGZGLSAd4BQVVfeXFMT201Y0R5VXB4eF8tWWRaaUdGbGdzVzRWb0hlNnFKc1N4dFJEcDBaWVFQMXlKZWpCcDVFV0hua29VU2xoSzlaeDB4c01EcmJfZGZ2bUs3SkxnR1g5SGdUOHFRQnUzcnNJVGNTSEJVbV9aeEFJWWc4UGhDYTZsRUwyU1kwM19BRlpPUVhlVld4UEtVeUtxR0pVTE9GMlpHWnd5T0JVQy1JWkZoREFLMk9tNzBfNFdHNzJrN3o3cGlURUpFR0JpUHlDdFEtcXZtWUpneVJaZGE1Q2JXMTZDelB3?oc=5",
-        "date": "2026-05-22T14:29:00+00:00",
-        "source": "LM Neuquén"
       }
     ]
   }
