@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T07:27:44Z",
+  "updated_at": "2026-05-23T09:46:51Z",
   "categories": {
     "Microsoft": [
       {
@@ -13,7 +13,7 @@
         "title": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación",
         "description": "Ejecutivo de Microsoft dice que la IA catapultará la ciencia al automatizar investigación Infobae",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWURZa0lzRm5FeFpZSWVLZUlMdElMeVAwU1ZySmJ3NXdwQ0w1Q0pLaFpWNTlYYkVOZFRzeEs5ZWRxS0xiMXF1VXRnTGJtMVV4ZUxjNzdCWm5ManppSlJ6bEJGVGh3cFdGZFRTT0ZXaHR1d0xjN3dnblJqZHNlMG9iRW40Nkp2MHdTZnBvYXRMVTg3MHlGRS1lN3pER2NiTExpN2VkdERpbk1ycV9ldDlPZWdyMHlRU3VWX2FWdkxNeElIUWVIeS1BZFlVU0FxSm1iemNuZVhsQ1rSAfMBQVVfeXFMTmZueFNNWThiZ3BvaFAxd283Q0x1c0FtU0wyLUJ0RTlNanFhQmF3blJPclFTOTZfVWYxZjk0eGZ2cjI3Ykhpemx4U0sycGpzN3dOcXFLcUlHQnJGVXRXYzVtbG5yNFBsOTVQcmVfSXpJREl2QnZyVkVWVkMwSzBjQ04xeHMxRDlyYjlzZ2NDTmxRV0xIN2ROb2FqbkZCOGMtQUw3TW91eEhVOXJVeFkxQnZKNWZuckRuWEtTMThkM3lpSkZtUWhxUXJuSUc1UkpyRU1OTEJiWGVhS3d4cU9lRGhtOFg1WGtnWjJ4MTVEeFBlNDNz?oc=5",
-        "date": "2026-05-22T13:25:14+00:00",
+        "date": "2026-05-22T14:19:00+00:00",
         "source": "Infobae"
       },
       {
@@ -22,6 +22,13 @@
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
         "date": "2026-05-22T10:30:00+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Cinco aplicaciones gratuitas y de código abierto alternativas a Microsoft 365",
+        "description": "Cinco aplicaciones gratuitas y de código abierto alternativas a Microsoft 365 MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGZISEtqVU8zMGhPbmlyQ1YyZjNoYUNfVWliQU9hY1FrNG8wcEVlbEI0X3hxSHliWXdPSXNKdnJmdkRJQlI2UlYyN1JEeldsdzFPLUhVTllPZHBibDV2TFdWeUZyNlpUUEZLSzRfYmFJcWdRelAxN3B5WW1ZQTVYQlQ2RGRzSmFDYWYzRHNqMXFTSmQ4UmJrYV9kbS1rcWdKUlVPZXoxd3FEOHNGN00zb1k3TG9nelhn?oc=5",
+        "date": "2026-05-23T08:58:40+00:00",
+        "source": "MuyComputer"
       },
       {
         "title": "Microsoft Teams se despide de una de sus funciones más queridas para mejorar la experiencia de usuario",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQVlRdlN5Z3ptVTMyRnQtNHhXMExrVmZCYXdrbHhzNWRZb2lUUEtUT2FlanhXSFpRMEFoYVBYZjYxS2p0eVdGdEozOEpnMjhoX0NiR3Izbld3VHVGX0hscjBhZmM5cmJJaGJ6WlhLWmdOX1FSZ3ZXblBCNDNUR2hZd3JaeDRTVFNwTWg5WmlOdURYOFdjR3Fybk9nTEw0ZzN2c1Zwdi0td3pYSmZuOTFuMWlrQ3BNZzdZc1NWWmxMel92eFpJcXlyV2g2WnJyWWNycUU5UmtDMlVkU2FrcVZ6Yzl5MFc2b0JXZk1PaE9n0gGIAkFVX3lxTE5ac2FPcS1TX1NfVW1LUVoxaTBUdk5YYWd1U2ZlV2FPdnVQS2tNVUlNVk05ZUl4YmRjcUZTZXYxR0dneDdELU9MbWw2YVR5UXpkZXdOU19ramtwV0VVSXpLdkJZQ0xkNUNOWjZLa0RGdDYtSjRabUhCNkxEUHVwQ2xjVzYtU29ST2tHbDhkV1QxaDBVNEZnMFhXUnI3Q29lcUtpbmZHZEpvS1MxT0tvVEFudUM3WnFOMTZXaW1MUFIzaDhnem5MdXJsSHhjb0pfZVFYMzF2eDJrUE5xUEZaeks0YUpWczE3NWNyUXNMLUpsT2VCYzRaQnl5U0w0NGdkeEJIcXNXcjBxQw?oc=5",
         "date": "2026-05-21T20:41:53+00:00",
         "source": "El Cronista"
-      },
-      {
-        "title": "Es oficial: Microsoft lanza sus nuevos Surface con inteligencia artificial local y seguridad blindada para la empresa",
-        "description": "Es oficial: Microsoft lanza sus nuevos Surface con inteligencia artificial local y seguridad blindada para la empresa El Español",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPV3FFOUFjMjBZbmprQno3ZFI0VFF1TjFNRk5iUWVwSlk0U2ZObFlxdC01cldDQVNrYUV4X1R1YzVKdTlVeExsNkd0Y3Fjazd2ZkRyUVBkd25QUnkwbnpZQU9hQm5XSFh3WmpjUjdYSzlFdnhlUHN0WWVadnBZLVRQMmo3RmowZ2Y2VE03LVVfdEI1SnU0bnpLSFFFS1J6R1NKY3J1SmVxVGVFY1VZWXNRZWU4bjhNSG84ZkFYaFRaSkRrUC1zUm9sZEgzaTEyZm5aY0ljNnNkeGRlanBRZm02VEtNNEFKZFVwUXo2OHhoMV9LY0lNLXhHaUlfbzV1ZklubVBGTTVLYUJ2cmJxaWNYamdWei1qNHfSAZwCQVVfeXFMT1Y5djViVjVVaTV5T3F3Z2V2LW9JdUh0Y1VudGhYWGd2a240d0tCX1NUSWJDamVCcjk0MGh2bllVTFJTN0hnaEpVTi1ZbG1mdHJvNGR1WWRyT2xfQi0tMUhFaDk0UjVXUlFMRnRFTjE3QlhSR1NNRDZXeVg1NkwwRFNxM05FUWFuWm9hd3QtdXJmS0FaamxURHJVMndKdWo4dFU4bnJ1WGRYX3c2Qm5wT0NrNzJQYjlSS3lDRGppN2JsZGVNOFFXaEZCekdtNEE5ek9zVUt1dExpeEhNWjd1QzN6YXpTVmhRNWtqM2QtODlnNm1RbHdCZUFVUGFQclRfbFVrLUJubmlBTU4yU3gxVVVrVkloWFRsSXlpZjg?oc=5",
-        "date": "2026-05-20T14:13:38+00:00",
-        "source": "El Español"
       }
     ],
     "Marketing": [
@@ -133,18 +133,18 @@
         "source": "ACI Prensa"
       },
       {
-        "title": "Promueven sello en libros en defensa de la traducción humana contra la IA",
-        "description": "Promueven sello en libros en defensa de la traducción humana contra la IA Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1dWdkpfUUdhNkYyaDAwSlh6bU9rV3Qwam4xYjM4cEo1MFpaWEEtM19iQi12MmZOcDFIRUNqa05QZXFSdGR2RU5TNlBOdWxmTTRObnVrS3BsTmV5REdrNzRNRW9CaXJhYnZkNFJ3ZGpMaGUxLWx4VkVobDhVQnNWWWtWOWtvN254WXVjYU9lNmVsUjNSR2xiT0JCSXFvS18zX1VhVWx3ekJhb01CS1dSV0FVbWgxNm9uNmRJ0gHAAUFVX3lxTE9NS2lGM01ubTNBUEJjTTBjMmlSRjQ5ZlliWVgyRnBCV0hfeEN2UlBER01MVE1sRGJFT2Fpd1pUamJ1dHBBeEV3SjREY0d4VjloODhnT1pBdVFMWEh5NndmU3lBREZ4TzJEY0V4Z3I4cmN6Y3NYQnB5SlBrRmUxRDlhei11UlFEZ0dRQmFWZVQ3cDdGQUI4aWluYXVwcmxpNzlpTUZUVEdKUVVlWEdTSXZ5Tm80SFBKZ1NiWXlZQ2piNQ?oc=5",
-        "date": "2026-05-23T05:56:07+00:00",
-        "source": "Perfil"
+        "title": "Ekoparty Miami, día 2: más hackeos con IA, fraude millonario en Brasil y la influencer cyber que conquista Instagram",
+        "description": "Ekoparty Miami, día 2: más hackeos con IA, fraude millonario en Brasil y la influencer cyber que conquista Instagram Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYTJyLWtRcFNRSm51NjlPWWFEM0F0NXJwN3ZGZ2VZeUJOY2c5RDh2VGNXY1VrcFBMUzZiOWktRHd2dDRGSFFfTjF5UXBxTHVleldpdXZtZ0JDeFR3S3otRXdOejFkR3R3by1kS1dkcFNVd3hMUGNaWFNBUFFiMHFBZERoNFdOWTBGeDN3ZEdtaS1YZEY2MVBpVjVEempOSkhNVW1IX2E5dzBCZ3lSUGlkUHRNYWV2cFVjN0EtM3dvRG1Pa2twTkE0cXA1U1N2QWhjTEFNeHo4cm1ZaTNxQXfSAeMBQVVfeXFMTklDWEFmVm13dHFnN3NIcUtTQVE1Rk1NNG5zYUhuYklPX0xFSlloN1ZpdXcxN3FPb2hRY2FOdW5NZ3ZfMUVzQ21RSXByZnFjUEFFb0R1aU42MlN4a21yY3Zwb0dScE8zTmQwRUpRbXRaWE1LdDlDUm5LZ2lJOVBWSHZNcE9NY0UydVVZTUVqS05UQjhDd3FzSFY0ZlpfYVhidXBibFFub2xLWWQzaURSaTE1WEtZY1psakpwOWVqcmYyM2stcVBTWWc4TGtzLTR5Z19TOXRwMjN6VWlqUW9RLTBQRlU?oc=5",
+        "date": "2026-05-23T09:00:20+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Bullrich: “Explota la IA por no entender tanto feudalismo”",
-        "description": "Bullrich: “Explota la IA por no entender tanto feudalismo” Perfil",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZFkzcUowLWJFWmpzRm9YNU14N2lQZ1RGcy1BYjlMQ0RUZHpybjdhS3NKOGxTaEpYdVlXRFRyMnZlTzgwZ3ZnVnY4Nk9rSVRKT3NkR3hTM0FPQW82R3hOLWpFN1RhMDc5Z1VwQl9jQ1JaRGtqOVNqUmdnWDVWc003TUNPUXBReEtRYjEyRWV1VVd1WWt4Ukd5b1h2MWFlNUNPbzB1b9IBqgFBVV95cUxQa3lYWE5iSGJJNko0TzduLUR1NERZSjRHTlJub1lwVExPM2E3UVowSzhQcXJXSmRORHM3R3dvRFhZUWtOeUktZnBqd0dkUE1kN3NSVFZURmlYT3B1SG9yaFBkLUhKUVZJMnd6dUxFNnRUbjF4SFNlNWFGWE5YMHJjM3VOWTdQN2k1M3NYUmEzWkVoOFV0S0lxcXB5ZXBuZGlwQVJnVTZhVGVLUQ?oc=5",
-        "date": "2026-05-23T06:32:02+00:00",
-        "source": "Perfil"
+        "title": "Sentir antes de acelerar",
+        "description": "Sentir antes de acelerar La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnZPWS1RTVBfNHNiMmtnOTVuV2NHNWwyczdFUHlsYm9KN1NjSmlibXB0c2RVTWlFSmNDc2MxLXpCZDlvRjM0cXBUTDExc1lpTDI2M3kyOUlvLVNLRHJNcFJQNXBsRzFwd1RRdVplVk5DMXlkRmhYckh1bXA5MEZ2d1NfTEJxb2RlMFRz?oc=5",
+        "date": "2026-05-23T09:39:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Personal acelera su transformación hacia una operación impulsada por inteligencia artificial",
