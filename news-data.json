@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-05-24T16:05:49Z",
+  "updated_at": "2026-05-24T17:55:57Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Microsoft y Anthropic negocian alianza estratégica: ¿De qué se trata?",
+        "description": "Microsoft y Anthropic negocian alianza estratégica: ¿De qué se trata? Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2pieGhFVENneXlqUExHVkgzZVdJcF95Rm5oQ21HbFdWb3UzcXM0TFRHM2tBZkZMT0RWOVR4N1BFaFBhSzhLOW4taXM1d2dTSlU0WWVJenFELXlOb0VaVHNmRDhDQ1o4ZVdsV1IyY215Sy00bkZaVVdmazFIYjIxRVpsbnlISGlIUEc4SUFiNzlSVnBacjNZYUhKdVdacUF2cmNFLVVXSHYwZ1MyQUgw?oc=5",
+        "date": "2026-05-24T16:59:48+00:00",
+        "source": "Yahoo Finanzas"
+      },
       {
         "title": "Microsoft lanza alerta urgente: estas dos fallas en Windows 11 podrían poner en riesgo tu PC",
         "description": "Microsoft lanza alerta urgente: estas dos fallas en Windows 11 podrían poner en riesgo tu PC Infobae",
@@ -10,18 +17,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
-        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
-        "date": "2026-05-22T10:30:00+00:00",
-        "source": "Xataka"
-      },
-      {
         "title": "Cinco aplicaciones gratuitas y de código abierto alternativas a Microsoft 365",
         "description": "Cinco aplicaciones gratuitas y de código abierto alternativas a Microsoft 365 MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGZISEtqVU8zMGhPbmlyQ1YyZjNoYUNfVWliQU9hY1FrNG8wcEVlbEI0X3hxSHliWXdPSXNKdnJmdkRJQlI2UlYyN1JEeldsdzFPLUhVTllPZHBibDV2TFdWeUZyNlpUUEZLSzRfYmFJcWdRelAxN3B5WW1ZQTVYQlQ2RGRzSmFDYWYzRHNqMXFTSmQ4UmJrYV9kbS1rcWdKUlVPZXoxd3FEOHNGN00zb1k3TG9nelhn?oc=5",
         "date": "2026-05-23T08:58:40+00:00",
         "source": "MuyComputer"
+      },
+      {
+        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
+        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
+        "date": "2026-05-22T10:30:00+00:00",
+        "source": "Xataka"
       },
       {
         "title": "Cambios en Microsoft Teams: la plataforma retirará una de sus funciones más queridas",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTWJjS1FzUjZ1UWpLVVc2ckV6ekt0cjh5SEhhd25ldlM1emFHbEhCSmJRMlV3bUtrX051ZUpFcjBUOXgzVVFFTGNxcGt0OHFsOWk3cHc3bW02RWNvZG1mTXlOS09pT1Rnd3FnaTEyeXpKRm9zT05qSk5CN2dyZVBwRnhld1U2V1llLWZtamZjUk5scklRSU5EY3l3Rk1GWXpQY2RxcEJOTFVYZE5lbzN0LU9pQ2hia0FnOENJbw?oc=5",
         "date": "2026-05-22T04:29:42+00:00",
         "source": "20Minutos"
-      },
-      {
-        "title": "Informes de Microsoft revelan que usar la IA puede resultar más caro que pagar empleados humanos",
-        "description": "Informes de Microsoft revelan que usar la IA puede resultar más caro que pagar empleados humanos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOekhYMGVsd2d0SGcxbmQwa0ZiRE5OenMtdDg0bllkOGcwZk5oQmhLRC1UZG9UcGI2S21aWU1UM1F6VzJfbG1MQ3lhVjMxbmJMTjRWVVFDeDcySGJTb2c3X3dpekU2UXhjLUhDWnRGM20wN1A3Mm9TSUpwN090UW9tbnNOeHBlMDVhT1VXbHBNbzBaVk95Q1B4TjRLRHZveUNCQkJfMnYxbmplRFZsT0RjTWd3LVFRZlJIY1BJNWs5OXlNUFdLQ3h5c1c3eGRZdHpTdEVYbtIB7wFBVV95cUxNTnlqWUNqemtrbkw0N2IzMWlJUThhUDg5d21xTlJVR2xaNWVuRzJUdXFPVXYzdm03cEhGNFdMWWdaR3RWMzV5SE9pT0N5ZEptdzFsVHVKQVBiOGJYVUpDNTI1clNTMWVadGZsM2hqN2xIZjhKMUI3ejB3RVVhTkxNaEMzMkxEVHpSTFRlQnBkVWo3cldUTmpaZ21oLUItaXpzNjY4YmJ6VEpJNmlmRUtjNXcyaUg5akdEU0JKSDNXSFQ3TDNWT1NPMHhLeHVzbjJnY2dBc2ptWjhZN3ZtOUE5MnBXRUpPbDRESEx6OWFYRQ?oc=5",
-        "date": "2026-05-23T04:00:00+00:00",
-        "source": "Infobae"
       }
     ],
     "Marketing": [
@@ -68,25 +68,18 @@
         "source": "Sur Multimedios"
       },
       {
-        "title": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien",
-        "description": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien InfoMendoza",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalQzNzFTRm9PdjFpRV9DYl9KT0NtT2w4V0VxVzBpTHI2YjBfc3h3dmxwOXVtMGRrc3dxNmxXRHRUNUhkSUUxUzhMR2tGanJLejZMZURMajZGenRMbVk0aUsyNzhJbnI1QWpGMjVWcUZzemdDckt2RjZWRG1IcEN6MFUwNFdMOFhESzRzR1B6S1JmRWNwX25XdXVNOXhKN2pUQnZNY1VFX3c0X1k3bkhSeFJfQzRGQWVnSDVNYXRCNUhJNnRjbUdQV1FYZGM4S2dKUXgtSkEyT2ZPcmQwNXM3MA?oc=5",
-        "date": "2026-05-21T23:59:21+00:00",
-        "source": "InfoMendoza"
-      },
-      {
-        "title": "Romang: capacitación en Marketing Digital para emprendedores locales",
-        "description": "Romang: capacitación en Marketing Digital para emprendedores locales SEPER NOTICIAS",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3JQcUJqVHg4amdLY08tX3oyTlc0aTRFQURIMEdqZ0FmdE1Bc3FCWmZlYkZqZGY1QU5VUGRkSUV2YVNfVVZOX0FsbGEwQjlxYVdVbzRtQ01lUTFyOERCTTdWUVp4cl9wYWs2U1VmOERPTmRNS1NFTEhnOWVTWGhKd0NOemVSc3RXZVpnUU9pcWNNWDF6bXNsRzZ2OXhpVDVyS1J1TzFFbEZ6ekU1VFE?oc=5",
-        "date": "2026-05-19T15:45:00+00:00",
-        "source": "SEPER NOTICIAS"
-      },
-      {
         "title": "Microdramas: el formato que está cambiando la publicidad global de las marcas",
         "description": "Microdramas: el formato que está cambiando la publicidad global de las marcas Marketing Directo",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlNLSlhLM05mZ21aRjFGWi1aTGxRdUxoYlNIRlhaUFliNzVzdXV2N1ExQU9BaUllRWFWQkdJQUxNWFZSekh3bFR3MUlteC1qUnFxNjRCd3I3QWEyWHcxR3FFZWd2YUxjc3NLcHpHNHFod2hZekpiWHRIQUlkNGJRZFdrQVpiSUdnTjR2TlpnemlnRWlEOHJSV1BTSk5JQVJncmdRUjhHVV8yNE930gGyAUFVX3lxTE9laHpYS2dwV01CR0RqNS02ZkVqb09ZQmNJQkJ4TFZsS1hXY0syR3pVNGhFREdQQ1lWd2tDcnVpRWdQYksyQ1NteUFuM0cxOXNTNFVrNTJtRzA1MWZUUEN6VTlaY3gzNW5HWjEzQzRLbTB0bWFOeDNKM05zQWFVQk5xbjVsQlVfWktoaDktVklkaDNpOTEyaUxtZHVESnM0aGpndGZ5OUR0eXdlQlpxalNVQVE?oc=5",
         "date": "2026-05-24T05:00:00+00:00",
         "source": "Marketing Directo"
+      },
+      {
+        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
+        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
+        "date": "2026-02-13T23:09:21+00:00",
+        "source": "Universidad Nacional de Cuyo"
       },
       {
         "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
@@ -96,11 +89,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora",
-        "description": "Chubut suma capacitaciones en marketing digital al programa Raíz Emprendedora NOVA Chubut",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkQtcUhKR1dNNXpTbHAzb0ZKMWpGT2hURXhtZzc4MklJdGVLMGJYSHhyWWFzMjNKdTc4Nk1TV01uRi0yNXFyZXk4ZHo4TDlEYWpZZnV1b3JUQzRVcmlwVW9QM0dhOHU3bHNibHhNY3BRZnZNMW9BSFJuTlBOajZzcWc1TzNVUXRQdk1mX3FiakpkdXFUOXBuc2Zuc0Z1RkNjMHBoRFFaR0ZGbXYweEtyM0xWSXN3c3ktWW5sRGlqMG9ObHZheWlBdUZwOHU5bERENGdxQ2tn?oc=5",
-        "date": "2026-05-18T11:43:43+00:00",
-        "source": "NOVA Chubut"
+        "title": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad",
+        "description": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad Municipalidad de Córdoba.",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VME9mRHBEYnhIZlZHaExJQTFmUWNJajMyc0JNcXd3SHI4RTZWZlJKMGxva3BEeEZ3RG04aFFybXplTFlBaEtjX0JCRWpvMlI1Sm1URGpiZ2JFR2JRc3J1M1JVbGtLRnQ3YmRIaUthaFZZQzQ?oc=5",
+        "date": "2026-05-09T14:41:44+00:00",
+        "source": "Municipalidad de Córdoba."
+      },
+      {
+        "title": "Brindan formación en redes sociales y marketing digital",
+        "description": "Brindan formación en redes sociales y marketing digital Municipalidad de Tafí Viejo",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE85WDE5UGhGZHRRY2RPSjUwSFc2SmRzcFdQbjVSVmZPQ3Y0SkdsdnA0cnp6VVhnQmdQQkZnejFoNWV4TW1rWlZQeFA0eFRuQkdCcERTU0hGcmpqSlFkNTgxX0Rmc3BhczV1MW9aTm9oWjFyQzBfMDdxWU5CVHJ1QkJxZnFHYW03cW1ndmxiWnlYeDhVeHkzTEQyTDc4U0dZeWVLbzQzQWpIU1BFZUNV?oc=5",
+        "date": "2026-05-08T11:28:00+00:00",
+        "source": "Municipalidad de Tafí Viejo"
       }
     ],
     "IA": [
@@ -133,10 +133,17 @@
         "source": "Letra P"
       },
       {
-        "title": "La Inteligencia Artificial asegura que el rostro de Ana Bolena no es el que se creía",
-        "description": "La Inteligencia Artificial asegura que el rostro de Ana Bolena no es el que se creía Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHdQeU1NWUZTclpRc3RLVk9LRFE1SlFBY016WWp4TzFsVEdfNnMzTTd1QUczNEg3XzY0MGp5QkRneXotX0pfNm1ZYXZkX0gxYmV1MTF0WHhrN05WUWhyWUFyV1JkRU5PeWVIUVBBU3p4a3RNZTJCLUR5Zkd5aGZsb2U4cDJIeEE4cld5Q0JvRVNFSUV4R0NWVUduMjZMcFVfQ3hhbTB4U1lPVDFORzdsTjVmRUdvOEF1VURtclFQVGpKazNxdU000gHiAUFVX3lxTFA0bEh5YXF0R2xDN3hFRWZxNmF6aXM0LTRhSWxmNlNiVW9pMFFCUXpLWDJ6Q1c4ZmdNN2dYZkF0cFNaSlN4Z0lYMTgyeUlPWFR2N2JBeFRwTDRKRVhTeTFrWG9NcUhTYUc2cU9YaDc3VG9abVpJRktkNkNwdkFwRXBDbUdhZHVOeXhudElUNUxBNjNZSThqYV92Y0VMMngxMEpOUFkzWjZVLUtKSU1sZGpTN3ZHSjg1dGY3eEloelJkNmZaTjd1YmgzdEJvYVVlZnRGWGNhUjVNdWw0YzI5VlNqREE?oc=5",
-        "date": "2026-05-24T14:34:49+00:00",
+        "title": "Microsoft y Anthropic negocian alianza estratégica: ¿De qué se trata?",
+        "description": "Microsoft y Anthropic negocian alianza estratégica: ¿De qué se trata? Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2pieGhFVENneXlqUExHVkgzZVdJcF95Rm5oQ21HbFdWb3UzcXM0TFRHM2tBZkZMT0RWOVR4N1BFaFBhSzhLOW4taXM1d2dTSlU0WWVJenFELXlOb0VaVHNmRDhDQ1o4ZVdsV1IyY215Sy00bkZaVVdmazFIYjIxRVpsbnlISGlIUEc4SUFiNzlSVnBacjNZYUhKdVdacUF2cmNFLVVXSHYwZ1MyQUgw?oc=5",
+        "date": "2026-05-24T16:59:48+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Google volvió al frente: la compañía que el mercado dio por muerta hoy controla todo el negocio de la inteligencia artificial",
+        "description": "Google volvió al frente: la compañía que el mercado dio por muerta hoy controla todo el negocio de la inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMXRsVmFWdm9IYnJSbkhNV3JWNGszVk9uTGJRTGt0aklxc3FuQjRrdURXM1N3aFI3SnJxMHRaS0JVSldKT2dQQ1hHZWFfWDFxVUprN2JKX2llaFZXZ2dZbW9PeGlaNDVtRzNERnVkWGU4ekpmQlZkQUlEclVnRi12WG5UREEta2JyRTlxUGFhNEJnOVpybzIzVjgycl90dUxlMHhHN3NUdGdpSmV1dnFQeUk4WVlrbEhNaFg1MUpRSEt5TWJvZ2l4c19kMXVxcThranBZNEs3cDJuOUlsNzJISThoVFR6cEpFeEdfektEeW5iWXFNNy1aUjlKUTY2dEh2QUFJdnhR0gGgAkFVX3lxTFB5VXl0dTZNVGU0ZG1BUXJsbkctaWFzUFQxYVRmMWphWldOWHRnSEttUGhqSURsaThLT18xNV9oUUltUmlOdGIwNXNYc2F6aHptMkphQjlFRGMteEVmZ2h5MnJaNV9pZlN3T3M1NVNTc3VHV29VTElBcW55YzBuQndwVGVGN0YzcHEtLXBzZU81R2lUVE5nYXh6YjJXRGIzSEFGNFBrRnhvamx4Y28yeDNIRWNMVDBsMmZqVTVzR2d3SzBSbDMxT19meERFS1FPTTE3VHpmZzJBSGZpMkV1U2pUd21oNWF6OVh1cGxYczBTY1RsWC1jRmdvbW5PU3dWS2ZCTW9CZTZFczlJMjNOUmVRSUdvcllhWUZQcjlnYUYwNw?oc=5",
+        "date": "2026-05-24T17:42:12+00:00",
         "source": "Infobae"
       },
       {
@@ -145,19 +152,12 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XdnNuUnBtUHdCeTdNa3UtcXBYdVFSc0hnNHdkRTYydnBDWlRLVF9qQkJwMTdsbXNDTmE5Ri16NnpCYTI5Zl95UDBZcENQRUZjQzBMSFI3VmkxMERVbEJXZU56YVlQcjdwdnNieTUtdGYzY1Z2Y0ZmcWU3cTJ2Zw?oc=5",
         "date": "2026-05-24T10:26:00+00:00",
         "source": "Página|12"
-      },
-      {
-        "title": "Llega una tomografía con inteligencia artificial de la que solo existen dos equipos en el mundo: qué puede detectar",
-        "description": "Llega una tomografía con inteligencia artificial de la que solo existen dos equipos en el mundo: qué puede detectar Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2NZMlVPcXhmRWNxTUl3bnAxTHExTTE0cVZkb3J4WE9aVXhnVDJSaGp5Ql9mN0U3UUFpV1JsVGxFTm5paF9ZTVBCbVBWenJOZGRWYnJWRWcyWnpaZGVkVGlaTUg3aFN1WU9KWG5rVUVNVmVGcmVmYTVpOXBwVW5IRWNwOUFNSTRiZmo4dVVxWEw5aHFzOGRtMjU3VTdiVk04dE10bzNhWkllWWwyNDVZaDJSYWVSemhJeXhsN1J0eFJlcFlReGdRSGNjOXFtVGN6Q21N0gHYAUFVX3lxTE9MN0c5WThkSUNkT1N1WHF6dGtWZTVEbG5vQS13ZVluQVhTSWNKSENWVWF2NVhQbkdYN2RFTkl5T2lpVkd2N21tNnVpa2ZwNG10eTRUVlpVSDgzTm81aU9RLTR2SndaUUFFcXJ2WjlxU2FSbTgzUkR1ZHdOSjFxcFJLekhzT1RsTFBvWkV5NlZkazJ2b01QNlF3cjkzN1lQMXlveVBpNkJCc0h1eG5NanduX2FQNklOMFpGUnVUWUphbmlodmZhWm5raGlJV0N4SU9BMWlCWk5ORA?oc=5",
-        "date": "2026-05-24T13:00:37+00:00",
-        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras",
-        "description": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras econojournal.com.ar La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación La Corte Suprema rechazó una demanda contra empresas petroleras que operan en…",
+        "description": "Vaca Muerta: la Corte Suprema rechazó por falta de pruebas una demanda contra un grupo de petroleras econojournal.com.ar La Corte Suprema cerró una demanda por daño ambiental en Vaca Muerta La Nación Vaca Muerta, demanda floja Diario Judicial",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlJ3Ql9IVGZpQmNOQ2prdFFOZDFNTWdPemQzcFRvVGUydmxVZ2tJck0wLU1Kc0pULWhpZm1acVNEQ05hV2VqcjZqYXNjQk5wQ1pjTzFXU3VIWk1DTlhYamZ1UDNKM0ljcmhYQ0FXY2dJYnpiY3dQZXJRS0FTY0ptOWgwSVhzcXB3NlVTT20tR1JDVHJRbUhhTVBCdlJ1SVVEejNmYUFn?oc=5",
         "date": "2026-05-21T19:21:44+00:00",
         "source": "econojournal.com.ar"
@@ -168,6 +168,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdXRUa2VIN0NKem1GNGpLUjVONFRTdDU2WW9TVXRpOFM5bzBpYm9MM0kyeHpIVm5RVFVJcXhBZ2ppQ0hWbDlkSnN1aDM3REUxNFJLLXFKcEgxVk9nOXhoaHlIRlhNaDVOSmNyY05RYXlWRUNTa3FSMzJiNjVkb21CN0ozblhpejZsX1lHZ2g0eUZ1Zmhjb3BMbk9lWHI3REk4Zk1aYjBCbUZGM3d0dVZKTUloZlZFQklpTkpoZ0JCT3NjUko0R2xEd2ZFeDNuQnprNlZpa0R2Y9IB3AFBVV95cUxNNG9rV3ljbTBFNDdNWU95STNVVUhMNjUxMEIyR3R5bFNraVlIazdvaGNabUx2bnAwTWt3VDB4enlrVUlXVDlKa2pLeTA2SmtPdk13cGxRNko2NWY2TzJ1Z1RIYlltQnZZejRvQzJVcGZPOV9KOUV1aEVrYkxoX1hLQTVIdnlSUUlneTdLd3JEd1h3cnJEcHFCeUs4WFNrZ0NGR3pYV0xkbnRZa0ZMLXltY3dJVHBoLXkzSk1UR1Q3NVRqbDA0Rm9SeHFRdFZzeHRaMVBIMi1JZUYyNDlE?oc=5",
         "date": "2026-05-23T03:00:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "Lo que Vaca Muerta guarda desde hace 150 millones de años: mares, rocas y cocodrilos únicos",
+        "description": "Lo que Vaca Muerta guarda desde hace 150 millones de años: mares, rocas y cocodrilos únicos Tiempo Argentino",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOck1kMTRTeWpKUHgyZGljdkIya2VFdE9kbzF3aDFXTi1CWmVkLVVrSU5RWk5uVkhoRlVoekpPQVVqdktZZFRoWUVTQURIT0pOVWFSd1FJd2NOVVgzUm94TnV0RmJLaXFCclJvSzBlT190WEU1MVYzc3d4Y3dEcTBqV1ZZSWtUR3AzcEpvcDJqVGVWWTR5RENWd2M2eVIycFF4aWxBOEM5am9TbV9zUGlaem53cWdDWnlhbzVpaFZjb2RYMmQtRGVubNIBzgFBVV95cUxPUTEyZWVNb3JkSVQ3Wi1GRTIxOXhvMGVkdlZ4V2ZhdGthZkY5bmFacGVCTUFfMlEtNlF2WTlhaDA2TjFtNzM5LW1xZlBDX1NfOGtHUDgyODNTd1lUemxOUDU5dUxkUWRUNXU1N0xPRndQa2xqLUs4YktneDJybjhJWG1QcjBUMnB6YlE1d0xjYnVhZjR6aFBYX1RWSjE1NmdaNW1MeF9TZDFLbWJ1NDBGZHJMWWhKSFVFWHViaUVxdFViaV95NUJEdkNvM29lQQ?oc=5",
+        "date": "2026-05-23T22:14:30+00:00",
+        "source": "Tiempo Argentino"
       },
       {
         "title": "Vaca Muerta completó casi 10 mil etapas de fractura en cuatro meses",
@@ -191,18 +198,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Amonites de Vaca Muerta: el hallazgo del Conicet que reescribe el registro fósil",
-        "description": "Amonites de Vaca Muerta: el hallazgo del Conicet que reescribe el registro fósil Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbG9uSXMxVHYxSnJtMXV5NUJLSUZqZWVTd25ZcVNiTVhRY0cybzd5dngzY0ZoZDAyWktVZFA0OGhWQ0tTczlGMUhUb1l2MFh3MUlrazdkd19PbU5xVFV6VGx5RHd3TG9ySldnZ0wtLWViNVRsUXQ0S0xEVFI0SWpZeER2aElWTFBkZmxXUXNZQ3Y1b19NMzhKT1c0MXZ3TUtEM3R1Z2J1ZUV5NFVVUUVJc0J6WjF6bjTSAb8BQVVfeXFMUEtpMlFCb1UzS0lHMXBxTE9jM3NoLTRTRnpTeE5Baktub0Z4Wm5qZWZsYzhpMm9NYkxFQWlMMUJ4RjFLSXdBOUxJajVhQmlwcWVLc0NoeWpWVGdYeDZHaUJnNzVTcWU2ZHo4RlQxblNQLUpzZEVYd05lSWFWa1NiSFdTQkFLZlhzT2pfbFB6aTItbk9LSjBfdWNFaWx0WHlycmF1ZFAyZG9xZFNUZ0Y0c196cldjMlR2ZXJqVEpSdFk?oc=5",
-        "date": "2026-05-24T03:15:00+00:00",
+        "title": "Neuquén e YPF alinean estrategia para impulsar el megaproyecto de GNL en Vaca Muerta",
+        "description": "Neuquén e YPF alinean estrategia para impulsar el megaproyecto de GNL en Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejFHR21fbC1LWEw4b3lVX1F6LWVSdS0zNUpoM3BCOVV0R0kwdnFZSFl2a1FIclJDRGxDYXFRcnVYUVBLSTJKbEZ6MXdQVG1KZkFvM3NlLWtpaHQ2WDZaNG0wT1dZMkg5RjdKaldzb2F6bXV5NnIzM0wyal9WdjVuRVRzZ0RReEY2d185d0pHTGdsekt0ZFpOVVM4aE9wamJEUExFa0NrYXFEb2c2T0JrclMtblRXNVhUMFZuUHByZ9IBxwFBVV95cUxON2ZINXZBcDh3ODRaQkpNYlZ1NXJGUGhvbm05eC1UUEdSRnMwZGVVMW1icTNCWTQySzg0ZGFsSGl2VExJell2dXhoMks5MHZSWEFwYWViRlJsMnJOdWN3LWl1aG1NeUxnOWZOQnhjUlpQbThBOEoybmRfdlJLczVLVFRXbmtsZmdqM2tIQnlhakYzelA5NDFKa3JrX0RBc3lTN21DejdlZ29UMmVBdmVmNFdHWElULXJqLU4zYUwtdzBWeko0czU4?oc=5",
+        "date": "2026-05-24T09:11:00+00:00",
         "source": "Diario Río Negro"
-      },
-      {
-        "title": "La pulseada por el talento en Vaca Muerta: los perfiles técnicos que más buscan las empresas",
-        "description": "La pulseada por el talento en Vaca Muerta: los perfiles técnicos que más buscan las empresas Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNndmUEJ3THMxRXVwRktONEk3UFBWYWwxa1B5OUFwWVo3MFk5aUpReU1oZDdJbnd0TjhsMWRndG1qeUVBX21IYWZwOVBIbjV3NWtDOHVmVkpaN0RIXzdwa1JUSjBubVV5XzNrRTFGZ1VienR5WEpPQzZSajh6WnQwYVp6VjEybUdrSmpjQVdfcHJHYlFfTVVzVDNob29NQ25Lak9Gc200NTh5MkRuYnlkMGlPT2lteHJENFBMdDBVeEFsYTNoYWd5NmNtT2h4UkZiN3hDNkZmV1p0S1UzQU9QTTI0ZDdzd9IB5gFBVV95cUxQNndmUEJ3THMxRXVwRktONEk3UFBWYWwxa1B5OUFwWVo3MFk5aUpReU1oZDdJbnd0TjhsMWRndG1qeUVBX21IYWZwOVBIbjV3NWtDOHVmVkpaN0RIXzdwa1JUSjBubVV5XzNrRTFGZ1VienR5WEpPQzZSajh6WnQwYVp6VjEybUdrSmpjQVdfcHJHYlFfTVVzVDNob29NQ25Lak9Gc200NTh5MkRuYnlkMGlPT2lteHJENFBMdDBVeEFsYTNoYWd5NmNtT2h4UkZiN3hDNkZmV1p0S1UzQU9QTTI0ZDdzdw?oc=5",
-        "date": "2026-05-24T12:33:00+00:00",
-        "source": "Minuto Neuquen"
       }
     ]
   }
