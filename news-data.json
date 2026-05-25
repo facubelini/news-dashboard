@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T15:46:30Z",
+  "updated_at": "2026-05-25T17:39:07Z",
   "categories": {
     "Microsoft": [
       {
@@ -31,17 +31,10 @@
         "source": "Applesfera"
       },
       {
-        "title": "Microsoft vuelve a probar un Copilot acoplado al escritorio de Windows 11 para dejarlo fijo a izquierda o derecha",
-        "description": "Microsoft vuelve a probar un Copilot acoplado al escritorio de Windows 11 para dejarlo fijo a izquierda o derecha Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaXpQV2VVVjhGT3J2ck1nZGJncC1sUkZYQnNtNlloS0p6WllLdTBBS3ZoLVAxTHg4ZWUxaEM1enF4TmJxWHBaekVJSlJQbkVCZnEzRHNBazNBb2psb0dNNTlhdGpWRDFmd2RzUHJhcG9idWhSM3RQY2xQemlRdEt1RmlHemo0RTdhZE5hLWF4ZXpuOG50SElRaXhUR0ZfZExvcm12ME5YOVBxcy1YVnFmRWEySXNvUktsWV9QMnRuZmNYNkR6cjdaVDdIZDRGX3BnMnV3TGNuTDVZdFlwT3dTYk9sXzU1NmZqZGxSdl9jQWTSAfYBQVVfeXFMTkk5bWZleUNqWFlFbHdrelNRVzBmbWx1Q2w4bk1PcmNDT1lmWmotRGpwNkFLR2JLbjNUMjBjd25SLTNYa01FNUp2X1g4V0s1LUxEWDVLQ0VRX2dBR1dWRjdDNE5POU1YbjZCX2NCVUtkUGkxdUxrODNPa2JhTmtlaHBBODZMY1dBZ1Z0UXNUT3ZObkd2aFdQMUN4Wlo3Z21HemotWDRKdkhwZjQ0dU9jRkpuRVlOek9sR1ZGQk9ZVVZDZ0IwbnVuWThPZEtKRXFLclU4VUVYMDRDcTl6N21FN09DMzFaQVlBMk5hY0k3UnVRZW9UazhR?oc=5",
-        "date": "2026-05-25T06:29:53+00:00",
-        "source": "Profesional Review"
-      },
-      {
-        "title": "Cinco aplicaciones gratuitas y de código abierto alternativas a Microsoft 365",
-        "description": "Cinco aplicaciones gratuitas y de código abierto alternativas a Microsoft 365 MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGZISEtqVU8zMGhPbmlyQ1YyZjNoYUNfVWliQU9hY1FrNG8wcEVlbEI0X3hxSHliWXdPSXNKdnJmdkRJQlI2UlYyN1JEeldsdzFPLUhVTllPZHBibDV2TFdWeUZyNlpUUEZLSzRfYmFJcWdRelAxN3B5WW1ZQTVYQlQ2RGRzSmFDYWYzRHNqMXFTSmQ4UmJrYV9kbS1rcWdKUlVPZXoxd3FEOHNGN00zb1k3TG9nelhn?oc=5",
-        "date": "2026-05-23T08:58:40+00:00",
+        "title": "Microsoft retira Copilot por un lado y lo devuelve por otro",
+        "description": "Microsoft retira Copilot por un lado y lo devuelve por otro MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDEyeGdKVnU0b3A4cnJBTWRtNDBEVnNzUVdDZlAxaEoyTWxwRTB3ZFNWdEhnMTdvcVhMempQb1g4WG1GLU9Ia21iQWZ6Q0NEX3lSOGRrR3FPMmRpY1h5LWphSHFZNjFHa1U2bEQ0STgyZ1J1MGhFeURQOEpJbjhMR0M0OUhIMUNFNEw0djI2cHFwQlRqc3cxaHgzQ204VVpJ?oc=5",
+        "date": "2026-05-25T16:47:08+00:00",
         "source": "MuyComputer"
       },
       {
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
         "date": "2026-05-22T10:30:00+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Microsoft vuelve a probar un Copilot acoplado al escritorio de Windows 11 para dejarlo fijo a izquierda o derecha",
+        "description": "Microsoft vuelve a probar un Copilot acoplado al escritorio de Windows 11 para dejarlo fijo a izquierda o derecha Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaXpQV2VVVjhGT3J2ck1nZGJncC1sUkZYQnNtNlloS0p6WllLdTBBS3ZoLVAxTHg4ZWUxaEM1enF4TmJxWHBaekVJSlJQbkVCZnEzRHNBazNBb2psb0dNNTlhdGpWRDFmd2RzUHJhcG9idWhSM3RQY2xQemlRdEt1RmlHemo0RTdhZE5hLWF4ZXpuOG50SElRaXhUR0ZfZExvcm12ME5YOVBxcy1YVnFmRWEySXNvUktsWV9QMnRuZmNYNkR6cjdaVDdIZDRGX3BnMnV3TGNuTDVZdFlwT3dTYk9sXzU1NmZqZGxSdl9jQWTSAfYBQVVfeXFMTkk5bWZleUNqWFlFbHdrelNRVzBmbWx1Q2w4bk1PcmNDT1lmWmotRGpwNkFLR2JLbjNUMjBjd25SLTNYa01FNUp2X1g4V0s1LUxEWDVLQ0VRX2dBR1dWRjdDNE5POU1YbjZCX2NCVUtkUGkxdUxrODNPa2JhTmtlaHBBODZMY1dBZ1Z0UXNUT3ZObkd2aFdQMUN4Wlo3Z21HemotWDRKdkhwZjQ0dU9jRkpuRVlOek9sR1ZGQk9ZVVZDZ0IwbnVuWThPZEtKRXFLclU4VUVYMDRDcTl6N21FN09DMzFaQVlBMk5hY0k3UnVRZW9UazhR?oc=5",
+        "date": "2026-05-25T06:29:53+00:00",
+        "source": "Profesional Review"
       }
     ],
     "Marketing": [
@@ -82,18 +82,18 @@
         "source": "Perfil"
       },
       {
-        "title": "Alex Schultz : “La gente piensa que el marketing digital es básicamente el último clic”",
-        "description": "Alex Schultz : “La gente piensa que el marketing digital es básicamente el último clic” Revista Anuncios",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWmJpZ3lCcWFIdjZYYW1HcTlEakZ3SkpDNnpwTnNzRGRSLTl6RHZpVmQwNmhKeXhSelQxNW92RTZVYkNyRDVMYXAxWDRkcDdCcmpsbFFUeUhVc3owWnFkN3h4RWh1c1Q4SXFvcXgtZDM1TGtwNjNQaGRrTlowYWlUOXFzTnJTeGEyVmpSRHlsTkhjWTQzUk90ZW0wUDk2Z2NHSS1uSERlYTBpemZTS2Y5MGFWVENCVUIxSjhMaVJ3bFY1QTFvcHNEUE1PVk01ZEZSeGJfN3lReUNwZ1dXdEpQN0Vva0dmQQ?oc=5",
-        "date": "2026-05-25T06:12:38+00:00",
-        "source": "Revista Anuncios"
-      },
-      {
         "title": "Romang: capacitación en Marketing Digital para emprendedores locales",
         "description": "Romang: capacitación en Marketing Digital para emprendedores locales SEPER NOTICIAS",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3JQcUJqVHg4amdLY08tX3oyTlc0aTRFQURIMEdqZ0FmdE1Bc3FCWmZlYkZqZGY1QU5VUGRkSUV2YVNfVVZOX0FsbGEwQjlxYVdVbzRtQ01lUTFyOERCTTdWUVp4cl9wYWs2U1VmOERPTmRNS1NFTEhnOWVTWGhKd0NOemVSc3RXZVpnUU9pcWNNWDF6bXNsRzZ2OXhpVDVyS1J1TzFFbEZ6ekU1VFE?oc=5",
         "date": "2026-05-19T15:45:00+00:00",
         "source": "SEPER NOTICIAS"
+      },
+      {
+        "title": "Alex Schultz : “La gente piensa que el marketing digital es básicamente el último clic”",
+        "description": "Alex Schultz : “La gente piensa que el marketing digital es básicamente el último clic” Revista Anuncios",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWmJpZ3lCcWFIdjZYYW1HcTlEakZ3SkpDNnpwTnNzRGRSLTl6RHZpVmQwNmhKeXhSelQxNW92RTZVYkNyRDVMYXAxWDRkcDdCcmpsbFFUeUhVc3owWnFkN3h4RWh1c1Q4SXFvcXgtZDM1TGtwNjNQaGRrTlowYWlUOXFzTnJTeGEyVmpSRHlsTkhjWTQzUk90ZW0wUDk2Z2NHSS1uSERlYTBpemZTS2Y5MGFWVENCVUIxSjhMaVJ3bFY1QTFvcHNEUE1PVk01ZEZSeGJfN3lReUNwZ1dXdEpQN0Vva0dmQQ?oc=5",
+        "date": "2026-05-25T06:12:38+00:00",
+        "source": "Revista Anuncios"
       },
       {
         "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
@@ -105,10 +105,10 @@
     ],
     "IA": [
       {
-        "title": "El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano”",
-        "description": "El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano” Infobae El Papa León XIV lanza su primera encíclica sobre la inteligencia artificial Cadena 3 Argentina Rotunda reafirmación de la doctrina social en la era…",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRHZHenNMUnpXcERtYU9zOWFKLWtVT21YU19CeDgxNkpxQ0VGSXpIc2JTZENQM3lCV0U1alVkZFFiU0hQWnZHTmpaVlJwcTZ1WWZHSGw2RTIyM3J2VFNfaHlZOXQ3V0Z5M3p1MWpRdUk3bldFeVBRbnMwc1JiSXZrbXlpaUtidkRPZzhWdkswUXB6QkFPNDVuR2JNdXlvdW9rZlFtZ1dUQUdBUkZNM283QUtrMXJRamxveEpwZHVEVmVuQUM0eXFJTW5hb2dIUVYzV3FhbmkzT2pOLVNOZXllcWdUQzZrM280MG1YT25jRDd6ZEllcE1SdEVOWklFNTTSAZoCQVVfeXFMTkVka054NDlFUExCSHZZb0N4UmtITlZpNlo1RGpRM19fa1R1RVpWQnNmbVlnTnh5VFRZX0U1Wjd4aFZFZUZXZklfS1lFZkxJOXZFaVV4TDQwamJHZ1RTeXNFSmd0dzZaRkMtTnlZMHR3bWxLYmFaMHY5WjBuSDZON0w4QTRkWTVieWVTVFJjYWJvM3JtTVR0TDNZODhKaGdveWJNbndxZk10OEhSR1N4Yjh0aHRJLU0yc3dfeWM4TjhnUE5NaFdmLVdwRUxxNWdaNjlsM0FrbDVEc0ZqX015WjlJalFCUEd5RzZET1RKQ1BCTmxwd25vcWhFX2NEdGJpRWJXdXB1U1ZpVDIzZmhJR1d1T3hzRHN6eDl3?oc=5",
-        "date": "2026-05-25T13:57:35+00:00",
+        "title": "León XIV, durante la presentación de su encíclica: \"La Inteligencia Artificial debe ser desarmada\"",
+        "description": "León XIV, durante la presentación de su encíclica: \"La Inteligencia Artificial debe ser desarmada\" Infobae El Papa León XIV lanza su primera encíclica sobre la inteligencia artificial Cadena 3 Argentina La pregunta que León XIV le hace a la era de la IA: cómo seguir siendo…",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2g5azIxbUhMd09MRU5Md2xYV1pBTjJGY0VacUZhaVdYUmJUSVZTQmV6UXNEYl8wZDBLNl9PRWI0bWdwOFlRTVZaeGZ4R1lOVDctZGZEbTBNbmFWaEd4bnlVa3M3WVY2dWxiMTlzUFE0U0pqV0JMbmJyNWhmb2FPazRGNTg3aTBlRFB6ekt0SXJibnJERURXRElZLTlwM3Y0OU56UGc5WDhCNklqRW0wYXpRY2d1QTJKZXIwZ1dvRWdTZG5Tejd2aDYwcFQ4UnFIU0xocjBHMkVseGFaOHB5U9IB-wFBVV95cUxPNGJMeXUzeGw0djFTNTNVOS1RLTF3NWFjU19MMkM2MTY4VURqM3lKSkZ5Wk83VVhkRXVWeTBRSENZRk5fMld4d3dUckpMdWZoQ0JvYlBEaTktY2c2YWdYVGt4NFF1eXN5RWtka1R1YVQ1a2xSYU9HQkUxQm1tcFlhdzJmMC1YeWlpQm5ZYmJMX2x0b251TDcwTHhuMkVjX05SRHhXTzBlNzV3RkN0SzB1cnFMVzJzQXdxS2ROd0VQMWNHcHBDdE1UeVU2UFUxblJCR01WUmVYNm9FbWVSMm9ncFFhZUw5Q3NpaVBoT0NYRU5QMG9TaTdlMjhBdw?oc=5",
+        "date": "2026-05-25T12:46:34+00:00",
         "source": "Infobae"
       },
       {
@@ -122,15 +122,29 @@
         "title": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio",
         "description": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio Vatican News",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFZsb3pLNGZzbnI5V3lKWlZoU3BiYVJ6eHNJUkxKR3RncGtwbzhPb1lhZEMwMndRQ2pIWTYycy0ta2taX3NOQ19LeDJKS1VjX3R2d2gwaUZOZ2JjdlVIZ1gydXFVYTdlQzRzNlFhR0tHQ2psVDlxZEFMUXFDX0N0QnJPZmVNZHJFVV8zaWlYUHlqSmMzTEtaQlNTMmZEYjB0NUJsNDFhTXE?oc=5",
-        "date": "2026-05-25T14:33:43+00:00",
+        "date": "2026-05-25T11:13:41+00:00",
         "source": "Vatican News"
       },
       {
-        "title": "El Papa León XIV pidió que la inteligencia artificial “no domine al ser humano”",
-        "description": "El Papa León XIV pidió que la inteligencia artificial “no domine al ser humano” GN Noticias",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemtpRkVjb1g3T0tSTER1Q01EU0xEUXpYamFwWG1MV0Y4eW1iUDM5VkZRSFRBU2J5RFpkTEtFWUpoOTBPS25UUmRhM2owSmJCTkxXRWMtdDc2RVluU2VVRmFTZXhRVVh1dnlfTkRqTUhnQTlVUll2Ukt2Q180T3NRT3prdU1uampUYmh1bDJXU3RtZHhFSVg2V0VOQkRoNEtCdGF6b0REb3Y4U0Q4V2c?oc=5",
-        "date": "2026-05-25T12:05:00+00:00",
-        "source": "GN Noticias"
+        "title": "El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano”",
+        "description": "El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRHZHenNMUnpXcERtYU9zOWFKLWtVT21YU19CeDgxNkpxQ0VGSXpIc2JTZENQM3lCV0U1alVkZFFiU0hQWnZHTmpaVlJwcTZ1WWZHSGw2RTIyM3J2VFNfaHlZOXQ3V0Z5M3p1MWpRdUk3bldFeVBRbnMwc1JiSXZrbXlpaUtidkRPZzhWdkswUXB6QkFPNDVuR2JNdXlvdW9rZlFtZ1dUQUdBUkZNM283QUtrMXJRamxveEpwZHVEVmVuQUM0eXFJTW5hb2dIUVYzV3FhbmkzT2pOLVNOZXllcWdUQzZrM280MG1YT25jRDd6ZEllcE1SdEVOWklFNTTSAZoCQVVfeXFMTkVka054NDlFUExCSHZZb0N4UmtITlZpNlo1RGpRM19fa1R1RVpWQnNmbVlnTnh5VFRZX0U1Wjd4aFZFZUZXZklfS1lFZkxJOXZFaVV4TDQwamJHZ1RTeXNFSmd0dzZaRkMtTnlZMHR3bWxLYmFaMHY5WjBuSDZON0w4QTRkWTVieWVTVFJjYWJvM3JtTVR0TDNZODhKaGdveWJNbndxZk10OEhSR1N4Yjh0aHRJLU0yc3dfeWM4TjhnUE5NaFdmLVdwRUxxNWdaNjlsM0FrbDVEc0ZqX015WjlJalFCUEd5RzZET1RKQ1BCTmxwd25vcWhFX2NEdGJpRWJXdXB1U1ZpVDIzZmhJR1d1T3hzRHN6eDl3?oc=5",
+        "date": "2026-05-25T13:57:35+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La revolución tecnológica de la Inteligencia Artificial que nadie ve y el cambio de régimen",
+        "description": "La revolución tecnológica de la Inteligencia Artificial que nadie ve y el cambio de régimen Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYlcwNWNqaTRnS2tvUTdiMnM4c09ZSnVzVUpsbnNvNFpPRGNjV1JFbk1DaXYxUVRnQUUyb0hQWXNOZ2Q3S2hwc3VPRk5uZXZiV0FZb2xXY0FrZGlUSWU4QmlkZEJNUVFjYVlUdklRekg1Y2lwV25TdlIyaTMwdE5FVWlBOXFrSTZud0lYVndOWTVIT0lWV3NJZnJnNlBRV0N0TklWXzdqeF91czFFUjhvNDRpd29TMDJadmViQzJrdmh0NEVIbjBz?oc=5",
+        "date": "2026-05-25T15:41:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Javier Milei publicó un video hecho con inteligencia artificial junto a Belgrano en versión LEGO",
+        "description": "Javier Milei publicó un video hecho con inteligencia artificial junto a Belgrano en versión LEGO LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDNwQjNWYkQ1RTNkUHdZdXdtd21sQWVEa0tMeWV4bm95RC1HaWNjQnpBX1FhV0FZdkhLQ2FtdUNHRG1fdWtyTTdGYWVvTkNKeEtvcEhMSFFHMVh0ZGlmNjAwOXdIQ0UzT1UzeEZGTld6NjgxWXlkRFVLblJQeXplQkZxWjNUVEtnMUxmX1VUa19tMlBFeTdVbl9Tb0dJakdzbGVjQ29sNllrTjN3S29QQU5tTU8yUzZ0NjNzYTNlaGFPcmRMOWfSAcsBQVVfeXFMTWJEdHpwenVoLUlMS3plTFRsVi1GMWRERmtkZDJXWlpHdkUzNEFGemZ5WUpScTZtTmtrbnhSakJEQTctQnAxd0tyaGs0b0x0anpRUWptVV81dHNqNFhmU2NSX1RRX0UxRnRMbW1pb3RmREdQTFNPNjgzbk9WbXhqVzl6UjdQVlhTVDlhWTJ5Tzk1OWlYTlJITUNWTWxBWGJWTEhBcFlWeV9FT0RYanZXMVo2czhKWUh4VTlUUXBhU05IRWZnS2ZpN1MwaEk?oc=5",
+        "date": "2026-05-25T15:45:00+00:00",
+        "source": "LM Neuquén"
       },
       {
         "title": "Inteligencia artificial y datos: el riesgo que todavía no llega al directorio",
@@ -138,20 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFVoaExLenRPSjdRM3I5Y1JOQ3ZkUUJsdmpiMUVvS0ktZ19hdHJZcHVhVkVWOUQ2aVpWNHhCcTZ6V2tlb0IyeEFOQzRqVTdTa0FYUllGQnFLWWdqZEt5dm9nbjlLUU5ZU0xwUGd4V3dKdUxZYVhlN0dvQTEyc2w0NlV0TEhTWVcyUTFSZE5zMlZmQy1ENXRIVTZjU0ZNMTB5QUFOZ1pMU0lSc1Y4aGc3Z1hHcE7SAboBQVVfeXFMTXU3OFpRU3RCblA3WWJFWlp5SGlncG83T0tRR25WUC1jOFotV1B2Wkc0T1dkNUtpMFRoNVFsRjBvbk16YlVCQ1VZOExkN3JQMG5CYVhhMm5SMU5Gc21jMGZRRmZWSjFESHIyTmtrYmhFVjdXMXc3amJtRlBFbW95YV9oMVNwQ1UtNW9ELUNGTWVjQzZSa0Jhd09EN2tPbzdXT1N1TWN6dVM0TTl5RVVsblZzLWFlakZsdDdR?oc=5",
         "date": "2026-05-25T10:35:00+00:00",
         "source": "MDZ Online"
-      },
-      {
-        "title": "Cómo la inteligencia artificial y la tecnología geoespacial ya gestionan Vaca Muerta y la infraestructura crítica",
-        "description": "Cómo la inteligencia artificial y la tecnología geoespacial ya gestionan Vaca Muerta y la infraestructura crítica Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb09RQW55cDhBM1l0SW1Oc2VoUXJRVHhYbVRVc0xLVU5jTFdCZmtZOUhOelZ6bDU2bDY1NUFqdXNmbDRIT1BwZ0t3a3h0Zk5DV1ZyRXlQTHRqYjl3RmxyQUtoeU9NcjB2Vk9tcko5N3pQN0E2cTdpOVB2WTJndFJnN0FfbkpRWjkyanVVWS01czRHX0JpUHJTUW5vOG1HajJqUVdQSTJlczN6bS1CY01OVFdrV3VINmJwd1pjcDR0YWI3NWprejkwaDNEQ2VUTVc5NjRHaFJleVlQR0FfRERkenRwWEg1M1Vf?oc=5",
-        "date": "2026-05-25T15:19:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Papa León XIV pide “desarmar” la inteligencia artificial para proteger a la humanidad",
-        "description": "Papa León XIV pide “desarmar” la inteligencia artificial para proteger a la humanidad Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHhUalNrY1RGRlBrbUZMeUM4Mi1Xak5PRUFzNk9XVnJJNTg2Z2NmTno2RDhEblhVWkhleGg5WFBwa3BUUFpmbE9uSkphaVcxQUh3ekc5V2hCbkpIMHV1MFVBbmJvTEc3QVpaY0lGNnBmaGZrdDg2SVdBbkwtM3NlcWh3dlQ0ZXFSM3gteHVZUThEcmhhRmR1alZnVVRKaUxLRUhvRTVJckViZkROblQwMGc0ZTVtaUpGN2hsdnh30gHSAUFVX3lxTE5rcjBKNURBTzZselB1Q1lVOWk2ejE5YXQ0dUdSTnd2SDdLd1BQem8xMzFtcDZPWjlaWFRLU0ZIMDgxaUxrU0EwUlo4bURneFZhaTJ3UzVMRTN0bUhzUlZCUGRocWk0aHlQSW1JQks2ZmtIY3F0RnQwZnZnaDFRRjZodVNHckpDbUJzUV9FSy13bUFuTnlYelpMQ0oyc183dXp6ZFpoazF3WGNORHlxRW5lMTlDMUx2SEdId3JQMjRGWUJKeG05dmFUbXJ0ZWRQUHI2QQ?oc=5",
-        "date": "2026-05-25T10:37:27+00:00",
-        "source": "Bloomberg Línea"
       }
     ],
     "Vaca Muerta": [
@@ -163,18 +163,18 @@
         "source": "Ambito"
       },
       {
+        "title": "Radiografía de los pozos estrella de Vaca Muerta",
+        "description": "Radiografía de los pozos estrella de Vaca Muerta LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR29WMm9LWndZQTJOYWUybWxuMWpTU0xuRGFkVXA2NHhfQWV1QlJRSjZQc3JXaURXU3p3dXhISjJDRFN1ZGZ4SGloSlBRQlJfV0pRNU5ySWR6MTZnREVTZ0VoX1V2OUZwR2R2NTI5VERJbWJnU3FHTGNMVnl6V2lfMENBNkdrWVJKLTBuRjdmYnJrclHSAZgBQVVfeXFMUFU2c2VvMFcwbUNaZjBPUnhidWluSzAtVExDalZFVlFTc0Frc3RuZUZTYUg1WTFNYVRadzE5QVU1eWFqUnhzQUFnMUhpbWxSVGdMbEg3ZS0zU19OLS1SQWFhX0dPTHozWEZGQUlidTU3YWdPZi1Xbks5ekkyMUlIUHVOeGZRYlg3NzA2Wkl1MjQ4RWlqS3VuTVo?oc=5",
+        "date": "2026-05-25T14:34:00+00:00",
+        "source": "LM Neuquén"
+      },
+      {
         "title": "Lo que Vaca Muerta guarda desde hace 150 millones de años: mares, rocas y cocodrilos únicos",
         "description": "Lo que Vaca Muerta guarda desde hace 150 millones de años: mares, rocas y cocodrilos únicos Tiempo Argentino",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOck1kMTRTeWpKUHgyZGljdkIya2VFdE9kbzF3aDFXTi1CWmVkLVVrSU5RWk5uVkhoRlVoekpPQVVqdktZZFRoWUVTQURIT0pOVWFSd1FJd2NOVVgzUm94TnV0RmJLaXFCclJvSzBlT190WEU1MVYzc3d4Y3dEcTBqV1ZZSWtUR3AzcEpvcDJqVGVWWTR5RENWd2M2eVIycFF4aWxBOEM5am9TbV9zUGlaem53cWdDWnlhbzVpaFZjb2RYMmQtRGVubNIBzgFBVV95cUxPUTEyZWVNb3JkSVQ3Wi1GRTIxOXhvMGVkdlZ4V2ZhdGthZkY5bmFacGVCTUFfMlEtNlF2WTlhaDA2TjFtNzM5LW1xZlBDX1NfOGtHUDgyODNTd1lUemxOUDU5dUxkUWRUNXU1N0xPRndQa2xqLUs4YktneDJybjhJWG1QcjBUMnB6YlE1d0xjYnVhZjR6aFBYX1RWSjE1NmdaNW1MeF9TZDFLbWJ1NDBGZHJMWWhKSFVFWHViaUVxdFViaV95NUJEdkNvM29lQQ?oc=5",
         "date": "2026-05-23T22:14:30+00:00",
         "source": "Tiempo Argentino"
-      },
-      {
-        "title": "Empleos en Vaca Muerta: los roles no técnicos que están con alta demanda",
-        "description": "Empleos en Vaca Muerta: los roles no técnicos que están con alta demanda LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTzBkUm1qa3h2d3N1RW83bVpUQ29JYnZoZ280TG0tT3MxYUh2VDYxSjZwdk5PQXl6MklxbFctb0ZFY0JhMzRvczd4SnEweDRFdS1VRS1OSElkTnl0MkxwaFlRYmY5ZmhnNTBOdjBXNWdDSnZZWUh2SE90c3JpUm9ZaHJ6MldNcTFZNy1XRjhFa04wRjBaSW5JNndPUW1lLW54TXoxTlotVUlJWmVjaWlzaUZR0gG3AUFVX3lxTE1aNGR6aGtBbXc5dUNXSUxOM2tTTFE3SDd1Q0l3RXZqY0J6ZzZRRE9zcTZITmNCa0l6cWszamhmRHJoSXM5YzNhdWJhVzBaaHh6U0RhWktLR1NsSFJpdFM1T0RzMS1EeU44aFVQVjAzZDRXZTIwX2xnaXE2cE5iT05GajJMVTR3dllrYm9ZbXNQU0paNVFtNnJtRE9RTjFhTVVROHpTQTdreVp1WHVSZXYzQmpMRXhlYw?oc=5",
-        "date": "2026-05-22T14:03:00+00:00",
-        "source": "LM Neuquén"
       },
       {
         "title": "Río Negro acelera para no perder el tren de Vaca Muerta",
