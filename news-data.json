@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T04:58:54Z",
+  "updated_at": "2026-05-26T08:35:35Z",
   "categories": {
     "Microsoft": [
       {
@@ -15,13 +15,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3JRelUtSDh2eVVyNW1aN3h6eFd3YkpxQlBDc3BQalQwS01oOXFEOGJ1cFE4THljZXdCMTQtekVzdUVucjlPSGlvRnJkVDlzaVdlZlgwZ0U2TDVOZ2dYdm5IekRUeUUxbnBuRjkyYmJBRVM1MmU1TVZGWVZGNEtTVnNtT0FrUjNVUkczUFN1alZPZEtpT0J4ZjEySEJxNVNSbmx5OTdwNDBTSjQ?oc=5",
         "date": "2026-05-25T05:00:19+00:00",
         "source": "BBVA"
-      },
-      {
-        "title": "Microsoft y Anthropic negocian alianza estratégica: ¿De qué se trata?",
-        "description": "Microsoft y Anthropic negocian alianza estratégica: ¿De qué se trata? Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb2pieGhFVENneXlqUExHVkgzZVdJcF95Rm5oQ21HbFdWb3UzcXM0TFRHM2tBZkZMT0RWOVR4N1BFaFBhSzhLOW4taXM1d2dTSlU0WWVJenFELXlOb0VaVHNmRDhDQ1o4ZVdsV1IyY215Sy00bkZaVVdmazFIYjIxRVpsbnlISGlIUEc4SUFiNzlSVnBacjNZYUhKdVdacUF2cmNFLVVXSHYwZ1MyQUgw?oc=5",
-        "date": "2026-05-24T16:59:48+00:00",
-        "source": "Yahoo Finanzas"
       },
       {
         "title": "Microsoft retira Copilot por un lado y lo devuelve por otro",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNUxpcjU2UC0xdThnZ3Z1X2w0ZXNRTHBXaXdPRlZFeXNrdjhhR0o4MVN2Nks0WEgzRVlrbjNZVVU4R2tNVjBXUHJ2clkwdWIwVXhNVmNINVdIeC15VWx6NmpsVkpxaE1sVzY2Y0xwdk81bXBPdzB3OVJRZ0tsQjRZVVpHSTR0Tzk1NjBfOXlBYVh5enJPbHQxZHgwYlFvZmFDVENvQ3BkcG1kaFpUZHFUTTU0Z0N0VVo1SDY4YVl5cTdFOUxXUWd1TU1yUFl5UzJPZ1d5SdIB7wFBVV95cUxNcWFuTGkxejY1dHRvaFhKM3c1QWVKN0RLdXE4ZEZLR1RQaWNTNEcxU3U4a2ZDelNxaENaOC1iWElqLUJmdTdOQVltU1htdDZlYlpCakRSY0NjZUVMbHNpOGZqVHlMZjR3T3JNWnU1VG1zaUxWTjNObEI0SDFXVlNoOW1SQVlaR0RWQzU3cl9Na0tNTFIzV0k5bXJxY3lGQjRhYjRfSW81ZXJqeTR2ZFdXa095UFdzMUljU3dvWHktSUplN3FTWjVvTDdGbXB6QmVuRTFMR0Q0SEktcTVyZnhZU2tmY0JwOUtpOFdJcTVLVQ?oc=5",
         "date": "2026-05-25T21:55:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Microsoft lanza alerta urgente: estas dos fallas en Windows 11 podrían poner en riesgo tu PC",
+        "description": "Microsoft lanza alerta urgente: estas dos fallas en Windows 11 podrían poner en riesgo tu PC Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGlsOFRwSEJLZGFhXzNoOUo5NFFaUWRMZFJ4ZXcxNGppc2d2M0VEbVhVb2Nfa3Z0TDlISFRFT09UZ3NCT3U1czRXTmVXTzhSTnUwaUNFTHFDcVVvRkNUZXUxSDlBNkUzRFBtUkdiRzYzeEtyTExtQnBDVjRPbWlUeUstaU81SHFic2c4aVZDQTZVVjJIWTVheUp2b0hneVUxSjFaWlJLVnVBRk42LVpKcnpfV1V3NDZxUjlNZWdFN05xTnM2bklVX29aeDlkQdIB6AFBVV95cUxNWVBsMUJQcmtpNlJNSkxBODlQa2gwa0ZRX2tnOXNYa0l2NUI5ZlVUbjl5UXkxR2VMbHRXc1Rpa01USmdGRzdUTEdnazNEQUtPVzVPWEVaTGhycUpyeXZuZF8ya3NadTMybUlCcGZzUElRVE5RYXN4ZlYzblRZRUxGVTEzeU8tbHhiRDBhamNJLXM4djNjM1hoeW9VOXBHS0lUeFJZUk9BSGN4OXNRV05vdHVwSi1GU2ZEMDR0bWU5U3VJVFdtcDFqTXd4S0NXbGFfNWRrMFpubHVwM0ZiUU40ZHhraDRzTnVH?oc=5",
+        "date": "2026-05-23T16:27:00+00:00",
+        "source": "Infobae"
       }
     ],
     "Marketing": [
@@ -61,11 +61,18 @@
         "source": "Marketers by Adlatina"
       },
       {
-        "title": "Marketing de gaseosas: cómo logran Coca-Cola, Pepsi y Cepita que los chicos consuman cada vez más azúcar",
-        "description": "Marketing de gaseosas: cómo logran Coca-Cola, Pepsi y Cepita que los chicos consuman cada vez más azúcar Contexto Tucumán",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdjlWdGFNaVQ1VkI1MUVMcUlLbTNzQ2NFRG1MVHpFYnhsTFRqbTlsWl95NkNPVFYxUDZUcFJVT1FCVGVCQWdCMWFieWt6a2pram45TnI4NVpOc3k2Rk5oWEFxd1kxZmFadkJTOXd1UUdOQklPTklaejgwVXpZeDN3SGpUT1NjWDZyX2p1X0xFbFRRTmd2RUJZVDhlaUhORndIWDdEWkg5LXRhc253dWl6UXZnUXJvcndFT3o5a1dndVRYQU9PNk5iMUtVV1pscGluaXNCZFdzWmxLNEh5aDZlX251NEYxZFk?oc=5",
-        "date": "2026-05-25T09:14:00+00:00",
-        "source": "Contexto Tucumán"
+        "title": "La nueva era de la publicidad en TV: el impacto real de la IA",
+        "description": "La nueva era de la publicidad en TV: el impacto real de la IA Cyberclick",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkNfU2tDb0dtOWxtc0RkZFpWZm5vRzJwQXpVSHhzdXJVYXBGTHN3MTk3b21fSkplekJUVHE1VmNSbXpOWHNWb3g1UmQ2Y3M4Nk1tS3p0eWxWczdDX2FxQjdQcHlhQkhaUm5PUUpLUHJvbk02cm5hdmVOVUdfTERnYUhQX2M4aWdZYjF4bWdqd3NkVElfSVJhNXpWcEZZd0QxR0FJ?oc=5",
+        "date": "2026-05-26T08:04:46+00:00",
+        "source": "Cyberclick"
+      },
+      {
+        "title": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien",
+        "description": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien InfoMendoza",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalQzNzFTRm9PdjFpRV9DYl9KT0NtT2w4V0VxVzBpTHI2YjBfc3h3dmxwOXVtMGRrc3dxNmxXRHRUNUhkSUUxUzhMR2tGanJLejZMZURMajZGenRMbVk0aUsyNzhJbnI1QWpGMjVWcUZzemdDckt2RjZWRG1IcEN6MFUwNFdMOFhESzRzR1B6S1JmRWNwX25XdXVNOXhKN2pUQnZNY1VFX3c0X1k3bkhSeFJfQzRGQWVnSDVNYXRCNUhJNnRjbUdQV1FYZGM4S2dKUXgtSkEyT2ZPcmQwNXM3MA?oc=5",
+        "date": "2026-05-21T23:59:21+00:00",
+        "source": "InfoMendoza"
       },
       {
         "title": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g...",
@@ -75,11 +82,11 @@
         "source": "Perfil"
       },
       {
-        "title": "La IA recorta más de un 25% el tráfico digital y devuelve protagonismo a la publicidad en el mundo real",
-        "description": "La IA recorta más de un 25% el tráfico digital y devuelve protagonismo a la publicidad en el mundo real Marketing Directo",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHVXWm85eDk1YkJESFhUZ2twbUEtRkg4RHhGMmt3Z2JNaFdyTXZISzkxS1hpTTFBMDBXN3VWRWZyb1B4aGVQc29rLTRHUlJsRkhvWXBYRHFpY0tqQW1PWkQ4TENkSUs2SWVqS3FUWDRzTE1PV3lwYTdIOXNvQUQ0ZXZFZWo5VVpsNXJNQzJmUXI1RU5abUxNcUVSc1o0Zks3cHJHMkRCZG95UWF3SG5oa2Jnci1fU0pzbjdvMFQxaXJKWlVtNjJrONIBzgFBVV95cUxQQ2FyZ3FJXzVhSy1fNWpWcGR0bDFrb2tWTEJ1cHhCNTZOS3NXQnpNRVd5dVNWTTI1WlBnY1R2VVRVR0w5UW1kbk15bHJsWXRUQnRNN1VyRld1Tkx5Ykw1N05DUHc3QWdQMTF1WnRYTk41R0JCNWEwYWVEMElNaFRtRndCcEZLaW44VjZKZTBZeDZtR1pCSmhfckFxamh3dU00eHpwUV9LcU9FZXZTZHF0ZS1zelBGb0ZWRU5wTzVHd2dxdWh5SjhGMXJNbDVPdw?oc=5",
-        "date": "2026-05-25T09:52:35+00:00",
-        "source": "Marketing Directo"
+        "title": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad",
+        "description": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad Municipalidad de Córdoba.",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VME9mRHBEYnhIZlZHaExJQTFmUWNJajMyc0JNcXd3SHI4RTZWZlJKMGxva3BEeEZ3RG04aFFybXplTFlBaEtjX0JCRWpvMlI1Sm1URGpiZ2JFR2JRc3J1M1JVbGtLRnQ3YmRIaUthaFZZQzQ?oc=5",
+        "date": "2026-05-09T14:41:44+00:00",
+        "source": "Municipalidad de Córdoba."
       },
       {
         "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
@@ -94,19 +101,12 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjY4MDlFVjg4SzNPQUF4c2ZremlMY0t4NDVMZEhmZEtlcnFPVDA1MGw4UWNrbi1oYU9YNUgtdml0Y0pxeXpsWnJCVkxscVMzMjlZdnZ1b1lMM2hxeUdWNzhsY2hleHJMVkJmYm03Mi1uV3drVldhOFRyMHJwQ01MY093VUNBU09ocWJNZlRnYlVWTktIQTZ5a2l2QzJ4Z1RROXlmX2Z6MW94aWV5RHo1TUFR?oc=5",
         "date": "2026-05-18T15:40:35+00:00",
         "source": "Sur Multimedios"
-      },
-      {
-        "title": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad",
-        "description": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad Municipalidad de Córdoba.",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VME9mRHBEYnhIZlZHaExJQTFmUWNJajMyc0JNcXd3SHI4RTZWZlJKMGxva3BEeEZ3RG04aFFybXplTFlBaEtjX0JCRWpvMlI1Sm1URGpiZ2JFR2JRc3J1M1JVbGtLRnQ3YmRIaUthaFZZQzQ?oc=5",
-        "date": "2026-05-09T14:41:44+00:00",
-        "source": "Municipalidad de Córdoba."
       }
     ],
     "IA": [
       {
         "title": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros",
-        "description": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros BBC El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano” Infobae Los riesgos de la IA:…",
+        "description": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros BBC El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano” Infobae Rotunda reafirmación de la…",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVnVsT1YxSkc5U0lidFlwRnJzRnFnRkdoelVrcURKRHpPc2ZyNE9RNDVOdk1QMzNwTzYydlZnYWxrbWZfRmp1Um1SaGY2YVlST2pWV1owckxqbmfSAWBBVV95cUxPMFpMaXRTdDBIRnkzOEh2ekQ1MXQxV0M2OWJOQWM0WTVFNjI1ZVNLVEpJdExGRzdBdFhvMnlYWW5jMHRMQVFQQXRrU1RNbFlrenF1OE1uUDhZM3k4OS05RGc?oc=5",
         "date": "2026-05-25T18:05:25+00:00",
         "source": "BBC"
@@ -119,20 +119,6 @@
         "source": "Infobae"
       },
       {
-        "title": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio",
-        "description": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFZsb3pLNGZzbnI5V3lKWlZoU3BiYVJ6eHNJUkxKR3RncGtwbzhPb1lhZEMwMndRQ2pIWTYycy0ta2taX3NOQ19LeDJKS1VjX3R2d2gwaUZOZ2JjdlVIZ1gydXFVYTdlQzRzNlFhR0tHQ2psVDlxZEFMUXFDX0N0QnJPZmVNZHJFVV8zaWlYUHlqSmMzTEtaQlNTMmZEYjB0NUJsNDFhTXE?oc=5",
-        "date": "2026-05-25T11:13:41+00:00",
-        "source": "Vatican News"
-      },
-      {
-        "title": "Papa León XIV pide luchar contra el dominio de la IA",
-        "description": "Papa León XIV pide luchar contra el dominio de la IA dw.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2FyX1BCanNnYk0wZXhfTDBidUNNN3FiM3Vsc01MUWJZTWpmb2xUcWVSTi0zb0YtQUVBZ1hmT1Y0WUFTUEtJXy1kMFRNdU5NS2Z1WFlVUjNudXEwQkNpdkhLNDFDQ0IzNXB5TERXN2gyMFBXQmJSNnhKbENtTHVhR09HNjBvS04zcTlCMDMwOThrRDA0aVdLUTdFSVQ1bXJWYzV4TXh5b3dMV25MVWoxZGY5U3ZNRHNWbzhN0gG7AUFVX3lxTFA0ZHBNQXRCdXhwRm04NXVFay1vZmlnODZuX1U4djYtTU9xNHM1ZlZZcjBCUlFwcXpHdEN3amRCZmRKOEZQdGdTS3pBeU1fUnBGc2M3Nk02NlZqVmd4SkVkZW1ETWFETkVpcEFFb2pRTEJUQlZ2a1hWYzFhelVPOEpyR25OcHk4Q3MzQ21sU3BJZm5UenZiOTRoYUs4UURCUVpLbGMtTGZJZmVUYVlxLVp5TFlLWEZIWHNLT2c?oc=5",
-        "date": "2026-05-25T14:47:54+00:00",
-        "source": "dw.com"
-      },
-      {
         "title": "Inteligencia artificial y crianza: el reto de acompañar a los hijos en un mundo en transformación",
         "description": "Inteligencia artificial y crianza: el reto de acompañar a los hijos en un mundo en transformación Infobae",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWVjdklUQjJEelVtWHdhNGNBRDhfZG5UNEh0MEcxTXhUakgyRXNqeWZYY0xsZjd4NUpmUC1ybkxpU0hCTlVaVjRTTUM2b210cXU3OE9NQlZEYzcxZXBfY1d2SVNYZGlOTVRoWUREZS00WnFZVTktQzRMcFpNdmJ6dEJ5RW14Ukp2QThwRWEzbUoyTFpSazdFSFBfOHRHVlFFeDJkNnptVGJwcHp0WHVBYkM3QmlBOFJFWXR6dGozWlQ5d3FJX05oSmNGcXUxeWdsZld5LXItRdIB8gFBVV95cUxOY3dhY2FVYVc4bWNJVlVqWnVLdmhOdTBCdzhUSUN0Wk5LR3V4eGRSaHNzeVAwX0NwNGFSRDNMdzg5aGU4cVBOY2JtbzBXUHp0ZDhoYTZQa0lyMkpjN3RBdVJuTzEzN1Jxd3BwUkVLbnJYaUh4NFgtV1ltY1JEcVB4MWFtMXNoMUc3ZFV6NnF3OGphX01EaWtmb0gxNzd4M2ZucnYwM09tNjROdENaLXl5MWNNRWxQbTlRektVRkNhZkpaaTFZeTU5SXF2dURFYmRENjlzY0R4NXk2ajRmU1RIRE5ENHg0ZVoxS2JfaXROT0hHQQ?oc=5",
@@ -140,18 +126,32 @@
         "source": "Infobae"
       },
       {
+        "title": "Papa León XIV pide luchar contra el dominio de la IA",
+        "description": "Papa León XIV pide luchar contra el dominio de la IA DW.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2FyX1BCanNnYk0wZXhfTDBidUNNN3FiM3Vsc01MUWJZTWpmb2xUcWVSTi0zb0YtQUVBZ1hmT1Y0WUFTUEtJXy1kMFRNdU5NS2Z1WFlVUjNudXEwQkNpdkhLNDFDQ0IzNXB5TERXN2gyMFBXQmJSNnhKbENtTHVhR09HNjBvS04zcTlCMDMwOThrRDA0aVdLUTdFSVQ1bXJWYzV4TXh5b3dMV25MVWoxZGY5U3ZNRHNWbzhN0gG7AUFVX3lxTFA0ZHBNQXRCdXhwRm04NXVFay1vZmlnODZuX1U4djYtTU9xNHM1ZlZZcjBCUlFwcXpHdEN3amRCZmRKOEZQdGdTS3pBeU1fUnBGc2M3Nk02NlZqVmd4SkVkZW1ETWFETkVpcEFFb2pRTEJUQlZ2a1hWYzFhelVPOEpyR25OcHk4Q3MzQ21sU3BJZm5UenZiOTRoYUs4UURCUVpLbGMtTGZJZmVUYVlxLVp5TFlLWEZIWHNLT2c?oc=5",
+        "date": "2026-05-25T13:47:54+00:00",
+        "source": "DW.com"
+      },
+      {
+        "title": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio",
+        "description": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFZsb3pLNGZzbnI5V3lKWlZoU3BiYVJ6eHNJUkxKR3RncGtwbzhPb1lhZEMwMndRQ2pIWTYycy0ta2taX3NOQ19LeDJKS1VjX3R2d2gwaUZOZ2JjdlVIZ1gydXFVYTdlQzRzNlFhR0tHQ2psVDlxZEFMUXFDX0N0QnJPZmVNZHJFVV8zaWlYUHlqSmMzTEtaQlNTMmZEYjB0NUJsNDFhTXE?oc=5",
+        "date": "2026-05-25T11:13:41+00:00",
+        "source": "Vatican News"
+      },
+      {
+        "title": "¿Qué dice la nueva encíclica del Papa sobre la Inteligencia Artificial?",
+        "description": "¿Qué dice la nueva encíclica del Papa sobre la Inteligencia Artificial? Diario El Cordillerano",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWktTm5qWG5VVkJWdUd2MnVVc0xxUkZSRzJWVV9xQmR5YUM0SkZ2Um1CaVZjRHZQaGdPazB4T2lzMlNKNUxYV0NBMGxuM204T21JdVNzZUVJTU95NTRPR1NrQkNud2d6Z1A1aEt2eE5oZ1lzb2dPa2NvbGg5QzJKMFcwTVEzblJEMkpuUmluT2N5OTluTmoyMFZLZVFwODJSNWV1VURLMV9HNDNtcWNmLXNBeDNFTGh2VWdiVjR5SGRReklpY1FRT2hB0gHPAUFVX3lxTE9zY2hfbGVMX2NhRml1VUtQSjVRaXkwa1JTT05IRTlSWF9RdDl4X08xbHg4MlBBOE9uRGZpTEZ3dEVkd1l6SUhvN2g2dk42WjQyMk15Y0phMXlyMU02UlY0N0d1aU42c1NtNG9zb3laWXdiQ0ZwRlV3WVZLc05HeDZmLWJmTzdxTGtQWHd6b2tVcl9NZDdPZHhkT0E1RHNBN2E2TE9Fc250RmhjT2ktNXdyem1JSFUtcENGRTdkaVhUQXVHSWl4a3FoeWtfYzFQVQ?oc=5",
+        "date": "2026-05-26T05:03:45+00:00",
+        "source": "Diario El Cordillerano"
+      },
+      {
         "title": "La inteligencia artificial no te reemplazará, pero podría hacerlo quien la use",
         "description": "La inteligencia artificial no te reemplazará, pero podría hacerlo quien la use Cadena 3 Argentina",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVRLMV9oMlhLLWEwVS1TY2IzeElWRmIwX09EYkJUeDZkQWNRZGRMTERBYjRkOVl6djFOYURmLW9xOThnOEhROW5PV3NRQ1N1S24xNW5qUjUtVUFvMUI4N29IMjl0ZVRNcnlYNll1Mi1sN3BkdEZialRnZUFwSUFDbEdUcGs3ejF5OGpYT3kzc2Q0YmZBNzl6dVhZTVFRQXE5c2dMZ2MzdDdYUUxfWmxSajM2aVJtWWRUUkRuMktRUUlQUdIBxwFBVV95cUxOS2tMamxJVHFVUS0zTmJRNk5MV3dIZXp0SFFsN2lNWlByR3g2Y3NDdkl1LXJ1ekF5bE5XaXlJQUlYWTUzQ3dBVGdmeGY0cmdTTTlQd1c5OU5LMTl4dzNNZ2RnSTRKUTRGWFA0bXJrdnllbDhKUkVCdTlDbmF0aFQ5V1E4cFZuTkV4SHdGWlEyZWZtYl9ta0ItTFAtVnRGenR3T0lreWd2Ri1PUEI4bXpWTVhadUNRamxYR0JXMEREbE5fU3ZlT0Fj?oc=5",
         "date": "2026-05-26T00:26:16+00:00",
         "source": "Cadena 3 Argentina"
-      },
-      {
-        "title": "“Magnifica humanitas”: la dignidad humana ante la inteligencia artificial",
-        "description": "“Magnifica humanitas”: la dignidad humana ante la inteligencia artificial omnesmag.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVUxZV9kb0NFYWFUUXRaQVJPQ0FTZ3RjdXRxSmJEdmZ4X0xEbFAyZGc2bmI3ZlU4TWtqV3pVU05wWDZGVmVTYTZiSHc2Qzhqdk9vLWk5bVZNam1iNHROUGlBRks5R1pOTllwOHNFM2JZd0tadGVBcVhiT0dNR3ZwTEMxNExFYTRMeXN3MnNHNTlMM1FDS2FV?oc=5",
-        "date": "2026-05-26T04:07:04+00:00",
-        "source": "omnesmag.com"
       }
     ],
     "Vaca Muerta": [
