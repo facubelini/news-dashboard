@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-05-26T08:35:35Z",
+  "updated_at": "2026-05-26T16:38:13Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Nueva plataforma de phishing amenaza a los usuarios de Microsoft 365",
-        "description": "Nueva plataforma de phishing amenaza a los usuarios de Microsoft 365 Infobae",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSE16Q1g2a1hSRDNCaGJOLURrS0pqV3hXalZScTZHRnNuN2owMjR4VmtOMjBkeVY2dHpMLTkyNEZZYlN1SkZkRmJwU3pfSF9BcmpLR1dvSTB6a3VHN29yc1lINlFEXzZmSzhNV1RsanowMm9fQnNlM1FHMHN5SzlMVnBUQnVxVTlHaDhkX29yOS1YaVpTQXRpTy1FbFgxNUJlaDMySFhCYVdJMlZ6V2tj0gHKAUFVX3lxTFBOZVdTRDFETk8wSEZQLTgtenhORXdYeUlOQmdTNUJrZGVrSnBOMXVkdXdFR2o5MGFlODdieE9oTy1XdFpQT0N4MFpycVFtbjNxdWg3ZnA5cUlDc1o2bFJIRnJpUHg3V1VKU0lRZXV4UGZtLXlMeW9wTm1ueWNnaEluNndvZ2hCTUlBWExUVHJmb05yWWY2QlZpZHdaVGxhOFRKUjhFbVkwcjJLbkZocXFUbV9nREEzMnAzb0VMVXowbk81bGlCRE82a1E?oc=5",
-        "date": "2026-05-26T02:51:40+00:00",
+        "title": "Microsoft Defender aislará automáticamente los dispositivos comprometidos por un ciberataque",
+        "description": "Microsoft Defender aislará automáticamente los dispositivos comprometidos por un ciberataque Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMWxjRFFoRGhDYmM2a3BQeVB5aTItT3Z4WUZxSnp6WWhXZTlsQTl4dE1yRnFUcEFRaGNuSHpqTlRYNXFJMWNZcFpJQVNfZ0tRUkhMcHBzSjEwelZwX2t0VTMza25LS2htZE8zUVhLWmFJS2R2RG5oN2lmQTNNeFYzTkxXb05TWmV6SFFpbUxDUDl2LW1iaURkeThGWG9YbVUzNndfa05uSkZLMkxpZnlFV3ZQMWpiMUJ4b01uMXVyNmU5eG1TcXI0aER1dVU4T3JyaDdWSnZsb0JmTURLQXfSAfgBQVVfeXFMTzZNZFVsY3JhdVF3OE9EdUhocF9aX2tLTm9XZUo5dy04Ym1RRE1zNVhYRHdwcUtkWXo1OHJidk81UWVjNlBjLXI2Nl8wazYwbVA5MTRyNVFwRl84T0twSWU0SnF4VkRaWmJ3eWlYalB2c0hrbk1STTF5QmpNSnFvWnQ0NkxIamUzU2RuczUwNEJlckYtbXd5dXhxZkZ3SF9KSy04TWVFcUdMbjFNSmlyekxIZTRBVVdTR1UzcEpEbFJJd2g1MTVmdl9tRURGMDZLQmhKd0N2X1dINUNNbHI2UG9yNnVBdzdBQ3hWOG92b3FGMDFWazhEQlQ?oc=5",
+        "date": "2026-05-26T15:24:10+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "BBVA acelera el desarrollo de productos con la IA agéntica de Microsoft",
-        "description": "BBVA acelera el desarrollo de productos con la IA agéntica de Microsoft BBVA",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3JRelUtSDh2eVVyNW1aN3h6eFd3YkpxQlBDc3BQalQwS01oOXFEOGJ1cFE4THljZXdCMTQtekVzdUVucjlPSGlvRnJkVDlzaVdlZlgwZ0U2TDVOZ2dYdm5IekRUeUUxbnBuRjkyYmJBRVM1MmU1TVZGWVZGNEtTVnNtT0FrUjNVUkczUFN1alZPZEtpT0J4ZjEySEJxNVNSbmx5OTdwNDBTSjQ?oc=5",
-        "date": "2026-05-25T05:00:19+00:00",
-        "source": "BBVA"
       },
       {
         "title": "Microsoft retira Copilot por un lado y lo devuelve por otro",
@@ -24,35 +17,56 @@
         "source": "MuyComputer"
       },
       {
-        "title": "Kali365, una amenaza emergente que secuestra cuentas de Microsoft 365 con el robo de los tokens de inicio de sesión",
-        "description": "Kali365, una amenaza emergente que secuestra cuentas de Microsoft 365 con el robo de los tokens de inicio de sesión Notimérica",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWnp1UkZTVzJEMmhRUVVVaEhSeF9kUUZoRDd5di1aYVcxWVFHR1dIRUd5dDd0dVhvc3JOa3UyTVl2NWhsTHpoWEZjWC04Q3dYU1dUbEZtOC1aRWRnRzUtTVBwWGVSUmdNWWt4NHFpTmh3dUdjQ1Y5Z1I3bWFzc3RXbzVWMjBDNDd5eWV1UmRMdEZfVlExVldzR1dBTjk4dlZ0WEpxMmJMQk03RUxzZWJTRURINmlQbjdkYXpNZjhRRi12WXJVVkpMRk5QNlVNMV92SElxc1hXek9rUVZFQS01WGZoQ01JQ19aSVB6VDNR?oc=5",
-        "date": "2026-05-25T14:41:06+00:00",
+        "title": "Microsoft permite desactivar Copilot por completo en Windows 11 con una nueva opción oculta",
+        "description": "Microsoft permite desactivar Copilot por completo en Windows 11 con una nueva opción oculta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc09xWllQZlVxeFZLQklQVERlQ0dfdnR4NF9GQWtNdXpTb0xJVUItaHNRaGVEMnNWc0hncUR0dG9aemktbEZxTF9UbS1rLXV6SmM1QXh3dTQ2SnpZc1VfUTFmRndBQkI2bnRZRFR1VjNrNHZ2UkYwWUpwdEszTFBhc2ZuZTFOa1c2eXN0RXUwZlFGUlZzQTVWdHVDV3pGRzlsRmNLelhlUWdOZ2JpOUNFODhMWVpCVmhrVEZ1UEtDQWxyMW9HWEhIX2dLN1FpUdIB6AFBVV95cUxPLW5hUkh4NlN3MXdXbXRKYUR1MnpjS0xFWkxEb0tlMnI1a3NyYXlhUjdIaFNERE1wSFlPaGxDVzFtVEFkRXY3TlltVl82U0ZKd2E2b2FSU3ptQWUxN0ZhbTZkdVQwcVFYZlZfNUE0TUJKckhlR0FBWDRIOGtEY2FIaTdRcXl2UjdjaUw2dldQZGd2bU4xRFJwNkdBb3UybEVpQlFpVkJmdXR3RDRCYXBPRTBZc2RBaUpLbXZQcG9zQ3pNV3MxLS1KNVBsc2F1ZWE1V0lWb3cwa3VOWDJ5TkRVbnlVTG90bTAy?oc=5",
+        "date": "2026-05-26T12:22:38+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Copilot empieza a perder privilegios en Office",
+        "description": "Copilot empieza a perder privilegios en Office MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOem9PbHFHT2hla0NSdG5TcDRDbERzWmlIcEFUTXV6S0VPMG9Jb25rbHkyVmR0eVhBZzFKUWdfekV0VFZyVkZRVzZteThxZXg2R3dIQXBwYkdHY0pURV80blhZZ3VIREViSldBTVNLSUFPOWpkQ21SYVhIcWNSWXBicUM3VXNQZnF4WnNFWmowaw?oc=5",
+        "date": "2026-05-24T16:15:21+00:00",
+        "source": "MuyComputer"
+      },
+      {
+        "title": "BBVA acelera el desarrollo de productos con la IA agéntica de Microsoft",
+        "description": "BBVA acelera el desarrollo de productos con la IA agéntica de Microsoft BBVA",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3JRelUtSDh2eVVyNW1aN3h6eFd3YkpxQlBDc3BQalQwS01oOXFEOGJ1cFE4THljZXdCMTQtekVzdUVucjlPSGlvRnJkVDlzaVdlZlgwZ0U2TDVOZ2dYdm5IekRUeUUxbnBuRjkyYmJBRVM1MmU1TVZGWVZGNEtTVnNtT0FrUjNVUkczUFN1alZPZEtpT0J4ZjEySEJxNVNSbmx5OTdwNDBTSjQ?oc=5",
+        "date": "2026-05-25T05:00:19+00:00",
+        "source": "BBVA"
+      },
+      {
+        "title": "Microsoft pronto dará por terminada la integración de OneDrive con la app Galería de los dispositivos de Samsung",
+        "description": "Microsoft pronto dará por terminada la integración de OneDrive con la app Galería de los dispositivos de Samsung Notimérica",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVHA5ZVR4Y1BqSlZ3Tk1aYldxOURadklZZ1hab1pPNVVfQ3lCSl93VUsyU2tmdzVvYVR3NW83c2hvMjVsekhEelNNbFBud0xoZmZwRG9tMzROYVd1bTBwTlhmZFczdFZGbm92X0xCQnNfNXJONHY1R2lxTXVnTUp0Rno1N0MyaHlrTTBXajJTeVd5RU1DLUFUN0ZpYzBCM2xNTkV2TkJiRDV5anpLS1U1ZHRYZFBlWHZWMVBIcHc5aVVmeVdlN05odzNQanJHZ1dhemkyaG1qNURRcE1zQy1aRzY4eDRKeHZSZ3kyYXNqTks?oc=5",
+        "date": "2026-05-26T09:50:00+00:00",
         "source": "Notimérica"
       },
       {
-        "title": "Microsoft vuelve a probar un Copilot acoplado al escritorio de Windows 11 para dejarlo fijo a izquierda o derecha",
-        "description": "Microsoft vuelve a probar un Copilot acoplado al escritorio de Windows 11 para dejarlo fijo a izquierda o derecha Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaXpQV2VVVjhGT3J2ck1nZGJncC1sUkZYQnNtNlloS0p6WllLdTBBS3ZoLVAxTHg4ZWUxaEM1enF4TmJxWHBaekVJSlJQbkVCZnEzRHNBazNBb2psb0dNNTlhdGpWRDFmd2RzUHJhcG9idWhSM3RQY2xQemlRdEt1RmlHemo0RTdhZE5hLWF4ZXpuOG50SElRaXhUR0ZfZExvcm12ME5YOVBxcy1YVnFmRWEySXNvUktsWV9QMnRuZmNYNkR6cjdaVDdIZDRGX3BnMnV3TGNuTDVZdFlwT3dTYk9sXzU1NmZqZGxSdl9jQWTSAfYBQVVfeXFMTkk5bWZleUNqWFlFbHdrelNRVzBmbWx1Q2w4bk1PcmNDT1lmWmotRGpwNkFLR2JLbjNUMjBjd25SLTNYa01FNUp2X1g4V0s1LUxEWDVLQ0VRX2dBR1dWRjdDNE5POU1YbjZCX2NCVUtkUGkxdUxrODNPa2JhTmtlaHBBODZMY1dBZ1Z0UXNUT3ZObkd2aFdQMUN4Wlo3Z21HemotWDRKdkhwZjQ0dU9jRkpuRVlOek9sR1ZGQk9ZVVZDZ0IwbnVuWThPZEtKRXFLclU4VUVYMDRDcTl6N21FN09DMzFaQVlBMk5hY0k3UnVRZW9UazhR?oc=5",
-        "date": "2026-05-25T06:29:53+00:00",
-        "source": "Profesional Review"
-      },
-      {
-        "title": "Bill Gates, cofundador de Microsoft, revela su opción preferida frente a los celulares en la niñez",
-        "description": "Bill Gates, cofundador de Microsoft, revela su opción preferida frente a los celulares en la niñez Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNUxpcjU2UC0xdThnZ3Z1X2w0ZXNRTHBXaXdPRlZFeXNrdjhhR0o4MVN2Nks0WEgzRVlrbjNZVVU4R2tNVjBXUHJ2clkwdWIwVXhNVmNINVdIeC15VWx6NmpsVkpxaE1sVzY2Y0xwdk81bXBPdzB3OVJRZ0tsQjRZVVpHSTR0Tzk1NjBfOXlBYVh5enJPbHQxZHgwYlFvZmFDVENvQ3BkcG1kaFpUZHFUTTU0Z0N0VVo1SDY4YVl5cTdFOUxXUWd1TU1yUFl5UzJPZ1d5SdIB7wFBVV95cUxNcWFuTGkxejY1dHRvaFhKM3c1QWVKN0RLdXE4ZEZLR1RQaWNTNEcxU3U4a2ZDelNxaENaOC1iWElqLUJmdTdOQVltU1htdDZlYlpCakRSY0NjZUVMbHNpOGZqVHlMZjR3T3JNWnU1VG1zaUxWTjNObEI0SDFXVlNoOW1SQVlaR0RWQzU3cl9Na0tNTFIzV0k5bXJxY3lGQjRhYjRfSW81ZXJqeTR2ZFdXa095UFdzMUljU3dvWHktSUplN3FTWjVvTDdGbXB6QmVuRTFMR0Q0SEktcTVyZnhZU2tmY0JwOUtpOFdJcTVLVQ?oc=5",
-        "date": "2026-05-25T21:55:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Microsoft lanza alerta urgente: estas dos fallas en Windows 11 podrían poner en riesgo tu PC",
-        "description": "Microsoft lanza alerta urgente: estas dos fallas en Windows 11 podrían poner en riesgo tu PC Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGlsOFRwSEJLZGFhXzNoOUo5NFFaUWRMZFJ4ZXcxNGppc2d2M0VEbVhVb2Nfa3Z0TDlISFRFT09UZ3NCT3U1czRXTmVXTzhSTnUwaUNFTHFDcVVvRkNUZXUxSDlBNkUzRFBtUkdiRzYzeEtyTExtQnBDVjRPbWlUeUstaU81SHFic2c4aVZDQTZVVjJIWTVheUp2b0hneVUxSjFaWlJLVnVBRk42LVpKcnpfV1V3NDZxUjlNZWdFN05xTnM2bklVX29aeDlkQdIB6AFBVV95cUxNWVBsMUJQcmtpNlJNSkxBODlQa2gwa0ZRX2tnOXNYa0l2NUI5ZlVUbjl5UXkxR2VMbHRXc1Rpa01USmdGRzdUTEdnazNEQUtPVzVPWEVaTGhycUpyeXZuZF8ya3NadTMybUlCcGZzUElRVE5RYXN4ZlYzblRZRUxGVTEzeU8tbHhiRDBhamNJLXM4djNjM1hoeW9VOXBHS0lUeFJZUk9BSGN4OXNRV05vdHVwSi1GU2ZEMDR0bWU5U3VJVFdtcDFqTXd4S0NXbGFfNWRrMFpubHVwM0ZiUU40ZHhraDRzTnVH?oc=5",
-        "date": "2026-05-23T16:27:00+00:00",
-        "source": "Infobae"
+        "title": "Microsoft prometió mejorar Windows 11, pero los usuarios dicen que está igual o peor",
+        "description": "Microsoft prometió mejorar Windows 11, pero los usuarios dicen que está igual o peor MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGk2c2FvbE8yRlNpTXRyMjdDVHd3Ml96Ukp6blZjMzlhbFpHb1J3TXJSTEdZZWFIU1IwaW1fYUxfNmFzaDU4UTVneWpySEFNc2ZpQUt6Ymh2ejlpeDdVUERxcEtuX1NzOXNEYWtWeDBFVmFHN3Qyd09lRGIyTTZMcl8xc1dBWW1kdFdUMk5LeDBtMzlRNW82WkVxMWxIZ0hnVUVkTGhzekNzRVBfSFhFazBwZGlMdFI5MGpSN0xjLW0?oc=5",
+        "date": "2026-05-26T14:02:11+00:00",
+        "source": "MuyComputer"
       }
     ],
     "Marketing": [
+      {
+        "title": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital",
+        "description": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital Comercio y Justicia",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT0JIN3MxRl84dktEMTNVWktqWU1lOENzUzBEdTJuSWZWZkZaMExPR2FoVVRMOTVYUEd5ckhYOE9PV2lKQklpV2E3VDhmSnlVLXI2MUh3WHVyN1dSZktwckNIbE1NSHhQeWl0Q0tWWWRnMnRMdWhqV1dkNEFUV0plaHd1cW1JX1lEb19scUVMSHZIcmZxQ3M1TGFaM0piU0pFSXRYdV9CUVg0dzkwWnFQa0FWWHJlTE1TbFhFdUNDbzc2Tmc3T1BVLUZEMXl4YTcwZ2pFQk9CUU55Und0SEJyWk9rZlVXbHkzZlkxTHpzUWhIWGVWUUE?oc=5",
+        "date": "2026-05-26T12:05:55+00:00",
+        "source": "Comercio y Justicia"
+      },
+      {
+        "title": "ABN Digital participó de Google Marketing Live 2026",
+        "description": "ABN Digital participó de Google Marketing Live 2026 DossierNet",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEEtazdSREpQT01mVnFQSkVkMFVOdDlQRUZmX0lRVkttYWItek1MS0ZwaG8tdGlTaU8taGFsNWNnejBVQVhIUUY2cG5HTW1WTEd3Q3FsYUlMV2lZMFBkR05EZ0VORzhydGxEd0k3Z2RaVVo2ekNKMUxXUTlfekZWeU1JYTQtaDNEcDl5RVJvZ3NGTm8?oc=5",
+        "date": "2026-05-26T12:33:43+00:00",
+        "source": "DossierNet"
+      },
       {
         "title": "David Martínez es el nuevo CMO de Cien Grupo Inombiliario en México",
         "description": "David Martínez es el nuevo CMO de Cien Grupo Inombiliario en México Marketers by Adlatina",
@@ -61,10 +75,10 @@
         "source": "Marketers by Adlatina"
       },
       {
-        "title": "La nueva era de la publicidad en TV: el impacto real de la IA",
-        "description": "La nueva era de la publicidad en TV: el impacto real de la IA Cyberclick",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkNfU2tDb0dtOWxtc0RkZFpWZm5vRzJwQXpVSHhzdXJVYXBGTHN3MTk3b21fSkplekJUVHE1VmNSbXpOWHNWb3g1UmQ2Y3M4Nk1tS3p0eWxWczdDX2FxQjdQcHlhQkhaUm5PUUpLUHJvbk02cm5hdmVOVUdfTERnYUhQX2M4aWdZYjF4bWdqd3NkVElfSVJhNXpWcEZZd0QxR0FJ?oc=5",
-        "date": "2026-05-26T08:04:46+00:00",
+        "title": "Meta impulsa las ventas en Reels: así cambia el juego para creadores",
+        "description": "Meta impulsa las ventas en Reels: así cambia el juego para creadores Cyberclick",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkhtZ0NTVGhBZG9OVGZnNXVLbF9EVnJNcl9Jel83QThxQ2VUck51R01YYnBNa0phZW0zY1ZPejVnOVpWbThHREJmWFo1T3dCbDNHNGRfRF9LR2h2dTVCV3Ftam1wbHA0ZFZkNzREVGR2akZfNWoteUFhbTZjUG1RTWFMVVFPZy1HWTR4LWk4XzRSVERtaFdRckFBZm05MVBscEFnekhabWtodm9Q?oc=5",
+        "date": "2026-05-26T13:04:48+00:00",
         "source": "Cyberclick"
       },
       {
@@ -75,18 +89,11 @@
         "source": "InfoMendoza"
       },
       {
-        "title": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g...",
-        "description": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado g... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeTVzejRtWGc0OUt2SUZBZmRZaTBHLUZKenRNMXNuakR2TFZ4MFNaX0hTRGh2M0VKRkFadzNaNU1lUFluQkM5dm4tYUFHeUVLQjRjMDVLbUVvLS1wREdmeHE1WjZjTWdTLU1iZ0t6VlZWc0gwS0FyY2cyYnIwZWRlUkhRTFRxMmhycXNZQXhtcmVVQTItQ3Nmd3MxWDZGbFQxZ004TkM2d2N0aDRxX2JnZmxUZUxvaHIwYjRZTGQ5VDRDbklQZ21HLTVkN0dPWFdfZ1NNb1BfT0FJeFF6NURicTdTcV9iRUktU3lIZVloSUjSAfYBQVVfeXFMUGpxZ3VrZmt0WmI2eWpKMUU2cU9McFdDZzB5WkhqeXBHOHNTVVlRU3o4NHZPUlNkdnV4WGpvbHNqMmJONDlTVTRpM21kWktQSTVOckQ4MTViclVhSlVmZndpdzQ4OEYzQWhGUGxpcjdzaDF1OVBDVnBSZ01ON0NJdDBOUHdTSUFoSmtVdDVZd1lhM0tTeGRZZExsLU5mOG84ZlJJN0Rpcm91emdFb0NoVEx4WmNKM2tpVi1EaENhVjN1RVA1eUxiZkpTZlBGUzJTcFZwMWRQcGFlUllUYm9mRjUzeW9ickpfN3B4YkxwTmVIbzUwcnF3?oc=5",
-        "date": "2026-05-19T16:59:43+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad",
-        "description": "Nuevo ciclo de formación sin costo enfocado en Comunicación, Redes y Publicidad Municipalidad de Córdoba.",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VME9mRHBEYnhIZlZHaExJQTFmUWNJajMyc0JNcXd3SHI4RTZWZlJKMGxva3BEeEZ3RG04aFFybXplTFlBaEtjX0JCRWpvMlI1Sm1URGpiZ2JFR2JRc3J1M1JVbGtLRnQ3YmRIaUthaFZZQzQ?oc=5",
-        "date": "2026-05-09T14:41:44+00:00",
-        "source": "Municipalidad de Córdoba."
+        "title": "Se realizó en Godoy una jornada de introducción al marketing digital",
+        "description": "Se realizó en Godoy una jornada de introducción al marketing digital Sur Multimedios",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUZRTXRiUkN2bkNDRFlUNVJsRVZ1REMyS2lYU1BTSWctVDhvR0VRcTROX04yZTdlbEJlWFRsUm02ZVhBSG4wbVFUb1BUbUFFU3IwYUtoSTFxdi1LbzRTckpZdEtWMXFldVJ0ZWNncFkxRENQaUtDaFlXWHRlbVAxVnpYM0lMOHFIbTJYWGRHNnliZk9zYjl0SlZLMGFlcVVOTHEwSTgzM0JreU1J?oc=5",
+        "date": "2026-05-18T15:11:38+00:00",
+        "source": "Sur Multimedios"
       },
       {
         "title": "La inteligencia artificial está cambiando la publicidad digital y Bogotá será escenario del debate en el IAB Day",
@@ -94,22 +101,15 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNjNWeFE4R0QyQzNxS09obi1Wbjc0ZnZCakkwbGk0UURjREFWUUp4eGp2S0tVX1hOa1VmalZZRjBueVhKMnZqckxqbTd6SHBXRGpmUlI3VmROREl4RGw0dzNQc3BkS2dldnhsa2ZIaUI4NUJWdHA4cUVSOENfdjNfc3JJLUQzSXJoQ1BCSkludjhWR0xFZktJeTJZY3ZxRjZuSUlQb3N5Ti1aX3FYOTByMzdDekE1U0dmYkNUY3dSd2pMVER1bDJoaGpYRWwtbkRUNUFjVFBZNmYyVXQwWEFjeDN1THlDMmZ6bkpxVi1FNnozQTlKZThF0gGSAkFVX3lxTFB4WG5Ka3lHZVRZeDZzQ3JvZ3drWnpvZGxfQldxY2s5MWtNSW1KTWt5Q1pydFBUZktteUZaalBmQnJkXzduR1N3LTJuRVJoN1lkX3RPOHBMN0w4UHF0bmxCWlR3dzlIOHVIQlUyS09SZTZwcDlPdzNyR2pFb0FYUnM3N1BpVW9mOC1RTnpTTXhMbjh5MFVHc29PeWxwc0F3anZvZTdTa1Mzck5CMmtDV2tvMlItUDlMcjZJWFpRdEVlMWdiMXdmaVVNb2VaOXU0b1Y1UEJVZVBaYW1qOGU0TVV2a3lhVWhHSUljSXZIb2xKMHlCVndBV0VOTGpyUnd0eTIxMVNUWmJnc1UyZG9xeVpfaEE?oc=5",
         "date": "2026-05-21T16:50:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Se realizó en Godoy una jornada de introducción al marketing digital",
-        "description": "Se realizó en Godoy una jornada de introducción al marketing digital Sur Multimedios",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjY4MDlFVjg4SzNPQUF4c2ZremlMY0t4NDVMZEhmZEtlcnFPVDA1MGw4UWNrbi1oYU9YNUgtdml0Y0pxeXpsWnJCVkxscVMzMjlZdnZ1b1lMM2hxeUdWNzhsY2hleHJMVkJmYm03Mi1uV3drVldhOFRyMHJwQ01MY093VUNBU09ocWJNZlRnYlVWTktIQTZ5a2l2QzJ4Z1RROXlmX2Z6MW94aWV5RHo1TUFR?oc=5",
-        "date": "2026-05-18T15:40:35+00:00",
-        "source": "Sur Multimedios"
       }
     ],
     "IA": [
       {
-        "title": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros",
-        "description": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros BBC El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano” Infobae Rotunda reafirmación de la…",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVnVsT1YxSkc5U0lidFlwRnJzRnFnRkdoelVrcURKRHpPc2ZyNE9RNDVOdk1QMzNwTzYydlZnYWxrbWZfRmp1Um1SaGY2YVlST2pWV1owckxqbmfSAWBBVV95cUxPMFpMaXRTdDBIRnkzOEh2ekQ1MXQxV0M2OWJOQWM0WTVFNjI1ZVNLVEpJdExGRzdBdFhvMnlYWW5jMHRMQVFQQXRrU1RNbFlrenF1OE1uUDhZM3k4OS05RGc?oc=5",
-        "date": "2026-05-25T18:05:25+00:00",
-        "source": "BBC"
+        "title": "El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano”",
+        "description": "El papa León XIV publicó la encíclica Magnifica Humanitas y pidió que la inteligencia artificial “no domine al ser humano” Infobae Petro compartió el ‘Magnifica Humanitas’ del papa León XIV y advirtió sobre la inteligencia artificial: “Despedirá centenares de trabajadores”…",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRHZHenNMUnpXcERtYU9zOWFKLWtVT21YU19CeDgxNkpxQ0VGSXpIc2JTZENQM3lCV0U1alVkZFFiU0hQWnZHTmpaVlJwcTZ1WWZHSGw2RTIyM3J2VFNfaHlZOXQ3V0Z5M3p1MWpRdUk3bldFeVBRbnMwc1JiSXZrbXlpaUtidkRPZzhWdkswUXB6QkFPNDVuR2JNdXlvdW9rZlFtZ1dUQUdBUkZNM283QUtrMXJRamxveEpwZHVEVmVuQUM0eXFJTW5hb2dIUVYzV3FhbmkzT2pOLVNOZXllcWdUQzZrM280MG1YT25jRDd6ZEllcE1SdEVOWklFNTTSAZoCQVVfeXFMTkVka054NDlFUExCSHZZb0N4UmtITlZpNlo1RGpRM19fa1R1RVpWQnNmbVlnTnh5VFRZX0U1Wjd4aFZFZUZXZklfS1lFZkxJOXZFaVV4TDQwamJHZ1RTeXNFSmd0dzZaRkMtTnlZMHR3bWxLYmFaMHY5WjBuSDZON0w4QTRkWTVieWVTVFJjYWJvM3JtTVR0TDNZODhKaGdveWJNbndxZk10OEhSR1N4Yjh0aHRJLU0yc3dfeWM4TjhnUE5NaFdmLVdwRUxxNWdaNjlsM0FrbDVEc0ZqX015WjlJalFCUEd5RzZET1RKQ1BCTmxwd25vcWhFX2NEdGJpRWJXdXB1U1ZpVDIzZmhJR1d1T3hzRHN6eDl3?oc=5",
+        "date": "2026-05-25T10:58:31+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Google volvió al frente: la compañía que el mercado dio por muerta hoy controla todo el negocio de la inteligencia artificial",
@@ -119,39 +119,39 @@
         "source": "Infobae"
       },
       {
-        "title": "Inteligencia artificial y crianza: el reto de acompañar a los hijos en un mundo en transformación",
-        "description": "Inteligencia artificial y crianza: el reto de acompañar a los hijos en un mundo en transformación Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWVjdklUQjJEelVtWHdhNGNBRDhfZG5UNEh0MEcxTXhUakgyRXNqeWZYY0xsZjd4NUpmUC1ybkxpU0hCTlVaVjRTTUM2b210cXU3OE9NQlZEYzcxZXBfY1d2SVNYZGlOTVRoWUREZS00WnFZVTktQzRMcFpNdmJ6dEJ5RW14Ukp2QThwRWEzbUoyTFpSazdFSFBfOHRHVlFFeDJkNnptVGJwcHp0WHVBYkM3QmlBOFJFWXR6dGozWlQ5d3FJX05oSmNGcXUxeWdsZld5LXItRdIB8gFBVV95cUxOY3dhY2FVYVc4bWNJVlVqWnVLdmhOdTBCdzhUSUN0Wk5LR3V4eGRSaHNzeVAwX0NwNGFSRDNMdzg5aGU4cVBOY2JtbzBXUHp0ZDhoYTZQa0lyMkpjN3RBdVJuTzEzN1Jxd3BwUkVLbnJYaUh4NFgtV1ltY1JEcVB4MWFtMXNoMUc3ZFV6NnF3OGphX01EaWtmb0gxNzd4M2ZucnYwM09tNjROdENaLXl5MWNNRWxQbTlRektVRkNhZkpaaTFZeTU5SXF2dURFYmRENjlzY0R4NXk2ajRmU1RIRE5ENHg0ZVoxS2JfaXROT0hHQQ?oc=5",
-        "date": "2026-05-26T04:01:00+00:00",
-        "source": "Infobae"
+        "title": "Red Hat Summit 2026: “Hoy la Inteligencia Artificial está frenada, pero en dos años va a dar un vuelco”",
+        "description": "Red Hat Summit 2026: “Hoy la Inteligencia Artificial está frenada, pero en dos años va a dar un vuelco” Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcU9ZTThwNkpxNW1GNWZ4bFU0T1E4VERqSEhyWnBCM19TdHpOODlrSHM4cVBvcUJJNDNOTmpVR3pFaVh1M3V0Mm5tVllZOVZ3akNvSVFiTTRPYmlUQlJlcTc3SmhlSUhUMnZtV0JKU0FwaE1OdElTUmVURTdpSFpSdGFCcm5IRGhYSFZGbXJrRThJM1lTeG5RNmhyNFdocVBkc2pTR3lqZnNjN05rN1VMV3Q4MXloZ0pvemNfTHBGT3dDRC1SbmF2a19PVHlESTlK?oc=5",
+        "date": "2026-05-26T16:02:52+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Papa León XIV pide luchar contra el dominio de la IA",
-        "description": "Papa León XIV pide luchar contra el dominio de la IA DW.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2FyX1BCanNnYk0wZXhfTDBidUNNN3FiM3Vsc01MUWJZTWpmb2xUcWVSTi0zb0YtQUVBZ1hmT1Y0WUFTUEtJXy1kMFRNdU5NS2Z1WFlVUjNudXEwQkNpdkhLNDFDQ0IzNXB5TERXN2gyMFBXQmJSNnhKbENtTHVhR09HNjBvS04zcTlCMDMwOThrRDA0aVdLUTdFSVQ1bXJWYzV4TXh5b3dMV25MVWoxZGY5U3ZNRHNWbzhN0gG7AUFVX3lxTFA0ZHBNQXRCdXhwRm04NXVFay1vZmlnODZuX1U4djYtTU9xNHM1ZlZZcjBCUlFwcXpHdEN3amRCZmRKOEZQdGdTS3pBeU1fUnBGc2M3Nk02NlZqVmd4SkVkZW1ETWFETkVpcEFFb2pRTEJUQlZ2a1hWYzFhelVPOEpyR25OcHk4Q3MzQ21sU3BJZm5UenZiOTRoYUs4UURCUVpLbGMtTGZJZmVUYVlxLVp5TFlLWEZIWHNLT2c?oc=5",
-        "date": "2026-05-25T13:47:54+00:00",
-        "source": "DW.com"
+        "title": "Proyecto en el Senado sobre ética e inteligencia artificial en la Ley de Gobernanza",
+        "description": "Proyecto en el Senado sobre ética e inteligencia artificial en la Ley de Gobernanza El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnhjYXRrODdtRlpiaU5VNmxscWVmTzlTWnBEWU9oMDVaT0JNNTY4ZFpHWVQyY3o1RjdwczM0SnpkcnVPMzdqN29VUEZWMXBjLUxqWDg2S0VPVGdESFlMT0d2dFlXa2E5YTR3cUxqQlF3bDdOTml3WFNrcmptalRtZXRJY01YUFhmeGllVkVUS2VwOFQteTZ1VWZCYnN2NW1rY3VoZEMtazg4VUFkazczM0pTckM2MmpWVWdvc0hvS1VsY2J3V2JF0gHMAUFVX3lxTE5ibXB4TEF2WDE4dmJyaGhnQ3FDWWJUV1FQakJva3VPZkZqdVNOdUlwNUg4Rl9MZHZ4RHNsMnhMZ3RNWG5Ldlg3UTdjLTdFdGFCaTNWdVRtaGhDMGVVNWdJb2FyeWktdTAwd01VZTRWRkZOMmtwYVI5YmRNRGxpb0tPeTYtTFF5UTdRNkRiZXZzb05zU1hXWjNRaHRFVTRHd1RaaWtXb2dqTlYxTU5DTHU5NWV4cHFId09jMHo1ZDBmT1RmYk15S05ScU5ZYw?oc=5",
+        "date": "2026-05-26T09:25:08+00:00",
+        "source": "El Litoral"
       },
       {
-        "title": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio",
-        "description": "León XIV presenta la encíclica: desarmar la IA, no a lógicas de exclusión y dominio Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMFZsb3pLNGZzbnI5V3lKWlZoU3BiYVJ6eHNJUkxKR3RncGtwbzhPb1lhZEMwMndRQ2pIWTYycy0ta2taX3NOQ19LeDJKS1VjX3R2d2gwaUZOZ2JjdlVIZ1gydXFVYTdlQzRzNlFhR0tHQ2psVDlxZEFMUXFDX0N0QnJPZmVNZHJFVV8zaWlYUHlqSmMzTEtaQlNTMmZEYjB0NUJsNDFhTXE?oc=5",
-        "date": "2026-05-25T11:13:41+00:00",
-        "source": "Vatican News"
+        "title": "Hay un puesto de trabajo en auge en la era de la inteligencia artificial: experto en ciberseguridad",
+        "description": "Hay un puesto de trabajo en auge en la era de la inteligencia artificial: experto en ciberseguridad Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0dYbklqd1VZc3NVVHBTb1QzcXM2U2JSNTJvcVNDaEpDbXVITTRIOG11WGNOMEVXNDFvdVhueXdaaFU5U1BFRUpKeTdOMVR2WVRZakVxM0hDSldpU0pxU08tVFNpUHdUVENFY1ppampXY0hGNEhiREVBQU5FenN0NDRxdVRlVU11LTVJeVZrOE9PMzdQdFJfNHJzUEhWaTg4VExGQS04ZWUxamhuQ2VkQXhRdTdpMkVQ0gG-AUFVX3lxTE04YlBsVnhLUW1EY3JjdERjRnlPWnB2MDhreTB3c1otdEU2WWw2SC00Wkp6VEVzZllnSmFaY0NCR1lENmtKbUNuRy1QcF9wYkVfNVhPSkxSazFuTzFWd25nbEtmUXFBY21VU1FCMzdhbDNPTnExbTI5TWgtbTdORWpZM1BselQ5R2FpRXFTSFZqTDI2T1phM0JER015aFVpUTVGWVp2bk5mSFVxUm93Q0thMUVEeVJCRGxZZmRoRGc?oc=5",
+        "date": "2026-05-25T19:01:34+00:00",
+        "source": "Xataka"
       },
       {
-        "title": "¿Qué dice la nueva encíclica del Papa sobre la Inteligencia Artificial?",
-        "description": "¿Qué dice la nueva encíclica del Papa sobre la Inteligencia Artificial? Diario El Cordillerano",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWktTm5qWG5VVkJWdUd2MnVVc0xxUkZSRzJWVV9xQmR5YUM0SkZ2Um1CaVZjRHZQaGdPazB4T2lzMlNKNUxYV0NBMGxuM204T21JdVNzZUVJTU95NTRPR1NrQkNud2d6Z1A1aEt2eE5oZ1lzb2dPa2NvbGg5QzJKMFcwTVEzblJEMkpuUmluT2N5OTluTmoyMFZLZVFwODJSNWV1VURLMV9HNDNtcWNmLXNBeDNFTGh2VWdiVjR5SGRReklpY1FRT2hB0gHPAUFVX3lxTE9zY2hfbGVMX2NhRml1VUtQSjVRaXkwa1JTT05IRTlSWF9RdDl4X08xbHg4MlBBOE9uRGZpTEZ3dEVkd1l6SUhvN2g2dk42WjQyMk15Y0phMXlyMU02UlY0N0d1aU42c1NtNG9zb3laWXdiQ0ZwRlV3WVZLc05HeDZmLWJmTzdxTGtQWHd6b2tVcl9NZDdPZHhkT0E1RHNBN2E2TE9Fc250RmhjT2ktNXdyem1JSFUtcENGRTdkaVhUQXVHSWl4a3FoeWtfYzFQVQ?oc=5",
-        "date": "2026-05-26T05:03:45+00:00",
-        "source": "Diario El Cordillerano"
+        "title": "La revolución tecnológica de la Inteligencia Artificial que nadie ve y el cambio de régimen",
+        "description": "La revolución tecnológica de la Inteligencia Artificial que nadie ve y el cambio de régimen Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYlcwNWNqaTRnS2tvUTdiMnM4c09ZSnVzVUpsbnNvNFpPRGNjV1JFbk1DaXYxUVRnQUUyb0hQWXNOZ2Q3S2hwc3VPRk5uZXZiV0FZb2xXY0FrZGlUSWU4QmlkZEJNUVFjYVlUdklRekg1Y2lwV25TdlIyaTMwdE5FVWlBOXFrSTZud0lYVndOWTVIT0lWV3NJZnJnNlBRV0N0TklWXzdqeF91czFFUjhvNDRpd29TMDJadmViQzJrdmh0NEVIbjBz0gHMAUFVX3lxTE5rMEw5aTRvR1RWVy1ET285cnBtdGF3aTFDdm1yVkxpMC1zdDdQUGliaWI3SXJlSkpzOUp1WU5BX0FuQ1F0Q0FCSDQwX043d3VEdmpTVE5kbW5kYl90ZDFlelQ5ekpXUkZsbWRyYXhjcl85TFk4dWd5SkVfeFl4RTJnaHF2V1l6WG5ERTVfcGo4Yk80SmRMZ1B1RW92emcyRFdzWHdmRDh0MHduTTV6TGc1by03UGIwYlZMUVdkWWxHSFhIdEFDbEhXWkRFYw?oc=5",
+        "date": "2026-05-25T15:41:00+00:00",
+        "source": "Ambito"
       },
       {
-        "title": "La inteligencia artificial no te reemplazará, pero podría hacerlo quien la use",
-        "description": "La inteligencia artificial no te reemplazará, pero podría hacerlo quien la use Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVRLMV9oMlhLLWEwVS1TY2IzeElWRmIwX09EYkJUeDZkQWNRZGRMTERBYjRkOVl6djFOYURmLW9xOThnOEhROW5PV3NRQ1N1S24xNW5qUjUtVUFvMUI4N29IMjl0ZVRNcnlYNll1Mi1sN3BkdEZialRnZUFwSUFDbEdUcGs3ejF5OGpYT3kzc2Q0YmZBNzl6dVhZTVFRQXE5c2dMZ2MzdDdYUUxfWmxSajM2aVJtWWRUUkRuMktRUUlQUdIBxwFBVV95cUxOS2tMamxJVHFVUS0zTmJRNk5MV3dIZXp0SFFsN2lNWlByR3g2Y3NDdkl1LXJ1ekF5bE5XaXlJQUlYWTUzQ3dBVGdmeGY0cmdTTTlQd1c5OU5LMTl4dzNNZ2RnSTRKUTRGWFA0bXJrdnllbDhKUkVCdTlDbmF0aFQ5V1E4cFZuTkV4SHdGWlEyZWZtYl9ta0ItTFAtVnRGenR3T0lreWd2Ri1PUEI4bXpWTVhadUNRamxYR0JXMEREbE5fU3ZlT0Fj?oc=5",
-        "date": "2026-05-26T00:26:16+00:00",
-        "source": "Cadena 3 Argentina"
+        "title": "Jurisemia: el TSJ oficializó plan de protección de datos para publicar jurisprudencia con IA",
+        "description": "Jurisemia: el TSJ oficializó plan de protección de datos para publicar jurisprudencia con IA Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXdOampmbFRxa1VBMm4wcFIxeWNRSnpDLWlKNEpWalBrRTE3akRFcHB4MUtFYVpnTjFRRXI4Uzdfb29Ua0JpdVdxQVlDN3dCRG1JUWpydjA5UzAxOWtsVU91V1J3aUhRNUdfSjRBMWxOWTYzT3VOcmhBZEw1ektrXzdBWHZWQWxHalRHazVVS2dXOTBIVmlVOEttZGt5c0t5cEk2VElUcW40d29VRVRJY3V0Tjk5Y1RyUVMzUjdFdEJDc2E2ZzRxQ0NLRlpPZzQzbnVj0gHYAUFVX3lxTE9kX1Ixck5JMS15cXlUN3JfVG9oVkZwdDZCeGlGQW1vODFlODg5VElySFlsT08xMjl6WVBNbFlwWWhWenJwaUUtclRJaWlyWEFtVENqRDhDRm5uNEpna3VIdTZWcWtUcWo4WEhYT2I5amdvWmw5d01FY01Gc3R3N0s4c2N2UFhuZ0VvVHFZNTdVYV82aEc4NVdRUkZESVpJUVYxUUxBczNqU3VSVG5iMG12Q3FIM0JBYW04Q0lhcFBYQ3FLOVRFa3VQME1lRkhjTUR2WUtOTU5DdQ?oc=5",
+        "date": "2026-05-26T14:53:06+00:00",
+        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
@@ -159,15 +159,43 @@
         "title": "VMOS: cómo marcha la obra que conectará Vaca Muerta con el Atlántico para exportar crudo",
         "description": "VMOS: cómo marcha la obra que conectará Vaca Muerta con el Atlántico para exportar crudo LM Neuquén",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWHVoOFZGTHVBNWtaV1p3SlNKMFNqQ3JJdkpvemswc05ySENCOXBTUjlqcjZmLVJNejFQcjkyUncxUjBaUFJTYy1FRHVaVHZjSWt5Y1BwSDFzcjdkZmw3ZUhUM3ktei1FTlFyTmxJLXVTbThSMHlFS1VJQV9mNkpEbW15ajAtSzlnWHNkWkRGRExaa20wLW1WZ1JMZEZpTjlDaUJLZGs4QU9yRjFrZ3N6S2l0VDkxRm1pNzR0YzRfU2JzNnJs0gHKAUFVX3lxTFA5MFF4TFlOUkt1TlNxY3gtMndBelRmejE5QWw3dGxQREpSSHVkNGF5RC05R19VUWxBMkFCT3RESWlsaklUbXN2a013aER2Zzh2bEVHX3NvRzczRHdBbXREQlFlQ3pwdzEyeGMtbmozX2hIQUFtSHA0YnFpU3dCR2doNjdmTmh1Q0hYdnRrWEVyVTRXTHVLQ091MWJVSVB5NkRadlNwZTlRNFhWRlNER1ZYSnZuTEQ3a3ZSQWZ5cnNHOGxVdGEtQjlOZ1E?oc=5",
-        "date": "2026-05-25T17:26:30+00:00",
+        "date": "2026-05-26T12:30:00+00:00",
         "source": "LM Neuquén"
       },
       {
         "title": "Vaca Muerta alcanzó un nuevo récord histórico: Neuquén ya produce dos de cada tres barriles de petróleo del país",
         "description": "Vaca Muerta alcanzó un nuevo récord histórico: Neuquén ya produce dos de cada tres barriles de petróleo del país Infobae",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVWJyUUJOVExBeFJYOTV1Y1dOQUNySkNsdlFyZVJoUkZ0QzBQVjVVcmw0WXdZMUZnUElUNHJEWHBXUnY0d0NzWDVvZ1ZqQlF2MXV1QnlRbnRvWHBVTVFubVVSc1FiaGlPcENrZ3NGT3VaSEctb2JBWGI3ZGdOaE4ycURpeE4zTTNPSnhsMWgyVUVfV3dzeGttQlpmQWZia29lckIybEdFSC1rbWRGZC1nOHE2QXVKS2ladU15ZkY5eEZNcE1zM0wyMWE3MHNxTEt2UVU5WDhkYkNqbWYyZ3hZVjJZd1JEZ09fZlRlctIBhwJBVV95cUxOYlBoRF93bzVlUnNyRGF5V1VoNVFqMG9rc2lrdUJwUUJodkVvMzRkYUhCT0plTUwtOE95dU4wcENpbWFOMHRtUVpEUFUyRFRoazZoZm90UF9HcGhPQ0Fzc1czd011ZDRHSlRLTnJPMkd1ZkJDN1R6djlTemJQNjNSNHd3enVNX3dvYW1adnpoaFlJQi0wTEY2aHVnb3hnSUxYZHBHNElFZEV4N05sWlduYUxlVzBvSzJqNjl2eTlQc3ZXLXNDU05ELUNCbnk3UjV2c3V6QUhiTEpwRGVHS1IwbU5ZZkNNcVktSm9ldXB3U3M1TE9hUjlmZXhFSmNVaFNVWmFUWVNmaw?oc=5",
-        "date": "2026-05-26T04:13:53+00:00",
+        "date": "2026-05-26T05:06:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Radiografía de los pozos estrella de Vaca Muerta",
+        "description": "Radiografía de los pozos estrella de Vaca Muerta LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR29WMm9LWndZQTJOYWUybWxuMWpTU0xuRGFkVXA2NHhfQWV1QlJRSjZQc3JXaURXU3p3dXhISjJDRFN1ZGZ4SGloSlBRQlJfV0pRNU5ySWR6MTZnREVTZ0VoX1V2OUZwR2R2NTI5VERJbWJnU3FHTGNMVnl6V2lfMENBNkdrWVJKLTBuRjdmYnJrclHSAZgBQVVfeXFMUFU2c2VvMFcwbUNaZjBPUnhidWluSzAtVExDalZFVlFTc0Frc3RuZUZTYUg1WTFNYVRadzE5QVU1eWFqUnhzQUFnMUhpbWxSVGdMbEg3ZS0zU19OLS1SQWFhX0dPTHozWEZGQUlidTU3YWdPZi1Xbks5ekkyMUlIUHVOeGZRYlg3NzA2Wkl1MjQ4RWlqS3VuTVo?oc=5",
+        "date": "2026-05-25T14:34:00+00:00",
+        "source": "LM Neuquén"
+      },
+      {
+        "title": "Vaca Muerta ya aporta el 67% del petróleo argentino y rompe récords de producción",
+        "description": "Vaca Muerta ya aporta el 67% del petróleo argentino y rompe récords de producción Mendoza Post",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTUhtc1FyWmFsdTJDaXFPTF8wc0pYWlJMd2llRU41TGtudE9mR182aWVDTTZMZEtqb2toSHFuTVhVYmROakRSUFR0SUQwYm1FdUFKdC02dXd1MWVIdllXMnI3SnVBQWVOQWZ6TUZPREIycHNXR3d4NTB1aVBiS3pJSC01em5zd1lVWi1QRjVlTjlJdjRkUm1uZDlVMzZMZW9aLUxwbG5SVVRVbzhwUGdCblV6NGfSAbQBQVVfeXFMTk1IbXNRclphbHUyQ2lxT0xfMHNKWFpSTHdpZUVONUxrbnRPZkdfNmllQ002TGRLam9raEhxbk1YVWJkTmpEUlBUdElEMGJtRXVBSnQtNnV3dTFlSHZZVzJyN0p1QUFlTkFmek1GT0RCMnBzV0d3eDUwdWlQYkt6SUgtNXpuc3dZVVotUEY1ZU45SXY0ZFJtbmQ5VTM2TGVvWi1McGxuUlVUVW84cFBnQm5VejRn?oc=5",
+        "date": "2026-05-26T10:52:38+00:00",
+        "source": "Mendoza Post"
+      },
+      {
+        "title": "Agro, Vaca Muerta y RIGI: Caputo acelera con reservas y anticipan esto para el dólar",
+        "description": "Agro, Vaca Muerta y RIGI: Caputo acelera con reservas y anticipan esto para el dólar iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUlTVFFpd2hBb1pNb0dYLTdLQ0ZMNzhnTmFGdEQwZGpyT08zQk1fdlpsbDNndGM1U1FlTk5vbHREdnhWbndzaWM1a3pEX2VDb3IyYzdBa0U2a3FDQ0lvbmFOZnI4NE9tMllZa0tQSElQY1dDYnBLRndLTlY4b1ZLRkFiQWhFdnVTZkQ2QlpoUUF1TkppcVZuODlGVDFWQ0lFQktnenhMbkU2Y2xteU1SSGIyamx6ZG9CanZ4NUFOZGJMM3k4dUHSAcsBQVVfeXFMUEx1VnVOSGJyaFpZVGt6OER0dXp5eUlESXcxYjBBb092cmswZ2ZfU0VaWk5RRVR5enJlaVI4b3ZVYkpXcDlaUUNqbzB1dmRhSDZfRlFMZ2VFZWZvWEM4OXdSWUhfX2RqQXpQTDRETGFsMUxQWE9yQVduR1I5aDZxUG5YRG5KcEpjVkhVOUJ4Sk0wa0ZfNzVuQVlnTXJkRU9hb0V0OEVVZ0w1dTAyOEFpUEgzaHUzMFJMZWkzZU14dVMxOFBGcWpMYkZKZnc?oc=5",
+        "date": "2026-05-26T10:00:00+00:00",
+        "source": "iProfesional"
+      },
+      {
+        "title": "El megaplan vial de Cipolletti ante el crecimiento urbano e industrial por Vaca Muerta",
+        "description": "El megaplan vial de Cipolletti ante el crecimiento urbano e industrial por Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEE2Ny1SZnUxdy1VemM0U1MzQTJIc0lRS2hnSDc3aVVpbE9haTNYejZER0lhRFptSnF2VjR0X2pDbk9CRjZqaF96SVZzaVBVNG1XMUdnam5tRHZrM2RoaHFiaWZHOEppWFYzR1M1cmdpQW1ZTF9LcWMyNVdkMDVEdS1jX09lWGZTZkhscG5RcFhpTzB4UUl6QmEwamQ3Y3Y4RkpTYmRlSdIBrwFBVV95cUxPOEF1MWROU3RzYWNoQUpNRnI5amFud0FXWGFvc1BwcmkyanF5V3BqMXFYSWpCS3FOaXAxbWdzaWtDczZ5cE5WSFVTVG5VT0hjbXpQWWxjTHpaU21WMGJrX081R1F5ZjBxb2w4SmRFb2I0NEQ5WjM2N0pxMmswQnVuWkRpSTJiY1Y1c2dFZ0JZOW1SdENoVzUxVHNHdElmVkhqdUNzX0cyOG1Yc045U1RV?oc=5",
+        "date": "2026-05-26T03:15:00+00:00",
+        "source": "Diario Río Negro"
       },
       {
         "title": "El agro ya no está solo: deuda corporativa, provincial y Vaca Muerta sostienen la calma cambiaria",
@@ -175,34 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV19iSy1PaUVjV1FMbFV2NDZDQjQydjVnUS0zOUprb3hXcC15NWFXS2NnLTJwOUloYW1abVZ3eW5zeEt6Rm5yVWxha3RkX29ybVRMV0d1Y1E4LVZ6eFJLQWo1b0thWWw4NThjSVdJMU80YlNiM3ZRbHNsTXhqcFVzcy1Ob21XeWl5VnhLdjFfOE9VT3JJNlk2dEJuOHZDNFpxZ1prbU1zZzJvUnV1SkRuTVpONGFKQnRpWF92Sm9LQ1RFaGl6ellZWXpHQWE2Ukc0d0hQdmhucDZWaThYYUE?oc=5",
         "date": "2026-05-25T19:39:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Nueva era en Vaca Muerta: así será la lluvia de inversiones récord, liderada por YPF",
-        "description": "Nueva era en Vaca Muerta: así será la lluvia de inversiones récord, liderada por YPF iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2RCZUhYT3FvejlXOHlOLUpzTjhQLU9YODd4bGR6ZGtQcHQ5NjNidUxzam5nelpidE9LRVZxT005WjNhZ0RlLWVWUUI2aUZXbWo5ZzN6UXpSTUxpR2c0MUhYSktmNmNuLVYxMXV2aEM0eDNnMEZOYzc0aEZtcjhORzZoNzlOZzd5ZHJHZXRLWGMzUERlT1dweE4tLUhlRU5UOVNhQ1dUWVZiX2VCSE5od0JkVFhSMl9KMTU3b2RNZjVaT05W0gHKAUFVX3lxTE5XM2lUdWEzZ0h4SlRRcmJseU1OMldyUXhqeUM5S3dKT3ZJRXF2ck9vNDZnQnlzWF92OUFpem8wMnZWZ0c2M1RFR2tMaUYzOEI5TWlCb0xmZzJ5R2pWalMtbXBGSXFkSE1TdlRMcUdtSHp0SU14V1BDRDNxeFlZcE1nX2FXczVXQU81N3dnSzdpb19XNWVhbndkUjZSTDYyOFkteVdRcGVNenhrd2VUX2dJMHhnX0ZLN251S3NuUGZ3Z0NTSkdyQVk0QVE?oc=5",
-        "date": "2026-05-24T21:00:00+00:00",
-        "source": "iProfesional"
-      },
-      {
-        "title": "Habilitaron el primer tramo del bypass en Añelo, la obra que busca descomprimir el tránsito en Vaca Muerta",
-        "description": "Habilitaron el primer tramo del bypass en Añelo, la obra que busca descomprimir el tránsito en Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmdDWFZGSjB3TDlNbHBmOVlHUzBGNWpIdy1OVkwwQWRYQlp4MVlZMnk3ZGNhdnkzV0VGVmFtTER0ZGl1Mkt6UlFLTEtqMVc4alRrcGE3WkRjMkxxdXVxYkZxUDU2cEJBdWtCam1XTU1jMGxWc2hqMWVxQ2FpQVRGcUMySHJKUUg4eUZXR3pwZ3FuVVV4UUx0Q2FfMnZUMlZUS240YUtkTVQzM2hNWnpHRjJ5R0I2QUM5U0JvRzRUak9SME9acGVfZXpOdzlIb09DNUFGazBCdElmbHlFX3Fuckt2U2x4U2hMUzFaZ2pMSGFod9IB-gFBVV95cUxQZ2pBbHI1eDRDNkNSN2pGOG1xZjhKa015RmJUZWtVb3JWdWFJUWozaTlHTzhNaFZqSTB1cUhraU9YVF9RX0poV05GR3p1TGxOam9ZamlXamI1RzRTYlNkcW15UktNY0tXQWtNclhsMTZINFJwRDN4a3ZUakJ6akJ3eGVmQ1hBZzhCakNZQnZCYkRLa2QwVTNISjBGRktVTnVaZ3BRNUhDVllDNF9zc2Y5UmtXeHltcUFkNDlyWEJJN2VtcUE0UDNwWm5QSnVxclllbXdkemJ0OUkwanpHc19rdC1hQTVVVHlSLXlOSFFpS1I0OV8xUmlnWE93?oc=5",
-        "date": "2026-05-25T22:03:27+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Argentina busca consolidar un nuevo ciclo exportador impulsado por Vaca Muerta",
-        "description": "Argentina busca consolidar un nuevo ciclo exportador impulsado por Vaca Muerta El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNckRCZmpNV3lqUE44QzEyVm5yQTBkNjlzRmFwNVYwZC1WZVVzSW5JQzhQTk1WWUpnUVBGaFB4M1NzVFlSS3Q0a29sbFY1a1JLbGdoTHd0enp4bVlSUFRtWDk1SE8td245Vll5TDJxRU1pcWtub0ZCUmZmblZvVm8xeXJDUnk5TzdPbHFQTTlKUm9XM1Y2Z2QtWmxRT0pVNlBCTm8yMTNnWlUtOEZTX1ZzMHVUei1uN2Z0dWxwUmduNjJsT1XSAcgBQVVfeXFMTndMbGw2R2ZxN0ZHZ3YwYlc4RS1ZRnI5NUpfQUVMSDFTOVRUMmRySXpNdkZtU3ZCTlJtaW45QUs3UzQ0dmVEdE9GN0d4eW9QZExpM0lPUGRxX2NyV1FlRGFLc1lsYlVhY1AtaHFHNENFcDVTbUNTS21ZNURxdWFQcFJYMzVtTFNEaHpPS2J6ZmVIQzhVUlpSdGRsemYwZTdLanJJWHM2MjMwOTdta2R5S3doTVJwaFdPTnB6d0hTRXJEWjZmVHhJYTY?oc=5",
-        "date": "2026-05-25T10:12:37+00:00",
-        "source": "El Litoral"
-      },
-      {
-        "title": "Cómo la inteligencia artificial y la tecnología geoespacial ya gestionan Vaca Muerta y la infraestructura crítica",
-        "description": "Cómo la inteligencia artificial y la tecnología geoespacial ya gestionan Vaca Muerta y la infraestructura crítica Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb09RQW55cDhBM1l0SW1Oc2VoUXJRVHhYbVRVc0xLVU5jTFdCZmtZOUhOelZ6bDU2bDY1NUFqdXNmbDRIT1BwZ0t3a3h0Zk5DV1ZyRXlQTHRqYjl3RmxyQUtoeU9NcjB2Vk9tcko5N3pQN0E2cTdpOVB2WTJndFJnN0FfbkpRWjkyanVVWS01czRHX0JpUHJTUW5vOG1HajJqUVdQSTJlczN6bS1CY01OVFdrV3VINmJwd1pjcDR0YWI3NWprejkwaDNEQ2VUTVc5NjRHaFJleVlQR0FfRERkenRwWEg1M1Vf?oc=5",
-        "date": "2026-05-25T15:19:00+00:00",
-        "source": "Ambito"
       }
     ]
   }
