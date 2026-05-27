@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T22:44:21Z",
+  "updated_at": "2026-05-27T23:57:14Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,20 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnR2eDZxSWlZT1hTUEFkVUZZRV9LR3pUZks4UTduZVJQaUJ2Y0JUYlVOZ1ZzYnpvR3Z0R0VwQ3dqV3NIMjh6SHBaTmxmbkVQYWRuRk5FNnNjMk05R1kydzhRSGhjTGFQR1hnbU15V0pNYTdRMVFFRVNSUFhWVkNlX2xnZmZ5YzRPdmE4RHFTaXFKdUFwQU9FX24zTkx4djB5QUdTODZYcmRlUVFKd1ZJMG1YQUhpNTlfM0E?oc=5",
         "date": "2026-05-26T15:23:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Microsoft lanza la actualización KB5089573 para Windows 11 con mejoras de rendimiento y nuevas funciones",
+        "description": "Microsoft lanza la actualización KB5089573 para Windows 11 con mejoras de rendimiento y nuevas funciones Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUy10ZExEY1N2SzNGWHEzUEIxLWd2QndHaE41SlpxVF85OGt6Ri0zMFhMN0pvZU1jMjlwV2t0QVRXMXI3dG9mYkNoYWV4cEhQbEtKNXFidXo3eHA0WXV0M21pMjZ2cGVPOEs3WTctRmxEZUpDencwNWNHaWhiUkh1eDFB0gGHAUFVX3lxTE5vbDVxellmdHlpWm5BUEp5Z3pOejJxXzdhZ0gtYWZZUGExc09HU05YN2M0RWwtZUQ1M2FTME85ZVc0N0RJVUpieU9GeG8tUlNFSXNfUnF4cGxWdmtTdG9IekNXNWRFLW9jUmZHdVNYZVpWRTduV3FYbVloeXZKSjdaVVlNNHRBTQ?oc=5",
+        "date": "2026-05-27T10:44:05+00:00",
+        "source": "Profesional Review"
+      },
+      {
+        "title": "Microsoft prometió mejorar Windows 11, pero los usuarios dicen que está igual o peor",
+        "description": "Microsoft prometió mejorar Windows 11, pero los usuarios dicen que está igual o peor MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGk2c2FvbE8yRlNpTXRyMjdDVHd3Ml96Ukp6blZjMzlhbFpHb1J3TXJSTEdZZWFIU1IwaW1fYUxfNmFzaDU4UTVneWpySEFNc2ZpQUt6Ymh2ejlpeDdVUERxcEtuX1NzOXNEYWtWeDBFVmFHN3Qyd09lRGIyTTZMcl8xc1dBWW1kdFdUMk5LeDBtMzlRNW82WkVxMWxIZ0hnVUVkTGhzekNzRVBfSFhFazBwZGlMdFI5MGpSN0xjLW0?oc=5",
+        "date": "2026-05-26T14:02:11+00:00",
+        "source": "MuyComputer"
       },
       {
         "title": "Microsoft prepara nueva función de su antivirus de Windows para proteger mejor contra ciberataques",
@@ -24,13 +38,6 @@
         "source": "El Cronista"
       },
       {
-        "title": "Phishing: la peligrosa ciberestafa que puede vulnerar cuentas de Microsoft 365 sin robar contraseñas",
-        "description": "Phishing: la peligrosa ciberestafa que puede vulnerar cuentas de Microsoft 365 sin robar contraseñas MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHF6S24zZVpSV3NWdEZabUZWUnpPVUNoVk9hVWZqc3ZKNDcxNEZzemJKYWdQVmowZnRZRHNNM2JRY0tvcl9XZW1CVWdfTmV5SzIzSXF2Smh6eXpwSzhheTVrdmJVdXVHamVEWDJUWkstZFlXcWpSQ2gyZkd5Q3R0OFBLbFpVN2tvaHpRcFVfd1ZWYmhKaDBfQzFaT1BMUnhudVpTYmFhNlJITnZqTnpWWGRXMW9KVmxNbmVNeFpVeXlLNEZsOEp1RXVjdXVSaWfSAdQBQVVfeXFMTWNYeF9OME9lbEx1RGFoNzJDOVFFM3JrMWtTZG9CV3VvQmtZU2FlMVg2dS04V01DSVMwalo3VTJ0TlRiNjNtdm0zcjZDd05IbVIzdGZXeWE1bDhBWlhQQ1lpWk8wcXc2TkdfWEFZdUI3ckJMcGdHemJKN1E1eUdiVzVIQnJ3QkVfbHdJdDdia3duQVlESWFkUHk4UFVSU2N0TWV5TmtKWk1zc2JGYXVCeE1va1RVVVE0d3N2VW1wU0hCazBKc29tMS1xUmhZTzkzZ3VqQjg?oc=5",
-        "date": "2026-05-27T18:00:00+00:00",
-        "source": "MDZ Online"
-      },
-      {
         "title": "Microsoft agregó, de forma sigilosa, una función para eliminar Copilot, su Inteligencia Artificial en Windo...",
         "description": "Microsoft agregó, de forma sigilosa, una función para eliminar Copilot, su Inteligencia Artificial en Windo... Rosario3",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmJTM3MxdDc4eWJzMW5sbWNsYi1XbVViRGd2SkJKYXhEcWoyYW4tcThiVVlia3ZwcklvUWJsZnExUWx3UTlzNFNLdjdvMXFHVno1Tkh2NXJaTGtNREx1X2VjN2xNcVJQWlN1dk9aaUk2ZWZTZ2JQVjB3VDVfWURXR3JvN29FRld5aFNKWHM1WWhkYVN5Q29FSzdGYmlBSUdleVNGNTBtN09QSGp1S3BMZHhLWnZPOTRsSTVlX255aS1ybG9aZnVwdjNvTEdNcEJTcWpkNDFKSWE4Q0hmLVViVHB4QWs4Zmx0T1kxcVlBZElvUHVnaE9v0gH3AUFVX3lxTE9KYlMzczF0Nzh5YnMxbmxtY2xiLVdtVWJEZ3ZKQkpheERxajJhbi1xOGJVWWJrdnBySW9RYmxmcTFRbHdROXM0U0t2N28xcUdWejVOSHY1clpMa01ETHVfZWM3bE1xUlBaU3V2T1ppSTZlZlNnYlBWMHdUNV9ZRFdHcm83b0VGV3loU0pYczVZaGRhU3lDb0VLN0ZiaUFJR2V5U0Y1MG03T1BIanVLcExkeEtadk85NGxJNWVfbnlpLXJsb1pmdXB2M29MR01wQlNxamQ0MUpJYThDSGYtVWJUcHhBazhmbHRPWTFxWUFkSW9QdWdoT28?oc=5",
@@ -38,27 +45,20 @@
         "source": "Rosario3"
       },
       {
-        "title": "Microsoft lanza la actualización KB5089573 para Windows 11 con mejoras de rendimiento y nuevas funciones",
-        "description": "Microsoft lanza la actualización KB5089573 para Windows 11 con mejoras de rendimiento y nuevas funciones Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUy10ZExEY1N2SzNGWHEzUEIxLWd2QndHaE41SlpxVF85OGt6Ri0zMFhMN0pvZU1jMjlwV2t0QVRXMXI3dG9mYkNoYWV4cEhQbEtKNXFidXo3eHA0WXV0M21pMjZ2cGVPOEs3WTctRmxEZUpDencwNWNHaWhiUkh1eDFB0gGHAUFVX3lxTE5vbDVxellmdHlpWm5BUEp5Z3pOejJxXzdhZ0gtYWZZUGExc09HU05YN2M0RWwtZUQ1M2FTME85ZVc0N0RJVUpieU9GeG8tUlNFSXNfUnF4cGxWdmtTdG9IekNXNWRFLW9jUmZHdVNYZVpWRTduV3FYbVloeXZKSjdaVVlNNHRBTQ?oc=5",
-        "date": "2026-05-27T10:44:05+00:00",
-        "source": "Profesional Review"
-      },
-      {
-        "title": "Microsoft prometió mejorar Windows 11, pero los usuarios dicen que está igual o peor",
-        "description": "Microsoft prometió mejorar Windows 11, pero los usuarios dicen que está igual o peor MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeGk2c2FvbE8yRlNpTXRyMjdDVHd3Ml96Ukp6blZjMzlhbFpHb1J3TXJSTEdZZWFIU1IwaW1fYUxfNmFzaDU4UTVneWpySEFNc2ZpQUt6Ymh2ejlpeDdVUERxcEtuX1NzOXNEYWtWeDBFVmFHN3Qyd09lRGIyTTZMcl8xc1dBWW1kdFdUMk5LeDBtMzlRNW82WkVxMWxIZ0hnVUVkTGhzekNzRVBfSFhFazBwZGlMdFI5MGpSN0xjLW0?oc=5",
-        "date": "2026-05-26T14:02:11+00:00",
-        "source": "MuyComputer"
+        "title": "Phishing: la peligrosa ciberestafa que puede vulnerar cuentas de Microsoft 365 sin robar contraseñas",
+        "description": "Phishing: la peligrosa ciberestafa que puede vulnerar cuentas de Microsoft 365 sin robar contraseñas MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMHF6S24zZVpSV3NWdEZabUZWUnpPVUNoVk9hVWZqc3ZKNDcxNEZzemJKYWdQVmowZnRZRHNNM2JRY0tvcl9XZW1CVWdfTmV5SzIzSXF2Smh6eXpwSzhheTVrdmJVdXVHamVEWDJUWkstZFlXcWpSQ2gyZkd5Q3R0OFBLbFpVN2tvaHpRcFVfd1ZWYmhKaDBfQzFaT1BMUnhudVpTYmFhNlJITnZqTnpWWGRXMW9KVmxNbmVNeFpVeXlLNEZsOEp1RXVjdXVSaWfSAdQBQVVfeXFMTWNYeF9OME9lbEx1RGFoNzJDOVFFM3JrMWtTZG9CV3VvQmtZU2FlMVg2dS04V01DSVMwalo3VTJ0TlRiNjNtdm0zcjZDd05IbVIzdGZXeWE1bDhBWlhQQ1lpWk8wcXc2TkdfWEFZdUI3ckJMcGdHemJKN1E1eUdiVzVIQnJ3QkVfbHdJdDdia3duQVlESWFkUHk4UFVSU2N0TWV5TmtKWk1zc2JGYXVCeE1va1RVVVE0d3N2VW1wU0hCazBKc29tMS1xUmhZTzkzZ3VqQjg?oc=5",
+        "date": "2026-05-27T18:00:00+00:00",
+        "source": "MDZ Online"
       }
     ],
     "Marketing": [
       {
-        "title": "Necochea: Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital",
-        "description": "Necochea: Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital classique.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQkxWdWR0X0ZmMEFUeUhhUWJWUXZhSHlHcmZjNDNBdFJFSWZvVXBvYmFLWXVuSzZKS0NfTWVwY0d3T0drQ01MeDA5LS1BZlFjejB5aFRiaEFDY0NSUTJFVGhCeklPRlBvaGtiOGRodmFaeDE1LVFmaXk2V25oX2w1UHNCdVZWdTJUQ2hMc0MyUXFPdGRKbE4yc0I3c0VSSkFNaUJWcElaeHJMbVlsZTg1X3hTZmcwM09oQzEtNkFYMUVDcEFGcUowME9Ya2xEd9IB0gFBVV95cUxOSHdNbDBtWUxxc1p1bm02bmlLaGJTaVotUk9UUzBqd1d1UDVaZEh1UTlEcVZ4Ui1Ka283SDZEbEg1U3NXRUN4dDNHX2tHOVNDazBDUDBlS2pXYzdtd1g1dlBQQmtwUVlSOXpiR3Vid0VKNHhDdWlTb1FhQVhOWENwZDR0WjZMRzUtOGdkS1p1OEd4ZFNKYUxROVZIVktGcF9zY2h1Wi1DU28xSmRqRG16OVdMRzJic2xyYnMzYnVyM0RlMndBODl0ZG9jcjlXV3lFeXc?oc=5",
-        "date": "2026-05-27T16:31:00+00:00",
-        "source": "classique.com.ar"
+        "title": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital",
+        "description": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital Municipalidad de Necochea",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWNxMUxnd3owUzhDMVREbkhyMlYyUnBJSXEtVFdMVm9RQnFhZ1pqenpITXowNmhjd243ZEthVzJ2ZXJCLUVIR3ZydWxuVDhYOVI3NHNkOVBYU1Fxa0dmdE95TEdyWGhtRDBhVkk0Y2JMUTdQOUV4WDRYcHY1WU1IcWswQW4tNkVmTzF3amRoNU1RY2ZPVGZtR0VKUk91RkFUVnB0Sw?oc=5",
+        "date": "2026-05-27T13:58:05+00:00",
+        "source": "Municipalidad de Necochea"
       },
       {
         "title": "Capacitación: >",
@@ -73,13 +73,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2V6ZFktdU5tOEt0ZVNGTk5yZHBDcXRCX3hLWmFvUTVNbExtVHBJUmhXa0FOVzZ3dVBDbElIMUEwWlIwT1pIZ0pma3dhcXRsN19hNDZOb0Y0UEV1SkNyV1JDYjl4emdkSXNzLWxjTlp4OEdpalIxOGtPSC0wTEVBVV9QdlQ0UlFSZ2YwemluUUI3QWlsNktQNk5jNUFYZE00R1RIVzE5TzFpU2ZENWMwTFBTQ2hIWldnLS0wMXNzX0IxVVo3WHoxUmNDYjZEMmJGYmdaU9IB2gFBVV95cUxPSGRSLVVKSFlHVW5GM2JYWlJLdFlGWmdiNkNBcUFhcUFVTzZQSnBXVDdqaFIzVFNhSDlFRXEzVnhWTURzUW1Ma1ZmWHBBTHBhbmpaX19Vc2F2TFk4UGRfQl84aUxoX1c2Z2xDa19FcjlRRm9La2ZBOVBVRUVNVDlDcXB6RWJ4NFFQN0gyN2MyU1VPNjl1Wi1KT0RuLS1kSndVbGh5YTBpNjBCdzBKQ3RZMjd3UlVmLVBwUnhUV3hHcG9ESl96U1hQRnVnNEY4bmxqZVVUeUQ5MXhRUQ?oc=5",
         "date": "2026-05-27T18:44:00+00:00",
         "source": "0221"
-      },
-      {
-        "title": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital",
-        "description": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital Comercio y Justicia",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT0JIN3MxRl84dktEMTNVWktqWU1lOENzUzBEdTJuSWZWZkZaMExPR2FoVVRMOTVYUEd5ckhYOE9PV2lKQklpV2E3VDhmSnlVLXI2MUh3WHVyN1dSZktwckNIbE1NSHhQeWl0Q0tWWWRnMnRMdWhqV1dkNEFUV0plaHd1cW1JX1lEb19scUVMSHZIcmZxQ3M1TGFaM0piU0pFSXRYdV9CUVg0dzkwWnFQa0FWWHJlTE1TbFhFdUNDbzc2Tmc3T1BVLUZEMXl4YTcwZ2pFQk9CUU55Und0SEJyWk9rZlVXbHkzZlkxTHpzUWhIWGVWUUE?oc=5",
-        "date": "2026-05-26T12:05:55+00:00",
-        "source": "Comercio y Justicia"
       },
       {
         "title": "ABN Digital participó de Google Marketing Live 2026",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjlrdmZSSDdwODU5c1loVFE3WTZVQ0YtaGp4XzNCYnVBai01SXpHMTJLdVZJNzZYcU5zM2tfWXA3QTkzbmZGRVRqUG43eEktSC04LVE0WGhwLW9qelYwRzFJbW5yV0d1Y1luRUhrUXdJLTMyMHA3ZWFWMGpDcWxNQV9jQzVSSVpyX1RDOXVrM1B4LV9hR25ldzNIWl9hRVREcWhDd1o5Um5MWHF0U1Y4STY3X0h1VnN6V0FMcmJZbFlKYmoxeVQzSmZkWGpjVW1kOHdBbVp1cHFHRVVNWFZF0gH6AUFVX3lxTFBsbTRJYWpXSXZNcm9wdTJ4WDUxVk94cF9PR0s4VVVJN0ZkZnFJVzVYeFF2U3h2Y2RIWG5HMVkzTEZhbVF5Q2lHenEzTU5IUHljdnhzTUR5VWtPdGFMeEZ2N3ZSU1dXSm1ubTEzMWpFeXYxU1NNeHdRd0dZOVB3emtvUG11RXVoWk05TGRwZDAteXFLOFhPb3lUQ1dKMVVuVXl0TnBPQ1lRTTNIZVFzMFMxWWptWmdxcm5ZdjktVEJoeGpPSTc5dl9weDJGOWZUUXYtM20zN2lpSGZMN1BOVHlRekdaWVh1M1NyNnNqN1BaMlJLendnME5FS3c?oc=5",
         "date": "2026-05-26T17:57:47+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "VML Argentina fue distinguida como “Agencia de la Década” en los Premios +Digital",
+        "description": "VML Argentina fue distinguida como “Agencia de la Década” en los Premios +Digital mercado.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdUptVW94OW1abUVtM1lzTGlhb2lTMUp1SUxFSkI5R3hCZEdOc1ZXRVE2WFlwaU1iMkwwY2dZdm9STURsUW1RWW41VXQtU3hGOU03OHhNR1FteGZlT2lvSVFWRVRKUkxvcEJfVzZhem8taHJCdENYTFl2VFVxaHFvamU0WXhhRzhseFRodk40SVpKa2p1NnAtenZOQWVMY0N2dzBVeXBPbHFmVnZSX1NsTw?oc=5",
+        "date": "2026-05-26T16:08:07+00:00",
+        "source": "mercado.com.ar"
       }
     ],
     "IA": [
@@ -119,11 +119,18 @@
         "source": "El Economista: Últimas noticias económicas y financieras"
       },
       {
-        "title": "Directivos de la IA moderan advertencias sobre un apocalipsis del empleo",
-        "description": "Directivos de la IA moderan advertencias sobre un apocalipsis del empleo La Nación",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcE9abTQ4emZhUnRNbkdyNVNPVTdPUTg4OWNmYVFmMGlqMnhvMC0zV1VzZ2tZM1dNNmVBeGQ2UmU5Mmx1UnFVU0dmVGtlUWUzUGdCRDFFUzRmNmRVZTB0QXEwcGNIU3hYbWp1MVNyX1J3bXEzZmVlYlBtVEpZUU9McUJSZ0JtaEtPVllwWHdvNkUxbWRZYTZXU0FRaXpXTGI1Ty0xb214a2cydU43MFJ6STJKWExTelBGQ1lnS05SZjNXc2JHNFdZ?oc=5",
-        "date": "2026-05-27T20:56:00+00:00",
-        "source": "La Nación"
+        "title": "Meta recorta 1.400 empleos en Washington y acelera la reconversión hacia inteligencia artificial",
+        "description": "Meta recorta 1.400 empleos en Washington y acelera la reconversión hacia inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzRDODQ4YWJfNzJjY1lDTGxMTFRWNkNFc3pnZDdJRjc1eHhWeEVYQWFnT19CZzdKNW90OVNjSUplbUFKMFM5RngzN3hqRUVpdUMyV2xRZFU3b3g4ZVJ2dHF6QWQxYWo2OHZlUnltM3lmSWJ4S3h1LUNkUGdSWEhLdG9MNjg5cGpIamh4SU0ydEh0aW9VbHlmdTR6U2lwaXVYY3hWQTlSTjU2eFBZazVtZ29HYnhpeFdBZjF3Y2Ffa3VIODhwQkVPZFR2OEVXcWFOX0hpSnNrN0lqaVZ4aHBv0gH6AUFVX3lxTFBJT0FkUDkyZ0V4WHUxMEpRaXM3MklocFdGdTJzSDJkdmtWWjRrblI4alhkTUxRbEd6eHNtcE41MVRQeTdNQ2JBU0xLd19lazkteTdydTNTWmQwUFlCUWhRdlpaWDhLUHhQUzdCdGJPdkJCaVBRcm5iMkRoY2pab2YtU1RyNDg1MW5OMkRNRUtpSEY2SmdPRUlfSEpjT2dQWDdhaE9aR2lKMWUxV0MyTzA5ZlJ1QjdPODZSd1lxdjhwRzZycHlTSFQxSktKUzUyMXlfc2Z6MU9pV2diOVF1YXBISXVmZzlwSEx5RzB2U09hbjZaTm9rMHRnNFE?oc=5",
+        "date": "2026-05-27T23:40:09+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Washington Uranga: “El título de Inteligencia Artificial es un buen gancho para hablar de otra cosa”",
+        "description": "Washington Uranga: “El título de Inteligencia Artificial es un buen gancho para hablar de otra cosa” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXIzREZ6RHRSMXdsM0c3OHI3UWMyUFdvRUZrSUpTaVFQYlVsaWxPNWFDSlRsVm1yelBiMWJGV2ltbk1Ca2I4ZjBLbFVLU21hdVk5dENxMlBfMXQwNk5lZG5lM2gzZW1heHdiQzZySm5YOTRZX1Jjdm9hZF81S1JScTUwbXd1cTdqWFRTVmp1VjRzT2V1S014UGRQNFlzYVI4VEVmNWdjazZTcTQxbUpBSFJZNHo2VGhuZ09WVXpzeGtQeTZpeHlSUVlRNWVQZUhRdUJR?oc=5",
+        "date": "2026-05-26T21:56:50+00:00",
+        "source": "Página|12"
       },
       {
         "title": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros",
@@ -133,18 +140,11 @@
         "source": "BBC"
       },
       {
-        "title": "El Papa León XIV citó “El señor de los anillos” para hablar sobre inteligencia artificial",
-        "description": "El Papa León XIV citó “El señor de los anillos” para hablar sobre inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcWg1dDZOWUYyYS02cENkaGUwTVI1alhyaTc2dnF1Y0dtczdsZzNnWHJzbHhJUnVDdnRqMTlYLWZ0YTR2Tmh4Qy1PTnlfYU9EaURnQUs0cW9ZX09BbHk5VnFDNFpTZndacjFENUVCY3NudW9QVXhsOHNZUVd0Nk13dHhvV0dCbTVaZXlMRktBQm56ZUNkbG04OGhDRjYwTEdlWEFveWtSVm1OdGVlOEhhaS1wb3IxZExTQjE3TXdQVUVTWi1tbURWTFM3aVltSFM3WnJWZVZ30gHwAUFVX3lxTE5oNVVEX0VwM21mQzVXYld0M1E4VFAxTUtxVTgwYjZPZjQxM3RvOWQxdm83S0RYSnJrM2hTZDEzelduZ1hTdk05TXpucTh2THV2dG9DcVo2YzgxZGwzNlFFNWQwMFdqV0R6VHRmMzdtdHQ4LWlDcmxHN3JQQ01feDFGSzd4elpndjJHSmNvaDBEQU8tQ3o1WXNjbHV3SWFwcEJubHBJWW5nRFVtZE5RMVpYMk1rWEUyU1JIYklSX2NQb2tvdVhNVGp1UUtTOEVBWG1kVDY1UklXZ2hSS3NDVUJsQ29kQjVlWEhDdV9pb0NlSw?oc=5",
-        "date": "2026-05-25T19:36:00+00:00",
+        "title": "Mientras la fiebre de la IA aumenta en Silicon Valley, el papa León XIV tiene algo que decir",
+        "description": "Mientras la fiebre de la IA aumenta en Silicon Valley, el papa León XIV tiene algo que decir Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYm1tWk56NEdUeFI5dUlWV1lvS0lodDdWVDFTUDJpVzVtRE1CSnhVQXQ5RnJsalFWeDMtbENVOW0zV3VFTjlxb1I4NVI4aXFWQmpHWWMtY3NaYmtNWXFVQjI2V1NmS09ONDZ3blkwTGdoaTFPZGxsRlJWWWFxLXNIaFhkUGdrdHo4TmNUMmVhRk42ZTNwTkpZTnhJLU9lbW5mMjM2WTU5NjZ0bnJDczRVVU4xclM0aW5zSFJNdEdxYkRRajZDNy1IWHlVYURGRU81dlBKc3k0U0JiU2ZyNFI5OHlMSTNBb3dGc0HSAYQCQVVfeXFMTzFLbVN1eDd6SXhEbFEwNGN4Y2lORmJBRVQ3RWtXZGxReEFXUUczYk1vaW45bXI0dlZjUzM2MjV6WFJ6Mnp6UlRldGFEeGU3VnlUeHB0a0Z4WHJjejRWOUFMa2pJbjJGTVJXUXZ4NWI1aG9xdVhOVVNsY3ZNbERhYndmbVNFZlAyTUpyM2o5RXVyYVZwREt4WEpDdDN3ZVR2MGR4bDE1WWZiMUdsYWd2NWJXdk1rODBsOVRDZmgzRVQ4MExBcExJbE10VWR1ZVpBWXNMMFFJeHBiRU82TVZRTmF2VXlJQ1FOQVNXamtqeEhMcVpyTVYtQlUyaEZvNlNBMzJRZEo?oc=5",
+        "date": "2026-05-26T13:47:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Washington Uranga: “El título de Inteligencia Artificial es un buen gancho para hablar de otra cosa”",
-        "description": "Washington Uranga: “El título de Inteligencia Artificial es un buen gancho para hablar de otra cosa” Página|12",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXIzREZ6RHRSMXdsM0c3OHI3UWMyUFdvRUZrSUpTaVFQYlVsaWxPNWFDSlRsVm1yelBiMWJGV2ltbk1Ca2I4ZjBLbFVLU21hdVk5dENxMlBfMXQwNk5lZG5lM2gzZW1heHdiQzZySm5YOTRZX1Jjdm9hZF81S1JScTUwbXd1cTdqWFRTVmp1VjRzT2V1S014UGRQNFlzYVI4VEVmNWdjazZTcTQxbUpBSFJZNHo2VGhuZ09WVXpzeGtQeTZpeHlSUVlRNWVQZUhRdUJR?oc=5",
-        "date": "2026-05-26T21:56:50+00:00",
-        "source": "Página|12"
       },
       {
         "title": "Huelga contra la Inteligencia Artificial: trabajadores de chips de Samsung amenazaron con un paro histórico y consiguieron un bono de 300 mil dólares",
@@ -156,11 +156,11 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "Por Vaca Muerta, Argentina se posiciona como la mayor productora de gas de América Latina",
-        "description": "Por Vaca Muerta, Argentina se posiciona como la mayor productora de gas de América Latina Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUJhck53WEtyOV92SDZmSDROUERpWVE2TjI0b0xkRFYzSzRjcnlEYnVRZUxjZGJ6NExOZV9xaXhZeWxZdnlzQmpmcFJUN1M0Nk1SWGRfaW9FNmpOQnJMSEZ4dDFqY3ZVRFpjeDlSV0NkRXZaMDA2ejgwcGVWUEVxb1luWks4UFFxNk82enVTblBoWDNldG1aOW83ZVlzQXE4ZXEwVmljUUVmSXE3eWdNb3M4UzNuOUFyOGRCMVpOR1habWNGWERGTzUxblhOQjl1em9mUzB0SURiTFVY0gHwAUFVX3lxTE5HWGc1ajhkNlZ3c2U4VzE2QU5UNlcxZWlFVkdiV1lrdGtqNXVSVWtyc2w1UWEzUjlPM3Z0WDRhbnVjd09VTVdoT3U1eWlkd2w1ajZ1cmNKcHRxUjhaWV9HbDljRlpKMUdrMHFrZWQ2d0t2WDZCY183OGk2LXo3TmRUQmJrQlRDWVhxZlFJWVhXZWVObnBPZ0dHYUplVFg5anJ1U21DUHBTeTVSTDdrMFJTb3ZsZjdNYXE0dThKNFhnQzVaV1VhSTNQUTlTQXpXNWFqUHh0cUtZb2RQX2dZSHV0cWk5WWt6b1ZNOHhabmwtYw?oc=5",
-        "date": "2026-05-27T08:12:00+00:00",
-        "source": "Bloomberg Línea"
+        "title": "Radiografía de los pozos estrella de Vaca Muerta",
+        "description": "Radiografía de los pozos estrella de Vaca Muerta LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR29WMm9LWndZQTJOYWUybWxuMWpTU0xuRGFkVXA2NHhfQWV1QlJRSjZQc3JXaURXU3p3dXhISjJDRFN1ZGZ4SGloSlBRQlJfV0pRNU5ySWR6MTZnREVTZ0VoX1V2OUZwR2R2NTI5VERJbWJnU3FHTGNMVnl6V2lfMENBNkdrWVJKLTBuRjdmYnJrclHSAZgBQVVfeXFMUFU2c2VvMFcwbUNaZjBPUnhidWluSzAtVExDalZFVlFTc0Frc3RuZUZTYUg1WTFNYVRadzE5QVU1eWFqUnhzQUFnMUhpbWxSVGdMbEg3ZS0zU19OLS1SQWFhX0dPTHozWEZGQUlidTU3YWdPZi1Xbks5ekkyMUlIUHVOeGZRYlg3NzA2Wkl1MjQ4RWlqS3VuTVo?oc=5",
+        "date": "2026-05-25T14:34:00+00:00",
+        "source": "LM Neuquén"
       },
       {
         "title": "Gracias a Vaca Muerta, la producción de petróleo de Argentina es récord y roza los 900.000 barriles diarios",
@@ -170,11 +170,11 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "Para Rystad, el conflicto de Medio Oriente pone a Vaca Muerta en el centro del mapa energético global",
-        "description": "Para Rystad, el conflicto de Medio Oriente pone a Vaca Muerta en el centro del mapa energético global LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcERNd3pZak42Rk1xTzdYVkFpa3JHOXRtN194SWRKZmEtTjJ0Tm83amwxbGtVZi1qSzFqVks1M3hkMENtZXh1MW9jQUU1cXd0QWlLemxoNWtrODRaUUxURkZpN29ZZl9LWDdvWXpoQ3N4a0xlSlNLTnNjT3ZuczlsMmsyS3cxTE9HclVhNTNqaHFYZXFpaHAzd243T3ZhZ2lYUGVYWmRtOEQxOUZLZFVhOXVkVFh2ZDBYRVVxV0JMSEdSaXRvV21ENDFFUXNfa1daX0pOazQyTdIB3AFBVV95cUxPNHMtb1dsclphR2s3MUU5dVB1T2V1VE1RMlJxZzlWMjk1MFZ2MHBFb3FNRW96clJqRTBKZnFlOVFlM2gweFdzbXpxWGotM1VuYnpESFBoYnNQOXFXa2hBczIyQml1WHhBVmJDN0lIRWdXRXRQQ2hPakFZY2RfZEQzUjV5c3p1aEJSVGprMmp0RHVycFhGY0xKaFozak5fMDFPSmpLSm5yN1FicUQxLV9oeUtLN1JETlY1OWU4V2hENmVFVkhzTUdLempacS03bi05WXAwUVgtbW5MN3lH?oc=5",
-        "date": "2026-05-26T20:28:46+00:00",
-        "source": "LM Neuquén"
+        "title": "Por Vaca Muerta, Argentina se posiciona como la mayor productora de gas de América Latina",
+        "description": "Por Vaca Muerta, Argentina se posiciona como la mayor productora de gas de América Latina Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUJhck53WEtyOV92SDZmSDROUERpWVE2TjI0b0xkRFYzSzRjcnlEYnVRZUxjZGJ6NExOZV9xaXhZeWxZdnlzQmpmcFJUN1M0Nk1SWGRfaW9FNmpOQnJMSEZ4dDFqY3ZVRFpjeDlSV0NkRXZaMDA2ejgwcGVWUEVxb1luWks4UFFxNk82enVTblBoWDNldG1aOW83ZVlzQXE4ZXEwVmljUUVmSXE3eWdNb3M4UzNuOUFyOGRCMVpOR1habWNGWERGTzUxblhOQjl1em9mUzB0SURiTFVY0gHwAUFVX3lxTE5HWGc1ajhkNlZ3c2U4VzE2QU5UNlcxZWlFVkdiV1lrdGtqNXVSVWtyc2w1UWEzUjlPM3Z0WDRhbnVjd09VTVdoT3U1eWlkd2w1ajZ1cmNKcHRxUjhaWV9HbDljRlpKMUdrMHFrZWQ2d0t2WDZCY183OGk2LXo3TmRUQmJrQlRDWVhxZlFJWVhXZWVObnBPZ0dHYUplVFg5anJ1U21DUHBTeTVSTDdrMFJTb3ZsZjdNYXE0dThKNFhnQzVaV1VhSTNQUTlTQXpXNWFqUHh0cUtZb2RQX2dZSHV0cWk5WWt6b1ZNOHhabmwtYw?oc=5",
+        "date": "2026-05-27T08:12:00+00:00",
+        "source": "Bloomberg Línea"
       },
       {
         "title": "Uruguay se suma al boom de Vaca Muerta y evalúa un gasoducto para llevar gas a Brasil",
@@ -184,18 +184,18 @@
         "source": "iProfesional"
       },
       {
-        "title": "Vaca Muerta: cómo es el nuevo proyecto de YPF, Pluspetrol Shell y GyP en La Escalonada",
-        "description": "Vaca Muerta: cómo es el nuevo proyecto de YPF, Pluspetrol Shell y GyP en La Escalonada LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVEtCQWJVejZsMzdOeEhoZjNOWXRteUtKdXkxcERfd21aSERBME9uLTRhS0lxQ2t6Skd1YkpVZ3F4VHRRU0NnSDF0RXdQczV0RkpHMTRZVnVldENwMTN5a2IyZjZYSzdFNDU0NHhoWkpId09xaTVWdlhRenB4UlJqUXJoc1ZSTTRHWlByQm5zRndWaVJjRXBuRDJia2FQZWRkVWphdlcwWXkwNlZEcHFaWlFhOGlSenVDU3BrT0o1Z1Q1cURv0gHKAUFVX3lxTFBvUjI0S0dlb1pjUkJOUXItbzduNGxfVFJwa09jSGpSRW11WEFwSlUzLXhlSjlKWXNpRTR3aXpEdFpfd1FXRUxkUmdpcDlWT3hXVGQzeFNvcTBvUFBRUWtURERtWkZPb0d0OTBqYWRLdzQ1VWVfcWhGcDFoMWVhWlJ2T2l0WFdKdW5KeXB2cEJKNTZwUVcxMHlGWHdPTUFRXzdqUVV3NllDa1NOLTJDazJLM0JMZTJGb09ZX0RueUd0QVYtQ0lrX1c4ckE?oc=5",
-        "date": "2026-05-27T20:29:58+00:00",
-        "source": "LM Neuquén"
-      },
-      {
         "title": "Enfermedad holandesa: la advertencia del FMI ante el boom exportador de Vaca Muerta y la minería",
         "description": "Enfermedad holandesa: la advertencia del FMI ante el boom exportador de Vaca Muerta y la minería Bloomberg Línea",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNENsMWVJVmR1N0RHT3RXMHk4Qm1sODFkUEpIS1ZKLXVhdmdad3F1NzdQQkFOaThuUHg0X2cwNHlTOE56SFFXZDU1bU1xZHhBWm9HYVY2N1g1THpxT3JYTVJSLURXTXJoY01iZW13QUlSdncwLXJCd3hKS1F2UmxHazgtdGdsNnlYZEtKbkJaeURtMjhCRHVfVGYxYy1ZeFgxS3MzNUxMX1JhNVZzVmRyVlpJQlJjX2Q3S0dGYjVkeDdYV1p3aXRTd1JQVE15NkdMMUJTMGhrVkoxUXJfTEZUblpUY3VEd9IB-gFBVV95cUxOWDVJbTZaVmd2NG9zTWI5Z3NvMlY3ZEdiRExqODVLX0xpWndhdW9TUTFVNjJic19YOWNiZkxFQk13MGYtQ201d3BGOV9WQkF0UXQwSGplNlcxTlB4eEppNDRLWlVtUGM4MzRsYy1sUkxnZGV0TEk0ajNFY3N2YjlhU2Q1VXR4cktEYUk2aUVFOWtqV1I1VjN2dzZqeUpqRWJjNWlKMWEya2NLcEViX0EyTmF1aGpOMnJuVndRTlM1Sm9iV1AzS05STVF2cmZCcDd4SmtFVThmUEVDNmVBSTFqNnZRX0ZScXl4SnQ5MnhNV3JqbFE4MUNuNV9B?oc=5",
         "date": "2026-05-27T22:04:39+00:00",
         "source": "Bloomberg Línea"
+      },
+      {
+        "title": "Vaca Muerta: cómo es el nuevo proyecto de YPF, Pluspetrol Shell y GyP en La Escalonada",
+        "description": "Vaca Muerta: cómo es el nuevo proyecto de YPF, Pluspetrol Shell y GyP en La Escalonada LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVEtCQWJVejZsMzdOeEhoZjNOWXRteUtKdXkxcERfd21aSERBME9uLTRhS0lxQ2t6Skd1YkpVZ3F4VHRRU0NnSDF0RXdQczV0RkpHMTRZVnVldENwMTN5a2IyZjZYSzdFNDU0NHhoWkpId09xaTVWdlhRenB4UlJqUXJoc1ZSTTRHWlByQm5zRndWaVJjRXBuRDJia2FQZWRkVWphdlcwWXkwNlZEcHFaWlFhOGlSenVDU3BrT0o1Z1Q1cURv0gHKAUFVX3lxTFBvUjI0S0dlb1pjUkJOUXItbzduNGxfVFJwa09jSGpSRW11WEFwSlUzLXhlSjlKWXNpRTR3aXpEdFpfd1FXRUxkUmdpcDlWT3hXVGQzeFNvcTBvUFBRUWtURERtWkZPb0d0OTBqYWRLdzQ1VWVfcWhGcDFoMWVhWlJ2T2l0WFdKdW5KeXB2cEJKNTZwUVcxMHlGWHdPTUFRXzdqUVV3NllDa1NOLTJDazJLM0JMZTJGb09ZX0RueUd0QVYtQ0lrX1c4ckE?oc=5",
+        "date": "2026-05-27T20:29:58+00:00",
+        "source": "LM Neuquén"
       },
       {
         "title": "Nueva edición de la Semana de la Ingeniería: Vaca Muerta, renovables y movilidad eléctrica, en la agenda",
