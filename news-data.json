@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T21:04:48Z",
+  "updated_at": "2026-05-28T23:10:42Z",
   "categories": {
     "Microsoft": [
       {
@@ -61,13 +61,6 @@
         "source": "NoticiasNQN"
       },
       {
-        "title": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital",
-        "description": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital Municipalidad de Necochea",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWNxMUxnd3owUzhDMVREbkhyMlYyUnBJSXEtVFdMVm9RQnFhZ1pqenpITXowNmhjd243ZEthVzJ2ZXJCLUVIR3ZydWxuVDhYOVI3NHNkOVBYU1Fxa0dmdE95TEdyWGhtRDBhVkk0Y2JMUTdQOUV4WDRYcHY1WU1IcWswQW4tNkVmTzF3amRoNU1RY2ZPVGZtR0VKUk91RkFUVnB0Sw?oc=5",
-        "date": "2026-05-27T13:58:05+00:00",
-        "source": "Municipalidad de Necochea"
-      },
-      {
         "title": "La publicidad digital entra en una nueva etapa impulsada por IA, audiencias y estrategias omnicanal",
         "description": "La publicidad digital entra en una nueva etapa impulsada por IA, audiencias y estrategias omnicanal DossierNet",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMElsbTQtMUIyblJqeHVwOEk5YlJyR3d2NEt3MU12bUJhcmh4MXBKZlZhQ3ZEaUw5a2RBZTN3d3o2NjlfZ1ZXYnNhTlg5U1Y4X0hBMW5Ba3BYNjU1N3NuUHpnS3hIR2Z6WDRmYVdNMC03SFpPZHlVbTFyOHJwcjhLbFBudnZHaGNBdldJYTM3LUJ6Z0JobWRhUC14VXBJQ01PamhUczI4NXdRcEFGMDZ4TE9tdVhaN1BYLTB3Z0JtbW82RFlNSUx0c0hiV25Yc1FJX0E?oc=5",
@@ -101,15 +94,36 @@
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYkdHWldkMUxMUEJlcEhFbm9BMDk3YjFGVDh2SEd0a0FNRDhlUTVMNjZXd2x4My1KTl9qWU1MT3NhWHVTQURGZGdjQWg0RlVGR1NmWDFPbmk1amRtNE9Ybw?oc=5",
         "date": "2026-05-27T14:53:03+00:00",
         "source": "Cámara de Comercio de Resistencia"
+      },
+      {
+        "title": "Necochea: Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital",
+        "description": "Necochea: Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital classique.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQkxWdWR0X0ZmMEFUeUhhUWJWUXZhSHlHcmZjNDNBdFJFSWZvVXBvYmFLWXVuSzZKS0NfTWVwY0d3T0drQ01MeDA5LS1BZlFjejB5aFRiaEFDY0NSUTJFVGhCeklPRlBvaGtiOGRodmFaeDE1LVFmaXk2V25oX2w1UHNCdVZWdTJUQ2hMc0MyUXFPdGRKbE4yc0I3c0VSSkFNaUJWcElaeHJMbVlsZTg1X3hTZmcwM09oQzEtNkFYMUVDcEFGcUowME9Ya2xEd9IB0gFBVV95cUxOSHdNbDBtWUxxc1p1bm02bmlLaGJTaVotUk9UUzBqd1d1UDVaZEh1UTlEcVZ4Ui1Ka283SDZEbEg1U3NXRUN4dDNHX2tHOVNDazBDUDBlS2pXYzdtd1g1dlBQQmtwUVlSOXpiR3Vid0VKNHhDdWlTb1FhQVhOWENwZDR0WjZMRzUtOGdkS1p1OEd4ZFNKYUxROVZIVktGcF9zY2h1Wi1DU28xSmRqRG16OVdMRzJic2xyYnMzYnVyM0RlMndBODl0ZG9jcjlXV3lFeXc?oc=5",
+        "date": "2026-05-27T16:31:00+00:00",
+        "source": "classique.com.ar"
       }
     ],
     "IA": [
       {
-        "title": "¿La inteligencia artificial contra la dignidad humana?",
-        "description": "¿La inteligencia artificial contra la dignidad humana? EL PAÍS León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros BBC León XIV: un GPS (Gran Proyecto de Sabiduría) en tiempos de IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGplZExWVy1XOThnWXVyOElPNzBIbDhTZHlQZnd2empvQ1lnTDJKc3M0MmgxMmgxYmxPNi0xZ1M5cnRRQldaeVpLUUR1WElRXy03dlFiQWZSQUdkNFJORkJrSjhoVHZCWW90cVFRWEZiVW8zUEJOWUc3TGZlRlJkTkFMZDVuOGtja0pOX1lUQnFOcmFaSGU5cjdkU2HSAbABQVVfeXFMTmRDLTNMRmRPbWZtVDJpMkpyRzZRS25OckU1b1FCYzFmR1B3RmFiaTlDSlRCeU9MYXFkdm1USllrY2xrT1NOUzdFLV9xNHFvc1FkdlViMWN6dVp4Y190QU4xZDFqaUl6YVpreVlFZFAxNlVtTDd1ZG5sc3NLNDZZQjRqYXVTYmFPaGZ2Nmd5b2p6eDlYQ3FfR3BReGd1aTRnNFFCNWl4NEk1RlEyWWhXSm4?oc=5",
-        "date": "2026-05-28T13:04:41+00:00",
+        "title": "¿Qué hace Gandalf en la encíclica de León XIV sobre la inteligencia artificial?",
+        "description": "¿Qué hace Gandalf en la encíclica de León XIV sobre la inteligencia artificial? EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTdSRzNDR2x6MFl1ZjBsb3RHRFdBaHRuNFpnZnlrck9Tb1k1c05tX1FWSTc4ck4yaEF5ZEhaRG9WZWlnelgxbFgyNUxuU0I3MGNHMUhNT0ZwdnZ3enlyT2x1WDZBcFVBZDk0c21aZXZjWkNJS3UzcmhIUTlWbDhSSnVPcDMzdW80dXYzQjBBQWhNSUM5Z0N3SEw4Z21GUVFmeUx2bmd0VHVKb1JKeE9WMEZsOHBvTklHUm9VeklPMV91d0160gHYAUFVX3lxTE9GOVlqUjJUUHByOXBjaTBkUl9tbmtqand6STF4Wi1NRlFoa3FoV0RvbDI4QXZmMGFTazRRVWVKcTA2NzVxWjhSOFpEQVIwTmhMeTBTQVl6UGIxR282NXcwSkxZeVVvRENQY3JabFhGcGNoUFVLMnI3QUswcEM3cHdCejhuS1ZLR1FLRUt5VExaNmxPQ0tjaVBnbC1lTktlV0FibEYwWG1Ba0pYVmZ5TG9TWkpReUNEUFpHYjVlTHNXTkNEN0V4dEdWamtGZXhEQVNjYmh0OXZzTQ?oc=5",
+        "date": "2026-05-28T10:55:22+00:00",
         "source": "EL PAÍS"
+      },
+      {
+        "title": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros",
+        "description": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVnVsT1YxSkc5U0lidFlwRnJzRnFnRkdoelVrcURKRHpPc2ZyNE9RNDVOdk1QMzNwTzYydlZnYWxrbWZfRmp1Um1SaGY2YVlST2pWV1owckxqbmfSAWBBVV95cUxPMFpMaXRTdDBIRnkzOEh2ekQ1MXQxV0M2OWJOQWM0WTVFNjI1ZVNLVEpJdExGRzdBdFhvMnlYWW5jMHRMQVFQQXRrU1RNbFlrenF1OE1uUDhZM3k4OS05RGc?oc=5",
+        "date": "2026-05-25T18:05:25+00:00",
+        "source": "BBC"
+      },
+      {
+        "title": "León XIV: un GPS (Gran Proyecto de Sabiduría) en tiempos de IA",
+        "description": "León XIV: un GPS (Gran Proyecto de Sabiduría) en tiempos de IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdG9QSnh3d1JzS0hreHdoSUQ2OW0yVjZmd3BkUENHY2RFa09qczA0ODYzYm5hekFrZnZ2cUNDaHlwUWdBMjRCZktKU0Ryck54RFV6WGlKa1FyNEZaMFpsbTBsc284Rm1QWWRIN0lWUW9obS1IeVViQW9RWFdVd0NiVzZiQS0yemU1ZENIVXN4Q1VyekJtYWRBT0Juenk5RGpqYjNwVnJn0gHAAUFVX3lxTE8zMVdHUHNmOFRxYzdKSkNydnRheXNGV1pNRl85Nmt3cFJUc2ZjQUtkZ1NlcmREX2lwUXdQU05zTExGMlJPOW1RV0FSaGNnMXhoMk1DWnM5akdvWS1mNGRPMjVwVlBHMWpncUZwMXpQaURYdmNLWVc4QlBWVnN0RUJoWldOZEhxZ2NSNHBLa0JENVA5eGh4T3Vkd3JfYkI2b0VtTm1KTGxUUkk3UUFzQ3lmZTMwcVBNRUp1Njc4UEgycA?oc=5",
+        "date": "2026-05-28T07:44:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "La inteligencia artificial revoluciona la banca: tratamiento diferente para cada cliente y apps a medida",
@@ -119,6 +133,13 @@
         "source": "El Economista: Últimas noticias económicas y financieras"
       },
       {
+        "title": "¿Arsenal o PSG?: el pronóstico de la Inteligencia Artificial para la final de la Champions",
+        "description": "¿Arsenal o PSG?: el pronóstico de la Inteligencia Artificial para la final de la Champions Olé",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2ZrY1cwMFNVbXcyRE1qSm0tbjhLWmpLNFE5NzVhNms1MGdnUkNvM2JDRkp2SGp4X2FRN25wZFRJNG43bjQtNzdtOUZ6UWNPdEFEVTM5cy14b21EQlpCNnBLVDdBejBCNUFFYXZxY0ZkNmZpd2M0dzRxZUdGb0VSUGtqcWNsLXVZMWRvREJINXYxd0pndTNoNFhoZi1GUGtoT2JtamlfajNISFB5dGlrMXhaMXdEZHdVREE?oc=5",
+        "date": "2026-05-28T22:51:53+00:00",
+        "source": "Olé"
+      },
+      {
         "title": "Huelga contra la Inteligencia Artificial: trabajadores de chips de Samsung amenazaron con un paro histórico y consiguieron un bono de 300 mil dólares",
         "description": "Huelga contra la Inteligencia Artificial: trabajadores de chips de Samsung amenazaron con un paro histórico y consiguieron un bono de 300 mil dólares Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMjhnUVNaQzdxb2NYdzUzdzNuMWlBcmJFanQ2LW5OcnUzNzRyVzN2RWIxRFZtS0M5M2VENWlYTGJRT2l6QWR1Vlp6MlU5Y01EVHp3ZThQS3lTTDRJZnhZb25SV3dReTJXZFNOZWE5MHJBaGFyQklPRFBkcExUQ240ZXBOWGRhZFdsUEtNLVBDbGxnbWNOUkNvWmg5TFdUdVNpaFJMaHExd1JYWE1qdFdabEVZOE1fUk52VmhMUFRldC1mYnNxVDJJTHhDNVNncEotOUVOMlJmZE5pQ3lua1R3OEk2OFVTNUQyTE1vdzFCcEE1c0JmSnVZ?oc=5",
@@ -126,32 +147,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La RAE encara la inteligencia artificial, “el gran reto” al que se enfrenta el idioma",
-        "description": "La RAE encara la inteligencia artificial, “el gran reto” al que se enfrenta el idioma La Nación",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLW9ETkFyN013UXNLbE1kR0NoR2J2RXYxWUdvakJWWEo2dzRkaWk1aHhCQnNuSWJaZTN3Nk5Hel9XcmVQZ3RLcUVPXzk3Y0RHc1RHRWlVem1rbjg5WmFhQ1FzOXRZRVBaeklNYVFKR1FOVXZlR3Z3WFpGenczRmJKTnEyTTRkTXVvM0VBcU9MN1lRR0EyT0FNVGc5NWNybGotakpBbHV1c3E3RlI2dExkN0xadTZOYnRHZUtiaUxkTTUyVFdiQm1JN1BDTjk5Z0k?oc=5",
-        "date": "2026-05-28T14:19:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "El taller gratuito de Inteligencia Artificial en Quilmes que promete cambiar tu futuro",
-        "description": "El taller gratuito de Inteligencia Artificial en Quilmes que promete cambiar tu futuro Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOHc3QllISFUzVDlfMk1lbmJmdDB1NDIwTUtDVUFVMHI0RHlyU3JqekFQdHpwZFl1Z3BvWThQRnZLMkdweWxubmQ0R3ZVc0l6d01CNi1pMG9JWFFZRFFhaFlqYmxPdVJRVmtnTXdTeWVYU0dieEVQanpEMzJkWUxtRGY0MWZBa2Zwd2ctSVVMQmtObnF4UXBHb2pwZHIzZGV2TWlmWnhUNDNzVVVkVnlOOWVtRkctTU5pYUJxOXBSeld5dEtxbWdJeDhBUmdZSWdI?oc=5",
-        "date": "2026-05-28T18:38:10+00:00",
-        "source": "Diario El Día de La Plata"
-      },
-      {
-        "title": "La revista Abogacía Pública analiza el impacto de la IA en el Estado",
-        "description": "La revista Abogacía Pública analiza el impacto de la IA en el Estado Gobierno de Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZy1fWERuOUFJeFYtWkVTcVoxN0dXc2p1Z0oxZ25lWXFpbkp2MEk0Q1lGVmswNlRXY29kdG1hSWlrdUoyQ2xFWnhIYTBoQ09HM3p1a19pVV9rTFNseWVLOVE2d1BLbzZnR3A5dkhfRTVMeFdpd0NPelhLeEJ0TlozdFd1UkM0RmZabGZpMjFkX1JPSGlKbkR4WWlRcmdWdUNHbGx0QV9MZXMwdDQ?oc=5",
-        "date": "2026-05-28T17:55:03+00:00",
-        "source": "Gobierno de Río Negro"
-      },
-      {
-        "title": "Por qué el 95% de las personas usa mal la Inteligencia Artificial y cómo mejorarlo",
-        "description": "Por qué el 95% de las personas usa mal la Inteligencia Artificial y cómo mejorarlo LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVpDdS1LbktlYkVQS2pmOHY3eklzU05tT3RuTXU0VGVmTXkxYjd2eGtSSDM1MUU5LUJPNFpjVzdGNVEtLXBkYWdwQWYxTU5tWWNYN25pd3FlUVJjUTVwUE9UdmlrcjRTcFlBd3RRREY1R3RNR1hEU3IyNEZxamVRWTRQeXpiNEhCVXRrR1B2eE1YbHZsSng1NEx0cUJaYkxwWV9oQk1HTXYyZDFPMXgydnRIVGQ2MElLaEpKbUw3TEtYWkRuQ1RN0gHMAUFVX3lxTFBHd01tc3V0TWoxMmhxQjlrUE1SQVo1TFpQLW1oRkhXQUJuWDRSUDdhdXZkSDhaX0hZM2NPX3g3M053alliblNOLWo0ZG1paXJuX1dDa0hkQVNNRFFrV3psalg4M2xtaUcwbHY1S2ljUDZYY1lQYXBLRm5Ja21vZlpVdGN3OU14bmN0aXFUM3dnVEc0enI0Y2VrOFZEaHlVa0Q5TG1aNmE3eVJMWUx2YzI1NzY2QVVWcWwyeEZXSXJ4dVVWbHFEcFpZTzRwcA?oc=5",
-        "date": "2026-05-27T22:15:00+00:00",
-        "source": "LM Neuquén"
+        "title": "La conversación con IA ya moldea emociones: por qué los psicólogos deben estar en el desarrollo de chatbots",
+        "description": "La conversación con IA ya moldea emociones: por qué los psicólogos deben estar en el desarrollo de chatbots Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQmFCYWxyUW1wNy1ITjBpZW1sZWdsV043aklpaHQ5S1RRR0dXNTd4R3dTVGc4VGJTMUdpOHZuVUdnWmJfdTNFWGVEQkdKcW5sSjhxOERObjZxN24zVlpsRk1WZkhZbU5iUFRMU1M3dmxtd014bmRabXRaSG5jdFNyeEtrUmxfNFJVa3V1NjlvUDFDaTFCdzhSTTlfbG1mR0d2S2V0dXBPTUtqMVJVTFJaQUo3aUxiSWN4QXFFMjhDWmpvdnJPcTNLVG5GbXhWWEhmenlFdGZacFBGQTdFbU14dnZxLTViSVl3SU9YQ9IBhwJBVV95cUxQZDQxQUF4RWhoZEQyVW1xOFRnNzRTcW9EeTAyYS1IMmVnODE2MmN1a3A4SzM2TWNEWENRaFpvNU1WVzNfZ0NYcExOU2JqZDVXZ0FxUFd6MjcyTGt3ZTVOeHdZSGFGdmhyakZzQU0xZnhsYVZ0LVZjMmpwN1g2NGh3dzN0OWt2VHI3c1V4OGYwWFMzNVFQdVNSVlVxNV9yNHFHSXdvaDYzZnpBQlhWUk5ieUkwcXdMa2FvZTBBYTg5TEtCLVVKdmxQcG1XM2xsMkxLdTdNc21RUnNZTUxJMTlielowVnR5cUtJeTBTUFhnS3FSVXFNaFZZeWtJajgxaVNpM2JyWldNVQ?oc=5",
+        "date": "2026-05-28T18:44:00+00:00",
+        "source": "Infobae"
       }
     ],
     "Vaca Muerta": [
@@ -163,6 +163,13 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "El costo de vida en el corazón de Vaca Muerta: ¿Cuánto se necesita para vivir en Añelo?",
+        "description": "El costo de vida en el corazón de Vaca Muerta: ¿Cuánto se necesita para vivir en Añelo? LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejBwRzUzU3ZQcVVzd0RYM3dGZFJldHF5YktqaGthWHJwbXg0WjdNT0o1WHVpTmJRcm80ZmxzWThiWDVmWXJ6NEI2UE8yTmxJNWlTemhwekxhUm1TbDlwbWZ0eGprc004OGYwcUg1RjZmb3lJNkxSQlNWZlFZT0JscDZmYXZKX0tPNHhERm1ZbzVuNkpEaUp0NWxhU0ZpbzV5Q3JRTklFSTJEMU9sNzE0VWJxLXFFZ9IBuwFBVV95cUxPOWp2d1lzVWE3ZFVvX2N6OVRaUjJyQkxicXM1R1dVMGswQllScTBCZmMyc2lTMjMzV3pZRGJjb1NpcEhwVExUbXhWbThXYklNNU0zREQ3R09SZ0N6NDJ6SUtSOFNPamdESnBpUGhpbldpM3dyUl9hanBfU1lfRTd3RGZzSnVha1lyelV1S0RraUpVa3ZzdjA1dVJXT3c0OUJJMnROMFVfeW9JQjBOYW9JbFE1Nzh4YWtHbjJv?oc=5",
+        "date": "2026-05-28T14:12:57+00:00",
+        "source": "LM Neuquén"
+      },
+      {
         "title": "“Es imposible que no haya trabajo”: dos referentes del boom petrolero anticipan el impacto de Vaca Muerta en el empleo argentino",
         "description": "“Es imposible que no haya trabajo”: dos referentes del boom petrolero anticipan el impacto de Vaca Muerta en el empleo argentino Infobae",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcExqN053WFZfQ0VYMUlSbDktQzJiN1hQaWJNRlhXbTI0LXJROUFCRnhDZUxTR3BYZTc3T0ZtMDcxeFgwS2xHU2lVcm5rU0RlMEsxR1pibVhsOEFXMElmUGhMRnpRVDd1ZXlJWXdlTmxWM0Q0XzFKYWNlYS0wdXFTQVNGRF9neFdkUHdJOFRSZ3ZhMGhPU3E0ekdSNXpJTU52Y2NKUVdidjZOVkxSeDNSNnBtSzI3VDFFWmJoQU82QWdnYTVPU1Rndjc1LXVkWDJPN3VCUVZrOTBHU1FZSEthOENURGNEQnhlaEJmcUpCT0tvVkVxbXBKZTlTVC03U2vSAZoCQVVfeXFMUHdWLTByQUsydXAxM2pURlExYy1DQXNsanVxaGFydEVDVU1JaVprbUc5VkdkX1A1TldlMjFBZkxwTTNDUWllbW1QV2tDODlKS2k1bUFUYVpjWHJIcVlnclBWYy1MbjEwcFh2SmhNZkVPVjhOeDFOMG9mTk55TlRCdkVKSlE1ZERiWFZfRzBlQ3lhUVh4a1MycFU3NmxvRGw5MVVJS1AtN25RNkN4MHF5Wk9ZbTRiNUJhd2ZWczlOWjR1aUl6T24zN2dPaTBDbnl1OUVkMTJ6eWVTNmw5Q0QybGVBS1BBWGFQV1NFeGRyOHd6MFRlSHVZNlR5b1FWSGp3aGZvZnIzMkM5NnNBNzVUMnhKaXlKTEhocVVB?oc=5",
@@ -170,11 +177,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta: las búsquedas laborales activas de la semana para trabajar en la cuenca neuquina",
-        "description": "Vaca Muerta: las búsquedas laborales activas de la semana para trabajar en la cuenca neuquina LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGJtcXhJSUo3TTM1dWFTSjU2WHdhQUJsaVZybGNiaVdXdGlHaDdKdDhZeVlCSzY5RVBGTTN5MTNMLW94aUxwTm0yaEVkV2JOV05VR0Y4VzFEaVV0eVR1Zzd6MlZOQmNpY2ZqNVpQaUN6VkV6V3NkRzRnU1REa25MTFhSa0FsRktFenlMYklwVHlETVNiZzlHNUNOcVkwaURBenI2ZnhXbnhhOXc3MFhiNllkSEhxQVps0gG-AUFVX3lxTE9tY01BQ3p4RS1ZaXFFWEx2dFQyaEZERWkwbzNHQUtYaXJHZ29mS0pHZ2pGRTFyZTJkZHlweVJTTVVMekhmWjd1UE9DUlpyQVlyYnlEQi1jaUpDTW1xNWxFaFQ4cUtIY1gzVTNZSU9VemR6bTJmRHNxQ0FtTWw3djZPWXUwUzhBeGQ3X1psZmdsOUtmYzJFSGNZd0N3RWt3Qmc0Q1FvNzJBaU5PbG9GeFlQX1hJaGxoempWRTNuM0E?oc=5",
-        "date": "2026-05-27T17:13:00+00:00",
-        "source": "LM Neuquén"
+        "title": "Mindlin se metió en la discusión por la generación de empleo de Vaca Muerta y dijo que sumará \"miles\" de puestos",
+        "description": "Mindlin se metió en la discusión por la generación de empleo de Vaca Muerta y dijo que sumará \"miles\" de puestos Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1hmWUZsbE9HUFQ2TzUyVDJ4YUlpbDVIelpRbXBTcU5rcXJZM0VyNlJLOFJTd3hLWEhoVXNDbkllUXRGamJyU05pcmpLQ193b2JCWjBVaTJyX2Z6OU1ETnZWT3hGRXY1TEZvQkg1NkRYbVc4N054SGFkeWJyMG1fZUtSQWQwd21pd3ZRRU5EbUZsMWtmMkZQY2tDV0YwT1V3QzFKZXdCTWFNRDk3SGppQVRka05VcXhYc2Z6MF9vUU94WFFkVEw2RA?oc=5",
+        "date": "2026-05-28T21:14:47+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "La impactante oportunidad laboral que se abre en Vaca Muerta para los próximos años",
@@ -184,25 +191,18 @@
         "source": "iProfesional"
       },
       {
-        "title": "El agro ya no está solo: deuda corporativa, provincial y Vaca Muerta sostienen la calma cambiaria",
-        "description": "El agro ya no está solo: deuda corporativa, provincial y Vaca Muerta sostienen la calma cambiaria La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV19iSy1PaUVjV1FMbFV2NDZDQjQydjVnUS0zOUprb3hXcC15NWFXS2NnLTJwOUloYW1abVZ3eW5zeEt6Rm5yVWxha3RkX29ybVRMV0d1Y1E4LVZ6eFJLQWo1b0thWWw4NThjSVdJMU80YlNiM3ZRbHNsTXhqcFVzcy1Ob21XeWl5VnhLdjFfOE9VT3JJNlk2dEJuOHZDNFpxZ1prbU1zZzJvUnV1SkRuTVpONGFKQnRpWF92Sm9LQ1RFaGl6ellZWXpHQWE2Ukc0d0hQdmhucDZWaThYYUE?oc=5",
-        "date": "2026-05-27T05:55:00+00:00",
-        "source": "La Nación"
+        "title": "Enfermedad holandesa: la advertencia del FMI ante el boom exportador de Vaca Muerta y la minería",
+        "description": "Enfermedad holandesa: la advertencia del FMI ante el boom exportador de Vaca Muerta y la minería Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNENsMWVJVmR1N0RHT3RXMHk4Qm1sODFkUEpIS1ZKLXVhdmdad3F1NzdQQkFOaThuUHg0X2cwNHlTOE56SFFXZDU1bU1xZHhBWm9HYVY2N1g1THpxT3JYTVJSLURXTXJoY01iZW13QUlSdncwLXJCd3hKS1F2UmxHazgtdGdsNnlYZEtKbkJaeURtMjhCRHVfVGYxYy1ZeFgxS3MzNUxMX1JhNVZzVmRyVlpJQlJjX2Q3S0dGYjVkeDdYV1p3aXRTd1JQVE15NkdMMUJTMGhrVkoxUXJfTEZUblpUY3VEd9IB-gFBVV95cUxOWDVJbTZaVmd2NG9zTWI5Z3NvMlY3ZEdiRExqODVLX0xpWndhdW9TUTFVNjJic19YOWNiZkxFQk13MGYtQ201d3BGOV9WQkF0UXQwSGplNlcxTlB4eEppNDRLWlVtUGM4MzRsYy1sUkxnZGV0TEk0ajNFY3N2YjlhU2Q1VXR4cktEYUk2aUVFOWtqV1I1VjN2dzZqeUpqRWJjNWlKMWEya2NLcEViX0EyTmF1aGpOMnJuVndRTlM1Sm9iV1AzS05STVF2cmZCcDd4SmtFVThmUEVDNmVBSTFqNnZRX0ZScXl4SnQ5MnhNV3JqbFE4MUNuNV9B?oc=5",
+        "date": "2026-05-27T22:04:39+00:00",
+        "source": "Bloomberg Línea"
       },
       {
-        "title": "El costo de vida en el corazón de Vaca Muerta: ¿Cuánto se necesita para vivir en Añelo?",
-        "description": "El costo de vida en el corazón de Vaca Muerta: ¿Cuánto se necesita para vivir en Añelo? LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPejBwRzUzU3ZQcVVzd0RYM3dGZFJldHF5YktqaGthWHJwbXg0WjdNT0o1WHVpTmJRcm80ZmxzWThiWDVmWXJ6NEI2UE8yTmxJNWlTemhwekxhUm1TbDlwbWZ0eGprc004OGYwcUg1RjZmb3lJNkxSQlNWZlFZT0JscDZmYXZKX0tPNHhERm1ZbzVuNkpEaUp0NWxhU0ZpbzV5Q3JRTklFSTJEMU9sNzE0VWJxLXFFZ9IBuwFBVV95cUxPOWp2d1lzVWE3ZFVvX2N6OVRaUjJyQkxicXM1R1dVMGswQllScTBCZmMyc2lTMjMzV3pZRGJjb1NpcEhwVExUbXhWbThXYklNNU0zREQ3R09SZ0N6NDJ6SUtSOFNPamdESnBpUGhpbldpM3dyUl9hanBfU1lfRTd3RGZzSnVha1lyelV1S0RraUpVa3ZzdjA1dVJXT3c0OUJJMnROMFVfeW9JQjBOYW9JbFE1Nzh4YWtHbjJv?oc=5",
-        "date": "2026-05-28T14:12:57+00:00",
-        "source": "LM Neuquén"
-      },
-      {
-        "title": "La producción petrolera argentina marcó un récord histórico impulsada por Vaca Muerta",
-        "description": "La producción petrolera argentina marcó un récord histórico impulsada por Vaca Muerta Ambito",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2FFQzdOaGpfaGhxc2NXTFVudHcxWU1hNE9BcnlRWGFvX0huZVpCcXVFT0JZWE1tdmQzbWZVdW55eWY0NXNuV19odE1LVE5hMFVOQ0JoQXhkREpWWndKanJDTjFsS3RrbWxNdHZqSjZ4TXJsYTBNM1Fvcl9hMVp6RGtMLUxZa2RQZmlnamEwT1g1akVETVJyQm56LXBZdmFhQTZ3MFFxQmVCa3YyVTVjWUVCZlltVWU4NDU1N0N3?oc=5",
-        "date": "2026-05-27T12:16:00+00:00",
-        "source": "Ambito"
+        "title": "La Corte rechazó una denuncia ambiental sobre Vaca Muerta y fijó criterios",
+        "description": "La Corte rechazó una denuncia ambiental sobre Vaca Muerta y fijó criterios El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0tCNXlwUkFZZmJUQUI2S0tHakh2Yk02SDhfTHFfd1AtempfOXFTYnF4V1c5NU8tdFVqS1VYUno4S2Z2cUs1MFlWa0g2WXFlcGJYNXhmamRQMDBlRDNCSy15ckNMMWJ2dHN5eUpSMnhJU3E1UkhzSW1ZSXlpUnBBd1NFZVQzaXBzZzAwb1lkMkNjcF8wNVJSbl9UZEJIRS1yRzhfUmhKTnM2RlpldlNiUXNJcE9wbjFPQjNscVRCWkFKVy15bTN0YdIBzgFBVV95cUxQMno0LUh5clJGanRmOFdRTnd5Vk5NNS1jZFVPTGE4emE2enlLWGpEalNSZG15YzNWSDB4YkNwZ1FyY3h2aEFMQkxnbE8xaVdCVjNuWV9iY2FYWU1XcEdBT1BNNjBNc1BDeGswSXF2dzZsaF9CQU1SdVQ4R3BMY1l0OGRaRzhta21INmhPTjhicXA5cEpiaW0wWEh1Ym9MaXNuM0dhcUU0aGN6R05iZUlUMndBZkNTdVJETGhMRDNfamZTbURJbm5KbTFNQldLUQ?oc=5",
+        "date": "2026-05-28T13:37:05+00:00",
+        "source": "El Litoral"
       }
     ]
   }
