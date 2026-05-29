@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-05-29T10:41:35Z",
+  "updated_at": "2026-05-29T13:56:19Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "El Pentágono adjudica a Microsoft un contrato de software valorado en 9.700 millones de dólares",
-        "description": "El Pentágono adjudica a Microsoft un contrato de software valorado en 9.700 millones de dólares Yahoo en Español Vida y Estilo",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWlrVmZ3MnZoTFk2cklHZF9DVVc3T3M5WHpOc19Wb0dwNlpvbkh5M3BoVTRqSnBFTTQwQklraWF5ME1Za3YxOE12S1R3dzRTUUQ2WDYzeXlNVzFhdWVRM3ZyUS1acGZvNUZtZGFYaEduTkwyWG1yaDhfZlJzaUJnc001bFNuUDM1MWFaSnZ6YnRHS0NUSzJDWXczZW0xVDdhUlVIUQ?oc=5",
-        "date": "2026-05-28T10:30:00+00:00",
-        "source": "Yahoo en Español Vida y Estilo"
-      },
       {
         "title": "Las acciones de Microsoft suben un 3% por el desarrollo de IA propia",
         "description": "Las acciones de Microsoft suben un 3% por el desarrollo de IA propia Investing.com España",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWGY1NnVjaWhualFlUHdsRklMWTRSSE0wa1lvbjY0d0hRVGlUcVR0RG5RYmhOSHlQVGRRLWhabmFGRDZPV2NxUnVoa0xrcHdKZmFrT2FOaEk0NzZlUWRrMEpuM2tnNmd0b2oxUGN2eFhTZWtPbnFZei1lNFlMQWRtckhpMWdrSTlYcURMSjBYcU5La3VMYWY5T2otaVl5ajI5dlRpbm5pM1RXTmJSb1I0NnNLNlFDWU1TTmtiWXEzWDZVeWwt?oc=5",
         "date": "2026-05-28T22:52:06+00:00",
         "source": "Generacion Xbox"
+      },
+      {
+        "title": "Microsoft ya permite desactivar Copilot por completo en Windows 11",
+        "description": "Microsoft ya permite desactivar Copilot por completo en Windows 11 La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnR2eDZxSWlZT1hTUEFkVUZZRV9LR3pUZks4UTduZVJQaUJ2Y0JUYlVOZ1ZzYnpvR3Z0R0VwQ3dqV3NIMjh6SHBaTmxmbkVQYWRuRk5FNnNjMk05R1kydzhRSGhjTGFQR1hnbU15V0pNYTdRMVFFRVNSUFhWVkNlX2xnZmZ5YzRPdmE4RHFTaXFKdUFwQU9FX24zTkx4djB5QUdTODZYcmRlUVFKd1ZJMG1YQUhpNTlfM0E?oc=5",
+        "date": "2026-05-26T15:23:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Marketing": [
@@ -61,18 +61,18 @@
         "source": "Municipalidad de Necochea"
       },
       {
-        "title": "Lanzan un curso virtual de Marketing Digital Turístico en Neuquén",
-        "description": "Lanzan un curso virtual de Marketing Digital Turístico en Neuquén NoticiasNQN",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWdBaFVER2d5QVRpUmdxaFJaTUFQdmxubnVJUmNDalJWOF9GazM5Rl9jN3Q4a2tLUFJnWnhKUDBVdXBCZGVVLWpfUGJqdEVjX05HYlVwaUFBTUY3azVpaEtSNVBQOFVqU0djWjJTZkRzdE9ldy1KZkVJamZVUjU2TlNwWlJyT2ZybTd3MTRaQVdFMG9OUldRcHowMU02dFk4djR6OG5yNTI2d1BOaDh0eER2NXE2aFV5OFdJUklVQUbSAcYBQVVfeXFMT3RPOVp3LUlFdGxBQUJKZE5sbG90bXluMTNldC1LeG9tWXdBLVVObHJNVFI4eW9KOG1meFdDZmRmbl96Y25mU3YwdE9IZlJLcTFiRHF0OXhOOGpaUVRJdExWa044WTJjc2xEMlk2dGJZeWJ2RC0zQ3hndTQxZk9YVTB5Z3R2dFZOYUI4S0JUblZUeEc0bnJ6dms4NGp0aDBBYmlqNWFrVGlZbmpsQUtJYWNoc3J1N3k1RG56c3FPQnBVbTNpZXFB?oc=5",
-        "date": "2026-05-28T12:16:11+00:00",
-        "source": "NoticiasNQN"
-      },
-      {
         "title": "Inscriben para capacitación gratuita del sector turístico",
         "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
         "date": "2026-05-28T00:21:52+00:00",
         "source": "Neuquen Informa"
+      },
+      {
+        "title": "Lanzan un curso virtual de Marketing Digital Turístico en Neuquén",
+        "description": "Lanzan un curso virtual de Marketing Digital Turístico en Neuquén NoticiasNQN",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWdBaFVER2d5QVRpUmdxaFJaTUFQdmxubnVJUmNDalJWOF9GazM5Rl9jN3Q4a2tLUFJnWnhKUDBVdXBCZGVVLWpfUGJqdEVjX05HYlVwaUFBTUY3azVpaEtSNVBQOFVqU0djWjJTZkRzdE9ldy1KZkVJamZVUjU2TlNwWlJyT2ZybTd3MTRaQVdFMG9OUldRcHowMU02dFk4djR6OG5yNTI2d1BOaDh0eER2NXE2aFV5OFdJUklVQUbSAcYBQVVfeXFMT3RPOVp3LUlFdGxBQUJKZE5sbG90bXluMTNldC1LeG9tWXdBLVVObHJNVFI4eW9KOG1meFdDZmRmbl96Y25mU3YwdE9IZlJLcTFiRHF0OXhOOGpaUVRJdExWa044WTJjc2xEMlk2dGJZeWJ2RC0zQ3hndTQxZk9YVTB5Z3R2dFZOYUI4S0JUblZUeEc0bnJ6dms4NGp0aDBBYmlqNWFrVGlZbmpsQUtJYWNoc3J1N3k1RG56c3FPQnBVbTNpZXFB?oc=5",
+        "date": "2026-05-28T12:16:11+00:00",
+        "source": "NoticiasNQN"
       },
       {
         "title": "La publicidad digital entra en una nueva etapa impulsada por IA, audiencias y estrategias omnicanal",
@@ -82,11 +82,11 @@
         "source": "DossierNet"
       },
       {
-        "title": "Interact premió a los ganadores de una década de publicidad digital en Argentina - Canal-AR",
-        "description": "Interact premió a los ganadores de una década de publicidad digital en Argentina Canal-AR",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmV6MVhEWjEtVUZkVFotVkptXzNfOC03bTl3dnBjOHhFeFFYd2dZQU5xZlJOV0gtVE9COTBGMzczNTBscGVldnc3OVZoOEVFRE1vU043eDEweFdDUVJJbF9QZ3J5TEdteFY3LXR3QVl6SzcyZDUxYjFIM3M4eVozc19DMDBpYjM2eVJ0ODNzb3Buenozak52djd4MkxSdjY5ODZrRV9OdFVjclh3M2ZJWFk4YzEydEFnZkcw?oc=5",
-        "date": "2026-05-28T12:45:24+00:00",
-        "source": "Canal-AR"
+        "title": "Expertos profundizarán sobre tendencias digitales, inteligencia artificial aplicada al marketing y redes",
+        "description": "Expertos profundizarán sobre tendencias digitales, inteligencia artificial aplicada al marketing y redes 0221",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2V6ZFktdU5tOEt0ZVNGTk5yZHBDcXRCX3hLWmFvUTVNbExtVHBJUmhXa0FOVzZ3dVBDbElIMUEwWlIwT1pIZ0pma3dhcXRsN19hNDZOb0Y0UEV1SkNyV1JDYjl4emdkSXNzLWxjTlp4OEdpalIxOGtPSC0wTEVBVV9QdlQ0UlFSZ2YwemluUUI3QWlsNktQNk5jNUFYZE00R1RIVzE5TzFpU2ZENWMwTFBTQ2hIWldnLS0wMXNzX0IxVVo3WHoxUmNDYjZEMmJGYmdaU9IB2gFBVV95cUxPSGRSLVVKSFlHVW5GM2JYWlJLdFlGWmdiNkNBcUFhcUFVTzZQSnBXVDdqaFIzVFNhSDlFRXEzVnhWTURzUW1Ma1ZmWHBBTHBhbmpaX19Vc2F2TFk4UGRfQl84aUxoX1c2Z2xDa19FcjlRRm9La2ZBOVBVRUVNVDlDcXB6RWJ4NFFQN0gyN2MyU1VPNjl1Wi1KT0RuLS1kSndVbGh5YTBpNjBCdzBKQ3RZMjd3UlVmLVBwUnhUV3hHcG9ESl96U1hQRnVnNEY4bmxqZVVUeUQ5MXhRUQ?oc=5",
+        "date": "2026-05-27T18:44:00+00:00",
+        "source": "0221"
       },
       {
         "title": "El M&A en publicidad y marketing digital acelera la consolidación en Iberia con 170 operaciones desde 2021",
@@ -96,11 +96,11 @@
         "source": "Tiempo de Inversión"
       },
       {
-        "title": "Expertos profundizarán sobre tendencias digitales, inteligencia artificial aplicada al marketing y redes",
-        "description": "Expertos profundizarán sobre tendencias digitales, inteligencia artificial aplicada al marketing y redes 0221",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2V6ZFktdU5tOEt0ZVNGTk5yZHBDcXRCX3hLWmFvUTVNbExtVHBJUmhXa0FOVzZ3dVBDbElIMUEwWlIwT1pIZ0pma3dhcXRsN19hNDZOb0Y0UEV1SkNyV1JDYjl4emdkSXNzLWxjTlp4OEdpalIxOGtPSC0wTEVBVV9QdlQ0UlFSZ2YwemluUUI3QWlsNktQNk5jNUFYZE00R1RIVzE5TzFpU2ZENWMwTFBTQ2hIWldnLS0wMXNzX0IxVVo3WHoxUmNDYjZEMmJGYmdaU9IB2gFBVV95cUxPSGRSLVVKSFlHVW5GM2JYWlJLdFlGWmdiNkNBcUFhcUFVTzZQSnBXVDdqaFIzVFNhSDlFRXEzVnhWTURzUW1Ma1ZmWHBBTHBhbmpaX19Vc2F2TFk4UGRfQl84aUxoX1c2Z2xDa19FcjlRRm9La2ZBOVBVRUVNVDlDcXB6RWJ4NFFQN0gyN2MyU1VPNjl1Wi1KT0RuLS1kSndVbGh5YTBpNjBCdzBKQ3RZMjd3UlVmLVBwUnhUV3hHcG9ESl96U1hQRnVnNEY4bmxqZVVUeUQ5MXhRUQ?oc=5",
-        "date": "2026-05-27T18:44:00+00:00",
-        "source": "0221"
+        "title": "Interact premió a los ganadores de una década de publicidad digital en Argentina - Canal-AR",
+        "description": "Interact premió a los ganadores de una década de publicidad digital en Argentina Canal-AR",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmV6MVhEWjEtVUZkVFotVkptXzNfOC03bTl3dnBjOHhFeFFYd2dZQU5xZlJOV0gtVE9COTBGMzczNTBscGVldnc3OVZoOEVFRE1vU043eDEweFdDUVJJbF9QZ3J5TEdteFY3LXR3QVl6SzcyZDUxYjFIM3M4eVozc19DMDBpYjM2eVJ0ODNzb3Buenozak52djd4MkxSdjY5ODZrRV9OdFVjclh3M2ZJWFk4YzEydEFnZkcw?oc=5",
+        "date": "2026-05-28T12:45:24+00:00",
+        "source": "Canal-AR"
       }
     ],
     "IA": [
@@ -112,32 +112,11 @@
         "source": "El Economista: Últimas noticias económicas y financieras"
       },
       {
-        "title": "Claude 4.8 Opus: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic",
-        "description": "Claude 4.8 Opus: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic Xataka",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeS1neklfNW1heWxzeHNmYzlmTFdpV3Z6ZDEtTVVfTWNEWUJ4OXkyaVM1RTBRRTd1MEJmU1NVbEUydEtoVXBwX3dGTHB6bE5OOEgyaXNrc3ZReUx0N3M2ZG85NWVnMFRySHVYTC16M00yYWVXV01yQXQzWHpURzRvNkc5NkdSbVNoVXhicnVEQjc3M2wxM3hCbnlaQmNCMmpGSmVOX2YzeU14MEtsYmY3TUkyOGlpbU3SAbwBQVVfeXFMTmhTamZyZTJ2RmhkakRDbVp6a1l2UlFtcmt3V3RvYkYtbnpJdjNzUVdFMmtpcGU1TDZBdDNwLXR0RjdrWHhYZkRBNjNGbTdacV9WOHRrOE8tSTE3SGlJZHRKUUFwN3k3cHNpSE1jak1XbWV1MUFOUVF4UXM1dHlwV3NrMlU2Zy1hQ193VkM4VnVST1BWcnBqbkpLZU1rRXhrbm1SRW9BNm5FaHV6N0c5ZUpnZlMtSUtIeG1NYV8?oc=5",
-        "date": "2026-05-29T08:48:17+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "José Tolentino de Mendonça, cardenal: “A la Inteligencia Artificial le falta carne”",
-        "description": "José Tolentino de Mendonça, cardenal: “A la Inteligencia Artificial le falta carne” EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGgtZEl0V3lVbWp6clhTNGJFZWF2X3lzN05FaXBHYkZaSEctcVVneGcweVR2TkxuVTdaVC1JeVU1cUJsRldUeUl1UGN3aTcxaXZzVWc2cnlRYXRnOU1GM0x0eXBaMWpmOF8wZi1ma2NwcWxGUWFCanNUc1BNTHR4aEhRQ3VhYUdQSWhYeEtjRzNLQkIwUW84bFI2eUlHQ3JpeXV6V1I1YU8xbEJvVHE2YUpLM3lxRXRQUXNxTE9XNTjSAdQBQVVfeXFMTXRMZmEzRGFWQ3ZBaVg4eHJkb19ScXgxVF9nNkhhUUQyUUs2R0NhX0hBZFhLTzF4RGgwVDZSY0hPX2F6cERXbXJpS1ZVekY2WU1tWndnTEMwNkwxRXFjcVZCZXVvbGJIRXpOcHlFYUJkUjFGNGRiNkM5MVR3WUtQQ1VZYkdyYnFOZlFYeEV4VG1qOVBkZG8yUmhlX0NKd04zQXMyOVkwZEQzMmMwR2w4X0FRMFVpSGV2SGRsSGdKOFJEY29oWGNUZFFfeWRTZ0hFaUVwR2I?oc=5",
-        "date": "2026-05-29T03:30:01+00:00",
-        "source": "EL PAÍS"
-      },
-      {
-        "title": "¿Arsenal o PSG?: el pronóstico de la Inteligencia Artificial para la final de la Champions",
-        "description": "¿Arsenal o PSG?: el pronóstico de la Inteligencia Artificial para la final de la Champions Olé",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2ZrY1cwMFNVbXcyRE1qSm0tbjhLWmpLNFE5NzVhNms1MGdnUkNvM2JDRkp2SGp4X2FRN25wZFRJNG43bjQtNzdtOUZ6UWNPdEFEVTM5cy14b21EQlpCNnBLVDdBejBCNUFFYXZxY0ZkNmZpd2M0dzRxZUdGb0VSUGtqcWNsLXVZMWRvREJINXYxd0pndTNoNFhoZi1GUGtoT2JtamlfajNISFB5dGlrMXhaMXdEZHdVREE?oc=5",
-        "date": "2026-05-28T22:51:53+00:00",
-        "source": "Olé"
-      },
-      {
-        "title": "¿Qué hace Gandalf en la encíclica de León XIV sobre la inteligencia artificial?",
-        "description": "¿Qué hace Gandalf en la encíclica de León XIV sobre la inteligencia artificial? EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTdSRzNDR2x6MFl1ZjBsb3RHRFdBaHRuNFpnZnlrck9Tb1k1c05tX1FWSTc4ck4yaEF5ZEhaRG9WZWlnelgxbFgyNUxuU0I3MGNHMUhNT0ZwdnZ3enlyT2x1WDZBcFVBZDk0c21aZXZjWkNJS3UzcmhIUTlWbDhSSnVPcDMzdW80dXYzQjBBQWhNSUM5Z0N3SEw4Z21GUVFmeUx2bmd0VHVKb1JKeE9WMEZsOHBvTklHUm9VeklPMV91d0160gHYAUFVX3lxTE9GOVlqUjJUUHByOXBjaTBkUl9tbmtqand6STF4Wi1NRlFoa3FoV0RvbDI4QXZmMGFTazRRVWVKcTA2NzVxWjhSOFpEQVIwTmhMeTBTQVl6UGIxR282NXcwSkxZeVVvRENQY3JabFhGcGNoUFVLMnI3QUswcEM3cHdCejhuS1ZLR1FLRUt5VExaNmxPQ0tjaVBnbC1lTktlV0FibEYwWG1Ba0pYVmZ5TG9TWkpReUNEUFpHYjVlTHNXTkNEN0V4dEdWamtGZXhEQVNjYmh0OXZzTQ?oc=5",
-        "date": "2026-05-28T10:55:22+00:00",
-        "source": "EL PAÍS"
+        "title": "Alertan por la violencia sexual vinculada a la IA en América Latina y lanzan una guía de prevención",
+        "description": "Alertan por la violencia sexual vinculada a la IA en América Latina y lanzan una guía de prevención Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQWN3RnBWVjZucF9jYl9Xd2tPaGVrbnVTLUxzMTVBYTJxbWVPSGFXdUdCUS0xdVNRcXRmYTZ3eUg1SE9IVHZkUWF0UWl5b0U2bmV6X1RPZ2dBN2NXbWNBZ0Y2c19uVVRjRVA4aEZ0OFE3R0dJRFBfTVNmWS13eWhrbHVVTkRFYVhFYjI4UlRDeTE1ck9KdEhtQml0RXA2ekJidzZReEhqNmhWOHJ3RkRXRXRLZEs0TFBhWXpyRmlGdWlLOENvMVHSAeABQVVfeXFMUEpKWUZ3bmlCOGNPamtId2dXejZIQkwyRERBbkYySnpkalhNYjN6eUZlOG9STnBoVFdJTTZDelhtN25rLWNSTWJFVXFPLUVTTnItSUF6NDBVbmZOeDB3YUNWLXM5UWdFQ0VMaFNrQUw1bGpOT01TZTNKcElya25VY2Fid3YzVzZ4cC1mRWJGLTYwRjdISXVNTzE3T1pPYU51ZmY3UUhHbFVlSG9SbVJJV0ItVGNLUXh0WGdhUkZfQUJ3bFdzb24zeXFlU3ZBdFdKYV94UHNuOE5tZXA1YzJSX1o?oc=5",
+        "date": "2026-05-29T06:00:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "León XIV pide en su primera encíclica como papa \"desarmar\" a la inteligencia artificial y advierte de sus peligros",
@@ -152,6 +131,27 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGlNVGtOQ3ZacmZ1SDc3VmZ3SjMxVjhNMVpNWVhGMzVCc0hwZnNZRjcyVVJtZmRGcUJEdHg2V1d3MlVjRXplUlgwMy01RHJYeFlxZXhOVFd5c2tKWkl1T09oSl80X19ReVQ2ODAtNVhMelZZTXF0TWlQTjR0TGVfVkJXYW1PclhtVWVtWlM5MlpZT1EzeHhacDRtR3o1bHdyVFVZVzFBQ3BzWndfTm45RkFuTFRaTmd1NVhwb2lOaWw4dl9wQUpkbnZPNEV1Z0nSAeoBQVVfeXFMT3dOUEpMby1ITi1jdHZIaGJFM3NIUTFKVzBFU2twbWNhUi1IbE1vU2RGeTYtTXVKWTVMbGQ4TjgzaVdHb2NZYjUxT1NWbUR4aXR5YUhlY2EtYXdUOUZnMy1Hd1h6WVJaRXB4SzdXZ0lobHRFQkRRV3Q5OElMSVBvc19NYWwyMmNqRUlLb09BRnZQMk5WeElHYXVzWU84NGdhSHk3VEpNV1U0cXZ1Nl8xUUd4aWFubzJiaWFsLVM5dW9fTFJNM1gtZ3Y2eUZrREFadkhXdk04M1IyMTNNbHVJQ0tDVkNjYUdvMGF3?oc=5",
         "date": "2026-05-28T13:54:05+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Por qué el papa necesitó a Gandalf para hablar de IA",
+        "description": "Por qué el papa necesitó a Gandalf para hablar de IA DW.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnlpcWItLW0xdEktdzR3TVpLZ3UycDhVMzNreXBSR3Vvek9INXlOeTlVT3Q0ZDQwUlhLYXJhV0hNLVN4RGdrWUFFbkdldlhDelVLOVlaSVpSbGZHZ1locm42TWhfaDR6UWVveDNXRnQ2b2xYMTd6RlY0b1lJZEFEcFdCRmRUUjFyTWNqc29SV2tTeGliMHpLQkdHOFdwNDBhd2tkT21WdnhFaE1QMlVLbVF6ajdTNHRkTjRsTmticU44R09wMmhCejhIVnRMWGI1Y1dtdEZKU0lMZmlJ0gHcAUFVX3lxTE5haF9ia2xpcG1qNm1lMTBWeUxOei1VRmMtZlVIN216M1pkNVFjVi1KT2xqV3VCZzJpY2RpOHRrVXgwNkpoSnJWYjYwbGdkWk9zc0dXekxUcUZBbTJVN0tKS2RBRzZib2JBTFhiTFZDVHdsUlJycmIzZFNhbFVPS2Y4Z0E2SU9qUVRWQ2NEWVc3TlpyNGFNN1NoRHdfNWNBOHYxYWVGWFJpRG1vdF9YQ29pclhFd3J0N1lEbzA2ZUp0bkM5ckRBUDFsQ3VpV2Zhc2NDUDVVWlEzR0hibmE?oc=5",
+        "date": "2026-05-28T17:21:18+00:00",
+        "source": "DW.com"
+      },
+      {
+        "title": "¿Arsenal o PSG?: el pronóstico de la Inteligencia Artificial para la final de la Champions",
+        "description": "¿Arsenal o PSG?: el pronóstico de la Inteligencia Artificial para la final de la Champions Olé",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2ZrY1cwMFNVbXcyRE1qSm0tbjhLWmpLNFE5NzVhNms1MGdnUkNvM2JDRkp2SGp4X2FRN25wZFRJNG43bjQtNzdtOUZ6UWNPdEFEVTM5cy14b21EQlpCNnBLVDdBejBCNUFFYXZxY0ZkNmZpd2M0dzRxZUdGb0VSUGtqcWNsLXVZMWRvREJINXYxd0pndTNoNFhoZi1GUGtoT2JtamlfajNISFB5dGlrMXhaMXdEZHdVREE?oc=5",
+        "date": "2026-05-28T22:51:53+00:00",
+        "source": "Olé"
+      },
+      {
+        "title": "La Inteligencia Artificial predijo cómo saldrá Boca vs. Universidad Católica y cómo terminará su grupo de l...",
+        "description": "La Inteligencia Artificial predijo cómo saldrá Boca vs. Universidad Católica y cómo terminará su grupo de l... bolavip.com",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWXlyQTVWQ1EwdGl2ZW9SeUp5VmdYRVBxdkdTY0RtdHd2Qkdmd0t4bnp2ZE5uVkFNellianp1SGpqbUpvSTRQckNFRURhU0tlbkhmYlNtdlZGY29VeTJJSm43aGYxMGRuWGpnb0dMdzQ2TjdoQkxDeDJOR2ZDRTE0eTNwOUxzeTdvMk5qWVdrdy02OVVRT0hodER3eXdzMWgtV0VxcWdWUHRjWG5qN2JnNHVFdTZBTHd0NE9YTVNtelFPRHRRTDFrdFNXbG1aQTAxVDU1SlNBVTdBVkJMcHA2NEE4ODNuenRW0gHuAUFVX3lxTE1rdnBTdnlybXdRZkZfakp5eUt6WEhraHBBQWswUXBPdzJvQVhwVmkyMnJlN09jOFA2eFd4bUdjYVJzbDJEYUZkTlNORFdtNm5HcXJnem9RY3k0MFBLanVYdkJBbl9uSnR0ajlfaHgzOTQxVDhIN2d0eVBwSXp3WndXc2xJMGQyS2hZeWZNanhzMWhzVzV6MnFFT3ZXVC1PNnpkUGxSYjlZcFJrc205SUEtMGNFNDFjQkt4NXlqSVVtbzJ2dHZhbGlEOWFZMnFlQkpXMHZkWWdnRUFUZ1hNWXcyYk51M05vU21FZlRob1E?oc=5",
+        "date": "2026-05-26T22:20:59+00:00",
+        "source": "bolavip.com"
       }
     ],
     "Vaca Muerta": [
@@ -163,11 +163,25 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Costos en Añelo: ¿por qué vivir en el corazón de Vaca Muerta se vuelve tan caro?",
-        "description": "Costos en Añelo: ¿por qué vivir en el corazón de Vaca Muerta se vuelve tan caro? LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjktYnMwMG12X0tPMmI1bk44eXY5bTJLMWlYOXZMMHZ4ZGtDMmVQRnBOUmdhU19Xd0U0QVQ0MDRweVRmd1h2SFNhRWRYSWZZWjBLQ01WMndvQlZUc3dwZE5uMWhqWUZsSmdXeVRucWxWcTZsSVhhU2cxekpNZXlCWl9hZUtXYnV6cFJDNXFXWmkyVWFId3NHVU5aSWhrZjNYeUlUYXpFazdzUW9QODBUMXNZajFycDjSAbwBQVVfeXFMT3FXWEtqQi1CX0c2SGMyd3l2Q0xoYkU5SXhNMjNXazBkcDhYR0xmYU1zRmZ6TW41WUNvcVFSM2NGZG1ILXpzNTJtcEgwYTFiTlhodHAzQWQ0WXEtb2g1MnJuREFCZ3VfVnpNQ3BQczlXcmFiNEpkRHRaTmxRWVR5dmhlNUQ0LVZkdEtqR3hJcnZVYWVNWXFaREdzU3VmMVZZN1ptbGwtaFFlOVR5SGhPR1MzZ1M5N3drM3JTRG0?oc=5",
-        "date": "2026-05-28T23:39:00+00:00",
-        "source": "LM Neuquén"
+        "title": "La impactante oportunidad laboral que se abre en Vaca Muerta para los próximos años",
+        "description": "La impactante oportunidad laboral que se abre en Vaca Muerta para los próximos años iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3dZMXhYOUhIRzVESVU5cVE4ZEJrd05RcVY5bHVJc1IyaVd0Q1JEdFpyZ0p2NUZlSkJsYm15NFpSUE56Y3E4UXN5Vlh5MXpKaFlwNVVqbWNhZTdFZGlNSXlNdTJ3Mk1LSjVoVWJrQ3VFZU1RMlZLYjBDY2NBTENtVUNPWEhVT3ZocE14M3IwYV9jNWhvY05ZQTlBQVhrZDNBb3gzLWFQS01tb2NQRDg2ZV91RUtsY1hOMVU2dNIBwgFBVV95cUxPZVJfTWJBVG9sZnBPMVh2enpRaElsZndaR1dqakpsd2tSYVF4Q1JnczlYZkVVcXNyVGxiQ2NKcmptZWlQZExHZ1hkVXB1MkdRenJXV0JaWGVWcTR0aVdCb083bE03VGE3dnpqdFhpS2JnQ3BFMWt3NS1DckIxdExKZFRxcVJZYmh6UHRrVExkbUQtSnhEOGlvY0xRSm1MTmlMOVpnZVlzcHl4SDBSMVZnUGFMTFFtWmlwWHFnVDBIT0xqUQ?oc=5",
+        "date": "2026-05-28T19:45:00+00:00",
+        "source": "iProfesional"
+      },
+      {
+        "title": "“Es imposible que no haya trabajo”: dos referentes del boom petrolero anticipan el impacto de Vaca Muerta en el empleo argentino",
+        "description": "“Es imposible que no haya trabajo”: dos referentes del boom petrolero anticipan el impacto de Vaca Muerta en el empleo argentino Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcExqN053WFZfQ0VYMUlSbDktQzJiN1hQaWJNRlhXbTI0LXJROUFCRnhDZUxTR3BYZTc3T0ZtMDcxeFgwS2xHU2lVcm5rU0RlMEsxR1pibVhsOEFXMElmUGhMRnpRVDd1ZXlJWXdlTmxWM0Q0XzFKYWNlYS0wdXFTQVNGRF9neFdkUHdJOFRSZ3ZhMGhPU3E0ekdSNXpJTU52Y2NKUVdidjZOVkxSeDNSNnBtSzI3VDFFWmJoQU82QWdnYTVPU1Rndjc1LXVkWDJPN3VCUVZrOTBHU1FZSEthOENURGNEQnhlaEJmcUpCT0tvVkVxbXBKZTlTVC03U2vSAZoCQVVfeXFMUHdWLTByQUsydXAxM2pURlExYy1DQXNsanVxaGFydEVDVU1JaVprbUc5VkdkX1A1TldlMjFBZkxwTTNDUWllbW1QV2tDODlKS2k1bUFUYVpjWHJIcVlnclBWYy1MbjEwcFh2SmhNZkVPVjhOeDFOMG9mTk55TlRCdkVKSlE1ZERiWFZfRzBlQ3lhUVh4a1MycFU3NmxvRGw5MVVJS1AtN25RNkN4MHF5Wk9ZbTRiNUJhd2ZWczlOWjR1aUl6T24zN2dPaTBDbnl1OUVkMTJ6eWVTNmw5Q0QybGVBS1BBWGFQV1NFeGRyOHd6MFRlSHVZNlR5b1FWSGp3aGZvZnIzMkM5NnNBNzVUMnhKaXlKTEhocVVB?oc=5",
+        "date": "2026-05-28T21:31:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Mindlin se metió en la discusión por la generación de empleo de Vaca Muerta y dijo que sumará \"miles\" de puestos",
+        "description": "Mindlin se metió en la discusión por la generación de empleo de Vaca Muerta y dijo que sumará \"miles\" de puestos Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb1hmWUZsbE9HUFQ2TzUyVDJ4YUlpbDVIelpRbXBTcU5rcXJZM0VyNlJLOFJTd3hLWEhoVXNDbkllUXRGamJyU05pcmpLQ193b2JCWjBVaTJyX2Z6OU1ETnZWT3hGRXY1TEZvQkg1NkRYbVc4N054SGFkeWJyMG1fZUtSQWQwd21pd3ZRRU5EbUZsMWtmMkZQY2tDV0YwT1V3QzFKZXdCTWFNRDk3SGppQVRka05VcXhYc2Z6MF9vUU94WFFkVEw2RA?oc=5",
+        "date": "2026-05-28T21:14:47+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Vaca Muerta: cuánto puede rendir invertir en departamentos en pleno boom petrolero",
@@ -177,32 +191,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Puerto Quequén completó su primera carga de elementos estratégicos para Vaca Muerta",
-        "description": "Puerto Quequén completó su primera carga de elementos estratégicos para Vaca Muerta Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb29Vd3lMTDNsN3YyY2NPUjFIWHR1MTF0Tm4yUXJxVHBVcDVJSEpqVVVRZkt6a1hlcHFEOGhVUVVFZlJFdFVKRDJXSHlLWVBweGpmNXRhU2ZYWHhkckpyeFhZd2JXRWRTNm9JdUdQVDhJT1J4eGFRRHNXQ2Rna2lMTWdBX214bmVqc1g0eHd4Y3pIOGVyQ1pkVXY0ZkNVMnlQNzlIZkRqcEd3cE9nVWozWmRtZmNLdXZJWEt1Yk9scV8wQVZTZ2NN0gHiAUFVX3lxTE8xbGpEV2JvRFVncXp2TmplYk01Rnh3dnNPdlBTU1hyRzg2TjJvaUdiNHhHZHo4V2twZGxNYjVSazE5TnI0VWVBTFJmd2N2aVlkSHBSakFHUlpHZFFCVG55emdfbjY2ay1qdGg5YUZ6UDIxZDVHTGRSNnFrTW9xazdKTTJjQnFyRGdpZVRja29qckxfNHg3ZEMwRVR4ZnhxSDNIWk1TTzIwc24zQlM1cTRmSzZva0VCN0RsaDd6MjlkYWhkZm1sRHpFbVBVZGFOSURnNTZEallmOXJ5N3RZVVNMamc?oc=5",
-        "date": "2026-05-28T22:38:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "VMOS: las anclas y cadenas para la terminal offshore van camino a Punta Colorada",
-        "description": "VMOS: las anclas y cadenas para la terminal offshore van camino a Punta Colorada LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmpRc1ZWanhwSXNUVkNlNm9QSmNDd2pEQ3Nsc3VjSl9TVkE5ZWNVcFk2VTgwVmF6TDFUYXhyb1ZxT3FHTlBhY21tWFJ5Vkk3NTd6cUk5b3hKUkVhSE50b2dnWWhrLWFWeHVUUFZSUlZmZldfaGlJNl9JQUdKTWtLeFp4RkV4NTlINHNkU2x1Yy1kSGM5dlZaZTJJRFY4WEJubTFVbjIzQjJHeFZqUDZNY1otdkVxeW1mcFc5ddIBwgFBVV95cUxQNnd3NGZ2WWZod2FGdHRwMzlydHg2U0J0elBjYTY3M0E3T2NiR2hZYjVmalpmSEtSS2lYV3JRYWlaVDlOSFFMS0Q5R3EyN3IySjM0TkdnQW5IUGd2QUk2TU9fQzk4d0lIbmxwVDRyR0lZZ3FiVmdzUmlaTUh1ZWpfYUgxOC1xdm1uOWFhX2RCSTh5SFRuN1oxQ01yT1lqblJBNGpLOWV5Y25yOWROdWJhLU5UM0MzTWZmcGVwU1NXNFlaZw?oc=5",
-        "date": "2026-05-28T20:05:00+00:00",
-        "source": "LM Neuquén"
-      },
-      {
-        "title": "VMOS: el buque Skandi Hera llega a la costa de Punta Colorada para preparar la instalación de monoboyas",
-        "description": "VMOS: el buque Skandi Hera llega a la costa de Punta Colorada para preparar la instalación de monoboyas Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFNjMEVxWllRLUR1RGNLbWlWRHpsTHVvRGFObG93d0xudkFpV1VTVmY5ZTFmb2RaUTFKbFRDd1VWdm1EdWNPVEN5bW1LNmxCbjV1aFZPaWRyTWNxeHZuS0FvT25ZUmZYQUhQbnFDRVRMR3A4NExjU2VYNDBrVFhFNkNUdElJOTlDOWtIUEYxVldGNkUzRmR1X0U2b2FFdDFMaTQxS0JLQ1ptUDRhOTdYUC1zNUNLRGZDRUZCanh6WlVCVWdEVGlDVHFOMnpVN2FicFk3U1RR0gHeAUFVX3lxTE1jRUg1b1dxTkM3TElPTTNnNEl3cnhDdTRrcl9ldG9OMkFrT3haNEEzQmk2eTRPS1hjdHVhcFExQVZLbGxfMGpKTV92a0NhZWIxalZESGQ0T19VQzNxX3E3cWJMUFpmMVQ2VXRPalltYUp6ODlUTjhHN05XLVJmQUllNzlpZllnc2ZxTXgwNnZGZEJsSEt5cTc5aWFjUDBrMVBCMUY3S04zb25UREJBcUk5elpWU1d1N0VJTUl4T2szbkxQcDVyWno3QU9vNnJOanhxU2hOX0loSmdkQkdqdw?oc=5",
-        "date": "2026-05-28T03:15:00+00:00",
+        "title": "Por Vaca Muerta, Argentina es primer productor de gas natural en toda Latinoamérica",
+        "description": "Por Vaca Muerta, Argentina es primer productor de gas natural en toda Latinoamérica Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRk9fWXVBV2R6VXJRZ2FkTG5VZXhVdGZtN05HVHY0T1lJaGFQSjZJR2VsT1p0ZlhPVGg4QjY3dnotMDduQ2FGb0tWdUxMQWVfTkZVV0dsdUJCNEdkam5XVTF6ejBDUl92aW9TZEpKWXBJaVFLNS15cFlsYVNGVDBzOWtwTm83UWxrTl9kdjM0MXY3c3NTX3JhcnZsMTZhb2xVU1hIcUpYSkpUbUg0V21IVkdhMW1oTnJ2VjBn0gHDAUFVX3lxTE9BbW1pcllsZ1p1a25lUl9KX0F0U181Y0owUzNGMzJiOGFlSkh2eERXakEtQzVrdXdXb2JKT3RoY0VjUVZPTHc4WVRDMjJOZlF3S2FGLWFKRUlHOWhnQnRKaWtVWFpOLVBYRGZnaENpbkdnUVF3alQ0MTFHeVVIV1NZbTlheGhIeXpZMjd2M1VBU2ZDdVprSjhXTVhJTk9QdjNteEhrVk12Z0pQb3dGQXJURVY0azVXNHhsRTdNaFBzWUxKTQ?oc=5",
+        "date": "2026-05-29T03:15:00+00:00",
         "source": "Diario Río Negro"
       },
       {
-        "title": "Enfermedad holandesa: la advertencia del FMI ante el boom exportador de Vaca Muerta y la minería",
-        "description": "Enfermedad holandesa: la advertencia del FMI ante el boom exportador de Vaca Muerta y la minería Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNENsMWVJVmR1N0RHT3RXMHk4Qm1sODFkUEpIS1ZKLXVhdmdad3F1NzdQQkFOaThuUHg0X2cwNHlTOE56SFFXZDU1bU1xZHhBWm9HYVY2N1g1THpxT3JYTVJSLURXTXJoY01iZW13QUlSdncwLXJCd3hKS1F2UmxHazgtdGdsNnlYZEtKbkJaeURtMjhCRHVfVGYxYy1ZeFgxS3MzNUxMX1JhNVZzVmRyVlpJQlJjX2Q3S0dGYjVkeDdYV1p3aXRTd1JQVE15NkdMMUJTMGhrVkoxUXJfTEZUblpUY3VEd9IB-gFBVV95cUxOWDVJbTZaVmd2NG9zTWI5Z3NvMlY3ZEdiRExqODVLX0xpWndhdW9TUTFVNjJic19YOWNiZkxFQk13MGYtQ201d3BGOV9WQkF0UXQwSGplNlcxTlB4eEppNDRLWlVtUGM4MzRsYy1sUkxnZGV0TEk0ajNFY3N2YjlhU2Q1VXR4cktEYUk2aUVFOWtqV1I1VjN2dzZqeUpqRWJjNWlKMWEya2NLcEViX0EyTmF1aGpOMnJuVndRTlM1Sm9iV1AzS05STVF2cmZCcDd4SmtFVThmUEVDNmVBSTFqNnZRX0ZScXl4SnQ5MnhNV3JqbFE4MUNuNV9B?oc=5",
-        "date": "2026-05-27T22:04:39+00:00",
-        "source": "Bloomberg Línea"
+        "title": "Infobae Talks Energía: gas natural, data centers y Vaca Muerta, las claves del negocio que viene",
+        "description": "Infobae Talks Energía: gas natural, data centers y Vaca Muerta, las claves del negocio que viene Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0tuVUNadkIxTENOYlY1QTRzblhvQ3dERV8zS1dSZDlUX0NmdGJENjF4ejhfbDJUVW1nMW9wZy1tZzFtdXNZa3NnekFPNk9lTHNxbmlUQl9zMDh1Rk5jaUZpekpfS3FuTTc3MlFNdzZvWmxCMjhGUFZEWFFzVUN0Y0hJaWo4Zzh6S2dscElkWGVWWkNtcnQ3RWNTVUlFaDViMUNFTk9WTnFwb0kzNDlXWVRoQjlIaC1WOGRNVFRBdzRBSGdBVHRna3NMNkVCRmpYei1r0gHuAUFVX3lxTE51Q0tyZEdPa3N4cUNTZVNKSGdMV1FEcVRXYlhYNU5TT1kyNkpxVmZDM0JIQzBJa2RhdGJJUWxxa3ZWN2ZfM0I5QWllalFvTnlWSVUwREFPZDFyMVNnVDdvZGtOU2R1M09qeDRuN2ptTUZZNGd4bHY4WF92WU1WWjJ5TUdDY0NkMDhsYkcwMExxMFFRSzlZNDZBOXhKWHM2RjJQRVhlNkpHSHNGSDJUYjRRaE5yVjJaNkpOVnp2TFhzbEFwdkYyQ3dRZEV6UHZiMzBfZmFfR3pfWHd1dTctOVJxeEZ2Q0JuSmdva2dfNlE?oc=5",
+        "date": "2026-05-28T18:07:00+00:00",
+        "source": "Infobae"
       }
     ]
   }
