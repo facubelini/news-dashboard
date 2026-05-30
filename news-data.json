@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-05-30T11:16:30Z",
+  "updated_at": "2026-05-30T13:17:38Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Bill Gates es responsable del \"mayor error de todos los tiempos\" que costó 400 mil millones a Microsoft, según el cofundador de Android",
-        "description": "Bill Gates es responsable del \"mayor error de todos los tiempos\" que costó 400 mil millones a Microsoft, según el cofundador de Android Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWhfOXZQN2M4VlFlZU5iMWZKOC1YZjQyUHNob2RlLTc0ZDBvTi02dWdOa0RvV2Nhbm1ZWDJfTkRvaXlhMmhCS2g2UnZYODRpOXI0SHNMV1RhNDY3LUxXM1JoT01oSDBNbmxVQkFYaVlnUVFFTUdXMmhZVEdOX0FZVG5zQzd3cm5OS3ZyX05SZWtuYS10NW96ZUpsaFVQVDNMVUFpbndIeERKVmdMREpEM2lFZ0RWV2ZwamFlLTJOVk42Y1lJZUNsSFN2b3dXNEh6S0R6YW9oeVBvNlZ3eXNlQmN6b9IB6AFBVV95cUxQYkhoaVh4YS16enlrV0JFd3U5Y0VvNGhiZ1N0bmgtUEl2dUZuQllHVDJrdmJuOFg4SUFVYWVob3B4bFRHOHRYN3JHaGM0QmFWQTFsdHVubUZOYVFQQXQ1YV9fXzdKc3ozV0JWVVZPcGZlc0p1V3hfOTdWd3lTaWVWdDVRSlliOG0xcVZkX095LWpPRHdPelRfWkNvYU9ycjZ6eERsSmRFU1p3ODZzaTduZHU1LVZOMnFjc0x2OW9sN0xleFpSVDIzNUxEX3VzZ1NVWFFwcmlDdE1XSmg3Nld1LTJKY0lObk41?oc=5",
-        "date": "2026-05-29T19:30:00+00:00",
-        "source": "Xataka"
-      },
       {
         "title": "Microsoft amenaza a investigador por divulgar fallos de seguridad en Windows",
         "description": "Microsoft amenaza a investigador por divulgar fallos de seguridad en Windows Infobae",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlljaG5ja0xyblpjUzdjcVRrLVJxVWo0clBzM0ZRTW1oSm9oQ0llblREUnhHaUdBUDBwS0c5czJLNDNUNlFDbTFtazg4WXI3MlYzRVpacWdDNWxYaUNXZGFVWng0MXF4N3JYbTVoMHU0Zm5WMW1BUGg3T0N0NmlqTXZoV3I0WjM4NjV1bFYxSVByX0ZYM3JBTlBjcFlKcnlEaTFUekNxMHZxaDFIY0xtVDZxd2FlUndkM2fSAdQBQVVfeXFMTkNtOERyR1hrX2JxdkxPTldqcGdqU1M4Wm9KT01lRFdRX195SnNabGZjYlRfOVFOX3RfMTBTLUlSTUZNclZyS2h6S3Q2N1V6cFE4Wi1xRlJtRmU1cHVBUWdzRTkxQ2RfU2l4ckx4ZzhHNW84VXgwRUVaUmVVTU9lUDhtUWVBa2xWVXVJLUlIYzM0ZWRlWlR3d18wS09WZVZETnF3UzVISkFrc3Q0VG1lalFpNEhoTEhjY21aS1JVd3BjenVuY1JpRDh0SnA2dU9kVkM0N1M?oc=5",
         "date": "2026-05-30T04:17:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Bill Gates es responsable del \"mayor error de todos los tiempos\" que costó 400 mil millones a Microsoft, según el cofundador de Android",
+        "description": "Bill Gates es responsable del \"mayor error de todos los tiempos\" que costó 400 mil millones a Microsoft, según el cofundador de Android Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWhfOXZQN2M4VlFlZU5iMWZKOC1YZjQyUHNob2RlLTc0ZDBvTi02dWdOa0RvV2Nhbm1ZWDJfTkRvaXlhMmhCS2g2UnZYODRpOXI0SHNMV1RhNDY3LUxXM1JoT01oSDBNbmxVQkFYaVlnUVFFTUdXMmhZVEdOX0FZVG5zQzd3cm5OS3ZyX05SZWtuYS10NW96ZUpsaFVQVDNMVUFpbndIeERKVmdMREpEM2lFZ0RWV2ZwamFlLTJOVk42Y1lJZUNsSFN2b3dXNEh6S0R6YW9oeVBvNlZ3eXNlQmN6b9IB6AFBVV95cUxQYkhoaVh4YS16enlrV0JFd3U5Y0VvNGhiZ1N0bmgtUEl2dUZuQllHVDJrdmJuOFg4SUFVYWVob3B4bFRHOHRYN3JHaGM0QmFWQTFsdHVubUZOYVFQQXQ1YV9fXzdKc3ozV0JWVVZPcGZlc0p1V3hfOTdWd3lTaWVWdDVRSlliOG0xcVZkX095LWpPRHdPelRfWkNvYU9ycjZ6eERsSmRFU1p3ODZzaTduZHU1LVZOMnFjc0x2OW9sN0xleFpSVDIzNUxEX3VzZ1NVWFFwcmlDdE1XSmg3Nld1LTJKY0lObk41?oc=5",
+        "date": "2026-05-29T19:30:00+00:00",
+        "source": "Xataka"
       },
       {
         "title": "¿Por qué sube hoy la acción de Microsoft?",
@@ -31,11 +31,18 @@
         "source": "MuyComputer"
       },
       {
-        "title": "Microsoft añade el Low Latency Profile en Windows 11 para eliminar los tirones del sistema",
-        "description": "Microsoft añade el Low Latency Profile en Windows 11 para eliminar los tirones del sistema Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVhMbmJMakJCOEk0eUh1VUpvQXMyZnE0T19IYUFHYktrRkJrVXYwenVEbWpmZTd3dndHbkNPcHcxVW12TGswdzUxdk1sSEJ3OXZIRF9fOHlsNUUxMVdYcHB6cEpmZDFUaTdiMlhNY0ZWQmtQRGF4ZjBWQ3R3azZKbnlxRnJtOXZMMDNrUmRn0gGTAUFVX3lxTE5uU0hZTmIyT2Rhd0hPdnBpR1JCNUNEZ0VsWE5BNS13aC1mbEVjNmhENHVvOWxyYjdsTXpJMHBxLXRBT0UyNzQ2MVp3OURFOUs3aHRpUjVPV1JpcDRvb1ZBWGJhQy1OVHR5RDdoLU5RNGx1ZklBaXJhOTI0RXZkNjFyU08zazF1VTl1OHd5TWJndFBSQQ?oc=5",
-        "date": "2026-05-29T06:04:41+00:00",
-        "source": "Profesional Review"
+        "title": "Microsoft lanza el Perfil de Baja Latencia en Windows 11, acelera la CPU hasta un 70%: así se activa",
+        "description": "Microsoft lanza el Perfil de Baja Latencia en Windows 11, acelera la CPU hasta un 70%: así se activa Computer Hoy",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOTRyT054UzV4V0RDUVdZZUJBUXBwOVk5MFUyOHoyRG5BQTRDN3dyVGoxZ0JDSVF2S0VodHE5bGJsTXFGRjBRWjZ4alktN0J0QXhEQ01aTFdGcUtjREdnOEFod0RENWFQVXc3dXVuV3NWenNjOW9VUzRoVTRRN2laV3czMnVjVjdZSE1EYzVLZDJHRm9DemM4ZmxZN2FDdUdMQkJ4Q3cyQWRrd0s1emkzbUNsZFJZWG4zaWJiZzByVC1jWl9acTJDdlhYTGxmZDhJQUhqVWFlVUEtUQ?oc=5",
+        "date": "2026-05-29T05:20:43+00:00",
+        "source": "Computer Hoy"
+      },
+      {
+        "title": "Microsoft enfrenta críticas por amenazar a investigador de seguridad con acciones legales",
+        "description": "Microsoft enfrenta críticas por amenazar a investigador de seguridad con acciones legales Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkpHUzY0elVKaV9HT0kySnppbHBWY1EyTlVVN0F5MklJVzY5aDdyODBiZDFwMjVDTmdWdi03SHBFcFNycXhON2F1N3BWTFZoYzlXZWNiZVV2czc1T3BueVFkVUhkZDY2bG5YV0xGRTFHWmEycGkyTkU4NS1WM3pkVjE1TFRPRVBmbmdZbHR1ZHpsOFYwWGo0Zk9OZ0swZ0JJaGRrNktfYk1UVnd6dlFRQXdBWXh3Zk1WVjBLbzczNTRuLVFhUkN3cWtsR1Y2WG1tV1pqSHJn0gHbAUFVX3lxTFBweG1tajRHUVNLME9HamcxdVA5Q3dmNDBUemh2c3k3UUxlTEV6VndKOUVsWHdPeS1MNmphUWFma1Ewa0JpeVp3LXhIblZEMVExNTRoY01ZYUw0N24zRzA2eGRES29wQXdpam85X2RyaUVtWS0zdFJ2ay1jQk90MlRSWS1lOUg1aEZERThIOGx0SE5oU2xWRFdFSVpQX0VzODZLR2ZoWW16MlFUVzFtYkdOam5yS2lIWGdqWFl0R081dFFrYjkxOVBIZUVoOTRvVzlRcVduSDY0LWpCcw?oc=5",
+        "date": "2026-05-30T13:02:48+00:00",
+        "source": "Cadena 3 Argentina"
       },
       {
         "title": "Microsoft agregó, de forma sigilosa, una función para eliminar Copilot, su Inteligencia Artificial en Windo...",
@@ -43,23 +50,9 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmJTM3MxdDc4eWJzMW5sbWNsYi1XbVViRGd2SkJKYXhEcWoyYW4tcThiVVlia3ZwcklvUWJsZnExUWx3UTlzNFNLdjdvMXFHVno1Tkh2NXJaTGtNREx1X2VjN2xNcVJQWlN1dk9aaUk2ZWZTZ2JQVjB3VDVfWURXR3JvN29FRld5aFNKWHM1WWhkYVN5Q29FSzdGYmlBSUdleVNGNTBtN09QSGp1S3BMZHhLWnZPOTRsSTVlX255aS1ybG9aZnVwdjNvTEdNcEJTcWpkNDFKSWE4Q0hmLVViVHB4QWs4Zmx0T1kxcVlBZElvUHVnaE9v0gH3AUFVX3lxTE9KYlMzczF0Nzh5YnMxbmxtY2xiLVdtVWJEZ3ZKQkpheERxajJhbi1xOGJVWWJrdnBySW9RYmxmcTFRbHdROXM0U0t2N28xcUdWejVOSHY1clpMa01ETHVfZWM3bE1xUlBaU3V2T1ppSTZlZlNnYlBWMHdUNV9ZRFdHcm83b0VGV3loU0pYczVZaGRhU3lDb0VLN0ZiaUFJR2V5U0Y1MG03T1BIanVLcExkeEtadk85NGxJNWVfbnlpLXJsb1pmdXB2M29MR01wQlNxamQ0MUpJYThDSGYtVWJUcHhBazhmbHRPWTFxWUFkSW9QdWdoT28?oc=5",
         "date": "2026-05-27T18:32:00+00:00",
         "source": "Rosario3"
-      },
-      {
-        "title": "Microsoft revela sus retos a 40 años de operar en México: desde enfrentar software pirata a liderar la IA",
-        "description": "Microsoft revela sus retos a 40 años de operar en México: desde enfrentar software pirata a liderar la IA El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVmVDWWZYdk9BUmpwU1JJRHhnd2Nzd2QzVi1GeWxJOVZObFFHVUNWa0FyZGg0N3ZXOEhkUXc0bkhPTFRJMzdoQ3V1cWFVeURQcGhESmhZVkFRT3NPN3hjcTBxcDNNWnA1RmhKQmhlcXE4OVlVaFRua1hXRXYzaGZOeXVGVUdTU29iQ0g5Y0x2WXJOMmdiYVpBRVZtcmdKbS01N2RkbEdYMWVBYjdhbUFZTXh4NTlQTm5vTDZIYkMxVmNRMkp0M0lJanJJSGFFUll0bDV3cU1EWlV6RUFrYk5tbVdLTHk4WVp2b3FB0gGGAkFVX3lxTE1hQWpCNDFNWFBjS09TTVhUUzdQazNzUHVjMXhieVppMi1odGpyX0NYaE1nNDZLMkgzQ3NnMXBOeW94MGlmUVBIZEpISWRoNUNnOTZidnRhRGViR3BrSGpQd05vODlseU44aUJ5SV9Gc3RRS2hUak1LSDRSLTlpN0pfTjYyRGNFUGNEcWpGdUVlWkx2TldSNDhnUldlYVJkWU4zalpKcVB5TWh3bmFkLXdJVThWemFmaUxQb29oZHIydUZReUg1VEJSdG01R2FNcXZtWlVjd0FvdF9RMVlpOHRTU0ZKVlBzUFo3NnZmUkVzaEFrX3ltNS00VWNiYld1d3ZzZzJHcGc?oc=5",
-        "date": "2026-05-26T22:12:04+00:00",
-        "source": "El Cronista"
       }
     ],
     "Marketing": [
-      {
-        "title": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital",
-        "description": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital Comercio y Justicia",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT0JIN3MxRl84dktEMTNVWktqWU1lOENzUzBEdTJuSWZWZkZaMExPR2FoVVRMOTVYUEd5ckhYOE9PV2lKQklpV2E3VDhmSnlVLXI2MUh3WHVyN1dSZktwckNIbE1NSHhQeWl0Q0tWWWRnMnRMdWhqV1dkNEFUV0plaHd1cW1JX1lEb19scUVMSHZIcmZxQ3M1TGFaM0piU0pFSXRYdV9CUVg0dzkwWnFQa0FWWHJlTE1TbFhFdUNDbzc2Tmc3T1BVLUZEMXl4YTcwZ2pFQk9CUU55Und0SEJyWk9rZlVXbHkzZlkxTHpzUWhIWGVWUUE?oc=5",
-        "date": "2026-05-26T12:05:55+00:00",
-        "source": "Comercio y Justicia"
-      },
       {
         "title": "Inscriben para capacitación gratuita del sector turístico",
         "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
@@ -96,11 +89,18 @@
         "source": "DossierNet"
       },
       {
-        "title": "Expertos profundizarán sobre tendencias digitales, inteligencia artificial aplicada al marketing y redes",
-        "description": "Expertos profundizarán sobre tendencias digitales, inteligencia artificial aplicada al marketing y redes 0221",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2V6ZFktdU5tOEt0ZVNGTk5yZHBDcXRCX3hLWmFvUTVNbExtVHBJUmhXa0FOVzZ3dVBDbElIMUEwWlIwT1pIZ0pma3dhcXRsN19hNDZOb0Y0UEV1SkNyV1JDYjl4emdkSXNzLWxjTlp4OEdpalIxOGtPSC0wTEVBVV9QdlQ0UlFSZ2YwemluUUI3QWlsNktQNk5jNUFYZE00R1RIVzE5TzFpU2ZENWMwTFBTQ2hIWldnLS0wMXNzX0IxVVo3WHoxUmNDYjZEMmJGYmdaU9IB2gFBVV95cUxPSGRSLVVKSFlHVW5GM2JYWlJLdFlGWmdiNkNBcUFhcUFVTzZQSnBXVDdqaFIzVFNhSDlFRXEzVnhWTURzUW1Ma1ZmWHBBTHBhbmpaX19Vc2F2TFk4UGRfQl84aUxoX1c2Z2xDa19FcjlRRm9La2ZBOVBVRUVNVDlDcXB6RWJ4NFFQN0gyN2MyU1VPNjl1Wi1KT0RuLS1kSndVbGh5YTBpNjBCdzBKQ3RZMjd3UlVmLVBwUnhUV3hHcG9ESl96U1hQRnVnNEY4bmxqZVVUeUQ5MXhRUQ?oc=5",
-        "date": "2026-05-27T18:44:00+00:00",
-        "source": "0221"
+        "title": "Abren inscripciones para Diplomatura en Marketing Digital y Redes Sociales",
+        "description": "Abren inscripciones para Diplomatura en Marketing Digital y Redes Sociales Gobierno de Catamarca",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWEQwVHMwNFlSNkhPV0JnQ0VGWDk3Q0FGOGtFZjdLNkR2eEw2dnptV3JLNm5LTHV5RUZRaGVwNzRtcmpsRWllSko1dzdHY21FOTFkaEFsamlDV3plYklNUzY4Mkk4R2l6bHpPSTRId1hDbENhQWZ4OUhmcXk3ZFpmN2V3UmtsdXRPTDBBaUl5LTJrQlBScTU2M19ma2lydzdWeTFwWER0ekltTXdpNUs1c0FHX0N0T183bVVLRUJUSk1OWURhQUhPMWdrSzV3dV9mX3JPanhuOFZYQmdtVkU0TQ?oc=5",
+        "date": "2026-05-17T04:59:16+00:00",
+        "source": "Gobierno de Catamarca"
+      },
+      {
+        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
+        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
+        "date": "2026-02-13T23:09:21+00:00",
+        "source": "Universidad Nacional de Cuyo"
       }
     ],
     "IA": [
@@ -112,24 +112,24 @@
         "source": "Xataka"
       },
       {
-        "title": "Cómo saber si una imagen, audio o video fue generado con IA: avances de Google y OpenAI",
-        "description": "Cómo saber si una imagen, audio o video fue generado con IA: avances de Google y OpenAI Chequeado",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa2JtYmkyNG9WWjJpZXBSR09tWURSNk5ja1N4cEpMOVRMX1hyLXRJdjJwalRFaXRMcThMaHBVM25aU3hTMjRfbm1XeU5ydE4xeWYzRl9mb1ZNWmRpMlBWeUdGS3BNb0VZOG9wNlZUdVBhSVM3am9Ld2ZzMlFLV3ZkaExGWTl5NzVsRDlQdks1bzlKc016enBBOFkyMTdla09EbDBLMkowbzRRcFh5d2QxaXhsX0JtOFBNNWY3OGlhdw?oc=5",
-        "date": "2026-05-30T11:00:20+00:00",
-        "source": "Chequeado"
+        "title": "La nueva estrategia de Globant: agentes de Inteligencia Artificial con supervisión de humana",
+        "description": "La nueva estrategia de Globant: agentes de Inteligencia Artificial con supervisión de humana Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQzNhajZBQmhlTW8zQkJvQ0JmZmdnNnV1TEtrUzhDZXJHTGdONVRHZDdxdktiS1BUY3JJWnZfMVJqNG9MWXFyc0tFa2NpVEZUZVFWMllxdjlobVl1a2dIWXdQQW1ha3VBTlpnVlRpQ1ZQOHhCNGZfTnpEWWl0ZE5fZDdvMTZuQjRaLWlXLUF2X210LXl0dXNFeTdkcFg0WXdFQ1Z5NncyUTl1ZHpqQlMwcWY3NHEwNTFTTnhMVy1PLUEweVk?oc=5",
+        "date": "2026-05-30T12:24:11+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Por qué el papa necesitó a Gandalf para hablar de IA",
-        "description": "Por qué el papa necesitó a Gandalf para hablar de IA DW.com Alerta sobre la inteligencia artificial: “Hay que poner al humano por delante de la tecnología” Perfil La encíclica del papa León XIV sobre la IA: qué dice y qué evidencia respalda sus preocupaciones Chequeado",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnlpcWItLW0xdEktdzR3TVpLZ3UycDhVMzNreXBSR3Vvek9INXlOeTlVT3Q0ZDQwUlhLYXJhV0hNLVN4RGdrWUFFbkdldlhDelVLOVlaSVpSbGZHZ1locm42TWhfaDR6UWVveDNXRnQ2b2xYMTd6RlY0b1lJZEFEcFdCRmRUUjFyTWNqc29SV2tTeGliMHpLQkdHOFdwNDBhd2tkT21WdnhFaE1QMlVLbVF6ajdTNHRkTjRsTmticU44R09wMmhCejhIVnRMWGI1Y1dtdEZKU0lMZmlJ0gHcAUFVX3lxTE5haF9ia2xpcG1qNm1lMTBWeUxOei1VRmMtZlVIN216M1pkNVFjVi1KT2xqV3VCZzJpY2RpOHRrVXgwNkpoSnJWYjYwbGdkWk9zc0dXekxUcUZBbTJVN0tKS2RBRzZib2JBTFhiTFZDVHdsUlJycmIzZFNhbFVPS2Y4Z0E2SU9qUVRWQ2NEWVc3TlpyNGFNN1NoRHdfNWNBOHYxYWVGWFJpRG1vdF9YQ29pclhFd3J0N1lEbzA2ZUp0bkM5ckRBUDFsQ3VpV2Zhc2NDUDVVWlEzR0hibmE?oc=5",
-        "date": "2026-05-29T16:25:49+00:00",
-        "source": "DW.com"
+        "title": "¿Lobby, estás? Peter Thiel, OpenAI, Anthropic y Google: la nueva geopolítica de la inteligencia artificial",
+        "description": "¿Lobby, estás? Peter Thiel, OpenAI, Anthropic y Google: la nueva geopolítica de la inteligencia artificial Letra P",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNk5rVGFNbk1ua3pSdW5MNUQ2NjlLS1J6MWYxa3BwNk56djExMHRjdFVCdDZIZVFBWDRrcEo4eXNmam1UTmJvTUhkakg0RThaaVlTUVU3M3JPVWU3SDB4QktUNzA0Rms1WGt0b3hRaWVpcDZtWHhnbUJFWHc1ZWdZd2NfVDNNRmQwaUEzNkxzZzluSy1CU3k0MThjTERhalU5VHpTNFpMM1ZwRHJMR0pIeGpFemVDZ3hRNTF0d0RWTjc5NjY1T2RtYXZhd3RveTJpbUtRRmdXQlbSAd4BQVVfeXFMTkZvbEI4UTNmQU8wRFZ3aDlfMEpxenhZbklQbmdWQzU0YUdfNDAyNHVMSVMtTkdWazg4SC0tUnpzMHBFQjc2YVdlVGtNejFtZy1iY1dPQ0JaSkNSaFY2VmVsZHdkRFZfd1drZ0FXZTZIV0FmcDRhZkFOTVFFY0l5bWNVLVBEVEJ0VFl3aUphWE8zTHJRSTdhekFiRXBnZHdkWHFPdktJS3pMTVdJRFZydkd2cHk4M3Ztem9QZXBNY1JOOWtGQVpGOTdycE9CNmhEbDFib2IwOW5PZ1VxcHJn?oc=5",
+        "date": "2026-05-30T12:43:00+00:00",
+        "source": "Letra P"
       },
       {
         "title": "Cuál es el rol de los humanos en la nueva era de inteligencia artificial",
         "description": "Cuál es el rol de los humanos en la nueva era de inteligencia artificial Infobae",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeUJJajloeVJ2N0NTbmZ0N1ZSd0w0NVdaanZjV3RlMENYQzFobC1WcHRueHM4aDh4SHYtSlJhdWNWQk53SEZxMGRLZHRwanoyR09aWFNTcjNDYk90TFIwWjNKS2otczN5djB2STRDZTB0RTBQN3o2S212N2s5bXloMFYyNkozTHN6VHIzLXN3NU9XQXpudW9CMjVnckJ5Q1FUaTVqTGdSWjdoMV85Q0dVTkd30gHMAUFVX3lxTFBnZ2tpbUJZU2YzUXZlWGJfNWZVM0ZHOGNDRU91ZjRseW9GSjk4aVBoQXM0N3ZmUFBhMkVEQkV1Q0ltakdzcTN2SnhBSE80NFEwSjBwU1BNZzJzTm1BdlF1ZnlSZjlvcmtCSWNmVG5hYnNpS2hoU2xfMlE4R2JQc095eFVtdlNseWx2RWZuRDVzakYwN2hhTW9WUFVIX0djejJrckUzSkFyVDQ5dHdUdUFsVXlMeGVsN0tSUWx3d1JKUkt4dk1ZdDB0TTdNWg?oc=5",
-        "date": "2026-05-30T08:20:00+00:00",
+        "date": "2026-05-30T07:25:33+00:00",
         "source": "Infobae"
       },
       {
@@ -140,18 +140,18 @@
         "source": "Diario El Día de La Plata"
       },
       {
-        "title": "El gigantismo en las inversiones es una necesidad de la inteligencia artificial",
-        "description": "El gigantismo en las inversiones es una necesidad de la inteligencia artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEdpMzVKSS1UVEhvdnltcmJMazUtcEg0d2NvQll6aWtpZTVTc3d6cjVka3pUT1hPWHZENUFGNW52MTVjZDJRc1RSQi1Ddk1PV1JUVU5jUGZMb3F2S3hZbUtNYTZibFFQMGxRcm41M0pkTHUxTFZtUklJc3k3Xy10MkwyWjFDOGJjdHJhMlo5Vl9lenZXb0VIeU5VeEUtczM4VGM5RlN3X1NRdw?oc=5",
-        "date": "2026-05-30T09:00:02+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "Un fantasma recorre las bibliotecas: ¿podrá la IA adjetivar como Borges?",
         "description": "Un fantasma recorre las bibliotecas: ¿podrá la IA adjetivar como Borges? Página|12",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWmFOSWh3UUhxLVI1WkEwSFNxTWxjUmJaLUpLUVNGMmhOQXIyaVpUWWlBVHE5R0l1azdHTDNXa3M4aVpTVHJ6b2tabWdhTjd3OEZTLU1JRFlTNkZzNDRadExwMnc3YVRjTUJPaTA5THNJazJMYlY4OUlRZHRtaG5MVDU0amtINGo4UkxGd1ZSalhvSk9rSExBRFV3eWxmN1d6amdjQWV0RlluVk9DMWc?oc=5",
         "date": "2026-05-29T21:23:34+00:00",
         "source": "Página|12"
+      },
+      {
+        "title": "“La inteligencia artificial es el nuevo tractor”: el mensaje de FAA por los productores que no llegan a la última maquinaria",
+        "description": "“La inteligencia artificial es el nuevo tractor”: el mensaje de FAA por los productores que no llegan a la última maquinaria La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdlJJTnRzWnlDS3l1V3IxWmVXOHZ3X1FZZ2F4Y29uZHdDT1l5ajEzelZLdnhoeDY5ZWN4TTBvT21hMGZRVWtfMF96VDNoSW8ybFFOLWRmakR6WnN2cmxSdTJxWnNTbzhkQ3MtQkszbXF0OHZJU25EZjE5b0NwNmUxUThRWGRzQ0NTbzlLZG93TGpCTnVrQlZxUlVnZzVSMXNYczVTTE53SU9SY0lMMEo3SXlYNUdHaEVqZzc4VDBsUkFYcU1ONXItaU1rZGFLVWFCQ0l4WUFkeXptRTRnN0hfVWw5bzRjRDlLRFZOWA?oc=5",
+        "date": "2026-05-29T15:53:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
@@ -177,11 +177,25 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Empieza la obra submarina que permitirá exportar petróleo de Vaca Muerta por Río Negro",
-        "description": "Empieza la obra submarina que permitirá exportar petróleo de Vaca Muerta por Río Negro Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckp0WlRPS2w3clFuZlBUY0hpRW1xdFNDa3hJVThvQlowWEE3bENGQ3Z3c3o4SXpXR3BGd1BDSnJKOFh2WFdaZjh5c2hibTlxSVpSMHpHZTlncVhod2NTUkw2NlBwRzRSaVVQNFd3QjBCNWlXU21ET0R0SDhPb1J0alZCVnZnQnFMX19KeDMxVGZ4MGtNQzJNalpUckVHaGhyeDZjT05rbGZSYlg3MWRnLU16SUl4eC1zMU91dXA5aw?oc=5",
-        "date": "2026-05-29T18:29:19+00:00",
-        "source": "Clarin.com"
+        "title": "YPF va por la cuarta estrella en el desarrollo de Vaca Muerta",
+        "description": "YPF va por la cuarta estrella en el desarrollo de Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclowZXZWbXVybUVrUmpMc2I1b3hYbmpBMUZsMW1FandEYks5UEFpY0VHT2s1VGVKTG1RN0JMX3RWVFY4akNiLVZIREgtSHZPdWFjM2k5RG94OGVDVjJNZ0labmhqTm52Z2xiVVd6dVk2YW12eDFJQnpmWlNUakoyXzJPdnhCV2pCQzUwMnJoRG5ZZm1VeVZwY1BFTHhJYmPSAacBQVVfeXFMTTZYby1FdnYwOThDNHFEbG9EUTN0UXZfcEplRl9naWY4N0RxdUxVcWYtZ0k2N3owN25oNjUyQ2poeWd0UjZEOTlsZmxFOU5xdGZkanV4c2R6cGNkVlNOM1M2VUtjUnlabTBxM1RQdURSMnZXMlQ0alMxbWdvNnNrWmZCd0lTNjRSMFVBVW96bkoxOG1yNG1OOE4yRVRia29WNzVDOFJ4aGs?oc=5",
+        "date": "2026-05-30T03:15:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Horacio Marín vinculó el futuro de YPF con una meta de país: exportar hasta US$ 50.000 millones en energía",
+        "description": "Horacio Marín vinculó el futuro de YPF con una meta de país: exportar hasta US$ 50.000 millones en energía LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2ZxYkZidXlkNGVPMGl5TWllUnlKcGJtcWktNm9YM1BfS2EzeWxPWmdhZmt5RjhyYkdjNmcwb2xtSTNwem9Hdjh5V0VEMVlnQThEOVN3VkVBeEp3S3VRMWc0QnJfQmpsM0gyZmZfakdjYmJxRWJibjA3Z2xycnRaVlh1NjY3RExiWUZDekxXWWxuS0cxa2FWckhEVlE2RE0xOGVkamNvOE1keXctdFdKRlJMVTYzVWZySS1DN3BsM2dYbGtKaTI1TNIBzgFBVV95cUxOM2oxUVU4RF84SDZyTzltWFBsUWtxUU5tNUoxTkZBc1JQWU5UNUhBVkVOblVnWk82elp5VVYweERDR212Qk1QVGZmTlZvbzdick5nOHh4YXNuV1JMTzV0VU1rZkhid3I3Sko5NWZGSXRiWXFZaDRfSjFNMExzcGRiaFJ1S0s1WHRmVnhiZWhQSF9qMGFXMWZHenVtVHlIM0pXTGc1U3EzVWh3STlSak1vVG5fZHVjY0pqWjFyX0hYZnd1bkpsZC1wVkJfU1VHUQ?oc=5",
+        "date": "2026-05-29T18:39:32+00:00",
+        "source": "LM Neuquén"
+      },
+      {
+        "title": "El titular de YPF, sobre el valor de la nafta: \"Termina la guerra, baja el precio\"",
+        "description": "El titular de YPF, sobre el valor de la nafta: \"Termina la guerra, baja el precio\" C5N",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmhCWXdickJvbUp3WHVGaUdDTWFLTEtCaEI2b29vTVJYd3A3bUhTdnZKcXh0cFBMdVNFaF9RTXJWV0tTQXROa19TR0ptZ1FCM0VNekl3NEdUbHRieWhCYm5Hdld4NmFKQ2VDLXpTSmFJVWNleDBmTy0wdFQ2dS00WE1fN20xSnFHejUxRGRUOVJ4UTU5dWRSLUEwaENLR29USFFwc9IBqgFBVV95cUxNdTJLXzJpa2NMUnVoZ2NiQURVZGV1RlIyZmhKZjhtcC1FRlNKU096VFpVV0Ytd2xwZV8wNmZvSGZFaTJfZTdSX1BsOVV1ZDNyYUVuLWZhdHVjWWpxLXVfdjlRUWxudmVuQmF3VzAwbHRwSmdJMDFRTHdoMnl3dGo1WTgwSjNoaUw1bVo0RFFhV0JycXp2UkJTTjVjS2M1c0NGLXczTUk1OEFTZw?oc=5",
+        "date": "2026-05-28T17:58:00+00:00",
+        "source": "C5N"
       },
       {
         "title": "Vaca Muerta acelera su salida al mundo con un oleoducto clave hacia Punta Colorada",
@@ -189,20 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlRORkVVWG5ZbkwteVJRWkozZkZwakxZRmRoYzJuRTltWTNLbGNDSTNLcDVTaEZIVVl6SnB2dXFudkJkVTlSbDBXc2NreTJ4WXJpY1pMeWJsM2xfRlU2YmNJSTZFWEhfMFNQSzVYUjJ2cjFTaWRNUmNSdGF1TFNyVUpCbXpKbmNKdmtpbDZ6N0RSRUY4clhsREZNTXh2OWlDTjNRVzdyVzl6ZHI1Ym00cm5xb1ZzcDhCbTdQWVlnOTlnWG4wMThj?oc=5",
         "date": "2026-05-30T08:05:11+00:00",
         "source": "La Nueva Provincia"
-      },
-      {
-        "title": "Puerto Quequén completó su primera carga de elementos estratégicos para Vaca Muerta",
-        "description": "Puerto Quequén completó su primera carga de elementos estratégicos para Vaca Muerta Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb29Vd3lMTDNsN3YyY2NPUjFIWHR1MTF0Tm4yUXJxVHBVcDVJSEpqVVVRZkt6a1hlcHFEOGhVUVVFZlJFdFVKRDJXSHlLWVBweGpmNXRhU2ZYWHhkckpyeFhZd2JXRWRTNm9JdUdQVDhJT1J4eGFRRHNXQ2Rna2lMTWdBX214bmVqc1g0eHd4Y3pIOGVyQ1pkVXY0ZkNVMnlQNzlIZkRqcEd3cE9nVWozWmRtZmNLdXZJWEt1Yk9scV8wQVZTZ2NN0gHiAUFVX3lxTE8xbGpEV2JvRFVncXp2TmplYk01Rnh3dnNPdlBTU1hyRzg2TjJvaUdiNHhHZHo4V2twZGxNYjVSazE5TnI0VWVBTFJmd2N2aVlkSHBSakFHUlpHZFFCVG55emdfbjY2ay1qdGg5YUZ6UDIxZDVHTGRSNnFrTW9xazdKTTJjQnFyRGdpZVRja29qckxfNHg3ZEMwRVR4ZnhxSDNIWk1TTzIwc24zQlM1cTRmSzZva0VCN0RsaDd6MjlkYWhkZm1sRHpFbVBVZGFOSURnNTZEallmOXJ5N3RZVVNMamc?oc=5",
-        "date": "2026-05-28T22:38:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Hace 50 años llegó de Buenos Aires manejando un pequeño colectivo y hoy a los 80 años, es esencial en Vaca Muerta",
-        "description": "Hace 50 años llegó de Buenos Aires manejando un pequeño colectivo y hoy a los 80 años, es esencial en Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVC1jR1k4a29HOWhVamd0RVhBb3hnZnNQZXNFcWQzc3QzRmVwdWdFUXMteEEyREF6a1VFMkxhWW1VVWczM0hpZkdDSUkzOTd6RkFIOFZtLUVkTHZoZG5WSzhscndfS2w3WlJhZV9rMDVxaGNfZ3Mwak1IQnAtMVVyb2ttdHNSQUN4czVFbVI0UlpPRG5LVGlLNWdCcHpsWGkzZnJxM0F4bUZRT1ZwdXV1VFQ5TzFRTWxtRTMyUURlWUVrMEJpN0l2OFZYdUs4b1Z0NGRXQ01KWEd3MkRENU5aQ3k1V3nSAewBQVVfeXFMUGIzV2ZuN1U4cE5Gc0ZnNWg1Sm9QMFBjSHg4Uk0waEJoRmpfdjIwckJZdUE4S2wwRWRWa3hqWmFXVkJvOC1QeFhna1FBQS1qcXV3ZEJpMTlBUEN0dTFla1Z3aXc5bkk3eGtYYlV6TTRCQjlZYkxKTlNuQ2dLeHJBUTBuVUk4SFIydmVFcUxKQkZKaERBNU53ZE5xa0l3YWNIZVZrLUoyTVFqblZfcUJNQm1GLS1sQ1otWnNVV05tTXhqWjlhRkhwOEVOdVlZLTVZMEtwcnRmZVNMckZTNVhkbE84aUZ4WkxTeE83aG8?oc=5",
-        "date": "2026-05-30T03:58:00+00:00",
-        "source": "Diario Río Negro"
       }
     ]
   }
