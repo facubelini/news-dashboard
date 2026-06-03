@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-06-02T22:58:31Z",
+  "updated_at": "2026-06-03T01:41:50Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Olvídate de Claude Code: Microsoft ha presentado su primera IA para programar software",
+        "description": "Olvídate de Claude Code: Microsoft ha presentado su primera IA para programar software Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak1yUXJMbmVUeGxfYWMzOHYyMnBXdTYzTUlWNzdtVjBnVFFQZ0lVcmROTkp6YjI0amFIOUlFMzlOU1VvSnZtNnlWZlZITEgzRkNLMjYteGNxRnF0WlFFdDdfU0QxSnAxcXpUV3Z4NVlrZ3NINVZMODQzVEpxeTluclpYYTJrcmpQRE9tQ0J5NWVsZW14NVE?oc=5",
+        "date": "2026-06-02T20:59:00+00:00",
+        "source": "Hipertextual"
+      },
       {
         "title": "Microsoft presenta Scout, su primer agente de IA para Copilot, y su primer modelo de razonamiento",
         "description": "Microsoft presenta Scout, su primer agente de IA para Copilot, y su primer modelo de razonamiento La Nación",
@@ -17,10 +24,10 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "Microsoft da a los desarrolladores las herramientas y la infraestructura para desarrollar y desplegar agentes de IA",
-        "description": "Microsoft da a los desarrolladores las herramientas y la infraestructura para desarrollar y desplegar agentes de IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMFFtTkNKQ2F1NmZBZVNIUGdzUmRhVGFKbkQtVFVjVm5LTDhjc2RTWWl6UHp0cjFMdXV0bkljakRjbDlPazBCYlZhYVBJOEJ3M2hJMmk4bWVmTnE4RWxXa3pSbTl2SHdLM2JnY3NiWVA5VFRIMEFPQWdIWHRNcVJnNTlKdkJTSnRlUFdfdUl6ZElFWEFVNGFVLURxQjdXS3JkT0ZqTmw3VUNYRlFfeFl0MnJiWXNJUGphbFdyblhQaXRScXItak1abk5LMmJsQ1JlY0dzY0pRTkRBaERzX0VrenhvR2NUamRJZ3JoTjhVNlpxQzdWZ2ppTjlhZXDSAZcCQVVfeXFMTk85a3lUaE5kY3BsSllCRm9fcFRuVWN4M01Pcmt6anR0OFVGNjB2ZnBKQTFlN3dFRzJpaGlvNkgzdmN4RmxfVFhyQ2FaVWxqXzctX242U0RSeDg5Vnc2ZHJaY0wtSzhlcWlGRVFIUWl4bHhHb04xSzdDQ20yQTFpcFkzQVVkVVZqajIyRkxFem8xVjNmUktXQW5YVGFIUTY1WUdvRkhJT3BjUzY4XzhGUEowX3NQZjFlMzNBLVJnSGU3RlhtcmlOQTJCQW11Nm11TXFpWno3T0F2ZDVUNDEza2NaaTNLdWVGbGFFVjlWanc2OXREd1BzVlJCOTBNaHdVMnY3WjZyNkZtTlEtbkJONkI2TU5lUjhj?oc=5",
-        "date": "2026-06-02T19:05:49+00:00",
+        "title": "Microsoft destaca los avances en velocidad y fiabilidad del procesador cuántico Majorana 2",
+        "description": "Microsoft destaca los avances en velocidad y fiabilidad del procesador cuántico Majorana 2 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVEJ1Snh3NmxsRDA3aTBQVHdValFiaS1ueEtiNEtwMVpSaDJxbTFZWWlod0JkcWZVdzJiTGVxS21qSnk0ZXZEbnlvdm41UVEzcnVVOXczRTY3azg3MWdnbWd1N2pSV2tDWHdONHdxeVNxdjhOQkFodkZNX180Q2wwQk95LU9QX1FieGx3VnBVRHUxRk9iTHJwZmVKVUgzRFpLU0ZZV1lYNjZjYi1NMTIyV3N5X0VQaXJlcTlZTndDd0Jvc3FRNzVxdEFtMTBOVGtSb2stUUZvbzlhT1HSAfYBQVVfeXFMT3JHeE9ibGRjTjJMcXl1SEcySE1pRjViNXZoMzhYbWtSUlFXN21Nek9MSXZYSUcxdG9nb053M2ZfZ3JEa1FwYUNEN3piME1MRGczM2VnNVFoeFlEeFBxajVRNDlzRUlSNnpRdjZmRHBxWU1uejRpVnEtb1N1OEtDY1dVVXFzNmtWa1RoSDNFVmF5eTVBZUhoZHlPSWt2eW1FdXBTdlQzZDRkQXRtaVBBNFN2VXVMeUhNUHptSnpldXV4NFBnYmt6RDRHY3hUekd2V3d1dXJXZ21NMjVnWGJxVm1xNmlhR3ZfQXJEZ3lwVUJDSFlTVFNR?oc=5",
+        "date": "2026-06-02T20:10:30+00:00",
         "source": "Infobae"
       },
       {
@@ -31,41 +38,34 @@
         "source": "Investing.com España"
       },
       {
-        "title": "NVIDIA y Microsoft se unen para crear la PC del futuro: el superchip que lleva la IA personal a Windows",
-        "description": "NVIDIA y Microsoft se unen para crear la PC del futuro: el superchip que lleva la IA personal a Windows Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTAwcWh6a3JTbFZRdmtpWXlGakt5bW5ONnhjOWFPQll5dzdYTm1ZVGlvT0h2U3hqdGxkamRvOEUwUExqZmZka3Z5S3l2emd0TTVTVmU0S2ZVT2FiQ0oyZmxUNXRKUmxGMmRzTVlaVmpEN2lmY1pCQllwdmFVZTNnUXlNYkt5bW5ROXJhRmIxVWNtbWhLS3ZSR1BDM0s2WDlwcmtqUENqZGxZYnFzalJPRUNjQnFwWFNGY2tCMVNTMHdORVdtdzdlU1hSRUtqODFvY09wTDlaZi05ZXg50gH3AUFVX3lxTE1jOURicU8wTmQ2WkZDNkl1eGU2bHlpTG9hRUp4V2k3MTFpa3JXN09PSGh3b09Jci1kekRXSXYzUUtTcXZWS2RDa19zYVdzWThPdnRhcng4a2poOGRfXzBTQjFPcmJ2Rkxia3dsM24xQkhOaVdKVlVCYnJ4SlNicW1RVHpiVnY1ZW9sMW96enFWOEo4MUc2cllYSW9pcU5uSXRqRTBkNmtGbnBKNng0RGVleExaaG9IZHZpQzFIVEZOUEZMeVh1VXdVbncyVU84SWh4VDYyaTJUWjFnODZPVGFYSm8tcWFJSkJaOVhobEFaQVZYYVlpUnM?oc=5",
-        "date": "2026-06-02T18:52:17+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Los códigos de texto de Microsoft van a desaparecer",
-        "description": "Los códigos de texto de Microsoft van a desaparecer Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlVNdjk1Qld0MmJYbmdmbkdrOTU4SHcxUEQ0cktad1Rtb3RVblBnNDV1dHczS0NPTzR3OU0ycWZlMjVacnJzSW1RNmZXME84UWpLak9EaXQtejNTT1VuOGN3SWt3YlhMSFRRRmVTM2M0T05RRlZsLVhrdXROTFJaRDJNV3Q5NEppN1pHZDdfX0h0Q0UtQUY1Q29wU2RYdw?oc=5",
-        "date": "2026-06-01T12:14:17+00:00",
-        "source": "Yahoo Finanzas"
-      },
-      {
         "title": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA",
         "description": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA Xataka",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUF9NWkFHUk8zTXk1WWFCRk44LXBNZmx5U2R5Zm1EZENTb29mVE5halpfS3lCYndtZkVlU0RsWTRkSkZ0bHFQRlNOS2F2QTVmOHQ0MTFrM2tvaDdSR2lFTy1wMjNrc19ZNlVMRkRaSWRMMU1qN0w2Q3hOR0s2MmtqTi0wQURpWlZ0bllEb2xBbTU0QXFGcXFpTWhxNVhfa3EwNW9GdV9LdXcyN1pHb0VUTkpVaWVNT1ppNnBxb3M2ZVfSAcYBQVVfeXFMTWFzWng3c19kZ0hpWS11OUNkU0pVeHAxRk9Yc0w0YUJKVHVWcXo0NEVucVpVQllsZFVVMUpxZzNOV3NfYmVRNjA3dFBncmtZdTNadzJUY2pzVlpBdlVBczBRRmFXZkxoaldrRzNKbkdVeGZla2xNZ0dFdUk3b1AtTXR5MVhwRTZ0Z3g2Ujg0Wm82VENxdmxYLWlOOXljbHhCT09MejhBVWFBZmY2NjdLOFpMUzRLZi1qUjRJS3VhZVdRRTBWdXJ3?oc=5",
         "date": "2026-06-01T18:00:29+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Ni Copilot llega a tanto. ASUS responde a Microsoft con una IA tan potente que la usarás mientras juegas",
+        "description": "Ni Copilot llega a tanto. ASUS responde a Microsoft con una IA tan potente que la usarás mientras juegas 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLVJvcWRqV19pc2lxenkxMVBWUjJYRlJSN2NIc2xIVjNEZWV6WVlVNERvMGdzb0JHNmhCNWxfMUh2RTM4M0sySENpNEdYcHJYbUluNmFJMmtYRk83MVY2Mk03cmtLNE0tbkd0dVd0NFFRcGRYRmdXWFJweDUtZlozQ3Z0b0dYeXhUaVZZSTN3MS1sWXhmUmJsVVduQTFXWmhjRjJEWjM4OElIWnlEZDFHSEJOZ9IBuAFBVV95cUxOOENkSWxRNTYtVTFEYm4zRVkxd01vQmRnSlFFWEZrUExVN2c4dFNZRkZOYmxDT0h6T3EwQ003QXlwVFBZNlJPNXRMWEJvWURNcVBiSTdIcHBOVGR4UWl2QmFsUUk3aVdUU3JWb01JM2JtSWZfRDNIN2xiMzFJSENuUWRVZ3hzbWZGUVk1cEN0QnBlMmhXbGU3V2R5c25FZk9IWmxlanlubVA5cjY2bHFGNXNXMUlsZFZ4?oc=5",
+        "date": "2026-06-02T01:31:40+00:00",
+        "source": "3DJuegos"
       }
     ],
     "Marketing": [
-      {
-        "title": "Gestoría Serrano inaugura su nueva sede y amplía su oferta educativa con cursos presenciales y más de 50 capacitaciones online",
-        "description": "Gestoría Serrano inaugura su nueva sede y amplía su oferta educativa con cursos presenciales y más de 50 capacitaciones online Nexos del Sur",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95clB2eWNPLTRHSFBqaWtuLW5SemdxZW5jamN0TGo2cVYtZDk0c0RpdUo3UlhabVpyNmIwZGhLV2NvRHNUbFllLTlJXzlkR05U?oc=5",
-        "date": "2026-06-02T19:49:25+00:00",
-        "source": "Nexos del Sur"
-      },
       {
         "title": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital",
         "description": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital Municipalidad de Necochea",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWNxMUxnd3owUzhDMVREbkhyMlYyUnBJSXEtVFdMVm9RQnFhZ1pqenpITXowNmhjd243ZEthVzJ2ZXJCLUVIR3ZydWxuVDhYOVI3NHNkOVBYU1Fxa0dmdE95TEdyWGhtRDBhVkk0Y2JMUTdQOUV4WDRYcHY1WU1IcWswQW4tNkVmTzF3amRoNU1RY2ZPVGZtR0VKUk91RkFUVnB0Sw?oc=5",
         "date": "2026-05-27T13:58:05+00:00",
         "source": "Municipalidad de Necochea"
+      },
+      {
+        "title": "Gestoría Serrano inaugura su nueva sede y amplía su oferta educativa con cursos presenciales y más de 50 capacitaciones online",
+        "description": "Gestoría Serrano inaugura su nueva sede y amplía su oferta educativa con cursos presenciales y más de 50 capacitaciones online Nexos del Sur",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95clB2eWNPLTRHSFBqaWtuLW5SemdxZW5jamN0TGo2cVYtZDk0c0RpdUo3UlhabVpyNmIwZGhLV2NvRHNUbFllLTlJXzlkR05U?oc=5",
+        "date": "2026-06-02T19:49:25+00:00",
+        "source": "Nexos del Sur"
       },
       {
         "title": "Atención emprendedores: brindarán un curso gratuito de marketing digital este lunes",
@@ -75,18 +75,18 @@
         "source": "Diario El Cordillerano"
       },
       {
-        "title": "Inscriben para capacitación gratuita del sector turístico",
-        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
-        "date": "2026-05-28T00:21:52+00:00",
-        "source": "Neuquen Informa"
-      },
-      {
         "title": "El impacto del entretenimiento digital en la economía latinoamericana",
         "description": "El impacto del entretenimiento digital en la economía latinoamericana Zona Norte Hoy",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGw0QlpNUWZ4alR4bkNuT0xmRTU1bUpuNk5kRjNueGw4YkZPMGxOZ3VnWFdMQ1hnUUh2V2FGeVM0a0JLb1lPYjg5U0dhbU1SODBQZkx4UFhJc21CbjF3clZmNGZwdnhnWEZBSkNKRFZyMHZCSFlMcFBnWDRGZi1INmxqdHozakxRRHRkRDVTdnYwQ1dIeHpVMzNKTlNzUU5Fb3VPRDhmb2RvNHpq0gGsAUFVX3lxTFBUbDRCWk1RZnhqVHhuQ25PTGZFNTVtSm42TmRGM254bDhiRk8wbE5ndWdYV0xDWGdRSHZXYUZ5UzRrQktvWU9iODlTR2FtTVI4MFBmTHhQWElzbUJuMXdyVmY0ZnB2eGdYRkFKQ0pEVnIwdkJIWUxwUGdYNEZmLUg2bGp0ejNqTFFEdGRENVN2djBDV0h4elUzM0pOU3NRTkVvdU9EOGZvZG80emo?oc=5",
         "date": "2026-06-02T12:18:35+00:00",
         "source": "Zona Norte Hoy"
+      },
+      {
+        "title": "Inscriben para capacitación gratuita del sector turístico",
+        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
+        "date": "2026-05-28T00:21:52+00:00",
+        "source": "Neuquen Informa"
       },
       {
         "title": "¿Qué es el UGC y por qué está revolucionando el marketing digital?",
@@ -104,13 +104,6 @@
       }
     ],
     "IA": [
-      {
-        "title": "La nueva estrategia de Globant: agentes de Inteligencia Artificial con supervisión de humana",
-        "description": "La nueva estrategia de Globant: agentes de Inteligencia Artificial con supervisión de humana Clarín",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQzNhajZBQmhlTW8zQkJvQ0JmZmdnNnV1TEtrUzhDZXJHTGdONVRHZDdxdktiS1BUY3JJWnZfMVJqNG9MWXFyc0tFa2NpVEZUZVFWMllxdjlobVl1a2dIWXdQQW1ha3VBTlpnVlRpQ1ZQOHhCNGZfTnpEWWl0ZE5fZDdvMTZuQjRaLWlXLUF2X210LXl0dXNFeTdkcFg0WXdFQ1Z5NncyUTl1ZHpqQlMwcWY3NHEwNTFTTnhMVy1PLUEweVk?oc=5",
-        "date": "2026-05-30T12:24:11+00:00",
-        "source": "Clarín"
-      },
       {
         "title": "El Papa, la inteligencia artificial y el pecado de no señalar con el dedo",
         "description": "El Papa, la inteligencia artificial y el pecado de no señalar con el dedo Enrique Dans",
@@ -133,6 +126,13 @@
         "source": "Catholic-Link"
       },
       {
+        "title": "Los lentes inteligentes ya hacen de todo: cuáles son y cuánto cuestan los cinco mejores modelos del mercado",
+        "description": "Los lentes inteligentes ya hacen de todo: cuáles son y cuánto cuestan los cinco mejores modelos del mercado Clarín",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXZYN2RDSjV4UUt0RlVkQnVoMVdNMC1Pc0dVanZSZHNYRzJZdW1ENnRHVGdXSEI0WTNhdGVYblJWT3NrbG05WEVSZ2hDR3dCcGNyQmZyQktiQ0h3NWVFWTRxbUFWU0tENDR0UUZhVElTcVhpOExCZndWV3ljZEszS0d3Z282OFBVQV9xNGY1dExHaWFhdW05YXZCRUk2SWFjcVo1MEF6dDZoMzRZU0HSAbMBQVVfeXFMUG15UGdZd2JiZ29hVzJDeGU2NXQyLWF5c3ZaT3E2RURFa1NaeTNmaENEWXhDUHZGVENqWkM3UTVrX1M2cVJNSEZJd2xlaVFMa3QteEFNZ2kwOXBlU0M4VGs5eUp4MHN3SlB6ZmlsdWMyQVk2NW5kWlZxd3ZydkFWSkFIWHMyM0xDUHF2VkRGcEJBdGlKc0VkUTF5RzlEbVpjdkxwRU9aaVZxc2lWaUlFZjBPczg?oc=5",
+        "date": "2026-06-02T08:46:42+00:00",
+        "source": "Clarín"
+      },
+      {
         "title": "De Berazategui a Nueva York: una argentina ganó un premio mundial de Google con una IA para estudiantes con TDAH",
         "description": "De Berazategui a Nueva York: una argentina ganó un premio mundial de Google con una IA para estudiantes con TDAH Página|12",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaGFjRjF2UWF6Snk2NUtWeE1JRTBTY3ZIT2pZcHJVc3hGSE9Nbm42aXljcXlqZkNWdnE0cnhKZmkxbWdYQ1lnZk1EX0xHN3NGeHlIUVhfQ291NTZoZDl5Z0Z3OWNTeWMyUnZ2YzVGYmF3MUlSd09GN2hGbUJlLTRBb3NCcHlZZ0ItdkYxVzJ0RHhndGppb1ZGTTc5THFTeTNYX1J2c050dHh6dE1na2RoeWhpOE5GTTBLVHdHMTZ4aDVESTc3c3AyYUJxbzZZMkRIMjRwdnF3QmJrbml6S3BMekhXd09IQQ?oc=5",
@@ -140,48 +140,48 @@
         "source": "Página|12"
       },
       {
-        "title": "Capacitarán a 1.600 docentes en inteligencia artificial",
-        "description": "Capacitarán a 1.600 docentes en inteligencia artificial Argentina.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFZ0RWZqZk95N2RBcXNtV1ZVaXg0T01QS3g5dThQRl9SNW1weVE0ZXRQWnRXUnRoN3k1dXNaWmpQUlBYUVZRbUtCYjNGN1ZCQ3dHV19Zd2Z0dWl3TEROcG85bVVCMmRvdlA4TUpHaEtRQXFrbzNybkFNdGNwb2V6VXFDbG96RkQ0Q3BpTGFwN3YtTVVh?oc=5",
-        "date": "2026-06-02T18:49:59+00:00",
-        "source": "Argentina.gob.ar"
-      },
-      {
         "title": "Google anunció que entregará 10 mil becas en Argentina para capacitaciones en inteligencia artificial",
         "description": "Google anunció que entregará 10 mil becas en Argentina para capacitaciones en inteligencia artificial Rosario3",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS0ZENnJuT000SVVqc2RrejZmaTFkaTRIdV9QYnR1czhKTk1GckFVenJYLWRkV3BSMlhFVjlCZmNBalhpYWdBZld4Y0pPdVo5aFlZazNMdkxhWDc2TVJEcVhsMF91RXZwRW5PVHlrSWNLY2tzLTF6SzJIQ2Q4aTBOZjdHZkFpYW1VNU9zNWhVVlI4R1ZGcWt2YmxwN2FFaG94SDBBbklVWGdpQ2hRaUt6TjgtMF9WeGxyMEVjWXpER2xaXy1qZmtnRi1NMG82R0ZfcUFGZTdzX21VWFV4VVpIa1lPMFN3eHF4Wk9CedIB7AFBVV95cUxPS0ZENnJuT000SVVqc2RrejZmaTFkaTRIdV9QYnR1czhKTk1GckFVenJYLWRkV3BSMlhFVjlCZmNBalhpYWdBZld4Y0pPdVo5aFlZazNMdkxhWDc2TVJEcVhsMF91RXZwRW5PVHlrSWNLY2tzLTF6SzJIQ2Q4aTBOZjdHZkFpYW1VNU9zNWhVVlI4R1ZGcWt2YmxwN2FFaG94SDBBbklVWGdpQ2hRaUt6TjgtMF9WeGxyMEVjWXpER2xaXy1qZmtnRi1NMG82R0ZfcUFGZTdzX21VWFV4VVpIa1lPMFN3eHF4Wk9CeQ?oc=5",
         "date": "2026-06-02T21:59:00+00:00",
         "source": "Rosario3"
+      },
+      {
+        "title": "Capacitarán a 1.600 docentes en inteligencia artificial",
+        "description": "Capacitarán a 1.600 docentes en inteligencia artificial Argentina.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFZ0RWZqZk95N2RBcXNtV1ZVaXg0T01QS3g5dThQRl9SNW1weVE0ZXRQWnRXUnRoN3k1dXNaWmpQUlBYUVZRbUtCYjNGN1ZCQ3dHV19Zd2Z0dWl3TEROcG85bVVCMmRvdlA4TUpHaEtRQXFrbzNybkFNdGNwb2V6VXFDbG96RkQ0Q3BpTGFwN3YtTVVh?oc=5",
+        "date": "2026-06-02T18:49:59+00:00",
+        "source": "Argentina.gob.ar"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Vaca Muerta: Chevron presentó un proyecto al RIGI por US$13.800 millones para desarrollar El Trapial",
-        "description": "Vaca Muerta: Chevron presentó un proyecto al RIGI por US$13.800 millones para desarrollar El Trapial econojournal.com.ar Chevron presentó un megaproyecto bajo el RIGI para invertir USD 13.800 millones en Vaca Muerta Infobae Fuerte apuesta de Chevron Página|12",
+        "description": "Vaca Muerta: Chevron presentó un proyecto al RIGI por US$13.800 millones para desarrollar El Trapial econojournal.com.ar Chevron presentó un megaproyecto bajo el RIGI para invertir USD 13.800 millones en Vaca Muerta Infobae La petrolera que apostó a Vaca Muerta antes que nadie…",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnBFZmpzVm4ybzNiTmFOVXZTbjZIa09JU3JCT3F3OW04WEprUTlRSENPZW84TmNESzJFRElWcFBfUnlwOGZQaERmdFNvQy1TdG1ycGFPV1djY1d5SEV3aG5hNUlFd0d1dDQxVTd5SUxwWm5LUUpMWWt3WTJZR1Z6U1FfeW56YXhUMWJiRGJrZnUyYUFJWWptalRtMXdpS2NPYl9sbzhtNl9pUmxlV1RPVUhsd0QxcWpnS3UxREZKSW5IVWk1cTJYOGVPZGRKVmc4?oc=5",
         "date": "2026-06-02T14:44:46+00:00",
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Añelo abre un debate por su autonomía en el corazón de Vaca Muerta, mientras presiona por más recursos",
-        "description": "Añelo abre un debate por su autonomía en el corazón de Vaca Muerta, mientras presiona por más recursos econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM2VDZUJseUl2SzhqbVJzNTBrUkpOQzJYLV9DSl9MUXJwbDVEeGpha0JIMklZcUtueVotY2lqdkdfRHdLMUZaSDZ5aXFTX0s2QlhTNU40OUJTY1hmVktjUm1KNmd1TERfMUdYSEE0aEZCTUlZZ2FUQjFEM3hpQjMyTlhDWnI5Si1mMlQzS29FXy1fM0hmbmJfUm9FQmxmV29uQXc3YmpPSzZoTGRrTmtiTU5welFiN2hneEd2NnVndTVVS2FETWVUektKd1RlQld0V3N4Wg?oc=5",
-        "date": "2026-06-02T22:18:46+00:00",
+        "title": "Vaca Muerta y litio, los dos gigantes que buscan personal y ofrecen sueldos de hasta 17 millones",
+        "description": "Vaca Muerta y litio, los dos gigantes que buscan personal y ofrecen sueldos de hasta 17 millones LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONVEwOUxOdTkwRGttTWJLTkRCbzZic2ZFMVJZUEFKY0hmdGNGRVFxdGI2RTRXZHBwTG50WEJJX18wSVpFaGhfc05LNU1RbUhCSEJtS1laejZzMy1MY01LRjdqWTJDLXg3ZlJHdXJBNU5oczNVcXNyanZIWkVuY3pGQUNSbjVaZVZRQzJtOU9rSzJfMXhXVmRrSjJsTE1jMi1keDVtcTYyVkx6UmdzT2tGQVFTNVBBaXNXWVZoY1c2d0l0R2tCZERWQndYYWI3aEnSAdQBQVVfeXFMTjhBRWdmRXBKUkFEQTdTa2ROV1EtVVM0QzBmX3BzTDhqMTZNbV9fT2tOUEVFb05zNHhBeG85YzRydDZPZmRTQUhvZU8wYk14SGxhMTcxd3JfYVUzTnlKaTB0cHJmSUQzejlWV1dFNVVTcXJEZzZMb0xsMFZHcGZndGpJZkUzUE5rRkpJeXpKTndsUm1Td1Fzc1VoTmtUcGdVVzFfd0dfenhvN3ByZlRCYnNsUWVZN0RmSzRrYlNMdFoxZG43X0Y4dV9Jdm55dFBhdVZKQWs?oc=5",
+        "date": "2026-06-02T12:30:00+00:00",
+        "source": "LM Neuquén"
+      },
+      {
+        "title": "La seguridad energética, el aliado del desarrollo del GNL de Vaca Muerta y América Latina",
+        "description": "La seguridad energética, el aliado del desarrollo del GNL de Vaca Muerta y América Latina Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWVaWFRNb2NJQUJ5bTNVWDFERnRCNTdEaVBKVk14bHhBaC04RnV6SFRMOFdhOFBLWnhLakQwMW1keWc5ejJVd2FEUWNvSkJPQXprc1ZsS2JmNlViWXFhM0N1Vlg0em1tWW1WQjZFSE1hMHBBM1V1ZWVKZzVhNTdZQXNzbC0yVGR6ZWpLTHJVa1Uxb1hrRDNjdV9XU2ZBUU9nVkhpLTRqaUlyd09Fd3ZKLWlnMFVsN0tqMjNrS2lzcE04NEnSAcsBQVVfeXFMTV9xMWphTGVPVVZ0ODJRdXowTmE4cjJ0V0xkamY3SUM1YUs5YU04WDR4OERVOVF4dHpWUTBCTDV6cmpBYjdMX0Vma2tadF9iWF9Zd2hudzV6VWZVWVAwTTZfRTFsRkZuR2xMNUNfeHktUGhOYk1wS19QVC1DX0pRNUVXMVVzVDItaXRfRG9Ed1lxV1luWUZzNEdBZG1iS0l2bml1UENqMFNMZVc0R0tPUkdIdmlEckFSaVUzVTBxOWcwUnJRVFlNbU85MTg?oc=5",
+        "date": "2026-06-02T10:00:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Horacio Marín: \"Vaca Muerta no es para una sola compañía, necesita de otras empresas extranjeras\"",
+        "description": "Horacio Marín: \"Vaca Muerta no es para una sola compañía, necesita de otras empresas extranjeras\" econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzJ1WW9uRVpSdmE5Z0RLWW9FaV9ZQ2p6NXVQM1N0NHZmenM3SVgtZ09POVFscmU4a1RHazh0SEtKY09tbk90QXQyalVRaURNZEt4OWZHYW9MQU55VGVDN0ppMkFNdU5nY2dYaHI2NDVUQ3JYNnZTSXBmRUNuZEs4T3JsdTJ6QTV6NDBsbmc5S0NhRHBpLWMzeWk3SjdyVUswY3ZwcjNDdE4wYkFsaHppdGtkNDFQZGZaSzVmT1B0a0h6bThla24wME9B?oc=5",
+        "date": "2026-06-02T12:30:00+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "De fabricar para el campo a anticiparse a Vaca Muerta: la historia de Arsemet",
-        "description": "De fabricar para el campo a anticiparse a Vaca Muerta: la historia de Arsemet Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1htWWZYeHF6UldvY3ZRUTFHNkx3T3FnMEV1dXFOMGlhTjRoMGZ3a1RWekNUbGFROEVyb0NVVThUVGVwaEZxNktzeV8tazZMdFk2SVRLcllsM0E4RzhHOHA1U0djNVlCZzMtV1dtOGZtem1MTlVMdUJBVmFWTm1KZ2FJUG54S0MwRGdtZ00tZmdCNUhySUZzUXY1anFoelRXZTU5dnR0aFYySUtidlZBUnJLTVFuTjRHRWs4U2xHNU9FMm5TUzY4QU1ObnMybDhzWWc?oc=5",
-        "date": "2026-06-02T18:11:51+00:00",
-        "source": "Cadena 3 Argentina"
-      },
-      {
-        "title": "El boom exportador que impulsan la energía y la minería: Vaca Muerta, litio y oro detrás de un cambio estructural en la economía",
-        "description": "El boom exportador que impulsan la energía y la minería: Vaca Muerta, litio y oro detrás de un cambio estructural en la economía Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQk9SUE5JQWoySGc0R3VFTzhud1JadjJnbmQwdHVpX0FtWkpWU2JMZU82N2ItdHpzNk10dXJZM19YLVRrQVBvQVN2anlpWER3ek9acFlKcDNNZE53NXpjRGpqZG5ZQktCLTZmSkt6RUlFemhMSlR2S1FIcjNnUnVjWVgwRnp2aHB6dU9PLWRpanJ1aDBOY1JneW1Na0RCXzBDMFFIcGsyd2g1VGFWRFZNaUFFSGFuNzNyaGswdHVRRWFMYU9GaExtRkk2SElaaXBOYmRrMWFpWS1iT19SUllXREpUZkNzUWs?oc=5",
-        "date": "2026-06-01T17:40:00+00:00",
-        "source": "Ambito"
       },
       {
         "title": "YPF suma cinco nuevas áreas y acelera la carrera para convertir el gas de Vaca Muerta en GNL",
@@ -191,18 +191,18 @@
         "source": "Diario El Día de La Plata"
       },
       {
-        "title": "Con Vaca Muerta como faro, Figueroa sale a vender el modelo neuquino por España",
-        "description": "Con Vaca Muerta como faro, Figueroa sale a vender el modelo neuquino por España Letra P",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaUVJbWRKbGUwSW9QOHlvSno5VVVZdFFBaEkwdUVxckFMVl9hUFY1Mll6SjlxSlAyQXpNQndxaU1zS0dUUnF5c0doRGJ6UEpfVU1SMi1tQzVhRXVJVUgySHZMSk9XemxjNWt6Wm92RGtuOWQ3eXdvc21yRDlfQUp2bEdqQzZjQVA0bXV3cUV6aEV6VHFyaTA0UGFfUUZqNWtoaXJubkhGWFN0YVFqcDJWLV9SOXJTZVHSAbwBQVVfeXFMTVZVckUyeTVaQjVLY3JqUHI1RHFFRkRkSjRGUTdUZjFxaXNjZThUcmd4cmZWNHdLREZ0eXJsRzZTZktNY0xqZ3EyS2NVLUZiMXUtTUdXeXRyZ3R6X3pUUDBjZ2xCLThBSE5tMi1PbHVBOWhBQk96U1hVa05aa3Y4T3BGU0VUaVFmd3VIakY4dkpaODI3UmVDSndxbUNuaUM5NGlNdWx3ajVzWDFyRUJpZW9kMnd4MWRjZG1aT0U?oc=5",
-        "date": "2026-06-02T18:02:00+00:00",
-        "source": "Letra P"
+        "title": "La oportunidad histórica que brinda Vaca Muerta ¿Cuáles son los tres escenarios de las exportaciones para 2035?",
+        "description": "La oportunidad histórica que brinda Vaca Muerta ¿Cuáles son los tres escenarios de las exportaciones para 2035? Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZXN5RXJOMnJUSnZlRHlMdVpxMTR5SFRGSjU1eDBDdEd0MXlYaDAtVmxEVVRSUC1xTzBHcldCTExqN29zMzItb1JJZmhlY0M0czI2TnduRDRCeTlSTXZfVkZEU3JLWHdLbUp2MkV2MjFKanlSQ3NYdXgtSzRHVVk4VVVWSWJIN0p5T2FRRHliUlVxaFhfUnYtUUx0TTRHU1hwRjdMU3ZmdTloQlplQV9sNFNxMWw5SmdXakVQTHJIYkNGNlA3aW5qVXp3WjVEWG8wR2hWbGRodHdpOHQ1ME5LY01YVDEyVmtWRVHSAfIBQVVfeXFMTlNYV2pPNThWbXVrQVJjUUw5WEVVQnFEYnN2QldvNzFJbzhicmpINXpnaHJOSTlYRFRmdWlGV0d5M1BQUUJIT3pZOWtiLWpIMm9wWWRJSDJZOUhEcHl1UmpGOEtGSmp0RThTNzRwMUJ4dnFDbzNfem9tM2QzZm1fQ0lHbEM5LUszVGV5X3I3Z1JDcm0zQTBhRU5mMmgyT2ZrVFdYUUYwZ09lb2syYmVvWHZ6Mm1JSHhMeE1VSHRvdUZyQXREVmQwcXJpeURWRXF1RDIwSVRaaXhwUzdIZWN6Vm9DN0FFREZndFdJWnltVVgzSmc?oc=5",
+        "date": "2026-06-02T17:07:31+00:00",
+        "source": "Diario Río Negro"
       },
       {
-        "title": "Se completa el rompecabezas de Vaca Muerta: Neuquén hizo oficial la licitación de 15 nuevas áreas",
-        "description": "Se completa el rompecabezas de Vaca Muerta: Neuquén hizo oficial la licitación de 15 nuevas áreas Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM0FXdERwS1BabU9KaDNFeG1KSEZIWlNHZGxZZmR5aURQWURwUGloZjlaaUw3WXEwQTIwSTdrekJLZGVDcTJUNkR1OTdza2hUS1JPZkVsRmF4UmxYVjBabENkaFg1MjhwaWdZWGdGdVBTMTBUR2QyYUR3aXh3ZmRRaTVvbTBidnFWYzNGaFoyNjY1Y0JyTGJxWW0zZ2o3cE9mejBndUxkTWpaV0NuWFlPOWdZcXpJUmVoWk9fbXBoeUItcXc3RXBtRTJpVEVGYm1RLXdxZEc2NzfSAeABQVVfeXFMT1lfbmluaUozWHoxQ2V6cF9VSE9ZWlp2Y3Q5cG1Vcng5eWJ3em5CZ0JWQW1KS25Jang2QWk3d0RXTUMyMWl2WHVwSEM2dHhwZ3YxbG5GMGJ6X09hTTBfVG1jUS0xV3ZhSlpJMUx0Y3Y3ckZvaVQtNWtqUi04eVdiYVl4Ul8tUEJNaEtLdVpYMTZSRWVnN041MWRaajJSX0s3ZTRHOXJPY080UnFOMFdGdmFRRnpDM09DSl8tdDhoMEd4Rm5tWU5xYmlQbFNTdkNLbjJnYkRWZ1FYNlRjSzJLSDI?oc=5",
-        "date": "2026-05-31T21:16:30+00:00",
-        "source": "Diario Río Negro"
+        "title": "De fabricar para el campo a anticiparse a Vaca Muerta: la historia de Arsemet",
+        "description": "De fabricar para el campo a anticiparse a Vaca Muerta: la historia de Arsemet Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd1htWWZYeHF6UldvY3ZRUTFHNkx3T3FnMEV1dXFOMGlhTjRoMGZ3a1RWekNUbGFROEVyb0NVVThUVGVwaEZxNktzeV8tazZMdFk2SVRLcllsM0E4RzhHOHA1U0djNVlCZzMtV1dtOGZtem1MTlVMdUJBVmFWTm1KZ2FJUG54S0MwRGdtZ00tZmdCNUhySUZzUXY1anFoelRXZTU5dnR0aFYySUtidlZBUnJLTVFuTjRHRWs4U2xHNU9FMm5TUzY4QU1ObnMybDhzWWc?oc=5",
+        "date": "2026-06-02T18:11:51+00:00",
+        "source": "Cadena 3 Argentina"
       }
     ]
   }
