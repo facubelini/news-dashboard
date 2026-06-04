@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-06-04T11:48:01Z",
+  "updated_at": "2026-06-04T14:46:52Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "JMP Securities mantiene su calificación de Microsoft por el crecimiento de Azure",
-        "description": "JMP Securities mantiene su calificación de Microsoft por el crecimiento de Azure Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkh3RjF2VWZtMndNR1A0VEgxcDFxVl83amRfNWNqN29oZWJxcndBOC1iMFlwelpxRGdSR0tRZ3o0M2p1Sll3Z29JT3lMbDJtQjhyZ3B3M0pFSGpYdG0xWGV5U1RVZXprbkdhTFljLVYySzdlMlRNcDVXMFR5cTJkckt6S3NnWjVxWEUzRDlSM2JOaFFOaEJNb1BPUC04M2M5STdyZ1dZRWY3czRqYXJ6em1zZjg0a0lvQzI5bWNrTEkwcHg1dy1aNWVwcDJtbXVkbzMyMmpB?oc=5",
-        "date": "2026-06-04T10:17:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
-        "title": "Jefferies reitera su recomendación de compra en Microsoft por su fortaleza en IA",
-        "description": "Jefferies reitera su recomendación de compra en Microsoft por su fortaleza en IA Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaXlzRkZ5V2RJbURvVjlUdHEyUVZIZmh1R01ZdkVmZkVEMEthN05BQUFoTWpUWUR4YTltVUVpMW9RbnBjX1RNRUpLTkdqTjRTbmtkc3NUeENUaUNoQ18tRHdwdFpwV1JUMktleDhXaTd5aDA4andNd1k5ZU4tTklNQnFBbV9zRHRBQnRhVTltdDhNTnBJNVNjTDJERlo1QVFkSG9vbUtxUnFRWnRVZERkZExOLWlqMEtURmtqQWRJbGk2d0ZtVEgyMmU0dWZrcXlHU2lFTF9n?oc=5",
-        "date": "2026-06-04T09:25:00+00:00",
-        "source": "Investing.com España"
-      },
       {
         "title": "Bitcoin cae 4% por avance cuántico de Microsoft y temor al BTC",
         "description": "Bitcoin cae 4% por avance cuántico de Microsoft y temor al BTC Yahoo",
@@ -24,32 +10,46 @@
         "source": "Yahoo"
       },
       {
+        "title": "Microsoft creía necesitar décadas para tener un ordenador cuántico útil. Majorana 2 acaba de llevar ese plazo a 2029",
+        "description": "Microsoft creía necesitar décadas para tener un ordenador cuántico útil. Majorana 2 acaba de llevar ese plazo a 2029 Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa3R6T1pvaEFFNjFiRU1JUXkzdkZ6cGxFbXhyLW8wY3I3MjEtWDE1bk52emRUWU5yLV8zdEVNZVlveEh3dW9CV0ZUMS0tSkFHRmZOOUk1blFTdUszQ0xMd1JpeVpfOExFNkNXdVlkbHlWM3FBUmd0c01RdFhOcmF1OVAtOVk5N0hxa2k1cTBROUJicmtxTkl1UjdnZ0dGUlNiNk5TVkFmRzFoY0U1eFNGdVY3VUtEbnJ5UG1tM2pWcWNoOGJMaGZHRzg0S1VzU0FPdVc3dDk1SVRSa19pSV9z0gHkAUFVX3lxTE1mYnVDTHl5a0hiMTJXcUlhR1dSSkYtX3kwNmZOQlR6amszODlTZDVkdE1ONE5XcTQ4NS1HdzhfeUdyQlFUS1pwaDBqOVlXNGRSeEJKcl9DZ1k3ZnBfSGNOSlpvQUgzU2xkZHVvX0pQVzVmZVNEaTdQVUM1WXBiVm45bjZzcno2aUxld0JrSDQzbTBrdkN4WVZxZDdRWFU1a0NfNDBEN19lcUdMZExUT0gtRVBvT3lFMDB5UXlfMTNZcXhEOVhTY1AtZ04ydHpQUXhXeW04SlNLRC1xZGJ4SklLamVNdQ?oc=5",
+        "date": "2026-06-04T11:15:00+00:00",
+        "source": "Xataka"
+      },
+      {
         "title": "El nuevo chip cuántico de Microsoft adelanta la comercialización de los ordenadores cuánticos a 2029",
         "description": "El nuevo chip cuántico de Microsoft adelanta la comercialización de los ordenadores cuánticos a 2029 La Razón",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY3VJMFhxdk4zSG9BZDcxQzZSZDAyV1hpQkdJZ1hwR3BZOTdGeTBTTS1RdWZxdy1XYmRXSXJkQkhXaF9Kejh0TXR3VWxxUWRZME5XdFJ2QVR3LVB5cWJNZ2J5dHdLOTFkV2VQTFo4a1h6R3A2N1YtNXFOX0YtZ2FNc1NpZ3dhcEx2Q0FHc1NIUHZjYmJkMjN0TEM2YXFoem9TdjktanlzbUg0Z3Zrd0hqUDlQaUNQT0wyRlFHZzNpek1UcEE4aU92TWlWUjJFd2ozUTZMMGlJc21yVUV3YWVUQlBQRnB2U2I1clHSAf4BQVVfeXFMT05FdEZlYndKX0ZSalNoWkt2Ql9fcDVaNHVwM2RvSnRwWkozelI3MnVnc0Y1MVdfaE85UFFVazJTVGtuRUtScHg0emRMYXJYM0Qzbms4SldBQVozY1E4WW43dWprcHd2dTRGcDBIb01iNkRtMUtVQXNURWZ5aS14M1NRV2ZEeFpRdG91SGgyUjdYWS1qbEtQUklsbDJzVnlnSGNGVUxDem4tak1sRE5sb25LZDlydHZGNEZpM3MxS0laSWZTbFZFcWN3NC1MMlBtZjNUeHA5bTA0M1RjRWN1UUI5VTl6UFRfNVFEb25yNUZiNHBLXzZBNVQwMlRDOGc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY3VJMFhxdk4zSG9BZDcxQzZSZDAyV1hpQkdJZ1hwR3BZOTdGeTBTTS1RdWZxdy1XYmRXSXJkQkhXaF9Kejh0TXR3VWxxUWRZME5XdFJ2QVR3LVB5cWJNZ2J5dHdLOTFkV2VQTFo4a1h6R3A2N1YtNXFOX0YtZ2FNc1NpZ3dhcEx2Q0FHc1NIUHZjYmJkMjN0TEM2YXFoem9TdjktanlzbUg0Z3Zrd0hqUDlQaUNQT0wyRlFHZzNpek1UcEE4aU92TWlWUjJFd2ozUTZMMGlJc21yVUV3YWVUQlBQRnB2U2I1clE?oc=5",
         "date": "2026-06-03T11:45:16+00:00",
         "source": "La Razón"
       },
       {
-        "title": "Microsoft presenta su nuevo chip cuántico Majorana 2, con qubits 1.000 veces más fiables",
-        "description": "Microsoft presenta su nuevo chip cuántico Majorana 2, con qubits 1.000 veces más fiables La Vanguardia",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdDVpNUtwYVFBN2pYSF9GM045dVVYT0d0ekVXZXFmaXMyUWs1TjRzaEpRb19JM2xLWjk4bWZaYlhsM0dtWXZqdWlmT2lYU2xaNkkwY1Y0MzZxMThiQ1kxN3RHdFd1WmtKaE82WVVydVAzX0djcS1kSzY0Vm5WTmhuM0c3WkM5QUNIN2NXNXhPRlpwbVNHcTdxdXRlR3Zqb2YzMDlhU2JvVUFKckQzS1Y0LVctVm1majJMQWhCeGJOMzl5S2FoR29FVXM0b1lfTWprMk9Z0gHYAUFVX3lxTE9sczJ0T2pxWnIwVU43T0hmRThVWmoyLTZUS3dMZTdobEFTZlFwQTJiSFhWTkJadGVJQmdDWXVCWlBHT05SekxtWEdiZ0p0ZzAtMC15QjRIa0NJX09rUUhyN3htdDhOSWlieG45SHcwRDlKd01jR3gydmF4aUZfTG1acDgxZlFGQkZ6SC1DaUM2ZFBZTDF5VHdRSExxVlFHaWRxZ2RhS29tY19vVkhYZjBIZlRxcV8wbUlGZTNzSDZMclZCbzhQRnJhLWZFZkRFS0p3SFpsbmV4SA?oc=5",
-        "date": "2026-06-03T10:41:12+00:00",
-        "source": "La Vanguardia"
+        "title": "Microsoft presentó Scout, su primer agente de IA para Copilot",
+        "description": "Microsoft presentó Scout, su primer agente de IA para Copilot Ambito Copilot ya no es solo un chat: Microsoft estrena los “Autopilotos” para que la IA trabaje de forma autónoma Infobae Más allá de Windows: los nuevos dispositivos de Microsoft que funcionan con IA La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWE01NWdDMm90UFExZXE0bUh5ZHAxMUxrbTRLVGlNcjVBV0RSc1Y3Wm1tXy1KNWl2NUhKYU9lbTZESWhqd25Uc056MGVvQ2ZZT05la0x3bU5kOHlkajRnMmRUYXZiTkVnQ0VaMjM0aFhVbXRUWDlsRTFLTHBSMHBOTnBZanJsalRHRlBvR25zclNjdlI4Q1c2VFFQY9IBoAFBVV95cUxNYWdibVFFaXpUR2FkVE5sZ1RodWpqVmVnY0dBc1ZUckNKRmlRYnI4QWZ0aVVMT1F1U2JEOEtKNjRZZ2lDNW1iWWZBcjJHc0RyaTRHdVpTVUZYWlU1LWh6SkI4NzdjamJ1VWtUOVBQSXhxUXRKTzZMLUd2dmZuUEhVTXlHZEFFWFl6VHQtWGRKWGNkdjMyUjVRdEtYVlIweWs5?oc=5",
+        "date": "2026-06-03T13:40:00+00:00",
+        "source": "Ambito"
       },
       {
-        "title": "Proyecto Solara: todo sobre el agente de inteligencia artificial anunciado por Microsoft en Build 2026 - TN",
-        "description": "Proyecto Solara: todo sobre el agente de inteligencia artificial anunciado por Microsoft en Build 2026 TN Microsoft revela sus propios modelos de IA para independizarse de OpenAI Yahoo Finanzas Más allá de Windows: los nuevos dispositivos de Microsoft que funcionan con IA La…",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT0Qyc1JvSG5BLXp2bzliVkVHSGRCQWZKZVRCY1A3NWZGbXJmaFBFcnlFdGR2Vl85SzQ3bVJDd2pJM1l4VlNveXhtMGhXcXNia0V3QUt1UnZibTl0Z3pUWlZPX1NscEtxX3pwbGVHR2hoUVZpbnlwLTFwQU9hdTA3RDBld2FxcjBXdUVCSVVSeHFCSmJqeUN5T2xDZEF5VG9idkRPWWcta0w2RVRxWVc5V1picWV1RGt2SHdWZ0YxZDNaTlR1ZkZONXBXVk5xS0FNQ0FsZWM0WkVZTGphUlRMMmxFcjJON0HSAfsBQVVfeXFMTURxMWJlSVpTZWxDQWs1Q2I5SzdfSGdrR18waUFrRDc2UmhYajF2UjNvVXJFUFNvWDhMYk1xZ3E1MHdXem50Y2pqd1htdGF2WmhQdnhDX2hfTVROZkRWWmZ0Z25CX09KZF9nUkFXbndfUDRrb0xadWNTMndOS1MyVkxRTUxMczVjcC11UDJYZjhXb0hPSXQydHI4dGVHVEJaTHBucjZBZEZJcTdldU9nMTI5ejUtaUdwSXlweEs1T3JDZXVWSnc4YXI5MWFHa1lLYnpwMzBQWEFicjFvRTVaVkdEdmhaNDVhRzJVQWNaS201M3FMVjZuamh3Q2s?oc=5",
-        "date": "2026-06-03T12:36:15+00:00",
-        "source": "TN"
+        "title": "Microsoft pretende resolver el caos del menú contextual de Windows 11",
+        "description": "Microsoft pretende resolver el caos del menú contextual de Windows 11 MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZaTDd2Q3Y3NldxYUdOTmZ1RDJYdDdwbjROVHJxc1RDbHk0bEZVNGVWdmhKeUxVbVlJal9TQkFYMmYwX250MHZlY0JkWmE5VVdkN0w4bWtwUGdtS0o1c1lPN3RtWlpib2NmY2xNZ0NGZVFVNEZrbE00WGVKcnNUdFA2R3pxam93RERyb2lHNjExb1BzMGx4X20yRWJ1ZXd0cjFYSkd4WC1YdUpuSVE?oc=5",
+        "date": "2026-06-04T11:15:15+00:00",
+        "source": "MuyComputer"
       },
       {
-        "title": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA",
-        "description": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUF9NWkFHUk8zTXk1WWFCRk44LXBNZmx5U2R5Zm1EZENTb29mVE5halpfS3lCYndtZkVlU0RsWTRkSkZ0bHFQRlNOS2F2QTVmOHQ0MTFrM2tvaDdSR2lFTy1wMjNrc19ZNlVMRkRaSWRMMU1qN0w2Q3hOR0s2MmtqTi0wQURpWlZ0bllEb2xBbTU0QXFGcXFpTWhxNVhfa3EwNW9GdV9LdXcyN1pHb0VUTkpVaWVNT1ppNnBxb3M2ZVfSAcYBQVVfeXFMTWFzWng3c19kZ0hpWS11OUNkU0pVeHAxRk9Yc0w0YUJKVHVWcXo0NEVucVpVQllsZFVVMUpxZzNOV3NfYmVRNjA3dFBncmtZdTNadzJUY2pzVlpBdlVBczBRRmFXZkxoaldrRzNKbkdVeGZla2xNZ0dFdUk3b1AtTXR5MVhwRTZ0Z3g2Ujg0Wm82VENxdmxYLWlOOXljbHhCT09MejhBVWFBZmY2NjdLOFpMUzRLZi1qUjRJS3VhZVdRRTBWdXJ3?oc=5",
-        "date": "2026-06-01T18:00:29+00:00",
-        "source": "Xataka"
+        "title": "Portaltic.-Microsoft Edge sustituye la contraseña maestra de su gestor por la autenticación basada en el dispositivo",
+        "description": "Portaltic.-Microsoft Edge sustituye la contraseña maestra de su gestor por la autenticación basada en el dispositivo Notimérica",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObTBlbUFmY3JsTzk5cjAzQ3E3dkZybU1ydC1qRmhjZklNQ2VLMjhrelgyeTVFYTM4MThRYjdla0pla1lKNjVTSFI4amo0Q3Qwc212Z3c2SXdHbUVJbVJ2c1VPc2x0VHdJM2c0dXJWWW5BenJabWNwS19jTm9PVVJ5VG5wbkktXzBTZExvVzVuU1lzc1NqaUVpVDZ6OG9JLTVIOFNRMXZtcV9WMXVNVVdjU0ZfbFJodVJSc0Zwd0p6cVNTYzN5WnpKT1dVU0FNRDR6cUVSTFo2N0V6VzJBNkxfQmVqMVBqRS1SMDVoVWsyNTZwVU1DRmtVdzJHYw?oc=5",
+        "date": "2026-06-04T08:49:53+00:00",
+        "source": "Notimérica"
+      },
+      {
+        "title": "Nvidia, Microsoft y Google apuestan al mismo futuro: computadoras que reciben instrucciones en lenguaje natural y ejecutan tareas solas, sin que el usuario toque el teclado",
+        "description": "Nvidia, Microsoft y Google apuestan al mismo futuro: computadoras que reciben instrucciones en lenguaje natural y ejecutan tareas solas, sin que el usuario toque el teclado Gizmodo en Español",
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPUDltX3h1eThremQ2X1d2WnRNTlE4MnkxWWcyX3ByMTJESEk3d0RFRm03QzFmRXRqN1lraFdjUjY1cmVHbThOVkpka3pCU1VvWTRMYmh2d2xRcVZJdmRqaEs3RzBPYWVYcVRYS1l4UktSTDlFTGhQajRjaGdJZk9EQWNqQnNlWHlEcEs0bzNobXhqMDNnSWZVd0ktWjVYMWZtTUpsTnpocVkzenZ5azFEYXlEa0lDeHlPRjRSX2IwSUNFeVN1THF6cTZNemQ1a3VBU01fa3lPOU5vN3YzOS10WUV3ZzBxSWZ6V0N6S1c4MjVWM2VWYmM3ZWlZTTUtX2FPWUtEVUhQSUtFcGRPTFVmUlExbXhYeGVqRk9uTEdDOUNka0tFdFVjVTU1bw?oc=5",
+        "date": "2026-06-04T11:24:56+00:00",
+        "source": "Gizmodo en Español"
       }
     ],
     "Marketing": [
@@ -59,13 +59,6 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPekJpVW5NTmFlOVFVX3JNbG9YV0d5NWZwWV9KeDE5ZFJ5OEtQbHE5aUFKQW0zY2tfckt5Si1Sdk9XSTR5UDhjZnQ2U1V4dEl5bFFBS2JYaWExSWdTWEwxLUh3MVE4V0lKMlZVblhvcHJDZUlaVGxHS0puNkZFMlVyYV9NVWZlZFVUUUdXcHIyZ2tzVC1TcGY2SWVLSUVFX3F6RjZYMnlNeVV4LW91cHhqczZRQndkNTcwaG5xVUg1OXJKN3FtOHZleXln?oc=5",
         "date": "2026-06-04T03:05:30+00:00",
         "source": "puntoapunto.com.ar"
-      },
-      {
-        "title": "Marketing Digital y Ventas: la Cámara de Comercio lanza una nueva capacitación",
-        "description": "Marketing Digital y Ventas: la Cámara de Comercio lanza una nueva capacitación Chaco On Line",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb19lUUJVdnVOdnV3QmJoTEJXcnN0WXpLcl9IcTR2QlB3d3kwakdoOTNOQ1pOYS1nUGNCbElSV0ExeUt3OTNjc25FeXdzbVZyVWxJN0hnNXF5V3N5UUE0T2FwOElpV041Qms5ZUFTLWJKQmUybndDMVVPOWN2SWFEX2doV29lc0pzWnE5V0VnXzJxaEplRzhTYzhCQkdPWlZrOFYwSGZRRXlrTWI0bzVrZXdGeVLSAbQBQVVfeXFMTm9fZVFCVXZ1TnZ1d0JiaExCV3JzdFl6S3JfSHE0dkJQd3d5MGpHaDkzTkNaTmEtZ1BjQmxJUldBMXlLdzkzY3NuRXl3c21WclVsSTdIZzVxeVdzeVFBNE9hcDhJaVdONUJrOWVBUy1iSkJlMm53QzFVTzljdklhRF9naFdvZXNKc1pxOVdFZ18ycWhKZUc4U2M4QkJHT1pWazhWMEhmUUV5a01iNG81a2V3RnlS?oc=5",
-        "date": "2026-06-03T18:05:09+00:00",
-        "source": "Chaco On Line"
       },
       {
         "title": "Marketing Digital y Ventas: la Cámara de Comercio lanza una nueva capacitación",
@@ -89,78 +82,85 @@
         "source": "Municipalidad de Necochea"
       },
       {
-        "title": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado gigantesco”",
-        "description": "El avance de la comunicación y el marketing digital: “Una persona con una cámara te está moviendo un mercado gigantesco” Radio Hache",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeUZyeTNvUk50TzB5OU53em1CWkpaRExmTk5NektlQ3pnNVhVb2F1Y2hFWGdHbjBFeWdyUmZKUlRBWFNFNUV4dXE5bi1JWm1FSEN2MGw5REtJQTd2ZlRhYkVDMmtnLXNlS3VYbGtWUFU0T3dCQ2ZqeldOV3NLN1ZjbC05UjRwUzNZbm04dkhmeWhuYmJxbUo2dkN4WUtKRkNxV3Y0eTZuS1VOY3ZvTU1nai12UUdpeGdBTWgxRXRXcjE1ZkV5TGpUd3VQcTFnQTFaWDR0VUp3QnA0aVRDdjVFc1h3ZDA3YUMzNWdwYXF3?oc=5",
-        "date": "2026-06-03T09:37:51+00:00",
-        "source": "Radio Hache"
+        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
+        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
+        "date": "2026-02-13T23:09:21+00:00",
+        "source": "Universidad Nacional de Cuyo"
       },
       {
-        "title": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital",
-        "description": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital Comercio y Justicia",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT0JIN3MxRl84dktEMTNVWktqWU1lOENzUzBEdTJuSWZWZkZaMExPR2FoVVRMOTVYUEd5ckhYOE9PV2lKQklpV2E3VDhmSnlVLXI2MUh3WHVyN1dSZktwckNIbE1NSHhQeWl0Q0tWWWRnMnRMdWhqV1dkNEFUV0plaHd1cW1JX1lEb19scUVMSHZIcmZxQ3M1TGFaM0piU0pFSXRYdV9CUVg0dzkwWnFQa0FWWHJlTE1TbFhFdUNDbzc2Tmc3T1BVLUZEMXl4YTcwZ2pFQk9CUU55Und0SEJyWk9rZlVXbHkzZlkxTHpzUWhIWGVWUUE?oc=5",
-        "date": "2026-05-26T12:05:55+00:00",
-        "source": "Comercio y Justicia"
+        "title": "¿Sabes cómo está modificando la IA los departamentos de marketing y el perfil de los profesionales del sector?",
+        "description": "¿Sabes cómo está modificando la IA los departamentos de marketing y el perfil de los profesionales del sector? Marketing Directo",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEhQWmQtV1dlUzdSOVhKRTVMWHJGZlJnRTFqM0xLa2FMTUVXd0c0RjNFUFBfRS1zVWdnazlqNjBDeW5aN3BkcnZoZi1hc25PVTVLZkV2T0JYZ1pjdXV5Z0RsbEs3Qzl1TUllaHYxN1dnX3lER3NiSlJzN2haM3J6WE1pbm5rbURRU0dpUm52UkZhenRtVndVRDJDcXI5ak5oSklKczdZYnQxTTNDODlEbVpSWVZPbkhnUDBqTk5oUWV4bm93MWtKWjB0OU51d9IB0wFBVV95cUxQcVBXSjAtOWNmQ2xmM29wcEpvYzBRbER4NzNjMVBVZGVMdGhEOEZNZjgwMURic1JDeS15c0Q4WHVfVDVGQm5lMXdjU1dZVzROeFRJY0w3a0hWMVRnbmY4WS1tQXluS1I4SXdlMUFrQ3FUSTg3WE51V0RiZlRVSzI1akswaktEYnNrUFF0Z0MwS3gtd2gxV0xQX0NVNGxVeXFVQVFMMTFKOTRyMVIzTC1xRlpqMVk0em9nS2RuN01JcG1xUlNVNlhOdXQ3eDNnWTdjUGJJ?oc=5",
+        "date": "2026-06-04T11:15:08+00:00",
+        "source": "Marketing Directo"
+      },
+      {
+        "title": "Inscriben para capacitación gratuita del sector turístico",
+        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
+        "date": "2026-05-28T00:21:52+00:00",
+        "source": "Neuquen Informa"
       }
     ],
     "IA": [
       {
-        "title": "La ONU advierte que la inteligencia artificial consumirá en 2030 tanta agua como 1.300 millones de personas",
-        "description": "La ONU advierte que la inteligencia artificial consumirá en 2030 tanta agua como 1.300 millones de personas Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeVMwUGpBLUI1bmtFNUVubFNPVWFfam51dmxDaEtWTHVOOE5tSF9WNVVQbTRtV3lOY0N4Rlg3bTBzNXZkUzdmYV9sb3Nwb0J0ZDFCN2pTYUxTVDgzd0dGdjVWY0c4N09KWjBnaE8zRTE3TmlMWk9ZRGd1aXNXUm5naU01WFdYbDdMU1dOTUpjTnpjTWMzQXJQT1JVaXhQWWQ3dFJJWXRxYnN3bjdlMEFZZzJNUXItb01RczE0a2NyOUJKbEx5YXZxTVM1dkhUYjJELW5fNklpNlpYVWxhQWZCRXA3YjFYQndyb2wzV24xd9IB9AFBVV95cUxNOWFnY0RZdzVmcy1NTmlsRUhKUEpzdzI1VVk3eDlKX0FMOUlBdGVOeGtwV0hDTFBqeE11R0FEbU5HcDF3UnNGbGdJbUpfbHc1UVd2NmpQaG1wQS1HbXB5XzdRX19yelhVZTM2b2dNLWFCaFAxNEJpY3lDODFqZjk1Ym1sOXczdGt0V3lsc3dqbURPbFg4OVpDM1RSRmRVX0RuV29aRmNQWktMc1pGSkg2aUc5NXQxRHVqT2F2SVpvYWlrMDVzQl9mTFZqTkdPZ04zSEV4d05JTWIzMUhuUWRCaGF3UkhwQko2RC1hOXJwWDlyVS1G?oc=5",
-        "date": "2026-06-04T00:06:00+00:00",
-        "source": "Perfil"
+        "title": "El coste físico de la inteligencia artificial: agua, territorio y energía al límite",
+        "description": "El coste físico de la inteligencia artificial: agua, territorio y energía al límite Climática",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDczRmV1RrUnlQWUFlbVpudUs1UGdpS0N6V0dwY1U2Nm9kb0VUWXRYVDlVUzdXUl9WSTRXc0ZuMG1uQ1pLUk9BdE1lX3pUaEM2eEtoMjBCYlBsX2Rta0NWN1VnZ2NPNmdmRWRaTWlLMGd1NmUxMXNBUw?oc=5",
+        "date": "2026-06-03T14:19:33+00:00",
+        "source": "Climática"
       },
       {
-        "title": "La ONU pidió a las empresas de inteligencia artificial revelar su impacto ambiental ante el aumento del consumo energético",
-        "description": "La ONU pidió a las empresas de inteligencia artificial revelar su impacto ambiental ante el aumento del consumo energético Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb0RGUk9jakFYbVZGeDBQakdJb3RoWTRqcTBNemtPTW9oZHFxSW5XNldoZ3BvR3p4dVU1ZG9wMFZzelFhUkdTckRfdDB0eUZkbnNsVndGUGJCVHJaQkh4YklROW9XV1lUSXpkdXRPVC1jQ2YwcmtTdWxsblFsLWdVSVJfbG96ZjducnZCZlZBX1BOT1U0bnhpUGwtVmVrbEx6eWMzSTNSamJaN1IwOFp5UjNTb09XaXBOZXY5dGUyRkFUMFlaaWRFWERMbGVrNmZ2M1Y1RWZZZHlfZ1lfQTh2aE1HVDByYW5Jek9iQW8zXzVabnpXTzFidEpRTVdGeHFweVHSAZwCQVVfeXFMTnRGRTBWb216MkFOTld5Z21WdTlHVmVmNGZzTkpWR0plLVpyY0xRc05UQmJOY2xEbE1QV29ILTZzOXF2QWM1ZXV5YnA5ZkZDaE85VVZHUFB5UHlUN0pjZ2kxOUJ3ZnVlVDNJS2QtNWxiUDU2clliRERPTk9OTHkzeWJxSk1WNU1od1JpMk1YbjZuSnY3UEJjbk85RkhMM3VPZkNDZEtNbUozOFZUQVE5aC1vbzUwQ3A3RU1NNzhrX3ByX2dlX2xNV0xRVVdjdHdsM01EVUY2Zm9oNlJPTFdVS3hfbENLNVB5dXNEWnNsNVNSbnhBVkRiQWFRMzZtc3ZPZ1AxWXhaRmlLUmNZX3d5cDA3bGZYaVhuVF91OG4?oc=5",
-        "date": "2026-06-04T05:40:23+00:00",
+        "title": "¿Cómo salvar el periodismo en los tiempos de la inteligencia artificial?",
+        "description": "¿Cómo salvar el periodismo en los tiempos de la inteligencia artificial? Le Grand Continent",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU09RSmRQYS1qMXE3azB4MnBOemRrTlVsZWxPUHA1OFFHdXAzaWJzUDFBSzFaZmtFUkdIT1J4OW00LTc1WFZXN01HSk1wZHdBMUhwZWhxZkpBTWJhMG5KZFdZeUFNV3ZicUZyOVF1b0t0OVUwYmhTOFJPRlUwTENYdTIxeUVOQzdJVklWeA?oc=5",
+        "date": "2026-06-02T14:53:42+00:00",
+        "source": "Le Grand Continent"
+      },
+      {
+        "title": "Llevan a la Justicia a la inteligencia artificial de Elon Musk: una diputada lo demanda por crear fotos falsas",
+        "description": "Llevan a la Justicia a la inteligencia artificial de Elon Musk: una diputada lo demanda por crear fotos falsas La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQejZ4Z1hMNTJSVkFQWmhoYUdOYkFtMTVSQXByY1ZUY0hUVFc2alJRajNpTlpMS2RKdjRrRV8wVkh0YzdBXzU1R05OdTBwbjlQeXRETGF0Zzc0MndfaG9XNjFodmFkLTFpMDkyX1VOS3pILVRPOFEtTmFwV3VtTG02OXdzU240b3MxekZ4OC1MNlRzZGZzekxRQW1IdHhyd1dvRHU3b01RSFcxWDhzOHkxTURLT2lJVFU3RGMyeE1faWRVRUFWc3gxTTBnNVQ2Z00?oc=5",
+        "date": "2026-06-04T14:34:44+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "La IA \"puede ayudar\", pero también \"quitar el alma\", afirma la cantante española Vicco",
+        "description": "La IA \"puede ayudar\", pero también \"quitar el alma\", afirma la cantante española Vicco Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWkRQd0djT1NnZkpuT3BGWUR3T3ctRUZPUVJjU0ZzQ25rcHAzOVBhbHo3OGVrU3BmWktzRlVXM1VMX0hwUTR4MUpRU3ROUGNVUXl1VE9MQURWR01uRVd4cTBvTVVnU0FzQ08wbDUyQnNSdzcxQ2dCR3RhWkd4djFTQ3Q3RXNXUlpPLXBmOURtSlNiZkpPT0xzVkxHb3lTeXZXVlMyZTIzOWZDSU1jNHNnSlE5cXd5LXd2UFd5T1lMVVRXY05tYkVROXZ6dEptZ9IB6AFBVV95cUxQQmdBeF9Ud1lLNXR0UjBiUDByODBEdkNRWXBtOXh6QmFsY2VzRzhBQzJMc3B5b0kzdUk3TUpZcUhTTjN5Qm9ROEFCb1FVTTQ2bndSVnRSV1lRRWtLR3R6aXdET0RpS0xQZVBtbVZSa3NyX2l2cEgtMldzdkFMc1VRdGZrRTczSm9YM000UWc2MDNWSnVFRmozRm9Wb19JUUM5b0RTRUtIcG9fNUU0MTlBZ2RGVkNDdDM4SlUzTFpCV2lvcVB4VEtqV3dnU1NSWElMQjM1RWctSjFfcHVFSXUxUDNzTnYzVGdG?oc=5",
+        "date": "2026-06-04T14:35:22+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Inteligencia artificial duplicará el consumo de energía y agua de los centros de datos para 2030: investigadores ONU",
-        "description": "Inteligencia artificial duplicará el consumo de energía y agua de los centros de datos para 2030: investigadores ONU El Destape",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa3UzaENMMDRtMzVCRUJsWWhFTFBCTkl2bGVQWDUwSnpoblpOMHVoMlJ3U2YxU2w4dHNnS2dYWmFOc2ZiNEprLWhrLXp2Ylp3TThsdVNLZnNzT24yODhURVNwbngxeHBQSWM5R0w2aWQ2bHRLUkpMTjRMNTRTZlhkUEticDYzaGEwWGxfaC1uRURMN3Z2dUF4THRIbExOOG1DS1NrZGNfd3JyUEFHUkZRcEdEMTc2OUFhdWp6WXYtcm9TTlV0blJwRGtyZlA5WTlwMWJ6akltXzQzZU15TkhPeTdZZlk2YVBvSi1lZVNiZXJjbnpfVW5Cck5vZHNMT0hKZXVR0gGXAkFVX3lxTE5pWE9YbEwtVk1SdHlybWFLTmUtQkc2ek9nQVFxVTdYSS0yLUlBcDlOVk1tLTEzQzRUTHBTNVFxcG5rUTlqS0JpUWFqUTh5cVU3dklzY29FVEtHNHktQ29BcVNndmNFaHVUNGVPSG9yalplRW12c3Q4cTZWemRBS0F6V3hNZDZoYXVXYnJPMDlxRHl2MDBwaTV3d1hMWExvemE4RmNKclFwQ2dWZ2hpRVU1MW0xNUp2UnEybTkzUHZYRlBEc0ZNc2xBVThySDdfcldSeF82dDBDcXdZRHh3NlNyV3FKb3d5WnJnMXIyckdDZ3lvOV9mWmdPSzA3VE1qR295Y1NGV01MMXQwV211Nk1pcGJkZ1FLYw?oc=5",
-        "date": "2026-06-03T18:23:07+00:00",
-        "source": "El Destape"
-      },
-      {
-        "title": "Los CEOs se arrepienten de la IA: por qué están cambiando su discurso sobre la inteligencia artificial y el trabajo",
-        "description": "Los CEOs se arrepienten de la IA: por qué están cambiando su discurso sobre la inteligencia artificial y el trabajo Forbes Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNXJoZ0NPSXM2MlhqR0U0a012Q0t4b3NCeTd6bERXV05yUEptOWhkckRVSkZmelFqQkJ4WHVnNDB3Wm9XX2hqT1Rfci1JdEZnTHlSSlNDay1Va3YyNG92SU5FWmg5T2VOZ3owTUV4c0hCendQNmY2ZnR5SFVoOHdxWUVrZkdwTk5iQ3hOYVlQQ2tIczRhNzVTbTNiVU1uUEIwaGEza1lGYTQ3bzZ4aldfMU1FTFFrLU1GbnlXZkoyajJOWjlXdXlLZFhpOTNVbmZxc21HX9IB2gFBVV95cUxNb21sSjZpMXJzNzMtZXk1M2dEY2owUERJNlFtYWc2b0MxR2FWUEZOY2hLLUdTVmtPdnhPTVRfclg4aEp3XzB1SUtmOVpCRXFTZU03SElVNUhkWmxKNHJ4OXNwdk9ZNlhKTjdaTENlUGZkZ0Z2YTBFT3lZUFZ5c2trWXJYblQ2QUZRdzA2aDV4cWFtbGg3bGtDdEl1cTAwV0VFUkd5bHVBTkRNNUtVR1RVQ1NvY1pPbG8wNVR1UjF5bVY4UEtwcHpaRHp4S2plTHFTNXcybzVydDRxQQ?oc=5",
-        "date": "2026-06-02T12:35:00+00:00",
-        "source": "Forbes Argentina"
-      },
-      {
-        "title": "Causa ANDIS: los dueños de la droguería Suizo Argentina pidieron analizar si los audios se crearon con Intelig...",
-        "description": "Causa ANDIS: los dueños de la droguería Suizo Argentina pidieron analizar si los audios se crearon con Intelig... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVGhfWndXS25xRG9ja3lKN0k3U3EtMWpFZVczb2tKVXVib0gybFVfT19Ja21NVVFEalNoempSYmVvaW1GamNrTXY4WmRTdG85eFQ0ZGZwMF95NUw1Y2NxTzRIUkJLbzNUOVFieENaSVFnU3hqeGtnTjRVUDFKSDRNbUNrRkpoQlhSd3c0UUJnbVFBOURBZkVUQ2diLTVnbUlyMnN0RFpGT0x2MWNseFBQbEV0UC0weFJ0VzBaZ0hxVElEd0hfMWZ0bTY3ajVYQkdXZERzSUNNSDVocHJYQkxFWXViOWJhSUdOTVVHeG5fZXpGaldHVlNMZWlwODIxUEpQWWfSAYcCQVVfeXFMTzZ4bHRCWXI2RG1zbXJxR05OT3U0cWlsZUpBTnp2ejljNUE5dElMZFY4dWdaSDJUMlJMaU41Q0Jnc3U3OGRxNWJCdU96T2VfWDNrYThzMWQ1RmlnU042UDBJRFFDcnh0blRCamdQSTJRYi1QNHNJVGRfWXdqbWhRZHRsMlE2NU4wRWFJY1g3ZXl1M0VXaS1tcjNaVGlnTEJ2S3pvdHo0NU56WHh3THFOeHV4NzN6WXk2RG9aVGs5cUE1Z09vc3d2cDQ1c3dHUlJ4SDg2Z2k3Y09ONHRJNjd5OElWZHpoMmk4WlhwZ2IwdUc4eXRXVU5HQjZhSTlMbHhDNll0T2gtdEk?oc=5",
-        "date": "2026-06-04T10:52:39+00:00",
+        "title": "El CEO de Nvidia advierte: \"La IA no va a reemplazarte, va a acosarte y micromanejarte\"",
+        "description": "El CEO de Nvidia advierte: \"La IA no va a reemplazarte, va a acosarte y micromanejarte\" Perfil",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYlBPajRTYVB5aHFfV0JwN1JpLXpQTkQtbHVpeEFCem9IM1Uyd08xVVIwMXN3YzI0cmstRjFtcHE2VnpHUktkU1BoTUpscHFDX3FrNld6aUcyZjhBZmhMSnhob3pkZmFJcDQ3Y21pTklmN29UeVZSSkMtaW5rMXluak83dWJtTEhNaWU1cGlfQ2EwdVd3cVp6aldDZXNfQ2ppNWl0VTY4Y1IzQmpUb3FpYnpRaWNUZ2hRLWNwZjEtSGtFb3JRZHVzTWZ1ems?oc=5",
+        "date": "2026-06-04T14:05:00+00:00",
         "source": "Perfil"
       },
       {
-        "title": "Tim Berners-Lee pide que la IA preserve los valores originales de la web",
-        "description": "Tim Berners-Lee pide que la IA preserve los valores originales de la web Montevideo Portal",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXoyQWJ5akhRbEpHakRYTG1pVERwWlZWX3RudHYtbWJrUHY3NlVDbjdoc0IyR1diM1JyRUlNUUVYZUh0VGEyVEdmVW16VkNGOW5xNDRwamNjSjJzUFRQS2VSMlgtWWx3UnZBOHNMcWFuZEoxYXJaSHRkeVhPWnJhalpKX19KQWdQWVVZeTc1UjEwWE5laERrckdQX1VTb1REbDRWNmFKaWRaYk9wU0JfdEVjZElnSG1UcEFtYU84bXllQTIxUjFPcGVjNXbSAfABQVVfeXFMTVFUMXRfWmNyQ2ZyUEdYbDJmem43Tnp0YUZwUm9qYjJuekJSdUFFdl9tYy1meEFjQlJzV0tZdFBqcF9jMTNfNkM3NTdPZm5ORU9lSEtPQVpPTlkxWWtpUlBxV211MWptUGlRT2hzUEdvMHNIdl9NeHZMc0dwaU96b0ZLSUNuZ0pzNHFndThxN1E2YjVzcURCRG82cTFaQk5LU1ZtbUVCNTRCakI3TGZXUVBjZnR4REJybmdxaEtDdEdMMWRBOXl6ZXZYUXc3RmlDbW9Rb1pWWVVLQkc1bDkyS1dQUC1ZU2d3TzgwX2dyNVMz?oc=5",
-        "date": "2026-06-04T11:24:00+00:00",
-        "source": "Montevideo Portal"
+        "title": "Sociedades \"autónomas\": cómo serían las empresas operadas por IA y sin empleados que el Gobierno busca habilitar por ley",
+        "description": "Sociedades \"autónomas\": cómo serían las empresas operadas por IA y sin empleados que el Gobierno busca habilitar por ley Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ1hhT3V4TnFmZG9wUWVyNXgwWUZpMzRRbVJsbzdLMnVuRWpabm8zLUNaVE5oenEwZThieVZLQTFoc3RYUG5JaUJjeG9YU3h6ZHlYZnZvUWN6N1B5NnhFV050SmZSLXNrb0J2OUQyMDJOR0RVODl4WlRnbUYxZk1yVDJiX09EYlotbDFoRnAweUlQVkdYZnBreV9VODFRZ1QyVzBibU5GM0pURzJuSHN2N0Fac0lsalNKNVp2RkxheFVUY0M4TFBCSHRn?oc=5",
+        "date": "2026-06-04T09:01:15+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Los celulares aumentarán hasta 30% ante la escasez de memorias por la alta demanda de la Inteligencia Artificial",
-        "description": "Los celulares aumentarán hasta 30% ante la escasez de memorias por la alta demanda de la Inteligencia Artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW11YVVVbjJYVXo5MjdFWVFNUW9UNGQ3ZFEzSUowUHVpM3psMXVnWXdxdWdMS2xhZFVIeGRKa1JHX1RtdUh6LURBNzFNUV9RSDJ1NkpESEtLTWtuT1FZd0ZEUEpzRWxDcTlwQWxjLXYwRC1pdC1NMl9FLXA1WDc0ajl6aGI3R085cW5jYXZCRVdETEZmU2I2dHdtUms2aGZDaE9TZk5qOGpJT1Y5R1RXajFBZkZVbVZhMG11UTRMNUxDTVUwNkE?oc=5",
-        "date": "2026-06-04T09:01:17+00:00",
-        "source": "Clarin.com"
+        "title": "Javier Milei defendió una inteligencia artificial sin regulación en el Financial Times",
+        "description": "Javier Milei defendió una inteligencia artificial sin regulación en el Financial Times Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1VWSU81RWZGdzJRUUd1dGtXZUNMZl8wNGU1NF9QbFl6T0l5T3h1VW8xMnJhd0RZeWw4WTB3OG1kdndmcWctb2NGUHJVeGkyX0JiWnllV0VxX1lBSWhsREVTNVNpc2NPaHQxYzJlM3BTb0lrU0hhRUlKMk9LdXViS191SXhNTS1uallEYi1HTkt3TUFQYi04akVtYmpEWmZHN1Z3NHFpX0cyVEh1NFN0U1p4NUtVSzNiMjhxX1NZNWE2emp1aWRhSV8tQmlVM3g5N2FxbWZ6bFloMmZqN1R3OW8zeldIcUtwUXpUSDdna0o?oc=5",
+        "date": "2026-06-04T13:45:00+00:00",
+        "source": "Diario El Día de La Plata"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Crece la tensión en Vaca Muerta: Petroleros se declara en alerta y movilización",
-        "description": "Crece la tensión en Vaca Muerta: Petroleros se declara en alerta y movilización LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDRpdDg5cVNBNUpRVF81TkE0U1Rwcmk5VG8tN0pJNS1kM1NtVFhicUlRMWJYVWVFX0w3STJQek9Tc1o2NnBPSExFdDRSbENvT1ZUQmwzM2lIc3Q1MG16cWxKa2tjNDZOa1RNZTAyNFV2U040NENud0VuWjNPZjA0ZHd6cVU4MmpKd29oRHBPSHBTMkJKQ0tBZ1RLemNIVGg5bVVkWHJrRi11bkJFSE1nS29GdGRFSGh30gG-AUFVX3lxTE5VZWl6dExQSzVtN2M2cnhQMkw2Ukd5XzN6a2FKbVpuWm55VmhGMFA0UUtzZ2JrOGFNWlVnMFVmV1d2M3RTZHVaZjVvb0o5d0gtenh6cGFJeklEUndwWDhhQUlHWmVabEJvR2R4aXVHZ1Z5T1luOXlmRV9hcjFsRWxmbVJ3RHpzWXNOVlVNckdWanV1MVhoN3I4TG1MXzIwZG1UcGpySmhHUEc1SXFHS2w5NFZPU01MS0RLT1hHNHc?oc=5",
-        "date": "2026-06-03T15:39:00+00:00",
-        "source": "LM Neuquén"
+        "title": "Vaca Muerta: el crecimiento de la producción tensiona la cadena de abastecimiento de arena, un insumo clave de la industria",
+        "description": "Vaca Muerta: el crecimiento de la producción tensiona la cadena de abastecimiento de arena, un insumo clave de la industria econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSlVGeTRWQkFYam5NY2RscWl5RjduLXU1WVY3UWljbEc4c3d5QmpuSFZYblhLRGxRMmd4NFdRbWl5bUN1TWtGY2ZsYUVUeTloMmtFemdXUDc1NEwxTGFqY3prNEVuVFhSc1FZUXdfUzBXazI3eEpIeFRBYWRPS251NVgzeTJZVGpORlg4VFd0XzJROFUzRXVmRGxVMlRqMjdrZjBDT2hkQmN6RERHMFppOUdxaFBVU0ltVUFBYnJDUDk0ckNQTG1iSFg3cHhXMEJWUlN3MllWWHg4alpIN0d1azRXZFRRdGRuOVVBdXo0RQ?oc=5",
+        "date": "2026-06-03T18:55:24+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Fuerte apuesta de Chevron",
@@ -184,25 +184,25 @@
         "source": "Yahoo"
       },
       {
-        "title": "Vaca Muerta conquistó Uruguay: el crudo argentino cuadruplicó exportaciones en 3 años",
-        "description": "Vaca Muerta conquistó Uruguay: el crudo argentino cuadruplicó exportaciones en 3 años LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUh5ZEJSb0xMWGdlVkEyamJnckp5ZFJVend0aVE3YWZIOWRqYnkxQ0Nyc09oSmhmc2lGbm5ZM2pldm1hOXFSbHVHbnNFMmFnTVZyTHVTZnRZZGpRc2lSbmR3UzhDeTduSGttWG5FVXNuUTd2TWlFaFR2cFR4cXhYR3NSUktaT0J6aDRwZFRacklYZkhUOW9LWlZGZTllM0JBc19iZ1Z2c2VacXBFU3FmazBiWGlKWlZ0ZUFzOEowVTRiVmpyV3h2TdIBzgFBVV95cUxPdlNTbFZwY1Q2N19Fb18xOXZ0WDc0RzgtZVFuLUFfb2xTM1d3VXExYzhralpaMWtGbUZQMUxLcWtfcmdQc25Mc2hOQXZTV213T01POTUzbEJwV1NIOGdiT2JkMExVOTBCY0k0R2h5Nnh1Mzd0RGtYeXBsVjZaUV9DdWxqS09HRy1penZmQUlxRmFiZk5GTHk3dW1UUnFIT3FCSHVjQ29jT2hKNUJVem5XM2RlcmdySkpDS0w4QjJjVUlqZWViQ242OENqc2h5Zw?oc=5",
-        "date": "2026-06-04T11:08:00+00:00",
+        "title": "Montañas de residuos del ‘fracking’ se acumulan y contaminan el ambiente en Argentina",
+        "description": "Montañas de residuos del ‘fracking’ se acumulan y contaminan el ambiente en Argentina EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2xjdE1QMHFjTENFc1RLaVhvZVpKQ2JxSlgxY202QlBjWFhReVd2elJxWXVWMXFXV1ZBU09QSVZXR2VsUkIyT3VwdlIxajI2SW5qT0tVZlFsUW1SeUdac3Jra01CLVJFWGRBVHh2UnZhdzFnQlJyVXBfaXp2cFpQN3lPOXFYOHBFM3gxeE5TMjJYT0dHcFI5UExZaHZ1REZxRHhGMmYySk1EcGEzMDRyeUZfaExTdm96cnhiRmp2aTVVdW5EV2x0U1o1SlFId9IB4gFBVV95cUxQa0J0QjZwSW5fUlJHX01RZmNneURyLWw5UUxYZWtYdEdUazJsNXdYTGhRTHhXY2dPd1VQRGFiZGhoYU1qSjV1aklIbE52eGVMSEJpZHk3NFZOYzBFckJnSVVnVy1rVU9uTmh4YUowQS1QMEllV3lmLVRIZUZSRHo4NFpkTXhUOWYwcEIwSTAyajI1UDh0R24xLUJIWTc5ZnlxcXVqbEhzUkROcVVST3MzN1ZzVHZlckFrNHlRbFZhY2wxVXZGSDhQQkJ2aFRWUWtOTUUzU3ptSldMZmhuQWZRSWF3?oc=5",
+        "date": "2026-06-04T04:00:00+00:00",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "Pluspetrol busca jóvenes profesionales para Vaca Muerta: cómo anotarse en Young Trails 2026",
+        "description": "Pluspetrol busca jóvenes profesionales para Vaca Muerta: cómo anotarse en Young Trails 2026 LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQUtaT3lETi1IQ1JLdUgwTHpaalBTc0UzM3BQbTFOQTRmYUNheFhxM1dOdUJocm1Yb2VVVWFPRlNIRVRYaFBvNDloN0lPdF9ITUhVcC1VemdESTlLZGNwMHJZanpUdlk3UXlUelpHbXFlOVhSUjJVc1M2UWhWclRNTEpQRDdUSFU0eExIby1oMVdwM0VyNDV2YUZ1bl9IZm5udGZQeHhRRmtKdmNLMGtrRFhxZEl2U0ZvNklFLTJtbUdURmNkcHRTN1NB0gHPAUFVX3lxTFAzZzBaSE8yN3ZNd3hQZ19jczNiazJlZUM3OC1yUDVFb2FBWGRzYVgwV0E2NGlvaVdOWmJMU1c0T2paQ25hMGZTWlZFY3g3aE1ITUVOR28zejF5Ym9Fc1lTeks5SVZUWFVlM0RZcGM3aHJ0RUk4ODQwcWl5c2J5WlNNQzNiTFZvVEZEaXZWTXNxUHlrWXJxRlRkdDVqWm1NbURkTHZBWEY1YmxPV2ZLT0RsOUhnYjhUa0pnVnR5a0pULXJ2aC03QkZ1a3lGZzlvRQ?oc=5",
+        "date": "2026-06-04T11:00:00+00:00",
         "source": "LM Neuquén"
       },
       {
-        "title": "Advierten que se requieren cambios regulatorios para abastecer con gas de Vaca Muerta a las industrias de San Pablo",
-        "description": "Advierten que se requieren cambios regulatorios para abastecer con gas de Vaca Muerta a las industrias de San Pablo econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0s0ZWVNYVJPWHpXZ0xZbm9jSUVlUzhJSHpnUm1iUlpaUm9vZmQ4OHhvYTY2eDhWekpMcmhCZGI5WHZISDN4d0hLOEpEN0s2bzhMOGU2b0N2c3FWVVFuM0JUQ21Lc0doQkFTX0QxS1VFNWVVX3JyXzVIRWhieUgyVjlRSS1JVm8teHpzWUJnSUw0QmtleDlKanFSZVJ4UGJDX2hiZjZVemZ3TGpSeXAtZVh6TTlkc3BjQ2MzWVpVRHZjZVFTY3ptYnVDWTE3WWxYUmMtME1sOWNwclc0WVB4RXpjejJZWDQ?oc=5",
-        "date": "2026-05-30T12:12:00+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Presentan un plan de USD 120 millones para reactivar la PIAP con gas de Vaca Muerta",
-        "description": "Presentan un plan de USD 120 millones para reactivar la PIAP con gas de Vaca Muerta LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFJLZktqNFRPazQxX2YxWjJwa0dqMjNvTkNSY2h0cTRqWV9qanF2NlI5UlVvYTBRcXhfWU1KMHZWaEEyd0Z0MTNXVjVTQUxLQVFKR2txVURvMkJoTldsaGQwWXV6eGpORXZYaGlUamFEVl9YQTRRZGtha2xOd2M5ZHBiLUVoOWhkN0xXQ0RwU2prd3BFSC1pY1dwaWxUZHJHV2ljN0F3Y043U3ZE0gGyAUFVX3lxTE5rV3NHTDV1cXUyckNVX2tkZkllb0IyY3M1bUNTY19jck5IWlFWNDlPRXRhZGF1M1M4d3RYVjlMOVRORkVLVERuQ2VfY0RtYmplSF9xcGJBdGloZW53b3hCV3RtSHU0Q0lHLUJzdmhKQWRmT3c5SDFQcHVCall5S2ozSjJ4TlhaOGg4aWJwdDZtRld0VVRTUDlPblpVLWZYQVkwUEhleV9xa1F2WWM0SHpGWUE?oc=5",
-        "date": "2026-06-04T11:34:00+00:00",
-        "source": "LM Neuquén"
+        "title": "Oldelval de Argentina dice Vaca Muerta podrá alcanzar producción de 1 million barriles/día en 2028",
+        "description": "Oldelval de Argentina dice Vaca Muerta podrá alcanzar producción de 1 million barriles/día en 2028 Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3V0NS1ETW0xcUtjYVZNRlFySmlBYWhYRWllMVVKVjNMb3ZUdDBuT1BDajhYVDBINUdlRk9GY2g4ajgxVzNjUVF3TUMyRlZMRnQwWDhVRUxhNlBDVTFXal9BNGVYejFEZ3Vyd0E4YmNSZDNFWVh2M1NmSHR1TW9FYm5FU3ZCMnpKczBBbFFxdHRKM0xYN0Rn?oc=5",
+        "date": "2026-06-02T20:42:44+00:00",
+        "source": "Yahoo"
       }
     ]
   }
