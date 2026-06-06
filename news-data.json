@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-06-05T23:02:39Z",
+  "updated_at": "2026-06-06T02:40:24Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Este es Microsoft Scout, tu compañero de trabajo IA que automatizará tareas de oficina",
+        "description": "Este es Microsoft Scout, tu compañero de trabajo IA que automatizará tareas de oficina WIRED",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMi1pRW1pN1paRkRlVTRRaG15b3VCRlFiS1NzS2tnc2gwQnB2OFR0QV9rWnNIWFhQaUJwZDAwVWtCR2FuczRYSUJMeVVNbUZfaXJ2dDB1ME5mWV9FQmJpUHd5VUlhNlFEeXpFU0d5cF8wZ3NhQ0gwSVJtekJSYkthN2NMYVJPOS1JdDVoYnJ6V2E3VFRLaEZmS0h1VW8zakxaOW9GWUVlSXdsVG5jUVNmejBqS1VZalk?oc=5",
+        "date": "2026-06-03T15:22:48+00:00",
+        "source": "WIRED"
+      },
+      {
+        "title": "Reid Hoffman deja el directorio de Microsoft para enfocarse en Manus, su startup",
+        "description": "Reid Hoffman deja el directorio de Microsoft para enfocarse en Manus, su startup Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlpQWE4tb0xycVVNeEdHZjBLejJ3TW5iSFlWajJ3dE1QcTB1b3pUbklGaDJtMjhIUC1XX3ZaMFp3bjN0cXN5U3pKNVRDWVNkRW9OVnd2UlBWYzlZRXdrR0ZHb3FRUllVQlJFRHc0TkQzQjdjcDVMaFpLOWxUOGdib19QUjF5LWJvWDNsNmhQUWdQX1lXdUMwWlI0UEQ1YVppa1U1VGE3NklwcDU2blJUNUFUakhOSHpuamsxUnpjcGs2cW55elhEatIBzgFBVV95cUxOTUprLUxmUmd2SmdQbTFRdEJrMEx3STA3UHZEOEtxeHZRNExlQzY2WTBTNFZ6WW1jRTRCRTZnMmlWZW9LLXFiWTh6Z0xiX0w1ZGtERXFuWXFJelZ6d3JFYXkxdTBuMUltc2ctcnFHbkRxSmRZY0k1a0p0VTRlVjFNWTBuSEF3WEpZbzBBSEpLNlJxSVpRMEl0QlV2NFU2VENJUTVWS3N3OC13QnVZd2xmdUpGakRJNnk2RW02YjFmYWh6akdiYm1Bc2tjdGRBZw?oc=5",
+        "date": "2026-06-06T01:01:33+00:00",
+        "source": "Cadena 3 Argentina"
+      },
       {
         "title": "Copilot ya no es solo un chat: Microsoft estrena los “Autopilotos” para que la IA trabaje de forma autónoma",
         "description": "Copilot ya no es solo un chat: Microsoft estrena los “Autopilotos” para que la IA trabaje de forma autónoma Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOXVlLXJ0aEYxLW1ZU1JaMWJ4al8wT2NfWXpQeVZBLXRrTDdZMXFBUlNhZlN2eDM3eHk2aHY4ZFNWa0ZDbDNGSlJmRTYtRUhfMXoxV0s5QU1HNnFIUzh4VW9DSDgwVXJxMmVuTUs1UllnU2VacUk2bVhVM1BpVHc2Y2tRM1dUSm1uaGV2ZHRVZjFzQ0Z1bmpLRGJNeTVTcWh4Vk1fUVBTMHNIRmtwelRFdFY4anI0aFJsSjVPeWthV3EySDRRN0lGaXhnSG1pTWxOVC1JcnFQUVBRN1AzMnU00gH6AUFVX3lxTFBpYlBvNmNJc3lVcGxnNk9uS2N4bExjZU54TWU3TjhsMGhYTV9CVGFDZGpiMkdyN2NCVGhUZmVzR0JpOHB1aGdKMnpoQmtXTGt4MGUyRXNMaFVXdURSLXZNMEJfWkhDOTFOMmVEeDFpQV9FTGpsdDRHdW5QbGJwWFJuVzhtM1pDeE9xUWVxeGd0TE1ZQlIwejFZMkdVbDZjcWNySGRiVzduMkJwVjdsZ0Q2TmNUUEszZVZfdjQtb293bU5LaElLUVFEYkJjQ0VyQXc1VWhLTFdZRmJvYS16Umc2Q1pSUG9ta1ozNXZ6WmdXaEs5UU1qRllQbnc?oc=5",
         "date": "2026-06-04T13:42:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Olvídate de Claude Code: Microsoft ha presentado su primera IA para programar software",
-        "description": "Olvídate de Claude Code: Microsoft ha presentado su primera IA para programar software Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak1yUXJMbmVUeGxfYWMzOHYyMnBXdTYzTUlWNzdtVjBnVFFQZ0lVcmROTkp6YjI0amFIOUlFMzlOU1VvSnZtNnlWZlZITEgzRkNLMjYteGNxRnF0WlFFdDdfU0QxSnAxcXpUV3Z4NVlrZ3NINVZMODQzVEpxeTluclpYYTJrcmpQRE9tQ0J5NWVsZW14NVE?oc=5",
-        "date": "2026-06-02T20:59:00+00:00",
-        "source": "Hipertextual"
       },
       {
         "title": "Microsoft presenta Scout, su primer agente de IA para Copilot, y su primer modelo de razonamiento",
@@ -31,13 +38,6 @@
         "source": "Yahoo"
       },
       {
-        "title": "Microsoft promete resolver el desastre de los menús de Windows 11",
-        "description": "Microsoft promete resolver el desastre de los menús de Windows 11 Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBneHN0cFJNejlSU1cyUjhiaVJmaGRDV01UZnFHM0l3ZF9YbEJMbkswNGN0NWFnSWExSi1YM0RkZGVndjcxQkVWN3pBaUlBdW9UbEVmeTJQQkNPa2pEbmJZZjgtcmt6cUNiSzQxSk1rTlR0dThGZXVkMmsyWVRRV0k?oc=5",
-        "date": "2026-06-04T15:30:05+00:00",
-        "source": "Hipertextual"
-      },
-      {
         "title": "Que Amazon, Microsoft y Google miren a España no es casualidad, tampoco que sus centros de datos te ayuden a jugar mejor",
         "description": "Que Amazon, Microsoft y Google miren a España no es casualidad, tampoco que sus centros de datos te ayuden a jugar mejor 3DJuegos",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOUNGM2tVcjN0c3RKd0VOMmpvUnNmS3M3Z1QwSDlidGdMTkxTVEFPOHlsc1R5aTNULTBxSXk4N25FcXBYQWJDazdwZHZveGdfRXpmVDNRLWVXc250NnAxOTFpTFpPOVBxSjhyY0ZZSlJlYUdEVFRudDIwRUgtNGN1bEhudVhhb0tEc0lrcjB3cnV1aG1QWlJhMVZlbmV0S1lXdmw1c2lxd2ZXVHI1N295TndfNDhuNEZ2Y1pzM2ZEUmVWd000QlBlYkNlSjZ1Ymxzc3YwdVRrV2cxVzNvZXFKWUJJUWZUWVhuMXgzNVhRTm9MQdIB9wFBVV95cUxQZG5xRGVRRjY3cWRuMzZvTm94SG95aVZWOUktUXhIUnllRGU2VkdkTFYtWS1LbEtBT2hmdmZ2S1JRTTA1akF0X1BuanVJbnlxMmhlSlVVaEdQaEl2NmI4VHZCRU9zc2d0V2c0TzAtSUotNVo1MzVUcU1Id3Q1ZU56Ry1LTVBFT2QtU3hjNjBVNWFWREozTkstN19TZlowYWJ5QWgyc21yd21BSlM2NFBIRmRJeFdFYmZtZEtfOFZWdmxRMFJ1MlVpMjhuNFVTYjY4MlVIbGpRdjdRYWFIMEJ5UlZ1WjdpZGJ5V2drZzNzajF0UXVfWlpJ?oc=5",
@@ -45,11 +45,11 @@
         "source": "3DJuegos"
       },
       {
-        "title": "El nuevo chip cuántico de Microsoft adelanta la comercialización de los ordenadores cuánticos a 2029",
-        "description": "El nuevo chip cuántico de Microsoft adelanta la comercialización de los ordenadores cuánticos a 2029 La Razón",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY3VJMFhxdk4zSG9BZDcxQzZSZDAyV1hpQkdJZ1hwR3BZOTdGeTBTTS1RdWZxdy1XYmRXSXJkQkhXaF9Kejh0TXR3VWxxUWRZME5XdFJ2QVR3LVB5cWJNZ2J5dHdLOTFkV2VQTFo4a1h6R3A2N1YtNXFOX0YtZ2FNc1NpZ3dhcEx2Q0FHc1NIUHZjYmJkMjN0TEM2YXFoem9TdjktanlzbUg0Z3Zrd0hqUDlQaUNQT0wyRlFHZzNpek1UcEE4aU92TWlWUjJFd2ozUTZMMGlJc21yVUV3YWVUQlBQRnB2U2I1clHSAf4BQVVfeXFMT05FdEZlYndKX0ZSalNoWkt2Ql9fcDVaNHVwM2RvSnRwWkozelI3MnVnc0Y1MVdfaE85UFFVazJTVGtuRUtScHg0emRMYXJYM0Qzbms4SldBQVozY1E4WW43dWprcHd2dTRGcDBIb01iNkRtMUtVQXNURWZ5aS14M1NRV2ZEeFpRdG91SGgyUjdYWS1qbEtQUklsbDJzVnlnSGNGVUxDem4tak1sRE5sb25LZDlydHZGNEZpM3MxS0laSWZTbFZFcWN3NC1MMlBtZjNUeHA5bTA0M1RjRWN1UUI5VTl6UFRfNVFEb25yNUZiNHBLXzZBNVQwMlRDOGc?oc=5",
-        "date": "2026-06-03T11:45:16+00:00",
-        "source": "La Razón"
+        "title": "Microsoft promete resolver el desastre de los menús de Windows 11",
+        "description": "Microsoft promete resolver el desastre de los menús de Windows 11 Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBneHN0cFJNejlSU1cyUjhiaVJmaGRDV01UZnFHM0l3ZF9YbEJMbkswNGN0NWFnSWExSi1YM0RkZGVndjcxQkVWN3pBaUlBdW9UbEVmeTJQQkNPa2pEbmJZZjgtcmt6cUNiSzQxSk1rTlR0dThGZXVkMmsyWVRRV0k?oc=5",
+        "date": "2026-06-04T15:30:05+00:00",
+        "source": "Hipertextual"
       }
     ],
     "Marketing": [
@@ -96,26 +96,47 @@
         "source": "Chaco On Line"
       },
       {
-        "title": "Emprendedores de Madryn colmaron el taller de estrategias digitales organizado por CAMAD",
-        "description": "Emprendedores de Madryn colmaron el taller de estrategias digitales organizado por CAMAD LA17",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlBdnZGUS1mV0ZVamNuUHRrWFJfN1JIcnhfQlZZT3VYYVBQekxiTDB0Z0M4SjA3TzQ4ejNwOW9Oa0Zfa2tacDBST0Q5dERjaUc2RFlpVjNmWHJKUl9iOHNaSVBJZUZPTmswMEJpMjQ1amhNNUtJaThVcnAxVzNWY0ZzU2Y5MmZncTJXUzhndTEySk9wMTdkSnNaUXRYUF9FYlJSSnpHS01TdWduem96QmlpUVo?oc=5",
-        "date": "2026-06-05T00:18:00+00:00",
-        "source": "LA17"
+        "title": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien",
+        "description": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien InfoMendoza",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalQzNzFTRm9PdjFpRV9DYl9KT0NtT2w4V0VxVzBpTHI2YjBfc3h3dmxwOXVtMGRrc3dxNmxXRHRUNUhkSUUxUzhMR2tGanJLejZMZURMajZGenRMbVk0aUsyNzhJbnI1QWpGMjVWcUZzemdDckt2RjZWRG1IcEN6MFUwNFdMOFhESzRzR1B6S1JmRWNwX25XdXVNOXhKN2pUQnZNY1VFX3c0X1k3bkhSeFJfQzRGQWVnSDVNYXRCNUhJNnRjbUdQV1FYZGM4S2dKUXgtSkEyT2ZPcmQwNXM3MNIB7wFBVV95cUxPak81RXBPcFFjWVFTYTdlcHRfekJWcElUMTZ4dl84YU45bWhfLUlxcDhWRFVjeS1KeGxvWXN5bElYMkhHeE10VC01T0NqSDRibG5ETGoxQ25reDF5TWhwM291QldpeWxHUU5CM1c3dkFockZfaHNUWENpdWduZ1NabjlJQnp4QnktS0xoYjlpYmdmQnR2YjdhaHgwX3NCQ3U3QlItdDVGblBCcWVwSmxkLUF2azg0UEdvNXR0RXVoRWZLS2ttWElwR0t3T2pxdS1vM2x0ZVRDeUNVUVIzbW5oZk9fQWFRUDAxaWs4emZQYw?oc=5",
+        "date": "2026-06-03T23:50:21+00:00",
+        "source": "InfoMendoza"
       }
     ],
     "IA": [
       {
-        "title": "¿Cómo salvar el periodismo en los tiempos de la inteligencia artificial?",
-        "description": "¿Cómo salvar el periodismo en los tiempos de la inteligencia artificial? Le Grand Continent",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU09RSmRQYS1qMXE3azB4MnBOemRrTlVsZWxPUHA1OFFHdXAzaWJzUDFBSzFaZmtFUkdIT1J4OW00LTc1WFZXN01HSk1wZHdBMUhwZWhxZkpBTWJhMG5KZFdZeUFNV3ZicUZyOVF1b0t0OVUwYmhTOFJPRlUwTENYdTIxeUVOQzdJVklWeA?oc=5",
-        "date": "2026-06-02T14:53:42+00:00",
-        "source": "Le Grand Continent"
+        "title": "Cedears: un gigante de la inteligencia artificial se hundió 15% por malos pronósticos",
+        "description": "Cedears: un gigante de la inteligencia artificial se hundió 15% por malos pronósticos Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON1l0Qkt6a0hRQ1BVSjBFaHBVaHZLNURnSVd2NnNURFJQdFlxOVA4YjE1aGJxSnkyZWhldUplUzZkVTBTQWM1YnhFQk5nYXk2Tm5qazNoaHRtTDdzWVpNbDhNNzg3NnV4emZaZlVNYzQweGRxdWs4alZoUXVPTmFBMl9NTUhxQkZKN1J4eTVjaDM1RE1McVFhc0RvcXNTdVlnZnd1bklJQTc4Mk9zVnd0VnJLMUM0YjFo0gG-AUFVX3lxTE9SZ2dGQ1BxOEdvT2QxbVJ0Y2R5bEl5UmppVTZ0S3A2UWVVT2JRY2FrX2c4clQzbnQ5eV9KME4xYlFjcmZNYTZhQjFyano1TXREYUhHQjY5RFhJNVpPNmg2bk1SU3FRQlRqcXoxb0Zxd3VncEt1SDV2WWZKbDhndUw0SFpLN3N0WC1rZWNEeWhTOG4zRmZmZ0hGSTdLNzU0ZDE4RGt2YWZyc2dibjFmY0hzMTd2NHZKQk5lQ2lUaFE?oc=5",
+        "date": "2026-06-04T20:35:00+00:00",
+        "source": "Ambito"
       },
       {
-        "title": "Agua, calor y geopolítica: el verdadero costo físico de la inteligencia artificial",
-        "description": "Agua, calor y geopolítica: el verdadero costo físico de la inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVzdVRDVhSW82cG41YmJ1djhlT3RvbFRhS0tYb2RiZzU2b1ROQlF4RUNQa3VJWGRwZHQ0V01HMjA0QjJPTVpzWk12TVFHX183Q0lCNFhEZHdiWFFab2NsTFJPZExGSmtST1AyU1pIalJaSW9VRzVFMnpESlNNbEJ2NG1zS0V2WVo0X0NSUVBXVW1JaERvdXpjSG5CcjVFMEhqLVRvMG1fYnEtcDlzODgwc0M1N2Z2N3dHanFLTWJrNNIB2gFBVV95cUxQQ2l3WEVyUWhhZDVmdi12ZmhKUDl3RmNxZ0kyMjZ2Rnhyb3EwY01JenNMR3Z1Nm45ZXRQYnFYZDJqQjFUZVIwRURZbmRKTW5MVjkwaFExNXdESWpWTE5FLUpyYktEX2pZYVRLN2R1UUE3ZVFwTGdZSXNZbXp6aUxwdnRtRjZIQUloM1h5VHJnZ3NTUWgzcnpwRTEzRmNCRHpFTTZNakdPdHlVTWs2U0NnNVF1eG5aTnFyenRGUnN6dnZNS2IzdDR5NGIzUkFLbkw4Y2RMWERDTGdQZw?oc=5",
-        "date": "2026-06-04T20:49:00+00:00",
+        "title": "¿Quién gobernará la inteligencia artificial?",
+        "description": "¿Quién gobernará la inteligencia artificial? Perfil",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRl9WS3lfSHdyTHJvWmlMaUQ3R0xwMnpVZnh5bXRaVXhUZ01JbGF1TGRTdHo3LVVlVGlJUWluR0tnZDVwcjdrOWpNem5kR0Vka3JzRGJJWU80TFdibXBYd05ncmRzWUR0WnFNcFVFVW40cXFNSlE5Z2FtZGQtbjVQY1RZUkQyU3V5emxfZG03ZmJDM0ZBUHfSAZsBQVVfeXFMTWhvOTJqSWVGS2w0U1hwOUdDVVlxRWtEZ2dmZ1RreHh2b0xYWU5oVnRoN0tndGtEZW43WXhwQjBLLWFGWjVmem5zcGdpZmpQWmJaeGdYdGp3d09HOFZXbTZ4OG5UZ3ZKOW1rbGhHbXYzMFBJOGZGU0dtTDNWVEdwclo1eVJaZy1YSWlRa2hNbmh4c0toNTlvamhxekk?oc=5",
+        "date": "2026-06-04T21:30:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Carrió cuestionó la columna de Milei en el Financial Times sobre Inteligencia Artificial: “Experimento catastrófico”",
+        "description": "Carrió cuestionó la columna de Milei en el Financial Times sobre Inteligencia Artificial: “Experimento catastrófico” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWGdwMnNtZTVEQVVtMlpSZVBlVHhuejZ2ZHNkMVFSeVVhc2ZpSUx4NXNlUlRnaWYwcUg3Mms1UmV3bTNiZFlzWGxMYlVaV0FyV2ZyVE9NWjBGa0xwUGpOeEZnVEpMTjJEUjRUbTF0RE5aVU9hRG1xYzdOVEthbElsN2VSdnRuWmdZWFRTYWVmZTRtbTIzcmx0cmlDWXU0b3hTc0V3azJpSkUwUGhMb2pacUo4Q25VTmZiekx2Ui1wVUhna2ZYM0NfekNrVkppcThKekpoUWp1ZTdZVWZNTGdLaF9RVEo?oc=5",
+        "date": "2026-06-04T23:58:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Milei promueve el desarrollo de Inteligencia Artificial en Argentina, pero “sin regular”",
+        "description": "Milei promueve el desarrollo de Inteligencia Artificial en Argentina, pero “sin regular” El Eco",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEk1YWp3cFliUmVKSGdDckxLTFlKTno4SDdERDlNb0ZGSVFNZVJSR2V1SXRkZWVoZkU3ZkE4REZLMVNMN2hTelR3SmJuRS1CRTBfRldPa0FTQjdrT2hkRFFnS1ZrRlJVUW80NVZmdDY4LWx2aWpNRmpSelo0eU1zcE55V2xqUXRqVFU1UXVLZkpuUEhtYURTd2V2Nnh3QVVDMnN5ZEVldDN1d0p0STdPVEgyb0xOVldlYm04?oc=5",
+        "date": "2026-06-05T01:00:00+00:00",
+        "source": "El Eco"
+      },
+      {
+        "title": "El giro de Martin Scorsese hacia la inteligencia artificial empuja un nuevo consenso que asoma en Hollywood",
+        "description": "El giro de Martin Scorsese hacia la inteligencia artificial empuja un nuevo consenso que asoma en Hollywood Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOanFDdkh4OHY1Z0luSTF5ajFxVngwZWRSQ3JUcVV2NkpqcFprdFhRa3hway02X2Q3Yk53bW45dFZlWkhTQ1IwN3ZSaDNCWXpFYWkyS2dya0xtT1otSk9CSTg1c2JuRUtWRWxLWTdZdXBHdUVzVHVNMmNGdE9qU1QzY0p2b2Z3WG1qS3BHdlBEb21WeDV5S0JtQ1BxTVVidjh4bDdQZlpTNVRZVnlLbDBKYzNyTTlaZG1ybXpyWS0zLVctUExuVjR4VWY0aXFKVFJGUlltSGpJb2JuTy1PUkpYb29kdzdTUdIBgAJBVV95cUxOTVkyUXE3c1VqWW5OTHY0WFhEckk4Y0VYdWlVYlZDX1lMamtWVjZCVXM2QWNkYnBQdmlpRmU3aXlmVmNtNEVnaU9sQllZVXM0YlNPYjNRNmRHcVVrUExScGN4WVNwVjlDNXFOWUVyRHhXdFRaWk9NaHVjc1hERnFMdk9vSVl6Vkk1RFJXTXlPbHdoVlN0WjROQXNWT2hidEVZYUthQzZrdGJCVVhyRlN5dS1SMzhMT1d5aFlKX0Jja05CX3dnQ1FJNzJ1WDhxYlNVbThKSlJuSVZ0Nlc5Y0UycXBZcTF5YnlXVlhKV25aYnhvQmszRVF2ZzV3WmFhNW5F?oc=5",
+        "date": "2026-06-05T04:50:00+00:00",
         "source": "Infobae"
       },
       {
@@ -126,69 +147,27 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La ONU advierte que la inteligencia artificial consumirá en 2030 tanta agua como 1.300 millones de personas",
-        "description": "La ONU advierte que la inteligencia artificial consumirá en 2030 tanta agua como 1.300 millones de personas Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeVMwUGpBLUI1bmtFNUVubFNPVWFfam51dmxDaEtWTHVOOE5tSF9WNVVQbTRtV3lOY0N4Rlg3bTBzNXZkUzdmYV9sb3Nwb0J0ZDFCN2pTYUxTVDgzd0dGdjVWY0c4N09KWjBnaE8zRTE3TmlMWk9ZRGd1aXNXUm5naU01WFdYbDdMU1dOTUpjTnpjTWMzQXJQT1JVaXhQWWQ3dFJJWXRxYnN3bjdlMEFZZzJNUXItb01RczE0a2NyOUJKbEx5YXZxTVM1dkhUYjJELW5fNklpNlpYVWxhQWZCRXA3YjFYQndyb2wzV24xd9IB9AFBVV95cUxNOWFnY0RZdzVmcy1NTmlsRUhKUEpzdzI1VVk3eDlKX0FMOUlBdGVOeGtwV0hDTFBqeE11R0FEbU5HcDF3UnNGbGdJbUpfbHc1UVd2NmpQaG1wQS1HbXB5XzdRX19yelhVZTM2b2dNLWFCaFAxNEJpY3lDODFqZjk1Ym1sOXczdGt0V3lsc3dqbURPbFg4OVpDM1RSRmRVX0RuV29aRmNQWktMc1pGSkg2aUc5NXQxRHVqT2F2SVpvYWlrMDVzQl9mTFZqTkdPZ04zSEV4d05JTWIzMUhuUWRCaGF3UkhwQko2RC1hOXJwWDlyVS1G?oc=5",
-        "date": "2026-06-04T00:06:00+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Google pagará U$S 920 millones por mes a SpaceX para acceder a capacidad de cómputo destinada a IA",
-        "description": "Google pagará U$S 920 millones por mes a SpaceX para acceder a capacidad de cómputo destinada a IA La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQnlUbzdiUTB6YU5YejRtc2dJTGkwM2ZfSHpyUnJEOTJhc2xoS0FHTEhPUVlHVzUySmZxM04tZFBtYnNKVHpnaHJhRHlmVDBWQzVKdWtJVHhQdU9veV94eHBxNG5KejByajRDOXVoY3FjeF9TWGxfWTN2MlhsWE1jSXhBQW9PSTJsbkhiSEc1Y2R6UEdFU29INjVxYzV0eXNwMlhON3pFMW03c2xDX0tlWG1aS2RuajhUclFrLVltakp1M05GcmhsRWFXRGJPQQ?oc=5",
-        "date": "2026-06-05T21:58:31+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "El giro de Martin Scorsese hacia la inteligencia artificial empuja un nuevo consenso que asoma en Hollywood",
-        "description": "El giro de Martin Scorsese hacia la inteligencia artificial empuja un nuevo consenso que asoma en Hollywood Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOanFDdkh4OHY1Z0luSTF5ajFxVngwZWRSQ3JUcVV2NkpqcFprdFhRa3hway02X2Q3Yk53bW45dFZlWkhTQ1IwN3ZSaDNCWXpFYWkyS2dya0xtT1otSk9CSTg1c2JuRUtWRWxLWTdZdXBHdUVzVHVNMmNGdE9qU1QzY0p2b2Z3WG1qS3BHdlBEb21WeDV5S0JtQ1BxTVVidjh4bDdQZlpTNVRZVnlLbDBKYzNyTTlaZG1ybXpyWS0zLVctUExuVjR4VWY0aXFKVFJGUlltSGpJb2JuTy1PUkpYb29kdzdTUdIBgAJBVV95cUxOTVkyUXE3c1VqWW5OTHY0WFhEckk4Y0VYdWlVYlZDX1lMamtWVjZCVXM2QWNkYnBQdmlpRmU3aXlmVmNtNEVnaU9sQllZVXM0YlNPYjNRNmRHcVVrUExScGN4WVNwVjlDNXFOWUVyRHhXdFRaWk9NaHVjc1hERnFMdk9vSVl6Vkk1RFJXTXlPbHdoVlN0WjROQXNWT2hidEVZYUthQzZrdGJCVVhyRlN5dS1SMzhMT1d5aFlKX0Jja05CX3dnQ1FJNzJ1WDhxYlNVbThKSlJuSVZ0Nlc5Y0UycXBZcTF5YnlXVlhKV25aYnhvQmszRVF2ZzV3WmFhNW5F?oc=5",
-        "date": "2026-06-05T04:50:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "¿Quién gobernará la inteligencia artificial?",
-        "description": "¿Quién gobernará la inteligencia artificial? Perfil",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRl9WS3lfSHdyTHJvWmlMaUQ3R0xwMnpVZnh5bXRaVXhUZ01JbGF1TGRTdHo3LVVlVGlJUWluR0tnZDVwcjdrOWpNem5kR0Vka3JzRGJJWU80TFdibXBYd05ncmRzWUR0WnFNcFVFVW40cXFNSlE5Z2FtZGQtbjVQY1RZUkQyU3V5emxfZG03ZmJDM0ZBUHfSAZsBQVVfeXFMTWhvOTJqSWVGS2w0U1hwOUdDVVlxRWtEZ2dmZ1RreHh2b0xYWU5oVnRoN0tndGtEZW43WXhwQjBLLWFGWjVmem5zcGdpZmpQWmJaeGdYdGp3d09HOFZXbTZ4OG5UZ3ZKOW1rbGhHbXYzMFBJOGZGU0dtTDNWVEdwclo1eVJaZy1YSWlRa2hNbmh4c0toNTlvamhxekk?oc=5",
-        "date": "2026-06-04T21:30:00+00:00",
-        "source": "Perfil"
+        "title": "Anthropic advierte que la inteligencia artificial pronto podrá mejorarse a sí misma sin intervención humana",
+        "description": "Anthropic advierte que la inteligencia artificial pronto podrá mejorarse a sí misma sin intervención humana CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlFadlJYY0ZDLVFFbUF3bjFjV1lPQ2ZXX01HNE1PRmtFR0tPbXZxbUF3c1ptY0FkYU51eC1fZElsRTBMVDhpcml3NWt2c0FMOFpBWF9NMTk5V08zdkVzRUgxdm9PYVhPeHd2OHBNZ1hHbkdEdks0MzN2dUhEd1I3TXpiRmxjRGZSSXNkRFplaW0zd3FwcWgwWA?oc=5",
+        "date": "2026-06-05T14:44:00+00:00",
+        "source": "CNN en Español"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Hay salarios de hasta $17 millones en energía: los perfiles más buscados por Vaca Muerta, el litio y la revolución tecnológica - El Economista",
-        "description": "Hay salarios de hasta $17 millones en energía: los perfiles más buscados por Vaca Muerta, el litio y la revolución tecnológica El Economista - Últimas noticias económicas y financieras",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMmpOY2tqOHBPNU5EZTlRbmc4bkp4ZE45X05UbWpkM1BGeHFXb1c3SnNnaThQSm5STm9VX0FFSVlWNTh6c1o4Q1dOTUpTdXE2MmpxRG1ZMDNUUWF0TUZUMFQwa1FrZHhQeUhycjVoMVloTnQ5N0k1dmtZREswZElJalEzYlJPTzJ3NEhnNWhpVmR1RjBxVkdJTFEyLXpmNTlvRXNyb1paaDFXUWt2ZkNKVEpLdlhmeXVCWEVhYVpxRURyMTVKYmZQb0lyQmRGUzY4MkZYQ9IB2gFBVV95cUxOdmdoNmlwUy1fVjhzSTFSU1Z6U2RRSXZIbUpiYnQ3TVRNU3RoZjhncHZHeDhfMFR2Z1RxcHBtMWo2bkhmLXl3RzVNUlFJYnlqaDNMczU0NUJrT1Fpd2R3d0JWdThYcjZRWFdXeW9NWGNRb3R1emN3alNJckhSTjdmVWdSMFFCS0lVUk5yblY0X1Z2ZjdFQXY5bzFyR2ZwUndpSm4zbkh2bkhmU09FYlhOay05VGxzUWVOX0xhY2VBUlRwLXRPUXpYMzVNUTJCS3ptQ2JPRml5UDBadw?oc=5",
-        "date": "2026-06-02T12:38:00+00:00",
-        "source": "El Economista - Últimas noticias económicas y financieras"
-      },
-      {
-        "title": "Italia y Vaca Muerta: la misión de Neuquén para la integración tecnológica",
-        "description": "Italia y Vaca Muerta: la misión de Neuquén para la integración tecnológica LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGJDZ2I5aEdDa0prWG9kVGxGSWdHa0t4VTFrN08wOVBHbGxrWC14N3Y1cHQwN3FSd2dQNlZxeTg4NlVrLWh0a3FPeDVKWW52VEFIMFJqck1RSUtuSTB3YXNHcWg1bFp1V3plcmJxYzlZWEd6QnpiQ09vNklzQzcwM2Z6NVZOQlRwczhTejVxd1ZvQXBELWNRWk1IWTEzSUNnZUlxdjlDY1BuNVhhWk5BQ3ZEONIBuAFBVV95cUxQOE0yX3NCdS11X0FvMEVuWmFyMm1zajN5aDNpNDgwTnFhTXpKMkRzUy1BX2pHcnVIMldGNVVVaVJjMkdQeVQxVnc5Y0FTTEZVOXY0ZGRIU2tJeXhsNzNRai1hOTVWZ3NGQnFfYzF4ZjRVYm5hYzVMTXlJTnhxei1ReE5HRFJWXy1HU2FuUGZkSC1MaEJjc2VOUTZWSk5qX002SnREbmtlMkozbEF2d196cDRKMFp1VlJM?oc=5",
-        "date": "2026-06-02T17:05:00+00:00",
-        "source": "LM Neuquén"
-      },
-      {
-        "title": "Vaca Muerta: Pan American Energy busca concretar sus primeras exportaciones de gas al Brasil luego del invierno",
-        "description": "Vaca Muerta: Pan American Energy busca concretar sus primeras exportaciones de gas al Brasil luego del invierno econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV0lmVmhIQzFGSldKb1J6Y0laVDlpaGlpNlRDRktpOHdEYjQ1Q0FZZGVUYnRXTUk0dFVqUVRyMUg1cmIyRVRIdEJUTGMwUzkxMzhwUFJHWHpEMWdBbGZueUN6UmhEWkhuRFdHM3Z1LTRRLXZ4ZkNzbXFlMWh2YWRKY19ORkx4LVV1RGdWdXVXcnZlZm9yZjAzVlNKdFN6bnlubkFKUTA1QjdlbWRZLXhlQzNGQXFtOFJ0OU1Bczg0aFlBUjlkMGZXN0hTRTVjcW5hSTNBbGZtZkhUWTVXVFdQQQ?oc=5",
-        "date": "2026-06-05T15:09:15+00:00",
+        "title": "Vaca Muerta: el crecimiento de la producción tensiona la cadena de abastecimiento de arena, un insumo clave de la industria",
+        "description": "Vaca Muerta: el crecimiento de la producción tensiona la cadena de abastecimiento de arena, un insumo clave de la industria econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSlVGeTRWQkFYam5NY2RscWl5RjduLXU1WVY3UWljbEc4c3d5QmpuSFZYblhLRGxRMmd4NFdRbWl5bUN1TWtGY2ZsYUVUeTloMmtFemdXUDc1NEwxTGFqY3prNEVuVFhSc1FZUXdfUzBXazI3eEpIeFRBYWRPS251NVgzeTJZVGpORlg4VFd0XzJROFUzRXVmRGxVMlRqMjdrZjBDT2hkQmN6RERHMFppOUdxaFBVU0ltVUFBYnJDUDk0ckNQTG1iSFg3cHhXMEJWUlN3MllWWHg4alpIN0d1azRXZFRRdGRuOVVBdXo0RQ?oc=5",
+        "date": "2026-06-03T18:55:24+00:00",
         "source": "econojournal.com.ar"
       },
       {
         "title": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta",
         "description": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta Infobae",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbzkzQWNiUDA3SktWMkc4VF80bUVybFhuTFZzVkt0d1BPT2lVbEFWNHotUmZBQkh6ejhVVC10ZERXRlJ1R0EwdkZsLWtubmtwNjVQRHQ5LWwyWmpxQy1zT25DX3VJX1FZdk1ySTh4LXpFY0U1M1JXZ2NSNms3WVdaV1pXSEhDeGN3OEw0cnM5U0s2VExpbzdQbjYxb21LbEJ4WlVPSERGUE1mY3NGRE4xYWo1eGlnRkNTVmNxQ09CM243Y2FNOUJzWHRxS1JaV1poSEJkeHN5MnkwYVU1bGJabWxBMFlOMFN0YlHSAYQCQVVfeXFMT3AxOEdxcGxTRWVWNWpqbE1MSnVMWFozallPbnRpT3hoZWN1cmFWN2M3N0tsYWExcUljd21yUmN3QUhITUNiN2VRUFY4eldRampHZnV6OTlDVzMyZ3ZueUplZEFndjdvbTFwNXEzMkxCd0FNV2xqZ3BxcTRqeW5KRTBLekw0M2xfcG5YQ2V4ci1USDh2eHI2OWpLLW1yQ3RDZHZjODIxT290emhlbzRrTk5CQTc0N2VhNHFHOHFManhYc2VxTUZGcm9UQ1p6Z3JnaUNvXzEzeUNIS01YZHFCbjhGSHpOMnhvYW1NUFRTS2JEcEsydzNXdTkwWWJPbUdiOG5sNzE?oc=5",
-        "date": "2026-06-05T21:58:47+00:00",
+        "date": "2026-06-05T22:01:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Mega inauguró una obra clave para procesar más gas de Vaca Muerta y sumar exportaciones",
-        "description": "Mega inauguró una obra clave para procesar más gas de Vaca Muerta y sumar exportaciones La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVFhZTU2NVNYb09qV2hhaXpuOUxNVWtvUTg5cWd3VFhNT055bUtRZjJpRng2c2hfSndFUGlPUE9LLXBleE1BRFpEMTdJcXhyRlFtd0lURldkRk1zeS01aWxjc1dnallqWXJJUVl6UURzQkpsazF2TWxQZXlUdFBCUXVfaUdVRmhlSlZCZ0RFd1RGMXd6RHBhLUY3QkhLQlA4ZE5WM1hLSWFsX19KQzYyQXRyYkh6aDlCLWVUbE4yS3kxdmktQkxITkdGZ3A2akppS2NGQXhoMUQ?oc=5",
-        "date": "2026-06-05T19:56:00+00:00",
-        "source": "La Nación"
       },
       {
         "title": "Crece la industrialización del gas de Vaca Muerta: YPF, Dow y Petrobras ampliaron su planta y preparan un pedido de RIGI",
@@ -198,11 +177,32 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Vaca Muerta y el plan de más de US$10.000 millones para integrar energéticamente a Sudamérica",
-        "description": "Vaca Muerta y el plan de más de US$10.000 millones para integrar energéticamente a Sudamérica Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYlpGampNTFBvdldsTlNrTGhyaFBqTFQ1OXRKRFlqSmRqTnJ2NjFWNVR2N3JrbkNxVVBQbnpmVzNrRjRYbnlNUDFTeEREMTBuVEFVWVFmUEVoY09yVlFFeGU0VFQ4NTBRVzVERGVUbnpDXzBVcGxueTYwbkZpZnZfbkt1WVV5elN2S0s2ZUY4OUNZUmFIQ1ItMUduTHAyQ0VESTlYalFqRl9hY0I0LWw1MVBXc0t5cldxQmgtRllIc000OG9Hel9lRElWc3l4M1Yyb0twQ3ByVUVYOHhNRTBjZdIB9AFBVV95cUxPb091LXN3LXNDMGxOSTZ4enhNa3R6NVU3UWpiTE1JRTdqLWwxYTRPTVRXa3BNcS1wWkl5RFRzSWxOME5WZnViMDFpWDBjQjZuaVMzd053RGRhdUlFaUgxeldjMl9kNUhyZ3VFVzRXOHNyRm81VklBb25vNmltdkc0R2ViYjFKR053a2dFckZSemloSUo3WHo3cmRLZzQwWDFicGtwT1R5YnE5elBxemVTMElyOVZaRzhVbUZXWG9Gd0FwN19FZmQ4cTBTZWRSbnNKNGozUjNQLXdLRV84b3d5QVBDZUpKYXNJS2hVdDFUUTNPOFBY?oc=5",
-        "date": "2026-06-04T09:02:00+00:00",
-        "source": "Bloomberg Línea"
+        "title": "Mega inauguró una obra clave para procesar más gas de Vaca Muerta y sumar exportaciones",
+        "description": "Mega inauguró una obra clave para procesar más gas de Vaca Muerta y sumar exportaciones La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVFhZTU2NVNYb09qV2hhaXpuOUxNVWtvUTg5cWd3VFhNT055bUtRZjJpRng2c2hfSndFUGlPUE9LLXBleE1BRFpEMTdJcXhyRlFtd0lURldkRk1zeS01aWxjc1dnallqWXJJUVl6UURzQkpsazF2TWxQZXlUdFBCUXVfaUdVRmhlSlZCZ0RFd1RGMXd6RHBhLUY3QkhLQlA4ZE5WM1hLSWFsX19KQzYyQXRyYkh6aDlCLWVUbE4yS3kxdmktQkxITkdGZ3A2akppS2NGQXhoMUQ?oc=5",
+        "date": "2026-06-05T19:56:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Neuquén busca en Londres inversores para Vaca Muerta",
+        "description": "Neuquén busca en Londres inversores para Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjlPX2dGY3VESzk0YlpISWk4aGNFNDliN3p6SmNUQlFIdFcwMDVDcTBuZ0RKVTRGMWdUb0RycGdpVXVycDJSdHlWRnE3MmlneFpVM3lTUDhSd21mam9fX0RXeDllOVRqcE5VLUlkMVRaSnpOTm5ySmVzMHMtQ2xFYzhNOHNfb2FybEFWTW5vS05saHZ4NkFVZWd4VGVYeUJVMGpXdQ?oc=5",
+        "date": "2026-06-04T19:54:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "“Ninguna expropiación es una buena señal para los mercados”",
+        "description": "“Ninguna expropiación es una buena señal para los mercados” Fortuna web",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZmhjcnhhM1RsX1Z2MDRHRFVtS2hlNUI5MHpCMjc3R081a1puaGhMZVJHdUVXR0VTS09FeW9tMzBUTDhwYlMwVTBGck1paG1TVXRoMXBrc1ZtS1V6V1NqM1N0R0JxZWlRdkVFTHBZNE9mdVd5dTU4a0pGUGszN1pvRHByQnY4c1VQd0hpMUZSUjNZSGNidlB0QWJaVGwzTzIyRm5UemZNU1NLVm4wS2xR0gG0AUFVX3lxTE1EbFo4Q1VoejU1TkNVRnc0dURMNURTbjVIV0hsSE5BS2hST19yZzJZTzRhRlZoNTdoRmx5cTQ4U1ZDcTVTR2RPb0xqdDd1T3VwX0FjREZ3a3h2VGxEY0NCb2tsZmlwb2hqTTJJNFRHOEtUV3gtT1dnam1Nbm9tZmVuNnRFd25iU0hoOHN0eGJDcXUzLXFwQTNqanVXeVNTRjcyTVpZR3FxWnBNMzdRMGU5OFVueQ?oc=5",
+        "date": "2026-06-05T18:41:00+00:00",
+        "source": "Fortuna web"
+      },
+      {
+        "title": "Montañas de residuos del ‘fracking’ se acumulan y contaminan el ambiente en Argentina",
+        "description": "Montañas de residuos del ‘fracking’ se acumulan y contaminan el ambiente en Argentina EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2xjdE1QMHFjTENFc1RLaVhvZVpKQ2JxSlgxY202QlBjWFhReVd2elJxWXVWMXFXV1ZBU09QSVZXR2VsUkIyT3VwdlIxajI2SW5qT0tVZlFsUW1SeUdac3Jra01CLVJFWGRBVHh2UnZhdzFnQlJyVXBfaXp2cFpQN3lPOXFYOHBFM3gxeE5TMjJYT0dHcFI5UExZaHZ1REZxRHhGMmYySk1EcGEzMDRyeUZfaExTdm96cnhiRmp2aTVVdW5EV2x0U1o1SlFId9IB4gFBVV95cUxQa0J0QjZwSW5fUlJHX01RZmNneURyLWw5UUxYZWtYdEdUazJsNXdYTGhRTHhXY2dPd1VQRGFiZGhoYU1qSjV1aklIbE52eGVMSEJpZHk3NFZOYzBFckJnSVVnVy1rVU9uTmh4YUowQS1QMEllV3lmLVRIZUZSRHo4NFpkTXhUOWYwcEIwSTAyajI1UDh0R24xLUJIWTc5ZnlxcXVqbEhzUkROcVVST3MzN1ZzVHZlckFrNHlRbFZhY2wxVXZGSDhQQkJ2aFRWUWtOTUUzU3ptSldMZmhuQWZRSWF3?oc=5",
+        "date": "2026-06-04T04:00:00+00:00",
+        "source": "EL PAÍS"
       }
     ]
   }
