@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-06T06:25:44Z",
+  "updated_at": "2026-06-06T09:21:40Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft presenta Scout, su primer agente de IA para Copilot, y su primer modelo de razonamiento",
-        "description": "Microsoft presenta Scout, su primer agente de IA para Copilot, y su primer modelo de razonamiento La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXpEWlliOTg4Z29PZ1d1U0c4UXU2eldYdWpXVXdRcFNORkpJOEoyTHJROEhBYlY3MkRfOHo5aUF0VkxmTEFXMThaTWd1NXNmT3RGaDljWXg1UTFHRVlnVTBBSHB1allyR01QZlIyNjQ1dlBQSjFuY0gzR2l2eS1lR1Q5OFVHY2ZBV1VURGYxekQxZ1FkQjAydVpfZnpwc2ZWZ3Jwb0xwZWRCQTB1UmRiZVVXM0lBOFppR1J5ZFdjbmJqTjU1QlFHek9fRVNlT0lHNUZ5UlQtbUx4dmtBNmhTYg?oc=5",
-        "date": "2026-06-02T20:10:00+00:00",
-        "source": "La Nación"
-      },
       {
         "title": "Reid Hoffman deja el directorio de Microsoft para enfocarse en Manus, su startup",
         "description": "Reid Hoffman deja el directorio de Microsoft para enfocarse en Manus, su startup Cadena 3 Argentina",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY3VJMFhxdk4zSG9BZDcxQzZSZDAyV1hpQkdJZ1hwR3BZOTdGeTBTTS1RdWZxdy1XYmRXSXJkQkhXaF9Kejh0TXR3VWxxUWRZME5XdFJ2QVR3LVB5cWJNZ2J5dHdLOTFkV2VQTFo4a1h6R3A2N1YtNXFOX0YtZ2FNc1NpZ3dhcEx2Q0FHc1NIUHZjYmJkMjN0TEM2YXFoem9TdjktanlzbUg0Z3Zrd0hqUDlQaUNQT0wyRlFHZzNpek1UcEE4aU92TWlWUjJFd2ozUTZMMGlJc21yVUV3YWVUQlBQRnB2U2I1clHSAf4BQVVfeXFMT05FdEZlYndKX0ZSalNoWkt2Ql9fcDVaNHVwM2RvSnRwWkozelI3MnVnc0Y1MVdfaE85UFFVazJTVGtuRUtScHg0emRMYXJYM0Qzbms4SldBQVozY1E4WW43dWprcHd2dTRGcDBIb01iNkRtMUtVQXNURWZ5aS14M1NRV2ZEeFpRdG91SGgyUjdYWS1qbEtQUklsbDJzVnlnSGNGVUxDem4tak1sRE5sb25LZDlydHZGNEZpM3MxS0laSWZTbFZFcWN3NC1MMlBtZjNUeHA5bTA0M1RjRWN1UUI5VTl6UFRfNVFEb25yNUZiNHBLXzZBNVQwMlRDOGc?oc=5",
         "date": "2026-06-03T11:45:16+00:00",
         "source": "La Razón"
+      },
+      {
+        "title": "Microsoft pretende resolver el caos del menú contextual de Windows 11",
+        "description": "Microsoft pretende resolver el caos del menú contextual de Windows 11 MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZaTDd2Q3Y3NldxYUdOTmZ1RDJYdDdwbjROVHJxc1RDbHk0bEZVNGVWdmhKeUxVbVlJal9TQkFYMmYwX250MHZlY0JkWmE5VVdkN0w4bWtwUGdtS0o1c1lPN3RtWlpib2NmY2xNZ0NGZVFVNEZrbE00WGVKcnNUdFA2R3pxam93RERyb2lHNjExb1BzMGx4X20yRWJ1ZXd0cjFYSkd4WC1YdUpuSVE?oc=5",
+        "date": "2026-06-04T11:15:56+00:00",
+        "source": "MuyComputer"
       }
     ],
     "Marketing": [
@@ -61,11 +61,11 @@
         "source": "Municipalidad de Salta"
       },
       {
-        "title": "El negocio silencioso que crece entre jóvenes argentinos",
-        "description": "El negocio silencioso que crece entre jóvenes argentinos El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX18xcF9vdkJob1JKUm5wOVdoYW1CR2VJSENSbUJkOGdqSldVOXl3WmZCUjhGc1lkSGhRblpGbUdMWmItWEVjbFFrOVZ4ZHNvcDE1OUtoT2lPbFBxb09fVWQyT0xMWFpGNzc2dGtpejFlWFdFRjlsYm4tM0EyMkdVOWlYRGthcXREQ3o2dzhFdzdyZWx6Wl9kWFpfT3JvVGk1TFN3VzJ0UENfMkEwMlhXYUl6OFVsUlg1NExhdTdvYklSbUNBNjZsTFFpUUhiVnNLMmxoTVBWRWNSd0NTUGZGWUp3?oc=5",
-        "date": "2026-06-05T09:31:30+00:00",
-        "source": "El Litoral"
+        "title": "Por qué los hoteles que se adaptan al marketing digital logran crecer",
+        "description": "Por qué los hoteles que se adaptan al marketing digital logran crecer Perfil",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW9MdlR1cmtVTkZsX2JzcHZqcjlEQm1FN1Rod3NuU0pWQ1kwS3h3MUw3eXhfY3FuUklHWlJKMG92cDdnRUV2WXFaS08yU00yWXU2SnpEN0RncTFyTkN4SGY4OUJBNmJKQmFLVEdYeXZCMEVsX2NRRWdpdm9JSWhXMkZJUTRiZWIzdXFCT3ROaGJCU3JkTkRYV1lTMjNnTVhFNmx3VUtfY3lMY2VCQ2dCLUZXRTRlUdIBuwFBVV95cUxNdzAyV243Y1VrUVRiRlpZdUJmcEZLc1RqUTR4dlpFaTd6bTNxbjJuakJDWW1DY0c1cWxhWFRWNi1LS1lMei1WQ1VZSVZGYmw5RDExN09VRk4zU0M0dVRWNHhaNjYzaGduTkVoN1Z5S204ZWl1aGxWS1ZPZ1VNLTlHN2ptTVNMSWJjQ1o2dG5FRXUyQ3dJcG9DYWF6SVIzRmVsS0dET0NMRlh0cmk3OWRzMFp6bFM2NWVZTTBj?oc=5",
+        "date": "2026-06-04T21:17:08+00:00",
+        "source": "Perfil"
       },
       {
         "title": "El problema silencioso del marketing digital: empresas invierten más, pero reciben menos clientes reales",
@@ -75,11 +75,11 @@
         "source": "puntoapunto.com.ar"
       },
       {
-        "title": "Por qué los hoteles que se adaptan al marketing digital logran crecer",
-        "description": "Por qué los hoteles que se adaptan al marketing digital logran crecer Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdzAyV243Y1VrUVRiRlpZdUJmcEZLc1RqUTR4dlpFaTd6bTNxbjJuakJDWW1DY0c1cWxhWFRWNi1LS1lMei1WQ1VZSVZGYmw5RDExN09VRk4zU0M0dVRWNHhaNjYzaGduTkVoN1Z5S204ZWl1aGxWS1ZPZ1VNLTlHN2ptTVNMSWJjQ1o2dG5FRXUyQ3dJcG9DYWF6SVIzRmVsS0dET0NMRlh0cmk3OWRzMFp6bFM2NWVZTTBj0gG7AUFVX3lxTE13MDJXbjdjVWtRVGJGWll1QmZwRktzVGpRNHh2WkVpN3ptM3FuMm5qQkNZbUNjRzVxbGFYVFY2LUtLWUx6LVZDVVlJVkZibDlEMTE3T1VGTjNTQzR1VFY0eFo2NjNoZ25ORWg3VnlLbThlaXVobFZLVk9nVU0tOUc3am1NU0xJYmNDWjZ0bkVFdTJDd0lwb0NhYXpJUjNGZWxLR0RPQ0xGWHRyaTc5ZHMwWnpsUzY1ZVlNMGM?oc=5",
-        "date": "2026-06-04T18:41:22+00:00",
-        "source": "Perfil"
+        "title": "El negocio silencioso que crece entre jóvenes argentinos",
+        "description": "El negocio silencioso que crece entre jóvenes argentinos El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX18xcF9vdkJob1JKUm5wOVdoYW1CR2VJSENSbUJkOGdqSldVOXl3WmZCUjhGc1lkSGhRblpGbUdMWmItWEVjbFFrOVZ4ZHNvcDE1OUtoT2lPbFBxb09fVWQyT0xMWFpGNzc2dGtpejFlWFdFRjlsYm4tM0EyMkdVOWlYRGthcXREQ3o2dzhFdzdyZWx6Wl9kWFpfT3JvVGk1TFN3VzJ0UENfMkEwMlhXYUl6OFVsUlg1NExhdTdvYklSbUNBNjZsTFFpUUhiVnNLMmxoTVBWRWNSd0NTUGZGWUp3?oc=5",
+        "date": "2026-06-05T09:31:30+00:00",
+        "source": "El Litoral"
       },
       {
         "title": "Marketing Digital y Ventas: la Cámara de Comercio lanza una nueva capacitación",
@@ -126,32 +126,32 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La ONU advierte que la inteligencia artificial consumirá en 2030 tanta agua como 1.300 millones de personas",
-        "description": "La ONU advierte que la inteligencia artificial consumirá en 2030 tanta agua como 1.300 millones de personas Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeVMwUGpBLUI1bmtFNUVubFNPVWFfam51dmxDaEtWTHVOOE5tSF9WNVVQbTRtV3lOY0N4Rlg3bTBzNXZkUzdmYV9sb3Nwb0J0ZDFCN2pTYUxTVDgzd0dGdjVWY0c4N09KWjBnaE8zRTE3TmlMWk9ZRGd1aXNXUm5naU01WFdYbDdMU1dOTUpjTnpjTWMzQXJQT1JVaXhQWWQ3dFJJWXRxYnN3bjdlMEFZZzJNUXItb01RczE0a2NyOUJKbEx5YXZxTVM1dkhUYjJELW5fNklpNlpYVWxhQWZCRXA3YjFYQndyb2wzV24xd9IB9AFBVV95cUxNOWFnY0RZdzVmcy1NTmlsRUhKUEpzdzI1VVk3eDlKX0FMOUlBdGVOeGtwV0hDTFBqeE11R0FEbU5HcDF3UnNGbGdJbUpfbHc1UVd2NmpQaG1wQS1HbXB5XzdRX19yelhVZTM2b2dNLWFCaFAxNEJpY3lDODFqZjk1Ym1sOXczdGt0V3lsc3dqbURPbFg4OVpDM1RSRmRVX0RuV29aRmNQWktMc1pGSkg2aUc5NXQxRHVqT2F2SVpvYWlrMDVzQl9mTFZqTkdPZ04zSEV4d05JTWIzMUhuUWRCaGF3UkhwQko2RC1hOXJwWDlyVS1G?oc=5",
-        "date": "2026-06-04T00:06:00+00:00",
-        "source": "Perfil"
+        "title": "Inteligencia artificial a gran escala: el desafío ambiental que preocupa a la ONU",
+        "description": "Inteligencia artificial a gran escala: el desafío ambiental que preocupa a la ONU Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzlnTkozYnZadHgzdlgxT29SWllkWXBNQnNoZDR4RlFEX053SmhNOW1MWDN3RGlubjJDS2xHMjh3T3dpTUFMS2ZrY0dXT18xOEF3VDRLQlpTSWdzN2xaZVFPME1Wc3gtQy1nYmllSlIzRDlvTFd1eFE4dUJaOGtLZXU5Vkg2Q3J6UjZaNW54aGFpQm5GZS1uMFFzREg4SndKOWk0SFh1djh0U2JNR3MzUzlfZ2ZRZEFweURibdIBxAFBVV95cUxOYzRwZDlqbjlPaTZZUUpreWRrTEtETThUNko5c2VFTTNWU3VMZFA2N3J6dThrOWNLVGlNeWtUaV90VU83aUNXak1LOXpuR2hobFlEeWFHRmpOYWpsVC1pWFlhSEQwbUhXU2NWQVpUYmNEOVByOVAxUUVkTTJ4M1dFWm1hVDBycXpvOFNHOG00a2FsVXpLZ1JrcmlYaFNxdHpqaEFSeTRXck1yRlludzZMY2dUbzdJQnRNdTVEeGo4SnNBamVY?oc=5",
+        "date": "2026-06-06T08:00:00+00:00",
+        "source": "Diario Río Negro"
       },
       {
-        "title": "En San Salvador, expertos analizan los trastornos motores y la Inteligencia Artificial en el diagnóstico temprano del Parkinson",
-        "description": "En San Salvador, expertos analizan los trastornos motores y la Inteligencia Artificial en el diagnóstico temprano del Parkinson Infobae",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNldUUVJzSDNNWmp0aEtsTEVma3hfX2xXWk9rNHFTQXkxbUpBSU1ZcVlfLXFkN1A0b2NtWlotc1FZbU9wZjBHUjF5ME9Tc00zMmxCbmhVNXVOWU5LN2tyM3JhcWNCb1lDTm1ZR2MtVzI0MVBJRnJwbmhlNURRYXYwTTctS2pQMUFZLS1wT3RxWm5rVmNpRENTMWxZV2VKSUJESlNkaHdUd2hkQnhqTDloVFgxQ0YzOEQtTlE0cjlEYUNOS2JmVl92UWpKR29VenRPTFk2TTBZQ2pXb2pYbzZUZ3JDVUtFS2h4QlNETjZnZ3ZUbWZyaDd6LW9lSWhYZDhYczJxWtIBnwJBVV95cUxNR0trZWxjeTRVZ2tucmxXRDZ5d2N0UnJLZG1RZ0MtWkh2bWJXUy1jeXlxelk0WWEyOUVBYzdjMmg4bzZ3M3hHb3V6YjlvMl9mMXpDblRXMmlQZm00RGtQY2hqVmxnSk5ERnNLdG5KbVVEelh6Q0tZSjd6bFFvNGIwTEVhUFRIVkhCdGJ5OG9OS3lsV045SC1UQ0tWa0JQZTU4VWg1WnZ6THk1cDNUWWZhU2FQR2d0QXJVeUVvY01vSmN0c2ZIWUxxUk9xbDZRZFY3VEpNa1VTX3A3X2JjdVloRExXQ3ZXZXEzMzNwT1JWU0MzZGhQVkFEeEh4dW1VVVBUM0R6alFmb0dLd2ZKZlgzSkpZV2NEbG9xMHZfRmJXMA?oc=5",
-        "date": "2026-06-06T03:15:50+00:00",
+        "title": "Cuánto y cómo se usa la inteligencia artificial",
+        "description": "Cuánto y cómo se usa la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcndDbkFydUxlOURXSDZxNFhnaUNvVGJDNFA4aklIa0lpOHAwbV9tcFhVZTI3dUVEZkNveGVPVU1fTktoODEyV1RRWXM2YWNwSkhYNjcycmQyaWVrekJHc1NLX2JfLW5kTmFfem4wbTA2VWVlSER1ODJOdUFncEJ0U25ZYzR4ak5Ia2RTeXhYODhELUgxbzk3bmpSeHZWOUZzdzBaLXlyQ0gzUQ?oc=5",
+        "date": "2026-06-06T09:05:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "El giro de Martin Scorsese hacia la inteligencia artificial empuja un nuevo consenso que asoma en Hollywood",
+        "description": "El giro de Martin Scorsese hacia la inteligencia artificial empuja un nuevo consenso que asoma en Hollywood Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOanFDdkh4OHY1Z0luSTF5ajFxVngwZWRSQ3JUcVV2NkpqcFprdFhRa3hway02X2Q3Yk53bW45dFZlWkhTQ1IwN3ZSaDNCWXpFYWkyS2dya0xtT1otSk9CSTg1c2JuRUtWRWxLWTdZdXBHdUVzVHVNMmNGdE9qU1QzY0p2b2Z3WG1qS3BHdlBEb21WeDV5S0JtQ1BxTVVidjh4bDdQZlpTNVRZVnlLbDBKYzNyTTlaZG1ybXpyWS0zLVctUExuVjR4VWY0aXFKVFJGUlltSGpJb2JuTy1PUkpYb29kdzdTUdIBgAJBVV95cUxOTVkyUXE3c1VqWW5OTHY0WFhEckk4Y0VYdWlVYlZDX1lMamtWVjZCVXM2QWNkYnBQdmlpRmU3aXlmVmNtNEVnaU9sQllZVXM0YlNPYjNRNmRHcVVrUExScGN4WVNwVjlDNXFOWUVyRHhXdFRaWk9NaHVjc1hERnFMdk9vSVl6Vkk1RFJXTXlPbHdoVlN0WjROQXNWT2hidEVZYUthQzZrdGJCVVhyRlN5dS1SMzhMT1d5aFlKX0Jja05CX3dnQ1FJNzJ1WDhxYlNVbThKSlJuSVZ0Nlc5Y0UycXBZcTF5YnlXVlhKV25aYnhvQmszRVF2ZzV3WmFhNW5F?oc=5",
+        "date": "2026-06-05T04:50:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Universidades: los alumnos usan IA, mucho",
-        "description": "Universidades: los alumnos usan IA, mucho Perfil",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRl9OQU9pQnNwMVVYNkZ1cV9VT1dKVFVYWnJpOXFhSjgxeFU0VG5xVGhMZzZHbUpGMi1GdV9iU3EtcUNtSkc2dTljZFpYemJrSWFuVHd6RXRGVncxT0dXS3o4bl9VbU9EZWVEN1JMT1g3UnVhU0o4c2ZPdjV3ME5JVlNLSy10Wl9xMS1VMEphVnZ2YXBx0gGaAUFVX3lxTFBjaTZPU0tCS2RPMnRmNmNodGNyLXI0czYxM2ZpQmxOaVd5OEtLdWdFT055QW1QckZLd2tQZGpMRUs4M3R6N0lwWjhtR2ZHdXJXd2lvZ0N5MjFMcTVfcGhlSFZKMFI4amFfOXJMbTQyMjFULW1qSmxLQ1BjUHg0RzNETWplZ3RYVHpZTWVURWYxVExscGlmR2RLcFE?oc=5",
-        "date": "2026-06-06T05:28:19+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Milei promueve el desarrollo de Inteligencia Artificial en Argentina, pero “sin regular”",
-        "description": "Milei promueve el desarrollo de Inteligencia Artificial en Argentina, pero “sin regular” El Eco",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEk1YWp3cFliUmVKSGdDckxLTFlKTno4SDdERDlNb0ZGSVFNZVJSR2V1SXRkZWVoZkU3ZkE4REZLMVNMN2hTelR3SmJuRS1CRTBfRldPa0FTQjdrT2hkRFFnS1ZrRlJVUW80NVZmdDY4LWx2aWpNRmpSelo0eU1zcE55V2xqUXRqVFU1UXVLZkpuUEhtYURTd2V2Nnh3QVVDMnN5ZEVldDN1d0p0STdPVEgyb0xOVldlYm04?oc=5",
-        "date": "2026-06-05T01:00:00+00:00",
-        "source": "El Eco"
+        "title": "Anthropic advierte que la inteligencia artificial pronto podrá mejorarse a sí misma sin intervención humana",
+        "description": "Anthropic advierte que la inteligencia artificial pronto podrá mejorarse a sí misma sin intervención humana CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlFadlJYY0ZDLVFFbUF3bjFjV1lPQ2ZXX01HNE1PRmtFR0tPbXZxbUF3c1ptY0FkYU51eC1fZElsRTBMVDhpcml3NWt2c0FMOFpBWF9NMTk5V08zdkVzRUgxdm9PYVhPeHd2OHBNZ1hHbkdEdks0MzN2dUhEd1I3TXpiRmxjRGZSSXNkRFplaW0zd3FwcWgwWA?oc=5",
+        "date": "2026-06-05T14:44:00+00:00",
+        "source": "CNN en Español"
       }
     ],
     "Vaca Muerta": [
@@ -191,18 +191,18 @@
         "source": "LM Neuquén"
       },
       {
+        "title": "El desafío de procesar el petróleo de Vaca Muerta: inversiones, tecnología y nuevos procesos",
+        "description": "El desafío de procesar el petróleo de Vaca Muerta: inversiones, tecnología y nuevos procesos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHF5QU1IbFJCOUR5bHJlUjRHMVJfcGFUUmJmeUZkM0NTeXBfZnpCZV9ZUl9sZVlIUEtTdHVaSkp4WWhTS29wUUR1OUUwaHgtMHhFLWRwTENOSGU3TXZ2eEViQ2pMUmRWZzNPRnpNUGxkSXB6YmlENkVEX3pZc24tLXc4QnR5cm1VeDk5VmQyOGE0YWpIS3p4aGp2ZldDNmNBaTlaSG9MOXBRUndQSnRBTXRTYUhIMDl3dlVhOGExVlpjUThTX0FjaURIZGltRG_SAeoBQVVfeXFMUG9SaVdlSl8ydjZtWEZSa2gwTk5Mbk9LcUVseFJia0hoT1JSaFlBSFR5alFYdXZBVzR5ckVoRUJFa0V1X2VnaFpYTENqR0ZSNUJTMmJrekVWVzNNXzVsZk5wRHlvN2c0YzR0RnRWRWRDN3pjZ09NeTdoMVR3ZzNoNmRfQVBfMlpsWnNfUW1SUG5tN2M0U084RXN0NnVmNEhBZEw3YXNNZGJqZ2NfTnVyUUNnTWQ1VG1qTmFLcWJnS3ZUUks1TG9UdFQ5R25QU2g5R2NIOUVUbUFGZ2RycnhXRlZpWG90Z08wT3RB?oc=5",
+        "date": "2026-06-04T19:01:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Vaca Muerta y el plan de más de US$10.000 millones para integrar energéticamente a Sudamérica",
         "description": "Vaca Muerta y el plan de más de US$10.000 millones para integrar energéticamente a Sudamérica Bloomberg Línea",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYlpGampNTFBvdldsTlNrTGhyaFBqTFQ1OXRKRFlqSmRqTnJ2NjFWNVR2N3JrbkNxVVBQbnpmVzNrRjRYbnlNUDFTeEREMTBuVEFVWVFmUEVoY09yVlFFeGU0VFQ4NTBRVzVERGVUbnpDXzBVcGxueTYwbkZpZnZfbkt1WVV5elN2S0s2ZUY4OUNZUmFIQ1ItMUduTHAyQ0VESTlYalFqRl9hY0I0LWw1MVBXc0t5cldxQmgtRllIc000OG9Hel9lRElWc3l4M1Yyb0twQ3ByVUVYOHhNRTBjZdIB9AFBVV95cUxPb091LXN3LXNDMGxOSTZ4enhNa3R6NVU3UWpiTE1JRTdqLWwxYTRPTVRXa3BNcS1wWkl5RFRzSWxOME5WZnViMDFpWDBjQjZuaVMzd053RGRhdUlFaUgxeldjMl9kNUhyZ3VFVzRXOHNyRm81VklBb25vNmltdkc0R2ViYjFKR053a2dFckZSemloSUo3WHo3cmRLZzQwWDFicGtwT1R5YnE5elBxemVTMElyOVZaRzhVbUZXWG9Gd0FwN19FZmQ4cTBTZWRSbnNKNGozUjNQLXdLRV84b3d5QVBDZUpKYXNJS2hVdDFUUTNPOFBY?oc=5",
         "date": "2026-06-04T09:02:00+00:00",
         "source": "Bloomberg Línea"
-      },
-      {
-        "title": "Neuquén busca en Londres inversores para Vaca Muerta",
-        "description": "Neuquén busca en Londres inversores para Vaca Muerta La Nación",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjlPX2dGY3VESzk0YlpISWk4aGNFNDliN3p6SmNUQlFIdFcwMDVDcTBuZ0RKVTRGMWdUb0RycGdpVXVycDJSdHlWRnE3MmlneFpVM3lTUDhSd21mam9fX0RXeDllOVRqcE5VLUlkMVRaSnpOTm5ySmVzMHMtQ2xFYzhNOHNfb2FybEFWTW5vS05saHZ4NkFVZWd4VGVYeUJVMGpXdQ?oc=5",
-        "date": "2026-06-04T19:54:00+00:00",
-        "source": "La Nación"
       }
     ]
   }
