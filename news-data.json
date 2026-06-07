@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T13:41:25Z",
+  "updated_at": "2026-06-07T15:20:52Z",
   "categories": {
     "Microsoft": [
       {
@@ -24,6 +24,13 @@
         "source": "Computer Hoy"
       },
       {
+        "title": "Microsoft promete resolver el desastre de los menús de Windows 11",
+        "description": "Microsoft promete resolver el desastre de los menús de Windows 11 Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBneHN0cFJNejlSU1cyUjhiaVJmaGRDV01UZnFHM0l3ZF9YbEJMbkswNGN0NWFnSWExSi1YM0RkZGVndjcxQkVWN3pBaUlBdW9UbEVmeTJQQkNPa2pEbmJZZjgtcmt6cUNiSzQxSk1rTlR0dThGZXVkMmsyWVRRV0k?oc=5",
+        "date": "2026-06-04T15:30:05+00:00",
+        "source": "Hipertextual"
+      },
+      {
         "title": "Si todavía usas Office 2019, Microsoft confirma cuándo dejará de funcionar",
         "description": "Si todavía usas Office 2019, Microsoft confirma cuándo dejará de funcionar Infobae",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1BWX3YxTjg3NkZiUGFwSVBBUElxb2NqWWxSeGJZbHpRVE01dkt6am8wdXg4UkhIU1l1dnNUbVZmTFNaaUkxX0pXRjRjV2FPVmdaRm50X25jOW9JUm54ejJSZEJpWWpHWHBFYVU0cjQ3U0k4QllDVkgyUW9fS25XcWVoeHA2eDF5OW5ZTUFiMURXN3dRQVVTLTFWbGg4VTQtS09NRXRSdlh1NTJjNG1JeWRxRHFHZ9IB0AFBVV95cUxNWFc5SUszaDRYaVJUT2ZxenMtamhINWxOVWlnY0dMZS1aUmN4NHpLanI3R2pldUNSOVpxdG5YNm1vMnRocmdUbFlNZElVV0JyU2tmWE85QWxjNUdXbGxGQk5BZUd5ZzczWm5PSmJ0RF9PdXFZbHBndlQzMEVxNWQydGNsd2RVemtxSUlwa2J0U1lLSFZ4T1h4MEI4LXd5SG5YVjBHZEp5T3lQZ2R3UnJpUWNCMHNPQ0Q2eTFuWmtjLUVvajZpc3FXWGRVdGZlVEVf?oc=5",
@@ -38,28 +45,14 @@
         "source": "3DJuegos"
       },
       {
-        "title": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA",
-        "description": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUF9NWkFHUk8zTXk1WWFCRk44LXBNZmx5U2R5Zm1EZENTb29mVE5halpfS3lCYndtZkVlU0RsWTRkSkZ0bHFQRlNOS2F2QTVmOHQ0MTFrM2tvaDdSR2lFTy1wMjNrc19ZNlVMRkRaSWRMMU1qN0w2Q3hOR0s2MmtqTi0wQURpWlZ0bllEb2xBbTU0QXFGcXFpTWhxNVhfa3EwNW9GdV9LdXcyN1pHb0VUTkpVaWVNT1ppNnBxb3M2ZVfSAcYBQVVfeXFMTWFzWng3c19kZ0hpWS11OUNkU0pVeHAxRk9Yc0w0YUJKVHVWcXo0NEVucVpVQllsZFVVMUpxZzNOV3NfYmVRNjA3dFBncmtZdTNadzJUY2pzVlpBdlVBczBRRmFXZkxoaldrRzNKbkdVeGZla2xNZ0dFdUk3b1AtTXR5MVhwRTZ0Z3g2Ujg0Wm82VENxdmxYLWlOOXljbHhCT09MejhBVWFBZmY2NjdLOFpMUzRLZi1qUjRJS3VhZVdRRTBWdXJ3?oc=5",
-        "date": "2026-06-01T18:00:29+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
-        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
-        "date": "2026-05-22T07:00:00+00:00",
-        "source": "Xataka"
+        "title": "Copilot ya no es solo un chat: Microsoft estrena los “Autopilotos” para que la IA trabaje de forma autónoma",
+        "description": "Copilot ya no es solo un chat: Microsoft estrena los “Autopilotos” para que la IA trabaje de forma autónoma Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOXVlLXJ0aEYxLW1ZU1JaMWJ4al8wT2NfWXpQeVZBLXRrTDdZMXFBUlNhZlN2eDM3eHk2aHY4ZFNWa0ZDbDNGSlJmRTYtRUhfMXoxV0s5QU1HNnFIUzh4VW9DSDgwVXJxMmVuTUs1UllnU2VacUk2bVhVM1BpVHc2Y2tRM1dUSm1uaGV2ZHRVZjFzQ0Z1bmpLRGJNeTVTcWh4Vk1fUVBTMHNIRmtwelRFdFY4anI0aFJsSjVPeWthV3EySDRRN0lGaXhnSG1pTWxOVC1JcnFQUVBRN1AzMnU00gH6AUFVX3lxTFBpYlBvNmNJc3lVcGxnNk9uS2N4bExjZU54TWU3TjhsMGhYTV9CVGFDZGpiMkdyN2NCVGhUZmVzR0JpOHB1aGdKMnpoQmtXTGt4MGUyRXNMaFVXdURSLXZNMEJfWkhDOTFOMmVEeDFpQV9FTGpsdDRHdW5QbGJwWFJuVzhtM1pDeE9xUWVxeGd0TE1ZQlIwejFZMkdVbDZjcWNySGRiVzduMkJwVjdsZ0Q2TmNUUEszZVZfdjQtb293bU5LaElLUVFEYkJjQ0VyQXc1VWhLTFdZRmJvYS16Umc2Q1pSUG9ta1ozNXZ6WmdXaEs5UU1qRllQbnc?oc=5",
+        "date": "2026-06-04T13:42:00+00:00",
+        "source": "Infobae"
       }
     ],
     "Marketing": [
-      {
-        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
-        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
-        "date": "2026-06-04T15:24:59+00:00",
-        "source": "sanrafael.gov.ar"
-      },
       {
         "title": "Por qué los hoteles que se adaptan al marketing digital logran crecer",
         "description": "Por qué los hoteles que se adaptan al marketing digital logran crecer Perfil",
@@ -82,6 +75,20 @@
         "source": "Diario Primera Linea"
       },
       {
+        "title": "Marketing Digital y Ventas: la Cámara de Comercio lanza una nueva capacitación",
+        "description": "Marketing Digital y Ventas: la Cámara de Comercio lanza una nueva capacitación Chaco On Line",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFEwMVhNaTNlQnVBQzVsN0lCUUQ5NzdDTFZtcmNvSWMxVXI1cGt0aGtPTzBRSE1XVnE1UF81UlhXYVJGaERYaEFPRWk0MkgwYzdFR0RVT1lzTHQxb3prTVV6SkQxbFczcE5TMThJalVUTzVCX0I3QVhYaElYZm9PejZmcV9IMnhnMnA5UVhLM0k1UmxIdUxVTUVTRnctMS10azA3MEFsR1FZT3g5ZDhuMEF0cU8xb3NjMUktb9IBtAFBVV95cUxOb19lUUJVdnVOdnV3QmJoTEJXcnN0WXpLcl9IcTR2QlB3d3kwakdoOTNOQ1pOYS1nUGNCbElSV0ExeUt3OTNjc25FeXdzbVZyVWxJN0hnNXF5V3N5UUE0T2FwOElpV041Qms5ZUFTLWJKQmUybndDMVVPOWN2SWFEX2doV29lc0pzWnE5V0VnXzJxaEplRzhTYzhCQkdPWlZrOFYwSGZRRXlrTWI0bzVrZXdGeVI?oc=5",
+        "date": "2026-06-03T17:19:09+00:00",
+        "source": "Chaco On Line"
+      },
+      {
+        "title": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien",
+        "description": "Mendoza: ¿Marketing Digital o Atraso Operativo? Las PyMEs necesitan dejar de \"verse bien\" para empezar a funcionar bien InfoMendoza",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQalQzNzFTRm9PdjFpRV9DYl9KT0NtT2w4V0VxVzBpTHI2YjBfc3h3dmxwOXVtMGRrc3dxNmxXRHRUNUhkSUUxUzhMR2tGanJLejZMZURMajZGenRMbVk0aUsyNzhJbnI1QWpGMjVWcUZzemdDckt2RjZWRG1IcEN6MFUwNFdMOFhESzRzR1B6S1JmRWNwX25XdXVNOXhKN2pUQnZNY1VFX3c0X1k3bkhSeFJfQzRGQWVnSDVNYXRCNUhJNnRjbUdQV1FYZGM4S2dKUXgtSkEyT2ZPcmQwNXM3MNIB7wFBVV95cUxPak81RXBPcFFjWVFTYTdlcHRfekJWcElUMTZ4dl84YU45bWhfLUlxcDhWRFVjeS1KeGxvWXN5bElYMkhHeE10VC01T0NqSDRibG5ETGoxQ25reDF5TWhwM291QldpeWxHUU5CM1c3dkFockZfaHNUWENpdWduZ1NabjlJQnp4QnktS0xoYjlpYmdmQnR2YjdhaHgwX3NCQ3U3QlItdDVGblBCcWVwSmxkLUF2azg0UEdvNXR0RXVoRWZLS2ttWElwR0t3T2pxdS1vM2x0ZVRDeUNVUVIzbW5oZk9fQWFRUDAxaWs4emZQYw?oc=5",
+        "date": "2026-06-03T23:50:21+00:00",
+        "source": "InfoMendoza"
+      },
+      {
         "title": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital",
         "description": "Convocatoria abierta para capacitadores en Redes Sociales y Marketing Digital Municipalidad de Necochea",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWNxMUxnd3owUzhDMVREbkhyMlYyUnBJSXEtVFdMVm9RQnFhZ1pqenpITXowNmhjd243ZEthVzJ2ZXJCLUVIR3ZydWxuVDhYOVI3NHNkOVBYU1Fxa0dmdE95TEdyWGhtRDBhVkk0Y2JMUTdQOUV4WDRYcHY1WU1IcWswQW4tNkVmTzF3amRoNU1RY2ZPVGZtR0VKUk91RkFUVnB0Sw?oc=5",
@@ -94,23 +101,9 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONjlBdnZGUS1mV0ZVamNuUHRrWFJfN1JIcnhfQlZZT3VYYVBQekxiTDB0Z0M4SjA3TzQ4ejNwOW9Oa0Zfa2tacDBST0Q5dERjaUc2RFlpVjNmWHJKUl9iOHNaSVBJZUZPTmswMEJpMjQ1amhNNUtJaThVcnAxVzNWY0ZzU2Y5MmZncTJXUzhndTEySk9wMTdkSnNaUXRYUF9FYlJSSnpHS01TdWduem96QmlpUVo?oc=5",
         "date": "2026-06-05T00:18:00+00:00",
         "source": "LA17"
-      },
-      {
-        "title": "Francisco Linares y las claves del marketing humano: \"Las personas le compran a las personas; hoy el boom son las marcas personales\"",
-        "description": "Francisco Linares y las claves del marketing humano: \"Las personas le compran a las personas; hoy el boom son las marcas personales\" Noticiasdel6.com",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbjEyT2JfQVd4RThKUzZ6dVJqeGVxQVEzNEpNMFkyWFRwSFUtNzZIOG1ObGtYc1E2M29JZm5tbjNEdU53MF9NV2E5Q0Q5WFUtbFY3T3lQc2VZX1pkYUNnTDFKMGdndDV5MDFIb3NVdG5vYW56YkpVVTNhU2pKalJsc1poMERkZG5fdE44bTJBLUlwUUhfVDdKTzgyOEtTWjJOSnJGR3RmWnNyallIUDVvRk5ZbktwSGo3b1NtLUxGaEdmT3NsVDdVRk9xNHFBOXEteE9idUUtRkRXeWdhcTZxNlVWZmZraThCeUE?oc=5",
-        "date": "2026-06-07T00:03:52+00:00",
-        "source": "Noticiasdel6.com"
       }
     ],
     "IA": [
-      {
-        "title": "Anthropic advierte que la inteligencia artificial pronto podrá mejorarse a sí misma sin intervención humana",
-        "description": "Anthropic advierte que la inteligencia artificial pronto podrá mejorarse a sí misma sin intervención humana CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlFadlJYY0ZDLVFFbUF3bjFjV1lPQ2ZXX01HNE1PRmtFR0tPbXZxbUF3c1ptY0FkYU51eC1fZElsRTBMVDhpcml3NWt2c0FMOFpBWF9NMTk5V08zdkVzRUgxdm9PYVhPeHd2OHBNZ1hHbkdEdks0MzN2dUhEd1I3TXpiRmxjRGZSSXNkRFplaW0zd3FwcWgwWA?oc=5",
-        "date": "2026-06-05T14:44:00+00:00",
-        "source": "CNN en Español"
-      },
       {
         "title": "Cedears: un gigante de la inteligencia artificial se hundió 15% por malos pronósticos",
         "description": "Cedears: un gigante de la inteligencia artificial se hundió 15% por malos pronósticos Ambito",
@@ -147,27 +140,34 @@
         "source": "La Nación"
       },
       {
-        "title": "¿Pareja humana o pareja artificial? El debate que empieza a crecer entre los jóvenes de la Región",
-        "description": "¿Pareja humana o pareja artificial? El debate que empieza a crecer entre los jóvenes de la Región Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcHVHVTIyYXhvcUNiaTFtcVJfR09EajlIWVdwUldpSktwZGMyUkF6LWRja19WWTBzUzZEMFpWWjRMVUY5bWlmNU5rSnpNczlRVl8zTlZRbXpPODMwLU9kZUoydWJ0MGdRLXdpem5jRW9mOTFCNV9HWDIya2NOZDM4dEhnSDdyWExQWkl1ckQwdDZtNkVTekhIRU01ZDJrZ1pIN1hFSVNlRVFzbjdXOF9vVU1OZ1d0al9wbXc3WlAyVHFIZUF2NkpuTlBDM0xtb01CN3oyRU1kTENpaDdtelBaOTRoU1NBUXhVXzJFX1B6NVY2MHJRWHd0SjR0Mng?oc=5",
-        "date": "2026-06-07T05:14:59+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "La encíclica que es mucho más que la inteligencia artificial",
+        "description": "La encíclica que es mucho más que la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFFyRGFwUGFzMHVrZ2x3aGY4QmNuTkQ0RTUzSENKc0FXN2RWN0JDcVlzaW4wRVVDbEpSakhKS0FnYmx2SjBFU1V4Sl82R3I1SmR2ak91R1FyeEZBZE9vbGtfWWdJTXVhYXRKeDFuYy1va3ZoejNZcXJaNF91bnR2Y1p4ck12MTEtLTcyeEZoRXRvNlRFT01QSHFhbkZWd0FFZXRZQktlUGI0YkhieGhj?oc=5",
+        "date": "2026-06-06T22:00:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Poggi y la mirada humanista sobre la Inteligencia Artificial en sintonía con la encíclica del Papa León XIV",
+        "description": "Poggi y la mirada humanista sobre la Inteligencia Artificial en sintonía con la encíclica del Papa León XIV El Chorrillero",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMnhFeHZOdWExSjJNdWhnbjA2VlVFS2lOMnFkbGRWMkVoY1pENmtMdmVhUzdyUXVfc09FVndWRkhwVzJDTmFkRFR2dFVpeEdYNUEyOWxrcTFHamMyVWU3VmQ1bGpQTjBCNWt5R3BmRVk0SGhJblFnYUlCYUhCOGJyMm9OdHlpSG4wS29TRXF4TDR3R19HdFVOREEzLXFkZ1FvWFphWVBQT1ZOaVJ6eGM0ZGx3Y0hCOEhjZDFXS2EwUDBwVXJRUHp0MXZadmtyUVRFQl80ZXNkOXJnaDctTWpvQVJ6d0VTR1VCd2ItUXY1V1EzOHPSAfMBQVVfeXFMTjJ4RXh2TnVhMUoyTXVoZ24wNlZVRUtpTjJxZGxkVjJFaGNaRDZrTHZlYVM3clF1X3NPRVZ3VkZIcFcyQ05hZERUdnRVaXhHWDVBMjlsa3ExR2pjMlVlN1ZkNWxqUE4wQjVreUdwZkVZNEhoSW5RZ2FJQmFIQjhicjJvTnR5aUhuMEtvU0VxeEw0d0dfR3RVTkRBMy1xZGdRb1haYVlQUE9WTmlSenhjNGRsd2NIQjhIY2QxV0thMFAwcFVyUVB6dDF2WnZrclFURUJfNGVzZDlyZ2g3LU1qb0FSendFU0dVQndiLVF2NVdRMzhz?oc=5",
+        "date": "2026-06-06T03:05:08+00:00",
+        "source": "El Chorrillero"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Se reconfigura el poder petrolero",
-        "description": "Se reconfigura el poder petrolero Página|12",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZDB2Z2dmaXJtSWFiMmo0ZmpRb2NHcU5DSDdONXNFWXZHTFhPRmo0YlFmWmJuZzFwM0lObTdWSWtVazFwLVhXaFFTb2NjV2pxczNWZkZWVW5NS1FGZ21SaTFCMWJxbjlnUkRjV3k5VWpWd2lHUTZ1UHpfTHltZw?oc=5",
-        "date": "2026-06-06T23:01:00+00:00",
-        "source": "Página|12"
-      },
       {
         "title": "YPF cerró un acuerdo con Mindlin y Sielecki para industrializar gas de Vaca Muerta por US$ 3.000 millones",
         "description": "YPF cerró un acuerdo con Mindlin y Sielecki para industrializar gas de Vaca Muerta por US$ 3.000 millones Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTzJNNXBEUjlUeXdBem83T3AwVkVLYnpISlEyVDd6QkJ6SEpXenRqb2Nram9NVHdiTFFhRVpOMDE0RzRFM2tBdVJvTE0zMC1Gcm5mbE5JaEFaaTNiZ2U1NFZ5Y3g5a1pvbVhaYzRRXzRjWThSU2swOVVqWC1ucXZYSzV4cGZOalRncGNaMk42YmRvTnFienIyRTlTTVZnSmdua2JlaURhTzBaMGxxZmZZNGY1eU1YMExLVDhibUVWWVRkcTF2RlpQZDFSc3E?oc=5",
         "date": "2026-06-07T09:01:56+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "YPF se suma al mega proyecto de separación de líquidos del gas de Vaca Muerta anunciado por TGS",
+        "description": "YPF se suma al mega proyecto de separación de líquidos del gas de Vaca Muerta anunciado por TGS econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0E1SGdmV2V6ZFFwekpPcVR4LTB3MUQ0SklISWZfX1NZNzY5Q0pLclZtSFdrYThZbXl3SUY2Mm54RHVsemw5aTVEWWE0Y1Y0NTRoYmNfcS1CNXBhbTlhSGhGUUhWdG8weHhSYTFZcGNCbFBjcjJvRmRpWUV3Um1BXzZ1NmhxLTFtd284VHltTlFnTEUxU1l0ZGhlWHFjWFdaY1Fqc215SU1TWHBfajdfTVhZaGhkZlJyMUpYc1JPcTl0TE55Q2NVMXJLeV8?oc=5",
+        "date": "2026-06-07T14:09:10+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "YPF se suma al proyecto de TGS para exportar líquidos derivados del gas de Vaca Muerta",
@@ -177,11 +177,11 @@
         "source": "La Nación"
       },
       {
-        "title": "Montañas de residuos del ‘fracking’ se acumulan y contaminan el ambiente en Argentina",
-        "description": "Montañas de residuos del ‘fracking’ se acumulan y contaminan el ambiente en Argentina EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM2xjdE1QMHFjTENFc1RLaVhvZVpKQ2JxSlgxY202QlBjWFhReVd2elJxWXVWMXFXV1ZBU09QSVZXR2VsUkIyT3VwdlIxajI2SW5qT0tVZlFsUW1SeUdac3Jra01CLVJFWGRBVHh2UnZhdzFnQlJyVXBfaXp2cFpQN3lPOXFYOHBFM3gxeE5TMjJYT0dHcFI5UExZaHZ1REZxRHhGMmYySk1EcGEzMDRyeUZfaExTdm96cnhiRmp2aTVVdW5EV2x0U1o1SlFId9IB4gFBVV95cUxQa0J0QjZwSW5fUlJHX01RZmNneURyLWw5UUxYZWtYdEdUazJsNXdYTGhRTHhXY2dPd1VQRGFiZGhoYU1qSjV1aklIbE52eGVMSEJpZHk3NFZOYzBFckJnSVVnVy1rVU9uTmh4YUowQS1QMEllV3lmLVRIZUZSRHo4NFpkTXhUOWYwcEIwSTAyajI1UDh0R24xLUJIWTc5ZnlxcXVqbEhzUkROcVVST3MzN1ZzVHZlckFrNHlRbFZhY2wxVXZGSDhQQkJ2aFRWUWtOTUUzU3ptSldMZmhuQWZRSWF3?oc=5",
-        "date": "2026-06-04T04:00:00+00:00",
-        "source": "EL PAÍS"
+        "title": "Se reconfigura el poder petrolero",
+        "description": "Se reconfigura el poder petrolero Página|12",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZDB2Z2dmaXJtSWFiMmo0ZmpRb2NHcU5DSDdONXNFWXZHTFhPRmo0YlFmWmJuZzFwM0lObTdWSWtVazFwLVhXaFFTb2NjV2pxczNWZkZWVW5NS1FGZ21SaTFCMWJxbjlnUkRjV3k5VWpWd2lHUTZ1UHpfTHltZw?oc=5",
+        "date": "2026-06-06T23:01:00+00:00",
+        "source": "Página|12"
       },
       {
         "title": "Oportunidad. Pluspetrol busca jóvenes profesionales para Vaca Muerta: requisitos y cómo anotarse",
@@ -191,18 +191,18 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "Mega inauguró una obra clave para procesar más gas de Vaca Muerta y sumar exportaciones",
-        "description": "Mega inauguró una obra clave para procesar más gas de Vaca Muerta y sumar exportaciones La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVFhZTU2NVNYb09qV2hhaXpuOUxNVWtvUTg5cWd3VFhNT055bUtRZjJpRng2c2hfSndFUGlPUE9LLXBleE1BRFpEMTdJcXhyRlFtd0lURldkRk1zeS01aWxjc1dnallqWXJJUVl6UURzQkpsazF2TWxQZXlUdFBCUXVfaUdVRmhlSlZCZ0RFd1RGMXd6RHBhLUY3QkhLQlA4ZE5WM1hLSWFsX19KQzYyQXRyYkh6aDlCLWVUbE4yS3kxdmktQkxITkdGZ3A2akppS2NGQXhoMUQ?oc=5",
-        "date": "2026-06-05T19:56:00+00:00",
-        "source": "La Nación"
+        "title": "Christian Asinelli sobre Vaca Muerta: La pregunta es qué se va a hacer con las ganancias extraordinarias",
+        "description": "Christian Asinelli sobre Vaca Muerta: La pregunta es qué se va a hacer con las ganancias extraordinarias Los Andes",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3RxRThVc1hSenRwNTlFd1pZSTFfa25VU0EzM1l3X1psbDdUTjhLUmFGVWEyeS1fTzBITmhEYWd4cENUamdveWRUTGM1US1Sdml4cmh0RERobVhJVjhtMDF2X2Vjd3hZcFMwRmJGVGpLaXlDQkNPcDc4Ykw5azg5Sjk1dEVDUmpZMENwTjFMV2VHZGtQXzlvM3dldU5QdWU1UEw2Q1A3amg4VkotWWh5c0xvZndFQzYyU2Q4eVNPbVN6WEVaOVZ3MzRzLTJvQ3VGNXUw?oc=5",
+        "date": "2026-06-05T22:55:49+00:00",
+        "source": "Los Andes"
       },
       {
-        "title": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta",
-        "description": "YPF, Petrobras y Dow realizaron una inversión de USD 260 millones para potenciar el crecimiento en Vaca Muerta Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbzkzQWNiUDA3SktWMkc4VF80bUVybFhuTFZzVkt0d1BPT2lVbEFWNHotUmZBQkh6ejhVVC10ZERXRlJ1R0EwdkZsLWtubmtwNjVQRHQ5LWwyWmpxQy1zT25DX3VJX1FZdk1ySTh4LXpFY0U1M1JXZ2NSNms3WVdaV1pXSEhDeGN3OEw0cnM5U0s2VExpbzdQbjYxb21LbEJ4WlVPSERGUE1mY3NGRE4xYWo1eGlnRkNTVmNxQ09CM243Y2FNOUJzWHRxS1JaV1poSEJkeHN5MnkwYVU1bGJabWxBMFlOMFN0YlHSAYQCQVVfeXFMT3AxOEdxcGxTRWVWNWpqbE1MSnVMWFozallPbnRpT3hoZWN1cmFWN2M3N0tsYWExcUljd21yUmN3QUhITUNiN2VRUFY4eldRampHZnV6OTlDVzMyZ3ZueUplZEFndjdvbTFwNXEzMkxCd0FNV2xqZ3BxcTRqeW5KRTBLekw0M2xfcG5YQ2V4ci1USDh2eHI2OWpLLW1yQ3RDZHZjODIxT290emhlbzRrTk5CQTc0N2VhNHFHOHFManhYc2VxTUZGcm9UQ1p6Z3JnaUNvXzEzeUNIS01YZHFCbjhGSHpOMnhvYW1NUFRTS2JEcEsydzNXdTkwWWJPbUdiOG5sNzE?oc=5",
-        "date": "2026-06-05T22:01:00+00:00",
-        "source": "Infobae"
+        "title": "Del Estrecho de Ormuz a Vaca Muerta: la industria ve una oportunidad para Argentina",
+        "description": "Del Estrecho de Ormuz a Vaca Muerta: la industria ve una oportunidad para Argentina LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM0drSTJWN1NoVm1rQzBqRGtVZkZaQVY4M2hpRWZnR1M3eE1BNUxIa21oZVZZbzM1YXlNVFI5SEk5bWI0d21UWXNFS3paZl9RX09xODhuX3VIUHZVRzJINm9Dc05EcGhvTWwtQVVxZHRiRUJKakVUWE1FMTNKRFJ4ZDcwODFxbjB0Wm5ST2dNaEdjS2s4TEFkdnpZMXRKeHZKQUZhYzF5WThWQ0xiSHEzWFJ30gG3AUFVX3lxTFBKOVh5dmcxV0NzOVlwN3dxek9IOC12bEhpVFRQSzFSWE1rOFZnWUsxeS1PbG5Fbjh0M2w3eENEeF9FV2RRRzZLSTR5Q3ZRY1NJTFBuSW1sNkxTdVBzSy1WWHMxVGRUaUM4UU9HWkpDOXZuMFZib3NxY3hsMVV3NWF6aU5KbzJWWklYYm1lblpWTzIzQ09SX1ZUSk9wOHJzMS1VYW9zZmRUdTd3a1dyMWpoMFpNc3pPWQ?oc=5",
+        "date": "2026-06-06T02:55:00+00:00",
+        "source": "LM Neuquén"
       }
     ]
   }
