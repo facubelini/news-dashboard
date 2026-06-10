@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T09:48:45Z",
+  "updated_at": "2026-06-10T12:51:50Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXN0SW44RU0yTVoxbUlHNDlUUVdWX0VkNE5nVVQ2UWN5c1Bsc2c3aU1rSkE3YWlyWG9wOEFMd2lIMEEwNVdxNWY4TWVuOXM1b1YzVWlheVkyQ3c0Q3JjV1huN1JXOVF6OF8ybGJwNWw2T09yc3RoWVZVa3ZXdXo4NVRjY2xhV3FOWG9vOEhtdnIxTXB6S1dyY2JhaDg1NG1RZ1Iyc2N2TDBjSVFiQXlDZ3FRY1RHVnVqaUFSdjlYUnhNeVM3c0HSAcsBQVVfeXFMTkswRksxczNCRUpQMUp0YmNGV3BNWVVIZE5IeHBQMm9EajVpWmhYR3k0ZFlrYVotRzVTRTRVenpob1EwMFZSY01OUlFtRUhZZXVrVWI5ZlJWQmtpSHZ5eTNQMndrVXVfZFkxeE9rOXZYQ2lQLVR2MEVoMG5zRDlQY2xJdlUxWTQ4RVc4NGU1TFNqNUtZTGI1MVBBMF95Y0NxLXRXWXRNVUNKdVpJZUcyckdXcHYwN1lIVG9uS0RaWWJMUDhvWEJLTUVsTkk?oc=5",
         "date": "2026-06-09T14:45:26+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "La cámara secreta de Microsoft: entrar en ella puede llevar a la locura",
+        "description": "La cámara secreta de Microsoft: entrar en ella puede llevar a la locura Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0hvRUs4bGlKcGFoN0lNTGE1MWxEcFhORkNMNTI1NDQ0TWExZjhEd190d1BZMFdYbE4zWmV3WWFDUlZNNVpva0VGWWE1VjM3R1lqdUdrS1A2NVFvNlNUVGJPVXFQZWpvaEV1VVF2VzMwRHZCdWFTQUttemxaUXdsczZHUDdWSWIxeWJLS2RMV280ZXRwZkxDVHExbWlRSkg0SE1ZajhlZUxmZ9IBrwFBVV95cUxNMVhYRVhPVHVBc3JMdHp5bllRdkdGVlFUdlFkRWRRWGl3c3RrZDFpM2hsM3dieU9pWENlUUxZc1VSSHc2OWdteUdUZjZCeENwWVM2VGJLWlNZcXM4cXZzdXFkLWNodF9oV2tNU2htbXZqblVSS3ZacG9xREUwZklxMnRJREk4RGFBc0tjazRhZnIwTVFwU2ozU3JvR0kxajBvVHJCQkNldkIwOTJKc1Bz?oc=5",
+        "date": "2026-06-10T11:22:55+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Italo Vignoli (LibreOffice) acusa a Euro-Office de reforzar el control de Microsoft en Europa",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUxBSk44cDd5eXpUUDdQSmlWb3hZSzA1UUNpUy1rd2p3a3A5Z1FIeGd3Q1BGdC1nV0dlemNyVmRBcG43Wl9LTXNDVU5YcmRNcDhGcWliUXlGbE5vTHBiaU4zelNIN1RvMFNYZkVJY2xYUmpQUzNPS3EtbTdjUE44TkVReVE4ei1kNFkwdUgwdDVkSU9QMXJHUjBrMUxqMmJJOUhKMWM2Y0ZlOTExenllZEVndnhIUDdjVlAtcEEwN1Y5Y2RHQUNRd21WN0Q2SEJ4?oc=5",
         "date": "2026-06-09T12:04:16+00:00",
         "source": "VidaExtra"
-      },
-      {
-        "title": "Microsoft lanza Windows 11 Beta para ARM, Snapdragon X2 y RTX Spark",
-        "description": "Microsoft lanza Windows 11 Beta para ARM, Snapdragon X2 y RTX Spark MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGEyR3doV3NOTWFQMXMyRFloT05ZUnQ5dFphOG80WTh5SW9OSmVuZmdveXRjNVVMVm9wa3FwU0hSRFJ6QlQwaHByWVd4WFNzMWc2Uko0VzNQUW1vZzBWVFVabXlHdm10UzNGYXdBSFB1UkZSWDZzZUFURVlZaTVaaEFJLXRMa1NfbE5BVmFVSkhaRWh1Nk9KVEFfRE11YmozTWRDNjJvc0xQQQ?oc=5",
-        "date": "2026-06-10T05:12:40+00:00",
-        "source": "MuyComputer"
       }
     ],
     "Marketing": [
@@ -119,39 +119,39 @@
         "source": "Página|12"
       },
       {
-        "title": "La inteligencia artificial y la ilusión de la autorregulación",
-        "description": "La inteligencia artificial y la ilusión de la autorregulación Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ1VVamVDcmh1OE1QRllMYmhKOGY2S2pXY3M2bG05dW5LU3JRdjB6VUpDai1URnRoVU1OWTMxSDhkdG9zVWdhZTY3dVA1eWN3cHVSQTduQ2hLWHl6Qjdra1UzSXBhYzNwUmd3RUxwaGNlT3huQ0QzeThySE9yVlgteVdRbDJBYVJzcXNyMUl6ZXlYNm41bC1vMGJZNHNiQWpUb2U0bHlqRG5rQUXSAbABQVVfeXFMT05wTnhkX1A4YW0ydm5xaE94WTc4dm0yejhCQUdNMTBsWWUxMGdsU1Y5VUc5a2xKb01BUVYtUkxnNWZ5cHZVU216MDV4amR2RE81NmpjNmR4YVRrOXMyWFk3UkVibC1GdGFpYmI2SFFGVTRmZElnemlqb2pFVWxyT1ctRGRwcnVuN0ZpUzgxdUdIQzRYRWNRVzVDbXoyWlgyYldRblMtZ19sV2lfQ01jeXQ?oc=5",
-        "date": "2026-06-10T01:28:21+00:00",
-        "source": "Perfil"
+        "title": "Cómo surgió la polémica entre Javier Milei, Yuval Harari y el jefe de IA de Microsoft por las empresas gestionadas por inteligencia artificial",
+        "description": "Cómo surgió la polémica entre Javier Milei, Yuval Harari y el jefe de IA de Microsoft por las empresas gestionadas por inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVWNOVkJ6a3pueFM0TTdXZVptMGkxZmp3YnZUbzhaZU8zOHhpekFvTkhETm9EZ0w3QWJIZUhLc2lSX1J6V19WVXo1cWRud3c2bV9GR2VhY0I2Z0FpdmNTRGl5V1B4akVYUE1xWFZlcHctVGZFd056eWdESEhuMm1yT0J5c3VHVDV2RGhySEY3c2NvdUctSlpqUC1pcGVidXJXSlhMa2tWT1QyWTRHRXZwUGx0Qm5lT3JWNWQxbEI4S05LSVZIOEdfQnVtYVNFSjhqYk9BWEIwaDJ3S0RPTWc?oc=5",
+        "date": "2026-06-10T11:37:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "IA desde cero: cómo es el curso gratuito para aprender a usarla en el trabajo y en la vida diaria",
-        "description": "IA desde cero: cómo es el curso gratuito para aprender a usarla en el trabajo y en la vida diaria Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUJteHZ5NHNXYmFGNENpSHBZUlU0S2NpbmRRRE5Fc2w5ZndEOGtla1U0cnRkajNiOExVR1ljRWpfcjNQWUhGRGNSVWJTWVdiYV9vRnA2bmlUbDlfOHBIaUNrTW5DbWU2c1Vja2xuVUJGaFM3R0pFQzFFLTF4VWxVTmR0NlBtSVdHMWJEOVBNTUJWRDFiWFkwQjZHOGJkOWtLSVdOVVhFOE5VXzFlTEE?oc=5",
-        "date": "2026-06-10T09:00:39+00:00",
+        "title": "Mo Yan, Premio Nobel: “La inteligencia artificial produce obras de segunda mano\"",
+        "description": "Mo Yan, Premio Nobel: “La inteligencia artificial produce obras de segunda mano\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV0tRR0pydmdieGl6YUloNDRWcG1NTUFtUDUySkV2X2Z2Q29wUzdFTjZuejRYUWFkRFJ4SHFUMnUtSEVmZUpfUklZdzBfTGVReXZSbTladUNBS3A0M09nRnNRRlJlTlZWY1Y3NERaRmVGU3FVM0FvZmwxYzBlTXFJOFB0R0ZSS3ZMdGVmV3FrRUVxdjRTaFR1QkFSeS1zaTJDVW9kNHZrNjZRdy1LZnZTdmltdnhzZ1hKWUpj?oc=5",
+        "date": "2026-06-10T11:00:41+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "Los supervisores financieros alertan de que la IA podría tomar acciones por su cuenta y cometer ilegalidades",
-        "description": "Los supervisores financieros alertan de que la IA podría tomar acciones por su cuenta y cometer ilegalidades Cinco Días",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbU1DQ1pNcmNEYU9vV1VfMk90WVNUcW5zVzJ3cDVvNWlrY2FDZ05FcEhoZzE0QXFyNUVXTERYaTJhTHlBcXM2eTFGQzQ3OUZSbUh3UmN5RXB1VDRSZVJmdU5tWEtkWmRtcnR3WWJ2SFRnZzZxTmlOdzVmNVc4bjQ3Y3hyYk9SR2lUZjdOaHBZLTM2ZlJ4RVZ1bXdORzYxQ3JhNW9JZDZORk15OG9ydVlWNVUwS09vTFEwdEJDYzZoTW9yaG1oMWRWaDM4TGFjRkxpelBKZlB3TlpabVYxNlZHdzFUM28yVEdFZVpWWkdXbDExM213bVFFMFJUaGxvcTRldXlNRdIBmAJBVV95cUxNQWlac2wwdXNNejB6X3JKMEZZRUJvRUVqYVU1bWdTRU1pOGZaVHlqbG9MRGRKRzVYenNVSXFiN0RtNk1uY2R2UjBHRkdGUzhHQXFFXzBZWUJBNDdmdXp5dF8zcVRPM19PU3MwU3d6VkZoOVp3aGtvUVBTaUROSnNwMk5zcTFyb2xyUFF1c0tiaHlKNDRTX1kzT0lvbUIzcmRsYU5lbnpncHFuUnJYN3c3ZUZtZWNkOS0tSjFYbUFJWE9sUEQ2TFJQV2M3YmkxWUhrangzZXh2RXJkRzhYM2JnWmZWQm1ycUN3QVpTamVZUTVSQ1RZTm5WVXJucnMzT3dBcTRVMGJKNG9xS0hjaTdYU3VUVEpsWU5Z?oc=5",
-        "date": "2026-06-10T08:20:01+00:00",
-        "source": "Cinco Días"
+        "title": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos”",
+        "description": "Anthropic lanza una versión “segura” de Mythos, el programa que ha puesto en guardia a todo el planeta: “Hay que prepararse por si cae en malas manos” EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOWEhFdXNGN3QyVUVnT3NaOTBBdzJqenp5OW1XVlRFUG1DRS1BbVgyZjM3QWI4aEpEQ29yU0lqbmstX0tYREtXRmg4a3FLc0w2ZTJxdnFMWEg4Q1haR1BNckxVcEcwdjlRYmpqMkFhUFpnNVhIZVRWWE1IU3pjWDRSbUp3SXZlZ3Q1aDRqQ3VYMnpFUEpBNWdjZWVQSXNINkdvdEhWUzB4NFJ2ajJfdEQtdEVDN3praG5vWjBaV2dNNUtaZ3NJSlJiQUd4YzZvbmN4MEEzSktxbndGLWxvRXZYOEdENDhRbGVLRzRtNWJ2YURVR0ZKbnNkdUR2ZDEwdmpTaFNBSWJQMldrTm9abVI2Rkw3OXBoNHRtQVHSAa4CQVVfeXFMUGdEdW03NUxUMXpCcDVRLVNiU3oyUzFNMW9xSFlOdzM0amZwOTNXTmJFTXlPMkk0cDhmX3UyY0x1TllhSXNmeGRLZUt3Z2JtX1pta0VKSEhrVFVQRWpBTU1kdnIzLUpial9taHBZOHAzcXV3V05BWVUwOG5wYnVfVG1DUkFCMzNkT1YzMW45cExnWmRKdjNEY2RkTjR6dVAzd3RvNUZZZEUtMWsyNlhWVVdpSEtYVTk5QWpiakpwT2I4SmhLelREMEhQb1hiYjVDcGh1N0FvamlfTThibXpXQmtNMVNqbWlaRUd6d3BFYUdHUk9manJieUoyUktfUmR4cWNzYkd6aTdiTGFFbEM5MGY4LVhxdHFtRjNlNHZVcHhnUGc3TmFvblJLR0ZBOHc?oc=5",
+        "date": "2026-06-10T11:51:05+00:00",
+        "source": "EL PAÍS"
       },
       {
-        "title": "Prueban en humanos la primera vacuna del mundo diseñada con Inteligencia Artificial para inmunizar frente a virus de murciélagos",
-        "description": "Prueban en humanos la primera vacuna del mundo diseñada con Inteligencia Artificial para inmunizar frente a virus de murciélagos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeU9zVGVLNDhQMUhwb29JNm1WNVplb2hVQTJPUUlmdXVoRG11N3NadkZJbG85a3o4T3RTUzZqdVpXUm56RVdtMk43STdaYndJSVVJb3h1b0FEbnB1d3RtNDB0OC0xTnhjOEJlLXd0NTdhWXFIRUZDWlZJMXg1cmxfZEJtVTBqTHc5emR4RWw3Qk9vb3BxbFlycU1nZkFvbzRPanJEZ3dUMW4xSF8wOFRfUXdlek5pSEtxdldPd3JZZTNCZTRnZWsxYU8zeC0xQmh6UThySVNMdWZhR1Y5bmttVjZid2daQk5QOG1VNjYwdjJUWmViNlZOLXRjNFVDM3Nl?oc=5",
-        "date": "2026-06-10T06:33:41+00:00",
-        "source": "Infobae"
+        "title": "¿La inteligencia artificial manipula nuestras emociones? El debate detrás de los algoritmos",
+        "description": "¿La inteligencia artificial manipula nuestras emociones? El debate detrás de los algoritmos Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMW1jbXVLYnhwbFF5QU5kYnFjazZtZzkxcjFIRGRLUUJNZm8wbjdxbFJsdmpuU2lfTlBsSjNFclhRdXpnQzRjcE0xZHhMVjU3d2RrdWR5Yl9LV3JFLTZhZWU1NDJfUjNraV80OEFQYnJoUFNxYWk1MkthZzZJXzE4T3V0dUFjVkJRT0RzMjFyMkJzU3JIYUIwNk93MTIzbTRYWm9FamItZUVSWXdQTUZKREN3a29yR0pMSTR0dTFGZ1g3Z3BteE9fZUo0TWhBRmtIbk1hZklzVW1DMi12?oc=5",
+        "date": "2026-06-10T11:02:00+00:00",
+        "source": "Perfil"
       },
       {
-        "title": "Mundial 2026: Olé presenta un chat con Inteligencia Artificial para saber todo sobre la Copa del Mundo",
-        "description": "Mundial 2026: Olé presenta un chat con Inteligencia Artificial para saber todo sobre la Copa del Mundo Olé",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFdGZ0tFMXhUQTdwTkR4RGpDWDJzbWQyeXU3NWJLX294Z2l0aXNYZktOVnZJaE82QnlnbGZRMTdrMm1TTUc1OFljNFJleTM2RkYyNDRoZm0yQ0NrWW1FelF2MkdNQjltT0RfTFJSUXppSHAxSUZkdG1QM1BxUzVQUFNiQ1rSAYoBQVVfeXFMTnMzRV9GUTh5Um03UzVWTUJIbl9MNjFjUzV5ekdKTG5rb2NVUFhXSHY4dzhjSkxOYWZYdXVDY2VuSmhDS01KNVpxTWhZbUpHY2ExZVlTUmxmNEtrVHJmU2t0YUtFZm5SWGVJR0hlRzNGUUJOb3ROVmJYR0hncmpJMWdkTHVBUDZpYkJ3?oc=5",
-        "date": "2026-06-10T00:08:36+00:00",
-        "source": "Olé"
+        "title": "El Papa León XIV, la IA, un Atlas y...",
+        "description": "El Papa León XIV, la IA, un Atlas y... Página|12",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpMmJEdENWcUpIWXd6aHlhcE4wXzBfbHY3RHo3T2xsMzd4dVZJS1laMVNZYU5VQ1l1YUg4WXJKY0Vwc0RsUEI4MUJsVTJCQ2FKS0doWUlsMGctX1g0RTU3YTJ6aUI0WkZ5TWhyYk1La3EtYnBLT1F2dVFMWEFkZw?oc=5",
+        "date": "2026-06-09T23:59:00+00:00",
+        "source": "Página|12"
       }
     ],
     "Vaca Muerta": [
@@ -163,18 +163,25 @@
         "source": "LM Neuquén"
       },
       {
-        "title": "Otra ciudad se sube al tren de Vaca Muerta y ya duplica su población en el día: desafíos e interrogantes",
-        "description": "Otra ciudad se sube al tren de Vaca Muerta y ya duplica su población en el día: desafíos e interrogantes Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbnd4c2R5VG83SUVrVkdwY09xTUJFQ0tldXZEenE5RWpfOVloZUlLYm11X0VHejhUakRwb3dEdW5ndFU0ZU4wYUZXbkxGMVdQbmN3ZUhCV3l4XzdXM1Zha190SjhKTDl3NnR6ekVvMmZRNkNpZjNyMXAwM08ycVREZkEyWnZnSlA3ZXUxVG9PdUw2UG9nMURFYVBqeDg2OTlWNGIyeHp0SWFfelV4STZhVTgwdHhNYjZVdzdyOWdQOFBiUDdfSGRNWWV5QlBfLVNpdmFEcmlfNFrSAeABQVVfeXFMTkdBNVhvenlSV1RIS0JPM2o2LWlkSUhfend6Wl9LRDg4UDZHenc5cE5ZTUdwR0RTbnEtc0lCWDFjSWppREQxbkU3YVQxakUtT3lTTU90aUY4OXNZeWZYVkFTNFNRdUR2N2U5dVJodThRcU9YX1l2cXVnRDdJeGUyMnhKdUxSdGFYU0c3NDdmVWZFVWp3YWI3b1ZuUkI4ZTUtUXVPTTcta3dRRGg5RE0yajdZTTZNbmRQM3Jmb05icTRkdVliQmVZSWVhb0w2NjdWbTZ0R3ZzeW9BWG1tNnYwMXM?oc=5",
-        "date": "2026-06-08T03:30:00+00:00",
+        "title": "Mineras se llevan la arena de Entre Ríos para producir petróleo en Vaca Muerta y están generando un desa...",
+        "description": "Mineras se llevan la arena de Entre Ríos para producir petróleo en Vaca Muerta y están generando un desa... Economía Sustentable",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeVRKN2hRdHBlUFVMbTNzNXJXQVhnX0F4MXBNU1lfOGpkRTlkNU1VaXIzQzlodmQ2X1dFMmZ3V2ZaTUU3TWRfaHdyLVlJYkVRU2xlTFdFWGhFeUdOc0U0NVR4SGNOWVJIeVZDUjNTYjdRUF9uVWMtRVVaSUdidFNCU0Z0VGxzT1ZXbW5KN3NkOVRmUEx5T0VvYXdNZUVheHdVVUxUZWd2QU51Rm9KLXN0R001TXhFNXpaYnJ1R1RNWWdPYWVjdGtZYXFTaG44NTFzQWFYa19mN1VoOGlQR0NLYVRsZnBNaEVGcEVSbG50OU5kUdIB9wFBVV95cUxQRVRNdzJMdlJQNUpia1VIWDNXbFZSNTBRQm9YTzJTb3hCbm5VNVR1YnpMMUU4aUJWc2N6cTZyV3VNNkZQeUlvQnZMVXFPR2t2b0hSSkhIc3JfLXJfdnJOTDJwODF1d1EtVko0T0ZOZzJlZDFyMDVDSkc2aGtuWjdKT0ZRanhRRU9uMk9CMXQ0emdBUUllbm11NW9QWWdwekpfWVFOR1E0RTlzcW1XZzdQYnhXM3VNZkJyZ1JXcUQwYUczelNHMUxxQUhxU3M2LUtCTW1FOWl5VEtzZWl5QkxVMHlpeDNBMUNFbDB4a2U2SUhJWjdISDA4?oc=5",
+        "date": "2026-06-09T10:23:05+00:00",
+        "source": "Economía Sustentable"
+      },
+      {
+        "title": "Con YPF a bordo, avanza el proyecto de US$ 3.000 millones que busca convertir el gas de Vaca Muerta en un nuevo motor exportador",
+        "description": "Con YPF a bordo, avanza el proyecto de US$ 3.000 millones que busca convertir el gas de Vaca Muerta en un nuevo motor exportador Diario Río Negro Nuevo polo exportador de Vaca Muerta: YPF se suma al plan de TGS de u$s3.000 millones iProfesional Marín define el nuevo mapa de Vaca…",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUWN5VTlxb0JBRXV4Z3RNTXlIVHhOMU5palkxcEg1ODlLUVRzdmMxcUZRMktUQU9iNFA5WlRYdzFDd1VBc081N0ZSZGpEOGJyaDVuemJ5blRuLVQ5YS1LY3ViM3J2RzJXVHpLSVliNmREeEI0WXNaOGQ1LUJ2RkhCdEs4dmU4OEp4TmtSSlZiQktEYnBLVjlfVDY1YTdJZl9qNnZ6NWljRDQyNkVrSXBsVGxPdjB6WE5Fdlh1VmRVeDZTanlRamVlYUExcFJQS3ZrMUFhNmZTd2tvRXBWYmJNTWFST1dVY1o0V2ZMaVVaRnh3SUlqd0HSAf4BQVVfeXFMUFVSS2kwQW9mUEhxQndDMnVNd1ZmTUItWmZqRVVEYkpMOTdFZVlnZlc4c2lYZGJvMzFybHNvSjlINDVWUE9wUjRpM3RrdHh5WUlUVkZObzFkZW9uS2hKUUdzVDNHTF80RFFNek5aRHdBRVJoYTdPbWlUdnhweDBibGJjenFhWjVTNW9NQUs0V0hvRUZXc01RNTJtVWw4OTJaYmljekRHQ1ZTZDdjZkRzNk53V281NWkzQkRGRGJZOUpZQnJiNERkY2FpOXRwNDVxTUM5WGRsRU8tR3VLTWtlQWhaVjdQaDc5Z0pnOEZFckVXUGNRLVltT1Rac2RnclE?oc=5",
+        "date": "2026-06-09T03:07:00+00:00",
         "source": "Diario Río Negro"
       },
       {
-        "title": "¿El otro agro? Vaca Muerta y la minería aportaron este año la misma cantidad de dólares que el campo",
-        "description": "¿El otro agro? Vaca Muerta y la minería aportaron este año la misma cantidad de dólares que el campo Clarin.com Boom de Vaca Muerta y la minería: generaron la misma cantidad de dólares que el agro en el primer cuatrimestre Infobae De Vaca Muerta a la minería, el nuevo cuello de…",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1lRW5TbkJTR0FSWVpjSUxUZ2d0cjdtNjd6TmI3SExhMXB5V0lwZk5lbjBzU2tqRnNoYmlBdVpxMXhtYnJhNGVPTGxqX05XRGJFaGtoX1kyQXRyMHQ2MFlYQkphVmxIMHFxaUgxaWtDaXVIOUtZWnlNakRZQ0Y4b2w4WV9XbC1sSk54WHlvc3plY09xalBoNzNkWE5wRTdQVXBVSnVHUExQb0dtc0NqQ2hfZmxXR2hY?oc=5",
-        "date": "2026-06-09T20:23:07+00:00",
-        "source": "Clarin.com"
+        "title": "Boom de Vaca Muerta y la minería: generaron la misma cantidad de dólares que el agro en el primer cuatrimestre",
+        "description": "Boom de Vaca Muerta y la minería: generaron la misma cantidad de dólares que el agro en el primer cuatrimestre Infobae ¿El otro agro? Vaca Muerta y la minería aportaron este año la misma cantidad de dólares que el campo Clarin.com De Vaca Muerta a la minería, el nuevo cuello de…",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSko1RnVQZ1pZZzdYRS04QkN5NzNtMnhzbVdqekg0VGtuMngzb00ya0EzNHZqXzl4OTFNYnZGdmI4RGpOT0h1MVRnOEtsdFRKX0ZyTVRsV2VpYVpOZDdsUmhUaDNyT3JIdTNuTzNhaUNxNkN5SGJkdHh1blVsNVFLZjRXbjU5b2c0WDNpVHNTYXI4WEhBRHRQR3oxNnlmeEkzMUdqcVJHNEdDQVNqdExEQUp4dDJIYlhNSi1uN2g3cjV4QW9uTXJ2V2JrSWRibEctTVU3SVE3aGlzZ25NOVZoamJ2MmVDWG1zeWfSAYQCQVVfeXFMTVRVdUxHN3R1dExVREVTOTV3SEtsZkNzRGNYM2loenJrbFZxeGxRalFZaU1Dc3NxUTlZNEhDTUgwc2RoWElXN3h3RGhod3F6d2FTWUhKUFZndjR6amxnY0Y1Y2U1XzNzelpZbk83OGlXVHZlUWVCODRIQmFqaEtjRk53TW9qSFlzdFQwcFNKU0RLOVNiWjBfNGVmMy0tbkdjeHdZc2RXUG1KVjkxNVZrY29UUk43cjI4YjV0eFRPUzhyMmt4S0FOWHUxcTdXVE1RUnI4TzBTSUQxaTNJcEdkVXo3MkNIUDhobkR2Tk5ReTZTN3phZ2haY1cxdG5WejdNaTVKUHU?oc=5",
+        "date": "2026-06-10T00:28:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "La lección que Europa no va a olvidar abre una oportunidad millonaria para la Argentina",
@@ -184,25 +191,18 @@
         "source": "La Nación"
       },
       {
-        "title": "Con YPF a bordo, avanza el proyecto de US$ 3.000 millones que busca convertir el gas de Vaca Muerta en un nuevo motor exportador",
-        "description": "Con YPF a bordo, avanza el proyecto de US$ 3.000 millones que busca convertir el gas de Vaca Muerta en un nuevo motor exportador Diario Río Negro Vaca Muerta: YPF se sumó al proyecto de Mindlin para industrializar el gas del petróleo Letra P Se envió a la Legislatura el acuerdo…",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUWN5VTlxb0JBRXV4Z3RNTXlIVHhOMU5palkxcEg1ODlLUVRzdmMxcUZRMktUQU9iNFA5WlRYdzFDd1VBc081N0ZSZGpEOGJyaDVuemJ5blRuLVQ5YS1LY3ViM3J2RzJXVHpLSVliNmREeEI0WXNaOGQ1LUJ2RkhCdEs4dmU4OEp4TmtSSlZiQktEYnBLVjlfVDY1YTdJZl9qNnZ6NWljRDQyNkVrSXBsVGxPdjB6WE5Fdlh1VmRVeDZTanlRamVlYUExcFJQS3ZrMUFhNmZTd2tvRXBWYmJNTWFST1dVY1o0V2ZMaVVaRnh3SUlqd0HSAf4BQVVfeXFMUFVSS2kwQW9mUEhxQndDMnVNd1ZmTUItWmZqRVVEYkpMOTdFZVlnZlc4c2lYZGJvMzFybHNvSjlINDVWUE9wUjRpM3RrdHh5WUlUVkZObzFkZW9uS2hKUUdzVDNHTF80RFFNek5aRHdBRVJoYTdPbWlUdnhweDBibGJjenFhWjVTNW9NQUs0V0hvRUZXc01RNTJtVWw4OTJaYmljekRHQ1ZTZDdjZkRzNk53V281NWkzQkRGRGJZOUpZQnJiNERkY2FpOXRwNDVxTUM5WGRsRU8tR3VLTWtlQWhaVjdQaDc5Z0pnOEZFckVXUGNRLVltT1Rac2RnclE?oc=5",
-        "date": "2026-06-09T03:07:00+00:00",
+        "title": "Caputo resaltó el aporte de Vaca Muerta para estabilizar al dólar: “La fiesta recién empieza”",
+        "description": "Caputo resaltó el aporte de Vaca Muerta para estabilizar al dólar: “La fiesta recién empieza” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSlBucVRVWG1qS0tJVEluUEtHaEJLaXF1OVMzUTQtQkVOTVlNZkpvbjlZdXJXa2JNNmZ0Rm54ZGFpZnY3Z29Uc2VwdmY2MmVLNHhqa1hBRjFhMmJOWFNITmtnOWVXb1haUlFsVmhVRUhkdDVMUDY5NWJpXzNrbHlseTY0QVlMOEFzRWNLcmtwRFRSd0xwa3hEdk0tYlpUaVNfSUxqRmFWX1ZXQm1zWENjNE1pN0pZQlNRQUk5NUhQYXNXMlBySko4MFhSS2lETS1Qa3EyLU0wZw?oc=5",
+        "date": "2026-06-09T22:49:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Luis Caputo destacó el rol de Vaca Muerta para fortalecer la estabilidad cambiaria en Argentina",
+        "description": "Luis Caputo destacó el rol de Vaca Muerta para fortalecer la estabilidad cambiaria en Argentina Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3RXTm00bHltUWFlWEhPQkY3Z1hqRnZYX3dCUWw4QXNvbkdTSkh6TmJpM1h6QTdqRUFNYlJtaXJ0dlp4X1ltcjU5dzJ4WW5qZmU3MDlFOHFLbkFjQ0JnODFyV3RaWmdHbnpDV3A2dDBiVFUzWHBldzhDQmNtai1PZXJhNm1oN0EydU9McFRkMXltWFBOUW4zMEhXTnA5X0k5X2ZqVnFHYzlJWU5VYkZ4dmJ2X1ljRkxVSHBNR28ycGQyb0wz0gHMAUFVX3lxTFBXczlkekFvVWVQZ0ZKU1RUcXBMY0M4Yko0TWZXVFBsYkcwc0hsZHdUemIyV2ZOdW9Mdjk3aklOeXJmMU1LWlpaT29Nb2I3ZzlyUFpNVE9SUEsydmlWYU1UOVowZkFESVdnd0NZMS1nRDBjdTRLbG1aWEhCQzk2d0IxSk0zSDZMUGljOG1ya0FuR0dHLXFHWURKVk1JZ1lDLWJUa0FHem9TVjZLS0pxb1lFNXJhaUw2a2prLS15b2JpNms0dDdOdDZkRHAzWg?oc=5",
+        "date": "2026-06-10T01:53:14+00:00",
         "source": "Diario Río Negro"
-      },
-      {
-        "title": "Vaca Muerta marca la diferencia en el empleo privado regional y supera niveles récord de 2018",
-        "description": "Vaca Muerta marca la diferencia en el empleo privado regional y supera niveles récord de 2018 Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSThuMmxIMFdPb1E0a0Y1T1ZOaU1BVDlsTUhJTzY0R1NlOGEwem14aDhNYVJBTEEtbzUxWHpPZWRWQkY3MklvNEhOc21wVGRjRXo1MWJmRDJvUU04eTZQWnIzOElYWmJqQUFNeDlrRnBMelhoRURDYlh3RWFpZWFUNUE1ekFTYkk2Q21MbkVFdkc0T2xoUU0zd2hFekozbjVBX2d6NXUyNzJFbUdmRlhla3dYQUI1WG9ZT1lzZ1hwUk41S3Z6dm5majdKaE8zWXZnZTFOVG9JbVhFRmwyRGFJQtIB5gFBVV95cUxQdWRiTjFuODc2ZkphZzd2MmRQb1M0YjB2bHpjdm5ZVmszWEQ2ZHlFelIxRnc0NnpOQkg0X2REcjcxOWdfYUpCdDFibnVXRGVHeTRIMmh3STQxd3ZUNlM1OEg5YnpzTURQaHlqX1ZxVjNGMFYwUjFRMUgyZWxNTWdzZXpYLWZZX0xmd3RxUGJjZ3VuUWhDNkplYnhWMEZqTmhKQ19pTGhjUFNJdGY0dVJyWG9pTXFlZmFocEF2TjFEUlJKOTc5VnRTVWlpR0k0QndlVVhQZHk1Z3dOUHhOTWs2N3ZONkJTdw?oc=5",
-        "date": "2026-06-09T11:34:06+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Visita a \"Vaca Muerta\": Canciller Pérez Mackenna y ministra Rincón irán al principal polo energético de Argentina",
-        "description": "Visita a \"Vaca Muerta\": Canciller Pérez Mackenna y ministra Rincón irán al principal polo energético de Argentina Emol",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2U5dWxTeDhCRWhDd3h5czF0STJQdlFoUVJCWHlva2RPeHVEeS1vWHB3Z2JLeGhnTTBWZEc2NzZEUEtacTdLOEN0NENuYUplWUhDOTU5ZVRqNEp4U1E0alNFWUF3eWN4N2VmV2NyY0dkT2h4UlpXeS14azEwN1ZfUUZMSm82eVpWblNtQ0hFVHBleVlSZnZORlh6UDdKUFBadGE1QV9mYnZaQQ?oc=5",
-        "date": "2026-06-09T21:39:00+00:00",
-        "source": "Emol"
       }
     ]
   }
