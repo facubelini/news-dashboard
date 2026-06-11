@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-11T12:40:06Z",
+  "updated_at": "2026-06-11T16:49:20Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace",
-        "description": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace Xataka",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXN0SW44RU0yTVoxbUlHNDlUUVdWX0VkNE5nVVQ2UWN5c1Bsc2c3aU1rSkE3YWlyWG9wOEFMd2lIMEEwNVdxNWY4TWVuOXM1b1YzVWlheVkyQ3c0Q3JjV1huN1JXOVF6OF8ybGJwNWw2T09yc3RoWVZVa3ZXdXo4NVRjY2xhV3FOWG9vOEhtdnIxTXB6S1dyY2JhaDg1NG1RZ1Iyc2N2TDBjSVFiQXlDZ3FRY1RHVnVqaUFSdjlYUnhNeVM3c0HSAcsBQVVfeXFMTkswRksxczNCRUpQMUp0YmNGV3BNWVVIZE5IeHBQMm9EajVpWmhYR3k0ZFlrYVotRzVTRTRVenpob1EwMFZSY01OUlFtRUhZZXVrVWI5ZlJWQmtpSHZ5eTNQMndrVXVfZFkxeE9rOXZYQ2lQLVR2MEVoMG5zRDlQY2xJdlUxWTQ4RVc4NGU1TFNqNUtZTGI1MVBBMF95Y0NxLXRXWXRNVUNKdVpJZUcyckdXcHYwN1lIVG9uS0RaWWJMUDhvWEJLTUVsTkk?oc=5",
-        "date": "2026-06-09T14:45:26+00:00",
-        "source": "Xataka"
-      },
       {
         "title": "Europa ya tiene su propia alternativa a Word y Excel. Y su primer gran escollo: utiliza por defecto los formatos de Microsoft",
         "description": "Europa ya tiene su propia alternativa a Word y Excel. Y su primer gran escollo: utiliza por defecto los formatos de Microsoft Xataka Móvil",
@@ -17,10 +10,10 @@
         "source": "Xataka Móvil"
       },
       {
-        "title": "Microsoft restringe el acceso a Claude Fable a sus trabajadores por su política de retención de datos",
-        "description": "Microsoft restringe el acceso a Claude Fable a sus trabajadores por su política de retención de datos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUVFoVFVqNldPMHdyRzIya3IzdEZxX3NQbzNvekFmamtGeG9BUTc3dzhyMkpTa0V3cGFiZzNHeXBVeFdxRzZvYVlWcHk3a0MwemxSc3Vsd3o1TXNWMGdJdFFUX0lZY0JVNXcxV2JsemtadjNlOGt6QlpsUzZDWXpUQ3BIVkhfMWkwN2dRVU1EQVZRSTB6TFotb3J1dUJPS3FISmpDNzc3RElWLTVzNFVnakdrWXZtT3NuUm85VjJmMUVGdFJMVi1CakJFQUQ0RVFhc2hONDV3NXRoazN2ZWd0V256dGJWOXZOMnfSAYQCQVVfeXFMUHdHMTRrenRGWmFyRWEtWU4tSjV2YThZcVg5Rkh0Q3pRdmwtaTdrcEVrVmhmSVNyLUlBSFYxYzhoQXJyTVVVZ3pVX251bHpwUThqeVdCSDdVQ0ZCMXhSNEdnQU8xWE04RVNHSFIwZU1qQWtCZzd5VXdtYy1vUVNERmVMWWh4ZktGVGlfZ0dtZWpMa3FQSm1OeG1uQWlhZ01wT2xKdlhLQ1ROdHZob0lQQ2p6dll4SHpWcTdMM0RFZi1qSDZYUmV1R3NxbU5BcWE2MDVwYVpxLTMtaW82N3RLX3QtZVpLRGVjNTdrNy1hT1N5cF8wTC1sdExLQUFubGtBbnphdTY?oc=5",
-        "date": "2026-06-11T10:18:42+00:00",
+        "title": "Microsoft prohíbe el uso de Claude Fable a sus empleados",
+        "description": "Microsoft prohíbe el uso de Claude Fable a sus empleados Infobae",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRElCYWp0TlVQdm9DYkgtY3hSdUhwYWFoMmE5NnIxYnJWVjgtSVRmOXFSQkxRTWtDZmxtQjBCVTNUb2daSzM2VEFtX3Vld3cxb3JoM3pmQmdTUzdZRU51eU9MN0dNdFN0WjJvSm0wcVB2LTlOR3JPNVpnLV84N2tHNnFyOVVHUnF5eUhybXlDdUZ5OWFrbDR5SVdfMUpCblHSAboBQVVfeXFMTlJOVXh2eXQ0V2x4Q3Bkd0hvSWE3XzFUNXZLczJBSW5PRHlSSkhXZWJ1bTVscjlleDA4QzhEdV9KNGRjMUc1Z0lOMXM2MzI3MFVBUElZWVh5eHdrNGdZeXhxUHUtVDZvYW0zaEk0T3ZRWG5WOG1CM0JPNlBqbThMOWNJVE5nSFQwc1d2a3R0eDh5dkljVlZicFZWUHlINFZiYVFPTjJQUmtGQlpCcGpJWmR1NEtKZmE4cWVR?oc=5",
+        "date": "2026-06-11T13:59:00+00:00",
         "source": "Infobae"
       },
       {
@@ -31,18 +24,25 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Por qué Microsoft y Mercado Libre aparecen entre las acciones más recomendadas para dolarizar ahorros",
-        "description": "Por qué Microsoft y Mercado Libre aparecen entre las acciones más recomendadas para dolarizar ahorros Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSVhJUTRac0J5X0o4U1pibmhYb3RsMUZLSVcwSjJoS2ljM1NRMW5YbDJGbzkzMDdCMEUzbTFkZ1pUZnhGRHJROWpYU3h5TFlwZlFtcHhiMllDeGFBdzVlTnduRlFNMGs5Mi15MjBaa3ktb1NURUJITGY0UFcxVm1iMC04eFprdnlORnduWEhEVmdaT09hMV90MWFIMElrVkxnSTBNTzdVZkNqZHZ4dUhpNGlkVHhXNFBRV25TaHkyRjhvVmdmWkY2RGJlQTUwcWNuVnhwcUFEOHRMNk1iajZPStIB5gFBVV95cUxPQUI5UEdwVTJ0bExKRHNDY0wta3RnOTdOcF9BaFdxbm9LN0N3Y21EMlNNLTMzeWhCUkkxcG9yMWpvQU9uXzhXNmVteG9iVnVwb0dQVFlXc2VnNlpsTTV4RjFhb1JqNmU5X1dvNUNpRExkRTg5c29ZUmhYaW55Z2Q4WGNsVjBzZWx4VXcycjh3SnBRSW1SZHR6b3d2MW44NDdNcmI3Q3R6RTl5NmxmR2VodVM5LXZtY2V3ckVNejVtN3ExV2tZN0p3SDB2dkp3WlZHWFpqaXlvc05BQkdoeDNJb19pNkJYUQ?oc=5",
-        "date": "2026-06-09T20:44:23+00:00",
-        "source": "Perfil"
-      },
-      {
         "title": "El inesperado mensaje de Microsoft a sus trabajadores tras despedir a cientos de empleados",
         "description": "El inesperado mensaje de Microsoft a sus trabajadores tras despedir a cientos de empleados MARCA",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGY1NklXLTB5MWFvSzRFYnpfYVFmRm1YWi1IYlgzUmNCdEJzWmJLSG1Db1Y1cnU2VEw4TTB6dkZMU09FTmQxV1FBR2Y0MXphZFh3cG14RjBLMVhiNWR3VkhrNklmUWdLWEJ2eXlJLWlrSmlsZzRTYUsxWHRHWE5jR3R3OFc1RjBhLU83ZHZBTmd6RkJvc1FPYmhmY1JPaXU1cDFkVkRNRWd3TTB5ZzJfZk5sczFIQ2M0YlU2VlZYRnJIQmNp0gHEAUFVX3lxTE1TemctVy1IRW4tWUd0eHEtSzBZVlRHc1Rzb1I1eGlwYUo2eUgzUC1SV3M1V0V3WlZDRUs2R1oxSDBzSWRFa3FMZkVWQmxfbTN3X2l1ZG9YVlhrLW9jRXBsZ3VER0d5a0RfbklmY3lhT3Z6MmtJUm1tYkN4MEhJZDAtR29xZWo1Q2pHMnZHNFFYbmpkRTJRTmhvWHltTnhtYmtQUkN6QzN0WUhEbHRZbGlqUFhuMTFZM2pDWEZEbEdrckdYSG4?oc=5",
         "date": "2026-06-11T05:19:21+00:00",
         "source": "MARCA"
+      },
+      {
+        "title": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace",
+        "description": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace Xataka",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXN0SW44RU0yTVoxbUlHNDlUUVdWX0VkNE5nVVQ2UWN5c1Bsc2c3aU1rSkE3YWlyWG9wOEFMd2lIMEEwNVdxNWY4TWVuOXM1b1YzVWlheVkyQ3c0Q3JjV1huN1JXOVF6OF8ybGJwNWw2T09yc3RoWVZVa3ZXdXo4NVRjY2xhV3FOWG9vOEhtdnIxTXB6S1dyY2JhaDg1NG1RZ1Iyc2N2TDBjSVFiQXlDZ3FRY1RHVnVqaUFSdjlYUnhNeVM3c0HSAcsBQVVfeXFMTkswRksxczNCRUpQMUp0YmNGV3BNWVVIZE5IeHBQMm9EajVpWmhYR3k0ZFlrYVotRzVTRTRVenpob1EwMFZSY01OUlFtRUhZZXVrVWI5ZlJWQmtpSHZ5eTNQMndrVXVfZFkxeE9rOXZYQ2lQLVR2MEVoMG5zRDlQY2xJdlUxWTQ4RVc4NGU1TFNqNUtZTGI1MVBBMF95Y0NxLXRXWXRNVUNKdVpJZUcyckdXcHYwN1lIVG9uS0RaWWJMUDhvWEJLTUVsTkk?oc=5",
+        "date": "2026-06-09T14:45:26+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Los jugadores se frotan los ojos de asombro al ver cómo Microsoft utiliza la PS5 Pro para mostrar Halo: Campaign Evolved",
+        "description": "Los jugadores se frotan los ojos de asombro al ver cómo Microsoft utiliza la PS5 Pro para mostrar Halo: Campaign Evolved VidaExtra",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUxBSk44cDd5eXpUUDdQSmlWb3hZSzA1UUNpUy1rd2p3a3A5Z1FIeGd3Q1BGdC1nV0dlemNyVmRBcG43Wl9LTXNDVU5YcmRNcDhGcWliUXlGbE5vTHBiaU4zelNIN1RvMFNYZkVJY2xYUmpQUzNPS3EtbTdjUE44TkVReVE4ei1kNFkwdUgwdDVkSU9QMXJHUjBrMUxqMmJJOUhKMWM2Y0ZlOTExenllZEVndnhIUDdjVlAtcEEwN1Y5Y2RHQUNRd21WN0Q2SEJ4?oc=5",
+        "date": "2026-06-09T12:04:16+00:00",
+        "source": "VidaExtra"
       },
       {
         "title": "Microsoft confirma hacer Xbox Helix, su próxima consola, más asequible y con 'modelos de negocio radicalmente diferentes'",
@@ -55,10 +55,10 @@
     "Marketing": [
       {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
-        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital unsam",
+        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital UNSAM",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T15:10:49+00:00",
-        "source": "unsam"
+        "source": "UNSAM"
       },
       {
         "title": "Ofrecen taller gratuito de Marketing Digital en Quilmes Oeste",
@@ -68,6 +68,13 @@
         "source": "La Noticia de Quilmes"
       },
       {
+        "title": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet”",
+        "description": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet” Despertar Entrerriano",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2padHFwUU9hTERaWmEtUHB5Y3NZT05QZENBV0RZYVdTcUtWcnAwS0ZUY0pmSzFfenp4dlFKakloZ0lrRDZBSWdRZ2VhQnVXZEJzcExZNkpTalFVNnJ2TlZXSUl2cFBXMkR4M0RFbGVtSlA4SUxsLW1BYlRQaEk5clJQVjBBV2pYeGJOR1Z3Ui1GMTdwTEZhVGFxZ3loeXdjdU5xVHNlRlAxazNDX0NYc3NFam5aTjRpYm04Q2NDMA?oc=5",
+        "date": "2026-06-09T08:16:28+00:00",
+        "source": "Despertar Entrerriano"
+      },
+      {
         "title": "Marketing Digital en Quilmes: cómo anotarse a la propuesta gratuita",
         "description": "Marketing Digital en Quilmes: cómo anotarse a la propuesta gratuita Crónica",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVFMbGd3b3p2V3dzZ2d0NGFrYzdwekozanRaN3h6a1pZQWJqTlk0QktwUXN2VEw1c0RMMi02UDFyYzdQOE84UVZ2RVMzNTVlUWRnUW9FRXJPS3VQN1JZRDNac1BXNkpSM1doeGVzTzhvZ2swLWxGa2IwMmpmTzZTMWJuSFhUVFdYRzNiRno1dS05am9KQXhyRWNMSDNpMmh6UVg3ZUhnYkc4X1VpSUxQMHVKQWloZ9IBuwFBVV95cUxOZXZDaVlCTndXRzQ3bzd4WU5nYzZ3NXk5ZkFIMV8xWjNReTBUT3JfOFdYMlRSVE1jUGxweDBDemFFY2JEaDN5QkFoNVdZMzlWQnRuVXlQWUJqeVcxRm8zTGs3dmJuUTZmRXAyaW51aHB0NE1KOHNrbFdHa1pfTWdYSTF4SFZpdDNXZjY4Vm4tT01YVGJ4YXFZN1pYVUFxS2d0VFg3aUJYQzl0WlRHQklrUGI0bk9YYnBoei13?oc=5",
@@ -75,11 +82,11 @@
         "source": "Crónica"
       },
       {
-        "title": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet”",
-        "description": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet” Diario Digital de Concordia",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRm9fOXVhU09UcnJLOEZNOXZjN0VBcElaMEQxYnAtWTNENWtXSXpudHpWcDRFelhXSVhEc05UQ2J3UDJnZmtIM1NzajN4ZEw0N281VkEyNTVuUEJQcURCaVlmMWZnbU5HbDh1dDdhZndpR0RLSzBrb3VJZVdlUWc3LTlteW5CRGU0YmVnbUZJMVVNcVA4YU5waHJqd1ZaWEJHU05Kdk5DclNvVTYwaFBEVmt6SnR0dXh1VDJsZjBRSFBySVR3NDNESExqeEJjcDlUanZzeA?oc=5",
-        "date": "2026-06-09T09:57:11+00:00",
-        "source": "Diario Digital de Concordia"
+        "title": "TikTok y FIFA: así cambia el Mundial 2026 para founders",
+        "description": "TikTok y FIFA: así cambia el Mundial 2026 para founders Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmNOYmdKaThHSnJ1Mk5zOTd1RXVGelVlSGxOQlBQb2NRMkFmVnRBV3ByckhDYUdZMUxnX1VCSXN1UlRtUHhQRWxSNFlFMTM0b25pSC1CQzJQd0xtNnptemZUaGNOQXZaSWJ0Z0RRNTAzTk1rQTZWSzVHdUdvaTREdHk1UmtiTVlPanV4QUdn?oc=5",
+        "date": "2026-06-11T16:20:29+00:00",
+        "source": "Ecosistema Startup"
       },
       {
         "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
@@ -89,18 +96,11 @@
         "source": "sanrafael.gov.ar"
       },
       {
-        "title": "Por qué los hoteles que se adaptan al marketing digital logran crecer",
-        "description": "Por qué los hoteles que se adaptan al marketing digital logran crecer Perfil",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW9MdlR1cmtVTkZsX2JzcHZqcjlEQm1FN1Rod3NuU0pWQ1kwS3h3MUw3eXhfY3FuUklHWlJKMG92cDdnRUV2WXFaS08yU00yWXU2SnpEN0RncTFyTkN4SGY4OUJBNmJKQmFLVEdYeXZCMEVsX2NRRWdpdm9JSWhXMkZJUTRiZWIzdXFCT3ROaGJCU3JkTkRYV1lTMjNnTVhFNmx3VUtfY3lMY2VCQ2dCLUZXRTRlUdIBuwFBVV95cUxNdzAyV243Y1VrUVRiRlpZdUJmcEZLc1RqUTR4dlpFaTd6bTNxbjJuakJDWW1DY0c1cWxhWFRWNi1LS1lMei1WQ1VZSVZGYmw5RDExN09VRk4zU0M0dVRWNHhaNjYzaGduTkVoN1Z5S204ZWl1aGxWS1ZPZ1VNLTlHN2ptTVNMSWJjQ1o2dG5FRXUyQ3dJcG9DYWF6SVIzRmVsS0dET0NMRlh0cmk3OWRzMFp6bFM2NWVZTTBj?oc=5",
-        "date": "2026-06-04T21:17:08+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "WhatsApp añade nuevas funciones antes del Mundial de Fútbol de 2026.",
-        "description": "WhatsApp añade nuevas funciones antes del Mundial de Fútbol de 2026. ALM Corp",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzRoQTZTc2EySWVjeU5zMjNoVlBGeWxoSUZVU2xxWnFYdVNRLVpNckFRWjg1QkQ2dEpIVGh3YVBHeTFucThEcDVWMmZvQjZIdmphZ2FGdDZwaHZCcS1hV0dBalExNmdJNXRjNGZvVV9IcXhiQ1FXZ3hYR21xZ3VKR0dkQWQwLTdXbHVQbA?oc=5",
-        "date": "2026-06-10T21:33:05+00:00",
-        "source": "ALM Corp"
+        "title": "Llamado a expresiones de interés para elaborar un Plan de Marketing de destinos turísticos emergentes",
+        "description": "Llamado a expresiones de interés para elaborar un Plan de Marketing de destinos turísticos emergentes GUB.UY",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaktHSGdFTllteWd5QTBuT1ZSbnVKempIVTh4ZXhnQkc4N0pJYndWRnZTRlRaUkZqTENZMTd0aHprNDZwek5rcE5RUUNodGhzMFdhbUpxcXhCTmQtZkhEYTlBd3c2elFRSnEtYUljT0dndnBTWHFadU8zbmxlX1JWRWFVdGdPTGxXWVlabVp2TlhYcHlRaHZ5dVY3SzZNSy0xbVROZnpGVEFJS0xWczg0M0dXQ0gyX0FHdXoySVUxb29fY2p2LUtaNHduTXgtcGNnZ1E?oc=5",
+        "date": "2026-06-11T13:57:15+00:00",
+        "source": "GUB.UY"
       }
     ],
     "IA": [
@@ -119,18 +119,18 @@
         "source": "La Nación"
       },
       {
-        "title": "La primera generación criada junto a la inteligencia artificial",
-        "description": "La primera generación criada junto a la inteligencia artificial Perfil",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSm53a3d0TC1PNDAyR3ZYSkUxS00xb2VLT1paa0FtM3hPa25VNm0xcXp4S2xYNVNuZmowcGFTWG9TeXMyVGZPR0JxcDgySWN0RlExOGYyVFRZdFdNUF9LdTlhU2lIajlZYWtyWHBpV3ctRjRBQjBQUVAyYVNodGVRS3ZjcEFDODdEejJrMDg1M1lmZ0dHZVhHQ25xQm1QVDJMU2FOZFFrY1JKbFp6TDU0YUQtSDF1blB0NUhSaFJFSnVLdnBoV3c?oc=5",
-        "date": "2026-06-10T17:42:12+00:00",
-        "source": "Perfil"
+        "title": "El Salvador recibe reconocimiento de la UNESCO por sus avances en Inteligencia Artificial",
+        "description": "El Salvador recibe reconocimiento de la UNESCO por sus avances en Inteligencia Artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcFdKbFd4RTNIUk9jeGVkMnRFMjdGTVl1Rk1rZVFqUWp3ZDRoRkxjUW11U1V1dnhuOUEwSDVsQmxaUnU2VnR1VVB2dVJlRHZxSEN0YzZVN1NnY3JnUGxhUU5IeTlLWndBZWlOMV84Y1c0X3VmN0taZnYtUF9DMXU5bUNDOHFDd19WbHctWXdMM05nWWlzdW5uYm0ta1VFWDVWWEN6QjhxZmNBcTNCVnZGN19PS1VfazhucjBQX0h4VFBZNng3LVhHeEo0clpCdzc5dGl30gHuAUFVX3lxTE1mQzJ1NmF4S294bWpqa2JaYWQ0cEFTN0RLVmxkTGo0QWtRNkMtNEFLT0Vxa1RGbWlVakJjdmp0TXpqN05WMVFuV3lPbjk5bUVfcGQzeUJkRDVSMnZuTDctMTRfLThWZGMwb2FuWEttNHdQTGpUM3M1aW1Qb0h6Mll3NlVMeGkxcldRa0pQdzAtLUtCSHZ0UGRTaUJNNGh5VHg0WjVrUHUtNEVRX3llQ0JZdXNITWdvaFp6Q0stOWJ2RFRRYWRxQmlxaURHSi1VZjJIdW5Lc0xNR3U4LXg0YkpmZ3h3VnJUVU9wUmFPNVE?oc=5",
+        "date": "2026-06-11T15:05:58+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Innovación digital en el campo: la inteligencia artificial y el control por voz en la rutina del productor - TN",
-        "description": "Innovación digital en el campo: la inteligencia artificial y el control por voz en la rutina del productor TN",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHFwRXd1Q1M5eHphOXBRU3p1TmtEajVQUTVWbHNfTnBIbElRM3lidEE2UlVBd1lFV1Y5M1p4NkRlMWFuOUtKd2JFSDIwYjdRbkZ6V0JLcVBFVXc0NlRhSkQ5U0EzcWNlVG9yekxJUHhseTNIdmh6MEx2OXNNd1otZUdiOE9JLUVJcjFSNDFHbUNKSFkxcU1BWnhBbmVGN0IyQUxTOXNzZWh0d29QaUt1T2FZeUxsanBaakc3UWVwWmEteWUyVEtISDBQZE9KWS1OUFRUNmJYcWfSAewBQVVfeXFMUEYwYlFNNFJ1dHZ6cDBTYVAyQ3E0YklSaURTZEFveTZwSjJfcXBLVEExWTY0SlJJNWMwM3dUOU9HbldDWEZuOUJoNjlRdnhZNFhFZ0wzNWtzdjliWEpTOThQTkJaOHpHVF83NW9kRF9WMDRVM0MtYURhMTVycWhrcmRXN3oyZE5Ed0x4aWpIVkRsQWJFeXFFa1U1WkIzNDE1Zmd6Y3lOSk5hOG5tUS1MOVVOMXVoOExBdjc1RHpfSXl4Zk81bUF1SjRpVnVNc2FuNWF2RFZsNk9kbjNoUXA0X1QzNDd0S2dHa0IyWXA?oc=5",
-        "date": "2026-06-10T15:33:04+00:00",
-        "source": "TN"
+        "title": "Estas 5 cualidades son a prueba de inteligencia artificial",
+        "description": "Estas 5 cualidades son a prueba de inteligencia artificial DW.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVIweUxfSUg2TzNxVVZ3bUFnLV9tZ3VtRWpRSHFnSDl4QkVGY0lKNXZjUFJoZi1TNTl3aXFzRUhVYzh1TXBTbEZXbm9Lakt1dTF1QVRTU256YmFUZ3B6OVlsZnJobmhDWG9rSDRGVXRHMGhFYWs5LW9tMHFfYkFHcGtiTENFZ3FwdjNxY3QwMXIzNjktTGR6enFR0gGaAUFVX3lxTFBOenlYY2taRzBWMjlvM09iN0NqNHpDeUJXUmhNTFR1NjJEUHdxNUEtMi1SaWs0UWg4NHFraDZYMnVhZk9CRko2emNmcDFqWDh2QmhkajNaaEotNWVsWHA2Vk9DbUNNcnlsS09VNlJPTXd5VkZ0MHp4RnVWRDRNRmtlSXl2cEZEZzZpRFdhSXdXMkFMVV9WejFuMEE?oc=5",
+        "date": "2026-06-11T13:40:33+00:00",
+        "source": "DW.com"
       },
       {
         "title": "Despidieron miles de empleados para reemplazarlos con IA: ahora enfrentan una factura millonaria",
@@ -140,68 +140,68 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Cuántos goles marcará México en el Mundial 2026, según la Inteligencia Artificial",
-        "description": "Cuántos goles marcará México en el Mundial 2026, según la Inteligencia Artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeHQ1Z0UtM242R1poMFJ4ZVNjS212Rml1SXFBLVg5YV9Sc3dvbUpqbXpITWRDajlya29teU1IbVNTRm9vSm45ZlNSM0xhX1NSZnEyM2VuWm56enR0bXJDYmhBRXVvQzNSbXF1YTd2ZXNqbXBtb29rRm5hSmNNWU9VZEpPUmFJTDVXVjJ1a3RnZ2xQVVFjT0w5NGNhUUhybTA2aU1qaHp6LXdlbjdLbXJqZGVha2lscDM4alZ4akNidGxQelR1cTBvYWJOTXnSAecBQVVfeXFMTW1OMXV5ZmpkOHo3ckRFT293WnRDUjQtY0VEMnQxczBOODNvdlB4cUFzS3VEUFQzSko2a0pYZHBiX2loLXpoMlNiZ09JRzBic2Nmd3NkRG5jZG1UM0NHcnlsZkRLeXExVW5WakI0alk0MHlWNklKbzJnM25DN29vNjJVbnRENXhnQ3ozQ1VqbU5CaTJuWWk1RE1kamF6bFRBYkxiYjNubjlxaU9WQ0U5YnNHdXQ5ckFiZXQwb3BBMURKR3RoVDM4MEc4Z3JPeFhsakNvM3k0UmpDM1g2U0loX19aS3NNWWt3?oc=5",
-        "date": "2026-06-10T13:00:00+00:00",
-        "source": "Infobae"
+        "title": "El campeón del Mundial 2026 según la Inteligencia Artificial",
+        "description": "El campeón del Mundial 2026 según la Inteligencia Artificial Perfil Una inteligencia artificial predijo quiénes serán los próximos campeones de la Copa Mundial de fútbol Infobae Mundial 2026: sale a la cancha la Inteligencia Artificial, árbitros con cámara y avatares 3D Olé",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajV0LVpoRGhGdzYycUp4bVZPMzRaQ0pKaEVzd2o5N05zX0xoeVNnX3R1a1d1aXlhR1pVYzhYdHh3bkZYUXJleEJ2Q3drOXlNZ2JneDY4UnJUTE1CRDBQckxFamNGbkZveXFYUlRMN3BWMnhXbm42RUJydXRISlFMWU9IaDh2MlBhQlJOSVVWRUxUNFMyTDFsUmIwZE9JcjVBRkt1bGtGTkl6SmZiSjJJa9IBtgFBVV95cUxPbFJPOWdpejZXRVJVeFZIZ09JS25PQ0loSW9aT3I3dVZnY1VtRkdBZlAyZjU4UmZySEpjODgzclJHMzE5dGE1c045RFJZaHJPU04xWmJVQkwxX3pQMmZrbHFOYkZub0UxdzJPY0pBQ0N5TXJxRmh5ZlpSS09udUlWNTE5VUdHVGNUZl9wQnAtRDI5SkJOclBoWUVIeU5uaHRDa3VqNVNlWGhtOWc4bTZ4YmVjcVBkQQ?oc=5",
+        "date": "2026-06-10T19:09:59+00:00",
+        "source": "Perfil"
       },
       {
-        "title": "Mundial 2026: sale a la cancha la Inteligencia Artificial, árbitros con cámara y avatares 3D",
-        "description": "Mundial 2026: sale a la cancha la Inteligencia Artificial, árbitros con cámara y avatares 3D Olé",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMndKeGF6ZmN1emZPd2w4VDlNN0wzcWluQ054Q1BYYjBBX1NKM1JJeEFSQkVZTW9Ec1hlcFRERVlBdHg2U1RtWi1lOTlZcG9wUXNXeGpzaVJPVXBKUHJvWnVveGtQdm5QRWJ3OFdUNUdGRDJrWWprYUFYTzlMclZ2TVRjRGloQlhtUFE2ekp4ODVFTG5OajNzZE1ZazZTT2tMVjgyX2xUcmNXNHRoVWxyNFdYRkRybmx2enlHMXBtQVPSAcYBQVVfeXFMTW1ZbTRZa3lTLWRFNXVYTGdidURodVVYcXdaUGFIRnc3LTRGTmFnWjBjUC12RnFGTVBnNFptTlIyLUZVSXpaOTNXTnhHZWdxcFVlN1d2WlFmVzlEdG1GVEpwam4xdUJCbzZKYVBQMGx4MkN4amJwZUZ0TVlqNXpUOG9ROTVENmE2NGJsWVNwYzhyMy11U2Q4ODVYdzBnYngwbVZxU0VuaVVaRlZ3ZHBkdlUzX3dKNElJTFlSUDVkUnhwb0ZIUjJB?oc=5",
-        "date": "2026-06-11T06:10:22+00:00",
-        "source": "Olé"
+        "title": "Brindarán una capacitación sobre inteligencia artificial aplicada al turismo en Merlo",
+        "description": "Brindarán una capacitación sobre inteligencia artificial aplicada al turismo en Merlo Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdU5lU0hvWnBPYzlaZTlpZkc4RjdsYmdURGU1VmpUN1dyTjRKcEY3Z1p5TWY4QzdJOU80YjRrbTJRd3p1a2RzZFdNUkFVeVItTXctUEdka2VtRndpdUpJMEk5bEZHWjFVNEFQaU1rUkhrVVByd085dHpkVWFZVmZBSlI4ZEtyUC1rTE40VDNMVGtBY0Q2andEbkhaa2pBRlJZNmNKWXJTZXdpTHBaVXk0U0RqZnNMc2pVZ0IxY1Z2eElENWRHOVg0NlluRVM?oc=5",
+        "date": "2026-06-10T20:33:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Vaca Muerta y la minería ya aportaron este año casi la misma cantidad de dólares que el campo",
-        "description": "Vaca Muerta y la minería ya aportaron este año casi la misma cantidad de dólares que el campo La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWpEUXVseEJ0YTFRLV9PRUVnQjVSMjJ1V1dpenhfU1hMeGtHc2x4RmcwSmtlMlVyUDlrTlVjYnF2bVY3R0tPM2dNY24xNmRKYmNvNGZBX3dMdU1SVDJZLVRJZUQzSTBnOVRmX3ZCblZkY0FOcGRQbVFST1VYdDJJUUw1TXNnN3UyVjViUGJwRzB0SXA4RTQ0MDJ4cDd0bGdUZGZ1WWJUYTUyeGkySEZwaU5aU0gtY1VVV3pEa094a2E2ZWNhT3BRRkVhUnhrMWZ4bnZCaElPNA?oc=5",
-        "date": "2026-06-10T13:32:00+00:00",
-        "source": "La Nación"
+        "title": "Vista y Trafigura crean nueva sociedad para acelerar inversiones en Vaca Muerta",
+        "description": "Vista y Trafigura crean nueva sociedad para acelerar inversiones en Vaca Muerta iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUV0N0tHbFd4YWFSX2ZkR1RrMmdmblBCZGRvdlNZeV9MWnBBSkw4eWtkWC1BS1h5cmFjcEVwaUdwY0paY0o0eEZ6b3NIUmdLd3FUWVNjSC1HMzA4RTRkaG9SWnRNQ3FxTERXN1ZTeGw2N2hHUjlSM0R3Y09nQTdOc1Z6UjA1cmw3c2VmN183dXRvNFlQVW5LczBzekNTTi1yT2VpVHRQZmllZWtVQjlDZlh1Q2lHb2VVVG5UelJPSW4tUdIBxwFBVV95cUxQa1A1SVhSSmZ6QjhCS1dlX200czB2SWlIeU9hMVhhUGNuMjZobnZLZHl0MllzcG8zTU5DQkdiMGpMR2I2Wmk3LTRkci1zNXpWNG9jQWpwZ09vYUd5ekdBUWhxZWtFZGJCbC1oZ0dlZEwwVTh4VnAtRmlES0tIRUJIMmZocW5MbDNORC1fbUVpNHRDaGo4VVZkWF9tUjROSUQzR3JJLTdBclRLLU41NEVEUkpsMlZ4MjI3WnRpWVJ6a0dwSHE5b3Br?oc=5",
+        "date": "2026-06-10T13:55:00+00:00",
+        "source": "iProfesional"
       },
       {
-        "title": "¿El otro agro? Vaca Muerta y la minería aportaron este año la misma cantidad de dólares que el campo",
-        "description": "¿El otro agro? Vaca Muerta y la minería aportaron este año la misma cantidad de dólares que el campo Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVU1lRW5TbkJTR0FSWVpjSUxUZ2d0cjdtNjd6TmI3SExhMXB5V0lwZk5lbjBzU2tqRnNoYmlBdVpxMXhtYnJhNGVPTGxqX05XRGJFaGtoX1kyQXRyMHQ2MFlYQkphVmxIMHFxaUgxaWtDaXVIOUtZWnlNakRZQ0Y4b2w4WV9XbC1sSk54WHlvc3plY09xalBoNzNkWE5wRTdQVXBVSnVHUExQb0dtc0NqQ2hfZmxXR2hY?oc=5",
-        "date": "2026-06-09T20:23:07+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Barones de la obra pública esperan renacer con Vaca Muerta y la minería y piden inversión en infraestructura",
-        "description": "Barones de la obra pública esperan renacer con Vaca Muerta y la minería y piden inversión en infraestructura Letra P",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1QybnRpM3I5aEoweWdJdC1uMXJZOE5rVndiaFp6UkNETmdDblVjYzhUQkdFTVQ3Z2R5bDM5N1NMWXNIbVpyMGQxd2dvbW56d3ZzdGI2aHZza2tYS3A4dWJPUjdmYnY5ekdqT3BoZzdaZmVsRVRNbzRBZGpMd0Y2UFBQdEtjdkFzNjRBeUV2VVJqM0hLZTlrb3lQU01KU1Rpd0xuQjRFUFZMaTltWnJyd1Rzd2o3dTA3MzhsMC1sSEVqZzk0Vk54TnB5cEJvZkh1cFlUVWZOV01XQdIB3wFBVV95cUxPSks2WjVzdEl4ZWFza1ZKUnBCV3JaMjl1MUVCcW80U0FQeDJubURFVUJfY1Q1MzN5VDRpU0piM1JIUWt2cl8tV0RJelF3cG8wNUUyaWxrN2wxc2EyYVBLVzhBOUxZRmU0cjJodFl1eEJKQXVrVWpWMUVidFhvSXpXRDluUjNwelZYa2F5dUhkMXZkSTlnai1scFN2MnVEc0xqZ1ZsSkx6VlZQTnBRNWVuUkVOVEhXUGNRVjVVS2NhaG5pSkZPc1paNzkxa1JfWDRrR3dsUTdIM0ZDamtBdmRj?oc=5",
-        "date": "2026-06-09T23:04:00+00:00",
-        "source": "Letra P"
-      },
-      {
-        "title": "TGS avanzó con la inversión para su su proyecto de procesamiento de líquidos en Vaca Muerta",
-        "description": "TGS avanzó con la inversión para su su proyecto de procesamiento de líquidos en Vaca Muerta Infobae TGS aprobó su megaproyecto para exportar líquidos derivados del gas de Vaca Muerta La Nación Oscar Sardi de TGS: \"Si no avanzábamos con la separación de líquidos del gas se iba a…",
+        "title": "TGS avanzó con la inversión para su proyecto de procesamiento de líquidos en Vaca Muerta",
+        "description": "TGS avanzó con la inversión para su proyecto de procesamiento de líquidos en Vaca Muerta Infobae TGS aprobó su megaproyecto para exportar líquidos derivados del gas de Vaca Muerta La Nación Oscar Sardi de TGS: \"Si no avanzábamos con la separación de líquidos del gas se iba a…",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaFVvRTBsWTgtYUQ2NHFhVF9Ic3JoU1pPOXRHRzhCLVpHQ1B3elA3ZUsyV1JaMkRkWkhZT0ZhUl9RU0J5Qm8tZncyM3A3MDZVckt2TnhPT3dVMFFzRFYyRnBOTGE5SXBUaE9SdFQ5UGVWd2FnQWQ4dzNZd2RWRHg2MmR2WVR1MUhRRVZIRVBMckdJOFloWVB4c09JTHhZZHpubVIyTExsSm1fNjZDRy1hOFo1amYyR0VwVVg5VU1xY2dNczRrOTlUaWtqZHU0dWlDZkhmYzkxZkQ1M2d3ZFMtZtIB-wFBVV95cUxQR3dLd19JRTN1WlBNcjRsbGI4QkZLTFNEZjVMSDAtYW13Nl9qamgxRjVxYi1oUlVDVlI4ZjJYUHphSHVjMTFEVUFpdU1FMEFBcVdPaDVQSkNtdXJ5MEY5NEd2QUNSWVVuYzdjUTRyUE5NWDRpd2tqRnFibENYVzBlb2RHQXIydHNSQXlQUEdnUXRkcWpQMGpqdF94UnJGVEVpb0hjSmN0b3Q1X05FNjhSQmEyLUJOMlZZejdidExLU285UjduRzlBQ005MDZLQ2hISHpXbGMtaVRGeFVuVmxZNFRuYzJDSU15M2pOTjJNajZEemxQXzNLMC0xMA?oc=5",
-        "date": "2026-06-10T23:33:35+00:00",
+        "date": "2026-06-11T00:22:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Bahía Blanca, de la inundación a la prosperidad: inversiones millonarias en la ciudad que conecta al campo y Vaca Muerta",
-        "description": "Bahía Blanca, de la inundación a la prosperidad: inversiones millonarias en la ciudad que conecta al campo y Vaca Muerta Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWE4UzJOb1RfRHRIWlAtUTVTSFBTOEdOSjZtbTRoUzRVOXlfZk1TU0ZEZjBMaHlaUU1xNTNmSktpY2NLbWJiRERqbUhIZEZzV3F4eU9qN1ZRdnZpQ2MxcmJLRHFaWmY5UHg4QkNYUmduUFpGdUJPYWVBYmp3bkZDQjN0aTRXOUg4MXJvVkxhcXhwWU53MXFxeHZmVEV2WUVmOElsTmkxSkJzU00?oc=5",
-        "date": "2026-06-09T22:59:10+00:00",
-        "source": "Clarin.com"
+        "title": "Presentarán herramientas financieras para pymes proveedoras de Vaca Muerta",
+        "description": "Presentarán herramientas financieras para pymes proveedoras de Vaca Muerta LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRElnQjBvSzdCaTluaWFzYUJKRGdKMlgzd3VzWHRiSXh4cEYtcmNlNXYyZUNCTEptM2V1U0ZjcjhwM2kwRWRWakk3VjQ0bnJMT0JxOGtybzdPZnN1bDlNVFpRQVZhQjlKWjdJb2taakFYYXJSNVlma1BodDN1NWtBSjlZbGdPSGliWmlnTkE2UlRDdHFKdVplc2ZuU0NEQjlnMzVGQVp5aXY2em95OFRYSWJ2Y1jSAboBQVVfeXFMUGdVR3NmRDNqcnBnd3V0b0NScUxkeFJSeDZ0Ymo2c3pwUjQ5d1A0aUVoMDJuZVRKRU43VVVOb1o5SFVnWW1aamNHeVFFeWxOQVU4UDg5U2xRYjNaZlFUOXd2UUVyQlBxVF9DcXpZWEZaWklUS0dkcGpwSlJYRXV4VlQ5NjAySW93d294d2xvYkVsZWpGSDFKUG9NMU9FNU85VGxxRFVoZW5pZ3dEVGFKMHB0TG51WGo0Ujd3?oc=5",
+        "date": "2026-06-11T14:18:00+00:00",
+        "source": "LM Neuquén"
       },
       {
-        "title": "Mientras la energía impulsa el crecimiento, la industria y la construcción vuelven a encender alarmas",
-        "description": "Mientras la energía impulsa el crecimiento, la industria y la construcción vuelven a encender alarmas Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWW5WNWswNjZnMEpLQlNyVnE2VTZ6eDRwc29sMTFlem1zVEp0bjE3ZHhTbjljOWJad2dneEtBUmU5VnNuLURnNlExV1liNWxKbnl2ZXd4XzFjSEVrOExyLVhQbWJqeE9pbXRGQXBaNDFmX3FNb2ZYU0ZLT2dYSHJDSDZJc2RidTd1ZkVlN01UcmRIZTEySGRJR1RjSGdHUjF3bVNNRHZONFRHTGg0bEVBOWlWeVlmR1VQSDBYeTB3NmNYVHdGQklEcnpxamtxQXpGVmVFeUVPdi1HLXQtYTRV0gHkAUFVX3lxTE1XcnJkQ2VZWEJvZkpWbW9QUUhXcmV3cnhya0FVREZvZjU2SkUwOXJydEpXbk9iVk5KcC1qbW5IVHpGQTEyS0NKTlRQQ2E4WTFHWWluQUtKc0pHRDVsQUZ3Q0dEWjJUMUt3Nk9VOURRUjZrTnlROVdXT0xzbkFhc1Q4N21EX1JIQS1PMjNSa2hER1poakRfLWhNcFd6bVB4c0ZIWmN3cEZhUzJ4SmpqaWY4ZFpiUnJYY2FvNEY0WmM4NWZRcUZBZFJmRGZUZGZmMzJ6aGwtM3pVWEt5M2RsNGFwcHNVRQ?oc=5",
-        "date": "2026-06-10T16:11:59+00:00",
-        "source": "Perfil"
+        "title": "Chile ofrece sus puertos a Argentina para exportar gas de Vaca Muerta hacia Asia",
+        "description": "Chile ofrece sus puertos a Argentina para exportar gas de Vaca Muerta hacia Asia LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNREJYTDlDN1pSMTRMNWJHaFowRUticy0wRUtuMUtkYWVDSGluVXpUMkR5cUNMUDZGMXdhU2Ryek15M3lUY0ZWZXVVckdrWURRRTFVMzBNQ0h4QkVJQzBReS12dHc0VFJQZU1qbm1YcnYtN1ROTUZ1TjluLXZsVi1qUU94S0h3RDFQREZpTmhhbURmVUxHY3NIcXppbTQxZVhNNFRpV2RFZk8zU1RVWGlVb21n0gG3AUFVX3lxTFBtQi1yRy1menVmdXJ2VmN0Z01zVGpSWGFuWHYzeW5scFhkbDNxazJMVTcwb0ZkSmRVSEZnS0hwRVVGaVJrM3hxQmRTc1o5QjlsX3dORU5Mc1oyNS1LTGhwSlJ1LUZENGRDVTV6UGJZamxvQmhfZllpVEJBaXdCTTZrRXFYbWlDdFdEOHdtRFlGdkJmV1BieGRoYWRYTEZXVEVMUGFxX08xVVFQWjZfa0kyZ3JVXzVZUQ?oc=5",
+        "date": "2026-06-11T12:28:00+00:00",
+        "source": "LM Neuquén"
       },
       {
-        "title": "Vaca Muerta no alcanza: el desafío de reactivar las cuencas convencionales se discutió en Canadá",
-        "description": "Vaca Muerta no alcanza: el desafío de reactivar las cuencas convencionales se discutió en Canadá Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV2xPMVoyMDFjaGJubDdtRGhsNnRRV0ExT3hYaGg4bEFEUXBrZ1NrNDBqTTNQWnpwUWNPd1AwQzlwdGhsQ1dpUXlWSVBNNEJTZHdpTnlkM3RGblJfUjdqa1FPclpicnNaSERkUTR4SkVReUhDckZfZk9sdnRVOUJzdU85MFhoakdTVEh1M1JHREFVZmNjRlplOWJnb1UwRkFfUy15eDJoVVdXRG96MWdndXl6bTBUUzFHVHJlRGVuSDF1ZUlwX0ZJYw?oc=5",
-        "date": "2026-06-10T23:38:00+00:00",
+        "title": "Chile ofrece sus puertos a Argentina para enviar a Asia recursos de Vaca Muerta",
+        "description": "Chile ofrece sus puertos a Argentina para enviar a Asia recursos de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOandfUk9xUkNWUmNXSHRmQVJueE1GaEhsRXFrbGl2cEpiNE9WWDdwTG0yeFR1RHVnaUxjUjg3ay1nRVp4ZzJpdEhEQjFTM1NySXZkazRua1FhVUw1WVlmTjVHOENpTTdxTUhBUEVJR1NDWUxoMUQ1eTQtYVNobGtzazM2OWNiWG5YQTh3WDRzWjlacmtTNXZ5MmI4T3FTbGFCZWhoOEFhTzh4MVJoaFE4TE0yWk1YbjJzaW9EalFYQXQ4NFV1MEphMEFiUkrSAecBQVVfeXFMUHQ0c2QxWHNpUlVLZEtHTTAxaEpTZEE2UWhYUDcyeDdBdEt5djVrNVZPcVJmNGtUQjJsZjY4UFpBc25vZTdWZGhFTlZ1cmhBMEpWcnZ5VzhmRmVmZ1k3T0tZcnAyQ3hpOWkwZmZ0RkRWNlRLdi1MV3lMU2ptSm9mbHFoczhFZkJDN2VKVGFtTlhYbUw5bUZPanU5c1FaaUplVTl3djBTUDUyUmxOUEYtUmt3cDIxYW5YZFlETlUzMGEyVV9meFg1S3NrZHVNV2d4NXNEbjFKekF4cHBMQ2FiNkd1ZUxOSUtN?oc=5",
+        "date": "2026-06-10T22:53:43+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico",
+        "description": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeW9Ud28wNG9Rc1FlRFpkRnpmaTB1cHNxWUhZakRTNXVxWHNiVEdfVS1PTGtVamtOd1BXY25YX3NQc2Ribk5JY3owbm0wRVhfVDJ5YWE4RmxFYVFnNXA3TWF6VVFNNlAwczY5V3BQbmZMakM3bmFkVlVXRmdZNFVzWFl0czlrZloxNkhvZXhQeVJPQUlod29vRGNQVC10UnJWNFpWWmN1N3VJeFZYMlo3TGtweGhzck5IbkZ6OU1VQjhmT3Rnd21nN0tKVU9GTGNZYl9mdWVBQlEwY1FMTW5rQjJYc0R3UdIBgAJBVV95cUxPZmZySk11MnZ6WkNGTm5GeVlxTEZZTm5fejloYVdBNkZXMzE3eWV6Q1F0SUpIQ1pObDlGQWRVbEJUR2RuQ3Z5NlFMQUh6eC1LVlk5dlJpZG5pSWhWOXNqeUxmcjBMRndGOXNodGxuWXpFT05la3BBWnVySzZsc2F5aHVXbjkyRldCTUNyX1pmS2tybHE3U1UwazRUMHFtTnU5a051MG0zYkF2SU12ZUFMV1ZSc1RTa3pFOEdqQjhzQ29Zak9FeHNrR1JGX0lYbnFMcktsc3JHMzdBNEV3YVg1bjBzNG1rWGEwNVpzZmpQdktQc2hlbHl2VmNBajUzQ3ZL?oc=5",
+        "date": "2026-06-11T16:18:27+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "YPF fue la petrolera que más subió desde el shock en el estrecho de Ormuz: qué explicó su rally",
+        "description": "YPF fue la petrolera que más subió desde el shock en el estrecho de Ormuz: qué explicó su rally Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUDNGWS1PYlB5QTJ3cE9FOGthWTVxZFZjOHdDMDRRMGZqMmFnUkd6ZEhqSFo1RWV5N0dCUkJGWE1JY3EtRDU4N2xGcHZRNmdhbGpOOG45Yy1GSGxVeTFFSUJibHlTb2p0cVVJa0szZW8zUXppbE1Md2xmZDIwc0d1SXNGVzlyNEozYnVfaERQcV85N0lublZPLXMwMWNNc2RTbVh4T2JPUVc2Vkx3S0pqVHkwSE10OE8ydmFrTHlJR2bSAcYBQVVfeXFMTVBNcVpTLWRwZ2N0cjdZZ2MwSzJlbjBFUl9VZjBrSFRaZWR0Yktiem1SczU5NnJmNVFYeHh5eUJDeThBTzNBSFcyVGQyT0JSZi16RWVsS2liSFNjQ0lCZ3pHMDc4RGFNbFRmeTVTOWFualdDb29OZnFpWTFiYWJNNnhnSE5Yd25EcTlJUFA4SHRBaHU0ZVI1YVJzMThyaXpQQWk5UTRwazd4T1p0NXZDR0QwTjczUm9TUDRUV3VhcEFHdjVqb0V3?oc=5",
+        "date": "2026-06-11T14:37:00+00:00",
         "source": "Ambito"
       }
     ]
