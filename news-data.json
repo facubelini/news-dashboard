@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-06-13T13:48:05Z",
+  "updated_at": "2026-06-13T15:29:34Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Europa ya tiene su propia alternativa a Word y Excel. Y su primer gran escollo: utiliza por defecto los formatos de Microsoft",
+        "description": "Europa ya tiene su propia alternativa a Word y Excel. Y su primer gran escollo: utiliza por defecto los formatos de Microsoft Xataka Móvil",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1RJNE80UVczY1pUTGpKUzN0aVFrOWs3bkk0bzZpb21xeWpiYmRkTnFxODNzVmIzdzNUc3FNMTZKUmtBVEhnMG00Qk9JUVc1ZjNRMmlTNy1XT2tLSmdmbldGaV9PNVpBSUQ2NWoxSHJTcXliTDgyNkRCcGdsLWRzNGgzMUVJNmxYRDZaS0k2R1lEYldVOGZfZGhVQlF4M0xvSFhQNmxfWU91dnPSAbABQVVfeXFMT1V6NGFVU2R4eFZSTDRsajhvaXlDdXluTWNYUTBYTWhvNUJSREk4bm5BM0Z1a3dLT3hYMy1NYV9GSTk5QThBM2VVdlliY3NLbVFyekVSWUdxaUQwSTZMVktkalh4bGhTbUFZTVZJaEJYbE5FTVUybEwwSXQ0QXhrSGVYSzF2NWJ5T01tXzY5UG00TzlFcGFoZl9YVEMtakxpbjR1RjdNc2Jrb1FQOUFob1I?oc=5",
+        "date": "2026-06-10T11:08:36+00:00",
+        "source": "Xataka Móvil"
+      },
       {
         "title": "Microsoft Edge tendrá actualizaciones más rápidas con un ciclo de lanzamiento quincenal en lugar de mensual",
         "description": "Microsoft Edge tendrá actualizaciones más rápidas con un ciclo de lanzamiento quincenal en lugar de mensual Infobae",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPck9sRHI2WnRtakZZZVFoQnhDWGdMdFBVUC1LMkJ1bHJTVXRmY2o0NGdxZldWTzNCUUotaWZGZ25WU29jNFlHM2prY01VX0VjSkhxSXhYenBTb19Fc1ZscGc5YlFZUkI3ZUZmTzZQR0FsR2V3WTlLbG83cTZtMUxBdXFNWHp6T2s3ZFQ2aXFfSzhRcVNmX0NucUZnVWVnV1ZWNEVzNFVmYmFyYkhlN3huUjVjdUUwQjc2ZFhXUS1pNXRvZ1dqemhUcXloRQ?oc=5",
         "date": "2026-06-12T17:05:22+00:00",
         "source": "bloglenovo.es"
-      },
-      {
-        "title": "LibreOffice acusa a Euro-Office de oportunista y aliado de Microsoft",
-        "description": "LibreOffice acusa a Euro-Office de oportunista y aliado de Microsoft Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmlWYnR6RE5LMHJ4SUF1TXhfWmJjZ0tPVDByNGVhOGIyakhXSG55T3dOSm1ia0pfNVU1czBuTDFBUkZ0Z25acHl3aUFRRms0aVgwZExQSzNWRW5jTXVUZjZrTkJtdGxNdXJQVG9Wekt3clY0d1RWM0NwTF9XMklFbWRQb2h4dVFLX1E?oc=5",
-        "date": "2026-06-11T21:25:00+00:00",
-        "source": "Hipertextual"
       }
     ],
     "Marketing": [
@@ -68,18 +68,25 @@
         "source": "Universidad Nacional de San Martín (UNSAM)"
       },
       {
-        "title": "Aprender marketing digital para trabajar, emprender o reconvertirse: la apuesta formativa de Peter Academy",
-        "description": "Aprender marketing digital para trabajar, emprender o reconvertirse: la apuesta formativa de Peter Academy La Vanguardia",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdklVR3ZDS21tV1UzQlZ5TFpYVkU2c2NEcTZPVXZza2w3eTJXNkFoNU84bm95T2EzTVNRLUhrZzFDWGk5RlFCZmRvYV82R3JxOXZlN0VMNFJpYTRvVEtFa25DVk1DbE1HYzZNdmllTG5nZnBxQk8yeWI2cDl2cGpEWFhjbHZEZVpxaFQ3dm5IYTJTbDByYjFLaGQ3RU90bEJqMW9GRGNVN2xUWGQzckpTVWtxTkMydFM2bV91YkdEZmFrYVk2QUY0dGpZejhIaEljQU1OdmtKQnBnSHpmekZPM1VuVDFtU2dWQ2h6dV9DTzBIcUpua1ZzT2ZJbWhjek9mVzhxY09TNNIBjAJBVV95cUxQQ2F3YnFsV29PQlNJbGNQdS1OMHdnS3hkeXlBWFA3UThWNEtHTjJaTm5sOEpHSmh3dnVzWXZuQjFWTWFWNTBncE4yVms0ckJxbmEtMmVuNDZzVm1ZTGxsaDF2bkJDcXlZdHJIV1l3UlN5M1NlQkd6c1JrdWhRYTZjZ01TeG5ud2hadGZJeU5sYndxV1hlYzBDd2lEM3k2eUFEdHB5NjlKcG1nTFdMdXQwY3FscEJBcWRVMlpkd0RvSVhKblRlOTBZS05Nd2FiNEJPQ19mOGdSNTZwMEJ0cXdnVjZRdnlHYVdDWkZjVEp6NEtxUFZvM1ZOVEJBTkxPRDc2bWpqRXVRVTlqSE84?oc=5",
-        "date": "2026-06-13T05:00:00+00:00",
-        "source": "La Vanguardia"
-      },
-      {
         "title": "Ofrecen taller gratuito de Marketing Digital en Quilmes Oeste",
         "description": "Ofrecen taller gratuito de Marketing Digital en Quilmes Oeste La Noticia de Quilmes",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DWTVWYWVMWEJJNEZvUzhIZUpIOVo2eTZBVm9zWGhIRThyNHplaF9SSlZaajNsOElsTTFhMGtxMXFjX0o2cEUzUHNjWDE3b1paV2tYMEhtaWJGU25OQ2diRlRkOVNhUmtCbUtN?oc=5",
         "date": "2026-06-10T20:10:56+00:00",
         "source": "La Noticia de Quilmes"
+      },
+      {
+        "title": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet”",
+        "description": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet” Despertar Entrerriano",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2padHFwUU9hTERaWmEtUHB5Y3NZT05QZENBV0RZYVdTcUtWcnAwS0ZUY0pmSzFfenp4dlFKakloZ0lrRDZBSWdRZ2VhQnVXZEJzcExZNkpTalFVNnJ2TlZXSUl2cFBXMkR4M0RFbGVtSlA4SUxsLW1BYlRQaEk5clJQVjBBV2pYeGJOR1Z3Ui1GMTdwTEZhVGFxZ3loeXdjdU5xVHNlRlAxazNDX0NYc3NFam5aTjRpYm04Q2NDMA?oc=5",
+        "date": "2026-06-09T08:16:28+00:00",
+        "source": "Despertar Entrerriano"
+      },
+      {
+        "title": "Aprender marketing digital para trabajar, emprender o reconvertirse: la apuesta formativa de Peter Academy",
+        "description": "Aprender marketing digital para trabajar, emprender o reconvertirse: la apuesta formativa de Peter Academy La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdklVR3ZDS21tV1UzQlZ5TFpYVkU2c2NEcTZPVXZza2w3eTJXNkFoNU84bm95T2EzTVNRLUhrZzFDWGk5RlFCZmRvYV82R3JxOXZlN0VMNFJpYTRvVEtFa25DVk1DbE1HYzZNdmllTG5nZnBxQk8yeWI2cDl2cGpEWFhjbHZEZVpxaFQ3dm5IYTJTbDByYjFLaGQ3RU90bEJqMW9GRGNVN2xUWGQzckpTVWtxTkMydFM2bV91YkdEZmFrYVk2QUY0dGpZejhIaEljQU1OdmtKQnBnSHpmekZPM1VuVDFtU2dWQ2h6dV9DTzBIcUpua1ZzT2ZJbWhjek9mVzhxY09TNNIBjAJBVV95cUxQQ2F3YnFsV29PQlNJbGNQdS1OMHdnS3hkeXlBWFA3UThWNEtHTjJaTm5sOEpHSmh3dnVzWXZuQjFWTWFWNTBncE4yVms0ckJxbmEtMmVuNDZzVm1ZTGxsaDF2bkJDcXlZdHJIV1l3UlN5M1NlQkd6c1JrdWhRYTZjZ01TeG5ud2hadGZJeU5sYndxV1hlYzBDd2lEM3k2eUFEdHB5NjlKcG1nTFdMdXQwY3FscEJBcWRVMlpkd0RvSVhKblRlOTBZS05Nd2FiNEJPQ19mOGdSNTZwMEJ0cXdnVjZRdnlHYVdDWkZjVEp6NEtxUFZvM1ZOVEJBTkxPRDc2bWpqRXVRVTlqSE84?oc=5",
+        "date": "2026-06-13T05:00:00+00:00",
+        "source": "La Vanguardia"
       },
       {
         "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
@@ -94,16 +101,16 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVFMbGd3b3p2V3dzZ2d0NGFrYzdwekozanRaN3h6a1pZQWJqTlk0QktwUXN2VEw1c0RMMi02UDFyYzdQOE84UVZ2RVMzNTVlUWRnUW9FRXJPS3VQN1JZRDNac1BXNkpSM1doeGVzTzhvZ2swLWxGa2IwMmpmTzZTMWJuSFhUVFdYRzNiRno1dS05am9KQXhyRWNMSDNpMmh6UVg3ZUhnYkc4X1VpSUxQMHVKQWloZ9IBuwFBVV95cUxOZXZDaVlCTndXRzQ3bzd4WU5nYzZ3NXk5ZkFIMV8xWjNReTBUT3JfOFdYMlRSVE1jUGxweDBDemFFY2JEaDN5QkFoNVdZMzlWQnRuVXlQWUJqeVcxRm8zTGs3dmJuUTZmRXAyaW51aHB0NE1KOHNrbFdHa1pfTWdYSTF4SFZpdDNXZjY4Vm4tT01YVGJ4YXFZN1pYVUFxS2d0VFg3aUJYQzl0WlRHQklrUGI0bk9YYnBoei13?oc=5",
         "date": "2026-06-10T14:00:00+00:00",
         "source": "Crónica"
-      },
-      {
-        "title": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet”",
-        "description": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet” Despertar Entrerriano",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2padHFwUU9hTERaWmEtUHB5Y3NZT05QZENBV0RZYVdTcUtWcnAwS0ZUY0pmSzFfenp4dlFKakloZ0lrRDZBSWdRZ2VhQnVXZEJzcExZNkpTalFVNnJ2TlZXSUl2cFBXMkR4M0RFbGVtSlA4SUxsLW1BYlRQaEk5clJQVjBBV2pYeGJOR1Z3Ui1GMTdwTEZhVGFxZ3loeXdjdU5xVHNlRlAxazNDX0NYc3NFam5aTjRpYm04Q2NDMA?oc=5",
-        "date": "2026-06-09T08:16:28+00:00",
-        "source": "Despertar Entrerriano"
       }
     ],
     "IA": [
+      {
+        "title": "Un policía británico usó la inteligencia artificial para falsear pruebas y terminó apartado de sus funciones",
+        "description": "Un policía británico usó la inteligencia artificial para falsear pruebas y terminó apartado de sus funciones Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN0tpelo4Z1h0bXZvemVzRnRfUnU5ZUJ2c2pvVDRqdGJyVlFlMGdURE56d3FvRUlLYmh0ak1kTW85Z2JCNE1LNVd4NkxRU2lCc1BFSGEybUxFeXJfMVV5N2Iwc0VxNThvUEhpTXNBdzl1RmZCa3FYbmhZNXBHaGczZmtLX2pwWEhsd2NZUTNpRU9CVVd5eXZ4US0xdGpJdjVvYzhvNXBaQjMtRE5YTV91WGRMNlZCRmhhNUEwRmUzWV96M2NucjRuS0w5WUlxU2NGLWhMZW4tV1BPc3NfdG1QRHZR?oc=5",
+        "date": "2026-06-13T14:53:04+00:00",
+        "source": "Página|12"
+      },
       {
         "title": "Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros",
         "description": "Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros EL PAÍS",
@@ -112,25 +119,18 @@
         "source": "EL PAÍS"
       },
       {
+        "title": "Anthropic suspende acceso a su IA más potente por orden del gobierno de EE.UU.",
+        "description": "Anthropic suspende acceso a su IA más potente por orden del gobierno de EE.UU. La Nación",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTzd6bVpiSEQ3MlFwT0txZXZMSDNYZzVmNnNWaVNVd3lfY2pPcVliUENZMm52MkZETHpMWU42MFd0ZDZwV0plNkhTNW1lS0loSWNhLU1hX3UyZTNZcElYVmJMLVFOTWF5cjNyYmkweHNQTklybHFnT25oZ09UUmpycWhHUGQ1NzByeE1tQmoyejJOUmZsdzhzS2o5YVREWXF3bXZ2cDRrUHQyYWctV1luZHM1RnFYMzZGdF83SnRXZW1MOFUydnZ3blA0alM?oc=5",
+        "date": "2026-06-13T13:36:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "Anthropic apaga sus modelos de IA Fable 5 y Mythos 5 en todo el mundo tras una orden de Estados Unidos",
         "description": "Anthropic apaga sus modelos de IA Fable 5 y Mythos 5 en todo el mundo tras una orden de Estados Unidos Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaEI5YnRSWG5ZM0xObU1TcDR3WndpNWpVYVFUdHNLUmhMeGozQW4tMVo5NFFfVktVNjJqTnoxaWR0MEQ5cV9jRmV1NjJuUHl0TlNwZUZWS3FubUxTbGdKOHZQNmE2UTctWFJoa0xUWGNYemZYNEF4WUFkakJCcjc3NXFocXpQeXg5UFhKc3hlU0RUY0xoVTR1Z2VnUGFRMWhTUjl0bHlLRTBmZEJXR1VBY3dBZUQ5cDlhOUpWSGhmeHpxYXd2LWhBeHRFellTVnlyOFFSQTljS3lNZUwy0gH3AUFVX3lxTE5qLUxiNTI5dk5uOXRCRS1tQXc2MVVYanl3WTZNWVpRRU40bV9iUy1fRElIdl81NTdjVzJWdl9GekMySEo3WVhjYzJaVUtfZFZ2dnJ2N3BwdVBEdjBoSVd6OTR5cVpRVDlGbjRYV0VnNzlYcVc4clRUR3JXNnB0Uy0zaTdkWUZRUUViRERtWWs1TFRoZjI4N2MyWnVfZWphMzBXU3lnLXhMeVVnY3VPQ2VrNFptdnZhbE1OVndVUjFTMTBGRWp5V1JvUzVTdXZjM1VsYzEzN2dOaVdVV3BFblVHVThZNDloWFd1T093eHZXdGVvRWp1bGc?oc=5",
         "date": "2026-06-13T13:10:37+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Anthropic lanzó Claude Fable 5, su Inteligencia Artificial más avanzada",
-        "description": "Anthropic lanzó Claude Fable 5, su Inteligencia Artificial más avanzada Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRm1MeER1SHIyVlIzSVJhQmdIcEcxVTVCLUU1d1NiMnFRVW1IdE56T1g0MHVFNC1xS3JRMUk3Y1pydWxBQWRLYmJxbVZYS2RDZ3dxQkdod3ZwRzVfS3JCTnhGT2s4VDFhakxuVmhTY25OOENVQ1IwM0NHRUNDR0RyaHRCYk9jYW9kMzVDWUtLVmpxdS1CZGFfX0xVSTIxU2cyb3p1czhCY0h2d1hkRzAzS2JNONIBuAFBVV95cUxNOVZYeVNaWVhTakVRQmhUOURhSXJfTC1QQ2JpZVhXYWhMc2NQM09JSWhSZjAzRERsVjlBcjV1YU9obkRmdnZlTVRYSFpJakhMeTl2dWdZajVBVVVIcVZlcnE4dmdYNW1iS0pVQkZ2Q05PY1FBTGk0Zks0b0JhY1BtU2NDbDFOZnZENzhWc3FnOC1valk5RV93b3lrb00zQUczMDZGMmhaOGJmV3Vvem5ZT3p5cks4b1Ja?oc=5",
-        "date": "2026-06-13T12:00:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Las carreras del futuro en América Latina - DW",
-        "description": "Las carreras del futuro en América Latina DW",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUVpLTJHSlZfWmdHMnFROHZ3UDdJQkpRdmJDWVRNRld6N0dacXJXN2VNbXl2TDl1SWhiS281RTltWHB4LUI1NTh6WUxKckl6UndXUmNkcFM5ZHBFYnJjU095UzZBR2VheVZEb0plUno1NmtrSGtJY29lN0d3S3VoODJFU1MtN2d1V2dmZkZHcFlZWVpvZXhHMXo2aGVvbHI2OHctcTRSR1NPbHBTNFNKdWVuQ21uT1V6RTdhUktOV0MtNVZHNjF6Z09od19zd2pXWjRIWUJYNktraTNZ?oc=5",
-        "date": "2026-06-13T03:55:38+00:00",
-        "source": "DW"
       },
       {
         "title": "Innovación en gestión: el CONICET incorpora inteligencia artificial para identificar potenciales especialistas",
@@ -147,10 +147,10 @@
         "source": "Gobierno Del Chaco"
       },
       {
-        "title": "Cómo la inteligencia artificial se convirtió en una herramienta para los diseñadores de interiores desde el primer boceto",
-        "description": "Cómo la inteligencia artificial se convirtió en una herramienta para los diseñadores de interiores desde el primer boceto Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVHVrUXZnNlNydUxmQThMMlZfN0ZXeTJ6LXZES0k1TUxyeURXVjU5Rm1SWGtWVnJsRTJrQ1VVcDBabFlqX0xKR0wzMV9PMG5MZEczZUxhYmhKR3FFWDdwc3hzdTJ4bkVWSkc4dVlwOTQ1cmJGOUJwM2ptMWJpcm5PYVk1WnJDbzAwMGNOTXozdVA1OTFtUG9IQlkyaGV6cGZxaGhUUjBmMFBVNXJLa0JmWDlFMFFWT1hGNTFhNDg3dnFURFRYRXdHT2tjblhMNXUtTGJySWU4RGI3eVpPQXR3YW80blEzYTRVTTdydWw0OWlaOGh6X2NWNFhFMUh3eUhQ0gGbAkFVX3lxTFB4YWhmVFR0OF9oeXpxZEhnWnhsWWRQSGszOUhNOEJWZlhoMklvTVgwNWtjRDFwcmdCN05mVnVpRnhzaXQwSHpPaHlwSVRsZEJpZWtad2M1VW51T0w5R0k2TTJVLTdubWdMNDY5eVVsdUdlUXRaR0ticU5Nbk1jT0FyUU04Yzl5VkZEX1Q3QUxsU3ZpdV94eHRhbm5hbzI1R3RQS1IzNjNidlZxTzU2c21qUDctY05TZGRRcS1UbU9aUm81N253YmlBb01Db0huWmt6SklIX01uR0xKMFFpNk5ZUkxzWEMzV3VYX1d2Sm1GcVlfYktVMGNreXRuVm4yR0dUYmsxNXdFb3FlS29aSGxZRlpqX215TGFSUUE?oc=5",
-        "date": "2026-06-12T23:58:00+00:00",
+        "title": "Evitar malentendidos: la inteligencia es centro de la condición humana",
+        "description": "Evitar malentendidos: la inteligencia es centro de la condición humana Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaWR5NW1CZm9TekN4T1ZHZmJ3QlpQcUgtem5YakIwRjh3U0NveU9qYjBERjBnUDMwR1UyMTJsci1xd2NkV0ZVUmhOOFdpQ0VPNGdaU0FCZWJ3dTBUblBBcl9ocjFfdmdaeklYS1lqXy1zQ1Itc1NnMDExS0F0UnhnaGlsTzViNUY5RUh0S1pyNFVsR3g2bExIamtxd3I5SGl5YmNrZDc2OFRHdHVNWmtDbW9DY9IBzgFBVV95cUxQaDZDa3d0QTNFRE5EemFqZzRKc1Y3STAzR1MtOHJ3NEdTZ1RMeThIZGViSnZveUVjckM1d3NyMjFHcGhyX1VWSjg4UXU5MUsyX3R0cUlmODhlenJHTFRpbHZRY2RrV20xTzdDeUpScjlSUnlLeHFXUEFadGFLMG5KRmY1YzMwV3NyQnhPeVpZMHRDZWk1UnVPR1pRVUFaTl9lY0VKc3BBajdYdV9aYVpSMXFtejB3N2JxSm5qdFhrTF81bDVrUWlHX1FBaWRhUQ?oc=5",
+        "date": "2026-06-13T08:39:00+00:00",
         "source": "Infobae"
       }
     ],
@@ -163,18 +163,18 @@
         "source": "LM Neuquén"
       },
       {
-        "title": "Vaca Muerta: los yacimientos con mayores compromisos de inversiones en 2026",
-        "description": "Vaca Muerta: los yacimientos con mayores compromisos de inversiones en 2026 LM Neuquén TGS consolida inversión histórica de USD 3.000 millones para el procesamiento de líquidos de gas en Vaca Muerta Rosario3 Dolores Brizuela, presidenta de Dow: \"Si no existiese una sobreoferta…",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3IyQmw2VHBuWmVDSHMtNDRycDN4d0Y2S3pfbGtiNGJ6aGc2VTFPaC1aWmFvZHd2dWZvM0k4Y3VfdGR1Q3ZyZmMtZFN2NGdQbHp2M0NtdkF0ZXdELS0tb0pmbXJHX3paVUdHeGhwdXk5YXNHS0ItaDUwZWhVQ2dTblo1Y3lkMUk2X2dsS0V0OFBkSlQxc1VJOU1la1VMUENLTF9WYkRRekpfWTJpSVHSAbMBQVVfeXFMTUliajg2YzVHMmlrSnk0YmwtT0pTVFBGbERWN1NBQk5YaE9mZGpTTmFmYWxyUjF1VHJIemRWYU9iQkdYUkt0cHBYUnFidFJvdHNxOF9JX0NTYjZ4TnBsQXZuSE5GZFVoQ2l1NEEwQmRZYmwyakszaHVONlFBSDgwci1SQl9lRVU4VVNZT3R5ZGpnWmIyVkMzRUFsOTJ0ejYyNWR6Nktaa2hDY3R0OUdyTnU0eE0?oc=5",
-        "date": "2026-06-13T02:55:00+00:00",
-        "source": "LM Neuquén"
-      },
-      {
         "title": "Su abuelo llegó desde España tras la primera guerra y cuatro generaciones después, sostienen el oficio y proveen a Vaca Muerta",
         "description": "Su abuelo llegó desde España tras la primera guerra y cuatro generaciones después, sostienen el oficio y proveen a Vaca Muerta Diario Río Negro",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONS1DWVNZNWs4VnVLTXlWU2g1WHhFTVEzdHI0Wm5adEd6LVBzUE9mQVVFSDJmd2NTT0tTU1FTXzJqNHpia0U0Ulg1dDVMVWZGVlE2VFQzOVpZRUVuS2RMRVRkSVJwVXdEMjd0c1BNazNxV0RGMWFkMmpQVHNVeEhMaUhSdTBWYWlqNVlRUU5FcFRCVEFWdi1aRGxqV0UxZlJLSXA3MmNqZ2dYdlliQlZVaFRVTTdEb0dac1MyMzZTc2p6clJ1ZW1QMU50dl9GVGktTmktUkxqN294My1sckl1VHlqdU9YTG9iRzl5NkxUeDJIcEg5NkHSAf4BQVVfeXFMTnNYLU54YU9NU3d4cW5DX2FTRUFXcTBNbGVFZDBnNlVDbE1EYzhNekhVc29oRGhMSVYwWm9kbDJJaEo5ekt3M1NaeTdNUHQzLTBMckdDaE8tcF9BZ21RUTcwNWpwZXNwVHljamgwNW9nNDBIWFlQYmQ2cXpBUFhEaUlldFBmYUJXUnhmVnEtUkhhYTVYcF9JeWRpREtVckhIcUlDTzV0eHBhR2RmTUY0UEdnVkREQ0tCRTlJUGNpUE94ZUtIaGNycVloVk1mcm80RXlnVkRXb3hBQkRCc09HREVvbjcwWC05LTRSZGxkaTZ0RTZCRGhReTdUS2oxWHc?oc=5",
         "date": "2026-06-13T03:55:00+00:00",
         "source": "Diario Río Negro"
+      },
+      {
+        "title": "Dolores Brizuela, presidenta de Dow: \"Si no existiese una sobreoferta mundial, estaríamos pensando en inversiones inminentes\"",
+        "description": "Dolores Brizuela, presidenta de Dow: \"Si no existiese una sobreoferta mundial, estaríamos pensando en inversiones inminentes\" econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX2RtWGJfbkhQd3Jvek1DdTYxZlltMkZ5cGpsTE9vNGduNFI4RDAtYXRZX05yU1RHLVFiM3FidEhXS08wZVluTWZhaXNwZWtrN2VFQzNfOUtWY1BObm9PVkhEc01FMk5JQTZidTlGNG4wQXpOX2w2djkwbE1aSXBHRGlaRzFWVWRMakp5QmhzMFF0NXlsb1pmTzVzdlBLcmtOaDBlU25Wd2NjdFBzOTdiTmFVZkRNTG5sSTdBWUlrU1NYX3ZLcEg0MDlTeVRHVU56Y1lLUGx1QXpJekRwOTRSUFdLVTQwTUc3UEZaS2Zn?oc=5",
+        "date": "2026-06-11T13:05:22+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Montañas de residuos del fracking contaminan el ambiente en Argentina",
@@ -184,25 +184,25 @@
         "source": "elDiarioAR.com"
       },
       {
-        "title": "Horacio Marín: \"Vaca Muerta es de clase mundial, tenemos que desarrollarlo y no desaprovechar la oportuni",
-        "description": "Horacio Marín: \"Vaca Muerta es de clase mundial, tenemos que desarrollarlo y no desaprovechar la oportuni El Tribuno",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbkFyT0QzRlQ5c21LWGRPaExGQ2lKSGtkS19uamRBejlBUW5UbklKMnpwLW1zWlpURjEtNFpYMURybVlBSzN0ZHd4V3k3ODJoZHVTOTFjanc2V25HTWJma3Nvc01wdzJnYkxqeGVyWjBya05VRkdFZENpeEl0ZnlJZjdPNXlhV3l0cGxEM3BNalZMM1FVM2J6VGM2cHNMTGZULVVqLWpab3RCU1BBa25fekRxMXU4RC1YMTlaZ2NYWllmZVVfUDVYTVo4TE5razJ4Z1BRUk9Kc0JSWkYwQlZXcThIMEU0RkRBVWfSAe8BQVVfeXFMTUY3X1JsSjhnRS1LS2V2YTREdGMwbTZGb2lvS1dobzlYMWJ5NDhhdE1VQXVzclMzWU9ydlVlOWZJbjhITkxaWFFzc29aSmhhRkNUakZGMG9QNHZPVVAzSXhXeTRJQlYtTzc3bEowTk9nZmFSOFQ1cWFsYUJ3OG5QUmFIcDlfQVJiVm5pVGgwYkY5TGlmUWlkNnoyU0RGZnlDaVd2TzVscjVjSDdQY1d0emFmVTBRUGNkOXZOWVA3ZXFYSURnZE04UGthSU1RTEh6OVNiVE41VEs3QkxVZlZJb19KblRSVFpnb3lpYndHZm8?oc=5",
-        "date": "2026-06-12T04:55:00+00:00",
-        "source": "El Tribuno"
-      },
-      {
-        "title": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico",
-        "description": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeW9Ud28wNG9Rc1FlRFpkRnpmaTB1cHNxWUhZakRTNXVxWHNiVEdfVS1PTGtVamtOd1BXY25YX3NQc2Ribk5JY3owbm0wRVhfVDJ5YWE4RmxFYVFnNXA3TWF6VVFNNlAwczY5V3BQbmZMakM3bmFkVlVXRmdZNFVzWFl0czlrZloxNkhvZXhQeVJPQUlod29vRGNQVC10UnJWNFpWWmN1N3VJeFZYMlo3TGtweGhzck5IbkZ6OU1VQjhmT3Rnd21nN0tKVU9GTGNZYl9mdWVBQlEwY1FMTW5rQjJYc0R3UdIBgAJBVV95cUxPZmZySk11MnZ6WkNGTm5GeVlxTEZZTm5fejloYVdBNkZXMzE3eWV6Q1F0SUpIQ1pObDlGQWRVbEJUR2RuQ3Z5NlFMQUh6eC1LVlk5dlJpZG5pSWhWOXNqeUxmcjBMRndGOXNodGxuWXpFT05la3BBWnVySzZsc2F5aHVXbjkyRldCTUNyX1pmS2tybHE3U1UwazRUMHFtTnU5a051MG0zYkF2SU12ZUFMV1ZSc1RTa3pFOEdqQjhzQ29Zak9FeHNrR1JGX0lYbnFMcktsc3JHMzdBNEV3YVg1bjBzNG1rWGEwNVpzZmpQdktQc2hlbHl2VmNBajUzQ3ZL?oc=5",
-        "date": "2026-06-11T17:01:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Chile abre sus puertos a Argentina para impulsar exportaciones de Vaca Muerta a Asia",
-        "description": "Chile abre sus puertos a Argentina para impulsar exportaciones de Vaca Muerta a Asia LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVQa1h1ZERkSUZxVzIxLTdLUG84eHJqV3BSeWRxNWp3WGlNMDJ4N2xHeFdMc0dyTXo1NVd3Sm1EZEEwTlZpY0FTbjU1M25MT242UkN4NUh0V1h0RTJGNkxmZkp1OWZldXo1YzU5bmZXN0lEWkU3eHJ3c1BwMG43Vnpmb25jbU1uVkstVkR0bkNwd25sWXFGMk1wb085ajlsWkp2THB3WVVwbTdNWjQ5a1YtU2dSSm5UZW1UcNIBwgFBVV95cUxNVlZFUEctM2dVMFlZS1VrR0I3OEpUV0JDTE9lRVNXVWZiTmhfbER0dnJWcXhMOHBXaHdOY01TM3RzQTZkbWNUelNzQ0hmUUlsb0ktSjMyRksxcDlUN0dtUDJWc0V5RUdQb0hwbGU0NGRLa1FDajl0LUU4dzVUMjRIM1JTZWQzZ0NNcW1BTnVKNEtXcU41N19VcnZaQ2o5WGp6U1BoRGV2bExDSFR6SXRUWVdxd1UteVZlS01oMjJ6UGlEQQ?oc=5",
-        "date": "2026-06-11T12:28:00+00:00",
+        "title": "Vaca Muerta: los yacimientos con mayores compromisos de inversiones en 2026",
+        "description": "Vaca Muerta: los yacimientos con mayores compromisos de inversiones en 2026 LM Neuquén TGS consolida inversión histórica de USD 3.000 millones para el procesamiento de líquidos de gas en Vaca Muerta Rosario3 Dow ve potencial en Bahía Blanca, pero el mercado mundial frena nuevas…",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3IyQmw2VHBuWmVDSHMtNDRycDN4d0Y2S3pfbGtiNGJ6aGc2VTFPaC1aWmFvZHd2dWZvM0k4Y3VfdGR1Q3ZyZmMtZFN2NGdQbHp2M0NtdkF0ZXdELS0tb0pmbXJHX3paVUdHeGhwdXk5YXNHS0ItaDUwZWhVQ2dTblo1Y3lkMUk2X2dsS0V0OFBkSlQxc1VJOU1la1VMUENLTF9WYkRRekpfWTJpSVHSAbMBQVVfeXFMTUliajg2YzVHMmlrSnk0YmwtT0pTVFBGbERWN1NBQk5YaE9mZGpTTmFmYWxyUjF1VHJIemRWYU9iQkdYUkt0cHBYUnFidFJvdHNxOF9JX0NTYjZ4TnBsQXZuSE5GZFVoQ2l1NEEwQmRZYmwyakszaHVONlFBSDgwci1SQl9lRVU4VVNZT3R5ZGpnWmIyVkMzRUFsOTJ0ejYyNWR6Nktaa2hDY3R0OUdyTnU0eE0?oc=5",
+        "date": "2026-06-13T02:55:00+00:00",
         "source": "LM Neuquén"
+      },
+      {
+        "title": "Presentarán herramientas financieras para pymes proveedoras de Vaca Muerta - zapala-noticias",
+        "description": "Presentarán herramientas financieras para pymes proveedoras de Vaca Muerta zapala-noticias",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmRWQkJSbkFDcW9jYnBRM1VKRnJaMGROb0FRZjA3ZDFKTW84d3pmanZ0Rnd1ZW1XUUdzZGdFdTduQTVzZ2FNcmpUOHU0a2duOEVCSzN0Nm5mQ1d1aTJ0Q3E0WXJGQ0pwVTd0ejl1XzNpWk5IcWxEUmNtZThlWmVKSlUxUGppZHZzMHl1Y01oMm00Y3J3MUlLQUY5M096eHllcjVnbTZFc1hFUkl2WEZ3?oc=5",
+        "date": "2026-06-13T14:17:53+00:00",
+        "source": "zapala-noticias"
+      },
+      {
+        "title": "Trabajar en Vaca Muerta: presentan herramientas financieras para pymes proveedoras del shale",
+        "description": "Trabajar en Vaca Muerta: presentan herramientas financieras para pymes proveedoras del shale Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbUFEQUFzTjF0bll3a2F0MDcxV2F0bWlUbW4tRnVLdTg3U3hyQWNJMGMzTTdxUHdZenZFX29wUHRCV2pGeXZINURzdmt1RG9USHNiMkNIWlF0bkM4ZDdJVnF2eHd2Wi1PS0Y1LUFRUWpEdnRtUlVMNUpmRWJyR2VzcEdLMmpMUy0taVJYZlVBbFY3REZIUWdfZnRZeUg3OXZVQkdSTWNQY3Axc1I2TWNhX2VmZ3RERlBUZnU1U21HYll1SktuaTNDN2p6N19YT09kZUHSAdoBQVVfeXFMT19RcTM4ak5aRmZKWG5sb21xd3RSczNsN0RqcjI4cjBSdkpnYkJCYXZwMkpfWGhiV09mSEdjRTRoRklPVWU3d3BlM3R4bXQ2eGViYmtLNnhnUHRQME1oajlTWEdoTmp3elpZT1BVWEF5YVRQaWNTR1ZRa0k1dk5yRWNfOUJUUWd3WlFWUWpRaGZkTTJVM1RneXAyamlDYUhtU0Zxa2hRaVBsamsxRFZPeXdLWkxGZUVMal8xcXN5SGtTbG4wRmttNEtRQlZoMXg3MU5OaXMxTGVVU3c?oc=5",
+        "date": "2026-06-11T14:44:31+00:00",
+        "source": "Diario Río Negro"
       }
     ]
   }
