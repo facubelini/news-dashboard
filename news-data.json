@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T11:52:30Z",
+  "updated_at": "2026-06-14T13:50:55Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDY2QUNCLS1JWnVMVWdkc2o4Q21tbDlNYjAzd1NPem44R0JreUpmbXZic2xSbnRKY2Q1aW9BVXE1RmlJOE9tQ2E0VWo3dlhxaUdzaHlkUG1Fa05qYzQtdWFqYWZLX3M1Qy1FNFc5Yk8xTlBPRnBzQXVRa2JBTjlWcWk5aFBTVHJtNE1hb0xuYjM3OUNJdFdnenF5UWVWWnNTZDRhVlN5LU9BMjlTbGFlYWhQdVlYbjUzR2NnWE9ZRTdVRWVtLVM4VGxQdEsyTGVkR3BWbDM5Y0PSAd4BQVVfeXFMTldTUDkzUDdJdlNlODVyYmRfMVktdkk3bkR5UGdHUDVkdWxmSHVZM3VHRkVxdUFFV0QxWHhoTUJHSUo2ek1aQ1U0SlMxajVsYWxGVWxveEV1azYzZnNCdjVHZnA5TjVvbUdIUXdlc29PeUlIZ2dlcWtPejZoS0pRLXBaU3QtbkRXdWdyX3V4aDlaV09IbHlzYnpkeWo5S0lXWkhMN1d2eGRWUVFBVTBBcTJPNS1XTW5HaVdjaGYtWkhJTmJSM0s2TkFSQU1QWG55QW1fWFNua04xemtvQUV3?oc=5",
         "date": "2026-06-14T09:01:40+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA",
+        "description": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa1JVRHB1T2NGQU0tVURJVGlBWi16X1I0TE45WlBZdXhHUjhZOGFmU3FQX3VZOXpzazhvbmFOanlDd1dKbGQtSE9sS0tvdG1oaXpHdFNSOWVZcDdhM0YzSkVpTG5fT1g2RW1pT09VSE9yUjJVQnlCN05qSUR1VDJHNnFhSnFOLWxqWDM0bTRtUQ?oc=5",
+        "date": "2026-06-14T10:01:14+00:00",
+        "source": "Yahoo Finanzas"
       },
       {
         "title": "El CEO de Microsoft reconoce la dura realidad sobre XBOX: \"Tenemos que convertir esto en un negocio sostenible\"",
@@ -29,13 +36,6 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnB0LUpVVXVOeDk4dW83QTR0MzhPa0dsa3hXTFF1VUhNaVk5cEVSR3FEWkdTcHdSZUkxS1VQSUVQWU5HVVU2bVVVU1JIejJoaWRqOGliTkhjZ3JVVGdVMmgxZXRSMnlaeWhPbTJGYXpYWFlLX05pOERHc2EyRURrZ0Q4MEkwMnlaSVJLSE54Q0RGTm9DTTQ0SEhjeHU5R3JJdFhpb2NxZFJDNW91TWNjcVFqRFYzZDg?oc=5",
         "date": "2026-06-13T09:24:08+00:00",
         "source": "Nintenderos"
-      },
-      {
-        "title": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA",
-        "description": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa1JVRHB1T2NGQU0tVURJVGlBWi16X1I0TE45WlBZdXhHUjhZOGFmU3FQX3VZOXpzazhvbmFOanlDd1dKbGQtSE9sS0tvdG1oaXpHdFNSOWVZcDdhM0YzSkVpTG5fT1g2RW1pT09VSE9yUjJVQnlCN05qSUR1VDJHNnFhSnFOLWxqWDM0bTRtUQ?oc=5",
-        "date": "2026-06-14T10:01:14+00:00",
-        "source": "Yahoo Finanzas"
       },
       {
         "title": "Microsoft acelera las descargas de la Microsoft Store en Windows 11 tras años de quejas",
@@ -112,32 +112,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Polémica por la imagen de Diego Maradona recreada por IA para una publicidad de apuestas deportivas",
-        "description": "Polémica por la imagen de Diego Maradona recreada por IA para una publicidad de apuestas deportivas La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQUluSVBXaFJUbjczQVZWLVljSFJpOW4yeG85NGN6dEw5SnlNYjFUSi1XeE1UendvWU14ZENtVmJGYlNSRVNIV2J6ZE81VmdVeUJjZmtYM181NzE1enNVN0kxejR6OUFzaWNIcENDWGRkQmxiTGlPb2NWMlp4T3hsa2l6WnRHWkNNUXUtMlR0Y2ZSSUEwMUF3WEctcjJOZnR5aEJadmtyXzRQQ0RrWTNTNlNPazhtd09WZDRvamVUaXRaMnd0Sl9JMV85Y1QyUnc?oc=5",
-        "date": "2026-06-13T12:16:17+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "Las camisetas con mejor diseño del Mundial, según la inteligencia artificial",
-        "description": "Las camisetas con mejor diseño del Mundial, según la inteligencia artificial MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2h3R1daVkxGZ1ZpOURueFlEYlRNNzdrRTZFc1lfV0ViTVZiYzVyU1ZBOE54UVBWdmwwR3o3S0g0Uk9xdC1kZXF1NnFXbGtqMy1NZXl1dGFLNUFSbU1talVNYU1URWJNTVN3ZlZWdThHcS1kMDB4QlQ0SzNwM0JNY3BmXzk3Z2dvWmRNZ3BsZ295S3VwcW9ZX2pQZmdhblhpbHM2bEVPZm9jamxfVkNpY1BnONIBuAFBVV95cUxOZDUxSExTNXRaX0d6a1FEdy00c1VpaE1VVUhRSXVMUGtiSUNyZnNxWkU2cHA5LUctc2tma1lfY0djdHFEUmItNVBlcV9Gam1SNjRlUmNjalpLNkdGbFFCN05YQ3JpUXZxSmJGR0t3X1g5YW16ZjFLdzZmc3l5VVlIMkZBZ1dhaWk5dUFZbmxoOVFDNHlfV1ZVLUo2WEFzQXUtZW4xYzFqQ3E0Wk5WdTBoYTZXQjBsbmRZ?oc=5",
-        "date": "2026-06-12T20:45:00+00:00",
-        "source": "MDZ Online"
-      },
-      {
         "title": "Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros",
         "description": "Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWGdHNi1iUGI5dmZmZjl5TVl4b01sLVdGZ3dLMmRTN3B6dzhLaUdWcEE4UWgtUTE3b0htM19zZWtyel90d3ROSWpNNFd2OWFIQllkQUdFYlRuZDRWNkg1VTR4U3R2YnNuNjlhUzRpUl90YWMyaWExbGhQY2ZKbWdJVWRZN1FUZHFlV1V4QmFTWkh4bVBSdmo4eXZoX2V0QzFTVExibEFXOHZGZVQ3ZDZONm03WnpOR2FqdGRkeS0xNGRsemdIaGJyYnlBVmRZbzJVaUtjYnU1WnVIOE9nTzJXa25MbnRDSUoyQnlWd0RUME56cjdqa1BKZWZR0gGOAkFVX3lxTFA4aTJHc05kdkNWcUVzcmJjNzNxY0xLYk0yVC16aE8tTzJqTEFfLVY0T3dyelF2Nkp5OHlaSUNCMDdiU2N2S0hJX3ZkNGxJdDM3VUdDN3ItQi01SmpVZE9YdmRjMDNaVWtraG1DLXdyRlF2MVhVcnR2Z2RzM1BNNFJVelBXQTlaT2JGQnoxTjUyaDd5dlNNdGp4UjZVZjk4Ry1JRDh1T0gyQkppUV8wNmdNejlmNkRSeXlrMGlTZ3F4MmdaRk1xSkRsOGhEVmN3QXlMREdvSmxpQ1AyZU9Dc1d1b241dHNMNS00eHR5VlZaWXB6MW50SlZoM1NpTlMzYW9vZTFQT3FtdGU5ZGp3UQ?oc=5",
         "date": "2026-06-13T09:34:40+00:00",
         "source": "EL PAÍS"
-      },
-      {
-        "title": "Una filósofa contra los profetas de la IA: \"Anthropic está diciendo cosas muy tóxicas\"",
-        "description": "Una filósofa contra los profetas de la IA: \"Anthropic está diciendo cosas muy tóxicas\" El Confidencial",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMG1mUDFDWC1Sa1BubHdxZEJOaU16NXlMOG51Mk9nYkdhSWZJejBrU2MzS29tN004YW8xaUVtS2hFZzYxOUVfNml1WWNHRFpqYkxmeUpUVXpkRXp1aWl4dFVsWkpWOW00cUFuZEtQUWpxdnJuMm9wVmVnZUZtRU9Ta1VHd3dPSHotakRaTF9FYkNka3lneUtLa0UwN28xd3JQNjhBREI2RjFLcVR6ZUt6dTdURER2aGlmMVMzR1hrYWpldHZfQ1pV?oc=5",
-        "date": "2026-06-14T03:00:00+00:00",
-        "source": "El Confidencial"
       },
       {
         "title": "Anthropic apaga sus modelos de IA Fable 5 y Mythos 5 en todo el mundo tras una orden de Estados Unidos",
@@ -147,11 +126,32 @@
         "source": "Infobae"
       },
       {
-        "title": "Mitos y realidades del uso de la inteligencia artificial en la búsqueda de personal",
-        "description": "Mitos y realidades del uso de la inteligencia artificial en la búsqueda de personal La Nación",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZk51Y3JrbFItOW5yWVJadnVjZEFNZEhzVk0wS3BDUjRscmlKck9hNDYteW11VTV2V0lPOTVaZUpWa1U0V2FpV0Y4bmpkMVhFWUtCbWVNMHJHd3VKU0RKT0FOQkljTlV4UEJxWTI5R0RWYUNaWVdSZjA4V2NCZ1VkcmZ1ZGpMb2NBcnRLWi1vRzdCYzd1WGN3ekgxdE9VbU5YcndhbFRSemhiRERBalA0bDE0YTJ3d2Nhemh5RURHZWJBeGw1Zms2dzdTazJwdw?oc=5",
-        "date": "2026-06-14T03:01:00+00:00",
-        "source": "La Nación"
+        "title": "Una filósofa contra los profetas de la IA: \"Anthropic está diciendo cosas muy tóxicas\"",
+        "description": "Una filósofa contra los profetas de la IA: \"Anthropic está diciendo cosas muy tóxicas\" El Confidencial",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMG1mUDFDWC1Sa1BubHdxZEJOaU16NXlMOG51Mk9nYkdhSWZJejBrU2MzS29tN004YW8xaUVtS2hFZzYxOUVfNml1WWNHRFpqYkxmeUpUVXpkRXp1aWl4dFVsWkpWOW00cUFuZEtQUWpxdnJuMm9wVmVnZUZtRU9Ta1VHd3dPSHotakRaTF9FYkNka3lneUtLa0UwN28xd3JQNjhBREI2RjFLcVR6ZUt6dTdURER2aGlmMVMzR1hrYWpldHZfQ1pV?oc=5",
+        "date": "2026-06-14T03:00:00+00:00",
+        "source": "El Confidencial"
+      },
+      {
+        "title": "Una herramienta de inteligencia artificial ya puede rastrear qué especies de aves migran y por dónde",
+        "description": "Una herramienta de inteligencia artificial ya puede rastrear qué especies de aves migran y por dónde Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZGhQVVIwT0dyZUJzTGNDVEMydmpYUnV5S2pPNnhnWmY1bTJ1MktKcmNfdjJWUnNhVGt3aDlWOE53YU0yQ25Zc0s3Rk50Zzd1d1VqMEJvNTdKMExyRHJhWGhHaW1GRE5XeUpfRjZLYW16Y2NLVjhJWDkxb2hIaUhOaS14RjhUUXVWOE5Ua3gzT3BLYjdHWmI3S2tlOG5IbXdCMzVjR3NlQnF4NUJ1c0RsdWs2Y0xqUzd3c2dKZFluX1Y0TkVHOExHZzdPbmlGM1pBQkJ4OTJVb2otbEdEOFI2ZkJZTmzSAf8BQVVfeXFMTU9scWV1S2t6cnN5SVVRSGdscnFrX3BPTEc4aUVJSDlfVEU1VWRXQlNoeFcxYmc0YlRLeXY2d1pCUG8wSzh2RXhFTzVVckRmR2swNkt5THFuMDFnaEJXOThUeS1ZcjROMUt0SlpDS1FvVXJWNFRSMkdGLUl0QU5LZXR3UFo5SHNLUUVOQTE1bFE4ajB0U0lRLUh0MlpkUlpqLVJqb0lUUkVPcWtVdGhrUW5UcWJ1UkpFX2xUTUFWT05ZUXVFU2NjRTFQSVBqNFo3X1lJaUZLWGs0TEZCSEJMU1g0WXBFS0dUdmJyNm0zTGp1QTg3dVprdzZFS0RVclI0?oc=5",
+        "date": "2026-06-14T12:48:08+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Alemania vs. Curazao: así quedará el marcador, según análisis tecnológico",
+        "description": "Alemania vs. Curazao: así quedará el marcador, según análisis tecnológico Infobae",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeURobnRNYzFhamhpUUMwVV80cFQxSUtKaTQtR19aMGw0bUthZXc5NnNid2tIenZ2U0dtSVF2UDlGekQ4dXdrRHEwSHB0a0tibFBBZEJENU1KYmV1TnQ4MmQ0MmVNaXhkMVBrcVcwTFZWRmFiczVfQ2NPeDAxenZ1WUtudERDYWhaa2hURnMwWlJmVmJabWQ5X2wtYTlYX0EzX0xKQXpxZ2piUVk1Njk3RzR30gHMAUFVX3lxTE53WGppZGNfR2NkUjdoei1ET1QzbWtfS3V6eWxiRm1jQmN5dGJ1SDNKY1pUTXpfTTJkM0xqaWo4MmZmVnRMYmViS0RDMkwyRzc3RVNvRkRGQzYwaW40Wkc2WjFlLVd4M01aS1IwMHREM2VHS0pzcXQ1RkJrcUtkVDk4RTNmVkFwVlNWWnltRmhWZ0JmMmx0RmxtaEtsZ1BZZjBFaTRpd3NrTjNJdkhjV1I3eUQzRDh1SUVWWVZ5WVh6dHhwY01hVmhpakNtWA?oc=5",
+        "date": "2026-06-14T12:13:05+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Sudáfrica vs República Checa: la Inteligencia Artificial predice al ganador en el Mundial 2026",
+        "description": "Sudáfrica vs República Checa: la Inteligencia Artificial predice al ganador en el Mundial 2026 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNll4elBfVnZqYThPNkIyUUkxalIzRlhZZWhINGZNOVpRTWZxOWFqMm5DZ1ZnX0RlRHBaV3RSTUx2Zjl4X2dMRGI4dmRFTEdQeTFkVkowcmJfMVVPdjNhY3lfY0VrSTQ4SVZhTWhlOXNhNUdnVEh5V1hVQ3duYmM3UjhsRW80aWd0TkFSRzFMRGhMR3VBWGxWWHQ0UDBWeUtoeV9iQzhMX0ctWmJqNEFGVUxCN2RsdUNBWFdkZEtEMVdyMUFTclptandMY1ZMa1dYWmVMM3M2TFhDazJmc1HSAfgBQVVfeXFMT2JWSFRaNEg4ek9XOFJQRVBlVU5mM1ZmZ1BvOVRNYnR4QTF5T1MzU3BfQzQxd1BqYmticE1NbEdfTHlna2x4cXdyN2tJNE9pYkJFR2hvM3NvZUtGd0I2WVVIaXFxOWNoN3pDMGtWWG1hR1RuMmV2LUJnUUlvR1NBa1FyX2VoZ2RfdFpqejE4YkhhYXFfbDJ3bTNQb05QWlJjS0MtUjJNWUpSb2hjZ09aTGMzTHFGYmx2TXRpTmlmMjZZZDctd1Y3TS1GWXhTM2pGeS1YRnFmWFF4RnRPaVY3S1pBQmRmTlBBNWRsS296T1NKejB3ZkFqV2Q?oc=5",
+        "date": "2026-06-14T12:11:00+00:00",
+        "source": "Infobae"
       }
     ],
     "Vaca Muerta": [
@@ -161,6 +161,13 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnhENzc2TnZ0dmMtdzh4SzNPU2xlb3kwUF9hYzR2SmVaT3FHclU5SVJvUFhtTkhmREJ3d3dKMV92YXNaRGh5b0FmMWlEbGs1engxcmx4ZXE5dm0tZWxQZF9lU2g1MUx0T21Ya05IbkFxbGtidUQtamc1V0QyZE5TS1JmalgtR3gybHRvenZyM29SSDdqekYwS0VsOG1xUXozV2g5OGdFWjhiUWt5M3M4NDMxbUfSAboBQVVfeXFMTWxCejRfd0toc1hFWDktbUZ2dmxuYkJqM09GZk9udnRkUy1UVVloaFcwTW5nSExiMkZTQ2RhSkZOVUVuaVpkT0g5QzVtVGItaXVYN0dBeTkwTG1XcmVSWEpYR3ZNREFaeGxHbVJhVGxJX21TRzhrYVhmWnRtbkx0NlNreXk1Q2N0OHNNcWgtSkg0TUtVRXJBOF9XeHhJMU1VTERwY21QZXJSV3lIc2Q2eUkwYnU3X0FnWGNB?oc=5",
         "date": "2026-06-12T15:06:48+00:00",
         "source": "LM Neuquén"
+      },
+      {
+        "title": "Murió un hombre en un violento choque sobre la Ruta 7 en Vaca Muerta: los heridos fueron derivados a Añelo y El Chañar",
+        "description": "Murió un hombre en un violento choque sobre la Ruta 7 en Vaca Muerta: los heridos fueron derivados a Añelo y El Chañar Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMGFUWGp2WEFLUUU5aGR4MkFodVlyMjZoOGFoUVpjMFphQTBoem1HWG5xc2VPWWFwRVNBbUFBWmdGb2lLQW9idG53V1BWUDdhdkFqSU11UkxEcml2RkZqUnRsSGJSbmVYcHNETmFfLWx5SUNEUFpyN2hGaWc1ajJEOFhyYWRCX3RXY213d203SjRSRmJKaWxmVkdwX1pOZzAzV2xaYzhGemZ4YWdLZmppXzdYWUZVSXhmWm1POHlHZDliUkRmZEpFb0k0MVlfdWphaGczUnRhZms1MXJWeGxEMFNqZjY4Wmxwekx6dDNqZVVwWWVSSFHSAf4BQVVfeXFMTzBacXExV3Fka3VwWHIyejYwSzVrLWkxYUtrWXFNUE15UHpESy15aEpCN252OUs2bG5HTTlNaVMwemF0VVVPYVByZUNZVVdtaGFwcnZFUVpNdm1ncnUxMURPUnEyUmdaX2dPcmNTb1V0LVNFZjlzRG9YRE1fRko4SHZHcnR6MnJhaVlWcEMwWll6TnVVdlZvUmJqYXVuM1N0YlgzOUN2SUdxaE02N2U3UUwyWmdDTEc3eGRxUVBBMzBxYU54Um1RNUxwek01aGt5OWlEdnh1WVEzT3haNVZLM3ByeUlvbV9xLTVhUnBlclRLampuTXV4Rm0wWl9ZSEE?oc=5",
+        "date": "2026-06-14T13:06:35+00:00",
+        "source": "Diario Río Negro"
       },
       {
         "title": "La mayor obra de petróleo en marcha generará en 2027 exportaciones por más de US$ 5.000 millones",
@@ -177,32 +184,25 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Dow ve potencial en Bahía Blanca, pero el mercado mundial frena nuevas inversiones",
-        "description": "Dow ve potencial en Bahía Blanca, pero el mercado mundial frena nuevas inversiones La Nueva Provincia",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTZjM3hFdm9TbklaTnBZYzYzeDhzMHlER28xc0d0Q2lRUzB0OURKaXNFYXk0cnRvbHladV85T1FadGl1VG1EY0labTNmV1JRVElULTFNUDdWTUg3T2Q5aVhIZlE2eEdLakxxRXJVRHduMm9iLTh3QjlCWndQdE05eUpicjNwRGVOMnpadVlUVVpyY0x0NFZvSjZnMUp2UHI0VFhDU0NMeWloVDFuTVJieko4RWtSVGV1WUVzaVVOSGtvTFgwcmc?oc=5",
-        "date": "2026-06-13T08:03:27+00:00",
-        "source": "La Nueva Provincia"
-      },
-      {
-        "title": "Cómo se distribuye la inversión de US$ 3.000 millones de TGS en el proyecto de NGLs",
-        "description": "Cómo se distribuye la inversión de US$ 3.000 millones de TGS en el proyecto de NGLs LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjQtSFpsM0NFdFN3bWdJSEl3SFNEeFYyVzlCR1FfaDFmQ1JyUWpMMmFnVlQzeVptZWJrR0tpbGVDb0tCVXpSTnFqS055UDhIRng5VGN2ZU9Zd01jclBfOF83WHNWaEJYMFlVUUsxNG1mdWtWN2RlWllMSGRUX0ZHSUd2WlVudFpuQWRNS0xVR3lUSDkxZEtpSjdOVXNzaEZyMEw1NVp3SnI5eFQyd3NQVzJiM1nSAboBQVVfeXFMUG4zbm90MGRrbWlaUUZQZ3pEZGdudnlydmFMOWtvOGFBaGY4eXNIZjhENERsVVFsZTJZOGlJXzB1RHJQMDg3NTFpS0VJcjl1OG5HcEtUZS1rZXo1U2pmTnNRQ3BjYnIyQ0JjbmN4dnU2ZUhoYUZTdEgxWklad2NGalRyYTFtUVNvaXV2RjRWOXVqVzljM190VXVBb1RkYjk4bFliNl9yUHFOYlp0TEZQek44aGtzN1pUbS1B?oc=5",
-        "date": "2026-06-11T18:20:00+00:00",
-        "source": "LM Neuquén"
-      },
-      {
-        "title": "Vaca Muerta y el doble desafío para Neuquén",
-        "description": "Vaca Muerta y el doble desafío para Neuquén Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORE5lMHFPcHpON3FpR3dGSDh3aUd3dExQeUhWR3loSFRNZWgyZVg2VDJGaWtBcVFkeUg1bm45TjRKVlBGWjkxX2VDRnR0U3JhNmpCSU4zTGhiODlwdmdxMGJqMWJya0pmSEZOSDFkN1pHNkNpMFRRcDNMTUx1TENMSG5VTGpqd3PSAY8BQVVfeXFMTVNWR0c3eldxV1cwTlM5YkpFd2VhQ016aWdNVjhsU2dPVnlZb1J3ZXRqRGdEX0FrMzdCU1lTNFk2THBQbmlRQkVybEl2YVRSOTkzYWZYZXJfZmlpcVRCeTdBZUtWaXJJMVJQRlNBMDQzZDVCVU0ybC1OSEswOXc4SVl3TGhqUzJYT2haOFk2NDA?oc=5",
-        "date": "2026-06-14T03:30:00+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
         "title": "Vaca Muerta: la Justicia le ordenó al Estado publicar información sobre los sismos relacionados con el",
         "description": "Vaca Muerta: la Justicia le ordenó al Estado publicar información sobre los sismos relacionados con el Tiempo Argentino",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQby13TFpuVXk2VElzVFlUYk1pLTRiYlM5VXc2d3pMdXRhbGJFOXEyYWNJUHR6VHZ2b1h2MkF2Tk92LUtOSFNEVWhNbVZ0SDNCRTFWeXIyWEt3R1NkTVYyaDFMbzc3cVJkbFJxaDNacGd4bkJrZVE0TEYtdmRBTEJYb3dZZXBwazlSeFZBZE9rU2ZUc3Rkcm9pVjZ3VGMyMlRvWmRKNHhjaGtYclpFaUc4aDdhYU05Ql9MOEpPZ0tSby1vRmptT0RDT2N4SVZjRVRKOWFVdzZkREdOV2NGR19XM3QzX07SAeoBQVVfeXFMUE03MGp0NFlaRTl6UWxMaEF4WXNnQmgta2ZCaFZNcDd0WHhlSkJEdVpac09VcVZqdUJVdVd1LUdtbEVvZnlXSVRlX0xXcm1jczFJc2V5ZnlteTNrWHRMNHRwUUJWQUxHdzVJUEoxWkJ0Q0lxZklMbU5sY0VNZkdWaEFhYnA1WWx1endwTDZCZmpoY1ljUGo1UnpUaUdENU9EYWlfMkl5d1g2ZUdhRXJPQWFWR25qUHN0QjNQQ04yUzA1UC1YOUI5b2VPNkdLSTl4QWk2VlltMzNSWHhpekhJU2sxSEpsdGlkQWVn?oc=5",
         "date": "2026-06-12T18:41:50+00:00",
         "source": "Tiempo Argentino"
+      },
+      {
+        "title": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico",
+        "description": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeW9Ud28wNG9Rc1FlRFpkRnpmaTB1cHNxWUhZakRTNXVxWHNiVEdfVS1PTGtVamtOd1BXY25YX3NQc2Ribk5JY3owbm0wRVhfVDJ5YWE4RmxFYVFnNXA3TWF6VVFNNlAwczY5V3BQbmZMakM3bmFkVlVXRmdZNFVzWFl0czlrZloxNkhvZXhQeVJPQUlod29vRGNQVC10UnJWNFpWWmN1N3VJeFZYMlo3TGtweGhzck5IbkZ6OU1VQjhmT3Rnd21nN0tKVU9GTGNZYl9mdWVBQlEwY1FMTW5rQjJYc0R3UdIBgAJBVV95cUxPZmZySk11MnZ6WkNGTm5GeVlxTEZZTm5fejloYVdBNkZXMzE3eWV6Q1F0SUpIQ1pObDlGQWRVbEJUR2RuQ3Z5NlFMQUh6eC1LVlk5dlJpZG5pSWhWOXNqeUxmcjBMRndGOXNodGxuWXpFT05la3BBWnVySzZsc2F5aHVXbjkyRldCTUNyX1pmS2tybHE3U1UwazRUMHFtTnU5a051MG0zYkF2SU12ZUFMV1ZSc1RTa3pFOEdqQjhzQ29Zak9FeHNrR1JGX0lYbnFMcktsc3JHMzdBNEV3YVg1bjBzNG1rWGEwNVpzZmpQdktQc2hlbHl2VmNBajUzQ3ZL?oc=5",
+        "date": "2026-06-11T17:01:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Chile abre sus puertos a Argentina para impulsar exportaciones de Vaca Muerta a Asia",
+        "description": "Chile abre sus puertos a Argentina para impulsar exportaciones de Vaca Muerta a Asia LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVQa1h1ZERkSUZxVzIxLTdLUG84eHJqV3BSeWRxNWp3WGlNMDJ4N2xHeFdMc0dyTXo1NVd3Sm1EZEEwTlZpY0FTbjU1M25MT242UkN4NUh0V1h0RTJGNkxmZkp1OWZldXo1YzU5bmZXN0lEWkU3eHJ3c1BwMG43Vnpmb25jbU1uVkstVkR0bkNwd25sWXFGMk1wb085ajlsWkp2THB3WVVwbTdNWjQ5a1YtU2dSSm5UZW1UcNIBwgFBVV95cUxNVlZFUEctM2dVMFlZS1VrR0I3OEpUV0JDTE9lRVNXVWZiTmhfbER0dnJWcXhMOHBXaHdOY01TM3RzQTZkbWNUelNzQ0hmUUlsb0ktSjMyRksxcDlUN0dtUDJWc0V5RUdQb0hwbGU0NGRLa1FDajl0LUU4dzVUMjRIM1JTZWQzZ0NNcW1BTnVKNEtXcU41N19VcnZaQ2o5WGp6U1BoRGV2bExDSFR6SXRUWVdxd1UteVZlS01oMjJ6UGlEQQ?oc=5",
+        "date": "2026-06-11T12:28:00+00:00",
+        "source": "LM Neuquén"
       }
     ]
   }
