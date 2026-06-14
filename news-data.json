@@ -1,33 +1,12 @@
 {
-  "updated_at": "2026-06-14T00:14:59Z",
+  "updated_at": "2026-06-14T05:27:43Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft Edge tendrá actualizaciones más rápidas con un ciclo de lanzamiento quincenal en lugar de mensual",
-        "description": "Microsoft Edge tendrá actualizaciones más rápidas con un ciclo de lanzamiento quincenal en lugar de mensual Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPS25DRHBwWFV1Z05lRzRhVENVQUJXbjJYZHppX3lycGdneUxBaGc4S205NHA5U3pLanVIQmdibms4S2lWdVRfLVVGWWw2cmVETHpVYmJYOGxyMlp5Um5Lamw1NkhHQWRiNFRYdzhEaEZnSEhCRTNONTh6T3kxaW9ua0lidkRjeVF4QURnd01WTHRHMGZ5ZFFEeGNnRWNYc1RoZmxuYWVYVDh0emF4V1ZpMWNmczFrVnlRM1diWHRyeUc5eFMyWmRPUmx0S1pEZFNjNl9BbEFjR3M3dnFzem5GdllQNUtWd2l0akxTU3czVGtKd9IBjAJBVV95cUxOZU9tSllBcTUwczdiUWh4Vm5TTG8tdDFxNTVjV0JCeEx1YmRWdG9MdEJiY1h1OFJjNHlxZFYyRm8xRGx1ckdTQ1p0UWZoN2ZsNGFXUE1hdjF0cXV6eEFqaElnaWZRZlViODI3bks2Mmd6X3NteTA5OTV3dWc1dS1OQUtseXhQaDNybS05RWtnaHB4cWxLcF9hNWNLbUlZczhoNEJ5WF9hNW5pc1UyOERDWGtucTJac3FGaXQzX2w1bWZaNHBSUTlORmY5RXczY2F2dTc2WVUySFJVMG40Z0N1dkZqd3B0Rl96REpCWGRjS1F1dGpKSHZQa2ZfU1BXTjUtUVRhTnAxRVlmclZ3?oc=5",
-        "date": "2026-06-12T15:53:36+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Microsoft Edge pasará a recibir nuevas versiones estables cada dos semanas a partir de Edge 152",
-        "description": "Microsoft Edge pasará a recibir nuevas versiones estables cada dos semanas a partir de Edge 152 Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0RwZm9CeHNOb2FVQ0FIMlJSZXg5ZDZCWFBaRDJyZ0JZR1lvcjdYMnVpRndYcGhnbHZxRVI3bzJxamlJLVNlRGZPVGE3dDQteDlNSlg2LWRmUjk1Z2RMTDNTV1ZlWXRvOG9rd0psOHAtOFhKZ0xtaFdORFRsd1FfVXR4MWNXbGlIT1pjWXpvcG1BQXFnSXdiQkxFbEV3aDU4ZVhlQkJfcUxwY0RyR2c0VWx4UGF5TXZOTURiMTNhU0JHVERGeXhUNXI0dklTTFVYSlliZmVUQ0jSAd4BQVVfeXFMTlQxcUlhYXNYQkMtUlJVQjBsTmRDVXNNWGtvMzVndzQ4THNLQjBSb0g3XzJmd0Rwd01FZHZxNFNLTkpmanVqekZLWU81Q0tmbnROU1g1a0ZqdlVOc3VpNTNZMExaaDE5YW5Ka282eTFXcXVscTRjTi1WRXd0aTZLeXhOQjZrenU2SDl1ZkltU2J4aVBscS1MTEFqaXU4ejFWczFhQmRWZ0NQR19vNXlvNENta2hoT1VlTTNpaDRLMm5rVEtxcV9Hd3lEVjVMaVlwdHpLcmVERkUtdFRIWWJ3?oc=5",
-        "date": "2026-06-12T16:54:34+00:00",
-        "source": "Profesional Review"
-      },
-      {
-        "title": "Microsoft Edge acelera sus actualizaciones: ventajas y riesgos del cambio",
-        "description": "Microsoft Edge acelera sus actualizaciones: ventajas y riesgos del cambio MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY19wc0dFR3ZGcDZubXpVVDVPajh4enpVUVdRUWhzaEh4VUJlWWR1LUhVRHRCSjFQQUduYjR2aTFZZjBDcUR6TjJIejU5RlI4a1c2a2RyV3I2TS1oU05UcGhHOEJDOFFDTUtOdjAyMTNVelg0N2FIYlJxWjRxWlk1NS0zUjlhLTZyemdVZm1qX2dlWkdRZE5vM3VVMjRsc2lrdDF1Z2FMdjR3V2pncGxoTFZ3?oc=5",
-        "date": "2026-06-13T09:20:00+00:00",
-        "source": "MuyComputer"
-      },
-      {
-        "title": "Microsoft ha actualizado Xbox Series X|S y tiene varias novedades que los jugadores de consola agradecerán",
-        "description": "Microsoft ha actualizado Xbox Series X|S y tiene varias novedades que los jugadores de consola agradecerán 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMzJWNmZjVVpwcXk5Y3R6Nkl6Wm03Rmd2Unp1WnlwMzd5OW9vcDRjbHpKSlhmeGJydlJJVTJwd3VyaFg3a3RlT01jVzZJU0pscXlDSnZadHN1YUxwbGhhb1VJRlJJTWtDcHQ1cnFnMXlsWjZSUzFfV2YxU0ZqRkN4OExVaS00b19ubW02U0lKMVM3TjhIM3JIeF9aSXZ0R3NCUEd5MURIem5CT1Z1VEVFT2UxUUMxeW1NRDRFU2tFSk5jWjRPM3dJREN3STNrM3RCZHNpQnVnbjhsdERQRjYw0gHkAUFVX3lxTE42Y3BkRXZzcDBwV3FmM21MaHpCSlVpNE9ibWMtWFRQYWk2dlkyQmxjTmFiQkMyZTQyYjExamZFaUZCSnpYM2lwVWo2bGdUeDF5ZmtjclRQTWROd2RGVjNvWTZmcEIwS1NGZEEwYW1XSmh1WFFFMGtIYXFoaVhDQzZnZmdhaVZkQUhYa0VaSHBkQ2xXSXF1VnNZcC1zY1RUOF9HaDBIbGtBbTFIOWxrai1CZmVJZGlFOWwwWGROY19sakR4VDRtZHhEZ0Q2WE5CXzZpQlk4bjhPTmdQbFRNYnlPODRZQQ?oc=5",
-        "date": "2026-06-12T00:32:29+00:00",
+        "title": "El CEO de Microsoft reconoce la dura realidad sobre XBOX: \"Tenemos que convertir esto en un negocio sostenible\"",
+        "description": "El CEO de Microsoft reconoce la dura realidad sobre XBOX: \"Tenemos que convertir esto en un negocio sostenible\" 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTkzTHV0dzgybGRjdURJVW9NclV6VFBmeEhIMzlDbk5vN25EZnZocUN4VHJPTFdNdmY5OTJWeUFIeGJDZFU0YklhYTRQNGtxclctMHNPNE4ybzMwSVFVcjN6LS1mdmtrcVFMUTdBeWZ5ZXhod1JiRTFkaUdOWGFOUjNtSUsyenJveDM3MXJmRmZvZXlSbWhTV3V4Z29KNE5MWV9GbllfN21IRUJNX3hQZGd0T1d1ZF9DWDJpMEtNM0w2RFZFNU8yVkNud3BYMDltVWfSAdcBQVVfeXFMUC1jWVZpU2tyMHFzYkJ6TUstNFVzUW5kR0JQZEtmRmRDWjlTNk1fSzZTMU4wajBnSldZRG5yZjd2SkczUGJaMEV6R25vbUFoUDRiaTFic0d6N0JPaFFDNnJkRnhBNVRiVHVkaFYyMWlpUWU0Z0hDNUtsb0xYVTlTalF0UDB4N2R1U3VTcExJN3V2eDBRU29tZlFEY1QydE1Od0xSNEkxZ2dMMlI5a2N1TXhJZ0VmeEZqRENrSVVOOHhBdUlMSzhoRk1pbTBybkdwbU5UREtvYlk?oc=5",
+        "date": "2026-06-13T20:48:16+00:00",
         "source": "3DJuegos"
       },
       {
@@ -38,18 +17,39 @@
         "source": "Vandal"
       },
       {
-        "title": "Microsoft pierde cientos de dólares por Xbox Series X-Series S vendida",
-        "description": "Microsoft pierde cientos de dólares por Xbox Series X-Series S vendida Noticias 3D",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNk1hR2stV3RjbjFseGVqM0pGeG05R1JoMXo4Wi1xZGlTS1FyNDFPXzk1bmtoSUhJY1pxNzhHbHY0dnRDZ0VUNm03ZUpua2hrNkVFOFFjeGtuXzZfT3ZEOHFHNWFXYzN2cjAtaWd2Nm1ndEhGcjlCbUxBU3cySDFadjIwMEVvblZrM1NVcXpWSlh2Mk10MFFxU2hiek9LMTgtMEFqSmtCM3lwZ0VwU1ZB?oc=5",
-        "date": "2026-06-12T15:03:58+00:00",
-        "source": "Noticias 3D"
+        "title": "Xbox podría acelerar nuevos Halo y Fallout mientras Microsoft evalúa el futuro de su división de videojuegos",
+        "description": "Xbox podría acelerar nuevos Halo y Fallout mientras Microsoft evalúa el futuro de su división de videojuegos Gizmodo en Español",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWtPY0RiQnM4NElSemhnUzRYSU5RR2xNTUwyeVZIUVJKc1IwZVktdFl3dlpBYzRsaElhdVluZ0JxRHBuRDlzaEc3TDBwaHlRVTF5SWRvc3kwUkJXR2ZBTm1nTVJHTHB1VVl0U2R1WGxNTDgzWWhIemFoVkt6NHcwRV9weWZrUFE2RVhSdkZpMEtuWXZJX0R5MUwyYVJVZHNTVko3TlNHSnktZ1VRTE5TQkJHTmJiellRTlhWVmVsQ0w3dDBmX1ZiOUFaNW9seVJ2OGx0djJpUHcwZw?oc=5",
+        "date": "2026-06-13T13:47:14+00:00",
+        "source": "Gizmodo en Español"
       },
       {
-        "title": "LibreOffice acusa a Euro-Office de oportunista y aliado de Microsoft",
-        "description": "LibreOffice acusa a Euro-Office de oportunista y aliado de Microsoft Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmlWYnR6RE5LMHJ4SUF1TXhfWmJjZ0tPVDByNGVhOGIyakhXSG55T3dOSm1ia0pfNVU1czBuTDFBUkZ0Z25acHl3aUFRRms0aVgwZExQSzNWRW5jTXVUZjZrTkJtdGxNdXJQVG9Wekt3clY0d1RWM0NwTF9XMklFbWRQb2h4dVFLX1E?oc=5",
-        "date": "2026-06-11T21:25:00+00:00",
+        "title": "Microsoft podría estar planteándose vender la marca Xbox al separarse de ella como subsidiaria",
+        "description": "Microsoft podría estar planteándose vender la marca Xbox al separarse de ella como subsidiaria Hobby Consolas",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMzBnX0N6c0hORkNsVXN6eUdNdHE0WEE5cVlpbVh1MVZZU2M2eEVJeExETXpoWGVQWWJiV0xWSlZYeUpRaDluTmlwSVEwNUJMVGVuVlZMMTJMT1VrMzl6MzltUzl3Q3dGcUsxV0NIdS1OalR1aENUQWh3dFRFX2ZNZ2ZrYzl5cnJjVl9sTEpKNmxxSFk5bzNoRFE2dlk5bUI0OWZIZlc5Sl9yamdrLXdlYXI3QnBVNmdtMV9mRVJ3Yk9zVVZPaFNzeWp0cEp2OEZqN1dKVlRtc1lpcGwzNWpScUczQXdtci1lNV95YWZoQmEzb0k0aUR0Z1YtVQ?oc=5",
+        "date": "2026-06-13T07:39:44+00:00",
+        "source": "Hobby Consolas"
+      },
+      {
+        "title": "Microsoft podría independizar Xbox para que, dado el caso, sea más fácil venderla",
+        "description": "Microsoft podría independizar Xbox para que, dado el caso, sea más fácil venderla Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPellCYWRDUW0yQ0o1eU1fa09ULUw5d2ZQQWQ0NjRPVDdZS282azFtcm1TVGpiRlFHeTJId0x2SVJTYWFhRHBxT0RZaWszMG9vREp2QlkwMjM4c29SUjFNOFkzOHZKdHhfbVJwQmhsT1pXSHFaX3FhcnZPUHNKWUloeUdn?oc=5",
+        "date": "2026-06-12T20:19:45+00:00",
         "source": "Hipertextual"
+      },
+      {
+        "title": "Microsoft prohíbe el uso de Claude Fable a sus empleados",
+        "description": "Microsoft prohíbe el uso de Claude Fable a sus empleados Infobae",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRElCYWp0TlVQdm9DYkgtY3hSdUhwYWFoMmE5NnIxYnJWVjgtSVRmOXFSQkxRTWtDZmxtQjBCVTNUb2daSzM2VEFtX3Vld3cxb3JoM3pmQmdTUzdZRU51eU9MN0dNdFN0WjJvSm0wcVB2LTlOR3JPNVpnLV84N2tHNnFyOVVHUnF5eUhybXlDdUZ5OWFrbDR5SVdfMUpCblHSAboBQVVfeXFMTlJOVXh2eXQ0V2x4Q3Bkd0hvSWE3XzFUNXZLczJBSW5PRHlSSkhXZWJ1bTVscjlleDA4QzhEdV9KNGRjMUc1Z0lOMXM2MzI3MFVBUElZWVh5eHdrNGdZeXhxUHUtVDZvYW0zaEk0T3ZRWG5WOG1CM0JPNlBqbThMOWNJVE5nSFQwc1d2a3R0eDh5dkljVlZicFZWUHlINFZiYVFPTjJQUmtGQlpCcGpJWmR1NEtKZmE4cWVR?oc=5",
+        "date": "2026-06-11T13:59:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Microsoft acelera las descargas de la Microsoft Store en Windows 11 tras años de quejas",
+        "description": "Microsoft acelera las descargas de la Microsoft Store en Windows 11 tras años de quejas Microsofters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUhjRW5RLXVJSVYxcGZGaHFtTDF5M2loblh6bjBWQnk3djN0U3VnaDhHU1BNY2RqZ0JzTFRJZ3FZVFZrcDY0UUxyQXBVNndyQXBaWHRqZWVBVkJyVlAtejRxZmZVWFhXR2VMUV9hbDBkWFU1QVhqaktTejNUc05SZVY0V3NFaFdMWDFuQ3E2TGNHbElSd1g0N1N4TXR1U3dXWEhqdDJBLUdNajA?oc=5",
+        "date": "2026-06-13T08:42:22+00:00",
+        "source": "Microsofters"
       }
     ],
     "Marketing": [
@@ -82,13 +82,6 @@
         "source": "sanrafael.gov.ar"
       },
       {
-        "title": "LinkedIn acaba de lanzar su propio mercado de creadores.",
-        "description": "LinkedIn acaba de lanzar su propio mercado de creadores. ALM Corp",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlV2x3Y1JrR01JczRNS0JCMUJ4eUh2ZjlVRlNWazFXaXdYR1lMOFBrY2Z4dklnaUhxRGVsRXd2enRFZ3ozUVluZk9JWVByTDJ0eUxKbkdYMTlZbk5RMUQxUDlWNUxCSXdkMUNVVjlBN19YRDZuT2M0?oc=5",
-        "date": "2026-06-13T17:40:00+00:00",
-        "source": "ALM Corp"
-      },
-      {
         "title": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet”",
         "description": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet” Despertar Entrerriano",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2padHFwUU9hTERaWmEtUHB5Y3NZT05QZENBV0RZYVdTcUtWcnAwS0ZUY0pmSzFfenp4dlFKakloZ0lrRDZBSWdRZ2VhQnVXZEJzcExZNkpTalFVNnJ2TlZXSUl2cFBXMkR4M0RFbGVtSlA4SUxsLW1BYlRQaEk5clJQVjBBV2pYeGJOR1Z3Ui1GMTdwTEZhVGFxZ3loeXdjdU5xVHNlRlAxazNDX0NYc3NFam5aTjRpYm04Q2NDMA?oc=5",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVFMbGd3b3p2V3dzZ2d0NGFrYzdwekozanRaN3h6a1pZQWJqTlk0QktwUXN2VEw1c0RMMi02UDFyYzdQOE84UVZ2RVMzNTVlUWRnUW9FRXJPS3VQN1JZRDNac1BXNkpSM1doeGVzTzhvZ2swLWxGa2IwMmpmTzZTMWJuSFhUVFdYRzNiRno1dS05am9KQXhyRWNMSDNpMmh6UVg3ZUhnYkc4X1VpSUxQMHVKQWloZ9IBuwFBVV95cUxOZXZDaVlCTndXRzQ3bzd4WU5nYzZ3NXk5ZkFIMV8xWjNReTBUT3JfOFdYMlRSVE1jUGxweDBDemFFY2JEaDN5QkFoNVdZMzlWQnRuVXlQWUJqeVcxRm8zTGs3dmJuUTZmRXAyaW51aHB0NE1KOHNrbFdHa1pfTWdYSTF4SFZpdDNXZjY4Vm4tT01YVGJ4YXFZN1pYVUFxS2d0VFg3aUJYQzl0WlRHQklrUGI0bk9YYnBoei13?oc=5",
         "date": "2026-06-10T14:00:00+00:00",
         "source": "Crónica"
+      },
+      {
+        "title": "Qué máster en marketing estudiar: digital, con inteligencia artificial o MBA",
+        "description": "Qué máster en marketing estudiar: digital, con inteligencia artificial o MBA Mastermania",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd29fak9mUjhER1VQdU1ZR2lYSkZtLUlDSlBsU1RYd1NNY3FzUEZrNDhLem9tMVB4SC1YaHN5UU9jZ183Tlh6WjQ3aVJyUFBCNllnRDJ5MDNkNnhLZFVhNkJMWU1EWURJeVhucFhub2RuVnpONEVxemNhYzYwaEthVzJKZVpCT0hHWnZNUFFqTnBMdmtUVjNSQ2JmdFM4NWRPM3g0SndmdlhvT3pBVHhCR2FNTnNrN210dDRrVnpnQjQyVWZjcEVDZ2VPZnY0dw?oc=5",
+        "date": "2026-06-12T11:03:51+00:00",
+        "source": "Mastermania"
       }
     ],
     "IA": [
@@ -126,11 +126,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Estados Unidos sorprendió en el Mundial 2026: así usó inteligencia artificial para golear a Paraguay",
-        "description": "Estados Unidos sorprendió en el Mundial 2026: así usó inteligencia artificial para golear a Paraguay Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzZIcF93UmxIckRFRGlQaklnTzdUS1RZd2loU1JvUG5nODMwR2R5Ujg0cHZobW1RRHZZV2YyVExGaEpORm8zQXNNREdtOU9KWEVzT09MWmh5MnZ2UjlQQW5xdDhqUF9zTkdrOFdUR1ViMVFfWDVSQzhiMGJ1c0VzNHBubGd2VE1nUDNPcmFtWExicXNIWFY4NzFoOTFuajN6THJ6bXhhZ3hyZU40UENWRVh3clRwVEVMMGh0V0ZwWkl0WlRQckdBU1ZTdmhQckRXVkh6Y3hXSVXSAfMBQVVfeXFMUGJnWjVVTmFVcGVHVEdneUxrQnFfV1ppdWFDQU9Gem5tRmpWanlsVjQ0SUJUaS1PZHZSNUNPaC1CcGE4OERDQnpjTVJJbVZlV1RmNkYtbWZrb1ppYXNrdWotdkZrV182dzFsVFZtRHlfVkRXVWFCdG54UndVZjNfTlEzZ1ZiYm5VMFBhb1RGWFVaZ3l2ZkZRQkE3dEFpN2RoTV9PNmhTU0dIY0VoVnhKc2F4WlpQU3R4dkJ6TDJZY2dPNGhfcVZ3U19qS1RNZERDU1hMRXFsV0dTWGNhNjI4MC1KcFVyMXJRSmxpZjU2RWlDR2Rv?oc=5",
-        "date": "2026-06-13T20:07:00+00:00",
+        "title": "Clima de Negocios: el unicornio que inspiró al Gobierno y todo sobre el plan para una Argentina con empresas sin humanos e IA libre",
+        "description": "Clima de Negocios: el unicornio que inspiró al Gobierno y todo sobre el plan para una Argentina con empresas sin humanos e IA libre Infobae",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOWNnRUI5ZlVKSzlNcXpoMXZJV254WFlHbUdkbFhXZzFaaS1GbGFrTnlLb25LOTJwY1g0QmYxNEN0NU1uSjRCMzYyWXNnV2hMNUV1YXd3RlZEdldIODVKZmtCZnpseEZXa2NuTk9CQWhTNUNNNHM3VnRCdEtVSF9vaDVVc1d5S0luakc4b19FLU9NQjRudzNTcUp6N3ozaUVGeVlmdmV2R05DRjJOWUNxSVNzMWdPTFBpb0pMeG9UQXRkdmFfdGRMNkMtOXhVMURmazA5THN4dGxVX2hqZUxoOU92YTBrYmZ3WXJyNHhVajFVVzRLM21hNkFsYUZNYlVKVlp5QjRB0gGgAkFVX3lxTFAwN29oaVROT0c4Y1JseERRcDJld2RHWmZNSjh6N2RiY1RUZW9yMlB4bk5pcldfN2tfOGU0ZVg0YjYyazh3UEJnYU9hcHFod1NqVEhGTXhQeUJfbFk2Z0NOSjFZaUtFRXMwUDUwem5rNXkxdnU2TnFtZDg1M1Uxd3JWMzZYZEk5UHNCemlaYmVKeE1XUTNuUTl2bXlpejdnaTg5eGFmNkFNdUtRemgycmVhZ29LY21BWHJZXzBST2E3REk5WG1SWUN1M0hCb0RkbXJtZkdmUWx2d08wNmQ0dzcyaE9vZGlsME9UeVRVTWZaV2NJMVNIMi1jY2J4SU90djNWcXFpSThNNkpRRFBYaFphWGg1Z2lYWS1qR3dsVjl0RA?oc=5",
+        "date": "2026-06-14T04:24:27+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Mitos y realidades del uso de la inteligencia artificial en la búsqueda de personal",
+        "description": "Mitos y realidades del uso de la inteligencia artificial en la búsqueda de personal La Nación",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZk51Y3JrbFItOW5yWVJadnVjZEFNZEhzVk0wS3BDUjRscmlKck9hNDYteW11VTV2V0lPOTVaZUpWa1U0V2FpV0Y4bmpkMVhFWUtCbWVNMHJHd3VKU0RKT0FOQkljTlV4UEJxWTI5R0RWYUNaWVdSZjA4V2NCZ1VkcmZ1ZGpMb2NBcnRLWi1vRzdCYzd1WGN3ekgxdE9VbU5YcndhbFRSemhiRERBalA0bDE0YTJ3d2Nhemh5RURHZWJBeGw1Zms2dzdTazJwdw?oc=5",
+        "date": "2026-06-14T03:01:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Innovación en gestión: el CONICET incorpora inteligencia artificial para identificar potenciales especialistas",
@@ -145,21 +152,14 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM2lUbE5zdGd6ZEFGN3dXWnlRTmZXc29BY1kwMnZ5TlFBd05DRnFzNEJadXl5TlJOVy1Gazgwcl9uZmR4aHl5RnFIVTNhUFJ4NVY3R2QwRWZ5ckFYWTdWaHNIaHh4MU1xMVUxTU5CWklSbUlhRzJUa01EVjRKZkpQX0dYWEdFSWt2N3FyX1pjV0Vwc0taZk1VUVYtaHNFRGVDbDRWbVFWMTBRdnBQVFdBNXRHNC1ZVkFIdGNsMWExMklSa1J5QkJ2T0Nac3hBdw?oc=5",
         "date": "2026-06-12T23:11:46+00:00",
         "source": "Gobierno Del Chaco"
-      },
-      {
-        "title": "Un policía británico usó la inteligencia artificial para falsear pruebas y terminó apartado de sus funciones",
-        "description": "Un policía británico usó la inteligencia artificial para falsear pruebas y terminó apartado de sus funciones Página|12",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNN0tpelo4Z1h0bXZvemVzRnRfUnU5ZUJ2c2pvVDRqdGJyVlFlMGdURE56d3FvRUlLYmh0ak1kTW85Z2JCNE1LNVd4NkxRU2lCc1BFSGEybUxFeXJfMVV5N2Iwc0VxNThvUEhpTXNBdzl1RmZCa3FYbmhZNXBHaGczZmtLX2pwWEhsd2NZUTNpRU9CVVd5eXZ4US0xdGpJdjVvYzhvNXBaQjMtRE5YTV91WGRMNlZCRmhhNUEwRmUzWV96M2NucjRuS0w5WUlxU2NGLWhMZW4tV1BPc3NfdG1QRHZR?oc=5",
-        "date": "2026-06-13T14:53:04+00:00",
-        "source": "Página|12"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "¿Buscás trabajo en Vaca Muerta? YPF publicó nuevas vacantes en distintas áreas",
-        "description": "¿Buscás trabajo en Vaca Muerta? YPF publicó nuevas vacantes en distintas áreas LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1FGOXJfckpCTnYxaEtrd3hrWUIxUktLZy1aSmNJemNJeVhoVElWbE5EeFlQckpYNVhtMTQydXVBNU1DTTY0LWJhNENGbFN5bXlXSkxDNDFRcmtiT2JQWmVBdnRjNWZ0XzlYZ2RjbDM0bFhLNHVqNTNjd2hsSDJnT29xa0pMaEpnOUFYdUxZcTRXWlN0X0lHcHRRVlA3WE5CRGItNEY2ZlR0ZjRQd1VfSEI2QlR1QVhRVWfSAb8BQVVfeXFMTXVWajZWdGw3WXRUQjBMaVY1cldYZEtfdWNEdzNfVkdmMzVLR3RUakp5VG1WUXhoN20tUUs2NGxLeFpiUGppMmtBZTA4VG1MbmZpeXBabmt4T3NqUkk0MXEyZTEwcnVNTVJYa1VXVjJoNHBqa0xscUh6bndBZUlhNE43UjRlMnpTbmt6bVowOEVMb0t0bUtBQnd2dFhJeFZ4SmRuSEFMVW5jOHVDUk5HZUVMRTBSWFpaMzNBbW5WemM?oc=5",
-        "date": "2026-06-12T12:10:00+00:00",
+        "title": "El dato que sacudió a Vaca Muerta: Loma Campana ya no es la número uno",
+        "description": "El dato que sacudió a Vaca Muerta: Loma Campana ya no es la número uno LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnhENzc2TnZ0dmMtdzh4SzNPU2xlb3kwUF9hYzR2SmVaT3FHclU5SVJvUFhtTkhmREJ3d3dKMV92YXNaRGh5b0FmMWlEbGs1engxcmx4ZXE5dm0tZWxQZF9lU2g1MUx0T21Ya05IbkFxbGtidUQtamc1V0QyZE5TS1JmalgtR3gybHRvenZyM29SSDdqekYwS0VsOG1xUXozV2g5OGdFWjhiUWt5M3M4NDMxbUfSAboBQVVfeXFMTWxCejRfd0toc1hFWDktbUZ2dmxuYkJqM09GZk9udnRkUy1UVVloaFcwTW5nSExiMkZTQ2RhSkZOVUVuaVpkT0g5QzVtVGItaXVYN0dBeTkwTG1XcmVSWEpYR3ZNREFaeGxHbVJhVGxJX21TRzhrYVhmWnRtbkx0NlNreXk1Q2N0OHNNcWgtSkg0TUtVRXJBOF9XeHhJMU1VTERwY21QZXJSV3lIc2Q2eUkwYnU3X0FnWGNB?oc=5",
+        "date": "2026-06-12T15:06:48+00:00",
         "source": "LM Neuquén"
       },
       {
@@ -172,7 +172,7 @@
       {
         "title": "Dow ve potencial en Bahía Blanca, pero el mercado mundial frena nuevas inversiones",
         "description": "Dow ve potencial en Bahía Blanca, pero el mercado mundial frena nuevas inversiones La Nueva Provincia",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMHpEc1dYcjEwU2RuS0tLX1dWNTdycmRzZWdDdWt2VDE1TFY5Q2JlZ1hsWDlRTzlRcjA2TC13S25jY0pRYzFIenBYcWhWQ1lNUmdSbFZ6d1diWS10RWQyY29GWnI5bkVacENrNzN2Z2xvMmRiRExvaFA2ZWdYUjBNa25JSE9SZXh4TUZEUnY4dGhYQUdISGNvQzVKcXRoaXFoT0QzNkMzeVFFajZMUUFnZmVETV9CTGxtSTZCR3Y5cm9VNUVPN0Zld1dIZGZtVWNpVHZV?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbTZjM3hFdm9TbklaTnBZYzYzeDhzMHlER28xc0d0Q2lRUzB0OURKaXNFYXk0cnRvbHladV85T1FadGl1VG1EY0labTNmV1JRVElULTFNUDdWTUg3T2Q5aVhIZlE2eEdLakxxRXJVRHduMm9iLTh3QjlCWndQdE05eUpicjNwRGVOMnpadVlUVVpyY0x0NFZvSjZnMUp2UHI0VFhDU0NMeWloVDFuTVJieko4RWtSVGV1WUVzaVVOSGtvTFgwcmc?oc=5",
         "date": "2026-06-13T08:03:27+00:00",
         "source": "La Nueva Provincia"
       },
@@ -191,18 +191,18 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "Montañas de residuos del fracking contaminan el ambiente en Argentina",
-        "description": "Montañas de residuos del fracking contaminan el ambiente en Argentina elDiarioAR.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHIzVlZjTW4yLXVfUmg0UzZPcmZ4SVJqZUV0N25aQlQ5U3JIRW4yb21XZVlFc1JRbzlUUlBRQkJOdnIwVUlLN0xMZ0xfM0hiNEFLcEhIaFFNSFpRYmVOZi15MElfZkFfMGgtRWdrbHNhSVp6Q2hITWdkS2VnZHNXUmpWOUc1ZENCdGRFR0pibWU0Y3NxaVZDLXpzVkl0bU5Cd0FhSTU2dENPcXpfRFhONUZvVC1zMl9meXJMOGNTbnnSAcYBQVVfeXFMTmNTaERGeGVreERUVjhlcjZnREFaaWhzakpUbU1HQ2dTbUNScEFDQTk1dkh6dXdScXdpcDExaFg2NGtiVkdNV2NLUW1DSzdncng2R3I5V1JYRUJ5eHFfZFdrZ1ltaG4ya1BvSWZUb045TFlsVktNY1B4WGl2YmthS3JNYy1vUlBMZk9RLTJlbFB4cXFHS0hLVWozRWl1OEFhakZHSTJFTlFXZHNiZXA4RWtZc3JwNVh6NjVXRGpQY1lMbXpDVDZR?oc=5",
-        "date": "2026-06-13T03:01:18+00:00",
-        "source": "elDiarioAR.com"
+        "title": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico",
+        "description": "Chile ofrece sus puertos a la Argentina para comercializar su energía con Asia y el Pacífico Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeW9Ud28wNG9Rc1FlRFpkRnpmaTB1cHNxWUhZakRTNXVxWHNiVEdfVS1PTGtVamtOd1BXY25YX3NQc2Ribk5JY3owbm0wRVhfVDJ5YWE4RmxFYVFnNXA3TWF6VVFNNlAwczY5V3BQbmZMakM3bmFkVlVXRmdZNFVzWFl0czlrZloxNkhvZXhQeVJPQUlod29vRGNQVC10UnJWNFpWWmN1N3VJeFZYMlo3TGtweGhzck5IbkZ6OU1VQjhmT3Rnd21nN0tKVU9GTGNZYl9mdWVBQlEwY1FMTW5rQjJYc0R3UdIBgAJBVV95cUxPZmZySk11MnZ6WkNGTm5GeVlxTEZZTm5fejloYVdBNkZXMzE3eWV6Q1F0SUpIQ1pObDlGQWRVbEJUR2RuQ3Z5NlFMQUh6eC1LVlk5dlJpZG5pSWhWOXNqeUxmcjBMRndGOXNodGxuWXpFT05la3BBWnVySzZsc2F5aHVXbjkyRldCTUNyX1pmS2tybHE3U1UwazRUMHFtTnU5a051MG0zYkF2SU12ZUFMV1ZSc1RTa3pFOEdqQjhzQ29Zak9FeHNrR1JGX0lYbnFMcktsc3JHMzdBNEV3YVg1bjBzNG1rWGEwNVpzZmpQdktQc2hlbHl2VmNBajUzQ3ZL?oc=5",
+        "date": "2026-06-11T17:01:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Argentina Energy Week: Vaca Muerta, el RIGI y las provincias aceleran proyectos millonarios",
-        "description": "Argentina Energy Week: Vaca Muerta, el RIGI y las provincias aceleran proyectos millonarios Letra P",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2FFQXdKcjJpck8tTG4yMV84OEZDNnFyZTM3V1dMRVJRR2xoMENiVC00TkZFS0pKNEpsY044ZFdHUEhBS2RXZTJ5cWx0SlU3U2ljU0p2UC1rSHRScFZleTY1V3NPUEdvQUZ1aW1oWk9vWDJhaU5uaGxqdmszalN4VUVabk9YWWljT1Q0eFhSRDh1Nnp3MlBpZG5SSElNYnFBbkF0SVYwUVctY0VaRU9TUkN6VTFZN05SQk8wVWU5c05mRzJUOU40dzF2VURHQdIB0wFBVV95cUxOX0lVTl9vSmpXNFlfNnRSR3JfWUFfbVRDMW92WS1Kel9iN2pRUkJJZ0tTbDI0UmRmTmh0Ulk2SjZNM3IxVXlUMkM3M0Rud0RsMzA3QldYeExMbWU1MXhlTkVZZDlHVmNLdlpmQ09jaE82T25IRE9SZU1BU0VTcFBtNFZ5ZTZ5YkRTSVR0TWpZbUJoMWJpSzdmZFVEV3hjX2V6Mlo5NHJsSXdnS3VhQUFUUTFrMXBfbEk5Nkp3dG9HZTBJY0xGSy1pV2M5eUJiMlRJZ0Q4?oc=5",
-        "date": "2026-06-12T18:06:00+00:00",
-        "source": "Letra P"
+        "title": "Vaca Muerta: la Justicia le ordenó al Estado publicar información sobre los sismos relacionados con el",
+        "description": "Vaca Muerta: la Justicia le ordenó al Estado publicar información sobre los sismos relacionados con el Tiempo Argentino",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQby13TFpuVXk2VElzVFlUYk1pLTRiYlM5VXc2d3pMdXRhbGJFOXEyYWNJUHR6VHZ2b1h2MkF2Tk92LUtOSFNEVWhNbVZ0SDNCRTFWeXIyWEt3R1NkTVYyaDFMbzc3cVJkbFJxaDNacGd4bkJrZVE0TEYtdmRBTEJYb3dZZXBwazlSeFZBZE9rU2ZUc3Rkcm9pVjZ3VGMyMlRvWmRKNHhjaGtYclpFaUc4aDdhYU05Ql9MOEpPZ0tSby1vRmptT0RDT2N4SVZjRVRKOWFVdzZkREdOV2NGR19XM3QzX07SAeoBQVVfeXFMUE03MGp0NFlaRTl6UWxMaEF4WXNnQmgta2ZCaFZNcDd0WHhlSkJEdVpac09VcVZqdUJVdVd1LUdtbEVvZnlXSVRlX0xXcm1jczFJc2V5ZnlteTNrWHRMNHRwUUJWQUxHdzVJUEoxWkJ0Q0lxZklMbU5sY0VNZkdWaEFhYnA1WWx1endwTDZCZmpoY1ljUGo1UnpUaUdENU9EYWlfMkl5d1g2ZUdhRXJPQWFWR25qUHN0QjNQQ04yUzA1UC1YOUI5b2VPNkdLSTl4QWk2VlltMzNSWHhpekhJU2sxSEpsdGlkQWVn?oc=5",
+        "date": "2026-06-12T18:41:50+00:00",
+        "source": "Tiempo Argentino"
       }
     ]
   }
