@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T23:03:39Z",
+  "updated_at": "2026-06-15T03:39:02Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdDY2QUNCLS1JWnVMVWdkc2o4Q21tbDlNYjAzd1NPem44R0JreUpmbXZic2xSbnRKY2Q1aW9BVXE1RmlJOE9tQ2E0VWo3dlhxaUdzaHlkUG1Fa05qYzQtdWFqYWZLX3M1Qy1FNFc5Yk8xTlBPRnBzQXVRa2JBTjlWcWk5aFBTVHJtNE1hb0xuYjM3OUNJdFdnenF5UWVWWnNTZDRhVlN5LU9BMjlTbGFlYWhQdVlYbjUzR2NnWE9ZRTdVRWVtLVM4VGxQdEsyTGVkR3BWbDM5Y0PSAd4BQVVfeXFMTldTUDkzUDdJdlNlODVyYmRfMVktdkk3bkR5UGdHUDVkdWxmSHVZM3VHRkVxdUFFV0QxWHhoTUJHSUo2ek1aQ1U0SlMxajVsYWxGVWxveEV1azYzZnNCdjVHZnA5TjVvbUdIUXdlc29PeUlIZ2dlcWtPejZoS0pRLXBaU3QtbkRXdWdyX3V4aDlaV09IbHlzYnpkeWo5S0lXWkhMN1d2eGRWUVFBVTBBcTJPNS1XTW5HaVdjaGYtWkhJTmJSM0s2TkFSQU1QWG55QW1fWFNua04xemtvQUV3?oc=5",
         "date": "2026-06-14T09:01:40+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA",
+        "description": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa1JVRHB1T2NGQU0tVURJVGlBWi16X1I0TE45WlBZdXhHUjhZOGFmU3FQX3VZOXpzazhvbmFOanlDd1dKbGQtSE9sS0tvdG1oaXpHdFNSOWVZcDdhM0YzSkVpTG5fT1g2RW1pT09VSE9yUjJVQnlCN05qSUR1VDJHNnFhSnFOLWxqWDM0bTRtUQ?oc=5",
+        "date": "2026-06-14T10:01:14+00:00",
+        "source": "Yahoo Finanzas"
       },
       {
         "title": "El CEO de Microsoft reconoce la dura realidad sobre XBOX: \"Tenemos que convertir esto en un negocio sostenible\"",
@@ -31,13 +38,6 @@
         "source": "Hobby Consolas"
       },
       {
-        "title": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA",
-        "description": "Bill Ackman ve valor en las acciones de Microsoft, Meta y Amazon por la IA Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa1JVRHB1T2NGQU0tVURJVGlBWi16X1I0TE45WlBZdXhHUjhZOGFmU3FQX3VZOXpzazhvbmFOanlDd1dKbGQtSE9sS0tvdG1oaXpHdFNSOWVZcDdhM0YzSkVpTG5fT1g2RW1pT09VSE9yUjJVQnlCN05qSUR1VDJHNnFhSnFOLWxqWDM0bTRtUQ?oc=5",
-        "date": "2026-06-14T10:01:14+00:00",
-        "source": "Yahoo Finanzas"
-      },
-      {
         "title": "Microsoft acelera las descargas de la Microsoft Store en Windows 11 tras años de quejas",
         "description": "Microsoft acelera las descargas de la Microsoft Store en Windows 11 tras años de quejas Microsofters",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSUhjRW5RLXVJSVYxcGZGaHFtTDF5M2loblh6bjBWQnk3djN0U3VnaDhHU1BNY2RqZ0JzTFRJZ3FZVFZrcDY0UUxyQXBVNndyQXBaWHRqZWVBVkJyVlAtejRxZmZVWFhXR2VMUV9hbDBkWFU1QVhqaktTejNUc05SZVY0V3NFaFdMWDFuQ3E2TGNHbElSd1g0N1N4TXR1U3dXWEhqdDJBLUdNajA?oc=5",
@@ -45,11 +45,11 @@
         "source": "Microsofters"
       },
       {
-        "title": "Microsoft prohíbe el uso de Claude Fable a sus empleados",
-        "description": "Microsoft prohíbe el uso de Claude Fable a sus empleados Infobae",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRElCYWp0TlVQdm9DYkgtY3hSdUhwYWFoMmE5NnIxYnJWVjgtSVRmOXFSQkxRTWtDZmxtQjBCVTNUb2daSzM2VEFtX3Vld3cxb3JoM3pmQmdTUzdZRU51eU9MN0dNdFN0WjJvSm0wcVB2LTlOR3JPNVpnLV84N2tHNnFyOVVHUnF5eUhybXlDdUZ5OWFrbDR5SVdfMUpCblHSAboBQVVfeXFMTlJOVXh2eXQ0V2x4Q3Bkd0hvSWE3XzFUNXZLczJBSW5PRHlSSkhXZWJ1bTVscjlleDA4QzhEdV9KNGRjMUc1Z0lOMXM2MzI3MFVBUElZWVh5eHdrNGdZeXhxUHUtVDZvYW0zaEk0T3ZRWG5WOG1CM0JPNlBqbThMOWNJVE5nSFQwc1d2a3R0eDh5dkljVlZicFZWUHlINFZiYVFPTjJQUmtGQlpCcGpJWmR1NEtKZmE4cWVR?oc=5",
-        "date": "2026-06-11T13:59:00+00:00",
-        "source": "Infobae"
+        "title": "Microsoft ha actualizado Xbox Series X|S y tiene varias novedades que los jugadores de consola agradecerán",
+        "description": "Microsoft ha actualizado Xbox Series X|S y tiene varias novedades que los jugadores de consola agradecerán 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMzJWNmZjVVpwcXk5Y3R6Nkl6Wm03Rmd2Unp1WnlwMzd5OW9vcDRjbHpKSlhmeGJydlJJVTJwd3VyaFg3a3RlT01jVzZJU0pscXlDSnZadHN1YUxwbGhhb1VJRlJJTWtDcHQ1cnFnMXlsWjZSUzFfV2YxU0ZqRkN4OExVaS00b19ubW02U0lKMVM3TjhIM3JIeF9aSXZ0R3NCUEd5MURIem5CT1Z1VEVFT2UxUUMxeW1NRDRFU2tFSk5jWjRPM3dJREN3STNrM3RCZHNpQnVnbjhsdERQRjYw0gHkAUFVX3lxTE42Y3BkRXZzcDBwV3FmM21MaHpCSlVpNE9ibWMtWFRQYWk2dlkyQmxjTmFiQkMyZTQyYjExamZFaUZCSnpYM2lwVWo2bGdUeDF5ZmtjclRQTWROd2RGVjNvWTZmcEIwS1NGZEEwYW1XSmh1WFFFMGtIYXFoaVhDQzZnZmdhaVZkQUhYa0VaSHBkQ2xXSXF1VnNZcC1zY1RUOF9HaDBIbGtBbTFIOWxrai1CZmVJZGlFOWwwWGROY19sakR4VDRtZHhEZ0Q2WE5CXzZpQlk4bjhPTmdQbFRNYnlPODRZQQ?oc=5",
+        "date": "2026-06-12T00:35:23+00:00",
+        "source": "3DJuegos"
       }
     ],
     "Marketing": [
@@ -68,32 +68,11 @@
         "source": "sanrafael.gov.ar"
       },
       {
-        "title": "Qué máster en marketing estudiar: digital, con inteligencia artificial o MBA",
-        "description": "Qué máster en marketing estudiar: digital, con inteligencia artificial o MBA Mastermania",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd29fak9mUjhER1VQdU1ZR2lYSkZtLUlDSlBsU1RYd1NNY3FzUEZrNDhLem9tMVB4SC1YaHN5UU9jZ183Tlh6WjQ3aVJyUFBCNllnRDJ5MDNkNnhLZFVhNkJMWU1EWURJeVhucFhub2RuVnpONEVxemNhYzYwaEthVzJKZVpCT0hHWnZNUFFqTnBMdmtUVjNSQ2JmdFM4NWRPM3g0SndmdlhvT3pBVHhCR2FNTnNrN210dDRrVnpnQjQyVWZjcEVDZ2VPZnY0dw?oc=5",
-        "date": "2026-06-12T11:03:51+00:00",
-        "source": "Mastermania"
-      },
-      {
-        "title": "Marketing Digital en Quilmes: cómo anotarse a la propuesta gratuita",
-        "description": "Marketing Digital en Quilmes: cómo anotarse a la propuesta gratuita Crónica",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaVFMbGd3b3p2V3dzZ2d0NGFrYzdwekozanRaN3h6a1pZQWJqTlk0QktwUXN2VEw1c0RMMi02UDFyYzdQOE84UVZ2RVMzNTVlUWRnUW9FRXJPS3VQN1JZRDNac1BXNkpSM1doeGVzTzhvZ2swLWxGa2IwMmpmTzZTMWJuSFhUVFdYRzNiRno1dS05am9KQXhyRWNMSDNpMmh6UVg3ZUhnYkc4X1VpSUxQMHVKQWloZ9IBuwFBVV95cUxOZXZDaVlCTndXRzQ3bzd4WU5nYzZ3NXk5ZkFIMV8xWjNReTBUT3JfOFdYMlRSVE1jUGxweDBDemFFY2JEaDN5QkFoNVdZMzlWQnRuVXlQWUJqeVcxRm8zTGs3dmJuUTZmRXAyaW51aHB0NE1KOHNrbFdHa1pfTWdYSTF4SFZpdDNXZjY4Vm4tT01YVGJ4YXFZN1pYVUFxS2d0VFg3aUJYQzl0WlRHQklrUGI0bk9YYnBoei13?oc=5",
-        "date": "2026-06-10T14:00:00+00:00",
-        "source": "Crónica"
-      },
-      {
-        "title": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet”",
-        "description": "Abren las inscripciones para el curso no arancelado “Marketing Digital: Venta por Internet” Despertar Entrerriano",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2padHFwUU9hTERaWmEtUHB5Y3NZT05QZENBV0RZYVdTcUtWcnAwS0ZUY0pmSzFfenp4dlFKakloZ0lrRDZBSWdRZ2VhQnVXZEJzcExZNkpTalFVNnJ2TlZXSUl2cFBXMkR4M0RFbGVtSlA4SUxsLW1BYlRQaEk5clJQVjBBV2pYeGJOR1Z3Ui1GMTdwTEZhVGFxZ3loeXdjdU5xVHNlRlAxazNDX0NYc3NFam5aTjRpYm04Q2NDMA?oc=5",
-        "date": "2026-06-09T08:16:28+00:00",
-        "source": "Despertar Entrerriano"
-      },
-      {
-        "title": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital",
-        "description": "Comercio y Justicia y el Ministerio de Cooperativas y Mutuales de Córdoba abren un curso sobre marketing digital comercioyjusticia.info",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT0JIN3MxRl84dktEMTNVWktqWU1lOENzUzBEdTJuSWZWZkZaMExPR2FoVVRMOTVYUEd5ckhYOE9PV2lKQklpV2E3VDhmSnlVLXI2MUh3WHVyN1dSZktwckNIbE1NSHhQeWl0Q0tWWWRnMnRMdWhqV1dkNEFUV0plaHd1cW1JX1lEb19scUVMSHZIcmZxQ3M1TGFaM0piU0pFSXRYdV9CUVg0dzkwWnFQa0FWWHJlTE1TbFhFdUNDbzc2Tmc3T1BVLUZEMXl4YTcwZ2pFQk9CUU55Und0SEJyWk9rZlVXbHkzZlkxTHpzUWhIWGVWUUE?oc=5",
-        "date": "2026-05-26T12:05:55+00:00",
-        "source": "comercioyjusticia.info"
+        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
+        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
+        "date": "2026-02-13T23:09:21+00:00",
+        "source": "Universidad Nacional de Cuyo"
       },
       {
         "title": "Inscriben para capacitación gratuita del sector turístico",
@@ -101,16 +80,30 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
         "date": "2026-05-27T07:00:00+00:00",
         "source": "Neuquen Informa"
+      },
+      {
+        "title": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital",
+        "description": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital Municipalidad de la Ciudad de Mendoza",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
+        "date": "2026-02-23T08:00:00+00:00",
+        "source": "Municipalidad de la Ciudad de Mendoza"
+      },
+      {
+        "title": "Por qué los hoteles que se adaptan al marketing digital logran crecer",
+        "description": "Por qué los hoteles que se adaptan al marketing digital logran crecer Perfil",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW9MdlR1cmtVTkZsX2JzcHZqcjlEQm1FN1Rod3NuU0pWQ1kwS3h3MUw3eXhfY3FuUklHWlJKMG92cDdnRUV2WXFaS08yU00yWXU2SnpEN0RncTFyTkN4SGY4OUJBNmJKQmFLVEdYeXZCMEVsX2NRRWdpdm9JSWhXMkZJUTRiZWIzdXFCT3ROaGJCU3JkTkRYV1lTMjNnTVhFNmx3VUtfY3lMY2VCQ2dCLUZXRTRlUdIBuwFBVV95cUxNdzAyV243Y1VrUVRiRlpZdUJmcEZLc1RqUTR4dlpFaTd6bTNxbjJuakJDWW1DY0c1cWxhWFRWNi1LS1lMei1WQ1VZSVZGYmw5RDExN09VRk4zU0M0dVRWNHhaNjYzaGduTkVoN1Z5S204ZWl1aGxWS1ZPZ1VNLTlHN2ptTVNMSWJjQ1o2dG5FRXUyQ3dJcG9DYWF6SVIzRmVsS0dET0NMRlh0cmk3OWRzMFp6bFM2NWVZTTBj?oc=5",
+        "date": "2026-06-04T07:00:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "TikTok y FIFA: así cambia el Mundial 2026 para founders",
+        "description": "TikTok y FIFA: así cambia el Mundial 2026 para founders Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmNOYmdKaThHSnJ1Mk5zOTd1RXVGelVlSGxOQlBQb2NRMkFmVnRBV3ByckhDYUdZMUxnX1VCSXN1UlRtUHhQRWxSNFlFMTM0b25pSC1CQzJQd0xtNnptemZUaGNOQXZaSWJ0Z0RRNTAzTk1rQTZWSzVHdUdvaTREdHk1UmtiTVlPanV4QUdn?oc=5",
+        "date": "2026-06-11T16:20:29+00:00",
+        "source": "Ecosistema Startup"
       }
     ],
     "IA": [
-      {
-        "title": "Estados Unidos sorprendió en el Mundial 2026: así usó inteligencia artificial para golear a Paraguay",
-        "description": "Estados Unidos sorprendió en el Mundial 2026: así usó inteligencia artificial para golear a Paraguay Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzZIcF93UmxIckRFRGlQaklnTzdUS1RZd2loU1JvUG5nODMwR2R5Ujg0cHZobW1RRHZZV2YyVExGaEpORm8zQXNNREdtOU9KWEVzT09MWmh5MnZ2UjlQQW5xdDhqUF9zTkdrOFdUR1ViMVFfWDVSQzhiMGJ1c0VzNHBubGd2VE1nUDNPcmFtWExicXNIWFY4NzFoOTFuajN6THJ6bXhhZ3hyZU40UENWRVh3clRwVEVMMGh0V0ZwWkl0WlRQckdBU1ZTdmhQckRXVkh6Y3hXSVXSAfMBQVVfeXFMUGJnWjVVTmFVcGVHVEdneUxrQnFfV1ppdWFDQU9Gem5tRmpWanlsVjQ0SUJUaS1PZHZSNUNPaC1CcGE4OERDQnpjTVJJbVZlV1RmNkYtbWZrb1ppYXNrdWotdkZrV182dzFsVFZtRHlfVkRXVWFCdG54UndVZjNfTlEzZ1ZiYm5VMFBhb1RGWFVaZ3l2ZkZRQkE3dEFpN2RoTV9PNmhTU0dIY0VoVnhKc2F4WlpQU3R4dkJ6TDJZY2dPNGhfcVZ3U19qS1RNZERDU1hMRXFsV0dTWGNhNjI4MC1KcFVyMXJRSmxpZjU2RWlDR2Rv?oc=5",
-        "date": "2026-06-13T19:13:34+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros",
         "description": "Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros EL PAÍS",
@@ -126,25 +119,32 @@
         "source": "Infobae"
       },
       {
-        "title": "Estados Unidos prohíbe a los extranjeros el uso de los modelos de IA más avanzados de Anthropic",
-        "description": "Estados Unidos prohíbe a los extranjeros el uso de los modelos de IA más avanzados de Anthropic Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0hsOWpDUnYwdV9WOWt2U3ZCZmZuTm8wdGlqWXVfRHBSM3EtZlphOGNrVFdRYmpGblRYTVlyQ3FmN1BpU0VSMmp3MHJBMzV6RFhfY1BHMW40YWRDRXZJV3dXWDZMVzAxVkk3bmt2Q2ZuMFZIekI0Rmd2X25SOEdNN2VTLTNvQ3hnSXlfMWZQbl9kRU5FdFNhVGdrOHBtUnZnMUlBWmc4OGRNOHRCb2x4ckVHTGlZYmM?oc=5",
-        "date": "2026-06-13T19:21:12+00:00",
-        "source": "Clarin.com"
+        "title": "Anthropic lanzó Claude Fable 5, su Inteligencia Artificial más avanzada",
+        "description": "Anthropic lanzó Claude Fable 5, su Inteligencia Artificial más avanzada Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRm1MeER1SHIyVlIzSVJhQmdIcEcxVTVCLUU1d1NiMnFRVW1IdE56T1g0MHVFNC1xS3JRMUk3Y1pydWxBQWRLYmJxbVZYS2RDZ3dxQkdod3ZwRzVfS3JCTnhGT2s4VDFhakxuVmhTY25OOENVQ1IwM0NHRUNDR0RyaHRCYk9jYW9kMzVDWUtLVmpxdS1CZGFfX0xVSTIxU2cyb3p1czhCY0h2d1hkRzAzS2JNONIBuAFBVV95cUxNOVZYeVNaWVhTakVRQmhUOURhSXJfTC1QQ2JpZVhXYWhMc2NQM09JSWhSZjAzRERsVjlBcjV1YU9obkRmdnZlTVRYSFpJakhMeTl2dWdZajVBVVVIcVZlcnE4dmdYNW1iS0pVQkZ2Q05PY1FBTGk0Zks0b0JhY1BtU2NDbDFOZnZENzhWc3FnOC1valk5RV93b3lrb00zQUczMDZGMmhaOGJmV3Vvem5ZT3p5cks4b1Ja?oc=5",
+        "date": "2026-06-13T12:00:00+00:00",
+        "source": "Ambito"
       },
       {
-        "title": "¿Sabías que la IA puede hacerte ganar hasta un quinto más en tus ventas, sin cambiar en nada tu producto?",
-        "description": "¿Sabías que la IA puede hacerte ganar hasta un quinto más en tus ventas, sin cambiar en nada tu producto? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYkFOYnltTHVLcWxBR0Jrc2JXSzZfU21KZEU2SXpCUlJEZlpRTzhsR3NrMWVfT2JYdDdYZ09fVWxUbDZDeEJjRE1TWThUcEZNVnJ4WEREMHk0MTJVOVFuUUZzWnFXR2VyRmR1Qkd6bm9WZHJKRVhVMHdHT3Ita1lqeTlncGx6VG1JTjJpcml2eUdvYjdRWHpKYnhIUlpFTDVCcjYxaXhzQ3BFM19SRVpsZzhtZm5TUm9kVkNCSWUydnRqTk5UN3pwLXRVSVhRMThCMVRQMFJtTHgtb03SAfYBQVVfeXFMUHB5NU10MFRkZllzVmdwSXNsOEJ1U0hhOG1ES0V3SkxBZXFRQU9ERHJMcW1DNWtsZENub3NPejJiOXJpU3A4d3NoRXI1RGh1Z0g1RWNEamtxQXE2dTB6YVJ5S2pObkhsVkstcUxuR056ckZ1NzktbXQyV21Gb2tsSHZ6ZUxwVzZyMVVtbFUwbVJIeTFtdE5jbnl5ZW1FZDNmaEFSc3FYV2k1STdRNGNyQ3NuVlVTcHd2bTJfaUxZX3hxb0tFU3lvdW9MZEUzd2dUTVRUbm1tLXNkcmMwZExqWjhkcTVGZW1CcF8ybFlHREFScEV1Q2Rn?oc=5",
-        "date": "2026-06-14T21:09:10+00:00",
+        "title": "La china Zhipu AI se dispara hasta un 48 % en bolsa ante el respaldo de JPMorgan",
+        "description": "La china Zhipu AI se dispara hasta un 48 % en bolsa ante el respaldo de JPMorgan Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORXBDMHc2WGM5TGo2Y3VJZnhLQW51UkZlaHVNVGs2UVByemhkcHRhN2pHZWt4TmU2cHFsOFNIN05ZX2t5LWhCSjRGd0RhRE4yV0lWQXE0cC1PZE1yaUtKZHpySHVxQktQZDY4M3FCTXJxWm9XQ2lMdV9YemRrbDVJUzN0WnFmemljbTVMUFBxWlY1TFNGV2ptRzRIaHBfSzhyMHctOUVxY1F3Wl9WaXAzN0c1dXBkWjZWUnFBQi1lb1RraHNMQjRQQXZVMNIB5gFBVV95cUxQSGcwQkVhZHp3MExzV1F0QmZkLVhyQW9IYjJPWFZIZVQxY2tPSnA3ZWwxUTRZdnJ4MDdkS0x4ZF82aWtSMVNyaGp4dzQ0Z29qLWVLMVdqMjFwQnhjdkpUQ2dRNDNFd1I4TWJLZFMwNG9uODJveEROTEtTUFdxdFpsWnlnWkNIY0tSX0dCTWUyakl6Qi1mS1MwQWFDYW5RUlpRcjdYdkRpWHpyTjVOaGhZcFUzYmVldWY5emZDbl9xaE1kbGFOYmpoa1EzU2xOX09uRW9hRXpnemVkN2lBREhoVml3WGI1QQ?oc=5",
+        "date": "2026-06-15T03:22:57+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Mitos y realidades del uso de la inteligencia artificial en la búsqueda de personal",
-        "description": "Mitos y realidades del uso de la inteligencia artificial en la búsqueda de personal La Nación",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZk51Y3JrbFItOW5yWVJadnVjZEFNZEhzVk0wS3BDUjRscmlKck9hNDYteW11VTV2V0lPOTVaZUpWa1U0V2FpV0Y4bmpkMVhFWUtCbWVNMHJHd3VKU0RKT0FOQkljTlV4UEJxWTI5R0RWYUNaWVdSZjA4V2NCZ1VkcmZ1ZGpMb2NBcnRLWi1vRzdCYzd1WGN3ekgxdE9VbU5YcndhbFRSemhiRERBalA0bDE0YTJ3d2Nhemh5RURHZWJBeGw1Zms2dzdTazJwdw?oc=5",
-        "date": "2026-06-14T03:01:00+00:00",
-        "source": "La Nación"
+        "title": "El Mundial, la Inteligencia Artificial y la dinámica de lo impensado",
+        "description": "El Mundial, la Inteligencia Artificial y la dinámica de lo impensado Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTnpwZTBPY2s1UFdrZk5mb1JqbkVZaHNPLUhUOUVnVlhtUWZsSm5CcVZTSC1WTy1UYU1RanhmT3liSnNGNmJVMGxUazhOWUtpcTgycGdyZGdTek1CT0tpczY1Q1FteEREN0hLbmVxTXl1X0xtOTJLb0ZEN1F2MFpHbHdCN3RxcFNHV1BLR3VQcGl4MkpXR25reWhsOWRBUE5n?oc=5",
+        "date": "2026-06-15T02:13:37+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "La ‘start-up’ española Orbio levanta 18 millones en una ronda Serie A para su IA de recursos humanos",
+        "description": "La ‘start-up’ española Orbio levanta 18 millones en una ronda Serie A para su IA de recursos humanos Cinco Días",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXl2VDdrVm1sakJweVp4UHJhSUV2SlE3UUtEbDFpdE5aVDFQNm9TMWlVbVB6SUtJTU95ZXRJRVlDY3A1Rjgxd2VLOVJmSzZTRzBYdXJ3ZG9GZ0xFNXQ0SXBNeUVBVTZNMi1pTUtwM0h1UzNrQUlZbmpjdzIxeUVEWTVWdEk5bnBqTV9WLWdOdjdPcDExRWxvLTg2V3diRkJoMEFPc3M1SHhZN3pIcG91WUFxOHA5cDFYZk9wcGtlWTBFMXRHR2U4UmtzRE5yclRZREN4eno2ME1hVzhIdk9ETUxpU2FMV2JO0gH8AUFVX3lxTE83anJwMFdUc25zY0t5UHBWVWQ3eUhiczZIajVITXpMZmZ1UzlSbmVNekk5Q2NzcThDdHJyOURFaUdaQ3RyN0pheVR5aklKZ1ItNnB0NS05blVxWkFZS1pUcmRXY1pXUWlvNWpHQnQzN0theHk5NDZjcGx6M2EyaVNyQnM2NDh2alBhNDNNUHNjemJGTFNndEdzRk5pRjNzaVhhWm1fQUU0Uk8zQ003VEExbkFzUmwxT2k2eGRRNG5CUS1DMXBDQkJ3R2dZZExsSE53M1l6N1k3Ql9NOVF4cHNNUEU2WmFITVdRZzRoeHhZa1FicnlVSGxkY2xueA?oc=5",
+        "date": "2026-06-15T03:15:00+00:00",
+        "source": "Cinco Días"
       },
       {
         "title": "¿Puede la inteligencia artificial proteger la biodiversidad en América Latina? | Lecturas ambientales",
@@ -156,39 +156,32 @@
     ],
     "Vaca Muerta": [
       {
+        "title": "Vaca Muerta: TGS confirmó la Decisión Final de Inversión de su Proyecto NGLs de Procesamiento de líquidos",
+        "description": "Vaca Muerta: TGS confirmó la Decisión Final de Inversión de su Proyecto NGLs de Procesamiento de líquidos econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzdUZVdOczE1Y3loMFNYeHZ5dGt0X25UUk8wbTB5ekFxUHFuRVVacWw1aGFoVHpfVWN6SHRLNDh5VUVLWW5tMkJXdmtvREhfRkF2ZVFhRllkLWhfa1c2MTNZOFlfWi0yLXIzMjVHMTBKVXBaWk9wd0RYVWFCV0FteU55Mm52bWp2NDB5RVdOemNUV19yZnBrM0Z3TmxaXzU0OTF4TmdCSGxBdE1sVWFnUnhLTFRHZW44aUlwaUpRMEIxWWgyeVdXUGRVTlVnTFkwN2JLaE9yS2U?oc=5",
+        "date": "2026-06-11T18:10:32+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Una persona murió en un choque múltiple entre una camioneta, un camión y una trafic en la zona de Vaca Muerta",
+        "description": "Una persona murió en un choque múltiple entre una camioneta, un camión y una trafic en la zona de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2F0ZGdhSTdPQ1JSN0tzbF9sQmU4dDIzOUhWbEsybFhWME9nM080cGY2OVBwQy1YSjZKLS1JcnV4OWxNWWJLXzl3UHdGRWV0N3E1OHdCbld5Uld4Nl9lX29pcUpuMVJCNEdNc1RDd2Y2OFNqdWRxUHZHY0QzS3ZhZG5WY3l2MWttbFVfTm42X3RVd2R0ZUhvMVlBVnU0YWFDaEFhNUdGdUVsczFQYjQ5UUR4T2haR3ZDLXdQNjFvdGpfVFpaTXRobXRCUEUxVjl4NUFWMUVR0gHwAUFVX3lxTFBCR1R2U2hRQjctWWdDZExLRjNIVlhuSnF4TXJxUVBBY0hTRnU5a2RzV0c1aUM1c0ppVGgwSG8ySEhTNnVxc3FhOFJqc0pPdzdFUTdqZzJIbjZNc1JHdlgzVWNOR2VCX0RoTy0zeS1kcUdoMDFmZ0EwMWlZQzY2MGpmVFpMcEt5ZHlGZXljRE5MYkJHd1RSbTcwVjRUN1djaUtZaWVZYS1yN0s4aTBZdjkybjVjMGd5RjZVb00yQlozQncwRVdRVWctTWozQ2tsVEpBbllEWVR4czgzOFVTSE9LWDg1Q0lwZW5xVnZfaElSbw?oc=5",
+        "date": "2026-06-14T15:26:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Triple choque fatal en Ruta 7: murió un hombre y hay heridos en pleno corazón de Vaca Muerta",
-        "description": "Triple choque fatal en Ruta 7: murió un hombre y hay heridos en pleno corazón de Vaca Muerta LM Neuquén Murió un hombre en un violento choque sobre la Ruta 7 en Vaca Muerta: qué se sabe de los heridos Diario Río Negro Una persona murió en un choque múltiple entre una camioneta,…",
+        "description": "Triple choque fatal en Ruta 7: murió un hombre y hay heridos en pleno corazón de Vaca Muerta LM Neuquén",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1h4UzZHTTN2MkZCR0NHUW9DN1RzbG10TmVlZzFZNVVJelpEMTZSSUgxVXdfR0Q1bVhmVmRMRGp6LTU0aXpDZTYtaGdNME5rcFM5eFVUWEkzOEgxMVl4T0JKUVNVbUQtSDZxOHMzVTMxejR2VW5xbG9OQThTV0JtMFdzbnVzWnZtckdpNW1SVHJpcG82UTZDOVhBcUl4MGREMHNQaTFPMXI1NU8zZmJqSFlXeFBxejdzb3ZreklMdlhCSEh1cmlz0gHMAUFVX3lxTE5STUZZY2w0U2NfRWhFbXJRQ3VIUGY0SktScjR5aUFxalozUThNMVRxYnhjLUFtNWRyRGpHOGpwcXpOV3pfMmVtNnhYV2RsS19kRG95QW5nN2Z5Szk1dVYyV2xGdjl2aGlneUZVVDNrcW83S0R6Y29OSk5NclVxSXVhUWpzbjU3N1ZsbE1BcU9UN1ZxYzYwVTRFN2ZMVk5XVDgteFJrbGxJS3lhVEp3dllXdm9YenFXa1VlcF9jYmdYY3d4eFlDZG1KaXMyZg?oc=5",
         "date": "2026-06-14T13:52:00+00:00",
         "source": "LM Neuquén"
       },
       {
-        "title": "Mueve la Legislatura: Neuquén e YPF empiezan a ordenar la salida global del gas de Vaca Muerta",
-        "description": "Mueve la Legislatura: Neuquén e YPF empiezan a ordenar la salida global del gas de Vaca Muerta Mejor Energía",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUhOaC0zU0pLajd0SW95amZaaWRpcUFhT3I1ekxhRjZQQUppZGdlcG42V0p1c090b3NFaXFOZHRNQVA1dFZIYy00bFp4S2VRLW1KUk8tRFdrdXRrWXNQWE42TVItWThYdDdNUEhsOGNoS1lYQWcxTlVFWXBlWE1lc2dicklXU2FEc3FXd2M3c1dNSnIxQ2xkQmF3RkZlM1U3bjM0WWdocUdvN3V4eFJ4djAzc1ZFQi1tdDFSRUstYk9ZVExPOEZldGo0czdCWTR2VTRBMTExS1JDTkR3Z1hnYThXbkzSAeoBQVVfeXFMTk1kNDN2TWc0czhSMGNrUEd5Q09ScE9nMENCQlBnQmZhMWdiUDJNV1pvV2tlSUZQUVBHU1NjeFlBYm9Mdl9PMGRLb09sVmp6QkgtT1NSdVI4NmF4UG5pZUFzeEE0TUN2blF1bktORC1hMkt5MVlGeWZqZC1na0ttX3FjNkZ4R3k0TjJNaFBjNDkyeWdscVRzWjVPWURsZWRjdmFVNUdIM1JVemstWWNxanJldERyaXJIdFZ0cTlHYWJWcE8xcDFZNnE5MTJzay1rZTBySXlzNElwOUY0MldMZGRzeFBIQ1J6aFRn?oc=5",
-        "date": "2026-06-13T18:40:20+00:00",
-        "source": "Mejor Energía"
-      },
-      {
-        "title": "Los caños que conectarán Vaca Muerta con los superpetroleros ya llegan a Río Negro",
-        "description": "Los caños que conectarán Vaca Muerta con los superpetroleros ya llegan a Río Negro ArgenPorts",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNk8zaDRiRmJXZHhWNUFSSzhucXI4VUliSW9iY2FKN2NVVHREWmxkZ3gtcDdDRlZucEZ1bzBWR1NXazVpVE9iandseUhjYTNXZl9ZRFI5bWxuTERLdUJmZnEtQ01ISEtHSjYwbHZXZzF2THBBLVYyUEJsbEJjaGhUaXJOUzR5N1B3bWhYSXZNUGtFSDUwMFhTQVdxcXk3TTZBc21UVFZZU3NTclNlclJWTQ?oc=5",
-        "date": "2026-06-13T17:07:57+00:00",
-        "source": "ArgenPorts"
-      },
-      {
-        "title": "Por qué Vaca Muerta tiene en la IA una nueva oportunidad de mercado",
-        "description": "Por qué Vaca Muerta tiene en la IA una nueva oportunidad de mercado econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lzeU9qVUR5anVjdnVlM1ltMjM5VVRzMUZpQjdnY1BnNzhKbDFpYWdiVXBWbXZZc3llOHR2Mkg5V2NaMEF2Y0xZMFM5V1hqd3hwZzM5c3hiUGtvQkFoN3dlMy05SnBCZkdxLWtTUFU1NDUyakZfT2g4X25hUHpVV1hJZGRaUnpsRXpScTROV1g4TjFlQzY0aEtFR08taENJNzJmM3pfQQ?oc=5",
-        "date": "2026-06-12T20:38:35+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Vaca Muerta y el doble desafío para Neuquén",
-        "description": "Vaca Muerta y el doble desafío para Neuquén Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORE5lMHFPcHpON3FpR3dGSDh3aUd3dExQeUhWR3loSFRNZWgyZVg2VDJGaWtBcVFkeUg1bm45TjRKVlBGWjkxX2VDRnR0U3JhNmpCSU4zTGhiODlwdmdxMGJqMWJya0pmSEZOSDFkN1pHNkNpMFRRcDNMTUx1TENMSG5VTGpqd3PSAY8BQVVfeXFMTVNWR0c3eldxV1cwTlM5YkpFd2VhQ016aWdNVjhsU2dPVnlZb1J3ZXRqRGdEX0FrMzdCU1lTNFk2THBQbmlRQkVybEl2YVRSOTkzYWZYZXJfZmlpcVRCeTdBZUtWaXJJMVJQRlNBMDQzZDVCVU0ybC1OSEswOXc4SVl3TGhqUzJYT2haOFk2NDA?oc=5",
-        "date": "2026-06-14T03:30:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "Neuquén. Vaca Muerta: otra muerte obrera en la Ruta 7 y una pregunta sin respuesta",
+        "description": "Neuquén. Vaca Muerta: otra muerte obrera en la Ruta 7 y una pregunta sin respuesta La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDZsdXBCdUJTOEd5SS10NE9kQ09mV2QtTkZrNUJjQUFYT2Z2eVplVm1qLWllYnhFVDBHTVZZSFJKaXBaLTlWWDlROXhVaFY5blFxUk9QcFhsZW9Cajd1ZE9PVEd5dG44dHpnNUM2QV8yN2NYaWVxcjFCZTBRQVlrSXlkUmo5a1Q2Uk1lN0pkSEt2Z0h0NlctTl9yaUpHZ3Zvc2JRYUdtRE00Zw?oc=5",
+        "date": "2026-06-14T17:45:03+00:00",
+        "source": "La Izquierda Diario"
       },
       {
         "title": "La mayor obra de petróleo en marcha generará en 2027 exportaciones por más de US$ 5.000 millones",
@@ -198,11 +191,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "En octubre llegarán inversores canadienses a Santa Cruz con la mirada en Palermo Aike",
-        "description": "En octubre llegarán inversores canadienses a Santa Cruz con la mirada en Palermo Aike La Opinión Austral",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaEJ0LWFGUEVyYjhfcF9GR2Z0QWVnNGk4SDU0bWZLM1NwejFYcGZ4U0VraklZRzBKOGlKalRBbkhVZVBCa1VOaTdKQnhKNE5yRDltMjV0Mk5VaS1WTTl0RjlPUkd2cnRrWTZyYnhSU3pEVW5LeFpSSVZnZDdLVE5zM0pBUDdtREFkS0htSldRdHdWZmlaWllMUmlnRXZLZ1hGQnZJaDdSS0ZXYkxFc0o4c1NnM2VyVWFuZExGd2FyYkliNHMtb0hUUVlfanVtVHpB?oc=5",
-        "date": "2026-06-14T20:04:19+00:00",
-        "source": "La Opinión Austral"
+        "title": "Vaca Muerta: los yacimientos con mayores compromisos de inversiones en 2026",
+        "description": "Vaca Muerta: los yacimientos con mayores compromisos de inversiones en 2026 LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3IyQmw2VHBuWmVDSHMtNDRycDN4d0Y2S3pfbGtiNGJ6aGc2VTFPaC1aWmFvZHd2dWZvM0k4Y3VfdGR1Q3ZyZmMtZFN2NGdQbHp2M0NtdkF0ZXdELS0tb0pmbXJHX3paVUdHeGhwdXk5YXNHS0ItaDUwZWhVQ2dTblo1Y3lkMUk2X2dsS0V0OFBkSlQxc1VJOU1la1VMUENLTF9WYkRRekpfWTJpSVHSAbMBQVVfeXFMTUliajg2YzVHMmlrSnk0YmwtT0pTVFBGbERWN1NBQk5YaE9mZGpTTmFmYWxyUjF1VHJIemRWYU9iQkdYUkt0cHBYUnFidFJvdHNxOF9JX0NTYjZ4TnBsQXZuSE5GZFVoQ2l1NEEwQmRZYmwyakszaHVONlFBSDgwci1SQl9lRVU4VVNZT3R5ZGpnWmIyVkMzRUFsOTJ0ejYyNWR6Nktaa2hDY3R0OUdyTnU0eE0?oc=5",
+        "date": "2026-06-13T02:55:00+00:00",
+        "source": "LM Neuquén"
+      },
+      {
+        "title": "Mueve la Legislatura: Neuquén e YPF empiezan a ordenar la salida global del gas de Vaca Muerta",
+        "description": "Mueve la Legislatura: Neuquén e YPF empiezan a ordenar la salida global del gas de Vaca Muerta Mejor Energía",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUhOaC0zU0pLajd0SW95amZaaWRpcUFhT3I1ekxhRjZQQUppZGdlcG42V0p1c090b3NFaXFOZHRNQVA1dFZIYy00bFp4S2VRLW1KUk8tRFdrdXRrWXNQWE42TVItWThYdDdNUEhsOGNoS1lYQWcxTlVFWXBlWE1lc2dicklXU2FEc3FXd2M3c1dNSnIxQ2xkQmF3RkZlM1U3bjM0WWdocUdvN3V4eFJ4djAzc1ZFQi1tdDFSRUstYk9ZVExPOEZldGo0czdCWTR2VTRBMTExS1JDTkR3Z1hnYThXbkzSAeoBQVVfeXFMTk1kNDN2TWc0czhSMGNrUEd5Q09ScE9nMENCQlBnQmZhMWdiUDJNV1pvV2tlSUZQUVBHU1NjeFlBYm9Mdl9PMGRLb09sVmp6QkgtT1NSdVI4NmF4UG5pZUFzeEE0TUN2blF1bktORC1hMkt5MVlGeWZqZC1na0ttX3FjNkZ4R3k0TjJNaFBjNDkyeWdscVRzWjVPWURsZWRjdmFVNUdIM1JVemstWWNxanJldERyaXJIdFZ0cTlHYWJWcE8xcDFZNnE5MTJzay1rZTBySXlzNElwOUY0MldMZGRzeFBIQ1J6aFRn?oc=5",
+        "date": "2026-06-13T18:40:20+00:00",
+        "source": "Mejor Energía"
       }
     ]
   }
