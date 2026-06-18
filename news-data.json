@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T19:23:15Z",
+  "updated_at": "2026-06-18T22:01:36Z",
   "categories": {
     "Microsoft": [
       {
@@ -41,7 +41,7 @@
         "title": "Microsoft libera PowerToys 0.100 para celebrar su 20º aniversario",
         "description": "Microsoft libera PowerToys 0.100 para celebrar su 20º aniversario MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTN6TnRsWnVBa1RuMWxxSUpFd195T29aME5tVWlEVHFYRzQ1MWtHSHRtdktJdFlfS2xTRElOYnR0NllxaWFrUTBSSUtBdTQ1VHlLcThZRGktRW1fQVVvMXRSOGdGbWRweDVIeWFnaE9hWU5OMWFaZjBEQ0QtaVlPeXlLVlVySW9oSURtYzBad21kMGhCR1M3WXhDamcyRUFFczZJ?oc=5",
-        "date": "2026-06-18T13:08:12+00:00",
+        "date": "2026-06-18T13:08:30+00:00",
         "source": "MuyComputer"
       },
       {
@@ -75,13 +75,6 @@
         "source": "Diario San Rafael"
       },
       {
-        "title": "LinkedIn ahora permite insertar GIFs en los comentarios.",
-        "description": "LinkedIn ahora permite insertar GIFs en los comentarios. ALM Corp",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaMHBYQUJVVXc5V2lYTy0zaEtGdUNEU2hHZlI0T3F1WkVYNEEwWV9MR1hUaWc3WmNsMXVQSVNlZ3gwY1d1VTNwaHAyeUFiRGV0Vlo5dkZZQ0EzZTRQcmdSZVBRTWlhMFVJQXlvUFdFTnFuc1pJLW1tLVNB?oc=5",
-        "date": "2026-06-18T17:29:53+00:00",
-        "source": "ALM Corp"
-      },
-      {
         "title": "Marketing digital en tiempos de IA, cuando Google no es suficiente",
         "description": "Marketing digital en tiempos de IA, cuando Google no es suficiente Impacto TIC",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGNHVWMxWGd6SmQ2VFZjMEFIdHdZQnIzYmMtTkMtaUl1MVRpblZMVWR0czBpNU1DUHY2ZzAxVllEUlZuaUNabU5jeVpiUklQOF9hZFlJb0xFZXMzTDNkMHpqZzVsY3NsZndpUWJtby1tZXBEUm92dTBWMzJFVEtUTnB3Um5SemYxVzROYXNzYkxyalg4RTVBc19CeDhzRGRW?oc=5",
@@ -96,6 +89,13 @@
         "source": "Noticias UNSAM"
       },
       {
+        "title": "Marketing Digital: La piedra angular del futuro",
+        "description": "Marketing Digital: La piedra angular del futuro Pinamar 24",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xZWtjSkFzNHRzMUxVQTJ6OEVLbDJaTXF4bFNEOTN6RVl5NFZUS3QzVG4tTmhSaHpMc1V6OEdXNzBxSnhCRFR6UDUyWTJIaU5CbUxZem1USHpDR09ubUpJa0tnOC1fSF9ncFRF?oc=5",
+        "date": "2026-06-16T18:31:45+00:00",
+        "source": "Pinamar 24"
+      },
+      {
         "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
         "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
@@ -105,25 +105,32 @@
     ],
     "IA": [
       {
-        "title": "Las relaciones con inteligencia artificial crecen en Estados Unidos y ya preocupan a psicólogos por sus efectos en la salud mental",
-        "description": "Las relaciones con inteligencia artificial crecen en Estados Unidos y ya preocupan a psicólogos por sus efectos en la salud mental Infobae",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPazhoMnQtVDdDVnFTRmUwYTNyWWFaRDBkSHNwSmV2eVNKelNZVVUtYnRnZUxTLWgxRDktUkNRWlAwcXhZWXdHOE9kTHdUcFlOd2pwdnZCdXJKRG9USlNaTlU1MjhIaUpzcUpXVFBFNVFoWmNXX19fOUtKMU1FU3RPZEh6OWZ1U21ILWllX18zSk9nYzZhaXNLYXFwRkcyN3dsZUc3RGIyMG5jWllSdVNjN1lmeExreE1VWU55bThJWC1IbHRHVHR6a05KdzZsS2NBQWtncUtONWQzMXdEaVc0SUlleTI4SG5JSThCczhpVGlkU3c2ZF8tSEthckZ2X2RKblJFcE5KQ3dpSFgwM0HSAagCQVVfeXFMTUJpeXhUMFNJam9ndFNSbFJGZHRXZ0ZFQWVIcGc0YlRMVVJ0R0owMkJOSnlHMTllS1ctcU5vMGM4TGpTOUFMbWY0azRnREpNaVZVWlhCRWVFYnBaWG43QWs0T0c5bGRfMktDT2NqYWtNOW9MVHQ3d0JQNkNXbGo1UHdjN2d3THRuUnlSbzcwWkRmeFNSMXBxUEZXVkR3cnVOTzZ0SHc4TlhpajVsbzdDZDNxcWx6YVk4UGtJTjFvRVVPa0FsYW96TXZDNDBhZUZTOThGZkdxSm1TZG9ZWlNlR0FpT211Y2piU0ZBU24zQ0p0QlVpZTRNMWJ3QWw5ZTV5dUlQbzJqZFRvR01FUE5HVk9FTzgyMFVENWhwalVLX2Nsd214eGFndEk?oc=5",
-        "date": "2026-06-18T18:42:32+00:00",
+        "title": "Empresas IA sin humanos: ¿innovación o delirio?",
+        "description": "Empresas IA sin humanos: ¿innovación o delirio? Perfil",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkt4RG1NSGxMUWNNWnFOYU1yN2VSanpTMzdjOExQcTZkc0pfd21iVHc0Y19JRWxVNzlpOWg4N1cwUTM0V2ZOX3pZMzhCdDhGenJQZ0MwQkRlc3VPa0VmZ3hqZFhzcG5EeVQ3QWFWZE0wd2xORnhMX3VfbU5Cb3BudnV4ZHFqMkF1Q3JETlpKaDQwTFJTdXFFMdIBngFBVV95cUxNS2o5cGV0cVdZaFdlLVhRdlNsN0ZEZEw1c0NPaXhld2ZLT0hHQUpQTFhUZVZpMTRpdjZ6dXRNUXNFRVhfZ09Mc3Bwa1RvY0d2bnpOSjJSZWw5RDh6amcyUFJJa1hvMWd1N3lqWGt5YUR0X1JzSXhxOVZfX3J5Z3Zid2pzd3JmNktfaWJQdzAxbS1YblZTa0d1Y0t6S3YtUQ?oc=5",
+        "date": "2026-06-18T08:30:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Milei le respondió a Harari en la polémica por la regulación de la IA: miedos, políticos robot y el juicio final de Terminator",
+        "description": "Milei le respondió a Harari en la polémica por la regulación de la IA: miedos, políticos robot y el juicio final de Terminator Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUlaRHhWR0VPVTA5S0NwLVF0UGRXY3BmbXFibXRIUDlSVWZLUmN0ejZ1emMwbDdyWUI3eXZVRUd0ZEdWZlA5R1FjYXNkV3NGb0pJVWhsT0U3Q1gzZElUUXpTdGtIaDlEYlEzRTFVZTYwVm12aUJaQkFYLUdvZVk1MC1lOC1ON1ZwRGI1YTdwZFJnQUc4bEk0U2IySHRQSW4tN3ZrdGg0eVJyVXpndGF6aE03U0hITzRjWWF4TXVDazA4TGZ3UWdiNVkyVGN2eFBaSkNJM3ZEd2JtZllYMkUzV1ZzWjV6NEJtc2dwWmxtd3lISGZpYkxoSHVtYjdYZ9IBmAJBVV95cUxOblBHbE1qb1JDM1dkN0N4ME45cTFobWY0ZGtEcU5yOEUtc054akdVS1FKdVJDT3FMQmMwNWhVbU5DSEFPYkFjTGE0d2hpUV8wcU5KdEUxcTlsSnNaVFpaZW45bGZ6ZTI3RzU4ZFVQdmY0MUpuUjZRTGFPUXZVTGVFMF9KTWIzS21aUjF1OE9KVVdNaHV1VUZDSzJ6cFp4ck5EMk14UU9fZnJzeDlqMGxpS0ZzUC1rQTBrQnJhSnI0dWhfa0J3ekVJcldqRHhyanR0c2pNOVM1VnB2Q1MzSThZMVFoUUl0Y2FnY3BDZFoyQjdRWVdlUWlScXgzTzR5eUJWaHdQZ3Q4U095UDJRT2hINWFrQ1ByQWVt?oc=5",
+        "date": "2026-06-18T19:58:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Milei volvió a cruzar a Yuval Harari por cuestionar su iniciativa para crear empresas no humanas con IA",
-        "description": "Milei volvió a cruzar a Yuval Harari por cuestionar su iniciativa para crear empresas no humanas con IA La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMFFxcnI2SEdSbzRneXRLaDBWQjl5aGJiSlpIeEdoR0RIcUZPamNUZnJyXzc5U2x6bG9xbDNBcjFzcjU1REFuTnBUeFF5QXlnN0xkMHhzSHg4cE9EcFJXa1lPaENnZVdWdGR0MmJwUHF0bHRZZkcwaTFwdFhCOGJaMkdLVU5xa1R5UVlRcE5QUEk0b1pVc2cyRlN2blhHLUVnbFBmekJMZHVvLVV0bk0zRFVxSnR0VUliWktzNVpiMUd1NU5rcEtxRjdNVlZrbXFqMXVjVGFiSk9uLWN6a1p5dF82UXg?oc=5",
-        "date": "2026-06-18T18:58:00+00:00",
+        "title": "Javier Milei le respondió a Yuval Noah Harari y defendió su proyecto para crear empresas manejadas por IA",
+        "description": "Javier Milei le respondió a Yuval Noah Harari y defendió su proyecto para crear empresas manejadas por IA Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdzJ4OG00Y2dEZ1hwSWNEWGRpN2pvTXBjaGw0MWp3TXYzdDBPclBIWGNEUnZBQkgwWXdnRGdjX3hwS3pTT0htN1lNUE5lQ3dqQXl5T1c3U1RWXzN0VDBCZi0wMTZYU2hsX0toOG1Gbml0RUJJX285dDdQTHpSTTVzbGpLWmxCMEtBVTZOcU1xSHhxdnZQSi04c2ZTSURJQVJKWjlnN0docW9aYURxelpWSkVvUlVFZVpZNGpXZldrRlJmWVR5LTFBY2lQNDhTZkhD0gHWAUFVX3lxTE5Ub3hZNVh0U0dqNnVGcy13YjJPRDRaVklsa3duXzRXczk4NFVwWkpRUDVrbGZyU1lwdmtucVNKWGJCbVRlUXdPVDVLZXdybnNvLTFsSzNQR3hYNWhGZmwyeUlBVFNIQ0ttUVZ5cTZHaGlzbjNydE90RVR6ZGpHMlVoQ0NXSWgzeHo3eV9BNVFWLVNRb09jcmNNdXVOQUhlV1lmOTN2UTdOTGFteEJ0dzltdkJGdWhfR2hkLVdnXzZ4Z1BQNHp2enljb3lZVW9FdFJ6UUQ4T3c?oc=5",
+        "date": "2026-06-18T21:44:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Un informe reveló cuál es el país que más usa inteligencia artificial en el mundo",
+        "description": "Un informe reveló cuál es el país que más usa inteligencia artificial en el mundo La Nación",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2o0UDFBWkJsZXk3LUNGNmRJOFZSYzBKUjNWRUNWYTBnR0RseF9RbUxRMTlwbWg3NzcxWWk5QVR3dHEzN29DcUYzQ3pBNEtwR0xVQVZDYWJsamZUQ2dlX1BhRzFVbTlmOXBvSzJVNlZMVEVBZXNQQ1gwbTQ2RUQ3ampFXzVRQ291S00tZ1BNSlVXOFFrcWdUc2xfTjRKZGdCRW00MzhTR3llN2FXU2h6VkJyTmFtWkhYb3FObWNWOTdGdFFkbmM5MkFHUkJRQQ?oc=5",
+        "date": "2026-06-18T20:06:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Inteligencia artificial y geolocalización se suman a la Alerta Amber en Panamá",
-        "description": "Inteligencia artificial y geolocalización se suman a la Alerta Amber en Panamá Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTBlYm5DT1lwTmFEOTVtS2o4LXYycGJLcmtLWENPSXhYRER0aFFueFZUeGZsX2szNHc2bUhHTjZka2o3MGxKUFNWMjRtbkNtU251c3RHTDkwMnN4YkozRUl2TjVOVUNwMWtPcWhTRWppdVVQMXEzaVFfMXZUYmlSQm5YOHNVVFdvZzMyUnpIQW1uZVRrSHBnNHZPNzR1Qk4wazZYenVHN3dBempTTGF0Q284WkdDOWlLVTAzQjZn0gHYAUFVX3lxTE1SRks5ZjJGTE11NVBxZmhISHQwc3dCZjdTM0JvZk9xODFmSmlIVl9wenQ0QjlYeTVadXFWeHhjTktOMk9GZy1DMElqaGllN3Z4VUtWVXJpa2taeDcwcDBZeG9WdXh6VXFGX0FuWkNUV0xGQkl0VHN6dWVUQjlfZ1RCTFpWN0xtMEN6akV2QktNVGFvLWc3SUxxT0ZrU3kyanJrZlZxQUdsdjVXV1VxOHQyX054YlJ1WE1hdkxUVjkxMGtqYlRTakpIeUluUEdHOW9SanoyS3FVQQ?oc=5",
-        "date": "2026-06-18T19:03:11+00:00",
-        "source": "Infobae"
       },
       {
         "title": "La imagen y la voz frente a la inteligencia artificial generativa (a la luz de la enciclica Magnica Humanitas)",
@@ -133,13 +140,6 @@
         "source": "Abogados.com.ar"
       },
       {
-        "title": "La segunda fecha del Mundial según la Inteligencia Artificial: tres ganadores casi cantados y el resto de las probabilidades de los partidos",
-        "description": "La segunda fecha del Mundial según la Inteligencia Artificial: tres ganadores casi cantados y el resto de las probabilidades de los partidos Olé",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGtKX3NTWjljbmdEM0tKRUNYT1hKVXMwWmxySEJmc0lfTFUzX0FpbnA1T2ZrbjFNN29OdXBSTkhucm15SVo4VU9vZnlXS3daQXVGZlIxRVJkTkV2QzJadm1RMWlqbG5HcFVPUmtYMjdzdkNuTGprN0xRWXNxb0Zzak82ZDk2eE9YRTdob002c25CbWlyZ1B6RTA5ckVSSzZnUUwxd2RvT0NvVDNERmVFc1Vsdw?oc=5",
-        "date": "2026-06-18T12:18:40+00:00",
-        "source": "Olé"
-      },
-      {
         "title": "El uso de la Inteligencia Artificial en la escuela: ¿qué hacemos si escribe mejor que los alumnos?",
         "description": "El uso de la Inteligencia Artificial en la escuela: ¿qué hacemos si escribe mejor que los alumnos? Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ09NelhWTi14UkF4bWZuamRnMDNqc3p1UC1pa0NMVk1sZDdnY01PNDljT05BMDBhNl9IMXBzd1RiZXc2YUlQcThZSk1rSi1VdUZ4N0toMTRUMkE4OVdaMXBYZW52WVBJOXdJTDI0UmtUWWhfZHp1YzhheU9tSmUzYjNJOWR0T2VYb1IxeUZHLVpITE9RNm5RRVFKRWZJbzI1dGtPWW9lOE1jWVVBOGFPeNIBtgFBVV95cUxPOEs2OV9tTGk2UnlNX0xXRFRJSU4tSjFNa3ZCNEhvMkE5Wm9wX1c2MEJnYU1EbmlvNHRJTnNGQm5rTTR0dGpkTkxweEQ2aVl3NGk0NDZPYm8tbldLMUU4Q2o5eDZFaXljbXp2UjdGcGdfUzZQSkt0SWVud3V1dExJeHRLbG1xT09ubWo5czRyWGd5SDNST29fWDRGbXdrNlN0T2hPeWVuNjJZQlU3dUpZRHRrRGV5QQ?oc=5",
@@ -147,11 +147,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La escuela y la Inteligencia Artificial: “No es un jugador cualquiera; es el Messi que estamos enfrentando",
-        "description": "La escuela y la Inteligencia Artificial: “No es un jugador cualquiera; es el Messi que estamos enfrentando La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQzl2OU9UV2ZJREwzc3VidU1GVzh0MzNIekF0bWRNb3dNRF9BTnVpdXViYzZGdnkxUzVGN0htVWVrM1RYd1gwVWNQVGNaQUIyeGVWN2JrOGdHNmRjQlI3dF9BMnVDaVJNZEc2UFhrUlUzN3Nfc3hacDBTSFFkSWcxZ05pNGtCNDRDd21OaWdBbThnQzRNUFMwcHNqOXJabVJQN2d2d0VBSjBlS2lsMmFEUG02UFpLNjRlVDNZVG5TZzh1bjZLZFpTM191SXUyVlXSAdQBQVVfeXFMTTFsTDV4UDdmVHhIMHRmbjNOV0tqOW1US3ZRRXh4bEN3NzhUVEJscWxfcmlKSmxINjg2TXU3RExZamZOSDh5ZEJxaVFNZzFWdURaRENxbEpnLUVSZHJqMm9YOTYzSG13cnJ3LUhwR0lQeTJiVlllb1Y2ZTI5QUtCek9GM05qMjhFSjU3dTd0RUF4TC1LSDlTMFQ3eFI5bS1EZllBaVB2SHVPR2JIN291YVpWOEoxejF4YS1LYXVkODREZzdIZVhaWXJZMVNZRkFiZUFCZzc?oc=5",
-        "date": "2026-06-17T19:54:02+00:00",
-        "source": "La Gaceta"
+        "title": "La Escuela de Abogados del Estado analizó las implicancias de la irrupción de la Inteligencia Artificial",
+        "description": "La Escuela de Abogados del Estado analizó las implicancias de la irrupción de la Inteligencia Artificial · Gobierno de Córdoba",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU3RaQUFkZGs3WjJtUVdXNTRiSDFXTkh0M21jYzZRQUpscm9JQjZHS1VLWlI4aUhzWFlwZlE4RTZ0cjRDYTdqM1NzbVRwUFJtcllCMExtYkNzTWFqLXZFc282bnpmUEN0NVdualhCUE1QbE5FOVlqNzRCZW1DTWRkM2tVeC1lT3pPWGlhbHNveXd4ZGxDM0hmZjVVWXhsSDVVZnZlRnZKS1FCSWt1NUY0Zm16cFpxM3BBbElkZ00xMW5tTDZjcm9POW1Xa3lCakRCOERvand0bTJwaEpCVVVzRE9Kb3ZOdw?oc=5",
+        "date": "2026-06-17T22:02:00+00:00",
+        "source": "· Gobierno de Córdoba"
       }
     ],
     "Vaca Muerta": [
@@ -170,39 +170,39 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "El llamativo pedido del intendente del corazón de Vaca Muerta por el boom migratorio",
-        "description": "El llamativo pedido del intendente del corazón de Vaca Muerta por el boom migratorio La 100",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEFhckhYenE1dTBiN2dic3ZaZEw3MFRkRE91MFdrbW0xTU1BRUdNYmc3UF95elVuTDB2UnVxZDQ2OXBlYWJia1hWbHNyWXcwMmc3dDE1ckJ0RTF6OVd5LWNmemhJNWFhVE9HakpVTkZwWmdieTRsc0lsdVZKT3o5REREekdzc1lzLXByc1F4OVg5Z1diY2tTeXNEdW1Ybnk3bF90RjByVXJIem5DT0RrT2o3N2VuR28xMDhmVTNINW8?oc=5",
-        "date": "2026-06-18T17:40:26+00:00",
-        "source": "La 100"
+        "title": "El intendente de Añelo, el corazón de Vaca Muerta, pidió que se frene el boom migratorio",
+        "description": "El intendente de Añelo, el corazón de Vaca Muerta, pidió que se frene el boom migratorio Radio Mitre",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUzRTNFZBQ1hlNmhrZFFiQVBmR3BhZXkxVS11QzNNNm50OG92ZWRSVnNNWEhZNkRwdTFfMFc2dzZGYUg4bHFhOEo1M053N3pYRkthSHNsdl9oYlYxT1Q4a0xmeGdHMkhPQVdCT2N5UjZpMGFjWGNqNnpQVW9hQ2MtcEJ3ZTlxczNncHBOTGM0OFZfbmgxamZHZUJxNnZkMkhfNTRTaV9wb1Voeks3Smk2Ni13b1pkTjBBVU05QXNfUlNjVzhCa1ExTlNR?oc=5",
+        "date": "2026-06-18T17:24:22+00:00",
+        "source": "Radio Mitre"
       },
       {
-        "title": "Récord en Vaca Muerta: un pozo produjo 1,3 millones de metros cúbicos diarios de gas",
-        "description": "Récord en Vaca Muerta: un pozo produjo 1,3 millones de metros cúbicos diarios de gas LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHg3ZmVaaDluRzRiTXpGQlVYUXk1YnlCUmZHaE1SVV9pVEtBQkVmQlRFdjNmNTM5dVlPOEZKUlYwTHFHaXZ5SXlQM1dlbkJzb0FLQ0NFd25IZ05qeFZKeE1XVE9hOEtobzdRajVxUlFmYV9lX0UxYllENW12YXB4LW5iTW9OMldSVVY1a3I3Z25sVW5qVll1V2dfbk0tNEhyTWkwQWxmQVBZTlQtSnA4UmRLOENxb3Bmbm1rUdIBwgFBVV95cUxQVEgzdTdpekhXRWg0allUcnZQOWtJS3dnTURDbHVWMW8tU2VMSGJOZjVmYVZkdi1YVldSZENEOUJCMUVOdUlTUHgtY2k5czBNVUZ4SEVYczAyMldfZUdMX01PNXdwekxXamtUazFDWFlSSjMzTGdIQXNSd2pXRmpzbDl2c0RZQVdSdHNoSG1mZ0hKbUlWa0x5YVdQd3o1cVNpSzNhSHBITE93S0wyTncxd2I2eDl1WFFNT1ZEcTQwUWtjZw?oc=5",
-        "date": "2026-06-16T14:00:00+00:00",
-        "source": "LM Neuquén"
+        "title": "Vaca Muerta explota: Argentina busca 43.000 talentos para alimentar el motor que genera dólares - El Economista",
+        "description": "Vaca Muerta explota: Argentina busca 43.000 talentos para alimentar el motor que genera dólares El Economista - Últimas noticias económicas y financieras",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjZYejAxaFFfdEF1cm1nZGJYX3pjNi1fSF83M2ExVzA2TFlxM2ROckRMR3U5ei0xM0FHSnphUjZNQkE4M2I3TUxuY3lQQXNIOHVzREZPRXFOZzJSU1NWTnUxNDVQWFVEYXpvSmFKSFNPMlhrb2h4eGxqTGx3enFaaVhqWG8xLWRQT0ZqMnJYNklNbGxvS2J5TlV6eFpUTFJjeHJPZE5XU0JaeTZDdDRSUXVJcVAwRXFPeFR0aF8wejZYQdIBxwFBVV95cUxPbXFYRXhoQkQxSVhKTzlPUFUyejdtRFdvemN6ZW10NlRlVTU5RWllNkUtRDl0ZnZaX1RPN1ZUNnBqSlg5dnd2Rlh5aHVWYzluWEFhMndUMEtjSmktTm5VeHBkOEdwbmc5V0JJTFhTMFE3LVpqT1dFYTNYYjBtbTJYb25tU3RsMVhRTkFEeVJXWFN6OVhnYzZndWV6YWk0RGN1Y2hBdExJODVlb2xBWWlBZFlRYk80Mm1pajRLcGcySE9iaHpTTVBF?oc=5",
+        "date": "2026-06-17T19:10:08+00:00",
+        "source": "El Economista - Últimas noticias económicas y financieras"
       },
       {
-        "title": "La estrategia del hub norte: cómo Tecpetrol tracciona a 800 pymes para llevar su nuevo bastión petrolero a los 70.000 barriles",
-        "description": "La estrategia del hub norte: cómo Tecpetrol tracciona a 800 pymes para llevar su nuevo bastión petrolero a los 70.000 barriles econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVll1SElUcmtjT2k4bnRkV2lzdUZ6NV9YU05WcnI1UjJlcks1TDBMWHQ3VlBZcXRDdlVsR3I2bC0tNE95T2xvLUdyZ0xBRmxMNGZTZXh2QTV6RjlLMFl5dW5ZRGhSX21NRkh1ZHhpX1A4bzFiXzNKNTUwVXdKQlU0Qlp1ZVdvYnBDNnROWDA2LXBvaHBLNFRoTGFocFcyWlRWOEFYcTlJbDFNU3VSZnpHZEhLcjJjV1p3YmdDeTVHUU4xQmlHa0xaVWl6ZjdvWWRpaUpBblE1ZWFuOTJPVFowZmRPV05WRFhQaF85RW5qWnlTMmprVGlXaA?oc=5",
-        "date": "2026-06-15T17:28:22+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Vaca Muerta: cómo la fiebre del petróleo redefine la ciudad, el empleo y la dinámica social",
+        "description": "Vaca Muerta: cómo la fiebre del petróleo redefine la ciudad, el empleo y la dinámica social Los Andes",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTIwZ3hqeDl5VUh2OFNTR29mM1Y0a2xuRlFNN2QyVVF2ZmtyeGcwazNZbDZiaF9EZFBVa19wNjIzbG9TUEV1elZyT1NxMnpOeW9wZFdJSVBCT1dINHQzX0hyQi1aa0tPVXBDaDVFd05hV1ZhdjN5QnEzbzlPUTFGSFd4U2FVSDdscXhKeG1pd1NxTFptUGpNT0pJS1FKMFVUdFdGZVdRUnlQTTAxRTJJQzNxY0QzbHdTYkwyUXpIam5LcTNvdVBsQkR4V3hrN2JU?oc=5",
+        "date": "2026-06-18T21:37:00+00:00",
+        "source": "Los Andes"
       },
       {
-        "title": "El olivar que nació en 2009 y este año alcanzó una producción récord en el corazón de Vaca Muerta",
-        "description": "El olivar que nació en 2009 y este año alcanzó una producción récord en el corazón de Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWTR3RnJLWkhLM2VPeXdFeXh1M3pUX3FMazRRc01Kczk1aHlObXdTYldxZjFVNThaWGpZQmxrXzEybVM1WG9aTTNQWk5WTkVnMndGWERWZmxzMTJtNTRwZm1INmp4cTd6a3RVcXFfd2NyOGlZWXFRSEdKVTBsZHZmWmEwZmhsTzR0ak9RcW1tOEI0RlJ1cTBLM1FNdERSZWFlZnJERFR1cmN2aUdBaVFxakFPQ3d4S3ZBQVVNNENIZVNwbnNHLUhpSENxS1hlXzdUNEMtdUZvTdIB3wFBVV95cUxOMWdCNVB6UUZfNnFRd3NZaDBBbWJ4SHJVb2hxR2ladi14QVFUSndSeXVBNXRxVkZMWEZXVDY0MXFxMXJ3aF9ZQjlMMl9hTTY5ZncwVWRRU09LMF9rWlNpbThTYV9zLVJ5cS0xWUQwUklLd1dfcUVKbFJ3WGo3X0xjNkllMlBjNDgzTDNWeVN5eHB3Y2FKa3ktZGxJU1l6WWZpMEZPUWluMVY1X3RROWxpSGVySE94NHdyMmZvN1JhUlVYbkNrVmQwdGhVT2oyRTh2V2FsQlBTR1AwdXRCbC1j?oc=5",
-        "date": "2026-06-16T23:18:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "Ni el AMBA ni el conurbano: la crisis de empleo y cierre de empresas golpea con más fuerza a las \"provincias p...",
+        "description": "Ni el AMBA ni el conurbano: la crisis de empleo y cierre de empresas golpea con más fuerza a las \"provincias p... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVHZCZWdDdHVITlRIMUh2clp3SUhnVDRkc2dJdGxFOWVNNlkwb0JBSG85ejlDMkxKb1JYdnVlZTBjMTFvelVjY0Fwc3M4SVNwcTRucWlydEFJdEdRbDFmNWt1d3ZmWWNMYU5WWmhOMXNxNTNEYmQxZU1wdlZuUkRIb1JJNnR0X2dCV3FlMjlHQzdMQjZtUHZib25pM3puNVE0WTlqWGxTQ1FsNk9hT1FQbGxKdC1BMUdzeWo5SkNlUk43SGphZWJ4RU5TMzR4THhwTVl6M1ZaRkZtdTRnbGQ1UWZjV3NFa2lwdDE3X2NjREdoVlN1aDdwZEpWRFZKaXBIaGdoVlpjZ9IBjAJBVV95cUxPVXlxV3JMMkxoUU9pMzFMWElPeExVdGh0TDZyNm5xUHA5N25qRlJqejRObDVvazhaWnlFd1Y0bGhsZGcxQ2VzSDloLVdHV0YtLXpTTUtuelFGLXQzWnlfSkJBbXZvYjY3aGtjcGN6Q1ZNTHZ4d0Z0bzdVbXhVYXlidEI5Sjd6YjJ3OGdDaFNvRGF0RXB3M3BBZTJjNUtNRTZ0U0ZTdnhaUHVyLTdmX0xteHROaThlM3loZHNBUFNEZmEza2piNWVsUVI0aE0ySjJ5RGdGeHlMV0I2M2c4aC0xSXpnaGcwQW9qR1BGeENlSjI4Wm1Yd1R2MVhkMUQ3ZklJX1VNLTBJM1VhTE11?oc=5",
+        "date": "2026-06-18T08:30:00+00:00",
+        "source": "Perfil"
       },
       {
-        "title": "Dypsa anunció una nueva preventa inmobiliaria en Vaca Muerta",
-        "description": "Dypsa anunció una nueva preventa inmobiliaria en Vaca Muerta Fortuna web",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnp5NVliM01fV0JLbm9tYXZubGtYYUhCVjZWSnZ3YlF6dWpGcHY1ODI0VUtZLVFJMFV4OFAzcmt6TGdSS0w0SFZGQUZuc3BTV1NSd0xTdzJYdmJURkJ6OEExREYtbDNtUmVUZ3d6OWRsSjBHMV9lNEUxeGhMeGVVNzdZWEdsX05MTHF1YUV4aEVCeUx2Q2JoMks5LW1fa0VEeXF0b3htbHI1OTE3T01aMjVkeEvSAboBQVVfeXFMTlBLSnZXY1VBdHhDaUo2VjVXYWM5OFkzVGwwX2ljMk1Jdi1SYmNGa0p2T09wbzZNdTBtMzU3QS1iSnVKVW9KVkRzSjBUcFM3M1BVRUp4bmlDTWhfY2NtMXgwN0R2cmJyZnRmY3B4LTl5YTFUYlFwXzJrMmZtYzIzMlRPVURTa0h3bFVPbHdBQ2FudzBxTEpoQVctTzBzY2p6c1JnZDNRQmtJcXAtWGVvM292WFpRbUs4Ylpn?oc=5",
-        "date": "2026-06-17T14:16:15+00:00",
-        "source": "Fortuna web"
+        "title": "Otra que el acuerdo secreto de Chevrón en Vaca Muerta: El INTA firmó un “acuerdo de confidencialidad” para poder p",
+        "description": "Otra que el acuerdo secreto de Chevrón en Vaca Muerta: El INTA firmó un “acuerdo de confidencialidad” para poder p Bichos de Campo",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaDNfUnZNS3BJR3pRd3V4WlBpODFRa0FiOGY5SFhSb1hGNFBHTnVhUldsZUU5b1ZfenctQ0xpQ2RhTEIxUV9xWUxDRDQwQUFfSldWODFqaTF1THJRX2g4NG1PcVktaEJkUV9taVdTdUVPY20xYVJaSTFPajhBRldwSEJYTUttbG40azVqYWNDQmNQZXQ0ZFdQVUhfQkZBbEpoZzYwLXNHSFBTcDNBZHJkNllqVGI3MllFaXlWRFRlU08yb3A4a3VXZW1fRkNBbXZjS2NJbHNYRm1VT2pvZUMyaFpLa3RQbU5VbjVSMzJPV1FXTU9JSDJqYg?oc=5",
+        "date": "2026-06-18T12:06:57+00:00",
+        "source": "Bichos de Campo"
       }
     ]
   }
