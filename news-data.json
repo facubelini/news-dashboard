@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T17:14:18Z",
+  "updated_at": "2026-06-19T19:41:59Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQS1vZVZpOTdHV0ZZYmN3bnY0Slpkb0s3Q0VXVm9GSVFjdGxhcWE3RXBiYUtTa3drcmlhNGhWaDA2RFFVbkoyb0FYd01GU2dteGxIczlDRkFxTmZGVzQ1SnpMdHVhdEdrUkVVTkxhS29sZ3RVNlZtOHFhWF95YTc0NnFkUHRPY19USnpnZXltZUx2Wm9USHBhOFRLbUR4Q21GdGJQc1JKMklDaW1WenUwSjRlY19KTmhmd0FoQ3lLTjTSAcYBQVVfeXFMTXB6LVhYM3dOeHhpbDhtOWRiVEJZNTU1bEV4V2NwTVVrMllxOFVrNW1zTTJxNzQyOEJqRDAzUmpoNkd0eHF5czB0SE5hU1ZVREdwZjc3VFQ1ZEF0bnU2M2pzeTJDWHFaZXNrUWNrU3dCWDAxQ2x0S2pLQjkzTXp4TzZJaWFUdll2ZGt1ZGlIb1c5NU5hZXlNcWt6NWVVLURUUnZBUVcxamZId0EyVGtZMFdpSGZPY2x4cUtTOWxXb2d4V1dZMXZB?oc=5",
         "date": "2026-06-18T11:20:00+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Microsoft analiza el uso de DeepSeek V4 ante los altos costos de los modelos de Claude",
+        "description": "Microsoft analiza el uso de DeepSeek V4 ante los altos costos de los modelos de Claude MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHZaUVFYcEpDTWNMWnV6X1RFVE5JZWtPblFhTkNmdjdlUVc5cmJqLUtHdjJfbTdEY1NEWHBnUEtsRGM3eHM5ZmNVV2Vmem05ZGR6NXg1LUhRNTk2V3QyOTNpbU03WE9yZDRLMVljaHVCRVduaE5RcGNOcEtKNlgtTXFPRUJSVXBHRTZpWWEwNUM1a3BkUFpudmRValVyU2lNeVFJOXRxZjJmaWpOclZlblZiT3rSAboBQVVfeXFMT01CSjRwMHlfeVZuUHNtVUZENEotYjBZT1hMYktpY0lEVE1IZW5fYmJ3X1RyZVg2bWVfMU9ZU3UwWU41TE1nbzRBUjBRdk9yejNXQ0p5ckpMNGtjNmZOTEE5MmlaNnpjOXcwdnl3WDhKNE40cjNoYzBRYzU3eVUxQ2NBRExEMmpvVWExMWRuT09iTjM0VGVMMkdkLWJyLU1KZkotdUxvN0lZdDZWS3pZU0pFTXRWOXA0NGJB?oc=5",
+        "date": "2026-06-19T17:00:00+00:00",
+        "source": "MDZ Online"
       },
       {
         "title": "Microsoft libera PowerToys 0.100 para celebrar su aniversario",
@@ -31,13 +38,6 @@
         "source": "3DJuegos"
       },
       {
-        "title": "SpaceX ya vale más que Amazon y se acerca a Microsoft, pero los analistas tienen dudas",
-        "description": "SpaceX ya vale más que Amazon y se acerca a Microsoft, pero los analistas tienen dudas El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1ZDa2NLbTF5bzdyU1FTWUx0NFVIcS01WlBpeW5zelhhaGxTSjBSLTI1dERVMnNTRkFvQXBsbUJrQncxZm1rLXVhLTR2WlNiTF9qT0l6Y1J3UVVJSzI4b2pJX1JWM1dIVDJYTS1tdVBxV0p5c01JaGdRR3gxMTd3VnZOYmtzaE53MnVVdVZkd3ZlT2paSWpyelVOUXd5NTZsVkEwejBDM2JjM25rZVY3cExibkV2N3JOOTVHZjhBWVZnOV8ycUZkUzZqbUtYMUpVdEHSAewBQVVfeXFMUHZSM3lldkVHNm5MUkpMMkpsQ0EtVjhKRHJvUmVmdnlfM3JMUWFjSm85OVdydlhTeG95UEtiZktGejdnd3g2eE51SWRZcmQ1RnhPUk1KYWRtc2JyXzdtMC1ZSmVSUXFiRVBqVVYzYUtlTndmV3B4U1QyQVh4dnR1VTBPX1RRSWx5QnRVVHBfZzlkWmlFaTA1ZUthNDYwNVhMY2dxejdoRGlZSEI4eVNGQzV0dnhndzJVSDdrLVFyYm9DYmJBLWlqTVJhbFNhY0hOTzI3M09JdW80U09EWkxvbldGTHJ6bV9UVzBHMmg?oc=5",
-        "date": "2026-06-16T18:53:47+00:00",
-        "source": "El Cronista"
-      },
-      {
         "title": "SpaceX llega a superar en capitalización a Amazon y Microsoft, y anuncia la compra de Cursor por 60.000 millones",
         "description": "SpaceX llega a superar en capitalización a Amazon y Microsoft, y anuncia la compra de Cursor por 60.000 millones Cinco Días",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOM3RXdTZlNUhYLVhrYzV3VjV1bDVzOGFTcWpwV0lzSFg4cXFyTjdFR25TUDRRYkhwWUlSZlEzU0E3NXQtc0lVTDBIakJISGlkYVBkQlNCU2t0cUZwUVlzX0d0N0VnZGZKT0hhY0E5UEh6NU4xN0FkSFpNMGc2ZDlmRlJiMldnUGEzUEtJcEREMVFwY0tOZE55dFFEejMtQVZ5dDZ3bC1JR3pTN0puWllkcFBDWmhmQ0lVdHQyd2JSNURmUlZPQVVNYmk5OU1sR1g2Q1BxUnVpdTR0N0ZsenpBWVlTbU02Qk9JU1hqM0RFd9IBgwJBVV95cUxPMGN3NlNITGxkc0x3MmJIZ2dHRXlKZkNDZ09zOHg2cnFwdVpxOVl2MzQ4YlBJRUN6UnBlN09fLWNSZmR4T2YwV0VrVkFCbXV3cndSZlZURFVIVGc0aHpNcUFPZFFCT3JQS1MzQmROSW5zb3hBd0phcW5oRmQ4QVJ5NFhsRjhaOW1UMVQyVkM3TVVxN2RwWEF4YV9faGcxdTJIRndoeTNOTmVoMGQzSmtQWDJraTNISzYyNHNQODBReS02bFhNZm1IWWl3bzVWTkdqVHNLYnFiN2xWcXI3X2xTV3dxQ1IyakVUYUpxQ3hPdWU0VW5OYTFCODJ5Q3dvX2dHLVFZ?oc=5",
@@ -45,11 +45,11 @@
         "source": "Cinco Días"
       },
       {
-        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
-        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
-        "date": "2026-05-22T07:00:00+00:00",
-        "source": "Xataka"
+        "title": "SpaceX ya vale más que Amazon y se acerca a Microsoft, pero los analistas tienen dudas",
+        "description": "SpaceX ya vale más que Amazon y se acerca a Microsoft, pero los analistas tienen dudas El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc1ZDa2NLbTF5bzdyU1FTWUx0NFVIcS01WlBpeW5zelhhaGxTSjBSLTI1dERVMnNTRkFvQXBsbUJrQncxZm1rLXVhLTR2WlNiTF9qT0l6Y1J3UVVJSzI4b2pJX1JWM1dIVDJYTS1tdVBxV0p5c01JaGdRR3gxMTd3VnZOYmtzaE53MnVVdVZkd3ZlT2paSWpyelVOUXd5NTZsVkEwejBDM2JjM25rZVY3cExibkV2N3JOOTVHZjhBWVZnOV8ycUZkUzZqbUtYMUpVdEHSAewBQVVfeXFMUHZSM3lldkVHNm5MUkpMMkpsQ0EtVjhKRHJvUmVmdnlfM3JMUWFjSm85OVdydlhTeG95UEtiZktGejdnd3g2eE51SWRZcmQ1RnhPUk1KYWRtc2JyXzdtMC1ZSmVSUXFiRVBqVVYzYUtlTndmV3B4U1QyQVh4dnR1VTBPX1RRSWx5QnRVVHBfZzlkWmlFaTA1ZUthNDYwNVhMY2dxejdoRGlZSEI4eVNGQzV0dnhndzJVSDdrLVFyYm9DYmJBLWlqTVJhbFNhY0hOTzI3M09JdW80U09EWkxvbldGTHJ6bV9UVzBHMmg?oc=5",
+        "date": "2026-06-16T18:53:47+00:00",
+        "source": "El Cronista"
       }
     ],
     "Marketing": [
@@ -68,18 +68,18 @@
         "source": "Bache3000"
       },
       {
-        "title": "¿Buscas tienda online? ECommers revela las 9 plataformas top",
-        "description": "¿Buscas tienda online? ECommers revela las 9 plataformas top Urgente24",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0h3UU5QbmxDWWUydXduSVMwV1VQTjAzdWFrVlFOSUQwMU5mVy1sTXVTdkZ6THZ3VGpuelQ4Z25WYW1iUmlaSUkwS2Q3YkkwRDc1VFQ3Z054NVJtLTBWM2xvLWwtYW9DZGFKdE5VM1gtS1RpQVVfcmY1Mk9qYWYxOUMtczVoMHRMUXhwTzNTT0Y1Snk5NlpaTTZ30gGfAUFVX3lxTE15X1U4UGd2YnA1ZkRUM0JaVVFTTndDaW0wWElESmlZZGR3RmdzS1dISGxkNzlzdlEtRHlWNlZIRHc4cFJqalZiaWFHakJGdVlCcVRpRjMzTzlEWmhqOEVnTkNPWjBCa0NzcEpMMmYxMk5rTk1Pc2tCUi1VWjJYSnBTRWVzclRpcDdDY1A4Y3kwUWluZ05XRkttSFpQMXg2QQ?oc=5",
-        "date": "2026-06-19T15:42:00+00:00",
-        "source": "Urgente24"
-      },
-      {
         "title": "Aprendé cómo hacer crecer tu negocio: participá de la ExpoDigital Salta Emprende",
         "description": "Aprendé cómo hacer crecer tu negocio: participá de la ExpoDigital Salta Emprende Municipalidad de Salta",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0lINFN2dTRSekV4aVo3aGdGVGR0dlF4UjdJTjNDZXRSMlpZckIzYWQxSFZ5c2hWUjhlRjZXSW9MR2gyR0VpQnBDWXJTS1AyZmxQLVR1bm5rN0dIYmNPcUl2V3kwSHQwbm04QzU0QVB4bm9OSmxybWlGNWNYUjB1VzFrMXk1LWc0Z1NRU2prYXlMOXVDcWFsbXRhdUs1VGI1eG9LM2lrNVdXNWJYeE45ZzcxX19aUHpNS3hNVE9B?oc=5",
         "date": "2026-06-16T15:11:55+00:00",
         "source": "Municipalidad de Salta"
+      },
+      {
+        "title": "¿Buscas tienda online? ECommers revela las 9 plataformas top",
+        "description": "¿Buscas tienda online? ECommers revela las 9 plataformas top Urgente24",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0h3UU5QbmxDWWUydXduSVMwV1VQTjAzdWFrVlFOSUQwMU5mVy1sTXVTdkZ6THZ3VGpuelQ4Z25WYW1iUmlaSUkwS2Q3YkkwRDc1VFQ3Z054NVJtLTBWM2xvLWwtYW9DZGFKdE5VM1gtS1RpQVVfcmY1Mk9qYWYxOUMtczVoMHRMUXhwTzNTT0Y1Snk5NlpaTTZ30gGfAUFVX3lxTE15X1U4UGd2YnA1ZkRUM0JaVVFTTndDaW0wWElESmlZZGR3RmdzS1dISGxkNzlzdlEtRHlWNlZIRHc4cFJqalZiaWFHakJGdVlCcVRpRjMzTzlEWmhqOEVnTkNPWjBCa0NzcEpMMmYxMk5rTk1Pc2tCUi1VWjJYSnBTRWVzclRpcDdDY1A4Y3kwUWluZ05XRkttSFpQMXg2QQ?oc=5",
+        "date": "2026-06-19T15:42:00+00:00",
+        "source": "Urgente24"
       },
       {
         "title": "Marketing digital en tiempos de IA, cuando Google no es suficiente",
@@ -112,20 +112,6 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Estudiantes de escuelas rurales participaron de talleres de innovación con inteligencia artificial",
-        "description": "Estudiantes de escuelas rurales participaron de talleres de innovación con inteligencia artificial · Gobierno de Córdoba",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT21SMTlQVkVNWjFZWElJSW9jMGF5MW51ZFZsYWZXU285Y1JmdkQwUU5FQmstZElsdnk3MnZKQWFFUmE0bnhpUGN1UUhXOURHd3daR3FQQTdQNFNVOVhhSHZyU3VUNHYzMmpOVnJtUE9DRU54bHBDNkd3S1ZqWl9NV2JCSzZ1b3RTTkxteDZtUUgtZ3VfZkkweGJRaGpEU2daeVJDTmRMOHQ1MUlxZjZ3QlVEc2JPM3dBOS1Db2piZDhMMnZIdWp3OUpsSDRRbmcwdHM4?oc=5",
-        "date": "2026-06-19T16:03:00+00:00",
-        "source": "· Gobierno de Córdoba"
-      },
-      {
-        "title": "Noam Shazeer, referente de IA de Google, deja la compañía para unirse a OpenAI",
-        "description": "Noam Shazeer, referente de IA de Google, deja la compañía para unirse a OpenAI La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3oxYXV2RlhjcTJDM1BIUjRqVXU4VURHQVAxVDBVNFhlMXp0cm9OcEszNlNvR1MwYmpMVXhsYkpwMFd1bThTLTFtakNEOHBJaWYzWnFwdUNnc2tZQldULS1PX1lGbmgzTUxVLU1YdW82V3pTTWZNdXh0ajBDMTVqSUdLVkVlRE9CZUFfeWJoWkY5RGV5bktUZ2ZRNXNaUE02ZHAzQU01SGo4SUlXUzVrQlVZcEYtVkNoYVFQS095TnFCYWk1cXEwUg?oc=5",
-        "date": "2026-06-19T15:09:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "China elimina 12.000 carreras universitarias por la inteligencia artificial: cuál es el pronóstico para Argentina",
         "description": "China elimina 12.000 carreras universitarias por la inteligencia artificial: cuál es el pronóstico para Argentina La Voz del Interior",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmNreDJ0X09uaGswellCTGJuMzJpVzYxWklqXzdOVTlUb0pmeVNzYWRsQXpGQy1POUVLTVd0VkJWVnNvdWNyRWl6M0J4amF0WlU5RGtXYkNpRWpaMzJQOTNxOHRWdTdSeU0wYWItRDE0QWQ0WU5nRUp0YTF3T0I4THk2aEZ6TVFsZkRPSi1kd2Nxd3ZkWnVoS2ZSaFlkQy10ZDNHanllc3EyWEhMTkVtdUhJcl9tZ2FQa2llbGNJNjkzRjlMb0FjQVNjRldBREJtak1jbmRPUEV0UQ?oc=5",
@@ -133,34 +119,62 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "La imagen y la voz frente a la inteligencia artificial generativa (a la luz de la enciclica Magnica Humanitas)",
-        "description": "La imagen y la voz frente a la inteligencia artificial generativa (a la luz de la enciclica Magnica Humanitas) Abogados.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdnJUaFAzejVPMkd6TU9SOWpqVTg2bG5SeTBmcFNtbmlldUZNWlNQcGdmME15aWx2TU1jQl9jVWhyQXlDeWttd1djbWdzOHNYZlA4RFlGUHBFdTN5MkhRbDIxX1hvMXZWTnZVOVROYmprbzNmbFIyTVZyRTdqRUo3SXZyWllfZWlOUWIzb1JxUlF0U3ItcHluM1g2SXJ1c280eWh5dFVEaUl2TW0xTFFMbzBGcUpZcWR2NWlhYTlxYTBBbW1tZjZQY1Y0MWlDOFlPRWVLSw?oc=5",
-        "date": "2026-06-18T02:38:42+00:00",
-        "source": "Abogados.com.ar"
+        "title": "Un experto en IA reveló qué es lo primero que haría si mañana apareciera una superinteligencia superior a todos los humanos - TN",
+        "description": "Un experto en IA reveló qué es lo primero que haría si mañana apareciera una superinteligencia superior a todos los humanos TN",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQWstLTRqWTlrSFUzVllzUW8zaEpqUUE2bE9Cc0hrYWVBb0MzZnFvdzNXQmYwQUlKZUhvTWNOUVR1bHRYdjMtOHhvMlBsZ01vYmthQjROMGxrTFE1T1hBYXFXRFN1TTZUVGp5cm1NV01ILUF5V3hVeEZnWVZkNk9fYnNEU2w1cUp0UDJPUkI3RXl2al91TVhfcTl0RHdYUEhmMXhCRG9fZEVVRUNVakhsMnNhY0dBMC1qcmZoYjNLUHhqb3JtSU9mYnpFUkxpT24xU0F1MTZaOTNFS1VVOFM3bFdsSzRtbG5kakQzUWZGYlp1V2lEU0E3NTdIcHjSAZACQVVfeXFMTUYxNmxXVkRoWnJ1ZUNSaHMxcHhUVGlRWFZKMkJBRmhOQ194bWo4MzU3cG93LUoxblpmSUNZVy15WVMxWVpqTGpYRGZBeU1FWThyNFlSTUZrSzhuM0ZKdE1Obm9rOXJwMnEtb2xWLTZud1pKX2Q3OUF4TWd0YnBUNXQyVkxsaUpIT05jSmxnOWNCcVJvbW9pR2Zzemw3aHNTWjc0MzJhTDFESERkOHBsNlZRYnBNRzVmNWxMcldTV0lFcDZsM0RfZjdvc2JHbzRfYWVzTGt2cDV1Um9OUW94LVBXdWwyVGYxVTV3MjdIbWZUQmZhaW1hYTFCYkk1X19iS0VVRXJUNmtGUHBvMDNndEI?oc=5",
+        "date": "2026-06-19T17:33:34+00:00",
+        "source": "TN"
       },
       {
-        "title": "Experiencia Innovación Sostenible: el capital humano, la verdadera ventaja competitiva en tiempos de Inteligencia Artificial",
-        "description": "Experiencia Innovación Sostenible: el capital humano, la verdadera ventaja competitiva en tiempos de Inteligencia Artificial La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOV3FCY3dLXzRYTzlyWFBhek1QSWphLTZIYUJwbHhDRnVTTll5bjJCRlVYYUdOODdXQ1VGLThTc25TYzlXN1hKcHlmSV9QVnFlU3RSSmhPLXNJTUZ3cUg3d0kyQ0psREYyMDNQTmtWXzJ6TUVJZ0lraGp3dGVlZlV1Y3NHMGJFVlJtNDNqWUQ0V0JsNnZMMnhvUHBzMVdTUzhKQ0d2ZWREekRhUHZTZWJBQ0MwN01IMG1NMkR5WmJGY2xDT1lLcG14YXJDTTBNNUNKcThwNHlQVTJRRnlhR2xMSHBobi1HbEhpNk1xUjh3TWpFWU5hZkxaV9IB_gFBVV95cUxPbVV0dU1PWkotWmR1SGNjcUN1VW1qQW51bDdhZVV1cGtJUmdlZk1iak1pQTVmaWVGUHNHS0NLaTA0UXhWWEQ4UnJmWVFwb1lhOTBXVHZsdnNtek90bE9SaWlNVkpISTNzWlhod3htZnpmWVU1M21UdHktR2J3VDRTM0s1MjYtczUyS2J5UmN6OE1JTVF1LWZVeDdkV25uZDZMOHpHY01wbDByVVJJSm9vNTZEc3dTamhuMFhYOGgybHVHaUpXbW9qVzRZWWE5WUZweW9WVDhaTmRHbkNhWWIwcC02X1JQYVg2cXdCdDFmR1RPclhfcVFta1FlT3k1UQ?oc=5",
-        "date": "2026-06-18T23:14:12+00:00",
-        "source": "La Gaceta"
+        "title": "Estudiantes de escuelas rurales participaron de talleres de innovación con inteligencia artificial",
+        "description": "Estudiantes de escuelas rurales participaron de talleres de innovación con inteligencia artificial · Gobierno de Córdoba",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT21SMTlQVkVNWjFZWElJSW9jMGF5MW51ZFZsYWZXU285Y1JmdkQwUU5FQmstZElsdnk3MnZKQWFFUmE0bnhpUGN1UUhXOURHd3daR3FQQTdQNFNVOVhhSHZyU3VUNHYzMmpOVnJtUE9DRU54bHBDNkd3S1ZqWl9NV2JCSzZ1b3RTTkxteDZtUUgtZ3VfZkkweGJRaGpEU2daeVJDTmRMOHQ1MUlxZjZ3QlVEc2JPM3dBOS1Db2piZDhMMnZIdWp3OUpsSDRRbmcwdHM4?oc=5",
+        "date": "2026-06-19T16:03:00+00:00",
+        "source": "· Gobierno de Córdoba"
       },
       {
-        "title": "Las relaciones con inteligencia artificial crecen en Estados Unidos y ya preocupan a psicólogos por sus efectos en la salud mental",
-        "description": "Las relaciones con inteligencia artificial crecen en Estados Unidos y ya preocupan a psicólogos por sus efectos en la salud mental Infobae",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPazhoMnQtVDdDVnFTRmUwYTNyWWFaRDBkSHNwSmV2eVNKelNZVVUtYnRnZUxTLWgxRDktUkNRWlAwcXhZWXdHOE9kTHdUcFlOd2pwdnZCdXJKRG9USlNaTlU1MjhIaUpzcUpXVFBFNVFoWmNXX19fOUtKMU1FU3RPZEh6OWZ1U21ILWllX18zSk9nYzZhaXNLYXFwRkcyN3dsZUc3RGIyMG5jWllSdVNjN1lmeExreE1VWU55bThJWC1IbHRHVHR6a05KdzZsS2NBQWtncUtONWQzMXdEaVc0SUlleTI4SG5JSThCczhpVGlkU3c2ZF8tSEthckZ2X2RKblJFcE5KQ3dpSFgwM0HSAagCQVVfeXFMTUJpeXhUMFNJam9ndFNSbFJGZHRXZ0ZFQWVIcGc0YlRMVVJ0R0owMkJOSnlHMTllS1ctcU5vMGM4TGpTOUFMbWY0azRnREpNaVZVWlhCRWVFYnBaWG43QWs0T0c5bGRfMktDT2NqYWtNOW9MVHQ3d0JQNkNXbGo1UHdjN2d3THRuUnlSbzcwWkRmeFNSMXBxUEZXVkR3cnVOTzZ0SHc4TlhpajVsbzdDZDNxcWx6YVk4UGtJTjFvRVVPa0FsYW96TXZDNDBhZUZTOThGZkdxSm1TZG9ZWlNlR0FpT211Y2piU0ZBU24zQ0p0QlVpZTRNMWJ3QWw5ZTV5dUlQbzJqZFRvR01FUE5HVk9FTzgyMFVENWhwalVLX2Nsd214eGFndEk?oc=5",
-        "date": "2026-06-18T19:36:00+00:00",
+        "title": "La inteligencia artificial ayudó a diagnosticar a 18 niños con enfermedades raras que desconcertaban a los médicos",
+        "description": "La inteligencia artificial ayudó a diagnosticar a 18 niños con enfermedades raras que desconcertaban a los médicos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMElGOXFsSFg5ZGVzV25BYl9ZZFV5YnlzSFhHYlphdnZ2VV9RRG5nV3ZyeEUyUHlEUndieEstdzV1WkhWNmlyTnBFenFOaGZ4Rmw2T3JCeE1tWlVRM3ZXWE5tRVZfaTM4R2tKWkg3MG85Si1tUGZoaF9OVjRQSWlmOHd6ekVKUUVIWTIyejZ6QW1fd1U3bDE1SUxFTS1vNlRZSUFYVFI5QUZhYlduRTkzVzdrcDNWeGVPU0hGRG1jREkwR0UzMUlYVElXUUpELW5sRGt0RHdIWGdMSXFDSTl1VkdLNnlpekEzeC1ITGV6UVVhdGUtRUlKSdIBkwJBVV95cUxQRTdlTmhWLVl0Sjhzc3BZOTNjVGV1T2lQQ3N2T2xaelZzQmJNRVZ4eThyM0hIek1nX0xSX3djLVFkUlBiTjQ5NFM3Qzg3TTlXdHhnVXU1T21CeEhpWnMzR3ZKLWNUQmV0UzVDYVhGVXJkQ1RTVzgtNlVoYmdYYXBtdC04TjFIT2Y4UHpPZEZUSDR5N3pSQkVkTV9hZU9JRDNYV0UxS1BrSnlCU1BfWTl4bWNzRUtqVkY2Qkw4emRTVmxZLUlQNzZEMUNPX1pFNDhuNHQzVnRCZ2tnRjlERHdPazk4ajZRQWN6UnNHdXQySGoyZ0NlQ2lqTHVXTFdMRWVGbEdkeVFzQ19uaGlSbTc3ZGJjNA?oc=5",
+        "date": "2026-06-19T17:33:25+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Inteligencia Artificial: jornadas de capacitación reunieron a 200 integrantes del Poder Judicial y profesionales de la abogacía en Cipolletti y Roca – Comunicación Judicial",
+        "description": "Inteligencia Artificial: jornadas de capacitación reunieron a 200 integrantes del Poder Judicial y profesionales de la abogacía en Cipolletti y Roca – Comunicación Judicial Poder Judicial de la Provincia de Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR0VOSjJJUHpYVzRYNzQtTmo1b1Q1SENIaDFSbUQySzB3UUR4U1QyNXV4NU5rcjUzcHItb0dUcmhSNFRjWnA5SGFqUWdzMmJHeGotNzhWNHFfbmk0MEg2ZGhJZk1iMy1xRE1FeHhFUFJKaU1qbEozNWRWQXNXNVlrbUpOTkJmT1JJYkl1dmxGSXRZOXVrVmNFY3dRbVhMTTJvR0ZIV3RMSm9GWlNaQlNwc01ITkJ3N3JRU18wWlZKVE04U0VNdUd1RkZsdVhwaTRnT3JxbUNpUkFXMHZBekt2RGVVV1JFRnlIZVc3am5LUkJFX0ltMUJUTnZQT1BMNGJJUVM4NGlDZXlnVEcycmpBZkhQV0tORGV1dHFodFhlWG9lZw?oc=5",
+        "date": "2026-06-19T18:03:21+00:00",
+        "source": "Poder Judicial de la Provincia de Río Negro"
+      },
+      {
+        "title": "Un informe reveló cuál es el país que más usa inteligencia artificial en el mundo",
+        "description": "Un informe reveló cuál es el país que más usa inteligencia artificial en el mundo La Nación",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2o0UDFBWkJsZXk3LUNGNmRJOFZSYzBKUjNWRUNWYTBnR0RseF9RbUxRMTlwbWg3NzcxWWk5QVR3dHEzN29DcUYzQ3pBNEtwR0xVQVZDYWJsamZUQ2dlX1BhRzFVbTlmOXBvSzJVNlZMVEVBZXNQQ1gwbTQ2RUQ3ampFXzVRQ291S00tZ1BNSlVXOFFrcWdUc2xfTjRKZGdCRW00MzhTR3llN2FXU2h6VkJyTmFtWkhYb3FObWNWOTdGdFFkbmM5MkFHUkJRQQ?oc=5",
+        "date": "2026-06-18T20:06:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "El boom de Vaca Muerta pone en jaque a Añelo: la ciudad creció un 142% y la infraestructura no alcanza",
-        "description": "El boom de Vaca Muerta pone en jaque a Añelo: la ciudad creció un 142% y la infraestructura no alcanza Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWVUSVpjZjBBZWcybTg1dFg1SGwyVUNvMElJX09Ha3R4RFhyMEdZQi1QVzlBcDgtREU0ckd3d0R5bDg5aFhmSDY5Ti1fdU1uUkJYYldiWkRicGYxeVladFdMR0tnYUFUXzN3QW43MFpUUTFmWFY3UXIzb0g4cWVPMGVSOEhvREFOY1Q1QlBLMWJoSnF1dG1sem5RR3AzUmVjWEdpc3liamNleG5pNEhBcEgxb0lsTEFVSEZrMmZ4eWJsR2xYSnUyVlJfTUZJcjdPVzhCUnFUR2lPUEZoZWfSAfgBQVVfeXFMTVFES0FEZ2R5czdMNG51Y3dPVGNaeUJxd0RZbEhRanYwZWp0d2YwSkR4MlVyb0tuT2RCRnIyWS1CTE1IVXJzVjZPY3dBc2Q2R3FPcGlBd09jNmkxLVF4Wmd1Sk5iNGNFM2hiYnF3RzEyUFdBWFBXeTRiTmVIX3RVSW8tSUtlUFoxNUNzeHlNelV3aGZJcjZ6cGgwbFJlamJMcXczZTdCY0NuU1dQT05wTnlNM3R4bGRHV1BDRzI2bU5XR2hhUXNFdy05RkVxVVdTSkx6MUtVQWp2X1BJcW04SG5ma280Vk1GVFhVOHRwVjV2XzRiTjk4RWI?oc=5",
-        "date": "2026-06-19T15:34:00+00:00",
-        "source": "Infobae"
+        "title": "Argentina LNG: SACDE y Tecnimont se adjudican una licitación para diseñar y construir una mega planta de separación de gas natural en Vaca Muerta",
+        "description": "Argentina LNG: SACDE y Tecnimont se adjudican una licitación para diseñar y construir una mega planta de separación de gas natural en Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWVQbGdqVmRpYjFUd3lPRUpHamRFdGVNMmhMbXdSaGpfcW1hSEV0ZlUxQmRMNkktU0hzTHlGb0VvRjZfcTIxTTNKTWpvS3VCUGVULVdSUjVyLVN1ejZ1MjlxOW1HRDl0cjcxVVY0Z1ZkT2FxQ0RacVVYdlVPQlF1am9iSnRwQW1lTXU0R3kxZ0VuSzhVVE92eUJWRGo5dk5tajhCclRMcTdvMnRyd2lfNGFZbDIyWTVJRHZGMHAtdkF6dVkzUUZNYlRWcmd6ZmlLbFY2WHYxaU8yWVdIZGJjbTJsbFQwcUQ5dWQ5dHVOWjg5LURlcExOdElrNnJuc2g1bGpMTXJ0eVJpR3RkVGc?oc=5",
+        "date": "2026-06-19T12:40:49+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Fuerte apoyo de Plaza Huincul y Cutral Co al proyecto de GNL",
+        "description": "Fuerte apoyo de Plaza Huincul y Cutral Co al proyecto de GNL Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUF9KVmtFbnFnM2lVNEgzY2VfdS1JQVNJeUFubTZxemxnSHhieFhsZ0tCdmpGcGl4Ym5OZGpsMTY3R3F4N1pRT3d1bWo1UTZrWmNCc3g5UlY5YlFHUjE4WXp5R3owenZWejdGWkRjUzYtaVFNQnFXNmNuZ2Npb3VxSExMSXJxYVBMVDg1WlU3a1VnMXVEODhVSmluQUEwTHY0VXZMREp6ZDEyRFBpZnlyTjBfSUxQSXVHdUtfbm9R0gHDAUFVX3lxTE9lTHM5VmVnY19qZm9TWUtPVjFqQzdFY2sxeUpURkgxWVJHbnBKbWJjNUVTRzJmV25pUTkzTEN5X19oWnpFV3hRVkRPNHhoTFFFdmhjRkphMzZXd042eVJWaWwyei1FemU1blUzaDBCSldOcXRLQl9CakpKclVYVkxLbTRWU2ZUVmJ0ZjVCaXdCUS03VlhMMXJQaTRKMTNFQmxIRjZvXzFBNUFGRWcwS0JaR3ZTWS1kM2RTVVBFclZYTl9aRQ?oc=5",
+        "date": "2026-06-18T22:06:59+00:00",
+        "source": "Neuquen Informa"
+      },
+      {
+        "title": "Multimillonario indio desembarca en Argentina y apuesta al negocio del GNL de Vaca Muerta",
+        "description": "Multimillonario indio desembarca en Argentina y apuesta al negocio del GNL de Vaca Muerta Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORVljLS0yNUhNOE03dFAxUEpFYy1VdmZCVEQyMDNXRDVrSVJqOUlNZm5CQ1J5ZVhpbW9icFJ6NzlTdWp6VGtEdDNDYzhnZjRFaDgzYUdSNjFMR01NbGsxM3pFd1FBLXhYcjZVd29hU2RaT3ZfZmxzcTBhRktMcXNoWWowTWpJRE1oZkt4VDBOUXVld0JtRllCTWptNG1vWE5udkcwSFBqSE5LOU5KU3lxcHFMVmZ4Z29RNDhsOTdSSUc?oc=5",
+        "date": "2026-06-16T19:34:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Vaca Muerta: el intendente de Añelo pidió que no lleguen familias sin trabajo",
@@ -170,6 +184,13 @@
         "source": "Cadena 3 Argentina"
       },
       {
+        "title": "El boom de Vaca Muerta pone en jaque a Añelo: la ciudad creció un 142% y la infraestructura no alcanza",
+        "description": "El boom de Vaca Muerta pone en jaque a Añelo: la ciudad creció un 142% y la infraestructura no alcanza Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWVUSVpjZjBBZWcybTg1dFg1SGwyVUNvMElJX09Ha3R4RFhyMEdZQi1QVzlBcDgtREU0ckd3d0R5bDg5aFhmSDY5Ti1fdU1uUkJYYldiWkRicGYxeVladFdMR0tnYUFUXzN3QW43MFpUUTFmWFY3UXIzb0g4cWVPMGVSOEhvREFOY1Q1QlBLMWJoSnF1dG1sem5RR3AzUmVjWEdpc3liamNleG5pNEhBcEgxb0lsTEFVSEZrMmZ4eWJsR2xYSnUyVlJfTUZJcjdPVzhCUnFUR2lPUEZoZWfSAfgBQVVfeXFMTVFES0FEZ2R5czdMNG51Y3dPVGNaeUJxd0RZbEhRanYwZWp0d2YwSkR4MlVyb0tuT2RCRnIyWS1CTE1IVXJzVjZPY3dBc2Q2R3FPcGlBd09jNmkxLVF4Wmd1Sk5iNGNFM2hiYnF3RzEyUFdBWFBXeTRiTmVIX3RVSW8tSUtlUFoxNUNzeHlNelV3aGZJcjZ6cGgwbFJlamJMcXczZTdCY0NuU1dQT05wTnlNM3R4bGRHV1BDRzI2bU5XR2hhUXNFdy05RkVxVVdTSkx6MUtVQWp2X1BJcW04SG5ma280Vk1GVFhVOHRwVjV2XzRiTjk4RWI?oc=5",
+        "date": "2026-06-19T14:43:06+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "El ruego del intendente de Añelo por el colapso de servicios en Vaca Muerta: “Les pido a las familias que no vengan”",
         "description": "El ruego del intendente de Añelo por el colapso de servicios en Vaca Muerta: “Les pido a las familias que no vengan” La Voz del Interior",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2JwNTNVZklDUTBacldPYTdGZHRJb0NGVU1KUURCa3pIM1h6eUNGNHozQXN4WkoyQThVT3RCUGppNHRFaXBtRHczZHlZVGlsd1RPTE1uQmNxQW5iZGZDcXNoSGdySWJ6OVJZTE0xUEpBSmdJQ3JrR0E5UE51eC1wOFNHVG03b3R5VjJnT0Y1VW1MMG85R04ySWpWV2ZlU3BpMHFoZkwzREcyT3FnMm9MSmJ2VWVpVHRZNzBtenVwbl9XaUs5Mnc?oc=5",
@@ -177,32 +198,11 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "El intendente del corazón de Vaca Muerta advirtió por la falta de infraestructura: \"Les pido a las familias que no vengan\"",
-        "description": "El intendente del corazón de Vaca Muerta advirtió por la falta de infraestructura: \"Les pido a las familias que no vengan\" Somos Jujuy",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmtJVEpUQi1rWnNhV2YxSEhiYmVUaXYtQjRFSmZiMlJUUlQ4S3RMYmVUV1pMZ3Z3MkVHdE9NYzVFMTJHS2FKNWN2eDlMMWExSk1fWmtxLTZPWmtReFVnUXdfWWYzblZwYnd0bHFhaGg4MmFJQ0I1XzV2RndaOWNjS3M4TDZmSlVtVEZxTXpmUVVDbXd4ZGgxTHpfY3lxQ1N4SnpuZmxkOUFhUDFnakJKcTlkLTJSb0ttV2c3YmZ1dTVZNEJoaEQ0YnV0TXlkcWp6Z3JrNtIB2gFBVV95cUxOcFV1T1lqZkR2V3dOb2ZaSXVNUDRySjlTVXpWV2RPaDFyYUVOOWsxX2lGTHM1R3U0eC1BX0o4UDFMTG9sSnVhNWdYcVVQQmlkSTFiVnBYamdSa0dUVzVONDhodmVMREE1RTgtOUtQMTUtSUZGb0lyc0lraDBxeC1GQmV2SU9EZ0RqTTBEczdFQmVpNHJzRGU1bnBEQVdYT2RxQnJGWFNtQ1I5ZEcxV2RPOVRteXRvbVVMa1p0T0w3dXdXZ0EzaUUwVE05UnA4LVZyNmtLY1h2eUx0QQ?oc=5",
-        "date": "2026-06-18T21:54:00+00:00",
-        "source": "Somos Jujuy"
-      },
-      {
-        "title": "Argentina LNG: SACDE y Tecnimont se adjudican una licitación para diseñar y construir una mega planta de separación de gas natural en Vaca Muerta",
-        "description": "Argentina LNG: SACDE y Tecnimont se adjudican una licitación para diseñar y construir una mega planta de separación de gas natural en Vaca Muerta econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWVQbGdqVmRpYjFUd3lPRUpHamRFdGVNMmhMbXdSaGpfcW1hSEV0ZlUxQmRMNkktU0hzTHlGb0VvRjZfcTIxTTNKTWpvS3VCUGVULVdSUjVyLVN1ejZ1MjlxOW1HRDl0cjcxVVY0Z1ZkT2FxQ0RacVVYdlVPQlF1am9iSnRwQW1lTXU0R3kxZ0VuSzhVVE92eUJWRGo5dk5tajhCclRMcTdvMnRyd2lfNGFZbDIyWTVJRHZGMHAtdkF6dVkzUUZNYlRWcmd6ZmlLbFY2WHYxaU8yWVdIZGJjbTJsbFQwcUQ5dWQ5dHVOWjg5LURlcExOdElrNnJuc2g1bGpMTXJ0eVJpR3RkVGc?oc=5",
-        "date": "2026-06-19T12:40:49+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Confirman que la YPF Black más grande del país llegará a Neuquén: dónde se construirá",
-        "description": "Confirman que la YPF Black más grande del país llegará a Neuquén: dónde se construirá LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkphN0sxQ1lYWjdwenc1a2pYZEhQOUFaNEZoWmVRaUQxTEZHdHpuQmlxZWNyVDdfTUQtN0hUX1gzWW9GeUZWbC0tY2RVeDZsLWFvam13Z1RfdU8tTUM5OEc4WFh1TWlETTVhV3dWWFVwRGQ0VHZSbm03WGx3XzdyX2JsV1dyU0QzUFIzRFlLaWVvdThmdkpONkdwTTVYZkFVVEVzM3pONDZ5YkNJV3BxUEd5N19oM2RFZ0lTdXoxQlYzVm_SAcgBQVVfeXFMTlJnX3NxQXFEMFpIZm95aG9jNjR1N2hvSVNYVmNWZk9SUnlsX2c2MkptcThOSlBkcElEY01XbWhUdUVxNmtNNUkzZWlUWE1mNUdXOEZoZE0ydFFZVEFsOXVNVU1ueXZwUkUzVlcwSTVONTdmRGRuSzdlUlE2OUVRMEpNbXJVZktpMUJIX1hMT2RMQVJ4RHdwUnV1RjY1cDRKMDJxWFA5NXo5S0ZzeDRhcjhfSF9Takk1YjEyaUllWEZ3UDR2ZE10TWs?oc=5",
-        "date": "2026-06-19T10:00:00+00:00",
-        "source": "LM Neuquén"
-      },
-      {
-        "title": "Fuerte apoyo de Plaza Huincul y Cutral Co al proyecto de GNL",
-        "description": "Fuerte apoyo de Plaza Huincul y Cutral Co al proyecto de GNL Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUF9KVmtFbnFnM2lVNEgzY2VfdS1JQVNJeUFubTZxemxnSHhieFhsZ0tCdmpGcGl4Ym5OZGpsMTY3R3F4N1pRT3d1bWo1UTZrWmNCc3g5UlY5YlFHUjE4WXp5R3owenZWejdGWkRjUzYtaVFNQnFXNmNuZ2Npb3VxSExMSXJxYVBMVDg1WlU3a1VnMXVEODhVSmluQUEwTHY0VXZMREp6ZDEyRFBpZnlyTjBfSUxQSXVHdUtfbm9R0gHDAUFVX3lxTE9lTHM5VmVnY19qZm9TWUtPVjFqQzdFY2sxeUpURkgxWVJHbnBKbWJjNUVTRzJmV25pUTkzTEN5X19oWnpFV3hRVkRPNHhoTFFFdmhjRkphMzZXd042eVJWaWwyei1FemU1blUzaDBCSldOcXRLQl9CakpKclVYVkxLbTRWU2ZUVmJ0ZjVCaXdCUS03VlhMMXJQaTRKMTNFQmxIRjZvXzFBNUFGRWcwS0JaR3ZTWS1kM2RTVVBFclZYTl9aRQ?oc=5",
-        "date": "2026-06-18T22:06:59+00:00",
-        "source": "Neuquen Informa"
+        "title": "Récord histórico de superávit comercial gracias a Vaca Muerta y la caída de las importaciones industriales",
+        "description": "Récord histórico de superávit comercial gracias a Vaca Muerta y la caída de las importaciones industriales La Política Online",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZjFCRGhhUVg1Z2VUMDNwZ2VPNkdiblJVREJwRzBEUGI3bFZEaXlCZ0otS2NMWGR3RHRNNk1QVXBFTVlCdW9TSjNQZ3YyZmJnclBXX0ZIdmZJZXJ6YVpfWV9XT0NrMkZKV1F5bHlIT3pqSGI3VXo1UHpPT0JtT0pzOG1ZbjZEMl9WWEk2bG4tbXY5REFLMUNOM3dSa3ZHNWh4U3RBUzM2V1ZXenRnelltT0kzSzlQWjZFamJiTWRfRjRVSTdzQVBnUmoybjBGZmxEZm1FX0VINjFwQmZxYVRZMlhaa9IB5gFBVV95cUxNa1lKWHdSWUV5a0lKenB0UFhJTW0wLV9iSTJLVlladUp5QTgtRkhMODBKOGtaRHk4WWJiazBiS1BSM3NkWElBXzhwWVZHWFNEcEg2VklBMTVKQkVEaWhvZE95czMtZWs4dUJyVnFfMU5pMjViNWRHUDhfZkU0THhYbEdzcVpJVlBQelVJdDl2cUZTZkx1TnF6Q3RfQkFNME9nelNDOEpQUHFYVndzWFpabEEtVGthSFNzZmtlM1pJVkNKdDJxSlVfTDBTS0hSMnJkekprZkdKb1hpalB2WTFoOEk0bVBCdw?oc=5",
+        "date": "2026-06-18T22:48:21+00:00",
+        "source": "La Política Online"
       }
     ]
   }
