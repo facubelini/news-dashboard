@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T13:57:41Z",
+  "updated_at": "2026-06-21T15:53:03Z",
   "categories": {
     "Microsoft": [
       {
@@ -17,13 +17,6 @@
         "source": "Yahoo"
       },
       {
-        "title": "Microsoft empieza a cerrar algunas puertas a Copilot",
-        "description": "Microsoft empieza a cerrar algunas puertas a Copilot MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1NiYTAyOVBDd0lJUVFNYUxNVmRRaEVnZFlVMXo0NHBnSVY4ZE9zaG1JVVlmU3c4d3F5akpMM0dEQzBLOVl6SFU3ODh4aUhiT0FxdHNfRktDTzJhUEY5V2k1YnNKT3Q2cE5nbFRzemw3U1FUd2RBdkFqejVTekFzZ21QQUFscHlMZXV1OVNTWjdTamZPRE1j?oc=5",
-        "date": "2026-06-20T09:19:58+00:00",
-        "source": "MuyComputer"
-      },
-      {
         "title": "Olvídate de un nuevo PC: lo nuevo de Windows 11 hará que tu Photoshop vaya más rápido",
         "description": "Olvídate de un nuevo PC: lo nuevo de Windows 11 hará que tu Photoshop vaya más rápido Hipertextual",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVJ4MDRFLVA5amY3WHdVdzNma1JVZVptNUxpUV9RUXdGcU9Sc1hSQVc0QWxldU5DQnc5ZGw5VDR3NVZKb0xqZHJIMG1SM1pEM0NoX3BISUlxMEFGQnFPVmFpYnowanp1ZUsyQzRudUM5a0Jyb2Jrai14b3ZhY2NDZGdlZjJMcUlNVDk5SmU2bmZ6UDg?oc=5",
@@ -31,10 +24,10 @@
         "source": "Hipertextual"
       },
       {
-        "title": "Microsoft libera PowerToys 0.100 para celebrar su aniversario",
-        "description": "Microsoft libera PowerToys 0.100 para celebrar su aniversario MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTN6TnRsWnVBa1RuMWxxSUpFd195T29aME5tVWlEVHFYRzQ1MWtHSHRtdktJdFlfS2xTRElOYnR0NllxaWFrUTBSSUtBdTQ1VHlLcThZRGktRW1fQVVvMXRSOGdGbWRweDVIeWFnaE9hWU5OMWFaZjBEQ0QtaVlPeXlLVlVySW9oSURtYzBad21kMGhCR1M3WXhDamcyRUFFczZJ?oc=5",
-        "date": "2026-06-18T13:08:30+00:00",
+        "title": "Microsoft empieza a cerrar algunas puertas a Copilot",
+        "description": "Microsoft empieza a cerrar algunas puertas a Copilot MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1NiYTAyOVBDd0lJUVFNYUxNVmRRaEVnZFlVMXo0NHBnSVY4ZE9zaG1JVVlmU3c4d3F5akpMM0dEQzBLOVl6SFU3ODh4aUhiT0FxdHNfRktDTzJhUEY5V2k1YnNKT3Q2cE5nbFRzemw3U1FUd2RBdkFqejVTekFzZ21QQUFscHlMZXV1OVNTWjdTamZPRE1j?oc=5",
+        "date": "2026-06-20T09:19:58+00:00",
         "source": "MuyComputer"
       },
       {
@@ -49,6 +42,13 @@
         "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
         "date": "2026-05-22T07:00:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "El día que una pequeña disputa por la tecla Tab acabó revelando la gran diferencia entre IBM y Microsoft",
+        "description": "El día que una pequeña disputa por la tecla Tab acabó revelando la gran diferencia entre IBM y Microsoft Xataka",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHBTTUtNSGd1Y3c1b1RjQ3J5REMyb2ZWdE5Qa2hlM3g5YVNWcmM0VDNBbmptaFJMRmE1VUVYenRSMHVYZFhXMTdEbHBkb04tVGd2N2JIYkMwQ09pUjNxeVN0eEF0bktTcXFwTkJLTDBsbmYycWJtaWlIUE5DVEZnMHctRE91YTBJWUFZa0RoVmhqRmVtOFFTV1Y2UklNT3RaSWs3YVE2eV9ybWNacGcwM3IwLUZQdkROTlB5VUpSa9IBxAFBVV95cUxQUHNqZG1GcldERmNPWjBLTm9JUnBqbFFLblI4VHg0UTdzejJtcFk2a2x5aW9wU0pGNVVrd0dJdWprQkJlRlpzZ2xyYm9rbWdvZzR1ZHozenBKZlVySW1PRVI1dWZzbW9BREkzYURHOFpocmJmOXBfN2M2UnUtTnE2VDNWelJrX0hKQkFueWlYUkd3TXMwRXh1d3ZCcmVzbUNIakZkcHJZb0JkNU9mT255UEVrMjZmV2lUam1MLWJIWl9BUzZ4?oc=5",
+        "date": "2026-05-10T07:00:00+00:00",
         "source": "Xataka"
       }
     ],
@@ -82,18 +82,18 @@
         "source": "UNSAM"
       },
       {
+        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
+        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
+        "date": "2026-06-04T07:00:00+00:00",
+        "source": "sanrafael.gov.ar"
+      },
+      {
         "title": "El sur le pone fecha al futuro: Bariloche será capital del marketing digital con el Patagonia Marketing Summit 2026",
         "description": "El sur le pone fecha al futuro: Bariloche será capital del marketing digital con el Patagonia Marketing Summit 2026 Bache3000",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTkRWbWcxSzIxSnE5dlhOZ055aUV4RFlieEQ4M25KdGJ0amxyOEs4eEVVOW9xS010TFUwOHdHbXNLSV9TZ3psNGIyU3MzYW0wNEJFcmFlY3REQl8tY2ZIb2hrQUJZSG1wbXBjYkZENklpeXZEa3M5X3YyZVNBZ1c5eXVqR0tjbG5BN013cjFreDBfZDB0eGFDZnJnR3duUVRTRFpUR2xQUmpiNXZSYnk4bjRwUW8wbGEtajd4SU5Qc3NhblFXdk9EQkt6ZUUweGx5YUpHWDlxVTcyOGZ4R3pWbnBYb3k2WHlhSHc?oc=5",
         "date": "2026-06-16T20:20:14+00:00",
         "source": "Bache3000"
-      },
-      {
-        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
-        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
-        "date": "2026-06-04T15:24:59+00:00",
-        "source": "sanrafael.gov.ar"
       },
       {
         "title": "Marketing digital en tiempos de IA, cuando Google no es suficiente",
@@ -109,6 +109,13 @@
         "description": "Noruega prohíbe el uso de inteligencia artificial a niños entre 6 y 13 años: vuelven los libros de papel Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSkJKcEJZRUZ2OHlfeTU4c2hiamQzV2VXMXZOSk9vZUNEWmpxRVJ4Q0I5VUp6ZEU2LTdUMW5sMS1sYkllcWdYa3B1VndLcURtekpGeFBOX1MtQWNrUVo2RkhIb1NzVmdzc0NzQzJlOHhZWjV1TU9BdmxJRkVJX3dzV0VzRW1na1B2UzhvWmhaZnJ1cHZES29WdFpZZ1dsMTY0YjZzZ0MyWUFpSXdTSXUxMDFwNldZcEhoVmpTejlVbGg1Z0xzcldzSVQ5SGZSdWFvZ1A1SkYyajB6UWhxV0HSAfgBQVVfeXFMTnRTd2ltdlFHczhyeTlwT0NVUWpNb1VLbzU5NVp6MjR1M3NBUmtBSnpHYnY0SEp4RkdMams4Q19oeC1zcV84RjA2RjNDSUJDZ0hGa1dJV1Q3WmZWODUzNWNyZ2lwcVE1SzlFcWpYam1iNk9TNmNsWm9oRm10T01lMXZwVUx0bnM5TDFCdER0V3pySFNqcEV1ZWhqSkRfeUFxemdTWHFWMkg4ZVM0aUpWNVMtMnpCQTZwWk1nd2d1MXNoUjhZbDVDUmVvWlVrUUlMeEp1dEtlcS1qU1BSY2hlUEF5MGkxbF9rRkhBV3lUQi1FZVhwSHgtY1Q?oc=5",
         "date": "2026-06-20T19:26:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Las trampas de los estudiantes se están volviendo imposibles de detectar en la era de la IA",
+        "description": "Las trampas de los estudiantes se están volviendo imposibles de detectar en la era de la IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTUxfRHJxU3c2VVZsWTF6TWdhTjR5OEItM3ZybVA0ZlBITXhpOXg1MDFTRGZMcm1qdDI2WjhRSlNuYVUzOENoRHVzUmNDNl85ZFdVWW1LQTZEdUFZZEVsYkZYdWNxOVF5dmk0cGdlbldaV2l4c3RJRW44dzRzdFdubGhxbjJLWFRfUXkwRDVvcy1DRWw1YTViVmQ4UlA1Z0xrQ1prQ3NTVU9VaEVqb1dmVzAwMjN1M2RmWERqZ0N6V1libnNTYl8xQmwyUFF2RkpLa2xrcDZUanJaWnlHaGs4NWVuVXhjbV92RmfSAYQCQVVfeXFMTTN0S3RnMFE4amF4R1pDQXNoM1pvR0dpZkNxbmhsS1dQRDRGa1pyYkRxbVRFQnVMYmdIVnlNNGhMOFFXTVhEajB1aGJ0YjJ1SkJwVURPRXpUUW9rXzJyOTZXSEUxTXdhSGg2SGxCR2xGY0tHMWtlRWpWdVlOMDlUUzU5aUcxV2p6WXZtYlBlRFk5dXhfeHk3TG10dVJPLU4xdWNYanJwQmo3QkdpS3ZFVE5HUFpPM2Z6NmowNGFFN2xNRzZjMTAzRmZ2ajZ0dkh6bEpSMG5LQW85SFRrTzNSd0lMc3R3bzZGak1NM1B4UHRJZ0lYejk4OWRUaHdGNjFmT3lMZVU?oc=5",
+        "date": "2026-06-21T15:28:48+00:00",
         "source": "Infobae"
       },
       {
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTGNaYlZ6cjREOV82ZnRidi1fZW9EZVg4RkhueWtsQkZDMVJMR3kzY3RwaDQ5VnFYMDJfc1JTdW5UdDhRY3A2OXo4OXRzVUNJS3h0cnFpUFB1VnFQRXA2UWhtNTZLcHp6OGxfTjVkOC1hWTl6MGFSYTd2MUxReUROSGxRWjNXNi12YmdKcnBFSmpoVkhDVExJdkQ0anNCVEYwN1VkUy04N1VqeDNNV25KR0FYUjBwd1p5SXB2VUt0SlIwSnlXdUNvbjhYNURTc1FLYUHSAdcBQVVfeXFMUEg1Q19Qem5DV1otcFFfanpYbzZVcnFFQ0QwM1RiU0l4ZGk1S1A0OXpJNWlpX0Z6eUhQTS1VWFlIOGE1US1IWW5CNDFSeHhlS0VHejZ1OW9VSHh1YTZqZTFMUEFuY0dLMWhuZzMxSGllOTZQRmxpcTY4UHRoODM3SnpXNWRDa1dIeHZXZ1hCUmhnakpONU9rWVRrc25qd2NvSEdEbUFDeXU3VTJfbmJtbmZjSVRWOFBfM2c1ZG10a2hCS2VrR1NBMEJ2NThJa0Z6UHhSQy16OTQ?oc=5",
         "date": "2026-06-21T01:44:00+00:00",
         "source": "Perfil"
-      },
-      {
-        "title": "SpaceX y Cursor: Ackman y Palihapitiya explican la prima de inteligencia artificial",
-        "description": "SpaceX y Cursor: Ackman y Palihapitiya explican la prima de inteligencia artificial Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzRiTHJwQWdLN2pXalBiNGlFcms2b1NzY1FTekktV1owNDBGS21Zb3lFR1BzX1dvRXNXSHpleGlHcnd2YmZranllZmdKTmh5M0ZUeXlYLUxBNTlRNzNvcGV4NjJzRnJicDBQb0Q2M2VGc0VKM2JZOGVRNlV1UlRPLUdITndwSVFzS3F6NDlnTkpNT09yaV9FblNIdWRWSnQx?oc=5",
-        "date": "2026-06-21T13:01:19+00:00",
-        "source": "Yahoo Finanzas"
       }
     ],
     "Vaca Muerta": [
@@ -170,11 +170,11 @@
         "source": "Neuquen Informa"
       },
       {
-        "title": "Entrevista exclusiva al presidente de la IGU: \"El GNL de Vaca Muerta puede tener un papel muy importante en Europa\"",
-        "description": "Entrevista exclusiva al presidente de la IGU: \"El GNL de Vaca Muerta puede tener un papel muy importante en Europa\" Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ1dTNmcyREpZQlRWSFdoQ3dOYlVTZ0MxUEpxcnBaeG0wMktZR184WG4yVXZ4Vi1Oby1OY0tLTXhkLVNVR1FxSW12b2l2Mk5KY2pPTF9RSF9wMUhFNTR0djFGeU44UW1mU25jTk9XcTZ6QmxXQS1YMEpmQkNmUFE0bEFuakpjaVpaeGtFR0t1Wi16bndRR2prandjdnRVT3haTFg1cXRFVER3aVk3eEFpY2VpYy1vVW81UENRRDVWdTZZX3k2WWdBek84QzBLN1FUaTZOeThucVlsSWhJX0dwNWFSYnNQRmg30gHwAUFVX3lxTFAxU2JwM2NHWGJ5WXM5cGJ4OWxPZ3hFQ2xGcUVqQk42QnhESnVYUDdqc3JGT2x3T0wtYXBEenUyb0xWVXl2elFmbDZjMW1Gcno5NXVJVHRJZUlMVkpUZ2YtTTlyV05Kek5DRGdzZGtNcHhDUUJ3V2c2djgxVzBiTWw5aFExQ1ZNYkxHM0VpVXp4LWdGZVlHTmVPRHBxUjBqZWl0RWx1YWFvcVl2NjVCS3VFRlBjVkJXQ2NSMk50ZDcwc3N2dUdURmJpcDY5S2U0aHZ3V0R0T3JfSWZRazVsY3VhUENqby1tbHBza0dSYWVkcA?oc=5",
-        "date": "2026-06-20T03:15:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "\"El tiempo es ahora\": la tajante advertencia de Figueroa sobre el futuro de Neuquén",
+        "description": "\"El tiempo es ahora\": la tajante advertencia de Figueroa sobre el futuro de Neuquén LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZsckxkYXpxWGVWSVBBUlBuYUlSRUJuUm4xNkp4S0QwcnNpUmI3em9CV1hjdXVhVjRMMWF3Vkk1RHN6OVRwYkRJQ21Bc0xkdm1Ga2RoNmhLRjRvWDhRb0ZIZWh6eVJPNVJvZmlsNkFNYnBuS2thV2Z0bG5oNWxjcHVuV2I2UE1FZU00Q2NVT1NKUnpVdzVLNXV5eEdSbzBiRUdCU2pEandLT3dpNnpYQ9IBtgFBVV95cUxNdlN0Rlp4c3lLUmtkSWRYckR2dHlObTB2NXhLaDA5NzU3ZE0zTnhORFQ4WEZxR0RaRDZrd3JEdzZEa1BLTXdRT2dsbjYxVXJsVUwtQ1pRb1lBdHdnMDNmNTEwTE5zWGtuU1B6YzJ2aEx6enY1Zncxa0RLRFlfVkNRTDVwNUFxeG9HbC1MWkliQlJRVzVMQzJYTUFJdFRhU1p5WWZjaExtc1k3TTRycnVGXzZHdUpGdw?oc=5",
+        "date": "2026-06-21T12:45:00+00:00",
+        "source": "LM Neuquén"
       },
       {
         "title": "El agro, los autos y Vaca Muerta empujan el récord, pero la industria no convalida",
@@ -184,11 +184,11 @@
         "source": "Perfil"
       },
       {
-        "title": "Neuquén y Río Negro fortalecen a proveedores de Vaca Muerta con financiamiento y garantías del CFI",
-        "description": "Neuquén y Río Negro fortalecen a proveedores de Vaca Muerta con financiamiento y garantías del CFI Letra P",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS21LUTZiaXRMR2g5NXdYQndGN3Y3MV9IclBEQmg2YnFxeC1xczF6dW9NU2Jjc3VjQ2I5ZGJQRy05aENfY3JoeFJiQWJZRzk1UVA0UzQyQVBkTlc0ZnBXRXVPaGkyeTlxMTdiN3NvZmFMaTRpekpaeUR1c2ZBZ0ZIdy1aZzRlNElvRlBfQVgzVm05Si1PRmFTSmVzYlR6VndRUUtNWG4tU0xFZWp0QVB0SDA1Ym9WSzR5SGJPRXVRampPWDM4dUVxd3QxMk9Hd9IB0wFBVV95cUxPWDNPWm93ZDRxQVAtcTdZZHlsdHQzMHJ3LXlYOVo1c2EtRHkycnFXbW5pSDE4UlV6a3pSc3FVWTU2dXRwb0xPbEdja1NJaFJXalR1WnlES3hSV1FpbHg3WUs2SHhmNVNuRVVPVFlwcW5Gd0ppTUdCQkRCZmVYdV9tSFRkbG9VZTc1ZUhzLXk4dlRNdUxRdkRLUlJtOWxINUNSQm12R0NDekR2VU1EMmpUX1Q4S21wU2EzRG8zSjBEQW9UV002UTExUnl3SGZkcllfVGR3?oc=5",
-        "date": "2026-06-20T12:27:00+00:00",
-        "source": "Letra P"
+        "title": "FOGARÍO acompaña a pymes rionegrinas para integrarse a Vaca Muerta",
+        "description": "FOGARÍO acompaña a pymes rionegrinas para integrarse a Vaca Muerta Gobierno de Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTGxYNUpkekhnZWZSR3Z4NGdsczVXZWNHYVhIb2U2NjFzMVBYMm5LWnNaeFEyM09nVHMwOWpTWWQ2YjV2T3ZXbk9hTkdNdjlCS2tKa3BZcTdzbEtEUWFtNEVpVkt5RW9YMURCZDh0eTI1eTdNcUxNUkZ2dFRnZ2ctX1U0MGc5bjdHRGJhMWw4MzNHT19ZWGIzX2NQSzJmcG93WW1qTktxdjg?oc=5",
+        "date": "2026-06-21T15:43:09+00:00",
+        "source": "Gobierno de Río Negro"
       },
       {
         "title": "Vaca Muerta: la clave de la industria de Brasil, la descarbonización de Chile y el interés de Bolivia",
