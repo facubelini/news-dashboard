@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T11:41:54Z",
+  "updated_at": "2026-06-21T13:57:41Z",
   "categories": {
     "Microsoft": [
       {
@@ -31,13 +31,6 @@
         "source": "Hipertextual"
       },
       {
-        "title": "Alternativas a Microsoft Office para Mac",
-        "description": "Alternativas a Microsoft Office para Mac SoftZone",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFF6el9XY3hRODB6YmhqYlVvT3ZtNFd3ckxQX0ZJWmdTNkp0OXVYY2Q0LTVOX2J1TEh1Vm14a2FDVm1uLTJ3ZUxiY3VVb1FudTM5UzU3bF80cGlGMjE1ZzhKb2hoZUxZOXZiYmdCa0ZQT0ZwcTVNZXhadEdNYktIUmlZRQ?oc=5",
-        "date": "2026-06-19T14:02:58+00:00",
-        "source": "SoftZone"
-      },
-      {
         "title": "Microsoft libera PowerToys 0.100 para celebrar su aniversario",
         "description": "Microsoft libera PowerToys 0.100 para celebrar su aniversario MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTN6TnRsWnVBa1RuMWxxSUpFd195T29aME5tVWlEVHFYRzQ1MWtHSHRtdktJdFlfS2xTRElOYnR0NllxaWFrUTBSSUtBdTQ1VHlLcThZRGktRW1fQVVvMXRSOGdGbWRweDVIeWFnaE9hWU5OMWFaZjBEQ0QtaVlPeXlLVlVySW9oSURtYzBad21kMGhCR1M3WXhDamcyRUFFczZJ?oc=5",
@@ -50,13 +43,20 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOM3RXdTZlNUhYLVhrYzV3VjV1bDVzOGFTcWpwV0lzSFg4cXFyTjdFR25TUDRRYkhwWUlSZlEzU0E3NXQtc0lVTDBIakJISGlkYVBkQlNCU2t0cUZwUVlzX0d0N0VnZGZKT0hhY0E5UEh6NU4xN0FkSFpNMGc2ZDlmRlJiMldnUGEzUEtJcEREMVFwY0tOZE55dFFEejMtQVZ5dDZ3bC1JR3pTN0puWllkcFBDWmhmQ0lVdHQyd2JSNURmUlZPQVVNYmk5OU1sR1g2Q1BxUnVpdTR0N0ZsenpBWVlTbU02Qk9JU1hqM0RFd9IBgwJBVV95cUxPMGN3NlNITGxkc0x3MmJIZ2dHRXlKZkNDZ09zOHg2cnFwdVpxOVl2MzQ4YlBJRUN6UnBlN09fLWNSZmR4T2YwV0VrVkFCbXV3cndSZlZURFVIVGc0aHpNcUFPZFFCT3JQS1MzQmROSW5zb3hBd0phcW5oRmQ4QVJ5NFhsRjhaOW1UMVQyVkM3TVVxN2RwWEF4YV9faGcxdTJIRndoeTNOTmVoMGQzSmtQWDJraTNISzYyNHNQODBReS02bFhNZm1IWWl3bzVWTkdqVHNLYnFiN2xWcXI3X2xTV3dxQ1IyakVUYUpxQ3hPdWU0VW5OYTFCODJ5Q3dvX2dHLVFZ?oc=5",
         "date": "2026-06-16T10:33:50+00:00",
         "source": "Cinco Días"
+      },
+      {
+        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
+        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
+        "date": "2026-05-22T07:00:00+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
       {
         "title": "Fracasó al querer armar su propio mercado virtual, perdió $250.000 y creó la solución definitiva para no repetir su error - TN",
         "description": "Fracasó al querer armar su propio mercado virtual, perdió $250.000 y creó la solución definitiva para no repetir su error TN",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYVE1LVdLZ2Y4T0RTanNJX3R3YnFCZzNPMDVmNWhKR1BnVnB6LXlCLXUzS3FxcEhiSU1ZekM2VEpZcjIwYVBhLXJUcFR1MGpRcGVvUmxvT1NscS1ON2duMW9MOHg2QWZFbFI2Z2hFM3ByWjAzbUVTMWJWV0ZVREtLY0tEblhuZmVpZEFjeTRXMDdta2wtVF80Rk8wNTY3OVV1NEVXc3hySXdtU0R1ckxKUVhhYS10d2lGdWJLdVpuM3F4ZVlZbFdPY2xXamlaRDFRbnQwUEs2N2o2QlVqaWZIbEIzdGVZSnQyamJhcmRn?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYVE1LVdLZ2Y4T0RTanNJX3R3YnFCZzNPMDVmNWhKR1BnVnB6LXlCLXUzS3FxcEhiSU1ZekM2VEpZcjIwYVBhLXJUcFR1MGpRcGVvUmxvT1NscS1ON2duMW9MOHg2QWZFbFI2Z2hFM3ByWjAzbUVTMWJWV0ZVREtLY0tEblhuZmVpZEFjeTRXMDdta2wtVF80Rk8wNTY3OVV1NEVXc3hySXdtU0R1ckxKUVhhYS10d2lGdWJLdVpuM3F4ZVlZbFdPY2xXamlaRDFRbnQwUEs2N2o2QlVqaWZIbEIzdGVZSnQyamJhcmRn0gGCAkFVX3lxTE5VQzlqeDcxYXQ5WV9BM3BvVHgtWWN1em9lSktmeEkzVUtlc1RKMFZiQ1JteVlVcXdwLTJiOUVoS0JYcWdqbXV5ZFpYUldyMVc1ZW9ZX2lTVHF2R01HM01zdnU0dEp5Q3FIOTZQVm54YkxZTFdhTWhjRThGWGpkMldZNnQ1X3NaTUZOdE4yN0JVbHFDZWg4aGxoRGs2dUkzbXktLTlwNlR4cnppamdyeUNKc1ZPQS1rOGZ6RXdWblF3VDZ1RU52X1RJRjF4T011SFUxVk9ZcnZNSnpCcVIyeUtNNDgwZU9XaGRFal8zYW9rd2F3NmZXWGpuUE5RTzNBM1VCdw?oc=5",
         "date": "2026-06-21T08:44:00+00:00",
         "source": "TN"
       },
@@ -119,18 +119,25 @@
         "source": "Página|12"
       },
       {
-        "title": "El enojo de Floppy Tesouro con una marca que alteró su imagen con el uso de inteligencia artificial: \"Es de muy mal gusto\"",
-        "description": "El enojo de Floppy Tesouro con una marca que alteró su imagen con el uso de inteligencia artificial: \"Es de muy mal gusto\" Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmZoTUI3Nk9JeFlXYVJUMHhWZDY2bWZ6eTFhQzhzdVpRRXBIZlRybWZ4T2Rxc3BseGFUeWJIUm1oV2Q2TkVZTVNtUExTZFRnbDM2UzVMOGUwdTVTSDVSdXZuaVBlcS13VWcwY0VkbS1RMTAwVGNLM2tWNmh3VURCTVZxNkR0SWM0MDBXaHFtUGNZTDFmb0RKQ0Q3ajVYLWVaUDE0UU5GNC1ZYVVpc21GaUY3RkgySVFkSndPRjVpMC1YUdIBxwFBVV95cUxNR2tSaHZsMUNKODFuTm1DUlZ2Z2p4Z1dBbjJVRnNfZGZHbDJsOXdQcEY1b0JSZ1g3RVBHend5MVpFWUtTWmltM3h6LTh1YnlSNl9JeDhfLVczbkZwUEpTYWIxc25XaFVhMFhyV3Q0LXpURzJrSUdFMTFoUXNyS3ZkTlRmMEw4SlpESm5MczFlclVCcm9oTGYyc19qbzFrYzlfTWkxT1ZSQlRKSEktYWlJenRhTlJzZFdjM1MzV3lGNHdnT29KRlZJ?oc=5",
-        "date": "2026-06-20T16:13:43+00:00",
+        "title": "Personalidad jurídica y responsabilidad ¿Quién responde cuando decide una inteligencia artificial?",
+        "description": "Personalidad jurídica y responsabilidad ¿Quién responde cuando decide una inteligencia artificial? La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYW9xZTlCWXZCaHd6RFFMY1Y4ZGtXZEMwUFVBMjA0UktYSmpsZEl1VTNVLTFaMGFLclNCbDY0ODJNVFBiLTMyMHprOElYZ2xnN2pIWXpYdjVyQTV5algxRXJVR1daOE9jN19RRUpCUzJxdzJCd2ktU2VZOXRlMHM1Z3BWbTJWNDVhSjhCcUp1N2VYdU9v?oc=5",
+        "date": "2026-06-21T03:01:26+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "Mientras el mundo habla de inteligencia artificial capaz de escribir o programar, China está apostando por otra carrera mucho más compleja: enseñar a robots humanoides a trabajar en entornos reales mediante entrenamiento físico constante",
+        "description": "Mientras el mundo habla de inteligencia artificial capaz de escribir o programar, China está apostando por otra carrera mucho más compleja: enseñar a robots humanoides a trabajar en entornos reales mediante entrenamiento físico constante Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNUDR5RTlfVWpab1BzOGxURTZZSUpLdUpNS2VrTVBZby1RLUdjUkcxQkNEdG5YYjhsRG1JbkxJemtTN0VWODN5SnM3SnNIQ19NNUtJa25GLWRqa0JaLWpQbHd6OUNsXzVPT1RuNHJranNDMGNVRnJhNVdlWThkZlhHVmFrd2xZUWNXTy1wU2YycDV0Qlpub19kek9xSm1sRklTRE5aT3ZjSWpjUmx6SmV2Ml9RWG5FTWxTdXhMZnBraVFYODZvQU9rZUxXMVJXQ2FaeUpKdWxwZVhkTFdBS3dyek1EcXpabjQybjVaZ3QzR2tXaUJ2X1VNTjl1aHVQZUh0a29TbmNtMHF3ZGlvcHg4SF80Si1hTFV5SWZ2VlB4VV9uQnV2V2d2NTdSZHpQeFZ6RTVKaXBrMEJNeVZEazBWbWw1cG4xT2JuS01rMHVfSUdNQmFzbnJMUDlpNNIB4AJBVV95cUxNUDhIMVFaT2t5cU92alF3V3FoMzFkMFNqY2xRN29nbS1lalhMMkY4ZUJQVzNMbkRza0o3akI3TVZzTE4yMmFNODc5Y1VXTjVNRFI3b1B2Uzd1Q0tmNnYyYkMtbFQ2V3QwbHRfQWtnUHV2YWhhM1BQNjM1NXF4cURzaENwUFl1VGJybUlQVUctR2xuMW0yb2Z4LVBHQmFUZlh2VmV6M1FTT2FBM1ZlXzFSLVVfN0FwRjM0cTdIcEVSMFFkM0Y0dW5kSmhLQ1NLOTRNWmJMRHFvX3dIY1NNN0U3TGdOazVSdk90RzEwaWhyZkxjblY2SHFGN1IyNlBHdFpWNGNXc2dJQUVtRHJiQ05HMTBXRlFrWGhzZlVXZExXTlhOb0xxSVdOczBXNER2eUZEbk4xVVJubFktZ0xhTUhkWW1iTXNDalM2bTFzVmhVM05PcWI4REIxWkE1ZEhwRlpW?oc=5",
+        "date": "2026-06-21T01:01:24+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "CHACO REPRESENTA A LA ARGENTINA EN UN ENCUENTRO LATINOAMERICANO SOBRE INTELIGENCIA ARTIFICIAL Y EDUCACIÓN",
-        "description": "CHACO REPRESENTA A LA ARGENTINA EN UN ENCUENTRO LATINOAMERICANO SOBRE INTELIGENCIA ARTIFICIAL Y EDUCACIÓN Gobierno Del Chaco",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb0pZOVFVWGtUYjBCXzF0NTZCTEktR3hvSHkyc3ZwaEVmNmdhYWRvWFlxYnFjWVFJY3poell1RS1QSHc4cnBtY3Rwa1dNdlhNUVhrTzRmWFFKNlFmRjJXQ3pFVlA5Wi1LVkJPTlZYRU0xR2pZdVRvMDZocW9CZksya21BUlNNX092bDhJQ3pxUkpSc1JnVTlncHBnVTVDVU1BRTNXajI2bWZSaEljVkNEX2laY3cxUXNCT0lMZGxheldUdDRtdDFCMXVYdFd1djFldTBUZ2xHVG96YUF6VWxZRDA4enJJdw?oc=5",
-        "date": "2026-06-20T01:47:42+00:00",
-        "source": "Gobierno Del Chaco"
+        "title": "IA: regular o no regular",
+        "description": "IA: regular o no regular Revista Seúl",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rc1dxMWpSSDZJUlFlX3lIOU93WFUxRVdJZGZPb0JiaGRTRHYxcVdjNGhIbkV6cXNOVnVFUGpDakZBU1gyMzRyNjhQY1k5eWEyQ1lFbWs5RUlUWEZRa3VCU0dLYw?oc=5",
+        "date": "2026-06-21T07:09:53+00:00",
+        "source": "Revista Seúl"
       },
       {
         "title": "Mariano Cuestas: \"El dibujo es para mí una pequeña batalla contra la Inteligencia Artificial\"",
@@ -140,18 +147,11 @@
         "source": "Perfil"
       },
       {
-        "title": "Ana Zapiola y la ciencia de la longevidad: el desafío de vivir mejor en la era de la inteligencia artificial",
-        "description": "Ana Zapiola y la ciencia de la longevidad: el desafío de vivir mejor en la era de la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWm5PbXJRMkpBbm9BcjJlQUJGVkdPVWpSX1ZuZ2NHdnBDdGxBckJQUC1BR0p0ako3TlNxMnlqQzhEVm51aEdFa1FvRHBwdUYxNnlMclotWExHTW9WU1N1NWhKbTRFaVFFOThLNUxpR09hckQ5UDRvVnZiUlVxel9ERE5XWjltemJnRnFIRm1xcFdXYUp4Rmh6ZlQyRnBaRjhmVXY5RFUzTVNENm9mSXctSk1NcHQxVVcwajZidVhsSWtQUkMxS1owdXBwZlVLWGR5VTFHQTNkeTRuMFRi?oc=5",
-        "date": "2026-06-20T09:00:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Personalidad jurídica y responsabilidad ¿Quién responde cuando decide una inteligencia artificial?",
-        "description": "Personalidad jurídica y responsabilidad ¿Quién responde cuando decide una inteligencia artificial? La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYW9xZTlCWXZCaHd6RFFMY1Y4ZGtXZEMwUFVBMjA0UktYSmpsZEl1VTNVLTFaMGFLclNCbDY0ODJNVFBiLTMyMHprOElYZ2xnN2pIWXpYdjVyQTV5algxRXJVR1daOE9jN19RRUpCUzJxdzJCd2ktU2VZOXRlMHM1Z3BWbTJWNDVhSjhCcUp1N2VYdU9v?oc=5",
-        "date": "2026-06-21T03:01:26+00:00",
-        "source": "La Voz del Interior"
+        "title": "SpaceX y Cursor: Ackman y Palihapitiya explican la prima de inteligencia artificial",
+        "description": "SpaceX y Cursor: Ackman y Palihapitiya explican la prima de inteligencia artificial Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzRiTHJwQWdLN2pXalBiNGlFcms2b1NzY1FTekktV1owNDBGS21Zb3lFR1BzX1dvRXNXSHpleGlHcnd2YmZranllZmdKTmh5M0ZUeXlYLUxBNTlRNzNvcGV4NjJzRnJicDBQb0Q2M2VGc0VKM2JZOGVRNlV1UlRPLUdITndwSVFzS3F6NDlnTkpNT09yaV9FblNIdWRWSnQx?oc=5",
+        "date": "2026-06-21T13:01:19+00:00",
+        "source": "Yahoo Finanzas"
       }
     ],
     "Vaca Muerta": [
@@ -177,15 +177,8 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "“Les pido a las familias que no vengan”: el intendente del corazón de Vaca Muerta, en alerta por la fuerte inmigración",
-        "description": "“Les pido a las familias que no vengan”: el intendente del corazón de Vaca Muerta, en alerta por la fuerte inmigración Infobae El ruego del intendente de Añelo por el colapso de servicios en Vaca Muerta: “Les pido a las familias que no vengan” La Voz del Interior Vaca Muerta: el…",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMDFhMFdGLWtVb2FWX3hhVTJQbmlIaHREbDZnd1VZaEtkSjJOWktKdkZndjNrN2VXSVZsX2ZneXlXUkJTNC1Hakl5WEQtcS1SMUtUR25OOUpjcnBlT3lvZHNwaFpnck42VkswSlhBMjFrenRBb3I3VnlWc0RXZXZDS284MF9iaGtKTC1qa3pwM0dMbHd0eVBDd2JnLWJFYkhuVjlIQ090djhJS1Z1TS1WdC10LVp6cGRMbHFjdkREQXNEMHM3WTl6T3NTOWZVMFpPbEdQcnlja0otdG0wN3BPakktTzhmOHFqQ2V5ekUyeGvSAYsCQVVfeXFMTm00UG4zWXJHNFJUZ20telF2eGs2bFdWRU5zbHBrb1ZfQlY4UjhoQ1F6alZtVTBMWDVZdmRySU8weFNQNXhjR3JaOGhJRTljNFBVUnUyOVlQNVVqdy05VUlTS28wdHlwT1ROTG9PZTkzcHNVb0JBeVNGRUoxZ3A3bGNOeG90VkRhYjUtZ0dWZ0RiNEJuX05rSjlXdGZoRF83LVVuYkczMDNudFJoeGpNdlM3WEptbXZVLU9SMlJKRXQwcENuVFVKTlZUU0FYNnZCS2EtYU80dlFNVjdId0RCMHhkUFh3WjhpZ3FvQnpCT2pUbW1KRXBkWm9SQm5WY2ZlaEwxT3p6WW5ndkh3?oc=5",
-        "date": "2026-06-18T14:08:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "El agro, los autos y Vaca Muerta empujan el récord, pero la industria no convalida",
-        "description": "El agro, los autos y Vaca Muerta empujan el récord, pero la industria no convalida Perfil Con Vaca Muerta como motor, la Argentina exportó más petróleo que soja y maíz en plena cosecha gruesa TN Récord histórico de superávit comercial gracias a Vaca Muerta y la caída de las…",
+        "description": "El agro, los autos y Vaca Muerta empujan el récord, pero la industria no convalida Perfil Con Vaca Muerta como motor, la Argentina exportó más petróleo que soja y maíz en plena cosecha gruesa TN El “Jano económico” argentino: dos caras, un mismo cuerpo Infobae",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQUs4ZGMxWXpkTFFSQzFnUGJROWhVcWNKOVhrSm5FTzVNN3VOcVZRRDZhVVFOOUVfT0x3azZ1SDlCU0tKM3hSb2tZZjRvVUhqVnlkeGVBRXVNMmNlaVlPMFltSTA4SVg0dEM2VjVCX25fRzRWSVl3LWxuNGpDNUpIT3dVVmVCRk9WR3dtSTdkRWphWFBTbVExOTRQTWs0T01GVXBtV3VBdVJYVmlMcXlJS3h5SFJSMTg3NzY3U01CdlZwaEdPeW1oZ3N2QTBLT0lNU3JLcFMtWHU5bGsyM185bFY5YzHSAeoBQVVfeXFMTUxtblRBSnlkcm1RM201LXFNb28tVmthWUxfV2kwNnNNMUN4eEJycTN3bG02YVhwNDI4Zk5lSE5CNzlITXlTR1EwNVU2ZnNsNG90bjk5UE5YRGQ3bmtkSVEyU0Q2Skw0YnlXMUNwTE8wYk90ckxJeGxocENCblRyUDZsS3hUaFpYS3llS2didkstWno0ZFdyZWR0dGRpSjk1aTQtNDlrbVFkT3lDMWFmYy1laDlYanpiakR0MTFFSFQ0OW1aVFdFWUcybEZqb3RoTjhrREFWQlNUTEJWVzRJb1A0Zk9BbUJsTVBn?oc=5",
         "date": "2026-06-21T02:52:52+00:00",
         "source": "Perfil"
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQkJ1TkJGUGJ5eGt0X0h4V3VFVUN5azhNVmFES0F1V0ZETlFZRjNRYkotR3MtYng5aW10SWd2VHpXTjA0R0xKb3JqVVhlREFwWlQ4SU5ieHl5T0FSbElXZTVFbnBlRnZEUXEzeDJONjVwbE9zWmdMN0ljRWhwSHlET0dhcnZ5cWVERHdhMVVHdmRlYnVGMXk3WGM3a3Q5ZEp4TFh1azNNeUlpV2xEU19RZzVnaE5aeW9uY2lLOHh5X1I1TWxsRWfSAcsBQVVfeXFMT2I2ZHJFbjkyRXgzeFRGZ0RGc2p2ZHBrbWFpS0FENHI1NWI1Z1lSV2tadXplelZvaTZZWTVBY2Zub09VSFRDQi10OS1lMHJ2SHUtakpqQk5CREltbzlSOXFfTmxYOGlyU1dhVFVhRm1RVm5aYkhUOEk3UlpabkRoTjFVR05VR21RSVFORVdPOW16eWIyYkNUTTR0c2tIbVlaejd0a004aFU4RGdhZEtwTjBEOWh4TkxCNVUzWEZDaDQ4YzR2a1JIRzJLWHc?oc=5",
         "date": "2026-06-20T02:55:00+00:00",
         "source": "LM Neuquén"
+      },
+      {
+        "title": "El ruego del intendente de Añelo por el colapso de servicios en Vaca Muerta: “Les pido a las familias que no vengan”",
+        "description": "El ruego del intendente de Añelo por el colapso de servicios en Vaca Muerta: “Les pido a las familias que no vengan” La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT2JwNTNVZklDUTBacldPYTdGZHRJb0NGVU1KUURCa3pIM1h6eUNGNHozQXN4WkoyQThVT3RCUGppNHRFaXBtRHczZHlZVGlsd1RPTE1uQmNxQW5iZGZDcXNoSGdySWJ6OVJZTE0xUEpBSmdJQ3JrR0E5UE51eC1wOFNHVG03b3R5VjJnT0Y1VW1MMG85R04ySWpWV2ZlU3BpMHFoZkwzREcyT3FnMm9MSmJ2VWVpVHRZNzBtenVwbl9XaUs5Mnc?oc=5",
+        "date": "2026-06-19T16:13:58+00:00",
+        "source": "La Voz del Interior"
       }
     ]
   }
