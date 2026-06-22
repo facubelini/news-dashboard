@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T03:39:13Z",
+  "updated_at": "2026-06-22T09:43:57Z",
   "categories": {
     "Microsoft": [
       {
@@ -17,11 +17,18 @@
         "source": "Yahoo"
       },
       {
-        "title": "Microsoft empieza a cerrar algunas puertas a Copilot",
-        "description": "Microsoft empieza a cerrar algunas puertas a Copilot MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1NiYTAyOVBDd0lJUVFNYUxNVmRRaEVnZFlVMXo0NHBnSVY4ZE9zaG1JVVlmU3c4d3F5akpMM0dEQzBLOVl6SFU3ODh4aUhiT0FxdHNfRktDTzJhUEY5V2k1YnNKT3Q2cE5nbFRzemw3U1FUd2RBdkFqejVTekFzZ21QQUFscHlMZXV1OVNTWjdTamZPRE1j?oc=5",
-        "date": "2026-06-20T09:19:58+00:00",
+        "title": "Microsoft publica la versión preliminar de Windows 11 26H2",
+        "description": "Microsoft publica la versión preliminar de Windows 11 26H2 MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkZUc3k1VkZaTVpRSGE2SHhhUXVIXzR3U21sOUJQd0ZhSERvckhBeWF5U1pCV0UtNkdtLW56djlENlFsemt2Y2EyUmVaOUlOYTd3V2ZqRXhfRjktVmxiRXo5a2ctWndfRk1STXl2QWcwcVpIRV9rdlNCZ29PUzJFWkFZZXo5djJTenFTdEUzQi1zclBmQk0wMl9RVDRwMkk?oc=5",
+        "date": "2026-06-22T08:28:49+00:00",
         "source": "MuyComputer"
+      },
+      {
+        "title": "Microsoft resuelve la mayor queja de GitHub con ayuda de Amazon",
+        "description": "Microsoft resuelve la mayor queja de GitHub con ayuda de Amazon Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UZzIzQ0JFaW9nczhfR1JrUVduODdPYllPZkF0U0l0elZaTFNMVzZRbTFYUGpJcFA4VFRibDhOa2xMSU0yRGdLelNvaW01NGhBbVNlejFOVzRMWnJXS2ZoWTh0amN2dw?oc=5",
+        "date": "2026-06-21T14:00:00+00:00",
+        "source": "Hipertextual"
       },
       {
         "title": "[Actualización] Microsoft no está poniendo fácil que los jugadores puedan jugar en cooperativo al remake de Halo en PS5",
@@ -31,25 +38,18 @@
         "source": "3DJuegos"
       },
       {
+        "title": "Microsoft empieza a cerrar algunas puertas a Copilot",
+        "description": "Microsoft empieza a cerrar algunas puertas a Copilot MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1NiYTAyOVBDd0lJUVFNYUxNVmRRaEVnZFlVMXo0NHBnSVY4ZE9zaG1JVVlmU3c4d3F5akpMM0dEQzBLOVl6SFU3ODh4aUhiT0FxdHNfRktDTzJhUEY5V2k1YnNKT3Q2cE5nbFRzemw3U1FUd2RBdkFqejVTekFzZ21QQUFscHlMZXV1OVNTWjdTamZPRE1j?oc=5",
+        "date": "2026-06-20T09:19:58+00:00",
+        "source": "MuyComputer"
+      },
+      {
         "title": "SpaceX llega a superar en capitalización a Amazon y Microsoft, y anuncia la compra de Cursor por 60.000 millones",
         "description": "SpaceX llega a superar en capitalización a Amazon y Microsoft, y anuncia la compra de Cursor por 60.000 millones Cinco Días",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOM3RXdTZlNUhYLVhrYzV3VjV1bDVzOGFTcWpwV0lzSFg4cXFyTjdFR25TUDRRYkhwWUlSZlEzU0E3NXQtc0lVTDBIakJISGlkYVBkQlNCU2t0cUZwUVlzX0d0N0VnZGZKT0hhY0E5UEh6NU4xN0FkSFpNMGc2ZDlmRlJiMldnUGEzUEtJcEREMVFwY0tOZE55dFFEejMtQVZ5dDZ3bC1JR3pTN0puWllkcFBDWmhmQ0lVdHQyd2JSNURmUlZPQVVNYmk5OU1sR1g2Q1BxUnVpdTR0N0ZsenpBWVlTbU02Qk9JU1hqM0RFd9IBgwJBVV95cUxPMGN3NlNITGxkc0x3MmJIZ2dHRXlKZkNDZ09zOHg2cnFwdVpxOVl2MzQ4YlBJRUN6UnBlN09fLWNSZmR4T2YwV0VrVkFCbXV3cndSZlZURFVIVGc0aHpNcUFPZFFCT3JQS1MzQmROSW5zb3hBd0phcW5oRmQ4QVJ5NFhsRjhaOW1UMVQyVkM3TVVxN2RwWEF4YV9faGcxdTJIRndoeTNOTmVoMGQzSmtQWDJraTNISzYyNHNQODBReS02bFhNZm1IWWl3bzVWTkdqVHNLYnFiN2xWcXI3X2xTV3dxQ1IyakVUYUpxQ3hPdWU0VW5OYTFCODJ5Q3dvX2dHLVFZ?oc=5",
         "date": "2026-06-16T10:33:50+00:00",
         "source": "Cinco Días"
-      },
-      {
-        "title": "Los nuevos Surface de Microsoft no tienen ninguna intención de competir con el MacBook Neo. Esa puede ser su condena definitiva",
-        "description": "Los nuevos Surface de Microsoft no tienen ninguna intención de competir con el MacBook Neo. Esa puede ser su condena definitiva Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQS1vZVZpOTdHV0ZZYmN3bnY0Slpkb0s3Q0VXVm9GSVFjdGxhcWE3RXBiYUtTa3drcmlhNGhWaDA2RFFVbkoyb0FYd01GU2dteGxIczlDRkFxTmZGVzQ1SnpMdHVhdEdrUkVVTkxhS29sZ3RVNlZtOHFhWF95YTc0NnFkUHRPY19USnpnZXltZUx2Wm9USHBhOFRLbUR4Q21GdGJQc1JKMklDaW1WenUwSjRlY19KTmhmd0FoQ3lLTjTSAcYBQVVfeXFMTXB6LVhYM3dOeHhpbDhtOWRiVEJZNTU1bEV4V2NwTVVrMllxOFVrNW1zTTJxNzQyOEJqRDAzUmpoNkd0eHF5czB0SE5hU1ZVREdwZjc3VFQ1ZEF0bnU2M2pzeTJDWHFaZXNrUWNrU3dCWDAxQ2x0S2pLQjkzTXp4TzZJaWFUdll2ZGt1ZGlIb1c5NU5hZXlNcWt6NWVVLURUUnZBUVcxamZId0EyVGtZMFdpSGZPY2x4cUtTOWxXb2d4V1dZMXZB?oc=5",
-        "date": "2026-06-18T11:20:00+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
-        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
-        "date": "2026-05-22T07:00:00+00:00",
-        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -61,6 +61,13 @@
         "source": "Infobae"
       },
       {
+        "title": "House of Digital evoluciona a House Group para responder a una publicidad más fragmentada, tecnológica y conectada",
+        "description": "House of Digital evoluciona a House Group para responder a una publicidad más fragmentada, tecnológica y conectada Marketing Directo",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOGs4SHNjVEU5WTNaZG9tY2M0d0RfdWphdWE5UmNBRVFYZk1wTjhFeVM3QWk2Z1I3MUhaM1FyNmZtd3duUXF2b19pWTQ5dzNsVXA2cWpDQ3dUbU1zUjFaUVQ1RUo2dC1ZOWd2cWhPQUlBQ3lZMklRbHZiRW1RR1hYQVdpWmJUQzFDMF9PUFFqeVg5U2p3OF9KcUJzWUZEWmFSLVRXZkRoV2VYaXJnVk1yQ0tGOUJ4ay1WLTJ3QVF4MVJlZ3BRUV9CbGFhTW9VMVZMQXZCdUEwSWhyc1REZ1NlUTlnVTlQaC10dWcxcEtBUdIB9AFBVV95cUxNS1dISDJpaG1famVTNUFjQjNLSTVKSDN6bElkNzA4ckFBVDVTWGlGNGpaR2ZyNDdSMnRXMVo3em5GcnVYcVVfLUcxbXRQQy1Jb1hxY0JURjZLaURFUFFQMUxRSG5CVjdzbUNXdGRzWGQtT1hYb2Q5TXFjdlVzQkJxTUVVaHMzNzJuV3EzRHJJdzR6clE1bV83Z3dHMFBKRGF5dmxyc2N6b0NMcDVBNDQ2bjZSeFRqcGd0aWwtNXN4VE5ZRkRrLVRvbDJVNEU0SHRrYlpYeFdqUUN4RkdzYy14M2FncGRMTE9IR2xEdXhYeU5QeUxX?oc=5",
+        "date": "2026-06-22T07:15:00+00:00",
+        "source": "Marketing Directo"
+      },
+      {
         "title": "Fracasó al querer armar su propio mercado virtual, perdió $250.000 y creó la solución definitiva para no repetir su error - TN",
         "description": "Fracasó al querer armar su propio mercado virtual, perdió $250.000 y creó la solución definitiva para no repetir su error TN",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYVE1LVdLZ2Y4T0RTanNJX3R3YnFCZzNPMDVmNWhKR1BnVnB6LXlCLXUzS3FxcEhiSU1ZekM2VEpZcjIwYVBhLXJUcFR1MGpRcGVvUmxvT1NscS1ON2duMW9MOHg2QWZFbFI2Z2hFM3ByWjAzbUVTMWJWV0ZVREtLY0tEblhuZmVpZEFjeTRXMDdta2wtVF80Rk8wNTY3OVV1NEVXc3hySXdtU0R1ckxKUVhhYS10d2lGdWJLdVpuM3F4ZVlZbFdPY2xXamlaRDFRbnQwUEs2N2o2QlVqaWZIbEIzdGVZSnQyamJhcmRn0gGCAkFVX3lxTE5VQzlqeDcxYXQ5WV9BM3BvVHgtWWN1em9lSktmeEkzVUtlc1RKMFZiQ1JteVlVcXdwLTJiOUVoS0JYcWdqbXV5ZFpYUldyMVc1ZW9ZX2lTVHF2R01HM01zdnU0dEp5Q3FIOTZQVm54YkxZTFdhTWhjRThGWGpkMldZNnQ1X3NaTUZOdE4yN0JVbHFDZWg4aGxoRGs2dUkzbXktLTlwNlR4cnppamdyeUNKc1ZPQS1rOGZ6RXdWblF3VDZ1RU52X1RJRjF4T011SFUxVk9ZcnZNSnpCcVIyeUtNNDgwZU9XaGRFal8zYW9rd2F3NmZXWGpuUE5RTzNBM1VCdw?oc=5",
@@ -69,10 +76,10 @@
       },
       {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
-        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital UNSAM",
+        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital Noticias UNSAM",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T15:10:49+00:00",
-        "source": "UNSAM"
+        "source": "Noticias UNSAM"
       },
       {
         "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
@@ -82,55 +89,48 @@
         "source": "sanrafael.gov.ar"
       },
       {
+        "title": "Aprendé cómo hacer crecer tu negocio: participá de la ExpoDigital Salta Emprende",
+        "description": "Aprendé cómo hacer crecer tu negocio: participá de la ExpoDigital Salta Emprende Municipalidad de Salta",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0lINFN2dTRSekV4aVo3aGdGVGR0dlF4UjdJTjNDZXRSMlpZckIzYWQxSFZ5c2hWUjhlRjZXSW9MR2gyR0VpQnBDWXJTS1AyZmxQLVR1bm5rN0dIYmNPcUl2V3kwSHQwbm04QzU0QVB4bm9OSmxybWlGNWNYUjB1VzFrMXk1LWc0Z1NRU2prYXlMOXVDcWFsbXRhdUs1VGI1eG9LM2lrNVdXNWJYeE45ZzcxX19aUHpNS3hNVE9B?oc=5",
+        "date": "2026-06-16T15:11:55+00:00",
+        "source": "Municipalidad de Salta"
+      },
+      {
         "title": "El sur le pone fecha al futuro: Bariloche será capital del marketing digital con el Patagonia Marketing Summit 2026",
         "description": "El sur le pone fecha al futuro: Bariloche será capital del marketing digital con el Patagonia Marketing Summit 2026 Bache3000",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTkRWbWcxSzIxSnE5dlhOZ055aUV4RFlieEQ4M25KdGJ0amxyOEs4eEVVOW9xS010TFUwOHdHbXNLSV9TZ3psNGIyU3MzYW0wNEJFcmFlY3REQl8tY2ZIb2hrQUJZSG1wbXBjYkZENklpeXZEa3M5X3YyZVNBZ1c5eXVqR0tjbG5BN013cjFreDBfZDB0eGFDZnJnR3duUVRTRFpUR2xQUmpiNXZSYnk4bjRwUW8wbGEtajd4SU5Qc3NhblFXdk9EQkt6ZUUweGx5YUpHWDlxVTcyOGZ4R3pWbnBYb3k2WHlhSHc?oc=5",
         "date": "2026-06-16T20:20:14+00:00",
         "source": "Bache3000"
-      },
-      {
-        "title": "Marketing digital en tiempos de IA, cuando Google no es suficiente",
-        "description": "Marketing digital en tiempos de IA, cuando Google no es suficiente Impacto TIC",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGNHVWMxWGd6SmQ2VFZjMEFIdHdZQnIzYmMtTkMtaUl1MVRpblZMVWR0czBpNU1DUHY2ZzAxVllEUlZuaUNabU5jeVpiUklQOF9hZFlJb0xFZXMzTDNkMHpqZzVsY3NsZndpUWJtby1tZXBEUm92dTBWMzJFVEtUTnB3Um5SemYxVzROYXNzYkxyalg4RTVBc19CeDhzRGRW?oc=5",
-        "date": "2026-06-17T14:51:59+00:00",
-        "source": "Impacto TIC"
-      },
-      {
-        "title": "Inscriben para capacitación gratuita del sector turístico",
-        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
-        "date": "2026-05-27T07:00:00+00:00",
-        "source": "Neuquen Informa"
       }
     ],
     "IA": [
       {
-        "title": "Interpol advierte que la inteligencia artificial está impulsando las estafas en línea en Asia.",
-        "description": "Interpol advierte que la inteligencia artificial está impulsando las estafas en línea en Asia. Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXhUOFJ3b05kZ3B0VUtCWkRSbWt0YjBnc0VUSThPLXpvcE9jZGNUV05wZ2cycm1zRTJRTnFVMlhYRHR2bkFfeWN6c2VIbUhsNUhIcnVWVXhzVk93d2NNS2ZXb3l2ZHlDTUxsWEwxMDJOSzBvOUR3UUR6UW91TTRGZjlDSVRyZ2F1RDd6dVNUR0J6alplaU5vdnFHYjF0U3NWN0E4?oc=5",
-        "date": "2026-06-22T02:10:39+00:00",
-        "source": "Vietnam.vn"
+        "title": "Reino Unido abre la puerta a regular el uso de la IA en el sector energético",
+        "description": "Reino Unido abre la puerta a regular el uso de la IA en el sector energético El Economista",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMVpXY1ZNdEYxaHRucVpKSFVQQXJkN1ZnOXU5U1NzTFgweGo0cUxDMl9YM2xFbkVhVDFEeW9sZlY4X1BoZ0VXS29hRVVReUFYQk50RzFxMVBJc1FrRUZYdGk1Tzl1ZXBkY0NudDlrVExOQUowbVZrSWVDb0dkV3I2RGp2cHVMajU0V3pMVEw5VlUxcDdRb2ZsLXl4bVJTaUFWdmREVUU1SVJLd1dxZm5zT2ppbVBOenJlZlUwbDlCN0dWVmxxZzNlZ1JFOS0zWkRQSmJSaHpPWULSAcMBQVVfeXFMTjhDVmZMRGFpM3FscEJtOGNpQjRveW9QS196Uk1rVDlMNmp0T216dmlrQ3dBaDdlMU5aUGx5bHE2Um9IaVlWdVJST2ZhYS1STG9NMHRqU3hiYTkzejk1eENjdmxhTVNSZE5IYVRrR1p1MldkTGNDU1dOWnBPSnlBbXJxZl9QeXpadEpuNy1XMHFpTGdvTHRoQl9fY243T0lGYTdTdVdlQ0hQNVRybXRkdXA4TWEyTnJDNTEzNFlIZWpaOWxJ?oc=5",
+        "date": "2026-06-22T09:17:51+00:00",
+        "source": "El Economista"
       },
       {
-        "title": "¿Quién regula la frontera de la inteligencia artificial?",
-        "description": "¿Quién regula la frontera de la inteligencia artificial? La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVVXaHl5NmJxa21LbS0yUjZYTkVrY29uZTNmYnY4Yk5NYWFmQ3RLdVFsQ0hFSS1FMDNjWmRpeDQ3YVUyV0hCMm5Ya3Z0S0M3bWVQUk94S3RscUJpTC1jVWVVNEY2OGdfTHhNVDhMUEhSdHBDcmlEdlBob0NYOS1YcC1jZHh3RFhwMWdzLUlKRFY3QlBoOTVwOUI1QU1LRlFKWVE?oc=5",
-        "date": "2026-06-22T02:49:42+00:00",
-        "source": "La Gaceta"
-      },
-      {
-        "title": "Un punto de inflexión histórico para la IA: los chips de IA asequibles amenazan la multimillonaria \"mina de oro\" de las GPU.",
-        "description": "Un punto de inflexión histórico para la IA: los chips de IA asequibles amenazan la multimillonaria \"mina de oro\" de las GPU. Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEJva2JGZ01fR1pJZXNYQXRUOC1temJDXzgzT0thcDFsbmVfc0NDeUd2TmM1U2RUa3p3bTlUVFRWQ1Y5Zmc0eVdfNUJsYU02d3RvZ2lnWUJiU2V0c2llRGFTNExHS1Nscy1BSXBkVVA0b3NkOG5MZUl2d3ZuX0wzNDBPTkFTbkdEdHB3Z3E2eEVpMlRzZER1YU91bno1UW1ienpiQ185QlFNeENRM2pSUg?oc=5",
-        "date": "2026-06-22T02:08:21+00:00",
-        "source": "Vietnam.vn"
-      },
-      {
-        "title": "Argentina lidera el Mundial junto a Google: este es el as bajo la manga del equipo de Scaloni",
-        "description": "Argentina lidera el Mundial junto a Google: este es el as bajo la manga del equipo de Scaloni Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2xVTC1KdHhuaUprb25DLU9PNmhkUjBYUUtlUnJEY2duMEkwaFdUdFVWdk1ld2xUV2FoYkd3NE9SUUJhalExQ0l1N21LZFVoRTlSXy15LUhNSldxdDlXMkI0TUFMTnB1OFVpRUNMdzdhZGpIVHhXWFFZU3pra2ZCeHBrdkJxRnA0QVBOSGZzd21MZjUxQU8yOTQ1TEN2LTQ4SDZ3bTBIVko1X2FKSzExZXBMaldiRHVud1pFSmQxTGF5bjdzQmEyZEFDLXNTSzTSAeoBQVVfeXFMTzZuYmZjQVdPbU9RaXNweDY4d2FTbmtOQ0xHTHprQnl6VXpOcVhCX0pMMmdaOUw0RHBaVTBtUm5QUUpHTVBpWmloQkpGWjZ1SGRuTmJSWTNBdVFkOWpFLWx0ekczX3ZwZ1cyUk40ZU53VEpkcS1mVktCMUxWQzNmZFp2WHBTaUZzYURJai1BOURwX0NOUFRnWnNmVmFNVW1mSEwxNTJCWUZNTWdVZWZ3VlgxSU9yZXR6c19pTHNtRTdwTUZqM1hYZUhTMDduMFFpTGRZV0JzX054TmNIbEFaZmtVejBsQWZ6b3Zn?oc=5",
-        "date": "2026-06-22T01:04:47+00:00",
+        "title": "Primer empleo en la era de la IA: qué buscan las empresas y por qué el CV ya no es suficiente",
+        "description": "Primer empleo en la era de la IA: qué buscan las empresas y por qué el CV ya no es suficiente Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSC1SWWs3ZzlIR3dfODRmY0d6VUtUX0Y1N1M0SUZPelJKOWJMWlU3TTlJdXh0ZnFpSGZLRWJDNWxzZ3EyQm41SHBHZkJhbmU1ZjlZb1Q2cWUxRUc5dG12bk96M3E5NVFLUXdqVEtGbmo0YkNQaHpmRjhCdnFlczRMRGc1Qm1jLUFGSkN0VldaVklzSFpwZlY4NmRDaEtUb0lFdzVmRjhLd3p3akx1MFlzYm1KdW5Td25pMUlMNXdxczhoZnQ0N2VKQXhkU0JsSnBZUjI00gHuAUFVX3lxTFBHeEt2RzN3aW9SU3RRY25IMEdsb2VyMk83OEZCVklLWTcxYmhsNGg2a2lzdXFXVDFNQVFkVGxEVHpfdl81a0lfLWE0X2JuSXZZYXJIOFJ3UDR3Sm1FTUdTMGNOcEFjazJac0pHMjhMaUtxNk44UUxQTUhnamRWUVNTUy0tUVZTOXNUMzNXNHViWHhNWjlYTHFsQXdxVUM5TUU3anctMEJMNmR0TmZQZHJscWVmcFk2bmk5b21MSkZrRy04b2lpbTVvR2tyU2p1dG9IX2NYdVdQWTVCcDIweDRqSXA3M0JzSHFWOVpTanc?oc=5",
+        "date": "2026-06-21T17:59:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Foro de la OEA: \"Argentina puede convertirse en un hub global de energía e Inteligencia Artificial”",
+        "description": "Foro de la OEA: \"Argentina puede convertirse en un hub global de energía e Inteligencia Artificial” Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdzh6c2xkaEp4REtKbzBCNWNXclRzOEFCZFd1dXNNeUJnZkVHQzVQT3B0RzJhM3pTTzN3QUNnOERzelVJWldKbVNROFpDRzNQakxRYjdQZWtCNlpvNWk0aG1BaVY1d0Q0RlV6akt6RzE3dUVPdlQ1cS1jWl8wWFN0dS1RY1J4X25KUkhwRWxGd24wWVduLWhreFhsdUMxajdYUXJjV1FnSnVjbGNMWkxLNHVXMVg4V0N0ekNLVUZRZ1RfZnNodW1Baw?oc=5",
+        "date": "2026-06-21T22:54:22+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Jorge Brito elogió el RIGI como vehículo para inversiones en energía e IA",
+        "description": "Jorge Brito elogió el RIGI como vehículo para inversiones en energía e IA Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV2dlY3k2dlJlNDVDNFNjUUxPX2NlTEtFcHIzcW5RQkNQZ29scjluNDY5NzV4T1VRcTFKNDJZVFl3dS1HdHdXLUJDV2tvTHFaZEZhZVNpSXdqYy05SGNYOVl2Sy1GTXNoMnNlRTJ5Mm1fdFNxenM5WTBlMlJZczBYZERGbnRnalpWTDlVNGYybEk1a2ZNWnh1TEpxM0wzSjNMZDlCcjVQQS1Pa3FDcTZGVzMwWG5ERXNBbjlLZ1dSeDhreG5lVGxUZXF3UnJTeWdoM2lFWmY1WmExc1pfQ0QtTFZNNUpoNnFYQmFLMVNLOXZwa2FEMmJjQdIB_gFBVV95cUxQMVd2VnExXzlzWVlFeFBfMW9qcUhRdEF2T3BObDhMOHN1eFRuQUMtaXoyNW1UellnSkgwUnFzSXFBQVhJMXhuSFVXX0hSTG16S1JhN3FFLUJNbzJzQjNqTTRINUV6Z1hlVmRxYVlIYjhuTEt1WndGR3puUk9qcTZnN2lGTWFPMVFjZmRXY3c0VVdpdUNvRXk2UzM5bGVlZ0cwUTFFWTA2ZXhjSmxpejB0MXFnLVkzWGF1cndNcjBBb0d2S1gtM0JZOFV3SmxoeVliQ05ZRFpSWUhLVmQ4T2piUjh3QkMzR19qbllSQUx4dXZkczA1aGtYRW1VYWhxQQ?oc=5",
+        "date": "2026-06-22T00:53:00+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Jorge Brito: “Argentina puede convertirse en un hub global de energía e inteligencia artificial”",
@@ -140,18 +140,18 @@
         "source": "Infobae"
       },
       {
-        "title": "La visión de Jorge Brito: por qué la Argentina puede convertirse en un polo de energía e inteligencia artificial",
-        "description": "La visión de Jorge Brito: por qué la Argentina puede convertirse en un polo de energía e inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZl93OVR6b1JBT2pzRTNfYkdscDBrVFdURWZMekJURGJfQlhZUXNKUHo2T2t0ajhxV2FxTllJdlBfejNXdHZBUWhiem1MdWhoN0w1dlRjRFJ3b1JTWVhHVXRVMEdlTzNFTmhNa3VIYmlFOG9XQVpnNGoyUmNyS2ljMjVoblJYb3VBNkhwMjBlZDRheHpfOWljV1FTeDBNWl8ycHE3eng1NjFFcm1mcmJUVWFTTlBoY0tqYnd2Y09NVEtCdElZb2o5NTMxT0NVRzJnY20xVl9SSmJXMkR0ZXh0REpVZmM?oc=5",
-        "date": "2026-06-21T23:50:00+00:00",
-        "source": "La Nación"
+        "title": "¿Quién regula la frontera de la inteligencia artificial?",
+        "description": "¿Quién regula la frontera de la inteligencia artificial? La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVVXaHl5NmJxa21LbS0yUjZYTkVrY29uZTNmYnY4Yk5NYWFmQ3RLdVFsQ0hFSS1FMDNjWmRpeDQ3YVUyV0hCMm5Ya3Z0S0M3bWVQUk94S3RscUJpTC1jVWVVNEY2OGdfTHhNVDhMUEhSdHBDcmlEdlBob0NYOS1YcC1jZHh3RFhwMWdzLUlKRFY3QlBoOTVwOUI1QU1LRlFKWVE?oc=5",
+        "date": "2026-06-21T21:49:57+00:00",
+        "source": "La Gaceta"
       },
       {
-        "title": "Foro de la OEA: \"Argentina puede convertirse en un hub global de energía e Inteligencia Artificial”",
-        "description": "Foro de la OEA: \"Argentina puede convertirse en un hub global de energía e Inteligencia Artificial” Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdzh6c2xkaEp4REtKbzBCNWNXclRzOEFCZFd1dXNNeUJnZkVHQzVQT3B0RzJhM3pTTzN3QUNnOERzelVJWldKbVNROFpDRzNQakxRYjdQZWtCNlpvNWk0aG1BaVY1d0Q0RlV6akt6RzE3dUVPdlQ1cS1jWl8wWFN0dS1RY1J4X25KUkhwRWxGd24wWVduLWhreFhsdUMxajdYUXJjV1FnSnVjbGNMWkxLNHVXMVg4V0N0ekNLVUZRZ1RfZnNodW1Baw?oc=5",
-        "date": "2026-06-21T22:54:22+00:00",
-        "source": "Clarin.com"
+        "title": "Los peligros del Mundial: falsas aficionadas, voces clonadas e historias alteradas",
+        "description": "Los peligros del Mundial: falsas aficionadas, voces clonadas e historias alteradas MARCA",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1lDMnBGb080WUZpWG9fYmlIbVlyS0NSeDN3cnl4LXlHTG8xN2liblZpb210S0hVX3l3M01nRmNGeVJpWHNiY0FXV2hVSzdVVEpvemhnMlF2UGh1aVVXbW1VUUV6b0twQU1TQk5IejNCSWZLemQ4ZE1HVGpJakhhMkQwSjlMcHV4QTI0S0xReWZYZTJsbDhDQW52dTczYVRUUVJ3VGttcURGUTJnenBTUk01MWNwZExTaDd3ZklYX01fVlnSAcMBQVVfeXFMTzByT2pkUkh4S0tjTHhzbXRQT1pja1J4c0tab1VEWGY2UmdPeWRYMkdpY1pWSkxFYXZldlVXenNYckhrZU84R3A0Tko0eGNmQ1E2bkNsOWk5dTJXSmdSMWprX1E4U1gxSDdETmhaTEp1Z2YwLVFSSl9takZORnBleWlXY05lYklGbkh6NkZMbGx6RExXZW9fT2UxVVQ0YzRFOFp6dFhHT1JiM3NCS19idEJxd1AtSGNtTC1WRzhvRDQ1SmFj?oc=5",
+        "date": "2026-06-22T04:39:16+00:00",
+        "source": "MARCA"
       }
     ],
     "Vaca Muerta": [
@@ -178,7 +178,7 @@
       },
       {
         "title": "El agro, los autos y Vaca Muerta empujan el récord, pero la industria no convalida",
-        "description": "El agro, los autos y Vaca Muerta empujan el récord, pero la industria no convalida Perfil Récord histórico de superávit comercial gracias a Vaca Muerta y la caída de las importaciones industriales La Política Online Con Vaca Muerta como motor, la Argentina exportó más petróleo…",
+        "description": "El agro, los autos y Vaca Muerta empujan el récord, pero la industria no convalida Perfil",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQUs4ZGMxWXpkTFFSQzFnUGJROWhVcWNKOVhrSm5FTzVNN3VOcVZRRDZhVVFOOUVfT0x3azZ1SDlCU0tKM3hSb2tZZjRvVUhqVnlkeGVBRXVNMmNlaVlPMFltSTA4SVg0dEM2VjVCX25fRzRWSVl3LWxuNGpDNUpIT3dVVmVCRk9WR3dtSTdkRWphWFBTbVExOTRQTWs0T01GVXBtV3VBdVJYVmlMcXlJS3h5SFJSMTg3NzY3U01CdlZwaEdPeW1oZ3N2QTBLT0lNU3JLcFMtWHU5bGsyM185bFY5YzHSAeoBQVVfeXFMTUxtblRBSnlkcm1RM201LXFNb28tVmthWUxfV2kwNnNNMUN4eEJycTN3bG02YVhwNDI4Zk5lSE5CNzlITXlTR1EwNVU2ZnNsNG90bjk5UE5YRGQ3bmtkSVEyU0Q2Skw0YnlXMUNwTE8wYk90ckxJeGxocENCblRyUDZsS3hUaFpYS3llS2didkstWno0ZFdyZWR0dGRpSjk1aTQtNDlrbVFkT3lDMWFmYy1laDlYanpiakR0MTFFSFQ0OW1aVFdFWUcybEZqb3RoTjhrREFWQlNUTEJWVzRJb1A0Zk9BbUJsTVBn?oc=5",
         "date": "2026-06-21T02:52:52+00:00",
         "source": "Perfil"
