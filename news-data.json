@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-23T13:40:57Z",
+  "updated_at": "2026-06-23T16:24:33Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "UBS reitera su recomendación de compra en Chevron tras acuerdo energético con Microsoft",
-        "description": "UBS reitera su recomendación de compra en Chevron tras acuerdo energético con Microsoft Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYnRoWUR5Ti1pbk5XR2psR21RbUZJSlpkMmstQ3BCeEgzbnhYTjg1eFpnbm5WZkdVb0VsbTMxR01yODFJVUkzZUNlNTFPRnhKbG1UV01BOUsxcEpabnVJQWdYcWRDREVmdGY5UnRsVUVGa1FZVG1xNzYyVkxWMVltTUJib3RBODNXcVBJWGoxcTNweE9ISFdYOHNLdU90ODF5TnJmejhsWnpZOWhZd3NBUXpVVGNtOGtMNnA4Q1MtTU9QYWE2cko1OHFVdEcwMi10Mml5NUVONGppYkpreHFv?oc=5",
-        "date": "2026-06-23T13:30:00+00:00",
-        "source": "Investing.com España"
-      },
       {
         "title": "Office 2021 ya tiene fecha de despedida: Microsoft dejará de actualizar Word, Excel y PowerPoint",
         "description": "Office 2021 ya tiene fecha de despedida: Microsoft dejará de actualizar Word, Excel y PowerPoint Infobae",
@@ -31,6 +24,13 @@
         "source": "Cadena 3 Argentina"
       },
       {
+        "title": "Microsoft en tendencia bajista en 4h: niveles en vivo",
+        "description": "Microsoft en tendencia bajista en 4h: niveles en vivo Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjRFZ1RlWUt2S1hiLUdvNFJJWmdkNkswZVVPcTRCaEVYSEpVWHBGLWx4b0hMTHQ1MEFIUzNvVkFOSS11NkcyZEdqcmc5cTVhZzNUbVl6a3UydFJLZmdVVlZMZUhQMW44WmxrVjB4QlhYY2xWMExGMmtKWlpxNVhSM3N6MEVsdEtPWTJ2VkZWbk41VVoxMExaMTFqaEFpQWNvRnVXaExrTEdvMUp1cE9nMVUzbw?oc=5",
+        "date": "2026-06-22T14:06:00+00:00",
+        "source": "Investing.com España"
+      },
+      {
         "title": "Microsoft publica la versión preliminar de Windows 11 26H2",
         "description": "Microsoft publica la versión preliminar de Windows 11 26H2 MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZkZUc3k1VkZaTVpRSGE2SHhhUXVIXzR3U21sOUJQd0ZhSERvckhBeWF5U1pCV0UtNkdtLW56djlENlFsemt2Y2EyUmVaOUlOYTd3V2ZqRXhfRjktVmxiRXo5a2ctWndfRk1STXl2QWcwcVpIRV9rdlNCZ29PUzJFWkFZZXo5djJTenFTdEUzQi1zclBmQk0wMl9RVDRwMkk?oc=5",
@@ -38,21 +38,28 @@
         "source": "MuyComputer"
       },
       {
-        "title": "Una leyenda de Age of Empires se despide de Microsoft tras más de tres décadas trabajando en la compañía",
-        "description": "Una leyenda de Age of Empires se despide de Microsoft tras más de tres décadas trabajando en la compañía Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3NUWEgwRnJWQjR2dVdoZ3FhQVVMVV8yNmM1cC1lSkZ5UUFUSkdRWEVybVZ6RGVmbmpZSEYtc1BNQzZyM0liY05zaE80aUZOdWtOMmhuNzEwUmlFNGxNQUQ3aDRPdjM3VzlGb3Q0MVN3ZFpxN0FDUUFIODZVN0VRcVhiejBCSjV2VlVMaDB0a0x2cHpvdzUySHNja0xwaUM1VEdyQUhhcDlma2QyVElHQkhYdnBNNmJQNVJSemtiY0VwOElFYkE4UUtkR0xOTnM3MDZvYk1PdWFaWkJyZFHSAeMBQVVfeXFMTUU2SnNWRXNBb3pEMWhkd2xZUF9FaFpuWXI1VFZxd0tSMjkyWXVqRGFFQWlzd3BpUjlRcW1CcXQ0bGlFUU52UDhtcGF3aWZILTBNNGphZUhJMHYyMFVRaGV4MUFhNmNtNzhYRG5DOS1aZEhmamkyN0ZwRTVjV09icGk4LTVBTXQ5OFpUeXBWc0FLWjMxNHpUT1ljMk5tRDU1UUpxc3R3a3BfMWxheEE4UGZtdFRRSEVxblUzUk5TNW8yVDR3bWZFYXQ3WlB2azBMMXFSVTFwNTRocmpNMHBPWHoyOEE?oc=5",
-        "date": "2026-06-22T10:00:00+00:00",
-        "source": "Vandal"
-      },
-      {
         "title": "Microsoft resuelve la mayor queja de GitHub con ayuda de Amazon",
         "description": "Microsoft resuelve la mayor queja de GitHub con ayuda de Amazon Hipertextual",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UZzIzQ0JFaW9nczhfR1JrUVduODdPYllPZkF0U0l0elZaTFNMVzZRbTFYUGpJcFA4VFRibDhOa2xMSU0yRGdLelNvaW01NGhBbVNlejFOVzRMWnJXS2ZoWTh0amN2dw?oc=5",
         "date": "2026-06-21T14:00:00+00:00",
         "source": "Hipertextual"
+      },
+      {
+        "title": "Microsoft prepara una herramienta para entender mejor los motivos de cuelgues en juegos DirectX12",
+        "description": "Microsoft prepara una herramienta para entender mejor los motivos de cuelgues en juegos DirectX12 Noticias 3D",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnRHc2N2V1k5RXFHa3MzcWNZRG5IZHlUa1BsdmF5OE9VMmJLeFR5bE13cEE3cE1xVnRhRDdTZ2RQbUNLOXFKM19Gc2dWcndyTGxXbXdvLW9iV1hrcDJ2bnkxakVBZGtLUUVSQTFmU2dxb05kdmpwTlZlVl9oLVpNeQ?oc=5",
+        "date": "2026-06-20T18:41:18+00:00",
+        "source": "Noticias 3D"
       }
     ],
     "Marketing": [
+      {
+        "title": "La Falda: alumnos completaron una capacitación clave para el mundo digital",
+        "description": "La Falda: alumnos completaron una capacitación clave para el mundo digital El Diario de Carlos Paz",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3BLYnZ3clpEOEYteHJaSnRReGlKbWRUOVg1LUF5akw1c3huY193OWg1VXNDRDFFbklob21NbDZndlNxckhSY3lhNzZTbTROM2JlRkhUQzBrVElER0pIdG1vODR0V0s5dUpBLWRHam81SzU3UmNKdmZabnE5WXc4ZHJNdHE2MXFvQWFmSVhYUjE4cWVrWHRyaVlPNkwtVFFLWTdEWHltYldacnlNTEJXS1JvUG1WSXZLSXRldE5SdGNmQmNtV3k0UWtkaFNLb1h4V2g5M2s0cURtczg?oc=5",
+        "date": "2026-06-23T14:36:52+00:00",
+        "source": "El Diario de Carlos Paz"
+      },
       {
         "title": "Un especialista en marketing turístico analizará las claves para vender más en la era digital",
         "description": "Un especialista en marketing turístico analizará las claves para vender más en la era digital Nueva Rioja",
@@ -68,18 +75,18 @@
         "source": "Infobae"
       },
       {
+        "title": "IA y marketing digital desafían a empresas y universidades a replantear sus estrategias",
+        "description": "IA y marketing digital desafían a empresas y universidades a replantear sus estrategias Revista SUMMA",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZS1nNDgtOGhDN2wwVXBCMjk3TUxTZEVRZWdzbHd6dHF5d1F2YmlZU3VWM2ZBNHY4T2JHb2p2MzF0VWxWM1pzb1V5MXRPamVKbURlVjRLUHJSNklSYzVDQmFwY3plTHJRWXNrdV9pSFcwWHlGbGxpa2xYeGsxLU96eWtSdHVlSEloT2t4WXUzTC1OU3RtczVHZ2dkNU01UGJXMTBMUU1WdUZoX1dCLWs4VnZrMA?oc=5",
+        "date": "2026-06-23T14:44:08+00:00",
+        "source": "Revista SUMMA"
+      },
+      {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
         "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital Noticias UNSAM",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T15:10:49+00:00",
         "source": "Noticias UNSAM"
-      },
-      {
-        "title": "Se viene un Workshop gratuito para agencias de comunicación, marketing y publicidad",
-        "description": "Se viene un Workshop gratuito para agencias de comunicación, marketing y publicidad AGENDA PyME",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNemNCNnY3dklxN2NjSmo1VEt1MG9VUnJXeGdiWXRVUExMT2hrTFAzLWt5ZXlEOEZNMXlBcWNzR2ducnVMTFd4UmEwMkpac19OMUlXd09iS2ZkWnBCZjNCQnRsNGhfQ3lqMVc1SGpxSGo3RnU3UEZTZ3JsUzdCUDBvTDBKOGZYT0UxekVMdThudVFidW9uc0t4YVBLcmFTbDRUUXVvV1h2eVRwMElvaVBWUzlra29LeEk?oc=5",
-        "date": "2026-06-22T17:29:15+00:00",
-        "source": "AGENDA PyME"
       },
       {
         "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
@@ -89,18 +96,11 @@
         "source": "sanrafael.gov.ar"
       },
       {
-        "title": "Marketing digital en tiempos de IA, cuando Google no es suficiente",
-        "description": "Marketing digital en tiempos de IA, cuando Google no es suficiente Impacto TIC",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGNHVWMxWGd6SmQ2VFZjMEFIdHdZQnIzYmMtTkMtaUl1MVRpblZMVWR0czBpNU1DUHY2ZzAxVllEUlZuaUNabU5jeVpiUklQOF9hZFlJb0xFZXMzTDNkMHpqZzVsY3NsZndpUWJtby1tZXBEUm92dTBWMzJFVEtUTnB3Um5SemYxVzROYXNzYkxyalg4RTVBc19CeDhzRGRW?oc=5",
-        "date": "2026-06-17T14:51:59+00:00",
-        "source": "Impacto TIC"
-      },
-      {
-        "title": "Nike lanza el video del campeonato de los Knicks tras la victoria en el quinto partido.",
-        "description": "Nike lanza el video del campeonato de los Knicks tras la victoria en el quinto partido. ALM Corp",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmlwc2NxdUhrc0tPUzNsTFNOc1FyU1dCN3FtVEl3dFA0U01xUk5EWGZmd0ZzUkVmcDl6aDQwNG92TGtfM1NPWHlnZFRzN2x6am1ORktCMTdBWUY4RWtZV1BCR05JYTBXSkdLYjA2VlA2cW4wVXNnM1JodzZrSkduelRVVmk1aW1QVzRiU3lwQnp0MjRuMTBkck13VQ?oc=5",
-        "date": "2026-06-22T15:09:40+00:00",
-        "source": "ALM Corp"
+        "title": "Se viene un Workshop gratuito para agencias de comunicación, marketing y publicidad",
+        "description": "Se viene un Workshop gratuito para agencias de comunicación, marketing y publicidad AGENDA PyME",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNemNCNnY3dklxN2NjSmo1VEt1MG9VUnJXeGdiWXRVUExMT2hrTFAzLWt5ZXlEOEZNMXlBcWNzR2ducnVMTFd4UmEwMkpac19OMUlXd09iS2ZkWnBCZjNCQnRsNGhfQ3lqMVc1SGpxSGo3RnU3UEZTZ3JsUzdCUDBvTDBKOGZYT0UxekVMdThudVFidW9uc0t4YVBLcmFTbDRUUXVvV1h2eVRwMElvaVBWUzlra29LeEk?oc=5",
+        "date": "2026-06-22T17:29:15+00:00",
+        "source": "AGENDA PyME"
       }
     ],
     "IA": [
@@ -112,46 +112,46 @@
         "source": "Infobae"
       },
       {
-        "title": "Alemania estrena un campus con cientos de cursos gratuitos en inteligencia artificial y tecnología de vanguardia",
-        "description": "Alemania estrena un campus con cientos de cursos gratuitos en inteligencia artificial y tecnología de vanguardia Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVmg5ZkoyVWpTVFJXQ1NfaXpWMzgzdWNuZWxpNjRoUW1DRks5OElGTmRoZUJCYnFfa1NxbmNSeFh3SVo1NFkzSlpJOHR1eTVhLUxPb0tYeHFHcVNQdVRydTdCamZRZnNaaF8wM2F5VFVBdlIxMjgtQUhCYzdxdThaYmlrYW5MOEJhMTJWSGo4bDZEOWlXbnZiZEpMVXNZZUcyVmY4SEhfTTcxMVM1bkVNT2plVFRUUWxwYVJ3Tko4dlhQZ253TEo1Y0pieHowQk9wQjlRZU13eGNJTXUzVmFtblJ1QlJVZTBNSThSSFhOYmZSRl8z0gGPAkFVX3lxTFBDSENOTjJ6MmJOc3lIS1RoS0Y5MTNNT0pvbW54SGhtdjE5ZHlQRDRmdWlQSFZIaVptdlFSVmtrNGJHb1FfeTV0SFE1Mk9ib3pOVlpaS0dSc1djNDd0djlreUV1MUVxTWZKc0pVWHVXOGNmOWZRX0ZVNlFrYVA0STRJV3V1Qk41cGctVjdJVWZLeEVObUdGN09kUEJPLWdPZmt2djFQWnRyX3Q5NGpSeTlobmpCZ3k0M0lkcm1xLXl3di13ZG92eHNRcmJubkxnaDI4RVN0aXRmVXJibXN2UkZMbl9DVjNMOTVBY0JsTUlTSnpCNzlPb0hONmRBVGIwZXZ1XzBxbks5UmROU0xqY2c?oc=5",
-        "date": "2026-06-23T13:31:31+00:00",
+        "title": "Michael Caine replicó su voz con IA para narrar el audiolibro de ‘La Odisea’: “Bravo a él por reconocer hacia dónde va la tecnología”",
+        "description": "Michael Caine replicó su voz con IA para narrar el audiolibro de ‘La Odisea’: “Bravo a él por reconocer hacia dónde va la tecnología” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNU1hFQzR1Y1dhb2dVa2U3bjhSVmdZaUNJVTFscGNubnUxVG9tYURUaGxVejQzQWVFY09HQlpIeHhISFJTbTJ5cDNXN1pfcVNXa21hLThrOWN3ZW1CemlzNHFvSU8xY3ZCOGNOODEyeU1IZ05WVXJCeVl2enE0aEdFQWVKVkQxcEw5SzI4NXFjY2FoVTJ4Zjc0Q1drUGRNamZmenpZZXZDaElRRHlfc04tYXhRcjk5cGVqVTA1R1JDaXRDQUoyY25wX285c0VDOUN3clJ2VlU1WWxnTGFIQWlxU190VFI2bGExblItcGNBa1Y3TXVSRVhOSnQzdDV4ZXBHN2FQRjM3Q0laTDJC0gGnAkFVX3lxTE9sc1lNa3RFVDg5TElITlloWGtkTXkwV3lhM1JfSWMxdXRNMWxvdno1aWdTUFNnWFZTLXprSFhvVlVJYzAtclpoTU1CemxmbmVNbkIwTWNBaVJPaFo5UXJ3LXEyVHdINkc1RUE5THIyUFhueGtKeFI3Nmh5ODRWcEdjZDRaM1hIdVpUVEttZ29BbUduY2M2OFpxTmpqNzc0cHRDTEJfSzRrSW1BU0dPd3pwaURac3NTR3ZWcmp0TktfRnVoS3NHeFN5MHFLT0RYNU9OSk83OERHVFdJRWpMbzdyQ1JzVjVWdjFDQzNvOXd2c3FSNk9JV1llc1FocTYtSC11dXhIN3FpRGI4ZFZKTXJ0Ymk5Z0h6WGlpQkU3eHpyQno4dWhocFk?oc=5",
+        "date": "2026-06-23T15:08:43+00:00",
         "source": "Infobae"
       },
       {
         "title": "CHACO PRESENTÓ SU MODELO DE EDUCACIÓN CON INTELIGENCIA ARTIFICIAL EN ENCUENTRO LATINOAMERICANO",
-        "description": "CHACO PRESENTÓ SU MODELO DE EDUCACIÓN CON INTELIGENCIA ARTIFICIAL EN ENCUENTRO LATINOAMERICANO Gobierno del Chaco",
+        "description": "CHACO PRESENTÓ SU MODELO DE EDUCACIÓN CON INTELIGENCIA ARTIFICIAL EN ENCUENTRO LATINOAMERICANO Gobierno Del Chaco",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVUNtQ2ZSZE9zcHFSbzJoTkZKbFZmbUt0ZXFWNTgzNGMySlVqN2dKUkxDcTlYckZqUDQ4ZU9Bd0hwb2JITjRXTl8xLW1OemNrV3hsTEM2d0ZwNTVQUWFUMTB5a25GRHhCTXgzb1lidHZ4LVBNM1F4WW1mcmo3Z2NsQzJxd3I2d3VMejBXU3dOd2xpSXpGazlYS3pQaW4xb3o0YzZ1eTlJNldmdGgyOEROd25vX3BLWjBoMzY0aV9pdi1aNWtESU8wWjMtNlVTa3hQVmNWS2Z5Zw?oc=5",
         "date": "2026-06-22T21:21:51+00:00",
-        "source": "Gobierno del Chaco"
+        "source": "Gobierno Del Chaco"
       },
       {
-        "title": "Jorge Brito, presidente de Genneia: \"La Argentina puede ser un hub global de energía e inteligencia artificial",
-        "description": "Jorge Brito, presidente de Genneia: \"La Argentina puede ser un hub global de energía e inteligencia artificial econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZzJnY0RaOG5seU43Qk9MZTVVaEpnQ2NjbjR0ME5KOGU2WHpiTlJobHRySkFjeEp2TUlJR2hTXzRpdTM2bmZaWGs5WkVxSGhuRk5UVTFYWDlBTFQtSmRXa0NCblhlOVJRS0FmUVdpXy0xNmloWDVFOWU3NUxDRURPTlJKNHBGNENsOGkyV3BCcmRiZkdrQkpzOTVBbml5LVZuN3ZsQTU5RjNXTGV4QWNUVUpSNFFOWkNRY2tDSVNqYlhvUQ?oc=5",
-        "date": "2026-06-22T12:02:39+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Un estudio afirma que casi el 60% de los videos en TikTok son contenido basura generado con Inteligencia Ar...",
+        "description": "Un estudio afirma que casi el 60% de los videos en TikTok son contenido basura generado con Inteligencia Ar... Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNamt5a1pZQWRybmNXem9XcTYydFkxVWtsQk93emdXSFR5TVQzYWVNZzI1N25RUXdjTS1PMExUbGVMaVE0TjhDUTVJajQyYlJlXzhUcGkyejRqaWZBRmtBQVlLaXJqUlRTelJkZFRwaUlHdzJIb2lWUjhOZ3FiOFREekp6TkFyb1F1X25xQkNqbXZxUFBmY0R3WGt3QWIwQnFZWVRsdWxVU2JnOGJXMjNBRXlxYWtGVHczUDhQMjVPeDlPbHl0WGlLSFBvZGdBLXFoYnl0QXkzMVVWLXJISm9NRVhpbEstWWxxQlc0bER4NXEzdlJHWG5RZ2lnd2V1d9IB_gFBVV95cUxNamt5a1pZQWRybmNXem9XcTYydFkxVWtsQk93emdXSFR5TVQzYWVNZzI1N25RUXdjTS1PMExUbGVMaVE0TjhDUTVJajQyYlJlXzhUcGkyejRqaWZBRmtBQVlLaXJqUlRTelJkZFRwaUlHdzJIb2lWUjhOZ3FiOFREekp6TkFyb1F1X25xQkNqbXZxUFBmY0R3WGt3QWIwQnFZWVRsdWxVU2JnOGJXMjNBRXlxYWtGVHczUDhQMjVPeDlPbHl0WGlLSFBvZGdBLXFoYnl0QXkzMVVWLXJISm9NRVhpbEstWWxxQlc0bER4NXEzdlJHWG5RZ2lnd2V1dw?oc=5",
+        "date": "2026-06-23T13:13:00+00:00",
+        "source": "Rosario3"
       },
       {
-        "title": "Jorge Brito: “Argentina puede convertirse en un hub global de energía e inteligencia artificial”",
-        "description": "Jorge Brito: “Argentina puede convertirse en un hub global de energía e inteligencia artificial” Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOXhMbThDck5mek1zUFVnMjNlcW01VzZKVUFfaWtWXzRZY2ZCODRoZHd6ZDN3VmFFU3lyNC1TWkhDaURCT0JReWIwbXhsMjhabHZIUXNzeFlueXQtUzAtV21uMWMyRTlDc0ludmVLQlVPcnZENGd0eG5ld1pmVVVFc01vbUZ3dFpMZ0g1WXVoOFlYVE1MQzBoamlZdE1raEhWS19VYzNSQ1NNMjRSOWktbVdSa2xvb3ZmMEFSaTBkaS01QThxb1piNkZXRkViNVV5d1ZfbdIB7wFBVV95cUxNNDlrZ1hUMnhnbTBZNjFsbmtsVVJidjBoTGljWHlMOEVza0c1ZzVobkpkYzl5cGItbVMxMDQxalhvODhZc3FNUUh5N0lFS0ZhVk5lZ0kxQldyNVlwbTRDOHZfR3JoaW5SaDNYdUQ5VnRScDdsYXN6dTlWcU1TdEZIVG5lcXlkTzB1MmdReXRGUUVaTkY4U0FUQVZaMXFDSEZvWkpxMWJ6b3JvVkFlYVh6UkUxMGlhRldnSm8wY1RfLUpqd0tNUDVnZ09PMGxxSGRCdVhCcTN6TkpMbTk2bmk0WDNtMjF2WVRFSXdueFQ4cw?oc=5",
-        "date": "2026-06-21T22:27:00+00:00",
-        "source": "Infobae"
+        "title": "La UNJu busca modernizar sus carreras, incorporar inteligencia artificial y fortalecer el vínculo con las empresas",
+        "description": "La UNJu busca modernizar sus carreras, incorporar inteligencia artificial y fortalecer el vínculo con las empresas Somos Jujuy",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNThSV3FSeVNDMHZYMy1JcjJyMEJhVnY3eTdEallyRG5kMU5YRzJueXA4TXg1ZjU4NjJVVG9pMmVvb1hha01aWktqUXhsWGRaMEJsWENRa3VzV2JMSUJnMm9TbnhhYjNFQXVmVzlaV3UtNkpjUE9lTklBbmgtZDMzV0JZUWpBTjZKdU5QR210TjFMSVB3YkloazF5NzNCQ3NmY3h5RXRZZEZXOUlaU2habFU4Nlp6YzlJV3U2eWRZTEp5OHNIMURYNzZiTWI4LTdWRXp2MTZPOU5Pa09Y0gHiAUFVX3lxTE5MVFZjc3IzMFBidnRhb2ttR2MxOUNKVXdLTkVBendFdkhLM0hZWUMzWWhoMEtJaTJXRXhWdms4Y19FM2tPX3dWb0RNcGhOUVBvNjVCZ3VQOUVxRnRGNjZmdnotNV9SVmt2aS1qT0RFeU15TDRySXJjYTZqaW9ia0dGWmNnTXY0eGlMcm9zNHh5UjBkay02OVBGUE5aaklua1B1R2k3Vk1ldEF0aFE4WGtVR3FDeElJZ2txZTVTQzFqRVRsVEZFUUhuTUNIYXVJVEpXSzNMSmtMR2V1ZEl5NzFCSkE?oc=5",
+        "date": "2026-06-23T02:08:00+00:00",
+        "source": "Somos Jujuy"
       },
       {
-        "title": "La visión de Jorge Brito: por qué la Argentina puede convertirse en un polo de energía e inteligencia artificial",
-        "description": "La visión de Jorge Brito: por qué la Argentina puede convertirse en un polo de energía e inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZl93OVR6b1JBT2pzRTNfYkdscDBrVFdURWZMekJURGJfQlhZUXNKUHo2T2t0ajhxV2FxTllJdlBfejNXdHZBUWhiem1MdWhoN0w1dlRjRFJ3b1JTWVhHVXRVMEdlTzNFTmhNa3VIYmlFOG9XQVpnNGoyUmNyS2ljMjVoblJYb3VBNkhwMjBlZDRheHpfOWljV1FTeDBNWl8ycHE3eng1NjFFcm1mcmJUVWFTTlBoY0tqYnd2Y09NVEtCdElZb2o5NTMxT0NVRzJnY20xVl9SSmJXMkR0ZXh0REpVZmM?oc=5",
-        "date": "2026-06-21T23:50:00+00:00",
-        "source": "La Nación"
+        "title": "Apple pone a prueba su tesis de inteligencia artificial, iPhone plegable y recompra",
+        "description": "Apple pone a prueba su tesis de inteligencia artificial, iPhone plegable y recompra Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1MzOGhsVlMzbWUxelhkdGNkbTh3cnhibGVYRUpxeERRNUoxYzFOV0MtWlN1VjNSQXpEMXl3TnEwR2p1YnFIQVQxb093MTlYckRjRTJRZ3lMQUxmY1JZVTRTcVBPcHdONTNFeTlyVGxYckNJbHZVekxwWHdEajVQS2o1OFlRdTFWMW1vMkkyeGpDTE5jSkZSVA?oc=5",
+        "date": "2026-06-23T10:08:53+00:00",
+        "source": "Yahoo Finanzas"
       },
       {
-        "title": "Seis de cada diez videos en TikTok son “chatarra” creada con inteligencia artificial - TN",
-        "description": "Seis de cada diez videos en TikTok son “chatarra” creada con inteligencia artificial TN",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaUxNMGp1THVrb0tGeVdoclVXYzhwS0NWY0Q2WVJBaHdGQUwxSVY0c1IySXlnSnJHTWFBTHdWWHkyZHRQY01tcDFpVmttb0RpMTJmVXdxV3BJY2k0Z1JXSXpMMGp5V0oyMExESkcyN21FSFBhWTFiRUdiOERtdmtMRGI2TjR1VEVnUkNzdDJ0WVh4T1F3cVZ6SldYM0h4WnlYd3RMQWxFQjJJdm5ZcUFaYXQ1QWhuLUtHN3FuNE1RLUJOLWY5dWpwVU5oU0hFMENLckRFUEN3ZUY5emhCQ0stYjAwazHSAfgBQVVfeXFMT09USkpXODcwUGdYam5rbGtlZEJDZXlvSm9meGVlSFZtS0phcUgxRlNLVk9KWDBPNjkybnBUbzAtQ055Y2pPNDlLU014QW9CZ01DTDFyYk9sVXd5NkVTQ1MwUlA3UWRVYTRqODAwaGlqaV9IYndzZzQwVDhiZk80eHJsLXhucUQ2MnJNLVR5UGpxb3J4Ti05YzZpZjk3NTdfUnNMOUxMUk80QUpOQmVzaUtzdnlKVWtjT0YxZDlad2FidmlIVEIxc1NTSDZkM3JXMGhFb2g5SFlvU0FlMWF0TFU3dk54QVdFS2pPRDE2bzJpbDhxd2d2YUc?oc=5",
-        "date": "2026-06-23T12:35:24+00:00",
-        "source": "TN"
+        "title": "¿Quién regula la frontera de la inteligencia artificial?",
+        "description": "¿Quién regula la frontera de la inteligencia artificial? La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVVXaHl5NmJxa21LbS0yUjZYTkVrY29uZTNmYnY4Yk5NYWFmQ3RLdVFsQ0hFSS1FMDNjWmRpeDQ3YVUyV0hCMm5Ya3Z0S0M3bWVQUk94S3RscUJpTC1jVWVVNEY2OGdfTHhNVDhMUEhSdHBDcmlEdlBob0NYOS1YcC1jZHh3RFhwMWdzLUlKRFY3QlBoOTVwOUI1QU1LRlFKWVE?oc=5",
+        "date": "2026-06-21T21:49:57+00:00",
+        "source": "La Gaceta"
       }
     ],
     "Vaca Muerta": [
@@ -163,11 +163,32 @@
         "source": "LM Neuquén"
       },
       {
-        "title": "Ignacio Lamothe de CFI: \"Vaca Muerta va a derramar, pero hay que acompañar a las pymes para que se puedan enganchar\"",
-        "description": "Ignacio Lamothe de CFI: \"Vaca Muerta va a derramar, pero hay que acompañar a las pymes para que se puedan enganchar\" econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkMtVXczRWh2bnI4aWRwRVdRbWdGNl9fNUlVVUtWb3NCUUt5Q3BjbkMzOHlyWEhXTGx4dHpRVHNfUjczV2hEU2xablZsdjFSUDByeGFsM1ZKdkdmVl9EUENhVXExZnBCNnpPOUppcEpwZnp0a09sVGFZaVRScWtGSVowSGxCUUJqTl80eUM1OTNfTWhRUGMtNzM1Vk9wVzh3aHdrOXdXeGR5eDhPeG9SU3A2X2V6VVBjRjZSN214ZkM0ZXBtaVVsOTNzYXBmcC1LZ3ZNYVI2MVJHelQ3aVFTcHNXOA?oc=5",
-        "date": "2026-06-22T13:16:17+00:00",
+        "title": "Por el impulso de Vaca Muerta, Neuquén volvió a romper récords históricos en producción de petróleo y gas",
+        "description": "Por el impulso de Vaca Muerta, Neuquén volvió a romper récords históricos en producción de petróleo y gas econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaDR4bW9mdXRmQzZCUzBzNi05a2RmR3hTSWxJS3FPbWhRRXIwTlBIRl9CcW1oLVNUYkEtczdWR0JYZUc2RHdFUUhoRHQ4Mnl4UG5xdURWQm54ZzU0OHNfNF8tSUZFeC1lU1owdWI1b1FSY3pmc2c0aEJXWmZreDZoMWpMbGU1LW0ta2h0LWRrOWtwQWhIVXJMVGhMVnhQSnJqZUFuRk5LaGROa21aSktuZE41Snk1b1ppYVo1R2lHeTFxZmpUOXlnYnVwM2RuRG85dEsyNktJY1Y?oc=5",
+        "date": "2026-06-23T11:57:22+00:00",
         "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Por el impulso de Vaca Muerta, la producción de petróleo de Neuquén llegó a un récord absoluto",
+        "description": "Por el impulso de Vaca Muerta, la producción de petróleo de Neuquén llegó a un récord absoluto Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZVlMLXJ3dFhtZ0RTVElqMmdaNzEwLS1xTGlZdlNiQmtPUGgzeDdyV2lSbWZ3UllLWjV4TlpRX1Jnam42cWVQSUtNUHUzdldnSDN5c1lRY3d4UDQyajRKNVNkS2dUU2hQNWZfbjJ6S2VPVlU5dllrR1ZqaTB3REhXZ3kzMEs2Q1BMMG5SNFp1VjNEeUw3VUJMMmdiYTBSczBvWVhzRnMxc2kzallwMmdlY3pMbS1vMjJfbUNuSjRQMGdNYWNnbjE4RjdWNDJCVFF6RDJpc9IB3AFBVV95cUxORW1lNzU3WWx3alYyVWpkU1JLM1gyQkNXYmZpUFJhQ3N4bVhnbVFQc0JuMHVNUVNyZlF1NzY4QkxZX0pHTVdnaUhuOHZFMVVYOEVaWERrMmppakk4ZXVFbEtwTGNLbTBXY3ZiTHVmcUM4ZkRxb3pmenFVdjNiYVNLT1BPZWYxejFIcFVycDhCVndCMEJHbzRPa2Nad3dfMndZeTl6ZlVUV3ZnNG5nM1U0YkpwdjNBZnk0V3BFallqMm8xTmxENFhGVnNScWctZWRjQ1lCeDgwbF9tMEVB?oc=5",
+        "date": "2026-06-22T14:07:31+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "VIDEO | Los riesgos de Vaca Muerta: la advertencia detrás de los récords de petróleo y gas",
+        "description": "VIDEO | Los riesgos de Vaca Muerta: la advertencia detrás de los récords de petróleo y gas iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHNfN1NUSzc5SlRfY0gzcUQxRUZtcmtwbUVxdTY3OVRoY0dVWFN2S2tlVUlseUs0czdjbmFIRU94enJ1ckNfNkxfWXFqRUxUQncwa0NyZzdaR05jaDJLUjBEN2xRb0QtRjBfRktHVWlacTdMNVRoWElKTEh0LTM5RG45ck8zOTBYNjR3VzdfdXAzTjlmeGk5czUtZlUtOV9RVkZFN0tyY25oYTJDR3BCZ29YbWViWk8zZG0yaWM3ZnQycEFq0gHKAUFVX3lxTE1mRzhpdFJoMDROcndjN2ItOGM2T0d2aktfRlFSZXFrdmxIREVFSktESFpPbFVXaDNzbEhXTEk5TFpWbWdDSG5NYl9vdmdRZ0ZybmlmTWdWeGZGeUNtN25vcjJRWW81OGNXX0hBZWZmaGhWazcxb2NHd3FReWlFQjFRSEZNUmU3RUJ4eXVoSmNUdjM3NkppWGF1TE5MU0lacDhNQ3ctUUNvdjVLRGY0TU93dEROeC1ZMWpoeDBtSV9vWERMR25Lb1lrTnc?oc=5",
+        "date": "2026-06-22T16:13:00+00:00",
+        "source": "iProfesional"
+      },
+      {
+        "title": "Proyecto Argentina LNG: definen a las empresas que liderarán el desarrollo de la planta clave para exportar gas de Vaca Muerta",
+        "description": "Proyecto Argentina LNG: definen a las empresas que liderarán el desarrollo de la planta clave para exportar gas de Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ29fdkt0LWV6SFZiOWFUWTFDWGJoOUVVaHhkLWFoMXdVejYtZ0FqQUltc2pWV0VFamxSWV9qRkFqeUxaeWZBYkpsTTlkLWd4QmgtTzZTRFg1SHNfSjJBYjJZcV9BRFZRcEtSTC1EYjE3Zk5MMTZEYjJiXzloSXdfcUJQbF9FbTdhS2Z3QnpELVByUndxTG1KbE1qdmJWT0VyTDhocTVZaDMyM1N3R0ZTLUpqZjh4RTBOaWVDVkFDOS1fZGZmM0poalRCaUZGWEFSRWYzd2Z4TGY4ZXpGcWpwTVdNUkpVWnJ0UWpJVmxLTkVpTEtn0gH8AUFVX3lxTE43UWRXRC1WaEJ0NjgyR3IxRDRxS0otVFNlOGZTU0RJVlQxOG1wb1Zzb0Q2QlZjMWNBaF9Ed1dnTVp1b0xrNmhfUlplT3JkVGFmNXVUS18zM2VXcldpYkl5bW9abUZlc3BodERKcUQwZ0JlSk9mRENUYU9PblpEcU0wbmNQZzdCV2xiSlprSTh6dmlRUm1TUnM2aXcwd3pKSmlMMm53a3E2UG9Zc0tBbHRERXJ0VTBiam93bXpEMUZsQy1uRV9Rb1lIellCT1hlOXZTZWJrS0VlcHp6c0ttOW5SQUpCVjNYVmFGTkw5RG90TTh4RkJvN29vaDFlWQ?oc=5",
+        "date": "2026-06-23T03:12:00+00:00",
+        "source": "Diario Río Negro"
       },
       {
         "title": "El lado B de Vaca Muerta: cae hasta 50% la produccón de petróleo convencional y hay provincias en problemas",
@@ -177,32 +198,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La plaza inmobiliaria del Alto Valle que combina precios contenidos, rentas en alza y expectativas de crecimiento por Vaca Muerta",
-        "description": "La plaza inmobiliaria del Alto Valle que combina precios contenidos, rentas en alza y expectativas de crecimiento por Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNl9iQVZLVm9GT1hiWkVsNUFab2lCWEg2SVdUa3k5Wk9PQ1RFTFlJeDA4UWpnWUtwdWhZUUxoNExuamVhLThtZXNDaEZYa3NucWdyZ3BCNjVuSWVmZU5VS3JjYzQ3bjF1Mm9OZ1h3RXRZUnZaOEFONjNJNE9POWlSUkZURkpzWV90NG1CMjNfa0RIUGJZZFVhTGFEemdMbmJyODFnRWNMaDdfaVc1Mnlka21kS05RY1BiMTlqeDU4SWJKZkliaDMxNHdpNUx0M21GTEZ5VzRXNXFDU1Ezc3hHbzdiRnNueVlRa2JaU285ZEloSU9RV2JNZlVrNTdBd9IBhgJBVV95cUxOUkt4TDlvYzdOS2RPUGJtaXRNYmFsUV9JbVBIdnJ2WkpMY0l6WkIzcEdHRzBBbzFCcGZKRGhwMDdkYkZiNE12V2FzQ3hWN21xZGtIQXoxOUxnOWpJR0d6X2ZKVkNmTmdBdmZWVGJnYldoWGhscnhHaTh0blowb05qeUFidm1xZ1UzNXl3NHE0U3dURnA5Z0xjLUZ3OWZUbFFjRDUwc0VTek8zbDlySUJ2NXRCdjhDZDZ5UnBwVkdhS3RiQVlySkItanZBQTVrYWNyX2lOaXViUE81U2s0Ty1SaUptTF9mbGdpVS1mYUJZTkU5UWF0QXVuRDVJRmJmcFJoQjY2Qk1B?oc=5",
-        "date": "2026-06-23T03:05:00+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "“La producción de gas en Vaca Muerta sobraría para la Argentina y para varios países más del mundo”, afirma Óscar Olivero",
-        "description": "“La producción de gas en Vaca Muerta sobraría para la Argentina y para varios países más del mundo”, afirma Óscar Olivero Infobae",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNHZrMUM5dXdRWU5oUmxFaDNaTmdkOUtIVUZWMm4ySjB0YjJqMkF5VHBham90VXNscVZENXFVbzRGZ0R4OFlFakZZRmFRa3loSy1lNm5LdUl0a2pqd2pKMlNyWDU1MWpPbWNNSzJLMmczaV9yZlZJSEVkcXpqb1BxeFZ3Q0lkTWVUcTJHUEZFVEJQb1hjZTcxMkxWNml5a1RCYlhNVk42dWRtOHR3cVBpTkZLMGRiZ2VhRjE4UkUwZUlOTm5ybk9YQ3lwNnlVekdOcDllNFFOZURzcDk5WlNEcURjbEN6NjUweXBPdDEtS1poNmZaTkd1ZDBlZW5ZMW5KcmpudQ?oc=5",
-        "date": "2026-06-23T10:59:27+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Marcelo Katz, director de \"Vaca Muerta\": \"El teatro puede abrir preguntas que ningún titular puede abrir\"",
-        "description": "Marcelo Katz, director de \"Vaca Muerta\": \"El teatro puede abrir preguntas que ningún titular puede abrir\" Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNWRKb2l0SE0wcHlJc3dqS3NqeGw4Nm1zNko4a0hzTFQ0OExReXVXUnFtMUhmVlp5TXhPU2wtVEpjNjF6NHpFWl9wUjh0Tmg1ZERscTVBVEJqOWJ3Si1HLWwwV2JKaHhSQ0dOYVBENkpCbGNMemQ2QjhoRFlpcUFyVGU4eEwxUEtFaUJQT2p3SHc0YklNNXpla1hwOWdPT1JlNVRaemNVRU1uT0hJbE5PbFpyNkFXLTdQUFhkVXBBUzFtT0hmRkJ0MmdzWnRkZ3BsWVhyQkh2RFTSAd4BQVVfeXFMTnllMDZoMXpsSVZzLThwUzVHd2hUdHNnYUlkNV9oMENybDl6U3Y3VzFlcFNDZEZDdjdCSkRzZU96elBGcVplQnRSbmprdGsxZURBRnFlOUhJUHU1d0VoV012LUJxSFZOQ2YydGtFbjVvSUJid1hpZVpwMkRzekdkMjNZNXBCQWVZV0V1MVZHd25DLUh2QlZ1ajRCajYxLU1RTUF2YThZZmxWY2VCNHpaeWxGMW9IM1kxMUFreDRDbWJIbDhPbXZZMEd3c0dOaU9ZOEgyYnNIUS12QWVGQXp3?oc=5",
-        "date": "2026-06-22T22:22:00+00:00",
+        "title": "Cortes de GNC en La Plata: por qué falta gas si Vaca Muerta produce cada vez más",
+        "description": "Cortes de GNC en La Plata: por qué falta gas si Vaca Muerta produce cada vez más Ambito",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM1ZDR2VESkxtaTRrYnZoTGs0b2dkOTQwaE1UM0c0MU93b0dPVEtpWGhzN2hkdlJlbFZFZFF6UEVoU3N1UmxPUDVPd0FpWm5ZMVJfaHBtMmRBaFNBV3ZNeHJUV0JhM1RaMUpuOUE3T212NzlUM1lBbWhYVnJfY0dkbF9yTjNCR19xTHdsemo4V3Y2V0pQdGI3YmhfQmVzdGk4QUFheVVtTkRiUFlrTkE?oc=5",
+        "date": "2026-06-23T13:52:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Villa Constitución: Berti acompañó a empresarios locales en un viaje a Vaca Muerta",
-        "description": "Villa Constitución: Berti acompañó a empresarios locales en un viaje a Vaca Muerta La Capital",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWRHUmhITVdTTW9ZbFd5ZGJYWV9wcEF4elE4SFhRSEw5MEpJd043U0lDblMtQ0NmUmQwRDV0SWxVcnhSYV9BRVg0UTVlelA3QmlzcXR6cm82UmtGN1ZhT1NsaGh2cmhULXdHSUo5UC1iVldKdnFOdEYtWW9MM25QeTlDT283aWMwX0pVdERxYk80RFRldEYyekt2anp1Nm8tZWQ2UkIwaE05VlRmM3RXTGotOWtNWHlJcWo4TURnbUJ4QktzdUZj0gHMAUFVX3lxTE5aX3o1MXhPRGJSZlBlUnp6Yms0dVJaMDJrVEZwNnVRRTgwaG5pazFnQ2RzUFhUakpRcEcwWnBMS1pxd09kckFKOXMxUjg4QTVqRXYzbDNuZm1qbl8zN0huYkdKdHZkWWVnSmNGYm5XeEJMTC1SRGZXd1hDY3NNUzZGRDhZel81ay1ZTS1fOU1JWmd0ejM3THpvQ3Z1SlM0Z3g1cXNvVU1vVDJUSU9hbVY5d2tsYzN6UHBiSjFwUXVXYVBHNWE0bi1nQm5jUQ?oc=5",
-        "date": "2026-06-22T18:29:00+00:00",
-        "source": "La Capital"
       }
     ]
   }
