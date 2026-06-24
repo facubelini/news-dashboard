@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T18:47:46Z",
+  "updated_at": "2026-06-24T20:44:22Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFQ4RjNXb2ZCWmFyZ01Sb2lSQ09zckVaVVQzMWhUUlgxdk00Y2UzYmRHeHdVZVpMc2ZSbGhSSVRMb0tBdWQwVTVIZ0VjSk5PdmlBdDNFam9ZMjU2RU9BdkthenZrYmpnYnJRMllkb05YaWEtVTFrMHg0eklOa05KUFhSQXdudG1OWFNFNzBhWlNaV0trcldLUEJQMTlDcllTVXQ1SEZ3a1N3Y0V3WXFTMWV2VmJUWXJVY2tkVS1wM2Q0aTlC?oc=5",
         "date": "2026-06-23T22:14:18+00:00",
         "source": "Diario El Día de La Plata"
+      },
+      {
+        "title": "La tecnología de computación cuántica de Microsoft vuelve a ser objeto de críticas",
+        "description": "La tecnología de computación cuántica de Microsoft vuelve a ser objeto de críticas TradingView",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwS2VWd2VQSVZwWmItemR4ZkE2YUtDc0txNGJNdEdYYVZJc0VTZDZqLVVwVkhjenNCTjBTVmhvOUQ0MEVLYmFRUzBiZVlKRFNVeE1mUmhtb2RBak9pNUhtV0hmRU5YZTBwYzRoX21vZ2Q2V1JONjBz?oc=5",
+        "date": "2026-06-24T15:01:01+00:00",
+        "source": "TradingView"
       },
       {
         "title": "Un ingeniero de Microsoft tuvo una idea genial para demostrar que la IA no es consciente de sí misma: usar cabras en Age of Empires II",
@@ -24,13 +31,6 @@
         "source": "Yahoo Finanzas"
       },
       {
-        "title": "Microsoft exige cuenta de Xbox para jugar ‘Halo: Campaign Evolved’ en PlayStation 5",
-        "description": "Microsoft exige cuenta de Xbox para jugar ‘Halo: Campaign Evolved’ en PlayStation 5 Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVdSdEhwbXBWN19mVzFtQWVHeVRaT0VsUE5DMjg5T3lmd3hHVnlFOUJyMHFIOXRNeGxxY1p0cFhMTnVlVFUtOGtScFFGWTBfbzF0N21oN0VBSmwzcHhEODAtdEN6RDlXMWV4VlRmZVliZEVIVFhIMVBNYld3LVBlblhqaGhlSlNUM0pHX2JvUC13WHIzd0VESFV0VTZPODZOYUxFemRiLWRnNG9TMHhrazZILXFRYlQ1VmZPUlhWOUU2aWdRVkIxUG91Y9IB5gFBVV95cUxPbWhkV3h6MW1HdXdzVUhrTWFPQ05yTXhOUVNMN0tmbnRRaUl4Q3RWb0RxYnJlc3hNX080VF9naE1Pc3dGSVF1Z2hMTXduZExfU3ZoTHBsdGJzTGtBcXRxREl4X1ZDLVRXeXozT3VqTEVkdUljTHU1TlF1a0xhQU0wLXk2RzREYVE5c2c2eFdUNTRrWkFGMmt5NzR1SVBWOWRNVWdBaFc4MndNeTlyZk84QURDNURpamVhbV9UeWJfYm8wXzV0UnJDZWdGbkJwMVVzVWhMV2dBSFBTVGRFVlpra05FY3FTZw?oc=5",
-        "date": "2026-06-23T15:12:15+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "La IA podría reemplazar primero a los universitarios: las profesiones más expuestas, según Microsoft y OpenAI",
         "description": "La IA podría reemplazar primero a los universitarios: las profesiones más expuestas, según Microsoft y OpenAI Los Andes",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRXVCaWNZR1lleEhaTmVHSmZON2s4dDFHSkRla01uOU1oVjdGd3Btb1lrNEtUc01ndnFiMUszLVlOaHpEM1ZhdDh3TkhDM2dvZkxtMlVsSF9VUnZfVXlHQjFuS1RIZE5TcWcxRmJKRVVwcG9MRzBxLTBFcDdWWFpBeENBaWQwSmhWWjUtRmFXZ21ncFVhUHJ3ZDFIOW04S1VWU2RaZW1VZ2I0UzBoLTVYU094cUVyM2hTS2xTdGFZcDRyYzJMWjRjcUptV1hyZEc0X2VPbEJjTjFOc3FDTEVvT2MwUVRTazJtb1Q1RA?oc=5",
@@ -38,18 +38,18 @@
         "source": "Los Andes"
       },
       {
-        "title": "Microsoft lleva otro videojuego a la gran pantalla. Confirmada una película de acción real de Sea of Thieves, con un fichaje que viene de Marvel",
-        "description": "Microsoft lleva otro videojuego a la gran pantalla. Confirmada una película de acción real de Sea of Thieves, con un fichaje que viene de Marvel 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNc2owWldaNVNuM2VSbkdVX0hfTkpSa1BHd0Z2Y2VLQW8yX1JfcG13dVBxbk1LcnZCZ09PWGdGQ1Q3a0hVSzVIdVQwa3dSWmJpQ0ZrNTRvb05BOTdzamhkTDd0cWRVYlp1Z2FTUXdTZFZvejFyaTlsX3VkS3FGZUxsckxYeUJvN2cyU0lHMWU4Z0R0QXF0Y1FvbGlmaXZNWXl6UlphLXZfcDZWVG5lSjdwTVBuSjNhTWM5RGFlNkR5SXE0U2pYUWVwYjlub3M0ckJXS3dkZXZmZDR6OEtiUVdFMzBVUkl2MnlOcVZ6YW5fTF9neXBwcjA1RUdjalIxNFBXSFN1RGdB0gGLAkFVX3lxTE5GMXF3T0t2QzBfdkVVdWtnQ1hJNnJ4ZFEtUDhnSmxxaHhqSkxDSFRVWmNIeFU1eUxvRFh1c2pLSkg3QWVORkdVY0lXSk01OWVDd1BnSlQ4VmhpeVpiZVpSVVFwdUVTWjlaYU93d3V5ZVhEcVNCSkNFcUxnYTZMNkY5anhseUlXLWZMUGNpdkktLVcwMURYNEI0UjJYMlhKZTZUWWhtZHVoTlV1SjlSSF9oTFdvOUdZYVhUdGw4cnhRTFpfa2ZUYUR2MU1rdHRfWVN0cllqeWw2ZXk0OTBkZTBZcURNc010bzU0SVJ4dzVBYkI4d2Z2emNzNGE3a2lneERINGthR0JaRkZlcw?oc=5",
-        "date": "2026-06-22T22:47:00+00:00",
-        "source": "3DJuegos"
+        "title": "Microsoft exige cuenta de Xbox para jugar ‘Halo: Campaign Evolved’ en PlayStation 5",
+        "description": "Microsoft exige cuenta de Xbox para jugar ‘Halo: Campaign Evolved’ en PlayStation 5 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVdSdEhwbXBWN19mVzFtQWVHeVRaT0VsUE5DMjg5T3lmd3hHVnlFOUJyMHFIOXRNeGxxY1p0cFhMTnVlVFUtOGtScFFGWTBfbzF0N21oN0VBSmwzcHhEODAtdEN6RDlXMWV4VlRmZVliZEVIVFhIMVBNYld3LVBlblhqaGhlSlNUM0pHX2JvUC13WHIzd0VESFV0VTZPODZOYUxFemRiLWRnNG9TMHhrazZILXFRYlQ1VmZPUlhWOUU2aWdRVkIxUG91Y9IB5gFBVV95cUxPbWhkV3h6MW1HdXdzVUhrTWFPQ05yTXhOUVNMN0tmbnRRaUl4Q3RWb0RxYnJlc3hNX080VF9naE1Pc3dGSVF1Z2hMTXduZExfU3ZoTHBsdGJzTGtBcXRxREl4X1ZDLVRXeXozT3VqTEVkdUljTHU1TlF1a0xhQU0wLXk2RzREYVE5c2c2eFdUNTRrWkFGMmt5NzR1SVBWOWRNVWdBaFc4MndNeTlyZk84QURDNURpamVhbV9UeWJfYm8wXzV0UnJDZWdGbkJwMVVzVWhMV2dBSFBTVGRFVlpra05FY3FTZw?oc=5",
+        "date": "2026-06-23T16:05:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Microsoft en tendencia bajista en 4h: niveles en vivo",
-        "description": "Microsoft en tendencia bajista en 4h: niveles en vivo Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjRFZ1RlWUt2S1hiLUdvNFJJWmdkNkswZVVPcTRCaEVYSEpVWHBGLWx4b0hMTHQ1MEFIUzNvVkFOSS11NkcyZEdqcmc5cTVhZzNUbVl6a3UydFJLZmdVVlZMZUhQMW44WmxrVjB4QlhYY2xWMExGMmtKWlpxNVhSM3N6MEVsdEtPWTJ2VkZWbk41VVoxMExaMTFqaEFpQWNvRnVXaExrTEdvMUp1cE9nMVUzbw?oc=5",
-        "date": "2026-06-22T14:06:00+00:00",
-        "source": "Investing.com España"
+        "title": "Banco Provincia firmó un acuerdo estratégico con Microsoft para acelerar su transformación digital",
+        "description": "Banco Provincia firmó un acuerdo estratégico con Microsoft para acelerar su transformación digital Infocielo",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZE1ocjFtS2tHdFRQMnNIVUVKTFdrZGljSzAyYldFc3RYTmJPRFhOd0czaTB0ZVhzUU52RTQ2YU53cGZhd1NCMjAxLVZ5UXhQUzRnalJIN3NBeDl6U3o2T2k2QndPaHFjMXVRVEl2YVA2bWYxekZBMXFQQkRaRVBmOTl5UXNuLURUaGpVZjVrdERrZGJzcFdJdC1sZlk3dzFXdkRnb0hwcTdTYXhZdEc0c0twS1doV1VfcjRMUlNPZm1McjZKSS1ScUJBcldlSUxYWjk0c1ZObFQ5ZGpM?oc=5",
+        "date": "2026-06-23T21:20:24+00:00",
+        "source": "Infocielo"
       }
     ],
     "Marketing": [
@@ -89,40 +89,40 @@
         "source": "Infobae"
       },
       {
+        "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
+        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital unsam",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
+        "date": "2026-06-08T07:00:00+00:00",
+        "source": "unsam"
+      },
+      {
         "title": "Google Ads está cambiando la forma en que funciona la puja basada en la segmentación.",
         "description": "Google Ads está cambiando la forma en que funciona la puja basada en la segmentación. ALM Corp",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOV9vTzRQejB1TnNnSXNtaVdkcUN2dE9fUGRkOUMwbUpNeDYyMjBTdnAyLVpLRTFsa1BwUUR2blpWZE1zZDdTc1AxUnRuclA1a0ZlOS1zVTJjU0hXSTAwRS12Y2p0Ym5FY21hdUNoSk5KOE10VFFNMWVHS0xUN0dCVzlLcDRqdw?oc=5",
         "date": "2026-06-24T11:59:13+00:00",
         "source": "ALM Corp"
-      },
-      {
-        "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
-        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital UNSAM",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
-        "date": "2026-06-08T07:00:00+00:00",
-        "source": "UNSAM"
       }
     ],
     "IA": [
       {
-        "title": "Las tendencias para el hogar que se vienen: colores cálidos, muebles vintage e inteligencia artificial - TN",
-        "description": "Las tendencias para el hogar que se vienen: colores cálidos, muebles vintage e inteligencia artificial TN",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNncxODhsQTNScEtKZEZlU0dlT0pncmRybVRKQ0J0blp2Rzl4MW1iUXBsVlhfUnd5Q3piSWl3bHhlcW00UGk0WC1WeEw0VThZS1Q5YXRfcFNIWUNrbkxiQWZvUmtNR0dWWjl4eFVjMzRsVUg5bWNWdjZNdVpPamU0MVdSd24xOUJnV0hLZk9udFViMUVlRDh6QU9wbXZVWG5lZjNOSXBncUhmQ0x0eGt3RW9LNWl5eEhadG1jTFp5a1ltT3FLeUJEbDk4eDdHanJyUFNMSDNYY19kT1huV1g5eFlR?oc=5",
-        "date": "2026-06-24T18:20:29+00:00",
-        "source": "TN"
+        "title": "Especialistas de Naciones Unidas posicionaron a Córdoba a la vanguardia de la innovación pública",
+        "description": "Especialistas de Naciones Unidas posicionaron a Córdoba a la vanguardia de la innovación pública · Gobierno de Córdoba",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdXpwRV91aFJUaFdLZ2RQekpKU3JEbzUxS2ZwYTlEbFU2Yk5SRTE4Yi1vLVdaNU16dWZvOGZBMXRIVXdvZmVFMUdHdVhzV2dabXhpaU9lWjdZd2VZQVNvY013MW1WOHpxLVlRWlVJRm91SU95OFpnZEllQk4yWlIyMGVHdC1yWk8yNlJKdUhKYUF4TFluVTVQSXpTd0VTRkVNd1c5eUNEMWpxbEt5X2xRd3pHZ0RMQ0RmTkpURWlYdlFSak40TlF6ZEhjT1NDX1d3T1lNT3dLWmZ3aEk?oc=5",
+        "date": "2026-06-24T20:04:00+00:00",
+        "source": "· Gobierno de Córdoba"
       },
       {
-        "title": "Noruega marca un precedente: prohíbe la inteligencia artificial en escuelas y busca fortalecer la escritura a mano",
-        "description": "Noruega marca un precedente: prohíbe la inteligencia artificial en escuelas y busca fortalecer la escritura a mano Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbndtLWFqTTllQTBvWmFjSEpka0pNSDJRS3daWER4UXZWak9rN05OUl9mQW5EVndhQ21fM1AyUjBXRUZ3VGNvM3dNb0JsYV9jRzFZMV9RcWpFcTVPZnRDZXlIcklmUEplQjNqTkg4MVVfUU52NVFvcGhndFEwTHBNRDZ6VHZkNmpzVDdEVU84Qm44X0RjNXB1X2RJYTRmWHJfZ1BoSG4xSzFEUjJ5ZVdaOG9SR2xoN3dySkptUFptOEFWeUdsNXY3dUVHN1lqQWgyRFB4em5kZ0tPUy1sR1Zjc2xRMU9OU3djTC1LTk16clnSAYsCQVVfeXFMTWpKcGlPUnZoQnpKNldmM19VaEJFWlBySlRCMmdiQ0JXMzNiNnJ5d05iZU5FZUdhVjhZT0tPVzhZMlJ5NUtlaVhtb2wwbUlibGtDQ3R0RkxqNlJITmNZVWxSOUYtR1g1NzVyRldJMFVQUWhNWUdwdDhwMzRZS2NwelpxZFY5dDJBX0tTUFdwNktHZGVHQ044enJZQVJSbS1NRlhiQUNpM0JXcXdBcEtJekpzUlB3Zl93Vm1VeEdHRl93NTZuaGppNFhHbXl2WnhyOHpqWldpNGtsamMwaGhPRmtEN3MyWFNyVHE0RzdQSllTNXJ2NW5IY2JCbEpBOVc1YnZPYlA1RFBsalVR?oc=5",
-        "date": "2026-06-24T14:44:07+00:00",
+        "title": "Cómo proteger tu privacidad al utilizar IA: advertencias y consejos de la Guardia Nacional",
+        "description": "Cómo proteger tu privacidad al utilizar IA: advertencias y consejos de la Guardia Nacional Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2w2dkFyUW1wSmRYeXpidkpha0xUV2MzNG5tOFI0bG5lczEydDBmWDhHeER1UWE2SXRsSmVGc2djUU5QQ1B1V25lS1A5VVZZcmFNZlB2ako0UEpmcWRvTE51TUZWY250ZzgySkJRbVFiaUtJSkFzZFo4RUVYRVFRckRsZnRSVXlSUnVXdE1ESDJfTFpvMVhEQ18tUkpfbDNsNGo1SVFBWjJxcExELWlNZHUxZVVKTk11anR5b0VLcVB0cEhiVVZrM1hmMGnSAecBQVVfeXFMT1Z5Uk5lMUlQcEVZQmZCazBQQ3BlLVhnSS1lZWN0WHR2dmtvenVjYnM5REk1NTBkR1ZIT25hWjFpWUY4T1JjOTlIYlo1aUdrSHdPRUlUYTNwYmljaGIzaWh2bDRHbGxnUGV0ZElaTExyeHJVVnlicWFSY184SzEwMGlSTGFnMXV6cjJnUHY0dS1IMFQ4cFlDdlFCS1NmSkE4NUN2b0I0YzJJNkEyTGlFUE1ZMGhfSXhMc0U3U3NEQWV0TkJCbGE0WEc2NElUcVNsai1rYkl2RU52Z1JBLTJQSG95UktncHhR?oc=5",
+        "date": "2026-06-24T20:17:02+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Freno a los “jueces algoritmos”: la Corte bonaerense prohíbe que la inteligencia artificial dicte sentencias o valore pruebas",
-        "description": "Freno a los “jueces algoritmos”: la Corte bonaerense prohíbe que la inteligencia artificial dicte sentencias o valore pruebas La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTGJGOVpGVUZBQ010RzN2eWJCUmZUcHk0ZS1CWVJtN2pZdlJtb2V2V2JGMjVWMEVtVE9fRWF5THBVRzB5TkJ6ZDdmRFNwcDA4MnVOM0Y4ZEdOdHpNX1lxZDZhNzFqMXhsNGhHOEdhQkJjVTRJRHdZQXh5WHBQcmNDSW9GQ2pudGlWdG5nUVpnVHNsWTN3b00xa3NKcHRTZkdWamp1dFlCQXRwOTJoTVIycF9Nc05PNlVRUlpfM0VCQmd0TkxUTERuQVEweWhjSnprZ28yNkJMYXZIaVhVTlE?oc=5",
-        "date": "2026-06-24T14:10:00+00:00",
+        "title": "Cómo va a salir Escocia vs. Brasil según la IA para completar el Prode",
+        "description": "Cómo va a salir Escocia vs. Brasil según la IA para completar el Prode La Nación",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzhhbzhZaTdpaS14STJQY3I0cmlMTFFWaUk2Q093N2dMdjh4M2VUdDNJVmctYUZFRTVHYVJiY0kwRjNmRnl3UEttZEU2TVN0VkY0eWpIdjZWYjdjZnVXZmNiX3dQb1R6WENxWHFwQV9UMHdWYl9PU0V3X0JGSER3QmNvTW9DZ0JfZkEwRmlXQTY4UDFGOWZxQnFNQksxdw?oc=5",
+        "date": "2026-06-24T20:24:00+00:00",
         "source": "La Nación"
       },
       {
@@ -133,18 +133,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La SIGEN desarrolló una guía para fortalecer el control de la Inteligencia Artificial (IA) en el Estado",
-        "description": "La SIGEN desarrolló una guía para fortalecer el control de la Inteligencia Artificial (IA) en el Estado Argentina.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVZILVVyRUt6RWFZMFhxb3RfZHRPU2Nwb0RkcmFDSWpLVkFPSHgxZWlDb05RSGFuaWVVcTJ0SlNFMEwtX2xwWGxjTkRfSHJVdHlEU3ZXb2dIUmdhUUZHaWVPV0Y5X3ROMlNCMzhEcnBzdURmazBDUF9XYlcxQmhYcXRjS1hQakNwSFpzNDJSQThTLTgzUVJIUFRzSE5kZ2hRdjlpdG44T05waTIwMkVqSkp6dDJRV3VfdjNnLXF1bXRadmhmdFZ5Vw?oc=5",
-        "date": "2026-06-24T14:09:24+00:00",
-        "source": "Argentina.gob.ar"
-      },
-      {
         "title": "Jornada “Los retos de la Inteligencia Artificial”",
         "description": "Jornada “Los retos de la Inteligencia Artificial” consejo.jusbaires.gob.ar",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2F4U3RMQ3dQQnVsMXEweFhNaURxVkJRTlF0X1E0SjlwSVhGMlVmcjdJX29HV19JNnNNaktZMHZGTktfZ2R6X01ubV9oRDQ1WnNmcE1IV2ZsdDE1NDJyQ3JTMUI1amhkT3ZNc0FQYXMwTHZQSnROM2JndEk1M3JEM0p0WGxVOG1qY24tX1NMQzc5UWVv?oc=5",
         "date": "2026-06-24T16:22:50+00:00",
         "source": "consejo.jusbaires.gob.ar"
+      },
+      {
+        "title": "Inteligencia artificial en el agro: un productor armó su propio sistema de gestión 📱🚜",
+        "description": "Inteligencia artificial en el agro: un productor armó su propio sistema de gestión 📱🚜 Agrofy News",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFQyRUNhMFQ1X0o5MS12UDY2bFdlMW1UZHMtNHhCMzIwQlcxQ0Rsa1RYcFJPajI0dkV4a1dzS0MxVXNWRTl5enF5c21haHFXRFFoY0NMdG5vSk15aHdWemd1UjI1a28tZEt5N01oRGMzUkJ0cmJJWW55QTBWU3JRbTI0bS1QcHhodjc4eG9haW9BRVZwNktGem1rQTNQSnZQRVBXa1F4ZnNJTnhWVUE?oc=5",
+        "date": "2026-06-24T17:49:51+00:00",
+        "source": "Agrofy News"
       },
       {
         "title": "Las grandes fortunas de la inteligencia artificial: quién es quién en los nuevos millonarios de la IA",
@@ -156,18 +156,25 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "Tecpetrol rompió un récord de profundidad en Vaca Muerta con un pozo de 6.579 metros",
-        "description": "Tecpetrol rompió un récord de profundidad en Vaca Muerta con un pozo de 6.579 metros LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1RDVWk2WER3NE0xTm1aQVVjNHRZOXM0bUtZTlNBTGRWbl96THV0cjlPSmZDdXhQUmphUzNIVGpDZU1ySExsUDVEeV9ydHV6dzlqTG5adEFCWjBUd0V2aS0xZFZDVVk1a2ZncEIzUmtUeTJnOHZ1dGhZeUtSX1U2Mm9acld0WWVMYVZsZWZDUFhVZDNBOTlJQTdsbFh4V2hHc25DanEwZENOUdIBrwFBVV95cUxOU2FDWm9aTkJldlZpTEd5MlFzOTdmemtMNkpSVmJndzFOczMtQUMyd2xJYTJtSnBjY2ZTZGVxYm5KR0Z5aEFuZGR2bW9qMXZVWkk2c05VVmRGMFoxb0tGQlc3LUxzN2NNZzRiV0g5bGlXNnBQUlJvZ1FCSzUwQnBMcVRzSW9semVReXl6YlBfRndwYjZ6RUtPSzY0RXhBYVRlLUZHTEt3MHgyNkxjenI0?oc=5",
-        "date": "2026-06-24T15:45:00+00:00",
-        "source": "LM Neuquén"
-      },
-      {
         "title": "El brazo privado del BID respaldará a YPF con USD 500 millones para ampliar la infraestructura de Vaca Muerta",
         "description": "El brazo privado del BID respaldará a YPF con USD 500 millones para ampliar la infraestructura de Vaca Muerta Infobae",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb3J2SEp3OGNtNWdldzBjaWZZd1l5SC1sakgxN2gtS196U0NvSFByTEtuelZDN2t3d0ZvSDAtaThNdnE1TTlxdEREQkltajlhRC00R3pxT0JrVVJ2LVJYNGQ3TDNsTXZpZkxlT0owRHV1YmlKZmhIc1p6Q0NES0hZXzRMSjk5VV9fdmxqOFhPSmxNUENEX2NIMFMzaDdVVm1ma09XNG0zcXYxbWJuSVd6bUVKaUlXQ3ZGb0VnNUo0dlNhc0JYekxXTkJURWFvc05XeklpdnY1UWZMU1gtVXNSVmFsdFZCV1FSaGfSAYQCQVVfeXFMTmdQel9aRTMxanBVU2kzQnNOTFFxWUlwSDlPTjJNNnByWFZYSlI3aEtpYVppdkVsTE83QlRHbWFQSXd1MWxmbmxSWjBqaU1LbkJmQWxkaUgtcmowTUpaMHFka3NMRVJGSE13RkV1N2piT0hRU01Fb2FxQ193T2tfTV9nZ1kzTVhLck5weFVzTXJzUFV5dXozT3hlSXVBTk52UGhPVno4QVAwM005YTNHaFdmMUx4QmZXRGIwWVoyNVkwU2pNa2o3QlpTOHlUbC1Rc3dTdmoyTS1Yb1F4ZDFBajFERUFQNWZ6dGF0ZXlIeUtrWGU5bFBjcE56a3JQZ2l6R3Izek0?oc=5",
-        "date": "2026-06-24T18:19:43+00:00",
+        "date": "2026-06-24T18:29:36+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "El BID Invest financiará obras clave para la expansión de Vaca Muerta con hasta U$S 500 millones",
+        "description": "El BID Invest financiará obras clave para la expansión de Vaca Muerta con hasta U$S 500 millones a24.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm9rMGY3VmNLMF9kdlZNUFJtbFduVEo1emxzZGJaNFlSTUxJakU2cFQ4djN0TDEyS1VyYU9DNjBxcHNld3dCS2V1bVJCaWFZamltT09aaS1YRUJtZklzVThJOXUxUVVmb3B0YnduRTdfa3RPWmFfMU9vdlNtbXQ4eXpvbDZWUnZiU3hMTFVGanp6UldyYTc4bGlEMjBILVh2TTNWQjBDeU1zSW1iWDIwRnRGYXMyUQ?oc=5",
+        "date": "2026-06-24T19:49:00+00:00",
+        "source": "a24.com"
+      },
+      {
+        "title": "Vaca Muerta: YPF acordó financiamiento por u$s 500 millones para obras clave",
+        "description": "Vaca Muerta: YPF acordó financiamiento por u$s 500 millones para obras clave El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3JBNVBOMGVvaGtWTnpuZUNEM2Y3NEdxcVRfb1lUdFUybTk0aEdXOW9DMVBVZjlMazBGSDRldFlxWkY2eXpHbGk1SjFlaVhRYk01UmR3ZC1pVDlFQmZQRGJnX3Y4ZkJTUERaSEhOQm9UM1diVDlPMEE4TUhQel9zTHZDaElsYlFHVzNBa2pvVW13WnZKampQczJqcFptZHFvUFplQVpiZUtGTFRwV1o2MUxCU2ZIREdzUFHSAdQBQVVfeXFMTkNGb1lyQTZBREoyTDR0SUh1VW02RlJKQ192eW5JaFA1V1I2XzR6MXFDTlhYUnNWVjFWYzVlZGI5Sy00cFBlNjBkMGMxS1ctN3EteDBraFAtTEl0VVhxandLQVZPTklrOVludEdvUUd6ckNOYTRwTXl0VTUzY2NtdWhsUVBSN3pEcHhZS2VORlpYQ3JMS1FKM3RoTjNJYW53Qmttaks4OU9OSUIwT2o2LWZIeDRYRFl3ZkFfNDh1Y3dTNjl4WUxZbkdUay1LV0luV24zVkQ?oc=5",
+        "date": "2026-06-24T18:48:15+00:00",
+        "source": "El Cronista"
       },
       {
         "title": "Ital Vinil invertirá más de $6.000 millones para ampliar su producción y llegar a Vaca Muerta",
@@ -189,13 +196,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdU9GRlZyY1c4bUdUY2daUnk2VkZFMTdSZEpreVRTUEhWYnAxRVlmai1qXy1kaEpGcVNSeVM4dExFWWRQMVZuS3lZQ2c0dG9sREZfbDA2WU91R3dDMWZmNnZCbXZva3lQZmVKOTdCR3FjYmFkZ29ZcXkwUlZvVXppdFkwbnBZQmZQMHhYWDRtc1NOdlY4cTJkSWkwVGFHSkc2S2ZodHlyVE5VMXdRVWZRd3JZd0xLZFlPajR0OHBVTEcwRE5BZnFjSVJOUjg1eTFXTGcwaU9RN0o?oc=5",
         "date": "2026-06-23T19:17:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Impulsada por Vaca Muerta, la minería y el campo, la economía creció 2,3% en el primer trimestre",
-        "description": "Impulsada por Vaca Muerta, la minería y el campo, la economía creció 2,3% en el primer trimestre La Nueva Provincia",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT0JtVXI2cU11cl9LZnhibUZZNEdvVzVEV1ZLalhfQ2NFR0g2bTFWYTJBU0hVcEo3WEt5V01SMUxuZTJ3NmdyTnI5U0w3cEt1bzZobl9MamVwdHhJaDhsdTVpVHhrMWp1dWlLbERwZkRad2hPblNrUHhvSVBtR1pQLWl2MkNUamVIZ280S28xZjNEeE5jOFQ4UUVOM0w0eWpVU0tMWkF1bFBvbmViS2JzMjExZXRpbnNuYXJpRUp1Z2puV0ZFMTFyUTF4NUlZYTF4RjB0S0doWQ?oc=5",
-        "date": "2026-06-24T00:00:46+00:00",
-        "source": "La Nueva Provincia"
       },
       {
         "title": "La economía creció 2,3% en un año por el agro, la minería y Vaca Muerta",
