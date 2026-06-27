@@ -1,9 +1,209 @@
 {
-  "updated_at": "2026-06-27T19:21:07Z",
+  "updated_at": "2026-06-27T20:56:00Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Windows 10 parecía condenado: Microsoft acaba de retrasar su final con una prórroga silenciosa",
+        "description": "Windows 10 parecía condenado: Microsoft acaba de retrasar su final con una prórroga silenciosa Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3EwaWZid2pXSkNPcFBUSGU1dGoxTVBrbWIyWVV6M3FHSFZBOFN4eVRGTWo3YnlrOTB4UVlmVHNNY2MzMldFUHVvRFVvYnFtX0Q5TUFpLV9BT2FWY0FoOGxsNTMySEZvNHVqV09nRHRiUWNhaGZEY2QzRGVlQ3V2aUFQdUdnWUlWZkR1akgzVTJqZks0SjZyR1lIMUZJckJfbzAzT1BWanFGak5DNWxMUDZGQzRFTkU3UGfSAb8BQVVfeXFMTkstTW9kSE42UUl3ZDdfQ3NIT2ZEaldpYVc5ay1LY0RHZllOWWNKXzdYZDdCRUp3M0s3YWNlcXdaV0t4SWt0Y2NodXQxY2xTSkROeWVvbnhjUTg5M3phRE1FQ3Y0cFYwV1RCUGZyc1NDTXBUWFBKRkJoc2pRcUFVa0xDOG94ejV2c2tuSEpnQkQ3WDV5b3otOHFCWGJvandiRjlVdW4wUkdPVWRUSTU3MGxuS2ZGZjBtWEd0YkdmTnc?oc=5",
+        "date": "2026-06-26T19:31:38+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Si usas Windows 10 no tendrás que desinstalarlo, Microsoft ampliará su soporte",
+        "description": "Si usas Windows 10 no tendrás que desinstalarlo, Microsoft ampliará su soporte Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRE53QkIyakhtY050VTJJN3dfcFJtbWZYYTdDa29LbmVVQWFRT2c0UnhKNlhHNnA0bWIyX0VpRUlrS2c5T0xIUEYtaTlCN0ZuVU1ndEg2UTFaRzhfdjZlcUpVcGcxYjRaRGQ0OVpnMWQzOXFVRmgtM1o4dVZqVk9LUFVmUVNWOTlEbV9WQU9FUmxBUE9BS2xWU0c5b2JlMFRKenhNbV9iX19hNGNhOVFVV3V0NHdDN21MTk5sTTl6ZzN6OHBW0gHfAUFVX3lxTFBXQ0FxWEtXeENtT2lzQXZkYk5IdDFOSWlvdzZhc3NOWWY0OG4xV0o3M3pZb1AtOTVTODJ4bUl2ZXpIa0U4S0xXcERnNnhjbEQ2YjlycHN1bEwzaUpFMmxleTRfNnZRcFBUSXJUV3YyczhTc0c2a3BLU2dVeXRqNG8zSWJfWGtkT0hULTlZTU9Yc2Q0SXVXRnhXZ3JrbVdHSHFvUHFCa3NUdC1USWVYUXZiSWRoMkdFdXh1ZFh4UUc1MWdJcWk5SVRYZ25VdkpULU16VUF4Wm84a05ITHZ2VEU?oc=5",
+        "date": "2026-06-26T23:25:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Microsoft amplía el soporte de Windows 10 hasta 2027",
+        "description": "Microsoft amplía el soporte de Windows 10 hasta 2027 MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmVHeDlMd1NYblJKM0VaMUVIZGl0RXdILUhrZlZleURkUDRJazRiN3p3Qk1uSkpHYzRNeEtkSjd4eXpYZl9DZ2RDLUJUcmM1N2JUMElLRmlEcjg2a2I5VzQtdDRiS3dUZGxGS3BnamlaczQ1U0w2RDhGZmNTSDQzOTJYNXNfWE5vZFRjcFpFMzdDU2ZaaWJR?oc=5",
+        "date": "2026-06-26T05:55:50+00:00",
+        "source": "MuyComputer"
+      },
+      {
+        "title": "Las acciones de Microsoft lideran el desplome de los Siete Magníficos mientras los inversores huyen del ETF MAGS",
+        "description": "Las acciones de Microsoft lideran el desplome de los Siete Magníficos mientras los inversores huyen del ETF MAGS Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTg3eVFraVVFdGhnLThzSmNKOGNvWjRjaHF4eEVIbS1PNDFVUlBOYV9TSDVvZTZHZWh1bEt0VGtzdU54cC12LU1BM3ZLS2FkQkJsUFR2NTFMRWJ0WEo4bEV0cnZaYjBVQ1VQMjdObFFwcDY0WGhKdVpwSlhrdHAwQU9kQmg5YUpLcUNlSElSVUdDb0FYMmlaOVJuZVF6R2NyTnVWcXFteXdiYWNY?oc=5",
+        "date": "2026-06-26T17:34:14+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Casi 22% de los argentinos ya usa alguna herramienta de inteligencia artificial generativa, según un informe de Microsoft - TN",
+        "description": "Casi 22% de los argentinos ya usa alguna herramienta de inteligencia artificial generativa, según un informe de Microsoft TN",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTFdZZEZNR3dqYWMzSmU4dERidURlUnVsZGN5anB4TzVlaU10WV9JN0xpUGRjcjJkVGVWZHJoWjdSZmRlYnBuNFBmQkZZZ2FRc05BUjNrWkdteElZSGRYNkF0a3U5cWxqSU11OV92WVkzd3Vyd0JwNGd3SUFhRnpPY1gydTdHMzA2QXNSUDd4bzJNLXgycVBfd3BrdElIQmtLc3N4YWZiazJBY2JoNXFQSTB1cGhGejZOTlJkNmk5cW93dlpZLW5lTUxNYzRyOWk2LV9NRkxpOVVmUzQ5NnVTUEZadjktUHBMX0Jray15LW0xbGlnRjlnLXhB0gGOAkFVX3lxTFBfdHJPb0o0cTV4MnVfZ3d5d0xTOWsxSUJrSnJlM2poUDlNbUZVNEFrYmdVWE5IZ0FrbmhvSVhOZ096Y09Vdm9nMW9UaW1TeU4wSGxfX0I4YXl0Ql9sSUNZVU9xNzVFVk0wQThoNWlQUzdMLW00SHp5eU5QNE5aYzZTQjg2MGgtWE1DY3VhQjdxd0V3MXF3M0FwNVROc1puczZZLWdLVTJiMGlBYjRKOXRJWTA4ZnVLdFlSSU1MVUtTOXpzLVJ0d19ZVFhMRjZzVzFMWHZ3bTBoRDc5ejNNRjNac0VKamNjYW1lc2d4eGkzRVBjODdfWHExXzFFRXFmcHBReGREb3dNVC1BVzJ5QQ?oc=5",
+        "date": "2026-06-26T22:44:03+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "¿Por qué sube hoy la acción de Microsoft?",
+        "description": "¿Por qué sube hoy la acción de Microsoft? Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVVXRWRTamR5UFdJWlZBempmTGtneTljNURvdVBpNURTRTc5b05JZGJpUHl1Z1MzYVhuOFphWHV4RnlvV1NQalQ2NWR0TmNaUzBRcmFpbTdGMFhZOUhFaXl5VGxxZWtnZTNQYlJzZGtVWWo1Y3NYYTg4T29SLU41RU9KMFRqYUV2UHItQ3lUTjhZQjhjTXhWd0xWc2N1WnYyNmc?oc=5",
+        "date": "2026-06-26T14:28:00+00:00",
+        "source": "Investing.com España"
+      },
+      {
+        "title": "El Banco Provincia introduce una revolucionaria tecnología en su app tras un acuerdo con Microsoft",
+        "description": "El Banco Provincia introduce una revolucionaria tecnología en su app tras un acuerdo con Microsoft 0223.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRjhoaHRVNzVpY3dVdmNSSUVQRUFwUmRxN3Vkck1zbU1rYllHaVhEczN2U0MxSjJaR0d1bVRta0tDZWMxdVVrbG56WUF4S2ZkQ21GLTVzZEpUN1VyNU5MTlM4bTJ3bHdkZTdZUDI4WkhRaDFpVzlqTFRNYV9UclZfREc4MXp3dk5OWS1Vc2R2T0pRSUNfOEdSOTdBZ2xJbDlJQWlZdGNrbGRUeFp4UVRZZXVXeU0zVUtlT01WWm5rbTItNlJRazBENXluUURETWtkTmRiU2NDUkdfQlVm?oc=5",
+        "date": "2026-06-26T15:36:00+00:00",
+        "source": "0223.com.ar"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "El marketing ya no vive del clic, compite por ser parte de la respuesta",
+        "description": "El marketing ya no vive del clic, compite por ser parte de la respuesta MaquiNAC",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1VKNVZFRzVtSG5MVUlTZzJkVVVaV3k2d3VUTzBERG5PNUVtNDdIM0FtVHJVVWJVT29wb2tmck1zZWJBT1JzTmFUSDN1d0xDOVRUY1A0X1p0eU16R2kwNE90bTBlSnRZSElJa3FTMmJsOGdidzZOYWRQWTlLYnVlcWhiTUh3Q051Tm1TcFotNDdBdk04RlMtQkhybkhGaFItMWc?oc=5",
+        "date": "2026-06-25T12:48:04+00:00",
+        "source": "MaquiNAC"
+      },
+      {
+        "title": "Emprendedores sanrafaelinos se capacitaron en Marketing Digital",
+        "description": "Emprendedores sanrafaelinos se capacitaron en Marketing Digital Diario Mendoza Sur",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZC1HTFVleVhac3RQVjlPQ0gwbDN3dDdQd01PUzdic2NvUzZJdnV4dDBWaWVNQnB4U2J6YXVfLVJNVlVSTzN6UVZsZ3ZQTUJIQ25SN3NFLXVCQXJ4V3JMTkk4aTR4clRONkpFYVhHcGF5cnlsejBfeTNzMWtBNDcyMXNNSkJpdlFpQndwbEpYOXpmbmctRExVcWljM05aYTRXUWdxMVhn?oc=5",
+        "date": "2026-06-26T22:02:27+00:00",
+        "source": "Diario Mendoza Sur"
+      },
+      {
+        "title": "El negocio silencioso que crece entre jóvenes argentinos",
+        "description": "El negocio silencioso que crece entre jóvenes argentinos El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX18xcF9vdkJob1JKUm5wOVdoYW1CR2VJSENSbUJkOGdqSldVOXl3WmZCUjhGc1lkSGhRblpGbUdMWmItWEVjbFFrOVZ4ZHNvcDE1OUtoT2lPbFBxb09fVWQyT0xMWFpGNzc2dGtpejFlWFdFRjlsYm4tM0EyMkdVOWlYRGthcXREQ3o2dzhFdzdyZWx6Wl9kWFpfT3JvVGk1TFN3VzJ0UENfMkEwMlhXYUl6OFVsUlg1NExhdTdvYklSbUNBNjZsTFFpUUhiVnNLMmxoTVBWRWNSd0NTUGZGWUp3?oc=5",
+        "date": "2026-06-24T15:15:02+00:00",
+        "source": "El Litoral"
+      },
+      {
+        "title": "Se desarrolló una capacitación en marketing digital para emprendedores sanrafaelinos",
+        "description": "Se desarrolló una capacitación en marketing digital para emprendedores sanrafaelinos Diario del Oeste",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFluNzVUelMyWnkzSG9SYUJmNlJReVNvb2tRYTlrRTV3VVlYb2VqdkJTR1JsWTRzN3RBR0NUN2FPd21lU3RvdkdQRTAyWDhIYzZ5ZWVUdXZRTGZLTlIyYml1XzcwN194cUFKMmhkQnNHaUt6aXpjUlBRLXJQdUpySmJhb2hTZ3FkRVQwOVlpemVfc2pJN0k5MUpiRGczWkRZRGdtSVFKbEM3V2JLSzNWU2s0ZlFXb0R2aDFB?oc=5",
+        "date": "2026-06-25T17:59:13+00:00",
+        "source": "Diario del Oeste"
+      },
+      {
+        "title": "BoomerangFX anuncia una alianza estratégica con Web Marketing Clinic",
+        "description": "BoomerangFX anuncia una alianza estratégica con Web Marketing Clinic PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVFncjZseUlfemwtNjBVX1lTekE0ektSbkFrNm9naHlKcktLYm0zVDIwMFFaYUczeHpWcW5fdEpZQXUyX0NNVEExWXhmQmhGTDBTOHNELVM0MFpEeXcwWW5HQmw4QXpsejhQVUJJRGg2LVk5X01OLUxzWmI4TGxCRTdXQ2dPZ2ZGRkJYdXdwdGhmdVpsTFpoYlJ4Z0JhUjdmUkJjNlhOUkJpU2s4OWdRUVVuTGxfMHdhY3J6RGhIMnRiUQ?oc=5",
+        "date": "2026-06-27T15:31:00+00:00",
+        "source": "PR Newswire"
+      },
+      {
+        "title": "Puerto San Martín impulsa nuevas capacitaciones con cursos de marketing digital y coctelería",
+        "description": "Puerto San Martín impulsa nuevas capacitaciones con cursos de marketing digital y coctelería IRE Somos Región",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSG9nX0pyRzY0anFURENFejAyUEh6UFJQRU1kM2VxRTFoUlpHTE0yXzZqYkZJVWtJX205TW9ZajZiRkJROEU3SEtQajRxcnVrNnpuWEhRT1A1MENKM05Rb1NUcXpZSy1USFNwX0lnMlVocGRvT0pzdzdkSUl1bVpLSHdfNmVMSzZKNUZBaE9lVkQtd0ZWZVRvZ3BTLW81V3pxR1RMdkpCZ2dqdEQyUnpMeDZyOVRIa19Wc0llcWVHekRmWFFpZ3FvNk9HZnlkRm9FTnI0eWUwQkd5Q2o0SWxLSFEwU0JGbW1BMm80elpYVmNnS0nSAfMBQVVfeXFMUEhvZ19Kckc2NGpxVERDRXowMlBIelBSUEVNZDNlcUUxaFJaR0xNMl82amJGSVVrSV9tOU1vWWo2YkZCUThFN0hLUGo0cXJ1azZ6blhIUU9QNTBDSjNOUW9TVHF6WUstVEhTcF9JZzJVaHBkb09Kc3c3ZElJdW1aS0h3XzZlTEs2SjVGQWhPZVZELXdGVmVUb2dwUy1vNVd6cUdUTHZKQmdnanREMlJ6THg2cjlUSGtfVnNJZXFlR3pEZlhRaWdxbzZPR2Z5ZEZvRU5yNHllMEJHeUNqNElsS0hRMFNCRm1tQTJvNHpaWFZjZ0tJ?oc=5",
+        "date": "2026-06-25T13:38:33+00:00",
+        "source": "IRE Somos Región"
+      },
+      {
+        "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
+        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital UNSAM",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
+        "date": "2026-06-08T07:00:00+00:00",
+        "source": "UNSAM"
+      }
+    ],
+    "IA": [
+      {
+        "title": "La fábula de la inteligencia artificial",
+        "description": "La fábula de la inteligencia artificial Perfil",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTi1Hamd4dGJxVWlKX1BRbFVxVDhjM0NSQmVzOEw5TG5CTzhhTFdQcEV1cTZTSkZveXpFakVualdSSGpKdVJOa0dsckQtdzNDb3g3U296eThzNFphbmQ2VmdlVEJsQm9iWEo2NnZYM3o5ZUt2M1JjVUxBOUYzTk1BNTZHd3dCckU2cHdmU05WVzNVUdIBlwFBVV95cUxNazV2SU1WbTk1SEZKdTFzaWVoaXRVRlpaV2ctdmxaWGNnQ051dmZGSnlhM0JWeXFEdGdqQ2FxOFRHUXRQU1pPTE95R1lZTjFKb3k2ZmlYOFF6enQwZXM1bTFuLW5tOFRUMTNidThpTFZTTTF6RVM3eThLMFppV3RUemNwV0pSN0ZGSEJaZUgxZjJMYWpnUWk0?oc=5",
+        "date": "2026-06-25T11:42:24+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Anthropic ofrece USD 85.000 anuales por usar su IA mientras trabajas para otra empresa",
+        "description": "Anthropic ofrece USD 85.000 anuales por usar su IA mientras trabajas para otra empresa Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSldDUWNDY3JnY1FRUV9LY05rVlV4Ymx4TnBaa3p3bkV0WFJXUUh4X0RkZThpS29uY1NKZ1MxOWRXUEpoVTRYZTNjQUpUR3dHbW1JOHpaX3BidW9wZ3ZBS0hMdG45ck4wR293NWtoanVtWEFHMkZsMkxVV2xHUkJkSWVybVJRbkFXc2E3aFFuZXB6TGNuTVZxUGVTQU4wOWhJM29BdFIwMlBVTGZJX0ZhWlh5dGt0LWFWcjZoWGFybWh3VDZfOXfSAeABQVVfeXFMTlNFWWJvcThrUXVLNlR4aDc2emdZRF9Tb3Q1VXlIalFhRzBROTBSRG9fT1Y2dXladE1ybGp4NEZDSlhUWjBYcVA2NjBRYU1jSmZEb1dEdEVmSU5ld091MEx2el9PRXFOQjdMRkdta1FzZHlXeVdKRklGYmthWUVQYkVHRkhLelVDU3E1T3g0LTdNSkhvb0pCRE9iLWVjXzN0aG5rRHBnaWxxVmJWa2lTUHlsOWlIWDR1QkswQU1IOG1NMGFSYURWYW9IYlN0U0JKSDFVZ1NaNzVHZjNVWkJzV2E?oc=5",
+        "date": "2026-06-27T04:01:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La Argentina de Milei: concesiones inéditas para ser la tierra prometida de la IA",
+        "description": "La Argentina de Milei: concesiones inéditas para ser la tierra prometida de la IA Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG9ENUpjQ1ZBcHFIYTJOQ20tVzQ4UEhLbjZvc29UUXhaSjd0ekNXTG5seUpFRElDOGtLRGJGWm1Xd3hRSGwzVlBRekJCa1E4RVZaYUNhT1lETUlXcTc0ckR2V01DakFMbEhHaWRLZTZMQTVWb3k2U1JGYUVIQkNSOGlfMDhtQk5BZUtDTHVUbWJwUnBuRUVXbVZEM2FiMFcyNExsOHhmUDI1QQ?oc=5",
+        "date": "2026-06-27T01:21:33+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Descifran un rollo de papiro calcinado durante la erupción del Vesubio con ayuda de la inteligencia artificial",
+        "description": "Descifran un rollo de papiro calcinado durante la erupción del Vesubio con ayuda de la inteligencia artificial CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGQtaVM3NmJLUWZBc0Q5ZzlPMHhOT3FLTHI5eERyMTYyLWYwOHo4VlNoQ1RHcTl1SW43T0g2Nk84eXJHbklLM3ZKbTdzYnVzMDdoV3A5M1I1S0xEZ1lLbExUSzJERS1yVW1UWUc0T0RCSWpzVU1SbGxYRkozTFZraklrajRGcHRSSmN2SlFGcVc5cTZwd3IxQ3JFOTZKVTV0RVFPcjZpdGQ?oc=5",
+        "date": "2026-06-27T01:31:00+00:00",
+        "source": "CNN en Español"
+      },
+      {
+        "title": "La Comisión Interdicasterial sobre IA se reúne por primera vez",
+        "description": "La Comisión Interdicasterial sobre IA se reúne por primera vez Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVoxZXVRbUdVZ0N4Sm5hX0ZpRFlDOHg1WWJOUEVEM1Y0Z2ROcGVTMFM2dDdVRHM0RF8xWGtXWW8xdnVSMGdTb2p4M3drQXJUREJFVkhSU3NoeF9RR1EwczB3bUE2RmE1UG1ScjNEaENvQWJaVDBMV3JjX2lERFVGeDVucHFjSGhrYTdrUFkzWXd3ZG1mb1FPY3c1Zl85OXhmcHU1ZW9DU05hcUMwaXU2TE1rLWpnMS1hWG05Njh3?oc=5",
+        "date": "2026-06-27T15:33:38+00:00",
+        "source": "Vatican News"
+      },
+      {
+        "title": "Llegó con síntomas poco claros y un diagnóstico asistido por inteligencia artificial terminó en un trasplante de corazón",
+        "description": "Llegó con síntomas poco claros y un diagnóstico asistido por inteligencia artificial terminó en un trasplante de corazón La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaUl3bXB0MVAtN0JMUWF4NHJ4LWV6Vm50eWVHN2V3WWM5Q01KVEtWdVZVdjlfclVYUVkxRkVldUJlMDZiTllsVFcxb0dIRzVYMHJ4NkNKajE1b2o2OVM3cFAtajVZdUNaX1p6MFZ6TzBZSlBRR1JjdVBubVJvS3VFOVJzZFI2YmZQck5zc1hzYjBNVWtXbVE5TXZ0OXpoUXZYUHAtdEh4bF9BeW5MRXNjSVFUajFWSWwtd0JkdUg0WmJPZnNOeEVKZUpSay1WX1dJT25SMWZGU2lrbVJiUWRyMWFn?oc=5",
+        "date": "2026-06-26T16:59:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Un fundador de éxito enfrenta el cáncer con inteligencia artificial",
+        "description": "Un fundador de éxito enfrenta el cáncer con inteligencia artificial Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOG1wT1BvZnpPc0pTdnRwNTVwX051eVZacmd1WkpSUU5kbXUxU1pjTC1wenM2YXRKbEltWTlaMkliejFfLVJBeGVJZkR5MElsLUVnUXNqS1F2YzBDUHgtZ29ucWQyVmtLTk0tOWRONDR5d3ZNVU1pQzA0T3d2ZVE5X0Q1TnhKY0ctdmlxa1FIV05oRFM5N1FBUWtCZmxKSDdqY090RzNXSlEyVkdEUkM2c0lFM3Q2clpG0gG-AUFVX3lxTE5qNWluN0l0QWRJYjVhNEJNUWloSHBVV1hPR1pFYkhjN09RdWxCUHFSVW11N0d2dnZMSXVqc0E3NUtmTzQza04zbWlZeEYzbUJPVzBfc2xHVTBHLUZyaWtyd1U4WEQ1SThCVDJCM2thd3FCbmxMRHFEdjR5dERUWHN2dm8zYW9FVzdVbk53Zi1NdzZ4NDB1SXR4UmhlM2t6ZHlCV3ZJSXNBdUg1Y0dVSG9GS1VJclI1MzFNb0pqRXc?oc=5",
+        "date": "2026-06-27T17:08:55+00:00",
+        "source": "Cadena 3 Argentina"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "Petróleo en baja: cuál es el precio que enciende luces amarillas sobre la rentabilidad de Vaca Muerta",
+        "description": "Petróleo en baja: cuál es el precio que enciende luces amarillas sobre la rentabilidad de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWmkwM2ctcEVSZjU0YlFaV05NcDZLZ0JUQ0tEV0xBOTJlTHcydEJSXzBtTHFPR3hBcGx0UkRLaUZ6OWJ3cjB4NkFyTHhiZUgxc0lVd2FCZndha2psdVZoNFdnSmNSZ2hQMk5HcUdFZGFmb3U0Q196TUVOdnhjeVlhUjJxb0NXM1hLZ1Z1c0pXandkSTJ4U1ZjSnVnRnpHeEhOSXF5eU1seEw1MnoySE5HMlF5T3BEa2x0SjM4LWo0VFdoY3hWWUFJek91eEtpTl8wTXZWQ0xIQlYtVGFkd0HSAfgBQVVfeXFMTjA0TkNUMGlERTFIVlI1V0V3R015VGFNMkVOVkpDUXQxRmFPSE1Gb2RHSm1sUlRWdUxkc0UxQU1PRUVXdzJLTWdtVWtuQmlOTGxkN3NVNFpuZkZ0UVZ5Wmk5LU0wQkoyb2p0SVB6cUU2cmRILVBjcDNMeG1rWnZUSGdqa3NGUEtILWZuZVQ2RDJWQ1lpNTk1M0ExdWdJM1ZmOW41SUVxeFJZR1N2ZjUwNE8yVms4ZnY4SEZhcEFEVzJncFZPWGdpRHVsWjZDdXpQTlNTXzdJQXN3UGp3MGRObXZLXzl5azAyMjU4Tjl5SWZOcVRUTHM0RlE?oc=5",
+        "date": "2026-06-27T20:51:18+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Provincias en contexto. Neuquén: Vaca Muerta y la aceleración del saqueo",
+        "description": "Provincias en contexto. Neuquén: Vaca Muerta y la aceleración del saqueo La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNamRNc3ZaOU41V05haXVld2s3NGhwN2xVMnU1TEtKbkVSWHJOMDFCY3EyNFA4N0gxYk50SW9uM1RtcHVBbG9hOXRrcHdSdy1CcmxTVGM2cHUtaWctNXByUEZtRk5hQnVObWNucDg4TllLYzlzNGhXUEZWNXJJblR2eVlkdmlnVnU3?oc=5",
+        "date": "2026-06-27T12:12:19+00:00",
+        "source": "La Izquierda Diario"
+      },
+      {
+        "title": "Cómo impacta la pausa del conflicto en Argentina",
+        "description": "Cómo impacta la pausa del conflicto en Argentina Página|12",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXNmUU5ZNVluNEhhUG1IaXB0S3NiWjhWRUtQdkVPZ3daekJkS19odzhvTTY1SHQ5bVdkZnRWTjZkYkxzM09wRWRoblVXX1lhSmtyZU9hbzhiRHpqX25qeUxvMnhFNl9vbWlGMTVUakFBUkJwd09RUURPSDZYU2dtLUZGQThjQ3F0ajRwQ1B5amloZw?oc=5",
+        "date": "2026-06-26T22:48:03+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Vaca Muerta, tecnología y el fenómeno Messi: la ciudad que está desplazando a Miami como centro de atención de los argentinos",
+        "description": "Vaca Muerta, tecnología y el fenómeno Messi: la ciudad que está desplazando a Miami como centro de atención de los argentinos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOalZsR05hNm5YRktRMGVxaHZ2ekhXYWc5TmdNQjNjVGp3elZBTTVJY1dNV3FxSGdxVkNKU2o4WUZ4dzVsenk3LWFVOG9saTRoTExMa2h6aktLODVLaFMxRW93Sld6Ti1qTHBUd0NsT0pSaUo4ZzlFZ1VGNThfM1BQRlItOVZHTVVFZGNRY1JUR3dsendNRERweW01THBYTVlnWVZVbEVTbDA1UVV5alBfSy1zNkVXQ3NHNEROS05zeU42d3BfNTh6WkxWME9iOWRRY0thbUxJZl9GT2lFZHN3?oc=5",
+        "date": "2026-06-24T18:33:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "El boom exportador sostiene la recuperación económica, pero el desafío sigue siendo el empleo",
+        "description": "El boom exportador sostiene la recuperación económica, pero el desafío sigue siendo el empleo Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFhnaWRhZzQtdU5vYXdoRGtSaUNpYndPN0dzcFhvUjhlcUxkc0xVUW1iM2ZTVDM5MUtlVmd1SkZCTE9qS0VKQXRrak9fUGlLeGRCQ014NkhJeHA2WHFETWFnYVU5MnFobWlNQk5GOWU5eGdTNzZhV1BZRWpjWDFWU0xRd0RDNzJPSGNQSzBHOThZRzBrYWt4LU1GMFlUcFZuNmJjVF9GckJ5NnF5elMzX2MwNUFWeVFsY0s1c3hyVHJOWW4tVDIyaDlXeV82YmNlcVVyRdIB2gFBVV95cUxOWmIzanVucVpLQ2VDOFZ3Zjh0d2dMcjVubml2d01McWZIOVdfOUM4QTgwdERyMGc5VHA2U3hWVmNPVTl3eTVwcmdlckZ5M2tVU2tobVlxcmowVU5fbGVQenV0T3dOSDFMdlRsMmVXbHlwRU1rTU92VF9kYW5BVzlYbG1PdklrZl9DUEQyQi1yck9FeHhYQ21wbDBzRzRCOWJYRmUxN0c4Y0V0a3EyTUVSNU9haTV0cW56cFVTRnFvMmx5ajhDSUxBb2daRWtrRVdaelJ4eE44eUtHdw?oc=5",
+        "date": "2026-06-26T18:14:58+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "La pyme rosarina de seguridad industrial que gana terreno en Vaca Muerta",
+        "description": "La pyme rosarina de seguridad industrial que gana terreno en Vaca Muerta La Capital",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3E3WXB6enBmRHBaazlfVS1aX01hZ1EzTERxQUdqTzRyVzFxcm1JYlBtN255S3JrMW10Q3lVOWlpSF9QRTQ5ZHM2bjU2d21DV2I1UkRaSDdQTTZQWWZ5dWFzR0w2U1hQWThlUy1nODdLdXpvZlZlR2VqSUh3NjQzdk0tV2hoekNHSWRES093N3FFeGJXZ2JlM2RVT2EyZVpuOTJHRThkcF9GbXhyTENvNkFSV2NhT0pVR2c00gHAAUFVX3lxTFBlVXdNbEdnbzc1MmFZNHF1QXhzcUo1b0hUY1k3a09qa1RLOThERmJkM0E0XzJRSWFJcFRCb054UEJlT1Z4cUVKRXBkbWJEZTZOc2Z5UWZSZVk4cXhyV0RfZ3hZRlotcWVfdlRWc25jWWpMMGtKSlZtX2VjSU5sZ1Q3Yl9mTEw4N19XdU41QW9JV010dXBRVWR5V2dQcHVBMW5RZ3hHVklfRy1rU1RHOTd2akJ2S0VmVjh6RENQQ0lxdQ?oc=5",
+        "date": "2026-06-26T13:25:00+00:00",
+        "source": "La Capital"
+      },
+      {
+        "title": "Desarrollo en Vaca Muerta: Oldelval y el nuevo proyecto Duplicar Extendido",
+        "description": "Desarrollo en Vaca Muerta: Oldelval y el nuevo proyecto Duplicar Extendido LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlRMUXB6cmQyTWZOUElacklTSmVqOGllZHFCNlpEQmZMTUFneFNQMVdxRlFzYmNVZ2toazJHXzhtQnRFdWd4ZkhHUE5rYzFHeWx6SWJ4WENGNXpaeVRJMWdUZm5BMFhBWnRuTGJDcnJ0czM5VktjX3Fib0N1STV1QlVwbUpYc2F4YVRfTW5jU0ZxUFdpWHpZNnFyazdUU240VnhEa1g3OG1xQV9sbkdKTWwzdmlPWXRrblHSAb8BQVVfeXFMUFQwLXBaQ0E5cU95VXM2YWF1NnBHNjljS2NMZlgzU19GdEhZSVRqVGRRR0Q2QVdZOUZCN3hjVWxoTEdCVWh1ZGVMU3oxWkRFM2VDRmVQb1V1c0V4eGk0N3J1UUJnSFNsQURFRldGOGNKcDFSb21LUjEwSWh0cEg4NWtfR2RnNTdHTWQ5WU5HS3pCMkZxa1JSR3VxWFZaLUJoMUxmY28xSThQU3JpWWF0SUEtQkRWcXdVb2k0a1ZMR1U?oc=5",
+        "date": "2026-06-25T18:06:00+00:00",
+        "source": "LM Neuquén"
+      }
+    ]
   }
 }
