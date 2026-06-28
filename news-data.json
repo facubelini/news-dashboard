@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-28T20:09:08Z",
+  "updated_at": "2026-06-28T21:58:44Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Windows 10 parecía condenado: Microsoft acaba de retrasar su final con una prórroga silenciosa",
-        "description": "Windows 10 parecía condenado: Microsoft acaba de retrasar su final con una prórroga silenciosa Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3EwaWZid2pXSkNPcFBUSGU1dGoxTVBrbWIyWVV6M3FHSFZBOFN4eVRGTWo3YnlrOTB4UVlmVHNNY2MzMldFUHVvRFVvYnFtX0Q5TUFpLV9BT2FWY0FoOGxsNTMySEZvNHVqV09nRHRiUWNhaGZEY2QzRGVlQ3V2aUFQdUdnWUlWZkR1akgzVTJqZks0SjZyR1lIMUZJckJfbzAzT1BWanFGak5DNWxMUDZGQzRFTkU3UGfSAb8BQVVfeXFMTkstTW9kSE42UUl3ZDdfQ3NIT2ZEaldpYVc5ay1LY0RHZllOWWNKXzdYZDdCRUp3M0s3YWNlcXdaV0t4SWt0Y2NodXQxY2xTSkROeWVvbnhjUTg5M3phRE1FQ3Y0cFYwV1RCUGZyc1NDTXBUWFBKRkJoc2pRcUFVa0xDOG94ejV2c2tuSEpnQkQ3WDV5b3otOHFCWGJvandiRjlVdW4wUkdPVWRUSTU3MGxuS2ZGZjBtWEd0YkdmTnc?oc=5",
-        "date": "2026-06-26T19:31:38+00:00",
-        "source": "Xataka"
-      },
       {
         "title": "Las acciones de Microsoft lideran el desplome de los Siete Magníficos mientras los inversores huyen del ETF MAGS",
         "description": "Las acciones de Microsoft lideran el desplome de los Siete Magníficos mientras los inversores huyen del ETF MAGS Yahoo Finanzas",
@@ -17,11 +10,25 @@
         "source": "Yahoo Finanzas"
       },
       {
+        "title": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
+        "description": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONmQ4TGFGYkJVRHgzYkI1SldmR2xrQTRBc0o2SVpDN0gzNFMwQUtKZ0UtMGdUYWw3enVpS0t4Zm9lMUlqamVwajBSbXhRd1NtUFVWLTFiZm81QTdVakFnSjRTaVp6NkxmRW1jWHNJZEkyRWFIenBzcTlKWlNhc3FiSXhicXJoMURLclN2V2MwQlBQWGx1MDZ3UVlIVmpjeEJacXN2VkVycGY1WVdNT3BGaGxJWWFHRFNKRzd0WlI0dC1ZVHJXSlpDZmJnbVJRZTdpSmkzR2N0OXg2SFJ1eHBUd9IB5gFBVV95cUxOcU5iZm4zU1UzQ2FDRzc4eDJIVnFKU01fbFZBV1RKMEhMYkNfc1hjRm44UVVXYTJrdjRKVENKNExmeHVWUjl6Ym9Tcm1LUUNKMzRNblFQZFdFY3AzRTFjMUR2TFFjSExEVUFicGY5R2VGVldmY1pMdnlZcnZLY3puUjdHNXpYRzlZd2VEUU9tNnF3N3RwaVd0NjlGd0ljd1R3Q095TE9iV0M0Q3lMYkdZc2I1V1dQMHBrZEl2VktxNF9ta05ldzM0MWNPV0xkWWlnUW1KY0ZpazktQjZfNzlTdWZoR3FTdw?oc=5",
+        "date": "2026-06-28T11:30:13+00:00",
+        "source": "Xataka"
+      },
+      {
         "title": "Microsoft ha subido el precio de XBOX Series tres veces. Lo peor es que la situación podría empeorar todavía más, especialmente en sus ventas",
         "description": "Microsoft ha subido el precio de XBOX Series tres veces. Lo peor es que la situación podría empeorar todavía más, especialmente en sus ventas 3DJuegos",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeUJpek96LXhwSjJLTElzMDA0aDVzQlNsVmtRV2pJUWhrWUxrTUozZUg0ZG95MUVZZnA3c0daLW5ub0hCZVZOd3JGclVwZUkxd3ltLWZQZGpvY1c1M2p3ZVlYZ3BGM0JNNE5xc0ZaWktZbTR6RHl6MEZaSlMwTElldlptQXVoYm9ab1lwRHZmb0Q4RTdlY1F1Qi1iMkl6bkpGTTVHWkNvR1RLSlZTRV9aWTRBTC1qTWZnUEtWNEpWU21MWG9TWlp0dGlXZGl0YUxVNnVHYV9TSlJUSGdOZjdjNXdqLUdOTzlT0gHuAUFVX3lxTE9wcWlfbDhhMDJhOXZXNHJycDlsNy1wZzU4RmVibDlZRXM3ZTF3b08xSUlWSVZ2STdlQmZhWWdaODRYd2k4OHRWbXlIZk5WVFAtQThpR1Eya1RsQ0RWcHdrUmlhWjJsa21iQl83WkVhWVlZb1V1OEJmUHlHeGpZNFU5TURuMjhva0RlOXNYVDF6YkUwbzNNQ2tKWnk4WHppd0ttOXZMcXQ5LWRncV9JaEpLOTRqWFpPSzRTTllQNzA0cHp3SklSYmJOYjJsUnludFRPZkhKb2Z5VHdBRkg5dU5JNFdPQzRqUF9mekFpRnc?oc=5",
         "date": "2026-06-28T12:16:12+00:00",
         "source": "3DJuegos"
+      },
+      {
+        "title": "Windows 10 se resiste a morir: Microsoft extiende sus actualizaciones de seguridad hasta octubre de 2027",
+        "description": "Windows 10 se resiste a morir: Microsoft extiende sus actualizaciones de seguridad hasta octubre de 2027 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUVFd0d2T0Ewd2tNOGI2QjgxYnRPN1YzOWcweXA2NDNxRklqLVRfWGhFLUpMSTdNMmoyeTJESWVXVU1ZQk5ORUg3cEdaVGd4ZDhzWkJDSUR6XzFJX2kwWXZMbG5WZzJlZ092RXJPZlRaajdFU3ZFU1JOUnhwT01IclVObERIX1Iyc3gwVFVJbWpqN05vQWVDeGFNTkZfQzRSRmNUdkxJYmNvNHFzemdqVVN6Vm9XcXltanVESFlGeHNBWGQxZlRGZkJ0R1hlZEV2N1lRTkRlRFFvcVI5OXfSAfgBQVVfeXFMUFlEZnpueTNKSEplWWNsWVdPalo4WjMxTkk0NDRrYWNQSU10OEVObXZzejRBRWRrSzJwc3lYdUZKLWNrdTl5dmgyVnpEOVViemdya2JVZnVTZ0ZHbzNNTjZqMngtcHJEN0JDSUF6Tm1JdWV5NWRFZFNpMVkwLVk0aWs5R1M2S25fdnlrRU54cC1iODRvYW9CLVlRc1ZRMmJkbVdWVFpMRnp0TVdZYjZ3N1E2TGFMMVE3SWY4ZHV5QXJkbHRoQl9hR1hvVXFrSTh0NWYtRHlPamx4NVVtNlJWZ0F1Y2pxUWQxaGZSSExLTnl5Q1VXUGcwS1Q?oc=5",
+        "date": "2026-06-27T21:45:10+00:00",
+        "source": "Infobae"
       },
       {
         "title": "El Banco Provincia introduce una revolucionaria tecnología en su app tras un acuerdo con Microsoft",
@@ -38,13 +45,6 @@
         "source": "MuyComputer"
       },
       {
-        "title": "Si usas Windows 10 no tendrás que desinstalarlo, Microsoft ampliará su soporte",
-        "description": "Si usas Windows 10 no tendrás que desinstalarlo, Microsoft ampliará su soporte Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRE53QkIyakhtY050VTJJN3dfcFJtbWZYYTdDa29LbmVVQWFRT2c0UnhKNlhHNnA0bWIyX0VpRUlrS2c5T0xIUEYtaTlCN0ZuVU1ndEg2UTFaRzhfdjZlcUpVcGcxYjRaRGQ0OVpnMWQzOXFVRmgtM1o4dVZqVk9LUFVmUVNWOTlEbV9WQU9FUmxBUE9BS2xWU0c5b2JlMFRKenhNbV9iX19hNGNhOVFVV3V0NHdDN21MTk5sTTl6ZzN6OHBW0gHfAUFVX3lxTFBXQ0FxWEtXeENtT2lzQXZkYk5IdDFOSWlvdzZhc3NOWWY0OG4xV0o3M3pZb1AtOTVTODJ4bUl2ZXpIa0U4S0xXcERnNnhjbEQ2YjlycHN1bEwzaUpFMmxleTRfNnZRcFBUSXJUV3YyczhTc0c2a3BLU2dVeXRqNG8zSWJfWGtkT0hULTlZTU9Yc2Q0SXVXRnhXZ3JrbVdHSHFvUHFCa3NUdC1USWVYUXZiSWRoMkdFdXh1ZFh4UUc1MWdJcWk5SVRYZ25VdkpULU16VUF4Wm84a05ITHZ2VEU?oc=5",
-        "date": "2026-06-26T23:25:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Steve Jobs llamó en pleno ataque de ira a los directivos de Microsoft y Bungie por una razón bastante extraña: videojuegos",
         "description": "Steve Jobs llamó en pleno ataque de ira a los directivos de Microsoft y Bungie por una razón bastante extraña: videojuegos Applesfera",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ01UbVlIc2lRMERqNjdqajVtQVVEeGU3M0x6N0pIZGRsaFY0a2d5N1U2aV8yVFllMkplc3YwVUcyandNcU9VbENFR044S2pTOWdUQ1RBbm92Zjhab2NfNGUxRHhUNzdUWmtxRUFxc3liRHJKWVlJVFFDLVNlcHA4czJzaG0yNF9tY0Y1U1VMWjFUUV9jeVdmdVF2QTVTUVNMcE5iYVRXRVhyRzRzeUIwTDR0SDJENTc5emxwUHFfYVZXOTFyY0NOX1A5YXR0UjJRd0pJYXpHSQ?oc=5",
@@ -54,11 +54,11 @@
     ],
     "Marketing": [
       {
-        "title": "Se desarrolló una capacitación en marketing digital para emprendedores sanrafaelinos",
-        "description": "Se desarrolló una capacitación en marketing digital para emprendedores sanrafaelinos Diario del Oeste",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFluNzVUelMyWnkzSG9SYUJmNlJReVNvb2tRYTlrRTV3VVlYb2VqdkJTR1JsWTRzN3RBR0NUN2FPd21lU3RvdkdQRTAyWDhIYzZ5ZWVUdXZRTGZLTlIyYml1XzcwN194cUFKMmhkQnNHaUt6aXpjUlBRLXJQdUpySmJhb2hTZ3FkRVQwOVlpemVfc2pJN0k5MUpiRGczWkRZRGdtSVFKbEM3V2JLSzNWU2s0ZlFXb0R2aDFB?oc=5",
-        "date": "2026-06-25T17:59:13+00:00",
-        "source": "Diario del Oeste"
+        "title": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS",
+        "description": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS sanrafael.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMyX3laOE9yY1VEaFN4bE5IWWZqY29yeTBxczJJeTJZajk0NkRJU3BOSU5ReU1tODB4TTZldTJHUDFtYzJ3MGV6MmN0YWVhRzJLZkhHLURyblgwZWRNd1ZiSk5SQXRXYmlZazFrRFNPZEd3LWRPWWtsczNpR21PS2RFWTNEMElGUUJmQnUtWF9WMXVRUDZkRl82aDYtczNCbmFNc09XSE96VVgwSm4wX0laMXh3QklrTU9HUWxiYjl3QW1ycWc?oc=5",
+        "date": "2026-06-25T15:46:57+00:00",
+        "source": "sanrafael.gov.ar"
       },
       {
         "title": "El negocio silencioso que crece entre jóvenes argentinos",
@@ -73,13 +73,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T07:00:00+00:00",
         "source": "UNSAM"
-      },
-      {
-        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
-        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
-        "date": "2026-06-04T07:00:00+00:00",
-        "source": "sanrafael.gov.ar"
       },
       {
         "title": "Marketing digital efectivo: cómo convertir los clics en ventas",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
         "date": "2026-02-23T08:00:00+00:00",
         "source": "Municipalidad de la Ciudad de Mendoza"
+      },
+      {
+        "title": "Por qué los hoteles que se adaptan al marketing digital logran crecer",
+        "description": "Por qué los hoteles que se adaptan al marketing digital logran crecer Perfil",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW9MdlR1cmtVTkZsX2JzcHZqcjlEQm1FN1Rod3NuU0pWQ1kwS3h3MUw3eXhfY3FuUklHWlJKMG92cDdnRUV2WXFaS08yU00yWXU2SnpEN0RncTFyTkN4SGY4OUJBNmJKQmFLVEdYeXZCMEVsX2NRRWdpdm9JSWhXMkZJUTRiZWIzdXFCT3ROaGJCU3JkTkRYV1lTMjNnTVhFNmx3VUtfY3lMY2VCQ2dCLUZXRTRlUdIBuwFBVV95cUxNdzAyV243Y1VrUVRiRlpZdUJmcEZLc1RqUTR4dlpFaTd6bTNxbjJuakJDWW1DY0c1cWxhWFRWNi1LS1lMei1WQ1VZSVZGYmw5RDExN09VRk4zU0M0dVRWNHhaNjYzaGduTkVoN1Z5S204ZWl1aGxWS1ZPZ1VNLTlHN2ptTVNMSWJjQ1o2dG5FRXUyQ3dJcG9DYWF6SVIzRmVsS0dET0NMRlh0cmk3OWRzMFp6bFM2NWVZTTBj?oc=5",
+        "date": "2026-06-04T07:00:00+00:00",
+        "source": "Perfil"
       }
     ],
     "IA": [
@@ -112,13 +112,6 @@
         "source": "Perfil"
       },
       {
-        "title": "Entrenadores de IA: los videos con los se prepara a robots para que imiten a los humanos",
-        "description": "Entrenadores de IA: los videos con los se prepara a robots para que imiten a los humanos Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXM3eHZ1REJiMktQNVRBZGg0NHlmVEFoZlR4ZG9MZG9mYUJheXFuMWM5dGxDOGF0a2E4X1ZxUU4wNm5paUVuLXJPNTN2X21vcGRKT2trMkJ3ZTFvSjJacXR4c01KMnRvdV9lUWE4OVQtcFA1bllwaFk4Yl9WM3BYWUZiLTNYOU03TjVRV081YXlrNVg1Qi1aMEZXMDVtME5wOWl0Z2xINFJ4a3PSAbABQVVfeXFMTmNST3pqTkpBM0daTkNQRzBEcFdaOE1hbnBpMzI0b19aWU4yRHJuaW9yRkR4STNUbXRZdVUtRGdLdEJIaWVXOVpCN0Izekk4eFQyVkI1RnFkMVZLU2tERThuWWJoTkItSEhjcjRpNmJ2UjJSVXJCMWFOWk9DOS1Gck8xV196SXdiRE5MMWhKT056TG5xOHl5cG5ndWJ2ZzhRV3JRb2JnMkZrT2N0T0lfeWQ?oc=5",
-        "date": "2026-06-28T18:55:32+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "La inteligencia artificial ya entró al aula",
         "description": "La inteligencia artificial ya entró al aula Revista Seúl",
         "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE15MTJzV0xWZmQxQzl5RTJHZlQzMlN3aVNOdTI3REJ4aDB3Z1FiWi1GVlJZSDdIMnpwa3RNdQ?oc=5",
@@ -126,11 +119,11 @@
         "source": "Revista Seúl"
       },
       {
-        "title": "Un catedrático español denuncia fraude masivo con IA en un examen en la Universidad de Brown: “La integridad académica está en peligro”",
-        "description": "Un catedrático español denuncia fraude masivo con IA en un examen en la Universidad de Brown: “La integridad académica está en peligro” EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa1h1d2hCX0FuQlhCcEVpaVlRVFVrVTRGQ0JsZEhaRWwxM3MzdHpBOEV1RWRpUmIyZ3VMdG5NeTlWR19CTURvZkdWNWN6LWNQNHZFOWxoSnV3elVNcWUtVC1hOUIxc0VqclR0d05RaEVIYjZwVWRTeXo5RDZiU0kwVHVUU2swaUNnWUppWHQwUWNSemVsTk1KbXhGWVNKc0NGRXpyUmlJXzk4OGJmQUZ0MmhkZG9yR1pjZy1BMXpqeTg0YkJzS0hQQjJvSDFUVHdaU29hbmxkSjJyOVVuVHZOSHV5dmRiM1lodDBnaGU0WUxTRkdRcVRiVkxFUzJSbXRPOHQwcGFXelbSAZwCQVVfeXFMTTRhU1N0cFJsa000clJSM2ZUNk9IQXMzcTFHREphckk2S3lXR0V5LVp1SjJvUUJIM200NXFyZnptanNOM3lVbmFIOTJMVndSTk4wdFFxQkh1dHROT1NOdEU2MEliUlBLWFV0Z09wUlloSTlRcGJoTTdTT3RCN2J1QzhDV0tjbndVaTdYZHZKcXhwUWQ0OTBHd2tfOFVqMGczSnVFSnBicDN5MWdWaWttbk9OeEgzQWo5SmswY2NHTEFoZDFBbEpxb0FsQVczMTBKUDZ5aUhqV1FVcURXV1JTSUlPS2ROOG0yTHdWWWZqNk41RkRiOGxwa25pRHFVMlNSa0EtNXI4anRzdXgxZ0JEUmN6VkVNWHFYZDNON1I?oc=5",
-        "date": "2026-06-28T03:30:00+00:00",
-        "source": "EL PAÍS"
+        "title": "La voz de Celia Cruz \"renace\" con inteligencia artificial: el innovador proyecto que hace historia",
+        "description": "La voz de Celia Cruz \"renace\" con inteligencia artificial: el innovador proyecto que hace historia Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0xHaHJSOU1uSXQza2xmb0JfNjZHaGtUbUhpd3hoakFLcnJSaXJhMGM4MFZTVGdRbGNHbldJeXRzV1JJREJjOFo3VE1TTFlvdFQ5eFRMLXhUUWQtYWl5WFZJQ3g5aVlyZHFkeGZIdlpwSXY3SHhrUzBKLVRCTllMMnplNjNfeU9DREJjMnhMRUoyWTViRmpMbm9tcklTcDB5OXRTdGl2NmwzQ21EUUlUWGJXN29ISTZFeFNscUNudENDcFRldHpBSzRmWWnSAdIBQVVfeXFMT3R5S2ZYeDFJMFo4dDQtU3d3c0gteXV3TEFQcTRfVG9OczB2MjN2MHdYQ05RQ0FJdU1ta0ZEOW51YU9QQ1IxbHAwUG9HVkt1ckFqMEpXUG94bHVOZlZYYVJhdDFBRmxPTWN4a3AzampYX0JGc2xMdDhBTEtiLU41SnJyajFBLTBfeEVFLWZpNUVsZ05sanB2VGtUZmpZNHpfTXdzeXdMbm1fOUNaeHY1Z0U0NzNVLU9HWkxQLVl3bTJQbUpwMVVzMnl1Rm5iZmEwelNn?oc=5",
+        "date": "2026-06-28T10:01:57+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Refik Anadol lleva la ciencia ficción al primer museo de inteligencia artificial del mundo, en Los Ángeles",
@@ -147,6 +140,13 @@
         "source": "TN"
       },
       {
+        "title": "Un catedrático español denuncia fraude masivo con IA en un examen en la Universidad de Brown: “La integridad académica está en peligro”",
+        "description": "Un catedrático español denuncia fraude masivo con IA en un examen en la Universidad de Brown: “La integridad académica está en peligro” EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa1h1d2hCX0FuQlhCcEVpaVlRVFVrVTRGQ0JsZEhaRWwxM3MzdHpBOEV1RWRpUmIyZ3VMdG5NeTlWR19CTURvZkdWNWN6LWNQNHZFOWxoSnV3elVNcWUtVC1hOUIxc0VqclR0d05RaEVIYjZwVWRTeXo5RDZiU0kwVHVUU2swaUNnWUppWHQwUWNSemVsTk1KbXhGWVNKc0NGRXpyUmlJXzk4OGJmQUZ0MmhkZG9yR1pjZy1BMXpqeTg0YkJzS0hQQjJvSDFUVHdaU29hbmxkSjJyOVVuVHZOSHV5dmRiM1lodDBnaGU0WUxTRkdRcVRiVkxFUzJSbXRPOHQwcGFXelbSAZwCQVVfeXFMTTRhU1N0cFJsa000clJSM2ZUNk9IQXMzcTFHREphckk2S3lXR0V5LVp1SjJvUUJIM200NXFyZnptanNOM3lVbmFIOTJMVndSTk4wdFFxQkh1dHROT1NOdEU2MEliUlBLWFV0Z09wUlloSTlRcGJoTTdTT3RCN2J1QzhDV0tjbndVaTdYZHZKcXhwUWQ0OTBHd2tfOFVqMGczSnVFSnBicDN5MWdWaWttbk9OeEgzQWo5SmswY2NHTEFoZDFBbEpxb0FsQVczMTBKUDZ5aUhqV1FVcURXV1JTSUlPS2ROOG0yTHdWWWZqNk41RkRiOGxwa25pRHFVMlNSa0EtNXI4anRzdXgxZ0JEUmN6VkVNWHFYZDNON1I?oc=5",
+        "date": "2026-06-28T03:30:00+00:00",
+        "source": "EL PAÍS"
+      },
+      {
         "title": "Los espías de la inteligencia artificial: quiénes son y cómo funcionan",
         "description": "Los espías de la inteligencia artificial: quiénes son y cómo funcionan La Nación",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQUgzM1VuTjFELVpqWU5wbHlOV2FGSVQtMEZKNE9naUtnR1RpdEtkS182RHhGYVl5THNVVjM4R2g5WDR5QVdhOXJwRmwxVEpHOWJ6VUl6N0s5Y0hNWEd6aGtxWjRmS1JlX3Jsd050MERnMUNwN19yaUMzanhRYWtjYV9aVU1BN24yd1pEWFNzZ2ZVazM0T3F0T2E2ZldQNWdYc2g4Z0V1d2lITzhBa1FnZ2NVZ2xsUHY5d0pMb0lsZEEwcGdnOFNTNDNDNl9Bbi01UDktOFBpYmUtNmVU?oc=5",
@@ -156,18 +156,18 @@
     ],
     "Vaca Muerta": [
       {
+        "title": "Clima de Negocios: por el impacto de la guerra habrá más dólares de Vaca Muerta y el saldo energético rondará los USD 11.000 millones",
+        "description": "Clima de Negocios: por el impacto de la guerra habrá más dólares de Vaca Muerta y el saldo energético rondará los USD 11.000 millones Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQek5aSFFIQUtlNDBWX1VTYm5TVENxSUE1V0lPZzB4MnRKbHdZVUhnM0I2OWh2N0t0TThlQm5DMmdrX200dW50MDZiQndoOFRXTWdHajJkT3lVQ3VYenVZMUdJeGFtcjgxNHhJQnFFVnlvTTlSZTJZZ1NXcENCLTJ2a1BldzlaTTVYclBRUXgxcmJQSG9Vb3hCaXBPSlBsY1g1NGZVME1mazV5bGlEQThpQkl1US1iR19mcGdSejl3cHZrdWxHM1R5d19WMFBNTWF3RTRmWE5pbDIxbElUbm01S2s2RF9nVVM3MmtlNXpiMk5JZW1DMERJcF9CVmpPajBTZ3hv0gGeAkFVX3lxTE0xQmJMNnh3OEVhZURzeXlzNzVBYUNjaEQ2aEpRMlY4SVV5cHdpYm1YWlZVa3B6Tm9zSW5QU3VpVUxBSU8wcG85NmpkSHBxVmNRak5QQWgtX2toejFBLXBFaFlXX1g3dW5BLU1GM25OdWt6RDY5VWI2eXlFUkEyNEJCZkRMNm1QelBnbm5DaHFwUFdUc0hoZGlSLW4zM2RiOU9kTUlnMVFJZktyVEVtdDNxeDZDQVBiUWRhOXFEenlURWxTNk9hOHNYWHg2TV8xWExaX2M4WEstOFNFYTd1TGtwdWh4R3VWallrQV9vR01oZWdfZ2VCRTdxMURDQXVVY3FKc0p0M1VFVFdvWDk0UkhnZ0xTVlR2elZ5TWMxWWc?oc=5",
+        "date": "2026-06-28T05:48:22+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Crece la economía, se arrastra la industria",
         "description": "Crece la economía, se arrastra la industria Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc21IbnQ4SDNsUDFjRmJFQk1IWTR6NWRDbUFjTU13V2tDTEhGRF9MVldiWm9Gd3YtTjBRVDI4TktOOHN2SGF4cjBxcUdodkhxcVpyVXRtUjBwRTNjZFVUQTdSQ1Znckp1WjNzYXFURVdudk8yQVVEZnQxS3A4Qjdma0dFVWxjM3o3bGl3?oc=5",
         "date": "2026-06-28T14:41:35+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Clima de Negocios: por el impacto de la guerra habrá más dólares de Vaca Muerta y el saldo energético rondará los USD 11.000 millones",
-        "description": "Clima de Negocios: por el impacto de la guerra habrá más dólares de Vaca Muerta y el saldo energético rondará los USD 11.000 millones Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQek5aSFFIQUtlNDBWX1VTYm5TVENxSUE1V0lPZzB4MnRKbHdZVUhnM0I2OWh2N0t0TThlQm5DMmdrX200dW50MDZiQndoOFRXTWdHajJkT3lVQ3VYenVZMUdJeGFtcjgxNHhJQnFFVnlvTTlSZTJZZ1NXcENCLTJ2a1BldzlaTTVYclBRUXgxcmJQSG9Vb3hCaXBPSlBsY1g1NGZVME1mazV5bGlEQThpQkl1US1iR19mcGdSejl3cHZrdWxHM1R5d19WMFBNTWF3RTRmWE5pbDIxbElUbm01S2s2RF9nVVM3MmtlNXpiMk5JZW1DMERJcF9CVmpPajBTZ3hv0gGeAkFVX3lxTE0xQmJMNnh3OEVhZURzeXlzNzVBYUNjaEQ2aEpRMlY4SVV5cHdpYm1YWlZVa3B6Tm9zSW5QU3VpVUxBSU8wcG85NmpkSHBxVmNRak5QQWgtX2toejFBLXBFaFlXX1g3dW5BLU1GM25OdWt6RDY5VWI2eXlFUkEyNEJCZkRMNm1QelBnbm5DaHFwUFdUc0hoZGlSLW4zM2RiOU9kTUlnMVFJZktyVEVtdDNxeDZDQVBiUWRhOXFEenlURWxTNk9hOHNYWHg2TV8xWExaX2M4WEstOFNFYTd1TGtwdWh4R3VWallrQV9vR01oZWdfZ2VCRTdxMURDQXVVY3FKc0p0M1VFVFdvWDk0UkhnZ0xTVlR2elZ5TWMxWWc?oc=5",
-        "date": "2026-06-28T12:10:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "El club de superpetroleras globales esquiva la Argentina y no entra en Vaca Muerta",
