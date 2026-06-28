@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T02:55:25Z",
+  "updated_at": "2026-06-28T06:59:53Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,20 +8,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3EwaWZid2pXSkNPcFBUSGU1dGoxTVBrbWIyWVV6M3FHSFZBOFN4eVRGTWo3YnlrOTB4UVlmVHNNY2MzMldFUHVvRFVvYnFtX0Q5TUFpLV9BT2FWY0FoOGxsNTMySEZvNHVqV09nRHRiUWNhaGZEY2QzRGVlQ3V2aUFQdUdnWUlWZkR1akgzVTJqZks0SjZyR1lIMUZJckJfbzAzT1BWanFGak5DNWxMUDZGQzRFTkU3UGfSAb8BQVVfeXFMTkstTW9kSE42UUl3ZDdfQ3NIT2ZEaldpYVc5ay1LY0RHZllOWWNKXzdYZDdCRUp3M0s3YWNlcXdaV0t4SWt0Y2NodXQxY2xTSkROeWVvbnhjUTg5M3phRE1FQ3Y0cFYwV1RCUGZyc1NDTXBUWFBKRkJoc2pRcUFVa0xDOG94ejV2c2tuSEpnQkQ3WDV5b3otOHFCWGJvandiRjlVdW4wUkdPVWRUSTU3MGxuS2ZGZjBtWEd0YkdmTnc?oc=5",
         "date": "2026-06-26T19:31:38+00:00",
         "source": "Xataka"
-      },
-      {
-        "title": "Windows 10 se resiste a morir: Microsoft extiende sus actualizaciones de seguridad hasta octubre de 2027",
-        "description": "Windows 10 se resiste a morir: Microsoft extiende sus actualizaciones de seguridad hasta octubre de 2027 Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUVFd0d2T0Ewd2tNOGI2QjgxYnRPN1YzOWcweXA2NDNxRklqLVRfWGhFLUpMSTdNMmoyeTJESWVXVU1ZQk5ORUg3cEdaVGd4ZDhzWkJDSUR6XzFJX2kwWXZMbG5WZzJlZ092RXJPZlRaajdFU3ZFU1JOUnhwT01IclVObERIX1Iyc3gwVFVJbWpqN05vQWVDeGFNTkZfQzRSRmNUdkxJYmNvNHFzemdqVVN6Vm9XcXltanVESFlGeHNBWGQxZlRGZkJ0R1hlZEV2N1lRTkRlRFFvcVI5OXfSAfgBQVVfeXFMUFlEZnpueTNKSEplWWNsWVdPalo4WjMxTkk0NDRrYWNQSU10OEVObXZzejRBRWRrSzJwc3lYdUZKLWNrdTl5dmgyVnpEOVViemdya2JVZnVTZ0ZHbzNNTjZqMngtcHJEN0JDSUF6Tm1JdWV5NWRFZFNpMVkwLVk0aWs5R1M2S25fdnlrRU54cC1iODRvYW9CLVlRc1ZRMmJkbVdWVFpMRnp0TVdZYjZ3N1E2TGFMMVE3SWY4ZHV5QXJkbHRoQl9hR1hvVXFrSTh0NWYtRHlPamx4NVVtNlJWZ0F1Y2pxUWQxaGZSSExLTnl5Q1VXUGcwS1Q?oc=5",
-        "date": "2026-06-27T21:45:10+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Microsoft amplía el soporte de Windows 10 hasta 2027",
-        "description": "Microsoft amplía el soporte de Windows 10 hasta 2027 MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmVHeDlMd1NYblJKM0VaMUVIZGl0RXdILUhrZlZleURkUDRJazRiN3p3Qk1uSkpHYzRNeEtkSjd4eXpYZl9DZ2RDLUJUcmM1N2JUMElLRmlEcjg2a2I5VzQtdDRiS3dUZGxGS3BnamlaczQ1U0w2RDhGZmNTSDQzOTJYNXNfWE5vZFRjcFpFMzdDU2ZaaWJR?oc=5",
-        "date": "2026-06-26T05:55:50+00:00",
-        "source": "MuyComputer"
       },
       {
         "title": "Las acciones de Microsoft lideran el desplome de los Siete Magníficos mientras los inversores huyen del ETF MAGS",
@@ -45,11 +31,25 @@
         "source": "Investing.com España"
       },
       {
+        "title": "Italia investiga a Microsoft por prácticas desleales al subir el precio de su servicio 365",
+        "description": "Italia investiga a Microsoft por prácticas desleales al subir el precio de su servicio 365 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMmw1dlJkR1hQLV9MemNBUHpkTFllZmxjX3JIdnFSWWxvODZLU3ZfWVMtdEZtbzY5Xy1RbklvUjVnbVN3VmsyckcxNXdwSndxUE5HWk8xMzIydjJ4VXN4dDhJRmVDV2tKY2h0NG10MmNqZVBFMzJYOHY0LTM3VlVFOUoxQkNFb2IxX2l5Vm5Za0NGazhlT0ppeXBDcTNENUhBYk9hZnpXU2hFVHdSbjJsaFlMZk9FdTd2T1JtZzhDV3JBLUM1RHhIanFTTElVOVFUTVVmaGRYWi04OTDSAfYBQVVfeXFMTmR2c1lxZWk5TVpjdFdFbEM3bkkwbEJ4UGxzeHNadWhDQjNDVC1GVUhERFdBa3E3bnVqakJ2Rkh2b2NmMzVPQU1KM0lsakNiN3E0cTUzYmE2VkdkejRHYlZDZlRaU3RJMi1rQ0p6Wk1LVWc1VjFNZnBlUHFRVks0LVBQVjVmUDBkQXhlNjQ4Y2lJTmJBYUdMUWI4MnFpc19UQzJiU1hfTEw4T0FyLXJCVGMxcGF0VVljc3dXczNNOXp1bzFHQ1BpRXBLSDFHSndLWlFjZDh3d2NBLWRhXzVVR0gyWFJYZTJhRzdVckJxeFZ0cTVIc25B?oc=5",
+        "date": "2026-06-26T07:24:36+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "El Banco Provincia introduce una revolucionaria tecnología en su app tras un acuerdo con Microsoft",
         "description": "El Banco Provincia introduce una revolucionaria tecnología en su app tras un acuerdo con Microsoft 0223.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRjhoaHRVNzVpY3dVdmNSSUVQRUFwUmRxN3Vkck1zbU1rYllHaVhEczN2U0MxSjJaR0d1bVRta0tDZWMxdVVrbG56WUF4S2ZkQ21GLTVzZEpUN1VyNU5MTlM4bTJ3bHdkZTdZUDI4WkhRaDFpVzlqTFRNYV9UclZfREc4MXp3dk5OWS1Vc2R2T0pRSUNfOEdSOTdBZ2xJbDlJQWlZdGNrbGRUeFp4UVRZZXVXeU0zVUtlT01WWm5rbTItNlJRazBENXluUURETWtkTmRiU2NDUkdfQlVm?oc=5",
         "date": "2026-06-26T15:36:00+00:00",
         "source": "0223.com.ar"
+      },
+      {
+        "title": "Qualcomm afirma que Microsoft y Meta utilizarán sus nuevos chips de IA",
+        "description": "Qualcomm afirma que Microsoft y Meta utilizarán sus nuevos chips de IA TradingView",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NGxZNjdvT3p5b28weHA4UVpPUTQ2ZC1DRjIwVURTSzBaNXZsZnJORnRtRUprbUNZaHNxX1VzTWJwZ2NCRUp5UVdfelFRaGtXOGVTbm1uWnk4eDlveTNiaHBSMlFkd1RXSWhUZHM5VUtLVnU1RXRn?oc=5",
+        "date": "2026-06-24T19:58:35+00:00",
+        "source": "TradingView"
       }
     ],
     "Marketing": [
@@ -68,25 +68,18 @@
         "source": "Diario del Oeste"
       },
       {
-        "title": "Emprendedores sanrafaelinos se capacitaron en Marketing Digital",
-        "description": "Emprendedores sanrafaelinos se capacitaron en Marketing Digital Diario Mendoza Sur",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZC1HTFVleVhac3RQVjlPQ0gwbDN3dDdQd01PUzdic2NvUzZJdnV4dDBWaWVNQnB4U2J6YXVfLVJNVlVSTzN6UVZsZ3ZQTUJIQ25SN3NFLXVCQXJ4V3JMTkk4aTR4clRONkpFYVhHcGF5cnlsejBfeTNzMWtBNDcyMXNNSkJpdlFpQndwbEpYOXpmbmctRExVcWljM05aYTRXUWdxMVhn?oc=5",
-        "date": "2026-06-26T22:02:27+00:00",
-        "source": "Diario Mendoza Sur"
-      },
-      {
-        "title": "Puerto San Martín impulsa nuevas capacitaciones con cursos de marketing digital y coctelería",
-        "description": "Puerto San Martín impulsa nuevas capacitaciones con cursos de marketing digital y coctelería IRE Somos Región",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSG9nX0pyRzY0anFURENFejAyUEh6UFJQRU1kM2VxRTFoUlpHTE0yXzZqYkZJVWtJX205TW9ZajZiRkJROEU3SEtQajRxcnVrNnpuWEhRT1A1MENKM05Rb1NUcXpZSy1USFNwX0lnMlVocGRvT0pzdzdkSUl1bVpLSHdfNmVMSzZKNUZBaE9lVkQtd0ZWZVRvZ3BTLW81V3pxR1RMdkpCZ2dqdEQyUnpMeDZyOVRIa19Wc0llcWVHekRmWFFpZ3FvNk9HZnlkRm9FTnI0eWUwQkd5Q2o0SWxLSFEwU0JGbW1BMm80elpYVmNnS0nSAfMBQVVfeXFMUEhvZ19Kckc2NGpxVERDRXowMlBIelBSUEVNZDNlcUUxaFJaR0xNMl82amJGSVVrSV9tOU1vWWo2YkZCUThFN0hLUGo0cXJ1azZ6blhIUU9QNTBDSjNOUW9TVHF6WUstVEhTcF9JZzJVaHBkb09Kc3c3ZElJdW1aS0h3XzZlTEs2SjVGQWhPZVZELXdGVmVUb2dwUy1vNVd6cUdUTHZKQmdnanREMlJ6THg2cjlUSGtfVnNJZXFlR3pEZlhRaWdxbzZPR2Z5ZEZvRU5yNHllMEJHeUNqNElsS0hRMFNCRm1tQTJvNHpaWFZjZ0tJ?oc=5",
-        "date": "2026-06-25T13:38:33+00:00",
-        "source": "IRE Somos Región"
-      },
-      {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
         "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital UNSAM",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T07:00:00+00:00",
         "source": "UNSAM"
+      },
+      {
+        "title": "BoomerangFX anuncia una alianza estratégica con Web Marketing Clinic",
+        "description": "BoomerangFX anuncia una alianza estratégica con Web Marketing Clinic PR Newswire",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVFncjZseUlfemwtNjBVX1lTekE0ektSbkFrNm9naHlKcktLYm0zVDIwMFFaYUczeHpWcW5fdEpZQXUyX0NNVEExWXhmQmhGTDBTOHNELVM0MFpEeXcwWW5HQmw4QXpsejhQVUJJRGg2LVk5X01OLUxzWmI4TGxCRTdXQ2dPZ2ZGRkJYdXdwdGhmdVpsTFpoYlJ4Z0JhUjdmUkJjNlhOUkJpU2s4OWdRUVVuTGxfMHdhY3J6RGhIMnRiUQ?oc=5",
+        "date": "2026-06-27T15:31:00+00:00",
+        "source": "PR Newswire"
       },
       {
         "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
@@ -96,11 +89,18 @@
         "source": "sanrafael.gov.ar"
       },
       {
-        "title": "BoomerangFX anuncia una alianza estratégica con Web Marketing Clinic",
-        "description": "BoomerangFX anuncia una alianza estratégica con Web Marketing Clinic PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVFncjZseUlfemwtNjBVX1lTekE0ektSbkFrNm9naHlKcktLYm0zVDIwMFFaYUczeHpWcW5fdEpZQXUyX0NNVEExWXhmQmhGTDBTOHNELVM0MFpEeXcwWW5HQmw4QXpsejhQVUJJRGg2LVk5X01OLUxzWmI4TGxCRTdXQ2dPZ2ZGRkJYdXdwdGhmdVpsTFpoYlJ4Z0JhUjdmUkJjNlhOUkJpU2s4OWdRUVVuTGxfMHdhY3J6RGhIMnRiUQ?oc=5",
-        "date": "2026-06-27T15:31:00+00:00",
-        "source": "PR Newswire"
+        "title": "Marketing digital efectivo: cómo convertir los clics en ventas",
+        "description": "Marketing digital efectivo: cómo convertir los clics en ventas UNIR",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZjFiU2lxYmZKUGZHRnBIdUxCQmRWTHB1MFVlRWpBVlNrY1BMRkRmOXQzdmdFR3pzNG5Vc3NEd1VvcnMyc0Qtb2JwVHpURDVlTTl5ekprb3J3VFhfRG9ieVUxaU1KYXQxdGtSVkY4SXJQSWIw?oc=5",
+        "date": "2026-06-26T09:19:32+00:00",
+        "source": "UNIR"
+      },
+      {
+        "title": "Inscriben para capacitación gratuita del sector turístico",
+        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
+        "date": "2026-05-27T07:00:00+00:00",
+        "source": "Neuquen Informa"
       }
     ],
     "IA": [
@@ -112,25 +112,18 @@
         "source": "Perfil"
       },
       {
+        "title": "Mercados frente a la inteligencia artificial",
+        "description": "Mercados frente a la inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNzV1eGZTQUZzckJWNlh0WlZRT0oyd1RnRndpbzBDR2MyRXVHVHZHR2M3UmlWWTRXaW1TcG83dXA0VjFleDQ2aTFfX2pLZ2dnWVFqSE5IMEROZngyMmJoV2RjQjFybnVaTF9GQlNEall3T2xkSXRjSWdRalF0ejcxSi1kbHM1a1lfekkxalBTOE1yd9IBrAFBVV95cUxPREItSlFZcnVYQ3hwVi1jWWVidXZ6bXpxSzZqQXRucFBCc1VrelA2eGNackdYRTFLS2xsV18xUjBfaWVTcDVYYkRDbXYtWnRyWUc0N1VnMXFud0V6X0JhbWVNc25zWXdKck9KbXphM0dVeERrVUFQT3NOZHplQkJnVzh1MTQtN0pnQ2hwQzlnZXNsYVZPY19UYnVVb0NFckplZXZqVDVOWWNlWVVh?oc=5",
+        "date": "2026-06-27T07:13:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Walmart confirmó una transformación histórica: la inteligencia artificial decidirá qué compras y cómo recibes tus pedidos",
         "description": "Walmart confirmó una transformación histórica: la inteligencia artificial decidirá qué compras y cómo recibes tus pedidos Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3o3eU9HcGQ2U016SEsyNE1Qem92S2NBWXJkU1ZkRzM5M1YxeXZKNGR2TzBMTEF6NnF2eGtmdDV4ZVljNGllMm04d25BTGV5eWxmNVBzTGt3NUltQ18xUGNhS0lBTzliVnVoR2VGUWY0NUJxQUU1RllUb1UwaU5jc1d3U1U0SlMtV2oySkFIaW1Ib2NDemVTMGIyR1JjRTJLbjlTSzJFUXJZT2puR2xUNDNHNnBCN1ZQakFrV2NrSlZhdFhkeGdiWERDWXVmc1R2ZnV6TzVaZ21vNXBTeGtOdjF0WDV3T2oyWFHSAe8BQVVfeXFMT0I5bXRQOXJiNk8yQ0hkSVRtQkN1dmtMUzM1SGpyVWlfd1RxanNiRWlwQnd3QjBpcm1tTEhMVWc1MEJaNnBVVTF5b3lZTGdCa0xSeHlKNk95WHktT0VqU0hIeFVoY2F5VS1DMUFINHNXZVk4bVN0Q3g0WHVOWVFGYTJTMGFjUkdoZ1RvVWFMZVhCclc1bUZ6VnB0aXNFbXVrQUItTVdvdUxvM25vU1RhR0d1SFRkb25jTV9PUkVlY0FBaU43VS0zdlNjSTZZRWxHYWpXT2J3UFlwcmhWblZqNk01cEhtWEROaFpWOGdidjg?oc=5",
         "date": "2026-06-28T00:59:50+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "León Trahtemberg, educador: “No podemos prohibir a escolares la IA, pero sí enseñarles a cuestionar sus contenidos”",
-        "description": "León Trahtemberg, educador: “No podemos prohibir a escolares la IA, pero sí enseñarles a cuestionar sus contenidos” Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdEVVM1NWdGdaVmlJZ2RHT1JUTFNRbU9BRnVFbFhlZDRRSlN1X21BOUZhZ21sd3FHZHk4WjYzejMyT3YwcXRCRF9vbGpvOUdWZnJJRHlCcl9aaGRtVHZDTk5USjgzSm9TdFFWSUZKYW1JU0o4Q0lyWmtDUWVlVFVMSjJHcVpjTWJGSVB4eXBSek8tcTlfZGlCUkh3elU5ZkJRTWtKSlNtalVJOXNkVDkxZUdadllrR2x4YlJsVEhmU3QtTlNfMWFRcXlqal91ZmtwS1dqQzI1ZzBHelE2UWc5ZDRMZXhjUdIBgAJBVV95cUxQbVBBbzI0Mnp2cUprcGlHZndGcUhzRHRSUzZ5NFFTVUprLXhmcXU4VnNVbGl4RmVHcWVmT2pMWnhMTHhGQXVBelczY2xibjVzdjdsYnVSSUhnNjBZcHlLNzBVQ0tHdjNGdHY1b1VJN25PXzBRVnRkNDFWTDdSQ3AxeE1jREE4Y0JnOHFGcWNjcGRnWGVrOXpJcTlwX1Zwa3hsRWRPazZOX3VkWFU4a2hBSUt1YVZiczJoRDV6TkFOd0FIT2NRYjAzcTN2TVhGamlma3pxMkZ3ZGRUcW5VSFozTi1HVFpzWVlDWVNsY1RPY1JxblpEZ1NQZl8ycERFbFYt?oc=5",
-        "date": "2026-06-28T00:59:17+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Lo que faltaba: le pidieron a la IA que inventara la hamburguesa ideal y este fue el resultado",
-        "description": "Lo que faltaba: le pidieron a la IA que inventara la hamburguesa ideal y este fue el resultado La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ1ZRRXRMQVR3R0RyNFBWQlQ0Yzk0NV8wRzJQVXRPd0NZeHA1UWJ6VUxkQWhIUzQxYmJBcl9LUzRXVThVekdFMVJBY1pjX0hmY0c3M1hXZVk0R2VmcUNYMkZJTmtlT19DTmpCUkhvNDc4N3JJSDNqNU1GbUhBZGdmU0JoZzVvTE5mQzRfRDd5YjNXVkNKZEk3OFNpQW0wRjhxMFFnOXJ5NUk4T1BvT3dQU0VYblB1OHpiTUZNS0Zfc194ZUQ0X1Z4TXc3VWFOQi02YVZGaGQ0TENxSjg?oc=5",
-        "date": "2026-06-27T16:27:00+00:00",
-        "source": "La Nación"
       },
       {
         "title": "La Comisión Interdicasterial sobre IA se reúne por primera vez",
@@ -140,41 +133,41 @@
         "source": "Vatican News"
       },
       {
-        "title": "Descifran un rollo de papiro calcinado durante la erupción del Vesubio con ayuda de la inteligencia artificial",
-        "description": "Descifran un rollo de papiro calcinado durante la erupción del Vesubio con ayuda de la inteligencia artificial CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGQtaVM3NmJLUWZBc0Q5ZzlPMHhOT3FLTHI5eERyMTYyLWYwOHo4VlNoQ1RHcTl1SW43T0g2Nk84eXJHbklLM3ZKbTdzYnVzMDdoV3A5M1I1S0xEZ1lLbExUSzJERS1yVW1UWUc0T0RCSWpzVU1SbGxYRkozTFZraklrajRGcHRSSmN2SlFGcVc5cTZwd3IxQ3JFOTZKVTV0RVFPcjZpdGQ?oc=5",
-        "date": "2026-06-27T01:31:00+00:00",
-        "source": "CNN en Español"
+        "title": "Un catedrático español denuncia fraude masivo con IA en un examen en la Universidad de Brown: “La integridad académica está en peligro”",
+        "description": "Un catedrático español denuncia fraude masivo con IA en un examen en la Universidad de Brown: “La integridad académica está en peligro” EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOa1h1d2hCX0FuQlhCcEVpaVlRVFVrVTRGQ0JsZEhaRWwxM3MzdHpBOEV1RWRpUmIyZ3VMdG5NeTlWR19CTURvZkdWNWN6LWNQNHZFOWxoSnV3elVNcWUtVC1hOUIxc0VqclR0d05RaEVIYjZwVWRTeXo5RDZiU0kwVHVUU2swaUNnWUppWHQwUWNSemVsTk1KbXhGWVNKc0NGRXpyUmlJXzk4OGJmQUZ0MmhkZG9yR1pjZy1BMXpqeTg0YkJzS0hQQjJvSDFUVHdaU29hbmxkSjJyOVVuVHZOSHV5dmRiM1lodDBnaGU0WUxTRkdRcVRiVkxFUzJSbXRPOHQwcGFXelbSAZwCQVVfeXFMTTRhU1N0cFJsa000clJSM2ZUNk9IQXMzcTFHREphckk2S3lXR0V5LVp1SjJvUUJIM200NXFyZnptanNOM3lVbmFIOTJMVndSTk4wdFFxQkh1dHROT1NOdEU2MEliUlBLWFV0Z09wUlloSTlRcGJoTTdTT3RCN2J1QzhDV0tjbndVaTdYZHZKcXhwUWQ0OTBHd2tfOFVqMGczSnVFSnBicDN5MWdWaWttbk9OeEgzQWo5SmswY2NHTEFoZDFBbEpxb0FsQVczMTBKUDZ5aUhqV1FVcURXV1JTSUlPS2ROOG0yTHdWWWZqNk41RkRiOGxwa25pRHFVMlNSa0EtNXI4anRzdXgxZ0JEUmN6VkVNWHFYZDNON1I?oc=5",
+        "date": "2026-06-28T03:30:00+00:00",
+        "source": "EL PAÍS"
       },
       {
-        "title": "Quién será el rival de Argentina en 16avos del Mundial, según la inteligencia artificial",
-        "description": "Quién será el rival de Argentina en 16avos del Mundial, según la inteligencia artificial TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlR4SlJESkhzVFNINnEzX2d4bG1WbkJYa3RsTnp0ajA2RFRqRXF3QWVnRWV5dk5oUXdqMDFZRTJvc1UyMklQalFidFlSOVJ2T3Ytdl9ZNWpIVVlvVEpGSExxLXFhaWJnaDdJVDgwdERxVnVWa3dXTVFTZGZYZkdUQUhJTzNxb0lwNURjMjFSRXVvVUVEbkxmd2hrSko4OVJPMm5Gbzh3TmJ4cHlOV1AzQVJjQVFZTWhHTDlESXFPbHFTMXlWZGJnc1l2N0pHdw?oc=5",
-        "date": "2026-06-27T15:44:33+00:00",
-        "source": "TyC Sports"
+        "title": "Lo que faltaba: le pidieron a la IA que inventara la hamburguesa ideal y este fue el resultado",
+        "description": "Lo que faltaba: le pidieron a la IA que inventara la hamburguesa ideal y este fue el resultado La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ1ZRRXRMQVR3R0RyNFBWQlQ0Yzk0NV8wRzJQVXRPd0NZeHA1UWJ6VUxkQWhIUzQxYmJBcl9LUzRXVThVekdFMVJBY1pjX0hmY0c3M1hXZVk0R2VmcUNYMkZJTmtlT19DTmpCUkhvNDc4N3JJSDNqNU1GbUhBZGdmU0JoZzVvTE5mQzRfRDd5YjNXVkNKZEk3OFNpQW0wRjhxMFFnOXJ5NUk4T1BvT3dQU0VYblB1OHpiTUZNS0Zfc194ZUQ0X1Z4TXc3VWFOQi02YVZGaGQ0TENxSjg?oc=5",
+        "date": "2026-06-27T16:27:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Lentes con IA están generando un problema de fraude académico",
+        "description": "Lentes con IA están generando un problema de fraude académico CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0RaZ0xwZXRQcDNGQzloTS1yNVlUV1JtdHNtMnI3aElHZV84R1hhbGVDdEVyX29aWXFRbUVXaVRnVi1RRFdLN0c3VTh6YjJ2VWhqSldEbTMyZ0Q1Y3RZU1E0MWhhVnFFYTFDOXhZWUNnRnpCQkdYMFFCNnVaeHo1VWRPWUNSNDJYcU4tRUhpLUE?oc=5",
+        "date": "2026-06-27T19:49:06+00:00",
+        "source": "CNN en Español"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Vaca Muerta: cuánto debe cotizar el barril de crudo para que un pozo sea rentable con y sin RIGI",
-        "description": "Vaca Muerta: cuánto debe cotizar el barril de crudo para que un pozo sea rentable con y sin RIGI LM Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUXhwSGRraGt1eGdiXzN1U3hBVXE0OXhmR3pXRmV5SG1wZVhNcy1taS1FODBKUVlFUk4xX2ctck9NSWh3Q3RpTEMyQ2U0TjRldDNOWG13RDFSa1h0TUJ6RnNzUmVPaEhVdXI4R3U3eTJSQUtucklRTnJ4ZERRaWRobm5OMWgyTkV2ZnhHNEVyQ25aNS0wV3Z1ajloMjJKVUU3TmgxUGI5RURSS2Jvc0VTX3FTRGFNX0FwWmdaZ2UzTzg5UdIBxwFBVV95cUxOYmNYeVlXeGxCRWpKVmRxU1pZUGhuTUdIcXU5X210dEpFX0hHUHhMUTJFWFZpbGFmOVllcjBvV19EXzlmOXFPWXVYVUx1Zl9fMG5iaGxjMTJMb3ZYNWVJZVdtZGRGOTdmRkRSZjRWUUdCN2drN2hxREFTRVFtNG5fc21jMGlPRjhrSVRqTlpFbmc1RFl6NXAyb0VwM2txeHJuRVVDejZZVHRGRFJNYW10YU9kdl9fb0NSQVU3TDdUU2FEYXQ0Z1Zr?oc=5",
-        "date": "2026-06-25T13:05:05+00:00",
-        "source": "LM Neuquén"
-      },
-      {
-        "title": "La Vaca Muerta que nadie cuenta: el aire en la zona se volvió irrespirable y genera montañas de basura",
-        "description": "La Vaca Muerta que nadie cuenta: el aire en la zona se volvió irrespirable y genera montañas de basura Economía Sustentable",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3FoNjJpdlA5amppV0lXc1lHTDljWjRyenY3SXBmZXY1WnBTUzVUZnVwUGM5bWQ4b0hDSy1raGUyLWNlYlR1SDM5bTd3cnhmaDdZWTl3akc5SkRPNjRicnlnYTBiRFB2YzhyeElkSHlTengyZzFkMFE3eU0yXzVJY3ZrTjg1T3Y0RFR2TTY2SmY1TWg0N1R5RWJ6eG5meENsRVBfNUIzeDRHekxpZkpxR2FUdjA0bzM0QmVrVmN1QnFJa1ZidTVybV9FQk9ERXB0ZlI1UjdlbnZtTUE?oc=5",
-        "date": "2026-06-25T10:49:35+00:00",
-        "source": "Economía Sustentable"
-      },
-      {
-        "title": "Petróleo en baja: cuál es el precio que enciende luces amarillas sobre la rentabilidad de Vaca Muerta",
-        "description": "Petróleo en baja: cuál es el precio que enciende luces amarillas sobre la rentabilidad de Vaca Muerta Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWmkwM2ctcEVSZjU0YlFaV05NcDZLZ0JUQ0tEV0xBOTJlTHcydEJSXzBtTHFPR3hBcGx0UkRLaUZ6OWJ3cjB4NkFyTHhiZUgxc0lVd2FCZndha2psdVZoNFdnSmNSZ2hQMk5HcUdFZGFmb3U0Q196TUVOdnhjeVlhUjJxb0NXM1hLZ1Z1c0pXandkSTJ4U1ZjSnVnRnpHeEhOSXF5eU1seEw1MnoySE5HMlF5T3BEa2x0SjM4LWo0VFdoY3hWWUFJek91eEtpTl8wTXZWQ0xIQlYtVGFkd0HSAfgBQVVfeXFMTjA0TkNUMGlERTFIVlI1V0V3R015VGFNMkVOVkpDUXQxRmFPSE1Gb2RHSm1sUlRWdUxkc0UxQU1PRUVXdzJLTWdtVWtuQmlOTGxkN3NVNFpuZkZ0UVZ5Wmk5LU0wQkoyb2p0SVB6cUU2cmRILVBjcDNMeG1rWnZUSGdqa3NGUEtILWZuZVQ2RDJWQ1lpNTk1M0ExdWdJM1ZmOW41SUVxeFJZR1N2ZjUwNE8yVms4ZnY4SEZhcEFEVzJncFZPWGdpRHVsWjZDdXpQTlNTXzdJQXN3UGp3MGRObXZLXzl5azAyMjU4Tjl5SWZOcVRUTHM0RlE?oc=5",
-        "date": "2026-06-27T21:48:00+00:00",
+        "title": "Clima de Negocios: por el impacto de la guerra habrá más dólares de Vaca Muerta y saldo energético rondará los USD 11.000 millones",
+        "description": "Clima de Negocios: por el impacto de la guerra habrá más dólares de Vaca Muerta y saldo energético rondará los USD 11.000 millones Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQek5aSFFIQUtlNDBWX1VTYm5TVENxSUE1V0lPZzB4MnRKbHdZVUhnM0I2OWh2N0t0TThlQm5DMmdrX200dW50MDZiQndoOFRXTWdHajJkT3lVQ3VYenVZMUdJeGFtcjgxNHhJQnFFVnlvTTlSZTJZZ1NXcENCLTJ2a1BldzlaTTVYclBRUXgxcmJQSG9Vb3hCaXBPSlBsY1g1NGZVME1mazV5bGlEQThpQkl1US1iR19mcGdSejl3cHZrdWxHM1R5d19WMFBNTWF3RTRmWE5pbDIxbElUbm01S2s2RF9nVVM3MmtlNXpiMk5JZW1DMERJcF9CVmpPajBTZ3hv0gGeAkFVX3lxTE0xQmJMNnh3OEVhZURzeXlzNzVBYUNjaEQ2aEpRMlY4SVV5cHdpYm1YWlZVa3B6Tm9zSW5QU3VpVUxBSU8wcG85NmpkSHBxVmNRak5QQWgtX2toejFBLXBFaFlXX1g3dW5BLU1GM25OdWt6RDY5VWI2eXlFUkEyNEJCZkRMNm1QelBnbm5DaHFwUFdUc0hoZGlSLW4zM2RiOU9kTUlnMVFJZktyVEVtdDNxeDZDQVBiUWRhOXFEenlURWxTNk9hOHNYWHg2TV8xWExaX2M4WEstOFNFYTd1TGtwdWh4R3VWallrQV9vR01oZWdfZ2VCRTdxMURDQXVVY3FKc0p0M1VFVFdvWDk0UkhnZ0xTVlR2elZ5TWMxWWc?oc=5",
+        "date": "2026-06-28T05:48:11+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "El club de superpetroleras globales esquiva la Argentina y no entra en Vaca Muerta",
+        "description": "El club de superpetroleras globales esquiva la Argentina y no entra en Vaca Muerta Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFY2YTE0UHhuVWJwTU5sSlpNTl9GdU1Vc0VFWlE5bmZoWWZDV0doQ1BYUzJWUDNpVmU1YlNSYlNxb3Q5Um90NEtWTW8tWDJJYTcxTGRaeTY1T3BYVkRRVV8tWlg2aU55aFRHaVl1Y2YzYV9vYWlLbzFET1pZblc0cWp3V3lzWmJ4LUFUdVA1S1BqVTZSN0ZuN2ZUcTMyZE5ScnJ6MTBHS0tZdi14eGVvb3hJa1ljaldCRTRHd2h3a2dqWXdyV2tEatIBzgFBVV95cUxPU1c1NjlIMjRKNm1xeW1OY2VtY20ybGg5RVhLczFhY1lZZmJOdUxQSGJvb2hiYzRwcDBNNmlxUFFhbVR5TllMaXBFdHRUUURUT2VFNnhPM2t2eUJacXVXd0Jnb0ZWRWktNmllaVRvZ0s4U1gybm1OMTRUTEhoeHRaQjNwdUNGTXpIRTBGSlVWQ0dJcy14eHhibUUzLUtZZmVZUW5XV05vZWNoZHNxWmlfRVJEUDF0ZTY5UG82dXBEcjlPeUxHV1BhdjJaY0o0Zw?oc=5",
+        "date": "2026-06-28T05:30:05+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Los dólares de Vaca Muerta le quitan presión al campo, pero las petroleras lideran los giros de ganancias al exterior",
@@ -191,18 +184,25 @@
         "source": "La Izquierda Diario"
       },
       {
-        "title": "Ni soja ni Vaca Muerta: el sector que exporta u$s10.000 M enfrenta una amenaza silenciosa",
-        "description": "Ni soja ni Vaca Muerta: el sector que exporta u$s10.000 M enfrenta una amenaza silenciosa iProUP",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY293QnNaUVVEaV96cmdFWlc0T0thbzJYcm9oQ3VBOVp6bVVvamJtZlFVMjNVRlRlODFqRnBjZFVpZF9rR2ctU1AtUmJaWWxyaGtiTDA1c1FmUkVaNDl2UVVSLVZGVVdsZVZWTW40akdjWVJ5eDVzcFF6aURzNi1hYWJZZlY5VTRPMDcyeHJuUGhsNXJYS0ZHSWpLU19rMm1PVmdWZE9SWXllQW1FRlNwbkhGVW1kUEt6NTA5dmlad2tBcC140gHKAUFVX3lxTFByQ1RaemctZ1pEa2JMTnNQMkRPWGUwb1VnTTVrUEx6b2pHenJ3Y2NEcFBuX0huUm8zTlE3aUFUb1V2RDBINFdYWHlTWjVqeUFWYlozR204cUFyRjBpSW1tLXNQMGQ1ZXdoQlJpMXNwa3RVUFJvOWY4Q3VTSVpidDh3RFFwTDVVQ1FtWjRNMldzLUo0SkR0U0MtWXVXelNfY1lxUld2Q2x2QjFXRW01REROV054MlZyYUVlcE9xWU9OTUpHelRQckpFckE?oc=5",
-        "date": "2026-06-26T05:17:14+00:00",
-        "source": "iProUP"
+        "title": "Cómo impacta la pausa del conflicto en Argentina",
+        "description": "Cómo impacta la pausa del conflicto en Argentina Página|12",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXNmUU5ZNVluNEhhUG1IaXB0S3NiWjhWRUtQdkVPZ3daekJkS19odzhvTTY1SHQ5bVdkZnRWTjZkYkxzM09wRWRoblVXX1lhSmtyZU9hbzhiRHpqX25qeUxvMnhFNl9vbWlGMTVUakFBUkJwd09RUURPSDZYU2dtLUZGQThjQ3F0ajRwQ1B5amloZw?oc=5",
+        "date": "2026-06-26T22:48:03+00:00",
+        "source": "Página|12"
       },
       {
-        "title": "Las razones por las que en plena cosecha, el petróleo de Vaca Muerta lideró las exportaciones",
-        "description": "Las razones por las que en plena cosecha, el petróleo de Vaca Muerta lideró las exportaciones Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmVZSy1HM3U5TXdqMGd1MzZ4X0h3b1l5Vnc1cmRoMWNWdVVNeURCYzdaaFNxdkdScDlEVmpKZWpYaXhjUXR5QVRWUmsyeEpKSThYS0dqczNGOVJaNTg4My1wamd1WnI3ZGFEdnd1b1I0M0R6b2doNjZiVUFDTXMtU0FobHE5eldtWFJGam5sVWRMOHFfSkVEV2QzVi1KQ2xMUkNBbW1XNllpOHdsSTZhc1p0UFNxc1plNkRURGVReGZlV2MtcVBTV9IB0AFBVV95cUxON2d4TTBubnhPT2tYR1ZZelMtcXQxd1lCVU40eHBRb1RIb0tGTnNPanRnTmNOQnNma3ZYZ0pDZFBLNUdQXzFFalBLWGNVN1p4RElxWXdiQ2JCcmxKWVMtQ2Y2V3E5UFhkdmRrekVvdkpKMUhyclM4WXltdDJjUGNDYXA3QmNRa1pxaVhQZkVRX0ktZm1lcEgzYXdIQzUtcG9ta0FTNGxncUtONnVfYjFWZU1lZ3l1YTVDZEJNblRkc21sZzJYVkVmWUFJN2c0aUtU?oc=5",
-        "date": "2026-06-27T03:11:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "Desarrollo en Vaca Muerta: Oldelval y el nuevo proyecto Duplicar Extendido",
+        "description": "Desarrollo en Vaca Muerta: Oldelval y el nuevo proyecto Duplicar Extendido LM Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlRMUXB6cmQyTWZOUElacklTSmVqOGllZHFCNlpEQmZMTUFneFNQMVdxRlFzYmNVZ2toazJHXzhtQnRFdWd4ZkhHUE5rYzFHeWx6SWJ4WENGNXpaeVRJMWdUZm5BMFhBWnRuTGJDcnJ0czM5VktjX3Fib0N1STV1QlVwbUpYc2F4YVRfTW5jU0ZxUFdpWHpZNnFyazdUU240VnhEa1g3OG1xQV9sbkdKTWwzdmlPWXRrblHSAb8BQVVfeXFMUFQwLXBaQ0E5cU95VXM2YWF1NnBHNjljS2NMZlgzU19GdEhZSVRqVGRRR0Q2QVdZOUZCN3hjVWxoTEdCVWh1ZGVMU3oxWkRFM2VDRmVQb1V1c0V4eGk0N3J1UUJnSFNsQURFRldGOGNKcDFSb21LUjEwSWh0cEg4NWtfR2RnNTdHTWQ5WU5HS3pCMkZxa1JSR3VxWFZaLUJoMUxmY28xSThQU3JpWWF0SUEtQkRWcXdVb2k0a1ZMR1U?oc=5",
+        "date": "2026-06-25T18:06:00+00:00",
+        "source": "LM Neuquén"
+      },
+      {
+        "title": "La pyme rosarina de seguridad industrial que gana terreno en Vaca Muerta",
+        "description": "La pyme rosarina de seguridad industrial que gana terreno en Vaca Muerta La Capital",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3E3WXB6enBmRHBaazlfVS1aX01hZ1EzTERxQUdqTzRyVzFxcm1JYlBtN255S3JrMW10Q3lVOWlpSF9QRTQ5ZHM2bjU2d21DV2I1UkRaSDdQTTZQWWZ5dWFzR0w2U1hQWThlUy1nODdLdXpvZlZlR2VqSUh3NjQzdk0tV2hoekNHSWRES093N3FFeGJXZ2JlM2RVT2EyZVpuOTJHRThkcF9GbXhyTENvNkFSV2NhT0pVR2c00gHAAUFVX3lxTFBlVXdNbEdnbzc1MmFZNHF1QXhzcUo1b0hUY1k3a09qa1RLOThERmJkM0E0XzJRSWFJcFRCb054UEJlT1Z4cUVKRXBkbWJEZTZOc2Z5UWZSZVk4cXhyV0RfZ3hZRlotcWVfdlRWc25jWWpMMGtKSlZtX2VjSU5sZ1Q3Yl9mTEw4N19XdU41QW9JV010dXBRVWR5V2dQcHVBMW5RZ3hHVklfRy1rU1RHOTd2akJ2S0VmVjh6RENQQ0lxdQ?oc=5",
+        "date": "2026-06-26T13:25:00+00:00",
+        "source": "La Capital"
       }
     ]
   }
