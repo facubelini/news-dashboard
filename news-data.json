@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-06-30T17:01:20Z",
+  "updated_at": "2026-06-30T19:47:17Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
-        "description": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\" Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONmQ4TGFGYkJVRHgzYkI1SldmR2xrQTRBc0o2SVpDN0gzNFMwQUtKZ0UtMGdUYWw3enVpS0t4Zm9lMUlqamVwajBSbXhRd1NtUFVWLTFiZm81QTdVakFnSjRTaVp6NkxmRW1jWHNJZEkyRWFIenBzcTlKWlNhc3FiSXhicXJoMURLclN2V2MwQlBQWGx1MDZ3UVlIVmpjeEJacXN2VkVycGY1WVdNT3BGaGxJWWFHRFNKRzd0WlI0dC1ZVHJXSlpDZmJnbVJRZTdpSmkzR2N0OXg2SFJ1eHBUd9IB5gFBVV95cUxOcU5iZm4zU1UzQ2FDRzc4eDJIVnFKU01fbFZBV1RKMEhMYkNfc1hjRm44UVVXYTJrdjRKVENKNExmeHVWUjl6Ym9Tcm1LUUNKMzRNblFQZFdFY3AzRTFjMUR2TFFjSExEVUFicGY5R2VGVldmY1pMdnlZcnZLY3puUjdHNXpYRzlZd2VEUU9tNnF3N3RwaVd0NjlGd0ljd1R3Q095TE9iV0M0Q3lMYkdZc2I1V1dQMHBrZEl2VktxNF9ta05ldzM0MWNPV0xkWWlnUW1KY0ZpazktQjZfNzlTdWZoR3FTdw?oc=5",
-        "date": "2026-06-28T11:30:13+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Microsoft planea cerrar Undead Labs, estudio que lleva casi 10 años desarrollando State of Decay 3 para lanzarlo en 2027",
-        "description": "Microsoft planea cerrar Undead Labs, estudio que lleva casi 10 años desarrollando State of Decay 3 para lanzarlo en 2027 VidaExtra",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa2FGRlVLSVdxb2NBbzhFM0dzYUlCWlAydjlGZm1lbGg5bU9WNlNEam9LQzVQWDJ1M2o4MVBZclFsUDU4WlJaakRVT3ZzaUt0MDVvelE2TkFlN1F3U0ljNW5rdW5iNHp2MEdvQ2xXSzVVVVpOZ3QwdldiLXVmQ2ZzdzNNYkRnTTNNZWdFd3drX3hBa0NzcVRFbmZFYzU2cllidTBEOC04NE81S0VLSHM5MklBZzlIWW9jRDZ2UUhYZlhHbTVGaXdlRXotQ2JFeFppcTJDV0dvMDIzY1FoQUxNQWxJQQ?oc=5",
-        "date": "2026-06-30T08:10:00+00:00",
-        "source": "VidaExtra"
-      },
       {
         "title": "Microsoft justifica el alza histórica en precios de Xbox por los costos de memoria y almacenamiento",
         "description": "Microsoft justifica el alza histórica en precios de Xbox por los costos de memoria y almacenamiento Infobae",
@@ -24,10 +10,10 @@
         "source": "Infobae"
       },
       {
-        "title": "\"Gracias, Rockstar, por todos los retrasos\": logra reservar la Ultimate de GTA 6 a base de acumular Microsoft Rewards",
-        "description": "\"Gracias, Rockstar, por todos los retrasos\": logra reservar la Ultimate de GTA 6 a base de acumular Microsoft Rewards VidaExtra",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFV3M2Q3Y1Y1MjhtLU80UmNrUkpkQ1Nub29YLVF5Tmt5OWxwZ0toSmtocjBESHltRXl6WV85ZmpXUjhTRjNTeUZTMHpDamoyM3liS1huT2JmcURpSW5iRkQxcnRmX0V1RGEtT215cFd6aExILVNiNWxyRjBHLS02djJVcWo3M3VhdUNMQWU5dklRR01WWGQyMTByMldyN2pkZGdzbFVBbjNNMEpGZUFPRTV3RFdTRU1tTE0yN05ZbU1aY2xvektV?oc=5",
-        "date": "2026-06-29T18:54:05+00:00",
+        "title": "Microsoft planea cerrar Undead Labs, estudio que lleva casi 10 años desarrollando State of Decay 3 para lanzarlo en 2027",
+        "description": "Microsoft planea cerrar Undead Labs, estudio que lleva casi 10 años desarrollando State of Decay 3 para lanzarlo en 2027 VidaExtra",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa2FGRlVLSVdxb2NBbzhFM0dzYUlCWlAydjlGZm1lbGg5bU9WNlNEam9LQzVQWDJ1M2o4MVBZclFsUDU4WlJaakRVT3ZzaUt0MDVvelE2TkFlN1F3U0ljNW5rdW5iNHp2MEdvQ2xXSzVVVVpOZ3QwdldiLXVmQ2ZzdzNNYkRnTTNNZWdFd3drX3hBa0NzcVRFbmZFYzU2cllidTBEOC04NE81S0VLSHM5MklBZzlIWW9jRDZ2UUhYZlhHbTVGaXdlRXotQ2JFeFppcTJDV0dvMDIzY1FoQUxNQWxJQQ?oc=5",
+        "date": "2026-06-30T08:10:00+00:00",
         "source": "VidaExtra"
       },
       {
@@ -50,6 +36,20 @@
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pWk1kWnlyUzN4WkNlTGNkS1hZRzdJdHNTTlBGQWFQMUZvdUlNUDhCOFlxZnhPSk5pQW5DRXJ4Mjh0bTlOb1JXN0k1U0Z1N3gtT29OU1pvbHJCa3hVeXFiWlhxR294RUtRSGhlSk5zMWtfeFMwMzUxblhBbGI?oc=5",
         "date": "2026-06-29T10:28:00+00:00",
         "source": "Investing.com España"
+      },
+      {
+        "title": "Azure Linux 4.0 muestra hasta qué punto Microsoft ha cambiado su relación con Linux",
+        "description": "Azure Linux 4.0 muestra hasta qué punto Microsoft ha cambiado su relación con Linux Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGlOZ1M4Yk9vamJGb3BQc29OTlBRekx4N2tmZ2hxTkJmS1V1WHNpS3VFd0hHYWNrRTB1MFFTbDlSMEM2NjMwaHJkVnEzc2s2WlRKTThLRWpYVlplTXphVXFTbFhPSTR1R0hScWtPdFptbVR3aDdWR1pyY05PVE8zUVM5NVYxU3E5WXBPZUQzdjVsWm1HLXdmUG9QSWZ2QWJBc3VIN2FYUlYwaGVubEVDOTVoN3JDLWkydThBbmFCaVhCTkhPb0hTTdIBzgFBVV95cUxNM0JIVmdWVXVzZDV4dUxxYWkxRmxId1ZoOS1GZTlEUUVjMUhJYi03Nm1lc1ZHRVdfa20temhUanE0SUFwOG1HVEVlUW1lWC1sVXdKVXVSTkdBY2RWOEVlV2tyckhqb2lNYnZQSENtVVhxeU1NdHg2VWJrZEVKaGRCeEVPa2tXLVpNendCa3RwcFU5NzU1MF9LdUdIR25VQ1NHVlNlNHlpaWwxRTFRNmhsc3N6b1Ffbi1RbzlzNzdrMzFSZzNXdUtOSkZRSTVZdw?oc=5",
+        "date": "2026-06-30T06:46:53+00:00",
+        "source": "Profesional Review"
+      },
+      {
+        "title": "Cómo descargar Bing Wallpaper con imágenes espectaculares y sumar puntos en Microsoft Rewards",
+        "description": "Cómo descargar Bing Wallpaper con imágenes espectaculares y sumar puntos en Microsoft Rewards La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUm1XbFNoX3pHVW9jWnNCa0txYlhsb1hrQzNmZGd3ejA2ak95cnpWTjY2YWp4SmJucXlobnRUdEJGUFdtTTdLQlR2aTdXRlg5QW5GVkFZVk8yUXZETFVvZ0h2c2xzbnhYbEpURTdwVVhkYkhFYXNEMVpFREZkT2pfeTNrRjV6anZNZmVCa3NiU3dfWkVSV1BNMENTVzFPN1NXOTlYT2tCTVBxanB3aGR4bUsxZFdyUUtRM2FKYmVnQ0tWSVdXM2NZ0gHMAUFVX3lxTE1xeTN0T09KcFprMmctRllhU3hrandXV0pMN3lRdXZFM1Y4WHRlNjdOTnl0WVRrdkFkV0F0bFllQ1Jlb2NweDkxdWhBWV84emt2U3ZFa1VpbjRsVnJ3MUpCUHlKeDlHTVROM0hFaGVtYmYyVFEya0g2NEUzVFBDRzZ2ZzNuQm1yOUp3Skl0S25HZEVnUE9rd1cwM2FFWVNtbmZYOEs5N1N3MHlhUVg1bFN3LU5UYjFBMnZUUWpXZGI2Q2VhaHlVYVAwbnAzVg?oc=5",
+        "date": "2026-06-30T05:50:00+00:00",
+        "source": "La Vanguardia"
       }
     ],
     "Marketing": [
@@ -75,25 +75,11 @@
         "source": "produ"
       },
       {
-        "title": "El negocio silencioso que crece entre jóvenes argentinos",
-        "description": "El negocio silencioso que crece entre jóvenes argentinos El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX18xcF9vdkJob1JKUm5wOVdoYW1CR2VJSENSbUJkOGdqSldVOXl3WmZCUjhGc1lkSGhRblpGbUdMWmItWEVjbFFrOVZ4ZHNvcDE1OUtoT2lPbFBxb09fVWQyT0xMWFpGNzc2dGtpejFlWFdFRjlsYm4tM0EyMkdVOWlYRGthcXREQ3o2dzhFdzdyZWx6Wl9kWFpfT3JvVGk1TFN3VzJ0UENfMkEwMlhXYUl6OFVsUlg1NExhdTdvYklSbUNBNjZsTFFpUUhiVnNLMmxoTVBWRWNSd0NTUGZGWUp3?oc=5",
-        "date": "2026-06-24T15:15:02+00:00",
-        "source": "El Litoral"
-      },
-      {
-        "title": "Se desarrolló una capacitación en marketing digital para emprendedores sanrafaelinos",
-        "description": "Se desarrolló una capacitación en marketing digital para emprendedores sanrafaelinos Diario del Oeste",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFluNzVUelMyWnkzSG9SYUJmNlJReVNvb2tRYTlrRTV3VVlYb2VqdkJTR1JsWTRzN3RBR0NUN2FPd21lU3RvdkdQRTAyWDhIYzZ5ZWVUdXZRTGZLTlIyYml1XzcwN194cUFKMmhkQnNHaUt6aXpjUlBRLXJQdUpySmJhb2hTZ3FkRVQwOVlpemVfc2pJN0k5MUpiRGczWkRZRGdtSVFKbEM3V2JLSzNWU2s0ZlFXb0R2aDFB?oc=5",
-        "date": "2026-06-25T17:59:13+00:00",
-        "source": "Diario del Oeste"
-      },
-      {
-        "title": "La inteligencia artificial cambia la estrategia digital",
-        "description": "La inteligencia artificial cambia la estrategia digital PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHFjRnExZkxjN2FJaWlUc0JKQ0lPVnJJczlBVGJNbmxPaXMyRG9jdkkxcGFMbTF0d0JxdFI3MHdUZDZ6UlJBQWFGeWJ1bVpqeDZfck9LaDFfTm5mSnhybGNPcG5oenBLSHhxVXp0eGNyTm5MTXF2MnV0UklDcmIzbjVSVUVOX254ZjlvRWdNYzQwQVEy?oc=5",
-        "date": "2026-06-30T09:25:45+00:00",
-        "source": "PuroMarketing"
+        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
+        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
+        "date": "2026-02-13T23:09:21+00:00",
+        "source": "Universidad Nacional de Cuyo"
       },
       {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
@@ -101,6 +87,20 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T07:00:00+00:00",
         "source": "UNSAM"
+      },
+      {
+        "title": "IA generativa e IA agéntica marcan el siguiente salto en el marketing digital",
+        "description": "IA generativa e IA agéntica marcan el siguiente salto en el marketing digital Edomex Al Día",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdWE2ZHV2VFdtVDczZW9jbnhwRnlaczZFT0M1eEl1YTAzNFYzMy1hWUYtMjhBZ0dsVEg2dTZ2T1huWm93QmhZbzQ1TlRTMHVPeGFldWdCUkxqVlZFYUlRTlhMcWQzNXdmNnF3X05LMzlGYS10eGgzeW01TnQ1R2pkUlJIVDhUc2lkeXBfb0c1NFFhZmhGX2o1dW95MDZlQTc0bFZjQw?oc=5",
+        "date": "2026-06-30T18:05:37+00:00",
+        "source": "Edomex Al Día"
+      },
+      {
+        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
+        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
+        "date": "2026-06-04T07:00:00+00:00",
+        "source": "sanrafael.gov.ar"
       }
     ],
     "IA": [
@@ -119,25 +119,11 @@
         "source": "iProfesional"
       },
       {
-        "title": "Quién ganará el partido de México vs. Ecuador según la IA y el pronóstico de un modelo matemático",
-        "description": "Quién ganará el partido de México vs. Ecuador según la IA y el pronóstico de un modelo matemático La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONHFfQTVpU3pFV0Fwb1JZUGM0UUs3cFhwU1FzT1lvWnZPR2thREtlZElnREYwMUhDT0NGUy1RNGtVYldZWVQxZnk1MExuWkp6LTJxUEw2QWpjQnJ2TTc0QkRHYzR2ZGRLMFhoVUl4dWsxWmRjaURuSE9xdy04aVA0VVFlaEhxVG9tWElOTnlJeGRlRWExS3RUb2FjUEZuRk53M0I0c1ZDWWhlUVNsV3FRZ19oVGhVN2xRcklKcVFwOTd6eGVsU1poSkxwdzhZSFo2RThOS3NHdnFNTGNpcFpFOXpVSnNrZWM?oc=5",
-        "date": "2026-06-30T15:36:00+00:00",
+        "title": "Anthropic lanza un modelo menos caro cuando aumentan los costos de la IA",
+        "description": "Anthropic lanza un modelo menos caro cuando aumentan los costos de la IA La Nación",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1JtME9QbEZ3ZGJpOFYycmNlQnhvWHFRTXh2QV90bGY1MHZFeTdBb2l0RUEybEY0ODM4VmpVLW1Da05CNF9OQUtpRUJMUWJyXzJoZG1jVnY5eF9ZallPQ3dGLXJpVjhZTFZLQUtqT2NfRGdSb2hqM0kxbzBkcHVEbFBOdy15d1lSamxWaG0zSmhzc1Z3dzluLVB6MUNmdWU4Tkt0bVhyR1l2ZGJyR1dHRHA4WmJLMGlZdUtGV0tySjRIUlZMMTRj?oc=5",
+        "date": "2026-06-30T19:21:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "La IA cambiará el trabajo para siempre: el desafío que enfrenta la Argentina para no quedar afuera",
-        "description": "La IA cambiará el trabajo para siempre: el desafío que enfrenta la Argentina para no quedar afuera La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVDVaNElBSTFYMWlFWEdDVGMxS0hBcEF4VHIwYUFkQ1R6bk4zX29HLWJ2eU1lNjdnQUliemVrclozR2lJTzEzcl93RWZ3WHQ4OVUxTVN4ZG81OEFrdkczSTlPTUdMWTBCTzdLM1pBV29nV3dGb2dWLWw4SHVWRFZOT2JZQjcybk9LV2FHTzZRaG0yY2JUNWgxR184aGx1MmhEcFlQMi1UR1lUYlp4eDFsNzQ4cWZObFQ2YUhjaXdsOU1yV25UUG14MDhMdnJneEVmZ282VWFzR2NSaFQxYmo3Q0pIQVM?oc=5",
-        "date": "2026-06-30T15:14:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "“AulaLab”: el desarrollo de la UTN que incorpora inteligencia artificial para analizar cómo aprenden los estudiantes",
-        "description": "“AulaLab”: el desarrollo de la UTN que incorpora inteligencia artificial para analizar cómo aprenden los estudiantes Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOXVXRmYwSkxWWC1CQmJEUkRKaWVOWkZobWVCVjhDUEFjNlFqVXByQzhidGxadTJ0OGh4ak5FNGtMSVZrVms2Qi1oVzQyNzg3aUFoeWJTUy02cU03U0ZqTGhmZW54eDRVWFEwV3htcmFjN3Zic0QyMHdKZnlGS3BGdjVpOWZ2N2N3OUgyMXdKVGtTeDVYMExETENhRGROUXVCQ3dmblQwTllkaS0yMDRic29HVUZJUEdkc0tQR3ZCX0JTMVNSbmdTLTB0eG9jVUQ4RVBNUU1mT2lXblRMTjd2akhObkFOT2VCVVRfSVUtQTLSAYsCQVVfeXFMT2lodFJsUDRCMXRQX0JyaTNaS1JCZTljbnZuUmE0MzNxWWlMeHVsZE9JMGhhUHNISHAyVm82MFZHNkNERUxJNTNxUkNfekxHTHI0YzdLSElETzFmMGxLRUFadnRRLUdkZFJxSlBaVmR4eW9DdlRLZFk3dnFWMHNRZ0l0M3B5VEY4dTBnNFFqNzJQdmlqelZHVVhDX29YRWVlbW1xOFo2WFZaRGFFb3V0TXAwY2JRbGRuV1FjZEF0N0w4VlpaT2VpU3ZvMEVOblZLOEppQXlGZDY0c0x4Z1psbTBqV1NKUk0tYi1Lc21IUXRicXNncllselZKX2JOc0VCOG45MDJhWEtxMTFz?oc=5",
-        "date": "2026-06-30T04:05:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Inteligencia artificial y el tajo biográfico en las infancias",
@@ -147,14 +133,63 @@
         "source": "Página|12"
       },
       {
-        "title": "IA en la educación: tecnología al servicio de la inteligencia humana (y no al revés)",
-        "description": "IA en la educación: tecnología al servicio de la inteligencia humana (y no al revés) EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWE1ST2xxYUoySnY1NXY1YTNBY1IzRVE4V3hDbGtEckhfU1FrRGlvUlJxOFNod0ZXWHc5c0RISlotRFJRdTV0TmF0eTZOeG9RY3JuZ2RlX0RqZEZKVFNHcF9oZEZPblN0MEQtYkUwNmNVeEljQ21fNXU1WlhRS0hCWjR3OWcwNFZwX1NlWjRXYUdkY1pnWF9hQVRpaVRNNEdRVk9FakhlZlJ3TWRaZjNhX1h2NUM5Z3pMYmNpNHEweTVwcml2ZXJST2lHdldYU1Y0TW5BMFFZRzRUYlVlQkZETlBCOGdWZ2M00gH8AUFVX3lxTE81bUhWZEQ3Zlg2bzcxX1Q1NGN4Wmx3WnBuTDdHMjEzZ1RKS045UHl1SklkS0VudmFWTUhuS3U3ckhhZkJ2VlRtM2lBOE9iMW5hNUxCVS1CbUJoTUQtSnZpS1RfdUgzaG9DazVCMDhwbUVaVHVJT09TMFliUkhaZ3JMM2dVLVkyRU5FUkc2SDZMbVZWQTduUTZsRUdjWVBNaW1Bekpja0QxOVRDT2JYbVJuTjNZV2pPYVJyUUtIaTM5b0ZXY25ZOV85Y3NpRkNFVmNVUjZiUThnUnJxWm5kWXVQRnNKaGFqX0thNXZsa1ptYkR5M0NidkVCeE5jdw?oc=5",
-        "date": "2026-06-29T18:16:18+00:00",
-        "source": "EL PAÍS"
+        "title": "La inteligencia artificial cambia de negocio y cobrará por resultados: de responder preguntas a hacer el trabajo por ti",
+        "description": "La inteligencia artificial cambia de negocio y cobrará por resultados: de responder preguntas a hacer el trabajo por ti Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM1RRRlNXclRQQ0p0TzYyQ0pUMGhfUUE3NjdwM1ZZMzVwdnVRQ3Y1ZGFvZG1lSURYdC1abGc4QzliaklSNUZkSEdnSTA2MlhpWEdjQjBiYW9nRkU3cG5CcnQ5Vm92UFdZSVFqSjJsNDNmTXB5VUZJQXRmME8xZEo1a0NadmZXVWdIeHd4T05SU0N1V3c2SlUyYnBfaWh0YzFMV1pmRVY2bWtTUWFzei1Icnd5Y2E3TFhtSWJXVjhISFdsakU4MHR4eXJXLVlDZ1Bjb3FPRG44NkZzbFBSVDNPYUROaFd2RzVQaU80Qlc1VE9tSzDSAY4CQVVfeXFMTkRLX2xUVFdJNWRVQm9GcDJ1YS1Ma3BTNVNXLVZXZnU1aEdqLWtERFhhSi1jM1ljRVh0bHF0bTVMaVQzdGxDM2ZQaVRtbnZKRUhZZkdxZGp3NHVhVUJnQ3J4Ymo4QWczdUtMUFJtWTFVSW5leXFWbjQ5R2dIcGtnNlFlMnVKVnQycGFyTFQ5WnhZWERQSVJaZGlYZGlHYzlBZmZEWVhxazJvMlU3dlBvLTEySF94aWJFU3hGSTVvamRlVTBoTkxzd2I5WFdaaXZwZW5fWjlYRFVsSHd4a3ZXSVpYOHlKQ1dTWVZxNUZfMUs3YU9tUlZiaUFVNV9qZDQzVTRkU1ZsemtwWkh5dmp3?oc=5",
+        "date": "2026-06-28T04:00:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La Bancaria se anticipa al avance de la IA con un observatorio sobre empleo y tecnología",
+        "description": "La Bancaria se anticipa al avance de la IA con un observatorio sobre empleo y tecnología inteligenciaargentina.ar",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd3JPTzlRckMxTDl3cGpjU1p2OHdvLWY2TEhBQzd0NDJwLU0wOC1aZkVCRWRWU0I1MzlYWW1mc1AxZUpqLW16Zlo5QVdyVExyRVQ0aE5taktLd1NHakFMb0w3YkJIVU0wbW9Ca2lWWG9MeVQ0cTg0VEFrLVRHdmktYU11VVZ3Z3hDVTlOTkdWMm5vWUY0M1JlU1VTaEE2RnpveWlnOXBnQllZdUN5RUxxTy1LbWhmRGpYVVhrZHdxMEdrb3plSUtxOTBDUkg5UlMzdmpHelJod2IzaUVqbWc?oc=5",
+        "date": "2026-06-30T13:18:32+00:00",
+        "source": "inteligenciaargentina.ar"
+      },
+      {
+        "title": "Ford recontrata a ingenieros veteranos tras fracasos de la inteligencia artificial en producción",
+        "description": "Ford recontrata a ingenieros veteranos tras fracasos de la inteligencia artificial en producción Diario Norte",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNREdwQm5JQ1h3MnVrSWdQNFNkNXlaTzlNY1RNVmJKdzNEV1J3al9fcUJFOWRDQXBPVHN3WkVtUndyQi10dVNTbVo1NUhKdjVmUThOQ0NaZFEyUDJaeERwZnhHQTVqTHR3NGRlcHFEZ08yUC1OTWh5c2NKSVZkbXpCZFI0VVZKVWotbzJ6aDBORFhjbTRncUdLNWRJdXRTazJMbXE0T0hld25yZ0ZvWGdoeURfdmFqT0xqVWlNVURkNGpkTndubmtLZi1IQQ?oc=5",
+        "date": "2026-06-29T20:29:23+00:00",
+        "source": "Diario Norte"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Melconian: \"Los dólares de Vaca Muerta terminan todos en la Comuna 16, que es Miami\"",
+        "description": "Melconian: \"Los dólares de Vaca Muerta terminan todos en la Comuna 16, que es Miami\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWkyT00tN1dMOHAyR0NnQUZLNVRJM3FPUnlpMXU1WUZhNXVtY3Q2TUZjbEZpS0ozdlA5RFBzemVCZ2xJS1dNVXFNMHBlbWp0REw5ZFh2UDhXaS1BQTFUa25ONmxjbDFudFY2ZlN1S2VYWmNIb0gxWUpfaE12eDZIYU5nSmJQTDRISmdkZnJSU0NvcFRFMHFsWk41cFRVV3NQSXBKOUJwQQ?oc=5",
+        "date": "2026-06-29T21:05:07+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Carlos Melconian cruzó a Javier Milei por el plan económico: \"Los dólares de Vaca Muerta terminan en Miami\"",
+        "description": "Carlos Melconian cruzó a Javier Milei por el plan económico: \"Los dólares de Vaca Muerta terminan en Miami\" Ambito",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaTZHYzk0REg5S25IZEFIWFliNWNoVTYteElMbDRiejdwT0p6UFoyZEhISXg4MmxYVDhSSXZPNm11UFpMb1hublcxYUVGLXl4UlJLM1A4MkVWeVFHTUhtWV9KUWhRRmNJN01XUk13bGxDRUctUkdYSUs4b1c4dnJkVEJoNUNTRkp1bWtRTDg3b3c1X1czekVRQ1ZRbVpnZ3BGUnM2VGpvOVVoY3BpS3FjU295V3ZkMlJPZi1ZZDdGc1Q3MzF5WFJFSEUwSS1wUdIB0wFBVV95cUxQZkNBbjd0YlhicVhhLUpQbi1aSjFFZlNVOEdWYjg2Y0Y0TWNSUmdLYnNBM1kwcTlUMl9NcHdENUJYVzJzNWNSdzVVelllX0x0SlpXZ0VRN3lETkZ1Nzh4T3hGQ2FFaWFXc0lNQ2hNekxCVUNvenpzWjVWVWE4enBDSUNQYzVJRUhZZFIzLWVSbnNQWVRsYW1rZGRTdXBiNGZPUGNCRFNwNzZHcUFldmdEajdQSkFPbTFVOWhDYzlTZ1MtcThRYkd4SmJkWlhfZmh0VUlJ?oc=5",
+        "date": "2026-06-30T16:56:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Melconian alertó por la fuga de dólares: \"Los de Vaca Muerta terminan todos en Miami\" - El Economista",
+        "description": "Melconian alertó por la fuga de dólares: \"Los de Vaca Muerta terminan todos en Miami\" El Economista - Últimas noticias económicas y financieras",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXRUWmk4RC1SWGxzeU84dXlHaW5Lc1h3amRya1drekc2b1dzblFWdm5Bal9Qbi1mQU1NYWhHNEQ4UXlsUFgzT1VhWjZ1N2FPWG1Rd1VCYm1KTXZaeUloN1dBVHJMNXc3dVJ1alYwRFBqRV9hYlNEX0dvdGpOY2xNcHlmS2dPMUJBeU1uS3RMOWFBX245a1FsSnZKTGp5b21XbHNhR2NwZkpPZGlmbUc40gG0AUFVX3lxTE5WODlmUG9HUGR5djd3OVhsWTZVenIxbklCZ1lVcWYxQ3Z6Tm1rQkstUWg4Z2ZkcUpvYXlaMlV0ekxjVU1iLUp2ZEl3OGUtaGtvZDNublJwNkFGNjJWOHVGV3hJcUwwTDdHTnJYZmVxTnVlcTBQVmtuelFSNFBGLUxfakt6Q3pja0JsLTVKVkZiOHJ1b1djUGFiSHRpa2tMeW8wMzFuTWV3T1pmS090Q0RUYVgyeg?oc=5",
+        "date": "2026-06-30T11:54:00+00:00",
+        "source": "El Economista - Últimas noticias económicas y financieras"
+      },
+      {
+        "title": "Impulsada por Vaca Muerta, la producción de acero creció 14% interanual en mayo",
+        "description": "Impulsada por Vaca Muerta, la producción de acero creció 14% interanual en mayo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3cyalB6SGtNdzJoUUo1UVVYVm43WE1fQnQtaTRNYzNHNXdkTjVQVHAtOVBrODNaODl5R2hvRXNkUWxOc1JXaURWUFc4R1FXdllpMDBheVB4SF9xOGI3UXJnM0tNRmdpQ2hhSDhBZ0lLcmhYSGsza1hGYjd0Ni1aQVpZTTZocFh1NWdtc1ZjV2pCbHlMYkdCNnRjbUNUd2JEUlc0V3Bob1UxQzlpcXpWalpxWld5ZzRuV21BT2piQdIB2gFBVV95cUxQaTYycEtLbmcxVjVCSjZHa2dWZHJDWlRHNHcyOWo3V0Rrc1ZFSjh1cTQtenFITFBESUJZcTNLOHZSWURmTUl6dnNmZ3JtVm9vYXY1SzJsNE8yNWtBNWFGaFUzNTJid0IyMWxUU0d1Xzg4NWIteTZTNlZGS21BbUJkSThpRXhsOThWck90bGVXYmRJak5BWldZNHVITnVpMU4tdl8xRGhfZXJhcTFUZ2JCQnBuV0FjVkJwX0FwQXJWbEFOWUZKU1BaTHAtU1lmbHhhX3ByUVJvOW90QQ?oc=5",
+        "date": "2026-06-30T15:00:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Argentina LNG: YPF suma a Eni y XRG al desarrollo en el upstream en Vaca Muerta",
+        "description": "Argentina LNG: YPF suma a Eni y XRG al desarrollo en el upstream en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjRTUENWNjJES1h2Z2NmX004Z3Z2QUl4U1lXQ0ZFU1B1eHV4OE9XLXN3Ry1OTUF6MjV3TzBBVjYtRW0wQjJmTW1QaXFxQ2NsM2lxamVCWkxiSEhTZWNJVkphaFBBa1dubVNVb3FHbmpuUnNqQnhXVkVBZmdsaTlkajJGdGl2TGFQS29aaXVpcFo5Nk8xU3BfaUpLM1J3RTM3UjdUTjNjRHBJT2RaazVZ0gG0AUFVX3lxTFB3VmFSS1oteGZDeUFhVGFUMXR6MVhGSkVzUWEyZXZkUmFfOXNNZTE3QnJremJSOV9tMk9lUGI4ZFdiaUhmSnh6S3EwdDVFYXlZMTVEb2xvRnRrY3pqS1Q3bnRmd25tMEVzOUM2eF9hak1CQTUtU1FZaHVoZGJJNndBSVpMM1VZTE1NWnI1bFFYaGtWTkNTalNwR3FySEdKRWFUbnRoZTFmekRPdXZ0dDBxaUxSVA?oc=5",
+        "date": "2026-06-29T12:21:00+00:00",
+        "source": "Lmneuquen.com"
+      },
       {
         "title": "YPF suma a Eni y XRG al upstream de Vaca Muerta para desarrollar el proyecto Argentina LNG",
         "description": "YPF suma a Eni y XRG al upstream de Vaca Muerta para desarrollar el proyecto Argentina LNG econojournal.com.ar",
@@ -163,46 +198,11 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Eni y XRG desembarcan en Vaca Muerta para impulsar el proyecto Argentina LNG junto a YPF",
-        "description": "Eni y XRG desembarcan en Vaca Muerta para impulsar el proyecto Argentina LNG junto a YPF Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUNReUJ4ekdTTVIyQ2gtQ0lTcE9WekUyZXEtYmcxLWNuckNVUTZrUXEwSGRsSEF0cmdIOGZ5LTNqTHdrdXNRREtPZ2lEZnVuclZ2NUVoQVd5dl9yM1QxQWNJVUhSYkhLVm5tVUg3S1F4VnowV0YwRWtuYkJoXzdkVUh2MmJnS3hCcGxTWVpZN25QYWFMUzdVd2owTnAxeXFPb3pGTElkdVhFSlgzSFoxOVhpcXE4MkVYVmswbHphS3ZxWl9XUTJtYVF0LXZ3Z9IB1gFBVV95cUxOZVFiTDJJYXBja1o1aXloZ09xR3pGUFZKOU1lTEFualp3VDVpSy1CQVhfQmpBbGpqSTR0TGhfSTN6LVVGOGVxbzZKQWhzeE9CT1ZUUm5YWVpmOC1ybWl0YVNMcTBJVEVIVm51NmJpYUNxSGtUeEs2MVVsT1RhY1ltdDI3X0ptcFh6bWp5N3hOSTM3Q0lHeWZGMm9zUHZZa2dqOEFpRWd1b3dmbjhqdnlJZ3RfYmExODM5aUtORW9zWS1mNm1nREExbHV1RUlsM21kQVNDUExn?oc=5",
-        "date": "2026-06-29T12:34:29+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Dos gigantes energéticos se suman como socios productores al proyecto de GNL de YPF en Vaca Muerta",
-        "description": "Dos gigantes energéticos se suman como socios productores al proyecto de GNL de YPF en Vaca Muerta La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVHUwUUxwMGFoa2hCRm9WMjY2SGxaS1h0SVZaM252MkxUejZjWGhGWUNSYnk5b29IT3ZCV0xkeFpUTlRkeVZqMkFkSldGcFhNaGttd1gtdmJDd1E5aXFlcTZqaFgxM1phQUpWZDBMT3dOVnNpWC1VUDBxTVNQYmhTczIzOXVhN0FMX0dyN2IwOXMtNzQ3UVZYVFVteHNUTzBWZ1NXbkFlSjVNVnlJNlVnd2dqbVhDWUVBQXpUUURhMmptaGRCRk5VWkY4WWxiSXBWZ29TMlBEUzVCQ29sN015YWVR?oc=5",
-        "date": "2026-06-29T17:52:00+00:00",
+        "title": "La confesión de YPF: evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta",
+        "description": "La confesión de YPF: evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX2JtM2tKZlEycXVrNG9XUG5sWjB3ZmdNTm41UERmZUVIc3JIUGlEeWpwVC1RSUQycE43R0dUcFEzT3BXX0o5QTlLc1NDN0ZTdDlTUE1zLWNSczYtRllmd1BnQTlzS1lOekIzR01HZmt0a2Q3TG5jODRLQUhMVlBkYkdhamF0Z0FhRHZEbEJOZ3VHTXdXNl82djg0M2FEMFBEaFJRNXR1Q2VOWXloeTZIN2tIMkxDX0xRWjNjdHpGMEtYd005QWVBWnVVMW1kTmQxd2hKVnlvVXk5N2dw?oc=5",
+        "date": "2026-06-30T19:27:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Por Vaca Muerta, las exportaciones de petróleo se duplicaron y llevaron a Puerto Rosales a un récord histórico",
-        "description": "Por Vaca Muerta, las exportaciones de petróleo se duplicaron y llevaron a Puerto Rosales a un récord histórico Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlFxbjRnZWlSa3gzSlBRMlFqTDNkcFJTYndnVFdzdGQzZ2QyMkpzcnBqbEp6QzVoLXVlelJGWjJRWXkydmhiRE1rR3k2azRPSGlaMzZpUVVKc2NqQW1ncmRPRUR1OExEbWdDWGdfeC02Zlp2SzJDWkp4MEIza19HTWthbzhwVG1jazMtSnhpQUxlM3VRQ003XzBMU1pXYm8xMVJMQWlMc2dyQ0VWM20wbFI5ZE5VTXhnZGlSNWwyNHB3LWx4MGQ2UVRCR0NzaE9sZVQ2RFBRTDB2alFmQjFv0gHnAUFVX3lxTE5vR0dnb09CNE5EdVJWZGxQNmZucEJnR0NHd0g4NXFLU3VYQzBhUzBLYVY2V1dJOUNMbGxiRDJqNXZQSzlpaTE2b3BucnA2YnA5WDc0bjZIZ0h3bmNGSFRLNWVxWm41RlNMZFVUaS1LMDMyM19lcklkX2hWMGtTY2hWN0VmR2N5TGR4R1FYd0Z6d3NmdzNxZnBhQTFTTHJGdGRMWDZhdlZvaXRyZE1SaUdxbVpPclZOdW9UbXdxSzVocGFqRzQ2TWlXM2hlenNDaU1JQ1hGd2J3Q0MzLU9IamZZZEhwRzJkOA?oc=5",
-        "date": "2026-06-30T11:00:00+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Mucho más territorio y dólares que Vaca Muerta: la agroindustria explica más del 70% de la exportación de la mitad de las provincias argentinas",
-        "description": "Mucho más territorio y dólares que Vaca Muerta: la agroindustria explica más del 70% de la exportación de la mitad de las provincias argentinas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUVRid005d2NGN1FsdHhuOFpyMjFuSVpSbElhYVZoX2xzam93aGJaUVFyWkxoZzVhSTFicWU0QU5GTFphX2FRWXUybUUtY2F3alJFQkx6UUNtRTV0UzdHd0UzRTBxVE9GdDd3NllhMVRreDM1bS1OMXAwWGd3eWhGZjRpV0E0bEFZQy1lTWdOZ1d4QVF3WVl3R0RWellPOHp1NDU0VTREZi1rZVJtdkc1bzE4X0xfTmp0cFltU08wbjJGaTdOdHpYZmxyTnNEdnBQRlhqZGVIdzcwMTktNXVNT3lydFJ5eUFGOXJ3RUdvYTI3Zk1OZHA4WXptcWJ0WHJySThBamh2VHhKT3lzS2xXZjJnTjDSAa8CQVVfeXFMTXotUDhBYTRCSEhLQWliSGJkM1E4SUlTTWlENjlEZTJCakhzWl9kMlhycFhMSHhEdi1DZ2ljX3ZCZE1FQWN4T2lkZm14MjZyVUs1VnQzcy1ORVRfN2tEZG5DcUlGZUZlcHRxTVNJWV82MVg2Q0x0b19YRUhnd3M2NU9DUXRPUGQtOFQ4cXc0WnItNzRrYkpEc0pfc0FvYnFabEdHakp3RFdPQ0ZobEprRE9lNkEzUzdNaWFWSUZqYk1MSk0tdmN2SkMwLTltdXNhQ0xJY2QwakFOeW5YTlVJOHhVc21jNVVvNUpmUS0yQWRoQU1wR3k3YjFqcTlFdWVzQjRKaTlSSG5vYmFZUHhlVjZ4eTJuQ2VWc2phYTBmMnl0QzZrR3NiU1Vid2FhWXA0?oc=5",
-        "date": "2026-06-29T06:09:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Vaca Muerta llega al mar: los gigantes que transforman el Golfo San Matías",
-        "description": "Vaca Muerta llega al mar: los gigantes que transforman el Golfo San Matías Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWFQSk1zNDA1czd0TVYyTm1KcC1QbEQ0VEhpTVB1T2J3VTVzV0tWVlNFZjBKZmFPNE5FOVBZNnI5UWZRcElZckdQdjR6Rnc3QmhzdnFzUzJQWDFXUTl2YVdnc1R0aXNzOFFsQXZsYWRvclZ4VTBOV2c2d1lmNDNDVFFNbmFyOXp0RnVUN3A3TFBMY1Uya1BXVkI2cnRXb1hOWDFrMklIUGdmNllHbkFRLVVjWnJoVzNlMUVQN3Z30gHDAUFVX3lxTE9Ca0ZqdWxWdXZLX0JlazQ0N051ZEMwbXBsRVB3elgzOFJ3S0x4WjlCWDQtVm5ocVNUV19KYjdIa1BpVTByb1lXcndfOWZvN1NtWXY2UE9tb2ExNTltM2dqY3R0ZFJOWmdSczZ4WEtZcURfNFloU192TFVVZTVIR09HVWF4Z3hvM1Q0dldHUEprdkZZNGRxY3R6djk0SU5pRHBOeE16UUhibFRPTzVRWmdYbUFfd0xKQlNocGI4TzdkdFg5aw?oc=5",
-        "date": "2026-06-29T14:11:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Impulsada por Vaca Muerta, la producción de acero creció 14% interanual en mayo",
-        "description": "Impulsada por Vaca Muerta, la producción de acero creció 14% interanual en mayo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3cyalB6SGtNdzJoUUo1UVVYVm43WE1fQnQtaTRNYzNHNXdkTjVQVHAtOVBrODNaODl5R2hvRXNkUWxOc1JXaURWUFc4R1FXdllpMDBheVB4SF9xOGI3UXJnM0tNRmdpQ2hhSDhBZ0lLcmhYSGsza1hGYjd0Ni1aQVpZTTZocFh1NWdtc1ZjV2pCbHlMYkdCNnRjbUNUd2JEUlc0V3Bob1UxQzlpcXpWalpxWld5ZzRuV21BT2piQdIB2gFBVV95cUxQaTYycEtLbmcxVjVCSjZHa2dWZHJDWlRHNHcyOWo3V0Rrc1ZFSjh1cTQtenFITFBESUJZcTNLOHZSWURmTUl6dnNmZ3JtVm9vYXY1SzJsNE8yNWtBNWFGaFUzNTJid0IyMWxUU0d1Xzg4NWIteTZTNlZGS21BbUJkSThpRXhsOThWck90bGVXYmRJak5BWldZNHVITnVpMU4tdl8xRGhfZXJhcTFUZ2JCQnBuV0FjVkJwX0FwQXJWbEFOWUZKU1BaTHAtU1lmbHhhX3ByUVJvOW90QQ?oc=5",
-        "date": "2026-06-30T14:05:36+00:00",
-        "source": "Infobae"
       }
     ]
   }
