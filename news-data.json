@@ -1,34 +1,13 @@
 {
-  "updated_at": "2026-07-01T23:08:25Z",
+  "updated_at": "2026-07-02T02:45:12Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft activa la transición de Secure Boot por Windows Update",
-        "description": "Microsoft activa la transición de Secure Boot por Windows Update El Chapuzas Informático",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkZFUkVqQVE2WXNpRUZKeE9kdEowQWZKdzFXQ25UTVlZaHktRV92SEdvdG10Ul96LVl2UG0xQXRYQk0wTzZ4RS1JRFhLZkV5UDJVUTFyVWY4RDczRFpaTnRwelFSRm1Fb2o1ZGY5TmJtT09zRWxkd3A4R1MtWDJPWDN3bExfU2ZjNGtEMXJQMkdUMGpqWk8yYVdfZEkwZw?oc=5",
-        "date": "2026-07-01T06:31:20+00:00",
-        "source": "El Chapuzas Informático"
-      },
-      {
-        "title": "Hay jugadores consiguiendo gratis GTA 6 gracias a Microsoft y sus puntos, y 'solo' han necesitado varios meses para lograrlo",
-        "description": "Hay jugadores consiguiendo gratis GTA 6 gracias a Microsoft y sus puntos, y 'solo' han necesitado varios meses para lograrlo 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOWlGY2xlU2Y4dHpSb0RzdVgtNVJnWkwtM1UtaEZjdXRrTzR4NElfaWh2SmRIU3VwTHdGUUdBYW8xdG1sQ1BYbUFFU2sxQ3pqRF9ibkxLei01TERVUDR0R0E5dzU2emJOc1N0di0wWWl4cmc0aHMwZ0J3UTB3N2VBaTFBRDYtb0N4SzBfeURiSzNVcXFldnRRU1dTVjdTY1VIVndKbkk4U2l1X2h2RFRWOUhpdXM1dnRYSWZKOVhQTmJ3Q0RQZmpFUXdMSUpka0pVS3VmTEE3N0FEZGFETkl6SGhuV245Ym5pTHNtbWQzdjFqRnRJOG1jVHNTMFUzWlBaUnM3bHpaamrSAY4CQVVfeXFMUHpQMFZaX1BJNW1jUmVoTk1CZ1JUTkpEcHk3YlI2anVhOXdObVpsQVZfeU5MWXVYYmFYYjcwZWlQMHlYUHFmYUxMLUxYTUdGMHZIZkdEbmVSbnAwWDFFSFdXRzk2bk1QemdGNGxQU25uQ3R0Ul9xbEM2VHZFTTlqbjJzb183T3k2MHJXYm5RVnZUSkJ5N3FFcm13WlY1UDBZcWRFRmdBUTczWWRZQ2oxc052TGJxN1JsNTdDQU5ybWt3ZzJUODM0UTBaZTIwcEI4WURrREM4N0NmRFNqQkVLbXpTbTZQQ1R5SVc0b2R3Z1U3b3FoN1RKejhQV3VxRm5yQ3hFS2x5eWJndllKeC13?oc=5",
-        "date": "2026-06-30T12:15:00+00:00",
-        "source": "3DJuegos"
-      },
-      {
-        "title": "Así es como estos usuarios de Microsoft están consiguiendo GTA 6 gratis",
-        "description": "Así es como estos usuarios de Microsoft están consiguiendo GTA 6 gratis Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDNkR3otZThrWTYxaWxJM2pocDhZTVhzMFhoY19qOS1MZlhkZG5fT1JUMWpTZWR3MF81M0IyMnR3WjBoSUlYTHJ0UVVMeG9nWmNRQmh3Yk1YSHB1V3NUVGo4MXByRFNlSVp0ZVBMdXN6VHFyVW16djNSZnUwZjVjMXFzQUpHTVk1WkhlQW5iaDBOZm4zQlhKVEhrOTRRbS02cm5LVGY5VnltU0EtSGlzQVF1d9IBzgFBVV95cUxPM0FRdEx4bjgtbFlNMXN3WWhqNmNwWTlrWE1XRlQ3RDFLMUNadGxIQUtvcEtZVF9TM0xfTHlLSndpVGQ2TUtPVnYyWEZxUHZmcDRHT0tjZzN4cFhWY0lUZDBaaU1ubmVRMXVDZTZxMDlhN1lTbDFTZHZZZGxuNkVVbzNHSURxUmM4NUxjUnE5MkVKX3EtZVJfRWZSb2hfVDF1eUdYOVBaMzdRazNYWDI5d0tCMUxTTXdaY1FkV2tHOEpTMndNTzJBNVFjOFRqdw?oc=5",
-        "date": "2026-07-01T22:17:23+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "\"Gracias, Rockstar, por todos los retrasos\": logra reservar la Ultimate de GTA 6 a base de acumular Microsoft Rewards",
-        "description": "\"Gracias, Rockstar, por todos los retrasos\": logra reservar la Ultimate de GTA 6 a base de acumular Microsoft Rewards VidaExtra",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFV3M2Q3Y1Y1MjhtLU80UmNrUkpkQ1Nub29YLVF5Tmt5OWxwZ0toSmtocjBESHltRXl6WV85ZmpXUjhTRjNTeUZTMHpDamoyM3liS1huT2JmcURpSW5iRkQxcnRmX0V1RGEtT215cFd6aExILVNiNWxyRjBHLS02djJVcWo3M3VhdUNMQWU5dklRR01WWGQyMTByMldyN2pkZGdzbFVBbjNNMEpGZUFPRTV3RFdTRU1tTE0yN05ZbU1aY2xvektV?oc=5",
-        "date": "2026-06-29T18:54:05+00:00",
-        "source": "VidaExtra"
+        "title": "Microsoft rebota sin fuerza bajo resistencia clave: Niveles en vivo",
+        "description": "Microsoft rebota sin fuerza bajo resistencia clave: Niveles en vivo Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFJkWG83bDdIVGx2VFpVRXNuXzkyLUNIdDBQeUJGWXZiamlwQWxYM1hiTEFLS2JBWDRJYkUyUkt1RHlFaU1ONjlVamJ5TU9yVGltNnNZbVVYbEVkMld5MWM2bi05NkhMdW1CWXNfNG5hMm9vSDZEUU5FMi00aTRIVGZtTWI5VDRmNTRoMEtUbk1HZ25lWGVLTWZkdzBWYnVMa05NTW1xVGNlX1NfdXQtNlpXcjBUUmlBeEt0WXl6TGZUMUxj?oc=5",
+        "date": "2026-06-29T14:05:00+00:00",
+        "source": "Investing.com España"
       },
       {
         "title": "Microsoft recortará cerca del 2,5% de su plantilla, según Business Insider",
@@ -45,14 +24,42 @@
         "source": "Yahoo Finanzas"
       },
       {
-        "title": "La barra de tareas de Windows 11 será más fácil de usar con estos dos cambios que planea Microsoft",
-        "description": "La barra de tareas de Windows 11 será más fácil de usar con estos dos cambios que planea Microsoft Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX1g4Rzl1Y2tyOWJHWXdyMmNPVVEzUXRnbXZaRnpSSXJaUWYwR1V0LUVFT3gwNDRnQVNqV2JrenY3QTVqT3pzMno2Q3NYVFU5MHhrTTBuUFh6WGUwNERtZHQ0eGRTdXN5eXVuVHlEOXRVekdnRVBuVzh5ZFIyNGZQQWwwOENONUtqNWFsR1JXYzlxX0ZGSU5vbEdKcWRiNnRYN28wUkF0YXRDX0dudWtNTFU3TTQ2RDZJV1R6QlFaN1ZkNmFzSW1oUXhBN2NqZE10YWxOWEFzUdIB8gFBVV95cUxNTTZmX0RNcDRxcm5RbE0xRjRCdGtPb0g0Wm93OUhwU2E4dkIxSXRhUThqTXVHOWxjeU9uY1RLbEdDT09vZXhVOFdYS05XNUZUVjgwWk1ZSENheXhJQ2w5NzEtcnNMMW9GRE9janpJQ19uaXp0b2tUcEpaYm16OUkzRVAzRDZzUXBOcm05RThYM09WbGlqRWdSQ1ozbFJfLU4tNGdpMU52aV9HOXp6YTBUbVlQeUZLeHBSM3VXX1QxMmRHQ2tQcHBaQTlnSUliN1FMb0xBSnZFVHYzZDllOFZBbkV3WGgzLTNqQ1ptdkt0RUxoUQ?oc=5",
-        "date": "2026-07-01T15:12:02+00:00",
+        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
+        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
+        "date": "2026-07-01T22:29:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Hay jugadores consiguiendo gratis GTA 6 gracias a Microsoft y sus puntos, y 'solo' han necesitado varios meses para lograrlo",
+        "description": "Hay jugadores consiguiendo gratis GTA 6 gracias a Microsoft y sus puntos, y 'solo' han necesitado varios meses para lograrlo 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQOWlGY2xlU2Y4dHpSb0RzdVgtNVJnWkwtM1UtaEZjdXRrTzR4NElfaWh2SmRIU3VwTHdGUUdBYW8xdG1sQ1BYbUFFU2sxQ3pqRF9ibkxLei01TERVUDR0R0E5dzU2emJOc1N0di0wWWl4cmc0aHMwZ0J3UTB3N2VBaTFBRDYtb0N4SzBfeURiSzNVcXFldnRRU1dTVjdTY1VIVndKbkk4U2l1X2h2RFRWOUhpdXM1dnRYSWZKOVhQTmJ3Q0RQZmpFUXdMSUpka0pVS3VmTEE3N0FEZGFETkl6SGhuV245Ym5pTHNtbWQzdjFqRnRJOG1jVHNTMFUzWlBaUnM3bHpaamrSAY4CQVVfeXFMUHpQMFZaX1BJNW1jUmVoTk1CZ1JUTkpEcHk3YlI2anVhOXdObVpsQVZfeU5MWXVYYmFYYjcwZWlQMHlYUHFmYUxMLUxYTUdGMHZIZkdEbmVSbnAwWDFFSFdXRzk2bk1QemdGNGxQU25uQ3R0Ul9xbEM2VHZFTTlqbjJzb183T3k2MHJXYm5RVnZUSkJ5N3FFcm13WlY1UDBZcWRFRmdBUTczWWRZQ2oxc052TGJxN1JsNTdDQU5ybWt3ZzJUODM0UTBaZTIwcEI4WURrREM4N0NmRFNqQkVLbXpTbTZQQ1R5SVc0b2R3Z1U3b3FoN1RKejhQV3VxRm5yQ3hFS2x5eWJndllKeC13?oc=5",
+        "date": "2026-06-30T12:15:00+00:00",
+        "source": "3DJuegos"
+      },
+      {
+        "title": "Microsoft planea cerrar Undead Labs, estudio que lleva casi 10 años desarrollando State of Decay 3 para lanzarlo en 2027",
+        "description": "Microsoft planea cerrar Undead Labs, estudio que lleva casi 10 años desarrollando State of Decay 3 para lanzarlo en 2027 VidaExtra",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa2FGRlVLSVdxb2NBbzhFM0dzYUlCWlAydjlGZm1lbGg5bU9WNlNEam9LQzVQWDJ1M2o4MVBZclFsUDU4WlJaakRVT3ZzaUt0MDVvelE2TkFlN1F3U0ljNW5rdW5iNHp2MEdvQ2xXSzVVVVpOZ3QwdldiLXVmQ2ZzdzNNYkRnTTNNZWdFd3drX3hBa0NzcVRFbmZFYzU2cllidTBEOC04NE81S0VLSHM5MklBZzlIWW9jRDZ2UUhYZlhHbTVGaXdlRXotQ2JFeFppcTJDV0dvMDIzY1FoQUxNQWxJQQ?oc=5",
+        "date": "2026-06-30T08:10:00+00:00",
+        "source": "VidaExtra"
+      },
+      {
+        "title": "Así es como estos usuarios de Microsoft están consiguiendo GTA 6 gratis",
+        "description": "Así es como estos usuarios de Microsoft están consiguiendo GTA 6 gratis Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDNkR3otZThrWTYxaWxJM2pocDhZTVhzMFhoY19qOS1MZlhkZG5fT1JUMWpTZWR3MF81M0IyMnR3WjBoSUlYTHJ0UVVMeG9nWmNRQmh3Yk1YSHB1V3NUVGo4MXByRFNlSVp0ZVBMdXN6VHFyVW16djNSZnUwZjVjMXFzQUpHTVk1WkhlQW5iaDBOZm4zQlhKVEhrOTRRbS02cm5LVGY5VnltU0EtSGlzQVF1d9IBzgFBVV95cUxPM0FRdEx4bjgtbFlNMXN3WWhqNmNwWTlrWE1XRlQ3RDFLMUNadGxIQUtvcEtZVF9TM0xfTHlLSndpVGQ2TUtPVnYyWEZxUHZmcDRHT0tjZzN4cFhWY0lUZDBaaU1ubmVRMXVDZTZxMDlhN1lTbDFTZHZZZGxuNkVVbzNHSURxUmM4NUxjUnE5MkVKX3EtZVJfRWZSb2hfVDF1eUdYOVBaMzdRazNYWDI5d0tCMUxTTXdaY1FkV2tHOEpTMndNTzJBNVFjOFRqdw?oc=5",
+        "date": "2026-07-01T22:17:23+00:00",
         "source": "Infobae"
       }
     ],
     "Marketing": [
+      {
+        "title": "Vender sin vender: la nueva regla del marketing digital",
+        "description": "Vender sin vender: la nueva regla del marketing digital El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXg4alUxRmRibFZFVDBSa204TnJLRy1Tb3JrcUFob0RtLVhIWHBwc3FxR3hDcXZLU3RaekVCNHNoRl8tN193bzdZZDdoLXc0Z1FVQnIxQmdqVFRhWWVDTW5zT2VTQnBuQ05jMFlZZkdwYmF2NTV0d1VpWkFHZ3pLRktLVkdqTS1xUnVFMFpCTGhldEHSAa4BQVVfeXFMT3pBVmR2Nm5BcXAxQ3p0TlE3SDhEUVlDM29KcVpwYzZseTBnWHFZb2lnSFQ2S3lCQURjMDhHTk5UTkd3dFFNX1I4YWxSckhVUG1DVHI0MThLV3JxZU1tMW1vb0NCQUM0bjYyU3Zjc2toSmlJaFFla2pHU1VYUGtnS1hTR0doY3BuTXJqdDE3SkZaTi03UVhhb3RoMklOZ3Y1WXZWYmVpakhEV3h1dkx3?oc=5",
+        "date": "2026-07-01T22:00:00+00:00",
+        "source": "El Cronista"
+      },
       {
         "title": "La UGR lanza una nueva licenciatura en Marketing Digital que se podrá estudiar desde Funes",
         "description": "La UGR lanza una nueva licenciatura en Marketing Digital que se podrá estudiar desde Funes InfoFunes",
@@ -68,25 +75,18 @@
         "source": "Bacap Noticias"
       },
       {
-        "title": "¿Por qué tu negocio pierde dinero si no aparece en ChatGPT? 3 lecciones del gurú del marketing digital Neil Patel",
-        "description": "¿Por qué tu negocio pierde dinero si no aparece en ChatGPT? 3 lecciones del gurú del marketing digital Neil Patel El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ1lpYkpubDdzd3RhZEgxM2VBVzYxUjF2bUdaR2hfU3F3MFdDOV9rMFJUN0JlTEV2d2JPVU9ZNHFRUnJuQ0tfLTVhUmpzVk9kZzBfREdmTUlqR0RPUG92aEJob2dyVm9LOHFJYkxRNjRvNUZtVDNaMU04MUpoNzFhRDlwMTlQTnlIYm9ldVFkemhxZF9Kb0h3ZkVodnd2Q21ZcDRhNjUxY18yU0pPR2duWkdGcUJHNmtTc2Iwclpzd1NHd016SENuM0x2cDlyYzNxTlFaVTlUVlY3QUpRdzdodHZiUW8tN3FOeWh3emM5T2dRNGRh0gGPAkFVX3lxTE8xRTdVZGsxTk9mVDE1RTlEa3NBcmpRNExUMkRrU1phU2gtbDh3OENFMFAtMm4zVnA0UXo1MGVudDhzRGU1S19vdVBYdklRa3lMUHRSelFaNHJKX0lhUjJvaWdjajYyT29GSF9FX1BtYzR4RUd6NjdCMG44elpsVmR3ZDRLdFdfQUhsSlBKMXRVNWltakcycW5kTkpGVTNiZ3llSnNabk9Sc0xsV3ZDcnNfc2dtd1lwWDdXeFhkazBMd29iY2VxSXpJWHd2QTVIU0ZkM3pwbmkwdnFhbWhMdUZuUnl2eXZtSkd6S1h4NkF1SWNLMWNuVlVjTGkwMDMtYUtWa1Z4eXJaellFQjJZVjQ?oc=5",
-        "date": "2026-06-30T12:00:01+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "C'est Fini: Los Mejores Momentos de la Casa ADWEEK en Cannes",
-        "description": "C'est Fini: Los Mejores Momentos de la Casa ADWEEK en Cannes noticiasneo.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OUHcyUVI2Vm5rZ3dzT2xUSkhfeTQzdzIwb0RfcEIzbUNfV0ZyWC1jVzUzMXR4bnpockZXaHh1WTFjaDBNZjQzM3hTR1VvUzg?oc=5",
-        "date": "2026-07-01T18:05:46+00:00",
-        "source": "noticiasneo.com"
-      },
-      {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
         "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital UNSAM",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T07:00:00+00:00",
         "source": "UNSAM"
+      },
+      {
+        "title": "GBM Academy",
+        "description": "GBM Academy GBM",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbEtkLWZDYUZ0QmxnX3pQR0ZkYVN2TXF4QTJBVGxNdFNzcTYycUJqWHY0bERfMGZISjRMSVUyUktCbXlkWFllenJPVlk2bXFJTWFwZ2wza0liWTlpLWRHTXV4M2VCb3hlV19id2hHX0RHNnAxMl9hRGlBY2RWMlhjRzNnOXd6U2NGclQ0Y1FwS2t1WmZTNVZPQjZtX3g?oc=5",
+        "date": "2026-07-01T17:48:29+00:00",
+        "source": "GBM"
       },
       {
         "title": "Inscriben para capacitación gratuita del sector turístico",
@@ -112,25 +112,11 @@
         "source": "Perfil"
       },
       {
-        "title": "La inteligencia artificial avanza en la Justicia argentina, pero todavía no existen reglas comunes",
-        "description": "La inteligencia artificial avanza en la Justicia argentina, pero todavía no existen reglas comunes Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFpFcGRES3JoazVEYUxHbXdpNEZQYTZmYUFfVU9OTHNURUxVMXVTRjdfY2VuUzdtOHVOb0VGTS14aFFFTkt1SWlnY0xVV0VxWmxZRmhhdmVPZ0g2cjJGemlEejl3Z2lOWThmVlhMLXRZb3ZTeE81UDRzQjhaVF9XWEE5RjUyNVRieENnNTVpSE9RTlJQWFhhaGxGc1pyYmh3bWwwSWlCbW0yYjh2Yl9CajdhdHFyR194Qzh5dnlhdVY4UlRuYTR0VmVLWU16Z2F4aHRrV2lEODdtaXlt0gH3AUFVX3lxTE9NQ2FjTWRqLUd1YUltWGVJRklDeXZUZ3h0aGhCZWl5eDdOM2VoVjEwYVh2YllOX2QyWnNvRlc3V0NvaTNmWml5WlJua28ySFV2UmpSQVIxbFVkT3VfRW1wcnRpUVRqUmNNaTdWcjVCR3FOYVQtYTBzeFJ3d3Y0aS1sMWthcWI4N2tVVGZLVFFRUC1IY29YSDlSdzQ5N19NUm5sZzlUQUNCdFJkY0JFanFXenZDaDMtVTJiNElZY3dEbk5yOVpiWVFsSnhtTi16bDhOQ3ltdGJNaFF5UDZOeHRSM21IWS0xTTFzX1ZFZFBJeDF0YndBWUE?oc=5",
-        "date": "2026-07-01T22:50:05+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Informe: la inteligencia artificial ya modificó vínculos entre familias, jóvenes y escuelas en Argentina - TN",
-        "description": "Informe: la inteligencia artificial ya modificó vínculos entre familias, jóvenes y escuelas en Argentina TN",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT29lRzY1bkJlY1ZlZkVqM3JhSHl4T3I3cVotZWZwWEI3VlRiRl92NVUtLTJGdjdWalFuUXptejFTWFZ1Yk80cjN3aHFlanpvMGQtREt1MThvTG5mLURxTUs0TGFLSWNhVllqVGwzcE0yOTZDc1BOREpnS3VtZFh2bXctTFgyeWRUMEJfVlBvLVY5MDh4Ujlsa2pFMUxkMTRlVUcwQVlYREtkeXh1Y1lVeWoxZ2pyR1kwaDNDQldYSFZxQUNDTGVRdEJZeFJfMVFOTUN4WVN4MHNwUDVTMkJoc01B?oc=5",
-        "date": "2026-07-01T22:42:38+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "EE. UU. levanta el bloqueo a la IA de Anthropic y restablece el acceso a sus modelos Claude más avanzados",
-        "description": "EE. UU. levanta el bloqueo a la IA de Anthropic y restablece el acceso a sus modelos Claude más avanzados Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRF9EaFFzZEZrRElnTW1UTDBYT2VvZFdCMmNvNzBpZDg5SmxZcktkMk83Mk83WDRuYXZlektKSHNnOW1QaTY4QXlUVU9hWjN2eEF1ek9jOFg0cWhVYTNuYS1pTWFhWXZZUzV6ZmtaQVBtRTNGQ2JDNVJqWnBwZmR3aXBMRkE1VkVNM1pKaTdFT3FQVC14WHdBLVpjMm0wblIxbjgzZHh2ZUZDSzMzVy03WVVYQmQxZVNpMEVjSnU3MTB2YlI0QTNDM0xlamt5QzJmRXRyN1ZCTXdSMnpLbk9TdmlySW5wVG1JQ1HSAYQCQVVfeXFMTk9OVk04UDcyVnk1SGEzcVEyblQ3WlpRTTBCTFRtU3IxTERyWF9sLVR1M3MwamNUb29FMVhkbGItNTR3NFZ5a0xaYndtb19namh0b3hGNy1YUWlWdFRndlV4Z1BTamNUNzBNMkZkM1lud3huVkZObEZwS0hzaGtSMmt2YkVyN1VPNHRCamhDR1hPdFh4RnhkWGJKQWJhWFBEbXdfYk5SMncxaS1FZXAwbjZKZm5MSVBiVGZZTGNxRU5TODBUNUI4aEZnMDR2cGtEOGR3TkstMlAtWFZlcGZKSW1hZFFhaEdJWU1mRVlfaXRPLUZOaDAtWFZQZGNRMXdRSURGV18?oc=5",
-        "date": "2026-07-01T22:15:39+00:00",
-        "source": "Infobae"
+        "title": "¿Puede una empresa funcionar solo con inteligencia artificial?",
+        "description": "¿Puede una empresa funcionar solo con inteligencia artificial? La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnViQ2N5SFVFSUFsRHVFZURQbURRVVlnemM3UzNBNnhqWXB5REh4OEhEM19iaUUwakxYRmhJZDE4MHl1bWZaM2ZjR2pfT1pzRHdEZmxEOGp0N2w0WUhJNHdzOFNvWlEtNFFGbUJCLWxvRU1JSlFJYTZHNXZhWVN5bmJDOXczeTNFbmtwS0o0MUNEeG0tVzNmb1JyUFB1aXZEeG5GZXUzX3d1OEV2bnRCTndVa3hIcFMwejh3?oc=5",
+        "date": "2026-07-01T16:36:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Inteligencia artificial y el tajo biográfico en las infancias",
@@ -140,28 +126,35 @@
         "source": "Página|12"
       },
       {
-        "title": "¿Puede una empresa funcionar solo con inteligencia artificial?",
-        "description": "¿Puede una empresa funcionar solo con inteligencia artificial? La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnViQ2N5SFVFSUFsRHVFZURQbURRVVlnemM3UzNBNnhqWXB5REh4OEhEM19iaUUwakxYRmhJZDE4MHl1bWZaM2ZjR2pfT1pzRHdEZmxEOGp0N2w0WUhJNHdzOFNvWlEtNFFGbUJCLWxvRU1JSlFJYTZHNXZhWVN5bmJDOXczeTNFbmtwS0o0MUNEeG0tVzNmb1JyUFB1aXZEeG5GZXUzX3d1OEV2bnRCTndVa3hIcFMwejh3?oc=5",
-        "date": "2026-07-01T16:36:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "La frase de un experto en Inteligencia Artificial: “En los próximos diez años, la ciencia va a avanzar más que en los cien anteriores”",
         "description": "La frase de un experto en Inteligencia Artificial: “En los próximos diez años, la ciencia va a avanzar más que en los cien anteriores” Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHhZaDdrLTBZbWNyV0NCbGVlOGFXeVdYX0doaGxUVGFtN3daZkJUM0tySnBvNkM4X2dBVFFpdklfNDR2OHJQZURTSTdhWkxtbGxNQXdVV09nd3pqeWw1eGhJTWpHZml6LVdCeVNtV1pZUEZMdlA2dE5GRk4yMjhLMmNvQTBtODlpY2Nzemx4UUlaOXpKeEtjb0Y0M0hfWGswZUIxTFBGa2xhTmFsNDd2UXYxQW16UXFneG1tSzZpZWFwOFJKdEdPdXpPcFBWdm14QU1WX3hzejTSAd4BQVVfeXFMTkJBVk95b241eW9qU1ljSU44Wk5KSERDTFV1VXhJYzdIWGpwREgwMGZ4bkExSk1DME9jNV92cXRJR3RnMWJUZGZVX3ZQZjF5VVlReU94amZ5YTlnZDJ0blU3QmRraTU5U1Itd3I4VXZWNTJ3YThWNjVGekYtUDQ5OVVPeTNLNW9KUmJTTnNkY1VjQ1F2RDEtWVRSTHNCRFhxb25FSW1xWVgyS0JSZmNxUGgxbnp0ZHlXMUY1YXAyZ2FYbkRqd085cV9NRnZwdk9GcEg1LVdqdE8wTXB0c01R?oc=5",
         "date": "2026-07-01T18:00:48+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Presentaron Chicas en IA, un programa gratuito para que adolescentes aprendan inteligencia artificial - TN",
+        "description": "Presentaron Chicas en IA, un programa gratuito para que adolescentes aprendan inteligencia artificial TN",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjFRaHkwY0JoQ0dWeUNURTNtZ1FxUWI0MmRGRFZpX0lTYjB1aXJxSXBNSy1ZYldxcS1jVmhXNW00cTZwbTVycEpzYXJ1VDhaMmxGU19BUE5BUWRnSmFmYkJudXRSdnp1NkF0cFRlOWRIdU1PYzQ0cUpBcXRRVlJJRnlCZE5TUFRoM1JSSHgyMnp6VmQ0Y2N0SnlVUXVPRjB2RUhDSWotaUhneGt0d0dpdDFzd1lxNUg5SWFFd1lXWDZzQ3JKWm04SnRoNXNZNGl4SjJnaTRfM2VHek9fb2QtT3BkV1PSAfgBQVVfeXFMTjZIV1FXbHBnWTgyTUVrZVNuZlVvYVN2M3d0cVo4REhDUjdwcUs3Q0JfbG82LTlIZnBvTlhfSy1XbDk3T3V4TGo3SV9CVFlPRmZHbF9NTG5sSDlzdzNtREVQcVhnYkRHSzdWeUFBb3BNX3lmNVdsZUVsbVh1cWp0YkNDVUw1aV95c1loaEJkc0J3R21KbUN0SkJsb3VKcXZRY1g1TE1nMnVtTFdHdGNzRDBTNXdUTVpGdXlBZDc1OXZTWXQ3UEhOcTJPeHJsMVNnTlF5U2QzMXdsMjh6cmRKUVhqa3FwRGdMRmZDUVFycFNWWjlKbVQ5UE4?oc=5",
+        "date": "2026-07-02T00:55:00+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "La inteligencia artificial avanza en la Justicia argentina, pero todavía no existen reglas comunes",
+        "description": "La inteligencia artificial avanza en la Justicia argentina, pero todavía no existen reglas comunes Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFpFcGRES3JoazVEYUxHbXdpNEZQYTZmYUFfVU9OTHNURUxVMXVTRjdfY2VuUzdtOHVOb0VGTS14aFFFTkt1SWlnY0xVV0VxWmxZRmhhdmVPZ0g2cjJGemlEejl3Z2lOWThmVlhMLXRZb3ZTeE81UDRzQjhaVF9XWEE5RjUyNVRieENnNTVpSE9RTlJQWFhhaGxGc1pyYmh3bWwwSWlCbW0yYjh2Yl9CajdhdHFyR194Qzh5dnlhdVY4UlRuYTR0VmVLWU16Z2F4aHRrV2lEODdtaXlt0gH3AUFVX3lxTE9NQ2FjTWRqLUd1YUltWGVJRklDeXZUZ3h0aGhCZWl5eDdOM2VoVjEwYVh2YllOX2QyWnNvRlc3V0NvaTNmWml5WlJua28ySFV2UmpSQVIxbFVkT3VfRW1wcnRpUVRqUmNNaTdWcjVCR3FOYVQtYTBzeFJ3d3Y0aS1sMWthcWI4N2tVVGZLVFFRUC1IY29YSDlSdzQ5N19NUm5sZzlUQUNCdFJkY0JFanFXenZDaDMtVTJiNElZY3dEbk5yOVpiWVFsSnhtTi16bDhOQ3ltdGJNaFF5UDZOeHRSM21IWS0xTTFzX1ZFZFBJeDF0YndBWUE?oc=5",
+        "date": "2026-07-01T22:50:05+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Las tres acciones atadas a la inteligencia artificial que ocupan el 40% de la cartera de Warren Buffett",
+        "description": "Las tres acciones atadas a la inteligencia artificial que ocupan el 40% de la cartera de Warren Buffett Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTh0UlR2Unp4aHBHR2Z6WTVIenV2OUtGLVNoUkhtYmhFVUFmamRtdkFkTVJJbk5fMzVLRmc3ME81TmJNQkdNRXE2SkF6aVpaVlFod1dLWEZwVC01VEVQNGpGYlVzdUNuRlVaWklvMDc4c0dZTnh3VFFEYkZvYi1FWXZnam5ELXU0NkdaX3ZWYmthdHJxRVBaemtfT2hfZzFGR2ZOMzlWdXhadThzU3NTdktjaEp5cTZ6WXF5TFFsdkMxWE4xd0t3WUp2a3NDWW1u0gHWAUFVX3lxTE1UV255NUhoRGxuN3ZYSmFxRWgyUnp5aGhnS1d6X0NTdE1PMmtzVVFJZ3JZRkVKWmVrc1JORTdiTmEta21zTjNoZERSeXlWMjBSd1M2TmlMT2dLUlhRaDZvcEFOOUl4SXBiSTlLZVZZbDdxb3pQU3ZvTUFzMUtzdDVfblpZNWpndDZabEMyRE5qa20xMS1ScGl6aElYeEZscHVVVnJZTWxMaFc1bFNtTzYxYldoaTlxSmpYZ2dyODNMVXpfWldoenlfdk5TRUdlRk1ZUTdmSnc?oc=5",
+        "date": "2026-07-01T22:38:00+00:00",
+        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Por el boom de Vaca Muerta, la producción petrolera superó los 900.000 barriles diarios y marcó un nuevo récord en mayo",
-        "description": "Por el boom de Vaca Muerta, la producción petrolera superó los 900.000 barriles diarios y marcó un nuevo récord en mayo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORThmVUxZdjYwNURmM0w4SWhEazlEb3MxU3JTY0tWWXdscHNPQk14bkNZYm9EOFJXSkgwRExCaHFvN19rd3BSUV9Xc0xMVDAxcEFkMEZLU0ZCb0RnRWQ1VnBucmM4dmRIOVNfbndfYndxQTFFZ0J0NlFfNFJxUEUydkxHOVVrMDNnMlZMeTh1YUt6bmpueHpETG0wYWJmbWU1b084X0N6X3pMRGw2dDFVc3lnUEZPekRVNU02NExOR2F5ZzhUUGpiRnJPdWlRaUQxdTM2aVZHNDF0Sm9QQWZQNjNVUXgxcGlOci02QTNRVkU1UUJ00gGPAkFVX3lxTE5SYTM2THhEc0F6WFRWZkw3aE15WGpCNDZobVgxSDRkTUlBVUxtYmZzZmRmS3dLcVhWaWc0dkNoU0p1eGRCMmlYMWVfQ0JYT25yQjlvWjJuUGd6TkpLUi1kbDdCbkx5QlNDbUxYRU9FV1hLMFA0SVJVVVVqdXJFTEJRR3NZcmEwYzQwczN5VWgxeE9PWGtra0laN0Q1N2tEMWZ6UlhhN2pQNEJpNWNhVEQ4WklYSDlmenZ4aTdSYlFScWdIRGR6UXVMb3JTbFBNMEFVRTl4eXRxTVBtQnFEYzJwcHFXVUt4UUJjYWY2dGhVWlY2b1J2bFZzQWlCSjNjbncxbjJpQndHS2RXUllkZ3M?oc=5",
-        "date": "2026-07-01T06:52:00+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "De la mano de Vaca Muerta, la Argentina marcó un nuevo hito en la producción de petróleo",
         "description": "De la mano de Vaca Muerta, la Argentina marcó un nuevo hito en la producción de petróleo La Nación",
@@ -170,11 +163,18 @@
         "source": "La Nación"
       },
       {
-        "title": "Petróleo en baja y luz de alerta para la Argentina: el precio que miran en Vaca Muerta",
-        "description": "Petróleo en baja y luz de alerta para la Argentina: el precio que miran en Vaca Muerta Ambito",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDlwWkRCa2ZtT0pwekFtZkdGOEJsOFNwS2NSYXBnOGktUlJGS01JMGdQdHlZZDd0SlZ6R0JyamdLREo5cklvU1VHTXQ4MF9kM3pLdE5fcVhlcUhZVlJrQXBvRVZpbVhBTzVlVkVKeXYySEk0SkRtNVllZ1JIRm5uSFBfdGcwdmdObUJINkJfcVVPcnl4UlRDa2JzYXdfX0NLdGotc253QVlWUWdlaGltMQ?oc=5",
-        "date": "2026-07-01T14:38:00+00:00",
+        "title": "Nuevo récord en producción de petróleo: gracias a Vaca Muerta, la Argentina superó por primera vez los 900.000 barriles diarios",
+        "description": "Nuevo récord en producción de petróleo: gracias a Vaca Muerta, la Argentina superó por primera vez los 900.000 barriles diarios Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSkc2S3BGNl9uRFBkVmxmdmhPRE9ubzdEWkhPdzdsNFd6QWpmdXJjc2pvTTVGcUhZSWhwWHFtZ2FkOHh1WXNib0VFM3FxenJMZlRJbkh6TXlKNHNrbXNlekxJM1llaGt1cERJWEQ4RDhsMWpVRFNaZEpKT2VyZHoxbEJzWTNfMnd1cHBBRkJBUk5ab2p0dFFXbDBwMXFmbHVTT2VFYXYyRXdkU3hwNEdsQXphMVp4NGVLQ1FRcXQzY05oT3RZY3JpZ2VLQ1RiajJtQmx0aXhCeVFBSF82VW1hVkE1bW54alk?oc=5",
+        "date": "2026-07-01T12:16:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "Por el boom de Vaca Muerta, la producción petrolera superó los 900.000 barriles diarios y marcó un nuevo récord en mayo",
+        "description": "Por el boom de Vaca Muerta, la producción petrolera superó los 900.000 barriles diarios y marcó un nuevo récord en mayo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORThmVUxZdjYwNURmM0w4SWhEazlEb3MxU3JTY0tWWXdscHNPQk14bkNZYm9EOFJXSkgwRExCaHFvN19rd3BSUV9Xc0xMVDAxcEFkMEZLU0ZCb0RnRWQ1VnBucmM4dmRIOVNfbndfYndxQTFFZ0J0NlFfNFJxUEUydkxHOVVrMDNnMlZMeTh1YUt6bmpueHpETG0wYWJmbWU1b084X0N6X3pMRGw2dDFVc3lnUEZPekRVNU02NExOR2F5ZzhUUGpiRnJPdWlRaUQxdTM2aVZHNDF0Sm9QQWZQNjNVUXgxcGlOci02QTNRVkU1UUJ00gGPAkFVX3lxTE5SYTM2THhEc0F6WFRWZkw3aE15WGpCNDZobVgxSDRkTUlBVUxtYmZzZmRmS3dLcVhWaWc0dkNoU0p1eGRCMmlYMWVfQ0JYT25yQjlvWjJuUGd6TkpLUi1kbDdCbkx5QlNDbUxYRU9FV1hLMFA0SVJVVVVqdXJFTEJRR3NZcmEwYzQwczN5VWgxeE9PWGtra0laN0Q1N2tEMWZ6UlhhN2pQNEJpNWNhVEQ4WklYSDlmenZ4aTdSYlFScWdIRGR6UXVMb3JTbFBNMEFVRTl4eXRxTVBtQnFEYzJwcHFXVUt4UUJjYWY2dGhVWlY2b1J2bFZzQWlCSjNjbncxbjJpQndHS2RXUllkZ3M?oc=5",
+        "date": "2026-07-01T06:52:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Melconian alertó por la fuga de dólares: \"Los de Vaca Muerta terminan todos en Miami\" - El Economista",
@@ -184,18 +184,18 @@
         "source": "El Economista - Últimas noticias económicas y financieras"
       },
       {
-        "title": "No encontraron petróleo, pero hicieron un negocio millonario alrededor de Vaca Muerta",
-        "description": "No encontraron petróleo, pero hicieron un negocio millonario alrededor de Vaca Muerta iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGotc05ROElGWnQzaC1nTWRUYnZPbVhPVHlmVjBERTMyaE9WRGxlelVxMnh5MWJQZGVVVlpuTEFQem53eWtIYVQ1d3A0enl4Q0NKMGNuZU5NMFdGS3lKWjBNZXFtZll3TlQ3ek9Ob09pLUlRV0pHNnZqeUxickFXYmM1ekVhZ2VidTEyNk5EeUZtNkx5c1RDRnN4VzdHN2tNNWdpSGcwMTl0T0VfTEJzNXhjOGVjaFBFNFJJSjhIZG8yb1g5QVNIOdIBzgFBVV95cUxQNXZ5SHExVG1VZlZzU1pzMWliUWNkQUVvQTZLXzBoR0hCVUprcW92V0dSNWI0ZkRCRUc0STh5cE1hMVlSYkZmMDhjMnJQRWlYWXZ6N3hPaHIyTTB1ZnJ6NHAtejhIRFB6QXdueDI3RGMwY3ZTRXlRem1iSXI0eEN5S3FtcWlWWUM1Wm1ERU5xT3Z6YWtJQk1rSUhlRm5SVGFSSU9zcklXU1ZXWUVuSTc1Qk5ISVFHZkxWeVFzYTFZNHFCUjZEV0U5R24yNklKUQ?oc=5",
-        "date": "2026-07-01T21:18:00+00:00",
-        "source": "iProfesional"
-      },
-      {
         "title": "Impulsan en Neuquén un plan para blindar a Vaca Muerta contra el crimen organizado, con tecnología de avanzada y socios internacionales",
         "description": "Impulsan en Neuquén un plan para blindar a Vaca Muerta contra el crimen organizado, con tecnología de avanzada y socios internacionales La Nación",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0ZNWG1ZQVVPRmkzVkd1WVZwM2tJSU9aQnRUV2xuaENtUlF2eTM4ZVNZVU9DNkZoazI3ODh0TVVvWTV1OVZVNlNoaTMxLTAwT3VfMENTUldaNmVaOWtTbURIbEo5Q3I2MmtCeGhVRmZSdEppLUxVaEJWUTN5aThvckw3YVJoU09rbl9iMmhaZGxqNVF1WDBiWDFFUGt6dEhubHk2VkVSYnExZ0FTaF94NVdYa0FROHFHYVBqQWJyMlI4azBuOHlKY2txMS1wclltZzkydl9zbTVOYklxT1lvNEtHeFJzUQ?oc=5",
         "date": "2026-07-01T13:25:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "¿Qué pasa si baja el crudo?",
+        "description": "¿Qué pasa si baja el crudo? Página|12",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80eE01ckJXYXA5dVM4dTE1dUhqNWxxcmdPdGFTUlkxd0NQbDhtYzVSOXVoMk1KUDkwWUlEU00tWHFSVUVRNGFHdU4wZHgxNUY0XzJ3ZmlrVHV3aml1Z0xEWUIxWVFENHIzaUlqWkNJYlBJNG8?oc=5",
+        "date": "2026-07-01T23:30:28+00:00",
+        "source": "Página|12"
       },
       {
         "title": "Calfrac Well Services Argentina y un nuevo hito en Vaca Muerta: su línea de Operaciones de Wireline",
