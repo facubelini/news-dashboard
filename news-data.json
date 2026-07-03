@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T10:37:45Z",
+  "updated_at": "2026-07-03T12:53:00Z",
   "categories": {
     "Microsoft": [
       {
@@ -45,11 +45,11 @@
         "source": "Notimérica"
       },
       {
-        "title": "Microsoft planea miles de recortes de empleo, según Business Insider",
-        "description": "Microsoft planea miles de recortes de empleo, según Business Insider Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnNha1BNcTRYbFl0a3JRdnY1bDJ2R3BUczlkZGJqY1NQSmNIZVZlZFpuUXlyU2N1SGFsQmpLVXJmLTdfd0xpempDczMxWGpvb0x0RUwtaTl5djBibGJZWkJ2LW5BVlFtemNkeExkZ2RWNkpaMDJBbUV0aFplajdFanBwXzdFNGhkbktEZW1Hb0lHTFdadVdpZmotLWE4T3VCNnFodmhhZjVCMFhlNVF4bTlmR0V3Ml80eEJubmdvOUQ?oc=5",
-        "date": "2026-06-30T23:19:00+00:00",
-        "source": "Investing.com España"
+        "title": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor",
+        "description": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFaOXg4MEJuVTQ5dDZfSU5pRzJjaHpvc1k2b214ZUJNQ2tmem5jYXlJX01ZdTl6Si1qRU5mUlNnNk1vT1BXak8yejFTX21PbUtlcEt4UjZSYmhYbmg1S1Q2N3ZWNzlGcWZDZ1FJRTFWdENBeTlPR1RsakZsNDh4U3hPeHFuWUFxenBCeld0RjcwSU91SmwxOHlSM3lBY0JIRlAtdlR5QUpyelRtRmhtQzEzemxBbWJS?oc=5",
+        "date": "2026-07-01T19:54:05+00:00",
+        "source": "MuyComputer"
       }
     ],
     "Marketing": [
@@ -75,13 +75,6 @@
         "source": "El Cronista"
       },
       {
-        "title": "Real-time marketing y el debate físico vs. digital: cómo las marcas capitalizan controversias culturales",
-        "description": "Real-time marketing y el debate físico vs. digital: cómo las marcas capitalizan controversias culturales noticiasneo.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PX3JSSkxWeUtmMmh3bmtNa2xLWTRBeDVnRTRia0g1ell1bHVQTE9xOXlRNHBySkFZV3ZEeDhtU2kxZGV6QWcxQ0t3Wk1MU3M?oc=5",
-        "date": "2026-07-03T04:37:59+00:00",
-        "source": "noticiasneo.com"
-      },
-      {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
         "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital unsam",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
@@ -101,36 +94,43 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
         "date": "2026-06-04T07:00:00+00:00",
         "source": "sanrafael.gov.ar"
+      },
+      {
+        "title": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital",
+        "description": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital Municipalidad de la Ciudad de Mendoza",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
+        "date": "2026-02-23T08:00:00+00:00",
+        "source": "Municipalidad de la Ciudad de Mendoza"
       }
     ],
     "IA": [
       {
-        "title": "Jorge Macri presentó BAX, un asistente de inteligencia artificial para agilizar la consulta de trámites y servicios",
-        "description": "Jorge Macri presentó BAX, un asistente de inteligencia artificial para agilizar la consulta de trámites y servicios Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMW9KRmN1LXBCajk2R09RaDZKd0RNU281aUpMby1vVUZGR0Z5ZmtVYl82aUZmdlRrQmVrUWRoVUFlZHJiUkJ0emtvbTdtZEhmRVlVUU5oU3NTYmV3aU80N1RiT1hKZEU2Q3JsQXBVTm9QbzMtNHY5eEVhbXg0VmxZaVZ0UEV3WHNwS0xhaDhrQ2UwWXRCMi0wWnB2MlhnaVFQbEp3WFpiRUJ0WVlYTkJvYmJiOG1zNW1wYVJoRW5RMGxRVG1kRXdmb2tFQ29oekdwMHFoSFkzN0lud0ZOcFlUM2lOVVBReE5tUmVFSDJ1ZHHSAYsCQVVfeXFMTU40WEx1NVFBVDk5V2RwSVZmeDgyYUNfSmMzSF9zOEFCOTJTMTR5T0VDM19IU01ZZEtjYWxBZWI0bXhMN01hdzdjVlhxdVliTWpkMlNyX0ZjVHdtQ1NqX21wQkFkVDFKaDRlZnktUEwxODRNT2NleUU0TmlVaXlTMUZyeTFjenZibEhWOHdlS2gwMXh6aTVYYU5wUmhTZmZlVDlVV3QxZk44djRLeEcxVVlNdzdrNFRzdl9xTnJ1V0NUamFLMkVEWE0zdkVjaG9KR0xtUGhLbFNaLUlKR01WZXkzWnlzY01DRk9OQ3U2eUl1T0xKREFoemdpWHllMEp2MkprMzdYUTkyN3Vz?oc=5",
-        "date": "2026-07-02T18:21:50+00:00",
+        "title": "Stephen Hawking, científico: “El desarrollo de una inteligencia artificial completa podría ser el fin de la raza humana” - TN",
+        "description": "Stephen Hawking, científico: “El desarrollo de una inteligencia artificial completa podría ser el fin de la raza humana” TN",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY1JWSWE1UnZUazF6LWp4V0ROS05pMXpZT2ZoTVd3NkZDMXpPUFdkN0hIaVpRd2tvSnNqTDlUcS0xUnpTUmhzdm9tMGxNZGtiTl9rTi0wcmtMdnhLUzNDcDRNcmlKeWZETlRVenl3TGhIZV9PcmZqOE1PdEFxYVRBSGdPUlFSWGhEZDNmM0VQUm9MelBYQ2NBS25LbjV1MUk1dmJodWtTZXdJUmhSRTdmZi1LSVZFRkFna3FrSm9sTEFRcDlxdjFFNVhqY3BEYnRVWVoyZjJjN00zdjliTy1fVnItT2hqRWdDdW5N0gH_AUFVX3lxTE9LZ0F2aC1UNHl1eFFPSXNQNFRoNkNBRFBCZDREZVpYRktKMkhCNTBjZ0J0ZWRaVUJrS0hUcEFYZFJFLXhHQkRkcGF2RUlTa0VfbHlZQUJIX0NadWtoZEllOWZDLUNvcVAxd21NbVlDMnVid1drZUJLU213WHl1ODByb0ZRSEJFT3lqcEJ4Qy1ZVmZrQnhVREl4TDV6c2R6OUN3MkwzTGF5eFBfT08zUk1xaUl3aDZDdVNzdzZ1YnR1Y25VUFAxbDY1Z2cyZzZhVTlkN0xwdjRtNnRLYjZ3SlVSNkVrWk9sLWNUcVFkRlQxN1NEbkRKYlc1YThlRzZGTQ?oc=5",
+        "date": "2026-07-03T10:36:03+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "La inteligencia artificial no despide a nadie: lo hacen idiotas con hojas de cálculo",
+        "description": "La inteligencia artificial no despide a nadie: lo hacen idiotas con hojas de cálculo Enrique Dans",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ3hqRUtwdHZ1ajNuQzBOY19vajFOZXlYS3ROMkJqV2RUUFVZQWtZNHNSR3UwX09ncHRMQVBranZsdE9VRzE1djMyZzFUYlgxR2FyV2NpenhERHI3RHlYcThNZFNQekZLcDR0Y2RRV0FDRjFwVzhndzhTUkRoN3FJVjJxWks5a2xrSW11SW1JMDRJcDF4RVNIc2ZhQjBJaHdzLWVZUFlzVlhFV2lYRHpNdWVUQWtWcHIyQlVNU3BuODY5Zw?oc=5",
+        "date": "2026-07-02T14:41:11+00:00",
+        "source": "Enrique Dans"
+      },
+      {
+        "title": "Seguridad jurídica e inteligencia artificial: cómo la Argentina puede atraer inversión de calidad",
+        "description": "Seguridad jurídica e inteligencia artificial: cómo la Argentina puede atraer inversión de calidad Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOakxDNUYwY3IyQXRFWm1iRGxXR2JhckNTMHFlU0pFenhzeTExWGtMR1RDV05aZjdJTmN6Y3h4bUVrYUFrYkg5Sl9BT2N4TzhENGpTMUVWR2t4NmxYR295YldLYUNLVGl4ck1WTkNSLTdwODlhZEktWEtQSG5ZWkZ2SGNzMU16UV91ZnZ3c0Z0OFNuRnZ0MWJ1ZUVJTzFwblFta29fZklucXUzbUUtcUxvT3l3ZUJSNWUwTDVsVW52cXhvcHVKVm1VNlNIQ1lJMjcwQlJhS0RzRdIB8gFBVV95cUxQNmZval9oY2RYbk9RaElNOHIxUXRuMXRYWENnQlhqWWtWVzNSZmptYnVwUnFBS1g4Zk5sXzBWdUlERC0ybXZoWmM1dmI5alpQZ3FJQzlWdVdyUVlPZDRCSGIwNUFjbXlzLWI1WGt5dEtlZTYwX0J2allhMWV0cDY5TkdHZ3NzMk9UMDIyb011Tlh6aEl4MVc1U0VWalllYkhWdjB5eW1VTU9wSHhNdjJ4ZTN0eWVtaDBaOGp3RHk5S29yMW1LZkxqYV81RUs1NWJhUWY3TGcyQWF5eWZBTmlvcnJlSWhUaXJCaWlycWZjVXk2UQ?oc=5",
+        "date": "2026-07-03T11:46:46+00:00",
         "source": "Infobae"
       },
       {
-        "title": "La Ciudad lanzó BAX, una aplicación con inteligencia artificial para unificar trámites y documentos digitales",
-        "description": "La Ciudad lanzó BAX, una aplicación con inteligencia artificial para unificar trámites y documentos digitales Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb3JFRFgzVzNQdXZFVEozVmN1Qm5oSHYtcnVfYVpmT0Y3WVgzUFlsMUJBQlI1Qnc2SUxSR3V4ZVE2TE5aREZicWxfX05YV3MzdlU2UTdjOW1sSDQ4MFV6TDJQaDlnZ2lORW8zMkJIWUJlUkJCaGZSZGd2WXN5UDJXMnE5aDA3WDdEQjBLdjJTUVlBaVBxZUIzaldscktXY1BwUXhmbnFuRnNXQW5IZENhTmU2amc4WTIwOE95SmVGM2VQQVlDTXNqa3lIVVJfWXplajVrUnc0YWhZR0thaHRXOGRnRW9tXzhTN2lV0gHwAUFVX3lxTE4yTlVidEFobVgzcml1c2J6VHdCeDgwNTNRWVpfckxPdlducWlvZWhvN0Q0NWZwelNYWkcwVWpTTzVhWEFFVnQzMEFJOUtiOGdnRnoyUnpzMEl3Sm1NZmFSR1lob2FHMVItQlFfX3c3bUFyalJTbE9QSUNTMDQtTnAwRzk5b3R1UnNUTFFHTzFzTDBxX2wyaTV5dG96VzZERHFac1VSM0FVZDcydjZPcEdHRzh5aVZ3YkpoZ09HU1NLb0hQdkVRSGpMazB4QUxHWHhyc21heGVhaDJuX0FqcGViNktMX3VaRmlicElfd3FnSw?oc=5",
-        "date": "2026-07-02T15:18:10+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Buenos Aires lanza BAX, la app de Inteligencia Artificial para trámites ciudadanos",
-        "description": "Buenos Aires lanza BAX, la app de Inteligencia Artificial para trámites ciudadanos Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMGg3YXRDdElMaklBTHlJMmROV0QzamFycnowemNmMGo1N19ZZGhmRVdZUmRuM2IwWWxzQTlrdDJvbFhSbE5QX0luVDExM1d3U09DWUQtUF9YX2pGM1FBNk5EdC1qdUZQWU4zOEI4OUlLVS1TWmx1ZkRyR2RvZXRlS2d4ZnhlSGwxQ05xckFzRGtSS0ZjTEVUaDF2T2xIc05ETktRQzBXd01iOTY1SFRnNTcxLWNld0pTTVJnSzJfdTRmblBpRFJIQtIBzgFBVV95cUxOMEtKMURNeUNlRDdNZW1XT0x2MzhtUmlMVGxnZ1NuN19ZZkQ3aTZ6eVlHOTBYYnp3SC1NcXNyWVVHakkwUmZvVGJSb3BSRFJlVmo3dk1Pd2hsbjZaMF83R3djaFFwOUJ1RkxuQzFjemlBUFdXN0RRb2FyQWFQNHRwYjNYakM2ZTJlSm9vdjZISl9hTndHeW9uaWVKQkdzTGM4WXJzb1diOGU4dHlIcFRBcFpGOTJJX0l6V3RGeTVSTVlpTGh1NHlvemNxT2Nndw?oc=5",
-        "date": "2026-07-02T13:05:22+00:00",
-        "source": "Cadena 3 Argentina"
-      },
-      {
-        "title": "El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial",
-        "description": "El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dzelpVckJGR19vWWhtcWZZTXRja0x6Z0NDMXY2VEVZU1Qtb0ZhSjNxVHVvd3Fzc25xc0pGUTBGeWRjZ1pRbWFrSkxQUlZuVkIwY0xXblJGTGVoVXgybEtrRllVNnR6d0puV3FMUXh5ZDVyN05rdDRiNDBTc1B6aXFTVmFSRGNaZjIzQmFuUnNUQjlLRUh3Y2JfVEIxVkwxRV9SYnozaXNtcjVzRTZQZjhwdEVqcGgwdmluRjdWVXBhbWVMcThYSzRUUk9iWTRueE5RSG40NE53QUkwQWRZ0gHkAUFVX3lxTFBxT1Rha3Fpc0tuZjIxN19TTnl5X2Naa2FMRlBqdGd4UGVNbVR1QzRkMUV3WkdNSXVXMFRJb2piVHNOaUdSZDZkbk9TMFRyd2xPVV9lWmxHMkNwNm5HMHkwVS1oRVN1VGFZb1V4OXF3NjU0cHpXQTlKTFF4T2xHSmVDUlZ5LUxpTkZvVG5NdThvVE1LWnh0Y04yUUEteVVrMUUySFFpdFlVc1h5N3NqSjJ4bktCZWlIN1Z1ZGhNV2dpajVjOFNIMTJRWmFWZzVpTjNKV3BxTFZvT1dVWkstWThKek5CYw?oc=5",
-        "date": "2026-07-02T16:01:54+00:00",
-        "source": "Xataka"
+        "title": "La IA industrial ya no es el futuro: es el nuevo estándar",
+        "description": "La IA industrial ya no es el futuro: es el nuevo estándar Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUotWU92OXQzeDRGUnJNUEMzeVRQd2lBTEJkQU1IeU1PNGFHSHZpM1hQb3lQLXVUMHNXOU9kQVNuX1plcUxlY3pJd0JVSmYxMVQtUkJBa21JR0plejJxVllKeS0tdDRhSXZSMGtiQlAtaDdCOWpPQTRHZjhsX25GRG5uM0xYMkx1RVZIODZ6MnRtYS1nZVhMbndnSDBsMVlrVUHSAbwBQVVfeXFMTnFkSlBxRDgtMGJaTExyekhqMjQ1U1Z0SEpHVzkxaTVLT0pmbGVQcGZoMkpBVklTb05HNXZoeU5SZ3JwR0xjNkJxcFRjNV9EY1JnWlpuVTVvQzVxcDhtcURMSTRvVDVxU19zZjFjamwwN1FUSHZtSkZwTFp2RXk4SHRBWEd1b2ZpZWM1VTlhLXZhSXdwNUxKcS1EaUtmekw3UTFZRUJ6T1N1MVJ1cnJtNjNwQVpXbmFlUExVX2Y?oc=5",
+        "date": "2026-07-03T11:46:46+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Una universidad lanza una maestría en Inteligencia Artificial",
@@ -140,11 +140,11 @@
         "source": "La Nación"
       },
       {
-        "title": "Inteligencia Artificial: cuál es el verdadero origen de las respuestas a nuestras preguntas",
-        "description": "Inteligencia Artificial: cuál es el verdadero origen de las respuestas a nuestras preguntas Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25QR0s5MGNHcGV4cHFqbzJqUUxKXzJmNnhqUHlfeEs5ZlpHNElWb0ZSeWJBczZNYzVVanFfODd3TGhFbHhhTkMtelB4czBQdkpiS2RiMVItakRfOENfODl1bkt2LTVuSU0wQ2VWNFZqbUdaVGFOeDZuNjhhXzN6RmI2Tm5WeldPSlZCTEEwb0dEVjJQd3JWYUlNNGthV3VPUEVqRUNoTlhjQmvSAbABQVVfeXFMT0pNMHhxSjRvdV84cnVxSm15NU1NdkRHeUgxaXd6LWUtc0hvTFdsRy00ZHRHTDVoNGtLSm9IRFN3MnhpRzRWYUpQVEljMnZXOU1odldwSnZNZjVBWkFwYTFJYVFiQTlRMEdLZkZxV2RGdXF5UnU2VGhnVUpDQlBDbm9uQVFIUWFVZDBES2RSdF9RLVNFNjN0ajNSb21PVGVIR2xkWUFoMzRpWG1sUmtIaTM?oc=5",
-        "date": "2026-07-02T09:01:00+00:00",
-        "source": "Clarin.com"
+        "title": "Del sketch al render: cómo integrar la inteligencia artificial en el flujo de trabajo",
+        "description": "Del sketch al render: cómo integrar la inteligencia artificial en el flujo de trabajo ArchDaily en Español",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzZCRGV2UXBZalM1aW44VHpSekQ5T0E1YTRLZFVIY1FsQ2xxWVh6RlJKalY1YmJKUDVMbkVlSjlzb0xfNktLN1JKYXY1X2M5V0l5d0VVOVlwVVIxOVluVUZTVmdEakREY0hDZ0hjR3Nab0RpeUlVSmhNcldEZkRPczd5anFIbEVac2J0VUk1eGZDZWpLLU1TTkZEZFQ5a0RpMDFtMUVEZlhraVd6UWc3NmVSQXZfQksxRU5wag?oc=5",
+        "date": "2026-07-02T08:00:00+00:00",
+        "source": "ArchDaily en Español"
       },
       {
         "title": "Conferencia: “Custodiar lo humano: inteligencia artificial y justicia”",
@@ -163,18 +163,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "YPF evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta",
-        "description": "YPF evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX2JtM2tKZlEycXVrNG9XUG5sWjB3ZmdNTm41UERmZUVIc3JIUGlEeWpwVC1RSUQycE43R0dUcFEzT3BXX0o5QTlLc1NDN0ZTdDlTUE1zLWNSczYtRllmd1BnQTlzS1lOekIzR01HZmt0a2Q3TG5jODRLQUhMVlBkYkdhamF0Z0FhRHZEbEJOZ3VHTXdXNl82djg0M2FEMFBEaFJRNXR1Q2VOWXloeTZIN2tIMkxDX0xRWjNjdHpGMEtYd005QWVBWnVVMW1kTmQxd2hKVnlvVXk5N2dw?oc=5",
-        "date": "2026-06-30T19:27:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta",
         "description": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta La Izquierda Diario",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3BpaVo2Um94T3dONEpVRzNsNjVZMmxPekNJYVYxbTFKUnQzbXR5T2tuN3A5Rnh5TG9CSnNyLUFBc2R1S3pNUWhfZnVocFppNEUyNmtpeDE0WEdJT1UzcVFIcDZWbW5SUWhxNjBKQ2g5Nl8yWUZNUXE4Z04xaUliS0taQ1BvQTRiSjBvMGdoTHBZUEhUcjV6VXF1eUZKRFQ30gGoAUFVX3lxTE9fbTlmd1Fjb3pULWdMQXJXa1pKdWZSaWdsckl2cWk3aTVtU3QzQ1QwUENXbGt3TzZJMlV6dmxfVGFGdnl5MVdUTm9iQ0JNeVYyTTFIbDdRUEJ5SmdWWUZ6elVoV3d0RkdMZWlqV3h5b0diTlAyVEhsZXYyaGpSSUItTnBCNndYSHNOUEEwcXJMeFgtbXBDZVdsTDNCQzRuSkRMYTlNZTVVeA?oc=5",
         "date": "2026-07-03T02:13:00+00:00",
         "source": "La Izquierda Diario"
+      },
+      {
+        "title": "YPF evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta",
+        "description": "YPF evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX2JtM2tKZlEycXVrNG9XUG5sWjB3ZmdNTm41UERmZUVIc3JIUGlEeWpwVC1RSUQycE43R0dUcFEzT3BXX0o5QTlLc1NDN0ZTdDlTUE1zLWNSczYtRllmd1BnQTlzS1lOekIzR01HZmt0a2Q3TG5jODRLQUhMVlBkYkdhamF0Z0FhRHZEbEJOZ3VHTXdXNl82djg0M2FEMFBEaFJRNXR1Q2VOWXloeTZIN2tIMkxDX0xRWjNjdHpGMEtYd005QWVBWnVVMW1kTmQxd2hKVnlvVXk5N2dw?oc=5",
+        "date": "2026-06-30T19:27:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Con gas de Vaca Muerta: una baja de las retenciones apunta a un negocio que miran grandes jugadores",
@@ -184,10 +184,10 @@
         "source": "La Nación"
       },
       {
-        "title": "Calfrac Well Services Argentina y un nuevo hito en Vaca Muerta: su línea de Operaciones de Wireline",
-        "description": "Calfrac Well Services Argentina y un nuevo hito en Vaca Muerta: su línea de Operaciones de Wireline econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGF3Z2Y4bzhUN291WEI2b0FNZXE4RnF4a2tkV1BxQ0hxZHVvYlR6TjZYNkNVM1ZuZFkwZS1ESGlnNXk4WmEtdDJaYnRnaDZOX0ptWml6U2kyNUpvQ1ZSU2tkaGFVaFpiUWJGU3FweGhrdzN4Vnd0OGt3UnlzZ0lxTTBUZ25GdHRseXUtRm9yUG9hc2FkV1FycTJCRl9oVVNiR3RyNWZ3ZHBtMWFkTm1GSXBjVnZCX0dHcDQzUVN4SG1odUlNYWY2WFJrRDZPVjY5?oc=5",
-        "date": "2026-06-30T19:50:16+00:00",
+        "title": "Neuquén \"limpia el mapa\" de la minería: regalías, el rol de las arenas para Vaca Muerta y otra apuesta por el potasio",
+        "description": "Neuquén \"limpia el mapa\" de la minería: regalías, el rol de las arenas para Vaca Muerta y otra apuesta por el potasio econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUDhaaFJXdXpESUpwTndFR1Mtbk1tSlpJczBBWWJ0Mmt5d0kySWNEeUNSR19iaDR4aG9OQUxiU1FYN20yLTJKOGFIaWRwandTaXk0NHlDeldtNHF5QjNUc1M2M1BtMWJvUkoxX3VMUFBVYlU5M0FjVl9vR3lGSmVTM0luZk9IdnZTSmdqLXpkYkhIZ3hrSmxOQkwyMnp3cEU0emMw?oc=5",
+        "date": "2026-07-02T20:33:21+00:00",
         "source": "econojournal.com.ar"
       },
       {
@@ -198,11 +198,11 @@
         "source": "Página|12"
       },
       {
-        "title": "Estudiantes argentinos ganaron un certamen internacional con un robot de perforación inspirado en Vaca Muerta",
-        "description": "Estudiantes argentinos ganaron un certamen internacional con un robot de perforación inspirado en Vaca Muerta TV Pública",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNXzYta1lodjBpQU13dmNMZ2VvQWFfV2NFVFFTb1hIekNCM1djWUlZRFNDYnNPWThtYmpSb0V6aWw4REtIZDNsVHc5amlLMVpsXzBvdk8zeXczNzduMEhkZ204aDlYVkQ1dVdoTGsySzE4b0RSUGlWb2xMaVdmb2FwWUJvclljbWoxVmg5dWxsMkJYUm9OY2sxVENxQUV4WjBMSXZ6UnQ3LTBMVDl0a1djT3lDajBNNzYycG5CYmFLemRZcWQ2TzU0T09xQS1qZ21lR2hzZF9YTUtVWjU1WXlsSlJrakF1b1l0eGFfS1NNS2tEVVMwOWV1aWlYVFM3Zw?oc=5",
-        "date": "2026-07-02T19:09:14+00:00",
-        "source": "TV Pública"
+        "title": "Vaca Muerta: ¿Puede Argentina disputar el podio petrolero regional con México o Venezuela?",
+        "description": "Vaca Muerta: ¿Puede Argentina disputar el podio petrolero regional con México o Venezuela? Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa2ZDRENKS0JNT05nSzk4ZVlHdVo5Rk9RQmI0dWtIdTRUZm9TM3d5VGZzcFI0UnFpU2xIUm1ZbEppN3VfcmJub2h6Q0J1eUhPdjB2TnB6aG82YUNkcTJYVTRtSjFYZGszc2JNZktuaFFDcmlXeFhJNjVRMDJqVVYtSHYyM05tN2xhOVJrdWtJcEFncnRRZGhwVFNUTnJwWUczN08yaTQzLVkyM3dkS3NyRVhYOHNiYUJ3NFozdkpzRFRLay1sY0xTenFoeWt6eU1ndk16SGVzdUNfSlHSAe8BQVVfeXFMTmJoaWh1enpmWTNlbzE4Q2Jremw3dGl1UkMzY0pYODVCZzI0eHhjeGttSEE0b2lLLXl5NmM3cENSY01tOHY0TXdxa1VoZmNTNHdJX3dyT0NfaGNEWkZJdEdfN1FXemxqbFhJTDFkSXJPU2lOazN5cUxEbGNCMmZRaEZMcmJURWZLc25LaXdESi1JckE1UU5CWkJfbk9hd200ZGVfanlWRElHUE1jd0tOY2JkTGNkVEdvbDhmQV9XTjZMeUo2dFp6dUJqR243c1o3VHJGeC1JVS1DeWdubWZra1NIdEdzeGduTU1ZamhWcEU?oc=5",
+        "date": "2026-07-03T08:45:00+00:00",
+        "source": "Bloomberg Línea"
       }
     ]
   }
