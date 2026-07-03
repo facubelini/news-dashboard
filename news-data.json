@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-03T20:58:24Z",
+  "updated_at": "2026-07-03T22:07:43Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\"",
-        "description": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\" El Mundo",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2hnVGZqMU04Q0k2SlZMN1lVUDNLTXRqb2c5bVJMdXh3YVAxZHg1bk4xQWVwVHBUNEVfbUNkNlVqeFdZQUt1N21OTHJLQWR4ZnpIdWQ3UWdaZkJTenZhX0JhVV9PN1ZQeDBUbUktZDYwUk5CVHVoWVZqcWhvRHVGVlVDWng2TWU4?oc=5",
-        "date": "2026-07-02T22:01:00+00:00",
-        "source": "El Mundo"
-      },
       {
         "title": "Microsoft crea nuevo negocio de adopción de IA con 2.500 millones y 6.000 empleados",
         "description": "Microsoft crea nuevo negocio de adopción de IA con 2.500 millones y 6.000 empleados Infobae",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOHMyMEdxSFFVTENFc0YyTEdacGxuR1ZyTGNHTXBfSVVwUU9oUmJ5U0VfRXZBallraTFsaXNRRlNZRHpoX2xjX2VxbzNqcHI0WkhOa3BOM25Zb3pSV2NHWFRta2ZRUExnQUZvVU45aWpINkRDWUo0VzQtXzZka282X0ZPVDFoSW1VSTlRMzBLLVVpU2Y2QkQxZmhQZ3kyaVNtd1A4a3A3dkhfN0FOMGE0Y0FIakRPZl8yX2ZQQUxwMlUyT2RYdG9jcmU4b19pSzTSAeoBQVVfeXFMTUR0azRnbTg3M29yWDU4MUJyWV9vanZlb1FxZk8tSExOWU9QUmd0TlVBZUVXd3Ztd1B3ODNfZktZdDdoNzJjclhDUlpHR3NERWNkMXlsYW1iQzBBZUJYS1J4TmVtN0tDUlBXSTJyWjVrMjRfbjJWbXZkRXRWdUVBaFNleDV2cm84UEhWS0hyNElYMVBWelpGWjdnbWFzWXhwV3Jua2IwdnZwMlhIaVE2eFE2dkZWLWNjSDQzblF2ZV90NkJuUURzbnNuUDZwbmtDdjctaEd4M1JVWmIwR2xPOEpNUERNTThOMVZ3?oc=5",
         "date": "2026-07-02T17:49:55+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\"",
+        "description": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\" El Mundo",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2hnVGZqMU04Q0k2SlZMN1lVUDNLTXRqb2c5bVJMdXh3YVAxZHg1bk4xQWVwVHBUNEVfbUNkNlVqeFdZQUt1N21OTHJLQWR4ZnpIdWQ3UWdaZkJTenZhX0JhVV9PN1ZQeDBUbUktZDYwUk5CVHVoWVZqcWhvRHVGVlVDWng2TWU4?oc=5",
+        "date": "2026-07-02T22:01:00+00:00",
+        "source": "El Mundo"
       },
       {
         "title": "Qué está pasando con el posible cierre de Obsidian Entertainment ante la aparente criba de estudios que planea Microsoft",
@@ -119,31 +119,17 @@
         "source": "Enrique Dans"
       },
       {
-        "title": "Hay cosas que no deberíamos delegarle a la inteligencia artificial, aunque las haga mejor que nosotros",
-        "description": "Hay cosas que no deberíamos delegarle a la inteligencia artificial, aunque las haga mejor que nosotros Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQzlKMk5IcXRMWWZUN2ZydEpmMlpYU0R3a1U4UUpUblFvMXpfOVJTWHhUR3IzM2FlTUhFVnBOSS1tT1hxVmN5NEVvTzBQZU10R3dxV281WFNrdDBwNGNyTE9PTkI1djFLZFJueE1NRXlVc3VCbVQ5SEdCLUZqb0xQU2gxbzlyRVBueFd0aUlxelRvZGx1U0hSOHVRTnQ3RHJxLUx1cGdLQXJYVC1kMl8tNmp4RU84LUR4dC1ZSTM2blBjUFIzNUFEUENCSlRiZmg2WVVSam93bmpVVHNXZ3dSYtIB5gFBVV95cUxORVJlaXVoX3puT3N1ZHJhNEt4ZGtzemVGMUgtUVFiN0FSU2JVM1RlZ0pwRldIUW1yYWpWX3ZfU0hWYngxa0VHM3hvUFRKUTFBdlhMZk56QXA1RTNXT25uQ0gzSkFQX29oblhhem4xQ21qT19kUVlLQUp3R2dvMFR2b1VKMmNkYkxXWVBUUldaUk14MGtJdTI5SDRIUF94c3liZmNhVFJoYWktZ044Q1ROaGxhZll1SUltVVdaN0JXM1NfUHBENDZrVUxFVFc3eXg2RVZSQ0taWHRIamp2SkZ6TUhNTVRKZw?oc=5",
-        "date": "2026-07-03T20:17:21+00:00",
-        "source": "Perfil"
+        "title": "Guillermo Saccomanno: “La inteligencia artificial jamás podrá suplir la identidad de una escritura”",
+        "description": "Guillermo Saccomanno: “La inteligencia artificial jamás podrá suplir la identidad de una escritura” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQVpkMFEzbkxEVlZqQ3pQaGVxWXNqcVBxUnBPNjVUMVRoeUl6OENIZjRwcTE5UzlaQ3phM0dpRUR4NnB3SU5KUG9NRUlSeHM5Ni1wVEFpOGZub0ZwOGJGQzVmYV9BQmtveUkxTnZDQk5yZENKOFo4WXU5WDA3a292ZlUyU2FCU0NOc2NRZVUwRWdWWkx1cXhXTXFTMDVrMllIOGxEeWRKUThqcHFzeVBrUGJaYmItcUZDTkZBZHd5Xy02UzdTRlM2OEVfbjh1dGVNZ1E?oc=5",
+        "date": "2026-07-03T21:10:26+00:00",
+        "source": "Página|12"
       },
       {
-        "title": "La Ciudad lanzó BAX, una app con inteligencia artificial para hacer trámites, sacar turnos y realizar reclamos",
-        "description": "La Ciudad lanzó BAX, una app con inteligencia artificial para hacer trámites, sacar turnos y realizar reclamos La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVXV4M0ljckJMbS1rUWZtaUd0djQ5RGp3VkllZmJaS1E4c2l3b05ZQ3RIbF92NFZoTS1odnVPYlp2VU9Gam1LV0ZKb25acDd1T0tvQ002TmJENlc0OWdqbjV2eEQ2QjVSc0RMcjExOTdLa1N4OEc4OGVoRkdtalcyQ1p0ZXd6MU1kSDhEXzNUODdIMzZfVnJmUVl6aDd6MEROcDdTbU5YVGRYclc0T1JvSTZlaGJGdUVSaWQ1UlhhZmt1UWg3WVJfdjVKcFFDQWFDTlg1NXRjSFpkM0EzQTJGYnRPWQ?oc=5",
-        "date": "2026-07-03T18:49:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Jorge Macri presentó BAX, un asistente de inteligencia artificial para agilizar la consulta de trámites y servicios",
-        "description": "Jorge Macri presentó BAX, un asistente de inteligencia artificial para agilizar la consulta de trámites y servicios Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMW9KRmN1LXBCajk2R09RaDZKd0RNU281aUpMby1vVUZGR0Z5ZmtVYl82aUZmdlRrQmVrUWRoVUFlZHJiUkJ0emtvbTdtZEhmRVlVUU5oU3NTYmV3aU80N1RiT1hKZEU2Q3JsQXBVTm9QbzMtNHY5eEVhbXg0VmxZaVZ0UEV3WHNwS0xhaDhrQ2UwWXRCMi0wWnB2MlhnaVFQbEp3WFpiRUJ0WVlYTkJvYmJiOG1zNW1wYVJoRW5RMGxRVG1kRXdmb2tFQ29oekdwMHFoSFkzN0lud0ZOcFlUM2lOVVBReE5tUmVFSDJ1ZHHSAYsCQVVfeXFMTU40WEx1NVFBVDk5V2RwSVZmeDgyYUNfSmMzSF9zOEFCOTJTMTR5T0VDM19IU01ZZEtjYWxBZWI0bXhMN01hdzdjVlhxdVliTWpkMlNyX0ZjVHdtQ1NqX21wQkFkVDFKaDRlZnktUEwxODRNT2NleUU0TmlVaXlTMUZyeTFjenZibEhWOHdlS2gwMXh6aTVYYU5wUmhTZmZlVDlVV3QxZk44djRLeEcxVVlNdzdrNFRzdl9xTnJ1V0NUamFLMkVEWE0zdkVjaG9KR0xtUGhLbFNaLUlKR01WZXkzWnlzY01DRk9OQ3U2eUl1T0xKREFoemdpWHllMEp2MkprMzdYUTkyN3Vz?oc=5",
-        "date": "2026-07-02T18:21:50+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "La Ciudad lanzó BAX, una aplicación con inteligencia artificial para unificar trámites y documentos digitales",
-        "description": "La Ciudad lanzó BAX, una aplicación con inteligencia artificial para unificar trámites y documentos digitales Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb3JFRFgzVzNQdXZFVEozVmN1Qm5oSHYtcnVfYVpmT0Y3WVgzUFlsMUJBQlI1Qnc2SUxSR3V4ZVE2TE5aREZicWxfX05YV3MzdlU2UTdjOW1sSDQ4MFV6TDJQaDlnZ2lORW8zMkJIWUJlUkJCaGZSZGd2WXN5UDJXMnE5aDA3WDdEQjBLdjJTUVlBaVBxZUIzaldscktXY1BwUXhmbnFuRnNXQW5IZENhTmU2amc4WTIwOE95SmVGM2VQQVlDTXNqa3lIVVJfWXplajVrUnc0YWhZR0thaHRXOGRnRW9tXzhTN2lV0gHwAUFVX3lxTE4yTlVidEFobVgzcml1c2J6VHdCeDgwNTNRWVpfckxPdlducWlvZWhvN0Q0NWZwelNYWkcwVWpTTzVhWEFFVnQzMEFJOUtiOGdnRnoyUnpzMEl3Sm1NZmFSR1lob2FHMVItQlFfX3c3bUFyalJTbE9QSUNTMDQtTnAwRzk5b3R1UnNUTFFHTzFzTDBxX2wyaTV5dG96VzZERHFac1VSM0FVZDcydjZPcEdHRzh5aVZ3YkpoZ09HU1NLb0hQdkVRSGpMazB4QUxHWHhyc21heGVhaDJuX0FqcGViNktMX3VaRmlicElfd3FnSw?oc=5",
-        "date": "2026-07-02T15:18:10+00:00",
+        "title": "Inteligencia artificial en el trabajo: por qué las habilidades ganan terreno frente a los cargos tradicionales",
+        "description": "Inteligencia artificial en el trabajo: por qué las habilidades ganan terreno frente a los cargos tradicionales Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTm15TFhmcFZSR2RyYjctRTRRRWlvSmJJU0QwV0FBM1E4ZDRKanA3YUJDdkN3STBNTmN0bWNIUFdsOUxvLU9nblQ5YkFuRmRXS3ZTbTl5NkdmX1BTZ2F3SjZPekJMWGxZRllUckVBZFItTHV2ODBXcDIzRmU0enpXaGtSR2F3QkM2ZW1HSU5GNjBhV2JyNnRWeGdoQUxFRi16SEdrbEM1bGRTSk1QaG02YkVNeHdtUUlnMzZQNlFhQ3pTczBoOXpkN0xHUdIB0AFBVV95cUxORUthcHZCeUI0ZUlwZFJaUk0zUm9pWWpyOE82MnZEbF9EeEVBa2VWZVZ1X1JReTRPQnFzTnh2Ym5VeWhOdnY0VzZlcXJLVWFUUF96LTItREQtbHNMNjdocjBIX2pDU0Rjc1ZjY3RkNEx3bTdjZWszOHpFV3lYM0VvZTNHV0RTM2dISWJqaVpEbWJuWno1ejBjS3hnVUFpclk2NTJKbE1FQXJQYnk2Y1U4aF8xWTI2R0pMTndDQ3djV2U5bU0xTTYtd2Z3bUtFMWhw?oc=5",
+        "date": "2026-07-03T20:53:48+00:00",
         "source": "Perfil"
       },
       {
@@ -152,43 +138,36 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZl9tX0hpM0liV3k0OUlLQkNlcW9PQWRjOWFFb0l1b29vVm5PT3NCUW9sdUFTLXlWM214VVl3eDNVTVBGU1FTckdYMHUxeXVzSk1janA3VnB2YjhrZlg5SFJ2cHgwWHN5bk5lSl9IMHBhSEl2bXUtY0ZDcTVFTzdXZU56S2NQUDdPQjljamd5Z1pDWWd4b3BNSW5xWHRFNGxRWFpaN3F6NC0yZTU4ek5DSWFsLUlHZk1QR2Z4ekdHN2RfZTg1MkhxT1lCQjV3UzZxcV9aTlhhVUUtc1E0?oc=5",
         "date": "2026-07-03T19:37:36+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Una universidad lanza una maestría en Inteligencia Artificial",
+        "description": "Una universidad lanza una maestría en Inteligencia Artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlJtZFBkQkFpZWdybkNXU19tNDVyMV9abDJTWmRrZ0wzYkhkT0YtaFFFRkNPeUtXTlRCYUZzNkJGcVVaM1pOSzMtTGkyWlItQ0x4MTFYenQ5R1RqSkVPVTZvNU5YdTNIR29qQjZ4cE1nbXBNMU5Nc0pYZFlLNG82RzVTWnR4Sjg2UV9uN1lEWTdxUXVvZWE2SUNsaWZybVYyTHZlV3g2dU9hX0otcFl0eQ?oc=5",
+        "date": "2026-07-02T22:42:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "La inteligencia artificial no despide",
+        "description": "La inteligencia artificial no despide ATE PBA",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tSm1VYjViYXdlSWd6eVFRQ3lZYUJUQ0Q2UG9wY2xBQVZQLVZuSE45MW9TYU1JbEhqdDRqOFZyV3cwb19renJxWDBnZFpEbkc3eUNZbmZFU1VFVVhLQ1ZIUDd6clFIRzNCVjhoRHp0WjNjNlc3OTZ4TjVn?oc=5",
+        "date": "2026-07-02T17:32:51+00:00",
+        "source": "ATE PBA"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Vaca Muerta: qué empresas impulsaron las casi 15 mil etapas de fractura del primer semestre",
-        "description": "Vaca Muerta: qué empresas impulsaron las casi 15 mil etapas de fractura del primer semestre Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0Y3QkRES2xIUTNSbWE4QUZWbTFZQUgxQktOakpGSnFWUkt5Uml4a1JmR3JKYzJMSVFYUnE1ZzhvWTFoM1BVbEF3THF6MkR2dlZqeTZWLWt3c3NzZnpac18zbk5PanlkblljXy1ILVJVNXpONWRkYkJfdEE1NjhKSmlELWxnUmJWbXdoUGVrMnRnQWtaRXJMblh4V3RXRnpudmhOcVBUQnhqY29IY1hGcjJ5d3VJVVlVTDVIN2k5WjZHNHJGdVpKaHJwZDduSTjSAdQBQVVfeXFMUHFNNmRqUmN2SGpuZ2JfSE84c05rcGJJemRyV3FYeGpwNXlNOWhmbjFuV0hIeXN3Sks2TktSUVhaNndxMUhuQ0VTbjlWN2xBa2dseXJzeVhrbHR4R3JKWmlJUk1rQzBaRXlCYnExdlFLV0N3UEgxUTJZU2t0LWNqc2RpSmFYbWdvVVhsY2RwMTA4Q1BwNjNiNVlKLUJBUkVwMnFOWi1DaF92ZTllX2ZMT19ZNnZUWU5qempESm9jQU01cXhKYmk3U3BaQzl2YXVFYl9JTk4?oc=5",
-        "date": "2026-07-03T13:51:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta completó casi 15.000 fracturas en el primer semestre y se encamina a otro récord",
-        "description": "Vaca Muerta completó casi 15.000 fracturas en el primer semestre y se encamina a otro récord Ambito",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGlJLVJqTnNlaWRwZUNZYjlsQ1UwZTIyR1VFbms2SktjdXZ5ZllncTd4QXhhb3ktR0I3T09mSHhqR3lfelRMd1lhc2JTUEVIRk4xNHFlUFVxemRVTmNNcmQwX3cySlZ3bUlTRHRoN2xzX3JmLTlGNlJxODM2c0M4VkRTRl9Bd2xKV2dmLUFvNk1QSmhBdlZuYlNKUjV2QWE5ZkVhODN4VjF6ODI0OXJtZVR0NnRvOXlJUWtrT015d00tNDlB?oc=5",
-        "date": "2026-07-03T15:18:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Vaca Muerta acelera y suma récords: ahora alcanzó el mayor número de fracturas en un mes",
-        "description": "Vaca Muerta acelera y suma récords: ahora alcanzó el mayor número de fracturas en un mes iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHhoVklGZmYwREZ1T2tGaTlkQXdHaEI0bW02cE95bUNaT3lCcFlLZFpSU05OYnBDRldaeGNKSnR3bExuMmRRNEpsQnhMWWU5TkV6dkszSHVhN0t2UGhzNFhXeU5YQWlRaENnUllKeDhYeVUydVF0ZzJQNTdmUnROU3hJajdGNEJEWFk3U3dOYmlOMzFrNV9tYmE2WW15c3VhNG1VYkNQbzVYbGtmMnhZbThuQnFsZjV1eENRYzhuTndodXpRS3loTUhNTdIB0AFBVV95cUxOOVZyRGJUODk1cjFDOElhTXFMOGI5S2NkNmwya3B6RDdHNFA4VF9yOFI4amd0ZXJHZG55S0d1Wm1zVTJfSlh4c1FTU3VaUkd2VWtlRnl6bUFzeHptOVZSdFRSelc3S2drd2dXUUNxOHA3YUY5bkJrUnlZTmlnb3JpcGlRV2h6R0tCVnBpS0JYbWpHNUtTaDZESVA4ZlhGQ0s0dXVhYVkyOVVYdWlFRHBSUmVkQmlpcHZWQzBrOWxlcmc3dHZLcmRDUXozUloyZGVk?oc=5",
-        "date": "2026-07-01T22:15:00+00:00",
-        "source": "iProfesional"
-      },
-      {
-        "title": "VIDEO | No encontraron petróleo, pero hicieron negocio millonario alrededor de Vaca Muerta",
-        "description": "VIDEO | No encontraron petróleo, pero hicieron negocio millonario alrededor de Vaca Muerta iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGotc05ROElGWnQzaC1nTWRUYnZPbVhPVHlmVjBERTMyaE9WRGxlelVxMnh5MWJQZGVVVlpuTEFQem53eWtIYVQ1d3A0enl4Q0NKMGNuZU5NMFdGS3lKWjBNZXFtZll3TlQ3ek9Ob09pLUlRV0pHNnZqeUxickFXYmM1ekVhZ2VidTEyNk5EeUZtNkx5c1RDRnN4VzdHN2tNNWdpSGcwMTl0T0VfTEJzNXhjOGVjaFBFNFJJSjhIZG8yb1g5QVNIOdIBzgFBVV95cUxQNXZ5SHExVG1VZlZzU1pzMWliUWNkQUVvQTZLXzBoR0hCVUprcW92V0dSNWI0ZkRCRUc0STh5cE1hMVlSYkZmMDhjMnJQRWlYWXZ6N3hPaHIyTTB1ZnJ6NHAtejhIRFB6QXdueDI3RGMwY3ZTRXlRem1iSXI0eEN5S3FtcWlWWUM1Wm1ERU5xT3Z6YWtJQk1rSUhlRm5SVGFSSU9zcklXU1ZXWUVuSTc1Qk5ISVFHZkxWeVFzYTFZNHFCUjZEV0U5R24yNklKUQ?oc=5",
-        "date": "2026-07-01T21:23:02+00:00",
-        "source": "iProfesional"
-      },
       {
         "title": "Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF",
         "description": "Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF La Voz del Interior",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ29BYkVYS2FiN1dDVnl4Zk1SY2llWE9zaERtZi1lcmZlNHRXSm1rYVJZWkF0OFFmT1MybGVlYzBmWnFhdFVWZ2d6aDI1ZFE5emVfcm1ma1pzVGo3Z2lmRDZhQm1LQnNKbTkwTTNtRF9hZGdDdFE4UFczYi1hRGp0ajNQc1pDY3BrQlp0RG51M2tsUUhBWVVHZzRIQUxKeG1oZWc?oc=5",
         "date": "2026-07-03T18:26:48+00:00",
         "source": "La Voz del Interior"
+      },
+      {
+        "title": "Vaca Muerta generará 90 mil empleos y exportaciones récord para 2031",
+        "description": "Vaca Muerta generará 90 mil empleos y exportaciones récord para 2031 Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0R2X2hPVUtvVmswWDFCTk1WTVJ4THhZNGcwdlh5d3oyRGdJT3dZeTl4cGQwX0E0aUdMZHE5dG9ZUHhSdy16S3NjaUxVVzk3aFhRclpRLXJlU0xwZ0JZczdvM0lQMi1paGk2Q1dTbVNHWTVSOWtMVjg4YmFvbE9SZkdtWW5LRDJFQ1VxTE03RGNBTW95cnNXcm1mQ0hpVk9sUTduSllmbHFHM20wSFBWbkxBQU1YQU5ScXNmX3h3?oc=5",
+        "date": "2026-07-03T18:45:22+00:00",
+        "source": "Cadena 3 Argentina"
       },
       {
         "title": "Marín, CEO de YPF, pasó por la UIA y defendió el impacto de Vaca Muerta en empleo y pymes",
@@ -198,11 +177,32 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Roberto Salvarezza: \"YPF abandona el LITIO por VACA MUERTA y nos rifa como COLONIA\" | PARECEMOS BUENOS AMIGOS con Eduardo Médici y Gonzalo Ochoa | PBA",
-        "description": "Roberto Salvarezza: \"YPF abandona el LITIO por VACA MUERTA y nos rifa como COLONIA\" | PARECEMOS BUENOS AMIGOS con Eduardo Médici y Gonzalo Ochoa | PBA Infocielo",
-        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSEdFUHlFOEdLdDhZV3pfWVROSFkzRXUtR3NwSEFVMGZCYzB2T0ZmNnowMWNLRmRNWEhmLUFoZVZwZE9mU2wyTVNMUUpKbWxtMjRoNkpFdUNiZ0Rlc01wa3ZjR0JDYV9vemtCUWF0R3cydjFIVXpWc3pRS0hhVFBjbDBiZlllM0xtQ1lUcG11cjR5bTVxRXdGM3AyZkZCOGRuWjVsdmZXRnRmWEtuaV82NU5WQTUtbUNIdTFfRlhYRUxJd3R5MUx0SGpaVkk1SDJPdkJJY2dhbzZjbGVkUE95bHdxZFF1dUZPVmhJbG9qMU9ESnprNVRJUFVqZUk3NnVxcVB5Y2RLNUtnd1J6ZGpOOUM1NHpkMHdpU3NCdU50bXBsa3pKQnU1M21B?oc=5",
-        "date": "2026-07-03T14:21:45+00:00",
-        "source": "Infocielo"
+        "title": "Divisas. La poderosa “locomotora” de dólares que empezó a generar Vaca Muerta",
+        "description": "Divisas. La poderosa “locomotora” de dólares que empezó a generar Vaca Muerta La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDBMV1l0NFhBWWRTOGF3eVhyLTBTSTFtdFVIOWdrSjM4cTNDRXd5MHJ4SGJKaGZJZThZNWk1MF96N0YxVGpiUFhkS1M1R3pweklaaTRCMmRWQVpDaHdUc2VHV2tTT1BHVUcwd3c0RERseDBnNk9xUXItZElkVW5uY2JZR0E1UlUwNVN2aFptdFFfMWFpaENKMG4tZlVPOFNqVlktOEpSd1MyUQ?oc=5",
+        "date": "2026-07-03T21:23:49+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria",
+        "description": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNamJUWWcyRWdVc0NlQndYVnJrQ3VUY1A1REk0dDBwVmJQRTVsQVpQM0ZDLVNIY081NVJxZnA3UjNGaWJSbTEtNkZIRm1aeFV1QndMX0RidkwzUmZhU1Rua2JmdERHdlAwclQxXzYySWZmS29Ud2FxTkRhSXNBTE1COU82SXNBYmFLT0lMdk11bXdZWTNRdmk1ZldLcm1FM3dVcXhGUFlwYXpSM3pBSXJ1a1dVeDVUcmVRel80OU9JM2kzX2x4amJoYVB4ZVV1WlkzeU9iY1pnY29Hd3hsZnU0YtIB-wFBVV95cUxQbUFtYUFGek9JX0tOeE42WDJjLUg3bEFENlo2U2ZzZGVheGtHWVQta29nWTExNlZ5akZUWTlEY29iZmpaYWFmSlJYcnl0UlMxLVhPWldUZGI2YWQ2YXp0U0VDV0N5SGE5aTF4Ql94SEFvbXgtTDhHSmpHNkpycGw5d0JWT0JTa2xsUTM4NV9ra0JzSy1lM0R5bHE5TnFTckhyNGJhOUwyNjNZY3VyaXRfdkxtR3lwNzRDWl9jTkJmWWNEaThzcjRIVHJvZzFGVmcwUFZ4eUNtUG1seFB0N0QtclcxcE1iNGtqSElvZVg0dUh2aHJYdklmV2RxQQ?oc=5",
+        "date": "2026-07-03T14:53:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC",
+        "description": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTU5aWNDQWRFdmJYekIyMUV4OVJZQUlEZkljY281MEt1OE53UTU3SEk3bGk0Ujc0aFNZbFV6dzJRZHhzREVBSTduOXZPOHhMZnFuRGwtSXQ5QWJJQV9kblB3eGFEbjc2bkE4TThkTTdLdmlRRGVRQjlYbzIwb1J6Tk85YUllZmNacTRZRFVIV1p2LXd4dEhPUFZDdzA2NW9zM0FiMVZqOVFHZjFIM2djdEdBMmQyM3dsMzBLdThYV09Ud2Z5S05zQTVlbDI?oc=5",
+        "date": "2026-07-02T09:01:01+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Por qué se corta el gas si Vaca Muerta está a full",
+        "description": "Por qué se corta el gas si Vaca Muerta está a full Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUZ2c2NwckRuTkpRRVZ5bTJPcjB1UmE5andKREw0ZXJfbUl0SXhBajVLOV9kdTAwa3g3blIzcGM3d3hHT2JLMGd2eUFqRm0wc2h5TU02akd4MFBqTjRlT3p6RW1MMG5SU0JiWXYxTEo5Zlp3NlVaT25oZTlIVjd0RXRtMkx5ZGFhVktnRDEwR1BZQjNsYjRGaFZ0NThrY3BGYkhwTktsY1o3QTI0blpuQTQwSdIBuAFBVV95cUxPbmJMZEdZcl9Pa093WGtlVmhMZ0Ffd0Y0MVB0b01yTW96SkhsSGxLZHRlOGswZUxybmFjcHBtTlRrMlY1bWNyRlJMRndnMjBSWExmSGJtWG55dENMTkVZREFubU11SldGczkzd0xWWndzOGU2SjQwa04zaW05WncyallwU3VoYTRBM21UTkY3Slc4T0FNOEpiajdBNUNHWlJoR3Y3cEhWWGZDbEZPa1VaOUhhUGQ1Z1FN?oc=5",
+        "date": "2026-07-03T13:53:22+00:00",
+        "source": "Cadena 3 Argentina"
       }
     ]
   }
