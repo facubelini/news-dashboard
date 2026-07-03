@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-03T17:19:00Z",
+  "updated_at": "2026-07-03T19:11:22Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\"",
+        "description": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\" El Mundo",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2hnVGZqMU04Q0k2SlZMN1lVUDNLTXRqb2c5bVJMdXh3YVAxZHg1bk4xQWVwVHBUNEVfbUNkNlVqeFdZQUt1N21OTHJLQWR4ZnpIdWQ3UWdaZkJTenZhX0JhVV9PN1ZQeDBUbUktZDYwUk5CVHVoWVZqcWhvRHVGVlVDWng2TWU40gGIAUFVX3lxTE1MYTVEcHVsQnFkbjAzbFNna3hZTTRvV3FpTkljTzlrNGxiX1R1RGJNNDc2SERzeHB2QW1jMVNOQVVTdVBpV2RHUGlaSEc4NXZrWnNfeHh0ZDRDdmdBZkJXcmw3azY1dHB0a2ppaTlSSUE2dG16aDQxMnhVQ3RubFJWTV82dzNfYVM?oc=5",
+        "date": "2026-07-02T22:01:00+00:00",
+        "source": "El Mundo"
+      },
       {
         "title": "Microsoft crea nuevo negocio de adopción de IA con 2.500 millones y 6.000 empleados",
         "description": "Microsoft crea nuevo negocio de adopción de IA con 2.500 millones y 6.000 empleados Infobae",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOazFsQXl0Y1pLWVM4dmFxZDJaV1RfMTBMMElqbjQzNXlkQzI1eERCT01JLTVmR0dZTG5qdlVkQlUxMTVPeFdETVNreWhFOWVOZ09BRm9yNC1weWpUUDRGd1g2U1V5dUdPOXFOckZZc2MtLW12azN1eTViUGlwNlItbXVxZ094VWdyMmNfWHBGa0FoSjFPU29KaFZQVjgyNWRtR2NTRl8yWUJydXhuek5kWVBpZnc3eF9LdEVucnAyc2cxSHFSMXFtdWhOZWlCRlNadE1jSjRPUGtMSXpzLS1GdWptOGdJalBJdGdOcWlvOA?oc=5",
         "date": "2026-07-02T13:43:04+00:00",
         "source": "Notimérica"
-      },
-      {
-        "title": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor",
-        "description": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFaOXg4MEJuVTQ5dDZfSU5pRzJjaHpvc1k2b214ZUJNQ2tmem5jYXlJX01ZdTl6Si1qRU5mUlNnNk1vT1BXak8yejFTX21PbUtlcEt4UjZSYmhYbmg1S1Q2N3ZWNzlGcWZDZ1FJRTFWdENBeTlPR1RsakZsNDh4U3hPeHFuWUFxenBCeld0RjcwSU91SmwxOHlSM3lBY0JIRlAtdlR5QUpyelRtRmhtQzEzemxBbWJS?oc=5",
-        "date": "2026-07-01T19:54:05+00:00",
-        "source": "MuyComputer"
       }
     ],
     "Marketing": [
@@ -107,7 +107,7 @@
       {
         "title": "Una famosa inteligencia artificial permitió vulnerar un sitio de venta de tickets para recitales y festivales de música - TN",
         "description": "Una famosa inteligencia artificial permitió vulnerar un sitio de venta de tickets para recitales y festivales de música TN",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUi01STlHNDlvT2NtLTE0QkhCaU9nNUoxbUhObFNYSzFTLVgyNktrTjlOeGZJNDJWVF8zTnN2b3hFWUU1a0ZaendxZ0hhOTVWZVFjR0pSNWpRcVNWQVV1T1lXMmVDWldWOUUtRTloaElUVFRGeXNucWNFTGhLcGZJbkFLMGVEMERTRmZ0eXFsV2lPckd3WVRsOHlubUdnUnpYUnN3a3VtdHY1VjljNEtqeFcxV01QZUw3OTRPdU43U2pOU0FPQ19YaEd2OGREZnRPOFVzd3g1aVJnSHRxZHk3M3p6MjJsQWFXS2xNOGt1dkdMY0trSXkzTQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUi01STlHNDlvT2NtLTE0QkhCaU9nNUoxbUhObFNYSzFTLVgyNktrTjlOeGZJNDJWVF8zTnN2b3hFWUU1a0ZaendxZ0hhOTVWZVFjR0pSNWpRcVNWQVV1T1lXMmVDWldWOUUtRTloaElUVFRGeXNucWNFTGhLcGZJbkFLMGVEMERTRmZ0eXFsV2lPckd3WVRsOHlubUdnUnpYUnN3a3VtdHY1VjljNEtqeFcxV01QZUw3OTRPdU43U2pOU0FPQ19YaEd2OGREZnRPOFVzd3g1aVJnSHRxZHk3M3p6MjJsQWFXS2xNOGt1dkdMY0trSXkzTdIBjAJBVV95cUxPdlNsVVEwMTEtbUhKelpva0JJdGdCeVJneENPYXhJMmlpUXlwNDBaT0Y0TWNpdUY0V0xvUmF3cktnTzZONEUwMDk5bENMUVBlaGhPbkRUbzBlLVkzUTc5Yi1iamNkM2F3eG1vMHVCNmxOejlyTXBpaWVUazN4OU5Mc1ljUDFpZHJ3bE5iQXh3dlA5ajBKOTR4SG5ES1RDcXdUSEVMMnA3WHBROF9SZXFybGNNQmNTMVFmbzBQZ0gyVUhhcHNuT1o1aHQyVnlyTGxEUWFuckQ1MmxoS0VjcWE0SW9uZHRCX3Rfa21qYVYxUko0U1hzRmF3R2lWME1Pdk41aUswdEp2bExpWXRS?oc=5",
         "date": "2026-07-03T11:24:40+00:00",
         "source": "TN"
       },
@@ -119,11 +119,25 @@
         "source": "Enrique Dans"
       },
       {
-        "title": "Más de 8.200 abogados votaron: quiénes lideran la IA aplicada al Derecho en Argentina en 2026",
-        "description": "Más de 8.200 abogados votaron: quiénes lideran la IA aplicada al Derecho en Argentina en 2026 La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejFFcUxaMERuUk5MWVhlV0s4Y0hCTkZSN0p6OE9vTERHZTlIak9IVmFVZm1JMld6VHlaMEtOWFVnYnRxS2NTcmdSWTk2SE9feGxGWHJleVFvcVZ4V1NvNXUzRGREaDZqUm9jYmVVZU9XVUpaZ1NCUGFndkMyOEZSVEdEY284RFlMMU5vdVY1Z3VNZU5zZDFlQzZ1bHRTdk81dU96Y3dyS0NxZEt6U3pSSVpvcVVscXlYNWc?oc=5",
-        "date": "2026-07-03T16:43:16+00:00",
-        "source": "La Voz del Interior"
+        "title": "La Ciudad lanzó BAX, una app con inteligencia artificial para hacer trámites, sacar turnos y realizar reclamos",
+        "description": "La Ciudad lanzó BAX, una app con inteligencia artificial para hacer trámites, sacar turnos y realizar reclamos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVXV4M0ljckJMbS1rUWZtaUd0djQ5RGp3VkllZmJaS1E4c2l3b05ZQ3RIbF92NFZoTS1odnVPYlp2VU9Gam1LV0ZKb25acDd1T0tvQ002TmJENlc0OWdqbjV2eEQ2QjVSc0RMcjExOTdLa1N4OEc4OGVoRkdtalcyQ1p0ZXd6MU1kSDhEXzNUODdIMzZfVnJmUVl6aDd6MEROcDdTbU5YVGRYclc0T1JvSTZlaGJGdUVSaWQ1UlhhZmt1UWg3WVJfdjVKcFFDQWFDTlg1NXRjSFpkM0EzQTJGYnRPWQ?oc=5",
+        "date": "2026-07-03T18:49:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Jorge Macri presentó BAX, un asistente de inteligencia artificial para agilizar la consulta de trámites y servicios",
+        "description": "Jorge Macri presentó BAX, un asistente de inteligencia artificial para agilizar la consulta de trámites y servicios Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMW9KRmN1LXBCajk2R09RaDZKd0RNU281aUpMby1vVUZGR0Z5ZmtVYl82aUZmdlRrQmVrUWRoVUFlZHJiUkJ0emtvbTdtZEhmRVlVUU5oU3NTYmV3aU80N1RiT1hKZEU2Q3JsQXBVTm9QbzMtNHY5eEVhbXg0VmxZaVZ0UEV3WHNwS0xhaDhrQ2UwWXRCMi0wWnB2MlhnaVFQbEp3WFpiRUJ0WVlYTkJvYmJiOG1zNW1wYVJoRW5RMGxRVG1kRXdmb2tFQ29oekdwMHFoSFkzN0lud0ZOcFlUM2lOVVBReE5tUmVFSDJ1ZHHSAYsCQVVfeXFMTU40WEx1NVFBVDk5V2RwSVZmeDgyYUNfSmMzSF9zOEFCOTJTMTR5T0VDM19IU01ZZEtjYWxBZWI0bXhMN01hdzdjVlhxdVliTWpkMlNyX0ZjVHdtQ1NqX21wQkFkVDFKaDRlZnktUEwxODRNT2NleUU0TmlVaXlTMUZyeTFjenZibEhWOHdlS2gwMXh6aTVYYU5wUmhTZmZlVDlVV3QxZk44djRLeEcxVVlNdzdrNFRzdl9xTnJ1V0NUamFLMkVEWE0zdkVjaG9KR0xtUGhLbFNaLUlKR01WZXkzWnlzY01DRk9OQ3U2eUl1T0xKREFoemdpWHllMEp2MkprMzdYUTkyN3Vz?oc=5",
+        "date": "2026-07-02T18:21:50+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La Ciudad lanzó BAX, una aplicación con inteligencia artificial para unificar trámites y documentos digitales",
+        "description": "La Ciudad lanzó BAX, una aplicación con inteligencia artificial para unificar trámites y documentos digitales Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb3JFRFgzVzNQdXZFVEozVmN1Qm5oSHYtcnVfYVpmT0Y3WVgzUFlsMUJBQlI1Qnc2SUxSR3V4ZVE2TE5aREZicWxfX05YV3MzdlU2UTdjOW1sSDQ4MFV6TDJQaDlnZ2lORW8zMkJIWUJlUkJCaGZSZGd2WXN5UDJXMnE5aDA3WDdEQjBLdjJTUVlBaVBxZUIzaldscktXY1BwUXhmbnFuRnNXQW5IZENhTmU2amc4WTIwOE95SmVGM2VQQVlDTXNqa3lIVVJfWXplajVrUnc0YWhZR0thaHRXOGRnRW9tXzhTN2lV0gHwAUFVX3lxTE4yTlVidEFobVgzcml1c2J6VHdCeDgwNTNRWVpfckxPdlducWlvZWhvN0Q0NWZwelNYWkcwVWpTTzVhWEFFVnQzMEFJOUtiOGdnRnoyUnpzMEl3Sm1NZmFSR1lob2FHMVItQlFfX3c3bUFyalJTbE9QSUNTMDQtTnAwRzk5b3R1UnNUTFFHTzFzTDBxX2wyaTV5dG96VzZERHFac1VSM0FVZDcydjZPcEdHRzh5aVZ3YkpoZ09HU1NLb0hQdkVRSGpMazB4QUxHWHhyc21heGVhaDJuX0FqcGViNktMX3VaRmlicElfd3FnSw?oc=5",
+        "date": "2026-07-02T15:18:10+00:00",
+        "source": "Perfil"
       },
       {
         "title": "El expediente empieza en una decisión: por qué la inteligencia artificial está cambiando el derecho penal",
@@ -133,25 +147,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Una universidad lanza una maestría en Inteligencia Artificial",
-        "description": "Una universidad lanza una maestría en Inteligencia Artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlJtZFBkQkFpZWdybkNXU19tNDVyMV9abDJTWmRrZ0wzYkhkT0YtaFFFRkNPeUtXTlRCYUZzNkJGcVVaM1pOSzMtTGkyWlItQ0x4MTFYenQ5R1RqSkVPVTZvNU5YdTNIR29qQjZ4cE1nbXBNMU5Nc0pYZFlLNG82RzVTWnR4Sjg2UV9uN1lEWTdxUXVvZWE2SUNsaWZybVYyTHZlV3g2dU9hX0otcFl0eQ?oc=5",
-        "date": "2026-07-02T22:42:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "La inteligencia artificial no despide",
         "description": "La inteligencia artificial no despide ATE PBA",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tSm1VYjViYXdlSWd6eVFRQ3lZYUJUQ0Q2UG9wY2xBQVZQLVZuSE45MW9TYU1JbEhqdDRqOFZyV3cwb19renJxWDBnZFpEbkc3eUNZbmZFU1VFVVhLQ1ZIUDd6clFIRzNCVjhoRHp0WjNjNlc3OTZ4TjVn?oc=5",
         "date": "2026-07-02T17:32:51+00:00",
         "source": "ATE PBA"
-      },
-      {
-        "title": "Conferencia: “Custodiar lo humano: inteligencia artificial y justicia”",
-        "description": "Conferencia: “Custodiar lo humano: inteligencia artificial y justicia” consejo.jusbaires.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2NEVlRpTVhoOHYzbmZaYnYwc2Q0T0Y2S05PcVNTVXNHdExUMGwxU1pqTU1LVWJzdHlXOXZodkNnZjAxWk85QkQ1Vml4ZTJBa05NamJGczhqMkhZMm9VTC04QlVzclVyQTlON2I5SDRxWlc3bUwtT1VJal9wUWNkQ2NFRDdsT3o2WmNZLUtJMHJRYlYtN2lpcENzZkhhdnBCU1lERHFoekU1SFg1a1E?oc=5",
-        "date": "2026-07-02T15:08:58+00:00",
-        "source": "consejo.jusbaires.gob.ar"
       }
     ],
     "Vaca Muerta": [
@@ -184,18 +184,11 @@
         "source": "iProfesional"
       },
       {
-        "title": "Horacio Marín, CEO de YPF: “Argentina exportará US$ 50.000 millones en energía desde 2031 gracias a Vaca Muerta”",
-        "description": "Horacio Marín, CEO de YPF: “Argentina exportará US$ 50.000 millones en energía desde 2031 gracias a Vaca Muerta” La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajBIbnFrM1VEeWotWTgyLWVZcTNRWXFNQ28wamQ0aFVLU1F0Q1VuNVJNMEVHbkFqM2VtaEl3alR4QzlNQi1CbjE4VFhITmJScndXYUhLQUF5YTlMYWYybHEwZ0ZOYWVwRnozRXlZRG1Xa2twQU5KdDVmUmw0dWF6cnZKbTFjWkoxWHJiUnpMdnVuSy0yLVMySU9ONUFCSHlzUkVMWWoyWlhadUVKcFJtcXpRb1V6blpJQ2NmSW1PTFNjdC1fTWFuUUlFQ1JTWmJTQ0tWcmxTMTNrN0s4?oc=5",
-        "date": "2026-07-03T16:41:09+00:00",
+        "title": "Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF",
+        "description": "Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ29BYkVYS2FiN1dDVnl4Zk1SY2llWE9zaERtZi1lcmZlNHRXSm1rYVJZWkF0OFFmT1MybGVlYzBmWnFhdFVWZ2d6aDI1ZFE5emVfcm1ma1pzVGo3Z2lmRDZhQm1LQnNKbTkwTTNtRF9hZGdDdFE4UFczYi1hRGp0ajNQc1pDY3BrQlp0RG51M2tsUUhBWVVHZzRIQUxKeG1oZWc?oc=5",
+        "date": "2026-07-03T18:26:48+00:00",
         "source": "La Voz del Interior"
-      },
-      {
-        "title": "YPF prepara un salto de producción en Vaca Muerta con 19 perforadores",
-        "description": "YPF prepara un salto de producción en Vaca Muerta con 19 perforadores Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDVPMVlCN2xHaUE0RWM2TkttZThjTVcxU21wS0NodTZoc2xBOHhxR2JfZDdYSnBFeGExV3dFdDdYdFdnSmU5Y25tNmFxMzBGS2VVOGhRVWI2aXBDN0ZrTUpvaVh4Yk5ERWpOcS1uM1N2Z1VVelk5aUNjLXNRTEMwT0dRY0hpMXNIcWRWb0J3RDRXam9IM1EtU092eUVuNWYtWlpfRXVUdmp1d9IBrwFBVV95cUxQM1plQnI0NUxDaWI3eGxkbk55VlhZZXNVakw4ZV9aOU02djdwQ3ZnMGVQS3Z3MWtyVzNaeENYYXVGLUtJanpRbjBXYWZ3Q19BZFgzWkhIdlpCenEzTHowXzNDLXdaWXBUYU53SGN6WFpFVFV2eUl1MmxyTzY0YW5IZ0tBbEYyMEstamlmX01seGRXRERBUnZTUGlFeHYydEJ1TGVPQ1dZT3pmcEJVWHJR?oc=5",
-        "date": "2026-07-01T14:29:11+00:00",
-        "source": "Lmneuquen.com"
       },
       {
         "title": "Roberto Salvarezza: \"YPF abandona el LITIO por VACA MUERTA y nos rifa como COLONIA\" | PARECEMOS BUENOS AMIGOS con Eduardo Médici y Gonzalo Ochoa | PBA",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSEdFUHlFOEdLdDhZV3pfWVROSFkzRXUtR3NwSEFVMGZCYzB2T0ZmNnowMWNLRmRNWEhmLUFoZVZwZE9mU2wyTVNMUUpKbWxtMjRoNkpFdUNiZ0Rlc01wa3ZjR0JDYV9vemtCUWF0R3cydjFIVXpWc3pRS0hhVFBjbDBiZlllM0xtQ1lUcG11cjR5bTVxRXdGM3AyZkZCOGRuWjVsdmZXRnRmWEtuaV82NU5WQTUtbUNIdTFfRlhYRUxJd3R5MUx0SGpaVkk1SDJPdkJJY2dhbzZjbGVkUE95bHdxZFF1dUZPVmhJbG9qMU9ESnprNVRJUFVqZUk3NnVxcVB5Y2RLNUtnd1J6ZGpOOUM1NHpkMHdpU3NCdU50bXBsa3pKQnU1M21B?oc=5",
         "date": "2026-07-03T14:21:45+00:00",
         "source": "Infocielo"
+      },
+      {
+        "title": "Vaca Muerta generará 90 mil empleos y exportaciones récord para 2031",
+        "description": "Vaca Muerta generará 90 mil empleos y exportaciones récord para 2031 Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0R2X2hPVUtvVmswWDFCTk1WTVJ4THhZNGcwdlh5d3oyRGdJT3dZeTl4cGQwX0E0aUdMZHE5dG9ZUHhSdy16S3NjaUxVVzk3aFhRclpRLXJlU0xwZ0JZczdvM0lQMi1paGk2Q1dTbVNHWTVSOWtMVjg4YmFvbE9SZkdtWW5LRDJFQ1VxTE03RGNBTW95cnNXcm1mQ0hpVk9sUTduSllmbHFHM20wSFBWbkxBQU1YQU5ScXNmX3h3?oc=5",
+        "date": "2026-07-03T18:45:00+00:00",
+        "source": "Cadena 3 Argentina"
       }
     ]
   }
