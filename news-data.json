@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T07:57:50Z",
+  "updated_at": "2026-07-03T10:37:45Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,18 +10,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Un empresario indio invierte 30 millones en una alternativa a Microsoft Office",
-        "description": "Un empresario indio invierte 30 millones en una alternativa a Microsoft Office Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVjBiSTliZFdTUDFuUkxOTGtWN1cxdzA5OVB6cURwOEQ4MkVWSEZXbEVrd25CX1RtS0JpbjhzekhpelFsMGNNeU4wNkpob1NhZHZpY3l4Y3F5cVZsUjBtWmRseHA2VUJpdVVXTkNjWm55SXF6anRVanpodDlwdjZHcDhsWURWRjBZc28wSmI4emFsaEJNUnV5TnNrRmtKVWNkU21qSUR5RnpRTkpNNV9idk9CS3AxbnFUX3NhUkhxY2NqaFRCSG0w0gHMAUFVX3lxTFBfM0IzTnFzZUdoUndCcm5QWE9TT013eUhhOTFsTXBFVGJubl9NVXdpVnVPcFpxalM4alNEYWR6SDl2SDFqclZTV3NtRy1LZmt3aHFrR2tNUHR3bUQ5ZkRRbW5YUVJwMmhZdXljNnpKZGg5VDNHT2lhY3BDcTFUSnJGX3hIMUZGMUR3ckMxVDhMcVRrOWo0UEdxUlhlMy1wVGhHdHlUR3NhdU1uVjlIYU9FOG5uNXpvbnhuOFdlNkVxTFlrVTF3R2p1VnZ6VQ?oc=5",
-        "date": "2026-07-02T09:08:03+00:00",
-        "source": "Cadena 3 Argentina"
-      },
-      {
         "title": "Qué está pasando con el posible cierre de Obsidian Entertainment ante la aparente criba de estudios que planea Microsoft",
         "description": "Qué está pasando con el posible cierre de Obsidian Entertainment ante la aparente criba de estudios que planea Microsoft VidaExtra",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnV2QWNKMzI4ZnhnREF3czJ2c3AxenRhZGpaZ1NVZXlwZnl1N2wyTnNPcFJJcWNHNDF3RWptZHRCdnRXZDFydFRUX0IwVFlhZkRIMURYUzFERGxMYkFvMXFvR20wbTlJQV80andCNHhZNDJjUlZYbHdkbWRYX0Z1N2x4b0xkRUNUOGVqb003Yzd2RmFtWld5VUdrUFpEeU9DTkRhcmVFTVZtMkc0UlFRMnlIT0VkZUQteFBjcDRwMXhNUTMwa1VTQUY4UEFnOVFp?oc=5",
         "date": "2026-07-02T15:10:30+00:00",
         "source": "VidaExtra"
+      },
+      {
+        "title": "Un empresario indio invierte 30 millones en una alternativa a Microsoft Office",
+        "description": "Un empresario indio invierte 30 millones en una alternativa a Microsoft Office Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVjBiSTliZFdTUDFuUkxOTGtWN1cxdzA5OVB6cURwOEQ4MkVWSEZXbEVrd25CX1RtS0JpbjhzekhpelFsMGNNeU4wNkpob1NhZHZpY3l4Y3F5cVZsUjBtWmRseHA2VUJpdVVXTkNjWm55SXF6anRVanpodDlwdjZHcDhsWURWRjBZc28wSmI4emFsaEJNUnV5TnNrRmtKVWNkU21qSUR5RnpRTkpNNV9idk9CS3AxbnFUX3NhUkhxY2NqaFRCSG0w0gHMAUFVX3lxTFBfM0IzTnFzZUdoUndCcm5QWE9TT013eUhhOTFsTXBFVGJubl9NVXdpVnVPcFpxalM4alNEYWR6SDl2SDFqclZTV3NtRy1LZmt3aHFrR2tNUHR3bUQ5ZkRRbW5YUVJwMmhZdXljNnpKZGg5VDNHT2lhY3BDcTFUSnJGX3hIMUZGMUR3ckMxVDhMcVRrOWo0UEdxUlhlMy1wVGhHdHlUR3NhdU1uVjlIYU9FOG5uNXpvbnhuOFdlNkVxTFlrVTF3R2p1VnZ6VQ?oc=5",
+        "date": "2026-07-02T09:08:03+00:00",
+        "source": "Cadena 3 Argentina"
       },
       {
         "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
@@ -45,11 +45,11 @@
         "source": "Notimérica"
       },
       {
-        "title": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor",
-        "description": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFaOXg4MEJuVTQ5dDZfSU5pRzJjaHpvc1k2b214ZUJNQ2tmem5jYXlJX01ZdTl6Si1qRU5mUlNnNk1vT1BXak8yejFTX21PbUtlcEt4UjZSYmhYbmg1S1Q2N3ZWNzlGcWZDZ1FJRTFWdENBeTlPR1RsakZsNDh4U3hPeHFuWUFxenBCeld0RjcwSU91SmwxOHlSM3lBY0JIRlAtdlR5QUpyelRtRmhtQzEzemxBbWJS?oc=5",
-        "date": "2026-07-01T19:54:05+00:00",
-        "source": "MuyComputer"
+        "title": "Microsoft planea miles de recortes de empleo, según Business Insider",
+        "description": "Microsoft planea miles de recortes de empleo, según Business Insider Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbnNha1BNcTRYbFl0a3JRdnY1bDJ2R3BUczlkZGJqY1NQSmNIZVZlZFpuUXlyU2N1SGFsQmpLVXJmLTdfd0xpempDczMxWGpvb0x0RUwtaTl5djBibGJZWkJ2LW5BVlFtemNkeExkZ2RWNkpaMDJBbUV0aFplajdFanBwXzdFNGhkbktEZW1Hb0lHTFdadVdpZmotLWE4T3VCNnFodmhhZjVCMFhlNVF4bTlmR0V3Ml80eEJubmdvOUQ?oc=5",
+        "date": "2026-06-30T23:19:00+00:00",
+        "source": "Investing.com España"
       }
     ],
     "Marketing": [
@@ -126,25 +126,18 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Las tres acciones atadas a la inteligencia artificial que ocupan el 40% de la cartera de Warren Buffett",
-        "description": "Las tres acciones atadas a la inteligencia artificial que ocupan el 40% de la cartera de Warren Buffett Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTh0UlR2Unp4aHBHR2Z6WTVIenV2OUtGLVNoUkhtYmhFVUFmamRtdkFkTVJJbk5fMzVLRmc3ME81TmJNQkdNRXE2SkF6aVpaVlFod1dLWEZwVC01VEVQNGpGYlVzdUNuRlVaWklvMDc4c0dZTnh3VFFEYkZvYi1FWXZnam5ELXU0NkdaX3ZWYmthdHJxRVBaemtfT2hfZzFGR2ZOMzlWdXhadThzU3NTdktjaEp5cTZ6WXF5TFFsdkMxWE4xd0t3WUp2a3NDWW1u0gHWAUFVX3lxTE1UV255NUhoRGxuN3ZYSmFxRWgyUnp5aGhnS1d6X0NTdE1PMmtzVVFJZ3JZRkVKWmVrc1JORTdiTmEta21zTjNoZERSeXlWMjBSd1M2TmlMT2dLUlhRaDZvcEFOOUl4SXBiSTlLZVZZbDdxb3pQU3ZvTUFzMUtzdDVfblpZNWpndDZabEMyRE5qa20xMS1ScGl6aElYeEZscHVVVnJZTWxMaFc1bFNtTzYxYldoaTlxSmpYZ2dyODNMVXpfWldoenlfdk5TRUdlRk1ZUTdmSnc?oc=5",
-        "date": "2026-07-01T22:38:00+00:00",
-        "source": "Ambito"
+        "title": "El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial",
+        "description": "El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dzelpVckJGR19vWWhtcWZZTXRja0x6Z0NDMXY2VEVZU1Qtb0ZhSjNxVHVvd3Fzc25xc0pGUTBGeWRjZ1pRbWFrSkxQUlZuVkIwY0xXblJGTGVoVXgybEtrRllVNnR6d0puV3FMUXh5ZDVyN05rdDRiNDBTc1B6aXFTVmFSRGNaZjIzQmFuUnNUQjlLRUh3Y2JfVEIxVkwxRV9SYnozaXNtcjVzRTZQZjhwdEVqcGgwdmluRjdWVXBhbWVMcThYSzRUUk9iWTRueE5RSG40NE53QUkwQWRZ0gHkAUFVX3lxTFBxT1Rha3Fpc0tuZjIxN19TTnl5X2Naa2FMRlBqdGd4UGVNbVR1QzRkMUV3WkdNSXVXMFRJb2piVHNOaUdSZDZkbk9TMFRyd2xPVV9lWmxHMkNwNm5HMHkwVS1oRVN1VGFZb1V4OXF3NjU0cHpXQTlKTFF4T2xHSmVDUlZ5LUxpTkZvVG5NdThvVE1LWnh0Y04yUUEteVVrMUUySFFpdFlVc1h5N3NqSjJ4bktCZWlIN1Z1ZGhNV2dpajVjOFNIMTJRWmFWZzVpTjNKV3BxTFZvT1dVWkstWThKek5CYw?oc=5",
+        "date": "2026-07-02T16:01:54+00:00",
+        "source": "Xataka"
       },
       {
-        "title": "Jodie Foster, sobre la más reciente película de Brad Pitt: “Parece haber sido hecha por inteligencia artificial”",
-        "description": "Jodie Foster, sobre la más reciente película de Brad Pitt: “Parece haber sido hecha por inteligencia artificial” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQmdjX1hURGRkX2V1RUR1TVRYZURPOHFyV0pveS1aM1lDR3gzeklLTHVzTFRLeEpwMWYxbVBxT0lMcDFYTFpoUVVaRURSNXZJdnBmb3BPdnZxRDNJSlhDMGNJc2o3WjlMWUdpQ2d1TFRhaFdyOGZhb1JlREx4ajYwejNpaGdNamVHT2c2aHYtZnhwYjRvLTRGNVZNTFI0R2E4djEtVUJZUVNEVXBTekwyOGFWY1huZGE0bUZJNWVwaS12UmhxallFcXZkUWd1X0pudVlLbGV5V2hrZTdPQUN0dTZoN0NET2NLVWJ4MFpReWxidWxu?oc=5",
-        "date": "2026-07-03T06:22:00+00:00",
+        "title": "Una universidad lanza una maestría en Inteligencia Artificial",
+        "description": "Una universidad lanza una maestría en Inteligencia Artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTlJtZFBkQkFpZWdybkNXU19tNDVyMV9abDJTWmRrZ0wzYkhkT0YtaFFFRkNPeUtXTlRCYUZzNkJGcVVaM1pOSzMtTGkyWlItQ0x4MTFYenQ5R1RqSkVPVTZvNU5YdTNIR29qQjZ4cE1nbXBNMU5Nc0pYZFlLNG82RzVTWnR4Sjg2UV9uN1lEWTdxUXVvZWE2SUNsaWZybVYyTHZlV3g2dU9hX0otcFl0eQ?oc=5",
+        "date": "2026-07-02T22:42:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Del sketch al render: cómo integrar la inteligencia artificial en el flujo de trabajo",
-        "description": "Del sketch al render: cómo integrar la inteligencia artificial en el flujo de trabajo ArchDaily en Español",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzZCRGV2UXBZalM1aW44VHpSekQ5T0E1YTRLZFVIY1FsQ2xxWVh6RlJKalY1YmJKUDVMbkVlSjlzb0xfNktLN1JKYXY1X2M5V0l5d0VVOVlwVVIxOVluVUZTVmdEakREY0hDZ0hjR3Nab0RpeUlVSmhNcldEZkRPczd5anFIbEVac2J0VUk1eGZDZWpLLU1TTkZEZFQ5a0RpMDFtMUVEZlhraVd6UWc3NmVSQXZfQksxRU5wag?oc=5",
-        "date": "2026-07-02T08:00:00+00:00",
-        "source": "ArchDaily en Español"
       },
       {
         "title": "Inteligencia Artificial: cuál es el verdadero origen de las respuestas a nuestras preguntas",
@@ -152,43 +145,29 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25QR0s5MGNHcGV4cHFqbzJqUUxKXzJmNnhqUHlfeEs5ZlpHNElWb0ZSeWJBczZNYzVVanFfODd3TGhFbHhhTkMtelB4czBQdkpiS2RiMVItakRfOENfODl1bkt2LTVuSU0wQ2VWNFZqbUdaVGFOeDZuNjhhXzN6RmI2Tm5WeldPSlZCTEEwb0dEVjJQd3JWYUlNNGthV3VPUEVqRUNoTlhjQmvSAbABQVVfeXFMT0pNMHhxSjRvdV84cnVxSm15NU1NdkRHeUgxaXd6LWUtc0hvTFdsRy00ZHRHTDVoNGtLSm9IRFN3MnhpRzRWYUpQVEljMnZXOU1odldwSnZNZjVBWkFwYTFJYVFiQTlRMEdLZkZxV2RGdXF5UnU2VGhnVUpDQlBDbm9uQVFIUWFVZDBES2RSdF9RLVNFNjN0ajNSb21PVGVIR2xkWUFoMzRpWG1sUmtIaTM?oc=5",
         "date": "2026-07-02T09:01:00+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Conferencia: “Custodiar lo humano: inteligencia artificial y justicia”",
+        "description": "Conferencia: “Custodiar lo humano: inteligencia artificial y justicia” consejo.jusbaires.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2NEVlRpTVhoOHYzbmZaYnYwc2Q0T0Y2S05PcVNTVXNHdExUMGwxU1pqTU1LVWJzdHlXOXZodkNnZjAxWk85QkQ1Vml4ZTJBa05NamJGczhqMkhZMm9VTC04QlVzclVyQTlON2I5SDRxWlc3bUwtT1VJal9wUWNkQ2NFRDdsT3o2WmNZLUtJMHJRYlYtN2lpcENzZkhhdnBCU1lERHFoekU1SFg1a1E?oc=5",
+        "date": "2026-07-02T15:08:58+00:00",
+        "source": "consejo.jusbaires.gob.ar"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Vaca Muerta pulveriza otro récord: el fracking bordea las 2.800 etapas",
-        "description": "Vaca Muerta pulveriza otro récord: el fracking bordea las 2.800 etapas Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRk9KdHZQY2xteFpuZDZqb2xQdHNHNEtMQXM4Z0VvU2pydmNldlMxblhIaldDVmx5MEU3NmwzakRHOEY2UFpCeFUxYlA3TlJwWXhIUmpYTWJJOU0xeGhTR3FSV2FfbHg3QktFUlJvUTNkUzNJVWpCdGlKWm44R3JiTDV4SkROUjdfVjBWbWt6X1lYek9aVExub3gxM2lSMzBxMDdpNlIzQW90Z1NUSGJrYlI2YmM0Z9IBuwFBVV95cUxPOGVkcXNVb2RnUnoyWTlRQ1hnZEFMX1VsWE1xZTJmMzR4cFQtTEt0RUR2QzZWamNQSlRLTDJhNWdMRlV2M2FTanBPUDA1UFVtM0FGa3F3YVliZUdvcVFqSjU1LVVXbkRveXE3RHl4aHFaM2ctaUNkR1MzczNzbFNFa09ybXZpZnhnVUFxY0gwMkdYekJ6MVJiRVFRell2NGZhU0dNS3g5VkdFSHVWODRqVExYRjZFcW4yV1BR?oc=5",
-        "date": "2026-07-01T16:12:13+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta acelera su actividad a niveles históricos: 2.760 fracturas en un mes",
-        "description": "Vaca Muerta acelera su actividad a niveles históricos: 2.760 fracturas en un mes Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNm1tTXhyRS1aZ0lEa3Q2bUFqY1FzX183SExRX3ctYkdCV2JBejZfMTRKU2NDQXgtc2V1VGZ4dEJJVmdNR1BvQnNTY3Zlc1JoTjlCdTEyMTdxSnBIb0xQSUYyeVNMS0gtTzMxam1IZzJfbV9GZUZaS2c2ZlhRajRSVkVtaG8zMkZUMTlYMUJWU01fVWtXdkdYVmtxRldiTC1HQlgxN0Ffa3VScUlCdmIwTDRRaXg1dTRSbnZLdlk1YlBud9IBygFBVV95cUxNRENLeFFMNGxTdm1JaTJEWGNHSy1NenJGOXN5WDhueVp4NGVxVFdXQUZ3OHZCeWdGcnRDckpxUlpQSlRsRjFsazRlUFBCTHlDTE9fT1VhZjV3T0J1cWNaWGhzOEF4VnZDTXZJU3I4Mmh6V2VKeGxhc0tVZ3Q2WEdTbU9UMUZnRnVZVVVid09JU2ozYzdZR0Nxa3hmYy1CWklHS3NEN1AxZ0R3dWprZHJwdlktOG9qWmV5UTZtTFp5UW5lZlRjSURnc3dR?oc=5",
-        "date": "2026-07-01T17:00:20+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Vaca Muerta acelera y suma récords: ahora alcanzó el mayor número de fracturas en un mes",
-        "description": "Vaca Muerta acelera y suma récords: ahora alcanzó el mayor número de fracturas en un mes iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHhoVklGZmYwREZ1T2tGaTlkQXdHaEI0bW02cE95bUNaT3lCcFlLZFpSU05OYnBDRldaeGNKSnR3bExuMmRRNEpsQnhMWWU5TkV6dkszSHVhN0t2UGhzNFhXeU5YQWlRaENnUllKeDhYeVUydVF0ZzJQNTdmUnROU3hJajdGNEJEWFk3U3dOYmlOMzFrNV9tYmE2WW15c3VhNG1VYkNQbzVYbGtmMnhZbThuQnFsZjV1eENRYzhuTndodXpRS3loTUhNTdIB0AFBVV95cUxOOVZyRGJUODk1cjFDOElhTXFMOGI5S2NkNmwya3B6RDdHNFA4VF9yOFI4amd0ZXJHZG55S0d1Wm1zVTJfSlh4c1FTU3VaUkd2VWtlRnl6bUFzeHptOVZSdFRSelc3S2drd2dXUUNxOHA3YUY5bkJrUnlZTmlnb3JpcGlRV2h6R0tCVnBpS0JYbWpHNUtTaDZESVA4ZlhGQ0s0dXVhYVkyOVVYdWlFRHBSUmVkQmlpcHZWQzBrOWxlcmc3dHZLcmRDUXozUloyZGVk?oc=5",
-        "date": "2026-07-01T22:15:00+00:00",
-        "source": "iProfesional"
-      },
-      {
-        "title": "VIDEO | No encontraron petróleo, pero hicieron negocio millonario alrededor de Vaca Muerta",
-        "description": "VIDEO | No encontraron petróleo, pero hicieron negocio millonario alrededor de Vaca Muerta iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGotc05ROElGWnQzaC1nTWRUYnZPbVhPVHlmVjBERTMyaE9WRGxlelVxMnh5MWJQZGVVVlpuTEFQem53eWtIYVQ1d3A0enl4Q0NKMGNuZU5NMFdGS3lKWjBNZXFtZll3TlQ3ek9Ob09pLUlRV0pHNnZqeUxickFXYmM1ekVhZ2VidTEyNk5EeUZtNkx5c1RDRnN4VzdHN2tNNWdpSGcwMTl0T0VfTEJzNXhjOGVjaFBFNFJJSjhIZG8yb1g5QVNIOdIBzgFBVV95cUxQNXZ5SHExVG1VZlZzU1pzMWliUWNkQUVvQTZLXzBoR0hCVUprcW92V0dSNWI0ZkRCRUc0STh5cE1hMVlSYkZmMDhjMnJQRWlYWXZ6N3hPaHIyTTB1ZnJ6NHAtejhIRFB6QXdueDI3RGMwY3ZTRXlRem1iSXI0eEN5S3FtcWlWWUM1Wm1ERU5xT3Z6YWtJQk1rSUhlRm5SVGFSSU9zcklXU1ZXWUVuSTc1Qk5ISVFHZkxWeVFzYTFZNHFCUjZEV0U5R24yNklKUQ?oc=5",
-        "date": "2026-07-01T21:23:02+00:00",
-        "source": "iProfesional"
-      },
       {
         "title": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC",
         "description": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTU5aWNDQWRFdmJYekIyMUV4OVJZQUlEZkljY281MEt1OE53UTU3SEk3bGk0Ujc0aFNZbFV6dzJRZHhzREVBSTduOXZPOHhMZnFuRGwtSXQ5QWJJQV9kblB3eGFEbjc2bkE4TThkTTdLdmlRRGVRQjlYbzIwb1J6Tk85YUllZmNacTRZRFVIV1p2LXd4dEhPUFZDdzA2NW9zM0FiMVZqOVFHZjFIM2djdEdBMmQyM3dsMzBLdThYV09Ud2Z5S05zQTVlbDI?oc=5",
         "date": "2026-07-02T09:01:01+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "YPF evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta",
+        "description": "YPF evalúa sumarse al negocio de los data centers con el gas excedente de Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX2JtM2tKZlEycXVrNG9XUG5sWjB3ZmdNTm41UERmZUVIc3JIUGlEeWpwVC1RSUQycE43R0dUcFEzT3BXX0o5QTlLc1NDN0ZTdDlTUE1zLWNSczYtRllmd1BnQTlzS1lOekIzR01HZmt0a2Q3TG5jODRLQUhMVlBkYkdhamF0Z0FhRHZEbEJOZ3VHTXdXNl82djg0M2FEMFBEaFJRNXR1Q2VOWXloeTZIN2tIMkxDX0xRWjNjdHpGMEtYd005QWVBWnVVMW1kTmQxd2hKVnlvVXk5N2dw?oc=5",
+        "date": "2026-06-30T19:27:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta",
@@ -198,11 +177,32 @@
         "source": "La Izquierda Diario"
       },
       {
-        "title": "Vaca Muerta bate récords, pero igual falta gas: por qué Argentina importa y la industria sufre cortes",
-        "description": "Vaca Muerta bate récords, pero igual falta gas: por qué Argentina importa y la industria sufre cortes Los Primeros TV",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYkVIX1FlTnJRUWM3Um10c21TVWVqU1BZYmF5SzJXUGpDdkpYdGdlMGYwSU51VmRYRzVPdV8xT2huSWxNNFl6WHlDZ2JmVmtkVTRuTGZUQkk4N2czYUpMY2p2MzI4YmVHaVBCb0VpYWtZb0xVSlBFNXNnTnRPMlgzdzJrX1hXLTNWX0lZeXdTM0pDZ2hLUUxVdTlqYVRWYVpibi1Sclp4WUdHSWtHNlhRWUZGcmlOMWdiVi1IVzdYMHp2ak1GYUhKVmxiTDc5eUI1WlVFM1R5UHpjN1NKeXJTS1BQWnc0S0xOemxwYWNWa1QxWmFRNHU0?oc=5",
-        "date": "2026-07-02T15:35:26+00:00",
-        "source": "Los Primeros TV"
+        "title": "Con gas de Vaca Muerta: una baja de las retenciones apunta a un negocio que miran grandes jugadores",
+        "description": "Con gas de Vaca Muerta: una baja de las retenciones apunta a un negocio que miran grandes jugadores La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0otbTZpU0VSM2hFa0RlN0JRMGRoSDE2ZlhUeUJQODVFMTFmMTRlRkgyeVdZTEpHTUVJMjVFR0hHeU0weVI5Rzd6ZzA5aWwwT3lFMjF4Z3VGYkZPNVFXREZmVE1lVzhaUE9jeDIybnp3Z1l6M3pQWHJ2R1pMVnlOX2lTUWpZblVpQUNLeW1GVjE0WTlvb3NWOG5zdUo1ZWlYZ2ptMmxHbXlIYjJ6bk5pVWNXZWdjUlRKZkpaX2RDQkRQVTZ4LVVZMEJ3V2JiREJ0Y1BQZE83TmVLd2VDRVFWUG5CX0pVcmlGN0E?oc=5",
+        "date": "2026-07-02T22:13:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Calfrac Well Services Argentina y un nuevo hito en Vaca Muerta: su línea de Operaciones de Wireline",
+        "description": "Calfrac Well Services Argentina y un nuevo hito en Vaca Muerta: su línea de Operaciones de Wireline econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGF3Z2Y4bzhUN291WEI2b0FNZXE4RnF4a2tkV1BxQ0hxZHVvYlR6TjZYNkNVM1ZuZFkwZS1ESGlnNXk4WmEtdDJaYnRnaDZOX0ptWml6U2kyNUpvQ1ZSU2tkaGFVaFpiUWJGU3FweGhrdzN4Vnd0OGt3UnlzZ0lxTTBUZ25GdHRseXUtRm9yUG9hc2FkV1FycTJCRl9oVVNiR3RyNWZ3ZHBtMWFkTm1GSXBjVnZCX0dHcDQzUVN4SG1odUlNYWY2WFJrRDZPVjY5?oc=5",
+        "date": "2026-06-30T19:50:16+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "¿Qué pasa si baja el crudo?",
+        "description": "¿Qué pasa si baja el crudo? Página|12",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80eE01ckJXYXA5dVM4dTE1dUhqNWxxcmdPdGFTUlkxd0NQbDhtYzVSOXVoMk1KUDkwWUlEU00tWHFSVUVRNGFHdU4wZHgxNUY0XzJ3ZmlrVHV3aml1Z0xEWUIxWVFENHIzaUlqWkNJYlBJNG8?oc=5",
+        "date": "2026-07-01T23:01:00+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Estudiantes argentinos ganaron un certamen internacional con un robot de perforación inspirado en Vaca Muerta",
+        "description": "Estudiantes argentinos ganaron un certamen internacional con un robot de perforación inspirado en Vaca Muerta TV Pública",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNXzYta1lodjBpQU13dmNMZ2VvQWFfV2NFVFFTb1hIekNCM1djWUlZRFNDYnNPWThtYmpSb0V6aWw4REtIZDNsVHc5amlLMVpsXzBvdk8zeXczNzduMEhkZ204aDlYVkQ1dVdoTGsySzE4b0RSUGlWb2xMaVdmb2FwWUJvclljbWoxVmg5dWxsMkJYUm9OY2sxVENxQUV4WjBMSXZ6UnQ3LTBMVDl0a1djT3lDajBNNzYycG5CYmFLemRZcWQ2TzU0T09xQS1qZ21lR2hzZF9YTUtVWjU1WXlsSlJrakF1b1l0eGFfS1NNS2tEVVMwOWV1aWlYVFM3Zw?oc=5",
+        "date": "2026-07-02T19:09:14+00:00",
+        "source": "TV Pública"
       }
     ]
   }
