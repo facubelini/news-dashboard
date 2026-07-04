@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T17:04:44Z",
+  "updated_at": "2026-07-04T19:02:13Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,13 +8,6 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
         "date": "2026-07-01T22:29:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\"",
-        "description": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\" El Mundo",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2hnVGZqMU04Q0k2SlZMN1lVUDNLTXRqb2c5bVJMdXh3YVAxZHg1bk4xQWVwVHBUNEVfbUNkNlVqeFdZQUt1N21OTHJLQWR4ZnpIdWQ3UWdaZkJTenZhX0JhVV9PN1ZQeDBUbUktZDYwUk5CVHVoWVZqcWhvRHVGVlVDWng2TWU40gGIAUFVX3lxTE1MYTVEcHVsQnFkbjAzbFNna3hZTTRvV3FpTkljTzlrNGxiX1R1RGJNNDc2SERzeHB2QW1jMVNOQVVTdVBpV2RHUGlaSEc4NXZrWnNfeHh0ZDRDdmdBZkJXcmw3azY1dHB0a2ppaTlSSUE2dG16aDQxMnhVQ3RubFJWTV82dzNfYVM?oc=5",
-        "date": "2026-07-02T22:01:00+00:00",
-        "source": "El Mundo"
       },
       {
         "title": "¿Es suficiente Microsoft Defender para asegurar los PC Windows?",
@@ -49,6 +42,13 @@
         "description": "Un exingeniero de Microsoft recrea el Bloc de notas en solo 2,5 KB MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlJSekVIRGgxTWQtYnpoUlkwc29LWjRscGlFeU1HZVVLWFgtWTRxZmM5V0RlcE80bWhHZzlPcTNFZDB2TnB3UF9ZSXp0SGhlaVdmX0Q4SV8xcnBRUGdjY09La0k1a3gzNEpobjZEX0Etd0FuSm5IUlBjbE95elV0enZWNlBVNU9yV01FY21sTGwzSTBGSjA4bUlkRXRReWNBTS1OclZGY0E?oc=5",
         "date": "2026-07-04T11:20:49+00:00",
+        "source": "MuyComputer"
+      },
+      {
+        "title": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor",
+        "description": "Microsoft mejora el menú Inicio de Windows 11 y anticipa una renovación mayor MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWWFaOXg4MEJuVTQ5dDZfSU5pRzJjaHpvc1k2b214ZUJNQ2tmem5jYXlJX01ZdTl6Si1qRU5mUlNnNk1vT1BXak8yejFTX21PbUtlcEt4UjZSYmhYbmg1S1Q2N3ZWNzlGcWZDZ1FJRTFWdENBeTlPR1RsakZsNDh4U3hPeHFuWUFxenBCeld0RjcwSU91SmwxOHlSM3lBY0JIRlAtdlR5QUpyelRtRmhtQzEzemxBbWJS?oc=5",
+        "date": "2026-07-01T19:54:05+00:00",
         "source": "MuyComputer"
       }
     ],
@@ -96,21 +96,14 @@
         "source": "sanrafael.gov.ar"
       },
       {
-        "title": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital",
-        "description": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital Municipalidad de la Ciudad de Mendoza",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
-        "date": "2026-02-23T08:00:00+00:00",
-        "source": "Municipalidad de la Ciudad de Mendoza"
+        "title": "El negocio silencioso que crece entre jóvenes argentinos",
+        "description": "El negocio silencioso que crece entre jóvenes argentinos El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX18xcF9vdkJob1JKUm5wOVdoYW1CR2VJSENSbUJkOGdqSldVOXl3WmZCUjhGc1lkSGhRblpGbUdMWmItWEVjbFFrOVZ4ZHNvcDE1OUtoT2lPbFBxb09fVWQyT0xMWFpGNzc2dGtpejFlWFdFRjlsYm4tM0EyMkdVOWlYRGthcXREQ3o2dzhFdzdyZWx6Wl9kWFpfT3JvVGk1TFN3VzJ0UENfMkEwMlhXYUl6OFVsUlg1NExhdTdvYklSbUNBNjZsTFFpUUhiVnNLMmxoTVBWRWNSd0NTUGZGWUp3?oc=5",
+        "date": "2026-06-24T15:15:02+00:00",
+        "source": "El Litoral"
       }
     ],
     "IA": [
-      {
-        "title": "Una famosa inteligencia artificial permitió vulnerar un sitio de venta de tickets para recitales y festivales de música - TN",
-        "description": "Una famosa inteligencia artificial permitió vulnerar un sitio de venta de tickets para recitales y festivales de música TN",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUi01STlHNDlvT2NtLTE0QkhCaU9nNUoxbUhObFNYSzFTLVgyNktrTjlOeGZJNDJWVF8zTnN2b3hFWUU1a0ZaendxZ0hhOTVWZVFjR0pSNWpRcVNWQVV1T1lXMmVDWldWOUUtRTloaElUVFRGeXNucWNFTGhLcGZJbkFLMGVEMERTRmZ0eXFsV2lPckd3WVRsOHlubUdnUnpYUnN3a3VtdHY1VjljNEtqeFcxV01QZUw3OTRPdU43U2pOU0FPQ19YaEd2OGREZnRPOFVzd3g1aVJnSHRxZHk3M3p6MjJsQWFXS2xNOGt1dkdMY0trSXkzTdIBjAJBVV95cUxPdlNsVVEwMTEtbUhKelpva0JJdGdCeVJneENPYXhJMmlpUXlwNDBaT0Y0TWNpdUY0V0xvUmF3cktnTzZONEUwMDk5bENMUVBlaGhPbkRUbzBlLVkzUTc5Yi1iamNkM2F3eG1vMHVCNmxOejlyTXBpaWVUazN4OU5Mc1ljUDFpZHJ3bE5iQXh3dlA5ajBKOTR4SG5ES1RDcXdUSEVMMnA3WHBROF9SZXFybGNNQmNTMVFmbzBQZ0gyVUhhcHNuT1o1aHQyVnlyTGxEUWFuckQ1MmxoS0VjcWE0SW9uZHRCX3Rfa21qYVYxUko0U1hzRmF3R2lWME1Pdk41aUswdEp2bExpWXRS?oc=5",
-        "date": "2026-07-03T11:24:40+00:00",
-        "source": "TN"
-      },
       {
         "title": "La inteligencia artificial no despide a nadie: lo hacen idiotas con hojas de cálculo",
         "description": "La inteligencia artificial no despide a nadie: lo hacen idiotas con hojas de cálculo Enrique Dans",
@@ -119,11 +112,11 @@
         "source": "Enrique Dans"
       },
       {
-        "title": "¿Qué significa innovar en tiempos de inteligencia artificial?",
-        "description": "¿Qué significa innovar en tiempos de inteligencia artificial? Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN192MV8xdEJMVXFwSFJ2cXhrZWpBcWU1bXBGT2xUdGdRMUxlN0tnal91UFZtSC1FMDB4cnB4alZYYUdDM0NWNkJKVEJHQm00SGE2Rml5OEVmNkd6UG5GY05xWU96eHhjaEZ1VE5raW16OWFiYVk3MFd5SW1NUUNYWFFqUlY4cWdxZ1ExYnpGUHU0WDh6MXAzd29RblI4bEU?oc=5",
-        "date": "2026-07-04T14:55:39+00:00",
-        "source": "Clarin.com"
+        "title": "Stephen Hawking, científico: “El desarrollo de una inteligencia artificial completa podría ser el fin de la raza humana” - TN",
+        "description": "Stephen Hawking, científico: “El desarrollo de una inteligencia artificial completa podría ser el fin de la raza humana” TN",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY1JWSWE1UnZUazF6LWp4V0ROS05pMXpZT2ZoTVd3NkZDMXpPUFdkN0hIaVpRd2tvSnNqTDlUcS0xUnpTUmhzdm9tMGxNZGtiTl9rTi0wcmtMdnhLUzNDcDRNcmlKeWZETlRVenl3TGhIZV9PcmZqOE1PdEFxYVRBSGdPUlFSWGhEZDNmM0VQUm9MelBYQ2NBS25LbjV1MUk1dmJodWtTZXdJUmhSRTdmZi1LSVZFRkFna3FrSm9sTEFRcDlxdjFFNVhqY3BEYnRVWVoyZjJjN00zdjliTy1fVnItT2hqRWdDdW5N0gH_AUFVX3lxTE9LZ0F2aC1UNHl1eFFPSXNQNFRoNkNBRFBCZDREZVpYRktKMkhCNTBjZ0J0ZWRaVUJrS0hUcEFYZFJFLXhHQkRkcGF2RUlTa0VfbHlZQUJIX0NadWtoZEllOWZDLUNvcVAxd21NbVlDMnVid1drZUJLU213WHl1ODByb0ZRSEJFT3lqcEJ4Qy1ZVmZrQnhVREl4TDV6c2R6OUN3MkwzTGF5eFBfT08zUk1xaUl3aDZDdVNzdzZ1YnR1Y25VUFAxbDY1Z2cyZzZhVTlkN0xwdjRtNnRLYjZ3SlVSNkVrWk9sLWNUcVFkRlQxN1NEbkRKYlc1YThlRzZGTQ?oc=5",
+        "date": "2026-07-03T10:36:03+00:00",
+        "source": "TN"
       },
       {
         "title": "Estudiantes de la Unicen desarrollaron un asistente financiero que organiza gastos con Inteligencia Artificial",
@@ -133,11 +126,11 @@
         "source": "El Eco"
       },
       {
-        "title": "De las mañaneras al entrenamiento de la IA: cómo la propaganda digital puede convertirse en un riesgo para la democracia mexicana",
-        "description": "De las mañaneras al entrenamiento de la IA: cómo la propaganda digital puede convertirse en un riesgo para la democracia mexicana Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcXdtTDZ6Q3V0NHAzRXEzTjQ1VmtxYmQ0WWtNRXNQMFBXdTE1TVZsX195VWotTGlFZHh1YkRGRWZRems1dUg4a0h4a01RS0xkOFdxbjVtZEFndWt4cEV0eTV0d3ktTzVjSFRrc1lWS3NmaHJ6WDF3OUhXT1dydkZwUXByWFRPUjVKTzBtTkhrTjRPOHBaOThVamJjTmdDeV9LVE1MaHlPamd4c0MxdGQ5ZTdIWjRHdDd2VkZ5M3hsNEtJZDN1Qjd3VG5lRTc2WXNCOF9SOFpscy12cktzeGNpZXhHQlZwZHljSXNNY2psNjFETlJOVjg1bjBIeW11a3pJ?oc=5",
-        "date": "2026-07-04T15:02:44+00:00",
-        "source": "Infobae"
+        "title": "Bill Gates, sobre el impacto de la IA en el empleo: \"En 20 años habrán cambiado tanto las cosas que el actual marco capitalista no servirá\"",
+        "description": "Bill Gates, sobre el impacto de la IA en el empleo: \"En 20 años habrán cambiado tanto las cosas que el actual marco capitalista no servirá\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMU5EeXNPdC1GVHRDX2pQTEdYRzRUVHJmeVdwRmJDUjZHUHJ2X2VkOURxWlJzOUdCMXByWC1CTDRmc3U4SkRDZW9kX1l4dkdLMl9FUG0yR3l1SUVFSXJ4eFhfVFp4UjVmS3pYZk5kUk1URll2NmJabjlIcUhIM2pUWEFvVmxBRXI3XzVKQTE2QUFZaFA1aWU0aTUzV0daRlVFWEFLT2d2YWV3YnM5UmlidUJjSkNBSFBvMW5RQnhqbmdzQXhYSE9FZTktWnRwTkJsSlU4V1FWUdIB3AFBVV95cUxNeU9KX2E5SlNCTVI1REtxeFFsNkdWUVdUT3dYakE2MldKN3JnNS1FTXJZWUp2TmhMVjNXSmpQUDdmSE1LbTlRUi1va0tuX1VBdTRqcXhDeEZIelIyX0t5VzRacG5UdUQtUFFUR1Z1OS16Y0g2b19RMFpETy16U0pUUFZ2M2hsZ2lxVmNRYlpxMk9uejU2VndmTnVKaERNck9aa21TVEpDRklnRnJsaFlSMGI1RTBrUndnaENIZXd6TzJlY3ZMLUVNX19jXzVEUXFZNU5TTndvOXZFMndu?oc=5",
+        "date": "2026-07-04T17:23:40+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Guillermo Saccomanno: “La inteligencia artificial jamás podrá suplir la identidad de una escritura”",
@@ -152,6 +145,13 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSy1jWGhZYkwtUnpTWC1Fd0JZZmxIUVcyYlVXeDRWdGYzMUx4TUtnZG1wakQ3Qkp3NnFHWXZWaEl5c3U4SkExd3dMNnNyTU0wQ2VPNjlUTUlXRGtOQjRtbVpjX2lpMzVGX2YzbEJ5eDZlZWx3QWhpMG1FektGaktIclZ6Q3BxSWxmZ21zT3REX2J0M05MTHJ5Ug?oc=5",
         "date": "2026-07-04T03:04:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Inteligencia artificial: la diferencia crítica entre perder una habilidad y nunca desarrollarla",
+        "description": "Inteligencia artificial: la diferencia crítica entre perder una habilidad y nunca desarrollarla 0221",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRkZaNW5uX1J0MVlzR0pjaHhEMkQyWU15UlBqSERaVW1hYUU1Y1ozeDFUSVgzcVNSUmJCaDZfNUhSWERhTUhvX3Z3bDZFcklUYThiYjdHdE9TWFdYRElmb2VJWVE0c1BtcWtIb3pBcHpsdjhmR0JnR0N2bnhCSDZ2c28yMlB6cVp1ZGVrSkNiLXM1WTY5VE5aTTg3bXBCRWJaZ3pVVXRWc2p5UzY2c0o2OG40OEE0SkN2OXB3a09DdUxRZ3NMWVFtMtIBzgFBVV95cUxPLVBJcUh1bndrcE1uY1V0aFA1STZXb01jZ3BhRkZVMkljYU90S2M2d3JxNEJFOEVwODZUMHB6TGZHUXdHcDlaamJDNmJmVVBmLXJweWNUOGZDSk5RREMzdnVaX3pLUzcyVkstdW5tOWJRQ0phMUVVLVV5MzdDRlowSlZaMUxKeERxLUlFTnRHZlFLZ0NSSnlrYnZfbklid00wc0dWS29tZ0dsdDMwcDVHSGV2NmJDZEZ5cWRYMnpvZUN4VmV2YnVnODVla1pvQQ?oc=5",
+        "date": "2026-07-04T12:25:00+00:00",
+        "source": "0221"
       }
     ],
     "Vaca Muerta": [
