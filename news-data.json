@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T15:56:50Z",
+  "updated_at": "2026-07-04T17:04:44Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,13 +10,6 @@
         "source": "Ambito"
       },
       {
-        "title": "¿Es suficiente Microsoft Defender para asegurar los PC Windows?",
-        "description": "¿Es suficiente Microsoft Defender para asegurar los PC Windows? MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUlsTjJuTTB6LVNnelNDenZBVFM1XzBfREd1Z29tSkZndHlOdUFxRXJrNTF5RkowM19qSEN6emMtUkdyaFQ1TGRydmN5aGt6WmFFb2lUYlpHZ0ZROWhrLU1BMjZvcVBSRkRTYlpkVGh5QVRmY0F2RHFVeU5rOGdIaXROOG1mRUx3NnJzbjVQZmtBUzBjX3BUQzdpc2ZqMmdPcHFmVUUyYUJ5a3M?oc=5",
-        "date": "2026-07-04T09:10:09+00:00",
-        "source": "MuyComputer"
-      },
-      {
         "title": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\"",
         "description": "Hablan los expropiados de Aragón ante el desembarco de Microsoft: \"Fue un asalto, queremos un precio justo\" El Mundo",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2hnVGZqMU04Q0k2SlZMN1lVUDNLTXRqb2c5bVJMdXh3YVAxZHg1bk4xQWVwVHBUNEVfbUNkNlVqeFdZQUt1N21OTHJLQWR4ZnpIdWQ3UWdaZkJTenZhX0JhVV9PN1ZQeDBUbUktZDYwUk5CVHVoWVZqcWhvRHVGVlVDWng2TWU40gGIAUFVX3lxTE1MYTVEcHVsQnFkbjAzbFNna3hZTTRvV3FpTkljTzlrNGxiX1R1RGJNNDc2SERzeHB2QW1jMVNOQVVTdVBpV2RHUGlaSEc4NXZrWnNfeHh0ZDRDdmdBZkJXcmw3azY1dHB0a2ppaTlSSUE2dG16aDQxMnhVQ3RubFJWTV82dzNfYVM?oc=5",
@@ -24,10 +17,17 @@
         "source": "El Mundo"
       },
       {
+        "title": "¿Es suficiente Microsoft Defender para asegurar los PC Windows?",
+        "description": "¿Es suficiente Microsoft Defender para asegurar los PC Windows? MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUlsTjJuTTB6LVNnelNDenZBVFM1XzBfREd1Z29tSkZndHlOdUFxRXJrNTF5RkowM19qSEN6emMtUkdyaFQ1TGRydmN5aGt6WmFFb2lUYlpHZ0ZROWhrLU1BMjZvcVBSRkRTYlpkVGh5QVRmY0F2RHFVeU5rOGdIaXROOG1mRUx3NnJzbjVQZmtBUzBjX3BUQzdpc2ZqMmdPcHFmVUUyYUJ5a3M?oc=5",
+        "date": "2026-07-04T09:10:09+00:00",
+        "source": "MuyComputer"
+      },
+      {
         "title": "Microsoft Edge ya permite iniciar sesión con una cuenta de Google",
         "description": "Microsoft Edge ya permite iniciar sesión con una cuenta de Google Profesional Review",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2RVeTZrR2JaeFdYXzB0WlZETXZJU0lNanBsTElrWi1hMEluOXNWbWV1V0pvN1lLUWI1UGhKOVQ3QURhYXNBRVhzS1k4TWpYbGVhSzg0RlF2Y2tubzBGZVBHb1hWZi1fWlcyOWRlZDQ5c1IwN3RxMDVxZ3FrOWZTeTRvWlRkX0FfZTBHSXVpN3hNNWZuNkQzVWhYaHZxYnZrRVBnWVRnZFRXTjB6NUJqUdIBtgFBVV95cUxQcC1CN0JXTWNOZHc0blp3VUljYmJoR01EeEdmZndSUVVJQ0JLVmstU3dINE0zV0Q2cWJEWVh4SEFpZTNfeEtpZzNYQS05VnRCbWxhYUs5RlM2UjVnWGZZak9BX1FKTzAzRkpIa01WY1JoaFhxV0VQWUhPLVIxWUEyVkRwSG9SNDRyWFV4RnFqVUZJQ294dlhGeGQ5MVYwNEx1LXFiRUk1d0ZWamY3TXpTMy1ETnYtZw?oc=5",
-        "date": "2026-07-04T11:00:23+00:00",
+        "date": "2026-07-04T11:00:36+00:00",
         "source": "Profesional Review"
       },
       {
@@ -96,11 +96,11 @@
         "source": "sanrafael.gov.ar"
       },
       {
-        "title": "El negocio silencioso que crece entre jóvenes argentinos",
-        "description": "El negocio silencioso que crece entre jóvenes argentinos El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX18xcF9vdkJob1JKUm5wOVdoYW1CR2VJSENSbUJkOGdqSldVOXl3WmZCUjhGc1lkSGhRblpGbUdMWmItWEVjbFFrOVZ4ZHNvcDE1OUtoT2lPbFBxb09fVWQyT0xMWFpGNzc2dGtpejFlWFdFRjlsYm4tM0EyMkdVOWlYRGthcXREQ3o2dzhFdzdyZWx6Wl9kWFpfT3JvVGk1TFN3VzJ0UENfMkEwMlhXYUl6OFVsUlg1NExhdTdvYklSbUNBNjZsTFFpUUhiVnNLMmxoTVBWRWNSd0NTUGZGWUp3?oc=5",
-        "date": "2026-06-24T15:15:02+00:00",
-        "source": "El Litoral"
+        "title": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital",
+        "description": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital Municipalidad de la Ciudad de Mendoza",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
+        "date": "2026-02-23T08:00:00+00:00",
+        "source": "Municipalidad de la Ciudad de Mendoza"
       }
     ],
     "IA": [
@@ -126,11 +126,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La Revolución de 1776 en el siglo XXI: cómo definirá la inteligencia artificial el liderazgo democrático",
-        "description": "La Revolución de 1776 en el siglo XXI: cómo definirá la inteligencia artificial el liderazgo democrático Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaDZ5RVV2aFVRTVdCOTNOV3ZVcTVfR1RfZGtZWDBZYy1kbW1jREJEVXEtclJ1bnRFNndFcDFRMHM1eTBrb040SXFBRU1tTzNnWGdyQXk4a3BNOUpYM3A4dVhhWWZhNzE3d2I4d3dPZmNlU3Jmbnk5Yk0tUGViYTlqb3FhRk1aRmY0a3gtVDB2OTVicGpwSTN6ZWo5QkMyeGJTVVNXdjA5bTRVZmZkQVJ0M21rRUxjMFhvbGxFVnJIc1drSnZfVE5WanpDQTZBQmNVeDkwWWwwMmdnQXdweE5ObtIB-wFBVV95cUxQeVNoeHV6TkNRWlkxWHFUa1BEc1BPOThZQVdsUUtkc2ZlSHBaOU1hOHphTTFLODdOZGlxNEI3QjNvVlZBVTZZOHRWemF3M0JJYzBWei1mYURxRVRRY1NsNjBHTVpIM091QS1GVkNhZGtUdmY5UWVCLUZNc3huRXc3TlVuWWJxMHB4d0h0VENYLTRxZ1IzU0ZWMnQxMnplZ1o4SUgzVng2LWh1YWdkajZYX0ltMnREZmVZRTNXdFFtb3ZvT2o5Q1d5MTZfYW1ZaV9YMTRkMXQ0Y1haN0lBdVI3azYwSWg2MkZuWHkwNHN4LU5BWUlPb2swV1JqUQ?oc=5",
-        "date": "2026-07-04T14:01:25+00:00",
-        "source": "Infobae"
+        "title": "Estudiantes de la Unicen desarrollaron un asistente financiero que organiza gastos con Inteligencia Artificial",
+        "description": "Estudiantes de la Unicen desarrollaron un asistente financiero que organiza gastos con Inteligencia Artificial El Eco",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFFkRHllaXlNSjBtWVBHWDctMm43a1pwR29wbVBDM0lXdzBVbTBmVGpncG1TMVNFTWpWWFVyM0VfelhpNFlzd2xjNG5tWXJaYkN2QTBwNzkzc0VyM01nT1F6amxhYXZvdkZOdnUyY3ZpdDd2TXpKRjNUUWhPZUtyUmxMUUdUQnN2dHNSWkZNQ2NFT1IxRjJfaVZ6YThHSDVXSUE0ZDRnWGNhc25SNGliVGdLbWNlSDJPUUc3Y0ZHaGJidVZYeGVzem9FYTBpdmJNOG41RTZLRURHR2Mxelh3?oc=5",
+        "date": "2026-07-04T16:05:28+00:00",
+        "source": "El Eco"
       },
       {
         "title": "De las mañaneras al entrenamiento de la IA: cómo la propaganda digital puede convertirse en un riesgo para la democracia mexicana",
@@ -156,13 +156,6 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba",
-        "description": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba Perfil Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF La Voz del Interior Marín, CEO de YPF, pasó por la UIA y defendió el impacto de Vaca Muerta en…",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1h3YlRkcGJRdk5tUExXRl9DMlVFdk1iMXRqWndsSllqTk5Lbm84Q2ZNampYUENnX18zNnJQRU1iRTlWSU8tN2ZySjV4dFlhNG1ZSXFLY08tNHFlTkViWHJqRUJiNUlIeFNVRld0cjdILUpWNVI3RlJ2OG12SnZoVTZaX2VlekNXSlAtMUIxNGRZZTRhRmc2VlVPSWZCVUNwVUJRdzhTZGNDQWVSYWxvNkJTc0MzUU5wVmVDdWstWlZrTlRMcnN3RVQwT0xqeGR2RWE2UjVhd9IB3AFBVV95cUxQRWZkQ05vUWx1eDNZY1NhbUFfa1VmbG9LNlV4bWFKcXBTQmhLX1E0N0NGMFlJdVJCeTRvblhGNm1RLV9ZSkxBWDM2Y1lubUgtWlFPZjBSdnRpWURTQ0Z2dkN4SDlHTFJpVGVHem9xSFc0VUl6Mkl6Rm53NkZDeVMydklCV0ZSak1VMTQ0ZlIzblFUejBoclA0bTFqa2ViQkdCRlJNbEJvd1dha3lOX3lTTnJjdkM5VHpTWXR4UGN3Q0pKcUZ1UzlxZ3p0azJoWHFGdzZ4SWxOX1doNlRC?oc=5",
-        "date": "2026-07-04T14:01:15+00:00",
-        "source": "Perfil"
-      },
-      {
         "title": "Empresas familiares: de vender sábanas en Neuquén a convertirse en el principal proveedor local de compañías de Vaca Muerta",
         "description": "Empresas familiares: de vender sábanas en Neuquén a convertirse en el principal proveedor local de compañías de Vaca Muerta Ambito",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFVJNDdPeWg3dUREMFNPSmZNd21Cb0xpUlhTQW1OQlJZVzFjUWp3U2Y1YmVQaVkwaExMYS01MlRTMkhxaktKMTRvWmdLWDM3NDdaaEhYMkxZY3hWRjlUZThMeFJIUHdBUHVQUEdyU0xBLUlVX3JkZmxsdHR0WU9MTTJyRm00V0U0SGFZNzNxU0kyQm54TWlGLVAzSVM5R0d4Z1VkUTNLRlFxMTl3SXNjUDB4UWdZc1V6bi1MdW9aWlpXcmxsd00tamtjVEt1U2N2QkVLbnk3SHhBU1NuQlY00gHkAUFVX3lxTE5tdDR5OG9EYWpseS10MzRqa1RfOVRiSzVjTTFyVDRfajU1cjJNVWlhRF83c2NTcFhIczhKaDZQN3d6c1huM19xeDZKV011emhzT3BUMUxSYk5IMlpmcm1Fa2dONHBpV3FwaGpzZjVtdmVOSDA4dmZRX05yT0xxRmlMQ2ZhVFJpWG0yNmVvVkY5alExN3czS0NJOXJDNlVWdzZlYWZYTlgtM3EtdkRXbmotQ2RmSkFlR0lLN0xzWDU2ZXFLS0stVG5WdWJwb1JuUXhYSGhacllxVWZ4SExScEZpd2t3aQ?oc=5",
@@ -177,6 +170,13 @@
         "source": "Infobae"
       },
       {
+        "title": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC",
+        "description": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTU5aWNDQWRFdmJYekIyMUV4OVJZQUlEZkljY281MEt1OE53UTU3SEk3bGk0Ujc0aFNZbFV6dzJRZHhzREVBSTduOXZPOHhMZnFuRGwtSXQ5QWJJQV9kblB3eGFEbjc2bkE4TThkTTdLdmlRRGVRQjlYbzIwb1J6Tk85YUllZmNacTRZRFVIV1p2LXd4dEhPUFZDdzA2NW9zM0FiMVZqOVFHZjFIM2djdEdBMmQyM3dsMzBLdThYV09Ud2Z5S05zQTVlbDI?oc=5",
+        "date": "2026-07-02T09:01:01+00:00",
+        "source": "Clarin.com"
+      },
+      {
         "title": "Por qué se corta el gas si Vaca Muerta está a full",
         "description": "Por qué se corta el gas si Vaca Muerta está a full Cadena 3 Argentina",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUZ2c2NwckRuTkpRRVZ5bTJPcjB1UmE5andKREw0ZXJfbUl0SXhBajVLOV9kdTAwa3g3blIzcGM3d3hHT2JLMGd2eUFqRm0wc2h5TU02akd4MFBqTjRlT3p6RW1MMG5SU0JiWXYxTEo5Zlp3NlVaT25oZTlIVjd0RXRtMkx5ZGFhVktnRDEwR1BZQjNsYjRGaFZ0NThrY3BGYkhwTktsY1o3QTI0blpuQTQwSdIBuAFBVV95cUxPbmJMZEdZcl9Pa093WGtlVmhMZ0Ffd0Y0MVB0b01yTW96SkhsSGxLZHRlOGswZUxybmFjcHBtTlRrMlY1bWNyRlJMRndnMjBSWExmSGJtWG55dENMTkVZREFubU11SldGczkzd0xWWndzOGU2SjQwa04zaW05WncyallwU3VoYTRBM21UTkY3Slc4T0FNOEpiajdBNUNHWlJoR3Y3cEhWWGZDbEZPa1VaOUhhUGQ1Z1FN?oc=5",
@@ -184,18 +184,11 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta",
-        "description": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta La Izquierda Diario",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3BpaVo2Um94T3dONEpVRzNsNjVZMmxPekNJYVYxbTFKUnQzbXR5T2tuN3A5Rnh5TG9CSnNyLUFBc2R1S3pNUWhfZnVocFppNEUyNmtpeDE0WEdJT1UzcVFIcDZWbW5SUWhxNjBKQ2g5Nl8yWUZNUXE4Z04xaUliS0taQ1BvQTRiSjBvMGdoTHBZUEhUcjV6VXF1eUZKRFQ30gGoAUFVX3lxTE9fbTlmd1Fjb3pULWdMQXJXa1pKdWZSaWdsckl2cWk3aTVtU3QzQ1QwUENXbGt3TzZJMlV6dmxfVGFGdnl5MVdUTm9iQ0JNeVYyTTFIbDdRUEJ5SmdWWUZ6elVoV3d0RkdMZWlqV3h5b0diTlAyVEhsZXYyaGpSSUItTnBCNndYSHNOUEEwcXJMeFgtbXBDZVdsTDNCQzRuSkRMYTlNZTVVeA?oc=5",
-        "date": "2026-07-03T02:13:00+00:00",
-        "source": "La Izquierda Diario"
-      },
-      {
-        "title": "Divisas. La poderosa “locomotora” de dólares que empezó a generar Vaca Muerta",
-        "description": "Divisas. La poderosa “locomotora” de dólares que empezó a generar Vaca Muerta La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDBMV1l0NFhBWWRTOGF3eVhyLTBTSTFtdFVIOWdrSjM4cTNDRXd5MHJ4SGJKaGZJZThZNWk1MF96N0YxVGpiUFhkS1M1R3pweklaaTRCMmRWQVpDaHdUc2VHV2tTT1BHVUcwd3c0RERseDBnNk9xUXItZElkVW5uY2JZR0E1UlUwNVN2aFptdFFfMWFpaENKMG4tZlVPOFNqVlktOEpSd1MyUQ?oc=5",
-        "date": "2026-07-03T21:23:49+00:00",
-        "source": "La Voz del Interior"
+        "title": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba",
+        "description": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba Perfil Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF La Voz del Interior Marín, CEO de YPF, pasó por la UIA y defendió el impacto de Vaca Muerta en…",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1h3YlRkcGJRdk5tUExXRl9DMlVFdk1iMXRqWndsSllqTk5Lbm84Q2ZNampYUENnX18zNnJQRU1iRTlWSU8tN2ZySjV4dFlhNG1ZSXFLY08tNHFlTkViWHJqRUJiNUlIeFNVRld0cjdILUpWNVI3RlJ2OG12SnZoVTZaX2VlekNXSlAtMUIxNGRZZTRhRmc2VlVPSWZCVUNwVUJRdzhTZGNDQWVSYWxvNkJTc0MzUU5wVmVDdWstWlZrTlRMcnN3RVQwT0xqeGR2RWE2UjVhd9IB3AFBVV95cUxQRWZkQ05vUWx1eDNZY1NhbUFfa1VmbG9LNlV4bWFKcXBTQmhLX1E0N0NGMFlJdVJCeTRvblhGNm1RLV9ZSkxBWDM2Y1lubUgtWlFPZjBSdnRpWURTQ0Z2dkN4SDlHTFJpVGVHem9xSFc0VUl6Mkl6Rm53NkZDeVMydklCV0ZSak1VMTQ0ZlIzblFUejBoclA0bTFqa2ViQkdCRlJNbEJvd1dha3lOX3lTTnJjdkM5VHpTWXR4UGN3Q0pKcUZ1UzlxZ3p0azJoWHFGdzZ4SWxOX1doNlRC?oc=5",
+        "date": "2026-07-04T14:01:15+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Con gas de Vaca Muerta: una baja de las retenciones apunta a un negocio que miran grandes jugadores",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0otbTZpU0VSM2hFa0RlN0JRMGRoSDE2ZlhUeUJQODVFMTFmMTRlRkgyeVdZTEpHTUVJMjVFR0hHeU0weVI5Rzd6ZzA5aWwwT3lFMjF4Z3VGYkZPNVFXREZmVE1lVzhaUE9jeDIybnp3Z1l6M3pQWHJ2R1pMVnlOX2lTUWpZblVpQUNLeW1GVjE0WTlvb3NWOG5zdUo1ZWlYZ2ptMmxHbXlIYjJ6bk5pVWNXZWdjUlRKZkpaX2RDQkRQVTZ4LVVZMEJ3V2JiREJ0Y1BQZE83TmVLd2VDRVFWUG5CX0pVcmlGN0E?oc=5",
         "date": "2026-07-02T22:13:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Divisas. La poderosa “locomotora” de dólares que empezó a generar Vaca Muerta",
+        "description": "Divisas. La poderosa “locomotora” de dólares que empezó a generar Vaca Muerta La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDBMV1l0NFhBWWRTOGF3eVhyLTBTSTFtdFVIOWdrSjM4cTNDRXd5MHJ4SGJKaGZJZThZNWk1MF96N0YxVGpiUFhkS1M1R3pweklaaTRCMmRWQVpDaHdUc2VHV2tTT1BHVUcwd3c0RERseDBnNk9xUXItZElkVW5uY2JZR0E1UlUwNVN2aFptdFFfMWFpaENKMG4tZlVPOFNqVlktOEpSd1MyUQ?oc=5",
+        "date": "2026-07-03T21:23:49+00:00",
+        "source": "La Voz del Interior"
       }
     ]
   }
