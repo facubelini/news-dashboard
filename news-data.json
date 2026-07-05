@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T12:11:06Z",
+  "updated_at": "2026-07-05T14:27:16Z",
   "categories": {
     "Microsoft": [
       {
@@ -15,13 +15,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUlsTjJuTTB6LVNnelNDenZBVFM1XzBfREd1Z29tSkZndHlOdUFxRXJrNTF5RkowM19qSEN6emMtUkdyaFQ1TGRydmN5aGt6WmFFb2lUYlpHZ0ZROWhrLU1BMjZvcVBSRkRTYlpkVGh5QVRmY0F2RHFVeU5rOGdIaXROOG1mRUx3NnJzbjVQZmtBUzBjX3BUQzdpc2ZqMmdPcHFmVUUyYUJ5a3M?oc=5",
         "date": "2026-07-04T09:10:09+00:00",
         "source": "MuyComputer"
-      },
-      {
-        "title": "Microsoft Edge ya permite iniciar sesión con una cuenta de Google",
-        "description": "Microsoft Edge ya permite iniciar sesión con una cuenta de Google Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ2RVeTZrR2JaeFdYXzB0WlZETXZJU0lNanBsTElrWi1hMEluOXNWbWV1V0pvN1lLUWI1UGhKOVQ3QURhYXNBRVhzS1k4TWpYbGVhSzg0RlF2Y2tubzBGZVBHb1hWZi1fWlcyOWRlZDQ5c1IwN3RxMDVxZ3FrOWZTeTRvWlRkX0FfZTBHSXVpN3hNNWZuNkQzVWhYaHZxYnZrRVBnWVRnZFRXTjB6NUJqUdIBtgFBVV95cUxQcC1CN0JXTWNOZHc0blp3VUljYmJoR01EeEdmZndSUVVJQ0JLVmstU3dINE0zV0Q2cWJEWVh4SEFpZTNfeEtpZzNYQS05VnRCbWxhYUs5RlM2UjVnWGZZak9BX1FKTzAzRkpIa01WY1JoaFhxV0VQWUhPLVIxWUEyVkRwSG9SNDRyWFV4RnFqVUZJQ294dlhGeGQ5MVYwNEx1LXFiRUk1d0ZWamY3TXpTMy1ETnYtZw?oc=5",
-        "date": "2026-07-04T11:00:36+00:00",
-        "source": "Profesional Review"
       },
       {
         "title": "Qué está pasando con el posible cierre de Obsidian Entertainment ante la aparente criba de estudios que planea Microsoft",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONmQ4TGFGYkJVRHgzYkI1SldmR2xrQTRBc0o2SVpDN0gzNFMwQUtKZ0UtMGdUYWw3enVpS0t4Zm9lMUlqamVwajBSbXhRd1NtUFVWLTFiZm81QTdVakFnSjRTaVp6NkxmRW1jWHNJZEkyRWFIenBzcTlKWlNhc3FiSXhicXJoMURLclN2V2MwQlBQWGx1MDZ3UVlIVmpjeEJacXN2VkVycGY1WVdNT3BGaGxJWWFHRFNKRzd0WlI0dC1ZVHJXSlpDZmJnbVJRZTdpSmkzR2N0OXg2SFJ1eHBUd9IB5gFBVV95cUxOcU5iZm4zU1UzQ2FDRzc4eDJIVnFKU01fbFZBV1RKMEhMYkNfc1hjRm44UVVXYTJrdjRKVENKNExmeHVWUjl6Ym9Tcm1LUUNKMzRNblFQZFdFY3AzRTFjMUR2TFFjSExEVUFicGY5R2VGVldmY1pMdnlZcnZLY3puUjdHNXpYRzlZd2VEUU9tNnF3N3RwaVd0NjlGd0ljd1R3Q095TE9iV0M0Q3lMYkdZc2I1V1dQMHBrZEl2VktxNF9ta05ldzM0MWNPV0xkWWlnUW1KY0ZpazktQjZfNzlTdWZoR3FTdw?oc=5",
         "date": "2026-06-28T11:30:13+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA",
+        "description": "El Surface Laptop más potente jamás creado por Microsoft llega con una gran novedad: apuesta por un chip ARM de NVIDIA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUF9NWkFHUk8zTXk1WWFCRk44LXBNZmx5U2R5Zm1EZENTb29mVE5halpfS3lCYndtZkVlU0RsWTRkSkZ0bHFQRlNOS2F2QTVmOHQ0MTFrM2tvaDdSR2lFTy1wMjNrc19ZNlVMRkRaSWRMMU1qN0w2Q3hOR0s2MmtqTi0wQURpWlZ0bllEb2xBbTU0QXFGcXFpTWhxNVhfa3EwNW9GdV9LdXcyN1pHb0VUTkpVaWVNT1ppNnBxb3M2ZVfSAcYBQVVfeXFMTWFzWng3c19kZ0hpWS11OUNkU0pVeHAxRk9Yc0w0YUJKVHVWcXo0NEVucVpVQllsZFVVMUpxZzNOV3NfYmVRNjA3dFBncmtZdTNadzJUY2pzVlpBdlVBczBRRmFXZkxoaldrRzNKbkdVeGZla2xNZ0dFdUk3b1AtTXR5MVhwRTZ0Z3g2Ujg0Wm82VENxdmxYLWlOOXljbHhCT09MejhBVWFBZmY2NjdLOFpMUzRLZi1qUjRJS3VhZVdRRTBWdXJ3?oc=5",
+        "date": "2026-06-01T07:00:00+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -68,18 +68,18 @@
         "source": "InfoFunes"
       },
       {
-        "title": "Casi 300 personas arrancaron el curso de Community Manager y Marketing Digital en Charata",
-        "description": "Casi 300 personas arrancaron el curso de Community Manager y Marketing Digital en Charata CharataChaco.Net",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRThKcm8wWU56U3FZNVNkcTN0SFdmSktia2NhNFNLa2VqYVVFY2gyb0drX2tlZ0R3anFtSC14N095dl9HUFlCN1NveXY5MHM3V0ZNRTFqenM4d0dkWkNIR2d6M2t4QVBld3lKT2lwUGxSU2N6SmZZM2VRdEN5RlpTNUdMRks4VEZzWlhRMW12d3djcUNDYWNzWG4xZUZnZw?oc=5",
-        "date": "2026-07-04T20:15:23+00:00",
-        "source": "CharataChaco.Net"
-      },
-      {
         "title": "Abren las inscripciones para un nuevo taller gratuito de creación de contenido y marketing digital",
         "description": "Abren las inscripciones para un nuevo taller gratuito de creación de contenido y marketing digital SL24",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlM1UWNndndsZWdlaWJLeExQWFhoU3MyU20wQ3RVSW1BUXVPeF9tWlFyYUhqVzJVeHVpd3R4Zk1NVmNySVR3SXMxMXcyWlBZRDgtT1lLQ1N1aVFLTzBXVFY2Q3JicVh2eE9sb3phblRCNkZXSHJ2MGgtMEhnd0taUlRNWXMzOGM4S2ZjaTJmVmluek1KamtpQXZwOVpzak9CNVNPWUF5aEFwZm9FblFfaC1wSWp6QWpHeU9F?oc=5",
         "date": "2026-07-02T15:24:00+00:00",
         "source": "SL24"
+      },
+      {
+        "title": "Casi 300 personas arrancaron el curso de Community Manager y Marketing Digital en Charata",
+        "description": "Casi 300 personas arrancaron el curso de Community Manager y Marketing Digital en Charata CharataChaco.Net",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRThKcm8wWU56U3FZNVNkcTN0SFdmSktia2NhNFNLa2VqYVVFY2gyb0drX2tlZ0R3anFtSC14N095dl9HUFlCN1NveXY5MHM3V0ZNRTFqenM4d0dkWkNIR2d6M2t4QVBld3lKT2lwUGxSU2N6SmZZM2VRdEN5RlpTNUdMRks4VEZzWlhRMW12d3djcUNDYWNzWG4xZUZnZw?oc=5",
+        "date": "2026-07-04T20:15:23+00:00",
+        "source": "CharataChaco.Net"
       },
       {
         "title": "Inscriben para capacitación gratuita del sector turístico",
@@ -89,18 +89,18 @@
         "source": "Neuquen Informa"
       },
       {
-        "title": "Publicidad móvil con IA atrae cobertura de analistas con objetivos de precio superiores a 600 dólares",
-        "description": "Publicidad móvil con IA atrae cobertura de analistas con objetivos de precio superiores a 600 dólares noticiasneo.com",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JRFFnejlsTkhlVFdtMHVnTk1yWF85NjJiQUpFenp3ZnFCUVBuanRySm9Fa3NnSmd4UDZwaUp4eDNkV1FGUmtCS1UyTFJpRkk?oc=5",
-        "date": "2026-07-05T03:18:45+00:00",
-        "source": "noticiasneo.com"
-      },
-      {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
         "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital UNSAM",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T07:00:00+00:00",
         "source": "UNSAM"
+      },
+      {
+        "title": "Publicidad móvil con IA atrae cobertura de analistas con objetivos de precio superiores a 600 dólares",
+        "description": "Publicidad móvil con IA atrae cobertura de analistas con objetivos de precio superiores a 600 dólares noticiasneo.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JRFFnejlsTkhlVFdtMHVnTk1yWF85NjJiQUpFenp3ZnFCUVBuanRySm9Fa3NnSmd4UDZwaUp4eDNkV1FGUmtCS1UyTFJpRkk?oc=5",
+        "date": "2026-07-05T03:18:45+00:00",
+        "source": "noticiasneo.com"
       }
     ],
     "IA": [
@@ -112,32 +112,39 @@
         "source": "TN"
       },
       {
-        "title": "El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial",
-        "description": "El gran salto tecnológico contra el cáncer: China estrena la primera fábrica de vacunas personalizadas con inteligencia artificial Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0dzelpVckJGR19vWWhtcWZZTXRja0x6Z0NDMXY2VEVZU1Qtb0ZhSjNxVHVvd3Fzc25xc0pGUTBGeWRjZ1pRbWFrSkxQUlZuVkIwY0xXblJGTGVoVXgybEtrRllVNnR6d0puV3FMUXh5ZDVyN05rdDRiNDBTc1B6aXFTVmFSRGNaZjIzQmFuUnNUQjlLRUh3Y2JfVEIxVkwxRV9SYnozaXNtcjVzRTZQZjhwdEVqcGgwdmluRjdWVXBhbWVMcThYSzRUUk9iWTRueE5RSG40NE53QUkwQWRZ0gHkAUFVX3lxTFBxT1Rha3Fpc0tuZjIxN19TTnl5X2Naa2FMRlBqdGd4UGVNbVR1QzRkMUV3WkdNSXVXMFRJb2piVHNOaUdSZDZkbk9TMFRyd2xPVV9lWmxHMkNwNm5HMHkwVS1oRVN1VGFZb1V4OXF3NjU0cHpXQTlKTFF4T2xHSmVDUlZ5LUxpTkZvVG5NdThvVE1LWnh0Y04yUUEteVVrMUUySFFpdFlVc1h5N3NqSjJ4bktCZWlIN1Z1ZGhNV2dpajVjOFNIMTJRWmFWZzVpTjNKV3BxTFZvT1dVWkstWThKek5CYw?oc=5",
-        "date": "2026-07-02T16:01:54+00:00",
-        "source": "Xataka"
+        "title": "Un experto en IA de Cambridge avisa: \"Google tiene varios investigadores centrados en si su IA es consciente\"",
+        "description": "Un experto en IA de Cambridge avisa: \"Google tiene varios investigadores centrados en si su IA es consciente\" El Confidencial",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2lfUGdDMTV1c240MzVjelpTTHNxb0NXbklwQ3lpZ3oyUnRCTmxFbTFNNHJmQzU4Ny1GZU95SHJGbEdPSnBuTS1JUlExclpOTkZpSE9TclR1b2JrOUlqNDRqUGdRNF9YZGJaSGFjS0E1cHhPSHFSRjEtYWZrakJyUFBpM2MyTkVndzlEQjRnUlMwaFc4Qlo1Njg2b2JuTF9STnBSbA?oc=5",
+        "date": "2026-07-04T11:17:00+00:00",
+        "source": "El Confidencial"
       },
       {
         "title": "Así será el resultado de Brasil ante Noruega, según la inteligencia artificial",
         "description": "Así será el resultado de Brasil ante Noruega, según la inteligencia artificial TyC Sports",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXRCcGZUald4eUlFUV9ZQjRzSUpZUXNVbm1WRnY5aHFVMThrT19icG14aVpPb2xTbGtlWWlhOGtLd2pyS3I0SkVIU0FRZDVKNGJETDlsOWVCRTA4blhZamVXcnVhTkZhdjExSlRvWUdGMW5Kd25fR0xfV01uVzJZMFV4amh5a1Y4VmNOMUswd0tLLXl5bXZBVGZ3YldNMVd5dWhzV0F3MVEtbkFQcXRqUlh4TnpPRTRRVkd4VV81dTBCZw?oc=5",
-        "date": "2026-07-05T11:48:57+00:00",
+        "date": "2026-07-05T12:25:27+00:00",
         "source": "TyC Sports"
       },
       {
-        "title": "La inteligencia artificial no está fallando, el liderazgo sí",
-        "description": "La inteligencia artificial no está fallando, el liderazgo sí Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQWpmMDVOZTlMa3lrbUkzdXRlUUR6ZDBzbnlOMlcwbHQtcHFtT0tyb1MzMnl3S2xqdExFb19MdkVkdGhNQ3NHVEVnVVZ1Y2hQaHJycjg4UFNfdDJzR2ZjWUd6TFZZRTJkMFNQT3BXc3plWnQwR0YzRUt2MjVfZXhrcXlkWGZTMDVVektjY2RWR25PYzQ3QWliWmd2UHdIX1ZtTFHSAbwBQVVfeXFMTklZeGoyVnI1d2VCZmgtODV0MUhoUG9lMVNTd0tPdDA0ZkoySE1BMmxSdXM5M1pLRVphOVd2djcyRG56a2E4MHR4cVBsdWpGZ0pmQmlrU3k0aEJJdE1fRk1jUGIyRnJ4YkFKeG1CaE5JVEc0cEVOc2JHSllUZGtwazFVdXIybTdpdGlyT3F4Y2dSMGZUWmw5MEFsTDlHVC1MWHJwZ1FBbkd6eGVYMU1MX0FVMzZ6ZlpnLUd2Tm8?oc=5",
-        "date": "2026-07-05T11:02:18+00:00",
+        "title": "El pronóstico de la Inteligencia Artificial para el partido Paraguay vs Francia",
+        "description": "El pronóstico de la Inteligencia Artificial para el partido Paraguay vs Francia Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUTVPSjlKYWduS2tmY1BVR1VGSWthZGhtdnJtR05ZNmJCRGhIaUFQcnhrdUdsWDhvRldrYXZydzRNTllubF83Q01tajRob0k2OTR5cUp1REFYZUwxMGVDck02bmY4YWNvdjFkZTFSaUNkZmE4M01DdXlhYmR2QUppVU00anEtSXE5TDF4QmZ3V1hpTnhQQVY5bW43Yw?oc=5",
+        "date": "2026-07-04T03:24:07+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Especialista explica cómo se puede utilizar la inteligencia artificial en un partido del Mundial 2026",
+        "description": "Especialista explica cómo se puede utilizar la inteligencia artificial en un partido del Mundial 2026 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZl9tX0hpM0liV3k0OUlLQkNlcW9PQWRjOWFFb0l1b29vVm5PT3NCUW9sdUFTLXlWM214VVl3eDNVTVBGU1FTckdYMHUxeXVzSk1janA3VnB2YjhrZlg5SFJ2cHgwWHN5bk5lSl9IMHBhSEl2bXUtY0ZDcTVFTzdXZU56S2NQUDdPQjljamd5Z1pDWWd4b3BNSW5xWHRFNGxRWFpaN3F6NC0yZTU4ek5DSWFsLUlHZk1QR2Z4ekdHN2RfZTg1MkhxT1lCQjV3UzZxcV9aTlhhVUUtc1E00gH3AUFVX3lxTFBRWjgwbW1FdktPSE5OVGg2ZU5COVUxUHpDeHFMM2tVeVVLV09ldDhHMEdJMklpQzIzN2gwVmxEXzd6WlZHLW9uMlhrc0lwUFRiMExUbVZ4WkNJQS1CSjFycmU5cDdxNmtDY190NzdDd0NWNF90dlVTVnpDZE1jUWJsVGRtd2toT1VHS2tjYTJPb29hNUNpNW5KY1BtUFozYjlSa2p2WlhSLW5aeEhVLTRBdk1YM1d2TXBLQ05ZbjFVbDRJSzU5dmZlQUoxSjlrMC0tVjBxSnhnZWU0bjlFdV9TM1Budnd1QW1sekxmcGRiaHRzRFZuclE?oc=5",
+        "date": "2026-07-03T20:30:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "IA: para cubrir la demanda estratégica, Exactas de la UNSJ lanzará una licenciatura",
-        "description": "IA: para cubrir la demanda estratégica, Exactas de la UNSJ lanzará una licenciatura Diario de Cuyo",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjZxbXdNWVVMbEt2Nl9WYWJoU3k3NzA1dThFbWdSR3lOYWZ3M1lvaGs4OXZmM1lYLUUybDZ3MXZSeHFjVV91b3lRbTZ2dExqSjFoQVNXTE1TN21aM3RwTVZYTjFOUmJ2eXZKbnItYmNqRFZJRkxiYXN6Zl91ZnZPc3JtNFFmMERyQVJvbW90YVpsMnk0bDdGbEtKWTBhZXhfTVRUOURFWFZyS1pVMUJPSjQzZXUzeXdldHZEOUo2Z1c?oc=5",
-        "date": "2026-07-05T11:25:00+00:00",
-        "source": "Diario de Cuyo"
+        "title": "Sociedades dirigidas por la Inteligencia Artificial: la opinión de especialistas sobre el proyecto impulsado por Federico Sturzenegger",
+        "description": "Sociedades dirigidas por la Inteligencia Artificial: la opinión de especialistas sobre el proyecto impulsado por Federico Sturzenegger Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNel8zVFFQTHFOd1pYR3NLWkhaZEplNTllNUZxV014T1pwUWtWOUp6UFZ3OGRlWDVwSXFTZlc0amRYbE5KTFZzMlFOVGJCZXRoR3JQZGh6T3RxWHZMMG80NHZoUW5FSjhOWDc3V3drS2MyVzRtNlRsUGxrM2NjWk1BWFNyNVhoU0lrZC1HOVN0LTBndzctQUtQbFA4bllreC1Mc09MSFlMbWliSmEyZThtaXA0dFViUGlFOVFVTW1WbFBHaWpHbk5aT2ZZUUcwRy1LUUMxVy1kZC00Smo2ZFZHLTVkMEVLeEpnUTh6b1V30gHzAUFVX3lxTE9nSjNDSkhpOEJaYXltQnVscXA1WkdZNEE0RklwRlFfSk1RaGFlY1JMRzRnMklON0VLejNSUEdXVy1FZXNnNjdsdDhRMUhNNVY4NjN3MnM3NXU2U3hWVVUxOGFzaE1fRFp6bm50WjY4REVtUW9XOGdYMXZFOHB3YkwtYW1lQ3V2S0dFdTNudTFQbWc0MXhxaEJVS1lqNlEyUWdUTUpsUmlrVFM2SEViWnktWko3ejFPbHIydW00dnpGSnhycEphQlRDbXBtd2xBVlNVb3Y0cV9GcHlZeS1WX3N6TWpHcVRaOXBtQWJZdk1DNm5SVQ?oc=5",
+        "date": "2026-07-05T03:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Guillermo Saccomanno: “La inteligencia artificial jamás podrá suplir la identidad de una escritura”",
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQVpkMFEzbkxEVlZqQ3pQaGVxWXNqcVBxUnBPNjVUMVRoeUl6OENIZjRwcTE5UzlaQ3phM0dpRUR4NnB3SU5KUG9NRUlSeHM5Ni1wVEFpOGZub0ZwOGJGQzVmYV9BQmtveUkxTnZDQk5yZENKOFo4WXU5WDA3a292ZlUyU2FCU0NOc2NRZVUwRWdWWkx1cXhXTXFTMDVrMllIOGxEeWRKUThqcHFzeVBrUGJaYmItcUZDTkZBZHd5Xy02UzdTRlM2OEVfbjh1dGVNZ1E?oc=5",
         "date": "2026-07-03T21:11:44+00:00",
         "source": "Página|12"
-      },
-      {
-        "title": "John Ratcliffe, director de la CIA, comparó a la inteligencia artificial con “armas nucleares digitales”",
-        "description": "John Ratcliffe, director de la CIA, comparó a la inteligencia artificial con “armas nucleares digitales” Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdjQwYjlkNzdFTEE3RVhSU3ZHbVZydkJyQmRFTG96c2lsVk8wOFZSOVZLcGtmTWN3cFVVd0dLVHJQY3htVTBkTjRWV0N4ZFFZTFlwR1JrNzVyelhESlRJZWhvaVdTLXYyYU10dnZ6NV9jVlEwUUdTOXZ3Zmt0R1F1NHpSWnNfczZtQ3lJYmlSS3J2bzFBRWVjOEdnMWpZWjJZTE96S1djSW9DN3lhWnk5UjB2d1JmenF3ZUJjZVk1WHJMajltRkswMlZDSnhIcGprNG1R0gHYAUFVX3lxTE1lbVhmbkdEY0t5T2ZuRS1jUTE2dlIzQW1FTFJkY0F0Nk1oVjZYSk1ubmpiaHpCWUtRR3FwX21LeUwzcUJwbDlLMzhlNHZhamh4bXdCSzVnZDM2OVhVd3RuY2w0T3RsYXBuTHc2Ylo5UlJ3ZENfSmxpY0ZEZ3dqYzRVUVRPc045VG9LZ1VvYl9DTXVXMFFsQXkzQnJ6R0xXOWl5ZUd4WTM2LXYzejRCY0RuQUR3cGpNeFpabVMtU1VBeGt6WkZsZWd6UldheHNyQlp4VVI1dlhLQg?oc=5",
-        "date": "2026-07-05T09:01:51+00:00",
-        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
@@ -170,18 +170,18 @@
         "source": "La Voz del Interior"
       },
       {
+        "title": "El Gobierno prevé que el desarrollo de Vaca Muerta genere 90.000 nuevos puestos de trabajo - TN",
+        "description": "El Gobierno prevé que el desarrollo de Vaca Muerta genere 90.000 nuevos puestos de trabajo TN",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdGRYaTlUVkNvT1VnRGdnX19tQmtHYzJOV0pqM0Fwc19VUlRQb2lwck1Db3IwamNsRzU3OGxCd1VlQVg3NzhOM0tsT3hKdjhyaHFWN0w1MVNQMUk3WExYX3FUMHJhSS1TS1pkM0FsY2xOQ3dxdDJ3VFB0WVVjU0E0eGExanI3bXVHbk9wbURIazloTkR6TTNuczQ3RXhqTDZZeHlRb1BneVdnRTFDRGdOc2FOaC15SWRLM1dmVzBMa3NBUnE1Rzhz0gHbAUFVX3lxTE45Q2hDSDZTS3lEQkhjdmZscHM4QnN5U0xqRW4tcF9SamVEVnpGWUdfWkNTY1VWUnBFRU1SMHZtTkR6Rm16Y09wYl9UQnNyMFJ0NDBFNDhIVzBLekVtYnJkSWRHc2Y1amZKRmlnSEtsMXZENF9HYUE2UldJNy1sTm55ZFNMck53dHRielpwMUo1RGdPd3hnTnR4UjJwWkZFeDFZMGRfMzIxTXZLZ3pid2VjVmpLOXdCdWEyOElqS0ZXbDRRRTNLdlZub0RuR1NTVlJmRFduNXBBNGdiRQ?oc=5",
+        "date": "2026-07-05T12:30:51+00:00",
+        "source": "TN"
+      },
+      {
         "title": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba",
         "description": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba Perfil",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1h3YlRkcGJRdk5tUExXRl9DMlVFdk1iMXRqWndsSllqTk5Lbm84Q2ZNampYUENnX18zNnJQRU1iRTlWSU8tN2ZySjV4dFlhNG1ZSXFLY08tNHFlTkViWHJqRUJiNUlIeFNVRld0cjdILUpWNVI3RlJ2OG12SnZoVTZaX2VlekNXSlAtMUIxNGRZZTRhRmc2VlVPSWZCVUNwVUJRdzhTZGNDQWVSYWxvNkJTc0MzUU5wVmVDdWstWlZrTlRMcnN3RVQwT0xqeGR2RWE2UjVhd9IB3AFBVV95cUxQRWZkQ05vUWx1eDNZY1NhbUFfa1VmbG9LNlV4bWFKcXBTQmhLX1E0N0NGMFlJdVJCeTRvblhGNm1RLV9ZSkxBWDM2Y1lubUgtWlFPZjBSdnRpWURTQ0Z2dkN4SDlHTFJpVGVHem9xSFc0VUl6Mkl6Rm53NkZDeVMydklCV0ZSak1VMTQ0ZlIzblFUejBoclA0bTFqa2ViQkdCRlJNbEJvd1dha3lOX3lTTnJjdkM5VHpTWXR4UGN3Q0pKcUZ1UzlxZ3p0azJoWHFGdzZ4SWxOX1doNlRC?oc=5",
         "date": "2026-07-04T14:01:15+00:00",
         "source": "Perfil"
-      },
-      {
-        "title": "Vaca Muerta generará 90 mil empleos y exportaciones récord para 2031",
-        "description": "Vaca Muerta generará 90 mil empleos y exportaciones récord para 2031 Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0R2X2hPVUtvVmswWDFCTk1WTVJ4THhZNGcwdlh5d3oyRGdJT3dZeTl4cGQwX0E0aUdMZHE5dG9ZUHhSdy16S3NjaUxVVzk3aFhRclpRLXJlU0xwZ0JZczdvM0lQMi1paGk2Q1dTbVNHWTVSOWtMVjg4YmFvbE9SZkdtWW5LRDJFQ1VxTE03RGNBTW95cnNXcm1mQ0hpVk9sUTduSllmbHFHM20wSFBWbkxBQU1YQU5ScXNmX3h3?oc=5",
-        "date": "2026-07-03T18:45:46+00:00",
-        "source": "Cadena 3 Argentina"
       },
       {
         "title": "Completar la normalidad cambiaria, la clave que debe resolver la política para subirse al potencial de Vaca Mu...",
@@ -191,11 +191,11 @@
         "source": "Perfil"
       },
       {
-        "title": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria",
-        "description": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNamJUWWcyRWdVc0NlQndYVnJrQ3VUY1A1REk0dDBwVmJQRTVsQVpQM0ZDLVNIY081NVJxZnA3UjNGaWJSbTEtNkZIRm1aeFV1QndMX0RidkwzUmZhU1Rua2JmdERHdlAwclQxXzYySWZmS29Ud2FxTkRhSXNBTE1COU82SXNBYmFLT0lMdk11bXdZWTNRdmk1ZldLcm1FM3dVcXhGUFlwYXpSM3pBSXJ1a1dVeDVUcmVRel80OU9JM2kzX2x4amJoYVB4ZVV1WlkzeU9iY1pnY29Hd3hsZnU0YtIB-wFBVV95cUxQbUFtYUFGek9JX0tOeE42WDJjLUg3bEFENlo2U2ZzZGVheGtHWVQta29nWTExNlZ5akZUWTlEY29iZmpaYWFmSlJYcnl0UlMxLVhPWldUZGI2YWQ2YXp0U0VDV0N5SGE5aTF4Ql94SEFvbXgtTDhHSmpHNkpycGw5d0JWT0JTa2xsUTM4NV9ra0JzSy1lM0R5bHE5TnFTckhyNGJhOUwyNjNZY3VyaXRfdkxtR3lwNzRDWl9jTkJmWWNEaThzcjRIVHJvZzFGVmcwUFZ4eUNtUG1seFB0N0QtclcxcE1iNGtqSElvZVg0dUh2aHJYdklmV2RxQQ?oc=5",
-        "date": "2026-07-03T14:53:00+00:00",
-        "source": "Infobae"
+        "title": "Vaca Muerta 2026: radiografía de una inversión récord polarizada por el crudo",
+        "description": "Vaca Muerta 2026: radiografía de una inversión récord polarizada por el crudo Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVlpMGlIU0hxWkkzZ2pKNXF4aEQyWXVRV2kySTZNR2NPSC1aS1NFbkZULWctamVjRExaWkJ4SkZfa3lyMlZDTkRVX3hndzBjRkJKejJmbWJLSW50U3prMkVOT2l1dVJ0OVRQTTBmZEw0QTBXb3M5eTZnSEl5REZXSGs3eGxDMmo5SVB3bU05QzAtaW5Ka1BjbThSWUh0Z0FHNDc1M3ZJZHdNNEN4Xy01Q192cGFMSVZn0gG-AUFVX3lxTFByOUxpcHIyM0NMMDFXQlo3emFUclhwRWxVOXh3Z2YzQy1EVEVZM0puMTV2Y2hRWmg5VHV1ZzNWNVpLSHh4R2Nod0NpLUtMWllhMlBVRVd6b3dZZm8zMlc2WF9HUzVLUk92eFYzUHEtcGtnRW9LaVlBcXRLRDNrV2NneEp6MlhBYy1pckdVeW0zTFBPZUNCbGhmQ3VWWkloQllVN2xwRUJRd0cxQlZGTEdZUlM5czhHQV9XUzZsYnc?oc=5",
+        "date": "2026-07-04T03:00:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Por qué se corta el gas si Vaca Muerta está a full",
