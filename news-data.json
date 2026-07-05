@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T07:19:51Z",
+  "updated_at": "2026-07-05T10:06:21Z",
   "categories": {
     "Microsoft": [
       {
@@ -31,13 +31,6 @@
         "source": "VidaExtra"
       },
       {
-        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
-        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
-        "date": "2026-07-01T22:29:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "Cómo la NASA, Microsoft y la UE ayudan con IA en Venezuela",
         "description": "Cómo la NASA, Microsoft y la UE ayudan con IA en Venezuela Euronews",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1JUTElMTXlVSkRsQjdoM3dPNFlQeTVZN0RtSnM5SHVkRzluMWJOd3huSnhzQ3UyYzBrbnpPNkU0OFpVbHRLZ29GZWhvRlIwaFNhejRTTXlCVmVyUmJPdUZ4ckg0Rmxqa0ZjemxDU1ZBSFc1Wjh0cGFoamVjY21zTENhLUtKSDF3U285RUlLbDlYQXhUWlRmU2s5R1hsdXhXZnFZbHF3?oc=5",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlJSekVIRGgxTWQtYnpoUlkwc29LWjRscGlFeU1HZVVLWFgtWTRxZmM5V0RlcE80bWhHZzlPcTNFZDB2TnB3UF9ZSXp0SGhlaVdmX0Q4SV8xcnBRUGdjY09La0k1a3gzNEpobjZEX0Etd0FuSm5IUlBjbE95elV0enZWNlBVNU9yV01FY21sTGwzSTBGSjA4bUlkRXRReWNBTS1OclZGY0E?oc=5",
         "date": "2026-07-04T11:20:49+00:00",
         "source": "MuyComputer"
+      },
+      {
+        "title": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\"",
+        "description": "Satya Nadella, CEO de Microsoft: \"La sociedad no va a tolerar que solo unas pocas empresas hagan todo el aprendizaje\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONmQ4TGFGYkJVRHgzYkI1SldmR2xrQTRBc0o2SVpDN0gzNFMwQUtKZ0UtMGdUYWw3enVpS0t4Zm9lMUlqamVwajBSbXhRd1NtUFVWLTFiZm81QTdVakFnSjRTaVp6NkxmRW1jWHNJZEkyRWFIenBzcTlKWlNhc3FiSXhicXJoMURLclN2V2MwQlBQWGx1MDZ3UVlIVmpjeEJacXN2VkVycGY1WVdNT3BGaGxJWWFHRFNKRzd0WlI0dC1ZVHJXSlpDZmJnbVJRZTdpSmkzR2N0OXg2SFJ1eHBUd9IB5gFBVV95cUxOcU5iZm4zU1UzQ2FDRzc4eDJIVnFKU01fbFZBV1RKMEhMYkNfc1hjRm44UVVXYTJrdjRKVENKNExmeHVWUjl6Ym9Tcm1LUUNKMzRNblFQZFdFY3AzRTFjMUR2TFFjSExEVUFicGY5R2VGVldmY1pMdnlZcnZLY3puUjdHNXpYRzlZd2VEUU9tNnF3N3RwaVd0NjlGd0ljd1R3Q095TE9iV0M0Q3lMYkdZc2I1V1dQMHBrZEl2VktxNF9ta05ldzM0MWNPV0xkWWlnUW1KY0ZpazktQjZfNzlTdWZoR3FTdw?oc=5",
+        "date": "2026-06-28T11:30:13+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -89,18 +89,18 @@
         "source": "noticiasneo.com"
       },
       {
-        "title": "Habilidades esenciales para estudiantes de Marketing Digital",
-        "description": "Habilidades esenciales para estudiantes de Marketing Digital Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkNxZ0toR1VMb0ZfVEQ0VTh2TkhXRi1EX1dmZmx2R3hURkExNDl0Y1ZOV0R2S2VLQzZIa2hiandFeHBONzRqWlNtWXk2TTA5eFhfUFdNbngyMDN0ZTMzQXJ3Q0d0WjJ0aWZfRkw0TEhkYTNzZDJkd1VNXzhMdGY2eDVwa2RodUcxTE4wVURtTnRsU3hyWk5hTExJd3Z1dw?oc=5",
-        "date": "2026-07-05T00:55:43+00:00",
-        "source": "Vietnam.vn"
-      },
-      {
         "title": "Inscriben para capacitación gratuita del sector turístico",
         "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
         "date": "2026-05-27T07:00:00+00:00",
         "source": "Neuquen Informa"
+      },
+      {
+        "title": "Habilidades esenciales para estudiantes de Marketing Digital",
+        "description": "Habilidades esenciales para estudiantes de Marketing Digital Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkNxZ0toR1VMb0ZfVEQ0VTh2TkhXRi1EX1dmZmx2R3hURkExNDl0Y1ZOV0R2S2VLQzZIa2hiandFeHBONzRqWlNtWXk2TTA5eFhfUFdNbngyMDN0ZTMzQXJ3Q0d0WjJ0aWZfRkw0TEhkYTNzZDJkd1VNXzhMdGY2eDVwa2RodUcxTE4wVURtTnRsU3hyWk5hTExJd3Z1dw?oc=5",
+        "date": "2026-07-05T00:55:43+00:00",
+        "source": "Vietnam.vn"
       }
     ],
     "IA": [
@@ -119,25 +119,25 @@
         "source": "Xataka"
       },
       {
-        "title": "La ciudad que cambió los arrozales por la IA y crece como ninguna",
-        "description": "La ciudad que cambió los arrozales por la IA y crece como ninguna Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFVMczVlS3BEWG8xZVhCcks2Q0N1RTNkbTlPUGlDNHI2b2FlV1Nobzdxd1JPdFFVMmM2Z0cxTlQxMkhOcGZ1SElrc2pIWURKcGtBOTFWdVVub29QczZLNVg4bFBjamxmRVVMSkFoVDhsLWZWbFBDeDgtV0ZUb3ZzRGJnUmFNM0hSa2pqbFJ1UWNrMlJUdEpiU2Z5TDdON0VtVDNLRDhLaXktMVVpS0xGLWxsWEV5ZC1UZ3MwRkNVVDNkcW9WVzVsME1nWXVfZlhVUGc?oc=5",
-        "date": "2026-07-05T06:14:38+00:00",
+        "title": "John Ratcliffe, director de la CIA, comparó a la inteligencia artificial con “armas nucleares digitales”",
+        "description": "John Ratcliffe, director de la CIA, comparó a la inteligencia artificial con “armas nucleares digitales” Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdjQwYjlkNzdFTEE3RVhSU3ZHbVZydkJyQmRFTG96c2lsVk8wOFZSOVZLcGtmTWN3cFVVd0dLVHJQY3htVTBkTjRWV0N4ZFFZTFlwR1JrNzVyelhESlRJZWhvaVdTLXYyYU10dnZ6NV9jVlEwUUdTOXZ3Zmt0R1F1NHpSWnNfczZtQ3lJYmlSS3J2bzFBRWVjOEdnMWpZWjJZTE96S1djSW9DN3lhWnk5UjB2d1JmenF3ZUJjZVk1WHJMajltRkswMlZDSnhIcGprNG1R0gHYAUFVX3lxTE1lbVhmbkdEY0t5T2ZuRS1jUTE2dlIzQW1FTFJkY0F0Nk1oVjZYSk1ubmpiaHpCWUtRR3FwX21LeUwzcUJwbDlLMzhlNHZhamh4bXdCSzVnZDM2OVhVd3RuY2w0T3RsYXBuTHc2Ylo5UlJ3ZENfSmxpY0ZEZ3dqYzRVUVRPc045VG9LZ1VvYl9DTXVXMFFsQXkzQnJ6R0xXOWl5ZUd4WTM2LXYzejRCY0RuQUR3cGpNeFpabVMtU1VBeGt6WkZsZWd6UldheHNyQlp4VVI1dlhLQg?oc=5",
+        "date": "2026-07-05T09:01:51+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Filma, edita y produce: cambió el cine y las series",
+        "description": "Filma, edita y produce: cambió el cine y las series Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTZDckQ3OUM0VUJHX05CMm1KUTVKb1Y2Z1BFMzJibUZ0b0s3a1FpWEFOeFZDVUJMYmZnMzZaaE5kZm9jMkRjUUxMbWZ2OGdmdGFjNVEteVBwOTI2MmJFaGFERFJlSF9DdnozNWtJZkh0dnFCTlBaTDJRRHlDZHVOQUstVWRWcUhxWjR2WUkxdGxqMXRraW0wSUVR?oc=5",
+        "date": "2026-07-05T07:47:37+00:00",
         "source": "Diario El Día de La Plata"
       },
       {
-        "title": "Confirmado por Newsom: California lanza la primera herramienta del país para medir el impacto de la IA en el empleo",
-        "description": "Confirmado por Newsom: California lanza la primera herramienta del país para medir el impacto de la IA en el empleo La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTzV4bVQ2cU9MS3Bwa3hyUUtZQ3pMZ2FnYW9ySDVCVXBsX0xqN3pSWXpuRG5wX2xWUUtmcGVXVHdlVFNxTnl6TTlQLUg5RWV1YUJHcWF3am9ORF9VLXhCZEVxdTNvcDAwc2RnZXNzd19LQWxUa0hETzgxWjdBYi1VZFdJZTI4SVFuRWZFVS1ERGNGWnhFN1VBLS1QTGJvTzFHN0c3NFREdThtQkRYd3czd2N0R01UbDBVMmxoMWJLUzVtVm9yX29vUGc3UnZJM2VmVEhwVlNULVlDb1JPa1Zvd1NVZ3hmYnR0RVBEM0pwVnlzTFJ5QW1LWA?oc=5",
-        "date": "2026-07-05T05:15:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Respuestas sin mente",
-        "description": "Respuestas sin mente Perfil",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CVDk2bFpoTUxWaEl2by1CeE5ZNHloR3JWa0pJOW9odjhITnppX1VMTTk2eTZTTU1oWnFGNkJWanVULXpYdGFubVhueldwNEk0emhuTmE4Z1AtRVpLcFNCVWhoX3g1VUgyVHhuWmUyc2tBRllV0gF6QVVfeXFMTm5ZT0lJLVBxWXJRRWZNNXAybnk0NEV6di1YQXBXcjZMXzZMdmptSmtaYzVKZGJQd050WlczVDdBbUhOM0Q4TEkyc1A3R0xWZkxFTXdxMGc2bS04aEFEX0t5UGFpbEo1Sk5aYjJ1VlhzS3gxTWFHVTM0cmc?oc=5",
-        "date": "2026-07-05T06:16:31+00:00",
-        "source": "Perfil"
+        "title": "Antes de elegir una carrera, muchos jóvenes le hacen una pregunta a la inteligencia artificial - TN",
+        "description": "Antes de elegir una carrera, muchos jóvenes le hacen una pregunta a la inteligencia artificial TN",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPajhPWkcwX3ZuZENQWjM2blNvVFBzRkxKQkpMaV9JRUttWEpPdGtHUFhsdzRDWFZoaWFjV3ZEYVBUR3ZLUkR5NU1lMnBuTlBiWXNoOEQxMmZ2Mko3Y1M5WEZTeEdJUUJNMkNoT3o4NlBzTFU4dHFEbDQ4MFZmR3hSUFlaakQ4a2xlT0ItMWJNZFU5QzZTMmZ1S3h0Q2VKbU1EWXE0V1BPQ0cwXzBqU2dCbjdMV2g3T3Fsd0lGUGpzUmpsbXF2aHVwX0thZ0zSAeABQVVfeXFMTzdGaUR5M2VYLS1PSmh1N1NJY3ljMlhieFR3dTlhMFpDaGExNHZORzFDdEo3RXppVUZlVVJ5U3BYZ2RpZjV0TnphNlFoTUFYZ0ZpeWEzeHJuYl83NXY3T0NaejlnaGxJbnpnTjZTUnVnM3g3QjRQVF9waVIwYUZ1WVFtOGlwVkROQkktSjRBWVRmYzMySEExRnN1Q21ZYWo1WFBnUXBNbGVqMTJMR216TUVfcTJCQ0NGLWd6YjZrOHNvUnBJWVR4YkxOUXo5eVlmZ0pWRjJENzhkYkozaDlrSGo?oc=5",
+        "date": "2026-07-05T08:45:00+00:00",
+        "source": "TN"
       },
       {
         "title": "Guillermo Saccomanno: “La inteligencia artificial jamás podrá suplir la identidad de una escritura”",
@@ -147,11 +147,11 @@
         "source": "Página|12"
       },
       {
-        "title": "¿Qué significa innovar en tiempos de inteligencia artificial?",
-        "description": "¿Qué significa innovar en tiempos de inteligencia artificial? Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN192MV8xdEJMVXFwSFJ2cXhrZWpBcWU1bXBGT2xUdGdRMUxlN0tnal91UFZtSC1FMDB4cnB4alZYYUdDM0NWNkJKVEJHQm00SGE2Rml5OEVmNkd6UG5GY05xWU96eHhjaEZ1VE5raW16OWFiYVk3MFd5SW1NUUNYWFFqUlY4cWdxZ1ExYnpGUHU0WDh6MXAzd29RblI4bEU?oc=5",
-        "date": "2026-07-04T14:55:39+00:00",
-        "source": "Clarin.com"
+        "title": "¿Educar en contra de la inteligencia artificial?",
+        "description": "¿Educar en contra de la inteligencia artificial? La Nación",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSy1jWGhZYkwtUnpTWC1Fd0JZZmxIUVcyYlVXeDRWdGYzMUx4TUtnZG1wakQ3Qkp3NnFHWXZWaEl5c3U4SkExd3dMNnNyTU0wQ2VPNjlUTUlXRGtOQjRtbVpjX2lpMzVGX2YzbEJ5eDZlZWx3QWhpMG1FektGaktIclZ6Q3BxSWxmZ21zT3REX2J0M05MTHJ5Ug?oc=5",
+        "date": "2026-07-04T03:04:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
@@ -177,13 +177,6 @@
         "source": "Infobae"
       },
       {
-        "title": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC",
-        "description": "¿Vaca Muerta no es suficiente? Pese a la producción récord, el gas no alcanza para la industria ni estaciones de GNC Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTU5aWNDQWRFdmJYekIyMUV4OVJZQUlEZkljY281MEt1OE53UTU3SEk3bGk0Ujc0aFNZbFV6dzJRZHhzREVBSTduOXZPOHhMZnFuRGwtSXQ5QWJJQV9kblB3eGFEbjc2bkE4TThkTTdLdmlRRGVRQjlYbzIwb1J6Tk85YUllZmNacTRZRFVIV1p2LXd4dEhPUFZDdzA2NW9zM0FiMVZqOVFHZjFIM2djdEdBMmQyM3dsMzBLdThYV09Ud2Z5S05zQTVlbDI?oc=5",
-        "date": "2026-07-02T09:01:01+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "Por qué se corta el gas si Vaca Muerta está a full",
         "description": "Por qué se corta el gas si Vaca Muerta está a full Cadena 3 Argentina",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUZ2c2NwckRuTkpRRVZ5bTJPcjB1UmE5andKREw0ZXJfbUl0SXhBajVLOV9kdTAwa3g3blIzcGM3d3hHT2JLMGd2eUFqRm0wc2h5TU02akd4MFBqTjRlT3p6RW1MMG5SU0JiWXYxTEo5Zlp3NlVaT25oZTlIVjd0RXRtMkx5ZGFhVktnRDEwR1BZQjNsYjRGaFZ0NThrY3BGYkhwTktsY1o3QTI0blpuQTQwSdIBuAFBVV95cUxPbmJMZEdZcl9Pa093WGtlVmhMZ0Ffd0Y0MVB0b01yTW96SkhsSGxLZHRlOGswZUxybmFjcHBtTlRrMlY1bWNyRlJMRndnMjBSWExmSGJtWG55dENMTkVZREFubU11SldGczkzd0xWWndzOGU2SjQwa04zaW05WncyallwU3VoYTRBM21UTkY3Slc4T0FNOEpiajdBNUNHWlJoR3Y3cEhWWGZDbEZPa1VaOUhhUGQ1Z1FN?oc=5",
@@ -191,11 +184,11 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba",
-        "description": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1h3YlRkcGJRdk5tUExXRl9DMlVFdk1iMXRqWndsSllqTk5Lbm84Q2ZNampYUENnX18zNnJQRU1iRTlWSU8tN2ZySjV4dFlhNG1ZSXFLY08tNHFlTkViWHJqRUJiNUlIeFNVRld0cjdILUpWNVI3RlJ2OG12SnZoVTZaX2VlekNXSlAtMUIxNGRZZTRhRmc2VlVPSWZCVUNwVUJRdzhTZGNDQWVSYWxvNkJTc0MzUU5wVmVDdWstWlZrTlRMcnN3RVQwT0xqeGR2RWE2UjVhd9IB3AFBVV95cUxQRWZkQ05vUWx1eDNZY1NhbUFfa1VmbG9LNlV4bWFKcXBTQmhLX1E0N0NGMFlJdVJCeTRvblhGNm1RLV9ZSkxBWDM2Y1lubUgtWlFPZjBSdnRpWURTQ0Z2dkN4SDlHTFJpVGVHem9xSFc0VUl6Mkl6Rm53NkZDeVMydklCV0ZSak1VMTQ0ZlIzblFUejBoclA0bTFqa2ViQkdCRlJNbEJvd1dha3lOX3lTTnJjdkM5VHpTWXR4UGN3Q0pKcUZ1UzlxZ3p0azJoWHFGdzZ4SWxOX1doNlRC?oc=5",
-        "date": "2026-07-04T14:01:15+00:00",
-        "source": "Perfil"
+        "title": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta",
+        "description": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3BpaVo2Um94T3dONEpVRzNsNjVZMmxPekNJYVYxbTFKUnQzbXR5T2tuN3A5Rnh5TG9CSnNyLUFBc2R1S3pNUWhfZnVocFppNEUyNmtpeDE0WEdJT1UzcVFIcDZWbW5SUWhxNjBKQ2g5Nl8yWUZNUXE4Z04xaUliS0taQ1BvQTRiSjBvMGdoTHBZUEhUcjV6VXF1eUZKRFQ30gGoAUFVX3lxTE9fbTlmd1Fjb3pULWdMQXJXa1pKdWZSaWdsckl2cWk3aTVtU3QzQ1QwUENXbGt3TzZJMlV6dmxfVGFGdnl5MVdUTm9iQ0JNeVYyTTFIbDdRUEJ5SmdWWUZ6elVoV3d0RkdMZWlqV3h5b0diTlAyVEhsZXYyaGpSSUItTnBCNndYSHNOUEEwcXJMeFgtbXBDZVdsTDNCQzRuSkRMYTlNZTVVeA?oc=5",
+        "date": "2026-07-03T02:13:00+00:00",
+        "source": "La Izquierda Diario"
       },
       {
         "title": "Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ29BYkVYS2FiN1dDVnl4Zk1SY2llWE9zaERtZi1lcmZlNHRXSm1rYVJZWkF0OFFmT1MybGVlYzBmWnFhdFVWZ2d6aDI1ZFE5emVfcm1ma1pzVGo3Z2lmRDZhQm1LQnNKbTkwTTNtRF9hZGdDdFE4UFczYi1hRGp0ajNQc1pDY3BrQlp0RG51M2tsUUhBWVVHZzRIQUxKeG1oZWc?oc=5",
         "date": "2026-07-03T18:26:48+00:00",
         "source": "La Voz del Interior"
+      },
+      {
+        "title": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba",
+        "description": "Horacio Marín mano a mano: su plan para YPF, el impacto de Vaca Muerta y los planes para Córdoba Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1h3YlRkcGJRdk5tUExXRl9DMlVFdk1iMXRqWndsSllqTk5Lbm84Q2ZNampYUENnX18zNnJQRU1iRTlWSU8tN2ZySjV4dFlhNG1ZSXFLY08tNHFlTkViWHJqRUJiNUlIeFNVRld0cjdILUpWNVI3RlJ2OG12SnZoVTZaX2VlekNXSlAtMUIxNGRZZTRhRmc2VlVPSWZCVUNwVUJRdzhTZGNDQWVSYWxvNkJTc0MzUU5wVmVDdWstWlZrTlRMcnN3RVQwT0xqeGR2RWE2UjVhd9IB3AFBVV95cUxQRWZkQ05vUWx1eDNZY1NhbUFfa1VmbG9LNlV4bWFKcXBTQmhLX1E0N0NGMFlJdVJCeTRvblhGNm1RLV9ZSkxBWDM2Y1lubUgtWlFPZjBSdnRpWURTQ0Z2dkN4SDlHTFJpVGVHem9xSFc0VUl6Mkl6Rm53NkZDeVMydklCV0ZSak1VMTQ0ZlIzblFUejBoclA0bTFqa2ViQkdCRlJNbEJvd1dha3lOX3lTTnJjdkM5VHpTWXR4UGN3Q0pKcUZ1UzlxZ3p0azJoWHFGdzZ4SWxOX1doNlRC?oc=5",
+        "date": "2026-07-04T14:01:15+00:00",
+        "source": "Perfil"
       }
     ]
   }
