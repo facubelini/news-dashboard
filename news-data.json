@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-05T20:52:45Z",
+  "updated_at": "2026-07-05T21:56:29Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft reconoce que una función de Windows 11 podía consumir decenas de GB sin avisar",
-        "description": "Microsoft reconoce que una función de Windows 11 podía consumir decenas de GB sin avisar Microsofters",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONFg5OHNLWEFnaEtOSm1XelZ1Ynl4NkRPb3QxSlJIYXZsR19pSXhmbEc5TXZxOGNRblJrd1NUYnRQaVluRHlJaVJZMGpOeFZMdzJ1dEI3SlpzRjd4WFFuYmJrVjNEUTY1MXotU3B2N0dCU2pIajNuYjNIX0xybHpSRnhna0pUSWZPLWgta3pfWm5iamNoVGpDM1R1MUkxXzJHWkR6V1JpZk81VUJNREZyRUdRZHY5Z0RzbEtKUXNObzZPX0tNVFBrNFZXV1haa1k?oc=5",
-        "date": "2026-07-02T09:22:37+00:00",
-        "source": "Microsofters"
-      },
       {
         "title": "¿Es suficiente Microsoft Defender para mantener seguro tu PC Windows?",
         "description": "¿Es suficiente Microsoft Defender para mantener seguro tu PC Windows? MuyComputer",
@@ -49,6 +42,13 @@
         "description": "Un ingeniero de Microsoft tuvo una idea genial para demostrar que la IA no es consciente de sí misma: usar cabras en Age of Empires II Xataka",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaHBWMHdZcWlDNHlUU3hfWW01QUhyRVVuRjFTZG96QTJzZUhWVTdPbmkzZjRYaFlsQzhUZ1hHbHQwSW90OGlOVlRaemdac0NtdjJrY2x0emlfUDN4SDhRT3J4UG1USTJMTW1yTjBTMV9GWUFsVVBpcUYyU0o3MzFHemNCb2JvVWF1Y2V0a0dVN05fSmlkNEVpVk40SUdhMnpfRkkyZ3pJSFZWbjhrOVpxMTB1MklBcXRqZnJWQ05pVFZpczdXcFRiMWdSRWlJbHAwdEg5cWZn0gHbAUFVX3lxTE45VjlZeFBkTjdLV3hMM3IzWXdmR1lsTXBYX0RhQmFQNVJ1LWN3WEhHeUw2a09QUmRmRVcxdDRnUHhsUGZUc3R0R01Ic3UyWmtPd21PQkVmSUZvZENGdVpGbFNJZVlXWGtFMGN3S0RBakhzOU0xRUdPSUN5LWZ2cndvcDhGRnB1Rzh0Yk44NlNWblViVFFZZmhwaXI1eWxaUmdPSkhDWUk0elhQRHdoWVJOYVQzMHcxMnZrNFluYzlnaEtQbXFJcndHYk1zd3FaWG1sdnRYcXhtWHV0dw?oc=5",
         "date": "2026-06-23T07:00:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
+        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
+        "date": "2026-05-22T07:00:00+00:00",
         "source": "Xataka"
       }
     ],
@@ -105,10 +105,10 @@
     ],
     "IA": [
       {
-        "title": "Una famosa inteligencia artificial permitió vulnerar un sitio de venta de tickets para recitales y festivales de música - TN",
-        "description": "Una famosa inteligencia artificial permitió vulnerar un sitio de venta de tickets para recitales y festivales de música TN",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUi01STlHNDlvT2NtLTE0QkhCaU9nNUoxbUhObFNYSzFTLVgyNktrTjlOeGZJNDJWVF8zTnN2b3hFWUU1a0ZaendxZ0hhOTVWZVFjR0pSNWpRcVNWQVV1T1lXMmVDWldWOUUtRTloaElUVFRGeXNucWNFTGhLcGZJbkFLMGVEMERTRmZ0eXFsV2lPckd3WVRsOHlubUdnUnpYUnN3a3VtdHY1VjljNEtqeFcxV01QZUw3OTRPdU43U2pOU0FPQ19YaEd2OGREZnRPOFVzd3g1aVJnSHRxZHk3M3p6MjJsQWFXS2xNOGt1dkdMY0trSXkzTdIBjAJBVV95cUxPdlNsVVEwMTEtbUhKelpva0JJdGdCeVJneENPYXhJMmlpUXlwNDBaT0Y0TWNpdUY0V0xvUmF3cktnTzZONEUwMDk5bENMUVBlaGhPbkRUbzBlLVkzUTc5Yi1iamNkM2F3eG1vMHVCNmxOejlyTXBpaWVUazN4OU5Mc1ljUDFpZHJ3bE5iQXh3dlA5ajBKOTR4SG5ES1RDcXdUSEVMMnA3WHBROF9SZXFybGNNQmNTMVFmbzBQZ0gyVUhhcHNuT1o1aHQyVnlyTGxEUWFuckQ1MmxoS0VjcWE0SW9uZHRCX3Rfa21qYVYxUko0U1hzRmF3R2lWME1Pdk41aUswdEp2bExpWXRS?oc=5",
-        "date": "2026-07-03T11:24:40+00:00",
+        "title": "Stephen Hawking, científico: “El desarrollo de una inteligencia artificial completa podría ser el fin de la raza humana” - TN",
+        "description": "Stephen Hawking, científico: “El desarrollo de una inteligencia artificial completa podría ser el fin de la raza humana” TN",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY1JWSWE1UnZUazF6LWp4V0ROS05pMXpZT2ZoTVd3NkZDMXpPUFdkN0hIaVpRd2tvSnNqTDlUcS0xUnpTUmhzdm9tMGxNZGtiTl9rTi0wcmtMdnhLUzNDcDRNcmlKeWZETlRVenl3TGhIZV9PcmZqOE1PdEFxYVRBSGdPUlFSWGhEZDNmM0VQUm9MelBYQ2NBS25LbjV1MUk1dmJodWtTZXdJUmhSRTdmZi1LSVZFRkFna3FrSm9sTEFRcDlxdjFFNVhqY3BEYnRVWVoyZjJjN00zdjliTy1fVnItT2hqRWdDdW5N0gH_AUFVX3lxTE9LZ0F2aC1UNHl1eFFPSXNQNFRoNkNBRFBCZDREZVpYRktKMkhCNTBjZ0J0ZWRaVUJrS0hUcEFYZFJFLXhHQkRkcGF2RUlTa0VfbHlZQUJIX0NadWtoZEllOWZDLUNvcVAxd21NbVlDMnVid1drZUJLU213WHl1ODByb0ZRSEJFT3lqcEJ4Qy1ZVmZrQnhVREl4TDV6c2R6OUN3MkwzTGF5eFBfT08zUk1xaUl3aDZDdVNzdzZ1YnR1Y25VUFAxbDY1Z2cyZzZhVTlkN0xwdjRtNnRLYjZ3SlVSNkVrWk9sLWNUcVFkRlQxN1NEbkRKYlc1YThlRzZGTQ?oc=5",
+        "date": "2026-07-03T10:36:03+00:00",
         "source": "TN"
       },
       {
@@ -147,11 +147,11 @@
         "source": "Ambito"
       },
       {
-        "title": "Guillermo Saccomanno: “La inteligencia artificial jamás podrá suplir la identidad de una escritura”",
-        "description": "Guillermo Saccomanno: “La inteligencia artificial jamás podrá suplir la identidad de una escritura” Página|12",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQVpkMFEzbkxEVlZqQ3pQaGVxWXNqcVBxUnBPNjVUMVRoeUl6OENIZjRwcTE5UzlaQ3phM0dpRUR4NnB3SU5KUG9NRUlSeHM5Ni1wVEFpOGZub0ZwOGJGQzVmYV9BQmtveUkxTnZDQk5yZENKOFo4WXU5WDA3a292ZlUyU2FCU0NOc2NRZVUwRWdWWkx1cXhXTXFTMDVrMllIOGxEeWRKUThqcHFzeVBrUGJaYmItcUZDTkZBZHd5Xy02UzdTRlM2OEVfbjh1dGVNZ1E?oc=5",
-        "date": "2026-07-03T21:11:44+00:00",
-        "source": "Página|12"
+        "title": "John Ratcliffe, director de la CIA, comparó a la inteligencia artificial con “armas nucleares digitales”",
+        "description": "John Ratcliffe, director de la CIA, comparó a la inteligencia artificial con “armas nucleares digitales” Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdjQwYjlkNzdFTEE3RVhSU3ZHbVZydkJyQmRFTG96c2lsVk8wOFZSOVZLcGtmTWN3cFVVd0dLVHJQY3htVTBkTjRWV0N4ZFFZTFlwR1JrNzVyelhESlRJZWhvaVdTLXYyYU10dnZ6NV9jVlEwUUdTOXZ3Zmt0R1F1NHpSWnNfczZtQ3lJYmlSS3J2bzFBRWVjOEdnMWpZWjJZTE96S1djSW9DN3lhWnk5UjB2d1JmenF3ZUJjZVk1WHJMajltRkswMlZDSnhIcGprNG1R0gHYAUFVX3lxTE1lbVhmbkdEY0t5T2ZuRS1jUTE2dlIzQW1FTFJkY0F0Nk1oVjZYSk1ubmpiaHpCWUtRR3FwX21LeUwzcUJwbDlLMzhlNHZhamh4bXdCSzVnZDM2OVhVd3RuY2w0T3RsYXBuTHc2Ylo5UlJ3ZENfSmxpY0ZEZ3dqYzRVUVRPc045VG9LZ1VvYl9DTXVXMFFsQXkzQnJ6R0xXOWl5ZUd4WTM2LXYzejRCY0RuQUR3cGpNeFpabVMtU1VBeGt6WkZsZWd6UldheHNyQlp4VVI1dlhLQg?oc=5",
+        "date": "2026-07-05T09:01:51+00:00",
+        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
@@ -163,18 +163,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Empresas familiares: de vender sábanas en Neuquén a convertirse en el principal proveedor local de compañías de Vaca Muerta",
-        "description": "Empresas familiares: de vender sábanas en Neuquén a convertirse en el principal proveedor local de compañías de Vaca Muerta Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFVJNDdPeWg3dUREMFNPSmZNd21Cb0xpUlhTQW1OQlJZVzFjUWp3U2Y1YmVQaVkwaExMYS01MlRTMkhxaktKMTRvWmdLWDM3NDdaaEhYMkxZY3hWRjlUZThMeFJIUHdBUHVQUEdyU0xBLUlVX3JkZmxsdHR0WU9MTTJyRm00V0U0SGFZNzNxU0kyQm54TWlGLVAzSVM5R0d4Z1VkUTNLRlFxMTl3SXNjUDB4UWdZc1V6bi1MdW9aWlpXcmxsd00tamtjVEt1U2N2QkVLbnk3SHhBU1NuQlY00gHkAUFVX3lxTE5tdDR5OG9EYWpseS10MzRqa1RfOVRiSzVjTTFyVDRfajU1cjJNVWlhRF83c2NTcFhIczhKaDZQN3d6c1huM19xeDZKV011emhzT3BUMUxSYk5IMlpmcm1Fa2dONHBpV3FwaGpzZjVtdmVOSDA4dmZRX05yT0xxRmlMQ2ZhVFJpWG0yNmVvVkY5alExN3czS0NJOXJDNlVWdzZlYWZYTlgtM3EtdkRXbmotQ2RmSkFlR0lLN0xzWDU2ZXFLS0stVG5WdWJwb1JuUXhYSGhacllxVWZ4SExScEZpd2t3aQ?oc=5",
-        "date": "2026-07-04T03:00:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "Completar la normalidad cambiaria, la clave que debe resolver la política para subirse al potencial de Vaca Mu...",
         "description": "Completar la normalidad cambiaria, la clave que debe resolver la política para subirse al potencial de Vaca Mu... Perfil",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb1NyZ29STWM5eTBWdzQyOTZSNEJ2b1hsRDFVQVYyQXA3dUZFM0Zfcl9adFdfZ1VVTFA3MmtyWnhlMGZyU1FqNXJWeUt4bUdsaUFMNGRGbzFheldZWXlhcEZJQ2c2ZE5CWVdYcG0xTzVaZkNuVm05SWZYUW15YkFycFRXb1ZTMWhNa2pKdWxTS2xMWkFXMWlPLV9RREVtQnNDOTg2WFBOakRPTzJuQjVWN3F1M1RhQzlYYnU3YjBISlpEOWRaUVduclhISjhzdE1pSXZtMG0xY3FPc1U1aTRZS21vajJRR2JnejZ5MFNZd3fSAfYBQVVfeXFMUGRvNVZUM1RKaGRWLUYtS2IxS0ZEZEFQYk1IYlc2NDU1QzJMYkR5TmhnbUF6T3BxVXZESUpmd0Q1Qk4wTENYMkZaQ2tHOC1ZM3NUQ3ZXa1BIMmxRLVFtSC1adEZaSDVOczVCYjAtT2M0eHRRcjdrQWhCbDNhdUlNM2ZKVGM0TjVFWDhNc1pxU1Z4TWxhd3dEUXZpMmtHVi01eDFfZWN3Wk5KTFNzM1hPZWdmdy1nOGN0Qndzajd2TzdYb191ZjNlc01OdkphZGFMWWdFTDhuYmNhZXM4MjlVNHlSNFhkNk51azB2RlYzbTJnU2VaQnJn?oc=5",
         "date": "2026-07-05T01:59:00+00:00",
         "source": "Perfil"
+      },
+      {
+        "title": "Empresas familiares: de vender sábanas en Neuquén a convertirse en el principal proveedor local de compañías de Vaca Muerta",
+        "description": "Empresas familiares: de vender sábanas en Neuquén a convertirse en el principal proveedor local de compañías de Vaca Muerta Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNFVJNDdPeWg3dUREMFNPSmZNd21Cb0xpUlhTQW1OQlJZVzFjUWp3U2Y1YmVQaVkwaExMYS01MlRTMkhxaktKMTRvWmdLWDM3NDdaaEhYMkxZY3hWRjlUZThMeFJIUHdBUHVQUEdyU0xBLUlVX3JkZmxsdHR0WU9MTTJyRm00V0U0SGFZNzNxU0kyQm54TWlGLVAzSVM5R0d4Z1VkUTNLRlFxMTl3SXNjUDB4UWdZc1V6bi1MdW9aWlpXcmxsd00tamtjVEt1U2N2QkVLbnk3SHhBU1NuQlY00gHkAUFVX3lxTE5tdDR5OG9EYWpseS10MzRqa1RfOVRiSzVjTTFyVDRfajU1cjJNVWlhRF83c2NTcFhIczhKaDZQN3d6c1huM19xeDZKV011emhzT3BUMUxSYk5IMlpmcm1Fa2dONHBpV3FwaGpzZjVtdmVOSDA4dmZRX05yT0xxRmlMQ2ZhVFJpWG0yNmVvVkY5alExN3czS0NJOXJDNlVWdzZlYWZYTlgtM3EtdkRXbmotQ2RmSkFlR0lLN0xzWDU2ZXFLS0stVG5WdWJwb1JuUXhYSGhacllxVWZ4SExScEZpd2t3aQ?oc=5",
+        "date": "2026-07-04T03:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Impacto. Vaca Muerta generará 90 mil empleos para 2029, según el CEO de YPF",
@@ -191,18 +191,18 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta",
-        "description": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta La Izquierda Diario",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3BpaVo2Um94T3dONEpVRzNsNjVZMmxPekNJYVYxbTFKUnQzbXR5T2tuN3A5Rnh5TG9CSnNyLUFBc2R1S3pNUWhfZnVocFppNEUyNmtpeDE0WEdJT1UzcVFIcDZWbW5SUWhxNjBKQ2g5Nl8yWUZNUXE4Z04xaUliS0taQ1BvQTRiSjBvMGdoTHBZUEhUcjV6VXF1eUZKRFQ30gGoAUFVX3lxTE9fbTlmd1Fjb3pULWdMQXJXa1pKdWZSaWdsckl2cWk3aTVtU3QzQ1QwUENXbGt3TzZJMlV6dmxfVGFGdnl5MVdUTm9iQ0JNeVYyTTFIbDdRUEJ5SmdWWUZ6elVoV3d0RkdMZWlqV3h5b0diTlAyVEhsZXYyaGpSSUItTnBCNndYSHNOUEEwcXJMeFgtbXBDZVdsTDNCQzRuSkRMYTlNZTVVeA?oc=5",
-        "date": "2026-07-03T02:13:00+00:00",
-        "source": "La Izquierda Diario"
-      },
-      {
         "title": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria",
         "description": "La paradoja del gas: Vaca Muerta produce más, pero faltan gasoductos y vuelven los cortes a la industria Infobae",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNamJUWWcyRWdVc0NlQndYVnJrQ3VUY1A1REk0dDBwVmJQRTVsQVpQM0ZDLVNIY081NVJxZnA3UjNGaWJSbTEtNkZIRm1aeFV1QndMX0RidkwzUmZhU1Rua2JmdERHdlAwclQxXzYySWZmS29Ud2FxTkRhSXNBTE1COU82SXNBYmFLT0lMdk11bXdZWTNRdmk1ZldLcm1FM3dVcXhGUFlwYXpSM3pBSXJ1a1dVeDVUcmVRel80OU9JM2kzX2x4amJoYVB4ZVV1WlkzeU9iY1pnY29Hd3hsZnU0YtIB-wFBVV95cUxQbUFtYUFGek9JX0tOeE42WDJjLUg3bEFENlo2U2ZzZGVheGtHWVQta29nWTExNlZ5akZUWTlEY29iZmpaYWFmSlJYcnl0UlMxLVhPWldUZGI2YWQ2YXp0U0VDV0N5SGE5aTF4Ql94SEFvbXgtTDhHSmpHNkpycGw5d0JWT0JTa2xsUTM4NV9ra0JzSy1lM0R5bHE5TnFTckhyNGJhOUwyNjNZY3VyaXRfdkxtR3lwNzRDWl9jTkJmWWNEaThzcjRIVHJvZzFGVmcwUFZ4eUNtUG1seFB0N0QtclcxcE1iNGtqSElvZVg0dUh2aHJYdklmV2RxQQ?oc=5",
         "date": "2026-07-03T14:53:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta",
+        "description": "Ola polar: falta gas y suben las tarifas en el país de Vaca Muerta La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3BpaVo2Um94T3dONEpVRzNsNjVZMmxPekNJYVYxbTFKUnQzbXR5T2tuN3A5Rnh5TG9CSnNyLUFBc2R1S3pNUWhfZnVocFppNEUyNmtpeDE0WEdJT1UzcVFIcDZWbW5SUWhxNjBKQ2g5Nl8yWUZNUXE4Z04xaUliS0taQ1BvQTRiSjBvMGdoTHBZUEhUcjV6VXF1eUZKRFQ30gGoAUFVX3lxTE9fbTlmd1Fjb3pULWdMQXJXa1pKdWZSaWdsckl2cWk3aTVtU3QzQ1QwUENXbGt3TzZJMlV6dmxfVGFGdnl5MVdUTm9iQ0JNeVYyTTFIbDdRUEJ5SmdWWUZ6elVoV3d0RkdMZWlqV3h5b0diTlAyVEhsZXYyaGpSSUItTnBCNndYSHNOUEEwcXJMeFgtbXBDZVdsTDNCQzRuSkRMYTlNZTVVeA?oc=5",
+        "date": "2026-07-03T02:13:00+00:00",
+        "source": "La Izquierda Diario"
       }
     ]
   }
