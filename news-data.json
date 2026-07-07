@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T18:58:06Z",
+  "updated_at": "2026-07-07T20:50:25Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,11 +10,18 @@
         "source": "Perfil"
       },
       {
-        "title": "Microsoft sube gracias a su apuesta por IA propia para reducir costes",
-        "description": "Microsoft sube gracias a su apuesta por IA propia para reducir costes Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01pRk9DR04xUDdtamJyd3ZnT1F1dG1VdVZ5cEpqNHllWGVlWENqODY3YmRrV3hSMUp1SlZnUGlqdUZTZ1BJVkNNTmdkMjV4N2M5a0FNTGd4QlNKUmVBTHUtMldEVi02WmFPaEEwN1VVZFhfZzlLcXp0TlpuTzFTeVdWV3ZTZ3JuMU40SzhVdWI4cWlrVVJ6Wk03TTNSN2lzUi03SU4wTTlpb01NZXoxMzZCTTVleFBHdGZtN1AxTEFDTWs?oc=5",
-        "date": "2026-07-07T16:27:00+00:00",
-        "source": "Investing.com España"
+        "title": "Microsoft reemplaza modelos de OpenAI y Anthropic con IA propia en Excel y Outlook",
+        "description": "Microsoft reemplaza modelos de OpenAI y Anthropic con IA propia en Excel y Outlook Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTExYbkVoZ3dMQUhpalpmRFdtczhKdkxHNUJCdkJra2pUUmFuWm9yYVo5cHJhUXp6Sl9lMy1KNEREc0x4cEJPOVdaU1R1bEtLUVZpT1V3R3lKYjdxMzFncDBRWnNJUXdOazFuNGJILU9VbTZDMDhkQ2JvSVRXcVZDMFBuV1B0aVNrOEQtbk1KQ2ZpTGpEWnFnS1lvd25QbTFWTUhV?oc=5",
+        "date": "2026-07-07T16:56:21+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Microsoft empieza a reemplazar OpenAI y Anthropic por su propia IA en algunas aplicaciones",
+        "description": "Microsoft empieza a reemplazar OpenAI y Anthropic por su propia IA en algunas aplicaciones Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc05SZl9mS1MyTFdmeldjcHVFQzFVOHB1Z2NSNWVHWUx0dHJqOWI2QTZFaENkV1dLZWpXOGpfNnprblVESm02YUN0dXF4M2Z3TGVvdUVCaTdlSFlkcHlvNi1sUlAyR3BLZVVvYkJXS2djX2U3YVhPTURKNlRwenJTM3BMV3FaQUU2TjZYMzQyZlI1ZWc5MUZUUC1iNndWMUx6NmR3YmMwZlVhRkRPa1BKVXBFb3gycnRSTUJqa19HOTVFZ0ZnVXp1cEp5QdIB3wFBVV95cUxQRGFOY0tTVThVWVkzVG5DTmRCX0lCeE9FZ19DdlROVlBraHlhYkJlSTdlRll0QjR3RkpZdzQ1TzNTdXRpZnFHdFh2WGhxUlBfWlpqcTJSMDdzd3ptMm9IblRWRGlrbWxfNHY1TEFpZ2RXUUdHYWhvZGZLdGgtR1o2STlmMFNfZ1BDZ1JfOFV5cUxkcnRWQUhWYkZFczMyVXR6eDhHMEMyekliVWFISm9VQjZsWmdwM2xqd0thVGZvNUhZWXNDRGd0ZEQ2LTBIUmJrbTVjWUV2bzd0ZmpwbHlN?oc=5",
+        "date": "2026-07-07T18:59:12+00:00",
+        "source": "Bloomberg Línea"
       },
       {
         "title": "Meta prepara su propio negocio de nube para competir con Amazon, Microsoft y Google en inteligencia artificial",
@@ -24,32 +31,25 @@
         "source": "Infobae"
       },
       {
-        "title": "Microsoft despide a más de 4 mil empleados para volcarse de lleno a la inteligencia artificial",
-        "description": "Microsoft despide a más de 4 mil empleados para volcarse de lleno a la inteligencia artificial Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNczFiR3dzNGJXZVh0d0NBVVIwZlBxSVBtT3FDRG83eThFeVNIN3ZYYzlielR2cmp4eUVKSno1S1BUbnJIZ3J4U2FoT0JlcGppY19IcUVZRWJDc3V3Q0d6dkdFeW52Y1ppaFpQWFpSbkpnUkZuUU9LSlg5bkNDMFU0aUF6WVJQcVFBSWlaWVg2Z25TWG1yaFRIRDh1d3I2S1p1LXM0ZzFxSERQV3hmY0ZLQXBKdVZGZFJEMmVIYzBOdHJJaE52WFk4aDdBTVVkcmJxZzQtQzlxRVhhTkY5TFBjMVNrRdIB4wFBVV95cUxNczFiR3dzNGJXZVh0d0NBVVIwZlBxSVBtT3FDRG83eThFeVNIN3ZYYzlielR2cmp4eUVKSno1S1BUbnJIZ3J4U2FoT0JlcGppY19IcUVZRWJDc3V3Q0d6dkdFeW52Y1ppaFpQWFpSbkpnUkZuUU9LSlg5bkNDMFU0aUF6WVJQcVFBSWlaWVg2Z25TWG1yaFRIRDh1d3I2S1p1LXM0ZzFxSERQV3hmY0ZLQXBKdVZGZFJEMmVIYzBOdHJJaE52WFk4aDdBTVVkcmJxZzQtQzlxRVhhTkY5TFBjMVNrRQ?oc=5",
-        "date": "2026-07-07T15:32:00+00:00",
-        "source": "Rosario3"
+        "title": "Ha estado 37 años en Microsoft y ha sido clave para la retrocompatibilidad de XBOX, pero hasta él ha sido despedido de la compañía",
+        "description": "Ha estado 37 años en Microsoft y ha sido clave para la retrocompatibilidad de XBOX, pero hasta él ha sido despedido de la compañía 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWnhnV3A3ZzVyRUJLNGY1N1ljWTNzNHAtLUFWYkpURGpqeXI3VGlqOXhKbHR2MUYzN01rYUJEajctZklVd2d2bVgtbnRlZmRDak5ZdDdsUnNtekc4YldNdHMyRWk2cWNzQ3p5WmpQZkhsbHhrdllNb05QMnZFWG44bEVvMDZwZV8wS3UwczhMeWEtMzgycTlkWHVXVnQ5bEx3ZGlUZ29yYllvbE1rUUNtOUEtV3A5bWxFd0ZXN253ME92UFJmUDlaYkNzNldxQTdva3pFdVNWY3hDaDNyanFBR9IB5gFBVV95cUxQZGRIb0JfaTJkU3JWQVRPTEVuQWRBME1NdlpoQ3pOWkduLWlyNm12WTBHT1JUMHU1UUU5VV9aVHhUaWJxcXlEN3VMdHpIV2pvQjlpYVFiZi05RlM3UEV4LTlsV1hYRER1Y2hjZkZJLURhRnNnSFhVNTg0QzJFX1A1WklZM01CZUtoRTZ0TjR1bllPTGxFVFV2LXk0RnhGNDRsWmpaTHY2V0tkckxEaW00NjNDYnRFTklRNmZNajhyTjhwNzZldXJxMjVVNkZNUUN3OTBDWk9jUmVEeXpEOEJHenZheVcxQQ?oc=5",
+        "date": "2026-07-07T18:15:18+00:00",
+        "source": "3DJuegos"
       },
       {
-        "title": "Claude llega a Microsoft 365: así funciona la integración con Office",
-        "description": "Claude llega a Microsoft 365: así funciona la integración con Office Blogthinkbig.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkxNdjVjWnNBOTlicWFDRGVEZlBNeE94T1FpcVlpZTU5d1o5Z3FmNDNSR2pyaU9zZ2ZNemNGN21pT3VaX3pIdUNIVU5TLTM4blpSZks4NS1WMy1zbWxQTXBxZDdidTJFSC14eGtScWZSN3ZqTVpCYVBJeVhaejBNWmZwZHJwRWxJTFJCaHJvdDdBU2NJMEdR?oc=5",
-        "date": "2026-07-06T09:55:53+00:00",
-        "source": "Blogthinkbig.com"
-      },
-      {
-        "title": "El reseteo de Xbox ya tiene explicación: Microsoft ha errado el tiro con Game Pass por kilómetros de distancia",
-        "description": "El reseteo de Xbox ya tiene explicación: Microsoft ha errado el tiro con Game Pass por kilómetros de distancia VidaExtra",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUEzbHpSa1BuWTkxcUZnLWd3QW1PWmtWLVV5TTZISGFOdVJ4c3hhckpxMzVOMXlmTzFvR3NxeWZkOWVid3NMLXI3cm9fcFZhMHg3R016eVpnalJzTkJabWpwVE5jTy1GTlMxM2Y1ZmFMck9PdlB6RTJzVDB6bHlsTGE2STl4Z1d4bXJRaGg2aVdXUFBGOFBpNEdZZzlqSE1nQmpWUkZveGNCZUZXU0F0QWwwaVN6c2ZrQ3FnNExhbEpFdw?oc=5",
-        "date": "2026-07-07T06:00:53+00:00",
+        "title": "Una de las creadoras de Xbox pincha en hueso al revelar la \"trampa de la libertad\" en la que ha caído Microsoft",
+        "description": "Una de las creadoras de Xbox pincha en hueso al revelar la \"trampa de la libertad\" en la que ha caído Microsoft VidaExtra",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ25XYUFlVGE2emt0LXprdWNIZVRNbG40MnpjQ3FYQVJEaUdHbTFqMUp1bzgtVEwxaFp3SXRRQklhZ3gxczlZa21YTmNYaGxqd0xMV1cwZWY4emlvQU1vRXF4cGE3VGc5V29xZWQtZlRSTGk1SjBHM2szWG9PNGlLV3VHb3p6NS1fLVpHSFM4ZFdCa0xKY1F5d2JsaFJwdHVGdlU0T3JkTl9yeS1PeWdEYk5ndDUwQQ?oc=5",
+        "date": "2026-07-07T16:33:44+00:00",
         "source": "VidaExtra"
       },
       {
-        "title": "Microsoft comienza a reemplazar modelos de OpenAI y Anthropic con IA propia en Office",
-        "description": "Microsoft comienza a reemplazar modelos de OpenAI y Anthropic con IA propia en Office DiarioBitcoin",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakpfUEtTMnFoZVZ6MTJNS3RrY0ZiNll2SnI2a3hWdF9vaV81cVJrVTlfak9yU3A4V3hwdjZ1VXh6SFp5aXRtaW5KRE9tUlZac2tXRXgyMEEzblBKMXRocE5MTEI4OUpySWE0Y3A4OXJkRnYzdk5QcWZ1TTI4QnhINUpyVUZ6enNiSl9Hc1hmTHNpS1BZN19RYzlOTkUtOERjZEtWV1RPQ2NZZnFnZFp1M1Q0NnZlN1dkQnF3?oc=5",
-        "date": "2026-07-07T16:52:03+00:00",
-        "source": "DiarioBitcoin"
+        "title": "Microsoft sube gracias a su apuesta por IA propia para reducir costes",
+        "description": "Microsoft sube gracias a su apuesta por IA propia para reducir costes Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01pRk9DR04xUDdtamJyd3ZnT1F1dG1VdVZ5cEpqNHllWGVlWENqODY3YmRrV3hSMUp1SlZnUGlqdUZTZ1BJVkNNTmdkMjV4N2M5a0FNTGd4QlNKUmVBTHUtMldEVi02WmFPaEEwN1VVZFhfZzlLcXp0TlpuTzFTeVdWV3ZTZ3JuMU40SzhVdWI4cWlrVVJ6Wk03TTNSN2lzUi03SU4wTTlpb01NZXoxMzZCTTVleFBHdGZtN1AxTEFDTWs?oc=5",
+        "date": "2026-07-07T16:27:00+00:00",
+        "source": "Investing.com España"
       }
     ],
     "Marketing": [
@@ -75,13 +75,6 @@
         "source": "El Ciudadano de Mar Chiquita"
       },
       {
-        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
-        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
-        "date": "2026-02-13T23:09:21+00:00",
-        "source": "Universidad Nacional de Cuyo"
-      },
-      {
         "title": "Vender sin vender: la nueva regla del marketing digital",
         "description": "Vender sin vender: la nueva regla del marketing digital El Cronista",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXg4alUxRmRibFZFVDBSa204TnJLRy1Tb3JrcUFob0RtLVhIWHBwc3FxR3hDcXZLU3RaekVCNHNoRl8tN193bzdZZDdoLXc0Z1FVQnIxQmdqVFRhWWVDTW5zT2VTQnBuQ05jMFlZZkdwYmF2NTV0d1VpWkFHZ3pLRktLVkdqTS1xUnVFMFpCTGhldEHSAa4BQVVfeXFMT3pBVmR2Nm5BcXAxQ3p0TlE3SDhEUVlDM29KcVpwYzZseTBnWHFZb2lnSFQ2S3lCQURjMDhHTk5UTkd3dFFNX1I4YWxSckhVUG1DVHI0MThLV3JxZU1tMW1vb0NCQUM0bjYyU3Zjc2toSmlJaFFla2pHU1VYUGtnS1hTR0doY3BuTXJqdDE3SkZaTi03UVhhb3RoMklOZ3Y1WXZWYmVpakhEV3h1dkx3?oc=5",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
         "date": "2026-05-27T07:00:00+00:00",
         "source": "Neuquen Informa"
+      },
+      {
+        "title": "Abren las inscripciones para un nuevo taller gratuito de creación de contenido y marketing digital",
+        "description": "Abren las inscripciones para un nuevo taller gratuito de creación de contenido y marketing digital SL24",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlM1UWNndndsZWdlaWJLeExQWFhoU3MyU20wQ3RVSW1BUXVPeF9tWlFyYUhqVzJVeHVpd3R4Zk1NVmNySVR3SXMxMXcyWlBZRDgtT1lLQ1N1aVFLTzBXVFY2Q3JicVh2eE9sb3phblRCNkZXSHJ2MGgtMEhnd0taUlRNWXMzOGM4S2ZjaTJmVmluek1KamtpQXZwOVpzak9CNVNPWUF5aEFwZm9FblFfaC1wSWp6QWpHeU9F?oc=5",
+        "date": "2026-07-02T15:24:00+00:00",
+        "source": "SL24"
       }
     ],
     "IA": [
@@ -112,25 +112,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La inteligencia artificial predijo el resultado de Argentina vs. Egipto y sorprendió con el papel de Messi",
-        "description": "La inteligencia artificial predijo el resultado de Argentina vs. Egipto y sorprendió con el papel de Messi Los Andes",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDB1Qi1nNVp3WHVZMjVYTjFRanRuX19IaDBMRWRka21KejBjbGhFRm1rcC1NZ0NWVkhPWUFCRVJkenFuUERjeEs2XzdOV3J4cDVDNUtoeG9xZkNBMkFHS2NkTlUwTThrRFNQMlc5OGhKM2tvQnBES2JlZlY0VHhMTVFxVmRieEdTZXJXczJvRVR5NGcwRHBrZHU0Ry1xWnhESDgzT0psOW5rVTZRWGNETUdKWEZSUnVrV002LVI1RzRKaUtWNXNHeTJDWkJPamRmZlhycG0tY0s?oc=5",
-        "date": "2026-07-07T12:38:00+00:00",
-        "source": "Los Andes"
-      },
-      {
-        "title": "Argentina vs. Egipto: el pronóstico de la inteligencia artificial para los octavos del Mundial 2026",
-        "description": "Argentina vs. Egipto: el pronóstico de la inteligencia artificial para los octavos del Mundial 2026 Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ0hCUVRkTFpNUGtGbkJRZ28xUEc5MDZGYTF4ZFBqQmRPTG5kNi02RnZvR0N6M3Q2TmJWOXQ4aTRrZS01SUtNY054VXZTaUEzN2RYdFVtVzlNNlZaWVM3dFBqMlRyWEdIUnlnQm5KU3FLRnlFWWxmTDd2d1pkNXE0ZEtHQ2RhbzF4OGdPbE9MUE81c2dheXJDOWZHZ3p4M091WmpGRHlVNXNwaUJNdzZkal9VLWFIMTNPeFQxT1ZTYmhEcVZwdFNNQXB2MlR0RkxLY1JjbHlLckxfaHA5RmV0SVJn0gHnAUFVX3lxTE9FU1Q5anNqNTBBLXhiYTQxR2JuVjNoeXhKN0FkSnE0RGh2RG10TEllSXMyck9hdVMxSGFRN2ZGaDZmZUxuVFZVdlNSYUJSNVhuV1ZtNDUxMG5rN08zcU5iNWxTVnAweUZuaEFjS0JMVHFGUi0yWl9SazFfSnJXMXJIRVJGNnJiX0FVSXlra2JndUtsYm4zVloyTjNKcm9OV1UxeUVka1VHNlFnT2pCQUZUNWZ3OTMzVHpSTUNVaFFIVUZfbFhEb2FTc3BmR1Uwc2wwVVh0MGJUbmVRb002dlJZeXJ3WVo1WQ?oc=5",
-        "date": "2026-07-06T19:50:53+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "¿Cómo saldrá Argentina ante Egipto y quiénes marcarán los goles, según la inteligencia artificial?",
-        "description": "¿Cómo saldrá Argentina ante Egipto y quiénes marcarán los goles, según la inteligencia artificial? TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzF4ektON3N2WUk1TGRmY183MEF0cWJ1Yi1DQ2hHN24xRTlsRXFhaGtad2dmTDkyNjZQaDdtQ2dWeWc2SG5sdk4yWWw2UnRwdjFxZDlnaXNhQWRkOEluNEdNYnZMdkpac2FuTkJ3MGxINkFiS205QjVGbnpJZl94eC15dVczWWpLRHBQTUFfWk5GSkhVMm1TZHNnWEp1TURDZmcxd3ZlVGdtd2gybzYyMUVBTk5GYzhBZjlsNEV4TG5WbjQyYzRfY0NraTAtcHFFU0pZOUhPUkU0UQ?oc=5",
-        "date": "2026-07-07T13:49:56+00:00",
-        "source": "TyC Sports"
+        "title": "xAI, la empresa de inteligencia artificial de Elon Musk, ahora se llama SpaceXAI - TN",
+        "description": "xAI, la empresa de inteligencia artificial de Elon Musk, ahora se llama SpaceXAI TN",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRzFPdHNQNmVycTRQYmlKcFFOeVh1dGJvaWlWSGtpNGhBQjc0U1BRUmhnVW5IaXFlYW00RWxac1llcjhtMEZpU3dmUHBDdGF5WngwV3dDVzBOUHZ4V3RfN0FPdzhYblF4N3RWM1h3aHoyMkZ2WGthMnYzYnE1YlQzcGFlY0ZWTjJFUXY3cWxpZmtZd1AzbDQ1NlRjQzhVekhKY1J5cERjZGJER3k1b2hzdWtUT1dZT2hIcW5FTW9YcE1Dd9IB1gFBVV95cUxOTkl5RU90T3dXT180bXM3Vm5KXzhFLW9wRzZYaUpiWVpzQjJyRzU4LXF2bm92YXYyUVJJUXVNV0lUV1ZaSFZSMjRneWsxU0dqWlBwSS1KcWxJOGlkdkI3LTlJc0Y1Z2UydENtTWx5dnkzM0RhUEdlTWRhZzQwbkJSMHpGelJoa2dfU1RKRWI4QzA0T1FFNlMtR1RMR3pKQ05sVmNLQjBSbDhjM2RfclFFbnNhaG9yUEV1WXUtOGRLRVJYTWNYZEVyNU9rdXQ5aG9YR3ZyU2F3?oc=5",
+        "date": "2026-07-07T13:09:42+00:00",
+        "source": "TN"
       },
       {
         "title": "La inteligencia artificial frente al temeroso ímpetu regulador",
@@ -140,18 +126,32 @@
         "source": "Infobae"
       },
       {
-        "title": "Inteligencia artificial: el impulsor de Latam GPT explicó por qué los modelos de IA se equivocan más cuando responden sobre América Latina",
-        "description": "Inteligencia artificial: el impulsor de Latam GPT explicó por qué los modelos de IA se equivocan más cuando responden sobre América Latina La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSzVkRWFSUldfT3RwYmY0RUJuQjhCalctZV92XzlCcUJyc2FuN0lobHRnd0QzR09VZ1R4dXBxbXk5RHg5MUk0RHpBQmxqWWwzZnhnNkZQeWRaNWJpOVhCSGJpX01jNUZ4eGZQUXhQdWhqOV9DX1hPMnZfOTNnYUxkU0RWMWlSWnhNZDk1MTJxSDVsTWMzY3dja1QxTWdHUWI0cnNZeXRIWF81ZkNSeE5TOXVjaHZla2dzaWJMZndqbnlqQTlfdEJZcnV0YTQyVW1zaDdmR19KZExFVXBQanZlclZTbnh3cjA?oc=5",
-        "date": "2026-07-06T18:10:00+00:00",
-        "source": "La Nación"
+        "title": "Así será el resultado de España ante Portugal, según la inteligencia artificial",
+        "description": "Así será el resultado de España ante Portugal, según la inteligencia artificial TyC Sports",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDlWOTJhZjBaeHFfUDJscEVXQzJjREszT2Y4QXBJNHRDTmVoQmtNdXU2RkE3bUFycE5OSjZENVFfTTYxWnYtMkh3SFRuVld3OEJic0ZWLVRVb293X3hRTE1TOGJtZ0lzN25sQ0FDOEEwbUs1NDJzT3NaRWRaZ3ctUjE5UmFfSnJUZERCMDBCU0htaW5hblNRSDJtVjZndFVmQ3BXRmVzcmd0OWNmMmFwRG1WUGpYcnU2OVliQzJfQnhEWGc?oc=5",
+        "date": "2026-07-06T15:49:33+00:00",
+        "source": "TyC Sports"
       },
       {
-        "title": "Sáenz presentó Campus Tech: robótica, drones e inteligencia artificial para niños y adolescentes",
-        "description": "Sáenz presentó Campus Tech: robótica, drones e inteligencia artificial para niños y adolescentes Gobierno de la Provincia de Salta, Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGVCOW9rLXNoaUhsS0xnNUhLV0Q4cU8tM3RPRldEOVpPa0ZoOUtScS0xMk5Za19WZExndVFHWmRadU1Hcm16UVplNVFST3QxLWc0d2hUaUlXdF80Q1FMU3hnNE0tUVZOZVZsYkdkT2dwNXBlM1p0RmtmQnhhQW1lMG5UWTFodWV5RWZiaWd2c2Q0YThpNE5kc0NZS0hYUmJXbGkxTzM4UWd6RlVaczVIY1JiR0pNNm5VWWlnVEs4blJFWVVaczdETU05a1NXUFZEaFFzV0VZbjFyZXc?oc=5",
-        "date": "2026-07-06T14:02:52+00:00",
-        "source": "Gobierno de la Provincia de Salta, Argentina"
+        "title": "La inteligencia artificial predijo el resultado de Argentina vs. Egipto y sorprendió con el papel de Messi",
+        "description": "La inteligencia artificial predijo el resultado de Argentina vs. Egipto y sorprendió con el papel de Messi Los Andes",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDB1Qi1nNVp3WHVZMjVYTjFRanRuX19IaDBMRWRka21KejBjbGhFRm1rcC1NZ0NWVkhPWUFCRVJkenFuUERjeEs2XzdOV3J4cDVDNUtoeG9xZkNBMkFHS2NkTlUwTThrRFNQMlc5OGhKM2tvQnBES2JlZlY0VHhMTVFxVmRieEdTZXJXczJvRVR5NGcwRHBrZHU0Ry1xWnhESDgzT0psOW5rVTZRWGNETUdKWEZSUnVrV002LVI1RzRKaUtWNXNHeTJDWkJPamRmZlhycG0tY0s?oc=5",
+        "date": "2026-07-07T12:38:00+00:00",
+        "source": "Los Andes"
+      },
+      {
+        "title": "¿Cómo saldrá Argentina ante Egipto y quiénes marcarán los goles, según la inteligencia artificial?",
+        "description": "¿Cómo saldrá Argentina ante Egipto y quiénes marcarán los goles, según la inteligencia artificial? TyC Sports",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzF4ektON3N2WUk1TGRmY183MEF0cWJ1Yi1DQ2hHN24xRTlsRXFhaGtad2dmTDkyNjZQaDdtQ2dWeWc2SG5sdk4yWWw2UnRwdjFxZDlnaXNhQWRkOEluNEdNYnZMdkpac2FuTkJ3MGxINkFiS205QjVGbnpJZl94eC15dVczWWpLRHBQTUFfWk5GSkhVMm1TZHNnWEp1TURDZmcxd3ZlVGdtd2gybzYyMUVBTk5GYzhBZjlsNEV4TG5WbjQyYzRfY0NraTAtcHFFU0pZOUhPUkU0UQ?oc=5",
+        "date": "2026-07-07T13:49:56+00:00",
+        "source": "TyC Sports"
+      },
+      {
+        "title": "Argentina vs Egipto: quién ganará, según la inteligencia artificial",
+        "description": "Argentina vs Egipto: quién ganará, según la inteligencia artificial Radio Mitre",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczBLM2VRVlZXSjQxN0hkLU5pdXpQSFBXZ0VHODBwa0Z0OUZFbFRSeGo0QVBvaTlvOUtkVW42MTBoZTNnMno2TWM5cXRyajdfMGRRMG5SZHlCOTNaR0IwMDAyZm81YUtDRlMydFZmcWtfeXlXY1NBN0NVYnNnajhNT21DNHpHSDY3dk1ROHFJdlVSTVYyVDlDZUNfUXlLekhYX1JIWThDTDdXRzVTRnc?oc=5",
+        "date": "2026-07-07T12:10:00+00:00",
+        "source": "Radio Mitre"
       }
     ],
     "Vaca Muerta": [
@@ -177,11 +177,11 @@
         "source": "Ambito"
       },
       {
-        "title": "Vaca Muerta: cuáles son las tres referencias internacionales que determinarán el precio del GNL que empezará a exportar Argentina",
-        "description": "Vaca Muerta: cuáles son las tres referencias internacionales que determinarán el precio del GNL que empezará a exportar Argentina econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQakJQMmdycWl5eE9Yb1NqZ0dPdGs0NVVtQ3lxTVFkSU1JTFQxSDFEVlJXX09RdGFJZTF1Ym5CNDFDdTlObDgwTjE4VUpZT1Q4eDFvTmtuQ3lSMXF1QVI1TVhBYnM2UHV1dFJKTEpZaGN1NXh3RHhVaXdld3NFY2VrOHg2THVTRFhnTGp3aG9ob2FxT2NtYWVrOWp4dEdUQ2tzT3hidDk3XzJ2TkdqMzJiLU1OQV9VSUtRUEJvQ0RoZFRLX1lvUEIxWQ?oc=5",
-        "date": "2026-07-06T22:41:45+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Bajo del Choique, la nueva meca de Vaca Muerta: la joya de Pluspetrol tiene 4 de los 10 mejores pozos del país",
+        "description": "Bajo del Choique, la nueva meca de Vaca Muerta: la joya de Pluspetrol tiene 4 de los 10 mejores pozos del país Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMTIyMTNpOEZCbjJFWFYzbUctLXZuN09sYWlVc1dsdHFwYUlKbEhWNTdkczh2THNNaGpBODFTUkNFcG13R1pTNXN2X0tKd0EzQlJ4bF9QUkVqT2x6b2xtOV9GeDZmTHJXWlRMRlpvRXhPZm9pUUlSbE5HZ3VjN01EWkpnMW9Reno1UklXN3RheDdlN0dZM3FqVVlhNks2WVo4S3o3NGFqZk5FX1psa1cyZUFTcFVkU3Z1R3pmWjRqYTRTR1lFazVvMUw4X1VzM2FhbzFKbW9PTkpjamEtcWJj0gHkAUFVX3lxTE12REtBSVR1cHNiVW90Z0wtNld2NmctaWRqS1F6dm5uR3V5amhQU1l0YUR5aVZxNENkS2xhLUZwN0dCRnNlcTBuRkM1RERvazhZZmNxX3YxS0xRNFp6WGhkbklwbnZtckJ1ME10VzFjVXhzM1RZdXAwZ2FPUU5aQU9VRTlBTV91UWs3WThyaWFVNnM2Z25adXFGRXpfRmszbTl1UDAwM0lodFpMbFhEWWpIZWVwS1QzanJGM29GVlE0U0gySmxxd1B2SWZpT3M4MjRuZmZ1bldNWkU2eFFGMHFDeE5rdw?oc=5",
+        "date": "2026-07-07T13:39:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "La ruta del petróleo en medio de boom de Vaca Muerta: cómo se calculan las regalías y cuánto cobran las provincias",
@@ -191,18 +191,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Bajo del Choique, la nueva meca de Vaca Muerta: la joya de Pluspetrol tiene 4 de los 10 mejores pozos del país",
-        "description": "Bajo del Choique, la nueva meca de Vaca Muerta: la joya de Pluspetrol tiene 4 de los 10 mejores pozos del país Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMTIyMTNpOEZCbjJFWFYzbUctLXZuN09sYWlVc1dsdHFwYUlKbEhWNTdkczh2THNNaGpBODFTUkNFcG13R1pTNXN2X0tKd0EzQlJ4bF9QUkVqT2x6b2xtOV9GeDZmTHJXWlRMRlpvRXhPZm9pUUlSbE5HZ3VjN01EWkpnMW9Reno1UklXN3RheDdlN0dZM3FqVVlhNks2WVo4S3o3NGFqZk5FX1psa1cyZUFTcFVkU3Z1R3pmWjRqYTRTR1lFazVvMUw4X1VzM2FhbzFKbW9PTkpjamEtcWJj0gHkAUFVX3lxTE12REtBSVR1cHNiVW90Z0wtNld2NmctaWRqS1F6dm5uR3V5amhQU1l0YUR5aVZxNENkS2xhLUZwN0dCRnNlcTBuRkM1RERvazhZZmNxX3YxS0xRNFp6WGhkbklwbnZtckJ1ME10VzFjVXhzM1RZdXAwZ2FPUU5aQU9VRTlBTV91UWs3WThyaWFVNnM2Z25adXFGRXpfRmszbTl1UDAwM0lodFpMbFhEWWpIZWVwS1QzanJGM29GVlE0U0gySmxxd1B2SWZpT3M4MjRuZmZ1bldNWkU2eFFGMHFDeE5rdw?oc=5",
-        "date": "2026-07-07T13:39:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Investigarán el potencial para explotar un nuevo \"Vaca Muerta\" en Mendoza",
+        "description": "Investigarán el potencial para explotar un nuevo \"Vaca Muerta\" en Mendoza MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGllR2dEOEw2TEFhTnVBWFZ0Z1Q1VDRzTGp2bjc0NjlxZWlLcFpLRGFfSzUtWWlmcUNfUHkzVkY5dlB4QXZYU3c1eXFJZS13bVU3NUpMa3p2bG1jbk1UUzdOZVo4VkpoajlJRzNpN2t1UVFMUWVxNDdNVmVNTXcwWk5vckhfaWNYVzRyY2hzS0RPNVl1eFVmMkRxVURfZjRDQVhN0gGoAUFVX3lxTE9MUnFsa2l0SGtWUUxHb0RndEwyVFFlWUlwYTZ1TjBvc1FjWmZYYjlBalZOMlN3ei13X25hTXpKanQzTXlwb0ZOdEMya2J6Z2t3c2owTkdUTk5yd1VHbVdIbjROTUc2djBaVU9RZGpkTDRyQnlLRGlIT0h3eVVzUkdjS3pFci1xVmJVcDkxUVRTQmZ6djAzR2dhNTczTFdQaTZhQmc0dndDaw?oc=5",
+        "date": "2026-07-07T12:42:00+00:00",
+        "source": "MDZ Online"
       },
       {
-        "title": "Trabajar en Vaca Muerta: los oficios que buscan las empresas",
-        "description": "Trabajar en Vaca Muerta: los oficios que buscan las empresas Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3hwYUtjWEFIaFVrb0ZySVFCSDJXZkZzNm1Uai10ZEwyM1RfdEpXR0dvNkg3NWNxUzFpZnBLUmxNeTYtZVF5WFVreXZqbEhrMHc0djV1VzYwSUVWMmpieFlrUUVSNGpYWEJkQXViVVpWNURvTVI2WUdCMU41YU9zb3dhMWpsUlpWa1k3aUxjOExLcW93eHpV0gGcAUFVX3lxTFBZRjU5bEU4WmN1M2JqRERJSGNIYmhfZnJUemQ0eHlHbXBILWZtTTFPdnpkU3dObnprcUpsNVZNNlVVV0tlNE9LMndIU3RiSkZjUkUzLUQwTFVYWk1ic3JYdkc0LTdxV1JxMGhyNVVBVklkTElBMTdRalhqbUo0aTF0cEg5ZTJGMm1hbUpvT1A4RFlldXA5VzR1ck01LQ?oc=5",
-        "date": "2026-07-06T21:10:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Daniel Montamat: \"El problema no es la falta de gas, sino de obras para que llegue desde Vaca Muerta al n",
+        "description": "Daniel Montamat: \"El problema no es la falta de gas, sino de obras para que llegue desde Vaca Muerta al n El Tribuno",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWFpVNE1wZ0FVZF9zOUlvZVZGWU5lUGszSFdBZ0tzb19TNFJyRjlvbXZ4Yi1QamxrbFh1SG5oUGlHRE95OFI0SWtQMV9FRUlFb2hyem5zNGVpVV9yM1EtekI0SjA5VW90TnVacUFycFJPTkg4am5uNnV5MFUxZ05rQThZRkx0MWpOcktxeXNWNHJxNmhtLXI3V1FwQnpjQVhYWXdKSkdTdy1Vd0k1czhsTjJSOGRpYk1nUjZuQU9jU01yUnF5QmRLa0YzcTBvUl9KRmZZcnNtWVRRMjNTM2FNQU43Q0ZYN0t0UW1Za3RRQ19oSlRLYVFOUdIB_gFBVV95cUxPb1JxN3dvQ3JleGdaRVZMbXlKaFhaSlVVWDN1V01kQXFVR1dMVEdWb1N1czdyRWNib3RYREhqeDdVaVF2RHV2X1RvWWluU3VvSWhJdlh3T29WTklpMEYwVkxnXzlEeFZDM1FtX0t6Y0JjZjUtZ0NaOG43a1RuMU9vSDdhX2F4TW5Ya2JFT2lvbmVvV3NSZ2VuRTFQemhhZkc5MEJsaVNTN1JhYWlSNjVabU5tclZYWWRnNXNKeHJtcEU0UUF0Nm5waW5aaUx1NjNZWmwyZDNsell0SFZmc2lkeFpCYWtHWklBc1Q0OF8tYkVXR0dhLXNLZDhRWVlLQQ?oc=5",
+        "date": "2026-07-07T04:45:00+00:00",
+        "source": "El Tribuno"
       }
     ]
   }
