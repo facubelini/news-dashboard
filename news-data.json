@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-07-09T14:45:30Z",
+  "updated_at": "2026-07-09T17:17:45Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Aravind Srinivas, CEO de Perplexity: \"Microsoft construyó el concepto de trabajo de oficina porque querían vender más software\"",
+        "description": "Aravind Srinivas, CEO de Perplexity: \"Microsoft construyó el concepto de trabajo de oficina porque querían vender más software\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSFJrOFp5R2lEUnZaN1JjTGMxc2tkTzZVV2JtQjhzbzU2eW4zcEJKM0w2ejNXbDMtblJGRG9Eb25idm9nQWk5SHdfczNmajlsNkhjbGtNVGtrMmJKdVlsMDFUWlFlTnVNLTlEMUFVV0FpRGVnVFBubFpSQkJ1WGNYRENHUHpZc0dVdDgzcHFHRFp2MEo5WERubW9jYzZUaTd3MXhkeFFyOGRYN0JUVnpyUnVLRGhLMmtGNHlxSGdnSl93aWt4a0VPUEY5dnEzYURpT1hIR285QXlCekRGYTQzUHNtZlPSAeoBQVVfeXFMT1RaV3V4NkRiN25Gdl9UZEJVYlAxV0hacThVcjBkdGpNTUtNb09ZM1Ztd1ZHNXBfN3pIZmstY0RzZldyLUx0MEtReG1zeU1zRmU2WlR0SGk5amhBSTBpdllmV3JsdXljSGhsenU4cjNMQ1hrUjMxcVAzdk82S1BfeVpEbHVrTGZLNkhIMzJDM3g2Q0lGQU1CSWJ2Z3N3b2JRYTcwdmxrTHAyU28zYlNvbHRlcWRva0RFMGRqalNVcWIzZXIyYWJVUVFjX3ppVnpGNld1ODVMUks2R0NQaHJpWURpbVppSXZjdHN3?oc=5",
+        "date": "2026-07-09T15:45:18+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Starbucks desarrolla software con IA para reducir su dependencia de Microsoft e IBM, según reporte (SBUX)",
+        "description": "Starbucks desarrolla software con IA para reducir su dependencia de Microsoft e IBM, según reporte (SBUX) Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmxwdmNiWlg2WGE1UWk0eUJ5WDZnTkJGS1NHdTBlM2Y0QThyQmJkLXRjMFZCbG4xYlRjSl9sWXhRamZrUm95d0ZuUW9LYlNXclhvQXNQaU9pTmpnWDV1Q2FxRE0wczF4elN1WVFydkJSLUUySjc1T3RxSGJOcHZxYi13bzhucThERFFBbXlPQmVfaFJlQl9wZjVBV2dRdw?oc=5",
+        "date": "2026-07-09T14:14:45+00:00",
+        "source": "Yahoo Finanzas"
+      },
       {
         "title": "Microsoft recorta 4.800 empleos y Xbox queda entre las áreas más golpeadas",
         "description": "Microsoft recorta 4.800 empleos y Xbox queda entre las áreas más golpeadas CNN en Español",
@@ -10,25 +24,18 @@
         "source": "CNN en Español"
       },
       {
-        "title": "Es oficial: XBOX despide a 3.200 empleados, se deshace de varios de sus estudios y ya avisa que la crísis aún no ha terminado",
-        "description": "Es oficial: XBOX despide a 3.200 empleados, se deshace de varios de sus estudios y ya avisa que la crísis aún no ha terminado 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWW1qcTNZdGVsZW5sNTk2d1ZOMVFZT0VYY2ExMmlzaW05eVNiOTVUYm1NdlB6eWpseVJ2LUx6XzgxN094R1BXTmh1LVpTXy1sU0ZscTNZaG5oUkNsQkhLcWJsSGNTVFlGcGpIOER3NmdEZTR1Q0UzMS1jMGFIaWk3cnlVVEh0WG9mUkFvRTdYbmNfcVEtT3JwWGk3cDVyT2liLS1PQnU4TzJHcDhTTnVqdGVMTENHNi1IdUZOWl9HVjNEdzgxb1hyMERVcG40MnRjV2wzMVpsczkzaGpUOWJELXpKOHVZTzJPMG9odmVBbEjSAfYBQVVfeXFMTXcwSGxjRUh3TEpkQ2Z1Y01HWGtqTVJBdXlCMDhpQ2pIOFhuU211ZFN1d1BwX281V2U0M0puRDdpQjQtaHRuZ2ZzZ2I3eXVDdGpUcEdBN0FKVjlrV1hibVlteDFsYlVHcUVRVXU1Y3FZSUYwOFpxUzlDSnVDODRCeExXcTJIUjNOYWtaUEp4VUNQOElPOXA2MzlxbXZOcGRhUDAyTlZTbUc3ZEdvdVVFQzRnbzhPbTV5T3RKcndRYmxnRG9XUTVRd0hTc2Jaak1HeWpWUGswTTN3SVZzUkF4dWpqdWRoSU9SUzljSG1FUFpJczBxaTd3?oc=5",
-        "date": "2026-07-06T13:50:00+00:00",
-        "source": "3DJuegos"
-      },
-      {
-        "title": "Microsoft despide al arquitecto de la retrocompatibilidad de XBOX tras 37 años en la compañía",
-        "description": "Microsoft despide al arquitecto de la retrocompatibilidad de XBOX tras 37 años en la compañía Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUnJZM1JqZzROSEhwcVVDaXdEYktTQTFXNTB0c0p5cWM3ZzBpMEtBVnl3czA1OFRHX1QxNGZJcW1hcUhzeDlKdUNET0RkZDdfOEFFSC1oRHgyWWFab2dnX1hKa1BGdUJ5YjZDVV80Z1l0Z2dBSlFkX3dhNUYwQXlvbVdQa29jNXJHNjZMYm5Qb2M4YlR5dzZycWxKSWlsNjB5cFVpX2xobUJJWVVWWGQzZEdRbjZ1MWtSMnVHM0pFNzh3SGVmYkRGeTcxOGlCaEpqajRlTmdUOGY4bFdjbUZNdWE2QkU4akHSAewBQVVfeXFMTVNfLU9nUFQtQnNwZmhIS21XVmRuOTVhaEI3WlA0Mk9aRWNpMmlMNW1qa1Y5WnhnUFcxNlhEa0Mwb293cHNTR0pPNW1scFU3czFnQmRyZFZCc0NvRXJCc3paY0JMbjkzbW9OdWdNZEZPWXB2bV9PZ1hoVWFLUno2YlFONDZzNFgzY2Z4ZmtYTHM2SXlwRmxHQXdHVnY4QVo3QWJ4Z0RUN1EtZ3UtYUF4Y3p2bUdjaGFBZloyTlp5Sm9fbmpOVllGekZNYzNham1QYVFXUkRfNXR1eW1hRWRnSVdxaGJqeGRHb0JKZE8?oc=5",
-        "date": "2026-07-08T08:30:00+00:00",
+        "title": "Los creadores de Doom pierden 136 trabajadores y un exdesarrollador denuncia que 'Microsoft ha arrasado el estudio'",
+        "description": "Los creadores de Doom pierden 136 trabajadores y un exdesarrollador denuncia que 'Microsoft ha arrasado el estudio' Vandal",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVFqQVFRUlQ4dl8wQ2pQQk8wNjU5TUZxLTJrclFiQ1oxSGFNZW5mcWwxTHlzTWhWbV94Tm9lVWl2WXZndklHNDkyMERUcmxpWDAwNi1WSEpZd2tLR2F1anFGdHRWMFREbkNvXzEyc1dEYU9qUjBuLTdYTmFmd3ZQMUF4Y0RHSDBLal9pVkI4OEZ6MjVYVkF6WlRoV1Z6WXRic29XUHNlZ3VGaUN0ZXRYRWZwZ2NWLTltRVIyOXhBaW5UamZRM0h5SnFmZm9pU3Yt0gHWAUFVX3lxTE53NUN0Ykd2cnRuNHl6Ry1aNnctWEhGbFpOUTRqTFI3TjE5YU11OVFtYVlZS2pzb1BDOVZxcTg4QnBEMzZhaHM2cjVJMkJNVFVxS2pERTBVWGpmRmUzNHpLZjRPcVhvakNlNDdLbE9pV1lQMGdwRzRjaF9sY2ttOE9tT0RhOVhORXpYM3VSWGxFTkh4eTZUU1czWThIRlp0bjY2eXo1bWsyZ0hfQ1Vlal96QWtobm51YzdaUjN1Uy1IVUZVX2FYVm16Y2IwdFc1Rno4Z1JNUkE?oc=5",
+        "date": "2026-07-09T06:06:00+00:00",
         "source": "Vandal"
       },
       {
-        "title": "Microsoft quiso crear el \"Netlix de los videojuegos\". Luego se dio cuenta de que eso era una utopía",
-        "description": "Microsoft quiso crear el \"Netlix de los videojuegos\". Luego se dio cuenta de que eso era una utopía Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGFlT0l6cDlfM2t6QlVLMXJzNUxhRlFFWlM1MHhNVGwxbVdFOWdrXy1nZHplUFE3bXZtOGhqWlkteGtRRVQ0TzQ4eXZ5aFVpdDFMUFNPWFMzcFZjcDJxNmhiZzZFR3NndlB3WEFndTBXR1NCWTJOQkhNMWJpRWZCYjZBa0dZbFowZU5KTlF6OTlWNFZ5UElIMHRsbWttLXdpaXN3bkZWS2NoWXVWRUdHekQ0SmFxV3VTQ2lKZ1hhczVhVktENmZuSEJVeGNTSV9yeFR0RWsyRVNaT3hPcXk2dXItSkpkUkNySVHSAe8BQVVfeXFMUFZ6bll2QVB3dG4wMF9odV9KOXJqNS1XYVl0QTVDOHBhZXhOY1NyOE1Ja0NSZi0zRV85ZGwwbk1uRkZlUUdrcU9KczNpRkdYSjhMRW5QeE1WZ0dnLXR1TmdxaTZUQk1FVVJoUXVMZDZRSFU0eUdhTHNMRmtpdllna0VBMWlvcVpKRW5hUmg0STdiWnJYNmp2RnVYUjNqaTVOMXJPSHhfODAxeVVnbVRhbnZFRlZXRWJvTVZrZkNybENSenV6dGNhNHJ2Y3ZjRmdkVWZBd2xKR05WRDdWajlMQk1jNmRxVWtLR3FvZUtnSHc?oc=5",
-        "date": "2026-07-08T12:15:00+00:00",
-        "source": "Xataka"
+        "title": "Microsoft despide a 4.800 empleados y Xbox se lleva la peor parte: reestructuración con IA",
+        "description": "Microsoft despide a 4.800 empleados y Xbox se lleva la peor parte: reestructuración con IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRlJSRkhVdVN6b1UxU2lrN1BvakxHbFlSYkVzSEZuVDVSWVU4Y1FlaktPYUdSVWtKNUVDVWdiS3Z5cXNoUmtCZEh6ay1DbWJaYmUtMGFvVHVOcDhxazNfR09JVGg5Mi1sSmpaeURKYjhsVzNBREptRzYwMUUtVFozNE1TOU14WUdtcUpWTXZ4cHNLU2dwLTBDa0ZPdkpJTWRDbmpiOXQwaXJvNU9scXpSYWhTT0NueWV3ZGF4N1gwVzlGT2ozVzRQNUln0gHkAUFVX3lxTE9CX1ZhYURGUnQ3cE02YWxDYkZCWlZMUlhBTlhiNFNFNmctM0lzSVdwSnRjT0tGbVFNbTZBZkl1b1IxRngycmlRZUN5YWxXempzZkp4amd3U3pPSktpaG00cGp4MXR2Z1hJekl5dGRNV2c5bHFRRnJGMFBMYkNGeThySU9TUzJRN3AyMzZiUEY5SWZoNkhtWm5xYmJTNGlxcE44TFBpSlFucTJRQnN2SERHNW0wbTNmNXFoQi1Ca3FUNDVJeXdJUGo0X1lSMWt2WU9lMDE1bWRkN05iQ2xRbE16TlFOWg?oc=5",
+        "date": "2026-07-06T22:04:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "La IA hace que tengas que pagar más por tener Word y Excel: esto costará Microsoft Office",
@@ -38,18 +45,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Microsoft empieza a reemplazar OpenAI y Anthropic por su propia IA en algunas aplicaciones",
-        "description": "Microsoft empieza a reemplazar OpenAI y Anthropic por su propia IA en algunas aplicaciones Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc05SZl9mS1MyTFdmeldjcHVFQzFVOHB1Z2NSNWVHWUx0dHJqOWI2QTZFaENkV1dLZWpXOGpfNnprblVESm02YUN0dXF4M2Z3TGVvdUVCaTdlSFlkcHlvNi1sUlAyR3BLZVVvYkJXS2djX2U3YVhPTURKNlRwenJTM3BMV3FaQUU2TjZYMzQyZlI1ZWc5MUZUUC1iNndWMUx6NmR3YmMwZlVhRkRPa1BKVXBFb3gycnRSTUJqa19HOTVFZ0ZnVXp1cEp5QdIB3wFBVV95cUxQRGFOY0tTVThVWVkzVG5DTmRCX0lCeE9FZ19DdlROVlBraHlhYkJlSTdlRll0QjR3RkpZdzQ1TzNTdXRpZnFHdFh2WGhxUlBfWlpqcTJSMDdzd3ptMm9IblRWRGlrbWxfNHY1TEFpZ2RXUUdHYWhvZGZLdGgtR1o2STlmMFNfZ1BDZ1JfOFV5cUxkcnRWQUhWYkZFczMyVXR6eDhHMEMyekliVWFISm9VQjZsWmdwM2xqd0thVGZvNUhZWXNDRGd0ZEQ2LTBIUmJrbTVjWUV2bzd0ZmpwbHlN?oc=5",
-        "date": "2026-07-07T18:59:12+00:00",
-        "source": "Bloomberg Línea"
-      },
-      {
-        "title": "Bing y Microsoft Rewards ya permiten iniciar sesión con cuentas de Google o Apple",
-        "description": "Bing y Microsoft Rewards ya permiten iniciar sesión con cuentas de Google o Apple Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOTRkbFk1N1JLRHdsOXQ4MXFOR0ZJTGJWZmdaWERNa0htaFZVQzRlbmZvNF9Qc3lENTV6cUs1ZHY5RllzU05GOXZld3lSODEzYUprM1dzS2JKdGRUM25TS3N2WkVtaHNyR2RFNGpaZ2kxb1kzTnY1Wlh6UzlISUhhbWowR2VnRUVLVnlhTjI2bnZseXVPcWNlRnBkamhEQjFFc1dqX2R1aXRkekRibEV3SGUwRlJzYld2ZUx4VzlHbFJCZ2gxRmfSAcsBQVVfeXFMUHhSUFNTZDRBeVlJTkRBc1lPU1daSGtLX3VidUdMLXpZOWl3MlVNVHpOTkl0RTQyczNER2FGR1J4Y21SQVYtcEdOZkJoRzA3UmJiNFZMODRkYlppREZ1NERmMUZMNHUxeWQwcUhiekphajdUOEZub2VEc0ZWU0VqY0ZlZ0ljQzJ0LW9sbUF3U1B6anpVcjFCMGwwUEwwSkdCOE1HcC1PY0E3YVRaV0NMWnpEZ2kxYTJwczFzSTNydjczMDJWaGtrQ0hZRDQ?oc=5",
-        "date": "2026-07-09T14:00:46+00:00",
-        "source": "Profesional Review"
+        "title": "¿Por qué cae hoy la acción de Microsoft?",
+        "description": "¿Por qué cae hoy la acción de Microsoft? Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM05WR2dNN2dBeFpIb24ySm1XVTJUZ3c2Z0pzMGNrWjEwd3JIOUYzdEE4bWxQVThYNHQ1dUVRM0FMRHBSTXpjZThpaTRBOEpVRWZSNHlfdHZ3S0Q1U0VraWRyNmdjR3dBQnZvLU5rVXBiMDZBS2lrYVRsWGU4SU5PRWxldlhaX0pQMVU2VVM2RjlOdkd3eUhpVkdrcGp5cXNX?oc=5",
+        "date": "2026-07-09T11:31:00+00:00",
+        "source": "Investing.com España"
       }
     ],
     "Marketing": [
@@ -64,8 +64,15 @@
         "title": "Los datos no matan la marca, la obligan a aterrizar y adaptarse",
         "description": "Los datos no matan la marca, la obligan a aterrizar y adaptarse PuroMarketing",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDA4VlhuLURiZ1F1cWJheXJpQVI3MnA5TTJLVkItOHplN3BKYnVOSWJqdUpORVVKSHNkR05hcTVPOUZidjJZWXdTbG9rVi10NXdPaGJzRUVSRE1QazMzMm1vX3pNMzRIOE5mb2JyVkZ0UV9pS3k1OEFLODlrR3k1Q2FwMWxseFZKSG5mV1Nn?oc=5",
-        "date": "2026-07-09T10:36:53+00:00",
+        "date": "2026-07-09T10:38:29+00:00",
         "source": "PuroMarketing"
+      },
+      {
+        "title": "Cómo NP Digital está redefiniendo el marketing digital en la era de la IA",
+        "description": "Cómo NP Digital está redefiniendo el marketing digital en la era de la IA El Boletín",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0tNOHJVRExuZUFabElGVktpay1rcnB5TWFNMG9GLUhXVjQ1N1B3bkx0a1ViMHBVc1RNdndDaWRNajk5MHVKSjhvR3g1LXl6SUtWMTRwSzZkd0doMEtnOXlqS3dzMG1PbVBLTVRNSGpkU3lyN1ZHLTA4T2ZGb0VWSUdZZ01FalNjNkxhVjl2S1U1d1ZiNm1wS3JtbGRiTUxmZFHSAacBQVVfeXFMTjhJbjk5U2xlbVdlUW9Md0pFUTBuaUpyU09ZbXctdHFzT0V2aDBsS2NpQjJTMWVxckM5M044RElOU1dmeTdWTWRpYmdXY2xsQU02NXlNSTE5bGxzYTdvNEZzWktjaTV2ZlRZLUxHOGdwcjlPeG9raG16b29UM0VTcGNldnJYb2pQanJTX1VwM1Z6ZjAzQjF1UnphVFRGUF8ySGlaQ3JYN00?oc=5",
+        "date": "2026-07-09T14:48:01+00:00",
+        "source": "El Boletín"
       },
       {
         "title": "Google acaba de cambiar las reglas: ahora también mide tu Instagram y TikTok",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
         "date": "2026-05-27T07:00:00+00:00",
         "source": "Neuquen Informa"
-      },
-      {
-        "title": "Las tendencias de marketing que están transformando la industria del entretenimiento online en 2026",
-        "description": "Las tendencias de marketing que están transformando la industria del entretenimiento online en 2026 Diario Córdoba",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3VjTTl1dVBvek5yUkF1eDFSaDFmNjRxbm0wb2hPa08zV0VvcUtLSlUyRGJrNDg4djlFLWJwMVo2cUxyMWowWTlOT2k4dGY2TGpYdVdWNGZKVEw2bGg4cVotUkpRZnU4ZlZYNThTOE1zcThrNXVKT2M0bk9OMEFfV1Fva05xNEF3RnlFeE5HUElHdlBwRjh2V3BfT3JEdWJ3b29CY2Q2QkZPejNzSmxSS2pnZUE3S2l5aEtVV2loRmhERnRCcVA0ZUs4YTJGRjlvUjFzOGdRUlc3ZTDSAeABQVVfeXFMT0x6ZE1jVXI3aXN6a3h5ejVuWG5aRW1FYi1sR2FmS2NsM1JvRWtEWXFtYTNKeWhaX1J6LXlVTGpmbDJtNTVSdTJ0S1pXMGRJVm1hUzRXUEUyb1dXTlJ4dWQ2MVZiQXdvSFN1WnVyVWdYLXFJVTRvNmNxR2dpNGt3WXE5QjdWUDBmTUtqQ0w2SkRtQ2c2ejBhWWRiM2xSR1NEMFdFVWgxai1EV1BPcndtakVzamFjR1pFOVJSYmk1Z0xNZ1AwVXVMZW0zQlhNLWhPbVFaVWlISVFVVWhzdkN6LXk?oc=5",
-        "date": "2026-07-09T07:00:40+00:00",
-        "source": "Diario Córdoba"
       }
     ],
     "IA": [
@@ -117,6 +117,20 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkZrVHNseXVtVVFTVk01VWg5TlRGSmExNG9Uel9MSlZabE1EVWxqMFVzLUc3RmdvS1llU0t1LXduYXFCMHZLSXNLX0tUVEhEV01zRURJVEVKaHhZd3RYXzRUR2lkTEFkb2t5NlY2d21ZZUdiZU9VQnl5S2hvcEFPeGsxcE5obmtYU1d4MlREMmgxbVZxbUtsc1E4YVIxSzZIQno3bEhKV1FsVWw4Skd2SGh3SFNSMzZMZ1ZrbkNPc1lwcGlDZ1E?oc=5",
         "date": "2026-07-09T14:11:50+00:00",
         "source": "TyC Sports"
+      },
+      {
+        "title": "Francia vs Marruecos: quién ganará, según la inteligencia artificial",
+        "description": "Francia vs Marruecos: quién ganará, según la inteligencia artificial Radio Mitre",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd09LSElnSG9KaElPcHdBeUhvZ1pMVWJiSEJYQUx1dUV0Ymd0QkdQN2lLSkM2MnQweXpXUjh1NzB1alY0a2lVeExodTI3WF9oVldZR2NUWmVrcTFCYmRPeEtGanBmRkE5cHhSUHIwWERyejNWTjRwU2RnYkQ0LVhfS1NCOTVfemNEeGtKQ0RwZi14V0xpREpqTkQtQ2dIYkJFOE9FZTloWEx6NS1sUUxr?oc=5",
+        "date": "2026-07-09T16:05:00+00:00",
+        "source": "Radio Mitre"
+      },
+      {
+        "title": "La IA reveló quién ganará el partido entre Francia vs. Marruecos por los cuartos de final del Mundial 2026",
+        "description": "La IA reveló quién ganará el partido entre Francia vs. Marruecos por los cuartos de final del Mundial 2026 MinutoUno",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMTVYaFJoUks3MUdUdndtdXRPQmI4cldaUlpMVG1KOWsxRU9HaERyZTZXcUNtVTY2WFZuaHNCeW14c1R5aEJCZlJELW5xN3Uwci0xQ044Wk0zbkQ5WlFnQVNHR2llU1dhYVl4UDJ6UnNVdlpfclRnN0ZzcTc4XzIxblplQkQ1ZWlOdjNIeWVPamQ4VTlzRERNaFVfc3AySVRzUjF4ZFU0S0lKOVV3ZDNhazZGTThMaEE0UnVYV0MtdXBSOEdhOVNiR3BKX20tOC1Oa1HSAdIBQVVfeXFMTzE1WGhSaFJLNzFHVHZ3bXV0T0JiOHJXWlJaTFRtSjlrMUVPR2hEcmU2V3FDbVU2NlhWbmhzQnlteHNUeWhCQmZSRC1ucTd1MHItMUNOOFpNM25EOVpRZ0FTR0dpZVNXYWFZeFAyelJzVXZaX3JUZzdGc3E3OF8yMW5aZUJENWVpTnYzSHllT2pkOFU5c0RETWhVX3NwMklUc1IxeGRVNEtJSjlVd2QzYWs2Rk04TGhBNFJ1WFdDLXVwUjhHYTlTYkdwSl9tLTgtTmtR?oc=5",
+        "date": "2026-07-09T10:00:00+00:00",
+        "source": "MinutoUno"
       },
       {
         "title": "Crearon un nuevo índice con Inteligencia Artificial para evaluar la reelección de Milei: le dio 72 sobre 100",
@@ -138,20 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdG5MRE01QWx2Q0V4WDdTdDlNVGM3azZ1U1NheEFWRW9DWXNsN2N4Y1A1VW5LZWdtOVI1Z2EyNWRvZWNkekZtdzZ5QUJTdVI5bjFYaXBGcDVtWHJkaW1CQUQxUjEyMVpQZ0tXTFlUZ1JmVVg1aWNhRVpUZzdYY2RjN0p4bzdYbzkwTjVnRDJ4dHVBQjFSZV9UcTRXT2YzV2tDQWRmSTc3b1k0MDljbkw0LXhldXBIeEF1XzQxMGJsLXVnNFZCeVA5YzZXVEh1Rm9Qb3l2Z3pTVTZaS2g0RDhkMEwtZVNIUlRvWXfSAfIBQVVfeXFMUFZFb0ZFcDZvWVRwSHU4TTh5Vm4zYkVLcEVYQmhLRFBDUktMdUpONjBzVU1OM3BMejNzVTktalZmRzA2OEdFM0J0MVJrRGVQQi1HSTN5RGhhek0zN0lkTmhlVzBuVndveVBQbDk1YnBhTDltWTAyMi1PZ19fVkM4RDRTZnFhaG5tdUNjSTJock1iQkRfakJVQkF2M2czTTRuRGpLbFF6cW1YdmdFVnBFTTFtR09pWnJqcUpFMG9XaV9QMURUcnhfSGl2LXJnQTZnUTdpRzVDdVp0SS1FOWRmeGFrM3RRaVdHSlFrOVRsT2J3dVE?oc=5",
         "date": "2026-07-09T10:05:00+00:00",
         "source": "Diario Río Negro"
-      },
-      {
-        "title": "Inteligencia artificial: el 78% de los estudiantes la usa pero faltan resguardos",
-        "description": "Inteligencia artificial: el 78% de los estudiantes la usa pero faltan resguardos Diario Norte",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdllkREN0SHN1cWo4U3JCcE5tNy1MT09RMFBKMm9nQk55Y0F3S0JSR01KWElYWXlwYzZCMkl6emVETEVVRjByUUVZRUJwTGphM1RqQ3czZDE0YTNLczdMOGl3U0lJaVZ2cWNzUjhoRjFLVml6VktsTGc4Y1RBVkE0Sld2bTluMEZYWXZrNXlxbVVrbUJNb05kRUxtRGVtR2o1Tk9MeWtnZ29NQWh4ZGV1NXNtQQ?oc=5",
-        "date": "2026-07-09T13:57:47+00:00",
-        "source": "Diario Norte"
-      },
-      {
-        "title": "Cyrano era una inteligencia artificial",
-        "description": "Cyrano era una inteligencia artificial Perfil",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXZKaHZnY3ZsYzgtS0ZoV2RpUHBTMnUySDVWM21GWFdoU3RHM1Q5YW1TNkRaZlgxeWJWaTVDbThUOUpUWGNRTklWUmZTN3pCY0lNRzJ5VVhVRE83Q1VSZkdrcTRscFItb1RTQ0ZxVmpUa0VZVlg3TzI2UEY5WktWb1hTS2FXYmNFRHhmatIBkgFBVV95cUxOY0JxWThkS3NQR3VkWXgwVGNpU2pMZHphMU1naEJoeFFMQ1dmbW5kZ2p3cjhVT291S1lLVnhzaVJwbUp0cjUtZi05bnlfX1Z5RjMxbUFhREFsd2pFb3dCYkhnOTdPSkUtaEhmX3FzTkt2ZVpETmtlckJpMVhTY0Z1VTkzbUZvcklfd0hoSlJKWFpzdw?oc=5",
-        "date": "2026-07-08T21:01:11+00:00",
-        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
@@ -163,46 +163,46 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "¿La nueva Vaca Muerta mendocina? Cacheuta entra en la mira por su potencial de shale - El Economista",
-        "description": "¿La nueva Vaca Muerta mendocina? Cacheuta entra en la mira por su potencial de shale El Economista - Últimas noticias económicas y financieras",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2MyenhqanZrTXA3dElsc0cxYjhfc2k4aWhKSV9zbGNFSkNTXzVJUUVzN0lQWU9qMFNZZGVFSmpVWEZPVl9KalJUbWFYZ0VSS0Jidkl2eEw2amZoRWo2OEtOblBVSEtfc3dZTG9LVEdrS1JGcU9iTmZjQmMtOUZEb1hKc1N2SUpCbmlmbTZ6R09xNnRkTlhnSlFSeDJOWGJoajE1Y1J4MU1Fc1VGWjFRYVBR0gG3AUFVX3lxTE04V0h0eXY5M216cG5uWEl0N3NkcXF2RFJGWnMzRjMxNmlwaTE1X3Q2R014U1F0TDA3WXlvTGZkQ09HSjBNWG1ScFpvWGY1bzNtLVI0UFNKUjVKLVhBVS1GYmNVLXBQRXNzTTVoY2RhZ1lZTkN0TWdQVEZfNXpwNlVPdEZwZXk4QjYtcmx0STE3eUlOR3ltbDV4WVRQYmNBWGx5ek1JUi1vZ2Y4MGRsdzBIRnlJN01vaw?oc=5",
-        "date": "2026-07-08T17:53:00+00:00",
-        "source": "El Economista - Últimas noticias económicas y financieras"
+        "title": "YPF apuesta a un yacimiento \"gigante\" frente a la costa uruguaya y lo compara con Vaca Muerta",
+        "description": "YPF apuesta a un yacimiento \"gigante\" frente a la costa uruguaya y lo compara con Vaca Muerta Ambito",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVklGendCVm9WaEt5R3M0Tmk4TVk2LS0zRnRxYnV5WmpXbTg2RGJrbm1GOExXQ2swdWJXaXRPaHlDU1hISDdoOVA2S0VvTEtKLTNTZU1wTmFpRVgtUzNCMjlMY0RZai1ST0dPQ1pYUC1UOGYza0lWeFE1a2I0Zzh3cl9qbUowMDhQUk03ZFdvalpQcXViYzF3TWtJZ1RpZlFnSDNGNjk0OFJUMkY2MFpzb3JxTjRWX0HSAbwBQVVfeXFMTmQ5ay0xRlRnel9ITkVPZ2g2dElPOXh6RUF4VjNjSTBRak1MeU5ja21HYWdxYlFRRHJwTXJQa0RvS3JyRXdZbTJWVG94bzEtY1hIMy03Q29IUnQzUkEtNGlONUJyTnc4aUZVQ2RLc181TEJPZXBTVVIzakQ0aWQ2S0hfdWdEc0ZRd1JwdVBzOFVsUGtwcDRDWlo1eUxlWEp4T2RUVlktT1lOVXlYNGVHbGNQTURBbGNqUGgzdGY?oc=5",
+        "date": "2026-07-08T00:52:00+00:00",
+        "source": "Ambito"
       },
       {
-        "title": "Mendoza busca su propia \"Vaca Muerta\": el plan clave para despertar el potencial de Cacheuta",
-        "description": "Mendoza busca su propia \"Vaca Muerta\": el plan clave para despertar el potencial de Cacheuta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGh2Y08teTlabmlXZTNKRWE1NjZpckw2THhXMXhDRDN4LW1aVlBvNE9OQzEwV1AtTkJaWGpKbHBsSlZJZ2VGazJUbWllZVBSc2NkWmpZcEx3N3V5MHF4UDk3OVB2YmhaTGV6eTJQYzd5aXRHWU1DZnZyeXA1T0dwMmpmVWVJd0VBTlY5TFBtZ2VDNGt1dzNKYjVrclRuVWRYMW9UenYxTDZMeHBkUzNObzRmdk9jVnNLYmVEc0w3dmtySUHSAcgBQVVfeXFMT2N5WmQxZWdteFh0SlRGUEpIVjVvTGtjMGtCS0JyZVFUNFVyU0M1a3BqVVJ6dkdXRVhFTzhraHltN3c1d25ZQkpMRU91Y2xWWnBqZy1YSW5iYmFpeFM3U1BCdmY5MnhwOXNIWi11RlMwQXREMDRyZXhrXzhfWVNCRDl3bDRCeGtKWlV0UVNPOThaOWMwX2JlV0c5M2phNXBIVmZ0VzZrb0RkM01vcF9LTUxiWmFyMk9aZmNzSjgzTWVNMFprU21KcTY?oc=5",
-        "date": "2026-07-08T14:44:54+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Vaca Muerta vs. Permian: por qué perforar en la Argentina cuesta un 35% más caro que en Estados Unidos",
+        "description": "Vaca Muerta vs. Permian: por qué perforar en la Argentina cuesta un 35% más caro que en Estados Unidos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQzJUQi1ZRUJLTG1heERvUkFWQkNQTHl6TW5KOFlGeGJPaGRrb0o4alJSN1FheVV0SmlmXzhjVkg2M0t6cEJCUFJqRFFSZ3ZicWhPTUtGT2dVTVJOZ1pPYnlfUGN0OTJzdHI3VEZMUUNObjdDQTNMUWN6dnJtelFpVFkxYy1ZUDBVVWJ2TG93a2hCSExvOTBBWElEOWEzNVViWGd4bjVzY1dyQnl1RTduUTM3Q2VPTDZCZWpVU2dka3JDeEZhLWltM3ZiRVlHYTJpWFpIMEt5SDF2WGxEeXpCejBwRQ?oc=5",
+        "date": "2026-07-07T13:49:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Mendoza busca su propio \"Vaca Muerta\": licitan un estudio integral para evaluar el potencial no convencional de la Formación Cacheuta",
-        "description": "Mendoza busca su propio \"Vaca Muerta\": licitan un estudio integral para evaluar el potencial no convencional de la Formación Cacheuta Tiempo de San Juan",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRW9razJ4YmlvbmhhVllTTGVrQTBkMDBIV3RrRlkzclhVOUpXVnhkNkxWZTdxQVhPeWJSTVlYbGdPS0RvN2MtaTd2UkRxZURXOWJ4TEVIVFFpMUFZZXRzUGpqVVhwdlVoSXQ3T2ZmcTF3dW1HcVBmeFdBWkg3RE1NYmJ5VUQ3WUFsaDhaLUJ3S0dCUW9TODM2LWttVER4ZWRwdzFwd1VaUWhWdWI5NjBwdS1yLUl6NGhPNVlMeVV6ZF9PNTMyVlZ4blRzY2h5YVo3YW1yUFQ3cnlPQUZwVG01T3p1SElxX0FIUjN0d1pNQTFVU2IwT0xCOW01eFFNM3A1ZmJDM0VFYjRwN3d3RHc?oc=5",
-        "date": "2026-07-08T13:51:00+00:00",
-        "source": "Tiempo de San Juan"
+        "title": "Los sueldos millonarios de Vaca Muerta: cuánto ganan desde un operario hasta un gerente petrolero",
+        "description": "Los sueldos millonarios de Vaca Muerta: cuánto ganan desde un operario hasta un gerente petrolero BAE Negocios",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT3BxbUVDTldQckNXcFA5Q0tKc3A2YkpaR0ZOWkludHYzUkx4Vl8zZmJ5Uk1LWHR6UFNMMlBkaTZZMVk2Snhad0Zub1RKbWJBdFU3NXk4aEdGdzVULU1IR0QtVHNjYTQ4dFBpVERkZHo4MHBwREtfT1ZEWmJLS3pIbDB2Snp1dUY3SzFDTnFJdFNGS3NROVpqUm9Da3dUNWI1M2lkUGJwd2V4NzJkTTliZWVzRG8zS0o2NHlYbHhTUnp4aW1iRE40Z25uVkRFOS11M3c4Qm1n?oc=5",
+        "date": "2026-07-07T16:50:00+00:00",
+        "source": "BAE Negocios"
       },
       {
-        "title": "El nuevo mapa de Vaca Muerta: cuatro escalas, cuatro breakeven, un mismo yacimiento",
-        "description": "El nuevo mapa de Vaca Muerta: cuatro escalas, cuatro breakeven, un mismo yacimiento Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzlSZk5pVjdLR0hmU0ZTaGprLW80bTlUOWN1VW1PZnotdjRMclM3aThad0lCZURkM2lXNzdtc2hzbzR4RTdOdDJadUJpbkFjTm5HRDBlaFlBMWRTdHJkeWxrMkNOU2ItR0J3SldIQmJaQ0tyRHd1R3prOTgzRlBpZjJoTVBRQ3JaRGh5NDd0dGtNS3ExLVBEWDBxMXVLbldpbWdRdFBRU3pXR25NaDlUc1UtbmctRDVvbWVJSHhsUzR5UdIBxwFBVV95cUxQcUVvVlhMd0p0M1dfWERISWhhX3dyd3JHNGl1VGczODhTNktxc1J3T3FMZjF4SFpPT3F0cFY1YVpaUDU2NHNpS3pXSzVxelAtVjJET1pYLVpsSENqOW8yWk1jc3YzQjZQZ1NsU3RBVlFlVGxXZy1HQlpSM0JnZjBPTDNBUlh6T1N0aV9OTlBHc0xzMmpxcER5cmdwTko5NnpZTHNUN3JzVGs5SS1CUnZ1R3BPNHdBUXBUWDVjTTlKTmVUVjZwRF9j?oc=5",
-        "date": "2026-07-09T14:28:13+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Añelo, teñido de sangre: asesinaron a un hombre durante los festejos de la Selección argentina en el pueblo de Vaca Muerta",
+        "description": "Añelo, teñido de sangre: asesinaron a un hombre durante los festejos de la Selección argentina en el pueblo de Vaca Muerta Diario de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWjhLY1dZdU90YzRfc2lrejBScVozR3d2UjJRQU9RX3FYbXVlcndGTFFRYUNBU0psQUI3ODFnYTlSbzhWTy14dTAwUEZRMHZ5VlJGUGx2a2NSeXlPUFFaSXR3UEpobERoX3VMazh1ajlSckpSNWZsckIzNFJ1NlNHYmdKUjRKYzFXQzdWeWM2d0d5RGpKWHBQbzlKSDhrUnF3SEpYLVhXV2hTd2VMaVRUbk43QjFtenNUMndlWlphODJpQ2ZEU1ExeHZWWmJMNURuOFZRUnJTUVA4MWJ0aGpWZjBjYmc?oc=5",
+        "date": "2026-07-08T12:51:00+00:00",
+        "source": "Diario de Cuyo"
       },
       {
-        "title": "Quiénes son los dueños del petróleo de Vaca Muerta y Argentina",
-        "description": "Quiénes son los dueños del petróleo de Vaca Muerta y Argentina Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGNjMWJKZHlpYlV3eThuVkIzVDFDT25HenZ6SDVQak5WemtJckd6cFQyNEhyLUplbmp2TjVGQTA3bmdHcHJfRkZoVHVoUGVhVUllUkxGaW5DdFQ1d2JsbFdoYnRhNVBRMFFwclBsRWVBWjFxb0M3U2JFeTFYaVE5ckxrcU05OGpOQmRwVVl6Ql9rVDRmdklmbDJWNUpyUXR50gGoAUFVX3lxTE44eFVxWTN6ODN1azc0d1JYQ2o1SzVkUW5FSFEyZW5oUlBTMk8xNTc1V1NQamI2YTRzcUVlaHV5Z2NSb25UZDRvdXFHT1VkVUNNdTZ4QUM3QnpMV3V3VVFid01CVnEzeTBPZllWWUVVSjA3TWZsazdDRmR5N2Naai1pYURKMkhveXh5OXBxdmtFRnB3TVBPMGdFR3ZSck5rbkw1Q1VXR1RqVA?oc=5",
-        "date": "2026-07-07T10:00:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "Investigarán el potencial para explotar un nuevo \"Vaca Muerta\" en Mendoza",
+        "description": "Investigarán el potencial para explotar un nuevo \"Vaca Muerta\" en Mendoza MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGllR2dEOEw2TEFhTnVBWFZ0Z1Q1VDRzTGp2bjc0NjlxZWlLcFpLRGFfSzUtWWlmcUNfUHkzVkY5dlB4QXZYU3c1eXFJZS13bVU3NUpMa3p2bG1jbk1UUzdOZVo4VkpoajlJRzNpN2t1UVFMUWVxNDdNVmVNTXcwWk5vckhfaWNYVzRyY2hzS0RPNVl1eFVmMkRxVURfZjRDQVhN0gGoAUFVX3lxTE9MUnFsa2l0SGtWUUxHb0RndEwyVFFlWUlwYTZ1TjBvc1FjWmZYYjlBalZOMlN3ei13X25hTXpKanQzTXlwb0ZOdEMya2J6Z2t3c2owTkdUTk5yd1VHbVdIbjROTUc2djBaVU9RZGpkTDRyQnlLRGlIT0h3eVVzUkdjS3pFci1xVmJVcDkxUVRTQmZ6djAzR2dhNTczTFdQaTZhQmc0dndDaw?oc=5",
+        "date": "2026-07-07T12:42:00+00:00",
+        "source": "MDZ Online"
       },
       {
-        "title": "Vaca Muerta consolida su liderazgo: Neuquén ya aporta casi el 80% del petróleo que produce el país",
-        "description": "Vaca Muerta consolida su liderazgo: Neuquén ya aporta casi el 80% del petróleo que produce el país Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFBuTDNuVVRRSmhzRVFwSFN0WjVLeG9rSzBSd3IyekhKSWMzUmEwQ1FDbGtPRGpDUjk0a1ZsOTVLdng1U0VGRFJmeHAxU1VZVFFiTk43YVZJUlRWYjliNjRDcjRNd1ZrbXpPTi1iUWpjVG0wQTRfRkJhMEZJMlpoT2pianlkVWhTZ0ZWTFlORm9seE1naVhQRHItMGJOUU9HcEFmVmFnOHpqQXhScDJSakU5YnUxc1hWY0Z0aVRKZVZ2V0tjZ3ROQ1BNek1wcTZYQ2JOYmZXRFVtbnNhd1pRVEtKMWRQNG1Hc19z?oc=5",
-        "date": "2026-07-09T13:28:00+00:00",
-        "source": "Minuto Neuquen"
+        "title": "Marín proyecta hasta 90.000 empleos por Vaca Muerta",
+        "description": "Marín proyecta hasta 90.000 empleos por Vaca Muerta Parlamentario",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmlLSko5aEh1aGp1UElpUHdZaWJMbnJuek14NUJvbEptU3J5WlJlVU00VHdhRlB5M1BoWHdRa1JLLXY3enR3VnhZdUUzbFN4WEJ5Mk9aWmotSEhleUNTYXhBSW1GUFhOMXNwTnFxc3E4WWlJanVxbWlsNDRxaUI3Qkg2UUJNTW50dDg4VGtMLU4yWkxfVFV0eg?oc=5",
+        "date": "2026-07-08T17:09:56+00:00",
+        "source": "Parlamentario"
       }
     ]
   }
