@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-09T08:23:04Z",
+  "updated_at": "2026-07-09T11:52:06Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "\"Microsoft debe saber con quién está lidiando\". El sindicato más grande de Estados Unidos llega al rescate de sus los empleados despedidos",
-        "description": "\"Microsoft debe saber con quién está lidiando\". El sindicato más grande de Estados Unidos llega al rescate de sus los empleados despedidos 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONElVbTd5ZzhXRHBDM1BDbFZrbjh5SUZhblNfUHdRa3BLcTNNRHRRZ294cTE2aEtaZkZrNnBNWld2STlHQkZra2xkU09haU0xd3dnNmpRZC1YVmJPQjVIb3FsMVl1dmVtN1FPR3Zva1lMalpfT3pnX0tJeHZsc1ZxazZBOXgtdnAwS09vNzlWRFpOc0JIYW5wYWhiTE5IdFF0cTdhOEhCLUNXTWpiWjZmc3FMRnRROFpnbWdKWGk5YTJzank0VW9BendSYWVUeS1WbDFnRExMdnJoQ29hdE5TQjRNcVF0MVBkc0cwZnVvN1BKVHR4TWfSAfsBQVVfeXFMTzNUTTBDODBTOHZ0UGJHMmFIc0NHMzZIRnRxREIxR3VuRkNuUWtkcUdaeG13d3l4cDEzMWJORl9QcGtWeUVCaEtLMk93NzBKcXpSaE0xQmc5YW9tdGRTbzdoWWE1akNKLWN5Zy0yTHVWRU85ekljZUVrQ2F5RDdzcl9MTHZQQmZhNk9KRkcwWDJ6R0VvbEFVMEFvNENzaGEwdDZFU1lPU1h2RGZLcWg1TFBWWHpyZk5TTFo2ZnZjQkZlSEE1a1N2TGRwcXVzMVFTX0MwYmZiVVVBZ2xRelNYejVFYUEyc0xuS3ViXzhlTkxSa0M2SUViWHVKMmM?oc=5",
-        "date": "2026-07-09T01:45:18+00:00",
-        "source": "3DJuegos"
-      },
       {
         "title": "Microsoft quiso crear el \"Netlix de los videojuegos\". Luego se dio cuenta de que eso era una utopía",
         "description": "Microsoft quiso crear el \"Netlix de los videojuegos\". Luego se dio cuenta de que eso era una utopía Xataka",
@@ -17,11 +10,11 @@
         "source": "Xataka"
       },
       {
-        "title": "Microsoft reemplaza modelos de OpenAI y Anthropic con IA propia en Excel y Outlook",
-        "description": "Microsoft reemplaza modelos de OpenAI y Anthropic con IA propia en Excel y Outlook Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTExYbkVoZ3dMQUhpalpmRFdtczhKdkxHNUJCdkJra2pUUmFuWm9yYVo5cHJhUXp6Sl9lMy1KNEREc0x4cEJPOVdaU1R1bEtLUVZpT1V3R3lKYjdxMzFncDBRWnNJUXdOazFuNGJILU9VbTZDMDhkQ2JvSVRXcVZDMFBuV1B0aVNrOEQtbk1KQ2ZpTGpEWnFnS1lvd25QbTFWTUhV?oc=5",
-        "date": "2026-07-07T16:56:21+00:00",
-        "source": "Yahoo Finanzas"
+        "title": "Microsoft recorta 4.800 empleos y Xbox queda entre las áreas más golpeadas",
+        "description": "Microsoft recorta 4.800 empleos y Xbox queda entre las áreas más golpeadas CNN en Español Es oficial: XBOX despide a 3.200 empleados, se deshace de varios de sus estudios y ya avisa que la crísis aún no ha terminado 3DJuegos Microsoft despide al arquitecto de la…",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX2ZNMlRfZzM0OUVMRjdBVTd1TGR0QW5DTWdidWVBQWk0cUFHdU0weDlzOEVWTnpBUF92S3VfVUxoMk8taVd6Wjh4bFVBZFJjSDV4cnFUV2hkYjJSNWZ1Yk9vVzNUN2htR3I5a2FZUnkzVWd3c0J3WFpta0kyWWFWdWhqXzJOY1BMcktaWjVJTkUwS2tDX3c?oc=5",
+        "date": "2026-07-06T21:29:00+00:00",
+        "source": "CNN en Español"
       },
       {
         "title": "La IA hace que tengas que pagar más por tener Word y Excel: esto costará Microsoft Office",
@@ -31,25 +24,32 @@
         "source": "Infobae"
       },
       {
-        "title": "Microsoft despide al arquitecto de la retrocompatibilidad de XBOX tras 37 años en la compañía",
-        "description": "Microsoft despide al arquitecto de la retrocompatibilidad de XBOX tras 37 años en la compañía Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUnJZM1JqZzROSEhwcVVDaXdEYktTQTFXNTB0c0p5cWM3ZzBpMEtBVnl3czA1OFRHX1QxNGZJcW1hcUhzeDlKdUNET0RkZDdfOEFFSC1oRHgyWWFab2dnX1hKa1BGdUJ5YjZDVV80Z1l0Z2dBSlFkX3dhNUYwQXlvbVdQa29jNXJHNjZMYm5Qb2M4YlR5dzZycWxKSWlsNjB5cFVpX2xobUJJWVVWWGQzZEdRbjZ1MWtSMnVHM0pFNzh3SGVmYkRGeTcxOGlCaEpqajRlTmdUOGY4bFdjbUZNdWE2QkU4akHSAewBQVVfeXFMTVNfLU9nUFQtQnNwZmhIS21XVmRuOTVhaEI3WlA0Mk9aRWNpMmlMNW1qa1Y5WnhnUFcxNlhEa0Mwb293cHNTR0pPNW1scFU3czFnQmRyZFZCc0NvRXJCc3paY0JMbjkzbW9OdWdNZEZPWXB2bV9PZ1hoVWFLUno2YlFONDZzNFgzY2Z4ZmtYTHM2SXlwRmxHQXdHVnY4QVo3QWJ4Z0RUN1EtZ3UtYUF4Y3p2bUdjaGFBZloyTlp5Sm9fbmpOVllGekZNYzNham1QYVFXUkRfNXR1eW1hRWRnSVdxaGJqeGRHb0JKZE8?oc=5",
-        "date": "2026-07-08T08:30:00+00:00",
-        "source": "Vandal"
+        "title": "Microsoft empieza a reemplazar OpenAI y Anthropic por su propia IA en algunas aplicaciones",
+        "description": "Microsoft empieza a reemplazar OpenAI y Anthropic por su propia IA en algunas aplicaciones Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc05SZl9mS1MyTFdmeldjcHVFQzFVOHB1Z2NSNWVHWUx0dHJqOWI2QTZFaENkV1dLZWpXOGpfNnprblVESm02YUN0dXF4M2Z3TGVvdUVCaTdlSFlkcHlvNi1sUlAyR3BLZVVvYkJXS2djX2U3YVhPTURKNlRwenJTM3BMV3FaQUU2TjZYMzQyZlI1ZWc5MUZUUC1iNndWMUx6NmR3YmMwZlVhRkRPa1BKVXBFb3gycnRSTUJqa19HOTVFZ0ZnVXp1cEp5QdIB3wFBVV95cUxQRGFOY0tTVThVWVkzVG5DTmRCX0lCeE9FZ19DdlROVlBraHlhYkJlSTdlRll0QjR3RkpZdzQ1TzNTdXRpZnFHdFh2WGhxUlBfWlpqcTJSMDdzd3ptMm9IblRWRGlrbWxfNHY1TEFpZ2RXUUdHYWhvZGZLdGgtR1o2STlmMFNfZ1BDZ1JfOFV5cUxkcnRWQUhWYkZFczMyVXR6eDhHMEMyekliVWFISm9VQjZsWmdwM2xqd0thVGZvNUhZWXNDRGd0ZEQ2LTBIUmJrbTVjWUV2bzd0ZmpwbHlN?oc=5",
+        "date": "2026-07-07T18:59:12+00:00",
+        "source": "Bloomberg Línea"
       },
       {
-        "title": "Microsoft despidió a casi 5.000 empleados y Xbox quedó en el centro del ajuste: señalan que \"el negocio no es saludable\"",
-        "description": "Microsoft despidió a casi 5.000 empleados y Xbox quedó en el centro del ajuste: señalan que \"el negocio no es saludable\" Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX2hXQl9iNHJKQjNlNHpjXzNXNnM1ZjBUSXBaZzZ1Z2xHYTlpNU9OeHRjZWt3Y20zX2RYNzhvd1hkOGM2V25fVWNYbDIzMkt4NDRDcFBnMWhvSTJMbVY3bGU5ZDg3WlJua0hscXBqLWgyTFVaTEdhZVFmNUJWME5JeEF6Q2NvUGpxLWZjSWhCTWdtQWs1bzB1VlcyWHZ1emgzYnZVYTNUOEp4ZGt2dDFRcmJueTREdXdRUElVWEJtM2xVTkp3bmZVRGdoQTR0emVIQnVrVUU3c2F1RG5WRVZrVjJhVHRBM2ZpZ1HSAe8BQVVfeXFMTWFsbTcxY2NjWWFNVi0yQXBkSzVQODdOZ1hSYXNwd1YwN05PWmRtamh1a0VweGQ3X0dhbUJtM19DQWFoeEpmQUk4dWVadUJJM1hoQ3RmZHEzY0x6ZFZnSzVqekRqMVVIeUJYV0pmOWtwUERiUjBienE4T3JyUktQN00xSWJPNjNwcjZ3NGVSSEdUTGtWdk9yVGhYYnRJVlFybGdaODM2bDRxOXUyYmJDWFZZYXotaVBBTHdaNU1Rcmprc2hncU5kdW00MXc3V05HbTV6WWVGM0l0WllaaG5YOEYwSlNPbjdmaV9PZnNFbEE?oc=5",
-        "date": "2026-07-06T19:59:00+00:00",
-        "source": "Ambito"
+        "title": "Microsoft 365 Copilot sigue por debajo del 4,5 % de adopción y solo una minoría lo usa cada semana",
+        "description": "Microsoft 365 Copilot sigue por debajo del 4,5 % de adopción y solo una minoría lo usa cada semana Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSHh0SnItMjZ1anBwOFJ4bHdiMFM0eFJEOGFxSTQ5U3ZuNjNwY29vN2N4cm1PeW9SQTQwb2otdVJTOTZmcVJMUzNTQVAwMnpIV1lyRUZTQXotMEE3LXlKQUo3WU11UlhoYzFCVURBLXJYNU5PMmp5UlZEUEZGdy1YZWxTTGRpOUVRY3NYdUw3czlPNU5wckdITTZJUDZrZEtCY05kLXI5R1hLVzRiRHl1Y1RUX2FfaGZYMm92ZVV3LW1ROVZrLThNeENlSEpvY1RoU2J1RFJyLWZfa3kwOFHSAd4BQVVfeXFMT0h4dEpyLTI2dWpwcDhSeGx3YjBTNHhSRDhhcUk0OVN2bjYzcGNvbzdjeHJtT3lvUkE0MG9qLXVSUzk2ZnFSTFMzU0FQMDJ6SFdZckVGU0F6LTBBNy15SkFKN1lNdVJYaGMxQlVEQS1yWDVOTzJqeVJWRFBGRnctWGVsU0xkaTlFUWNzWHVMN3M5TzVOcHJHSE02SVA2a2RLQmNOZC1yOUdYS1c0YkR5dWNUVF9hX2hmWDJvdmVVdy1tUTlWay04TXhDZUhKb2NUaFNidURSci1mX2t5MDhR?oc=5",
+        "date": "2026-07-09T10:08:42+00:00",
+        "source": "Profesional Review"
       },
       {
-        "title": "Bernie Sanders, senador de EEUU, sobre los despidos en XBOX: \"Microsoft generó 101.000 millones de dólares en beneficios, y echa a 3.200 personas\"",
-        "description": "Bernie Sanders, senador de EEUU, sobre los despidos en XBOX: \"Microsoft generó 101.000 millones de dólares en beneficios, y echa a 3.200 personas\" 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaWJQaDBPcFNraUFoUVZDTGNPNnVSSFpPTkxjekk2Y3NMd1VvUXNldmJEU3JNZFhlenl4S0N3bjN0NkZuQjRDOFd1WEtUaTVYWU42OVNBTm9vNGtkY2xVTmw0Nm1LRlFjbVktQURLcXE2ZjNIZXRwSnNLY3doQ0lXNHZOUTUwSHRNdEp4bTJjdVE4SUJBQkRhNlBLZDhmdTYwUzhiYktLQUM1bDZaODgzamp5MjEtcXRXX3VxYTVfaVZYdGpxLWx1WHpJWkdLYkRhaGo1aElQY3BqQ2xmb1FPZ1ZrRHJUTHF2dVhKTkhDZkFSUE1SOVdwSFBlSERpLUFDdFJFaGVoSm0zd9IBjwJBVV95cUxQSGxraWpsQmhrdExSX3N2Ykd6aHc4Q0V2NFpzcmtoY0pFMUxqdWpjMHpjb0VmVzJoaEZNVi1nQmpjbXBOaXVwWTNZV0d5NzZ1M3NXTFo1RkZmUElBVHNNZ2g1U1FENDVDZjlMX3dXOWVCdFBLVV9yV2JYU2pGY2FCUHBXeFJTNnpKLXJ2aTdmWE9XeDYxOHhMdVUwU2EzUGg3RjhTNW5WMzF5WE9KLWxOeFVyZXl4Qmk3aGhMVXBROGRxNU0yWUhXaFBnMHNtYkh6SVdrbGJBdHNrQXk2TW5Lb3Ntei1jVy14STUwZng1RHE1Sy1NRnhCZGxDQ0p1d1ZlMzhQSk1aeFpRa2pSbWw0?oc=5",
-        "date": "2026-07-08T17:30:00+00:00",
-        "source": "3DJuegos"
+        "title": "Una de las creadoras de Xbox pincha en hueso al revelar la \"trampa de la libertad\" en la que ha caído Microsoft",
+        "description": "Una de las creadoras de Xbox pincha en hueso al revelar la \"trampa de la libertad\" en la que ha caído Microsoft VidaExtra",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ25XYUFlVGE2emt0LXprdWNIZVRNbG40MnpjQ3FYQVJEaUdHbTFqMUp1bzgtVEwxaFp3SXRRQklhZ3gxczlZa21YTmNYaGxqd0xMV1cwZWY4emlvQU1vRXF4cGE3VGc5V29xZWQtZlRSTGk1SjBHM2szWG9PNGlLV3VHb3p6NS1fLVpHSFM4ZFdCa0xKY1F5d2JsaFJwdHVGdlU0T3JkTl9yeS1PeWdEYk5ndDUwQQ?oc=5",
+        "date": "2026-07-07T16:33:44+00:00",
+        "source": "VidaExtra"
+      },
+      {
+        "title": "Telefónica, Microsoft e Intel aceleran la renovación del puesto de trabajo digital",
+        "description": "Telefónica, Microsoft e Intel aceleran la renovación del puesto de trabajo digital Cinco Días",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzhYRU1zSTJ1c1JsaHVkeW9iZ2xZakJERWN0enFfN19QVmU1aVZOczI2RTFGSWh0cVZZYm82c1hIWklsQmNBOGgtN2VqRmhoazNTamhfRjBXemp3MmQ0NV9jRW03LXVfT1BHRGdVU3BicHhkd3psYmxRN0IwMjYyZGpMMmpuNXFWNkRmWEdmelN1V2QySVY5bTc4YkxfT3REQ3VQNk1YQWlMZGo0ckxNeEVuX1NiUmN5WlVJZXVfWlBWdHE5bXZMUnNXam1Yd9IB4gFBVV95cUxOaC1qQTl2c0VzbE5GYXdCeV8xRHpJYjVhNTFUWkNtR0w3empmSjVtY0hrSTJKTDYtSk14Vk93OHh6eHpVVlVodkVidnhVNDg0UEYzMlBtQnR4d3RNbDREWFlWUWN4bGIxV29jZzdKUTRBcHl4Mzd4V0c1QTZnck5LdVp6VW5fNmRMSVhOTElXNndMZWsxa01falhIRDVFTWVkVlNDd0hCUW1haV8tVmlCOU1vLWxsdmg4UE1PV05PTDNwZnZId201bk1OalluYXFkU3hSNGpwdGw3UFZXWTlXUGFR?oc=5",
+        "date": "2026-07-07T08:53:43+00:00",
+        "source": "Cinco Días"
       }
     ],
     "Marketing": [
@@ -59,6 +59,13 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnY1aVB5eTVxaTJRX05KUERidUpDN1Brd0luV1dseE9TR1JvQ0libjkwMmZJa00tc25GX09xVGItR1lwS1ROUm0xMnRQVnlZZ0F6al9CZkp0QmhiXzl1S3RrRkI4X0Z5aFlRZXgyTUFjdHpFU0JMc2xMT1ZFLXVsU3IxM2trQkpvWjlZVUxvank3ZXNsbkE5ZWQyTi1pcUp4Nm1v?oc=5",
         "date": "2026-07-08T17:26:52+00:00",
         "source": "Prensario TILA"
+      },
+      {
+        "title": "Los datos no matan la marca, la obligan a aterrizar y adaptarse",
+        "description": "Los datos no matan la marca, la obligan a aterrizar y adaptarse PuroMarketing",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDA4VlhuLURiZ1F1cWJheXJpQVI3MnA5TTJLVkItOHplN3BKYnVOSWJqdUpORVVKSHNkR05hcTVPOUZidjJZWXdTbG9rVi10NXdPaGJzRUVSRE1QazMzMm1vX3pNMzRIOE5mb2JyVkZ0UV9pS3k1OEFLODlrR3k1Q2FwMWxseFZKSG5mV1Nn?oc=5",
+        "date": "2026-07-09T10:36:53+00:00",
+        "source": "PuroMarketing"
       },
       {
         "title": "Google acaba de cambiar las reglas: ahora también mide tu Instagram y TikTok",
@@ -71,15 +78,22 @@
         "title": "El 60% de las pymes españolas prevé aumentar su inversión en marketing digital de aquí a 2030",
         "description": "El 60% de las pymes españolas prevé aumentar su inversión en marketing digital de aquí a 2030 Directivos y Gerentes",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPamdrelA2Nl9wRWs1bVlNSXI0bllIQUlCaHhkVkFXZGxjU0RBeWJmcUtWZlFHV1hxUHVDd2FXci1kLVFPN2ZfclJ4MDAtcHhZZDdxZ3JCZlcxZUZWYzJxczRQQWFzSEQzdVd1ME1GTW8xLVF1a200dmRqRzFGeE5VbkVIVWRQb19adnhtMUlwUQ?oc=5",
-        "date": "2026-07-09T05:33:12+00:00",
+        "date": "2026-07-09T07:30:00+00:00",
         "source": "Directivos y Gerentes"
       },
       {
-        "title": "Cómo la inteligencia artificial transforma la estrategia de marketing digital",
-        "description": "Cómo la inteligencia artificial transforma la estrategia de marketing digital PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0dOWDRYLVpOazdUbFhsOFpjbkNwMVJHMUctYk00eEU1UG9tTnZkU25kcjdSVGVFVVZnV3Jod3pFd3lKRmVuLUtNVVBmNHpWQzlkWkdNa0VDMUZuc3lST3E2UnJFMm45b04xdjFILTRKNmFNeEFEYlZNcGNRVHF1SDNRVGQ2VnVNOEViV1hkVXhIelJydnJBTVVhNlc0UFN0dnVEMWRtOHo0azJG?oc=5",
-        "date": "2026-07-07T07:00:24+00:00",
-        "source": "PuroMarketing"
+        "title": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager!",
+        "description": "¡Ya podés preinscribirte en la 18° cohorte de la Diplomatura en Marketing Digital & Community Manager! Universidad Nacional de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTN1UFptclEwSm5UOU92V3RZWGJ1anUtNVV4LXkyaXVoR1NnalRXMFY3a3ZXdVlHVXZzSGI1SldLd2J5SFpvU0NuTjFYRlFZUEo3MmYyOTBSV1RwZUNzYjRZeVdheFd5QXdXVHhrV0pOT3M3ekxSbHV2VlRUNFc4UHpGMm1MWXhGZnhtWHdLUkVQazRDNnAzSVU5ek9sNVdkeDdZX3FuRWFUa0tKYnlGU1ZSRW9TRk5WdUxxdTh5UlJaUQ?oc=5",
+        "date": "2026-02-13T23:09:21+00:00",
+        "source": "Universidad Nacional de Cuyo"
+      },
+      {
+        "title": "Aprende a crear campañas de marketing digitales para captar clientes",
+        "description": "Aprende a crear campañas de marketing digitales para captar clientes Extremadura Empresarial",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZV92SmV1RnhmaWZ2OVJwOGFfTk4zSE9HeGdIQzRRYi1nRmE4WWcwaWxPWVFhb2M0ejJHNk43Z2FYN3VZbkI3QTZrWmo5Y2NMLXQtNGIweGJsQ3V5aEN0N2owMFBuWDZhcXd6U04xZnRLdkU0SzUtRnJoZFM0WXJ2Wm8xRi1sbmY1WDlkU2RCLXdDY1Jwazd0MDFmNXVCWEc5ak9pSzRHb1FrU2Y5VS1TVkR0Q0hidGlZMEE?oc=5",
+        "date": "2026-07-09T08:45:57+00:00",
+        "source": "Extremadura Empresarial"
       },
       {
         "title": "Las tendencias de marketing que están transformando la industria del entretenimiento online en 2026",
@@ -87,29 +101,36 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3VjTTl1dVBvek5yUkF1eDFSaDFmNjRxbm0wb2hPa08zV0VvcUtLSlUyRGJrNDg4djlFLWJwMVo2cUxyMWowWTlOT2k4dGY2TGpYdVdWNGZKVEw2bGg4cVotUkpRZnU4ZlZYNThTOE1zcThrNXVKT2M0bk9OMEFfV1Fva05xNEF3RnlFeE5HUElHdlBwRjh2V3BfT3JEdWJ3b29CY2Q2QkZPejNzSmxSS2pnZUE3S2l5aEtVV2loRmhERnRCcVA0ZUs4YTJGRjlvUjFzOGdRUlc3ZTDSAeABQVVfeXFMT0x6ZE1jVXI3aXN6a3h5ejVuWG5aRW1FYi1sR2FmS2NsM1JvRWtEWXFtYTNKeWhaX1J6LXlVTGpmbDJtNTVSdTJ0S1pXMGRJVm1hUzRXUEUyb1dXTlJ4dWQ2MVZiQXdvSFN1WnVyVWdYLXFJVTRvNmNxR2dpNGt3WXE5QjdWUDBmTUtqQ0w2SkRtQ2c2ejBhWWRiM2xSR1NEMFdFVWgxai1EV1BPcndtakVzamFjR1pFOVJSYmk1Z0xNZ1AwVXVMZW0zQlhNLWhPbVFaVWlISVFVVWhzdkN6LXk?oc=5",
         "date": "2026-07-09T07:00:40+00:00",
         "source": "Diario Córdoba"
-      },
-      {
-        "title": "Inscriben para capacitación gratuita del sector turístico",
-        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
-        "date": "2026-05-27T07:00:00+00:00",
-        "source": "Neuquen Informa"
-      },
-      {
-        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
-        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
-        "date": "2026-06-04T07:00:00+00:00",
-        "source": "sanrafael.gov.ar"
       }
     ],
     "IA": [
       {
-        "title": "Woodstock se rinde a la Inteligencia Artificial",
-        "description": "Woodstock se rinde a la Inteligencia Artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZG9ySkhnNkttaENBQU50blBXZzBoS0o4UjlyT2EtMWpSakxWZF9tWnVNOGsxVFZ6YnlIbXRLTUJLS3RyUXFHV1FzZFd2RGRWa3liNHZNUDduVF9yemxFNTkwZ3JmT01COWgwdVpGMy0tbVJLMEw2bVcySDl4MG1wa2FWeHZxY010U0lXWE1PRVAxQQ?oc=5",
-        "date": "2026-07-08T09:02:35+00:00",
+        "title": "Denuncian a alumnos de secundario por generar fotos de sus compañeras desnudas con IA y venderlas",
+        "description": "Denuncian a alumnos de secundario por generar fotos de sus compañeras desnudas con IA y venderlas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdUM5RGNuUzhJNk1weEVFdjhWVFFodUNiWHhlbzlTblhtVXh6V3Aybm5NTG4td0U2QURkeTJiUnFsWkFhczlkUHI5VkdDWVBhQkVhQXVnVDNEV2F5Q3J5NFUtd295UFItakFma05pQkx0ckswbUd1SDgyUThmZG1WZnE5YUVxTmI4UEN5V2NuZ1RFLUJiMnZ3S1Z0RWkxSjVvSjU4bVJDeDJaTS1RdXNrN1hhVExQVkJEWWtWaGk0VUhYY0lyR0JkN2xMdmhEdnRKLW9vT2lCaDExUdIB9AFBVV95cUxPR2FVR1N3ZnVFcDYxdjJzWjJ2el95WUFMVl9zWkNDcEdrUVY0UEY1UVFvMEx0NkFyOC1KSXpUdkNndVA4SXc1aEJmeVVVN2JZczg5NjJ5Q1ZIYkJnWlV1V3BSRVdkbEd1a0lNNWVXc0lLeUdudUxGOWJ1QkZ4Vlp5aFR4RllzODUtSXE5SWlGLS1VcXYxcGkwZFJuMS1VdGpLbE43YlV1Z3R1V09yZ0VTQlNaTEQ3ZVRsLTNlY3dvTmh6R0lTWkFJNzE1Znh2c25pbXBxaFR0NmlaLTB0eW1fM3RwNzl2RWRlVHJGTVExLXVONVJ2?oc=5",
+        "date": "2026-07-09T11:11:02+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Crearon un nuevo índice con Inteligencia Artificial para evaluar la reelección de Milei: le dio 72 sobre 100",
+        "description": "Crearon un nuevo índice con Inteligencia Artificial para evaluar la reelección de Milei: le dio 72 sobre 100 Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzU3VnB2TVZKaHZfOWZYcWVwc2x4d214ZXBYaEkxQ1RueGI5TE5EbEh0NDZId3B5YTkyb0VObXVqNG5HZ09iQ3RHby1mbzVIYm1WQ2ZiSWpFOXZKTFdlVWFJSUkyLUV5em5tejYxLWY1MHdQQkltTVlhcFRVSkNQcUptMG1KMF81RGZzZXc5N3hDMjhmc0tkWlRlUDN2Mjlmd3VMVVpvUWRxMEppWUswcVNYVmFPUzktNGlxSGZJUXhJdC0yTVZ1clZR?oc=5",
+        "date": "2026-07-09T09:00:51+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Llega a Neuquén un dispositivo clave contra la diabetes: usa Inteligencia Artificial para anticipar riesgos",
+        "description": "Llega a Neuquén un dispositivo clave contra la diabetes: usa Inteligencia Artificial para anticipar riesgos Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdG5MRE01QWx2Q0V4WDdTdDlNVGM3azZ1U1NheEFWRW9DWXNsN2N4Y1A1VW5LZWdtOVI1Z2EyNWRvZWNkekZtdzZ5QUJTdVI5bjFYaXBGcDVtWHJkaW1CQUQxUjEyMVpQZ0tXTFlUZ1JmVVg1aWNhRVpUZzdYY2RjN0p4bzdYbzkwTjVnRDJ4dHVBQjFSZV9UcTRXT2YzV2tDQWRmSTc3b1k0MDljbkw0LXhldXBIeEF1XzQxMGJsLXVnNFZCeVA5YzZXVEh1Rm9Qb3l2Z3pTVTZaS2g0RDhkMEwtZVNIUlRvWXfSAfIBQVVfeXFMUFZFb0ZFcDZvWVRwSHU4TTh5Vm4zYkVLcEVYQmhLRFBDUktMdUpONjBzVU1OM3BMejNzVTktalZmRzA2OEdFM0J0MVJrRGVQQi1HSTN5RGhhek0zN0lkTmhlVzBuVndveVBQbDk1YnBhTDltWTAyMi1PZ19fVkM4RDRTZnFhaG5tdUNjSTJock1iQkRfakJVQkF2M2czTTRuRGpLbFF6cW1YdmdFVnBFTTFtR09pWnJqcUpFMG9XaV9QMURUcnhfSGl2LXJnQTZnUTdpRzVDdVp0SS1FOWRmeGFrM3RRaVdHSlFrOVRsT2J3dVE?oc=5",
+        "date": "2026-07-09T10:05:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Cyrano era una inteligencia artificial",
+        "description": "Cyrano era una inteligencia artificial Perfil",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXZKaHZnY3ZsYzgtS0ZoV2RpUHBTMnUySDVWM21GWFdoU3RHM1Q5YW1TNkRaZlgxeWJWaTVDbThUOUpUWGNRTklWUmZTN3pCY0lNRzJ5VVhVRE83Q1VSZkdrcTRscFItb1RTQ0ZxVmpUa0VZVlg3TzI2UEY5WktWb1hTS2FXYmNFRHhmatIBkgFBVV95cUxOY0JxWThkS3NQR3VkWXgwVGNpU2pMZHphMU1naEJoeFFMQ1dmbW5kZ2p3cjhVT291S1lLVnhzaVJwbUp0cjUtZi05bnlfX1Z5RjMxbUFhREFsd2pFb3dCYkhnOTdPSkUtaEhmX3FzTkt2ZVpETmtlckJpMVhTY0Z1VTkzbUZvcklfd0hoSlJKWFpzdw?oc=5",
+        "date": "2026-07-08T21:01:11+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Predicción. La inteligencia artificial ya eligió al campeón del Mundial 2026 y la respuesta sorprende",
@@ -126,32 +147,11 @@
         "source": "La Capital"
       },
       {
-        "title": "Cómo le irá a la Selección argentina ante Suiza en el Mundial 2026, según la inteligencia artificial",
-        "description": "Cómo le irá a la Selección argentina ante Suiza en el Mundial 2026, según la inteligencia artificial C5N",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdElzQ1VIckJHdlRNQ3puMHJ5SmR4aFpMQmFyWFVhNjctODdrckRiZkJ4TjBIQUhQalBmWVNockhLUkZDSmxUeDdtUnVLQldEUk5XaENaTXpUeFlBVmtIVjNYVzdTSGRZR21CM3FibGlwNk1UWjRqbzk4bFJVRHM0RHlENlhpTThlQVN4RjJJbEF1d3BoZHlBUHFTc1lKbTRnQUZ3a0dUbHRYbzNIblQ5NGlMUTZENjdGN2hSWUtFYVc3MFhL0gHKAUFVX3lxTE94WTFadHBQczk4ZVFqZW95SGlHMU54Z2Q4WEphM0ZiMEZiVVlUaDVHUE5kN0JSQ2VKd1ZQcmxxSmE3MmhXZU82enpfMXJmSFFZZDZ2SEc3MVFTNkJCR1dPZlpiODh3cjc5cVRfZ2NjQ2VTam1QeTExWHNKbk9DLTBoNzZlU3pmYy0xdEJZUW1LclZETnFBcXM5NThUS2p3ZFVsVnFGRUEzcXlHNzVnNXZ3VzFfSDBZaUhaMnJFRUhzQXNZUzVSSWt2bHc?oc=5",
-        "date": "2026-07-08T15:55:00+00:00",
-        "source": "C5N"
-      },
-      {
-        "title": "Cyrano era una inteligencia artificial",
-        "description": "Cyrano era una inteligencia artificial Perfil",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXZKaHZnY3ZsYzgtS0ZoV2RpUHBTMnUySDVWM21GWFdoU3RHM1Q5YW1TNkRaZlgxeWJWaTVDbThUOUpUWGNRTklWUmZTN3pCY0lNRzJ5VVhVRE83Q1VSZkdrcTRscFItb1RTQ0ZxVmpUa0VZVlg3TzI2UEY5WktWb1hTS2FXYmNFRHhmatIBkgFBVV95cUxOY0JxWThkS3NQR3VkWXgwVGNpU2pMZHphMU1naEJoeFFMQ1dmbW5kZ2p3cjhVT291S1lLVnhzaVJwbUp0cjUtZi05bnlfX1Z5RjMxbUFhREFsd2pFb3dCYkhnOTdPSkUtaEhmX3FzTkt2ZVpETmtlckJpMVhTY0Z1VTkzbUZvcklfd0hoSlJKWFpzdw?oc=5",
-        "date": "2026-07-08T21:01:11+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Secretos compartidos, bodas y hasta embarazos: las relaciones románticas con la Inteligencia Artificial imitan a las humanas",
-        "description": "Secretos compartidos, bodas y hasta embarazos: las relaciones románticas con la Inteligencia Artificial imitan a las humanas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYndBVnljaWt2QnJnWElndXBaTkVzMkdscGpINHhSbGc4ZDV4QzFLemlkR0owVkkwNnpORnpJNzZvdkNkYlhJczNtWmVBdEFNR29rc29NV3hEbzNGemNBYi0tS3hjQndYcUlxSV9YNE85MHg5TlVmNkdUaU5LaEVYbjhENEc3OGpUcFAxcnItVlEwUVBsRkgtNFp0ZHNsTnRwLWFMRDVkdF8tQ3NvU3huMDRrR1RCeXQ1MndDSmNqQkFpZVI4ZF9vcGZnZ0tyUEtSNlB1M0Y1Zm9fWnl4YV9ienlQbFZJVVFJQU80UE1TM2Fxb3dQZXJBeXV2WFZzNl9GMW1xa0VnTnhOVDN60gGnAkFVX3lxTE54RmVHVkxJNG85WWJqRy1xanYzWlJZeWZNTEtzTUpBRWVNbzZvbWtRSms5ODJ4eGJHSUo2a0ZuVW42SjduQ2ViUzN5Um00dWZPYXhpNnFfN2xHeGhWZE1DN0tmMUJNM0VlSFFuMVlaRk1Wa0NfUG1OOXFacTU1X2xXME5TRUJUWHFpdnNIY1dsMmhOenNLMEpZYXRNWV9hNk1pdEVxSExuMl9QV2t1N2x5NkdfV3QwTzAyS2Q0cHVTanEtTFY5N3RtUTc5bjBNa0NaaXRXaXU3MWoyd2Jkam1JQWFrTV9tM3o4TFNZZXdxakZ6U0d0bVNwaHk4NzNMWUtCWC1wY2w1WTRFS0MwalBkYjdvYlk4eDRVanVSa2xYb1Ayc1hRZkk?oc=5",
-        "date": "2026-07-08T10:37:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "La Santa Sede: El progreso tecnológico debe estar al servicio de toda la humanidad",
-        "description": "La Santa Sede: El progreso tecnológico debe estar al servicio de toda la humanidad Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0pNcHFaV3hDdnFlMXdyMG40Wk96THFkeFdNTkRReHNWMFMwMVZ5VlNvM3VGa052Q3hrRENiRkxqbzhLOFcyYkxuRU5qdGF1NlFmLW1tSXZtWmhvWS1oTmdJM0xJZFBBNUNqN3pBQmJKRVA4VFRqV3NQVXVKLXRYSmRXUkljTTBxZDBNckQycVFCTFpMd3Ewd1lrWmVfZXNROFBNWTFxTUtYM04tUG5aYnBMOA?oc=5",
-        "date": "2026-07-08T12:10:50+00:00",
-        "source": "Vatican News"
+        "title": "La inteligencia artificial predice quiénes van a jugar la final del Mundial 2026",
+        "description": "La inteligencia artificial predice quiénes van a jugar la final del Mundial 2026 MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVAzZXhjSXVOdk9feTRUVDlOd0JtTC0xMzZGSkF6V0cxTlNkZW5JcnZYQW1EeW5VVnE0cWs2MVgwZzh0UjVVSU9hX2t1bzRHUWRObnBXdlZsVVpYUGUyYlJoakVXSjRHekVDMUtmakg4TEE4dkxkbkJHUHpZZFd6OC1WYkE2Y0dRQ2tveXAxMU1tNEp4dVdTSlRkaHZ4Mjk1alJQdzNhOXRIYlkwcFp3QTdkbm81aW1aVkdQMdIBwgFBVV95cUxNRkkyVDdrQm9WT041cFFSVGpMa2QzMDBjQmp0amtHUDRGTEhabVN2NTJzUEJoV0pOYkRKRkJlSDdYcnYza01VYWJ6QTBvVlhyamNyd2p4Zzd1NjdTX1ZuV0FHRWE5LVNtT05jZkRnQm1BOTd5dGZaaHJUWTA2Uy1ueXJGa1NFZ21mU1BXOWVuTkVpOEVSY2k0UnFrek41a0tLOW5rX1BpbUpyYjA3ZVB6WHdVZzFBWGlQZm9nb0NsRG13UQ?oc=5",
+        "date": "2026-07-08T20:05:00+00:00",
+        "source": "MDZ Online"
       }
     ],
     "Vaca Muerta": [
