@@ -1,9 +1,209 @@
 {
-  "updated_at": "2026-07-10T06:39:24Z",
+  "updated_at": "2026-07-10T10:19:24Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Microsoft aumenta sus emisiones y consumo de agua en medio de expansión de la IA",
+        "description": "Microsoft aumenta sus emisiones y consumo de agua en medio de expansión de la IA La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1NBdmYtaHJaODhMb3NnbkRpbXVSUzdwV0o4Y1FYSEdOZXJLc2k0UlFCcGYxYW9PR1VGUU82TWNrUUM0VGoyczFPTjIxTncwTEkxRDFZcVpIWHJEdFpVR2ZDMHlMYjVXaW81S2RfY1NOVVdlM2VOOEJxM3JxekhaTzlhUWkwM2ZpSnFWcVUwMFJCVnlFRFlNQ1BFTXVBU3lLZVFyNzV0TVZQX2FrT3JKdGxkTnJQN0ZHdnJreklMX1FURjVtWEVBYlUzM3lRSE5KTEE?oc=5",
+        "date": "2026-07-09T18:35:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "OpenAI designa a GPT 5.6 como modelo preferido para Microsoft Copilot 365",
+        "description": "OpenAI designa a GPT 5.6 como modelo preferido para Microsoft Copilot 365 Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNnZ2cF9PWW1oMWIxOWtfZUM3ZGxfOEotUnEtNm11TVlaZmdvLUlxb19tckFpX2pONDJFdlE2cEVpTkh6S0tQeEROUVlkZGtjcU9VOU1SZUNuLTRWSVRxUG4zTzRTNzdSdnZFU05JZWZ3VHRZZzZqelFyaDMtNnl5RjdsbGFTeEV6OXcxNkN5NVVOdlFiSGh5NEp5V3BZdWdXMUltSWZTYW92dHo5ODFMQVFzS1BvNXVpeEtOTnBEUdIBxAFBVV95cUxNOGNndHpjX2lkaUFOdTczQUdtaTVkamlXQkhuSFVyRG1uTm9UV21IMXQ3TTNOVjRkRlpvWG5VRmw3SHVxSERDaDMzb2xHWGxNSURFdW9WR09obnlRaHBPY0wyS3loNFM4Y1EwQVpwQ1JsamZwc2JCdzFxVmlpeVBlb2M2bElfMnJRQ3pxQTFmcDdKUWN6YVhSc01zeWw3aVQtOW8teFdDaVhnQTdBSi1BQ3JvbGJERkJ3aXFFVDcyWVg1TDRh?oc=5",
+        "date": "2026-07-10T01:07:11+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
+        "title": "Aravind Srinivas, CEO de Perplexity: \"Microsoft construyó el concepto de trabajo de oficina porque querían vender más software\"",
+        "description": "Aravind Srinivas, CEO de Perplexity: \"Microsoft construyó el concepto de trabajo de oficina porque querían vender más software\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSFJrOFp5R2lEUnZaN1JjTGMxc2tkTzZVV2JtQjhzbzU2eW4zcEJKM0w2ejNXbDMtblJGRG9Eb25idm9nQWk5SHdfczNmajlsNkhjbGtNVGtrMmJKdVlsMDFUWlFlTnVNLTlEMUFVV0FpRGVnVFBubFpSQkJ1WGNYRENHUHpZc0dVdDgzcHFHRFp2MEo5WERubW9jYzZUaTd3MXhkeFFyOGRYN0JUVnpyUnVLRGhLMmtGNHlxSGdnSl93aWt4a0VPUEY5dnEzYURpT1hIR285QXlCekRGYTQzUHNtZlPSAeoBQVVfeXFMT1RaV3V4NkRiN25Gdl9UZEJVYlAxV0hacThVcjBkdGpNTUtNb09ZM1Ztd1ZHNXBfN3pIZmstY0RzZldyLUx0MEtReG1zeU1zRmU2WlR0SGk5amhBSTBpdllmV3JsdXljSGhsenU4cjNMQ1hrUjMxcVAzdk82S1BfeVpEbHVrTGZLNkhIMzJDM3g2Q0lGQU1CSWJ2Z3N3b2JRYTcwdmxrTHAyU28zYlNvbHRlcWRva0RFMGRqalNVcWIzZXIyYWJVUVFjX3ppVnpGNld1ODVMUks2R0NQaHJpWURpbVppSXZjdHN3?oc=5",
+        "date": "2026-07-09T15:45:18+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Starbucks desarrolla software con IA para reducir su dependencia de Microsoft e IBM, según reporte (SBUX)",
+        "description": "Starbucks desarrolla software con IA para reducir su dependencia de Microsoft e IBM, según reporte (SBUX) Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRmxwdmNiWlg2WGE1UWk0eUJ5WDZnTkJGS1NHdTBlM2Y0QThyQmJkLXRjMFZCbG4xYlRjSl9sWXhRamZrUm95d0ZuUW9LYlNXclhvQXNQaU9pTmpnWDV1Q2FxRE0wczF4elN1WVFydkJSLUUySjc1T3RxSGJOcHZxYi13bzhucThERFFBbXlPQmVfaFJlQl9wZjVBV2dRdw?oc=5",
+        "date": "2026-07-09T14:14:45+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Microsoft quiso crear el \"Netlix de los videojuegos\". Luego se dio cuenta de que eso era una utopía",
+        "description": "Microsoft quiso crear el \"Netlix de los videojuegos\". Luego se dio cuenta de que eso era una utopía Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGFlT0l6cDlfM2t6QlVLMXJzNUxhRlFFWlM1MHhNVGwxbVdFOWdrXy1nZHplUFE3bXZtOGhqWlkteGtRRVQ0TzQ4eXZ5aFVpdDFMUFNPWFMzcFZjcDJxNmhiZzZFR3NndlB3WEFndTBXR1NCWTJOQkhNMWJpRWZCYjZBa0dZbFowZU5KTlF6OTlWNFZ5UElIMHRsbWttLXdpaXN3bkZWS2NoWXVWRUdHekQ0SmFxV3VTQ2lKZ1hhczVhVktENmZuSEJVeGNTSV9yeFR0RWsyRVNaT3hPcXk2dXItSkpkUkNySVHSAe8BQVVfeXFMUFZ6bll2QVB3dG4wMF9odV9KOXJqNS1XYVl0QTVDOHBhZXhOY1NyOE1Ja0NSZi0zRV85ZGwwbk1uRkZlUUdrcU9KczNpRkdYSjhMRW5QeE1WZ0dnLXR1TmdxaTZUQk1FVVJoUXVMZDZRSFU0eUdhTHNMRmtpdllna0VBMWlvcVpKRW5hUmg0STdiWnJYNmp2RnVYUjNqaTVOMXJPSHhfODAxeVVnbVRhbnZFRlZXRWJvTVZrZkNybENSenV6dGNhNHJ2Y3ZjRmdkVWZBd2xKR05WRDdWajlMQk1jNmRxVWtLR3FvZUtnSHc?oc=5",
+        "date": "2026-07-08T12:15:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Adiós a los silencios incómodos: Microsoft Teams prepara una IA que responde preguntas en las reuniones",
+        "description": "Adiós a los silencios incómodos: Microsoft Teams prepara una IA que responde preguntas en las reuniones 20Minutos",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQakhEZDB6cUtuRE1fYWxRNzkwdVE4cnNWTTlwWXl2TUtTNnhpQU9WZEotWFdPaks2Ul9iaHBSQ3d5Q3ZpUGdwNTRPZGlsM25DaWtSRnVOWFJPdGlKRFdhMWpnVllTalM3M2UxOWZoRlVYN1pDTnI5eTh2TnY5S09ZWjBYV04tb2hQOFpKNmJXX25Od1FmblNPMEVkWDl5VkdSOW1URzhjQmhDemR0QkJ5VWRPVjJnM3FhU2FiUEJaaHZGT1k5cmpPUVBpX3lXTGpaelU0SlpRLVNmMS1HTmhSYnFKYXozeF9MTWVXMTFqZzZHMHNYTUJ2SzFKRmltSGViUnc?oc=5",
+        "date": "2026-07-09T17:30:00+00:00",
+        "source": "20Minutos"
+      },
+      {
+        "title": "Antes de ser arrasada por los despidos de Microsoft, id Software planeaba un nuevo Perfect Dark y un juego al estilo John Wick",
+        "description": "Antes de ser arrasada por los despidos de Microsoft, id Software planeaba un nuevo Perfect Dark y un juego al estilo John Wick VidaExtra",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVdPbENtWjBqejF0UEFCNGN0SV9lM2huakMxb3QyWGRUbGJoZmxfc012QVA3YXl5aG9RbHpNNC0zYUwxMXFaRWg2SkRvRXIyTFV6Z1RXN3NqdXRpNTJ6ZGo4SWlPd0xvZzN4elQ2ekN6azFHUElqU3JMb3JZNjJlcmlXS0o4UlMwWWdOVU9WM042dW5lMGp6a0NYcmphUkRwVnJVcU9hdURnUjVlcTRtbkJFNGNlbWNDdzRDQ1IxaWVwTDZOaTg2UWcyODBvNklHU0V1VGNR?oc=5",
+        "date": "2026-07-09T19:17:28+00:00",
+        "source": "VidaExtra"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "IA generativa y agéntica marcan el siguiente salto en el marketing digital",
+        "description": "IA generativa y agéntica marcan el siguiente salto en el marketing digital Prensario TILA",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnY1aVB5eTVxaTJRX05KUERidUpDN1Brd0luV1dseE9TR1JvQ0libjkwMmZJa00tc25GX09xVGItR1lwS1ROUm0xMnRQVnlZZ0F6al9CZkp0QmhiXzl1S3RrRkI4X0Z5aFlRZXgyTUFjdHpFU0JMc2xMT1ZFLXVsU3IxM2trQkpvWjlZVUxvank3ZXNsbkE5ZWQyTi1pcUp4Nm1v?oc=5",
+        "date": "2026-07-08T17:26:52+00:00",
+        "source": "Prensario TILA"
+      },
+      {
+        "title": "Google acaba de cambiar las reglas: ahora también mide tu Instagram y TikTok",
+        "description": "Google acaba de cambiar las reglas: ahora también mide tu Instagram y TikTok Urgente24",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjV5c01NMGxvN0NCVGpjMTFQMmNaZHVkaEI0R2l3UG1qdW9zbHNNN1JqTUpmVXJXMk8tNnZqSGFMYjR1YTlxdlhSWFNITi1hclJmdm1EM242ZS1XaFoyYm9GaHZGLUNISUNEQTNoS2ZmNDIxaWQwVUJjSzZqZm5GdnFYN3A4dlFvNFZJS080ZHlpdXc5Mkd4UWp4S1RvSUpYUHpQRTVKY1RYbGE50gGyAUFVX3lxTE0wb19VMmhVcDFiTzZyWVZ0dmNLSExZSGdJYmZhcTFwS05pSGJoZEVtYk11TWpSVjQ3RGFILWx0RTZvdWs0ZFI0Q3g1dzFrdDNvWURHVGRvSFA1ZFV0TjdUSDB6NGYxOXNvUnN1dzVIVHhVNlVSQnZuT1hiNno1cm1QTFdvOFM4NnZXZ0s2aTg3YlpKTVpHZGN0S1BQaTVHLW5aZkoySjV0VDU3dl9WbXhjY3c?oc=5",
+        "date": "2026-07-08T16:03:00+00:00",
+        "source": "Urgente24"
+      },
+      {
+        "title": "Cómo la inteligencia artificial transforma la estrategia de marketing digital",
+        "description": "Cómo la inteligencia artificial transforma la estrategia de marketing digital PuroMarketing",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0dOWDRYLVpOazdUbFhsOFpjbkNwMVJHMUctYk00eEU1UG9tTnZkU25kcjdSVGVFVVZnV3Jod3pFd3lKRmVuLUtNVVBmNHpWQzlkWkdNa0VDMUZuc3lST3E2UnJFMm45b04xdjFILTRKNmFNeEFEYlZNcGNRVHF1SDNRVGQ2VnVNOEViV1hkVXhIelJydnJBTVVhNlc0UFN0dnVEMWRtOHo0azJG?oc=5",
+        "date": "2026-07-07T07:00:24+00:00",
+        "source": "PuroMarketing"
+      },
+      {
+        "title": "Inscriben para capacitación gratuita del sector turístico",
+        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
+        "date": "2026-05-27T07:00:00+00:00",
+        "source": "Neuquen Informa"
+      },
+      {
+        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
+        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
+        "date": "2026-06-04T07:00:00+00:00",
+        "source": "sanrafael.gov.ar"
+      },
+      {
+        "title": "Google revelará qué anuncios fueron creados o editados con IA",
+        "description": "Google revelará qué anuncios fueron creados o editados con IA DiarioBitcoin",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnBCSk9JTmhVQ0VXUmZXYlI4MjFyWWJHbEszVTlSR1ZxXzlNLS1aNEI1QVdoUGJZVUc5OTJ1M3pPNDlmTzVwOHZVdnhuVmhkUjZiMVhtNXZEeHpiNWRaV01NQlE2bndmVFVfSUcyTFFyRXZtdXVNZlZhWjlXMVo1REtQczgzQ2dxSnRnb002S2xZODAwTnR4RjZ1eXpGU1psajIw?oc=5",
+        "date": "2026-07-09T21:17:25+00:00",
+        "source": "DiarioBitcoin"
+      },
+      {
+        "title": "Cómo NP Digital está redefiniendo el marketing digital en la era de la IA",
+        "description": "Cómo NP Digital está redefiniendo el marketing digital en la era de la IA El Boletín",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0tNOHJVRExuZUFabElGVktpay1rcnB5TWFNMG9GLUhXVjQ1N1B3bkx0a1ViMHBVc1RNdndDaWRNajk5MHVKSjhvR3g1LXl6SUtWMTRwSzZkd0doMEtnOXlqS3dzMG1PbVBLTVRNSGpkU3lyN1ZHLTA4T2ZGb0VWSUdZZ01FalNjNkxhVjl2S1U1d1ZiNm1wS3JtbGRiTUxmZFHSAacBQVVfeXFMTjhJbjk5U2xlbVdlUW9Md0pFUTBuaUpyU09ZbXctdHFzT0V2aDBsS2NpQjJTMWVxckM5M044RElOU1dmeTdWTWRpYmdXY2xsQU02NXlNSTE5bGxzYTdvNEZzWktjaTV2ZlRZLUxHOGdwcjlPeG9raG16b29UM0VTcGNldnJYb2pQanJTX1VwM1Z6ZjAzQjF1UnphVFRGUF8ySGlaQ3JYN00?oc=5",
+        "date": "2026-07-09T14:48:01+00:00",
+        "source": "El Boletín"
+      }
+    ],
+    "IA": [
+      {
+        "title": "Del aire acondicionado a la inteligencia artificial: las empresas que ganan con el negocio del frío",
+        "description": "Del aire acondicionado a la inteligencia artificial: las empresas que ganan con el negocio del frío Cinco Días",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMmI5Vmxadi05VDQxNS1mOUlyUWlFMzE4LXM2UV84TFN5ZlNiT0k0UmxRTkthSkozTG9LdWhQbDVCa2NnQXQtcHRudGRtYnM0VXB1RVVReXFDdlI2bGZTN1NSU1VySXBORzBVR0JPc3BLbjcwS1JoY0NOc2ZKRVF2TU5xT3lsb2h0MUhDWUQyY1hRa1RNX3V3N2VnUGZzeTFxVS0wOGJiRW16aE9KUmJhWEhFLS1ZekllRW1TLVBEX2JJbTZXam5MT3A5QTdUbEx3TnlmZWtoQ2hoazRpbmYwQWpWX0o5S09wYUpGbWU5eHZzWUJwMjRn0gGLAkFVX3lxTE8tTjBtakh2WWt5dGI0TTVRdkRvQ05iR3ZFcTFITnozWWNVZXZhQ0xPVDFfNEtYYUY5Zno5VExrM2h4U245TC1sb0tZWldOWFZ2TkxzVXoyR1E3RWFJZnowa0dlTFE1ZUFrYTB5VHNNR0F4TE1BTnRqSkZhRGtjbzUxc3h5QmZxMDlNcjRZc1lYZGwzNVNybldPUjlkNnJNY1RjQ0hGbGIxbVN6VzZGM05Kam1NVTZiSEdoM2ZWTVNGQWkwa0ZFNFBTRVJvdDFpOUUzRUVZSnpIdHZnVFZSWVhTeUdSYzd5SHVmWmJOdHlTYjQ3dEFaZW5kZ0tLcTRSNmhmMld2cTVyTGZyaw?oc=5",
+        "date": "2026-07-08T03:25:00+00:00",
+        "source": "Cinco Días"
+      },
+      {
+        "title": "Los anuncios de Google indicarán si han sido creados con inteligencia artificial",
+        "description": "Los anuncios de Google indicarán si han sido creados con inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXZwNEllMTF0WnZSVkFvR0J5Q0I5RU43N2ZsTmgwTmVtUVNiR2pxQm1VSVRZbkhENWxpZVViQzJKNHZESUloelZJcFFycVFpWV93UG1tVUozbGhncU0yVlluMUJGV00tWUZWaUdLR0x3NW5TdlJzZXRJME9Zd004bmRldllZLUFDcGkxQUM4cFRibmx2dzlySndjZzdHbTdRcjZucjdEaDdMcWgyS3ZzblltU2hTMEZRQV9EUGVGT1M1cWVFOHN4dVF2WUlPd9IB6AFBVV95cUxPak9DZlpPNjFiTGZnVS01alk4eS1uelZkNnIyQ3VSSDdvRVlHSVA1N3FvZUNhM3NhSjNvWXBGY3BHdDBSODNKUGc3R0pYNXBrZ3JFMnZrbDgyN2RFQzFYdjFBRWVYYXI1cmxFaVRwWnZlc0NMLUtQREFmUlY2TzZIMUVIVENuY1VQdVZ0UkJJOEFjel81OFJkRmpnanhwaVFxMTdlOVZRd3N1clZvbFl1ZnBSMFNGMlRZVzhPQ3lTT3V2MUdjVGpRYWluaWNjblpDYmRZaUl6bmpsOUQyci15eHF6aWhCb1Nz?oc=5",
+        "date": "2026-07-10T09:57:35+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "IA: ¿hay alguien ahí adentro?",
+        "description": "IA: ¿hay alguien ahí adentro? Perfil",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT011aFBGTi11YzFXVUV0Z1JWN3Z0a0VGV3BLSGlvMjh3RnZzTzJwRE8tUWRPREZjWENHMFRaajVGMlFGdDR5QzFYVWNOS2FES0Z5MzBHalY5TGhHVE1qUi1VdU5Eem9VUGxIUUlpR2l2UUlyOWdfdWxfOXpKXzJtedIBhgFBVV95cUxQRHhxRjhMa2tLSmx1eEVfQmJqXzd2OThSMWdsMnVWR19VWDNGVnBnelZYZkZzQUl2VUY2N2t6c1NhN0ZoOW1xNU9VVTJWd2RsTUNkLVhHUjB5a1gwOWh5RUVxMWZKNnhGV0oxVDdhMFZoeWRCempVcU1vdjMxcFFSYWZtZFBudw?oc=5",
+        "date": "2026-07-10T08:00:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "La IA detrás de los videos virales del Mundial: Morphic, la plataforma que crea versiones animé de Messi, Mbappé y Haaland",
+        "description": "La IA detrás de los videos virales del Mundial: Morphic, la plataforma que crea versiones animé de Messi, Mbappé y Haaland Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZE4tc29OaEpZNjVISWxMX0RmbWtXclhvSjNfaG5Jc0w3NDdKb1h2WVVFR0hvRzBhcTE0SDZQY1BFSXFZQ2tKQTQwWTJWUjMxUjBWVVNuTGVVT1UwSDVHdUZzSmo4cFJia3o2d0xtT3RpV0c3SnJoQ2ZvNGdrVTZoMnhnbm9RanBJeFFNNHkxaEw1QkhkRVhsNXE4YnJ1UjBjSEtCQUxmYjJ4WWVmNzhuZUFtUmdFckVvTjhOQVJnOG5GWnFmYWtFN3J2TEV3WUtSMHY2em1FSmxhakdsUnfSAeMBQVVfeXFMUHd3eElUQ20yeFlLT1dqb0dvaHZrNThKeGQtWUk0RVJBY284cmZoZF9ndUhZSTlsb2tfbFlmd0RFbGgxQTJWSk96UU8tRzhFNkdlWjJ3c0JCM3lvYnU1WHhjZW42aklXZ3hpM28yMmMtVGVKQThGdGRNU1NYdlZlc1pra0VSOUx2OExrZ0p3ZHFtMWtXLUpfR0Q4MUlZZWVrZkdiZHNETmU2a3pkZTJjNC1hT0doMURheDJlQ0FOMkV0dDVsZ0FvOE1wYXhmRDBvUWJsYXFrODU5VDFvazRXcU1QQnc?oc=5",
+        "date": "2026-07-10T09:01:10+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Así será el resultado de Francia ante Marruecos, según la inteligencia artificial",
+        "description": "Así será el resultado de Francia ante Marruecos, según la inteligencia artificial TyC Sports",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkZrVHNseXVtVVFTVk01VWg5TlRGSmExNG9Uel9MSlZabE1EVWxqMFVzLUc3RmdvS1llU0t1LXduYXFCMHZLSXNLX0tUVEhEV01zRURJVEVKaHhZd3RYXzRUR2lkTEFkb2t5NlY2d21ZZUdiZU9VQnl5S2hvcEFPeGsxcE5obmtYU1d4MlREMmgxbVZxbUtsc1E4YVIxSzZIQno3bEhKV1FsVWw4Skd2SGh3SFNSMzZMZ1ZrbkNPc1lwcGlDZ1E?oc=5",
+        "date": "2026-07-09T14:11:50+00:00",
+        "source": "TyC Sports"
+      },
+      {
+        "title": "Francia vs Marruecos: quién ganará, según la inteligencia artificial",
+        "description": "Francia vs Marruecos: quién ganará, según la inteligencia artificial Radio Mitre",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd09LSElnSG9KaElPcHdBeUhvZ1pMVWJiSEJYQUx1dUV0Ymd0QkdQN2lLSkM2MnQweXpXUjh1NzB1alY0a2lVeExodTI3WF9oVldZR2NUWmVrcTFCYmRPeEtGanBmRkE5cHhSUHIwWERyejNWTjRwU2RnYkQ0LVhfS1NCOTVfemNEeGtKQ0RwZi14V0xpREpqTkQtQ2dIYkJFOE9FZTloWEx6NS1sUUxr?oc=5",
+        "date": "2026-07-09T16:05:00+00:00",
+        "source": "Radio Mitre"
+      },
+      {
+        "title": "La IA reveló quién ganará el partido entre Francia vs. Marruecos por los cuartos de final del Mundial 2026",
+        "description": "La IA reveló quién ganará el partido entre Francia vs. Marruecos por los cuartos de final del Mundial 2026 MinutoUno",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMTVYaFJoUks3MUdUdndtdXRPQmI4cldaUlpMVG1KOWsxRU9HaERyZTZXcUNtVTY2WFZuaHNCeW14c1R5aEJCZlJELW5xN3Uwci0xQ044Wk0zbkQ5WlFnQVNHR2llU1dhYVl4UDJ6UnNVdlpfclRnN0ZzcTc4XzIxblplQkQ1ZWlOdjNIeWVPamQ4VTlzRERNaFVfc3AySVRzUjF4ZFU0S0lKOVV3ZDNhazZGTThMaEE0UnVYV0MtdXBSOEdhOVNiR3BKX20tOC1Oa1HSAdIBQVVfeXFMTzE1WGhSaFJLNzFHVHZ3bXV0T0JiOHJXWlJaTFRtSjlrMUVPR2hEcmU2V3FDbVU2NlhWbmhzQnlteHNUeWhCQmZSRC1ucTd1MHItMUNOOFpNM25EOVpRZ0FTR0dpZVNXYWFZeFAyelJzVXZaX3JUZzdGc3E3OF8yMW5aZUJENWVpTnYzSHllT2pkOFU5c0RETWhVX3NwMklUc1IxeGRVNEtJSjlVd2QzYWs2Rk04TGhBNFJ1WFdDLXVwUjhHYTlTYkdwSl9tLTgtTmtR?oc=5",
+        "date": "2026-07-09T10:00:00+00:00",
+        "source": "MinutoUno"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "El dueño del Inter Miami le ganó a Techint y a Mindlin una obra por US$ 1.200 millones en Vaca Muerta",
+        "description": "El dueño del Inter Miami le ganó a Techint y a Mindlin una obra por US$ 1.200 millones en Vaca Muerta Clarin.com El dueño del Inter Miami y una italiana le ganaron a Techint-Sacde la mayor obra del GNL de Vaca Muerta La Nación Techint y Sacde volvieron a perder un contrato en…",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTGplUFUydjBiOE5nRWtQM1hLLThRUGQ0XzFXSmJOT1k4NmVDYmxYM3NKNVhYYmhxTXVnX012Y3hDZS1kdUctM1NzcEFRYTNOeEgwc3lQeFJLNmk2QnlHc05pM1MwYXVkLUdlTk9EVWs5Y29xUmhyR3JTRlFiREJPZDBON1ByR1piazdpYkd5Znl1MlUxc0R2OVpDLVliUGhmX1ZxTXpkNk9ZUnlWSW1qRFp2V3g?oc=5",
+        "date": "2026-07-09T20:30:43+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "El récord amargo de Vaca Muerta: por qué la industria perdió más de mil etapas de fractura en un mes",
+        "description": "El récord amargo de Vaca Muerta: por qué la industria perdió más de mil etapas de fractura en un mes Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUEMwVTFzdE4yQmJYelM5dEJYdmlBMXFGRmdCOUVhdF84UUs2blRKZGNzdTBBaklYNlVDOTUtUHh4SlNZcnBKdzhrTENYcFVzNnlLRDUwc2twcHFRN2IteDVlMUNZZEpGRnZOVHFXc2ZraVlCb3pxVzMydWlOZ3dQTkx2XzhIeDBGRmRDcW05ZTFBMXUwY3BITHZadnBua1BmTjIyTFpmU1BSVDNvRmdINS1aNllOY3NzWm1qaHptUmZxbFlqbFhfSEl1UdIB0AFBVV95cUxONTBkYVlxMDd5NXotd0RXQlRHRWswWTFzVzg4M0djWnNQb19YY2Uxdjc2aXI3bHFsUzEzamxGT0pXZnJhSVdVak96bEpfLUh4aU1mQm9zel83UFp6UmozSEthN2xJN1BET0pzelVhVHNlZ3l2RU5YcjJiR0E0T3lwcnVvZEdUX1RqQUM3NzQtZ08tTTBlYWdMVTZTSkhsXzZrbThtVF9vYUZKNUVtT3V2Szg3LUlUcDcwRGVKX2JyWlNxUWJKbEpOUGhzMmtLa0lO?oc=5",
+        "date": "2026-07-09T11:30:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "El nuevo mapa de Vaca Muerta: cuatro escalas, cuatro breakeven, un mismo yacimiento",
+        "description": "El nuevo mapa de Vaca Muerta: cuatro escalas, cuatro breakeven, un mismo yacimiento Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzlSZk5pVjdLR0hmU0ZTaGprLW80bTlUOWN1VW1PZnotdjRMclM3aThad0lCZURkM2lXNzdtc2hzbzR4RTdOdDJadUJpbkFjTm5HRDBlaFlBMWRTdHJkeWxrMkNOU2ItR0J3SldIQmJaQ0tyRHd1R3prOTgzRlBpZjJoTVBRQ3JaRGh5NDd0dGtNS3ExLVBEWDBxMXVLbldpbWdRdFBRU3pXR25NaDlUc1UtbmctRDVvbWVJSHhsUzR5UdIBxwFBVV95cUxQcUVvVlhMd0p0M1dfWERISWhhX3dyd3JHNGl1VGczODhTNktxc1J3T3FMZjF4SFpPT3F0cFY1YVpaUDU2NHNpS3pXSzVxelAtVjJET1pYLVpsSENqOW8yWk1jc3YzQjZQZ1NsU3RBVlFlVGxXZy1HQlpSM0JnZjBPTDNBUlh6T1N0aV9OTlBHc0xzMmpxcER5cmdwTko5NnpZTHNUN3JzVGs5SS1CUnZ1R3BPNHdBUXBUWDVjTTlKTmVUVjZwRF9j?oc=5",
+        "date": "2026-07-09T14:28:13+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Techint volvió a perder una licitación clave en Vaca Muerta y quedó fuera de otro megaproyecto",
+        "description": "Techint volvió a perder una licitación clave en Vaca Muerta y quedó fuera de otro megaproyecto Agencia Noticias Argentinas",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU0UyV05kRUlCdGwwejlBRnhBS0I5ZkVfaEZOZ2pLeEhhT2FJMWE3cFlscXdZMzlTRjNfWmlMaUM1X0hPbkhhQ3JXNFpKOEVhLU42S3UzdFNxTU1majhseDJIUF92N3NBclY5eUg5VENVLURmb1lVSXBJQ1pmNlhBU1FnTWdLeHVwRk5qMGtBbERzbWRPSlM5bDU5c0ZQNjRpZVlXTm5BNDlWRVVrRUtRaUQyZDhBcmVabkVHY2FqM0otcDU1VHZNY191N0xtUFhaNV91d2NuNHczSEFOTGkwXzZYWXpXMzY5Tm01Yy1HMTZaQdIBgAJBVV95cUxPS19Yb1lzOVJObjRyNDJaeGoyVnNya3FGLTg4UlFDYmU3akc3Rm9uRkMyTmhLblBwbDdhZnlqZTJhNTBoSVdubm8yVUNfX04wQkdhQzRLejczX1R6Uk16SmtSdHp5Zk55dUlxREN4U0FLeHVOLVN6eEpkeHAwQkw0R1Nub2hXTkRyWHV1S3E1LXFiZVJMYkxYOTczOWhwckhGQ2gyWlF0eFIzTHUxQnVBWGpZTEx4TWZtSzVJMm5KSzFCc19oOFo3SFM3LW1ETklLYVFoYjZLNjRDbHUtcURuZ20tNjA4RGN4d2M4LVc2SnlvUXJYQlZWS1ZOMVFod2g3?oc=5",
+        "date": "2026-07-10T01:46:10+00:00",
+        "source": "Agencia Noticias Argentinas"
+      },
+      {
+        "title": "Argentina LNG: Pumpco y Bonatti se adjudicaron la construcción de dos ductos dedicados a la exportación de gas desde Vaca Muerta",
+        "description": "Argentina LNG: Pumpco y Bonatti se adjudicaron la construcción de dos ductos dedicados a la exportación de gas desde Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTDZwRGRtYkoyb1ROOEJvMUM3WmthbTQ5QWlzdmUwTERMUGN0RXBySGR6RGVieW5OSG5FS1VyMVpxekhQdm5QNmc1dG9TaHZjR3IwVWl6dEJURUlvcnoyYk1jSW50VFdCT0JfSjBjRnNwWi1IUVdueGdJd3lxSExRZ2dnTTBzRGVZM3lRSVE2eTBoZmVYcVFGZm5YWDFRSWZNajl2MHFCWXU4NnRQNUg1aGRTcw?oc=5",
+        "date": "2026-07-09T22:52:29+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "El Gobierno analiza reactivar el Tren Norpatagónico para conectar Vaca Muerta con Bahía Blanca",
+        "description": "El Gobierno analiza reactivar el Tren Norpatagónico para conectar Vaca Muerta con Bahía Blanca NoticiasNQN",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONkd2RWFvR2ItSGdnZFBsQlRBcjVxR0tCOXlNa2dBb1FzNHo2eGVsenptb3pxeTdaQnVENDR0NkoxNGN1enpoaDk2QUFjV01RTjlrTEhlZF8tcWduZFQ1cTZXeTdGdmdqRGp4TEJMSm11V2tJdUJzbF9NOGRuaFE2NGdlT3JrTFFCTmNPYVRQMnVqOGJCREhrcUo4d2phNkwtTlZLdlU2TmtTWVdzb0JXMVBCS052S3JWclAxa1pIOE1UMHJZUXNsMmtFaDFKcXF2eXlyMFhfQm1yVDVwblZWcmhTc1Z2bW_SAewBQVVfeXFMUEpZWFRfOXpHLXB0WmJLdXBWVVNaMVlhZ3Vqb2w5ckRENDJlYTBuQmdybUwzR1RMM3JrMTdGRTVRR2htcGR4X1BtS0lfUFhDNWtaZk9qRGJTbjJXdkcwQ1RZYk9DemgtYmM1OUVpOEhJOV9zZlgweWRiUm5kZncwVDRQWHBxUXNQNWVqYTUzZjZzdGNScGRqblc1OXNHTU5ULWJnUnFoa0xtemp6WkYwMlB5LVR3YVdQOHZnZVlaemp6ZGRzZlNjY1RNWGlxM0F6T2d6ejZ1THhMZThkaW1wZTl1X0pJVlJ0Y1VDMDQ?oc=5",
+        "date": "2026-07-10T00:25:44+00:00",
+        "source": "NoticiasNQN"
+      },
+      {
+        "title": "Techint volvió a perder una licitación clave en Vaca Muerta y quedó fuera de otro megaproyecto",
+        "description": "Techint volvió a perder una licitación clave en Vaca Muerta y quedó fuera de otro megaproyecto Aire de Santa Fe",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY0pCMGUtcm1PV2hkbHNVdUE4ODBkWGljbTJvWktkNTdxUVJBSldJejQ3ZjhVcUFpM1I0TTA5XzNnbXBkZGpuekFWM00xZlMydUpfR0NoQmJqbEl5RmRHYXYwclRmdE5QUU9CTWFvT0VMenJKU24yNmdWeGw4WXY5RENTWGUzbUdhTlJnbV9DUTFzNTI3Q2Q0Y1FaeHR0LVE1SFEwS2ZIVEFRZE9hUEpVSmVtM0lENmRWTVd6MDB5dURNM0JOWnBKLXdZMzVjUkpiVUE?oc=5",
+        "date": "2026-07-10T09:20:00+00:00",
+        "source": "Aire de Santa Fe"
+      }
+    ]
   }
 }
