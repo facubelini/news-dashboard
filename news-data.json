@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:49:19Z",
+  "updated_at": "2026-07-12T02:10:47Z",
   "categories": {
     "Microsoft": [
       {
@@ -45,11 +45,11 @@
         "source": "Xataka"
       },
       {
-        "title": "La encuesta CIO de Citi muestra que Microsoft lidera en IA",
-        "description": "La encuesta CIO de Citi muestra que Microsoft lidera en IA Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUZXSFJEaWozZEFETUtDUHRSM3NVN25RZ1NmYk04NEJVRlY4a2FjWW53eVkxNXhLWGF1WTd5Nk5DckNyOXA1eFlqODVLeFRsUmxrblU4SDNvdTN5X0dpLXBfYzdsTUJ2T2x5bXpra083SE1vWllrWHh4RVVuSC04V2h6OXZGbWFHSU1qNjdEdVJ2NTFVNlpYRmZtRUhadU9taklGSzZYTHlfb3hfc0N3aHpoSmM?oc=5",
-        "date": "2026-07-09T14:49:00+00:00",
-        "source": "Investing.com España"
+        "title": "Tu jefe sabrá dónde estás: la controvertida función de Microsoft Teams",
+        "description": "Tu jefe sabrá dónde estás: la controvertida función de Microsoft Teams Digital Trends Español",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmdfQ3ZVZUR4bzducTUxc2s1TlFzSzE0WlBqY202NWxMcnJDYWs0U3l2em1rZTdfZUxSMVhjbWFQZ25adGdHZ0ZZbEhqc2VPYnFhanNkNGxCWWw0d1p0RDlKdTIwX2tfLU51QUlubjF0dFFUQ043VGpXbE41cWtRZk0wRGZRMktQcUk4R0gyeEpEblpjS29hQUV3?oc=5",
+        "date": "2026-07-10T21:17:41+00:00",
+        "source": "Digital Trends Español"
       }
     ],
     "Marketing": [
@@ -105,46 +105,11 @@
     ],
     "IA": [
       {
-        "title": "GPT-5.6: novedades y todo lo que cambia en ChatGPT con la nueva versión de su modelo de inteligencia artificial",
-        "description": "GPT-5.6: novedades y todo lo que cambia en ChatGPT con la nueva versión de su modelo de inteligencia artificial Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEVYTU14VXloVG14d3BhVzBXMWEybjRjYm81REdWTEprbVcycnR2UUcxYWJ5emRwc3lZX2FlbVU4X1hScmVUcmQ2OHVxMW1oV082R3Y0UV9LbTh3a0x3M01ZdGQ5RFh3ZjQxNVRoMXpncExXWm5XMmVFd0NxcFlWaG5UejVGTDlobFFtMkhyN3Fldm5RaVJUbVVpRjc5OHNfZktnbnhURVRzalBOSS1fcTZiUERlMjRnWG9R0gHAAUFVX3lxTE1iZVRNb0FWUnh6SUlCekJOdVA2SExsSndLbnNuTUE2V2dRV0Y2dU1UTzRQT2Q4M2RQc2JNcUpuUFZVMmdyVExuYWJ4dmpKdk1CQjI3Ukd2MjdmeEpMbHpHaE9hMEVvMHZQTmRFWXN3cS1kZGJCQ2kwVXV2OUUtYnNJTzA0d01JMHY3RS1vejJhdzF1LUhZRjF3Wnp2MkMzNWtLVDBycmtmcG03aV94RThMZjhVSl9QVm9QaWduYUpuMA?oc=5",
-        "date": "2026-07-10T10:32:12+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Las primeras víctimas laborales de la Inteligencia Artificial: \"El programador junior está desapareciendo\"",
-        "description": "Las primeras víctimas laborales de la Inteligencia Artificial: \"El programador junior está desapareciendo\" El Mundo",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yQ25lWl9TOFRINC1rOVJMUHdwOVdQNHBIZE9OazlZNy1qTEtHLU1SMmxEZXplS05hYXZ4UWFjV1plc0RoWTBzSVFuX1dLMFJMTWVpOWVkZUwtYmkxcXhrbW94dWVxcE8yZ1NKUHkyQ0xDbHRRcVlaRDZDSdIBe0FVX3lxTE9zOEJQZlZJVUI1ekhkRm56M1BkYVcxTzI5VkRQcl9QNFBWaW5lSnMxQzNHSUxNUHpnRWs2NGdJREVzeEZlSDN2cUs1QmdTVnVGUHlfdjRxOXJqUTJPUlJFZlRVTHlMVy1mbndjRzNsQkt2RDFCbFpvYUU3NA?oc=5",
-        "date": "2026-07-09T22:15:00+00:00",
-        "source": "El Mundo"
-      },
-      {
-        "title": "Universidad Nacional de Lima Sur incorpora cinco nuevas carreras enfocadas en tecnología, inteligencia artificial y negocios",
-        "description": "Universidad Nacional de Lima Sur incorpora cinco nuevas carreras enfocadas en tecnología, inteligencia artificial y negocios Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbmtlSnpNS1kwOHBrMEVWaTFUeGdtWkNiMnVrazkzc1lqSThaM3EwTGhNNlV4NnVFNVRXZU50MjktbDVpOE0wclQyWUxzZFFvTDFlSDRuT2duY3pYb2k5VGNqa3VWOWQtdy1BZjBWRktwcnJCNkgwczFjMVNyOXREM0F2S3BnRUxQekdSTUVlYVVPaXFCRElUNlNtdmYwTkVVZjNSdXlWQkJ0QU9GUlNicDNjeEdkaWVqMkRzVGwwdUlCb2dteU45azVrVF9UZE9OMFRkeTBIdGprSXhjVFRsR3MzT3dTR1Z6WXBNQkJudkdjQjAzTnEw0gGSAkFVX3lxTE9rMHVyT1FEZVFyUGxxUkpDY0ZSZjBkWUVGdWNMT0taZGxBcThLdlJxbjJvVUgwMWtiOGRJVjYtLUJHN043N1lEekFnR3BJWTRramJ3SkdFMkFmS3dKOTFPWlZ1dVlIWUNEdzBhMHlZc3pQc2pPTlVzU093Y21QSmxBaS1WbWh0c2plZ0hIa21MeHNPaDI0RmhRRk10a1dkUHUxUjFKQjRIbnJiYU52VXdidExQWTgtdVQ1VHEtaDlUQkktOTNDQ19XQzRGQmMzOFZTVWtONndTSTRRODFTX0xuNmdpQnpNdmplemhVZ2djSVc4ZWNBeHdiX3hjRUQxYWpuQ3FVVC12c1Rld2JrSDY1cEE?oc=5",
-        "date": "2026-07-11T23:37:57+00:00",
+        "title": "La población silenciosa: inteligencia artificial en la vejez, entre el apoyo cotidiano y el riesgo de un nuevo abandono",
+        "description": "La población silenciosa: inteligencia artificial en la vejez, entre el apoyo cotidiano y el riesgo de un nuevo abandono Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSnYzeGJDSDVZT3ZmRmotOXNCNDZHOHFTcmZvREVYNU5iSUM4d2ZEQjBpNnlfdFp5ZVMzdURuQW9TRlo1MFg5VGhDLTR4SllMNVQ4Z0FJLTNsVnltQ0swSjJwYUUyRXl3dzNOZE1VRlZTQzdQN3dMMlUxVnJlUVlNWU1tYm1haUoxcHViRmRyOVNMSFVNd1ZEUXBGTUs5OXJTSF9uU3V2VHY4b0pBdXBjUldnNHI3ZkxETnI3a1N3eWZGR3U0TVFlRnZtSnJIR1NkMTZQNjJJajhONlNSWlI3dHl6WXp4UUtFR2hWR3pKSlJtNUVma0hHLdIBkwJBVV95cUxPNGpDakJwSzVlanB3dzRyWGxnXzJrLUwyVnQ4SVM2MWJlZTc0MTN4cVdvVjFDWjB5ZlM2cmJxX2ZHUlFuaXVrc013eTRsNC1JSFdfeXcyS2JPRWVxMng1SlhCN3V3YURaazExT3U4WmxHZHJqSDlOeHJqUkgzOU8tYTQ4NU1DS1VUelRFdVVIT21BQTg5elZIMVRRZUdBVWIxaklTQVBTOHNOXzFnd2Fkdzk4ZkhMRmpkN2Fsa2w5THNtWlBTNWVBNlNLeF9YME9UbzE3TjQzcVZ0QXJSR1VRNDF0TFRmU3ZDYWtza25lY3ZEUkNZRU55ckl5SWp0U3ZtQjdtUVVHdzZCcTVWVWg2Z2xoVQ?oc=5",
+        "date": "2026-07-12T00:23:04+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Cuál será el resultado entre España y Bélgica, según la inteligencia artificial",
-        "description": "Cuál será el resultado entre España y Bélgica, según la inteligencia artificial TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmE0VmdJcENiNmpCM0U1VnA4alJIallqZEZMUDU3Rmw3dzVIYUMtejdUNXV5b0VmQS04SVRyVkdibjlTS2ZBQ25XbklaclY4MU9RdUo1VnRpM051WHBrSnREZHlQVWowWTJIRUJoS1VMQTMwX2ctWTdzQlozR0VtQ2hRZEg1UHl1OW5jaVZvWk1VMDdTY05oTWlEaGlHT0dvM0ZReW0yNHI3dUEwQl9KbWY4S09lN05ieUpJMFJXXzZGUFU?oc=5",
-        "date": "2026-07-10T20:51:56+00:00",
-        "source": "TyC Sports"
-      },
-      {
-        "title": "Argentina vs. Suiza: quién ganará, según la inteligencia artificial",
-        "description": "Argentina vs. Suiza: quién ganará, según la inteligencia artificial Radio Mitre",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekV3UVBhMlNNcjN1enhETHQ4UXRPNWI4MUFoQ0dINWt6RkVuNlRmRlY1YXYxNVA5MGdSQ3lEbXczQU1CeVRyUXlZeXpjeGxhaTE1S1ZtRm5TRjh4VDZWOVpIVVVlTDFHcUtjX2xITFZoam1IZS1hZ0F5RFZlNTF5OXVFZWR6U0EybHhtUTlqTVBqcTlRWXpXdHFkOXZUbEZtYjRHVG1FUWRNN3k0?oc=5",
-        "date": "2026-07-11T21:35:00+00:00",
-        "source": "Radio Mitre"
-      },
-      {
-        "title": "Cómo saldrá Argentina ante Suiza y quiénes marcarán los goles, según la inteligencia artificial",
-        "description": "Cómo saldrá Argentina ante Suiza y quiénes marcarán los goles, según la inteligencia artificial TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObVpMcEt5NWtOemJFOFdvdmtYbEJsc3UtNHF3TjI2bEhjOU9CZGROVGNRaUxQY3RRR01zVWFMYTViTzFTRXA2Xzg4WEs5Tlp0UXpqRVJlZW4yUGlTQmstMngzSF9PenRxa3NPamVIbERNa3JGWXhCNDdudDRVTXR1bFl5cDJKS09tRlNBWWVhcHJDelU4bUt3ajU2cWdtTUk2emtfc29qVzF2Q2ZLRldDb293VG9fSTJTZHh4M2RpWndOMVVVTGZEUGJmMzk2VmFnNHF2bGVrcmk?oc=5",
-        "date": "2026-07-11T22:14:59+00:00",
-        "source": "TyC Sports"
       },
       {
         "title": "EDUCACIÓN INCORPORA INTELIGENCIA ARTIFICIAL PARA OPTIMIZAR LA LIQUIDACIÓN DE SUELDOS Y LEGAJOS DOCENTES",
@@ -152,15 +117,50 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWZwa3FQazlWYlNid25rNDNxdThMZF9vWUZYLUpqbHNLTnlUc05CRzNtZkoxMFVZeEhya1pWcm12dnZ5ZUVKaG5JTUtJdkRtN3FxcGNRZDMzaWt3NGlWRk1UalM1YWZybnlZdVJtNlFvMW1nRkx2MmpnUWZRMTFjcnh4c1ZYaTNSbG1rVnVoLUZzWkJSTGE2aUUwOUM1bFYwXy1EcHBPc3VSUjd2TGNoLXlYV2Q5eU9pSl9UYXl2WjJwZGhWb2M5dXdMM2gyZ2FOV2xSZDc1aVlZZ1cyWnRZWjR6UQ?oc=5",
         "date": "2026-07-11T22:13:46+00:00",
         "source": "Gobierno Del Chaco"
+      },
+      {
+        "title": "Cuál será el resultado entre España y Bélgica, según la inteligencia artificial",
+        "description": "Cuál será el resultado entre España y Bélgica, según la inteligencia artificial TyC Sports Inglaterra vs Noruega: quién ganará, según la inteligencia artificial Radio Mitre ¿Qué dice la IA sobre las chances de clasificación de Argentina ante Suiza por el Mundial 2026? Olé",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmE0VmdJcENiNmpCM0U1VnA4alJIallqZEZMUDU3Rmw3dzVIYUMtejdUNXV5b0VmQS04SVRyVkdibjlTS2ZBQ25XbklaclY4MU9RdUo1VnRpM051WHBrSnREZHlQVWowWTJIRUJoS1VMQTMwX2ctWTdzQlozR0VtQ2hRZEg1UHl1OW5jaVZvWk1VMDdTY05oTWlEaGlHT0dvM0ZReW0yNHI3dUEwQl9KbWY4S09lN05ieUpJMFJXXzZGUFU?oc=5",
+        "date": "2026-07-10T20:51:56+00:00",
+        "source": "TyC Sports"
+      },
+      {
+        "title": "Paradoja de la inteligencia artificial: usarla puede salir más caro que el trabajo que se busca reemplazar",
+        "description": "Paradoja de la inteligencia artificial: usarla puede salir más caro que el trabajo que se busca reemplazar Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3F0VTdVbEE3M3o0c3gzendvNXZqVlZmWW5IdWxOeXQ3YjFuMmwtWTJJemdybXdWdWNDTGVQeGNmTUk4Z0dRSkg3a1lUUTh6NExOTEttRWtHallRWVRSREs4OU9LV0tES3RHaURWcEkzOVAwazVWeU9nUXhXalZvQkxaNzVqWk42d3NlRHBBRmtHQlRIaGt0TlJkUHBXSVYyb0RrNmNUZk9VTkJfUUtHRi1MS2ZqWTdNblVaeUdwTG9fSXBYa2dXSjEwNFl6QmdNS2NGU2VGOHVJYTTSAeABQVVfeXFMTVE2NlY3N29KU3BPU1gzdk9EQWNYY1U4c01DNm5hbkxuZjh4ZFUwUm5GLXBzRUZVTjdWamdyWnB3VFdTRE5LMmpZMHl5Z1QtWlNOd0pQbXMtV0MyY3FZenRWbHRVWGZjaXNrR3VXWkl4b3lTRFoyWVZMNmNndVNXOWNkbnN6VWFMOWx3Ty04aVg5c0ZyQTdsWUFDT285RnR3LXhxczNQUkxjSzhNYTNON0pjT1dmNHgwWG5PcUVQQWJQX1E5MENGdGdqbGlFRnRYekdVZXBXREdTTjVxbHhidk8?oc=5",
+        "date": "2026-07-11T10:00:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Ponte a prueba: ¿eres capaz de detectar un rostro generado por IA?",
+        "description": "Ponte a prueba: ¿eres capaz de detectar un rostro generado por IA? BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yUUtha3NuWE82TktxczB5Qm9GS1VkNFlNTndvTzlJMW1GalAydTVuMktZc3VuaWNuaDZ5VS0yQlNfX2RMN0k4Mm5mXzdjUGRYamI1WnNxRHEyNFE?oc=5",
+        "date": "2026-07-11T10:38:26+00:00",
+        "source": "BBC"
+      },
+      {
+        "title": "Docentes municipales vivieron una experiencia práctica creando videos educativos con Inteligencia Artificial",
+        "description": "Docentes municipales vivieron una experiencia práctica creando videos educativos con Inteligencia Artificial Municipalidad de General Pueyrredon",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHlhZmM4MWdIVkpKTW56YjJIMC1waFlWVlZSaVVSYjIyOE5UeE43bXo3SVdmWkw4RTZobzdyRUdfdUFwMm8tMzFYQW04SkYyUjhYVkZjZEhpTGJMbHVJRGdzZWZCa3FQaVVBc1dacGJvbjhsRkx0NEN0X1k2MklXYktScTlBb19za2c3NUNIdGtGRmhJeTVIblNMY1FmTTJDMS1SMjVVMnZNTEJaTHdGS3YwMW1MUnZHN2dpZlZJVmEteTNhR3JXMg?oc=5",
+        "date": "2026-07-11T16:03:59+00:00",
+        "source": "Municipalidad de General Pueyrredon"
+      },
+      {
+        "title": "Milei es acusado de generar con inteligencia artificial un artículo académico",
+        "description": "Milei es acusado de generar con inteligencia artificial un artículo académico EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2FSU0VTcnZTcFNLMzN1Tm12c01kYTJubi1CWXdEUG5WdGZ6YTI4QTRORFRfQ2N6U0hMaVhLNEo2cmViV1AzS2dIbkMtNDQ0WURETWdNTzZPSmZldEkzWERzOVJuYzB6b01pUmxhS2d6bUZOaDdZZzkwUGFkaEp4UTdCTDV2OWd4WE1DX01zWUJuUU1VQWU4R0NNdGNaUjRvRzhtN0lueDkxdXZpM3phUjNIdlY2RU4tM0NiSWphVdIB0wFBVV95cUxQVEpSVkJjWkZNUWp5bFJpbzRoOFhvZHpPbFcyUFYyZk9EUzJVcURZbFloUl94TGNNaTVmdlliUkNnLVJKeXBMMkdLcXgzcDF2TDY1dlA3RjZmbEFqQVN5OUlsdGdHcnN4UFN6NU51bV9FQ1FEd0JNOWx2cjY1Ty00bFZacHFVN2NuNjFzcjh1THppazBoUnVVenhCVU1QSnFRTHJwSFlBQVZqOW5ZbVJ5TXVHR01uNGcwbVlBWXdPejNjZTNyRWl4bTNpT3Zua1QzbzY4?oc=5",
+        "date": "2026-07-11T19:51:12+00:00",
+        "source": "EL PAÍS"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Techint-Sacde quedó fuera de la licitación del mayor gasoducto de Vaca Muerta",
-        "description": "Techint-Sacde quedó fuera de la licitación del mayor gasoducto de Vaca Muerta Perfil Vaca Muerta: Cómo será el gasoducto que construirá el dueño del Inter de Miami Lmneuquen.com YPF licita un negocio clave en Vaca Muerta y se le abre otra chance a Techint tras su último traspié…",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcnpOM0N1X0NReTk3YklkdEUyeS1rd29pOGdncmZJRHlDMVZvdkYzajQ5bU55Y2JuTEQ0eXNDT3UxdG1TZmRqQnJzdUE1NmNRSktGYU9wZ3RmSENFT3lIV1JibFItbFFWbnZENjZWLVJmczRJZFp2NU0wb0pZZEVKbU4zTTFubjltMGRkQ3RjWXhpM3Vsd2RWWlFoSTFUX1FYWDNwWGtuZXJaTFZ1X1BkV2daaFdyek9jb2lIVlVnRjTSAcYBQVVfeXFMT1FKUGJoN1dZTFlhXzBHdm9aWWJBMXg4dzhvdmZvVmkxV2ZuNm1iMEZVdkxXVjJMazQtQ2RwVGRXRmNtZ3RJLUhmc09pclNMY0NzYW1IWWNsRWF2MVY5b1NseG0ySTdNcHJsYm9GcGVsWDMtZTBUYXdhODM2VFFnX3BrUGZWeEMtVVZqekUwV3RkZ1NUc2ZzTDMybEtQaFRtX0N0VFJ4QnJCbVB0dGZYajVoaFdnYkxxM3o0ZUlpQ2FmWmNlT2Nn?oc=5",
-        "date": "2026-07-10T16:14:55+00:00",
-        "source": "Perfil"
+        "title": "Techint y Sacde volvieron a perder un contrato en Vaca Muerta: una empresa italiana y el dueño del Inter Miami les ganaron una licitación millonaria",
+        "description": "Techint y Sacde volvieron a perder un contrato en Vaca Muerta: una empresa italiana y el dueño del Inter Miami les ganaron una licitación millonaria Infobae Techint-Sacde quedó fuera de la licitación del mayor gasoducto de Vaca Muerta Perfil YPF licita un negocio clave en Vaca…",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQnBHTXVlQUtxdHhIT0pQTUZEX3J2Z3AzNEJHVGV3Zy1SM1hJUXptdHJGbllVN1NLN000LXhNMG5WenQtVzdOY2pfd1VLMHUyWkRVdl8tSkxnajRkbEpUNG0xa1VNUDZTRUh5TmctN0JTQjBPTjFMYmE2WGFHNUhFU2xCRlI3MF85NjdOWE1LOUxHRkgwRXg2YlZDMlVtcURCWnpReFdjTUtCNEQtOEVlYXh2NzVUUnJuazB6ZnhrMVRjUzBWcFliaHlaX3REeHloZFFiNDhpdTZ2S1VocGtfNzJrb0J4OS1lejBYZlo2b3RmWlFPZm5RY3pXQ1LSAZcCQVVfeXFMTy1Rei04azF5Wm1HXy1FdnpKaXBsQVVuYmRibkFBamsyRG9PYlNNNEVfbm5fX3lYTUNXYUFkRHhvQWpiMjF6cFNEeXgtaFRCdmwtZFdqOWpSdk04SkhIT3BtWmdwOVpWOEhfTGQ2RTZVY24zOGtaVlYwUmppREJWNXphQkdhcEZSM0R3bTNfTkVpWHY0X3NzakdYOUFCT1NDaHBxYzFnLWhWWUJySEdfMWtOaE53SGZIc1V2dG5tYjJJbW1PQ1YycHdSckJJMHZ5WUs1SHpwVWtzVmhWMVhVVXRGQTJYdlIzaVZTRVRrR1M1ek8yb2U5eWdIZ2hzbFJiYWJrRUJSRXhORG1qeG91MThGWEY1cDNv?oc=5",
+        "date": "2026-07-09T22:11:28+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Primarización al palo",
@@ -177,13 +177,6 @@
         "source": "Ambito"
       },
       {
-        "title": "Nueva cámara química y petroquímica para la cadena de valor de Vaca Muerta",
-        "description": "Nueva cámara química y petroquímica para la cadena de valor de Vaca Muerta econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObTlra2pXbXF5MkJvWldmVjBSN0xDLWxPSkZmVzBIRUZSTzJpbVZWMXZNSHhwNFhsbXgxZ05MMG54UkVseFdfbkxVdWxsRTZGV0hTVVdHY1d5clp3eTQ5S0lmZlZIamExWWRfSnJLMHlyOFgwZFhnNnY1eDdpdWtQbWM3RHQwYVJpMjBhYU5DbzZBZmdDUkUyUmpzeVFoZmNPVi1ld0ZRaHo4VUFtWHVSc0tCZ1pVVjNRUW9UM1R1Z01XcFZ6N1JUYm53?oc=5",
-        "date": "2026-07-10T16:30:18+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
         "title": "Mendoza busca otro Vaca Muerta: estudiará si la Formación Cacheuta esconde petróleo no convencional",
         "description": "Mendoza busca otro Vaca Muerta: estudiará si la Formación Cacheuta esconde petróleo no convencional Los Andes",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdTJ1b1RwaWpRcE1TU2pkSEFEOXctejBLR0dRalV4WkV1bGdVNmJ5WmhHYktoOVhNZnFxcGd1UW1NRGhDa1VINVVuaXlPNVNISm8yWkJEeGg0NjNlR3h3dG5qUHdpOU95QW56b1p4dkVyS1lmaHJsWHBvbUMwOUJRUDI2MDZoaHpEMm9BdXBXSjBERFVZX0ZLd3FxeVNiOWxUcmR5SmU3RVowd05wSVJ4cWlBYTBNOGlTblFNazM3Y0lBRGZMMHE3UjhyYjJYY2tfOXdKMWZ0cXJUTGFG?oc=5",
@@ -191,18 +184,25 @@
         "source": "Los Andes"
       },
       {
-        "title": "Hidrocarburos para el cambio: traigan industria que energía sobra",
-        "description": "Hidrocarburos para el cambio: traigan industria que energía sobra Cenital",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWg3a1JnYndwbHl5XzluYl9iWFEtVGRza0FiM3NuT2RmNm5XYURaWDJrMG9wYUl4UFk5XzVsaGtjWEd0TE51LVNLWUc5aEViX1k2SGRpRTZ3bVpIZEpyQl8wVnNUVjNZakdpVXZZTlRYcUdWWmY1cXVzamx2dkhSbURmUll6S2taUV8ydWRn?oc=5",
-        "date": "2026-07-09T03:27:47+00:00",
-        "source": "Cenital"
-      },
-      {
         "title": "Quiénes son los dueños del petróleo en Vaca Muerta: las claves del modelo argentino",
         "description": "Quiénes son los dueños del petróleo en Vaca Muerta: las claves del modelo argentino Minuto Neuquen",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeFNRRkhCWFVWcUxsT2VBVDNNRktuZ0tZdGZFdFE3NndnaWlLZFVtV2hZTTh2SmQ2dkF1Y1BQMWJuLTJaQ095VVN5WTBOdG92R1dESVYyWmRaa1hGNHVseE5heHlzbkM1OUM3b1ZPOVJpOFJGWEJBdEcyZDhNeXJVUWRxM0M5a3dBVjFEYWpRRUJzWXlXT1puQW9Xem9nRXNadnotb3p2eU41RXMyU0w4VTRpeXl6NFJ3eFZjb1dRamJQQWw0Y3RRazZzbVdlWHdfTXZkaThnamdvZw?oc=5",
         "date": "2026-07-11T18:37:00+00:00",
         "source": "Minuto Neuquen"
+      },
+      {
+        "title": "\"La ola te pasa por arriba\": la advertencia del sector inmobiliario sobre el impacto urbano de Vaca Muerta",
+        "description": "\"La ola te pasa por arriba\": la advertencia del sector inmobiliario sobre el impacto urbano de Vaca Muerta LM Cipolletti",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNejVJRS1YMkFKZTBGa0x2T2NDUm9uMnd1YXdxNHJZZTNIUDRNNkNwWDk0ZExWRjRHd3BTeUNrNWlGbW1vRnFVS0tjU05MaUwyTG5vZDhjNVA0alowRDhnQmFrLXJiN0plZGpXLXJsNlZrQllCR1kxb2licWVpV3BBQjFDUlRMcEtNbG5ja1RValRobHlQMjdlTnFJNUtMVHZmb2NwY1VBVzU4dGxTNWVLZ2tSX29mRmdqRmUzYWNMNW4xS3M1OXNwUEY5bEVnUjU0M0Y3ZGZn0gHbAUFVX3lxTE9uSmJnSVd5UWtPQkQwWVhCM2FpRGJDcjJPWk5LUjhQVFFkcWc2dUZTRlZVQVlIcjZKUzFvN3ZmVnhzenFOSjlXTUFaSlZzT09kcFRIblBoOVhfZGNSZ0R5YWxMekdqYWRkZUZ4bjYtWDRnUnEyV19Fc0szbjJBaUJUV05vV251OW1VclhhWVNFODB3VHhWVFFrZHdfVUp5a0xObFJEUC05ZGhja084dEJmaVZWc1dyWG5fbVJ5ZDhCNHZDWUJrUmVwaEJEbG44Q1gyM1prU2Fua2kxTQ?oc=5",
+        "date": "2026-07-11T16:08:29+00:00",
+        "source": "LM Cipolletti"
+      },
+      {
+        "title": "Podría reactivarse el Tren Norpatagónico que conecta Bahía Blanca con Vaca Muerta",
+        "description": "Podría reactivarse el Tren Norpatagónico que conecta Bahía Blanca con Vaca Muerta frente a Cano",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXRXS2RkcUpCX3VMbGt4TktXbGVQWEJad202aW9sZjNnVTFmcHI5b0pqaTVqYmoySEYzWEFDVVBfN1NGeEl5b2Iyc2lsNnFTa0gwdjU3amQ5NHFyamFwM1ZOSjJJVmJRSGxqa2dxQjFVLUZ2TnpkWXF0MzFFbGx0cldlMTg5Tm41emZyZHAwWGp5b1VuUDZDR2NfUVRSbXIwb2E4dk4zbnNRenhrc3c?oc=5",
+        "date": "2026-07-10T19:29:00+00:00",
+        "source": "frente a Cano"
       }
     ]
   }
