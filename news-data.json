@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T06:09:55Z",
+  "updated_at": "2026-07-13T10:19:43Z",
   "categories": {
     "Microsoft": [
       {
@@ -38,27 +38,48 @@
         "source": "Xataka"
       },
       {
-        "title": "Antes de ser arrasada por los despidos de Microsoft, id Software planeaba un nuevo Perfect Dark y un juego al estilo John Wick",
-        "description": "Antes de ser arrasada por los despidos de Microsoft, id Software planeaba un nuevo Perfect Dark y un juego al estilo John Wick VidaExtra",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVdPbENtWjBqejF0UEFCNGN0SV9lM2huakMxb3QyWGRUbGJoZmxfc012QVA3YXl5aG9RbHpNNC0zYUwxMXFaRWg2SkRvRXIyTFV6Z1RXN3NqdXRpNTJ6ZGo4SWlPd0xvZzN4elQ2ekN6azFHUElqU3JMb3JZNjJlcmlXS0o4UlMwWWdOVU9WM042dW5lMGp6a0NYcmphUkRwVnJVcU9hdURnUjVlcTRtbkJFNGNlbWNDdzRDQ1IxaWVwTDZOaTg2UWcyODBvNklHU0V1VGNR?oc=5",
-        "date": "2026-07-09T19:17:28+00:00",
-        "source": "VidaExtra"
-      },
-      {
         "title": "Andalucía entrega a Microsoft los datos de medio millón de alumnos menores",
         "description": "Andalucía entrega a Microsoft los datos de medio millón de alumnos menores EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1dFUGFJYUQ5SFd4WFlrcmtNMmRydXdVNm1yUHgxczZKX0RuTnZPNTFURVhYV25JeFpwYm95QzF6Rjc5ZmJXWUVMbnBLaElOODQtN0c1d1BydWVIWmZxd1QxdkhBUGQ2UzI5a0N4QkllcExibklKWVNRZW1fWXlqNUpsZEEtbXNtdU5hUTlvRExkTkZzaGxxU24tNUxQa2p3TkMtbDlZTFluUFVVbkxhcEZzbXFaSnfSAcsBQVVfeXFMTW5URzhyalU3d2o4WW5EaGxQUmwzNDQ1bnJ1NjFxbUxTQkRTYzkxWGVWSXdHSjYtaWhadFlta0dLNmtfeVk5NjRzSk5DRy16TjNZcnNvb05ZMHZBX2dWS2pWRlAzVEUteFA4YklzQzRMYVJfcTRzaG1na0dUTlpXNEFlRkw5My03QkpmcW45WjVzMXE4NlRkRXA5U3BULVlkOVVfTERSQ254anphdHRaTXcwU2I1NUlaSmRiaTh4VkZsUURuNVBIWlRZdXM?oc=5",
         "date": "2026-07-07T03:30:01+00:00",
         "source": "EL PAÍS"
+      },
+      {
+        "title": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA",
+        "description": "Uber y Microsoft están recortando en licencias de Claude por costes disparatados: es el canario en la mina de la IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXhUbmQtWGxoV3pVZnc5OW5EZ1F5Mlp2Uk5PRl84UjZNN3g1Z0tCRXJGOHpibFBVcWZZR3BGX2lCZ0xUN0g0aXRuSUdDMFR4X3N6SzhRNmVmZmg3ZGc0ZWF6eml2WkhjNFMwTndEWjd0OThjMkRYUW1zakRwMjFXdXVDdlB5eEtoekhNRWtmVkN6WGt3dXVZM1Y4aFR6S2JaQUNOd2RiZE53aUdQakIxcjVqOGFVdVlFT1Z0dnYzU1dQV2lmcXEtcjRKQjNGb19fSFZNWHhyVUVDdVdQOTdz0gHkAUFVX3lxTE91VEd5OG5qSVlUVmpxYUFSYV82VzNYWjdWVWFGeXp3b2tZU0dtdzl0OTFWam5CNUVsTFdVTUFIeUhHUklHUzhZQjNNeFRkSl9MaGc0cnlDMUJkSzJGNndMZEFteHJwN3E3Z0dZc21nVDNqZVJNZ0dmaXdqeEVoU3ZMdXJpNnBhNEJGT0N0THplVWhidXF4aDlFY2l6UXRGbHhxeTU3TzNhWHhZSEtORHhhN0RBd3k2N296NHNCTFhtOW1kTHFaOHdQZkw4eWpSMi1MeVlEUFlQQl9zUHgxMWxxVVV2Tw?oc=5",
+        "date": "2026-05-22T07:00:00+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
+      {
+        "title": "Las mejores agencias de marketing digital full service en España",
+        "description": "Las mejores agencias de marketing digital full service en España murciaeconomia.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWZHcWhJTVpwRGV6OHFSdEdqd0FMQk1CalU0YmVXa1pWNHFlU0RGSGlTbm1lSGEyNkRZakJhR2lsaFJIc0Z5elIzcUNhS09hVFBXZlJVeElneV9QekhpcjJqY0pQSlVPeWx3ZVFFWnM3bFNmMlhvQjQwUlVNMW9ZQmt0SU9EOHgwTFJHT0NSaFdINnBkWWNQSUJUS3dnVksybE0wZA?oc=5",
+        "date": "2026-07-13T09:42:58+00:00",
+        "source": "murciaeconomia.com"
+      },
+      {
+        "title": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS",
+        "description": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS sanrafael.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMyX3laOE9yY1VEaFN4bE5IWWZqY29yeTBxczJJeTJZajk0NkRJU3BOSU5ReU1tODB4TTZldTJHUDFtYzJ3MGV6MmN0YWVhRzJLZkhHLURyblgwZWRNd1ZiSk5SQXRXYmlZazFrRFNPZEd3LWRPWWtsczNpR21PS2RFWTNEMElGUUJmQnUtWF9WMXVRUDZkRl82aDYtczNCbmFNc09XSE96VVgwSm4wX0laMXh3QklrTU9HUWxiYjl3QW1ycWc?oc=5",
+        "date": "2026-06-25T15:46:57+00:00",
+        "source": "sanrafael.gov.ar"
+      },
       {
         "title": "Más allá del 'clic': estrategias para convertir el marketing digital en ventas",
         "description": "Más allá del 'clic': estrategias para convertir el marketing digital en ventas UNIR",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa0ZRUE9SNzZ5b212SzRORHF3TlRsZkNRRXJuSjZ1UHJyQXBQdmNKdjFtOGNjc2tVWUhQSUhwZ1dxUmFtWnEzNE9wSVhwWDU5MUdaM01aU09pZ3dCYzdWbUFMLWtvcEZubUxyRUxwdzN3ZXBhVTc2T1hYaDlEM3JVU0FmMGtWRW41aElqMUtOZ3JkMzZMTnRWbWV6UzVtcFBIQmdyMGhpcndESG5PcF85ei1oTQ?oc=5",
         "date": "2026-07-10T05:12:11+00:00",
         "source": "UNIR"
+      },
+      {
+        "title": "Las mejores agencias de marketing digital y paid social en España",
+        "description": "Las mejores agencias de marketing digital y paid social en España ExtraConfidencial",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQlJ4RG91cDhZSnUtM3p6Ml9sZl9PZ2ZueUdTblF3ejJkTEE3TDlzUWdMVEdoOWxqQ0NfaEprYjM2NjN1VmpoV1ZXSjB6dFhRRnpFZGYtdzhpTVNsZDFaYkpRN2NzUnVCaENyTmtEaHA1TEVUWERjWlExTVFVbUhSLWxvdzl3SEpjaHEzRmVRSTc2MVlIcGRHU3BYbjZFeTZKOXdWbHVqVGY?oc=5",
+        "date": "2026-07-13T08:04:05+00:00",
+        "source": "ExtraConfidencial"
       },
       {
         "title": "El futuro digital de la moda: del SEO al GEO",
@@ -75,32 +96,11 @@
         "source": "Neuquen Informa"
       },
       {
-        "title": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL",
-        "description": "FOTOGRAFÍA DE PRODUCTO, MARKETING DIGITAL Y MÁS… LO QUE SE VIENE EN EL PUNTO DIGITAL DE SAN RAFAEL sanrafael.gov.ar",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZThESzJ5a1d6RC10Z1ZwbHhyTUczNUk5RUh6b3BuV1E5b3F0OUU1QnYxQWdpak5GNENuUklZdS1OUzV0dWpyTE5uZlpwQ2xVUFVFOE1Ub0dueFc5RWlUNThYbmNXd0xoOFpzeDBHeFJaLXVNMlJjNXBGeHQyY0lZTUlMLUhLekdtejVCbDBPSjRqdU9femlWbmQySExjMUdfS2VEYkEwcURZMjlqbEZ6Y1N2bW5MQnlMZ0ZXVVIzNTlINkRR?oc=5",
-        "date": "2026-06-04T07:00:00+00:00",
-        "source": "sanrafael.gov.ar"
-      },
-      {
-        "title": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital",
-        "description": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital Municipalidad de la Ciudad de Mendoza",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
-        "date": "2026-02-23T08:00:00+00:00",
-        "source": "Municipalidad de la Ciudad de Mendoza"
-      },
-      {
-        "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
-        "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital unsam",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
-        "date": "2026-06-08T07:00:00+00:00",
-        "source": "unsam"
-      },
-      {
-        "title": "¿Quiénes son los microinfluencers en el marketing digital?",
-        "description": "¿Quiénes son los microinfluencers en el marketing digital? ILUNION",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHBsdHdkYmRHYXZwclY2ajBJYmR5UGFURE8tOXdGX2Rwc05EemdyVUppQTdjV1BTUzREaXFJN2VZWjhxTWxnZHVtZGVWLUJSUXdfTnNMczBNMTZ3QnhUMl9GS3huN2k1dFRMeld1TERvYk9JTE9QeXhFempKY1FYWDZaT3pGdFM2Nm9HeE5wbEpKbUJsdkE?oc=5",
-        "date": "2026-07-08T16:53:27+00:00",
-        "source": "ILUNION"
+        "title": "Las mejores agencias de marketing digital y estrategia de medios en España",
+        "description": "Las mejores agencias de marketing digital y estrategia de medios en España Diariocrítico.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDVHVFhUWGJQNlJyUHk2QTd2Z0R4SGdXaXE2U2tBVTVaa21yanFWc2x3VzZXZXE5M2EybVBxNjg0Q3RWV2ptTDQ1VDNfN2NLMEpIeWtaNUFIZmhLWWdUMF94M2ljbU55UGJqQ0FZU2gwblBIdFNVS0t3UEYzdnRDdzBTNjkyLUhXR3l2ZU5qelRjeG1WbEdxbzdpTHN5N3BrWS13TERRV2FOVi16Qk9iQkhEcw?oc=5",
+        "date": "2026-07-13T08:27:56+00:00",
+        "source": "Diariocrítico.com"
       }
     ],
     "IA": [
@@ -112,18 +112,11 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Cuando la inteligencia artificial entra al expediente: una sentencia que mira el futuro de la prueba penal",
-        "description": "Cuando la inteligencia artificial entra al expediente: una sentencia que mira el futuro de la prueba penal Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUmdXbGx5Sll3Rm5lbVZsdjlpTzQ0b2NvYWR1b0x4TlFQdTI2eTlreXJLSW5kMVhVRG1fdWxxUUhKWXZqWUhZam5sS1ZqTjdUTkpQekZrZE4zaG9kdk51dzg1QzhQb3lqTHp4UG0xZUM5TlZrMXRlR3BBUzYxdFhlSmJLY3p2NjBYNEEycTc2V3B6LW1XVFBMTG5pWm12eUxKM3ljMzRQVlBSb1dSeHIxYkViWl9OVEtfMkpNS2wtbEhWMkZaRTA2MFZmWXlxR1BXSmUwOW5TRF9oR1RCLWNjZnlwa9IB_gFBVV95cUxPcURWYi1rU1JNcUZ3eVBCMEJLbFdoY2FEWWowNXo5ckNlMnBFU3RuZFVTckszemh5aXRQbEtic1JLUVMxTVZWNklEdjJneHplY0NlWElBZTZXUHA0M3V1UUlnbnl4RXg1aXZJdGE1eFJod1FUZkxobDFneEx6UGM5c0twT1c2WkJQVmlMQnc2VXFsYmZIUG5HVlBYaU92V3hselF3VjAyU3d4dGZIMHpBOVNaamhISmZJRUNpdElyd3NLRlpTaGNtc0RRUmtISmNWSmZJeER3U0FHV3d6NDM4ZV81cEJ3a3owWkNScll6aHFyblJRQ0hFbHdjLXI4Zw?oc=5",
-        "date": "2026-07-13T05:53:52+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "¿Una hipoteca gestionada por Siri? Así revolucionará la inteligencia artificial a la banca tradicional",
-        "description": "¿Una hipoteca gestionada por Siri? Así revolucionará la inteligencia artificial a la banca tradicional EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGhLcWVhYzZfNXBPU2xMS1ZwTXFmVzJncC0wYTRFMm01Q3pxYm96c0p0UnppdmpEZE1EV2NvZlU3MVU5Sk01ZG05RFhJbWZldzJhY1gxZUpOeEVJWkQ1RFJaQ09pLWlRekU1c0gtSnpqeUtaQ0JHS055U0RJRzQ2UWxQdGFtbzlLS0M5MDNhbFFjSnlja19tRUVPSjczaHdGTkVmRHYweEhwcGgtM0poMEswYW02QjN1MVNDT0ltaHhkbENjMjdCRkhncWc3UHdzSk9mMXJjazB3UQ?oc=5",
-        "date": "2026-07-13T04:54:00+00:00",
-        "source": "EL PAÍS"
+        "title": "Israel Díaz Reinado: “Los escritores de ficción con voz propia difícilmente serán sustituidos por la inteligen",
+        "description": "Israel Díaz Reinado: “Los escritores de ficción con voz propia difícilmente serán sustituidos por la inteligen Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMldURWJaVkFBM0xLRWMtZVRDLXhCa2dFS3F5X2Y5UjZVWjUtOThiemtVaWhWLXJ1aXhHS1FBWnpVSDNxTlFCVzYwQnViUUhuOHpkVzBPN1FRdG5vUXQ3NFFObllIb3hKellJeVBDRjl1UUV0OW43TF92X0pNT0N2ZmQ5YUNkYzd0TjFoTU5BN1JPMmFscll1R3k1RVFpWU1TTGYzOVRhQnFEc1NHWnduNUV6SFRQUEgtTDlXVWttQjB1a0dVRWRUNHlGbEdLb2FYV0lXNmY4ekF6b3JSMWl4UlJ6anV4TmxMd25mXzZUTUFPakJlM1NUWHlONFY4SmtQVU1VQU1xd9IBmwJBVV95cUxQMkFSaGJsSEZLUlE1X24xdmM1NEotQ0VyUkU0bWI4ODdZS1VNcXlNajUzaEtycUpLNGpxbUk4WHNOWWZCNkl5NmlWZlVycG5GZndNOHZYRThNc2U2Yzl6MXBYVjIxd3d5a2YwU3hjcThGbUNfWHVxdW5xUnlKSG5qX01DYzlvQ3FsTzdkNXgxbzM3WjBUS0RZX1pxQ052UU1qS3p1Vm4tT2tOak9iQ2lRY3F0S1RMY1pSRDN4dmZvVHcyOFR6R1FjaU1oR2REeGdLWTdGNUV3aktYejdmNDdxclJSY0ljRDZiNmhaWDgzSVBacUhjOS1kOXFoYVp1UC1LY1l5bWxYQUI1QVp5QXlKX0EtdjNoMDk4clhB?oc=5",
+        "date": "2026-07-13T09:00:28+00:00",
+        "source": "Diario AS"
       },
       {
         "title": "Rebelión contra la inteligencia artificial: crecen las protestas contra los datacenters en EE.UU.",
@@ -133,25 +126,32 @@
         "source": "Clarin.com"
       },
       {
-        "title": "El potencial de los data centers: ¿puede la Argentina ser un actor clave de la inteligencia artificial?",
-        "description": "El potencial de los data centers: ¿puede la Argentina ser un actor clave de la inteligencia artificial? La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDNGZnVyNHJhWnEzTWRkdlVUS0d2cmhmLUlydE1zSmIyTVFZa251QVI2VzB1cjBvTjhRUTgxaVNuVHlrVVdGYnBhQzF6MG9hS3VHNjZPTG54cVU0WlZWT3laNFRfZlVrQ1JZZ09RYW1CYVpUYmdycVNjaWlpT0NwdkRFUkFsRDBOdnpxNE01QmptTWtVYWNiMW5PWWp6UHd2ZXIyWmpEUVg0Y0ZzOWwxNjFqdksyemZUS3FmUkF4UHlFeG1VWDNBbzFpMmZEWEdQcklBMnRPbHgwNUNvSFRrWXBtdG9OZklr?oc=5",
-        "date": "2026-07-12T03:01:00+00:00",
+        "title": "Sarmiento, la inteligencia artificial y la urgencia olvidada",
+        "description": "Sarmiento, la inteligencia artificial y la urgencia olvidada La Nación",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkVmcGNua0Z0OXNxMVBOeUoybWxVZDVfZVY0eUdaM3BHc0NaMmpCOVhXWDl3aUI4bWJweS1mazVUYjZKSS1pRWFhTHJRdUZWREZVYmtQSTRBcDE2SHIyNi1mRmpfT0pGZm1EWUdxMGpfU2tRdTVDak9kalVkM0h2RElsYTdwR0VGalB4WFNZWVE0UlQzOHctSmdyOEliZmNIYnNzUzdoVHNfbWJZ?oc=5",
+        "date": "2026-07-13T03:15:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "EDUCACIÓN INCORPORA INTELIGENCIA ARTIFICIAL PARA OPTIMIZAR LA LIQUIDACIÓN DE SUELDOS Y LEGAJOS DOCENTES",
-        "description": "EDUCACIÓN INCORPORA INTELIGENCIA ARTIFICIAL PARA OPTIMIZAR LA LIQUIDACIÓN DE SUELDOS Y LEGAJOS DOCENTES Gobierno Del Chaco",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWZwa3FQazlWYlNid25rNDNxdThMZF9vWUZYLUpqbHNLTnlUc05CRzNtZkoxMFVZeEhya1pWcm12dnZ5ZUVKaG5JTUtJdkRtN3FxcGNRZDMzaWt3NGlWRk1UalM1YWZybnlZdVJtNlFvMW1nRkx2MmpnUWZRMTFjcnh4c1ZYaTNSbG1rVnVoLUZzWkJSTGE2aUUwOUM1bFYwXy1EcHBPc3VSUjd2TGNoLXlYV2Q5eU9pSl9UYXl2WjJwZGhWb2M5dXdMM2gyZ2FOV2xSZDc1aVlZZ1cyWnRZWjR6UQ?oc=5",
-        "date": "2026-07-11T22:13:46+00:00",
-        "source": "Gobierno Del Chaco"
+        "title": "Cómo responde la ley ante los desnudos falsos creados con Inteligencia Artificial",
+        "description": "Cómo responde la ley ante los desnudos falsos creados con Inteligencia Artificial La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1RQRzVsTTBEbWFEMkFUT1NvYWFHUTJHeEttODN4SkNEVVdnaFhEZFBlWEFJZEprbEl5TnUxNVVubWM4TURWVUN2ZVF5VDdGREVGNnBhclVTd3E3anB5eWpRSG1fT1drbUlOeDM5bHBBYzQ1SGg2Rm9MRmdfUk14YU9wUndaZ0FoYllXTVRkRzR4dlo3VjZpYzZOSzJEZWVFM1NvRzVjZ205S2VQalZKOS1Jc0J0UEdrTXRQVVZFalo3dDjSAcgBQVVfeXFMTWRZZ2puWW5fN0tHeVloYWVEbWFTTWRYWEpRdVNtNHBycXNYWU9HTDUxSDBrVldsSEZUdnVwRWNUbDZIaGo2d0V3T2diUDVMLVR5M1g1bHFleldJQUYzZ0hzMURxcmFYcUFVV2hVclRvaHNUOTNfNk1Wb2l0TEdjTEZ4cjhkQjhQWjRmTDRzaXJRVXhHNWJGUEpXSjM4Ny1Ha0VkZmltNWJ4RTAxUlYxaUJOVHRHT21LWTlWMlNoa0NTcExZTGRYY3M?oc=5",
+        "date": "2026-07-12T04:30:52+00:00",
+        "source": "La Gaceta"
       },
       {
-        "title": "Es muy probable que estés entrenando un modelo de inteligencia artificial sin saberlo",
-        "description": "Es muy probable que estés entrenando un modelo de inteligencia artificial sin saberlo La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZF9HN1dpYXZidEZDMnNvYkxma0ZRaV94MjhJb0ZoVE0wclNQWXNVRjZpQ0JYbTVwbURpY012VFFKOEZNRThnMGphTUI1OE9WVWZObXE2c0lEb0E1d25Bbk9xWG13RGRVNG55SnRPemF3UFdkSHhYNl9FZk9uOGtLS3RKRmxxdVdaWU5sbm5HNFFGOU8xay1lTVlTXzN1WFpKUWNrMmFqQjNxSkFsTnhvWkJsZU5oTGx4OVlsYmJqQV9wTDFH?oc=5",
-        "date": "2026-07-13T02:52:41+00:00",
-        "source": "La Gaceta"
+        "title": "Cuando la inteligencia artificial entra al expediente: una sentencia que mira el futuro de la prueba penal",
+        "description": "Cuando la inteligencia artificial entra al expediente: una sentencia que mira el futuro de la prueba penal Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUmdXbGx5Sll3Rm5lbVZsdjlpTzQ0b2NvYWR1b0x4TlFQdTI2eTlreXJLSW5kMVhVRG1fdWxxUUhKWXZqWUhZam5sS1ZqTjdUTkpQekZrZE4zaG9kdk51dzg1QzhQb3lqTHp4UG0xZUM5TlZrMXRlR3BBUzYxdFhlSmJLY3p2NjBYNEEycTc2V3B6LW1XVFBMTG5pWm12eUxKM3ljMzRQVlBSb1dSeHIxYkViWl9OVEtfMkpNS2wtbEhWMkZaRTA2MFZmWXlxR1BXSmUwOW5TRF9oR1RCLWNjZnlwa9IB_gFBVV95cUxPcURWYi1rU1JNcUZ3eVBCMEJLbFdoY2FEWWowNXo5ckNlMnBFU3RuZFVTckszemh5aXRQbEtic1JLUVMxTVZWNklEdjJneHplY0NlWElBZTZXUHA0M3V1UUlnbnl4RXg1aXZJdGE1eFJod1FUZkxobDFneEx6UGM5c0twT1c2WkJQVmlMQnc2VXFsYmZIUG5HVlBYaU92V3hselF3VjAyU3d4dGZIMHpBOVNaamhISmZJRUNpdElyd3NLRlpTaGNtc0RRUmtISmNWSmZJeER3U0FHV3d6NDM4ZV81cEJ3a3owWkNScll6aHFyblJRQ0hFbHdjLXI4Zw?oc=5",
+        "date": "2026-07-13T05:53:52+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Paradoja de la inteligencia artificial: usarla puede salir más caro que el trabajo que se busca reemplazar",
+        "description": "Paradoja de la inteligencia artificial: usarla puede salir más caro que el trabajo que se busca reemplazar Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3F0VTdVbEE3M3o0c3gzendvNXZqVlZmWW5IdWxOeXQ3YjFuMmwtWTJJemdybXdWdWNDTGVQeGNmTUk4Z0dRSkg3a1lUUTh6NExOTEttRWtHallRWVRSREs4OU9LV0tES3RHaURWcEkzOVAwazVWeU9nUXhXalZvQkxaNzVqWk42d3NlRHBBRmtHQlRIaGt0TlJkUHBXSVYyb0RrNmNUZk9VTkJfUUtHRi1MS2ZqWTdNblVaeUdwTG9fSXBYa2dXSjEwNFl6QmdNS2NGU2VGOHVJYTTSAeABQVVfeXFMTVE2NlY3N29KU3BPU1gzdk9EQWNYY1U4c01DNm5hbkxuZjh4ZFUwUm5GLXBzRUZVTjdWamdyWnB3VFdTRE5LMmpZMHl5Z1QtWlNOd0pQbXMtV0MyY3FZenRWbHRVWGZjaXNrR3VXWkl4b3lTRFoyWVZMNmNndVNXOWNkbnN6VWFMOWx3Ty04aVg5c0ZyQTdsWUFDT285RnR3LXhxczNQUkxjSzhNYTNON0pjT1dmNHgwWG5PcUVQQWJQX1E5MENGdGdqbGlFRnRYekdVZXBXREdTTjVxbHhidk8?oc=5",
+        "date": "2026-07-11T10:00:00+00:00",
+        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
@@ -163,18 +163,32 @@
         "source": "Página|12"
       },
       {
-        "title": "La balanza energética logró un superávit récord en el primer semestre y Vaca Muerta impulsa el salto exportador",
-        "description": "La balanza energética logró un superávit récord en el primer semestre y Vaca Muerta impulsa el salto exportador Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNFd3WlhiOVlrZEVFQUI3LVM3THZjTldMdXBiM1JxVDhBUVI3TzRERHJzd3hwclpxU3hlUnJwYW03XzZvcjVIYnMxd0diMDVkNGNBZzRDQ0h6REU1c2FuQTdZUDVPd2t4OXBDSG90NV9RcDNrREVIMFMwVFBreDVXQ0RiV240ZHBTbDkwTDBWb29SR2xVUHdwTldtU2kzTkR3dWstaG5vM2plaWhmQ2tPQUtlNjVBQ25ZY3lqWTJfN2x3b1dwZ291cUZ4WkI0a05RdUl4TlNNY1BKSnVPcVdqTF9ZMNIB6AFBVV95cUxNUkxOM1pnR2FlaWhLMkFlMUhSeld2czQ5emVjb0x3QVBFeGZOUVVmQXZsd1hSRWdoaXo4aVVlSDVfa2dwRGtLQ2RTU0s0ZXhybTd6NjE5a0MwRjNRMWo1M0E5NF9SNWsyZE1LQk1VQ3lYMlYtczdCY21QcVRjWk1QZmRuSUxDVWpGclNHalJVbEJQZTZ5X0ZwQzVXbnFuUHlJSGV1SFBhMEVEYklIY1g3cUpqa20wMGE3OUFobUdYU1ZWRHR4Wm9DNThYT1hDVmRtVGxJa2Z2MjhfQ2ZhcGhhS3NGbS00OEJp?oc=5",
-        "date": "2026-07-12T18:56:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "YPF licita un negocio clave en Vaca Muerta y se le abre otra chance a Techint tras su último traspié",
         "description": "YPF licita un negocio clave en Vaca Muerta y se le abre otra chance a Techint tras su último traspié Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWVTOUFVRURZOWJud3ZSSVB4SGEybXRPRVpYLUxpMHVzWi1IekhzTXBIU0xmS1FpTks4SEIyaDlHTGEwbnJ1ZC01N0Q1VHVUOGFQR25OVjRtQmh4NE1LdmFPY3V4NDYxUVlrdmhNZUNmczhLS1owUVhUWmpkMFdnZ05KNlg2MFhIaWpOM1c3c2ZYdnJhUFpyQXpPczhsRTc5UFFpWW9VSDdCRUJGSVVoSFNISU11YnIxd3pmMXlSNlZ2c3BDeXBUZVNB?oc=5",
         "date": "2026-07-11T09:01:28+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Vaca Muerta, entre récords de producción y el alerta por el precio del petróleo",
+        "description": "Vaca Muerta, entre récords de producción y el alerta por el precio del petróleo Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME5tc3lYQ2dMZkVndjdBSHZkUXFaYjhHUUJJZ0FfUUNXQ25nS1ljeUxKX3cwczhOVm14b0RleXJIbVRmWGp1bUdxS3F3UWw0bi1VOXNSYWdySlJOQTdES0JiSm1JUVlXcXVicm1xWjdtWmsza0ZtbDk4d3pnOHhIZ1BrVmRjb0g3ZGRSX1Z3cmo3bElEcVNHNDYxakkxdFQ5aHVOZ3RqcDY?oc=5",
+        "date": "2026-07-11T17:21:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Mientras el petróleo retrocede, Vaca Muerta sostiene el impulso y marca nuevos récords de inversión y producción",
+        "description": "Mientras el petróleo retrocede, Vaca Muerta sostiene el impulso y marca nuevos récords de inversión y producción Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWFpyM2hrZ0dnb1ViM09ncnRGc0J3VHc2TDZGWmpyVEZ5VW9WXzRUMmNOam82YVp3YVNJbk9ZNmg5VlZESGlHZ1RreW5sTU5xLVpRaVpsODQyMU91Mi1sYlk1SUxiczROSjFvZXpSa1FSY19iVTVtRFpOLW16cF9IZ3dQNVNGWGtYSjhNR3Z6SnBXajZaY2hvVmxrUWhNdmZqXzREZFBkVUFYUV9weWxqeGNPYjJ4Vzg0bWpRcGlKbW1HZFdYQi1TR1NMdmRXazZNQl9OUlpKU3k1MGNaTU5HSXBabTJ6aDQ50gHuAUFVX3lxTFBvQVZfUFNlckpuanFHVjRHVjlPVEdLN2hTQWU4LURJRVRVU0RpUmpLcDlLajdENDBKN2JwdEU4dmp1T2lZWTdkZ3dFeHNpdUNCXzJHTjJ5QXY1bHJkZ2I4Q3dfaVJ6eFg2dW53aWMwSFVQTksxZ1IxSXlDcHdKMHlKa3NIamlka2xiMmNGNEpqVU9wb05pdV9hblF2LWtVY2lRcmdpOHhxRlJSckVDTlk3R1VNUTBGOTJvbVhXNmJFdWQ2NkhTUU1xMC1uZW9GM2RqTE9iVkltZlNxVjRhNkpmUnJsU2t3UW9qVUd5SWc?oc=5",
+        "date": "2026-07-10T14:16:17+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta eleva su propio techo",
+        "description": "Vaca Muerta eleva su propio techo Ambito",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDVDlCZFVFVkc5bGY4TmVFc2d6T1BYNzROYmlmWnVvS2tXRS1sdVVQVGV0WVZpbzJvTmxySU5jM056VHNoZEo1OWJaQk1QRjVCYXpFQU95QmxDWldzejBaMk1GR1FrdVhoR2V6b1NGX3QwWFdlczAxMnlnUjJPZnfSAYQBQVVfeXFMTXpFQXl0ZVdCVUFnQnBnX1NzcVRQT2NfRk5HQmFiQnUzVjRQSVdWdWxKTnBZNG50V0VOR2R5MW5sV1J5Rk9kTVh6NjBheGVwY3dNLXpNU1FURjZKU0Faa3d0SzBmeVRQOTNPTWE1R1pBbHVhZUVXRzdzN1dxTjJRWW9WU0pM?oc=5",
+        "date": "2026-07-12T03:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Los negocios de Jorge Mas, dueño de Inter Miami, que desplazó a Rocca en una obra para Vaca Muerta",
@@ -189,20 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3plT3NzbEJSX2F0VUtpZlY3TE5oVjFzRXVzSmw2LXdBaUk3Nk9leHZRemF3T2x2SXVUV0lidzRKcVlYZkRYSE9ORW11Rl84YXIzV3JaR2xSaEJ0dC1vQU10My1IZVJ2cldlVGJIeEhCMEs1YlREaGZDUnpST0Fmbm1TOXVKVi1tRXUyLTU1VjMtY21KZzhIRWhHSW5FN244M2hrTnU5V0lwcmk4ODhLUHJ3?oc=5",
         "date": "2026-07-09T22:12:00+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Techint y Sacde volvieron a perder un contrato en Vaca Muerta: una empresa italiana y el dueño del Inter Miami les ganaron una licitación millonaria",
-        "description": "Techint y Sacde volvieron a perder un contrato en Vaca Muerta: una empresa italiana y el dueño del Inter Miami les ganaron una licitación millonaria Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQnBHTXVlQUtxdHhIT0pQTUZEX3J2Z3AzNEJHVGV3Zy1SM1hJUXptdHJGbllVN1NLN000LXhNMG5WenQtVzdOY2pfd1VLMHUyWkRVdl8tSkxnajRkbEpUNG0xa1VNUDZTRUh5TmctN0JTQjBPTjFMYmE2WGFHNUhFU2xCRlI3MF85NjdOWE1LOUxHRkgwRXg2YlZDMlVtcURCWnpReFdjTUtCNEQtOEVlYXh2NzVUUnJuazB6ZnhrMVRjUzBWcFliaHlaX3REeHloZFFiNDhpdTZ2S1VocGtfNzJrb0J4OS1lejBYZlo2b3RmWlFPZm5RY3pXQ1LSAZcCQVVfeXFMTy1Rei04azF5Wm1HXy1FdnpKaXBsQVVuYmRibkFBamsyRG9PYlNNNEVfbm5fX3lYTUNXYUFkRHhvQWpiMjF6cFNEeXgtaFRCdmwtZFdqOWpSdk04SkhIT3BtWmdwOVpWOEhfTGQ2RTZVY24zOGtaVlYwUmppREJWNXphQkdhcEZSM0R3bTNfTkVpWHY0X3NzakdYOUFCT1NDaHBxYzFnLWhWWUJySEdfMWtOaE53SGZIc1V2dG5tYjJJbW1PQ1YycHdSckJJMHZ5WUs1SHpwVWtzVmhWMVhVVXRGQTJYdlIzaVZTRVRrR1M1ek8yb2U5eWdIZ2hzbFJiYWJrRUJSRXhORG1qeG91MThGWEY1cDNv?oc=5",
-        "date": "2026-07-09T22:11:28+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Los trumpistas Mas Canosa del Inter de Miami le ganaron a Rocca y Mindlin la obra de un gasoducto de Vaca Muer",
-        "description": "Los trumpistas Mas Canosa del Inter de Miami le ganaron a Rocca y Mindlin la obra de un gasoducto de Vaca Muer La Política Online",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOWF2Ql96cVdjM0RRWG03WVB0RkpFMHF6cmtmWGozS1FOVmlyVWw3LTAwaFVudmRVckhFX0VsYUtwY3pBTUQzQm94N3k1UHR5b3RPZWZrX3lIaGljVmRnTm9jSkdUcUVOS05fOFN4d3M1S3dzNFVZQml1OUJCWGZzWi1mOU1ZUzltTmlaUnhQYnZtelQzcTg3eXQ1TVJpT3FXeW9ZV0RMNUs0djQ0bDhBaC1DdEV0TzBrcDRqOTBQUnBQc3ZrU3ozNGZuTVJCWnfSAe4BQVVfeXFMTUJsYXlsTlRIM0xoMndGSjJMa3J4YkhGRlZVM0taTlhaWmRaXzduUkljYllsdk9IcFNoeUhYQVZOSTZwMU1DX054Z0VuUE93WEVpLVRVTnFTc2h0Yk5JWndyNUVxdFlHYWgtbmZnWnBaNHM5Uld4bWQ5Q0Nod2t1VWhvYkFLUWRKLWlFOVk5VlZZX1lackU5UXBDM0IyN0c3NlVOQjdhRm5td3NtWEVrSi1Bc2JxZWdJcVFTRzlfcEVCeU5rNE5ETWZERER6N3ZLZWp1VXNUamtMS21tZW5Ld1ZubFJUY1lOME9TSzdSQQ?oc=5",
-        "date": "2026-07-09T20:35:42+00:00",
-        "source": "La Política Online"
       }
     ]
   }
