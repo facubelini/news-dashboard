@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T02:12:33Z",
+  "updated_at": "2026-07-13T06:09:55Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVm5nNkNabmZ3UGw5QXM1RmY4V0llbXdIVmczbnBJMVowQWxMOEtfNjNFcFo1Mkkwc25UR3BGQ21pUVRHOWs3ZW15V3l6ZVN4ZjVmd0xNaWpQaktwZnVoTDM0OHYtbjVsQ3B5cHFjemNuWmtjWFdDdFNiNFZ0TGFkT1dNcHFGN3lGZmF1aC1hSXhSdFg2aFRGVGFrZVVKVlV4dWFZWWJaUVBwMDdMUTlFdlhNQ1h4a0lESWlCc1VhTy13cVdpWWJVTFBjSU91YklEUG1WUnM3QmlLMjR6U1NhQdIB-wFBVV95cUxQNk00WVo2eVhWeUVTNkY0Sml6WXhodV9mSXZNbXQ5R3NsWXIybThpVXNDMEdFNmVpZFJBLVpVMFA1aVVYajdvclVfc09WQkg5aHhPakItc3hIV0ljamxHY0hISHgzLXlXcklCWHd0Mm1UV00tXzU0Mzg0Tkg5QU5uVnp1M05BMDVZaHhSREFNdFJLMGpxYkw2R1lBcWVWRzdNLU5tUnh6cnFUbmdmVDdyWnZkTTBsZTFXMnpsMThaTXRBdGFBa3g3N1dMU3g5azQyc0xDaGo1VTNIU1QyYVhpOXJnUjV5NkI1MmNELXZ3b2VneWlXZ0hBUTB3QQ?oc=5",
         "date": "2026-07-10T22:03:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Microsoft confirma la existencia de un identificador oculto en Windows",
+        "description": "Microsoft confirma la existencia de un identificador oculto en Windows MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDlVdmlJSGlMRGU3SnBTRmlNLXRyU3RlQlVwVEhOVFlXMnZBYlR3QXFORFRiSTRSZjFwOE13bFRpNG1ON3pTS1BNaXluZTJjMENfLXZTWWlLLWJfc3N4Mlk4VlBxVEF1S3dNTi1yOW9qeHZ1QV9ad2lLQ0dOd3hQcktiZ1hLSkZfUTFFcUVaU0dXQWYwbjBqSzBabmlJX2JXdVo4VHUwRVU2MnB3a3BV?oc=5",
+        "date": "2026-07-12T17:34:33+00:00",
+        "source": "MuyComputer"
       },
       {
         "title": "La increíble historia del empleado de Microsoft que amasó una fortuna de más de 10 millones de dólares robando tarjetas regalo de Xbox",
@@ -24,24 +31,10 @@
         "source": "Diario AS"
       },
       {
-        "title": "Microsoft confirma la existencia de un identificador oculto en Windows",
-        "description": "Microsoft confirma la existencia de un identificador oculto en Windows MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDlVdmlJSGlMRGU3SnBTRmlNLXRyU3RlQlVwVEhOVFlXMnZBYlR3QXFORFRiSTRSZjFwOE13bFRpNG1ON3pTS1BNaXluZTJjMENfLXZTWWlLLWJfc3N4Mlk4VlBxVEF1S3dNTi1yOW9qeHZ1QV9ad2lLQ0dOd3hQcktiZ1hLSkZfUTFFcUVaU0dXQWYwbjBqSzBabmlJX2JXdVo4VHUwRVU2MnB3a3BV?oc=5",
-        "date": "2026-07-12T17:34:33+00:00",
-        "source": "MuyComputer"
-      },
-      {
         "title": "Microsoft se marcó un objetivo climático para 2030. Convertirse en una compañía de IA ha hecho que el plan salte por los aires",
         "description": "Microsoft se marcó un objetivo climático para 2030. Convertirse en una compañía de IA ha hecho que el plan salte por los aires Xataka",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjdvYlVXX3hzLWsxUDhwaHI1azlkRE4zalZkdEpIYm5BWjJiZElobXQ5R0hYSjRzUU9MdFpoTWxVREdxeUNsdVBYc3NEZU9oSTVYYmhQTXNZakxUOVd2MUlndlhkanJGcWR3eXk2RWhSbWhkRnpRaTNRYVh4cERBYnhGZnBYLW9JZkR0LXA2YXNhRkZIVGNrS3Jxd3J3Z2NzWnZIby0taWxlUjV2Yk5ONXFxYUxpQWpLRXdXc05SaFg0RkVITVl2UkstZUXSAdIBQVVfeXFMTUgzeE9uUEQtLTM3TWJCcXVPV1FoamlTdEVWVG55SXNuSGs0WXd6WlhEbVhkeWo4Smo4OEI5Vmh2LTRPd2ZVeWJiTTZvSHhnLXFPMHdlc3pmQWdPMV95YmFzVGRfaTczRHB6SEJtdEtmZlY3dHZvR1B5d2oxcDhxNGJwVlF4enpjbW9NX3M0Qy1qalhEbEQ0eG1FNGdIajhXend0dHV0OV85UjBQRWlDMTh3d01IWTB1SFlTOFIzNDd2dTRLem12eGw2YVV5R0YwSjVn?oc=5",
         "date": "2026-07-10T15:31:57+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Aravind Srinivas, CEO de Perplexity: \"Microsoft construyó el concepto de trabajo de oficina porque querían vender más software\"",
-        "description": "Aravind Srinivas, CEO de Perplexity: \"Microsoft construyó el concepto de trabajo de oficina porque querían vender más software\" Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSFJrOFp5R2lEUnZaN1JjTGMxc2tkTzZVV2JtQjhzbzU2eW4zcEJKM0w2ejNXbDMtblJGRG9Eb25idm9nQWk5SHdfczNmajlsNkhjbGtNVGtrMmJKdVlsMDFUWlFlTnVNLTlEMUFVV0FpRGVnVFBubFpSQkJ1WGNYRENHUHpZc0dVdDgzcHFHRFp2MEo5WERubW9jYzZUaTd3MXhkeFFyOGRYN0JUVnpyUnVLRGhLMmtGNHlxSGdnSl93aWt4a0VPUEY5dnEzYURpT1hIR285QXlCekRGYTQzUHNtZlPSAeoBQVVfeXFMT1RaV3V4NkRiN25Gdl9UZEJVYlAxV0hacThVcjBkdGpNTUtNb09ZM1Ztd1ZHNXBfN3pIZmstY0RzZldyLUx0MEtReG1zeU1zRmU2WlR0SGk5amhBSTBpdllmV3JsdXljSGhsenU4cjNMQ1hrUjMxcVAzdk82S1BfeVpEbHVrTGZLNkhIMzJDM3g2Q0lGQU1CSWJ2Z3N3b2JRYTcwdmxrTHAyU28zYlNvbHRlcWRva0RFMGRqalNVcWIzZXIyYWJVUVFjX3ppVnpGNld1ODVMUks2R0NQaHJpWURpbVppSXZjdHN3?oc=5",
-        "date": "2026-07-09T15:45:18+00:00",
         "source": "Xataka"
       },
       {
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTVdPbENtWjBqejF0UEFCNGN0SV9lM2huakMxb3QyWGRUbGJoZmxfc012QVA3YXl5aG9RbHpNNC0zYUwxMXFaRWg2SkRvRXIyTFV6Z1RXN3NqdXRpNTJ6ZGo4SWlPd0xvZzN4elQ2ekN6azFHUElqU3JMb3JZNjJlcmlXS0o4UlMwWWdOVU9WM042dW5lMGp6a0NYcmphUkRwVnJVcU9hdURnUjVlcTRtbkJFNGNlbWNDdzRDQ1IxaWVwTDZOaTg2UWcyODBvNklHU0V1VGNR?oc=5",
         "date": "2026-07-09T19:17:28+00:00",
         "source": "VidaExtra"
+      },
+      {
+        "title": "Andalucía entrega a Microsoft los datos de medio millón de alumnos menores",
+        "description": "Andalucía entrega a Microsoft los datos de medio millón de alumnos menores EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1dFUGFJYUQ5SFd4WFlrcmtNMmRydXdVNm1yUHgxczZKX0RuTnZPNTFURVhYV25JeFpwYm95QzF6Rjc5ZmJXWUVMbnBLaElOODQtN0c1d1BydWVIWmZxd1QxdkhBUGQ2UzI5a0N4QkllcExibklKWVNRZW1fWXlqNUpsZEEtbXNtdU5hUTlvRExkTkZzaGxxU24tNUxQa2p3TkMtbDlZTFluUFVVbkxhcEZzbXFaSnfSAcsBQVVfeXFMTW5URzhyalU3d2o4WW5EaGxQUmwzNDQ1bnJ1NjFxbUxTQkRTYzkxWGVWSXdHSjYtaWhadFlta0dLNmtfeVk5NjRzSk5DRy16TjNZcnNvb05ZMHZBX2dWS2pWRlAzVEUteFA4YklzQzRMYVJfcTRzaG1na0dUTlpXNEFlRkw5My03QkpmcW45WjVzMXE4NlRkRXA5U3BULVlkOVVfTERSQ254anphdHRaTXcwU2I1NUlaSmRiaTh4VkZsUURuNVBIWlRZdXM?oc=5",
+        "date": "2026-07-07T03:30:01+00:00",
+        "source": "EL PAÍS"
       }
     ],
     "Marketing": [
@@ -89,27 +89,41 @@
         "source": "Municipalidad de la Ciudad de Mendoza"
       },
       {
-        "title": "¿Quiénes son los microinfluencers en el marketing digital?",
-        "description": "¿Quiénes son los microinfluencers en el marketing digital? ILUNION",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHBsdHdkYmRHYXZwclY2ajBJYmR5UGFURE8tOXdGX2Rwc05EemdyVUppQTdjV1BTUzREaXFJN2VZWjhxTWxnZHVtZGVWLUJSUXdfTnNMczBNMTZ3QnhUMl9GS3huN2k1dFRMeld1TERvYk9JTE9QeXhFempKY1FYWDZaT3pGdFM2Nm9HeE5wbEpKbUJsdkE?oc=5",
-        "date": "2026-07-08T16:53:27+00:00",
-        "source": "ILUNION"
-      },
-      {
         "title": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital",
         "description": "» Franquicias, marcas e intangibles: cómo construir activos de valor en la era del marketing digital unsam",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUmFLY3JzZ2E2NGNBN2RudGZIWlRaMk1xS2VUd2xxV0tCVW9uRks2STBHak04X0tEdkdZUC11RmttNFl5SGppd3M5cmVvUFBtRVZ3MmcxRVNGcGRoN3dUalRiVlppU3JWRHBFemdsVWdjMHpPNGczcHNMMDVtRkR2eHpLbWJQRHNpUnh5dTNGZjRoeTRXeEd3NkgzWTdKbWtabDlqZ2dQZHVtZXRnbFc2b3cwZFI3M3RMVTFzbGpiLXZCTUlGdDduWWRSV3lLOUM2Mjg1Vg?oc=5",
         "date": "2026-06-08T07:00:00+00:00",
         "source": "unsam"
+      },
+      {
+        "title": "¿Quiénes son los microinfluencers en el marketing digital?",
+        "description": "¿Quiénes son los microinfluencers en el marketing digital? ILUNION",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHBsdHdkYmRHYXZwclY2ajBJYmR5UGFURE8tOXdGX2Rwc05EemdyVUppQTdjV1BTUzREaXFJN2VZWjhxTWxnZHVtZGVWLUJSUXdfTnNMczBNMTZ3QnhUMl9GS3huN2k1dFRMeld1TERvYk9JTE9QeXhFempKY1FYWDZaT3pGdFM2Nm9HeE5wbEpKbUJsdkE?oc=5",
+        "date": "2026-07-08T16:53:27+00:00",
+        "source": "ILUNION"
       }
     ],
     "IA": [
       {
-        "title": "Desmantelan en Ibagué sofisticada red internacional de estafa migratoria que operaba con inteligencia artificial",
-        "description": "Desmantelan en Ibagué sofisticada red internacional de estafa migratoria que operaba con inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3pXRDdSM09tc3lhYl9ZVG9SNlQxLXczWllhYU1NbGdqaFo4OUtqa0hON3hoT1hXaXVUZVQ3cW15MndrWFBPUW5lUVBLVG83ekNBS1FrZjJkaEUyczBqdVJrMm12eHNTMjd0N20tbjlINDZreTdhRHVwVkQ3aXZmQXM1bFYzc0RqbTRiblhTRVZxVFYxRjJVSkFKeVM2SmhvZGhnLUxtdHVhZWxmM1NBWl90NkJFZ1h5REFSZE9EZ0ZVUFM4ZUJBcXBISDlXUy1EeTJuRWh6WdIB8gFBVV95cUxPdlpicGp0MEhmekdFN01oNkMybnhGcWsxUjdCaTRIR0xiVl9FTEt6UjF6N1lheUs4aGs2ZEdmY1NkcTNOWlFFX3R0bzg5ZkY5YWhiRXpMRXlZYVl1Nk9wVkJkejVuZEhaNGtLcDI3ejNnRlpIT1p5SW5DNVNERWNqbUltcTRkZlBnNlIwVk1tYlFLWmpJOGRZdXh1VEFVejQtaFQ2RWNDc3cycGFERF93TFdJZ1prdHNYZnZpbFdWeHJRUnVfb2pEdlF3RDFnVDVIN205OUVwNlJuRUpvS1VaQUI2b20wcEFhcm1CUnpxSk9iUQ?oc=5",
-        "date": "2026-07-13T00:51:42+00:00",
+        "title": "Milei es acusado de generar con inteligencia artificial un artículo académico",
+        "description": "Milei es acusado de generar con inteligencia artificial un artículo académico EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2FSU0VTcnZTcFNLMzN1Tm12c01kYTJubi1CWXdEUG5WdGZ6YTI4QTRORFRfQ2N6U0hMaVhLNEo2cmViV1AzS2dIbkMtNDQ0WURETWdNTzZPSmZldEkzWERzOVJuYzB6b01pUmxhS2d6bUZOaDdZZzkwUGFkaEp4UTdCTDV2OWd4WE1DX01zWUJuUU1VQWU4R0NNdGNaUjRvRzhtN0lueDkxdXZpM3phUjNIdlY2RU4tM0NiSWphVdIB0wFBVV95cUxQVEpSVkJjWkZNUWp5bFJpbzRoOFhvZHpPbFcyUFYyZk9EUzJVcURZbFloUl94TGNNaTVmdlliUkNnLVJKeXBMMkdLcXgzcDF2TDY1dlA3RjZmbEFqQVN5OUlsdGdHcnN4UFN6NU51bV9FQ1FEd0JNOWx2cjY1Ty00bFZacHFVN2NuNjFzcjh1THppazBoUnVVenhCVU1QSnFRTHJwSFlBQVZqOW5ZbVJ5TXVHR01uNGcwbVlBWXdPejNjZTNyRWl4bTNpT3Zua1QzbzY4?oc=5",
+        "date": "2026-07-11T19:51:12+00:00",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "Cuando la inteligencia artificial entra al expediente: una sentencia que mira el futuro de la prueba penal",
+        "description": "Cuando la inteligencia artificial entra al expediente: una sentencia que mira el futuro de la prueba penal Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUmdXbGx5Sll3Rm5lbVZsdjlpTzQ0b2NvYWR1b0x4TlFQdTI2eTlreXJLSW5kMVhVRG1fdWxxUUhKWXZqWUhZam5sS1ZqTjdUTkpQekZrZE4zaG9kdk51dzg1QzhQb3lqTHp4UG0xZUM5TlZrMXRlR3BBUzYxdFhlSmJLY3p2NjBYNEEycTc2V3B6LW1XVFBMTG5pWm12eUxKM3ljMzRQVlBSb1dSeHIxYkViWl9OVEtfMkpNS2wtbEhWMkZaRTA2MFZmWXlxR1BXSmUwOW5TRF9oR1RCLWNjZnlwa9IB_gFBVV95cUxPcURWYi1rU1JNcUZ3eVBCMEJLbFdoY2FEWWowNXo5ckNlMnBFU3RuZFVTckszemh5aXRQbEtic1JLUVMxTVZWNklEdjJneHplY0NlWElBZTZXUHA0M3V1UUlnbnl4RXg1aXZJdGE1eFJod1FUZkxobDFneEx6UGM5c0twT1c2WkJQVmlMQnc2VXFsYmZIUG5HVlBYaU92V3hselF3VjAyU3d4dGZIMHpBOVNaamhISmZJRUNpdElyd3NLRlpTaGNtc0RRUmtISmNWSmZJeER3U0FHV3d6NDM4ZV81cEJ3a3owWkNScll6aHFyblJRQ0hFbHdjLXI4Zw?oc=5",
+        "date": "2026-07-13T05:53:52+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "¿Una hipoteca gestionada por Siri? Así revolucionará la inteligencia artificial a la banca tradicional",
+        "description": "¿Una hipoteca gestionada por Siri? Así revolucionará la inteligencia artificial a la banca tradicional EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGhLcWVhYzZfNXBPU2xMS1ZwTXFmVzJncC0wYTRFMm01Q3pxYm96c0p0UnppdmpEZE1EV2NvZlU3MVU5Sk01ZG05RFhJbWZldzJhY1gxZUpOeEVJWkQ1RFJaQ09pLWlRekU1c0gtSnpqeUtaQ0JHS055U0RJRzQ2UWxQdGFtbzlLS0M5MDNhbFFjSnlja19tRUVPSjczaHdGTkVmRHYweEhwcGgtM0poMEswYW02QjN1MVNDT0ltaHhkbENjMjdCRkhncWc3UHdzSk9mMXJjazB3UQ?oc=5",
+        "date": "2026-07-13T04:54:00+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "Rebelión contra la inteligencia artificial: crecen las protestas contra los datacenters en EE.UU.",
@@ -117,13 +131,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFJFYzZvRnRGWVlZZWg0Q0N1Ni16MVpEZldQbmc5ck4xQy11WThoTTNqSXRJNU5UMDJ4a2l6X2JvdnZHNUlxR1lkUGtPMm5xbWpvN0pHT1ZyTlRJMFhsTFpwVW5mSE5SNjljalR3WC1GdWViUXhXY3E4dmtmZXJ3VkVXWlkzd2tKcmRITm9IN3MzNUNXRDYtak5RUUtVUVRnY1ZGeTE3SEl0V2pXemtIRktkODJpdXcyenfSAb8BQVVfeXFMUG1xRlNCZ3lFSWx0YVRxQ3JCejBlQ1doSTByNFBhemN4RzZxY3Z2UmZSbkRuV0NuS0FLMnhaOEpUZmVtdGp3NGNudWdPS0ZhVVVHckdlZHB6VENvYjRITW0zdWk0Z2tPQVB6N3ZFdGZRV2JUS1l2T2NGTEpKV1NDaDVZbzFqNWlGS3pRWkdjSFVYMVN2dnZ3S09XVFgzWkhqRGxkTXY4OXh3eHZyak5CVWVuNzhONjNwSXNtem1OZzA?oc=5",
         "date": "2026-07-12T09:01:43+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Yuval Noah Harari: “La IA podría ser una gran psicópata manipuladora”",
-        "description": "Yuval Noah Harari: “La IA podría ser una gran psicópata manipuladora” EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc0t1N3BLSWM0QXNlbmhSWS1uYWZGT2hxak1zTk5WZERQZzhEb09Kam4yMlVYVGdmM3hKWGp6Q3VYNlNzel9KNFJrTFNvdHJsRE1SUGVyLS10OGZxOTNja28xZHhYcjhNU1I3S1Q3UkZTN0pSVlFKWXdZWUJ6aE1XNzJLQ1hGc3IzMXJJSlUyZnJMOUdkSjZPdGp1RTVzdjVSQTNoMXBqNWJob2Vnb0HSAcIBQVVfeXFMTUdHQzAyRHU4dnNTUkVhZE94MHZRNVBXdmpIRWdnWVNmODBzQ1JoMW5OR1E2WGNFM0Z0VWJHendNbU0yVjZwQnM2THQ0Sk1lSEQ3TkFqeXpQVURXOVo5ZEZyS1h2WDhhRGV5MTBldU42WUQzMTRTU1MwWk4xQUlOTy1WNDZvMDA2RTlrd2NYcUpNT1E1amRLdUR1MGtOSUd5WkFiVHlmN2dncEZkMUw2OWFZeDg4eFREZHZxOTdJUWNVTWc?oc=5",
-        "date": "2026-07-12T03:30:01+00:00",
-        "source": "EL PAÍS"
       },
       {
         "title": "El potencial de los data centers: ¿puede la Argentina ser un actor clave de la inteligencia artificial?",
@@ -140,18 +147,11 @@
         "source": "Gobierno Del Chaco"
       },
       {
-        "title": "Paradoja de la inteligencia artificial: usarla puede salir más caro que el trabajo que se busca reemplazar",
-        "description": "Paradoja de la inteligencia artificial: usarla puede salir más caro que el trabajo que se busca reemplazar Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3F0VTdVbEE3M3o0c3gzendvNXZqVlZmWW5IdWxOeXQ3YjFuMmwtWTJJemdybXdWdWNDTGVQeGNmTUk4Z0dRSkg3a1lUUTh6NExOTEttRWtHallRWVRSREs4OU9LV0tES3RHaURWcEkzOVAwazVWeU9nUXhXalZvQkxaNzVqWk42d3NlRHBBRmtHQlRIaGt0TlJkUHBXSVYyb0RrNmNUZk9VTkJfUUtHRi1MS2ZqWTdNblVaeUdwTG9fSXBYa2dXSjEwNFl6QmdNS2NGU2VGOHVJYTTSAeABQVVfeXFMTVE2NlY3N29KU3BPU1gzdk9EQWNYY1U4c01DNm5hbkxuZjh4ZFUwUm5GLXBzRUZVTjdWamdyWnB3VFdTRE5LMmpZMHl5Z1QtWlNOd0pQbXMtV0MyY3FZenRWbHRVWGZjaXNrR3VXWkl4b3lTRFoyWVZMNmNndVNXOWNkbnN6VWFMOWx3Ty04aVg5c0ZyQTdsWUFDT285RnR3LXhxczNQUkxjSzhNYTNON0pjT1dmNHgwWG5PcUVQQWJQX1E5MENGdGdqbGlFRnRYekdVZXBXREdTTjVxbHhidk8?oc=5",
-        "date": "2026-07-11T10:00:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "El Colegio de Arquitectos de Córdoba lanzó la nueva Autogestión e Iarq con inteligencia artificial aplicada",
-        "description": "El Colegio de Arquitectos de Córdoba lanzó la nueva Autogestión e Iarq con inteligencia artificial aplicada La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdnFqM2FQMVo2SGRqcGFvTmpuM1owN292a09ibnJJNHpZUmhqRWZxQS1LUGVWQlF1N2ZRSE12YlJYYnlKSl95THcyanNma3FZZ1FvMXJFRTlzS0p1RUNPYW9YVEM0VkFvbUs4SVpFdkJGWEg0LWxVQ1I4M0hyVDRaYTU1eWlDWEotcFdfWVE2bTM4bXNrdXVVSS1pcWliU1d0NFljNFRsbDhwbEJEVThUbm8wSDN1bXZpSlVOdFgtNlI5UEJvNzdMSWszT2NEZVdlT0JkaHNaU21OcGc4ZmpvdERtNlBGbjFQSUE?oc=5",
-        "date": "2026-07-12T07:01:38+00:00",
-        "source": "La Voz del Interior"
+        "title": "Es muy probable que estés entrenando un modelo de inteligencia artificial sin saberlo",
+        "description": "Es muy probable que estés entrenando un modelo de inteligencia artificial sin saberlo La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZF9HN1dpYXZidEZDMnNvYkxma0ZRaV94MjhJb0ZoVE0wclNQWXNVRjZpQ0JYbTVwbURpY012VFFKOEZNRThnMGphTUI1OE9WVWZObXE2c0lEb0E1d25Bbk9xWG13RGRVNG55SnRPemF3UFdkSHhYNl9FZk9uOGtLS3RKRmxxdVdaWU5sbm5HNFFGOU8xay1lTVlTXzN1WFpKUWNrMmFqQjNxSkFsTnhvWkJsZU5oTGx4OVlsYmJqQV9wTDFH?oc=5",
+        "date": "2026-07-13T02:52:41+00:00",
+        "source": "La Gaceta"
       }
     ],
     "Vaca Muerta": [
