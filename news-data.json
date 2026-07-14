@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T01:58:11Z",
+  "updated_at": "2026-07-14T04:53:41Z",
   "categories": {
     "Microsoft": [
       {
@@ -17,13 +17,6 @@
         "source": "iProfesional"
       },
       {
-        "title": "Un servidor mal configurado destapa tres campañas de phishing que burlan el acceso a Microsoft 365",
-        "description": "Un servidor mal configurado destapa tres campañas de phishing que burlan el acceso a Microsoft 365 Una Al Día",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRSRDg1WldWNWJrUElFdThRTzlIS0NjdDVBVjNVWUg5SVNOYUZJYlpQcU5ubEJrTmgzcFRIUjZ0MXhRUWh0aVU5X0tfbUtJaFg1RV8tZ25TZmRnUnpUQVJTMTlTekVIY2ZEbVRpbkJ4ZS1PLVpqZ2JabHFmczdxWEh2VHhuOENnd0VqaTl5OFp5aDFaYWtqRkkyQ2NVLTBndGVFMTR0cmh2Z1VLZ3BwV2FxLUZ3Z2xpM0lZOVBzdUpyQ2ZKY1I2d9IBzgFBVV95cUxPUExtR1JDZHFoX2RyLUt4Umpiems5U3NMSlhBb3dwbWxnUEUyLVlTUUZtYWFzSjIzQ085LURlaGtkdmE3RGRFQjFmazd5X0FMRWVjMW10QlVqUV9iLUNCa2VfTF9TS094dVBzRVlPWENURlFuXy1FTl82UlNlQ05DXzVtQXpkazVGYVFOSFBOdzRSZW5tZEZWbGU5cVpJR2t3TjBLWko3aGZzU1BhWERveFlPOUxXOW5Vc2ZYWkV0MmdWM2tWdWs5cTBrWnhzZw?oc=5",
-        "date": "2026-07-13T12:18:43+00:00",
-        "source": "Una Al Día"
-      },
-      {
         "title": "Microsoft confirma la existencia de un identificador oculto en Windows",
         "description": "Microsoft confirma la existencia de un identificador oculto en Windows MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMDlVdmlJSGlMRGU3SnBTRmlNLXRyU3RlQlVwVEhOVFlXMnZBYlR3QXFORFRiSTRSZjFwOE13bFRpNG1ON3pTS1BNaXluZTJjMENfLXZTWWlLLWJfc3N4Mlk4VlBxVEF1S3dNTi1yOW9qeHZ1QV9ad2lLQ0dOd3hQcktiZ1hLSkZfUTFFcUVaU0dXQWYwbjBqSzBabmlJX2JXdVo4VHUwRVU2MnB3a3BV?oc=5",
@@ -31,11 +24,11 @@
         "source": "MuyComputer"
       },
       {
-        "title": "Microsoft confirma 10 juegos que llegan a Game Pass en julio, sumando Gears of War: Reloaded y más",
-        "description": "Microsoft confirma 10 juegos que llegan a Game Pass en julio, sumando Gears of War: Reloaded y más Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVm5nNkNabmZ3UGw5QXM1RmY4V0llbXdIVmczbnBJMVowQWxMOEtfNjNFcFo1Mkkwc25UR3BGQ21pUVRHOWs3ZW15V3l6ZVN4ZjVmd0xNaWpQaktwZnVoTDM0OHYtbjVsQ3B5cHFjemNuWmtjWFdDdFNiNFZ0TGFkT1dNcHFGN3lGZmF1aC1hSXhSdFg2aFRGVGFrZVVKVlV4dWFZWWJaUVBwMDdMUTlFdlhNQ1h4a0lESWlCc1VhTy13cVdpWWJVTFBjSU91YklEUG1WUnM3QmlLMjR6U1NhQdIB-wFBVV95cUxQNk00WVo2eVhWeUVTNkY0Sml6WXhodV9mSXZNbXQ5R3NsWXIybThpVXNDMEdFNmVpZFJBLVpVMFA1aVVYajdvclVfc09WQkg5aHhPakItc3hIV0ljamxHY0hISHgzLXlXcklCWHd0Mm1UV00tXzU0Mzg0Tkg5QU5uVnp1M05BMDVZaHhSREFNdFJLMGpxYkw2R1lBcWVWRzdNLU5tUnh6cnFUbmdmVDdyWnZkTTBsZTFXMnpsMThaTXRBdGFBa3g3N1dMU3g5azQyc0xDaGo1VTNIU1QyYVhpOXJnUjV5NkI1MmNELXZ3b2VneWlXZ0hBUTB3QQ?oc=5",
-        "date": "2026-07-10T22:03:00+00:00",
-        "source": "Infobae"
+        "title": "Un servidor mal configurado destapa tres campañas de phishing que burlan el acceso a Microsoft 365",
+        "description": "Un servidor mal configurado destapa tres campañas de phishing que burlan el acceso a Microsoft 365 Una Al Día",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRSRDg1WldWNWJrUElFdThRTzlIS0NjdDVBVjNVWUg5SVNOYUZJYlpQcU5ubEJrTmgzcFRIUjZ0MXhRUWh0aVU5X0tfbUtJaFg1RV8tZ25TZmRnUnpUQVJTMTlTekVIY2ZEbVRpbkJ4ZS1PLVpqZ2JabHFmczdxWEh2VHhuOENnd0VqaTl5OFp5aDFaYWtqRkkyQ2NVLTBndGVFMTR0cmh2Z1VLZ3BwV2FxLUZ3Z2xpM0lZOVBzdUpyQ2ZKY1I2d9IBzgFBVV95cUxPUExtR1JDZHFoX2RyLUt4Umpiems5U3NMSlhBb3dwbWxnUEUyLVlTUUZtYWFzSjIzQ085LURlaGtkdmE3RGRFQjFmazd5X0FMRWVjMW10QlVqUV9iLUNCa2VfTF9TS094dVBzRVlPWENURlFuXy1FTl82UlNlQ05DXzVtQXpkazVGYVFOSFBOdzRSZW5tZEZWbGU5cVpJR2t3TjBLWko3aGZzU1BhWERveFlPOUxXOW5Vc2ZYWkV0MmdWM2tWdWs5cTBrWnhzZw?oc=5",
+        "date": "2026-07-13T12:18:43+00:00",
+        "source": "Una Al Día"
       },
       {
         "title": "Microsoft desafía resistencias bajo la nube Ichimoku: Niveles en vivo",
@@ -43,6 +36,13 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDNoTjlwbzhMaE5fMnNOb09jQlZBVEJVblg3NTNpQldBZXhjVDJSVzJSd0tMREJXVExCaHFjY0xaSXNXWWF3VkFTY0hhQjc0aVkwWDB3YUZqdjNjUGxZVUpBdGU5UF9qX0FmRlBYMVFkdzBybkRxYk5Sb3p4aDlEY2dmSjM1cDk1WVVWSGNEcEdOWjE3MUpfN19JaDFwMV84Qkw0Q2pvQ1I3eWpzbGxvcVctOWZOV1ItWTFSb0xR?oc=5",
         "date": "2026-07-13T14:05:00+00:00",
         "source": "Investing.com España"
+      },
+      {
+        "title": "Microsoft confirma 10 juegos que llegan a Game Pass en julio, sumando Gears of War: Reloaded y más",
+        "description": "Microsoft confirma 10 juegos que llegan a Game Pass en julio, sumando Gears of War: Reloaded y más Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVm5nNkNabmZ3UGw5QXM1RmY4V0llbXdIVmczbnBJMVowQWxMOEtfNjNFcFo1Mkkwc25UR3BGQ21pUVRHOWs3ZW15V3l6ZVN4ZjVmd0xNaWpQaktwZnVoTDM0OHYtbjVsQ3B5cHFjemNuWmtjWFdDdFNiNFZ0TGFkT1dNcHFGN3lGZmF1aC1hSXhSdFg2aFRGVGFrZVVKVlV4dWFZWWJaUVBwMDdMUTlFdlhNQ1h4a0lESWlCc1VhTy13cVdpWWJVTFBjSU91YklEUG1WUnM3QmlLMjR6U1NhQdIB-wFBVV95cUxQNk00WVo2eVhWeUVTNkY0Sml6WXhodV9mSXZNbXQ5R3NsWXIybThpVXNDMEdFNmVpZFJBLVpVMFA1aVVYajdvclVfc09WQkg5aHhPakItc3hIV0ljamxHY0hISHgzLXlXcklCWHd0Mm1UV00tXzU0Mzg0Tkg5QU5uVnp1M05BMDVZaHhSREFNdFJLMGpxYkw2R1lBcWVWRzdNLU5tUnh6cnFUbmdmVDdyWnZkTTBsZTFXMnpsMThaTXRBdGFBa3g3N1dMU3g5azQyc0xDaGo1VTNIU1QyYVhpOXJnUjV5NkI1MmNELXZ3b2VneWlXZ0hBUTB3QQ?oc=5",
+        "date": "2026-07-10T22:03:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Microsoft quiere que Windows 11 y tu teléfono sean mejores amigos",
@@ -89,11 +89,11 @@
         "source": "Neuquen Informa"
       },
       {
-        "title": "Las mejores agencias de marketing digital full service en España",
-        "description": "Las mejores agencias de marketing digital full service en España murciaeconomia.com",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWZHcWhJTVpwRGV6OHFSdEdqd0FMQk1CalU0YmVXa1pWNHFlU0RGSGlTbm1lSGEyNkRZakJhR2lsaFJIc0Z5elIzcUNhS09hVFBXZlJVeElneV9QekhpcjJqY0pQSlVPeWx3ZVFFWnM3bFNmMlhvQjQwUlVNMW9ZQmt0SU9EOHgwTFJHT0NSaFdINnBkWWNQSUJUS3dnVksybE0wZA?oc=5",
-        "date": "2026-07-13T09:42:58+00:00",
-        "source": "murciaeconomia.com"
+        "title": "Actualización de Google sobre spam de junio de 2026",
+        "description": "Actualización de Google sobre spam de junio de 2026 ALM Corp",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmhUeGxaRU43RVJzUC1ENzkxOEE2MHRTaXpSVmFvY3MyWi1pcTZzQXZKcEQ5R0lXRHgxa0ZyOXJTS3M3ay1UbFdFdm5BNTMtbmJSdU9TMmhKT1RQZzhESEd2SE9aYlprTUQwcWF4ME1SM3I1LWNDVTVHa1RyeTA4cFFURDZPX0V0SlVfTUd5NEhySG1iTmx4LXBIUUJPc3JwTUhBdkg3SE1LNUU?oc=5",
+        "date": "2026-07-09T15:00:00+00:00",
+        "source": "ALM Corp"
       },
       {
         "title": "Llega a Manizales el Bootcamp de Marketing Digital: 200 becas disponibles para impulsar habilidades",
@@ -112,13 +112,6 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Taco Bell pone inteligencia artificial en 890 locales: cómo afecta los empleos y la experiencia de los clientes",
-        "description": "Taco Bell pone inteligencia artificial en 890 locales: cómo afecta los empleos y la experiencia de los clientes Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWGhfS3MyYXR3V3Rmc09kVDFKMExYZlgxdGpRS2YyQThXdmJPYy1mNEk1UnQ4T0pCVTkyTlFYWUZHOFdUcWhwXzlsZzNIQmhMSjdTVlRGMVBKM3ZfSmdFcnEzaVdjbEk1NTlhRnlya1JhNm41Y1ZxZjVZaFA4a1hhM2VDRTl0eTlxTVA5YzlTWnE1SFdrYWFzRnNxZGE1R0tiYmZsdm9ZOTFLYWZVS0dBT211ZEFybGZVNlBqQlBjdmpBV1BjWWRmclBYRWRjaHJPRjZNVFlqel9McEEycnFDd3R3S3BqUXVRbXJyQUR6b1N2bG_SAY4CQVVfeXFMTlltYmNLR3JHYUlKT1lLX1JjR1NJSTN3Uzg5QlRCa2d6TGJQem00SkdNTWtDdlFWUFNDTE9MUUNsNHlsS2VnZnpJWEFwUVlWOUFzX3JaR3paeWxrem5wYTV5VWNxTE9PVEFDYm1POVI4aC1DWVY0Zk93VDVmXzk5bENFbVVHalltWDNxbENXcTNyM1FiTXdUQkNTUXd2UG5HTGFLRG5zR0hjSExlUTRrcmFOLTFWczJSTGlvQTZ5VWFKTUVxbXhSV3pOTGxXazg1NWVNdXpPTW9NSWY5MXZjNmE5MlFacVEwbzFza0RaMTZ4UVFMZGtST2hMQU15RVM0SWNuUXJiYUs2UlNMYzRB?oc=5",
-        "date": "2026-07-14T00:07:55+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Inteligencia Artificial y Estrecho de Ormuz: la agenda del poder global",
         "description": "Inteligencia Artificial y Estrecho de Ormuz: la agenda del poder global Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelZPNFQ2Q3l3TDI2RUlvMUFlQmE5MnBXMmtFNmJKNjJCaFRiWDZ2cU5BZHduUzVVbmtqd0E0bTdSQ1N1QUMyQ3F1b0tkckNWRUYwcEtieEQzUFJtQWRfbUFDSU9paGk0X0k1WHhsQU1sX2YwMEVqU1dPdU5hTWExSnNLMVJBNHRrMGpSeEVJWFNtVWZ5bk9Td3pYZDdDR1pQOVJwYjFPbVVyMWc?oc=5",
@@ -133,11 +126,11 @@
         "source": "La Nación"
       },
       {
-        "title": "Marcha atrás en Meta: eliminó una función que permitía a su inteligencia artificial editar las fotos de Instagram - TN",
-        "description": "Marcha atrás en Meta: eliminó una función que permitía a su inteligencia artificial editar las fotos de Instagram TN",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYk45ckxiXzNMeVZyOVdSUm5jdzNJN3RUM3RlenUwendlQWJOdkp5ckVJZWJjRExKVE1scVhWZEJsa0NzcDRRSWk4cWZtZmhpQlNlU3hBMTMxMUZqMmVRQmpvTklnMmN0WFRTME1JMUtfV3VKSDVRTV9ZMzA1UXdheFctSjNoaVlXU1pIM1Z0alpIYWh6dFVvWURPblNGT0lZOWVmMjRFYXNpTm5qa2xLWTB5VTN0VGJPMTNnQi1ZLVY0ZlBPdmluOC1Bdzh2ek9aWkdnUWxfbkZuVUxsVUtVaTc5OTBsLXlxOE1xbDBSUTE2bFhhNWfSAYoCQVVfeXFMUGVIN0VmRVd3UGUyUm00SUlOZlJTRkpKNVJTRzN6LWlIckhVWTNneWR0c2VTYzRodnVlNVNrdTQxZDVoQVRuN3R2UE5aR19IMmhLZG5McENpZFZ4b0VsVy16MUhVZm80Q0hXZ1VwNzJPVDluZ1NleFU4VU00S3dmcS1LMjdFNy1iU0FxbUJDc3htd18xWkVYbUs4VXJTX0RKR0Zydl81TkZ4Z29VeGY4Nkt4OV9iXzZFLUp0Q3BZQ0k2eXdPcVMwcjJWeVE0LVZEZlhNMUFtQWEwQkZucm1ONTJvS0taQS1LNmRYUzlaVTNRcmFOLVNqc0lRN242WlFVNXhFaDV5cmppZlE?oc=5",
-        "date": "2026-07-13T11:58:14+00:00",
-        "source": "TN"
+        "title": "Ecuador busca regular el uso de inteligencia artificial en la justicia con un proyecto que fija límites y sanciones",
+        "description": "Ecuador busca regular el uso de inteligencia artificial en la justicia con un proyecto que fija límites y sanciones Infobae",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRloxNVFPcjljU3U4SFVvWnB6OW5aYy1PMkR3MGlHNm1Gc0RGSWFnUHJYa0ZqaUt6dVFCd1Fqa3l6ckxZdzZ2bmlvOEtGQmtHYk96aFNzTTZ0VHg5bGMtd1ZDdGxkTnkwaUNFR1dtN3BOLUpQNUYwUjJJQk9NS2I2LXJnUzBLUy1RV3JUdXZXTmw0THA5Q1drMjQ0ZUI0TllOQS1HS3NndmhERGhTSE9jbkh1SGZkUUpzeHM5REFHNUlNaE1uZHB0cmpxcWFhZkJPYmticE1mRUtZYXJkYzBRTTBDZzJiZjFGMzVxdXpXNkkyNmtMLVhnR3BwTERHMERlYnRibNIBnwJBVV95cUxPYWZwWmdENkRPM0NMUE5rU2lXakZZX0kwblM4U0J2dWRpOHZtekNmV2pEVGotbF9QNmtvWU1MWEtZOHpnQnBDYzhpUGlRT2d3TVlzTzY0eFlYbWJ2WUVpZk1FcVhvZ2dDN243UjFBN2JUY0FicFNDbXhqOEJrNFMwejcxWnRXSGp0TTJPS3k1cHdydXl6SjdFakYyeWQ2WXBXRlRRRnhGd2lDSE53SVV2OG9zNFZrQWJVTUluUHFfcVdtc09USXFXTmw5cXk2bWw4RXRxLURmdGY5WDYxSlBlNGFBMUU4bmgwV0M4Rmp1LWxMQ2NLbjlwTlhmcXVLa2xSZG53RTd4b1Rfalc4eDl3cHZVQks5SlhaRHRMY0ZrNA?oc=5",
+        "date": "2026-07-13T14:25:49+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Una actriz creada con inteligencia artificial tendrá un protagónico en Hollywood",
@@ -145,6 +138,13 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZFpjamVIRTJnT3R6T0xUVkxzdi1RX3BjeDBzVVdhd09YVmI3LXlvb1Q4VW1sQW5wbXpBNzdta29DdUtsVzRYM2IyYnJBZmFnVXpLWFREQ0lQZlBESnJUTU5QRUdqb1hNVHN1Ui11U2pfaE1uNl9SRlRXaGxRamhRRUdLLWx4TXpVaW1JaE1JZHUwM05mSE4tV1BCWHRjdWtoZWdWSExKUGlvd0dFejVwN251dDhnRnBzZ2g1OFdUT1BFNXfSAcgBQVVfeXFMTkpWcWRtWDVmZUhmcHg5VlE4dkdsS3RLaExiYWlEdnExWGZ0Y1pSY2J3TE40cXotZGE4MEdmTTNlRTRscVM5YmNPV3U1YUFxM1ZLWU41YzRGZXZHZWR4TUFmS3d6UURxekpDX3dCcjNNSUVxS2llZnZjVkRxZWl1YTZscjJXTG5TSEJUaXgxWTE4RmV6dEdUVDc0aFdiRFVycEpmOEpzZGY2bGR2bi1IbEdITUE0U0RzNC1wM3JZS3FXRGswUEo1MFQ?oc=5",
         "date": "2026-07-13T18:30:00+00:00",
         "source": "Perfil"
+      },
+      {
+        "title": "Marcha atrás en Meta: eliminó una función que permitía a su inteligencia artificial editar las fotos de Instagram - TN",
+        "description": "Marcha atrás en Meta: eliminó una función que permitía a su inteligencia artificial editar las fotos de Instagram TN",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYk45ckxiXzNMeVZyOVdSUm5jdzNJN3RUM3RlenUwendlQWJOdkp5ckVJZWJjRExKVE1scVhWZEJsa0NzcDRRSWk4cWZtZmhpQlNlU3hBMTMxMUZqMmVRQmpvTklnMmN0WFRTME1JMUtfV3VKSDVRTV9ZMzA1UXdheFctSjNoaVlXU1pIM1Z0alpIYWh6dFVvWURPblNGT0lZOWVmMjRFYXNpTm5qa2xLWTB5VTN0VGJPMTNnQi1ZLVY0ZlBPdmluOC1Bdzh2ek9aWkdnUWxfbkZuVUxsVUtVaTc5OTBsLXlxOE1xbDBSUTE2bFhhNWfSAYoCQVVfeXFMUGVIN0VmRVd3UGUyUm00SUlOZlJTRkpKNVJTRzN6LWlIckhVWTNneWR0c2VTYzRodnVlNVNrdTQxZDVoQVRuN3R2UE5aR19IMmhLZG5McENpZFZ4b0VsVy16MUhVZm80Q0hXZ1VwNzJPVDluZ1NleFU4VU00S3dmcS1LMjdFNy1iU0FxbUJDc3htd18xWkVYbUs4VXJTX0RKR0Zydl81TkZ4Z29VeGY4Nkt4OV9iXzZFLUp0Q3BZQ0k2eXdPcVMwcjJWeVE0LVZEZlhNMUFtQWEwQkZucm1ONTJvS0taQS1LNmRYUzlaVTNRcmFOLVNqc0lRN242WlFVNXhFaDV5cmppZlE?oc=5",
+        "date": "2026-07-13T11:58:14+00:00",
+        "source": "TN"
       },
       {
         "title": "Es muy probable que estés entrenando un modelo de inteligencia artificial sin saberlo",
@@ -155,41 +155,6 @@
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Un pozo récord de Phoenix en Río Negro reescribe el mapa de Vaca Muerta y corre la frontera al este",
-        "description": "Un pozo récord de Phoenix en Río Negro reescribe el mapa de Vaca Muerta y corre la frontera al este Vaca Muerta News",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTDN1X0N6U1RiMjhtNHJobFNSeE9SbHltb09tNFZsUGxPbVZBVlhGbGx0NHFTVTNjTnN2UkhPSjNaVmVOYVptM1l5Yi1Ob1Y4eXlMeE5VdWR1c0N1YTNob0NPZl90VXJxV2RGeTZid0lQc2FYLXM4aDIxdnZMa3MwN1RjbnZhanhhNkZ2WkxVbnU5blJUaUg1SDdpNUhHN0V4aU5zbnJYb0pMY0MtQ2RaYUlVMGpCOVVUT296bG1MT1FqaVFwbzJIdUxXR2FUSmpKOUpkMHNlWXc?oc=5",
-        "date": "2026-07-12T23:18:39+00:00",
-        "source": "Vaca Muerta News"
-      },
-      {
-        "title": "YPF licita un negocio clave en Vaca Muerta y se le abre otra chance a Techint tras su último traspié",
-        "description": "YPF licita un negocio clave en Vaca Muerta y se le abre otra chance a Techint tras su último traspié Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRWVTOUFVRURZOWJud3ZSSVB4SGEybXRPRVpYLUxpMHVzWi1IekhzTXBIU0xmS1FpTks4SEIyaDlHTGEwbnJ1ZC01N0Q1VHVUOGFQR25OVjRtQmh4NE1LdmFPY3V4NDYxUVlrdmhNZUNmczhLS1owUVhUWmpkMFdnZ05KNlg2MFhIaWpOM1c3c2ZYdnJhUFpyQXpPczhsRTc5UFFpWW9VSDdCRUJGSVVoSFNISU11YnIxd3pmMXlSNlZ2c3BDeXBUZVNB?oc=5",
-        "date": "2026-07-11T09:01:28+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Los negocios de Jorge Mas, dueño de Inter Miami, que desplazó a Rocca en una obra para Vaca Muerta",
-        "description": "Los negocios de Jorge Mas, dueño de Inter Miami, que desplazó a Rocca en una obra para Vaca Muerta Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVE1hVS0wanNnMXctbzJNQnpZS2tzb0M3TTNrLVlrbHNybnpFTXlrRnF2SjQzcTE4SkE5b0JSd21tZ2Q5UTFpMmdzT0FZRGZ3NVVKRDJqRzdkVnFuWkpCR3NVTGM3ajV1SHVjOE42TlZYbkloSDdDZ1BPeFo0NHZ0dENqSTBzSFRWb2NuN0RSQktwdk9MUWlPbGN3cnU0bC1iY3BIZjRsUXVUOHBjUG9qcTI4eGExcUMxX1I1Z0FER0VpMllhbXc5c3BkNko4QkxBV0JNNkdoYlJianVZSy1OM2lVTFF2SVZOZjZWZWsyazRRUlJLM2NReHR30gH_AUFVX3lxTE5jREM3NHdXQW5sdWdTYVlLS0pkZFIxVEVXTEwwdTNid3BIa1Nla2huNG4yX04zWDM5T0JNTFVrWGlrSkhvc3hId1pndTB4bm9kLXNMbTh2ZkxuM3c2RUpnVEhwUVJacV8yZGZnZTlabzZSaGZpcWxoNFlSUHFCcHM0MUNuX2N6d2dYZlh3VUZDREdBQ045NVdaNjl0c2w1WlhuVjdfeV9aallFLU9sYld1NUVjamtWLVZjb283UU9rNjN6WHNKeTdkSXVUZ0RFdEgyN3R6QkkwMG90Y2NDYWljZU1pT3g2Ul85Ri15aTlrT0ZCMU9oZ3dGSjJOei0zNA?oc=5",
-        "date": "2026-07-11T03:25:22+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Pumpco ganó la millonaria obra del gasoducto de Vaca Muerta y Techint quedó afuera",
-        "description": "Pumpco ganó la millonaria obra del gasoducto de Vaca Muerta y Techint quedó afuera iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa3B2VHZtT19mTVNNWDhjd2xWZk5yZVIxVWVMbFVGSm5HVzhET3pic0VRdGlkMzNsRGxZWEtCSHRXVGtpWFFueWdqMU5YVnpTZld3WXh2ZVcxN2ZZOVotZFk4SVIteWtBN1ZqUEJRMkk1bW1FMHcwYnlWMWw3QzlCVnBzMW4yakdRVnZwMkdGWVRURmtvbGFmVHlHU2xUUnpBY3lnWnBRV2hKMDUycEtaNkh5VTlVenAtckFTNnVwb1o1bVV6TWdWcDh5N0h1VXFTNl9F0gHLAUFVX3lxTE0wSUU0VjRCOG4zVjIzSGswNTFLemg3eElYMXhKNlU5MGJScmxobWJLT1hFN2xBdi0ycVRfcjdWQkViMU5NRHlvd0F1U2JncUQwWFFGMVhpYlJIQ3l6OWZka0xaalNKUWJ6TVg3UjR2ZjJOX3dQZnJCS1lweHJkb1k4NVBZdEJNSGltVUVYdU82XzltTGtUdHFqcVh4UGJlU3l6WEZzalY5NVlZSUE4WlJZWW9NN1BQMDdvcVFWX1dsSm5HQ05KcVNTNi1F?oc=5",
-        "date": "2026-07-10T14:32:00+00:00",
-        "source": "iProfesional"
-      },
-      {
-        "title": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza Diego Canalis desde El Colorado, en el sur provincial",
-        "description": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza Diego Canalis desde El Colorado, en el sur provincial Bichos de Campo",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzgzT1NCMUhnY0VUOGdCazNhNUx6YnBad0NzMFhHSlI5OWJnamh4Y1RWV0Vkc3YtOVBiZzdRYTVZa1ZhOFRMUzlPeGNTVHdTT21RNTExckpTR3pPUXBPVmNHaUlnbzRoLW5PR0YxbzE2ODE5Y05Nd2d1Vk1SRmJNc2NiNEdUeFZ0SnVVZnR0VUVUaW5yRnc4U2RnbW0xakh5UTFYd0twUzlmeFRyRjE4MEJXaXJfRDNVNmVPVzFyTzBJeTZjd2ozQmdqRTNvWkVXR2ZkMzRMcTlrVWFQMXFKTnZZN1VWclhPVzM5SQ?oc=5",
-        "date": "2026-07-13T20:49:15+00:00",
-        "source": "Bichos de Campo"
-      },
       {
         "title": "Vaca Muerta: la grieta que no existe y la oportunidad que la Argentina no puede desperdiciar",
         "description": "Vaca Muerta: la grieta que no existe y la oportunidad que la Argentina no puede desperdiciar Infobae",
@@ -203,6 +168,41 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUh5anpBME1zeEhvTk1pM2RITXBRX2tGbEJTQ3F6d0NxZG8wYk5nSXFmb0xUOTI2dkdzY2JweDVzWWFqN1h4aS1DcmMxX3RUa045NWtuQm9WZ1V4WC02WU9uX0syajJHdmNsOEdiTVdaVHJOS1g5aC05RGtGVnFCaEFVd1d1d0ZrWXN5TUNBVFI2RlUtN3BjRjFPZFkxZWtnTHA4b212N2JVWHQ3a1gtdmxYR0ZSdVnSAbwBQVVfeXFMTXRGUUpvX2hQZktJQTBObk5LSnNsSGNPdGsxUExwUXViaDNtaXhmZkpwQ1ZJRzN6c1FGZDd3bGpVRkZHaVdzMDFmR2JLRUpwZWhRbGVyallpYUpCY2FlbHkycXFlOGN1YzlWMktmdmtYekZ6UHI4WG1FVkIzUE1ER0VDVGJ3cmFLWkN2TXZBMEl2LVgweTdIWVE3OXBBMGRGODFMR0htS1dhWkJGSzJwbzJ1blN1VkdFUkdUUGo?oc=5",
         "date": "2026-07-13T14:11:15+00:00",
         "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta, entre récords de producción y el alerta por el precio del petróleo",
+        "description": "Vaca Muerta, entre récords de producción y el alerta por el precio del petróleo Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME5tc3lYQ2dMZkVndjdBSHZkUXFaYjhHUUJJZ0FfUUNXQ25nS1ljeUxKX3cwczhOVm14b0RleXJIbVRmWGp1bUdxS3F3UWw0bi1VOXNSYWdySlJOQTdES0JiSm1JUVlXcXVicm1xWjdtWmsza0ZtbDk4d3pnOHhIZ1BrVmRjb0g3ZGRSX1Z3cmo3bElEcVNHNDYxakkxdFQ5aHVOZ3RqcDY?oc=5",
+        "date": "2026-07-11T17:21:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Otra paradoja argentina: Vaca Muerta bate récords, pero la mitad del país se percibe de clase baja",
+        "description": "Otra paradoja argentina: Vaca Muerta bate récords, pero la mitad del país se percibe de clase baja Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcllfb1FnYkRtRl8zUzBSWGN2R25iSzRoVi1YUDFnYlhPemJMd1MzeUgtaUN0eVQ3Sm90NlQ0bE5hNHpUM1pLMkJrdGUyc0NpX3RuUlFuWXU5S2hrMW5LNHAzel9BUXVueUlzVXM5MXFhR25GMjBlOXVKeERUVzBWdlpNTUxBN21oUXZNcnItWFFXYVV2Zy05VlllZnpDM3NNUW5VdmliQmVmeVRwVHVrWmNQXzU1QWdiQTJwLXdKZU4xalNTVEJ0R0hVSnpicUcybDRkd180aGtqWHR0NEZVT9IB5gFBVV95cUxPR1l3MUdfM3JxUEpTV2dsNmx1MHVXSzdSSnhzUFJWRHBkeThxbjZIdEd4WmlsVVRYeVZyb08yRldkRWRrVmhiMHJIdHhwTDlZdndPZ0M4d1JsQXZzRFhJWXo5c3FGb3dtSGZQVWtNQ1RWd3N5VXhSaGYxdXVKbHQyS0NwRmthaDl5dXY3d003dkcxTHg4LWtVOC1SY3VvRWREalFicGZFMXI5Ny1fZ3hCU1NVXzFuYWNGT3J5MEtLenpJSl9tX0hkaHFUNV9oZXNxZl9OazVIVFB0NFlxcGpjRG84YXZ6UQ?oc=5",
+        "date": "2026-07-13T16:11:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Vaca Muerta: los primeros egresados del IVM ya salen al mercado",
+        "description": "Vaca Muerta: los primeros egresados del IVM ya salen al mercado Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3FkbXVpbzlXeVVXeHBXQjlKS2dCZHRnUXgxTUhCdDVhTnotbzdJYklPV3RmUnA5czZlVm93NlNDYUQzYUg1ZzN4cmViTjRHX3Jvem05QWdrS1JwcU9TekRBQ3RwQ1RZUnYwS0I3a1JLNjFtX2FZeVVwTzhSc2pRY0hMbnZENlZOQXdmazhRZGZxZmtWeWdPY0ZrcWxzTC1CZkNlOU9jdHNYMXFydF9v0gG0AUFVX3lxTFBDSFlxTnNySlpzeDk2QTI4Uk5jQk1udjZmc25ENGIzWi1VeGNLYW0teUxWTENmbnVFZnp4TlV2T3FCcm1iQU5uTFJMRU9NQTZ3SlJCb3NDM3g5c01zNDFSMHY0d09LZ1hvb05fTzR1QmFMdjh1UUxwZlFQcVp6ZzVxbFIyanEyVks3SldtbWdOYVgtZUE4NFBTVy1MeFdtbDlvVVFGV0RSQjc1eFZUdFN4ajRwcg?oc=5",
+        "date": "2026-07-13T11:35:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Neuquén: familias de Valentina Norte Rural cortan la Bajada de Maida por gas natural",
+        "description": "Neuquén: familias de Valentina Norte Rural cortan la Bajada de Maida por gas natural La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWE2alVZeWNnMzU4bnRPNHYxVHVfblphenVhLXktUE5vUTQ0OExkU0kxV0RkNmdVejl6S0xGWVFyQm80TGVVaTZ5ZDllTTlFZ0pjTUp2REVRb1NJTklLcGh6bE1RY29nSDFULXpiWkdXZkhCN1JSVWVwWVhUcENWWGNydXhVbThlWUJXSTZNRzVrRzl6TFBQZldrYThaVDJyRGdidThOTlRpNmtGZFd5WHZUVjlNcDdH0gHAAUFVX3lxTE1yRzlfSVhmNHFCem5zU0daYWZBZGJFQ1ZPYmtwTTN0NEJVREZ2OXlVd0NId3RkeFo4M1VvY1kwMzhCWjI3cUZOTGd1d05DZXdlcllSWk5NWlZNNW9Ga2ZuMTh2cDMtWGtlbXdaQ01KOUpLbERERlNkdjVlSkp6NnppZTA4RXVpd0JDbWRPTXBZSXYzMGI3Mk5KRVZ2NXR0UWFmQ0xyQV9mQUgzdE4xQ0xTOEdmdUFid1pMM0d2cGp5MQ?oc=5",
+        "date": "2026-07-13T17:20:29+00:00",
+        "source": "La Izquierda Diario"
+      },
+      {
+        "title": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza Diego Canalis desde El Colorado, en el sur provincial",
+        "description": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza Diego Canalis desde El Colorado, en el sur provincial Bichos de Campo",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzgzT1NCMUhnY0VUOGdCazNhNUx6YnBad0NzMFhHSlI5OWJnamh4Y1RWV0Vkc3YtOVBiZzdRYTVZa1ZhOFRMUzlPeGNTVHdTT21RNTExckpTR3pPUXBPVmNHaUlnbzRoLW5PR0YxbzE2ODE5Y05Nd2d1Vk1SRmJNc2NiNEdUeFZ0SnVVZnR0VUVUaW5yRnc4U2RnbW0xakh5UTFYd0twUzlmeFRyRjE4MEJXaXJfRDNVNmVPVzFyTzBJeTZjd2ozQmdqRTNvWkVXR2ZkMzRMcTlrVWFQMXFKTnZZN1VWclhPVzM5SQ?oc=5",
+        "date": "2026-07-13T20:49:15+00:00",
+        "source": "Bichos de Campo"
       }
     ]
   }
