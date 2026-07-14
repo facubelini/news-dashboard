@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T22:52:45Z",
+  "updated_at": "2026-07-14T23:47:59Z",
   "categories": {
     "Microsoft": [
       {
@@ -24,11 +24,25 @@
         "source": "3djuegos.com"
       },
       {
-        "title": "Portaltic.-Microsoft rediseña el buscador de Windows para que muestre resultados más precisos, relevantes y sin anuncios",
-        "description": "Portaltic.-Microsoft rediseña el buscador de Windows para que muestre resultados más precisos, relevantes y sin anuncios Notimérica",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNanZScnk3U095ZnY2SU1FWk55SVVmNTNCZC1SZlNJb05lalNtejNTMEpiaWpVSHo4VFRzRVdRNVc0UTVnM3M0U2pIeXhDNWtNVW85UFZETm1HMExfTVAyV0lCUEx3bWpfNGIxbXlhT2w5UEw5LWx0d05JSWJnX2NhVEg5WE5LakFRU0RUWjV3U0lHX0dPeVJyTndQZy1mekxMOEJfck1SS3ExNF9IRlNoR08wREV0TzlPcjQweEFWSWU0Nm9wV19aYk5NUEkxbkhNWGt0SjNmbXBJY2dWTDZzOHJfbFdxR0l0amVCaUNVQ2h1Zl94cU12a3hHWDc4VERB?oc=5",
-        "date": "2026-07-14T13:45:00+00:00",
-        "source": "Notimérica"
+        "title": "Microsoft llena de mejoras una de las funciones más usadas en Windows 11",
+        "description": "Microsoft llena de mejoras una de las funciones más usadas en Windows 11 bloglenovo.es",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41bVVwbHduYUFEMFF6SnBJZWNnSFVHQlFvaUxGSkZheUQybXFPeU9qb01lT3F6aFVTUFM4N3d0Y2kxX01PWnZKUUh4U25SUDVCd0JOTkw4UkQwQkx0Ukx1NEp0OGlOaEktLVNzVHJibw?oc=5",
+        "date": "2026-07-14T15:29:36+00:00",
+        "source": "bloglenovo.es"
+      },
+      {
+        "title": "Microsoft finalmente está arreglando lo peor de Windows Search",
+        "description": "Microsoft finalmente está arreglando lo peor de Windows Search Digital Trends Español",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkRNQUZBeGpvRFZWZTR4ZWJDLTFHNmdadVFVRktKR3dlUGF0WnhPdnViZk9YRUZIalFISHczdzZKZWtMT2NSdlJlNkZVMXN0REtWNHBKR29lVmpWck44UE5QeHhtVUNpZk9yRm1hek5iejJ6VG9QbjEzRlFpX0l5TWZ3TXEtTzdTSTBlajhRUDAzMXpSOWlXMHY4TnFCT2c2Uy1XUHVCejI?oc=5",
+        "date": "2026-07-14T15:44:49+00:00",
+        "source": "Digital Trends Español"
+      },
+      {
+        "title": "Microsoft prueba una búsqueda de Windows 11 más limpia, sin anuncios ni recomendaciones innecesarias",
+        "description": "Microsoft prueba una búsqueda de Windows 11 más limpia, sin anuncios ni recomendaciones innecesarias Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejRwOVQtNVpncE9Ua3g2cDdhOVpYTG9TVXJsYjRMWldGYTVBRWY1QkpsQ2VrX2FGbWFNRHFhTE1sd0RkbkVhaHNibWo3a3FjQmMzdG9hT0NXRm5TY1J0a1ZQdVJjMmd5T0hyZmplaWxQSlhtaEh2UkNVbENXdHRmcnlaUHZqOUhkUXJpdlpQa2Iya2plaFh5SHNHSGs5VENIZ3lNUkwyVVpBbmlscWh6Mk9XLXFzcElnMFc1RklONlVncWJVYmx4RFh5c0FEM0hHZFZSaWR3RmowNFkyRWfSAeMBQVVfeXFMTTV3X1JvdktuR3EtQTkwQ0llS1RxTHhKeUQ1c3lRTGxWaXJlYWUxU0h2bU1ianBtdW1IV2J2Z0NXTXlUcS0tNktMNDNvNkFXak9DMl9TN0lPUlZpTlAxNm9pdndmd1g0eG1kWUNfc2hEYjhwbDFXN3lmZFFNVlJjbFpjSmR5ZURnR1cyQVIyNjV4ZDBycEF0UWdfTFZCdkhxWnoxYlYtRHhyRTVfQ01GYS1oUXpzQ0RXV0pTZ1hVbERka3llcUxsV0VMTkVTQlc2cEFUOUx4S2RNdDJIeDAyX29ZMU0?oc=5",
+        "date": "2026-07-14T09:30:55+00:00",
+        "source": "Profesional Review"
       },
       {
         "title": "Un servidor mal configurado destapa tres campañas de phishing que burlan el acceso a Microsoft 365",
@@ -36,20 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRFRSRDg1WldWNWJrUElFdThRTzlIS0NjdDVBVjNVWUg5SVNOYUZJYlpQcU5ubEJrTmgzcFRIUjZ0MXhRUWh0aVU5X0tfbUtJaFg1RV8tZ25TZmRnUnpUQVJTMTlTekVIY2ZEbVRpbkJ4ZS1PLVpqZ2JabHFmczdxWEh2VHhuOENnd0VqaTl5OFp5aDFaYWtqRkkyQ2NVLTBndGVFMTR0cmh2Z1VLZ3BwV2FxLUZ3Z2xpM0lZOVBzdUpyQ2ZKY1I2d9IBzgFBVV95cUxPUExtR1JDZHFoX2RyLUt4Umpiems5U3NMSlhBb3dwbWxnUEUyLVlTUUZtYWFzSjIzQ085LURlaGtkdmE3RGRFQjFmazd5X0FMRWVjMW10QlVqUV9iLUNCa2VfTF9TS094dVBzRVlPWENURlFuXy1FTl82UlNlQ05DXzVtQXpkazVGYVFOSFBOdzRSZW5tZEZWbGU5cVpJR2t3TjBLWko3aGZzU1BhWERveFlPOUxXOW5Vc2ZYWkV0MmdWM2tWdWs5cTBrWnhzZw?oc=5",
         "date": "2026-07-13T12:18:43+00:00",
         "source": "Una Al Día"
-      },
-      {
-        "title": "Microsoft desafía resistencias bajo la nube Ichimoku: Niveles en vivo",
-        "description": "Microsoft desafía resistencias bajo la nube Ichimoku: Niveles en vivo Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDNoTjlwbzhMaE5fMnNOb09jQlZBVEJVblg3NTNpQldBZXhjVDJSVzJSd0tMREJXVExCaHFjY0xaSXNXWWF3VkFTY0hhQjc0aVkwWDB3YUZqdjNjUGxZVUpBdGU5UF9qX0FmRlBYMVFkdzBybkRxYk5Sb3p4aDlEY2dmSjM1cDk1WVVWSGNEcEdOWjE3MUpfN19JaDFwMV84Qkw0Q2pvQ1I3eWpzbGxvcVctOWZOV1ItWTFSb0xR?oc=5",
-        "date": "2026-07-13T14:05:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
-        "title": "Microsoft llena de mejoras una de las funciones más usadas en Windows 11",
-        "description": "Microsoft llena de mejoras una de las funciones más usadas en Windows 11 bloglenovo.es",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41bVVwbHduYUFEMFF6SnBJZWNnSFVHQlFvaUxGSkZheUQybXFPeU9qb01lT3F6aFVTUFM4N3d0Y2kxX01PWnZKUUh4U25SUDVCd0JOTkw4UkQwQkx0Ukx1NEp0OGlOaEktLVNzVHJibw?oc=5",
-        "date": "2026-07-14T15:29:36+00:00",
-        "source": "bloglenovo.es"
       }
     ],
     "Marketing": [
@@ -96,11 +96,11 @@
         "source": "El Observador"
       },
       {
-        "title": "Colmena Digital destaca el rol de los creadores de contenido en la evolución del marketing en los IAB MIXX 2026",
-        "description": "Colmena Digital destaca el rol de los creadores de contenido en la evolución del marketing en los IAB MIXX 2026 Mercado Negro",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbUEwQk1WY0paWXlyXzJXdVZNR0FPWFRQbFo0OVZNU1ZyZWxJdnM1M2dPZ1lyLTFiSmxUMEVXbnJiZVNfUTB4ZFAtZVJtWTNHOWR3dkUzNXNvSmRiVmZUczBPazBGa1pORC10Tmt4dXZjUGhBOU1RT1YwMXBmdU43Rmc1blpRZFY2em5IQ202X2l3Xy1vR1NrQ1NxYkpyek1oSWprRjdwY2pSdGYzcFRhbVB1WUx5cDJjaHd1WnF4QjlrcUl0dmlmdkZhaC01dWVEOGI0N1ZjOTNEVnp6QmVPa3ZRMTZlZw?oc=5",
-        "date": "2026-07-14T17:46:08+00:00",
-        "source": "Mercado Negro"
+        "title": "Inscriben para capacitación gratuita del sector turístico",
+        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
+        "date": "2026-05-27T07:00:00+00:00",
+        "source": "Neuquen Informa"
       }
     ],
     "IA": [
@@ -119,13 +119,6 @@
         "source": "Infobae"
       },
       {
-        "title": "Apple demanda OpenAI por robo de secretos tecnológicos",
-        "description": "Apple demanda OpenAI por robo de secretos tecnológicos Página|12",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOODRqOVlTd3lvcElrV0RIRFUxbk1LendvVm9vTUtaYmlueHhqZ1FUdHJDZmZOdjJwXzQyQktHUllXcDJwckZsc3NUcF95bS1VaUFleUNnMzdJQTUyMHZOOXE0eEFyN2NORGg1Z2VLclFpSVl5QlNDT1RlV3hUUksxTjFBREUxdmhDMnlpbXFwcEZLSUFoNENIa3F3?oc=5",
-        "date": "2026-07-14T21:25:42+00:00",
-        "source": "Página|12"
-      },
-      {
         "title": "Waze se actualiza: más interacción con inteligencia artificial y cómo es el \"modo moto\"",
         "description": "Waze se actualiza: más interacción con inteligencia artificial y cómo es el \"modo moto\" Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnlaSVZqZmpUQkxXSDJUTDdiT0xFcC1UTXJYYmRyQXFSOUhrakZpQjR0RmpLYjdPd3RqcFNqQmx1U0xKUmh0eTNKRGFSNUtOUjRZb0h5V0VPNnkwMG44R0NJLTc4ZVZVem9qc0U1N0JFbG5qNTBGNlFqZld2TzlFU0JHQlp1RVM1VVk1eTRqUjc1QkQ5VUtaOU5LLVFGMlkxS1IxSVkyb3UwNDTSAbABQVVfeXFMTk9uYXRVVktnMl93LTd6YnZSUjBHUnRSOGcxR2QwT1JNN0JoX3lGbHVrUDlMQVFXS2FnQVRXSG9NSHFORjVJWU93dXVjQlB1WHQtcTNjZ0VDU253SHdBQnBKeEJoQ1l2bmJkaFE4cjUwTHdWZHBaYlFzRGZZOXA1RVZveGt4dHh6NUF0bnBsbG9obnlLbVJ0YnRYN0llN05oNDRjbFMtYUtaVmFqUlJyT0E?oc=5",
@@ -133,28 +126,42 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Un estudio argentino ganó un premio en Cannes con una pieza hecha íntegramente con inteligencia artificial",
-        "description": "Un estudio argentino ganó un premio en Cannes con una pieza hecha íntegramente con inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMTlvT05tZ1JFSUx1Q1RLak5uYUZYS0VWMG50YkJUYzdodm1wUTJzSmZJaEg1R1hyN0hLcDE2QTIzX1J5WTg4eFA4cGFyamVZTkhPNUJYSVE2N09rbkhFcU5CWDRMZmFSa1pBNGVfSm9VZ05kTDBzZmtaS0ozNzl6SmNaM0JrakI3WHNxOUdvMlZKc0hGc0hWNW5JOEFRcTRCRm5YaDM0d2RfNTRaVE1uZmJNUU9TbVRZN0MzMlVJME50UHlNUHEwRjYxX3RvbUFOVS1SdmVrZ25VeEZ6TV91Vg?oc=5",
-        "date": "2026-07-14T16:58:00+00:00",
-        "source": "La Nación"
+        "title": "Así será el resultado entre España y Francia, según la inteligencia artificial",
+        "description": "Así será el resultado entre España y Francia, según la inteligencia artificial TyC Sports",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmhYNUYxS0cwUFhwOGhmcWhhelZsOERNY1pOTVNRSlNBQnZ3elFRUGxwTDNacXZNRjY3ZnBjanhzTXktM2JWM3pZQ0ZDYkF6SkxDcXk1T29tWGJpUklmSVA2eWZKamc2RXRHclRNUkNscURHLUV4Z1NkZXhRbUt3UnFhbGJxU0hhQ3ljclhPNVN1RVVZSG5DRmxxZ19TekNSRERCRFRxZHVGcXRjR2RuamdpSXZXemp4b1NKaXN5QVRqdw?oc=5",
+        "date": "2026-07-14T13:07:19+00:00",
+        "source": "TyC Sports"
       },
       {
-        "title": "El mal uso de la inteligencia artificial está matando al arte",
-        "description": "El mal uso de la inteligencia artificial está matando al arte Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTNlYmxqSDdzd05CUmtRNnhHd0VOeC1GdHVEb2Z0YXdqaV94dzB3empucG9IVnpYSWNxOFFsYlljdXVwd2J1MzlXb2JiRWJKck0yVGxGSkpndFZXNUd5N1I4Sm8xaFZwVFozanlXeHR3cnlIbEhxMGtJX0l6dkJKa0VFaUhYNjVIUEQ3a2FpUENXeU5vb3phM2EwUHotNlhSQ0hqSmxhQlVWLTA?oc=5",
-        "date": "2026-07-14T19:51:25+00:00",
-        "source": "Perfil"
+        "title": "Quién ganará el España - Francia según la Inteligencia Artificial",
+        "description": "Quién ganará el España - Francia según la Inteligencia Artificial El Debate",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNUpmaFo0OFZNWktDN2RuVC16OXFMLVgweFFYNlNvLVQxbEM4b1MtSWE4U0xqTG9ydjk3QS1ZUlZtRDE3UnlZbmpnaUZWUGJGZUdFR0dfbXdjbi12MUZqcF9UN3lFM3BkN3RuNWhhNFgxbGFpMjJ2Y0VtMG1ycWotcm9xaXJSbTFKWk9mTWNNTGRLc0sxM3R2QkdHa0NKdElCODFUUXVlbUF2dDlFcGxWYnQ1Z0o1Q29Td3hfcHpWWU5yWk1QUXRJbUlJRlZWLUQ4dEHSAdcBQVVfeXFMTWgwWERuN05ZUC1EZWk1ZGJDeG9MTkc4al9wRG9ody1Ha0VoNmdaYzR6N0lyakJlSUNVNURZS3ZTcU5ZdEd5YUx2QkdjWGtOZl9LR3dRWGJYSEZabVRyZ29sRWlZSXpMTmdfWjl5ZVR3aF9qZFV0SVktZUNjQnBlbVZ1dThoWC1PNnFCR1RjZl9nWmxBTFpMcDU5S1I3WEhhbE5NZEQ5bHNHMHctOHRHSlRULUdIYzQtOXZSUTQxRUVOU3NVN0l4YlZSdG9PWnl5Y3I1Z2JUTXc?oc=5",
+        "date": "2026-07-13T10:59:41+00:00",
+        "source": "El Debate"
       },
       {
-        "title": "Río Cuarto: lanzan una capacitación gratuita en Inteligencia Artificial para docentes de secundaria",
-        "description": "Río Cuarto: lanzan una capacitación gratuita en Inteligencia Artificial para docentes de secundaria La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzB5bGJCUUE5el9KVmJwLWNVX0ZiR3J4Q1VRR1ptbFc4X1VGUk5oSmtPc000cXRTdWV4VnlXVmVHQlpJNG11SWZNelJpTENaUnh6anYwNFBSQ3Y3cHhDaGpxVjl2dktKUHZVcDg2cWtaVXI3QmRNM1ZRYmtLWnBkTTZiRTR2elFSNVFuU1RCOWtTcG1WbGZmTDNyQ0xPdV9tMGx3RnBuV0ZRRmc3Y01lek0yVm9jRTVOYmxwOUpYVHh0UHFoQmVxQlQ0U1RCSnFvSEE?oc=5",
-        "date": "2026-07-14T17:11:55+00:00",
-        "source": "La Voz del Interior"
+        "title": "Cómo se vería Mbappé en la Copa Mundial si fuera argentino, según la IA",
+        "description": "Cómo se vería Mbappé en la Copa Mundial si fuera argentino, según la IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFNjc1htSXBrMVlhRlhlbkFwaGdPdVkxcWZPaTdDcUUyV0ctbzVJX3BzVERGY0kwU0FkVERQWmlxbEFtSjJxa1B5emJSckVPZHZvNTdxdy1ubTdDVVlsWG9GbUpzOHh0blIxa3lFb1ZyWmJwcjVhUDFyRXp2Q1p6dzlIeXdrYkRVTFp5MEY5SnJPY202SWV6ODg3TTNGblRfTjFFaS1hMTFYZmZQTER5WFB30gHMAUFVX3lxTE5BVlFFNlBja2poRDVBWFF1bHRTeXBVYm9waThJWGl2U19PSFo5SGNfQnFuVXhsOEwzb2twX2RLNFQ5WHlNU0Jkb09wdkJrTXVoalVGRE5fTS04RHE5b25Fak5HR1hUS1VnZnBfYTBabXB4NUFXSk1LaHdCVl9abWxUYVdHMDd5ZV9UTXA5djFjZmRDOHlhVHFWOGNvRy1ra1ZjalZ4bE5BNUprMWgxOFM5djk5N0NFYjNESWF2QkJDX2xqRjMzTGsxM0VLVA?oc=5",
+        "date": "2026-07-14T22:04:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Provincia ya tiene reglas para la inteligencia artificial en la administración pública",
+        "description": "Provincia ya tiene reglas para la inteligencia artificial en la administración pública La Tecla",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM25CMzM1ZTN3SEROSGRuUkNJRnJGSWNWeE96dHQ0a25vbUc1N2pJcjMzTWE3RzNacHgzTkpyNWpLNjZPTy03Y1FveWY5RmpRbXVvUTNYWmxCc0diZjA1dy1VR21faEtLMXNCbVY3N1VWVnBvNUJGdmo0M2huOWlOb09na1JLbXl2U29NTUZKenNYdTBMOUszZ3BldVpxdEZ4bXhRay0xX3dGWk41ZERvMnRvUk9uNmk2OHc?oc=5",
+        "date": "2026-07-14T10:44:05+00:00",
+        "source": "La Tecla"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Pozos en Vaca Muerta: qué empresas lideran la perforación y cuántos equipos operan",
+        "description": "Pozos en Vaca Muerta: qué empresas lideran la perforación y cuántos equipos operan Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMHMzWF9jazktUWczSnR6MmF2SzFmU19LWTZuNlhMTWNOTEtsbUtIM1FhdXNPcS1SdDR2cmZIRnQ2Y05tZGNNa2UtSVFib3YxdGJWVnl3UVJuazZmdV9iTGJCVVk5TFU4ckxxWU02M0lhX29ZWEFqRXE1clctNEk2T0M3V3hxUExBOWFVR0ZfbjBILVZmRzRjU01odWpIeWhTSU4zdGc2eFJvTTF0QXUwTlQ1Mi1JSks2QVhjZkRqbUxFTzE30gHKAUFVX3lxTE9wZTFHT2tPdmdZNkVpNTV5bjRBS0lLaEM4NVdTNU9fdzFiZV9WeWNoM25HTzlNaWd1VUdyem9vUXNjRnBqc3FmTmp2MmcyZkQ3SmhzNDFLVG5Td01hTEhVMldwMjlpR2JTaWwwemRaMHhQOWdMcWY5c1p0RkIwajJxU0hiR2VNN2Frbm9mLWZjOUF3Ri1aTkRsVm4wYUdobFFBQjVWNjZENzJkazBtTzg4Sl9SV1c0RmFZTDdoWXNqRWdrUDlUcVk1UWc?oc=5",
+        "date": "2026-07-14T13:00:00+00:00",
+        "source": "Lmneuquen.com"
+      },
       {
         "title": "Un pozo récord de Phoenix en Río Negro reescribe el mapa de Vaca Muerta y corre la frontera al este",
         "description": "Un pozo récord de Phoenix en Río Negro reescribe el mapa de Vaca Muerta y corre la frontera al este Vaca Muerta News",
@@ -163,18 +170,18 @@
         "source": "Vaca Muerta News"
       },
       {
-        "title": "Continental Resources negocia la adquisición de los activos de Phoenix Global Resources en Vaca Muerta",
-        "description": "Continental Resources negocia la adquisición de los activos de Phoenix Global Resources en Vaca Muerta econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQlQzeG1NRzd0QWVQejhIWG5uTzdselEteExYOGNuYS1PWkJJTVZpMnhiSXotUGgxYUNyVEt0aDJJSEV4UTVMYlV6SS1EOUpFNVhQSE15OVpMUHVONXloeUd0M0JOYTFFdFM4SEQ5d2doR05VTkFtYTN0aHdYNmJwSzZqMVhBTjd2R1NhaEJvMDhhTXJOZUhKSDVuaXdFNzFickJwN0JaaWY1ZFFFUnpBdkQ5c2t4YUJ2dkluR3NVdWZhRkhOZ0hYc2VkLVRLWGlwTkZ1LU1iaGo?oc=5",
-        "date": "2026-07-14T12:07:32+00:00",
+        "title": "Del espacio a Vaca Muerta: una empresa aeroespacial argentina busca ganar lugar en la industria energética",
+        "description": "Del espacio a Vaca Muerta: una empresa aeroespacial argentina busca ganar lugar en la industria energética econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNai1rcm5BY1B4a2ZaSVh6SjNJQ1M2Y2tUZlF2WEFvS0VCRG5jNmJtTkRnNjVHLXF5VndIRG9kN3JLRmFoclRfMmVZR2xVcS04eGE4ME0tbDIwTEZVVTExTFc1TTJqQnlCenpXdTB6ZWpKanliMFF5LUpCSkl1WnJEeDBtRFp5SW1rMVQxY0RHUDNOazZ4NjJORzJlZDQ0Wnl2b3c3Z0VTRnptdHZWZjBrdm9pV0dQNlhpMjJMU0w4bmFBN1pzUnlqVjNUVlU3NWxnOEJMYVhwWUhiSTV1c1NYRHJDU21TRGVnNlRKTGQ5ZHMtLVE?oc=5",
+        "date": "2026-07-14T21:25:47+00:00",
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Pozos en Vaca Muerta: qué empresas lideran la perforación y cuántos equipos operan",
-        "description": "Pozos en Vaca Muerta: qué empresas lideran la perforación y cuántos equipos operan Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMHMzWF9jazktUWczSnR6MmF2SzFmU19LWTZuNlhMTWNOTEtsbUtIM1FhdXNPcS1SdDR2cmZIRnQ2Y05tZGNNa2UtSVFib3YxdGJWVnl3UVJuazZmdV9iTGJCVVk5TFU4ckxxWU02M0lhX29ZWEFqRXE1clctNEk2T0M3V3hxUExBOWFVR0ZfbjBILVZmRzRjU01odWpIeWhTSU4zdGc2eFJvTTF0QXUwTlQ1Mi1JSks2QVhjZkRqbUxFTzE30gHKAUFVX3lxTE9wZTFHT2tPdmdZNkVpNTV5bjRBS0lLaEM4NVdTNU9fdzFiZV9WeWNoM25HTzlNaWd1VUdyem9vUXNjRnBqc3FmTmp2MmcyZkQ3SmhzNDFLVG5Td01hTEhVMldwMjlpR2JTaWwwemRaMHhQOWdMcWY5c1p0RkIwajJxU0hiR2VNN2Frbm9mLWZjOUF3Ri1aTkRsVm4wYUdobFFBQjVWNjZENzJkazBtTzg4Sl9SV1c0RmFZTDdoWXNqRWdrUDlUcVk1UWc?oc=5",
-        "date": "2026-07-14T13:00:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Vaca Muerta promete renta anual del 15% en dólares y desata una fiebre inmobiliaria",
+        "description": "Vaca Muerta promete renta anual del 15% en dólares y desata una fiebre inmobiliaria iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZHNXOTVqcnFpUTJGbjVLbmE4ZUZ4SEpvbGR0UmRnc3h2Tm9zaXE2Ui1nVTNxbUp4OThrdjhnZ1BiWVIwbHZpYWJUUV94RG1sUU1aS1dyeHNlTG9saS1WRjA3VUREc29pbVluS3NyVW9KcHJLVmlMb1ZlOTE5cWI3UnB1OVNhaDZQd0t2Q2h2Wm1Ua1pSTVZHbkZmQnU0bzB0UDVubFJ6TkFmN3pSVUVvbXhVdG11Y3JkSWo2OVpQa2ZiVWY1Ql9IS200V3ZscXgxOFg2Zl9PWdIB3AFBVV95cUxQaGRhX2N5MzhpUnE1LXh2NnNYUV9EbWVKempSckQ0b1g3RXpWekh4T194ZzJrLURRRjYwNVFzY0FYaUNNa3JyblBpQkgwOGMxdFRQMXB3YkRvU3VzX2dXckpXOENRV0thT29wLWQ1TGNrd2xVUldrby1XRUxveDIwei1MWTVqM212c3FfODdraHFsNnVYLTM0TC1WUVQzYTYyZ3VlTVR3RHVudjZxWWMtNUwtSFJ3dldONVAzWUZsLURkc0lxVnFFZE9FcklucktTLWt6UExIeUMteGxE?oc=5",
+        "date": "2026-07-14T21:14:00+00:00",
+        "source": "iProfesional"
       },
       {
         "title": "El boom de Vaca Muerta impulsa las exportaciones de energía y proyectan ingresos por más de US$18.500 millones en 2027 - TN",
@@ -187,7 +194,7 @@
         "title": "Claves de la City: el escudo de dólares de Vaca Muerta estabiliza los puertos pero no frena la precarización comercial",
         "description": "Claves de la City: el escudo de dólares de Vaca Muerta estabiliza los puertos pero no frena la precarización comercial Rosario3",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS1FoUWZEWWd0SmJZaERtSkk3X1pJeDZnR2RqNWw4bDlfRkdxdDBIenZQMTZpYV92S08tZWJkWXB4cmo0SUpaclFGUHBHTjFDaWlnbjYycEUxZ3FBRU8zVUtQVkU4dFg1eVNXMXZVZjNBNk5kWnNuVFFiSEpUQ2lrbHkwZGVpajdYYWZaOGhHX2k0SG9vRjF0SGVuUTVLSHZkRS0yajdNODFBd21fb1pXdzN4b3BfMzFULVk1V1dobGxlRHlydGZpdlBqeGJ2R0xNd0JVU0xTSklGUU5TMld4d29qb3h0MjRfZUxCZXBrWXFJYUFoc19vOVB6bk1ISjRjajQtU2hGMFlnZw?oc=5",
-        "date": "2026-07-14T09:58:55+00:00",
+        "date": "2026-07-14T08:58:55+00:00",
         "source": "Rosario3"
       },
       {
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUh5anpBME1zeEhvTk1pM2RITXBRX2tGbEJTQ3F6d0NxZG8wYk5nSXFmb0xUOTI2dkdzY2JweDVzWWFqN1h4aS1DcmMxX3RUa045NWtuQm9WZ1V4WC02WU9uX0syajJHdmNsOEdiTVdaVHJOS1g5aC05RGtGVnFCaEFVd1d1d0ZrWXN5TUNBVFI2RlUtN3BjRjFPZFkxZWtnTHA4b212N2JVWHQ3a1gtdmxYR0ZSdVnSAbwBQVVfeXFMTXRGUUpvX2hQZktJQTBObk5LSnNsSGNPdGsxUExwUXViaDNtaXhmZkpwQ1ZJRzN6c1FGZDd3bGpVRkZHaVdzMDFmR2JLRUpwZWhRbGVyallpYUpCY2FlbHkycXFlOGN1YzlWMktmdmtYekZ6UHI4WG1FVkIzUE1ER0VDVGJ3cmFLWkN2TXZBMEl2LVgweTdIWVE3OXBBMGRGODFMR0htS1dhWkJGSzJwbzJ1blN1VkdFUkdUUGo?oc=5",
         "date": "2026-07-13T14:11:15+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza el fabricante de maquinaria Diego Canalis desde El Colorado, en el sur provincial",
-        "description": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza el fabricante de maquinaria Diego Canalis desde El Colorado, en el sur provincial Bichos de Campo",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzgzT1NCMUhnY0VUOGdCazNhNUx6YnBad0NzMFhHSlI5OWJnamh4Y1RWV0Vkc3YtOVBiZzdRYTVZa1ZhOFRMUzlPeGNTVHdTT21RNTExckpTR3pPUXBPVmNHaUlnbzRoLW5PR0YxbzE2ODE5Y05Nd2d1Vk1SRmJNc2NiNEdUeFZ0SnVVZnR0VUVUaW5yRnc4U2RnbW0xakh5UTFYd0twUzlmeFRyRjE4MEJXaXJfRDNVNmVPVzFyTzBJeTZjd2ozQmdqRTNvWkVXR2ZkMzRMcTlrVWFQMXFKTnZZN1VWclhPVzM5SQ?oc=5",
-        "date": "2026-07-13T20:49:15+00:00",
-        "source": "Bichos de Campo"
       }
     ]
   }
