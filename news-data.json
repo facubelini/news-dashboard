@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T07:11:03Z",
+  "updated_at": "2026-07-15T09:56:31Z",
   "categories": {
     "Microsoft": [
       {
@@ -24,6 +24,13 @@
         "source": "Xataka"
       },
       {
+        "title": "Cómo instalar la extensión de Microsoft Rewards en Chrome y empezar a sumar puntos con Bing",
+        "description": "Cómo instalar la extensión de Microsoft Rewards en Chrome y empezar a sumar puntos con Bing La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXM2SEoyYU40V2FPdkJRUVpKM05rVDRiMW1sRU9GMTRYU2phbE5JSXMxUnV1bmRXRXpZenN5Y0tXdnRHWWZzRW9jeVpsd2I3WC10U2VtRXdXanU4SDlvYkRuVE03WHpWSWlZZ0JMYWx6T1BsX2hyaGZMTWpVeXpHTmd3WE5jTzl4X1pxVTZtMVpCejU0SmExT3NfRmRvYWd3cW9MQUNuQVRra2hYZHpmWkhDd2YzczlQaTk3akczUHLSAcYBQVVfeXFMTVc5UkcyY29ycnFReGFjU1NUV3c3UFB0VHplMDI0cXBOQ0QtaVVoQTJVSVhBOGFqQmF0UnNNRzV5LWJ3alF0eF9DTm1BX2N3Zll2bzhweHdGc1FMWGs1WjlkN2t0N0psaFpMR2FjOTdRZGZDbW1CU3FkVmZ1eTBWWW5feWNYaGp3LWlFODVNSEVaNDRFVU9GbWRKUV9FT3AzTk45UGlIYUVqdDVMUnNLb1hiVE5uVi1PVzV2d0ZUS01tcHlZZ2pR?oc=5",
+        "date": "2026-07-15T03:50:00+00:00",
+        "source": "La Vanguardia"
+      },
+      {
         "title": "El buscador de Windows 11 recibe su mayor cambio en años: Microsoft por fin añade lo que todo el mundo pedía",
         "description": "El buscador de Windows 11 recibe su mayor cambio en años: Microsoft por fin añade lo que todo el mundo pedía Hipertextual",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWkc1RnJpaDhIZXVBQnJ2RFQ1RDBGcXNWVzVMUWdmQTVPUm5US25tekp3UDNwbk05UklCRmMycFpLVE5kdkE5SVljYThMVnN0cHduOEw2bnBoVkx0dXd0WXpjajVubEs1c2NCNkgxSzd4YVZEMW12Y2NaSExlckQ2QWFZaU51MmFoUW12bW9Hd0hOWXpiRWVFWTRwY182U3J5clZ4cGRma01RTnNVbDc3OXA0Mkl6OHFOeENGNHdfT2hnaS0zN1p4OUNXUmNKTjRJTllFV3l6OTZqMHhW?oc=5",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41bVVwbHduYUFEMFF6SnBJZWNnSFVHQlFvaUxGSkZheUQybXFPeU9qb01lT3F6aFVTUFM4N3d0Y2kxX01PWnZKUUh4U25SUDVCd0JOTkw4UkQwQkx0Ukx1NEp0OGlOaEktLVNzVHJibw?oc=5",
         "date": "2026-07-14T15:29:36+00:00",
         "source": "bloglenovo.es"
-      },
-      {
-        "title": "Microsoft desafía resistencias bajo la nube Ichimoku: Niveles en vivo",
-        "description": "Microsoft desafía resistencias bajo la nube Ichimoku: Niveles en vivo Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDNoTjlwbzhMaE5fMnNOb09jQlZBVEJVblg3NTNpQldBZXhjVDJSVzJSd0tMREJXVExCaHFjY0xaSXNXWWF3VkFTY0hhQjc0aVkwWDB3YUZqdjNjUGxZVUpBdGU5UF9qX0FmRlBYMVFkdzBybkRxYk5Sb3p4aDlEY2dmSjM1cDk1WVVWSGNEcEdOWjE3MUpfN19JaDFwMV84Qkw0Q2pvQ1I3eWpzbGxvcVctOWZOV1ItWTFSb0xR?oc=5",
-        "date": "2026-07-13T14:05:00+00:00",
-        "source": "Investing.com España"
       }
     ],
     "Marketing": [
@@ -89,11 +89,11 @@
         "source": "Neuquen Informa"
       },
       {
-        "title": "IAB Uruguay abre una nueva convocatoria para impulsar la profesionalización del marketing y la publicidad digital",
-        "description": "IAB Uruguay abre una nueva convocatoria para impulsar la profesionalización del marketing y la publicidad digital El Observador",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS0s4dkVzOGN5MjZUVVgyVEM2YlVOd2xTd0drWElfUUhtajJQb3I5NENudHYyOUJXb1FfS2MwcnF4ZnFfX24yZUFmdG8taVdWWVRkbzJUZVJ3QzNIdUN6U2h5UEJvWkdrbmMyaXh2dmdqWHZBNGVGYUNac2lqV01qQWRuS19xVW9lOWctYTNGOHN5bFIyeUxNODhEeXpqWk1MZVhtV0w2QkJQTjJwb0tuQTZBYVRWUHhxZFFXcWJnQ1dpMjRYRm1yZGlIQmlEVVhlbHNHVE1wNEdUbm5nLWxiRktaMVVPTjd3Skk5eVQ1Z3p3N0MybVQ5dE1OS3RXOTU3TlpkMg?oc=5",
-        "date": "2026-07-14T14:15:00+00:00",
-        "source": "El Observador"
+        "title": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital",
+        "description": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital Municipalidad de la Ciudad de Mendoza",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
+        "date": "2026-02-23T08:00:00+00:00",
+        "source": "Municipalidad de la Ciudad de Mendoza"
       },
       {
         "title": "Colmena Digital destaca el rol de los creadores de contenido en la evolución del marketing en los IAB MIXX 2026",
@@ -105,32 +105,32 @@
     ],
     "IA": [
       {
-        "title": "Milei es acusado de generar con inteligencia artificial un artículo académico",
-        "description": "Milei es acusado de generar con inteligencia artificial un artículo académico EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2FSU0VTcnZTcFNLMzN1Tm12c01kYTJubi1CWXdEUG5WdGZ6YTI4QTRORFRfQ2N6U0hMaVhLNEo2cmViV1AzS2dIbkMtNDQ0WURETWdNTzZPSmZldEkzWERzOVJuYzB6b01pUmxhS2d6bUZOaDdZZzkwUGFkaEp4UTdCTDV2OWd4WE1DX01zWUJuUU1VQWU4R0NNdGNaUjRvRzhtN0lueDkxdXZpM3phUjNIdlY2RU4tM0NiSWphVdIB0wFBVV95cUxQVEpSVkJjWkZNUWp5bFJpbzRoOFhvZHpPbFcyUFYyZk9EUzJVcURZbFloUl94TGNNaTVmdlliUkNnLVJKeXBMMkdLcXgzcDF2TDY1dlA3RjZmbEFqQVN5OUlsdGdHcnN4UFN6NU51bV9FQ1FEd0JNOWx2cjY1Ty00bFZacHFVN2NuNjFzcjh1THppazBoUnVVenhCVU1QSnFRTHJwSFlBQVZqOW5ZbVJ5TXVHR01uNGcwbVlBWXdPejNjZTNyRWl4bTNpT3Zua1QzbzY4?oc=5",
-        "date": "2026-07-11T19:51:12+00:00",
-        "source": "EL PAÍS"
+        "title": "ASML, la mayor empresa europea, eleva previsiones y alimenta el auge de la IA",
+        "description": "ASML, la mayor empresa europea, eleva previsiones y alimenta el auge de la IA Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXpiLU1YQ3k3cGlRcVQ2SjhtOWlINUpEc05BUlUwRFRMTUpncTZ2cEhXLWhfeko4V1YyZVJzcHZnOE1aa3VCQ283U0IxdVp2VWJNdXJaZmZOVXotRlNHcE9sT3JKNnpNb09BV1FiWDBLMWxwcjVzNzFSc3owNXVOWlNFLU5pcWIwVE12ZUV6VFM5Y0xTbkE?oc=5",
+        "date": "2026-07-15T09:36:21+00:00",
+        "source": "Yahoo"
       },
       {
-        "title": "Comunicado sobre la rescisión de la carta de intenciones con AI Financial Corporation",
-        "description": "Comunicado sobre la rescisión de la carta de intenciones con AI Financial Corporation Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0d1ZmgzOWo1X25jMWQ5d2RwMjNIYUtrSmc1ckNVSEpVR1hmLXprdnJSdUNKc0E2TG9BdHlMLU9wUjNhYkduRGwxazJGWHJRX0xfMDkxdXNkMGdlLXU3T1JvODdQMDBVWUhIQmxRYjVrSk5RcHl1WU5PVmVmMDczM3A5akI1Zm1fRFljcUpjWkhNVFkyTTJUTHBTUmloTzlmSjJiQnpB?oc=5",
-        "date": "2026-07-15T05:54:00+00:00",
-        "source": "Yahoo Finanzas"
-      },
-      {
-        "title": "Australia anuncia la creación de una agencia gubernamental para la inteligencia artificial",
-        "description": "Australia anuncia la creación de una agencia gubernamental para la inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWxXMC1KLWlxdGdScmhCU1Bkd1c5b29hNTRmUkl3TWNVVWVrZHdaWlNoOXYtRTNnaXl4eFctV2tpdFY4VnE0d1pibHZzaEhHQ0ZtVmZKeWE3TFNFMTBCdndfVHFielF6LTF3RzFDOTdHZUZmdG5xYURBZDRNc0NLRFZjUXBCTFZURlpmVU11SFdjMC1JWDBLZnI5XzNiNkdYN0JHWHJjWW1kMTRLdHB0LWVTNHBqUnJLYWE1WTZzT25IRG1Lb0JLN1Vwb3JYMXQ1bm5fQ2l6RTg1UzjSAfYBQVVfeXFMTVd4R2NDTGNiRm5pMWNLX2FJWE83NWdmT2E4NjhPS1RuelZZVWNfODI2RE5YWWxmdXotQWFmYmVlWDNKM3RyR3JxendtRDlhbEV0SUtlVE5ad2RIck5pendUV2V2VTJGM2h4NEpBdTFTeDhsSG9sNG5WdHowcm0zUXV6M0V1enZkNUp2WldmdXRodWtKMHZROGh4UXNPSllaZGo0c1d5RXFCa2hIUWJlTUN3WmRLcWlPRXhqYThtVGpVUS1fUURyYXJ4NTdSRU5nd2NGdEYzek1MMWhjZlZLU0ZZaXN0VE1IempZMjBLSXJhdGlNelR3?oc=5",
-        "date": "2026-07-15T06:22:58+00:00",
+        "title": "El creador de ‘Star Wars’ cree que la inteligencia artificial hará el cine mucho más sencillo: “No hay nada que hacer al respecto, es el futuro”",
+        "description": "El creador de ‘Star Wars’ cree que la inteligencia artificial hará el cine mucho más sencillo: “No hay nada que hacer al respecto, es el futuro” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObk9qM3Z1SHdGRGJIUm05ckZMSHY3NzFDRlZRS3pYa2pmcFdMM2FHbW14ZGQ1aExiLWJHeDVHYXJYTTNZZVVRUG90Y09VN3hzYWpXa2dTbnVvbU5rVktGRWp5cDQtVGdBYWdTMGdCV2owZ0ViUmpXdFpJdlZsUHBUNjA5RS1GNDdab1BWSzE4dExxblpZUTZjRVpIeW5rMjFGdmpLcGFqckJNeV9oVE1ISG1wRWoyRktHZGk1bUdVWXZaLS1zN0x5VUJEUjdSc3hwSEltRDE0OENiNGNSS3JZWnhPcFpaLWhJb1p5aTAwblh0QTdhMDB3Tmt2OFE5eVpieV9pX0dubEUwZ3BLLTFOWC1BRTlEbXNn0gGzAkFVX3lxTFA3UWxDQnJWMGYxUk1zMFZvVXVuYkZscEZ1SmhoVXhfUnV1SnlrMUZsSnVleHFDaWFwVTV0aFFYQXRLUkhOci1PSHdYc05aU25DUnZ0OFhJNnJyNmZscDZiUEVscVduRFp3Uy13eFFHR25ZZDFheTBUaG84cW85TmlCMTcyTC1EOEFEa3AtNU9MbTZZSmU0eFROeWh6UldXRWt4V1VhT0NUREU5VVlydGtaQ3BrbktHa050dWxUQkwwcmlKaDJ5TjhsZERHZ2NTb2F1NjN6TGJfbndFV2djalRqNVdjdHNhSGMwX1Q2TzNGT1ZJM01hU3l2QzRJSzlmNy0tYlFyeTIwdDkyNlY0Z2s1SHVkRy1nLXpHVFpVT1RYQWh1WlFKTUhZcXkzVlNuNDZqY3M?oc=5",
+        "date": "2026-07-15T08:15:28+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Australia anunció que promulgará leyes para regular la IA y sus centros de datos",
-        "description": "Australia anunció que promulgará leyes para regular la IA y sus centros de datos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNzk5cVlJV0h4U0Iwa1o4VVh2bVo1NlJGX1JsQ1ZfaGZHZkxjOU9VX3Raa0pYMFpYZWhaTDNHalQtM01wLTNQMG14ZXpRc1lJeFZ4eE5vSF9BeFVYZzJ6cW9qcEVTU2FiLXZtOUVPczBqSkZqUGJ5R2E5dkVqNjRtYUtNYkNtdlFhSUcyYlFaSHc1NlBYODZaQnhLMmdyb1hSb0RhLUJCUjlRWW1wOVEtRzM1aHE3ZFFQOWJWZUQ0WFF3NG51dXhhWTR30gHkAUFVX3lxTFAtcTRjalc4MG5FdXdoOXVmcUZFTHMzaXZNY2tFcElMVHRWX3FRQVE0SXNtMkJsemd0MFZhMENVOXdiZkxFeTJhRzRKR2Q5MmNHWGJjY1NXQXNRa0xUQmNySVRkc1JYbUNxYkV4X2NjbWVMb3p0RnlSNjRhck93V0Jya3V6VkMyR3NmMllSNzlzTHZGOVpqRjFXeDVBWHAxVGRLV2JRV0tfd0d2WllXemRnMkFwVmNDOS1kdTRKX1hiVHpSOU1WclpQbVFEQjNGZ1REWXJVWjdidHhJWG5kMFpGb3NLOQ?oc=5",
-        "date": "2026-07-15T06:55:50+00:00",
+        "title": "Estos son los pasos clave para que las empresas pasen de experimentar a escalar sus proyectos de IA, según Celonis",
+        "description": "Estos son los pasos clave para que las empresas pasen de experimentar a escalar sus proyectos de IA, según Celonis Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMUt4RmNSMjV4c1RCVy04YmFEZWoyVUJyd0QtLXROc09JTVYwSTdLSDRJN2tCbkg3SmpueGF6NWlNUFdzb2psc0g3bV9EaGIwTmRmbWRBNlZqVWNxdjljdktyNWRqTzNUR3EyaU9IOU9LVnloZEQzRE05cHJ2RFV6bDlyOGFpbGRWbnlpdl8ybjZuTndmMndBeTJLRzRsdVZsek00dVlDanl5aWVYQ1E4eUh5c3haRVZxeTVyLWdkeU91b2ROVFhxUW9UZDhLSlJxdjRUR25LSWdFcjVuU0JLSmQ5elJIQXAxQlFFbzdwWDFoeTFRZkF4OER30gGUAkFVX3lxTE5UZnZmRlM5Q0hkQjZ2QmRzREh0WUlOYlhscE9seXUxbU5ySTBMYTBBMFlZQ1Vmb2ZYZWM3MmxvLV9kN0JaUDFqeERqb2s4b2dPRlJqVVZiTzdWcG9qRDB4UzRuS3dpZ2M1SHdWaUVQQWg3dERMRmJ1d3JIZ0RTMDNxT0hGb1FXZkwwOWJXam5WOG8xcFhfcWMzcVkzVWlXUWFaS2dJaFJMbGx6eXk2ZUh6UHBLTllnM05INW5sZ1VleGxfTmQ1eS1ZUVJ1ZGtLdDlDMzd5emZGWEMtS0o4UkpYbUNaczFsNndjRTZfMHozT2M0cnlyUERUU3ZEdVdsaTNVTWVCWUxpVEwwV1NKQmQxOU5kRw?oc=5",
+        "date": "2026-07-15T08:43:38+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Con Inteligencia Artificial entrenada acaban de descubrir 73 volcanes ocultos en el fondo del océano",
+        "description": "Con Inteligencia Artificial entrenada acaban de descubrir 73 volcanes ocultos en el fondo del océano Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQenFwYjJlT2NIV2g4NFVpemhESEZfWWluV3ZqVlhDRjJjZmJXQXlHNk9fZmwydVNVbXV3dm5LbXVMcm5mWE5jaU5wVUg2UElwMEFTdE9yQVlnSXBfc3dwQU5Zd2Q4MlJpbUJuR2w2SmJlSEdNMGIwblNFOGZvLTEzV2RYSXhFVTNQUm1VVG04RkxtekVJcmpHN0UxY08xNnc4VkRfeE85UTRzUWtSQnVZOTBlM0JkektNejNOY0RjT094QngwYUtGWERXWHpVYmFrLUdhUtIB2gFBVV95cUxPUnZHVDE1VE13OHFzTVYzWlB4ZDRWaWQweTBTRGxCTUxfTURTQkI4dXB4bUQ0ZDcyWW9PRlpqcWx3Wk9xSEtJSmlDbTY2OUZhc1NzRkJKM0lBZFVvNXhXTlptMGI1SVZaS3hDeGh2bzFEWW5VcHoxWHpTMHI1T3BzX0FXREJrVnZzOGEtUUxzeVJGUmFXQ19ySW1HUEk2SmltMk5YdTNBYlc2ZnBXM0V3SG5RUXh0cGF3ck9Fd1VUYjN5eHVlWExxXzNtN2g0ZnBwLXRvMVQ0STJPdw?oc=5",
+        "date": "2026-07-14T10:29:03+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "“La IA podría ser una gran psicópata manipuladora”",
@@ -140,18 +140,18 @@
         "source": "Página|12"
       },
       {
-        "title": "Waze se actualiza: más interacción con inteligencia artificial y cómo es el \"modo moto\"",
-        "description": "Waze se actualiza: más interacción con inteligencia artificial y cómo es el \"modo moto\" Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnlaSVZqZmpUQkxXSDJUTDdiT0xFcC1UTXJYYmRyQXFSOUhrakZpQjR0RmpLYjdPd3RqcFNqQmx1U0xKUmh0eTNKRGFSNUtOUjRZb0h5V0VPNnkwMG44R0NJLTc4ZVZVem9qc0U1N0JFbG5qNTBGNlFqZld2TzlFU0JHQlp1RVM1VVk1eTRqUjc1QkQ5VUtaOU5LLVFGMlkxS1IxSVkyb3UwNDTSAbABQVVfeXFMTk9uYXRVVktnMl93LTd6YnZSUjBHUnRSOGcxR2QwT1JNN0JoX3lGbHVrUDlMQVFXS2FnQVRXSG9NSHFORjVJWU93dXVjQlB1WHQtcTNjZ0VDU253SHdBQnBKeEJoQ1l2bmJkaFE4cjUwTHdWZHBaYlFzRGZZOXA1RVZveGt4dHh6NUF0bnBsbG9obnlLbVJ0YnRYN0llN05oNDRjbFMtYUtaVmFqUlJyT0E?oc=5",
-        "date": "2026-07-14T09:00:14+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "Así será el resultado entre España y Francia, según la inteligencia artificial",
         "description": "Así será el resultado entre España y Francia, según la inteligencia artificial TyC Sports",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmhYNUYxS0cwUFhwOGhmcWhhelZsOERNY1pOTVNRSlNBQnZ3elFRUGxwTDNacXZNRjY3ZnBjanhzTXktM2JWM3pZQ0ZDYkF6SkxDcXk1T29tWGJpUklmSVA2eWZKamc2RXRHclRNUkNscURHLUV4Z1NkZXhRbUt3UnFhbGJxU0hhQ3ljclhPNVN1RVVZSG5DRmxxZ19TekNSRERCRFRxZHVGcXRjR2RuamdpSXZXemp4b1NKaXN5QVRqdw?oc=5",
         "date": "2026-07-14T13:07:19+00:00",
         "source": "TyC Sports"
+      },
+      {
+        "title": "¿Argentina o Inglaterra? La Inteligencia Artificial predice quién ganará el partido del Mundial 2026 - El Economista",
+        "description": "¿Argentina o Inglaterra? La Inteligencia Artificial predice quién ganará el partido del Mundial 2026 El Economista - Últimas noticias económicas y financieras",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2UwVGdHRjFNTWVOeFRxX3FQVi1fbVVvVC1SWWU3YWlqLW5mSlg3dzNQSVE4RzY0Q09WenBlMmMxUmJwdXJRcWtxRjczNFBTaWFjNV9hODh2akR3R0pDWF82VDVmRVNuN1QyXzd0TzZGLTRlTVJoMlpiZHdqTUdpNUI1b3o1UlA3Q1hZbVBiTXNIRmxnTEtHSE0wMWtzU3lVSFdWNG14MDZsem1lTEVSbVln0gG3AUFVX3lxTFBEWGoyVUFqM3pYQTNDcWJGcktpVmQ0a1BjbjZYVjdoekIyRklkaE50XzZDZ2JLRzZDczNhWndlMXhpdVB3WmE5bzhady1rZ0pmVnRvSXh2T1puNDNKOHVmVGpSMGMwdC0wM2M5VjRzOG9rbEdzTW1fVVpYc2gxcjBpcFJqVm4yUFdScnhPTDF5dEt2QlJBWG9LTkhEeDlkTXNheEJXeGZteVdLXy1hVExfNDRGRDZlbw?oc=5",
+        "date": "2026-07-14T13:06:00+00:00",
+        "source": "El Economista - Últimas noticias económicas y financieras"
       }
     ],
     "Vaca Muerta": [
@@ -177,11 +177,25 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Vaca Muerta promete renta anual del 15% en dólares y desata una fiebre inmobiliaria",
-        "description": "Vaca Muerta promete renta anual del 15% en dólares y desata una fiebre inmobiliaria iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZHNXOTVqcnFpUTJGbjVLbmE4ZUZ4SEpvbGR0UmRnc3h2Tm9zaXE2Ui1nVTNxbUp4OThrdjhnZ1BiWVIwbHZpYWJUUV94RG1sUU1aS1dyeHNlTG9saS1WRjA3VUREc29pbVluS3NyVW9KcHJLVmlMb1ZlOTE5cWI3UnB1OVNhaDZQd0t2Q2h2Wm1Ua1pSTVZHbkZmQnU0bzB0UDVubFJ6TkFmN3pSVUVvbXhVdG11Y3JkSWo2OVpQa2ZiVWY1Ql9IS200V3ZscXgxOFg2Zl9PWdIB3AFBVV95cUxQaGRhX2N5MzhpUnE1LXh2NnNYUV9EbWVKempSckQ0b1g3RXpWekh4T194ZzJrLURRRjYwNVFzY0FYaUNNa3JyblBpQkgwOGMxdFRQMXB3YkRvU3VzX2dXckpXOENRV0thT29wLWQ1TGNrd2xVUldrby1XRUxveDIwei1MWTVqM212c3FfODdraHFsNnVYLTM0TC1WUVQzYTYyZ3VlTVR3RHVudjZxWWMtNUwtSFJ3dldONVAzWUZsLURkc0lxVnFFZE9FcklucktTLWt6UExIeUMteGxE?oc=5",
-        "date": "2026-07-14T21:14:00+00:00",
+        "title": "Vaca Muerta quiere su propia Hidrovía y tiene un plan logístico que atraviesa la Patagonia",
+        "description": "Vaca Muerta quiere su propia Hidrovía y tiene un plan logístico que atraviesa la Patagonia iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWo3cGNjRFJqcU1tbkxfMHIxZUFyT2FTSV9hLUl5dW13VGRoZFFNeUJHNjg4MTNVOFJIVk1nZ0VFdlZrUlBvQzRuOHJlbFpZTC14X1d3WWY2S1B2ZElDdkNSTmN6YTl2OXluSG9pSjVfTm9FUU50MkdUYVV3ZXk1T1ZYbHVFaGhwZmN2RTY0ZXZWVnhaR1hpbXpjVnZjTGxCODFJakY1VDJjMnNEcHNDVjRJOGJfdW9haWFoTC11UVJTN3ZhNk5VRTgyYllqdFXSAdQBQVVfeXFMTmZiMmJvNENnc0RFZXpKQUN1Vk5seVR0RkVIMVVqdU5IVGsyZjVrLWFycXMyVnZsUU0tM1NpTERrS1pEalFubnE3MXZGc05OYkVIVFVXQVhLNlZlblNJS3VrLTNjNGxLNDg1Nks2OHhBeGJRQ093U25SWnhVRzZ6Q1VTeDk1VzdjLW1UUnc4dUlXMW5hTXo5dzdELU9HZGtFUi1wMkt2NU9IdGVsd0M2VHdNUUc1YWVzSHg2SmZVTXYxNC1IamNoRHhwSXhLUHhqQXY5TDY?oc=5",
+        "date": "2026-07-14T11:52:00+00:00",
         "source": "iProfesional"
+      },
+      {
+        "title": "Claves de la City: el escudo de dólares de Vaca Muerta estabiliza los puertos pero no frena la precarización comercial",
+        "description": "Claves de la City: el escudo de dólares de Vaca Muerta estabiliza los puertos pero no frena la precarización comercial Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS1FoUWZEWWd0SmJZaERtSkk3X1pJeDZnR2RqNWw4bDlfRkdxdDBIenZQMTZpYV92S08tZWJkWXB4cmo0SUpaclFGUHBHTjFDaWlnbjYycEUxZ3FBRU8zVUtQVkU4dFg1eVNXMXZVZjNBNk5kWnNuVFFiSEpUQ2lrbHkwZGVpajdYYWZaOGhHX2k0SG9vRjF0SGVuUTVLSHZkRS0yajdNODFBd21fb1pXdzN4b3BfMzFULVk1V1dobGxlRHlydGZpdlBqeGJ2R0xNd0JVU0xTSklGUU5TMld4d29qb3h0MjRfZUxCZXBrWXFJYUFoc19vOVB6bk1ISjRjajQtU2hGMFlnZw?oc=5",
+        "date": "2026-07-14T09:58:55+00:00",
+        "source": "Rosario3"
+      },
+      {
+        "title": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza el fabricante de maquinaria Diego Canalis desde El Colorado, en el sur provincial",
+        "description": "La nueva frontera del agro: “Después de Vaca Muerta, viene Formosa”, se esperanza el fabricante de maquinaria Diego Canalis desde El Colorado, en el sur provincial Bichos de Campo",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSzgzT1NCMUhnY0VUOGdCazNhNUx6YnBad0NzMFhHSlI5OWJnamh4Y1RWV0Vkc3YtOVBiZzdRYTVZa1ZhOFRMUzlPeGNTVHdTT21RNTExckpTR3pPUXBPVmNHaUlnbzRoLW5PR0YxbzE2ODE5Y05Nd2d1Vk1SRmJNc2NiNEdUeFZ0SnVVZnR0VUVUaW5yRnc4U2RnbW0xakh5UTFYd0twUzlmeFRyRjE4MEJXaXJfRDNVNmVPVzFyTzBJeTZjd2ozQmdqRTNvWkVXR2ZkMzRMcTlrVWFQMXFKTnZZN1VWclhPVzM5SQ?oc=5",
+        "date": "2026-07-13T20:49:15+00:00",
+        "source": "Bichos de Campo"
       },
       {
         "title": "El boom de Vaca Muerta impulsa las exportaciones de energía y proyectan ingresos por más de US$18.500 millones en 2027 - TN",
@@ -189,20 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQWZBWTA0TmJnQnF4Q054alZKb2Y0c3UzbFhaSnN4bnZPb1dPMXl6RmpKVEh0bFJFQXpnN2VYdnR5cVBfWlpEWGJHdzdDeWJpc2J3M2ZiWm5mNG4xWENXQUUxYnFLdFpxRDBnRlpzSmUtdTViMkd6ZnVmemthbm1QQ1p6WFYwUWlXQm9FbWFxZTB4d3dzNXNnem1WbGRLSXBsRzhkd010bzM5TVoyYVc4Z3JxX0xZQTdKdnBtRlAxSkthbkFzbXBBLTQwalh2dmpVV1g5M0JuV1FiOEJwbHlfSTRncmRFNlFsVV840gH_AUFVX3lxTE9Yenk4Sk9YNWJLSVFDMmdxcWJHOUpYbTAtRmttY2h6QmVGUTMtWnVQa0pCMHQtSTNiZlc0cXpCOXVsYXlTTmhFTGp4dlNMWkFsVWhWRi11dWx3cjJfQllyYmhVV29BNGNCRW4zVlR1R2FwTkdqU24zWHM2ZHdFVTZlcXhpNnQ1TkRWRy1NbGxkNFd6bkttTmMyNmRiUWdBLW9lSGtsWnVhcXJrZjF6YnRrWm01RHNRRVVnR0U4Rk9KNXNMRVllOGRoX0RCQmthWXVvOTZVOFRCdTR2SUIwSTB1TGxWWDQydTlUYUJrdzBIOF95a1BVTWVqOEFYLWc2QQ?oc=5",
         "date": "2026-07-14T08:00:00+00:00",
         "source": "TN"
-      },
-      {
-        "title": "Vaca Muerta: la grieta que no existe y la oportunidad que la Argentina no puede desperdiciar",
-        "description": "Vaca Muerta: la grieta que no existe y la oportunidad que la Argentina no puede desperdiciar Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVpEQUVLem5jaFBRWVMyTkNMYUdSdWt2clEtWmFzMEplUmY1OGxLQ29pNmo0OFE4cDF5ZW15NTVDMnlQSnNYWVpxX3UyVG5EUjAtSzBXWE1BRzR1QUVIM0p6bEkyWWxpMlM2aDJIN1c0SjZtTl8wb0ZqVzV3VUlHS0x5VVhrd2hCM2xUWjdFWTFoTmtjLUxWQThONTVFVEtfSk9pem80emlwOWE5NkQtTXN2emVRemJEZDc3NkVnYmxqMzMxZ1pqemctYTEydnZX0gHrAUFVX3lxTE5uSy1xYzBZNXl1NFZiTG00ZkQ2dk03MnN5NEFKQ016MFJUdUY2SmJDU2tzd2pobGNBaHlINVlnOGxKTEtsbEE4WnRqWEhsV21vWmVWeUlJc3lZVlNRZng2QnVuSG5PcGE2ZFhYa2Q5ZFFSMk9fZDVnemMzMlRjVWFpY2pWTlRYdmYyS1doYkZabmduVExxTTRvLXdhejBUaS1PTWp1NUlzOFJfU0NtRmFsdXRiNUNmTTY3azd1LXBzd3kxRE92X3lGWWNmU0J3dWNKTzIyQ0JFcXdJRnFTbUdwQ2taVWlqUDlva2c?oc=5",
-        "date": "2026-07-13T11:29:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Vaca Muerta impulsó el mayor superávit energético de la historia argentina",
-        "description": "Vaca Muerta impulsó el mayor superávit energético de la historia argentina Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQUh5anpBME1zeEhvTk1pM2RITXBRX2tGbEJTQ3F6d0NxZG8wYk5nSXFmb0xUOTI2dkdzY2JweDVzWWFqN1h4aS1DcmMxX3RUa045NWtuQm9WZ1V4WC02WU9uX0syajJHdmNsOEdiTVdaVHJOS1g5aC05RGtGVnFCaEFVd1d1d0ZrWXN5TUNBVFI2RlUtN3BjRjFPZFkxZWtnTHA4b212N2JVWHQ3a1gtdmxYR0ZSdVnSAbwBQVVfeXFMTXRGUUpvX2hQZktJQTBObk5LSnNsSGNPdGsxUExwUXViaDNtaXhmZkpwQ1ZJRzN6c1FGZDd3bGpVRkZHaVdzMDFmR2JLRUpwZWhRbGVyallpYUpCY2FlbHkycXFlOGN1YzlWMktmdmtYekZ6UHI4WG1FVkIzUE1ER0VDVGJ3cmFLWkN2TXZBMEl2LVgweTdIWVE3OXBBMGRGODFMR0htS1dhWkJGSzJwbzJ1blN1VkdFUkdUUGo?oc=5",
-        "date": "2026-07-13T14:11:15+00:00",
-        "source": "Lmneuquen.com"
       }
     ]
   }
