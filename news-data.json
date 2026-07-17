@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T16:10:06Z",
+  "updated_at": "2026-07-17T17:59:44Z",
   "categories": {
     "Microsoft": [
       {
@@ -24,13 +24,6 @@
         "source": "El Debate"
       },
       {
-        "title": "IA pone presión sobre compromisos verdes Amazon, Google y Microsoft",
-        "description": "IA pone presión sobre compromisos verdes Amazon, Google y Microsoft ExpokNews",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGFBbVYyY2gtU1BCLWZrekhlSVN2VUsxQzBBdXYwU0dpd0JxbzVvbUtFT2lXcGhLdEIyRkYzeUxWUG5vNjg0alk3aGdCT1U1aXM4OTgweFNXZmxudWt5eWI5cWF5ZDJMQmh1UDd6M1M2QkF2TVpWSEwwVGJYQ21fNUlYc3dHNTJ5RVBMZjRhdmtKeXY4dVJiU2Uta1Q?oc=5",
-        "date": "2026-07-16T06:42:31+00:00",
-        "source": "ExpokNews"
-      },
-      {
         "title": "Satya Nadella, CEO de Microsoft: \"Pagas dos veces por la IA. Una con dinero y otra con algo más valioso\"",
         "description": "Satya Nadella, CEO de Microsoft: \"Pagas dos veces por la IA. Una con dinero y otra con algo más valioso\" El Confidencial",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkdrRUs0VU1kNkNRcmZoblh1dG03a2xFVHh1czl3N2FDajJGVFZDb1NGQkNoRkVrdjJiSVVibGFkdExzRjZkWkc4MXVhUlVxdDhRZFJsM3NCbXVVNlpvN0tEaFF5bk5ZVXdNSGNGbWJuS09WWkdtdTdkMmpEbkhXTmVQajA2UGdoUDlIb01IeHloVW4tS1U3ODZqeG5NUGJj?oc=5",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdZTGYtY0E4eXJVd05LamtRY3FMQUNtZldfYTdRZXhLTlJ1MGRsUE9mZ3doNkU3WkpZd3ZCYWU4RnMwZmNqLXpXRFdxUV9lRnFRUXJUcVdOUnoxZzBBeFlsNGZiQ3ZOOTQtWjVDUTloWlJaQjN5VHU5OVkyQ3R2NGZWZGRfRThwb3FJOU1LM0RsU0lzZkw2RDBabU52V3Z6ZUFMSHBySUpYcWtPbGE1dE10XzJFSG5uYTBCSS1PR0hQLUstVUtwbS1CM1HSAdIBQVVfeXFMTUUyNXpESUVNempOR29taEQxcExPNVVDMUs0N2QwZEpuUWVlMElEcWlBVzRNSzk3YW5qdkU5MU9tbjhRWVNhMVVmSFRUV283UVlBbXR4X3FrbkYwMVNJczZVQnVpYk5SS1Yxa00zVFdENXE1VUdHZU5SOXRkWHZ5aGpCdWRIdVFvVEloMHdjSk1DcWZKZWxQd09wdTNNUllnaFVBTXNsaFRqRjUyREJUWjJjN3kybG5TT05tOEVYMXI1WVBKQVlQSjlqUFJKbGlWcldn?oc=5",
         "date": "2026-07-14T10:30:00+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo",
+        "description": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTzFIU2ZSVE1Nei1kOUhrY2V4NjNtYUd0NW5CTllFelNqTENCTmhqaXhvVU1iVmVENjh3VkVjU0FwcGgxYnE4MkhDSUtoUXh0Q3REUjhjVWhsNFJDTDM4X0JsMnd4UVFTZUk5MVBtT2Y5dzJHSVBpaXh0SXh2a1piZ1I4SDVPTm5ISDZmNGZNYUdOeklmSi1sMm5BQWdTUC1kSEtNMkRpYmNEaGdtbDk4WVBtZW44UnQ5eEdjYllHOHZ3bS1XdGJSZ3ltT0pEZGJQOHRZMThkVXNYQzFMTU90SGRTZDlJc1ZkS1E3SHdzb1FmMFRW0gH6AUFVX3lxTE9ZaEFZOTdYUzZQX3hiRVNOa0lhUllWaFNQLUt4Znk2TWlDV213WGN5NkVhMU02d2FGcjB2UnFWWkh0bWdGSU0wNWdGR0NpbUFCS1NkaG5iem5HTFlOQkxCT0tYamVIQ1pZNzNPNFJMTkVCZ2c5Nlk1MmlueXVfZEd0bWtDMm42LWFVWHgtOGtOMDR4V3V3dFZFRG1ZR194Zmh2Q2tXNGRIS2NzTG5lRVRxMHdsTFV0aVNqU3VUMXVReVJWMnJ2SWJRT1FyWUJBNjhuZkJPT2xxUmtnTzFRLWJLWmNSNlR3dkNzN2w5U1dfTDhpbFRwanFwZUE?oc=5",
+        "date": "2026-07-16T19:01:55+00:00",
+        "source": "3DJuegos"
       }
     ],
     "Marketing": [
@@ -61,18 +61,18 @@
         "source": "Diario Nuevo Día"
       },
       {
-        "title": "AMDD y DMA quieren impulsar la economía de datos en Latam",
-        "description": "AMDD y DMA quieren impulsar la economía de datos en Latam Marketing Insider Review",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1RYb0JoWFMtdlM4UlRDclBqRXNRX0dLMjFMY1YyLXZfQVhZLVVxT1dpcVVzN0k1VC1JV0h5ZC1nUmV2N0x2WDJxeTNPTGhqNVpjd3hscWsxZ1BxRXN0emxhcF9kckMtOXZJWG1fWmxqNEdzTnN4ZWpKcUNyWnB5VHh4R2ZUa0YxVXBhMWkzRmctMldyV2twT18xUFhSZW9RS3NwVXo3TDF0b2JxMUM4TzRHaEZKT1Fzamcta1Q5SmdqX1dVRkFwSVZhTTd6MmJwOEpkLWF5Y1M?oc=5",
-        "date": "2026-07-17T08:55:22+00:00",
-        "source": "Marketing Insider Review"
-      },
-      {
         "title": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? - Diario El Norte",
         "description": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? Diario El Norte - San Nicolás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2JVU19fMS1SZUhKSDc0alpuTkdPcHZoUEtlZW5PU2p3NHpkYnNkbVN4NE03QVVFSHBWbHFWaWpuclp5aUhlb3ZON3NfZDBxM0gwYklDRW0yUnIxZ0F0bHAtWXUwS0JILVY3OHhDRGh4STZaVk85NDhmdzVjT3RzSFNVYS00N3A3dlJiM2JveGJ1Wnc5Nkc4UVFjZ2hDZ3pJbjhLZElYb012VG1MX2ljX0RFNk4waGVWcXc?oc=5",
         "date": "2026-07-16T13:31:23+00:00",
         "source": "Diario El Norte - San Nicolás"
+      },
+      {
+        "title": "AMDD y DMA quieren impulsar la economía de datos en Latam",
+        "description": "AMDD y DMA quieren impulsar la economía de datos en Latam Marketing Insider Review",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1RYb0JoWFMtdlM4UlRDclBqRXNRX0dLMjFMY1YyLXZfQVhZLVVxT1dpcVVzN0k1VC1JV0h5ZC1nUmV2N0x2WDJxeTNPTGhqNVpjd3hscWsxZ1BxRXN0emxhcF9kckMtOXZJWG1fWmxqNEdzTnN4ZWpKcUNyWnB5VHh4R2ZUa0YxVXBhMWkzRmctMldyV2twT18xUFhSZW9RS3NwVXo3TDF0b2JxMUM4TzRHaEZKT1Fzamcta1Q5SmdqX1dVRkFwSVZhTTd6MmJwOEpkLWF5Y1M?oc=5",
+        "date": "2026-07-17T08:55:22+00:00",
+        "source": "Marketing Insider Review"
       },
       {
         "title": "Está abierta la preinscripción para un curso nacional gratuito y virtual de marketing digital para emprendedores",
@@ -105,32 +105,46 @@
     ],
     "IA": [
       {
-        "title": "La inteligencia artificial no reemplaza al abogado: pone a prueba su criterio",
-        "description": "La inteligencia artificial no reemplaza al abogado: pone a prueba su criterio Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmhWc3A4d1N1VVVXTjNGXzlSeDhjcXZCRU9BTnJseVlNSnBOUF9nd3lDUXdIQk1hMGU2NHZidmZ1SDRJV1JNX2c3MjBaWjdXS2RfMExOQUtEb3E2anVWcWxsUGlZVzI0S2RacnVkaUhqZmZpMlZkV3ExMVRnMVZmVWY4bWhGNzlGX3lxOXNWUW81TFA2dkpBYWllWEFsNTZEUUtkdk92QVR0cU0zaXRmcGNiMVFGUzBvRmw3RtIB1wFBVV95cUxNVFpBbzNoQTVrVHY1dHVqZEFER2N2TE9kY2F5V1RMTFl2OXMyZzMwRW12Y1R0RHIycXhZOXZrRHQ0VlhsSWUteEtZY1ZIalFOVmpXa2taS1RRb29GRmhleFpMMktvWmZia082LUM4UE9TOUQ5YVFOWDdDQzMxX0ZlWE5vQ0ROalUwZ3h0TkxWRGlVdVNhWXh3ZF84WUdnbjVwcTVXUkFFMjlVR3NIeXJJYjBiTnhjUFBfQS03X0Y4RFBCSVdtbzc5Q21xWkFqTlpJZFdPWml3VQ?oc=5",
-        "date": "2026-07-17T15:43:18+00:00",
+        "title": "Santa Fe ya capacitó a 10 mil agentes públicos en inteligencia artificial y se posiciona entre las provincias líderes",
+        "description": "Santa Fe ya capacitó a 10 mil agentes públicos en inteligencia artificial y se posiciona entre las provincias líderes Gobierno de Santa Fe",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Tm1qaDQybVNIS3Bwd2RkeXJDYU9kb1ZUZjJKUHoyWDNibVZwMXJubjlXeEpkdnhpS3ZWRVFfOXBURjJTd01pd19uWmRVZTZUSTZXWlJCTHZKazRxaWxiNg?oc=5",
+        "date": "2026-07-17T17:36:13+00:00",
+        "source": "Gobierno de Santa Fe"
+      },
+      {
+        "title": "China busca marcar el rumbo de la inteligencia artificial: Xi Jinping anunció que ofrecerá 5.000 plazas de capacitación",
+        "description": "China busca marcar el rumbo de la inteligencia artificial: Xi Jinping anunció que ofrecerá 5.000 plazas de capacitación Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWXcxeGtLRzdGRlFZTUhwckhFTVJRbjlIaF9sa09FUkYtRjVrYm1VZzR2N2hYM2VjQml6a1h4TnR6SVdGbXZockFqZGJ0dUdEcmRvclVraHZVby1mV05pbktTX0dPeE1CV0didUFlRkZjVU5wZ2lIaTNWa2E0Q0NwX2d3SkZhMk0wVkYyQ2pSTzZEVmtNQjNyTXhCT1ZKaDQ3Z3hoUEpFSmlQSFVjTVp5VF80dXJPMUptNWhzUUtCZVFvc0JCaUdGQVUwQVo3eG9TbkpvTzFkOExubzNXOFHSAeMBQVVfeXFMT1d0OUtjTzVlcUdZTmZqTTBCa1phV01Pdll4NE5EeEM3dDRpd1RjR2VSZjBoV3FJeHZhRU9pT2Z0U25YMm9DeFEyR3ItUjBKb1h6V2M5RHk4ZThJemlSUDR2Q2Zxa2N4MUJhVzF3S1J6X2l6bG1IcjMzZ1F4YUtCeEtOcUJXMGFkUS1PUlNvNlc1RmFvOV96YmVYYkk0a0xBMmZVZTcwS0EzTDFDanNKeDB5SmhnN0RRWmNia2hYY2d2N3ZtVXRIQXNZXzctOHNLVFdkMHlQcWZqWmZiZHlhVHRybFU?oc=5",
+        "date": "2026-07-17T17:44:33+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Gemelos digitales y rutas inteligentes: así se reinventa la logística con IA",
+        "description": "Gemelos digitales y rutas inteligentes: así se reinventa la logística con IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlhBNWVINDdBWFpPWG10aVBjWVJLZFlrMzB6cktsLTVISVkzaVdMOVpGRXZGOUJZTDJXTjR2UnExRlNlckY2VGV3RjdZcW95NmNrMVNtWmphZjZORmNyWmZDQU5kb215SVlvQlJCUl9rYnA1eGpCUUZvbkhuVGhNUnpaN3JYU3BNcHlQSGFoVUVhMTdVRlJIMU5DLWJKWG9FMFJySU1UZmxJRHlPWVc2R3kwRjZrZTh4UmfSAdQBQVVfeXFMUDFXVE5NZmlBYTdUckktX3pZbG5SYXZwQ3c4NlA4LW9vV19mR01IQ0VOT09QOXZiVUkxVVBLUnRmUG5hUnhoSGZ5VUxiY2tTVE9CY3dReHVfX1ktd3NKUjJXMHF6NWFIR3lsR0I1VUxiaGNyekV1VDlEMDdaY0ZlZTNidFpseVBNVlRjUEIzRFNEa2x5R180MmFMaXFnRHdENkZmV29TRU1XZFZTLTZRQWdjRGpJWWt1NjRzVzVqbUFwbWFCdHc3YmZjcnVuZTZsVURCU0I?oc=5",
+        "date": "2026-07-17T17:58:13+00:00",
         "source": "Infobae"
       },
       {
-        "title": "La educación se plantea qué hacer frente a la inteligencia artificial y define pautas de uso",
-        "description": "La educación se plantea qué hacer frente a la inteligencia artificial y define pautas de uso Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHpRaHVwMjBjWGdKNmIxaVpSNzlxRlk4amM2NUVIVHktWURnZzItTEFMTTl4T3NzUWtDNHNWNGNtZVZQZkhQSDF6ZGM1elp0bklFaU12Rm5XekVTTGVsblNYQUhaTDdvUElaRGpmUmJGYUtPWFNwSDNHeS1tYkplV2xUVU9mRThaZnBGZENXVHhySXNhb1ozSEs1UXhhMjJybWcybjVLTlNMN25ZVGVVT21wME9fVnUzSmlvNmRGUzQxa3d4LVVhdXVRWWJZcjNKbnNHLdIB7wFBVV95cUxQMjVWekt4RGFyb1RBZkFzVDZFU3ZqR01jOEs0Rk1NajFIVHJaZE8yT2FNQTBvdmdCSGlOUVNGMTRmV0JfblNIdG9LTElDdWF3RC03M2o1YkRrajF5WmFaQ0RUaEFXSjc0WXpkc2R6ZmF1OUk0aGxGcG41XzRNQmVodTBYNV9oV1M0ZTBVTmw5M044eWZFZ1dMLVVXMDAtd1ZRckNYeUhfcVBJY0pneVNqN3RUcVJ2UUpPOXU5Z1M0ek5qVWtqZHZrb1JHVkMtb3ZaVDBYZ05RLVBlaURoczNZR2VTQnBaU1lxZGpSMVJtaw?oc=5",
-        "date": "2026-07-17T15:37:00+00:00",
-        "source": "Infobae"
+        "title": "» IV Encuentro Para La Socialización De Experiencias De Enseñanza Con Aulas Virtuales, Tecnologías Digitales E Inteligencia Artificial",
+        "description": "» IV Encuentro Para La Socialización De Experiencias De Enseñanza Con Aulas Virtuales, Tecnologías Digitales E Inteligencia Artificial unsam",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmZjMkttc1dLQlYzR0RmSFNTdVRBMlBKVS03QzVqQmVGaFNUN1U4QmFWYUhIMEplaDAyZlh2bzc3YUtPNFhwa2ZRQkY2aVVlQ3k4VUVDQ29BeER3dFNHSzZqb3BJSnRxMmRUMU0tMXExNGg1bHhqLUVMX0o4RkJBNVU0N0lBcVoyd0Z0M2pTazYxQ0FwbHNrZG5HcS0zcXBndk90YWlXeEw5VlZjT0xyMkRPS3JqaDZzN01yOUpVNzFsMUljb01tb1FQbVRSOWNlcFVBbU1zLU0yMGRWRzlVbzNSRGdrc0Z4anRJT1pwQ1c2bzljdmM2Mm1fd002VjJYT3Rr?oc=5",
+        "date": "2026-07-17T17:05:06+00:00",
+        "source": "unsam"
       },
       {
-        "title": "Científico Lee afirma que la IA no es elitista, sino patrimonio de toda la humanidad",
-        "description": "Científico Lee afirma que la IA no es elitista, sino patrimonio de toda la humanidad Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1dCOEFwWVdxMlhWVmZhcGEyUHUwY0owejJ6ckM2N2V3NEVSeFpheHVJUVZlQTNzR1I4ZWszaU9yZVY5MTMzSWR5dnlkN3U3QmQ4RnpmR1FVMEN2N1N0Sm5KbTRIZlN5akwzaW82OXlMV2N2TW9GVjNmbVFfLTdLV0lpR3JxZWowM1padmF5R1M1YVFOYzFvbUE0STRMaUlWR1VINE9iQm1wRmc?oc=5",
-        "date": "2026-07-17T15:49:19+00:00",
+        "title": "«Declaración de Roma»: un compromiso sobre las armas nucleares y la IA",
+        "description": "«Declaración de Roma»: un compromiso sobre las armas nucleares y la IA Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZm1fVm1mSngycVRTSTRoeE1GTkNETWd4SkdFbzZrVXY0QmVDeVcwNGd6R1hiTUtwcjlvZ1pFTWp1aEFIVFpCZ0NPXzhWRnlhS3hVWkZIMWVvcnIxWlQzQUtKLXU0M0FSWWZQUlNwVXlNR2Q2Zk1aYWhld2JLeDNLVks4YWlpVDFtMWdKam81NE5VT011a0NmNjBBTU9Ha0dxVzZ0a3F3VllPMXZ2bjdkam5kdw?oc=5",
+        "date": "2026-07-17T06:35:40+00:00",
         "source": "Vatican News"
       },
       {
-        "title": "Guterres: Toda la humanidad debe participar en el diseño de la inteligencia artificial, no solo unas pocas potencias",
-        "description": "Guterres: Toda la humanidad debe participar en el diseño de la inteligencia artificial, no solo unas pocas potencias UN News",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqYnRJQmdBcWlmV3BDUUFVaWFGeURBMy1KUGRJNHpsTERuQlMzR0twTXlZdVhCdEZHZ0RkX1RpU2tSMUZ6UE1oZE5OaUdONEkySldqa1V6bw?oc=5",
-        "date": "2026-07-17T14:02:02+00:00",
-        "source": "UN News"
+        "title": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial",
+        "description": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUtrakJObmVka1VJTEZDdkFRYTdUYjZoYlpMRVJsSzg4cnRvTmhXampteDlsYzFuTTV4djBKYlBTcGVRa0U4eTZuck90MG9YNUpsZ250bi1lbk4ydkFpRWdsNklZenZodERsdTVqdFlmd2J1RG5tNmU3SVFzNmZDSUVPd1hGaWtna2lKa2wxNm1JUVgwa21iSEtBcWtJYm1lNVNMdEJLdWNLeFh5WjRzLXQybV9HenFncnlKVTQ1blfSAdQBQVVfeXFMUDRVVGxNb0ZvcW92NTVXeXdwR1RoR01aakxLRmNxT0pETWZYOFIwck16UTA2aDNQWHJMaGZtOXpYTHNuWlN5NHowVEs3dVFrQ1ZGVGdjQkdlVTN1cmhiN1U2QzFOUEVvRkpNX0dPRU8xU2c3WlM2NUpLdUw5d3JSb25qWHdLNXdNV09QY25weTBFaGtBU1BVaW9UcGpJdXpmVGRISXFMdldUUTlxR1JEZjNDN3FNcUtwbG1uSTBKcGRLX2x5dFZUaHdXSVUteHZjMnRUWXc?oc=5",
+        "date": "2026-07-17T15:32:23+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "La EEA Corrientes del INTA aportará su experiencia en un conversatorio sobre Inteligencia Artificial y AgTech",
@@ -138,28 +152,14 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOWVXeWlhRTlONXhOcFkzdTY2QU9nXzZNdDhBMkEzMGhKakpBT0E0NEN6ZllqcXBKYjZkSjB4aENGQ0VMd0JHbUFub0huUGo2N2pxUUYxSmxPdHpDRjVMRXRucmE2U0l2NDloSzc0eTRCMVBVdDFub09qZU8zdWJvOWc2SmN2MW1fUFJPS1NJMzFyeGo2X0FBTWdVUWVKcHcwbGZCZWQ5ajdScDNhNTFpR3FxY09XaDlCUGQ5OXVCSUc0bFFBSFE?oc=5",
         "date": "2026-07-17T12:51:15+00:00",
         "source": "Argentina.gob.ar"
-      },
-      {
-        "title": "Jon Hernández, experto en IA: \"En 2 años, aquella persona que no sea fluida en inteligencia artificial está fuera del mercado laboral\"",
-        "description": "Jon Hernández, experto en IA: \"En 2 años, aquella persona que no sea fluida en inteligencia artificial está fuera del mercado laboral\" Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVfSmlVTUF2QmQzQ3AwNG1ndUh5YzhCNVJsWWdkdXk5c2RBSFdGZ05sa0FEdl90Vl9zOXJHVzJNaEREdUp4ZUp6OERMck5haElPQVJTZ2E1eEpzblNiRmpJbTVPakdrVEJhdTFtTzRaTHRuMW5EbFluNUNkZmxDbHZxc3NXQ0hMQ0VqT01ISFFFbGhrblZyZzl4NjlDSGhpYUNfdEpZS0lmSldldTNwa0lDemZ3ZE5Xb2hRUHpyQURXZ0pDWXFBblI5WUV0YkNhTXBCVUFUTjdvQdIB3wFBVV95cUxQNjRoeXlmaEw5OGxucTN5eFo0RHctSUN1QUROd3BjZUt6ZU5LT2xHd0xBTnlNVjJHLVBCTlE3OWlyU1RjTVRTNzhzaWxWcXMwcFFoRllUVkVMMXhnS0JSazROczRyVnRNRXFpanB0SXRmU05GNjFvTEpxYlBWaFRtOEdhbnlsTVdBNS1CY1NVbU5LSUxJa2tTeFpMMlpVd19zbmd0bDZnbGNZNnRXQUVkdnM4RTFjZGJMV1RlN1NiR0lXd05uVWdSd2RvMTVQR1E1cEcwQU5KRWFhX0hmYWVV?oc=5",
-        "date": "2026-07-17T14:28:29+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Gobierno de Entre Ríos",
-        "description": "Gobierno de Entre Ríos Gobierno de Entre Ríos",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LeXczZzNENTBhMlFORGN1VkRXUWpxcVllY1pkc2h5cEFyWExRZjNrVnhIT3lIaWhaQ3ZSbWVWemJKbXM5UTFqM1JKU0MtRkxDWlQzU05aZGlEQQ?oc=5",
-        "date": "2026-07-17T09:05:22+00:00",
-        "source": "Gobierno de Entre Ríos"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Arenas para Vaca Muerta: Neuquén cobrará una regalía del 2% y debate una ley con \"reglas claras\" para las inversiones",
-        "description": "Arenas para Vaca Muerta: Neuquén cobrará una regalía del 2% y debate una ley con \"reglas claras\" para las inversiones econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSmpPbjlPeDlIdkh6QUtKVVpIYmJiWGpCZFdkTXJFcEVKT2dIMndJS0JIZG9DUDYyXzVvWkE0QUxzTzFFYkJaVzM0M3UtQlViQnE2WnlTNlNPSk9nbWV1a05MOUd3dFZMYWdUa0MwSFloTGVkdjhSWWZmb3R3QkRoSFRfTnV1SlRwNVROdjU0dGJPWktQTktRTElsa25iazNpNXMwYTYydWtONl9NQXZaNkVQX25Jb0ltWHRIYUxvQkYxZ0JQcjNhbEZDOWszbFVXTE5QREtQaHJlZjg5RjZuRG9ZNEk?oc=5",
-        "date": "2026-07-16T12:29:36+00:00",
+        "title": "DLS suma un nuevo equipo de perforación en Vaca Muerta para acompañar el salto de escala de YPF en 2027",
+        "description": "DLS suma un nuevo equipo de perforación en Vaca Muerta para acompañar el salto de escala de YPF en 2027 econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR0VsZXY5aTFUVENhMXlFWHJtMmNNMElkbWFVVkRybDRtcXFxbDJZakhWZDE2SE1WSjNjV21ydjQxR2V0MFN0NmVYODdaTlpqN1ZpYll2QjVLWG15aFZuNWxELThKOUxfaXRtRTA0dlR6UWIzcTV5bkFoUkpBaFR3R3p2SDhHQXdBcjMzVzdZTThVMUktWkVrUmRiYlc1Y1BJN3pvb3J2X0NCc2lrRy1GRHYxUnlGNUw0MU91LTNTcl9pSm9kY3RSenNKVHZGQXc4LU9tOWdB?oc=5",
+        "date": "2026-07-17T17:12:38+00:00",
         "source": "econojournal.com.ar"
       },
       {
@@ -168,6 +168,13 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZE5ZQUJObFlDenBkUjdKLXZKTjItVl9iOUxnM0Vhb3ppR01Oc29mRVd2TFZfVnJKUVRwN0E4TmhITzZCeDZlV1R0V3RkUHlWdkNnTGNUYllfTFBkTElRY3FsYmVXYWtDRVdJb0ZTTjdnbXpiZmF3R2xIQ2E0WFl6TUJOQUR0RlpOOU5xU2JScFhhOEtpSUVSU2FtdXptbGM5bW5fc0FWdzhjbE5B?oc=5",
         "date": "2026-07-16T14:36:08+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Vaca Muerta: Vista incremento su producción 32% interanual en el segundo trimestre",
+        "description": "Vaca Muerta: Vista incremento su producción 32% interanual en el segundo trimestre econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRF9CQXhtX1ltTnhKUHhuZllTbG1yLVIyLXpMSm1iOEsyVUZQMnNWVUZqY201OXE1TDJNeXlZdGtHSGc3eEdxeGlLVjB0bEJBSFE0STFrVU5xSUt4cHdEemQyMjFfZVRJcVQzZEV3RzFjYmJ6eHFZRmV4ZnBmeXA1TWljUlIzU093bDFKTDRVekQ0U3FUXzZJXzI3NEpIcGhIUXV4dkwySmJRVVVDTHdJODI3N29RSmp2?oc=5",
+        "date": "2026-07-17T13:05:35+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Vista aumentó 32% su producción en Vaca Muerta y consolidó su escala exportadora",
@@ -184,13 +191,6 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Vista aumentó 32% su producción, bajó el costo de extracción de petróleo e incrementó sus exportaciones",
-        "description": "Vista aumentó 32% su producción, bajó el costo de extracción de petróleo e incrementó sus exportaciones Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQanhXU2taYXRPdHVFYnBjTU1RNHJtb3BHYWVwMXZTNGwydHVyVGJzVGtmMFhCbXRaMW9yYXFrX1NZa01JLXVRVEVQbC1wQlRfMzZKWEJzVzJsdk9oMThuOUphaGQ4ZmkxZF9ib0RhYmt5UWdrWV9TMVRFYWdfd1gwa2JWT2Q3dVQwVHNuVlktczdpM0JQVXljcWxmaFI0VDRvYTBSekNxbndJUHNjREpWSGFBMkhqR0ZzMDQxclVZdWh0MEFlVk9xcGx3MlpubXZUeVNMRWt1M0VRWkF1Ri1N0gH6AUFVX3lxTE5VaEg5dWU0OHNCWmlrWW5FV0N0Y2lQMHF3cm5fbWNkOU5oSjlkSURjMFNucmxBSW4wSWpybEJyNmtzNGVZRzhtaUJEN2RvQndkYmw3NjZQTWh2eHdpZHpBYzhJVUw5b2J6bzJfbVplVXNqRmx6WDhQZ05lekFsRnZpOW5iMEpJS19XUUNrQ3VpbGxQNzh1eHFTTlBieXJGZ2tNUThTYW1WSVR2STBXdFJJcjVkUHlnc1ZMUzFmOFY1OTUwa2RuOTFvY0pBY1dnWXBwZ1N1TXA2MGE4d1dSRk42YnRyWVJXSkdHZ3czbks0aVE4Vi1BYWZiUHc?oc=5",
-        "date": "2026-07-16T23:16:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia",
         "description": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXM5b3ZLeWdRdnhJZHUtM2tfU2ZrVDlJNGNoVUhEbkVsT0pvRy01OUVobEo5MGhsY0daN09pRm9XVEk5M0REbnoyOEVCeUhLV2M4WU1Ia0xuYXVfZGdDU0JJbEJTUjFsQWM5ZWZ6WV92ai1RQ0pNNGcySzVVandtb3BLb3hCMzBGNXAzNjVWcHNEdjgydFpXejRnaV9OM1RTRHNZS1RZY3pMWmJIc0tQMTNCc01RZUJJbTdkckNrMTLSAcYBQVVfeXFMTnBOV0pqTnk5SXlpOGVlTndxbmliNDMxR3NNaS1meEVEWm5sU2VPXzV6UnpqNEZhZlQtaDU3YzZySlpXRUU5Mk9aRk43aWN5UWJwT3p0RnZaX0VIZUg1SHY4LVA0V0hlTXUzTy1hbWI1WktzVVFSeWpQMXBESy12ZUNORmJIeS1ZdmNFVjlhZk42bUViTmNwUVRacWMzc0o2TGNKcHZGdk9vRWZiNFJqVEpXU2lLc2g1UkYzX2E0TmlMNzdFdU9B?oc=5",
@@ -198,11 +198,11 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Destacaron el turismo y la energía de Vaca Muerta en encuentro con AmCham Argentina",
-        "description": "Destacaron el turismo y la energía de Vaca Muerta en encuentro con AmCham Argentina Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkRlN1QwcTNLZ2dRN2ZPN2J1ZXhma0R4TVF5UklRMkRFVUcxck1pVS1hVVdxRHo4ZExLSndSLWktWUs0eXktaC1HN3pWY0JmRUdxVi1pVmFuenp2OUtSUnF5TW9oUHdzQl9CU0g3M01IS2Ixd0JQalVVVF9nZmhMYkhTMFNkMnVzbnRRdEctQkMwcGFwRG1qTGlUMzJVMU5lSzVjaUVUUUVyN25qZzhFQnJMR0dMa20xSGdkRUFwQkdxSWRMNkd6RWpqdXlxak5vaGFzZmlncDBOLXhn0gHiAUFVX3lxTE1vM1dfaTF1MHlRZWZ0TWh6bG1LSERLLXlMMm9mTUZySzZpMWRwUzBCU053emlfZlNKeVdvNkNkaDJOZHZWV1NfSEdrdkFBYXlscXQ5MGoyR294NGVzR2ltWHh1T2tyT2FIZ2RIWEF3OGhYakhyejhfRGFYX2VTOVRVZUhKVW5MSHVEbjl2eVNuVWJNYWhrVDNzblpIQmhuQ3p5N1NXUmxISzlqNmt2UEozQzlyd2NkT0ZiZnFtb180aC1aUUFRZF9ZbDdtbFo2V0U4MmdqVWhmb0kzYnpMSFNIa1E?oc=5",
-        "date": "2026-07-16T12:37:39+00:00",
-        "source": "Neuquen Informa"
+        "title": "Vaca Muerta: El rey del shale tienta a José Luis Manzano con un contrato millonario",
+        "description": "Vaca Muerta: El rey del shale tienta a José Luis Manzano con un contrato millonario Urgente24",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXpDVkxuVTNlVTZBejBEMzlxcFp3am1HTVBaVk9XT2QycmYxbUJTTnhEMXJTemJuMlpCV1NaR2dBVGZabEJTdFBRNmhTcnVjZ1lLWFYtOHdOcXdsNE92WGhaWHlzdEQ5eHY3bFFJcEdfTVpOWTJxNVRNR0ltdVNwaTNZeW1UVGE3SWgtVGJyMFZsb2cxaDJBS2t4emRxN1NwVEVpalN4bjQxM0N2QkZKbEsxSdIBuAFBVV95cUxNNDRXYlZpenhHUHN3VDhfakNjZEhsb0ZOMzF2RlkxQ1BwSTFicmRLa0pGbDdDd0hJbl9LaDNRVFNOWlNndkpvOXVlR1JEenFiQmI3YmNRMDFsUngyajRheUdyaW5IMElYWENiQVRpUGFFY2NsNkY0M0NUR2V6Q2llc1d1cGZkYm5WcjVtcTJqZkhKRFJUX1JaRFRBR0x1NE5QTlloc2k5S0dvZXh5OGczTHpmdGZ3Q2Rm?oc=5",
+        "date": "2026-07-17T00:55:00+00:00",
+        "source": "Urgente24"
       }
     ]
   }
