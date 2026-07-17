@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-17T05:36:15Z",
+  "updated_at": "2026-07-17T08:00:05Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo",
-        "description": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTzFIU2ZSVE1Nei1kOUhrY2V4NjNtYUd0NW5CTllFelNqTENCTmhqaXhvVU1iVmVENjh3VkVjU0FwcGgxYnE4MkhDSUtoUXh0Q3REUjhjVWhsNFJDTDM4X0JsMnd4UVFTZUk5MVBtT2Y5dzJHSVBpaXh0SXh2a1piZ1I4SDVPTm5ISDZmNGZNYUdOeklmSi1sMm5BQWdTUC1kSEtNMkRpYmNEaGdtbDk4WVBtZW44UnQ5eEdjYllHOHZ3bS1XdGJSZ3ltT0pEZGJQOHRZMThkVXNYQzFMTU90SGRTZDlJc1ZkS1E3SHdzb1FmMFRW0gH6AUFVX3lxTE9ZaEFZOTdYUzZQX3hiRVNOa0lhUllWaFNQLUt4Znk2TWlDV213WGN5NkVhMU02d2FGcjB2UnFWWkh0bWdGSU0wNWdGR0NpbUFCS1NkaG5iem5HTFlOQkxCT0tYamVIQ1pZNzNPNFJMTkVCZ2c5Nlk1MmlueXVfZEd0bWtDMm42LWFVWHgtOGtOMDR4V3V3dFZFRG1ZR194Zmh2Q2tXNGRIS2NzTG5lRVRxMHdsTFV0aVNqU3VUMXVReVJWMnJ2SWJRT1FyWUJBNjhuZkJPT2xxUmtnTzFRLWJLWmNSNlR3dkNzN2w5U1dfTDhpbFRwanFwZUE?oc=5",
-        "date": "2026-07-16T19:01:55+00:00",
-        "source": "3DJuegos"
-      },
       {
         "title": "Microsoft entrena a su equipo de ventas para desacreditar a OpenAI y Anthropic",
         "description": "Microsoft entrena a su equipo de ventas para desacreditar a OpenAI y Anthropic Cadena 3 Argentina",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkVIZVB6SFVteVZEMzRYeDNaQ2d0UmVtT1AxV3luek83LUlOcU55ZmNCYk9wSHZMYmhocG5QZlIteGNYeTZKLVZMQlhLOGkzenlGaTFVZUYtNjVIUWNiQndob01BQkswSWoyQ2pPZGxZZDFXWWkyQ1lUdGgtQWh6MXE1dzUzZlVKdDk2WkhPbjJfUldPNmVLdVpIWU1ocDVCczh3YWFqcGFheFBTT2tBRDl2blQyR0ticGZKSEtBbHQxSU95WElN0gHMAUFVX3lxTE1Kc2FCcndmbXV4NE9EbzBlUTBOdHZ0TzduTXpoLTEwZi1yaW1EZmZoT0NrTWZ2bmw4LUd4bDM5STN6Z3E1aUZUZWlxV2JqR0hQaW95ajVXWlV6ZnI5Z3RfUllqRk4tZkRCWWl5S1RsUENUQ0pvM0p2V2VvQVVDYWplNkJkMHB3bF9PdmRLN2hURTM5SFI2UlctSFVZS3JTQlZMLWRNTmFSaHFuSi1VUFZZYXVzY3NrTUl0N3RYU2IyLWxWekJ2TVpzb3JyMQ?oc=5",
         "date": "2026-07-16T01:07:33+00:00",
         "source": "Cadena 3 Argentina"
+      },
+      {
+        "title": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo",
+        "description": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTzFIU2ZSVE1Nei1kOUhrY2V4NjNtYUd0NW5CTllFelNqTENCTmhqaXhvVU1iVmVENjh3VkVjU0FwcGgxYnE4MkhDSUtoUXh0Q3REUjhjVWhsNFJDTDM4X0JsMnd4UVFTZUk5MVBtT2Y5dzJHSVBpaXh0SXh2a1piZ1I4SDVPTm5ISDZmNGZNYUdOeklmSi1sMm5BQWdTUC1kSEtNMkRpYmNEaGdtbDk4WVBtZW44UnQ5eEdjYllHOHZ3bS1XdGJSZ3ltT0pEZGJQOHRZMThkVXNYQzFMTU90SGRTZDlJc1ZkS1E3SHdzb1FmMFRW0gH6AUFVX3lxTE9ZaEFZOTdYUzZQX3hiRVNOa0lhUllWaFNQLUt4Znk2TWlDV213WGN5NkVhMU02d2FGcjB2UnFWWkh0bWdGSU0wNWdGR0NpbUFCS1NkaG5iem5HTFlOQkxCT0tYamVIQ1pZNzNPNFJMTkVCZ2c5Nlk1MmlueXVfZEd0bWtDMm42LWFVWHgtOGtOMDR4V3V3dFZFRG1ZR194Zmh2Q2tXNGRIS2NzTG5lRVRxMHdsTFV0aVNqU3VUMXVReVJWMnJ2SWJRT1FyWUJBNjhuZkJPT2xxUmtnTzFRLWJLWmNSNlR3dkNzN2w5U1dfTDhpbFRwanFwZUE?oc=5",
+        "date": "2026-07-16T19:01:55+00:00",
+        "source": "3DJuegos"
       },
       {
         "title": "¿Por qué sube hoy la acción de Microsoft?",
@@ -24,18 +24,18 @@
         "source": "Investing.com España"
       },
       {
-        "title": "CEO de Microsoft advierte que hoy las empresas pagan dos veces por usar inteligencia artificial",
-        "description": "CEO de Microsoft advierte que hoy las empresas pagan dos veces por usar inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVpsSndUQ0ZhRXRobVdTR1p4ZmxUbXgyd1BiclV3T09hbVZ3MFhrcUFoSlNyTjVuSF9BdVF1NGkzd2FJWGNoQ00tQUJieHlYemc0eHM0bFhDV1hTMUZzV0xQQVRhV3l3Z2JaZVJrZ0xSLVlOQ1ItdzVTSEJMTEh3bHFNVVU5SzJrUTNya1h1SlN1QnE2M0VrTXFSUGJTeHdYMmJveGxGNHI0Q2huS2ExaXVfU29aSW4xZFlselNCT1Q0bm5meW02RG1QTG51c2gxXzd30gHuAUFVX3lxTE4tLUszMDJwY3gzNUdFX1J3bG9YTnpBNTRfcGU1X0pBd3AtdktWcDB1a1M2THlxUVNXWDJsLXdEb0lOb09UaG1JUndDQ1cxWjlxMDhPOTJuS3VkZkhOX08xUjZsa29LbTBjejVpbVZ0ZVZtMTZXRUlHNzUzaTVYaGdhdk4zSzU1N0RIVkxQWUdGUWw1TUdYYmlBU1huTGlMelA0OE4ybUd6OTNEOXIyNVhmMjlkbDYtVTFJbnpKUWVZQXlmbFJ4ZktWcGozTWJFT0QzQ2lQM2llN25ETkFFWGxWVGdtX1otV0pNLV9wSXc?oc=5",
-        "date": "2026-07-14T17:56:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "IA pone presión sobre compromisos verdes Amazon, Google y Microsoft",
         "description": "IA pone presión sobre compromisos verdes Amazon, Google y Microsoft ExpokNews",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGFBbVYyY2gtU1BCLWZrekhlSVN2VUsxQzBBdXYwU0dpd0JxbzVvbUtFT2lXcGhLdEIyRkYzeUxWUG5vNjg0alk3aGdCT1U1aXM4OTgweFNXZmxudWt5eWI5cWF5ZDJMQmh1UDd6M1M2QkF2TVpWSEwwVGJYQ21fNUlYc3dHNTJ5RVBMZjRhdmtKeXY4dVJiU2Uta1Q?oc=5",
         "date": "2026-07-16T06:42:31+00:00",
         "source": "ExpokNews"
+      },
+      {
+        "title": "El «caro» divorcio de Buffett y Gates por los vínculos «desagradables» del fundador de Microsoft con Epstein",
+        "description": "El «caro» divorcio de Buffett y Gates por los vínculos «desagradables» del fundador de Microsoft con Epstein El Debate",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcjFNd1k5MDlHdVN5NEFFUWg1YVY1dFRtcmNYN3ZRSlNOMWRYaHNPaURJUGFIaUd5NzNiYW9TSVJYdWVqWXo1dHp0MDNTYjRzQjlNZ0dUdDdBanZPT3ZDY0FtOU9wN2dub2VjdW1hVlJqZlo2ZVB4Y1NJT2FDS1FMZUhoenR2d0dNTzZjVGxfZXpQNi1oeGktb2FId2pyaXBCU0t4RGJwUGJUaHJUaWN3U0wzcWJYTW80WEhzU190a09XQzBOWE04LXJSVDZFTmg2MldN0gHYAUFVX3lxTE1sNDRjLUFtQlFXb09BODJZMUVsd1dVLVpsNGNYZk92Z1U3WmE5ZFVicmwyVEE1Q2xIaGE5YUNPckg0LWpfbHRpSVJPS0g2WkMyQW5jUkFsb3diV2twdHZBS2hLU1hGQ1ptNDc0RWFSdll4MzI2ZWgxRWhTdFlfNnpwUncwVVVJVTRnY0d4dTJpRXNNcEh4c21CTENvTi0ydTJHSlU2UTR3NjBNZGx5U2NoT3RoY3pnOHhIRTIwbnZ6Y1NNRGNnb3huSmtycEFNRlBzYlVVdnR6TQ?oc=5",
+        "date": "2026-07-17T02:20:00+00:00",
+        "source": "El Debate"
       },
       {
         "title": "Duras críticas desde id Software a Microsoft por los despidos: 'Tener un buen juego ya no afecta a tu supervivencia'",
@@ -68,6 +68,13 @@
         "source": "diariotortuga.com"
       },
       {
+        "title": "Estrategias avanzadas para dominar el mercado local mediante el marketing digital",
+        "description": "Estrategias avanzadas para dominar el mercado local mediante el marketing digital IPMARK",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZWElYWjh6ZUNBakx3MjVqVFo3NTZ3cVZBZUZpOUlJSXVITkFHZWdpSHRQa1ZwSHEwVGswaHI4SEpibVc2ckladGVYQjV1WWtGU0VFN1VDSTVQTmZYV2xEcEZnZFNRNVE4MWIwZ2RJQUo?oc=5",
+        "date": "2026-07-17T07:00:15+00:00",
+        "source": "IPMARK"
+      },
+      {
         "title": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS",
         "description": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS sanrafael.gov.ar",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMyX3laOE9yY1VEaFN4bE5IWWZqY29yeTBxczJJeTJZajk0NkRJU3BOSU5ReU1tODB4TTZldTJHUDFtYzJ3MGV6MmN0YWVhRzJLZkhHLURyblgwZWRNd1ZiSk5SQXRXYmlZazFrRFNPZEd3LWRPWWtsczNpR21PS2RFWTNEMElGUUJmQnUtWF9WMXVRUDZkRl82aDYtczNCbmFNc09XSE96VVgwSm4wX0laMXh3QklrTU9HUWxiYjl3QW1ycWc?oc=5",
@@ -82,13 +89,6 @@
         "source": "Diario Panorama"
       },
       {
-        "title": "Publicidad digital mantendrá un crecimiento sostenido del 7,2 % anual hacia 2030",
-        "description": "Publicidad digital mantendrá un crecimiento sostenido del 7,2 % anual hacia 2030 www.revistaeyn.com",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ21GZ3Q3NG5Yb05LZFMwQ0pQSkNMbW8wYjdialJaNzZiTWtQZkowMHdRNG5ORmhDT3dzb0NKdVNyTURMaGV2Q19STlhpdElqMTh4M1hXbTNwbDlpSnVjOTZDMWhxbFl5WUNscmNRX0xESEtKOXdQemZDYTBCMmowOHRmMnRmR1cxTEZsNng1cEozSEtUZTZ1ZGRtYUtRczBtdDZHbHlkclhXQUdLWGlpZWZROE5WUndRbkxXYUljS19mcFhpZDdINmM2OUtRQUN3?oc=5",
-        "date": "2026-07-16T14:14:30+00:00",
-        "source": "www.revistaeyn.com"
-      },
-      {
         "title": "Inscriben para capacitación gratuita del sector turístico",
         "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
@@ -96,27 +96,20 @@
         "source": "Neuquen Informa"
       },
       {
-        "title": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital",
-        "description": "La Ciudad de Mendoza lanza 50 becas para un programa de marketing digital Municipalidad de la Ciudad de Mendoza",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdVlBTEpOdk5ka0RUWno0ZkN4bFEwZjJZZnZ5U2hjbHBiOVQ0MU9rbnFJUkRncVAwd3VyRVpZeWczdW9ETGRJOFFJbkFVeEdQcXYxeWE0SHVUSjJ4Y0VpSUFocUJZZ2ZLWllYUVFucE02ZDJkSGJzNmZLVnYzaWdMYzJDaVV4QnFlSUwtVDhjbENreWhlUVE5TkxHS1VLSmJDZU5TQXpkaWZNZHBBV0x0cTdwQ1pZYktvMUluRGRfdVg?oc=5",
-        "date": "2026-02-23T08:00:00+00:00",
-        "source": "Municipalidad de la Ciudad de Mendoza"
+        "title": "Publicidad digital mantendrá un crecimiento sostenido del 7,2 % anual hacia 2030",
+        "description": "Publicidad digital mantendrá un crecimiento sostenido del 7,2 % anual hacia 2030 www.revistaeyn.com",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ21GZ3Q3NG5Yb05LZFMwQ0pQSkNMbW8wYjdialJaNzZiTWtQZkowMHdRNG5ORmhDT3dzb0NKdVNyTURMaGV2Q19STlhpdElqMTh4M1hXbTNwbDlpSnVjOTZDMWhxbFl5WUNscmNRX0xESEtKOXdQemZDYTBCMmowOHRmMnRmR1cxTEZsNng1cEozSEtUZTZ1ZGRtYUtRczBtdDZHbHlkclhXQUdLWGlpZWZROE5WUndRbkxXYUljS19mcFhpZDdINmM2OUtRQUN3?oc=5",
+        "date": "2026-07-16T14:14:30+00:00",
+        "source": "www.revistaeyn.com"
       }
     ],
     "IA": [
       {
-        "title": "El Salvador evalúa una propuesta de gobernanza digital con inteligencia artificial",
-        "description": "El Salvador evalúa una propuesta de gobernanza digital con inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczcxY1AyenFBQ0RiTDdDU29VdlFFcXlFektGT0pmdW1Wc1AzQjBDcWxsZmZPU1pUOG9wWDZEbm1CX3R3MUdpblFzZlVWR2lEUG15N1V2LXFldVM3bUU1Q3RsREQxWHhBaVc2SnRuNXBXb0NqTFVIY3RWNnYteTlsVjVtZDBoUnpxT0twVlZDWUtCMkdUdWVVMGdJcHJpN05KT3R1bzd2RjVzOXBSd0dzOS1FVkE3MFJOMGtmdUFhUEF2X2xwbHZtdzF30gHkAUFVX3lxTFBqZmNrOHJ0R0I4aWd1UnZZZERkVVo4ZUNMTG1JejU3bV9YRWxkSjdDQ3J2cnlsblh6S2paWXJXS2hQbTlrTllDOVhXM2pVSV9Xb0EwNVVWS2tPcjB0ZGNQOXBfbEV4ZWlkYUMwcDVENVFRLUZsYXpKX04wVFljTWV1S2pMM2pwcExaUUhtYS1NdzcwNFdUNGx4MjRsM0xTRHhuY1lSbmpoXzJvZDQ0V3h6aERRWi1vdTBaSHVhWGF5Mk1TX0ZFbndqSkZjblprNHYzYXdaZnJFOVFPNlpiMG1DT1Jybw?oc=5",
-        "date": "2026-07-17T04:25:35+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "¿Puede la inteligencia artificial superar a los humanos? Riesgos, oportunidades y escenarios para el empleo del futuro, según Alan Daitch",
-        "description": "¿Puede la inteligencia artificial superar a los humanos? Riesgos, oportunidades y escenarios para el empleo del futuro, según Alan Daitch Infobae",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdVRWV1k1aWJSZ3laSzBkT2tENUNmcTU2a1RRNnd4R2x3ek1LRXhqdjE0WTJ6c2I0d1BUbjVrZUZibzRfeVlJbzVlb2VFejg0RXQ4SlBrSGdqZG4tWmxuUkEwYjgtR1V2bktuUV84MmpRaFZ0RnlSbkRxMmtUZU02djFxemFTU0RHSVdfeGdHa0hQQ3MwbGk2N2xWWm1LMGI4aUR3UFlsemtlRFFKa2tYRmllYmR5VDh3R24yX2Y2LVdtWGFTdmlaeHNTbHhRR1FZRWlmaXEzZ3prMjg5TmlRZUxTckxPSTJ5SENrZjUtMWJYN3I1TTllblcyUzhfSkVENkJRYXIyaGNTNGlO0gGnAkFVX3lxTFBwMjQyZFdnVTBrc0l1NktlYmJ4V3BXbzRPeXd3QkJpeXlpc0FqRW5USGlJdkxvZlJXSmJVV3hRdXphRlliMW0wR0NKSnZORGduc19GVUNJWW5JSWV0R0hvSHBiT1RadVFjY0RlOElGWDhYZ1RJTWJSZThZVDc0NkFFN19PSno0MkRHTGZOSFptczRaTWl0WGI4a1I0QWtkaUl0WUlMWFFqcGRwX3NlY2pYRTU1X3NhYTdYa1hGdjZ4UHJwOUJwSVJiV2p1VTFtNnpVWlhVcHBfMDFHdGdyREZ6M2hSWWwwQzBZMXRpY05JQWRlRDBqSXBzMmx4a3FfR0NsUjRVVDhtaEJKNURsaW5MSEtGX1NlSE1aQmtWV2FSdmRDaGRoT00?oc=5",
-        "date": "2026-07-17T05:08:17+00:00",
-        "source": "Infobae"
+        "title": "«Declaración de Roma»: un compromiso sobre las armas nucleares y la IA",
+        "description": "«Declaración de Roma»: un compromiso sobre las armas nucleares y la IA Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZm1fVm1mSngycVRTSTRoeE1GTkNETWd4SkdFbzZrVXY0QmVDeVcwNGd6R1hiTUtwcjlvZ1pFTWp1aEFIVFpCZ0NPXzhWRnlhS3hVWkZIMWVvcnIxWlQzQUtKLXU0M0FSWWZQUlNwVXlNR2Q2Zk1aYWhld2JLeDNLVks4YWlpVDFtMWdKam81NE5VT011a0NmNjBBTU9Ha0dxVzZ0a3F3VllPMXZ2bjdkam5kdw?oc=5",
+        "date": "2026-07-17T06:35:40+00:00",
+        "source": "Vatican News"
       },
       {
         "title": "Así será el resultado de Argentina - Inglaterra según la inteligencia artificial",
@@ -124,20 +117,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTZvMG1JRTBZWVhVQlpNUXA3ZDZnQXZ1YkRoaFdrMjJKeVpST0VmeHN3N1hmXzBmcF80aldvYmRBcnJxbTdLU0lDNWlzWE83ZjM2WUdFaGpHRGZNbDFPSktzSWFJNFliajFCdHFza09ManNQSnpkUXpYblBIR1JCNVZNUnFqLWlDTVV2UmpNaVdqUXhUVkNtVlNLRHZwV0NKZ19zTXY2UW84UjZHMllqcHJZWEVzbTBiQXdCckpiZXlIV0k?oc=5",
         "date": "2026-07-15T14:12:11+00:00",
         "source": "TyC Sports"
-      },
-      {
-        "title": "Argentina vs Inglaterra: quién ganará, según la inteligencia artificial",
-        "description": "Argentina vs Inglaterra: quién ganará, según la inteligencia artificial Radio Mitre",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzdJYTdDNHkzcHhJSnk5TXBUZHhmWVBGZUJIQWNLRWtoM0VNaXBhZW9fVkRsQl9ldjNfdGxRWTl5SWFuVWZUaThLU1BLUzBtamVGQzI0ZFhjMW1UamduZ19CdnFKQXhtYTRkMkdoRU4wZ1dTcUUtSHFXcklmZjhsWldaaTVwbHJlc0hPRHF1Z1Uzdm5MakFfQmtvZF84ejk2X1prQm9sZHlVMEs4WXpISEMxdw?oc=5",
-        "date": "2026-07-15T15:05:00+00:00",
-        "source": "Radio Mitre"
-      },
-      {
-        "title": "La inteligencia artificial anticipó el resultado de Argentina vs. Inglaterra por las semifinales del Mundial",
-        "description": "La inteligencia artificial anticipó el resultado de Argentina vs. Inglaterra por las semifinales del Mundial Diario Panorama",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUElDdThvbmZOTG4tSjdYWW1STGRJM2dxNFQyYlRXb19rR0JOTjZEQWJmcXYtd2lvalN4UzFuQTdqcDhGeU1IeUU1M1I4RzBJWlJZcW1ud2U4cTNkQnJoZGpodDJZX0RqSDBuN3RLSWNCOHBBNXA5Q01oQ2xkaHlGU0xCSjRiQVlYQTR6MGZ5NTJJRXJMM1lnYmRNcmR2cFlZaGlIUVRiLUR2Z19xREpyNS1ra0k2ZFVMMWl5b2trRGoxX2FjVFMtekh0ZGU?oc=5",
-        "date": "2026-07-15T15:31:29+00:00",
-        "source": "Diario Panorama"
       },
       {
         "title": "La evolución de la Inteligencia Artificial: ¿puede ser que se esté mejorando a sí misma?",
@@ -150,8 +129,29 @@
         "title": "La Provincia y la OEI realizaron un encuentro sobre IA y políticas públicas",
         "description": "La Provincia y la OEI realizaron un encuentro sobre IA y políticas públicas Provincia de Buenos Aires |",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVU5JN0hVOWJSMGMyMi1HNzNOSU1KdUIzZVBER0dMTVpfLWphTGhYSENPLXVwQWR1U3NNODB1SkVLUEVsU3NxOS15bzdzdlFOYkViTGtRYzFGZkhmbzZNNDBreTZKLWcxdHFXRkx1RVIxWUJyZ2VmVzBwNXBrTHdPeVoxamRCMk91VVJPR25CV1gxVTVWRkFoNW5FZDUwWjNHYzgzbXlCTy1TX0JhUGZDZzdmeV9LUXVwektjTHMzVUJiUXpK?oc=5",
-        "date": "2026-07-17T01:57:33+00:00",
+        "date": "2026-07-17T01:57:14+00:00",
         "source": "Provincia de Buenos Aires |"
+      },
+      {
+        "title": "¿Recibiste una llamada de un familiar pidiendo dinero? Podría tratarse de una estafa con inteligencia artificial",
+        "description": "¿Recibiste una llamada de un familiar pidiendo dinero? Podría tratarse de una estafa con inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbThncEt5MkVKT20ydUpZMEZzd3QzUmVIOVNIakRUXzFYZDhpU1E5R05rTmQ2SnNSOGZWNkp4R3FtMFpHM0Q0RnEybGIyaVo5Ym95Wk10c0FHT3hiRkxIcHRyQmxzYl9YM0Y3VVRJajRGbXJrNVBYRTM5LWswZW81LXRhV1hpcnhIdGdZbmVPNDNmV0Z1SE0xY0FBZmhhVjhCbW9iRlE5eThGWnVka1lPQWNjTEdLNW1RbXhLclpiaDlPVFBHU2ZfWXpoMFhpbmhneUZYcFlveW81NHZNZnByYlgzdU52QQ?oc=5",
+        "date": "2026-07-17T01:52:08+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Las plataformas de gestión escolar también incorporan inteligencia artificial",
+        "description": "Las plataformas de gestión escolar también incorporan inteligencia artificial Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHRzYTFuNFhGNHVydE1nSVNHeGpxTExtY3V3QV8zU3hDbk5XR3VPSUVTT0ZGTkhLaHpGNm85clRFeEVlWnV2cnMxak9Qa2M1NGxqRWJwSTE1a3FyUEhfcnZOUDRVWjZ3ZFQ5REFTWU1vX3dPcWZqRE0xc256bWFtNFNaZWpXUzBoNDFYUjlFZnZRRTFYcF9abkx3UzkteERrc0xJU0xuRzdNUmoyTVUxbjU5eUhvdERGZkxUQnJJRUVnRDVDbGR5Y3RBUdIBywFBVV95cUxOZHRzYTFuNFhGNHVydE1nSVNHeGpxTExtY3V3QV8zU3hDbk5XR3VPSUVTT0ZGTkhLaHpGNm85clRFeEVlWnV2cnMxak9Qa2M1NGxqRWJwSTE1a3FyUEhfcnZOUDRVWjZ3ZFQ5REFTWU1vX3dPcWZqRE0xc256bWFtNFNaZWpXUzBoNDFYUjlFZnZRRTFYcF9abkx3UzkteERrc0xJU0xuRzdNUmoyTVUxbjU5eUhvdERGZkxUQnJJRUVnRDVDbGR5Y3RBUQ?oc=5",
+        "date": "2026-07-16T21:01:00+00:00",
+        "source": "Rosario3"
+      },
+      {
+        "title": "Inteligencia artificial y soluciones digitales para el agro: todo sobre el AgTech Forum en la Exposición Rural de Palermo",
+        "description": "Inteligencia artificial y soluciones digitales para el agro: todo sobre el AgTech Forum en la Exposición Rural de Palermo ReconquistaHOY",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMDVjY0V4c1c1TWhaZ1V4ZGhsZzVGNVNXUTFnWDNlTjNnUk1nV29COTA4VTIyZm54Wkx6WTN2OTZycWNaQTBKNWNmd2ljOWQySmJpWmdFQTlGcE5xUTVPWWt5RWdfa1pWcmZGMzRFSGMxR2pNa1hYUFU0V2JXU1Z5cWpWSkNsUmk5WmNJaEFpUXota3RRd2Z4aHVZNVZtWk5BNDlIMzNNZlNqR2NLMHZnTzFkaHBGMGVGQVFqcjhRekw1YTF4RmNtY0xxWU5CdnkwTXJVRVZCRTM1ZWo0NU9zZXBmNnpaUmtVd2hfZGh3?oc=5",
+        "date": "2026-07-16T11:54:41+00:00",
+        "source": "ReconquistaHOY"
       }
     ],
     "Vaca Muerta": [
@@ -184,10 +184,10 @@
         "source": "Ambito"
       },
       {
-        "title": "Vaca Muerta: el petróleo Medanito seduce a los gigantes asiáticos",
-        "description": "Vaca Muerta: el petróleo Medanito seduce a los gigantes asiáticos Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYThVTWxZZlhkanhCSVhBeEJ3LUJZb2c3NU5EM3FFbFp3OHpjTVRITllESk9MR29GdVFqUFVGOXFQQ3pYZkJwWDAxdUYtemJHbTk4QVRnV2c3NGw1bnFlUGhoRkJTZ25EZTRxTjFRUFE4elhxMVBZRlZuWjVycWp0b09uQlJPN0o2WGxMekJwMUZBeFpnNTJpb1FNMXFfRlNlYkh1cTZfZ0xlV3E1SE1z0gG0AUFVX3lxTE5OdzRsaHQ5NTljN09EM041WXdpQWowZGF3ZmVvMWxlazhTMHdKc1VQanNIRDIzZlFTMzNITFRRN1NnRVlyOGR0TThFWExjZFJNd1lGbXdwV0NWN0NDeVhuZXpwSmc3Vk13M3h0SHpTcnlpODI1U2pmeHZ4dHRYeE1qTGhEakJCdExQY3ItR2I4d2VaY2xFUkZOQWw3aXliVjZ0bHRvRHByT21QR1I5RWxKZ09TTg?oc=5",
-        "date": "2026-07-16T13:40:00+00:00",
+        "title": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia",
+        "description": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXM5b3ZLeWdRdnhJZHUtM2tfU2ZrVDlJNGNoVUhEbkVsT0pvRy01OUVobEo5MGhsY0daN09pRm9XVEk5M0REbnoyOEVCeUhLV2M4WU1Ia0xuYXVfZGdDU0JJbEJTUjFsQWM5ZWZ6WV92ai1RQ0pNNGcySzVVandtb3BLb3hCMzBGNXAzNjVWcHNEdjgydFpXejRnaV9OM1RTRHNZS1RZY3pMWmJIc0tQMTNCc01RZUJJbTdkckNrMTLSAcYBQVVfeXFMTnBOV0pqTnk5SXlpOGVlTndxbmliNDMxR3NNaS1meEVEWm5sU2VPXzV6UnpqNEZhZlQtaDU3YzZySlpXRUU5Mk9aRk43aWN5UWJwT3p0RnZaX0VIZUg1SHY4LVA0V0hlTXUzTy1hbWI1WktzVVFSeWpQMXBESy12ZUNORmJIeS1ZdmNFVjlhZk42bUViTmNwUVRacWMzc0o2TGNKcHZGdk9vRWZiNFJqVEpXU2lLc2g1UkYzX2E0TmlMNzdFdU9B?oc=5",
+        "date": "2026-07-16T16:34:00+00:00",
         "source": "Lmneuquen.com"
       },
       {
@@ -198,11 +198,11 @@
         "source": "Letra P"
       },
       {
-        "title": "Vaca muerta y la paradoja de la abundancia",
-        "description": "Vaca muerta y la paradoja de la abundancia Tiempo Argentino",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTXlLblBxajJSUS1XUzN3T05TeFNjVll5WHR6RU1SZDQxb0gyZDRkRkV2dXN0UkNSMlNfNEUtblNoeUszVGtIOEdQYXpBdHVvYUhYMDJhZUpPUFRxZmxEejI2MjZGWGw2S3Z1RmEtOFY2ZnVXX183dWRXQnZSUWJWbi1ZaExkZXdTUlHSAY8BQVVfeXFMUFQzWHVzSjFyZk5pWFBaMEhKd3YyUm9GTTZnc2pxWWF1QWk5VkVkVVZXWjl4OVZLeVZvSGlETTNsc2s1TEJZNXpVa04xR2FfRmFJR2pNZWYxSHVhYlA5M2ZUeC04UmtvSGszTjlFNkpGVThyRTJaUUU5b3ZVS0w5dENEdi1hOTZ3MDZXaXZfY0k?oc=5",
-        "date": "2026-07-15T00:00:23+00:00",
-        "source": "Tiempo Argentino"
+        "title": "Destacaron el turismo y la energía de Vaca Muerta en encuentro con AmCham Argentina",
+        "description": "Destacaron el turismo y la energía de Vaca Muerta en encuentro con AmCham Argentina Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkRlN1QwcTNLZ2dRN2ZPN2J1ZXhma0R4TVF5UklRMkRFVUcxck1pVS1hVVdxRHo4ZExLSndSLWktWUs0eXktaC1HN3pWY0JmRUdxVi1pVmFuenp2OUtSUnF5TW9oUHdzQl9CU0g3M01IS2Ixd0JQalVVVF9nZmhMYkhTMFNkMnVzbnRRdEctQkMwcGFwRG1qTGlUMzJVMU5lSzVjaUVUUUVyN25qZzhFQnJMR0dMa20xSGdkRUFwQkdxSWRMNkd6RWpqdXlxak5vaGFzZmlncDBOLXhn0gHiAUFVX3lxTE1vM1dfaTF1MHlRZWZ0TWh6bG1LSERLLXlMMm9mTUZySzZpMWRwUzBCU053emlfZlNKeVdvNkNkaDJOZHZWV1NfSEdrdkFBYXlscXQ5MGoyR294NGVzR2ltWHh1T2tyT2FIZ2RIWEF3OGhYakhyejhfRGFYX2VTOVRVZUhKVW5MSHVEbjl2eVNuVWJNYWhrVDNzblpIQmhuQ3p5N1NXUmxISzlqNmt2UEozQzlyd2NkT0ZiZnFtb180aC1aUUFRZF9ZbDdtbFo2V0U4MmdqVWhmb0kzYnpMSFNIa1E?oc=5",
+        "date": "2026-07-16T12:37:39+00:00",
+        "source": "Neuquen Informa"
       }
     ]
   }
