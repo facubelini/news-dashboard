@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-17T10:06:58Z",
+  "updated_at": "2026-07-17T12:04:21Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft entrena a su equipo de ventas para desacreditar a OpenAI y Anthropic",
-        "description": "Microsoft entrena a su equipo de ventas para desacreditar a OpenAI y Anthropic Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkVIZVB6SFVteVZEMzRYeDNaQ2d0UmVtT1AxV3luek83LUlOcU55ZmNCYk9wSHZMYmhocG5QZlIteGNYeTZKLVZMQlhLOGkzenlGaTFVZUYtNjVIUWNiQndob01BQkswSWoyQ2pPZGxZZDFXWWkyQ1lUdGgtQWh6MXE1dzUzZlVKdDk2WkhPbjJfUldPNmVLdVpIWU1ocDVCczh3YWFqcGFheFBTT2tBRDl2blQyR0ticGZKSEtBbHQxSU95WElN0gHMAUFVX3lxTE1Kc2FCcndmbXV4NE9EbzBlUTBOdHZ0TzduTXpoLTEwZi1yaW1EZmZoT0NrTWZ2bmw4LUd4bDM5STN6Z3E1aUZUZWlxV2JqR0hQaW95ajVXWlV6ZnI5Z3RfUllqRk4tZkRCWWl5S1RsUENUQ0pvM0p2V2VvQVVDYWplNkJkMHB3bF9PdmRLN2hURTM5SFI2UlctSFVZS3JTQlZMLWRNTmFSaHFuSi1VUFZZYXVzY3NrTUl0N3RYU2IyLWxWekJ2TVpzb3JyMQ?oc=5",
-        "date": "2026-07-16T01:07:33+00:00",
-        "source": "Cadena 3 Argentina"
-      },
       {
         "title": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo",
         "description": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo 3DJuegos",
@@ -38,34 +31,41 @@
         "source": "ExpokNews"
       },
       {
-        "title": "Duras críticas desde id Software a Microsoft por los despidos: 'Tener un buen juego ya no afecta a tu supervivencia'",
-        "description": "Duras críticas desde id Software a Microsoft por los despidos: 'Tener un buen juego ya no afecta a tu supervivencia' Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYXF4MlYwTmk0UUliSk9qWGZrODhNa0UzbUtPUERTeHduMXpCZVZFeG5lYW5CVFIwX2lrSDJJQVE3dzlRTkQtNDFQS3NVLWlCdjljalZwOVRmaGFpSEZfNlFBeEJWa3NTQUlEVzRhV0ZhVlZ5cklQLTl3OTc5WWF4Wmg1anBzaWVRRXlxZG1RNzFodk9DckpnRkRVT3V0WThKTWdHYnNoNGxEQkFaWnZVbGlyTUhDa29xdWtBbGViUWlQd3h3a2k0aVoxM0t2WmpicW5mb2RBOTNBd0ZTbmlFZ29fLXBjSlRPSUpz0gHwAUFVX3lxTFBWcDJXV096NUJxd0ZienJCMEpYbDJBNmVhQVlaeEk2TUZXQm9mT0lqMkdoczJOWmFhaWVBcThJbHAyYUxIVnp2cEd5SlF1b1FTR0FXZ2o0NV82Wk0xQkFmNFdnNmZnRGNqSlg4cjhYZGx3SUhIWjkzNHdwbm5rSlZ3MVFoT1kzVUI5WDFVbmVON25YVHg1S1R1ZmpiYWVWLXE2enZOSW90eTBONDhVeGJKdHo4NTNRZGlxbFlLODNPMnZXZFBGdGtDTUV1TTRjRHk1aW14ZXVjV284UldiTm5QVkRhWm1EbFA3THlFTDF1VQ?oc=5",
-        "date": "2026-07-15T15:04:00+00:00",
-        "source": "Vandal"
-      },
-      {
         "title": "Cómo instalar la extensión de Microsoft Rewards en Chrome y empezar a sumar puntos con Bing",
         "description": "Cómo instalar la extensión de Microsoft Rewards en Chrome y empezar a sumar puntos con Bing La Vanguardia",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXM2SEoyYU40V2FPdkJRUVpKM05rVDRiMW1sRU9GMTRYU2phbE5JSXMxUnV1bmRXRXpZenN5Y0tXdnRHWWZzRW9jeVpsd2I3WC10U2VtRXdXanU4SDlvYkRuVE03WHpWSWlZZ0JMYWx6T1BsX2hyaGZMTWpVeXpHTmd3WE5jTzl4X1pxVTZtMVpCejU0SmExT3NfRmRvYWd3cW9MQUNuQVRra2hYZHpmWkhDd2YzczlQaTk3akczUHLSAcYBQVVfeXFMTVc5UkcyY29ycnFReGFjU1NUV3c3UFB0VHplMDI0cXBOQ0QtaVVoQTJVSVhBOGFqQmF0UnNNRzV5LWJ3alF0eF9DTm1BX2N3Zll2bzhweHdGc1FMWGs1WjlkN2t0N0psaFpMR2FjOTdRZGZDbW1CU3FkVmZ1eTBWWW5feWNYaGp3LWlFODVNSEVaNDRFVU9GbWRKUV9FT3AzTk45UGlIYUVqdDVMUnNLb1hiVE5uVi1PVzV2d0ZUS01tcHlZZ2pR?oc=5",
         "date": "2026-07-15T03:50:00+00:00",
         "source": "La Vanguardia"
+      },
+      {
+        "title": "Satya Nadella, CEO de Microsoft: \"Pagas dos veces por la IA. Una con dinero y otra con algo más valioso\"",
+        "description": "Satya Nadella, CEO de Microsoft: \"Pagas dos veces por la IA. Una con dinero y otra con algo más valioso\" El Confidencial",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkdrRUs0VU1kNkNRcmZoblh1dG03a2xFVHh1czl3N2FDajJGVFZDb1NGQkNoRkVrdjJiSVVibGFkdExzRjZkWkc4MXVhUlVxdDhRZFJsM3NCbXVVNlpvN0tEaFF5bk5ZVXdNSGNGbWJuS09WWkdtdTdkMmpEbkhXTmVQajA2UGdoUDlIb01IeHloVW4tS1U3ODZqeG5NUGJj?oc=5",
+        "date": "2026-07-14T18:13:00+00:00",
+        "source": "El Confidencial"
+      },
+      {
+        "title": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
+        "description": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdZTGYtY0E4eXJVd05LamtRY3FMQUNtZldfYTdRZXhLTlJ1MGRsUE9mZ3doNkU3WkpZd3ZCYWU4RnMwZmNqLXpXRFdxUV9lRnFRUXJUcVdOUnoxZzBBeFlsNGZiQ3ZOOTQtWjVDUTloWlJaQjN5VHU5OVkyQ3R2NGZWZGRfRThwb3FJOU1LM0RsU0lzZkw2RDBabU52V3Z6ZUFMSHBySUpYcWtPbGE1dE10XzJFSG5uYTBCSS1PR0hQLUstVUtwbS1CM1HSAdIBQVVfeXFMTUUyNXpESUVNempOR29taEQxcExPNVVDMUs0N2QwZEpuUWVlMElEcWlBVzRNSzk3YW5qdkU5MU9tbjhRWVNhMVVmSFRUV283UVlBbXR4X3FrbkYwMVNJczZVQnVpYk5SS1Yxa00zVFdENXE1VUdHZU5SOXRkWHZ5aGpCdWRIdVFvVEloMHdjSk1DcWZKZWxQd09wdTNNUllnaFVBTXNsaFRqRjUyREJUWjJjN3kybG5TT05tOEVYMXI1WVBKQVlQSjlqUFJKbGlWcldn?oc=5",
+        "date": "2026-07-14T10:30:00+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
-      {
-        "title": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? - Diario El Norte",
-        "description": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? Diario El Norte - San Nicolás",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2JVU19fMS1SZUhKSDc0alpuTkdPcHZoUEtlZW5PU2p3NHpkYnNkbVN4NE03QVVFSHBWbHFWaWpuclp5aUhlb3ZON3NfZDBxM0gwYklDRW0yUnIxZ0F0bHAtWXUwS0JILVY3OHhDRGh4STZaVk85NDhmdzVjT3RzSFNVYS00N3A3dlJiM2JveGJ1Wnc5Nkc4UVFjZ2hDZ3pJbjhLZElYb012VG1MX2ljX0RFNk4waGVWcXc?oc=5",
-        "date": "2026-07-16T13:31:23+00:00",
-        "source": "Diario El Norte - San Nicolás"
-      },
       {
         "title": "AMDD y DMA quieren impulsar la economía de datos en Latam",
         "description": "AMDD y DMA quieren impulsar la economía de datos en Latam Marketing Insider Review",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1RYb0JoWFMtdlM4UlRDclBqRXNRX0dLMjFMY1YyLXZfQVhZLVVxT1dpcVVzN0k1VC1JV0h5ZC1nUmV2N0x2WDJxeTNPTGhqNVpjd3hscWsxZ1BxRXN0emxhcF9kckMtOXZJWG1fWmxqNEdzTnN4ZWpKcUNyWnB5VHh4R2ZUa0YxVXBhMWkzRmctMldyV2twT18xUFhSZW9RS3NwVXo3TDF0b2JxMUM4TzRHaEZKT1Fzamcta1Q5SmdqX1dVRkFwSVZhTTd6MmJwOEpkLWF5Y1M?oc=5",
         "date": "2026-07-17T08:55:22+00:00",
         "source": "Marketing Insider Review"
+      },
+      {
+        "title": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? - Diario El Norte",
+        "description": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? Diario El Norte - San Nicolás",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2JVU19fMS1SZUhKSDc0alpuTkdPcHZoUEtlZW5PU2p3NHpkYnNkbVN4NE03QVVFSHBWbHFWaWpuclp5aUhlb3ZON3NfZDBxM0gwYklDRW0yUnIxZ0F0bHAtWXUwS0JILVY3OHhDRGh4STZaVk85NDhmdzVjT3RzSFNVYS00N3A3dlJiM2JveGJ1Wnc5Nkc4UVFjZ2hDZ3pJbjhLZElYb012VG1MX2ljX0RFNk4waGVWcXc?oc=5",
+        "date": "2026-07-16T13:31:23+00:00",
+        "source": "Diario El Norte - San Nicolás"
       },
       {
         "title": "Está abierta la preinscripción para un curso nacional gratuito y virtual de marketing digital para emprendedores",
@@ -105,18 +105,25 @@
     ],
     "IA": [
       {
+        "title": "Con inteligencia artificial y 775 CV: así es la cosechadora que debutó en los campos de Córdoba",
+        "description": "Con inteligencia artificial y 775 CV: así es la cosechadora que debutó en los campos de Córdoba La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUU5aFBmMm9lYjJBeUFVMEU2MkF1X0dXZ0xOdGVpaHhTa2ticEI0UzBnZUpLWEZMT0xwOUJPTzRmcFVTWENMeFlMWUc3WkNCNS1FMTdiM3JROVFFcnBqMWFMbWdWSzA2eGhvNmFVRjUyNGJiRk5rZ1k1Y043dk9qTU5hb2duS1RwZzd1MnhXTS1EanVqaGdLYmx6MTlWdWh6cVlJdXNBTEF0T2RXSUVRcTFB?oc=5",
+        "date": "2026-07-17T11:20:29+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "UNI ofrece más de 80 cursos gratis sobre IA: conoce los requisitos y el link de inscripción",
+        "description": "UNI ofrece más de 80 cursos gratis sobre IA: conoce los requisitos y el link de inscripción Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ250RnJqTHFHSGxtNVNxY3QxdzFDcXZpVGM3bDUwam5VdVp2QV9MTzN1NWM4aTNkcUZ3Znk1WjUyN2NZcE92QXpIWVQyWVpqVEVVdkViWHNIWHVlXzZ2SEVUOFItNTJiMkxNcHhjNnpnMDRxMG1VVWd3eklteWgzRG96Q19TX1hLZFcwTzlGQW5PR2tBZE5ad0FoVGFsZjNOb1M5ZURnbG1jSzZDMm42RWNQOFRka0tpYmVuem5QYkduaWtwYWhiVFJSMNIB5gFBVV95cUxOaGstcFJNcU5wVWhGZFlXMFpaekU5OXNadTVCV3hjYVFOMkJDc3JkQWU2QnRPS2theWtUNF82a1pDdTcwSjlmN0J2cEdWOHp6RUstb21ZSWV1Z1lCNmVpcUp4LU1uaFVtMEQwOEtTX0hia0diNEs3WHNNVGhVelo2ZDh4U0FCTW91WThPcjYxeV9ycjh6a1ZhelE2eExnNWIxN3poeUtibVlVZktkcXhCNFhvblVzT1RBNXljWGFYS3lkWjRUSEYzeVNvLW1yTU5Eamh0ZWR5VUwtYVNha01tUWlmb1h2Zw?oc=5",
+        "date": "2026-07-17T11:48:19+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Así será el resultado de Argentina - Inglaterra según la inteligencia artificial",
         "description": "Así será el resultado de Argentina - Inglaterra según la inteligencia artificial TyC Sports",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTZvMG1JRTBZWVhVQlpNUXA3ZDZnQXZ1YkRoaFdrMjJKeVpST0VmeHN3N1hmXzBmcF80aldvYmRBcnJxbTdLU0lDNWlzWE83ZjM2WUdFaGpHRGZNbDFPSktzSWFJNFliajFCdHFza09ManNQSnpkUXpYblBIR1JCNVZNUnFqLWlDTVV2UmpNaVdqUXhUVkNtVlNLRHZwV0NKZ19zTXY2UW84UjZHMllqcHJZWEVzbTBiQXdCckpiZXlIV0k?oc=5",
         "date": "2026-07-15T14:12:11+00:00",
         "source": "TyC Sports"
-      },
-      {
-        "title": "¿Puede la inteligencia artificial superar a los humanos? Riesgos, oportunidades y escenarios para el empleo del futuro, según Alan Daitch",
-        "description": "¿Puede la inteligencia artificial superar a los humanos? Riesgos, oportunidades y escenarios para el empleo del futuro, según Alan Daitch Infobae",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdVRWV1k1aWJSZ3laSzBkT2tENUNmcTU2a1RRNnd4R2x3ek1LRXhqdjE0WTJ6c2I0d1BUbjVrZUZibzRfeVlJbzVlb2VFejg0RXQ4SlBrSGdqZG4tWmxuUkEwYjgtR1V2bktuUV84MmpRaFZ0RnlSbkRxMmtUZU02djFxemFTU0RHSVdfeGdHa0hQQ3MwbGk2N2xWWm1LMGI4aUR3UFlsemtlRFFKa2tYRmllYmR5VDh3R24yX2Y2LVdtWGFTdmlaeHNTbHhRR1FZRWlmaXEzZ3prMjg5TmlRZUxTckxPSTJ5SENrZjUtMWJYN3I1TTllblcyUzhfSkVENkJRYXIyaGNTNGlO0gGnAkFVX3lxTFBwMjQyZFdnVTBrc0l1NktlYmJ4V3BXbzRPeXd3QkJpeXlpc0FqRW5USGlJdkxvZlJXSmJVV3hRdXphRlliMW0wR0NKSnZORGduc19GVUNJWW5JSWV0R0hvSHBiT1RadVFjY0RlOElGWDhYZ1RJTWJSZThZVDc0NkFFN19PSno0MkRHTGZOSFptczRaTWl0WGI4a1I0QWtkaUl0WUlMWFFqcGRwX3NlY2pYRTU1X3NhYTdYa1hGdjZ4UHJwOUJwSVJiV2p1VTFtNnpVWlhVcHBfMDFHdGdyREZ6M2hSWWwwQzBZMXRpY05JQWRlRDBqSXBzMmx4a3FfR0NsUjRVVDhtaEJKNURsaW5MSEtGX1NlSE1aQmtWV2FSdmRDaGRoT00?oc=5",
-        "date": "2026-07-17T06:00:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "La evolución de la Inteligencia Artificial: ¿puede ser que se esté mejorando a sí misma?",
@@ -126,11 +133,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "“Si la inteligencia artificial fuera realmente inteligente se apagaría por sí misma”",
-        "description": "“Si la inteligencia artificial fuera realmente inteligente se apagaría por sí misma” EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0lwdTEwS2NwUmdxc0ZpY1M1bW9hTC15azUxd2s5b3JJYVJ1dy14NEdmRS1QVmJWWmtaNXdTaGRGZlo3a29LM3lqZk50U29KWG1PTkFQRXowQ2gxNzVOeUxoNUR5N2VGQ2NqdHB5dTEwcVhpbGdmR1VHcG51R3pYX3lVaF9VejFwOW44TllIWHlPNW1iZkhIZVJfanFwSnRmM2lBeUdDWllOcVU5b0NacWhrVWZtZ3pWajREYmhYYkhuUVXSAdcBQVVfeXFMUDVzTTVQb2o2bzRjQjM2Y0N4YlFfa1ZDY2lkdzhBTXBCN2I1d0dpRzJiaHJzbC1UR0xZeGtETUxJQmgySUR2TlNYTEpXNXFHenpqSHFCeW5XYVhET3NEZHRZLS12ck5tOFFhYUgxdEF5RmtpZ2dzOEhWT1lsN0pHUDRnQWpieFlWS2tmanpNQmNCQTcwdGtmOWJnalZvZWVwYXNTZnZkbXZHOGhmS0ZMYS1lZXlfd3F6WkM2Y1ljNzRvM25HUF9BcDdXYVdueVNseVVQd1lRTjg?oc=5",
-        "date": "2026-07-17T03:30:01+00:00",
-        "source": "EL PAÍS"
+        "title": "Vacaciones de invierno en Jujuy: invitan a talleres gratuitos de robótica, inteligencia artificial e impresión 3D",
+        "description": "Vacaciones de invierno en Jujuy: invitan a talleres gratuitos de robótica, inteligencia artificial e impresión 3D Somos Jujuy",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGE2OHR3eDVtaDBZY3VjdVh0d1Rnbjh6MjZzbW1BSmQzcktldUdHRUdxczhqZW9qVi1uMlZJRUZ2NFFQcktfeVNpeVNnOUhsczEyZmlvY1FWRnU0Rm1mNDNmWkdIV3JYV3hqem50dU5reDdWYmJmX24zTVlmNDdURlQ3WWlucE9mLUFYLUViTzI0U2VmQTFLS1FDMmlhQ25fcldocVpEY2YwZG1rN1hEM2sxTzZsTGhrOTAyVkliQV85bTR3N1M4ZGdJSktwSjlJR1NoaHUzRllIZDF20gHiAUFVX3lxTE9OX3dOTndhaTUtSGowZlpZTzhpMWxnOS0zSG1FSG14dF90VFlBdkw3VW5vbE9lSUxWUGFTb3pfSTdmaVJsdTE5QTM0Z2t0ZFZBanNYd3htX3Fqc2FJeEcxUFVtbXVnLUptbnNRUHN0T0dyT3RjU09QV09tN2dMXzlLcEg4ZHdKRmFidElrbzZPdmV2czhURWxxTXpkTU4tNXFGWXVuSk5YSlUwNXVfZ3dMYTJiYmhOOEo2SnpGSlp5QW9OSUROUnZVaFlYbHIzU2xadGFoZHdOYWpwVjBPYVlVbVE?oc=5",
+        "date": "2026-07-16T18:42:00+00:00",
+        "source": "Somos Jujuy"
       },
       {
         "title": "Las plataformas de gestión escolar también incorporan inteligencia artificial",
@@ -140,21 +147,28 @@
         "source": "Rosario3"
       },
       {
-        "title": "Inteligencia artificial y soluciones digitales para el agro: todo sobre el AgTech Forum en la Exposición Rural de Palermo",
-        "description": "Inteligencia artificial y soluciones digitales para el agro: todo sobre el AgTech Forum en la Exposición Rural de Palermo ReconquistaHOY",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMDVjY0V4c1c1TWhaZ1V4ZGhsZzVGNVNXUTFnWDNlTjNnUk1nV29COTA4VTIyZm54Wkx6WTN2OTZycWNaQTBKNWNmd2ljOWQySmJpWmdFQTlGcE5xUTVPWWt5RWdfa1pWcmZGMzRFSGMxR2pNa1hYUFU0V2JXU1Z5cWpWSkNsUmk5WmNJaEFpUXota3RRd2Z4aHVZNVZtWk5BNDlIMzNNZlNqR2NLMHZnTzFkaHBGMGVGQVFqcjhRekw1YTF4RmNtY0xxWU5CdnkwTXJVRVZCRTM1ZWo0NU9zZXBmNnpaUmtVd2hfZGh3?oc=5",
-        "date": "2026-07-16T11:54:41+00:00",
-        "source": "ReconquistaHOY"
-      },
-      {
-        "title": "«Declaración de Roma»: un compromiso sobre las armas nucleares y la IA",
-        "description": "«Declaración de Roma»: un compromiso sobre las armas nucleares y la IA Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZm1fVm1mSngycVRTSTRoeE1GTkNETWd4SkdFbzZrVXY0QmVDeVcwNGd6R1hiTUtwcjlvZ1pFTWp1aEFIVFpCZ0NPXzhWRnlhS3hVWkZIMWVvcnIxWlQzQUtKLXU0M0FSWWZQUlNwVXlNR2Q2Zk1aYWhld2JLeDNLVks4YWlpVDFtMWdKam81NE5VT011a0NmNjBBTU9Ha0dxVzZ0a3F3VllPMXZ2bjdkam5kdw?oc=5",
-        "date": "2026-07-17T06:35:40+00:00",
-        "source": "Vatican News"
+        "title": "“Si la inteligencia artificial fuera realmente inteligente se apagaría por sí misma”",
+        "description": "“Si la inteligencia artificial fuera realmente inteligente se apagaría por sí misma” EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0lwdTEwS2NwUmdxc0ZpY1M1bW9hTC15azUxd2s5b3JJYVJ1dy14NEdmRS1QVmJWWmtaNXdTaGRGZlo3a29LM3lqZk50U29KWG1PTkFQRXowQ2gxNzVOeUxoNUR5N2VGQ2NqdHB5dTEwcVhpbGdmR1VHcG51R3pYX3lVaF9VejFwOW44TllIWHlPNW1iZkhIZVJfanFwSnRmM2lBeUdDWllOcVU5b0NacWhrVWZtZ3pWajREYmhYYkhuUVXSAdcBQVVfeXFMUDVzTTVQb2o2bzRjQjM2Y0N4YlFfa1ZDY2lkdzhBTXBCN2I1d0dpRzJiaHJzbC1UR0xZeGtETUxJQmgySUR2TlNYTEpXNXFHenpqSHFCeW5XYVhET3NEZHRZLS12ck5tOFFhYUgxdEF5RmtpZ2dzOEhWT1lsN0pHUDRnQWpieFlWS2tmanpNQmNCQTcwdGtmOWJnalZvZWVwYXNTZnZkbXZHOGhmS0ZMYS1lZXlfd3F6WkM2Y1ljNzRvM25HUF9BcDdXYVdueVNseVVQd1lRTjg?oc=5",
+        "date": "2026-07-17T03:30:01+00:00",
+        "source": "EL PAÍS"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia",
+        "description": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXM5b3ZLeWdRdnhJZHUtM2tfU2ZrVDlJNGNoVUhEbkVsT0pvRy01OUVobEo5MGhsY0daN09pRm9XVEk5M0REbnoyOEVCeUhLV2M4WU1Ia0xuYXVfZGdDU0JJbEJTUjFsQWM5ZWZ6WV92ai1RQ0pNNGcySzVVandtb3BLb3hCMzBGNXAzNjVWcHNEdjgydFpXejRnaV9OM1RTRHNZS1RZY3pMWmJIc0tQMTNCc01RZUJJbTdkckNrMTLSAcYBQVVfeXFMTnBOV0pqTnk5SXlpOGVlTndxbmliNDMxR3NNaS1meEVEWm5sU2VPXzV6UnpqNEZhZlQtaDU3YzZySlpXRUU5Mk9aRk43aWN5UWJwT3p0RnZaX0VIZUg1SHY4LVA0V0hlTXUzTy1hbWI1WktzVVFSeWpQMXBESy12ZUNORmJIeS1ZdmNFVjlhZk42bUViTmNwUVRacWMzc0o2TGNKcHZGdk9vRWZiNFJqVEpXU2lLc2g1UkYzX2E0TmlMNzdFdU9B?oc=5",
+        "date": "2026-07-16T16:34:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta al mundo: la \"superflota\" del proyecto VMOS ya navega hacia Punta Colorada",
+        "description": "Vaca Muerta al mundo: la \"superflota\" del proyecto VMOS ya navega hacia Punta Colorada Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGJLcEdkOG9hN0ZkdWxiMmw0STN3djJBdzVpTThseFFrc1ZLQXN5d2JpUEdjWEU4V0ptVlBGZTNLS2Zrb2VVLTdieUl5dVpxLWtkTXFWbWZLbWdtUGY5N082QldlSGNGWTRrS0FqdmZXU2tKOUZXcUtnZDhycFBoQnYyZm55UkhfUm5DcWMwQ2V5eWx5aXA4RFZtN1dpbGlFakJjbVVUNTNVNVNIdXpHTEZUNNIBuAFBVV95cUxPNU94SEkzRGRUblJkX0dnekFuVDNWaWI4N1FxaUZQR0J2LS1vTjd0eC1nUXFuU1laN2ZlaFZ2UzdsMGhOTllwLWRZVUptN2QxQWZpejdxTmUzUzF6RmR2QV93X3ZzRWRoYzBpU09wSzFaT3R5a21IcVJVYXpkc1N6QVNBS1JMVElnY002andjRzhXVVo3TkZ6NXFXSHN0SG9hUzRVT3ZxcU9mZjhaeDN5UDZkcEIxMXM1?oc=5",
+        "date": "2026-07-17T11:35:00+00:00",
+        "source": "Lmneuquen.com"
+      },
       {
         "title": "Arenas para Vaca Muerta: Neuquén cobrará una regalía del 2% y debate una ley con \"reglas claras\" para las inversiones",
         "description": "Arenas para Vaca Muerta: Neuquén cobrará una regalía del 2% y debate una ley con \"reglas claras\" para las inversiones econojournal.com.ar",
@@ -170,6 +184,13 @@
         "source": "Clarin.com"
       },
       {
+        "title": "Vista potenció su escala en Vaca Muerta y aumentó su producción un 32%",
+        "description": "Vista potenció su escala en Vaca Muerta y aumentó su producción un 32% Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcERuYkhOQVZsT3BKWDJnZ0FOOUwwZlZSQ2JkSHd1NnJfSFVSYTBQdExVdEZHMUY0cWI0TWM5bWtRemlxTVE5ZHU2b19hTE1EYVFzeTBuVjdiTHhaOWRXRUhKWVlMVUFRN05pMVJBZUstZ19WQWU0clBudHdod1gtUkRMWTFoaFljM3VjNXdVUUxWbmM5dUJWekJUUEVlQ1ZUM0xNNVpjT1dwdmduaVh0OElmNWbSAboBQVVfeXFMTjhMUGczMGdMcy1zYmFkb0FBVHUxcmY4NmNlVjF6RUNDZlk4TjlabVNSTVVFWkdhMjd3d1VackNxSERadW9fYXdiUGNXU1l2UnpUYWVmV1JmTHZUUGZoSy1qT2Y2bGxScDJTZ1BaUFp4YzQ2UmtZR3pMZTVYbnk4RGhPcE9hUUx4clplblF0bW9lRXQ5bWU2Nm9nQ01KaENnQzJzX0YxNkUwZndEakh0b0RHVE53VGJFUV93?oc=5",
+        "date": "2026-07-16T22:36:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
         "title": "Vista aumentó 32% su producción, bajó el costo de extracción de petróleo e incrementó sus exportaciones",
         "description": "Vista aumentó 32% su producción, bajó el costo de extracción de petróleo e incrementó sus exportaciones Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQanhXU2taYXRPdHVFYnBjTU1RNHJtb3BHYWVwMXZTNGwydHVyVGJzVGtmMFhCbXRaMW9yYXFrX1NZa01JLXVRVEVQbC1wQlRfMzZKWEJzVzJsdk9oMThuOUphaGQ4ZmkxZF9ib0RhYmt5UWdrWV9TMVRFYWdfd1gwa2JWT2Q3dVQwVHNuVlktczdpM0JQVXljcWxmaFI0VDRvYTBSekNxbndJUHNjREpWSGFBMkhqR0ZzMDQxclVZdWh0MEFlVk9xcGx3MlpubXZUeVNMRWt1M0VRWkF1Ri1N0gH6AUFVX3lxTE5VaEg5dWU0OHNCWmlrWW5FV0N0Y2lQMHF3cm5fbWNkOU5oSjlkSURjMFNucmxBSW4wSWpybEJyNmtzNGVZRzhtaUJEN2RvQndkYmw3NjZQTWh2eHdpZHpBYzhJVUw5b2J6bzJfbVplVXNqRmx6WDhQZ05lekFsRnZpOW5iMEpJS19XUUNrQ3VpbGxQNzh1eHFTTlBieXJGZ2tNUThTYW1WSVR2STBXdFJJcjVkUHlnc1ZMUzFmOFY1OTUwa2RuOTFvY0pBY1dnWXBwZ1N1TXA2MGE4d1dSRk42YnRyWVJXSkdHZ3czbks0aVE4Vi1BYWZiUHc?oc=5",
@@ -177,32 +198,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta enfrenta su próximo gran desafío: por qué la logística puede definir el futuro del shale",
-        "description": "Vaca Muerta enfrenta su próximo gran desafío: por qué la logística puede definir el futuro del shale Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVGJidGhQdVp0OUlubkUyaFlCbjlxVVlLaG1PZjJLT21Ya25YRVBVQTkzbHNDRXMzUjFjalBfaWNRVzR5cXNoeE1URlAwb0d2TmYtQmZ5N3pRc25ONUlKQUdaSmJMTGpNeTM5QjF5YldBUGs3OWZYT0oyLTNyTm1aY3pCZDV1VUxsXzRIdlBiRWc4U0JlbWd1OWpuUjhfQXpDTTNQYnlUd204MFFfcThrMXA3NEpqbHJsdkJDbkxpTTEzWWw1bG5MTmVtWWpJSFNi?oc=5",
-        "date": "2026-07-15T22:59:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia",
-        "description": "Vaca Muerta: Phoenix Global Resources perforó el pozo más rápido de su historia Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXM5b3ZLeWdRdnhJZHUtM2tfU2ZrVDlJNGNoVUhEbkVsT0pvRy01OUVobEo5MGhsY0daN09pRm9XVEk5M0REbnoyOEVCeUhLV2M4WU1Ia0xuYXVfZGdDU0JJbEJTUjFsQWM5ZWZ6WV92ai1RQ0pNNGcySzVVandtb3BLb3hCMzBGNXAzNjVWcHNEdjgydFpXejRnaV9OM1RTRHNZS1RZY3pMWmJIc0tQMTNCc01RZUJJbTdkckNrMTLSAcYBQVVfeXFMTnBOV0pqTnk5SXlpOGVlTndxbmliNDMxR3NNaS1meEVEWm5sU2VPXzV6UnpqNEZhZlQtaDU3YzZySlpXRUU5Mk9aRk43aWN5UWJwT3p0RnZaX0VIZUg1SHY4LVA0V0hlTXUzTy1hbWI1WktzVVFSeWpQMXBESy12ZUNORmJIeS1ZdmNFVjlhZk42bUViTmNwUVRacWMzc0o2TGNKcHZGdk9vRWZiNFJqVEpXU2lLc2g1UkYzX2E0TmlMNzdFdU9B?oc=5",
-        "date": "2026-07-16T16:34:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Destacaron el turismo y la energía de Vaca Muerta en encuentro con AmCham Argentina",
-        "description": "Destacaron el turismo y la energía de Vaca Muerta en encuentro con AmCham Argentina Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkRlN1QwcTNLZ2dRN2ZPN2J1ZXhma0R4TVF5UklRMkRFVUcxck1pVS1hVVdxRHo4ZExLSndSLWktWUs0eXktaC1HN3pWY0JmRUdxVi1pVmFuenp2OUtSUnF5TW9oUHdzQl9CU0g3M01IS2Ixd0JQalVVVF9nZmhMYkhTMFNkMnVzbnRRdEctQkMwcGFwRG1qTGlUMzJVMU5lSzVjaUVUUUVyN25qZzhFQnJMR0dMa20xSGdkRUFwQkdxSWRMNkd6RWpqdXlxak5vaGFzZmlncDBOLXhn0gHiAUFVX3lxTE1vM1dfaTF1MHlRZWZ0TWh6bG1LSERLLXlMMm9mTUZySzZpMWRwUzBCU053emlfZlNKeVdvNkNkaDJOZHZWV1NfSEdrdkFBYXlscXQ5MGoyR294NGVzR2ltWHh1T2tyT2FIZ2RIWEF3OGhYakhyejhfRGFYX2VTOVRVZUhKVW5MSHVEbjl2eVNuVWJNYWhrVDNzblpIQmhuQ3p5N1NXUmxISzlqNmt2UEozQzlyd2NkT0ZiZnFtb180aC1aUUFRZF9ZbDdtbFo2V0U4MmdqVWhmb0kzYnpMSFNIa1E?oc=5",
-        "date": "2026-07-16T12:37:39+00:00",
-        "source": "Neuquen Informa"
-      },
-      {
-        "title": "La hidrovía de Vaca Muerta: un estudio asegura que es viable la navegación comercial en los ríos Negro y Limay",
-        "description": "La hidrovía de Vaca Muerta: un estudio asegura que es viable la navegación comercial en los ríos Negro y Limay Letra P",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQlFXYjd5SWJYWXZSZDVtcVhrQ09mTUF5UUZMQjZIYWloakNqdzFTeTNwdVV5OGptcTd1RDY4RkVYLVFBdXNpTlg4ZXI3SGZiTDREV0xUWWVRTlI0b3lqa3ZoY2d3a2IwdzFLNTl4eVgtdUdXcVVhR041RDBKNVd1ellDYkN3Ny1ZVlFPNHNzMUd1RDgxUkM3TklXVGoySFlYeHVLaWJuOXlyblRwMjljWVhjRWFpMy1LUkFPVWNqelpCeTd2WW9FRmZrcXh5S3FNb0xTQ3FNcDNJM0NxVlotZdIB5gFBVV95cUxObzgycHBSODhYenVERDctaWFPM19HRlFxOHVVSnA2MS1kSzI3Y1dsLWFkbExLc3lFRjh0NE1LeDJZWldoVzkxajhTRk9HNXRYTXRTWUJzR1ZqWWt3bHpqdWVNVVk3d3dQZm11R3pXd0dZVURjaGFPX1g4czBhUno1WmNUUlBla3EtVkdLVnZIM0I2TjVUMjlMNzhwQ19Nd3ctMXNjUXhrZmpNUHAzaTJxXzFMaTNwREdwT3BQYW83LThMQ1JmMDZkNko3ZmcycnJMTk12VlgyUlVrblNrUGRWZ0xzV3NUZw?oc=5",
-        "date": "2026-07-14T19:31:00+00:00",
-        "source": "Letra P"
+        "title": "Vista aceleró en Vaca Muerta: aumentó su producción un 32% e invirtió US$ 467 millones en el trimestre",
+        "description": "Vista aceleró en Vaca Muerta: aumentó su producción un 32% e invirtió US$ 467 millones en el trimestre Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUVVKTmFUaTdTaHRtanZ1SkZUT29uajBXY0d1UzZ2ZWotQWRpX0dTTkdmUHZHMm54YmN0dHdWRzROWHAyXzJvZjBJTENtTGIteDRaQ1JsTE84Y3o5WnphX2FwNm5vNXFRSTVqNGNUQjFObTVCc1ZPclJMT0t6cmdhZlFpUlNvbTBTWUVSNjU1dVF4TkhPQkY0bWJTUnFrSEpGZFE0Y1ZNQUhfdFA5WDhTX3lIQ2RQNndValVtY1hOSUItZ25IcWdQT29rRWZNZFZPYlczSXZodkRLMUF60gHkAUFVX3lxTFA2MF80UVVBTWlCVFF1TjF4djkyX083SGU3bkEyUDVhN2Vab3gyam1vOVhmclhoU2RJbS12SWxtbGZ4YUkzcFMydGVtOFFPNU5IUWlYTG1WRmxKN2pjVXB3cnZWQTJzS2hPNEotZTgxbTl6SEp6SkxVODFQLUZsZmxxSlp0dW5Sc0JoWGFwZEZHTkdkb0pBdktlXzVuand4RDFScDA0QzdFcERYLTlQSUhhUFN1eE0wdWFfSVZIdDlVQ2xHaTZqeVpnM0xTekZMVEZ1U0FRcGY2Sm9US281MVJDenB5cA?oc=5",
+        "date": "2026-07-16T21:05:11+00:00",
+        "source": "Diario Río Negro"
       }
     ]
   }
