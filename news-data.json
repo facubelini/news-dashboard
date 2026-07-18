@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T01:57:39Z",
+  "updated_at": "2026-07-18T04:50:04Z",
   "categories": {
     "Microsoft": [
       {
@@ -82,13 +82,6 @@
         "source": "diariotortuga.com"
       },
       {
-        "title": "Capacitación y networking para potenciar emprendimientos desde las redes",
-        "description": "Capacitación y networking para potenciar emprendimientos desde las redes Diario Nuevo Día",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWdfRDhqZlRaM202bVRtdVRaNlFLOFpBQ0JaMnpBY3k2Zkp3aWFkSmtWQTI3WWRDRzZUZEVBVWdDcjRvS0VLR2xJajl6Vm85VUc0WDNQSTByRDBGY1ZXUTZsYlhES0Iyb0VZSUFrZnhma252UjNmbE5iakV1dmVuMVJCUGNFdGczeTFBdFJOTGw2bEtROU5fT3JsSlZHMUVHa2wxbWJQNmdYbmdRSmg5OEZ0NGpxYzlTWUh1Y2dFSQ?oc=5",
-        "date": "2026-07-17T14:23:51+00:00",
-        "source": "Diario Nuevo Día"
-      },
-      {
         "title": "AMDD y DMA quieren impulsar la economía de datos en Latam",
         "description": "AMDD y DMA quieren impulsar la economía de datos en Latam Marketing Insider Review",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1RYb0JoWFMtdlM4UlRDclBqRXNRX0dLMjFMY1YyLXZfQVhZLVVxT1dpcVVzN0k1VC1JV0h5ZC1nUmV2N0x2WDJxeTNPTGhqNVpjd3hscWsxZ1BxRXN0emxhcF9kckMtOXZJWG1fWmxqNEdzTnN4ZWpKcUNyWnB5VHh4R2ZUa0YxVXBhMWkzRmctMldyV2twT18xUFhSZW9RS3NwVXo3TDF0b2JxMUM4TzRHaEZKT1Fzamcta1Q5SmdqX1dVRkFwSVZhTTd6MmJwOEpkLWF5Y1M?oc=5",
@@ -101,29 +94,36 @@
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXFuSGV3Z2s4alZmY0tLb2FLRnNlYjhsRWwzcUh5S3F4TUFoSGJrLVNUMVVGN3NXS2luZWlMemNaNF9wNTMzSUl0OFNqelRuT3FOLWNTREpVRXk0QUdkOTBlOEtMSktBNC1ybHQ3S3R0YVRKQ3BudjVFVVVGZGlRdlo5OEJYb0VTWEFfeU90ZDRGUlk1YVJOSUtXaUpfQjN2ejZKQ2NISEE?oc=5",
         "date": "2026-07-14T08:48:05+00:00",
         "source": "Diario Panorama"
+      },
+      {
+        "title": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS",
+        "description": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS sanrafael.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMyX3laOE9yY1VEaFN4bE5IWWZqY29yeTBxczJJeTJZajk0NkRJU3BOSU5ReU1tODB4TTZldTJHUDFtYzJ3MGV6MmN0YWVhRzJLZkhHLURyblgwZWRNd1ZiSk5SQXRXYmlZazFrRFNPZEd3LWRPWWtsczNpR21PS2RFWTNEMElGUUJmQnUtWF9WMXVRUDZkRl82aDYtczNCbmFNc09XSE96VVgwSm4wX0laMXh3QklrTU9HUWxiYjl3QW1ycWc?oc=5",
+        "date": "2026-06-25T07:00:00+00:00",
+        "source": "sanrafael.gov.ar"
       }
     ],
     "IA": [
       {
-        "title": "Una declaración sobre desarme y uso virtuoso de la IA",
-        "description": "Una declaración sobre desarme y uso virtuoso de la IA Página|12",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnRzNG9SUXc5RWlSZ0JrNzNHTzNTOUFjZFQ2aWVxeVV3YWxHSDBzek5SYmVqWlBIb1JadUhrZ25Fd1pFSTVlNlo5V2htY1hyVDNaUHo2ellBVEhfS2k5ODlXb1pKWVYzejdiaVlKbUF1ZWZBRnQ0M2F5eV8tZ0ptMUk1VHc4WEFmWTEzMU9mNF9LWWVoemRqLQ?oc=5",
-        "date": "2026-07-17T23:16:47+00:00",
-        "source": "Página|12"
+        "title": "Gesche Joost: “La Inteligencia Artificial aplana la diversidad cultural”",
+        "description": "Gesche Joost: “La Inteligencia Artificial aplana la diversidad cultural” Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN04tcTFlalJLek5TeWI3V3N1Q3YtZEFmeDFPdXRPMFREM0JyY3ZPNUdwM2YwbWxtRnhtcEVBTXFDdTJGa3dMbW42SFlzeHk1MnZfajQ4aFUxcUV5TjFfX0VDVE9RUkhNMVhXdzBRWlJCUFdVMUdCRV9TZlZzV1k0MXFVZXJmZEJNRVZIQnppbDZPVUFKMUdrb2h5WXRLTFNibUd1em5yai1sSFhXeHJJNVYtM2XSAboBQVVfeXFMTzI0TXduVWM0bFV6bFAyOXVrNVFVTHc4Slo0ek5peVo4a21zVFdsakFuV3h4YVY0THYyUy1qWGVDcDdrV3hMYU51YnlxUDktNy10OXlUN2g0OEtsM2dmQndidnE2V3IxblNxcHM2Qlp5VmxYWllmajZaczVvV3JBdFhGZEpRUGVGZXpSOFRIZ25Ra29Ma3FtalZWYU52bzE4N2M4dEJvWUFSU3hxVkh6RVJYNmNDRXE3WnRR?oc=5",
+        "date": "2026-07-18T03:01:15+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "La inteligencia artificial no reemplaza al abogado: pone a prueba su criterio",
-        "description": "La inteligencia artificial no reemplaza al abogado: pone a prueba su criterio Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmhWc3A4d1N1VVVXTjNGXzlSeDhjcXZCRU9BTnJseVlNSnBOUF9nd3lDUXdIQk1hMGU2NHZidmZ1SDRJV1JNX2c3MjBaWjdXS2RfMExOQUtEb3E2anVWcWxsUGlZVzI0S2RacnVkaUhqZmZpMlZkV3ExMVRnMVZmVWY4bWhGNzlGX3lxOXNWUW81TFA2dkpBYWllWEFsNTZEUUtkdk92QVR0cU0zaXRmcGNiMVFGUzBvRmw3RtIB1wFBVV95cUxNVFpBbzNoQTVrVHY1dHVqZEFER2N2TE9kY2F5V1RMTFl2OXMyZzMwRW12Y1R0RHIycXhZOXZrRHQ0VlhsSWUteEtZY1ZIalFOVmpXa2taS1RRb29GRmhleFpMMktvWmZia082LUM4UE9TOUQ5YVFOWDdDQzMxX0ZlWE5vQ0ROalUwZ3h0TkxWRGlVdVNhWXh3ZF84WUdnbjVwcTVXUkFFMjlVR3NIeXJJYjBiTnhjUFBfQS03X0Y4RFBCSVdtbzc5Q21xWkFqTlpJZFdPWml3VQ?oc=5",
-        "date": "2026-07-17T16:37:00+00:00",
+        "title": "Un sistema de inteligencia artificial con sensores permite seguir la movilidad de los silvers en el hogar",
+        "description": "Un sistema de inteligencia artificial con sensores permite seguir la movilidad de los silvers en el hogar Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT1ZtUmVmVC1sOV9HdFRyeWJhWExDSUlXc09VUHh0eW52TG9JU1A1RU9wSUpiN0twMkNaNWp4VjV4VjdJdnZjZDRveWtWUmV2UzJocEtUZENxeHVtTHJZaUQ4aXJNdkEtSFFmOVhuTU9veGpjeXllYWxBNldxbkZOSXYxQjliNGJXWHFUZV9TYk0zcXFIMlV1cVowdkpDazA5c01iWlljLXdYSUdEbWVhZi05b2ZYT3dBUHlybzdFVTgwdThkX3BCekZmNF9NSExfWDFDTWdnVVBWVC1ZT3NIeVhJWGpfWUhKUnZpM2RXNTJDbHpF0gGPAkFVX3lxTE43TXRWWUNjTWdtZjRJZ1d2MHVBMXdjbjNrNlVEbXdCYW85Q0NMQ3FiTURlRVh3ZHdUWkV1empJUUlTcjNvT2tFbUxxV0wwb1VHenVONncwMWNQYkR0VXQzeE9iRTlDYVJERU1mRjVtTzZNZFZpbjBQSm1NeURzYnZhSkN0YjB3RzZQODd1RnNjNGMtVklzUVJvTTNOMkFrbm5WbG1acTRHMnJUNGZQcXNUUHRNWTBoYUp3dUhVZVlDRDE5V2toZl9fNnl2WWJLTnpGcUhncWhaZVYzVHNHNEV1MVhtdlhzQk1VRXNrZ3U0WEN4UFZjNnNKbmRpV3R5LTdmbGM4dUdQc0pUdklPVG8?oc=5",
+        "date": "2026-07-18T03:09:54+00:00",
         "source": "Infobae"
       },
       {
-        "title": "La Justicia porteña incorporó el uso de Inteligencia Artificial para agilizar sus procedimientos",
-        "description": "La Justicia porteña incorporó el uso de Inteligencia Artificial para agilizar sus procedimientos Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHZKRnE5TnJxZEhpengyOTJBSVcyQUktdXM5YnVOSFNnZlRTMG9oSUlfVTAwd3ZaYW1DQlFrdjUxajM2cld6al9qaGJjWlZHOGt5Y29nVHhFNTRqQkZER1g2VWQ5RG5HZlVsRW10bm81Skt4RkFOZU02QTJ6TVMwS0U2ZHVnRWVTN0QyeVZNbWRPa0lBLUZBcGYzVEdOcmpQdWE1c3VHZU04ZlExZGlRN3ZYSGtpYUtjSkp1aGhZaXowS21NZXF3?oc=5",
-        "date": "2026-07-17T21:21:10+00:00",
-        "source": "Clarin.com"
+        "title": "Una declaración sobre desarme y uso virtuoso de la IA",
+        "description": "Una declaración sobre desarme y uso virtuoso de la IA Página|12",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnRzNG9SUXc5RWlSZ0JrNzNHTzNTOUFjZFQ2aWVxeVV3YWxHSDBzek5SYmVqWlBIb1JadUhrZ25Fd1pFSTVlNlo5V2htY1hyVDNaUHo2ellBVEhfS2k5ODlXb1pKWVYzejdiaVlKbUF1ZWZBRnQ0M2F5eV8tZ0ptMUk1VHc4WEFmWTEzMU9mNF9LWWVoemRqLQ?oc=5",
+        "date": "2026-07-17T23:01:00+00:00",
+        "source": "Página|12"
       },
       {
         "title": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial",
@@ -170,25 +170,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Vista aumentó 32% su producción en Vaca Muerta y consolidó su escala exportadora",
-        "description": "Vista aumentó 32% su producción en Vaca Muerta y consolidó su escala exportadora Ambito",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2NybEl2aEFQcjZ6SkJfdFlrRDNsaXN6RDRweTFqajJpSlZjLUFGeWQ2S0pldWtSVWhxZTVtREFWMXh6dHR1bFlhYWFYT25ETzNQQmRQRzZKMF9WR1lGSlAxV25ETHpkRm9tZmVuRjJ6TEp2bFpYb21rVUw5ZEZ6WHhXWEp3ZTBKYkx1ZzVWWGZqYUJjS2prZmNpbEFQbGgwdmlZV29IMk1iTFYtSU9MZi13ZU1zNjQ?oc=5",
-        "date": "2026-07-16T21:29:00+00:00",
-        "source": "Ambito"
+        "title": "Vaca Muerta: el petróleo Medanito seduce a los gigantes asiáticos",
+        "description": "Vaca Muerta: el petróleo Medanito seduce a los gigantes asiáticos Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYThVTWxZZlhkanhCSVhBeEJ3LUJZb2c3NU5EM3FFbFp3OHpjTVRITllESk9MR29GdVFqUFVGOXFQQ3pYZkJwWDAxdUYtemJHbTk4QVRnV2c3NGw1bnFlUGhoRkJTZ25EZTRxTjFRUFE4elhxMVBZRlZuWjVycWp0b09uQlJPN0o2WGxMekJwMUZBeFpnNTJpb1FNMXFfRlNlYkh1cTZfZ0xlV3E1SE1z0gG0AUFVX3lxTE5OdzRsaHQ5NTljN09EM041WXdpQWowZGF3ZmVvMWxlazhTMHdKc1VQanNIRDIzZlFTMzNITFRRN1NnRVlyOGR0TThFWExjZFJNd1lGbXdwV0NWN0NDeVhuZXpwSmc3Vk13M3h0SHpTcnlpODI1U2pmeHZ4dHRYeE1qTGhEakJCdExQY3ItR2I4d2VaY2xFUkZOQWw3aXliVjZ0bHRvRHByT21QR1I5RWxKZ09TTg?oc=5",
+        "date": "2026-07-16T13:40:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
-        "title": "Vista consolidó sus operaciones en Vaca Muerta y aumentó su producción",
-        "description": "Vista consolidó sus operaciones en Vaca Muerta y aumentó su producción La Nación",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjVQU2IxMHhJckM3Y04xRVZ3am5GUUVDMVhDdE9QaU1KT0VTazdEWHJkaW8xX003WVdQU2hHN0RvOEE3Q1h6NzNaemJiOUVSbXV5VFZlVTJjLU5JUmJfdnBrX2dJcTJCSG4zSlotaUZ3LU5qTEhnanRtX0FvZ2I2RlZYUnBFXzljbDFxRWtzTDZkTVY4QTRteVlYU2czamJ4c3gxd1pPbzlidWpzTVd1MkFyUmw5MnNyNG0tXw?oc=5",
-        "date": "2026-07-17T19:56:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Vaca Muerta: Vista incremento su producción 32% interanual en el segundo trimestre",
-        "description": "Vaca Muerta: Vista incremento su producción 32% interanual en el segundo trimestre econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRF9CQXhtX1ltTnhKUHhuZllTbG1yLVIyLXpMSm1iOEsyVUZQMnNWVUZqY201OXE1TDJNeXlZdGtHSGc3eEdxeGlLVjB0bEJBSFE0STFrVU5xSUt4cHdEemQyMjFfZVRJcVQzZEV3RzFjYmJ6eHFZRmV4ZnBmeXA1TWljUlIzU093bDFKTDRVekQ0U3FUXzZJXzI3NEpIcGhIUXV4dkwySmJRVVVDTHdJODI3N29RSmp2?oc=5",
-        "date": "2026-07-17T13:05:35+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Marín destacó el récord histórico de YPF en Vaca Muerta: 1.395 etapas de fractura en un solo mes",
+        "description": "Marín destacó el récord histórico de YPF en Vaca Muerta: 1.395 etapas de fractura en un solo mes Minuto Neuquen",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcE5JQzJZN3hFLVk0cGhvcGdLZ1pYNVpRMVBfbXpQR2IzVXk3RHBPeTNIcmpMNnRWQ3NxeEVnMDJiZkJLcmVxTDk2TFBxREtnYTdJQThyQ2J3a0pvZHRFUlUxMGhSVjFrbFdQLTQ5VlluVWN6bHhmSm5lVDRSTXdrVHRIcXJubnllVGtDT0NOY1h1RDlvRkExdGZIdmlWaHFnU3pRZHJUWlJBckdmQS1iRDBtTWJMSmk3YkV1bVcwT2hZTDNxQ2NVQ3Ywc0UtSTlkNmIzT0U0bW9ZTVg4V0tHdXVQd2FiSWIzbGc?oc=5",
+        "date": "2026-07-17T15:30:00+00:00",
+        "source": "Minuto Neuquen"
       },
       {
         "title": "Tras la escalada de precios por la guerra en Irán, Pampa Energía se mete en el negocio de la urea con una inve...",
@@ -198,11 +191,18 @@
         "source": "Perfil"
       },
       {
-        "title": "Ránking de las empresas que más invertirán este año en Vaca Muerta",
-        "description": "Ránking de las empresas que más invertirán este año en Vaca Muerta iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUXFlUmVpWWg1dUdURGl0ZkFkdlpuNGo5emVmSV9KR0ZqbHd5emNBVHY1c2hONHpjcnVnN3FORmVmQU5KcjR2a3dNWl9URGtlLTQzaDFCRlhZSlc3MXM5czF3c1pPWmJlR1Z1ZHplVUJ5WnBHc2JyQkVHN0NZWm00MmxtT0dkaWZ0Mng4TWY0RE1SeUM4emlmZE14NG1JcEx6djljeXlKUkI4Z3Ni0gGyAUFVX3lxTE84LTNFWkpQTDVhcFIxb2hwQ3M0MDRYbi0xRzlxdHRvT2dROHZIR0hIZExJZHdZNklfVk1kbndDYkRhRUlIdTlIMXJpZWR3X2ZYVE95Y0J6c0hVNXVUbnJDZEE5cEM1M3NLWTBYVFVabVh2MDk0dHNvbGxrZW1HTHBtdi1iaU8zSmdyd2pneDdVTnlWTEJfTFNQMjlTSWhwczB2NGJFSFI2Yng0QTVkR1dBeFE?oc=5",
-        "date": "2026-07-17T21:24:00+00:00",
-        "source": "iProfesional"
+        "title": "Vista aumenta su escala en Vaca Muerta al incrementar su producción un 32%",
+        "description": "Vista aumenta su escala en Vaca Muerta al incrementar su producción un 32% Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdVQ3TlNmLWk1SS1jNjNraGxlektCZXRzbHIxVWxVVWJzTFB6WnVqVFI1UTNvTDF5aXF2a2VIWXVueVdSTGxyYnE1ZWJJMXU3T3ZCa2NldkVYaTE1d0hwNTFzNkprV09LUGdqMW5lRUFuQUliRDJ1X2U1NktqZU83MjVoMkZ1VUtUdEFqYUJNY3J6dkt2TUZ6SWdKa1RBSmhfbFRTTXBQZWItdDlHZnlrZnFOX3llV240S2t0QmtWRENsYy1Tak1Kb1pVRnZtZFBweXRLVGtERdIB3AFBVV95cUxQWVNSZnhDb2JOcEN0Vm9zODN6S2gtVXpEc1VUQnFvTEMxRXZtcDAzZmJ0OEM4aEVDckdPYXloWEdvd0JxX0h5OTZaa0F4THBwMEMzMldqdjFPWDRGak1QeXdhdkZIcGJsQmQxbm1PUkpVNVltRi1VVGNZcXp0OUdlU1A2eTBLcU93VVo4aTQwRWhFLThtM2hUZXRnVlJESTdMODVKbmdYYlo4cHNQb0E0Z01yQzBpbzRCY3lJZkx5MUhEMWhzMHl5UUNxV3Z4VmFRYTJra2M1SVRoMnVs?oc=5",
+        "date": "2026-07-17T18:17:33+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Vaca Muerta: Vista incremento su producción 32% interanual en el segundo trimestre",
+        "description": "Vaca Muerta: Vista incremento su producción 32% interanual en el segundo trimestre econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRF9CQXhtX1ltTnhKUHhuZllTbG1yLVIyLXpMSm1iOEsyVUZQMnNWVUZqY201OXE1TDJNeXlZdGtHSGc3eEdxeGlLVjB0bEJBSFE0STFrVU5xSUt4cHdEemQyMjFfZVRJcVQzZEV3RzFjYmJ6eHFZRmV4ZnBmeXA1TWljUlIzU093bDFKTDRVekQ0U3FUXzZJXzI3NEpIcGhIUXV4dkwySmJRVVVDTHdJODI3N29RSmp2?oc=5",
+        "date": "2026-07-17T13:05:35+00:00",
+        "source": "econojournal.com.ar"
       }
     ]
   }
