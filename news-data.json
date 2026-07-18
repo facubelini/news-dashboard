@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-07-18T21:44:10Z",
+  "updated_at": "2026-07-18T22:42:35Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios",
+        "description": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios Brodersen | Dark News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnFHNzcyOXFxQVJFc05MbUNYeVcwTlk2S2hqTHU2SFd4SU5OTEs5aG9PNXU4ZndhaEhrMnhWdXlleU42VGlUa2VJTFVlZGxMeWliYi1rTWRxSjBBM3RheXhEVkFUSGw3ZnFVSjVsM0ZHRi1aaC1jYVJ0QWN4NnpZRENHd0xxcVV5VHc?oc=5",
+        "date": "2026-07-17T10:54:40+00:00",
+        "source": "Brodersen | Dark News"
+      },
       {
         "title": "A Google, Amazon y Microsoft les ha salido un rival inesperado: el hombre más rico de Alemania y dueño de Lidl",
         "description": "A Google, Amazon y Microsoft les ha salido un rival inesperado: el hombre más rico de Alemania y dueño de Lidl Xataka",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlNRNl9HSmJGV3pPQWtxTDBsZG4xMjRwa3VaQTh3ajY0YjFGT210UXYxTmhVc0dZMjg1OGYzRU0wM1VQMU5EOFVtZGxEb3VGaVY4X3VHdFdRTXdVOVhWb1MtYjZiTGlvVnB2RWZaQTlrcHlRZnVLX25MT1pxX3lDT3luWTJxV2dFRGdsWVJxMHVQQVBFOG5UdDVka3JKWllTWlNaR1dfX3NqOVlnTHFxOERZLUhBY3RldkdXUtIBwgFBVV95cUxNSXF3RFUycml2X0Vrak0xZjh6cXkxQVBZVUhQUXhCTEttZm9ucWUyY3dBcnBoN3pRUTRfZ3didDhTbDRZYlJTOE9MWmJ0UVFub1Y4NllheUQtdGZ0eTJPMWJRN3F1T1RjSjlCLUdtMmYxWlRya2JmY0oyUzBoVHZDZHFyX282aHJ2cEo3SVZCV2hWS1NHbEEtQVhJR0Zvbm1Gam4ybm8xQ2hwTGtqVHhiX1M1YXVjaUx3MTIwdEhTWC1WQQ?oc=5",
         "date": "2026-07-18T11:30:07+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
+        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
+        "date": "2026-07-01T07:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Microsoft vuelve a la carga con Majorana 2, que sigue sin tener estados de Majorana de energía cero",
@@ -17,39 +31,25 @@
         "source": "La Ciencia de la Mula Francis"
       },
       {
-        "title": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo",
-        "description": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTzFIU2ZSVE1Nei1kOUhrY2V4NjNtYUd0NW5CTllFelNqTENCTmhqaXhvVU1iVmVENjh3VkVjU0FwcGgxYnE4MkhDSUtoUXh0Q3REUjhjVWhsNFJDTDM4X0JsMnd4UVFTZUk5MVBtT2Y5dzJHSVBpaXh0SXh2a1piZ1I4SDVPTm5ISDZmNGZNYUdOeklmSi1sMm5BQWdTUC1kSEtNMkRpYmNEaGdtbDk4WVBtZW44UnQ5eEdjYllHOHZ3bS1XdGJSZ3ltT0pEZGJQOHRZMThkVXNYQzFMTU90SGRTZDlJc1ZkS1E3SHdzb1FmMFRW0gH6AUFVX3lxTE9ZaEFZOTdYUzZQX3hiRVNOa0lhUllWaFNQLUt4Znk2TWlDV213WGN5NkVhMU02d2FGcjB2UnFWWkh0bWdGSU0wNWdGR0NpbUFCS1NkaG5iem5HTFlOQkxCT0tYamVIQ1pZNzNPNFJMTkVCZ2c5Nlk1MmlueXVfZEd0bWtDMm42LWFVWHgtOGtOMDR4V3V3dFZFRG1ZR194Zmh2Q2tXNGRIS2NzTG5lRVRxMHdsTFV0aVNqU3VUMXVReVJWMnJ2SWJRT1FyWUJBNjhuZkJPT2xxUmtnTzFRLWJLWmNSNlR3dkNzN2w5U1dfTDhpbFRwanFwZUE?oc=5",
-        "date": "2026-07-16T19:01:55+00:00",
-        "source": "3DJuegos"
+        "title": "CEO de Microsoft advierte que hoy las empresas pagan dos veces por usar inteligencia artificial",
+        "description": "CEO de Microsoft advierte que hoy las empresas pagan dos veces por usar inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVpsSndUQ0ZhRXRobVdTR1p4ZmxUbXgyd1BiclV3T09hbVZ3MFhrcUFoSlNyTjVuSF9BdVF1NGkzd2FJWGNoQ00tQUJieHlYemc0eHM0bFhDV1hTMUZzV0xQQVRhV3l3Z2JaZVJrZ0xSLVlOQ1ItdzVTSEJMTEh3bHFNVVU5SzJrUTNya1h1SlN1QnE2M0VrTXFSUGJTeHdYMmJveGxGNHI0Q2huS2ExaXVfU29aSW4xZFlselNCT1Q0bm5meW02RG1QTG51c2gxXzd30gHuAUFVX3lxTE4tLUszMDJwY3gzNUdFX1J3bG9YTnpBNTRfcGU1X0pBd3AtdktWcDB1a1M2THlxUVNXWDJsLXdEb0lOb09UaG1JUndDQ1cxWjlxMDhPOTJuS3VkZkhOX08xUjZsa29LbTBjejVpbVZ0ZVZtMTZXRUlHNzUzaTVYaGdhdk4zSzU1N0RIVkxQWUdGUWw1TUdYYmlBU1huTGlMelA0OE4ybUd6OTNEOXIyNVhmMjlkbDYtVTFJbnpKUWVZQXlmbFJ4ZktWcGozTWJFT0QzQ2lQM2llN25ETkFFWGxWVGdtX1otV0pNLV9wSXc?oc=5",
+        "date": "2026-07-14T17:56:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "El «caro» divorcio de Buffett y Gates por los vínculos «desagradables» del fundador de Microsoft con Epstein",
-        "description": "El «caro» divorcio de Buffett y Gates por los vínculos «desagradables» del fundador de Microsoft con Epstein El Debate",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcjFNd1k5MDlHdVN5NEFFUWg1YVY1dFRtcmNYN3ZRSlNOMWRYaHNPaURJUGFIaUd5NzNiYW9TSVJYdWVqWXo1dHp0MDNTYjRzQjlNZ0dUdDdBanZPT3ZDY0FtOU9wN2dub2VjdW1hVlJqZlo2ZVB4Y1NJT2FDS1FMZUhoenR2d0dNTzZjVGxfZXpQNi1oeGktb2FId2pyaXBCU0t4RGJwUGJUaHJUaWN3U0wzcWJYTW80WEhzU190a09XQzBOWE04LXJSVDZFTmg2MldN0gHYAUFVX3lxTE1sNDRjLUFtQlFXb09BODJZMUVsd1dVLVpsNGNYZk92Z1U3WmE5ZFVicmwyVEE1Q2xIaGE5YUNPckg0LWpfbHRpSVJPS0g2WkMyQW5jUkFsb3diV2twdHZBS2hLU1hGQ1ptNDc0RWFSdll4MzI2ZWgxRWhTdFlfNnpwUncwVVVJVTRnY0d4dTJpRXNNcEh4c21CTENvTi0ydTJHSlU2UTR3NjBNZGx5U2NoT3RoY3pnOHhIRTIwbnZ6Y1NNRGNnb3huSmtycEFNRlBzYlVVdnR6TQ?oc=5",
-        "date": "2026-07-17T02:20:00+00:00",
-        "source": "El Debate"
+        "title": "Microsoft lanza Copilot Cowork, su agente de IA para automatizar tareas complejas en empresas",
+        "description": "Microsoft lanza Copilot Cowork, su agente de IA para automatizar tareas complejas en empresas CanalAR",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzB0NFM5ejdSNml2SkV2MEVGaGJoaEZ1bDJJcXE2MnExSHVjQkVOOEJZa25pOGFlTkVGc25meWJNb1AyWnBDSWJIZTJzTmJxSFVtNjByVkRiMWliVEs4REVrX0hRVTVrVFIzYWxyT2pyT3FJcFVyaFo2RmpraTVhWlhuV2F4bnZTZjQ4N0dlUy1UaVJua0FEMDBYVVVReVZ1eE1iMUphbWRMZjZCa1dUSFIxcEMzRUdJYXhmV0FsbFJnTno0RWZPTk5DNA?oc=5",
+        "date": "2026-07-16T19:39:54+00:00",
+        "source": "CanalAR"
       },
       {
-        "title": "¿Por qué sube hoy la acción de Microsoft?",
-        "description": "¿Por qué sube hoy la acción de Microsoft? Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVc0X2c2V1RHMTJ6YmdWZ3k3X0p5eWQzSGJZVmlCcFBmdll6MUJSNTd3ek5rd2tOd3ZFVmhtaFJ5b1BrZDVXOVdraUx2T1BsN3JYWk9iSkVqZkdINEZJdmpqelhqdFhZR1QyTlZhZ3ZJb0JWOHE2N0E4cFltUmR0TG5FSV90TDhEMDJjYUhhLTJaTHpiSF9FTVBndm9kZV9lRGc?oc=5",
-        "date": "2026-07-15T14:23:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
-        "title": "Jason Schreier saca a la luz la verdad del reinicio de XBOX. Los 3.200 despidos de Microsoft esconden un \"baño de sangre\" mayor de lo que se esperaba",
-        "description": "Jason Schreier saca a la luz la verdad del reinicio de XBOX. Los 3.200 despidos de Microsoft esconden un \"baño de sangre\" mayor de lo que se esperaba 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmV4QUpLWl9yNjdFdWx6LWdVald5blRQbGVydzRKM3ZualVCamszMDFvN25YUzQzZGZMcmhUNU5VR1YwUWNqZm1yc1ZTaTJpQUljTndfTlhpZVZhanVzallqNUhMSllSZHZDQTBIWlRnbUxaZE1WeTdFNnJtTERzcE92Yml5d2lUSHFpX3NCVVR4SWtjb0d5b0U0SThUODhzQ2ZseGs5SFh2UXZyS3ZTLXZtSHBJQ2FqaU5DdFZ2TUYwejRrMUwxcmdkYmVHNFA3NXd5WUN6aElvQkpDc0JScldlVHZoeXQtRGdGU0hRbjJRcWtodWfSAfsBQVVfeXFMT3N6dUNQWENqUi1HbC1oWHFoRGhlM1I0bDlVb2VySndSbEhHOTdfX3N5YmxaOGY3b1FISnRfbXUzUWoyZDRxbUhadmxlV2E3elgwMXZCMFZlOGFXOW9QRk9iZ0FhZ2JMUHJNMUhSYkJ3dnBhYWFCZDdaWTFuZ2JMRkhjQTlORHZHVU04NDhhS3U0cGxrd2Uya2hIa0F3WTBmbVZ0S2xJS2hTcXlNSTdKc2tGQ2FJU1hHak5ibTk3Nm1vR2lKeE9NXzZ3U1ctaC1BTXdpSHdleFk5dVdkdS04SXJuYTdpS2RaT1FLOG90TlRqWkkxWm5ORnBhekE?oc=5",
-        "date": "2026-07-16T01:45:00+00:00",
-        "source": "3DJuegos"
-      },
-      {
-        "title": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
-        "description": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\" Xataka",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdZTGYtY0E4eXJVd05LamtRY3FMQUNtZldfYTdRZXhLTlJ1MGRsUE9mZ3doNkU3WkpZd3ZCYWU4RnMwZmNqLXpXRFdxUV9lRnFRUXJUcVdOUnoxZzBBeFlsNGZiQ3ZOOTQtWjVDUTloWlJaQjN5VHU5OVkyQ3R2NGZWZGRfRThwb3FJOU1LM0RsU0lzZkw2RDBabU52V3Z6ZUFMSHBySUpYcWtPbGE1dE10XzJFSG5uYTBCSS1PR0hQLUstVUtwbS1CM1HSAdIBQVVfeXFMTUUyNXpESUVNempOR29taEQxcExPNVVDMUs0N2QwZEpuUWVlMElEcWlBVzRNSzk3YW5qdkU5MU9tbjhRWVNhMVVmSFRUV283UVlBbXR4X3FrbkYwMVNJczZVQnVpYk5SS1Yxa00zVFdENXE1VUdHZU5SOXRkWHZ5aGpCdWRIdVFvVEloMHdjSk1DcWZKZWxQd09wdTNNUllnaFVBTXNsaFRqRjUyREJUWjJjN3kybG5TT05tOEVYMXI1WVBKQVlQSjlqUFJKbGlWcldn?oc=5",
-        "date": "2026-07-14T10:30:00+00:00",
-        "source": "Xataka"
+        "title": "Galería de Microsoft Milan / Flores & Prats - 12",
+        "description": "Galería de Microsoft Milan / Flores & Prats - 12 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZTBIaVVGQjZXYUxKWENBamxPVVJkY3lYandhcjB1RDFPR3hRdkV0dmtZMmNWeWNrdE9vWlg2WFU1dXJYejM3RUdKelhxYjFnR0JIcWc1NHFJMUg1TmV2QjJteUhtVG90X18zLVN4UzRmU2RUcjdQYldKd2tXOXRUR0tvamZTNE9PTURHZ2lXaFFQNC1oN0N4RG84TkJ6QlhFT2UwZjFPdWhSeE1pUFpwYXpvUHBMazRVWlFLLW9lMnJfNC0zMjczR1RGUG1aNFRZWUFDVFNIc2ZxVUVJX01CbFVsUkNYeWhVMzZRNWE0SlpzbjlDU25v?oc=5",
+        "date": "2026-07-17T18:22:08+00:00",
+        "source": "ArchDaily"
       }
     ],
     "Marketing": [
@@ -112,6 +112,27 @@
         "source": "EL PAÍS"
       },
       {
+        "title": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS - TN",
+        "description": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS TN",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWgxZXctclM1R2ZTaVRRUFlEZ0oweW1fTkJCMnBDNzJUUURyTEtReUtwZVkyRW9pOWhPdFMtWEM5M1IzWmZtVi00NGg4U0Fmajg0YUUtN0Vma2ZmbUJiMUNZalNSUHpURG54Y1FfMHFyWncyaTYxS2NHV0VqS21HVzQyWFpGNEJtVVMwMjZMdGJxa3M3LTlmTFR2blRiYUc3ZnRwZ0pRUGd2dUNZSm45dG1uNERvLTVBRmkxc3hsTmJ5SE5jMmo5VmNYY3BVZ0NlLTlEWTU4a051aEhLWm9Tc25fY08wdnJTMURqYlJ1TElCVy14a0JkTmlhS2_SAZACQVVfeXFMUF9aUVNNVDRaR28xMldTSnRRYWV3cVA4Q2pfTzltNFJYY1E4MnVDU2t1U0J3TXVtaEpKWTR6Rlh3UERadVhoQ0RmT0dpUWJyTXQ0a2dDVjBFSlF0ZlNPOGdmaGZLbi1XMVlxTEUweUZzVlctejM0NjNFSlZ6LU03cGtWM0Z0ZzhXTHRjTXhhNjE0UjJ0VUxSMEVFd3VyclVrckxxcnBBV2Nta3U2TW53UzQxUThmUHptVjA3TXRpczdBcW43bzExT1ZCaGtOc0VVcTJ4ZG92RGdIWGFvbHRKc1h0MGpTcVUtaUdnTlpqSEl2b1h4aDF3c3g5enpHcGpJTkVyX3FOdXhmWWxUWW5QUTM?oc=5",
+        "date": "2026-07-18T21:58:10+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "Qué aprendió Google del primer Mundial con inteligencia artificial",
+        "description": "Qué aprendió Google del primer Mundial con inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkxDWUZiZV91YkRiV1ZpQkdNdEZFZXY0TGhiUEhOcHdpSWlJQnI2LWphcWNIeC1ta1VucFRDNS1BQU96VU5zalAwMTA5aTlMTm5wQ3BxYThBakxvaUZxblFKaGYzMERXUHdlWlAwYlZXS0Q5dEVSTURQSGZibTJNWEJGOTctYVlDZU5ySGFBV3U0YVd2bVFvTm5MaEk0MWE0c2hoank4X3hXeWN3dlBUcVpSVFEzQ05z?oc=5",
+        "date": "2026-07-18T21:58:19+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La IA y el llamado “ser humano”",
+        "description": "La IA y el llamado “ser humano” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBybFlFeXdxNmpfZGpyaGxYZFZtd0NKU3NwajRfOWxHdUJaNlBDTGJwTXBwTVJzMHpnS2VNcWs1bVU5dVNBaldJOWdEbDEwUUctOGlFZENRYk84NWdMY1FtalN3X0I5ZkhnaGtyQXZVbVItV0VsalZmag?oc=5",
+        "date": "2026-07-18T15:59:59+00:00",
+        "source": "Página|12"
+      },
+      {
         "title": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados",
         "description": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados Ambito",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT3dkX0tDWTV3UU04ajhWNEd0VVhnTmVVWTNWcWhyRHp5NUluMDRXc0p6bktBY1djYlJ5UTlxQmF0SmhQa3pXQzQxOXV1YnlmTHB4VFZUNTVxVUgtaDlBZHhzcFlTd1N0Z3IzWmxpd2M4T0R4SThkMGMweU9Jd2Z2QW5ucDV0bko5TklpV0tUTGlIVk02aUIzbEhSQ2dUZGZTX0lONFRFMW03UTdsYkRkU05YWWZyeFo2dkxYNmdRRkUxaEc3VlA1bWFBaURwR1RBZ3ppYThVdW5XZlI2UnNPRlNVdk9Hd9IB6wFBVV95cUxNSGFWVy1MOUhhS1FGbWxEX0NwYUFVY0c0amJUNTFNaVRGUUN6LWxvZWxGSTdlQV9pS09JUjh5Y2JlS0theTY3REFMZkNtZFd6TWY3eUJqOFV0NzRGWjZFb3VqU245di1jTl9PZTA5bTdIVkV0a29aMGlQMk5MNG5FbVZoTTF1aFRtVFRhZ2xRSWd2ZUN2c0NNR0lCWWhCb1AzM2dFa0Y2LVc1bjZ3MUh2UTFURmppcXdpVXN4a1hQY2s3VkcxeE5URmVoTC10UWRWSzBlTTJCRmpLek45eXJfSklpVFJaWU9UU2VB?oc=5",
@@ -119,39 +140,18 @@
         "source": "Ambito"
       },
       {
-        "title": "La Inteligencia Artificial en el agro frente a la fatal arrogancia",
-        "description": "La Inteligencia Artificial en el agro frente a la fatal arrogancia Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUJSSU5aWERWaWZ3OEJjRWNnSzJDN3g2WlZOMHRhR1M0QkxGTng2MWZ0cmdiQ3BsWjljYlFjOVVQcnBOOFZHcEF0TmJHVnJDNWFuaThRb3plY0k2Rnp3RmRBX2diLVRLbzFvdWR1bWdZVk94Q1NyQVVKd0ZIanJkczVCVmZybjBtQ1ozSi1XOEg1RDRoY3BxZ3JCV1FNa2xZ?oc=5",
-        "date": "2026-07-18T08:45:17+00:00",
+        "title": "Gesche Joost: “La Inteligencia Artificial aplana la diversidad cultural”",
+        "description": "Gesche Joost: “La Inteligencia Artificial aplana la diversidad cultural” Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN04tcTFlalJLek5TeWI3V3N1Q3YtZEFmeDFPdXRPMFREM0JyY3ZPNUdwM2YwbWxtRnhtcEVBTXFDdTJGa3dMbW42SFlzeHk1MnZfajQ4aFUxcUV5TjFfX0VDVE9RUkhNMVhXdzBRWlJCUFdVMUdCRV9TZlZzV1k0MXFVZXJmZEJNRVZIQnppbDZPVUFKMUdrb2h5WXRLTFNibUd1em5yai1sSFhXeHJJNVYtM2XSAboBQVVfeXFMTzI0TXduVWM0bFV6bFAyOXVrNVFVTHc4Slo0ek5peVo4a21zVFdsakFuV3h4YVY0THYyUy1qWGVDcDdrV3hMYU51YnlxUDktNy10OXlUN2g0OEtsM2dmQndidnE2V3IxblNxcHM2Qlp5VmxYWllmajZaczVvV3JBdFhGZEpRUGVGZXpSOFRIZ25Ra29Ma3FtalZWYU52bzE4N2M4dEJvWUFSU3hxVkh6RVJYNmNDRXE3WnRR?oc=5",
+        "date": "2026-07-18T03:01:15+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "Acostarse como experto, despertar como novato: un nuevo orden para el conocimiento",
-        "description": "Acostarse como experto, despertar como novato: un nuevo orden para el conocimiento Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVFmUnkxTTB2aXVoV21Ra2FPSU9uU3R1RWxSSW1CNlo2U2lNSW5LREp4R01nV1BYRVdVRWZKUVBvWHNPN0ppbnhLMEVmNFo5NGMxalgzdnRyN1RWWUFJUDM3bGNlUHRJeWFnRl84MDFqbE53b1U2SHhacWZBUUptcmxTRFBPeGFZM1VkdGZKNDJRV3pTdUl3RDJ1LS1xWjNIeXQwNTNBd0tBc3k0YVA1cm5qbUZnRWhiU003ZNIB1wFBVV95cUxOLXBSbEpSUGVpQTh6ZVVpQmkzeEVKZmEzblpJZ3VodXRmX3cydU5nei1aR3RpOU5XSFBWamh4X1dBbFNGUzVFbkg1ZHF1a3RyUzVpc0dzS250eTJGOTltRW9oQWYycnFSLVBkYmNaNW1zejNDWmFTSkE3QnZmMzFERFhFOVg0MWItLTBhdG5ILVlFQXY5cTluVGJsOVZaeW5wa2dnanVHZ2ZyTXJrRFdwbFU5djkxTGdXcDRfVjQxcHV4SXBOb01PNTRYVGFqUnZfbzhwNHo5WQ?oc=5",
-        "date": "2026-07-18T09:14:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Una declaración sobre desarme y uso virtuoso de la IA",
-        "description": "Una declaración sobre desarme y uso virtuoso de la IA Página|12",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnRzNG9SUXc5RWlSZ0JrNzNHTzNTOUFjZFQ2aWVxeVV3YWxHSDBzek5SYmVqWlBIb1JadUhrZ25Fd1pFSTVlNlo5V2htY1hyVDNaUHo2ellBVEhfS2k5ODlXb1pKWVYzejdiaVlKbUF1ZWZBRnQ0M2F5eV8tZ0ptMUk1VHc4WEFmWTEzMU9mNF9LWWVoemRqLQ?oc=5",
-        "date": "2026-07-17T23:01:00+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "UBA: Mi Econ, la inteligencia artificial que llegó a las aulas y abre un debate sobre educación y datos",
-        "description": "UBA: Mi Econ, la inteligencia artificial que llegó a las aulas y abre un debate sobre educación y datos Letra P",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZENiVzY4Yzd1eWlhS0tVQWRMRFVzLWprLWJLTGswSXdVOEpIV01KQ1phVEhoQ1BqWmVBUERjeHhZbXc2czdpS0M2SFJZNmlmcjl1ZDdjLWxzekhvY3IxS19haU9QV0ZDRWxzN0J6TlNuZzJyTkJRQnk5UmszWDNKcVVKQXNDSVRTeXZnM1dGVmJUQzdLa2FRQnRaMWxmWmQyT0dOQ1VTWm95WWx0a0h5Z1NEVDFDOTZ5cWNTRzZPUnpzaGlIXzcw0gHMAUFVX3lxTE9SdmJ5QVNqUGROX3JKdG1WMGRmOTFRWGxRV3dIeHVXS29Xd0pmeTN4R1A2S0t4TkhXZnRUY2tzQ29EalNLWXJjQTJNcWRycUtYemw5U0lEbWJESUEtQzdDZFhPYUwtRE9TeXlueG1oc1Q3WVFlcTBURUI2RnZUcE82ckx6N2lMNXkzdll5dzZwaVk1VTdIMkJNQ1c4a0hKYlNuZmpYcm1veWhKUFl5UERGRlU5NmExUXRhZDdEMTRIc1JFZ2UwOWdZUmY2SQ?oc=5",
-        "date": "2026-07-18T12:35:00+00:00",
-        "source": "Letra P"
-      },
-      {
-        "title": "Santa Fe ya capacitó a 10 mil agentes públicos en inteligencia artificial y se posiciona entre las provincias líderes",
-        "description": "Santa Fe ya capacitó a 10 mil agentes públicos en inteligencia artificial y se posiciona entre las provincias líderes Gobierno de Santa Fe",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Tm1qaDQybVNIS3Bwd2RkeXJDYU9kb1ZUZjJKUHoyWDNibVZwMXJubjlXeEpkdnhpS3ZWRVFfOXBURjJTd01pd19uWmRVZTZUSTZXWlJCTHZKazRxaWxiNg?oc=5",
-        "date": "2026-07-17T17:36:13+00:00",
-        "source": "Gobierno de Santa Fe"
+        "title": "El impacto de la inteligencia artificial en una Rosario con empleo frágil",
+        "description": "El impacto de la inteligencia artificial en una Rosario con empleo frágil Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYk1mekJ1cS01OEgtZEU5Q1V2cmxjVHpiTk01aUNldHYybXNwc1ZPNHlWMUxfVTVwNDJzcUpRYUpUVmNYajJkZGItMHd4cVdiMXo2a1d3S3B4RGJsdXlLcU9OdHhneUV4N2hVaU53SDFuRWVUckp2b1BnRnJIVWh5ZFpULTF6aTBWLUZVcnR4cjljYzNEY25VZjdyVEtUdUNoclZRejdnWUp2N0hYVTNOeXo3a0hMeXhyd1FvNnlKWms4OW1rZXlSNVgtWGtGZ25qTnfSAdIBQVVfeXFMTmJNZnpCdXEtNThILWRFOUNVdnJsY1R6Yk5NNWlDZXR2Mm1zcHNWTzR5VjFMX1U1cDQyc3FKUWFKVFZjWGoyZGRiLTB3eHFXYjF6NmtXd0tweERibHV5S3FPTnR4Z3lFeDdoVWlOd0gxbkVlVHJKdm9QZ0ZySFVoeWRaVC0xemkwVi1GVXJ0eHI5Y2MzRGNuVWY3clRLVHVDaHJWUXo3Z1lKdjdIWFUzTnl6N2tITHl4cndRbzZ5SlprODlta2V5UjVYLVhrRmduak53?oc=5",
+        "date": "2026-07-18T14:25:00+00:00",
+        "source": "Rosario3"
       }
     ],
     "Vaca Muerta": [
@@ -191,17 +191,17 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "Pampa Energía construirá una de las plantas de urea más grande del mundo",
-        "description": "Pampa Energía construirá una de las plantas de urea más grande del mundo Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHJUc3RjUEtiSnRnQzBISlNCVGFMMzFLaFVaVnhYY0lfRUN6WFNjZDlIczVhUmdvam5lVjdzbWNySEx1NENFUGFqdTZ3SjEyTUZDYlNZbWItRTFqLVBWOUdXZU9TekRKTWFrNTQzY3VrcnRGM3FFV1FYNk9VZXFHTU1XamtYWTkzdUFKTGlVcWtHaFlTUWFBVVJ6LWpkN3dCZUp0RGtYaXNUX1ZGdi14etIBtgFBVV95cUxOZzAzdm5MWWxlVHBrRUFITXl6cnl1ZllObF9lZlVYMlhCZWZwdXFLbFNZY1FVV3o1aGxiWU82LUc1N2t3Vk5aQ1NPVVZaVjBrTWdjeGY2OFF3cVNfQmxfNUtkN1pGTjZWaHFlUVR4bi05NGR4UjVObGx2OGIxNFl4XzVBWEt1MzFEQTVYYWFPQzdFV1J2UHBLekFKamo4aXAtS1VUSHUtUjlLRk9OYUlidVlXTF9sUQ?oc=5",
-        "date": "2026-07-17T22:11:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta",
+        "description": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta Maracó Digital",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZHRnBUTDVuc0J6WFl3Rkw1UUhiWWlDVkZFYUw3RTBGVW9GT2xmOGhBUmF2YzhVYU4zUHl2bWhEZ0Fkb3NMZjc2dlRLVkhJQ29kVUNuelp3WXFoWGYyaGNKYjgtdE84d3duaUZWbkN6elNRQVlLcDgwRW96MEdxWVVrb21MWHJaVWdUdUZuX3dHV3pWVG9QMTNQSy1JNHZmdFE?oc=5",
+        "date": "2026-07-17T11:46:24+00:00",
+        "source": "Maracó Digital"
       },
       {
-        "title": "Tras la escalada de precios por la guerra en Irán, Pampa Energía se mete en el negocio de la urea con una inve...",
-        "description": "Tras la escalada de precios por la guerra en Irán, Pampa Energía se mete en el negocio de la urea con una inve... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbUpNWGliZjk5OHRtZ0x3WW1lTzBNdTRtRS1VSEs3LWNYbU96ZmRWSEE0czlvWlh6UUpYRVlPTFpNZWl5VVEzb2txcU05ZjByX25JaFFmRjZ1SllhOVVoajc5QmV2a2VMMTdZczAwTHBIYlBocHlHcGlPVjhVZXZha1BEMDJZa2loZWpoNXZXRnRZdHpoSXFEcGduS0pOeGhqWV9YQ0F2N1pyRW1zc1o1QmJBUzRQdWdzbXpma3JSUVBuXzZlVHBLZUJ3ejBJY1NXNEVrSm5wQ1VXVnpzYU5kcUFWVF9QUms3d3pkRFdkS19oMTduYXhmNnRrbzZjYlZfTEJyWmEzNE9KQVQyRlBvZ29falXSAZoCQVVfeXFMTjVTNkhxdXZNX3Y2dVo0LVZ2SEN2QVhPQUpHck5Td0RJaDFXLWVlaGtra2FrMllQVHctSGJCa25rdXJBMXBiNjlCeURtS05LVXhkdTBFbWhNdkUyX1NnODNpT0xpeGR3bWhGREJHNnYzQUdIRlZSMzlncVczNl9kbjJOSFZ0dWRNWXE4bDQ0QmRBNmtlNkM4TFNvVnBVaDQzWHdfVTYybGRmVThTLTdZaWJhSTBqdmxnZkxQb0QxNlh3dzFka1dadWNVUWlUREZYX0tYSFpXQlRXVTIyc2JDR2hTZHB5XzR5QU9jU1V4X1JGcVRkUGFiQ19lejNKYUFOaDJFRVJOeXpCY1pCcGFoaGMwWHo1dHFKTTdR?oc=5",
-        "date": "2026-07-17T22:21:42+00:00",
+        "title": "Vista aumenta su escala en Vaca Muerta al incrementar su producción un 32%",
+        "description": "Vista aumenta su escala en Vaca Muerta al incrementar su producción un 32% Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdVQ3TlNmLWk1SS1jNjNraGxlektCZXRzbHIxVWxVVWJzTFB6WnVqVFI1UTNvTDF5aXF2a2VIWXVueVdSTGxyYnE1ZWJJMXU3T3ZCa2NldkVYaTE1d0hwNTFzNkprV09LUGdqMW5lRUFuQUliRDJ1X2U1NktqZU83MjVoMkZ1VUtUdEFqYUJNY3J6dkt2TUZ6SWdKa1RBSmhfbFRTTXBQZWItdDlHZnlrZnFOX3llV240S2t0QmtWRENsYy1Tak1Kb1pVRnZtZFBweXRLVGtERdIB3AFBVV95cUxQWVNSZnhDb2JOcEN0Vm9zODN6S2gtVXpEc1VUQnFvTEMxRXZtcDAzZmJ0OEM4aEVDckdPYXloWEdvd0JxX0h5OTZaa0F4THBwMEMzMldqdjFPWDRGak1QeXdhdkZIcGJsQmQxbm1PUkpVNVltRi1VVGNZcXp0OUdlU1A2eTBLcU93VVo4aTQwRWhFLThtM2hUZXRnVlJESTdMODVKbmdYYlo4cHNQb0E0Z01yQzBpbzRCY3lJZkx5MUhEMWhzMHl5UUNxV3Z4VmFRYTJra2M1SVRoMnVs?oc=5",
+        "date": "2026-07-17T18:17:33+00:00",
         "source": "Perfil"
       }
     ]
