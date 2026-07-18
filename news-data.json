@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-18T08:48:17Z",
+  "updated_at": "2026-07-18T10:14:21Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Galería de Microsoft Milan / Flores & Prats - 12",
+        "description": "Galería de Microsoft Milan / Flores & Prats - 12 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZTBIaVVGQjZXYUxKWENBamxPVVJkY3lYandhcjB1RDFPR3hRdkV0dmtZMmNWeWNrdE9vWlg2WFU1dXJYejM3RUdKelhxYjFnR0JIcWc1NHFJMUg1TmV2QjJteUhtVG90X18zLVN4UzRmU2RUcjdQYldKd2tXOXRUR0tvamZTNE9PTURHZ2lXaFFQNC1oN0N4RG84TkJ6QlhFT2UwZjFPdWhSeE1pUFpwYXpvUHBMazRVWlFLLW9lMnJfNC0zMjczR1RGUG1aNFRZWUFDVFNIc2ZxVUVJX01CbFVsUkNYeWhVMzZRNWE0SlpzbjlDU25v?oc=5",
+        "date": "2026-07-17T18:22:08+00:00",
+        "source": "ArchDaily"
+      },
       {
         "title": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios",
         "description": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios Brodersen | Dark News",
@@ -17,18 +24,18 @@
         "source": "iProUP"
       },
       {
+        "title": "Microsoft vuelve a la carga con Majorana 2, que sigue sin tener estados de Majorana de energía cero",
+        "description": "Microsoft vuelve a la carga con Majorana 2, que sigue sin tener estados de Majorana de energía cero La Ciencia de la Mula Francis",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEc5RU1WUUxfekQ5NnBRUW9UZVBFaHJFMzhYc1huZHhlNk1FMUhIbG1GLUZfWUdiS2ZLb0NGdzhCdkdrQTE2Wk1ZRWhlQ1Nzc1lxNVpKLWVhTkE2R3I2QUlUWHN3WWQ2WFVzQVRRbEI1NDFQTS0zUEdIbnRNMzBjMHJGdEhlSEp2bUhTNVhEYmJyTjNNbnA0Y1pxelNJUUdsWTUwVTRyc3lrTUlnY3JUMVlnQW1aMTlrbDZtS2RnOFBwNkdGZFlMTDQxbldaYWNVT2F3?oc=5",
+        "date": "2026-07-18T08:51:23+00:00",
+        "source": "La Ciencia de la Mula Francis"
+      },
+      {
         "title": "Wall Street optimista: ¿Hasta dónde puede subir Microsoft?",
         "description": "Wall Street optimista: ¿Hasta dónde puede subir Microsoft? Bitfinanzas",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2R1MHB5QWZ5SElhbDJQLXROclVxendnUXI4dk84RlNRVUoxUElzMm9RQXdPOHR6ZzV1UktsYlhOeW54UGxFRlZMTmNGMXdrRy1hS0J6QzZ6cUxOcVhUSVV6UnBuWGlXaGNwT2hTeE0tY2pzNll2Q2lhYUhhRUtQdkNtRlRhSnM?oc=5",
         "date": "2026-07-17T15:30:00+00:00",
         "source": "Bitfinanzas"
-      },
-      {
-        "title": "Pronóstico del índice S&P 500: Meta, Microsoft, Alphabet y otras empresas continúan aumentando la inversión en IA, lo que podría respaldar que el índice supere los 8.000 en la segunda mitad de 2026",
-        "description": "Pronóstico del índice S&P 500: Meta, Microsoft, Alphabet y otras empresas continúan aumentando la inversión en IA, lo que podría respaldar que el índice supere los 8.000 en la segunda mitad de 2026 TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQ3B3QmZ4dTZHZmJUNzYweWN0R0s4WmhlaGRKY0pmZkZUVGVZYWs4dS15akZEd3QyY3VOMUJyN2tkbDI1ZW85bUhPWjl3YkdfUFJHN2JLemhLTFJpTHVKYUdyTEcxdXNWTXhaVVZ2MWdKVjFZOHR0NjNfOGFVWWNLQmFNMlVsOEwtQjNibk1mb1JyRnNiNnNDRTlVWmNwZTFrX0p4eVhlMnJIcXY5SmJSajduNGs4RUNDQXRLVk9qZUVzQk9OV0xEaXUtVU5CQ0FrQ2VwbkJOOHhFSzdnNVhoUHNFaWRqTGtlazBjeQ?oc=5",
-        "date": "2026-07-18T04:13:04+00:00",
-        "source": "TradingKey"
       },
       {
         "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
@@ -38,28 +45,14 @@
         "source": "Ambito"
       },
       {
-        "title": "CEO de Microsoft advierte que hoy las empresas pagan dos veces por usar inteligencia artificial",
-        "description": "CEO de Microsoft advierte que hoy las empresas pagan dos veces por usar inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVpsSndUQ0ZhRXRobVdTR1p4ZmxUbXgyd1BiclV3T09hbVZ3MFhrcUFoSlNyTjVuSF9BdVF1NGkzd2FJWGNoQ00tQUJieHlYemc0eHM0bFhDV1hTMUZzV0xQQVRhV3l3Z2JaZVJrZ0xSLVlOQ1ItdzVTSEJMTEh3bHFNVVU5SzJrUTNya1h1SlN1QnE2M0VrTXFSUGJTeHdYMmJveGxGNHI0Q2huS2ExaXVfU29aSW4xZFlselNCT1Q0bm5meW02RG1QTG51c2gxXzd30gHuAUFVX3lxTE4tLUszMDJwY3gzNUdFX1J3bG9YTnpBNTRfcGU1X0pBd3AtdktWcDB1a1M2THlxUVNXWDJsLXdEb0lOb09UaG1JUndDQ1cxWjlxMDhPOTJuS3VkZkhOX08xUjZsa29LbTBjejVpbVZ0ZVZtMTZXRUlHNzUzaTVYaGdhdk4zSzU1N0RIVkxQWUdGUWw1TUdYYmlBU1huTGlMelA0OE4ybUd6OTNEOXIyNVhmMjlkbDYtVTFJbnpKUWVZQXlmbFJ4ZktWcGozTWJFT0QzQ2lQM2llN25ETkFFWGxWVGdtX1otV0pNLV9wSXc?oc=5",
-        "date": "2026-07-14T17:56:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Serveo impulsa la eficiencia de sus procesos con la IA agéntica de Microsoft y reduce tiempos hasta un 80%",
-        "description": "Serveo impulsa la eficiencia de sus procesos con la IA agéntica de Microsoft y reduce tiempos hasta un 80% Microsoft Source",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS0p5eGJlMUUtWkVQaHlUT2JoQ2pScnZoSXhIY2hBbVRxMnZpUUpQUlpjbTBaRXByTHVaYnRDV0xYa1RKXzl6RzRMVkRPRUVhOWRvVWpHalpjT3R4alFDTmVEMUhfUTVBczhFLUxEcjFhVVFNMUV1RDl4eGttX3VRdW9GeXlwX1V6TUxJTTZRRWJiRXVac2FOOXh6UWhHbEJyMUNpSDRnU1IybUpXY3ZNaDVhNGFrYVNIbFhOMjViWXpyd3ZOeGJ6d3hGSTc5MDJjdW5SbF9NTUVodUZIcVZ1WmtFeU1hTVp5bmRPVkNRekNCMVFl?oc=5",
-        "date": "2026-07-15T07:52:58+00:00",
-        "source": "Microsoft Source"
+        "title": "Pronóstico del índice S&P 500: Meta, Microsoft, Alphabet y otras empresas continúan aumentando la inversión en IA, lo que podría respaldar que el índice supere los 8.000 en la segunda mitad de 2026",
+        "description": "Pronóstico del índice S&P 500: Meta, Microsoft, Alphabet y otras empresas continúan aumentando la inversión en IA, lo que podría respaldar que el índice supere los 8.000 en la segunda mitad de 2026 TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQ3B3QmZ4dTZHZmJUNzYweWN0R0s4WmhlaGRKY0pmZkZUVGVZYWs4dS15akZEd3QyY3VOMUJyN2tkbDI1ZW85bUhPWjl3YkdfUFJHN2JLemhLTFJpTHVKYUdyTEcxdXNWTXhaVVZ2MWdKVjFZOHR0NjNfOGFVWWNLQmFNMlVsOEwtQjNibk1mb1JyRnNiNnNDRTlVWmNwZTFrX0p4eVhlMnJIcXY5SmJSajduNGs4RUNDQXRLVk9qZUVzQk9OV0xEaXUtVU5CQ0FrQ2VwbkJOOHhFSzdnNVhoUHNFaWRqTGtlazBjeQ?oc=5",
+        "date": "2026-07-18T04:13:04+00:00",
+        "source": "TradingKey"
       }
     ],
     "Marketing": [
-      {
-        "title": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios",
-        "description": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1Q1ZXVWSmNsel9LeDhBa2dHRGxtQWZqQXZ4bzQyQl85YmM2OHJ4T0FmekFvN1RZTDRhaVEwa1lZQlhiODN6S0tPLU5MWVpxUDdSalRhMmpWQU5jNUlEejAwZVF6Q2wtSkNKamFHZ096Z1dDMFAxNVpMYzZ6S3JMODhENzhpNFhxX2o2aWdFbTVSS1FySTlhOXhjOVV1c0R1cXFDMGVOSHZ6RTd5Z0R0bnZKQXB5ckdtRzBQMk9ickNKcEhPRV80ZkRocWI5SkljeVAzZQ?oc=5",
-        "date": "2026-07-17T16:13:26+00:00",
-        "source": "Rosario3"
-      },
       {
         "title": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? - Diario El Norte",
         "description": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? Diario El Norte - San Nicolás",
@@ -68,11 +61,11 @@
         "source": "Diario El Norte - San Nicolás"
       },
       {
-        "title": "Nueva Expo Digital con puntaje docente en Salta",
-        "description": "Nueva Expo Digital con puntaje docente en Salta HolaSalta",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnplMllSUFRtZzhyeHI2ekVkc1RvR0Nqc1VxWmdISElHVUd1azhkSEsyd0V6RWRHb2hFZmsxVk1VN0tGcS1HVE5DYXVtZDNPYTAwN2xJTVM4R2lJU0dNOFAtTkh3Nmt2RmYtZ0hFNU5DdXJxdmk0X2lVOFBBOWk0c3hJVHBHc0lmX1pxLWFnSFk3WnlCSkwzVmpVR1JJdw?oc=5",
-        "date": "2026-07-17T16:30:54+00:00",
-        "source": "HolaSalta"
+        "title": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios",
+        "description": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1Q1ZXVWSmNsel9LeDhBa2dHRGxtQWZqQXZ4bzQyQl85YmM2OHJ4T0FmekFvN1RZTDRhaVEwa1lZQlhiODN6S0tPLU5MWVpxUDdSalRhMmpWQU5jNUlEejAwZVF6Q2wtSkNKamFHZ096Z1dDMFAxNVpMYzZ6S3JMODhENzhpNFhxX2o2aWdFbTVSS1FySTlhOXhjOVV1c0R1cXFDMGVOSHZ6RTd5Z0R0bnZKQXB5ckdtRzBQMk9ickNKcEhPRV80ZkRocWI5SkljeVAzZQ?oc=5",
+        "date": "2026-07-17T16:13:26+00:00",
+        "source": "Rosario3"
       },
       {
         "title": "Está abierta la preinscripción para un curso nacional gratuito y virtual de marketing digital para emprendedores",
@@ -80,6 +73,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNam1yUHZ4N29YM29DT0FESHF1UnJ6SnBXb1lZWDl1RER0Z2VmeDBRdnJxSmJoZ3pkUUhIREczWWYyNUFLajR4dER5NVg5QVBDRGhRdUpKeFdCdUlTSUczOE9wM1RsYWRiREo0U3lqM2UxajZRWXNDU0trNEtDNjBTWDI5UjNwb0hscnd5T2doQVVVQ3BlXzBxRGRLQkd1eHVEODlNX0lueE9iNG96cHFwMUlIYjhfaTdkTTlMeFJJSFE4THdVa293NlBTYlJINnEwVFI5MW9B?oc=5",
         "date": "2026-07-15T10:48:00+00:00",
         "source": "diariotortuga.com"
+      },
+      {
+        "title": "Nueva Expo Digital con puntaje docente en Salta",
+        "description": "Nueva Expo Digital con puntaje docente en Salta HolaSalta",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbnplMllSUFRtZzhyeHI2ekVkc1RvR0Nqc1VxWmdISElHVUd1azhkSEsyd0V6RWRHb2hFZmsxVk1VN0tGcS1HVE5DYXVtZDNPYTAwN2xJTVM4R2lJU0dNOFAtTkh3Nmt2RmYtZ0hFNU5DdXJxdmk0X2lVOFBBOWk0c3hJVHBHc0lmX1pxLWFnSFk3WnlCSkwzVmpVR1JJdw?oc=5",
+        "date": "2026-07-17T16:30:54+00:00",
+        "source": "HolaSalta"
       },
       {
         "title": "Google ofrece un certificado online gratuito de marketing digital",
@@ -126,32 +126,32 @@
         "source": "Infobae"
       },
       {
+        "title": "¿Se pueden recuperar los recuerdos de una persona muerta? La ciencia explora una posibilidad que parecía imposible",
+        "description": "¿Se pueden recuperar los recuerdos de una persona muerta? La ciencia explora una posibilidad que parecía imposible Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX2huWEg5cmwtaW9zREhmUmpiX2J5WFpwa1Z6aWVLSWFDSjUzbDZXdEduN2FfRW1hSGlyRlNjRHFpWkl4b2lBQWIzY2puZmJ3QS14dkZZUnJsRWxUWHczb1hTSXA3bE9QVXZCc0J5eDVjLTZJTWFQbWRRemVUaFliWkk0X0otQlgxa0k3bE9tTm1CR0VKZjUycDhsSUpEdno0N3BlVTh5dTgxR2Z6cmZFaElJaFNVYjh0dkVCbkVWMXp6bVlOWFV6bmdvNFE1SjNFNTl5QTdn0gHbAUFVX3lxTE4teVhOMUdIeUswMFBtZTNhbkJOd2RDbnNUYTl4Q3BEQ0hySzJfM0VmVGk5QWlwOVBUaUNyT3dQNWFRdnFjR0hOeDlYSS1neWU3UFcxSnE5UmpsVE1acGVGZkhVeGp1cWlUbU1ZV3ZWOUpzTmR5cEgtOTdRMGpER0J2Vi1kQzRCTC1pVVdXWjVMN0VIMDVMX0VLbGJnMGJXT0NmMVJqNnFCQzlhaXN5SmRXQXNjY3ZadGVmZEJpUUdKN3cyUVRRVmdiTzFreFlPbG8zbHlSM0YzeGdodw?oc=5",
+        "date": "2026-07-18T09:01:19+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "La inteligencia artificial ya forma parte del proceso productivo de videojuegos en Japón - TN",
+        "description": "La inteligencia artificial ya forma parte del proceso productivo de videojuegos en Japón TN",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNW5kV3RzVzJHWHhHbXYxRG04ZlZhSWdCRDlIdENjanRkX25aUXdlUk5KeUI0QVRWb2stVHJKbFNlZTlWTURKUkJ5d182bTlNcERRNVAwbzFUUTJYNm5OdTdZTXVSMjR4aWcycmhyOC1GM0J4S01OR1JjY3ZSeDZzSWZ4MHQ3TEMzZjZ2ejJiVG1vMEhraFNCVnZiWHpleUJTYWZHMkRNMlljXzlVOHZsWk9VSUN1WDNIZUgzX2lCdkVDdnQ5Y25IRVdaVDgzZ1XSAeMBQVVfeXFMUHQ5N3d3dGtHNjFPUHZwQWtmOFFjYXdrdnZpYUlwVnhsb3p6ZU9Zd21yamthT3Q1cU5LTTY4NUt6WEJYQWM0OTlqVHpXOFNJQjgtQ01iMmcyWVBOdWlOYXhNREY3ZjZHcHZUVTNOSzE4aUNseXFSNlRHeVhQS3lENDdLcGZjVUhBMUlOZG1NeEFYeFlHUi1iNWVMSUR5dWJ2eXowb0xTUzNJOE1hY2h2UDNObGxBUlh3anc4WEgyTzk3WUdNckZNcUM3Z0M1eTJlNXlQZVdJekhwVnh2Z21fcmt0aU0?oc=5",
+        "date": "2026-07-17T19:51:37+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados",
+        "description": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT3dkX0tDWTV3UU04ajhWNEd0VVhnTmVVWTNWcWhyRHp5NUluMDRXc0p6bktBY1djYlJ5UTlxQmF0SmhQa3pXQzQxOXV1YnlmTHB4VFZUNTVxVUgtaDlBZHhzcFlTd1N0Z3IzWmxpd2M4T0R4SThkMGMweU9Jd2Z2QW5ucDV0bko5TklpV0tUTGlIVk02aUIzbEhSQ2dUZGZTX0lONFRFMW03UTdsYkRkU05YWWZyeFo2dkxYNmdRRkUxaEc3VlA1bWFBaURwR1RBZ3ppYThVdW5XZlI2UnNPRlNVdk9Hd9IB6wFBVV95cUxNSGFWVy1MOUhhS1FGbWxEX0NwYUFVY0c0amJUNTFNaVRGUUN6LWxvZWxGSTdlQV9pS09JUjh5Y2JlS0theTY3REFMZkNtZFd6TWY3eUJqOFV0NzRGWjZFb3VqU245di1jTl9PZTA5bTdIVkV0a29aMGlQMk5MNG5FbVZoTTF1aFRtVFRhZ2xRSWd2ZUN2c0NNR0lCWWhCb1AzM2dFa0Y2LVc1bjZ3MUh2UTFURmppcXdpVXN4a1hQY2s3VkcxeE5URmVoTC10UWRWSzBlTTJCRmpLek45eXJfSklpVFJaWU9UU2VB?oc=5",
+        "date": "2026-07-18T03:00:00+00:00",
+        "source": "Ambito"
+      },
+      {
         "title": "Santa Fe ya capacitó a 10 mil agentes públicos en inteligencia artificial y se posiciona entre las provincias líderes",
         "description": "Santa Fe ya capacitó a 10 mil agentes públicos en inteligencia artificial y se posiciona entre las provincias líderes Gobierno de Santa Fe",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Tm1qaDQybVNIS3Bwd2RkeXJDYU9kb1ZUZjJKUHoyWDNibVZwMXJubjlXeEpkdnhpS3ZWRVFfOXBURjJTd01pd19uWmRVZTZUSTZXWlJCTHZKazRxaWxiNg?oc=5",
         "date": "2026-07-17T17:36:13+00:00",
         "source": "Gobierno de Santa Fe"
-      },
-      {
-        "title": "» IV Encuentro Para La Socialización De Experiencias De Enseñanza Con Aulas Virtuales, Tecnologías Digitales E Inteligencia Artificial",
-        "description": "» IV Encuentro Para La Socialización De Experiencias De Enseñanza Con Aulas Virtuales, Tecnologías Digitales E Inteligencia Artificial UNSAM",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmZjMkttc1dLQlYzR0RmSFNTdVRBMlBKVS03QzVqQmVGaFNUN1U4QmFWYUhIMEplaDAyZlh2bzc3YUtPNFhwa2ZRQkY2aVVlQ3k4VUVDQ29BeER3dFNHSzZqb3BJSnRxMmRUMU0tMXExNGg1bHhqLUVMX0o4RkJBNVU0N0lBcVoyd0Z0M2pTazYxQ0FwbHNrZG5HcS0zcXBndk90YWlXeEw5VlZjT0xyMkRPS3JqaDZzN01yOUpVNzFsMUljb01tb1FQbVRSOWNlcFVBbU1zLU0yMGRWRzlVbzNSRGdrc0Z4anRJT1pwQ1c2bzljdmM2Mm1fd002VjJYT3Rr?oc=5",
-        "date": "2026-07-17T17:05:06+00:00",
-        "source": "UNSAM"
-      },
-      {
-        "title": "Gobierno de Entre Ríos",
-        "description": "Gobierno de Entre Ríos Gobierno de Entre Ríos",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LeXczZzNENTBhMlFORGN1VkRXUWpxcVllY1pkc2h5cEFyWExRZjNrVnhIT3lIaWhaQ3ZSbWVWemJKbXM5UTFqM1JKU0MtRkxDWlQzU05aZGlEQQ?oc=5",
-        "date": "2026-07-17T09:05:22+00:00",
-        "source": "Gobierno de Entre Ríos"
-      },
-      {
-        "title": "Leonardo Alberto sobre la inteligencia artificial: \"Los inversores esperaban ganancias que todavía no llegaron...",
-        "description": "Leonardo Alberto sobre la inteligencia artificial: \"Los inversores esperaban ganancias que todavía no llegaron... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa093VVBMcWRZVS1acFRwVWNCTG1MOW5TOFdCVGpwV3JNNmU4djlBZkhoUmtMMWRGVmhJSnVXd2cxQWs3cGZwNHZoOVU5QWxvbUJhUXF3V0ZoRnVZRVFlT0xsdmJTLTE0Ulc2QWl4UUtqSTNfZ2l4OUlpOEk1Q1BUTXVXeFBia1E0a3ZyS3IzWGtILXI1TU9BbFlpSWR1bWNiYnU5S3R5T2NjRjJhNjJaVG5uZjB3NHJPTy1JdEpwZmo2RFM1TUVlWTJkTkdBVldBRG9JM09hdUI0YjFra09z0gHkAUFVX3lxTE4yeTB0VW9LT1BXOHlBeWh0azd2QkFZQ0hJNXRraFp6SUVEQWZNUklPaXlvVm9iWUx2MEJEVTBJc2UyWm1XS2NUWU1HMURLYlNaS1NJWEh3WUk1d2Q1Y19rTXlIRVdaRVcyOWktV3BlSWlWUTQzM0NJVkg1b3h6eU5pN3ZWeW5GeGliQmkxZTQxUlR1aXNVTTJsV2hMUkFoQUFPVlVPTHJOTnBrNzFKek1oTFJtbW1lWS1fN1E3U293NURYYkt3NTBSOHppZUlpMEg4a3BEZWRIdGJxU085dUZBWjBXUw?oc=5",
-        "date": "2026-07-17T20:11:04+00:00",
-        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
