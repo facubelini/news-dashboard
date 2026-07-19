@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-19T13:04:35Z",
+  "updated_at": "2026-07-19T14:50:05Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft",
-        "description": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft Xataka",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlNRNl9HSmJGV3pPQWtxTDBsZG4xMjRwa3VaQTh3ajY0YjFGT210UXYxTmhVc0dZMjg1OGYzRU0wM1VQMU5EOFVtZGxEb3VGaVY4X3VHdFdRTXdVOVhWb1MtYjZiTGlvVnB2RWZaQTlrcHlRZnVLX25MT1pxX3lDT3luWTJxV2dFRGdsWVJxMHVQQVBFOG5UdDVka3JKWllTWlNaR1dfX3NqOVlnTHFxOERZLUhBY3RldkdXUtIBwgFBVV95cUxNSXF3RFUycml2X0Vrak0xZjh6cXkxQVBZVUhQUXhCTEttZm9ucWUyY3dBcnBoN3pRUTRfZ3didDhTbDRZYlJTOE9MWmJ0UVFub1Y4NllheUQtdGZ0eTJPMWJRN3F1T1RjSjlCLUdtMmYxWlRya2JmY0oyUzBoVHZDZHFyX282aHJ2cEo3SVZCV2hWS1NHbEEtQVhJR0Zvbm1Gam4ybm8xQ2hwTGtqVHhiX1M1YXVjaUx3MTIwdEhTWC1WQQ?oc=5",
-        "date": "2026-07-18T11:30:00+00:00",
-        "source": "Xataka"
-      },
       {
         "title": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta",
         "description": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta Infobae",
@@ -17,18 +10,39 @@
         "source": "Infobae"
       },
       {
-        "title": "Microsoft vuelve a la carga con Majorana 2, que sigue sin tener estados de Majorana de energía cero",
-        "description": "Microsoft vuelve a la carga con Majorana 2, que sigue sin tener estados de Majorana de energía cero La Ciencia de la Mula Francis",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEc5RU1WUUxfekQ5NnBRUW9UZVBFaHJFMzhYc1huZHhlNk1FMUhIbG1GLUZfWUdiS2ZLb0NGdzhCdkdrQTE2Wk1ZRWhlQ1Nzc1lxNVpKLWVhTkE2R3I2QUlUWHN3WWQ2WFVzQVRRbEI1NDFQTS0zUEdIbnRNMzBjMHJGdEhlSEp2bUhTNVhEYmJyTjNNbnA0Y1pxelNJUUdsWTUwVTRyc3lrTUlnY3JUMVlnQW1aMTlrbDZtS2RnOFBwNkdGZFlMTDQxbldaYWNVT2F3?oc=5",
-        "date": "2026-07-18T08:50:25+00:00",
-        "source": "La Ciencia de la Mula Francis"
+        "title": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios",
+        "description": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios Brodersen | Dark News",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnFHNzcyOXFxQVJFc05MbUNYeVcwTlk2S2hqTHU2SFd4SU5OTEs5aG9PNXU4ZndhaEhrMnhWdXlleU42VGlUa2VJTFVlZGxMeWliYi1rTWRxSjBBM3RheXhEVkFUSGw3ZnFVSjVsM0ZHRi1aaC1jYVJ0QWN4NnpZRENHd0xxcVV5VHc?oc=5",
+        "date": "2026-07-17T10:54:40+00:00",
+        "source": "Brodersen | Dark News"
       },
       {
-        "title": "Microsoft Surface Laptop Ultra con silicio N1X empata con el M3 Max en Cinebench",
-        "description": "Microsoft Surface Laptop Ultra con silicio N1X empata con el M3 Max en Cinebench Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWEzanMtSE0tQ2k5WmhsS2gwV1dYa0VIcXFxTzVpOFRNNDl4U3BXZ1oxckdVQWVXRVVETE01bmc5U3ZiTmpfV2Y1NGdGdlJaYzdjTVp3YUdWMW96TUcyeHFJWXNVTVhiMUJYRWlRYXc3TkdkTFRmakwwRU9pZ2pOdFdJWHN5MWJXWks2NWYyRjFvcUI2bkU4dVhoTlZCZ9IBowFBVV95cUxPUENmZHdkOG5vbFQydHI0MjhXMVB5dkNRcW1hVVUxa3ZFLW9iU1RKZ2JlZXQtZ3JNLTJsTTNNWW14aTItc1ZqWFlwT0pHQkhmU0M4bzBSeVFXMjRKXzlGejIwR0NIS0VxdEUxeThXMHRTRlotdTU3UnNNRTVJdmRsaFNma3hERnpiVmoyVWxzUEpoSUlCdHVHS0QwU0x2V0pkWlRB?oc=5",
-        "date": "2026-07-18T23:44:13+00:00",
-        "source": "Profesional Review"
+        "title": "Microsoft devolvió la cuenta de Xbox a un jugador después de un bloqueo \"irreversible\"",
+        "description": "Microsoft devolvió la cuenta de Xbox a un jugador después de un bloqueo \"irreversible\" ixbt.games",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakdzVUZjd0g3ZmJKbUVMRkFwR2RCOFNiaS0wZWhOUV9sajZWak1LaG11VDVoRWJjM2hqdWVVOHMzc3JITXhvN3dwbUN4RE1WdGFoVHN0ZkN3WEwtOTFwMnMzejY1TkpkeldFU1kyaEZKV1FYMEpQdjZMWmN4VjNoamZzMDZ1TWpwWDZLUUJkbWFGTzh5bDdHTHJXSnRRaEtWZmhqbEpBeWh4QV94eVHSAbMBQVVfeXFMT0JhMWJMQnQ4aTh4dzhSZ0Vja0M0cUVDNThtYzRaWXJ2UlMwWWQyMlp0di1SNXhPOGZpZ1dMMTQySGM3Q2lKdjFOMXhEYlNnS2o2OUxjYXdPVEttMjV0eUR5RDVaV0tILW5fbjhZZFNNMi1NUjdfQ05KMlBVeC1JSS1uNk1va3RoMThQMGEwS3Bpb2VaSFVJTEhPVkxWNk04SUJYN0puYzgwTkpmMnd4RkpFWnM?oc=5",
+        "date": "2026-07-19T10:30:00+00:00",
+        "source": "ixbt.games"
+      },
+      {
+        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
+        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
+        "date": "2026-07-01T07:00:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Microsoft lanza Copilot Cowork, su agente de IA para automatizar tareas complejas en empresas",
+        "description": "Microsoft lanza Copilot Cowork, su agente de IA para automatizar tareas complejas en empresas CanalAR",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzB0NFM5ejdSNml2SkV2MEVGaGJoaEZ1bDJJcXE2MnExSHVjQkVOOEJZa25pOGFlTkVGc25meWJNb1AyWnBDSWJIZTJzTmJxSFVtNjByVkRiMWliVEs4REVrX0hRVTVrVFIzYWxyT2pyT3FJcFVyaFo2RmpraTVhWlhuV2F4bnZTZjQ4N0dlUy1UaVJua0FEMDBYVVVReVZ1eE1iMUphbWRMZjZCa1dUSFIxcEMzRUdJYXhmV0FsbFJnTno0RWZPTk5DNA?oc=5",
+        "date": "2026-07-16T19:39:54+00:00",
+        "source": "CanalAR"
+      },
+      {
+        "title": "Galería de Microsoft Milan / Flores & Prats - 12",
+        "description": "Galería de Microsoft Milan / Flores & Prats - 12 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZTBIaVVGQjZXYUxKWENBamxPVVJkY3lYandhcjB1RDFPR3hRdkV0dmtZMmNWeWNrdE9vWlg2WFU1dXJYejM3RUdKelhxYjFnR0JIcWc1NHFJMUg1TmV2QjJteUhtVG90X18zLVN4UzRmU2RUcjdQYldKd2tXOXRUR0tvamZTNE9PTURHZ2lXaFFQNC1oN0N4RG84TkJ6QlhFT2UwZjFPdWhSeE1pUFpwYXpvUHBMazRVWlFLLW9lMnJfNC0zMjczR1RGUG1aNFRZWUFDVFNIc2ZxVUVJX01CbFVsUkNYeWhVMzZRNWE0SlpzbjlDU25v?oc=5",
+        "date": "2026-07-17T18:22:08+00:00",
+        "source": "ArchDaily"
       },
       {
         "title": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo",
@@ -36,20 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTzFIU2ZSVE1Nei1kOUhrY2V4NjNtYUd0NW5CTllFelNqTENCTmhqaXhvVU1iVmVENjh3VkVjU0FwcGgxYnE4MkhDSUtoUXh0Q3REUjhjVWhsNFJDTDM4X0JsMnd4UVFTZUk5MVBtT2Y5dzJHSVBpaXh0SXh2a1piZ1I4SDVPTm5ISDZmNGZNYUdOeklmSi1sMm5BQWdTUC1kSEtNMkRpYmNEaGdtbDk4WVBtZW44UnQ5eEdjYllHOHZ3bS1XdGJSZ3ltT0pEZGJQOHRZMThkVXNYQzFMTU90SGRTZDlJc1ZkS1E3SHdzb1FmMFRW0gH6AUFVX3lxTE9ZaEFZOTdYUzZQX3hiRVNOa0lhUllWaFNQLUt4Znk2TWlDV213WGN5NkVhMU02d2FGcjB2UnFWWkh0bWdGSU0wNWdGR0NpbUFCS1NkaG5iem5HTFlOQkxCT0tYamVIQ1pZNzNPNFJMTkVCZ2c5Nlk1MmlueXVfZEd0bWtDMm42LWFVWHgtOGtOMDR4V3V3dFZFRG1ZR194Zmh2Q2tXNGRIS2NzTG5lRVRxMHdsTFV0aVNqU3VUMXVReVJWMnJ2SWJRT1FyWUJBNjhuZkJPT2xxUmtnTzFRLWJLWmNSNlR3dkNzN2w5U1dfTDhpbFRwanFwZUE?oc=5",
         "date": "2026-07-16T19:01:55+00:00",
         "source": "3DJuegos"
-      },
-      {
-        "title": "El «caro» divorcio de Buffett y Gates por los vínculos «desagradables» del fundador de Microsoft con Epstein",
-        "description": "El «caro» divorcio de Buffett y Gates por los vínculos «desagradables» del fundador de Microsoft con Epstein El Debate",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcjFNd1k5MDlHdVN5NEFFUWg1YVY1dFRtcmNYN3ZRSlNOMWRYaHNPaURJUGFIaUd5NzNiYW9TSVJYdWVqWXo1dHp0MDNTYjRzQjlNZ0dUdDdBanZPT3ZDY0FtOU9wN2dub2VjdW1hVlJqZlo2ZVB4Y1NJT2FDS1FMZUhoenR2d0dNTzZjVGxfZXpQNi1oeGktb2FId2pyaXBCU0t4RGJwUGJUaHJUaWN3U0wzcWJYTW80WEhzU190a09XQzBOWE04LXJSVDZFTmg2MldN0gHYAUFVX3lxTE1sNDRjLUFtQlFXb09BODJZMUVsd1dVLVpsNGNYZk92Z1U3WmE5ZFVicmwyVEE1Q2xIaGE5YUNPckg0LWpfbHRpSVJPS0g2WkMyQW5jUkFsb3diV2twdHZBS2hLU1hGQ1ptNDc0RWFSdll4MzI2ZWgxRWhTdFlfNnpwUncwVVVJVTRnY0d4dTJpRXNNcEh4c21CTENvTi0ydTJHSlU2UTR3NjBNZGx5U2NoT3RoY3pnOHhIRTIwbnZ6Y1NNRGNnb3huSmtycEFNRlBzYlVVdnR6TQ?oc=5",
-        "date": "2026-07-17T02:20:00+00:00",
-        "source": "El Debate"
-      },
-      {
-        "title": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
-        "description": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\" Xataka",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdZTGYtY0E4eXJVd05LamtRY3FMQUNtZldfYTdRZXhLTlJ1MGRsUE9mZ3doNkU3WkpZd3ZCYWU4RnMwZmNqLXpXRFdxUV9lRnFRUXJUcVdOUnoxZzBBeFlsNGZiQ3ZOOTQtWjVDUTloWlJaQjN5VHU5OVkyQ3R2NGZWZGRfRThwb3FJOU1LM0RsU0lzZkw2RDBabU52V3Z6ZUFMSHBySUpYcWtPbGE1dE10XzJFSG5uYTBCSS1PR0hQLUstVUtwbS1CM1HSAdIBQVVfeXFMTUUyNXpESUVNempOR29taEQxcExPNVVDMUs0N2QwZEpuUWVlMElEcWlBVzRNSzk3YW5qdkU5MU9tbjhRWVNhMVVmSFRUV283UVlBbXR4X3FrbkYwMVNJczZVQnVpYk5SS1Yxa00zVFdENXE1VUdHZU5SOXRkWHZ5aGpCdWRIdVFvVEloMHdjSk1DcWZKZWxQd09wdTNNUllnaFVBTXNsaFRqRjUyREJUWjJjN3kybG5TT05tOEVYMXI1WVBKQVlQSjlqUFJKbGlWcldn?oc=5",
-        "date": "2026-07-14T10:30:00+00:00",
-        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -89,11 +89,11 @@
         "source": "Diario Panorama"
       },
       {
-        "title": "AMDD y DMA quieren impulsar la economía de datos en Latam",
-        "description": "AMDD y DMA quieren impulsar la economía de datos en Latam Marketing Insider Review",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS1RYb0JoWFMtdlM4UlRDclBqRXNRX0dLMjFMY1YyLXZfQVhZLVVxT1dpcVVzN0k1VC1JV0h5ZC1nUmV2N0x2WDJxeTNPTGhqNVpjd3hscWsxZ1BxRXN0emxhcF9kckMtOXZJWG1fWmxqNEdzTnN4ZWpKcUNyWnB5VHh4R2ZUa0YxVXBhMWkzRmctMldyV2twT18xUFhSZW9RS3NwVXo3TDF0b2JxMUM4TzRHaEZKT1Fzamcta1Q5SmdqX1dVRkFwSVZhTTd6MmJwOEpkLWF5Y1M?oc=5",
-        "date": "2026-07-17T08:55:22+00:00",
-        "source": "Marketing Insider Review"
+        "title": "Inscriben para capacitación gratuita del sector turístico",
+        "description": "Inscriben para capacitación gratuita del sector turístico Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEZYcU9JNDRKS2UxcnlWMDlpZG5ZZVNtSXlPZFVmdG8yYmNlWUxVWmsxSHVwTHp4eHlJU1hhUnllajdibk8tOW9CUHFqMV9Jb1QyY2VaQ3RFTzdsX3NDTk5aMGc5VEhsU3YtTXpUMmpheUVBdDZMMUVyb2ljamRCcWtpZ1FCVEpyb2VXdlg4bkx0azdEXzM0ZzZpVVpqTEJZYS1vSnUtclp3NjZTVTF1a1Rld0lKekRSenfSAb8BQVVfeXFMT0JVTVNDUUpTR1ZYNnJTNGNYTHFtRlZYM3JVRGstWmt0S2k4RDktSWxOWVEyOHloRGhEQWZ1TDVwTkx1N25NYzlab3E0VFU2eUZSZG8yRkw0aThuS2FkZjFfV3JmOTltMldvb01UZGlIaXg3MUZfY2Z2emcyVVIzbk9mTFdEZmN4YnBpTXh5dWtXWm42UEdkXzRVVTBoRkd5RzNFUmtwX3c4NHVjUGpicklZWnB6c3VMekpXcHFPM0U?oc=5",
+        "date": "2026-05-27T07:00:00+00:00",
+        "source": "Neuquen Informa"
       },
       {
         "title": "¿Por qué muchas pymes pierden dinero en digital aunque tengan web, redes y agencia?",
@@ -105,11 +105,39 @@
     ],
     "IA": [
       {
-        "title": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial",
-        "description": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTUtrakJObmVka1VJTEZDdkFRYTdUYjZoYlpMRVJsSzg4cnRvTmhXampteDlsYzFuTTV4djBKYlBTcGVRa0U4eTZuck90MG9YNUpsZ250bi1lbk4ydkFpRWdsNklZenZodERsdTVqdFlmd2J1RG5tNmU3SVFzNmZDSUVPd1hGaWtna2lKa2wxNm1JUVgwa21iSEtBcWtJYm1lNVNMdEJLdWNLeFh5WjRzLXQybV9HenFncnlKVTQ1blfSAdQBQVVfeXFMUDRVVGxNb0ZvcW92NTVXeXdwR1RoR01aakxLRmNxT0pETWZYOFIwck16UTA2aDNQWHJMaGZtOXpYTHNuWlN5NHowVEs3dVFrQ1ZGVGdjQkdlVTN1cmhiN1U2QzFOUEVvRkpNX0dPRU8xU2c3WlM2NUpLdUw5d3JSb25qWHdLNXdNV09QY25weTBFaGtBU1BVaW9UcGpJdXpmVGRISXFMdldUUTlxR1JEZjNDN3FNcUtwbG1uSTBKcGRLX2x5dFZUaHdXSVUteHZjMnRUWXc?oc=5",
-        "date": "2026-07-17T15:32:23+00:00",
-        "source": "EL PAÍS"
+        "title": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial",
+        "description": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzlGLWFkcEx3OExOclVGQmRqV3ZIM0lUNC1SR05TVFlTc3EtdXZ6dnp3cVlFSlF1bHRlNV85YmtlZjRPRlZhSEJyZV9WYl9xdFFaampZaXZIRm5aVExzRVd4YWlEb0ZfV0Rsc0hmRU1HaHZ3a1hkNzFWYk5HVF9nNkRDWnQ2bkc3OXpvdXVROE9rQW90NkhieTBoNDRYQXNVUEpsNXRVQ3cxUU94WUlOZGpCNnR1bUVhX0hfc1U2YXpKR1NjMUJkb0hFYWVzMWhN?oc=5",
+        "date": "2026-07-19T13:12:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
+        "title": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano",
+        "description": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano El Colombiano",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeElmNlJXYTVxWGEwbk9QeHV30gHPAUFVX3lxTFBVSVRGVHJBeTFWY0lkeTJXMmVlUzRnUUR3UFN5SUdPZlFoVW5JdGF1OU1oTERhVUpDTkx0M0d5Y3dpck05bE9ORVdPcEtVS3pyYVJldDgzWjRteXlueGNxanl0LUhXY2tXa0NGUVBkcHBTR0dGNTZsWUZqT1M3R1psaE9Sb2lIV1JtajdWbkRlY1VCemNjcmtrNU9oRXl5b0hjeUpwaVAxNVRadC15RDlsbDBNbUh6d3NjLUo0NHBUakNiRThldGszbTRQMmY2QQ?oc=5",
+        "date": "2026-07-18T16:30:31+00:00",
+        "source": "El Colombiano"
+      },
+      {
+        "title": "Quién tiene más posibilidades de ganar la final del Mundial de fútbol y por qué: la Inteligencia Artificial elige si triunfa Messi o Yamal",
+        "description": "Quién tiene más posibilidades de ganar la final del Mundial de fútbol y por qué: la Inteligencia Artificial elige si triunfa Messi o Yamal El Economista",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOekdmT205N0ZOTVJXdC1QRTVkWVZTdDltUFczdGE0clRtTEhUeEh3SlI2akhWOUlTZDNUZkFTTFI0VHdBcUZBTXMyUUNXOVRDNDJSU0FBbWpCN2t0S1RkdjYySjdncVRrRUd1bmdlUndWVnUzaF9YYzhQZExUX202dG9STTdiemNBZHhxZlZJazFmY1lpb3lteUJQaW1uSWVOZ2s5dEEyWHB1OUphM3duUS1GOXItc0pPQkdWZnlvN3BZQ1dURWNMaUJkYklkOTZwbnRGeHQyenpCaDZYbEVhX0Z4cjN6MlNYSUhMWHNVWWtPZlFYU2FpWkhQSExqVzVoNTJab0VDeUhhVklmSGw1TzJ1a2hSQ2tZREphaU1yaUVvbUZxY1F1blNYaEpTaWQydVc5MkZoQmzSAaMCQVVfeXFMTWtNS2pGOERUU19ZZ2JtRURoUV9jVkZsWUNBNlhxamJtODBFcDRGV1BFZjBDZllXRDN0OU80YldiQnFhR2lLdmRQeHFuTmRvV2lyeExVY1o5dTl5ckRYRG5XaEd1WUEtY0pVRkZSUUFlOU9mbkxnWFVkcElEQmxfWFdRRTZPV05ZUEZwNFljLXMyaTBzYlZldG9wejBSSS1qRmFMUTdSVEJld3ZycjB1dlJ4VDl4UUduV3RYN253WE5KODlUbmNuNlpSUFNlYnZiTGFobHdlV3Y5Smo4U2hwc2ZvdXZDSHl0eEN0LWtwMmN5eVFGMHdjR3d3TFRPZnNJbWE1V3lBUmFvc1FNY3dHV2NRU0RfS1JBS21VZmJha2hRWTdJ?oc=5",
+        "date": "2026-07-19T13:51:19+00:00",
+        "source": "El Economista"
+      },
+      {
+        "title": "El pronóstico de la Inteligencia Artificial para el partido entre España y Argentina",
+        "description": "El pronóstico de la Inteligencia Artificial para el partido entre España y Argentina Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHZmX2tUdHNtVFVGeF9jcllpaTQ1aGxfcWdBWUtWbTZzRkdacjdoUmo1djNQWUlHdGFBenVwS1RHX2xieGozdkZ4RG9nVFJDM19NZnBoQ2c4UnFzSjE5aWZJWFRjdFRfNW9rNi10ajN5WlZDcjRMYlpFYlJVaUgxVm1lRUQxTlhLdk1lZ21DSkk0cUZUbDRxbEtVWG0ydmc2WTJDemRzSlZHXzRlU1UyLVk1X1o1TUE?oc=5",
+        "date": "2026-07-18T09:08:30+00:00",
+        "source": "Sports Illustrated"
+      },
+      {
+        "title": "Parálisis regulatoria ante la IA",
+        "description": "Parálisis regulatoria ante la IA Página|12",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BM1BKZzEzc3NyZlZUWTZGTWVaTnhnaFpnaXBGR1JRbjlpTzd3WEpVSFY1UVFObXMxWTkwdFRlV0toZVE4RVJzcF9zY1RXRjdmMDdZdkg3V19JejZQT3BMLTJoTlhJNVFFMllvUmh6X0lwOHBQN0RLU1dlV18?oc=5",
+        "date": "2026-07-18T23:06:00+00:00",
+        "source": "Página|12"
       },
       {
         "title": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados",
@@ -124,34 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUJSSU5aWERWaWZ3OEJjRWNnSzJDN3g2WlZOMHRhR1M0QkxGTng2MWZ0cmdiQ3BsWjljYlFjOVVQcnBOOFZHcEF0TmJHVnJDNWFuaThRb3plY0k2Rnp3RmRBX2diLVRLbzFvdWR1bWdZVk94Q1NyQVVKd0ZIanJkczVCVmZybjBtQ1ozSi1XOEg1RDRoY3BxZ3JCV1FNa2xZ?oc=5",
         "date": "2026-07-18T08:45:17+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Qué aprendió Google del primer Mundial con inteligencia artificial",
-        "description": "Qué aprendió Google del primer Mundial con inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkxDWUZiZV91YkRiV1ZpQkdNdEZFZXY0TGhiUEhOcHdpSWlJQnI2LWphcWNIeC1ta1VucFRDNS1BQU96VU5zalAwMTA5aTlMTm5wQ3BxYThBakxvaUZxblFKaGYzMERXUHdlWlAwYlZXS0Q5dEVSTURQSGZibTJNWEJGOTctYVlDZU5ySGFBV3U0YVd2bVFvTm5MaEk0MWE0c2hoank4X3hXeWN3dlBUcVpSVFEzQ05z0gHTAUFVX3lxTE84ell2WWpuRWxWb0o4YzI0cU9PRS1MWTBSVjZEWEk5Y3VETk5kd0t0WmpuVlFOemhFc2lZc19uRVJUSlFyVFhmM3NVeV9UT2ZIbHRFZTUtd0FQT1dLZUZjU3hkZ1lUNE9zN0NDdjZEYkFKdDJpZnozQlVHTHRpY0RpSGg1ODNLVEhmdVdneTN2ZFF0T2x0ZkpaaUUtNTJGZ2dCOWcxU1dGY2RGcE52M1Z3dE44MzBHandwNzVENjk3TVRGamZsUURVSERFRFY5X3BzaUE?oc=5",
-        "date": "2026-07-19T01:24:22+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS - TN",
-        "description": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS TN",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWgxZXctclM1R2ZTaVRRUFlEZ0oweW1fTkJCMnBDNzJUUURyTEtReUtwZVkyRW9pOWhPdFMtWEM5M1IzWmZtVi00NGg4U0Fmajg0YUUtN0Vma2ZmbUJiMUNZalNSUHpURG54Y1FfMHFyWncyaTYxS2NHV0VqS21HVzQyWFpGNEJtVVMwMjZMdGJxa3M3LTlmTFR2blRiYUc3ZnRwZ0pRUGd2dUNZSm45dG1uNERvLTVBRmkxc3hsTmJ5SE5jMmo5VmNYY3BVZ0NlLTlEWTU4a051aEhLWm9Tc25fY08wdnJTMURqYlJ1TElCVy14a0JkTmlhS2_SAZACQVVfeXFMUF9aUVNNVDRaR28xMldTSnRRYWV3cVA4Q2pfTzltNFJYY1E4MnVDU2t1U0J3TXVtaEpKWTR6Rlh3UERadVhoQ0RmT0dpUWJyTXQ0a2dDVjBFSlF0ZlNPOGdmaGZLbi1XMVlxTEUweUZzVlctejM0NjNFSlZ6LU03cGtWM0Z0ZzhXTHRjTXhhNjE0UjJ0VUxSMEVFd3VyclVrckxxcnBBV2Nta3U2TW53UzQxUThmUHptVjA3TXRpczdBcW43bzExT1ZCaGtOc0VVcTJ4ZG92RGdIWGFvbHRKc1h0MGpTcVUtaUdnTlpqSEl2b1h4aDF3c3g5enpHcGpJTkVyX3FOdXhmWWxUWW5QUTM?oc=5",
-        "date": "2026-07-18T21:58:10+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Parálisis regulatoria ante la IA",
-        "description": "Parálisis regulatoria ante la IA Página|12",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BM1BKZzEzc3NyZlZUWTZGTWVaTnhnaFpnaXBGR1JRbjlpTzd3WEpVSFY1UVFObXMxWTkwdFRlV0toZVE4RVJzcF9zY1RXRjdmMDdZdkg3V19JejZQT3BMLTJoTlhJNVFFMllvUmh6X0lwOHBQN0RLU1dlV18?oc=5",
-        "date": "2026-07-18T23:06:00+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "El impacto de la inteligencia artificial en una Rosario con empleo frágil",
-        "description": "El impacto de la inteligencia artificial en una Rosario con empleo frágil Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYk1mekJ1cS01OEgtZEU5Q1V2cmxjVHpiTk01aUNldHYybXNwc1ZPNHlWMUxfVTVwNDJzcUpRYUpUVmNYajJkZGItMHd4cVdiMXo2a1d3S3B4RGJsdXlLcU9OdHhneUV4N2hVaU53SDFuRWVUckp2b1BnRnJIVWh5ZFpULTF6aTBWLUZVcnR4cjljYzNEY25VZjdyVEtUdUNoclZRejdnWUp2N0hYVTNOeXo3a0hMeXhyd1FvNnlKWms4OW1rZXlSNVgtWGtGZ25qTnfSAdIBQVVfeXFMTmJNZnpCdXEtNThILWRFOUNVdnJsY1R6Yk5NNWlDZXR2Mm1zcHNWTzR5VjFMX1U1cDQyc3FKUWFKVFZjWGoyZGRiLTB3eHFXYjF6NmtXd0tweERibHV5S3FPTnR4Z3lFeDdoVWlOd0gxbkVlVHJKdm9QZ0ZySFVoeWRaVC0xemkwVi1GVXJ0eHI5Y2MzRGNuVWY3clRLVHVDaHJWUXo3Z1lKdjdIWFUzTnl6N2tITHl4cndRbzZ5SlprODlta2V5UjVYLVhrRmduak53?oc=5",
-        "date": "2026-07-18T14:25:00+00:00",
-        "source": "Rosario3"
       }
     ],
     "Vaca Muerta": [
@@ -161,6 +161,20 @@
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JcHA1dUkwVVNwMGlqQ1FONFZ6MV9oU0NTb1ZpLXpsYmpZVno0R1VHY3dFcl9oakM2d2I1TF9xNUR2a09SM1JmdUlqbEQ4MnYtTHkwZjZycVpxdGFEb3J1TDllSTNZSWdqNE5ZX3FsemgyNGNPSmkwckNmUDU?oc=5",
         "date": "2026-07-17T22:46:52+00:00",
         "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Halliburton logró el récord de 203,4 horas de bombeo continuo en Vaca Muerta",
+        "description": "Halliburton logró el récord de 203,4 horas de bombeo continuo en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWVEMThCM3pzSkpudU9XMmFSMVd5dGRPZWd0RzZ0OWR6MEw5N2RHREFfT2dDVkk1dHdacU1HTlNBd0diZHk0aUI2UXBycjR6VElFbkNoWDk1bnFvaTZCUTBtNkd0d0poUmlMSFdxbG5BWXdJb1drV29wVGhwOFFUVUtKd2tncFFVYTRHWjlCbjBRT0haLUNvbENVblRDdzB2VjRUZ2hMSXlvRm5yRlZlQzJ0Y3rSAboBQVVfeXFMTWhiNWlkUFVHVGRKRy1LbjVoeGVzN1Zjd0NZMTRrUE5BSTNoM05PVjB1NC1EdlFqUUF4RkZ1eU5NcW8tX0RwQlFNa0dBOTNTMzNSV2QyWlh5ZEllUHc1cVg4MUZMdFByMGJfUXNqWjBhNWFnQVIyRFlnV0dxc0FZS3J2X0IzZGZxMm1fQVJyRDZTdWs4WkVGdWxwZWxsSEtKZ2hFODRaWnJPd05ld3l0c293ak5HR1A4MXRB?oc=5",
+        "date": "2026-07-16T18:05:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Halliburton lleva la eficiencia al máximo en Vaca Muerta con 203,4 horas de bombeo continuo",
+        "description": "Halliburton lleva la eficiencia al máximo en Vaca Muerta con 203,4 horas de bombeo continuo Minuto Neuquen",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN2MwcEdsclBHeGlNbldEd0UwZW1VS0wybE93OUpMR3RGendnLU45andtX0ZENG9pOUFDTHdxcmprNmp2Zl85VWFmX3ZtVTA4Yjh5TWxRM3o1clVwaHU4TmpuT1RMN1VjTEJ0a2xuRmR1a1VTeHRiUFY1ZUJyVWJnUkR1WWNTR29tSkZFekQxUU82aTdUWkFKT2hudWp6VTk4RXZ4WE5UVXIwdXhlazJOUE8wejBqVkVCMVEzYUNZdEhPWEY0WmpKejFrNjdSWmlBNWNSY0V6allaWTVOVmhlZUY4Nk0?oc=5",
+        "date": "2026-07-19T10:10:00+00:00",
+        "source": "Minuto Neuquen"
       },
       {
         "title": "Logística para Vaca Muerta: claves de la reactivación del tren",
@@ -189,20 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmpLX29CYWhITGROYkJwUDN3TEMyRXo5OUFVdU5ZR3R4LW9vNHhaT2tnQTNhc2ZCcGlPMkduTGF2clpraFRmWjJFeGpacTdoVkxSbGZKSEdqNWd4d0ZzYy1ZUjFmMDM4cDFyNmJONGxOdFNEUTdwM0ttQ2sweEp6OEh3QzNEMFRIby00S3pOdXh0b01iMzhESU9rVGJFNFFmRU9XUg?oc=5",
         "date": "2026-07-19T09:01:37+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Vaca Muerta: los ductos que impulsa YPF y las derrotas que acumula Paolo Rocca",
-        "description": "Vaca Muerta: los ductos que impulsa YPF y las derrotas que acumula Paolo Rocca Letra P",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXc0by1GWHRKNE5heUxvZG9fZ3lMRDRLUlV3QlN5V01ZTlJjRU14Q3J0aFdHb09qekpRWkY5am5rOVBVbnJzSHloUnpuOUc0M3JzMFEwbmktWU5LbTJIWEdrOW5MNVM4WUNTcnFsSUFoTnF6bHgtdEo4OGFnODBoUGFUZmNiRUxXbERITjZjeXJReEFDT2VXVFpxcm56ZzdVLTMzcE5YWk5wc0E0MnNFUHZyR0xKVnZieUxxTFRn0gHDAUFVX3lxTE1jZVRGYS03WTlKSUhicVpCZTRzTU13TTZIaUxhRkdEbmtIUWxXSXNZOUF0R2xWTS1uRU4tSnBURGI1ZGI1OUpJNmtNRy1VU0pMcWFLTmJ4TGR3c0FlQmViaE9tVkdlcURmQ3IxbG1tWTd2NXhMZjNTSDFNc2NBRjVMQXhpX205SkljTEVJcGpwUmlTa1YyaFEtLVg0a3pDNXptbVlhRURENnFDd3MzRUQwSEtqMG16YkVkeDVUNGJmUGg5TQ?oc=5",
-        "date": "2026-07-19T12:31:00+00:00",
-        "source": "Letra P"
-      },
-      {
-        "title": "La lección menos contada: el caso Fortín de Piedra - El Economista",
-        "description": "La lección menos contada: el caso Fortín de Piedra El Economista - Últimas noticias económicas y financieras",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYndoSjZ4OWZET1pOY3d2cWdwQ2M2R2pDQjROSjRyUEt0NzEzb0lSWE1Qb1NMQVBleEFrSV96VTMycktSelZJUGV0SGRqdnRkekplWWlZcGlPOUh6MDd3bGZXbnNUZlF6ZEg3dEcxdXNZUkpibUZneXBDTTV3cmtUMmg0MmRhamVlaFlIazhfWWbSAZYBQVVfeXFMUEhkYjZhdU9NWWUzX2szbEtUTFBVYTZyWUFqM0FzeVZiemlBdXQ2LUpZd01QSktSTm9YT2ZYYmk1MGJTN0NOQVV2S2dqWmw2Tmp5TFEtb3NaQ2dQMHlnWnlDZWRERVd6dGVzWW05S3Y3VG1RZDVabW1SaTItY1F3N0J3ZlcwUUU0b2VSN0tSLWRuazZLaUhB?oc=5",
-        "date": "2026-07-17T19:17:00+00:00",
-        "source": "El Economista - Últimas noticias económicas y financieras"
       }
     ]
   }
