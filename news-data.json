@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T10:22:27Z",
+  "updated_at": "2026-07-19T11:52:03Z",
   "categories": {
     "Microsoft": [
       {
@@ -112,11 +112,11 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Cómo evitar las alucinaciones de IA y disminuir la capacidad que tienen de moldear una realidad paralela - TN",
-        "description": "Cómo evitar las alucinaciones de IA y disminuir la capacidad que tienen de moldear una realidad paralela TN",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHAyVWxXdmNodWcyMm9fai1RSDczR1RtUGI3Tm9YeWgtNVlSclQ2eFVKOGRSckRMb2NNaWt3dGR6X1lCLVd4SnlNVjZybzdQMnZHWWZ2TWpXN1E4R1J2ME9wbG1BTDlMUGlTejFCZ0tjRE1GU1FjdjVPTHphOHdzc0xRenRrTG5YUEV6UjBJbm12UXB5WTc5U3hiR29CTEpYQ05tYTNGUFg1N2JxZ2tWamFPTHQyWndrblIxRGxrcHpDQnpES2Y4eGpUUWFjNWQwYU84c3hRSzYxZ9IB7gFBVV95cUxPVjlXWHJXM2J0amZMYmlXd1R2WWU1dWc2Q19sS1BYR0EwQmt4Mld4V0FQckZLRVRDcjY4b19ONmJKVU1rS1h2RUd0NVZPR21wcHVLMnRlbnd1U0VhSDVqejk4ZGE4UkhwdDk1WExiN0FmX0k4M1NHYjNwSHltbWU5Nk1PeUJuUVlmN3BaR3J6bmdVUmZaQmNNTVY4NVpMSWVyYmo2U2gtY3daNmdmRTI0X2YtZDJST2Y0T0J6ejZRSFZOMDJ1X1NTejIwbGt4Sm5aMW9PN3VXRVdhV0xiUXVfM0xLVU5RSHBYYWl1cGNB?oc=5",
-        "date": "2026-07-19T08:33:00+00:00",
-        "source": "TN"
+        "title": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados",
+        "description": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT3dkX0tDWTV3UU04ajhWNEd0VVhnTmVVWTNWcWhyRHp5NUluMDRXc0p6bktBY1djYlJ5UTlxQmF0SmhQa3pXQzQxOXV1YnlmTHB4VFZUNTVxVUgtaDlBZHhzcFlTd1N0Z3IzWmxpd2M4T0R4SThkMGMweU9Jd2Z2QW5ucDV0bko5TklpV0tUTGlIVk02aUIzbEhSQ2dUZGZTX0lONFRFMW03UTdsYkRkU05YWWZyeFo2dkxYNmdRRkUxaEc3VlA1bWFBaURwR1RBZ3ppYThVdW5XZlI2UnNPRlNVdk9Hd9IB6wFBVV95cUxNSGFWVy1MOUhhS1FGbWxEX0NwYUFVY0c0amJUNTFNaVRGUUN6LWxvZWxGSTdlQV9pS09JUjh5Y2JlS0theTY3REFMZkNtZFd6TWY3eUJqOFV0NzRGWjZFb3VqU245di1jTl9PZTA5bTdIVkV0a29aMGlQMk5MNG5FbVZoTTF1aFRtVFRhZ2xRSWd2ZUN2c0NNR0lCWWhCb1AzM2dFa0Y2LVc1bjZ3MUh2UTFURmppcXdpVXN4a1hQY2s3VkcxeE5URmVoTC10UWRWSzBlTTJCRmpLek45eXJfSklpVFJaWU9UU2VB?oc=5",
+        "date": "2026-07-18T03:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "La Inteligencia Artificial en el agro frente a la fatal arrogancia",
@@ -126,25 +126,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados",
-        "description": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT3dkX0tDWTV3UU04ajhWNEd0VVhnTmVVWTNWcWhyRHp5NUluMDRXc0p6bktBY1djYlJ5UTlxQmF0SmhQa3pXQzQxOXV1YnlmTHB4VFZUNTVxVUgtaDlBZHhzcFlTd1N0Z3IzWmxpd2M4T0R4SThkMGMweU9Jd2Z2QW5ucDV0bko5TklpV0tUTGlIVk02aUIzbEhSQ2dUZGZTX0lONFRFMW03UTdsYkRkU05YWWZyeFo2dkxYNmdRRkUxaEc3VlA1bWFBaURwR1RBZ3ppYThVdW5XZlI2UnNPRlNVdk9Hd9IB6wFBVV95cUxNSGFWVy1MOUhhS1FGbWxEX0NwYUFVY0c0amJUNTFNaVRGUUN6LWxvZWxGSTdlQV9pS09JUjh5Y2JlS0theTY3REFMZkNtZFd6TWY3eUJqOFV0NzRGWjZFb3VqU245di1jTl9PZTA5bTdIVkV0a29aMGlQMk5MNG5FbVZoTTF1aFRtVFRhZ2xRSWd2ZUN2c0NNR0lCWWhCb1AzM2dFa0Y2LVc1bjZ3MUh2UTFURmppcXdpVXN4a1hQY2s3VkcxeE5URmVoTC10UWRWSzBlTTJCRmpLek45eXJfSklpVFJaWU9UU2VB?oc=5",
-        "date": "2026-07-18T03:00:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "La inteligencia artificial no reemplaza al abogado: pone a prueba su criterio",
-        "description": "La inteligencia artificial no reemplaza al abogado: pone a prueba su criterio Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdmhWc3A4d1N1VVVXTjNGXzlSeDhjcXZCRU9BTnJseVlNSnBOUF9nd3lDUXdIQk1hMGU2NHZidmZ1SDRJV1JNX2c3MjBaWjdXS2RfMExOQUtEb3E2anVWcWxsUGlZVzI0S2RacnVkaUhqZmZpMlZkV3ExMVRnMVZmVWY4bWhGNzlGX3lxOXNWUW81TFA2dkpBYWllWEFsNTZEUUtkdk92QVR0cU0zaXRmcGNiMVFGUzBvRmw3RtIB1wFBVV95cUxNVFpBbzNoQTVrVHY1dHVqZEFER2N2TE9kY2F5V1RMTFl2OXMyZzMwRW12Y1R0RHIycXhZOXZrRHQ0VlhsSWUteEtZY1ZIalFOVmpXa2taS1RRb29GRmhleFpMMktvWmZia082LUM4UE9TOUQ5YVFOWDdDQzMxX0ZlWE5vQ0ROalUwZ3h0TkxWRGlVdVNhWXh3ZF84WUdnbjVwcTVXUkFFMjlVR3NIeXJJYjBiTnhjUFBfQS03X0Y4RFBCSVdtbzc5Q21xWkFqTlpJZFdPWml3VQ?oc=5",
-        "date": "2026-07-17T16:37:00+00:00",
+        "title": "Qué aprendió Google del primer Mundial con inteligencia artificial",
+        "description": "Qué aprendió Google del primer Mundial con inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkxDWUZiZV91YkRiV1ZpQkdNdEZFZXY0TGhiUEhOcHdpSWlJQnI2LWphcWNIeC1ta1VucFRDNS1BQU96VU5zalAwMTA5aTlMTm5wQ3BxYThBakxvaUZxblFKaGYzMERXUHdlWlAwYlZXS0Q5dEVSTURQSGZibTJNWEJGOTctYVlDZU5ySGFBV3U0YVd2bVFvTm5MaEk0MWE0c2hoank4X3hXeWN3dlBUcVpSVFEzQ05z0gHTAUFVX3lxTE84ell2WWpuRWxWb0o4YzI0cU9PRS1MWTBSVjZEWEk5Y3VETk5kd0t0WmpuVlFOemhFc2lZc19uRVJUSlFyVFhmM3NVeV9UT2ZIbHRFZTUtd0FQT1dLZUZjU3hkZ1lUNE9zN0NDdjZEYkFKdDJpZnozQlVHTHRpY0RpSGg1ODNLVEhmdVdneTN2ZFF0T2x0ZkpaaUUtNTJGZ2dCOWcxU1dGY2RGcE52M1Z3dE44MzBHandwNzVENjk3TVRGamZsUURVSERFRFY5X3BzaUE?oc=5",
+        "date": "2026-07-19T01:24:22+00:00",
         "source": "Infobae"
       },
       {
-        "title": "El impacto de la inteligencia artificial en una Rosario con empleo frágil",
-        "description": "El impacto de la inteligencia artificial en una Rosario con empleo frágil Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYk1mekJ1cS01OEgtZEU5Q1V2cmxjVHpiTk01aUNldHYybXNwc1ZPNHlWMUxfVTVwNDJzcUpRYUpUVmNYajJkZGItMHd4cVdiMXo2a1d3S3B4RGJsdXlLcU9OdHhneUV4N2hVaU53SDFuRWVUckp2b1BnRnJIVWh5ZFpULTF6aTBWLUZVcnR4cjljYzNEY25VZjdyVEtUdUNoclZRejdnWUp2N0hYVTNOeXo3a0hMeXhyd1FvNnlKWms4OW1rZXlSNVgtWGtGZ25qTnfSAdIBQVVfeXFMTmJNZnpCdXEtNThILWRFOUNVdnJsY1R6Yk5NNWlDZXR2Mm1zcHNWTzR5VjFMX1U1cDQyc3FKUWFKVFZjWGoyZGRiLTB3eHFXYjF6NmtXd0tweERibHV5S3FPTnR4Z3lFeDdoVWlOd0gxbkVlVHJKdm9QZ0ZySFVoeWRaVC0xemkwVi1GVXJ0eHI5Y2MzRGNuVWY3clRLVHVDaHJWUXo3Z1lKdjdIWFUzTnl6N2tITHl4cndRbzZ5SlprODlta2V5UjVYLVhrRmduak53?oc=5",
-        "date": "2026-07-18T14:25:00+00:00",
-        "source": "Rosario3"
+        "title": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS - TN",
+        "description": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS TN",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWgxZXctclM1R2ZTaVRRUFlEZ0oweW1fTkJCMnBDNzJUUURyTEtReUtwZVkyRW9pOWhPdFMtWEM5M1IzWmZtVi00NGg4U0Fmajg0YUUtN0Vma2ZmbUJiMUNZalNSUHpURG54Y1FfMHFyWncyaTYxS2NHV0VqS21HVzQyWFpGNEJtVVMwMjZMdGJxa3M3LTlmTFR2blRiYUc3ZnRwZ0pRUGd2dUNZSm45dG1uNERvLTVBRmkxc3hsTmJ5SE5jMmo5VmNYY3BVZ0NlLTlEWTU4a051aEhLWm9Tc25fY08wdnJTMURqYlJ1TElCVy14a0JkTmlhS2_SAZACQVVfeXFMUF9aUVNNVDRaR28xMldTSnRRYWV3cVA4Q2pfTzltNFJYY1E4MnVDU2t1U0J3TXVtaEpKWTR6Rlh3UERadVhoQ0RmT0dpUWJyTXQ0a2dDVjBFSlF0ZlNPOGdmaGZLbi1XMVlxTEUweUZzVlctejM0NjNFSlZ6LU03cGtWM0Z0ZzhXTHRjTXhhNjE0UjJ0VUxSMEVFd3VyclVrckxxcnBBV2Nta3U2TW53UzQxUThmUHptVjA3TXRpczdBcW43bzExT1ZCaGtOc0VVcTJ4ZG92RGdIWGFvbHRKc1h0MGpTcVUtaUdnTlpqSEl2b1h4aDF3c3g5enpHcGpJTkVyX3FOdXhmWWxUWW5QUTM?oc=5",
+        "date": "2026-07-18T21:58:10+00:00",
+        "source": "TN"
       },
       {
         "title": "Parálisis regulatoria ante la IA",
@@ -152,6 +145,13 @@
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BM1BKZzEzc3NyZlZUWTZGTWVaTnhnaFpnaXBGR1JRbjlpTzd3WEpVSFY1UVFObXMxWTkwdFRlV0toZVE4RVJzcF9zY1RXRjdmMDdZdkg3V19JejZQT3BMLTJoTlhJNVFFMllvUmh6X0lwOHBQN0RLU1dlV18?oc=5",
         "date": "2026-07-18T23:06:00+00:00",
         "source": "Página|12"
+      },
+      {
+        "title": "El impacto de la inteligencia artificial en una Rosario con empleo frágil",
+        "description": "El impacto de la inteligencia artificial en una Rosario con empleo frágil Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYk1mekJ1cS01OEgtZEU5Q1V2cmxjVHpiTk01aUNldHYybXNwc1ZPNHlWMUxfVTVwNDJzcUpRYUpUVmNYajJkZGItMHd4cVdiMXo2a1d3S3B4RGJsdXlLcU9OdHhneUV4N2hVaU53SDFuRWVUckp2b1BnRnJIVWh5ZFpULTF6aTBWLUZVcnR4cjljYzNEY25VZjdyVEtUdUNoclZRejdnWUp2N0hYVTNOeXo3a0hMeXhyd1FvNnlKWms4OW1rZXlSNVgtWGtGZ25qTnfSAdIBQVVfeXFMTmJNZnpCdXEtNThILWRFOUNVdnJsY1R6Yk5NNWlDZXR2Mm1zcHNWTzR5VjFMX1U1cDQyc3FKUWFKVFZjWGoyZGRiLTB3eHFXYjF6NmtXd0tweERibHV5S3FPTnR4Z3lFeDdoVWlOd0gxbkVlVHJKdm9QZ0ZySFVoeWRaVC0xemkwVi1GVXJ0eHI5Y2MzRGNuVWY3clRLVHVDaHJWUXo3Z1lKdjdIWFUzTnl6N2tITHl4cndRbzZ5SlprODlta2V5UjVYLVhrRmduak53?oc=5",
+        "date": "2026-07-18T14:25:00+00:00",
+        "source": "Rosario3"
       }
     ],
     "Vaca Muerta": [
@@ -170,18 +170,25 @@
         "source": "Lmneuquen.com"
       },
       {
+        "title": "Un estudio reabre el debate sobre usar los ríos Limay y Negro para transportar arena hacia Vaca Muerta",
+        "description": "Un estudio reabre el debate sobre usar los ríos Limay y Negro para transportar arena hacia Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOFBIMXpqaEd6SzA5S1BkY3gwOG5scXhTQmxsMll0VUduVWVYOHZoWnJqY1FSZkNPNjVzdXVuU0pBVGZVa0wwb3lHUmw2ZDFZTVRXTU4yVlBxc1k5SkYyUk5FdGVWeFB2MDNZQ2tvdjRzaDVNZzV1YlNaZnliZ2Nvc1NfRmZhYWMwUkNkem11SGhCdXBmRVMyV0F4N0lPMWd2eVhWSVpTeTdQMUdqc2xvMlJYRXViVkdDT2xQNjFNdnhpampmdGg0WUhLWXFicUl0Rk53T0Jn0gHeAUFVX3lxTE51TTFVSGlFT1lGSkNQMFZGakE2V1JMZXQtMEU4MlgtYWhYVlV2dWtjd2JuZWNQTHk5LWhXXzdfQWJ1VkdhR05LdDFrRVZmT1dwR3N6YXVYZ1Y2Wi10U0c2ZHBuR0RFd2k4aTJ0R040M1Y4LXNpSXNVcjVvTENHTVE3dWpCQ01FQ3hOSW8zb3Vud3VNakJXUzZxUkpxUEszbzVWZ0U1aU9MRS12M0FQSGlpWi1MMGcybTdQVnl2TWFiTGNqaE1zVk5Jd1FTb1c4cHdCbUtGeHZJYmpFNktKZw?oc=5",
+        "date": "2026-07-18T03:16:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "La logística, el nuevo frente estratégico que puede cambiar el futuro de Vaca Muerta",
+        "description": "La logística, el nuevo frente estratégico que puede cambiar el futuro de Vaca Muerta Minuto Neuquen",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOENkNDVoaXRYekM3WHpUcjBSeTFPeHNadzVpLTJqdV9DczZRSnlIVVVZbDUwVmtyYm51aG80ckRJSHZqTktHYnlXSWZWOGZocWROb0hySTNXUEpoWTk5MTcycFNHUE9Eb0YtYkQ0T3ZDVHdFSE45TjhndjRQQlI1bTFmMHh2SEdwdDNua3EwRUlLb05Xcmw1MENORWVhd1VIZlhCRTNkaHd5WC0ybUFrTkd3cHU5ZXhiNVRna25JWGJQYUxxMmRfd3A4ZnZEbTU4MEFlSk9ySU00NVk?oc=5",
+        "date": "2026-07-18T16:25:00+00:00",
+        "source": "Minuto Neuquen"
+      },
+      {
         "title": "Un nuevo mapa: las provincias que ganan y las que pierden con el modelo económico",
         "description": "Un nuevo mapa: las provincias que ganan y las que pierden con el modelo económico Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmpLX29CYWhITGROYkJwUDN3TEMyRXo5OUFVdU5ZR3R4LW9vNHhaT2tnQTNhc2ZCcGlPMkduTGF2clpraFRmWjJFeGpacTdoVkxSbGZKSEdqNWd4d0ZzYy1ZUjFmMDM4cDFyNmJONGxOdFNEUTdwM0ttQ2sweEp6OEh3QzNEMFRIby00S3pOdXh0b01iMzhESU9rVGJFNFFmRU9XUg?oc=5",
         "date": "2026-07-19T09:01:37+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "De la Fuerza Aérea a los drones para Vaca Muerta: cómo tres amigos lograron desembarcar en el oil&gas y proyectarse a nivel internacional",
-        "description": "De la Fuerza Aérea a los drones para Vaca Muerta: cómo tres amigos lograron desembarcar en el oil&gas y proyectarse a nivel internacional Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSGpIWm5jRnpOenZYNEZMZ0V0eG44cHlNRTI4aTFldERwMFJ2YnUwRmNJaW5RX2RfdnpFLVhsZllGZ2tCaDZaMUkyZGFnaVJfOGNDRzJ2bFFOTWlCeXlkcTRuVXpkOGFSTTcxd3FUTlhlZzNIZ042Yy1BcTcwM0N3X1VKemJhTDRLZHl0NUtPN0dtOFQzeU9JQUZ3Sm40TGxlVDRpbndENHNJWGFaYVhmQjdXcHBhVXgxaVJzY3R3T1ZBeHRfd0ZvWjRjSVFlSTcyVTBCNV9HNC1Gb3l6aEctWkdtNFpYcmpELVdZbUdIRkdweEJJVkdROU9UM3ZmcVE4N0HSAYoCQVVfeXFMTU85QTJrSTdxcGVSRnNRNlNJNF8xeHNTQ01WZlFQR1dhX2JWVldQaUxTRGZTcHhoVHA2WUhsZmJpeVh1WkFZNXBpak9WQ3BSSjlDNmNWdVNCZmJ3LWVBcEoxNHFHRnoxRGlDU211VWtENm5UWWpoeW5mLTJtcmdiaGwwdHcxUFhQc19VaFdMVUNOem51Y0xhQ0RVLW92U3h4ZHlhQ0xzcUh0ejdXMWxOOVBXbXN5WFZ6Ujd0dU4xRFVNRDRadGZpaUJYbzdNYU1rTjl6Y1FnV21FRGpVQzlZckxEbzQtaXNyd1dIQjdIb0N1YzVDVUc5S0RkNWhtS3Y4SVJORHdZOTUzY0E?oc=5",
-        "date": "2026-07-18T03:14:00+00:00",
-        "source": "Diario Río Negro"
       },
       {
         "title": "La lección menos contada: el caso Fortín de Piedra - El Economista",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWmJJQlhZU2xMelhtUjdMaWpyaVNxNU9wYUIwZ3FIMmZndlkwU29sOXE4dXA0N1JMMENTQ2I4Tzc0SVZXTHJaeldneUdCOUo4SFJDaFd1a2w4b055OTdYNzBmSkhmV3VQa3hYUnJTeUMwbE9sN2poVTdZcXdTUDhfeXU0Smp3M0RndGl1VWsyb19tS1Jjdy1mM05tbWlXUXlDcnNSVm1JUDJMeUxFVFd2THZiOUJWTkRJbjd1UGVOQl9UbHVTbFBoOA?oc=5",
         "date": "2026-07-18T14:58:04+00:00",
         "source": "Infocampo"
-      },
-      {
-        "title": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta",
-        "description": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta Maracó Digital",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZHRnBUTDVuc0J6WFl3Rkw1UUhiWWlDVkZFYUw3RTBGVW9GT2xmOGhBUmF2YzhVYU4zUHl2bWhEZ0Fkb3NMZjc2dlRLVkhJQ29kVUNuelp3WXFoWGYyaGNKYjgtdE84d3duaUZWbkN6elNRQVlLcDgwRW96MEdxWVVrb21MWHJaVWdUdUZuX3dHV3pWVG9QMTNQSy1JNHZmdFE?oc=5",
-        "date": "2026-07-17T11:46:24+00:00",
-        "source": "Maracó Digital"
       }
     ]
   }
