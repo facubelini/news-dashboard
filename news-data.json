@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-19T08:07:07Z",
+  "updated_at": "2026-07-19T10:22:27Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta",
-        "description": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta Infobae",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUdTQThKLXA1OGxibFdtbVFOX0xRX3JpV3NzRnJDTXVnZ2d3SHFoMGtRZkM1bWpRSWxWbGI4ZnVoaWlpN2V6TTJYa0xHdTJWVWhYVlQ3NnhGaGVsYWQzVm00NU5pM0xSRVdqT3llS2poWW9FVG9IV3lSVWlvYVVFdGV1QlJjbW5Ba25IYi1lQ1FYbDUxcUNfMW5pMFlDanJTOW1VV2FB0gHAAUFVX3lxTE0yZW8zamRQaHp0RGIxY0luRDhVTmNobXFIbU8tN3czcnhYUEZ3VkxVOGxSclRrMlFDdlNoUko5MVNZNzQ5VVotQ29kUFhTSFFZZ2JwMk1WWnJOUGhXTzZmQ2wxbGNMOGNtbHhJMFpwUy1RNVYwTmQ0d2RRUi1XZ2Y5dU5NOHJHT1hEYkZkYnRoekJwa1A2NHhBRmh2SUNTdXllVmRDTGJGS25abjdWR21nQlNPenlwUDFSUTYwazZVQw?oc=5",
-        "date": "2026-07-19T01:51:15+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft",
         "description": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft Xataka",
@@ -17,11 +10,25 @@
         "source": "Xataka"
       },
       {
+        "title": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta",
+        "description": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUdTQThKLXA1OGxibFdtbVFOX0xRX3JpV3NzRnJDTXVnZ2d3SHFoMGtRZkM1bWpRSWxWbGI4ZnVoaWlpN2V6TTJYa0xHdTJWVWhYVlQ3NnhGaGVsYWQzVm00NU5pM0xSRVdqT3llS2poWW9FVG9IV3lSVWlvYVVFdGV1QlJjbW5Ba25IYi1lQ1FYbDUxcUNfMW5pMFlDanJTOW1VV2FB0gHAAUFVX3lxTE0yZW8zamRQaHp0RGIxY0luRDhVTmNobXFIbU8tN3czcnhYUEZ3VkxVOGxSclRrMlFDdlNoUko5MVNZNzQ5VVotQ29kUFhTSFFZZ2JwMk1WWnJOUGhXTzZmQ2wxbGNMOGNtbHhJMFpwUy1RNVYwTmQ0d2RRUi1XZ2Y5dU5NOHJHT1hEYkZkYnRoekJwa1A2NHhBRmh2SUNTdXllVmRDTGJGS25abjdWR21nQlNPenlwUDFSUTYwazZVQw?oc=5",
+        "date": "2026-07-19T01:51:15+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Microsoft vuelve a la carga con Majorana 2, que sigue sin tener estados de Majorana de energía cero",
         "description": "Microsoft vuelve a la carga con Majorana 2, que sigue sin tener estados de Majorana de energía cero La Ciencia de la Mula Francis",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVEc5RU1WUUxfekQ5NnBRUW9UZVBFaHJFMzhYc1huZHhlNk1FMUhIbG1GLUZfWUdiS2ZLb0NGdzhCdkdrQTE2Wk1ZRWhlQ1Nzc1lxNVpKLWVhTkE2R3I2QUlUWHN3WWQ2WFVzQVRRbEI1NDFQTS0zUEdIbnRNMzBjMHJGdEhlSEp2bUhTNVhEYmJyTjNNbnA0Y1pxelNJUUdsWTUwVTRyc3lrTUlnY3JUMVlnQW1aMTlrbDZtS2RnOFBwNkdGZFlMTDQxbldaYWNVT2F3?oc=5",
         "date": "2026-07-18T08:50:25+00:00",
         "source": "La Ciencia de la Mula Francis"
+      },
+      {
+        "title": "Microsoft Surface Laptop Ultra con silicio N1X empata con el M3 Max en Cinebench",
+        "description": "Microsoft Surface Laptop Ultra con silicio N1X empata con el M3 Max en Cinebench Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWEzanMtSE0tQ2k5WmhsS2gwV1dYa0VIcXFxTzVpOFRNNDl4U3BXZ1oxckdVQWVXRVVETE01bmc5U3ZiTmpfV2Y1NGdGdlJaYzdjTVp3YUdWMW96TUcyeHFJWXNVTVhiMUJYRWlRYXc3TkdkTFRmakwwRU9pZ2pOdFdJWHN5MWJXWks2NWYyRjFvcUI2bkU4dVhoTlZCZ9IBowFBVV95cUxPUENmZHdkOG5vbFQydHI0MjhXMVB5dkNRcW1hVVUxa3ZFLW9iU1RKZ2JlZXQtZ3JNLTJsTTNNWW14aTItc1ZqWFlwT0pHQkhmU0M4bzBSeVFXMjRKXzlGejIwR0NIS0VxdEUxeThXMHRTRlotdTU3UnNNRTVJdmRsaFNma3hERnpiVmoyVWxzUEpoSUlCdHVHS0QwU0x2V0pkWlRB?oc=5",
+        "date": "2026-07-18T23:44:13+00:00",
+        "source": "Profesional Review"
       },
       {
         "title": "Microsoft quería poner un centro de datos en el fondo del océano para evitar el calor. Lo que no esperaba era que fuese un fracaso rotundo",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmV4QUpLWl9yNjdFdWx6LWdVald5blRQbGVydzRKM3ZualVCamszMDFvN25YUzQzZGZMcmhUNU5VR1YwUWNqZm1yc1ZTaTJpQUljTndfTlhpZVZhanVzallqNUhMSllSZHZDQTBIWlRnbUxaZE1WeTdFNnJtTERzcE92Yml5d2lUSHFpX3NCVVR4SWtjb0d5b0U0SThUODhzQ2ZseGs5SFh2UXZyS3ZTLXZtSHBJQ2FqaU5DdFZ2TUYwejRrMUwxcmdkYmVHNFA3NXd5WUN6aElvQkpDc0JScldlVHZoeXQtRGdGU0hRbjJRcWtodWfSAfsBQVVfeXFMT3N6dUNQWENqUi1HbC1oWHFoRGhlM1I0bDlVb2VySndSbEhHOTdfX3N5YmxaOGY3b1FISnRfbXUzUWoyZDRxbUhadmxlV2E3elgwMXZCMFZlOGFXOW9QRk9iZ0FhZ2JMUHJNMUhSYkJ3dnBhYWFCZDdaWTFuZ2JMRkhjQTlORHZHVU04NDhhS3U0cGxrd2Uya2hIa0F3WTBmbVZ0S2xJS2hTcXlNSTdKc2tGQ2FJU1hHak5ibTk3Nm1vR2lKeE9NXzZ3U1ctaC1BTXdpSHdleFk5dVdkdS04SXJuYTdpS2RaT1FLOG90TlRqWkkxWm5ORnBhekE?oc=5",
         "date": "2026-07-16T01:45:00+00:00",
         "source": "3DJuegos"
-      },
-      {
-        "title": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
-        "description": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\" Xataka",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdZTGYtY0E4eXJVd05LamtRY3FMQUNtZldfYTdRZXhLTlJ1MGRsUE9mZ3doNkU3WkpZd3ZCYWU4RnMwZmNqLXpXRFdxUV9lRnFRUXJUcVdOUnoxZzBBeFlsNGZiQ3ZOOTQtWjVDUTloWlJaQjN5VHU5OVkyQ3R2NGZWZGRfRThwb3FJOU1LM0RsU0lzZkw2RDBabU52V3Z6ZUFMSHBySUpYcWtPbGE1dE10XzJFSG5uYTBCSS1PR0hQLUstVUtwbS1CM1HSAdIBQVVfeXFMTUUyNXpESUVNempOR29taEQxcExPNVVDMUs0N2QwZEpuUWVlMElEcWlBVzRNSzk3YW5qdkU5MU9tbjhRWVNhMVVmSFRUV283UVlBbXR4X3FrbkYwMVNJczZVQnVpYk5SS1Yxa00zVFdENXE1VUdHZU5SOXRkWHZ5aGpCdWRIdVFvVEloMHdjSk1DcWZKZWxQd09wdTNNUllnaFVBTXNsaFRqRjUyREJUWjJjN3kybG5TT05tOEVYMXI1WVBKQVlQSjlqUFJKbGlWcldn?oc=5",
-        "date": "2026-07-14T10:30:00+00:00",
-        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -82,18 +82,18 @@
         "source": "Rosario3"
       },
       {
-        "title": "¿Por qué muchas pymes pierden dinero en digital aunque tengan web, redes y agencia?",
-        "description": "¿Por qué muchas pymes pierden dinero en digital aunque tengan web, redes y agencia? La Vanguardia",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR2puSldzM25qLUpGeXk3NHBhM2hORDhraTZIYzdhNjd2WU5JQnU3THZSc2p6ZGhlSTNHdldNRzJrWEdCN1dOSFF5TjFzMVRxM2RDdVpqaEJ5cDhZNE9XWFYyZkN6TmtEYjk5Q3RKRzV0NkhPZmE5RVZSaXRCTDlXSzhEcEVFU0pvbW01NDNyOUJES094elNzM29STjEzMHdFdW9wWkxUUzZDdVN4dl9YZ28yZC1yY0VfQWw4YXlOWm4zY29qVGxYWmlDSUJrd3pKbGVsTm15MTV0bm1DdDdCdkdzZDZLZkhldWfSAe8BQVVfeXFMUElsX3Q5UDdIeE5xb2dRNmN5OUZhSTJfUHl2RnE4UEh3QVBWaUc2WktZd2NhNUdCWnItd1BfdkdNbEhHYjJCQU1HOWpHdkFNWENPOHlqVUhXdmxJSHQyX2NncmhZNWgzeGRxSl9ZZjdFcFliYm5DR2VwdW9NbFRfZmV6czNXdEc0Vk9FZ1BWckFwVkNkTmdkakM1bWppZ0J2cDlCTklaV2dqa0hOWV9wb2E4dG1YUEZIWjRsRXpQdUV4X2ZyOXdtVW80cm9CWXVGaE9FMEN5b1RqaXBLZjJqZm9kZ3JnejhzcnVaS0ZYaWM?oc=5",
-        "date": "2026-07-19T05:00:00+00:00",
-        "source": "La Vanguardia"
-      },
-      {
         "title": "Google ofrece un certificado online gratuito de marketing digital",
         "description": "Google ofrece un certificado online gratuito de marketing digital Diario Panorama",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXFuSGV3Z2s4alZmY0tLb2FLRnNlYjhsRWwzcUh5S3F4TUFoSGJrLVNUMVVGN3NXS2luZWlMemNaNF9wNTMzSUl0OFNqelRuT3FOLWNTREpVRXk0QUdkOTBlOEtMSktBNC1ybHQ3S3R0YVRKQ3BudjVFVVVGZGlRdlo5OEJYb0VTWEFfeU90ZDRGUlk1YVJOSUtXaUpfQjN2ejZKQ2NISEE?oc=5",
         "date": "2026-07-14T08:48:05+00:00",
         "source": "Diario Panorama"
+      },
+      {
+        "title": "¿Por qué muchas pymes pierden dinero en digital aunque tengan web, redes y agencia?",
+        "description": "¿Por qué muchas pymes pierden dinero en digital aunque tengan web, redes y agencia? La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR2puSldzM25qLUpGeXk3NHBhM2hORDhraTZIYzdhNjd2WU5JQnU3THZSc2p6ZGhlSTNHdldNRzJrWEdCN1dOSFF5TjFzMVRxM2RDdVpqaEJ5cDhZNE9XWFYyZkN6TmtEYjk5Q3RKRzV0NkhPZmE5RVZSaXRCTDlXSzhEcEVFU0pvbW01NDNyOUJES094elNzM29STjEzMHdFdW9wWkxUUzZDdVN4dl9YZ28yZC1yY0VfQWw4YXlOWm4zY29qVGxYWmlDSUJrd3pKbGVsTm15MTV0bm1DdDdCdkdzZDZLZkhldWfSAe8BQVVfeXFMUElsX3Q5UDdIeE5xb2dRNmN5OUZhSTJfUHl2RnE4UEh3QVBWaUc2WktZd2NhNUdCWnItd1BfdkdNbEhHYjJCQU1HOWpHdkFNWENPOHlqVUhXdmxJSHQyX2NncmhZNWgzeGRxSl9ZZjdFcFliYm5DR2VwdW9NbFRfZmV6czNXdEc0Vk9FZ1BWckFwVkNkTmdkakM1bWppZ0J2cDlCTklaV2dqa0hOWV9wb2E4dG1YUEZIWjRsRXpQdUV4X2ZyOXdtVW80cm9CWXVGaE9FMEN5b1RqaXBLZjJqZm9kZ3JnejhzcnVaS0ZYaWM?oc=5",
+        "date": "2026-07-19T05:00:00+00:00",
+        "source": "La Vanguardia"
       },
       {
         "title": "AMDD y DMA quieren impulsar la economía de datos en Latam",
@@ -112,6 +112,20 @@
         "source": "EL PAÍS"
       },
       {
+        "title": "Cómo evitar las alucinaciones de IA y disminuir la capacidad que tienen de moldear una realidad paralela - TN",
+        "description": "Cómo evitar las alucinaciones de IA y disminuir la capacidad que tienen de moldear una realidad paralela TN",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHAyVWxXdmNodWcyMm9fai1RSDczR1RtUGI3Tm9YeWgtNVlSclQ2eFVKOGRSckRMb2NNaWt3dGR6X1lCLVd4SnlNVjZybzdQMnZHWWZ2TWpXN1E4R1J2ME9wbG1BTDlMUGlTejFCZ0tjRE1GU1FjdjVPTHphOHdzc0xRenRrTG5YUEV6UjBJbm12UXB5WTc5U3hiR29CTEpYQ05tYTNGUFg1N2JxZ2tWamFPTHQyWndrblIxRGxrcHpDQnpES2Y4eGpUUWFjNWQwYU84c3hRSzYxZ9IB7gFBVV95cUxPVjlXWHJXM2J0amZMYmlXd1R2WWU1dWc2Q19sS1BYR0EwQmt4Mld4V0FQckZLRVRDcjY4b19ONmJKVU1rS1h2RUd0NVZPR21wcHVLMnRlbnd1U0VhSDVqejk4ZGE4UkhwdDk1WExiN0FmX0k4M1NHYjNwSHltbWU5Nk1PeUJuUVlmN3BaR3J6bmdVUmZaQmNNTVY4NVpMSWVyYmo2U2gtY3daNmdmRTI0X2YtZDJST2Y0T0J6ejZRSFZOMDJ1X1NTejIwbGt4Sm5aMW9PN3VXRVdhV0xiUXVfM0xLVU5RSHBYYWl1cGNB?oc=5",
+        "date": "2026-07-19T08:33:00+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "La Inteligencia Artificial en el agro frente a la fatal arrogancia",
+        "description": "La Inteligencia Artificial en el agro frente a la fatal arrogancia Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUJSSU5aWERWaWZ3OEJjRWNnSzJDN3g2WlZOMHRhR1M0QkxGTng2MWZ0cmdiQ3BsWjljYlFjOVVQcnBOOFZHcEF0TmJHVnJDNWFuaThRb3plY0k2Rnp3RmRBX2diLVRLbzFvdWR1bWdZVk94Q1NyQVVKd0ZIanJkczVCVmZybjBtQ1ozSi1XOEg1RDRoY3BxZ3JCV1FNa2xZ?oc=5",
+        "date": "2026-07-18T08:45:17+00:00",
+        "source": "Clarin.com"
+      },
+      {
         "title": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados",
         "description": "El desafío del \"deskilling\": cuando la inteligencia artificial amenaza con atrofiar habilidades de los mejores empleados Ambito",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT3dkX0tDWTV3UU04ajhWNEd0VVhnTmVVWTNWcWhyRHp5NUluMDRXc0p6bktBY1djYlJ5UTlxQmF0SmhQa3pXQzQxOXV1YnlmTHB4VFZUNTVxVUgtaDlBZHhzcFlTd1N0Z3IzWmxpd2M4T0R4SThkMGMweU9Jd2Z2QW5ucDV0bko5TklpV0tUTGlIVk02aUIzbEhSQ2dUZGZTX0lONFRFMW03UTdsYkRkU05YWWZyeFo2dkxYNmdRRkUxaEc3VlA1bWFBaURwR1RBZ3ppYThVdW5XZlI2UnNPRlNVdk9Hd9IB6wFBVV95cUxNSGFWVy1MOUhhS1FGbWxEX0NwYUFVY0c0amJUNTFNaVRGUUN6LWxvZWxGSTdlQV9pS09JUjh5Y2JlS0theTY3REFMZkNtZFd6TWY3eUJqOFV0NzRGWjZFb3VqU245di1jTl9PZTA5bTdIVkV0a29aMGlQMk5MNG5FbVZoTTF1aFRtVFRhZ2xRSWd2ZUN2c0NNR0lCWWhCb1AzM2dFa0Y2LVc1bjZ3MUh2UTFURmppcXdpVXN4a1hQY2s3VkcxeE5URmVoTC10UWRWSzBlTTJCRmpLek45eXJfSklpVFJaWU9UU2VB?oc=5",
@@ -126,20 +140,6 @@
         "source": "Infobae"
       },
       {
-        "title": "Gesche Joost: “La Inteligencia Artificial aplana la diversidad cultural”",
-        "description": "Gesche Joost: “La Inteligencia Artificial aplana la diversidad cultural” Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN04tcTFlalJLek5TeWI3V3N1Q3YtZEFmeDFPdXRPMFREM0JyY3ZPNUdwM2YwbWxtRnhtcEVBTXFDdTJGa3dMbW42SFlzeHk1MnZfajQ4aFUxcUV5TjFfX0VDVE9RUkhNMVhXdzBRWlJCUFdVMUdCRV9TZlZzV1k0MXFVZXJmZEJNRVZIQnppbDZPVUFKMUdrb2h5WXRLTFNibUd1em5yai1sSFhXeHJJNVYtM2XSAboBQVVfeXFMTzI0TXduVWM0bFV6bFAyOXVrNVFVTHc4Slo0ek5peVo4a21zVFdsakFuV3h4YVY0THYyUy1qWGVDcDdrV3hMYU51YnlxUDktNy10OXlUN2g0OEtsM2dmQndidnE2V3IxblNxcHM2Qlp5VmxYWllmajZaczVvV3JBdFhGZEpRUGVGZXpSOFRIZ25Ra29Ma3FtalZWYU52bzE4N2M4dEJvWUFSU3hxVkh6RVJYNmNDRXE3WnRR?oc=5",
-        "date": "2026-07-18T03:01:15+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS - TN",
-        "description": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS TN",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWgxZXctclM1R2ZTaVRRUFlEZ0oweW1fTkJCMnBDNzJUUURyTEtReUtwZVkyRW9pOWhPdFMtWEM5M1IzWmZtVi00NGg4U0Fmajg0YUUtN0Vma2ZmbUJiMUNZalNSUHpURG54Y1FfMHFyWncyaTYxS2NHV0VqS21HVzQyWFpGNEJtVVMwMjZMdGJxa3M3LTlmTFR2blRiYUc3ZnRwZ0pRUGd2dUNZSm45dG1uNERvLTVBRmkxc3hsTmJ5SE5jMmo5VmNYY3BVZ0NlLTlEWTU4a051aEhLWm9Tc25fY08wdnJTMURqYlJ1TElCVy14a0JkTmlhS2_SAZACQVVfeXFMUF9aUVNNVDRaR28xMldTSnRRYWV3cVA4Q2pfTzltNFJYY1E4MnVDU2t1U0J3TXVtaEpKWTR6Rlh3UERadVhoQ0RmT0dpUWJyTXQ0a2dDVjBFSlF0ZlNPOGdmaGZLbi1XMVlxTEUweUZzVlctejM0NjNFSlZ6LU03cGtWM0Z0ZzhXTHRjTXhhNjE0UjJ0VUxSMEVFd3VyclVrckxxcnBBV2Nta3U2TW53UzQxUThmUHptVjA3TXRpczdBcW43bzExT1ZCaGtOc0VVcTJ4ZG92RGdIWGFvbHRKc1h0MGpTcVUtaUdnTlpqSEl2b1h4aDF3c3g5enpHcGpJTkVyX3FOdXhmWWxUWW5QUTM?oc=5",
-        "date": "2026-07-18T21:58:10+00:00",
-        "source": "TN"
-      },
-      {
         "title": "El impacto de la inteligencia artificial en una Rosario con empleo frágil",
         "description": "El impacto de la inteligencia artificial en una Rosario con empleo frágil Rosario3",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYk1mekJ1cS01OEgtZEU5Q1V2cmxjVHpiTk01aUNldHYybXNwc1ZPNHlWMUxfVTVwNDJzcUpRYUpUVmNYajJkZGItMHd4cVdiMXo2a1d3S3B4RGJsdXlLcU9OdHhneUV4N2hVaU53SDFuRWVUckp2b1BnRnJIVWh5ZFpULTF6aTBWLUZVcnR4cjljYzNEY25VZjdyVEtUdUNoclZRejdnWUp2N0hYVTNOeXo3a0hMeXhyd1FvNnlKWms4OW1rZXlSNVgtWGtGZ25qTnfSAdIBQVVfeXFMTmJNZnpCdXEtNThILWRFOUNVdnJsY1R6Yk5NNWlDZXR2Mm1zcHNWTzR5VjFMX1U1cDQyc3FKUWFKVFZjWGoyZGRiLTB3eHFXYjF6NmtXd0tweERibHV5S3FPTnR4Z3lFeDdoVWlOd0gxbkVlVHJKdm9QZ0ZySFVoeWRaVC0xemkwVi1GVXJ0eHI5Y2MzRGNuVWY3clRLVHVDaHJWUXo3Z1lKdjdIWFUzTnl6N2tITHl4cndRbzZ5SlprODlta2V5UjVYLVhrRmduak53?oc=5",
@@ -147,11 +147,11 @@
         "source": "Rosario3"
       },
       {
-        "title": "UBA: Mi Econ, la inteligencia artificial que llegó a las aulas y abre un debate sobre educación y datos",
-        "description": "UBA: Mi Econ, la inteligencia artificial que llegó a las aulas y abre un debate sobre educación y datos Letra P",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZENiVzY4Yzd1eWlhS0tVQWRMRFVzLWprLWJLTGswSXdVOEpIV01KQ1phVEhoQ1BqWmVBUERjeHhZbXc2czdpS0M2SFJZNmlmcjl1ZDdjLWxzekhvY3IxS19haU9QV0ZDRWxzN0J6TlNuZzJyTkJRQnk5UmszWDNKcVVKQXNDSVRTeXZnM1dGVmJUQzdLa2FRQnRaMWxmWmQyT0dOQ1VTWm95WWx0a0h5Z1NEVDFDOTZ5cWNTRzZPUnpzaGlIXzcw0gHMAUFVX3lxTE9SdmJ5QVNqUGROX3JKdG1WMGRmOTFRWGxRV3dIeHVXS29Xd0pmeTN4R1A2S0t4TkhXZnRUY2tzQ29EalNLWXJjQTJNcWRycUtYemw5U0lEbWJESUEtQzdDZFhPYUwtRE9TeXlueG1oc1Q3WVFlcTBURUI2RnZUcE82ckx6N2lMNXkzdll5dzZwaVk1VTdIMkJNQ1c4a0hKYlNuZmpYcm1veWhKUFl5UERGRlU5NmExUXRhZDdEMTRIc1JFZ2UwOWdZUmY2SQ?oc=5",
-        "date": "2026-07-18T12:35:00+00:00",
-        "source": "Letra P"
+        "title": "Parálisis regulatoria ante la IA",
+        "description": "Parálisis regulatoria ante la IA Página|12",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BM1BKZzEzc3NyZlZUWTZGTWVaTnhnaFpnaXBGR1JRbjlpTzd3WEpVSFY1UVFObXMxWTkwdFRlV0toZVE4RVJzcF9zY1RXRjdmMDdZdkg3V19JejZQT3BMLTJoTlhJNVFFMllvUmh6X0lwOHBQN0RLU1dlV18?oc=5",
+        "date": "2026-07-18T23:06:00+00:00",
+        "source": "Página|12"
       }
     ],
     "Vaca Muerta": [
@@ -170,17 +170,17 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Neuquén aprovecha el boom de Vaca Muerta y sale a buscar dólares al mercado internacional por primera vez en casi 10 años",
-        "description": "Neuquén aprovecha el boom de Vaca Muerta y sale a buscar dólares al mercado internacional por primera vez en casi 10 años Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSHAwWGJDeXlzZUpwT2hvSDVSYWJIUFYtVU5fenNvckZKREozNDVSU3ptdG9MUl85NFN1TlU1Q05KOTNjOEdxWjNaVVZWU2RaODdRb1phS3BlTWJzZVlCdFR0R0N3dUJycVdmYlREczk3Zll3TVZJdlo4TDN0SVAxY3NHOVB3SjhQQklmclk1dW85c19ZREJVYmlQSFRSSkVsUDRDZng0dkkwazNfVFE2WkhpSmtrcl9hUzFHLW9fTkllSzBIeEdMSkNMTFJ2WDRwSFI2QlhIZGNyVkFSbUcw?oc=5",
-        "date": "2026-07-18T17:02:10+00:00",
+        "title": "Un nuevo mapa: las provincias que ganan y las que pierden con el modelo económico",
+        "description": "Un nuevo mapa: las provincias que ganan y las que pierden con el modelo económico Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmpLX29CYWhITGROYkJwUDN3TEMyRXo5OUFVdU5ZR3R4LW9vNHhaT2tnQTNhc2ZCcGlPMkduTGF2clpraFRmWjJFeGpacTdoVkxSbGZKSEdqNWd4d0ZzYy1ZUjFmMDM4cDFyNmJONGxOdFNEUTdwM0ttQ2sweEp6OEh3QzNEMFRIby00S3pOdXh0b01iMzhESU9rVGJFNFFmRU9XUg?oc=5",
+        "date": "2026-07-19T09:01:37+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "Un estudio reabre el debate sobre usar los ríos Limay y Negro para transportar arena hacia Vaca Muerta",
-        "description": "Un estudio reabre el debate sobre usar los ríos Limay y Negro para transportar arena hacia Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOFBIMXpqaEd6SzA5S1BkY3gwOG5scXhTQmxsMll0VUduVWVYOHZoWnJqY1FSZkNPNjVzdXVuU0pBVGZVa0wwb3lHUmw2ZDFZTVRXTU4yVlBxc1k5SkYyUk5FdGVWeFB2MDNZQ2tvdjRzaDVNZzV1YlNaZnliZ2Nvc1NfRmZhYWMwUkNkem11SGhCdXBmRVMyV0F4N0lPMWd2eVhWSVpTeTdQMUdqc2xvMlJYRXViVkdDT2xQNjFNdnhpampmdGg0WUhLWXFicUl0Rk53T0Jn0gHeAUFVX3lxTE51TTFVSGlFT1lGSkNQMFZGakE2V1JMZXQtMEU4MlgtYWhYVlV2dWtjd2JuZWNQTHk5LWhXXzdfQWJ1VkdhR05LdDFrRVZmT1dwR3N6YXVYZ1Y2Wi10U0c2ZHBuR0RFd2k4aTJ0R040M1Y4LXNpSXNVcjVvTENHTVE3dWpCQ01FQ3hOSW8zb3Vud3VNakJXUzZxUkpxUEszbzVWZ0U1aU9MRS12M0FQSGlpWi1MMGcybTdQVnl2TWFiTGNqaE1zVk5Jd1FTb1c4cHdCbUtGeHZJYmpFNktKZw?oc=5",
-        "date": "2026-07-18T03:16:00+00:00",
+        "title": "De la Fuerza Aérea a los drones para Vaca Muerta: cómo tres amigos lograron desembarcar en el oil&gas y proyectarse a nivel internacional",
+        "description": "De la Fuerza Aérea a los drones para Vaca Muerta: cómo tres amigos lograron desembarcar en el oil&gas y proyectarse a nivel internacional Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSGpIWm5jRnpOenZYNEZMZ0V0eG44cHlNRTI4aTFldERwMFJ2YnUwRmNJaW5RX2RfdnpFLVhsZllGZ2tCaDZaMUkyZGFnaVJfOGNDRzJ2bFFOTWlCeXlkcTRuVXpkOGFSTTcxd3FUTlhlZzNIZ042Yy1BcTcwM0N3X1VKemJhTDRLZHl0NUtPN0dtOFQzeU9JQUZ3Sm40TGxlVDRpbndENHNJWGFaYVhmQjdXcHBhVXgxaVJzY3R3T1ZBeHRfd0ZvWjRjSVFlSTcyVTBCNV9HNC1Gb3l6aEctWkdtNFpYcmpELVdZbUdIRkdweEJJVkdROU9UM3ZmcVE4N0HSAYoCQVVfeXFMTU85QTJrSTdxcGVSRnNRNlNJNF8xeHNTQ01WZlFQR1dhX2JWVldQaUxTRGZTcHhoVHA2WUhsZmJpeVh1WkFZNXBpak9WQ3BSSjlDNmNWdVNCZmJ3LWVBcEoxNHFHRnoxRGlDU211VWtENm5UWWpoeW5mLTJtcmdiaGwwdHcxUFhQc19VaFdMVUNOem51Y0xhQ0RVLW92U3h4ZHlhQ0xzcUh0ejdXMWxOOVBXbXN5WFZ6Ujd0dU4xRFVNRDRadGZpaUJYbzdNYU1rTjl6Y1FnV21FRGpVQzlZckxEbzQtaXNyd1dIQjdIb0N1YzVDVUc5S0RkNWhtS3Y4SVJORHdZOTUzY0E?oc=5",
+        "date": "2026-07-18T03:14:00+00:00",
         "source": "Diario Río Negro"
       },
       {
@@ -191,18 +191,18 @@
         "source": "El Economista - Últimas noticias económicas y financieras"
       },
       {
-        "title": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta",
-        "description": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta Maracó Digital",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZHRnBUTDVuc0J6WFl3Rkw1UUhiWWlDVkZFYUw3RTBGVW9GT2xmOGhBUmF2YzhVYU4zUHl2bWhEZ0Fkb3NMZjc2dlRLVkhJQ29kVUNuelp3WXFoWGYyaGNKYjgtdE84d3duaUZWbkN6elNRQVlLcDgwRW96MEdxWVVrb21MWHJaVWdUdUZuX3dHV3pWVG9QMTNQSy1JNHZmdFE?oc=5",
-        "date": "2026-07-17T11:46:24+00:00",
-        "source": "Maracó Digital"
-      },
-      {
         "title": "Vaca Muerta derrama hacia el agro: Argentina tendrá una de las plantas de urea más grandes del mundo",
         "description": "Vaca Muerta derrama hacia el agro: Argentina tendrá una de las plantas de urea más grandes del mundo Infocampo",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWmJJQlhZU2xMelhtUjdMaWpyaVNxNU9wYUIwZ3FIMmZndlkwU29sOXE4dXA0N1JMMENTQ2I4Tzc0SVZXTHJaeldneUdCOUo4SFJDaFd1a2w4b055OTdYNzBmSkhmV3VQa3hYUnJTeUMwbE9sN2poVTdZcXdTUDhfeXU0Smp3M0RndGl1VWsyb19tS1Jjdy1mM05tbWlXUXlDcnNSVm1JUDJMeUxFVFd2THZiOUJWTkRJbjd1UGVOQl9UbHVTbFBoOA?oc=5",
         "date": "2026-07-18T14:58:04+00:00",
         "source": "Infocampo"
+      },
+      {
+        "title": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta",
+        "description": "Camión gigante cruzará La Pampa rumbo al oleoducto de Vaca Muerta Maracó Digital",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZHRnBUTDVuc0J6WFl3Rkw1UUhiWWlDVkZFYUw3RTBGVW9GT2xmOGhBUmF2YzhVYU4zUHl2bWhEZ0Fkb3NMZjc2dlRLVkhJQ29kVUNuelp3WXFoWGYyaGNKYjgtdE84d3duaUZWbkN6elNRQVlLcDgwRW96MEdxWVVrb21MWHJaVWdUdUZuX3dHV3pWVG9QMTNQSy1JNHZmdFE?oc=5",
+        "date": "2026-07-17T11:46:24+00:00",
+        "source": "Maracó Digital"
       }
     ]
   }
