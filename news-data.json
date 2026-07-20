@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-20T15:06:29Z",
+  "updated_at": "2026-07-20T17:55:03Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "La sorprendente razón por la que Bill Gates prefiere perezosos para los trabajos más difíciles",
+        "description": "La sorprendente razón por la que Bill Gates prefiere perezosos para los trabajos más difíciles Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEtFOTdvbWNWYzNEaXFsT1dOcXo4elAwUGRaNXlYZHlDWGx4V2dZV0F5OHJUaVFhQVczaDl0LTg1blZGTXpuaURZbHZmd1RHYk9GQUdtazc4UWZ1TkdSelpmRF9Rd0lXUGs2clVvODRFS2gwV21lS3hsTHJUUEZnX3lKbHRZV1dHME5FMjRQZmNnWVQyYnRtaUEteFNYZldCXzZIZW9peTBFbVFXWlFWLU9HemxxTmhZUTQ3djNGTXJKNmk1eXBSRTZjRnpWYjJzTEE?oc=5",
+        "date": "2026-07-20T16:57:51+00:00",
+        "source": "Infobae"
+      },
       {
         "title": "Microsoft implementará Helios, el primer sistema de IA para rack de AMD, y rivaliza con Nvidia",
         "description": "Microsoft implementará Helios, el primer sistema de IA para rack de AMD, y rivaliza con Nvidia DiarioBitcoin",
@@ -17,11 +24,18 @@
         "source": "Investing.com España"
       },
       {
-        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
-        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
-        "date": "2026-07-01T07:00:00+00:00",
-        "source": "Ambito"
+        "title": "570 agujeros en un día: cuando la IA de Microsoft reventó su propio Patch Tuesday",
+        "description": "570 agujeros en un día: cuando la IA de Microsoft reventó su propio Patch Tuesday Blogthinkbig.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOXR2QWxNQWt4R19FdFktc1BLQVRUTVdlTTJ0N2hoSkE0UlpLaDhNLWNSd1hNVkR6VUtHdXlXT2d0RGJRUkozei1JSjc4SmlHTzdkRHBxNDI1RWJsdHUyUk03Q2pFRTJUWlBwWjU2bF9rN05J?oc=5",
+        "date": "2026-07-20T12:59:06+00:00",
+        "source": "Blogthinkbig.com"
+      },
+      {
+        "title": "Microsoft implementará el sistema AMD Helios AI en Azure.",
+        "description": "Microsoft implementará el sistema AMD Helios AI en Azure. es.qz.com",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1scWtNazhwb2ZSTG8zTUZ2UVVnWElTLXdoWHRfRHVhYzBvZzY0SGpVR1NiZkp1YzluM1BhckwtWWNYYnNUY2dNdjBpUzQ2dDZYbDJybHdHTWkyLUJQNlFXMFhBWnQtdlRLcTNZd3lHeUpFeFU?oc=5",
+        "date": "2026-07-20T16:52:30+00:00",
+        "source": "es.qz.com"
       },
       {
         "title": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios",
@@ -31,25 +45,11 @@
         "source": "Brodersen | Dark News"
       },
       {
-        "title": "Microsoft España nombra a Fernando Valiño director de Sector Público",
-        "description": "Microsoft España nombra a Fernando Valiño director de Sector Público Microsoft Source",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUS1pQUdTSHV3NDY2MWx4OFRSazdiZWd6clNJamJfcUpFYndLTGx0Zk9zQkNzbWx5VlFwWHd6TGZLQVRCQU84WEh1THZZUTdtUDdiWTdreUMzRzZyMW42aWpRRDB1Ny1jQWMtYWIwZ1ctOHlBejBzQmNiYy0zN3RRYlBQaHB2Q2tUYUdiR1JjMlRnejV4UVBXV1dBNWFQdC1LNi02OW16SThLTmpwYlh4XzB3MmMxck04NUI5ZHI5TGZlQQ?oc=5",
-        "date": "2026-07-20T11:39:56+00:00",
-        "source": "Microsoft Source"
-      },
-      {
-        "title": "Windows 11 corrige 570 vulnerabilidades en julio mientras Microsoft atribuye a la IA el aumento de los parches",
-        "description": "Windows 11 corrige 570 vulnerabilidades en julio mientras Microsoft atribuye a la IA el aumento de los parches Geeknetic",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcGo1Zm04ZU5nNDgtanM5NU9JSkFybkVfM1pIcDBqMHhmblI3ZEgycTF6dEd3cjBWWlhQQllKQmw0ZU1aU2k0NkhBV3NsOTE5LXl1SmQ1eDlqTUNvNnB2cXd5dDhLdGgtS1FlOXNNNnQ3dzlONFg3b05ucjRpTEJjYTdLRnJLRHZXbXJva0hOY0h6ZHd3N0R3X1VROHVkVVF2clBJcUY1YU5OMEEwaFFQR1FrZ2xSUHJ3djAtVDQ3SnNpLS1Dc1RGSWlJa1hUS0Y3NUUtc3lQNEJKM3o4Tlhma1YxWXBWRzF5Ync?oc=5",
-        "date": "2026-07-20T09:58:54+00:00",
-        "source": "Geeknetic"
-      },
-      {
-        "title": "570 agujeros en un día: cuando la IA de Microsoft reventó su propio Patch Tuesday",
-        "description": "570 agujeros en un día: cuando la IA de Microsoft reventó su propio Patch Tuesday Blogthinkbig.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UOXR2QWxNQWt4R19FdFktc1BLQVRUTVdlTTJ0N2hoSkE0UlpLaDhNLWNSd1hNVkR6VUtHdXlXT2d0RGJRUkozei1JSjc4SmlHTzdkRHBxNDI1RWJsdHUyUk03Q2pFRTJUWlBwWjU2bF9rN05J?oc=5",
-        "date": "2026-07-20T10:56:54+00:00",
-        "source": "Blogthinkbig.com"
+        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
+        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
+        "date": "2026-07-01T07:00:00+00:00",
+        "source": "Ambito"
       }
     ],
     "Marketing": [
@@ -105,46 +105,25 @@
     ],
     "IA": [
       {
-        "title": "Así será el resultado de Argentina - España según la inteligencia artificial",
-        "description": "Así será el resultado de Argentina - España según la inteligencia artificial TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3NERDVKRDhhcFRaM0tidG5oOHE0ei16U2k3NHd4NWZiTlNhQTc0SF9taXJVbHJZWkcyVjctd3lKSV9WZktkdG15dWphZzNvNlZ3RUVhVTV0UU44TE5OZENhWkFUSnh4TkJhZWZTd1BlOWl4SzItU0FSQ1hFRlJTMHB5aFBIOXd1YVYzX3F4aU1zdDdVdTB6Ukx5RzhhaGk5NFpoSzU3bnh0bmxTUmE2NVJQUGtnV0J1dFBwT2hn?oc=5",
-        "date": "2026-07-19T18:43:12+00:00",
-        "source": "TyC Sports"
-      },
-      {
-        "title": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano",
-        "description": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano El Colombiano",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeElmNlJXYTVxWGEwbk9QeHV30gHPAUFVX3lxTFBVSVRGVHJBeTFWY0lkeTJXMmVlUzRnUUR3UFN5SUdPZlFoVW5JdGF1OU1oTERhVUpDTkx0M0d5Y3dpck05bE9ORVdPcEtVS3pyYVJldDgzWjRteXlueGNxanl0LUhXY2tXa0NGUVBkcHBTR0dGNTZsWUZqT1M3R1psaE9Sb2lIV1JtajdWbkRlY1VCemNjcmtrNU9oRXl5b0hjeUpwaVAxNVRadC15RDlsbDBNbUh6d3NjLUo0NHBUakNiRThldGszbTRQMmY2QQ?oc=5",
-        "date": "2026-07-18T16:30:31+00:00",
-        "source": "El Colombiano"
-      },
-      {
-        "title": "¿Quién será el campeón del mundo 2026 según la Inteligencia Artificial tras las semifinales?",
-        "description": "¿Quién será el campeón del mundo 2026 según la Inteligencia Artificial tras las semifinales? Sports Illustrated",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVB3eGN6U0l1aVFCaTVaN19SZDNQWVFSTGRodGtHSmo1cWdaUl9zaDBfUk1lOGJERWtucWlQN3VzZ1JsSV92UmpMM2hlbGRsdUNiR1d3YkJSVGxxdHVfckRjVklTSEVoN0RIWVBkRlRiYzJ1QldHV19EZ0w4ZnpNZjU2MG1iQm9LWVFseEJ2SFppTndNVkdKdWV5cEhtTG9xM3h4c2lPOU9BUzZtMnhNYmJHTUhXNmdrOGVVY1FrTQ?oc=5",
-        "date": "2026-07-17T09:32:30+00:00",
-        "source": "Sports Illustrated"
-      },
-      {
-        "title": "Honor llevará a los consumidores el concepto de \"interacción encarnada\" de la IA con AgenticOS y Robot Phone",
-        "description": "Honor llevará a los consumidores el concepto de \"interacción encarnada\" de la IA con AgenticOS y Robot Phone Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVGplOXptZHk1eXVGRElzUUlEeWZKcGhhSW45MFBMUlExTklfRTRqQ28yZlZuMnNwNFNfbFZIUkJKem9fSndzb2NtamJOZ0plTGlLSFBDWW5qZEZyeXVPMlVDT2pUVVpBbmdlVUxlOW1RY2k1SXBSbzdJYWFTbHRlalBlZG1ZMVFxTnIySGxoQjJGUmpPRlo4YTdyOWhYc3MtZF9xY1hBVkZJMy1RZm05SXZLSDNxVmVKOUpUTWlTeGFnNEMwUlA5VFNhUTRoYnE0VjBENkFiaVVaUWctTS1ZQ0tuQ3g4cDc2TGFCM0NqM1XSAYsCQVVfeXFMT1JFQTcxMV9aV2xKaDlPdDRaOUhNSVN0azZ4UklMWFM2TlplXzlsaGkxT3cxYjJRRlRBRVNEeDJMb2JOZXg0MldydDZHWnZ6dkwtaHZiM2hoMFBrUGF0LVFmSjVjMkptUHVDVlItckF1Z2ZsZmVodTF3czMtdU43dVhrc1BGeDZfSlY1ZllycWFqRmlZdmxfLW9MNHBGT0NwNGNUTl93bWJCTHp0U0xTUmE5UkxUX3JwYVhRWll5cS1pc0l6NzlLWlFoVnQ1R25kbWNMR3phZWVmMGJtX3pxZXRoTnJ4R0p1TkNxdy1vMlI2aWlOZm5mNV83MFV3U0x0RUUtMzhjUUhoLUhJ?oc=5",
-        "date": "2026-07-20T14:56:12+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "La IA no pudo: Ford volvió a contratar a sus ingenieros y ahora lidera un ranking clave",
-        "description": "La IA no pudo: Ford volvió a contratar a sus ingenieros y ahora lidera un ranking clave TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTE1obTZRWW1zVmxoQmJ6UkhaTk0yNEZuZUJfSDJteDJ3UVlPVjViQ3Mta3JYempaeHlCbnBQVHNmNi1mQzh3UWw4WjBqbFFkeDVLOVNuS1poVzlrMnlPc2Y5YkVaUFdIYnFFOFhIb2FYazNRbG1mRGNVMVJYbjgyMDVvT1JrQm40LXdDb1pfT0V4RF9BNk1vMXRUQkVqSDJmRzA3N3NsbWpDVlBKTWZmZzcyVUNxd3M0M0NhNGtVdE56bVVEYUthZzliSGZnb093NG54NkJYS0t1dw?oc=5",
-        "date": "2026-07-20T14:36:11+00:00",
-        "source": "TyC Sports"
-      },
-      {
-        "title": "OpenAI presentó su primer dispositivo físico y sorprendió al mercado: así es el teclado Codex Micro",
-        "description": "OpenAI presentó su primer dispositivo físico y sorprendió al mercado: así es el teclado Codex Micro Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkhpOFZONFJoLThveDBHaDZfWVhhWWR5WDhmZVZYN0FZYmxtb1poV2lyLVJmWW9wT1lIQXMyZ3JVV2hiSm00QW1rVUpCUm50TFpHVTZkTlFQSWdMdTNDR3J3ZjJPbF9YYTJ1VVNnaHpHQl8yVDJRSG9PaUM3WGFOTFIyd0o3ZENIVWpwbHBjcm9GRVFfaEJtQmVjYUllai16TFRNeG5MY0xUZDA3ZmFOZHR2SWxSQ2t3QWZINGM5cERaUW8xOGpUNmt1VC3SAdIBQVVfeXFMUG5BdHAxWndBUGlvNmhFZzM3MHBFQXhxRGdqdXA4NGdVTzZMTFA4SHRRQ3NUT3k5TXBsejYxRGZ5ZFNTNVA1NDlNUV9vVzFBWU1XcUJhLTF5RmNqX2ROVWNCcDl0ejVRaXhxNnlHTXhGRTRGRHp4NTBMSTM3Y0xrRUwwd2lNUnM3T0Q1TkRvLTIxMWM2Z0pCRFBmUUZ3MXBfUlpiU0M3Y0VRQk5nNXZMLXZaY1RlZThyNlNkSmZFSXBpb1Axd21zb3NlWWVad0xIN1ZR?oc=5",
-        "date": "2026-07-20T08:45:48+00:00",
+        "title": "Kevin O'Leary, inversor millonario, 71 años: \"Si tuviera 25 años, invertiría en IA. En su forma más simple, ayudaría a las personas a usar esta tecnología\"",
+        "description": "Kevin O'Leary, inversor millonario, 71 años: \"Si tuviera 25 años, invertiría en IA. En su forma más simple, ayudaría a las personas a usar esta tecnología\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNblE0RHlkOENlVF9LZ1BMMldoR0d0aF80RU9HQ25ZemV2emZRLUNnM2x3SWUxWUQ3OWQwUmhtemlMdDFyRFdPVU0xQkVrbThyQnlUYTl5NmlkUm1oTFZyYnp4WUtEN01QUDNQemxVdkhSN1BVU2V4RlFYWmQySHFOVUJzd2EtZzhtdk94aW1VQ2M5T21UODBEMXhJTUZFdUJ0UGN5ckQ2cHlTV3ptazFsSzF4dF9ieHJ4OE1EQk5NamxCRl9FWHhCY2xiOThwOTZYY2tMLU9jWlBNd0FsZTNlb0RnSzhZOEdQLXVlelVIN0hQTEpDbk9BbtIB_gFBVV95cUxPME5kM2FrYzdPeWswZm5SamNwMlpTRjRPSGt1N2tabmFKSFFnMTVoTXZmVDZoTVpHQ3JGUXFVekhQanhwY0lIWHl0WVFFenhqOEdKdnY0d1Rmd1hDcXBTbjVIYmRZMEJxLXNlUWFaV1A1MDBJUzVZQzVBRFpER19uc0ZyZHo4OUUyNUpBbjNYNU5OMXJ0b2NqelQzcWdMYUFSR0ZvREF0UU1zZ0FGUWs5Z0hYb3RndFdsLXhwci1Oa2QxbHg4UDRQRFgxY25mbUQyNG1oTzZKeDA3ejFEZUFKYUk3V3JlMUJVYUQ5OUhqRGgwc0F2Sy1Zck1qWXYzQQ?oc=5",
+        "date": "2026-07-20T17:13:54+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Todos tienen la misma IA; gana el que tiene criterio",
+        "description": "Todos tienen la misma IA; gana el que tiene criterio Perfil",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0NSU19vXzJ3dWNIS25EbWt6WFJtdUlyTk5lRThtMVVlSFpiV2ZQTTBQa056M1lBS1FtSDhuSVlnQVZkTEh5QzJzUmI2MGdYMC1fQjhuMWV2Zm42ZEpoN3ZXZ08zUTI2ZHQzT09IV041YXF4eTU4QTM5eVk1c202YlN0QkJLQkJmS2dtbVluRXNhNVpKNTZNRWtBTldyUdIBowFBVV95cUxNQUU5amtFN2ZzR3NfemRXWmY4MGdHNWd4MG1UNTJzUHZGS3ZQYVJwaGt0SmVmX3IyRS1IR1A2a1lOWi1PX2VpNE1iNnlTU0lNam8yYTZBdWhlQXdQREZEZThTS19DM1dKTmlTZF90WE5RM0duZkp5bXVzd3VoU0ZSVDkyMnhuRHJXWGNFUTVBZUFrcWN4V1AyNG5RLXhRQTJfV0l3?oc=5",
+        "date": "2026-07-20T17:00:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Un Nobel de Economía minimiza el impacto de la IA en la pérdida de empleos: “Hay muy pocos casos”",
+        "description": "Un Nobel de Economía minimiza el impacto de la IA en la pérdida de empleos: “Hay muy pocos casos” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZDZBb3F5aXUwLWpNLW1udUFSazN3QlFRQjdUTFhhSTBCdy1yVzRfTDJZZmRYWlZHQUFIZzdhRnpUWWxWbmh0VUJJUUlhWTFabURodzlZVUxtTDk4QlNCRFhHRlIzZWFyRVZrbC1FYVh1WHZEOVhuWjRGNGtIZ0YwSTJwWVRCbGJCeTdFZnNUZ2hSSzAyRG9FNURzc0xYdlJVb0JGbEtNYUFfTVZZdVV2bWZhQlJjeG9HUlNXV04zRjNLN2J1OGFvcnJsZjIwa21EMGthdHNiTHZGREsyVHVv?oc=5",
+        "date": "2026-07-20T17:45:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Wall Street sufrió por partida doble: más por la inteligencia artificial, que por la guerra en Irán",
@@ -152,22 +131,43 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUliTUFweUpyMkdBcmZ0SVdOeFZ3OHZJc3NiMEh3QWtmMFp0d01zRmd2RWVGUGt5cHNFRkdTc0JTTmVBZFdkcHlSZFR5N3BCVTUwb3o3TW9GOGVGU0JmT1NwMXEzcjhHT3ZSUHBHNUhBSVBLSXZndE9jVFB1alUtdWJkVlg4M1N3Ml9iTnBUeDBKNUxHOHp5dzhaeHhMZEVwanJhaENUWjRudHFvWUlFdGVVTW9RNFdVOHdqbnR5YnTSAcYBQVVfeXFMTmpkdlpUbTk4bWtnN0h0N1pmdERVMVVnaldQa2Nfd3JZWDZ2UEV6UWtWS3hxQVQxUXVJMzE2S2tGZmQyU1hlWHdXRmZNakpCRmJ4bjJKNk41cVZybk5QV2V2TmpyNWVmTDV3Y1dtTE0yLTgxUjRzTlVRXzB5SkphNExWWlRsM0Y0TGtXUFFrWTlhYjhadkd6aG9jbHVNXzhuYVhVcXRnX0NtUW1UUkJoZjliUUhkYm9CSy1CV2dpdkN4a2sxUU53?oc=5",
         "date": "2026-07-20T03:00:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "» Inteligencia Artificial para el análisis de textos: Curso virtual del PMet en agosto",
+        "description": "» Inteligencia Artificial para el análisis de textos: Curso virtual del PMet en agosto UNSAM",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTd1VTVuOEUwSktCV3k1VzJqVXIwbnNfLU8xVFBjNkNpdFZxWmlXZmFyMkY5TWNJUEUzdEp0R1pVQ2lpOVdDRUVabHU5YWJTZ281c1E0R3lSbk5nWjEzcGpaVHM4RlQxUlYyYTYyR0FLQk05SlNRMS1BR05uRVlDc3h3c1NPOGNVUzJ5TWlwMklFNEZHS1V5WFlKUUdQemFVTVNMRmE3eFNxTzYwcGw3TEhjTml4R2hoUGhRZWxoQmh0VDg?oc=5",
+        "date": "2026-07-20T17:46:22+00:00",
+        "source": "UNSAM"
+      },
+      {
+        "title": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial",
+        "description": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzlGLWFkcEx3OExOclVGQmRqV3ZIM0lUNC1SR05TVFlTc3EtdXZ6dnp3cVlFSlF1bHRlNV85YmtlZjRPRlZhSEJyZV9WYl9xdFFaampZaXZIRm5aVExzRVd4YWlEb0ZfV0Rsc0hmRU1HaHZ3a1hkNzFWYk5HVF9nNkRDWnQ2bkc3OXpvdXVROE9rQW90NkhieTBoNDRYQXNVUEpsNXRVQ3cxUU94WUlOZGpCNnR1bUVhX0hfc1U2YXpKR1NjMUJkb0hFYWVzMWhN?oc=5",
+        "date": "2026-07-19T13:12:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
+        "title": "Europa obliga a identificar la IA: quiénes y cómo deberán advertir que publican contenido artificial",
+        "description": "Europa obliga a identificar la IA: quiénes y cómo deberán advertir que publican contenido artificial EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSG9pRVNrWTJRRzJlZGFPUzNrZFJIWml5Y2lBazhKQUMzYzJ4OGdKQWE4UjhObDNQTzJpYmxoUVZsTGNKak1yVGdMbmJZT2FkNThxZ2pxbUNHZTV3UXpfRGxBdVZrWXp4QnE3ZGQwM2dtYnc0T09EbWpMWlVaOXJ3Zm0zR21MeENYY3B6ejNYOV8zNjJXZnBLWnpmNjdELVhudFdaczlucTJHbkV1b29waTlDaWlKYld4UnFZSDczaXdQXzhSY04yYzFNd1NjUVpoWnJ4YzBBeGFuOE5iMlHSAfIBQVVfeXFMUHI0UU1zZm5obml0NVZCajlHWl9ham95QTczdmdfU2pLZ0dZQ0QxREVuN3B2dklGQkRhb2dLbWdUdUlONGdPTzM3aFhRVkxrRGJ3ZXJWS1JRWXRibzNyZmtYalQ5X1NHQjEzNmFsQ3NJQk9rVVI1NUdmdWJ2a0VmMzhscElKRk5CUk5EaWpGVTFVOWY1UzRDbGstNjN6TXM1TzZBVkdwX3BmWkp1UVBjT1ZEQ0p5bmF1Z1BwckFSeWNnNTEyNV8wRDgzakJYWTNfS084bjZITmtfNFFTYnNCU3ctdTdRSlJMRTdadlBxQkxHNnc?oc=5",
+        "date": "2026-07-20T12:45:34+00:00",
+        "source": "EL PAÍS"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares",
-        "description": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JcHA1dUkwVVNwMGlqQ1FONFZ6MV9oU0NTb1ZpLXpsYmpZVno0R1VHY3dFcl9oakM2d2I1TF9xNUR2a09SM1JmdUlqbEQ4MnYtTHkwZjZycVpxdGFEb3J1TDllSTNZSWdqNE5ZX3FsemgyNGNPSmkwckNmUDU?oc=5",
-        "date": "2026-07-17T22:46:52+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Comenzó la construcción del puente sobre el arroyo Carranza, una obra clave para Vaca Muerta",
+        "description": "Comenzó la construcción del puente sobre el arroyo Carranza, una obra clave para Vaca Muerta Vaca Muerta News",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdnNUV0hxRFllb1BjYVFURGdlU1FCQ0dJNGV0UF84ZkI5X0dvdmhkWlJlWlluX3p2YlZhby1oaFFWLWUtTGRFWTV1eXZlYTdEX0oxeGpkbG04MnlUN1dBX3RJU2RlWDZzd0doMlNGMFB1U1ZwblBrQWNpdnhOUkNCSVk3ZThkdlFqdmxPS2VHRWNSSEhWZWxkX1ZOSERhQ29MQmFLNWtVYjVqN2V1V1JIbnZTYm9jdXpDT29QUmY0LWhhR3Q4QllkUVhhVWZrQdIBxAFBVV95cUxPWUsyV1d4S3Z3aTZVeWFyUm45ZzFMTE9MMzU2V284VGF5VDNSRmpUNHlHV1YxU2l6X0dDV2lWT1BnX2hiMmZxdHp6aENqUmJpRGV5c2xKdjhRZXNyQ3dDb1NsZDhGNmtVWmRoWXExdEJuLXAzZjBIVjd1OVU5QUVjd24xN3lHYkJYYWt5OWdYV2dta1dzUHBVT2pKVmlkVVRZNnpCY1hpUmo4bHFoNE1xTmJlMEgyaVJGclN4WVRZVWZpaUg4?oc=5",
+        "date": "2026-07-19T12:54:10+00:00",
+        "source": "Vaca Muerta News"
       },
       {
-        "title": "Por qué transformar Vaca Muerta en desarrollo",
-        "description": "Por qué transformar Vaca Muerta en desarrollo Página|12",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtXV0ZQb3pmOHBkWnVCamJBcWJveVM3OGdzLXQwYXBSdGNlRmNzWWRwaWNBMnZ3dmpFdWtzMk0yakx5Vk54R1I5M1ZzbThPSUdQaWdRSFZNZDZLbWtsSVQwS00xQ191VFhLc2lSdVdQLU81TDhWcE5uMEllSGp4bmo2bWxYY0FIekk1UWJ3?oc=5",
-        "date": "2026-07-19T18:50:52+00:00",
-        "source": "Página|12"
+        "title": "Logística para Vaca Muerta: claves de la reactivación del tren",
+        "description": "Logística para Vaca Muerta: claves de la reactivación del tren Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORzZNNzBHdWxyNjRtY1F0NnF4RUZYVlVFSWctdmFPbmFKS3B2d2ZQdTlldXgybVBiNWFmWVlRUFhRVDRzRi1ISUZicEMyWm5PbjBCdGY5TlFJMHpTdUxwa2hVaDdLc2p2RXE4MmJaS1B0VXRTLVhRWWotZGdDT1FzNUZfb2RQUTluN0Y2UU54TE9LWjNJVkJQY0pEQzFvZzNOeUZZ0gGoAUFVX3lxTE82TkVwZmE5VjFaQUQ3Vks5V2VEWGx3QTdaNmpsNEJvUFFZMjNOZ1RVYzZQVElYNjlrYzVqR2pEdU42RWFvRjdMLXU4MHpwMjVJeTVMSVYyWFFtbXdtX0NpcDRGTHNoVHI2XzhDenlKSDdFTU1pNWp0NFNDNE5lREd1SUgtZlY2eU02a3Nuc292dnd0dWxxaVJMN1VfQzhja1pQT3hSR3g2Zw?oc=5",
+        "date": "2026-07-17T15:54:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "De la Cuba de Castro a Vaca Muerta: la historia de los hermanos que ganaron la obra energética más grande de la Argentina",
@@ -177,6 +177,13 @@
         "source": "La Nación"
       },
       {
+        "title": "Por qué transformar Vaca Muerta en desarrollo",
+        "description": "Por qué transformar Vaca Muerta en desarrollo Página|12",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtXV0ZQb3pmOHBkWnVCamJBcWJveVM3OGdzLXQwYXBSdGNlRmNzWWRwaWNBMnZ3dmpFdWtzMk0yakx5Vk54R1I5M1ZzbThPSUdQaWdRSFZNZDZLbWtsSVQwS00xQ191VFhLc2lSdVdQLU81TDhWcE5uMEllSGp4bmo2bWxYY0FIekk1UWJ3?oc=5",
+        "date": "2026-07-19T18:50:52+00:00",
+        "source": "Página|12"
+      },
+      {
         "title": "VMOS moviliza 16 buques para construir la terminal exportadora de petróleo de Vaca Muerta",
         "description": "VMOS moviliza 16 buques para construir la terminal exportadora de petróleo de Vaca Muerta Pescare",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFdDbWRHcGVXVDQ4aENOdzdpeDk4dG1hTUlIcmxKX1pfYjRUU2xVT2YyWG1qM2dGbVM4bk4tTmRvRU9FMEVKNjB2a19sN3p2YmJXV3R3UnlhajllUE1PMjRHLXB2Z2Z4RFZDTk1qRGJUajlMNHNiZFJrTzVscFN3VlZXZGI3MjlDU1I3dHNYUUdHSExveTBPZzZsSHJjM1A5?oc=5",
@@ -184,25 +191,18 @@
         "source": "Pescare"
       },
       {
-        "title": "Energía y minería generarían más de u$s23.000 millones en divisas por exportación",
-        "description": "Energía y minería generarían más de u$s23.000 millones en divisas por exportación Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkU4NlBZLXFNT3NfU1lnMGFtSXQ1YzRGc2tyWElnZE5DazNvTHJabVh1ako5MGNaY2hfeTFubVFET196WlJ3d09lZUM0Zlg4ZkctbW5CYzJmNGJQYWlvemU0TVQzWUt0WWxnazh2bDlQcjAxdDd4NlByR1BnS2t6WjUtVlJuTmp3UjNxN05INHhoQ2ZoRW5UeUpSaEZIMk5LWjZj?oc=5",
-        "date": "2026-07-20T12:55:00+00:00",
-        "source": "Ambito"
+        "title": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares",
+        "description": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JcHA1dUkwVVNwMGlqQ1FONFZ6MV9oU0NTb1ZpLXpsYmpZVno0R1VHY3dFcl9oakM2d2I1TF9xNUR2a09SM1JmdUlqbEQ4MnYtTHkwZjZycVpxdGFEb3J1TDllSTNZSWdqNE5ZX3FsemgyNGNPSmkwckNmUDU?oc=5",
+        "date": "2026-07-17T22:46:52+00:00",
+        "source": "econojournal.com.ar"
       },
       {
-        "title": "Neuquén aprovecha el boom de Vaca Muerta y sale a buscar dólares al mercado internacional por primera vez en casi 10 años",
-        "description": "Neuquén aprovecha el boom de Vaca Muerta y sale a buscar dólares al mercado internacional por primera vez en casi 10 años Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSHAwWGJDeXlzZUpwT2hvSDVSYWJIUFYtVU5fenNvckZKREozNDVSU3ptdG9MUl85NFN1TlU1Q05KOTNjOEdxWjNaVVZWU2RaODdRb1phS3BlTWJzZVlCdFR0R0N3dUJycVdmYlREczk3Zll3TVZJdlo4TDN0SVAxY3NHOVB3SjhQQklmclk1dW85c19ZREJVYmlQSFRSSkVsUDRDZng0dkkwazNfVFE2WkhpSmtrcl9hUzFHLW9fTkllSzBIeEdMSkNMTFJ2WDRwSFI2QlhIZGNyVkFSbUcw?oc=5",
-        "date": "2026-07-18T17:02:10+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "El petróleo volvió a superar los u$s 90: qué impacto puede tener en los combustibles",
-        "description": "El petróleo volvió a superar los u$s 90: qué impacto puede tener en los combustibles Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR2IycVhjQ1hzYWlrbFJiRG5VdHR6enE4akpiOUlTY2Q2RnRyZWVWUjFwMjBmTmJHbzE4WllmbHVQWTBYWG5kMmM4cC1kWDd3dzI1dFVLNmJBTk9uRkpJSmZLSjdGZ0Fia1lkZFdyemtKT2piZUdqLWRpM3ZoMTRZcFlxWDN1UVI3VDhXZC1yWFhfeWZESTdPdWdQdVhJSFdTcTI5cU5kNEVmM2I2QVdGUGR3ZVItWVR5NGdYTTRtcnpEUFdXNWpMczl5S0tKRDRzRWtjVjZEM1ZYOVllY3hyZUJXakJwNE42ajIxVW1VdkRnUdIB9wFBVV95cUxPeGdqSXFXcGVlcnFtLW5KUlJNeWF0TjlQRUItbC00cmNPUG9NVDFEZEtjT2I2djcyQ3MtR21ka2NQZG9TVzlOeFdxQnZydDRFZFV5QmNJUmh1Y3o4UTJjZ0dTaUUwaV8xUkpNa1RXa0hhYWNkZHB6NXp0VHhxTFVXTWxVZ2t4Q21Nb1g4MXUtQldYUmwyWFU5WWhjbTMycTRTd0JmYkNkeGZ0TTVQUVpsSURobl9ua0xmdERaNHNNamo3d21XbjRETG4xNTcyZHA4RHRhcDNDY3JnSnI2MUZPYlNsY0F2ZHRvZklIM0thUjNEckZ2SW1F?oc=5",
-        "date": "2026-07-20T12:37:00+00:00",
-        "source": "Perfil"
+        "title": "La obra clave para ganar el Mundial de Vaca Muerta",
+        "description": "La obra clave para ganar el Mundial de Vaca Muerta El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnJCb3dxLWwzNHpDd0ZtQjI2eWFWWmIyZFlzc3NCWUZyeDY1c0d1dTNZU1VUMGNvcVVvTUJ1bHEyVmdDb0tROVFWOTZIQjlxcWE5bVV0MjhjVWl0TDhqajljdkNlZHh2QUxrOWl1dXU1U2RVVGo3RkRkQUtEeGROYXk1MHNUVUlzT2VXbHB4UDNicHZrcFJLQm5R?oc=5",
+        "date": "2026-07-19T15:49:20+00:00",
+        "source": "El Cronista"
       }
     ]
   }
