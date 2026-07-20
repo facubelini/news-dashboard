@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-19T23:52:11Z",
+  "updated_at": "2026-07-20T02:28:59Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta",
-        "description": "IA de Microsoft te dice por qué tu PC con Windows 11 va lenta Infobae",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUdTQThKLXA1OGxibFdtbVFOX0xRX3JpV3NzRnJDTXVnZ2d3SHFoMGtRZkM1bWpRSWxWbGI4ZnVoaWlpN2V6TTJYa0xHdTJWVWhYVlQ3NnhGaGVsYWQzVm00NU5pM0xSRVdqT3llS2poWW9FVG9IV3lSVWlvYVVFdGV1QlJjbW5Ba25IYi1lQ1FYbDUxcUNfMW5pMFlDanJTOW1VV2FB0gHAAUFVX3lxTE0yZW8zamRQaHp0RGIxY0luRDhVTmNobXFIbU8tN3czcnhYUEZ3VkxVOGxSclRrMlFDdlNoUko5MVNZNzQ5VVotQ29kUFhTSFFZZ2JwMk1WWnJOUGhXTzZmQ2wxbGNMOGNtbHhJMFpwUy1RNVYwTmQ0d2RRUi1XZ2Y5dU5NOHJHT1hEYkZkYnRoekJwa1A2NHhBRmh2SUNTdXllVmRDTGJGS25abjdWR21nQlNPenlwUDFSUTYwazZVQw?oc=5",
-        "date": "2026-07-19T01:51:15+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios",
         "description": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios Brodersen | Dark News",
@@ -24,11 +17,25 @@
         "source": "Ambito"
       },
       {
+        "title": "Elon Musk advierte que está profesión ya no será necesaria a “finales de este año” por la IA",
+        "description": "Elon Musk advierte que está profesión ya no será necesaria a “finales de este año” por la IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1pvOGZRcXpWUkFqbndCZ3VLNXY3Szl4a1psTHVQcU1acTZkeFcwNHQzaDRCUzBWckpsUF8zVldsUG42OFMzdGQ0XzdZbEtBTjhTOVZQMUQyb05kMU5iWWJ3RE1hUEpJelZhcTd4U181X0ZseG1jN19acU1HRG1TOHliVW9mMkV5MzlHSy04ME5yQXF6RlExOW1kUWZ5Z0wwTTVucDhsVVdUN09WWDVDZUFNRU9KeUdRMGNEMWdRQk5aZXZadmk3cVFWM23SAecBQVVfeXFMT3d1OWtEeEhKTi1FSEIyaDhFTnlDY0Y2UkNtU05jOGxzamh4aThqdTMtSGdCN3pua3lpalRTb2V6T25LOHBmSWx3RGxDMEZSeUlmZjN3YmV5N1I3QXJyNmRnT3FFWTR1UDg1ejFhbVlodENxajYtZ09VeGFtN1dQQzJxYTFUd1Q5VjBBdVAxTk9VaVFPejh0REIzdG0zUEZsQklsdjc4U1BqcHlydm5URXBidzNPdDVmckVQbTg3a2wxSXJid0hXdTVlUEVmczJqOWVCRUFGY0dVc2hvTFc3c2NGZTNUeTFF?oc=5",
+        "date": "2026-07-19T17:10:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Microsoft lanza Copilot Cowork, su agente de IA para automatizar tareas complejas en empresas",
         "description": "Microsoft lanza Copilot Cowork, su agente de IA para automatizar tareas complejas en empresas CanalAR",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzB0NFM5ejdSNml2SkV2MEVGaGJoaEZ1bDJJcXE2MnExSHVjQkVOOEJZa25pOGFlTkVGc25meWJNb1AyWnBDSWJIZTJzTmJxSFVtNjByVkRiMWliVEs4REVrX0hRVTVrVFIzYWxyT2pyT3FJcFVyaFo2RmpraTVhWlhuV2F4bnZTZjQ4N0dlUy1UaVJua0FEMDBYVVVReVZ1eE1iMUphbWRMZjZCa1dUSFIxcEMzRUdJYXhmV0FsbFJnTno0RWZPTk5DNA?oc=5",
         "date": "2026-07-16T19:39:54+00:00",
         "source": "CanalAR"
+      },
+      {
+        "title": "Galería de Microsoft Milan / Flores & Prats - 12",
+        "description": "Galería de Microsoft Milan / Flores & Prats - 12 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZTBIaVVGQjZXYUxKWENBamxPVVJkY3lYandhcjB1RDFPR3hRdkV0dmtZMmNWeWNrdE9vWlg2WFU1dXJYejM3RUdKelhxYjFnR0JIcWc1NHFJMUg1TmV2QjJteUhtVG90X18zLVN4UzRmU2RUcjdQYldKd2tXOXRUR0tvamZTNE9PTURHZ2lXaFFQNC1oN0N4RG84TkJ6QlhFT2UwZjFPdWhSeE1pUFpwYXpvUHBMazRVWlFLLW9lMnJfNC0zMjczR1RGUG1aNFRZWUFDVFNIc2ZxVUVJX01CbFVsUkNYeWhVMzZRNWE0SlpzbjlDU25v?oc=5",
+        "date": "2026-07-17T18:22:08+00:00",
+        "source": "ArchDaily"
       },
       {
         "title": "Microsoft devolvió la cuenta de Xbox a un jugador después de un bloqueo \"irreversible\"",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNSUROcE5Ea2x0XzZvNDN1eDJDZW5YMWx3SzA3T3ZJT0U3cU1JalN3ZFBzQlVPT05VejcyTElIazdBRzNqNk1jelR6S2VXYXVfb2U5NlVqSmlZV2NfOUpJd1MzNlhGR2w3b3A4el95MU9iTVVLOV94cmdUWVFzVDMycDAwakd3eHV1WkVmQ0pTa3RacUQyUm9fS01lcnM2dXJ3REtFVW9zQ0IzQXlhcF9yVUNIODhsSk1HU1J6UGJKVVZjYk0zZ3A4bmRDbWhFSm13UkVPVmlTNDhyZ1JUN0g5TTlkYThvM0U1a2FJY3YwQmZrbXB1a2ZsaEk5c3g0LTdpcEl2ZjZtQWxiWkdQX0oxN0dhWVJWLVM5OTZzdlNfQVV4Q1V0a2lpb0Y0WkJEMWM?oc=5",
         "date": "2026-07-19T16:04:49+00:00",
         "source": "levelup.com"
-      },
-      {
-        "title": "Galería de Microsoft Milan / Flores & Prats - 12",
-        "description": "Galería de Microsoft Milan / Flores & Prats - 12 ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZTBIaVVGQjZXYUxKWENBamxPVVJkY3lYandhcjB1RDFPR3hRdkV0dmtZMmNWeWNrdE9vWlg2WFU1dXJYejM3RUdKelhxYjFnR0JIcWc1NHFJMUg1TmV2QjJteUhtVG90X18zLVN4UzRmU2RUcjdQYldKd2tXOXRUR0tvamZTNE9PTURHZ2lXaFFQNC1oN0N4RG84TkJ6QlhFT2UwZjFPdWhSeE1pUFpwYXpvUHBMazRVWlFLLW9lMnJfNC0zMjczR1RGUG1aNFRZWUFDVFNIc2ZxVUVJX01CbFVsUkNYeWhVMzZRNWE0SlpzbjlDU25v?oc=5",
-        "date": "2026-07-17T18:22:08+00:00",
-        "source": "ArchDaily"
       }
     ],
     "Marketing": [
@@ -105,6 +105,13 @@
     ],
     "IA": [
       {
+        "title": "Elon Musk advierte que está profesión ya no será necesaria a “finales de este año” por la IA",
+        "description": "Elon Musk advierte que está profesión ya no será necesaria a “finales de este año” por la IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1pvOGZRcXpWUkFqbndCZ3VLNXY3Szl4a1psTHVQcU1acTZkeFcwNHQzaDRCUzBWckpsUF8zVldsUG42OFMzdGQ0XzdZbEtBTjhTOVZQMUQyb05kMU5iWWJ3RE1hUEpJelZhcTd4U181X0ZseG1jN19acU1HRG1TOHliVW9mMkV5MzlHSy04ME5yQXF6RlExOW1kUWZ5Z0wwTTVucDhsVVdUN09WWDVDZUFNRU9KeUdRMGNEMWdRQk5aZXZadmk3cVFWM23SAecBQVVfeXFMT3d1OWtEeEhKTi1FSEIyaDhFTnlDY0Y2UkNtU05jOGxzamh4aThqdTMtSGdCN3pua3lpalRTb2V6T25LOHBmSWx3RGxDMEZSeUlmZjN3YmV5N1I3QXJyNmRnT3FFWTR1UDg1ejFhbVlodENxajYtZ09VeGFtN1dQQzJxYTFUd1Q5VjBBdVAxTk9VaVFPejh0REIzdG0zUEZsQklsdjc4U1BqcHlydm5URXBidzNPdDVmckVQbTg3a2wxSXJid0hXdTVlUEVmczJqOWVCRUFGY0dVc2hvTFc3c2NGZTNUeTFF?oc=5",
+        "date": "2026-07-19T17:10:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Así será el resultado de Argentina - España según la inteligencia artificial",
         "description": "Así será el resultado de Argentina - España según la inteligencia artificial TyC Sports",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3NERDVKRDhhcFRaM0tidG5oOHE0ei16U2k3NHd4NWZiTlNhQTc0SF9taXJVbHJZWkcyVjctd3lKSV9WZktkdG15dWphZzNvNlZ3RUVhVTV0UU44TE5OZENhWkFUSnh4TkJhZWZTd1BlOWl4SzItU0FSQ1hFRlJTMHB5aFBIOXd1YVYzX3F4aU1zdDdVdTB6Ukx5RzhhaGk5NFpoSzU3bnh0bmxTUmE2NVJQUGtnV0J1dFBwT2hn?oc=5",
@@ -133,13 +140,6 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "Elon Musk advierte que está profesión ya no será necesaria a “finales de este año” por la IA",
-        "description": "Elon Musk advierte que está profesión ya no será necesaria a “finales de este año” por la IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1pvOGZRcXpWUkFqbndCZ3VLNXY3Szl4a1psTHVQcU1acTZkeFcwNHQzaDRCUzBWckpsUF8zVldsUG42OFMzdGQ0XzdZbEtBTjhTOVZQMUQyb05kMU5iWWJ3RE1hUEpJelZhcTd4U181X0ZseG1jN19acU1HRG1TOHliVW9mMkV5MzlHSy04ME5yQXF6RlExOW1kUWZ5Z0wwTTVucDhsVVdUN09WWDVDZUFNRU9KeUdRMGNEMWdRQk5aZXZadmk3cVFWM23SAecBQVVfeXFMT3d1OWtEeEhKTi1FSEIyaDhFTnlDY0Y2UkNtU05jOGxzamh4aThqdTMtSGdCN3pua3lpalRTb2V6T25LOHBmSWx3RGxDMEZSeUlmZjN3YmV5N1I3QXJyNmRnT3FFWTR1UDg1ejFhbVlodENxajYtZ09VeGFtN1dQQzJxYTFUd1Q5VjBBdVAxTk9VaVFPejh0REIzdG0zUEZsQklsdjc4U1BqcHlydm5URXBidzNPdDVmckVQbTg3a2wxSXJid0hXdTVlUEVmczJqOWVCRUFGY0dVc2hvTFc3c2NGZTNUeTFF?oc=5",
-        "date": "2026-07-19T17:10:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS - TN",
         "description": "Dilma Rousseff defendió la inteligencia artificial de acceso abierto y dijo que le gustaría que la Argentina volviera a los BRICS TN",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSWgxZXctclM1R2ZTaVRRUFlEZ0oweW1fTkJCMnBDNzJUUURyTEtReUtwZVkyRW9pOWhPdFMtWEM5M1IzWmZtVi00NGg4U0Fmajg0YUUtN0Vma2ZmbUJiMUNZalNSUHpURG54Y1FfMHFyWncyaTYxS2NHV0VqS21HVzQyWFpGNEJtVVMwMjZMdGJxa3M3LTlmTFR2blRiYUc3ZnRwZ0pRUGd2dUNZSm45dG1uNERvLTVBRmkxc3hsTmJ5SE5jMmo5VmNYY3BVZ0NlLTlEWTU4a051aEhLWm9Tc25fY08wdnJTMURqYlJ1TElCVy14a0JkTmlhS2_SAZACQVVfeXFMUF9aUVNNVDRaR28xMldTSnRRYWV3cVA4Q2pfTzltNFJYY1E4MnVDU2t1U0J3TXVtaEpKWTR6Rlh3UERadVhoQ0RmT0dpUWJyTXQ0a2dDVjBFSlF0ZlNPOGdmaGZLbi1XMVlxTEUweUZzVlctejM0NjNFSlZ6LU03cGtWM0Z0ZzhXTHRjTXhhNjE0UjJ0VUxSMEVFd3VyclVrckxxcnBBV2Nta3U2TW53UzQxUThmUHptVjA3TXRpczdBcW43bzExT1ZCaGtOc0VVcTJ4ZG92RGdIWGFvbHRKc1h0MGpTcVUtaUdnTlpqSEl2b1h4aDF3c3g5enpHcGpJTkVyX3FOdXhmWWxUWW5QUTM?oc=5",
@@ -156,13 +156,6 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "Logística para Vaca Muerta: claves de la reactivación del tren",
-        "description": "Logística para Vaca Muerta: claves de la reactivación del tren Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORzZNNzBHdWxyNjRtY1F0NnF4RUZYVlVFSWctdmFPbmFKS3B2d2ZQdTlldXgybVBiNWFmWVlRUFhRVDRzRi1ISUZicEMyWm5PbjBCdGY5TlFJMHpTdUxwa2hVaDdLc2p2RXE4MmJaS1B0VXRTLVhRWWotZGdDT1FzNUZfb2RQUTluN0Y2UU54TE9LWjNJVkJQY0pEQzFvZzNOeUZZ0gGoAUFVX3lxTE82TkVwZmE5VjFaQUQ3Vks5V2VEWGx3QTdaNmpsNEJvUFFZMjNOZ1RVYzZQVElYNjlrYzVqR2pEdU42RWFvRjdMLXU4MHpwMjVJeTVMSVYyWFFtbXdtX0NpcDRGTHNoVHI2XzhDenlKSDdFTU1pNWp0NFNDNE5lREd1SUgtZlY2eU02a3Nuc292dnd0dWxxaVJMN1VfQzhja1pQT3hSR3g2Zw?oc=5",
-        "date": "2026-07-17T15:54:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
         "title": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares",
         "description": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JcHA1dUkwVVNwMGlqQ1FONFZ6MV9oU0NTb1ZpLXpsYmpZVno0R1VHY3dFcl9oakM2d2I1TF9xNUR2a09SM1JmdUlqbEQ4MnYtTHkwZjZycVpxdGFEb3J1TDllSTNZSWdqNE5ZX3FsemgyNGNPSmkwckNmUDU?oc=5",
@@ -177,18 +170,25 @@
         "source": "Página|12"
       },
       {
-        "title": "La obra clave para ganar el Mundial de Vaca Muerta",
-        "description": "La obra clave para ganar el Mundial de Vaca Muerta El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnJCb3dxLWwzNHpDd0ZtQjI2eWFWWmIyZFlzc3NCWUZyeDY1c0d1dTNZU1VUMGNvcVVvTUJ1bHEyVmdDb0tROVFWOTZIQjlxcWE5bVV0MjhjVWl0TDhqajljdkNlZHh2QUxrOWl1dXU1U2RVVGo3RkRkQUtEeGROYXk1MHNUVUlzT2VXbHB4UDNicHZrcFJLQm5R?oc=5",
-        "date": "2026-07-19T15:49:20+00:00",
-        "source": "El Cronista"
-      },
-      {
         "title": "Vaca Muerta: los ductos que impulsa YPF y las derrotas que acumula Paolo Rocca",
         "description": "Vaca Muerta: los ductos que impulsa YPF y las derrotas que acumula Paolo Rocca Letra P",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXc0by1GWHRKNE5heUxvZG9fZ3lMRDRLUlV3QlN5V01ZTlJjRU14Q3J0aFdHb09qekpRWkY5am5rOVBVbnJzSHloUnpuOUc0M3JzMFEwbmktWU5LbTJIWEdrOW5MNVM4WUNTcnFsSUFoTnF6bHgtdEo4OGFnODBoUGFUZmNiRUxXbERITjZjeXJReEFDT2VXVFpxcm56ZzdVLTMzcE5YWk5wc0E0MnNFUHZyR0xKVnZieUxxTFRn0gHDAUFVX3lxTE1jZVRGYS03WTlKSUhicVpCZTRzTU13TTZIaUxhRkdEbmtIUWxXSXNZOUF0R2xWTS1uRU4tSnBURGI1ZGI1OUpJNmtNRy1VU0pMcWFLTmJ4TGR3c0FlQmViaE9tVkdlcURmQ3IxbG1tWTd2NXhMZjNTSDFNc2NBRjVMQXhpX205SkljTEVJcGpwUmlTa1YyaFEtLVg0a3pDNXptbVlhRURENnFDd3MzRUQwSEtqMG16YkVkeDVUNGJmUGg5TQ?oc=5",
         "date": "2026-07-19T12:31:00+00:00",
         "source": "Letra P"
+      },
+      {
+        "title": "Vaca Muerta al mundo: la \"superflota\" del proyecto VMOS ya navega hacia Punta Colorada",
+        "description": "Vaca Muerta al mundo: la \"superflota\" del proyecto VMOS ya navega hacia Punta Colorada Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGJLcEdkOG9hN0ZkdWxiMmw0STN3djJBdzVpTThseFFrc1ZLQXN5d2JpUEdjWEU4V0ptVlBGZTNLS2Zrb2VVLTdieUl5dVpxLWtkTXFWbWZLbWdtUGY5N082QldlSGNGWTRrS0FqdmZXU2tKOUZXcUtnZDhycFBoQnYyZm55UkhfUm5DcWMwQ2V5eWx5aXA4RFZtN1dpbGlFakJjbVVUNTNVNVNIdXpHTEZUNNIBuAFBVV95cUxPNU94SEkzRGRUblJkX0dnekFuVDNWaWI4N1FxaUZQR0J2LS1vTjd0eC1nUXFuU1laN2ZlaFZ2UzdsMGhOTllwLWRZVUptN2QxQWZpejdxTmUzUzF6RmR2QV93X3ZzRWRoYzBpU09wSzFaT3R5a21IcVJVYXpkc1N6QVNBS1JMVElnY002andjRzhXVVo3TkZ6NXFXSHN0SG9hUzRVT3ZxcU9mZjhaeDN5UDZkcEIxMXM1?oc=5",
+        "date": "2026-07-17T11:35:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "El tridente ofensivo de la actual economía argentina: en 2026 agro, energía y minería liquidarán un récord histórico de dólares",
+        "description": "El tridente ofensivo de la actual economía argentina: en 2026 agro, energía y minería liquidarán un récord histórico de dólares Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRUMyLWU2d2d5Z3ZIQVB6NzRxMnJBdWgtR2k0VHRBZEg3S21xUlpteTZnOTRwVUZoQXFObTlLZlRDaV9VaFJpYmNPaDdTVGFGb2xLVk1nMkVaYWZGeVdSaUNvZU1mUThnY29wdzJJYlA1STY4LWFLR3FyOC1zTy1pLUFlRzFVMGh3bWtFTTd0azRnQ1puV183OUtsa1Jma1ZEN1VRdENKeUhlQjJoeGdGbHp6ekYxelFaSzlicUlwSG56VzJrLW9uekJlekhNeFZPZUpOOXRqSnl1Yklfal9OT3RqNGlIT0lJUEJlVW9oRWQtMUFPQUJSWXZscXdJZk3SAZoCQVVfeXFMTnZQeTRQQWNIaVlUUlFTU2x2Y29tMEt1aUFVYVYwa3ZrMTFQeVRrOUlTMWx2aTlfNDhiRUpER0J5dHIwQ0xUUTJLbmN2UkM5UW82UTIwNUhhaV94TXNmVkxnRjJneFBCX0h3dTlrNWcyMDF1aXkwQ21MRzdBZjhzT21DX3o1ZDQwbi1NRS1OUmtfd3Nod2NhMXVaT2NZNERDM1NVUF9ncTRMcm5reXVqTWNQSVh5VG9MWnZQbXI1R21GdzhwT2pUSldsUS1BZTduemVCVVpMdXFaQUoxTmt2U2RZb01rRXlvYWJuWV9vMVJkZVIxOHdDUXlNMnUzM0NxRmlLbEZJN2k0dDJZOFNRamhGd1l0NmhrVHln?oc=5",
+        "date": "2026-07-18T15:59:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Neuquén aprovecha el boom de Vaca Muerta y sale a buscar dólares al mercado internacional por primera vez en casi 10 años",
@@ -198,11 +198,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "El tridente ofensivo de la actual economía argentina: en 2026 agro, energía y minería liquidarán un récord histórico de dólares",
-        "description": "El tridente ofensivo de la actual economía argentina: en 2026 agro, energía y minería liquidarán un récord histórico de dólares Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRUMyLWU2d2d5Z3ZIQVB6NzRxMnJBdWgtR2k0VHRBZEg3S21xUlpteTZnOTRwVUZoQXFObTlLZlRDaV9VaFJpYmNPaDdTVGFGb2xLVk1nMkVaYWZGeVdSaUNvZU1mUThnY29wdzJJYlA1STY4LWFLR3FyOC1zTy1pLUFlRzFVMGh3bWtFTTd0azRnQ1puV183OUtsa1Jma1ZEN1VRdENKeUhlQjJoeGdGbHp6ekYxelFaSzlicUlwSG56VzJrLW9uekJlekhNeFZPZUpOOXRqSnl1Yklfal9OT3RqNGlIT0lJUEJlVW9oRWQtMUFPQUJSWXZscXdJZk3SAZoCQVVfeXFMTnZQeTRQQWNIaVlUUlFTU2x2Y29tMEt1aUFVYVYwa3ZrMTFQeVRrOUlTMWx2aTlfNDhiRUpER0J5dHIwQ0xUUTJLbmN2UkM5UW82UTIwNUhhaV94TXNmVkxnRjJneFBCX0h3dTlrNWcyMDF1aXkwQ21MRzdBZjhzT21DX3o1ZDQwbi1NRS1OUmtfd3Nod2NhMXVaT2NZNERDM1NVUF9ncTRMcm5reXVqTWNQSVh5VG9MWnZQbXI1R21GdzhwT2pUSldsUS1BZTduemVCVVpMdXFaQUoxTmt2U2RZb01rRXlvYWJuWV9vMVJkZVIxOHdDUXlNMnUzM0NxRmlLbEZJN2k0dDJZOFNRamhGd1l0NmhrVHln?oc=5",
-        "date": "2026-07-18T15:59:00+00:00",
-        "source": "Infobae"
+        "title": "Vaca Muerta suma un nuevo perforador de última generación",
+        "description": "Vaca Muerta suma un nuevo perforador de última generación Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYzB6bUxmLVFlbTZqb2lybGlnMlR0T1N5ckRnOXYxb0I4Y25GSld2VUNxZzdrNkU4XzkyT0t3S290d2J1VFVuS2xXYm9nOWtuVWh6aTZ0ajRiNHdvUUVZTzRaQ2tmYl9SYU9ldWtyNDljY01KdjJxYk1wRWYtTWY4ZGY0TG5rX3FncnZSc21jUmpoWGliVDMxbTkxNkdCSDJR0gGmAUFVX3lxTE5FOWtMaFFNY0RlMGllS0ZTeWRWT0c2czdoZzZNNlYxTTFvc0FXSlBUM1d4OGl2WENPVkdBRklkbmczZG9vRFhZUVVndGNXQnJoRmtQUm1fdWFMMnFNMEQxNE5YNExPVmc4OHBLcUNYRVNVSjcxOXNyZEgyeFZ3Q3FiYWM0bFBmcENuQzY3NjJPOFlzUm1ieWhYTFl1ZkVCM1dEbXJtRkE?oc=5",
+        "date": "2026-07-17T15:31:00+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
