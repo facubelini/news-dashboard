@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-20T19:37:29Z",
+  "updated_at": "2026-07-20T21:05:53Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft Azure incorpora AMD Helios para acelerar la inteligencia artificial empresarial",
-        "description": "Microsoft Azure incorpora AMD Helios para acelerar la inteligencia artificial empresarial ITSitio",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb19KeXlyOHJoNG51VzBlQWVERWwtV2oyY3ZhSG9keGFyd0dhVEowQmR2Sjk3eWh0S1NNSVR2V1lKc3ZmVU9QZEtWckg3QVlYajJqT2VkdVNYU3E1VFdZZ1ZWSzZsUW9WRmtIVnNEU0RTMzVjSjRFcWZSOFBQZEZBeTV0UnU0M29maFVqeXJXX0dtbWxiVUczbHdLZTRfSkJhUmpBM0txWE5kMXlmV3hOdVFENFRiQmZRdERrcXc1Z1I0LTdycHpGNm1R?oc=5",
-        "date": "2026-07-20T17:52:59+00:00",
-        "source": "ITSitio"
-      },
       {
         "title": "Microsoft en resistencia Ichimoku: niveles en tiempo real",
         "description": "Microsoft en resistencia Ichimoku: niveles en tiempo real Investing.com España",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGJ1M0dTeE85TXB6a0NxbkZWV1dKRUFBNVQ5Vl9tcDNjZ2lCdkVYWVlvUUxKN3hxNjRHSjg2bG5PR1ptV2dsVnB2Wk5seGpNSmtDVWZCaXI5YVdoRjE0UjE2SndhSmo1cGdqX191MldkVHB0bXNrNWZnWndHOVlWV19kcTlWcWxKY2Zqejl0X1RfbHJ5MjBtZ1hqLUlHUXpEdFVlSEdBTWRtX0lhS0o1WF9GQjZ2WmVV?oc=5",
         "date": "2026-07-20T14:04:00+00:00",
         "source": "Investing.com España"
+      },
+      {
+        "title": "Microsoft Azure incorpora AMD Helios para acelerar la inteligencia artificial empresarial",
+        "description": "Microsoft Azure incorpora AMD Helios para acelerar la inteligencia artificial empresarial ITSitio",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb19KeXlyOHJoNG51VzBlQWVERWwtV2oyY3ZhSG9keGFyd0dhVEowQmR2Sjk3eWh0S1NNSVR2V1lKc3ZmVU9QZEtWckg3QVlYajJqT2VkdVNYU3E1VFdZZ1ZWSzZsUW9WRmtIVnNEU0RTMzVjSjRFcWZSOFBQZEZBeTV0UnU0M29maFVqeXJXX0dtbWxiVUczbHdLZTRfSkJhUmpBM0txWE5kMXlmV3hOdVFENFRiQmZRdERrcXc1Z1I0LTdycHpGNm1R?oc=5",
+        "date": "2026-07-20T17:52:59+00:00",
+        "source": "ITSitio"
       },
       {
         "title": "Microsoft 365 se convierte en escondite para el malware HOLLOWGRAPH",
@@ -56,7 +56,7 @@
       {
         "title": "Capacitación en marketing digital para escuelas especiales en Varela",
         "description": "Capacitación en marketing digital para escuelas especiales en Varela Cuatro Medios",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRFk4bktxMS05TUxlc1pTeG9RdGtPeUNTZ0lxZU9abURmcDhWMHc5N1hvYmFHSDFSd0RGekdNOGQ0MDdmNnFYRTVoLUZGNkhTMGxIa3JValB6dVhOR3RXek1aSzRfMWJJZWFaRUxfcEIzc1JYM0NXRXB4aERhSUpQaVFUM3VCancyRmYtbjlnVUM5OTVHRzJXZXA2NmpqM1dlUkpMYlQ1UUhURTBLVUNRWGdsNjE5QjN2UmZwc2o4ZnJuVkw0Ti12bFZnS1d5bzBHMG8tQVlzdF9RSHRKUU5NZEdQbTRtZWxKZkFaNXhmMndIVDhU0gH0AUFVX3lxTE9EWThuS3ExLTlNTGVzWlN4b1F0a095Q1NnSXFlT1ptRGZwOFYwdzk3WG9iYUdIMVJ3REZ6R004ZDQwN2Y2cVhFNWgtRkY2SFMwbEhrclVqUHp1WE5HdFd6TVpLNF8xYkllYVpFTF9wQjNzUlgzQ1dFcHhoRGFJSlBpUVQzdUJqdzJGZi1uOWdVQzk5NUdHMldlcDY2amozV2VSSkxiVDVRSFRFMEtVQ1FYZ2w2MTlCM3ZSZnBzajhmcm5WTDROLXZsVmdLV3lvMEcwby1BWXN0X1FIdEpRTk1kR1BtNG1lbEpmQVo1eGYyd0hUOFQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNG9hQlNfUmRSZk90Rk00cjl1UTdYSW85RjZpQWZ4VFF5eEI0RDZ1QUVqMjAya2pyTWxUTzl6elpNU0cyQWJDX2ZNY1NWUjhNbzJzcmYxekx4OFBGcXk3Vk9jZ1JRWllqOXU5clJWTXJHM3ZNQ2M1bFRMRDNZb2tzaUw3cS1la2U1bjV4bU9UYlVOUzhFaDBKOHF0MGowckRRTG5zY0pzVl80c2VQcFF0TUNiWkdOS1RBZUxQcks0YW1Dd1dHd2R5NFpTNjlod1ZaYV9IemVjSW5FYXZlcTI2Zy02aFhnM1hKRUJqM1pzb9IB9AFBVV95cUxPRFk4bktxMS05TUxlc1pTeG9RdGtPeUNTZ0lxZU9abURmcDhWMHc5N1hvYmFHSDFSd0RGekdNOGQ0MDdmNnFYRTVoLUZGNkhTMGxIa3JValB6dVhOR3RXek1aSzRfMWJJZWFaRUxfcEIzc1JYM0NXRXB4aERhSUpQaVFUM3VCancyRmYtbjlnVUM5OTVHRzJXZXA2NmpqM1dlUkpMYlQ1UUhURTBLVUNRWGdsNjE5QjN2UmZwc2o4ZnJuVkw0Ti12bFZnS1d5bzBHMG8tQVlzdF9RSHRKUU5NZEdQbTRtZWxKZkFaNXhmMndIVDhU?oc=5",
         "date": "2026-07-20T17:09:56+00:00",
         "source": "Cuatro Medios"
       },
@@ -82,18 +82,18 @@
         "source": "LM Cipolletti"
       },
       {
-        "title": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación",
-        "description": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFVfZllQb21rUFBaQmhVbU5pSHItaVlqX1c1UDExVVBKWWtOQU1OY1hfWnV3aGFOMkhNSVZLQkV6Y1dHLVNIRmg0elVRR2c0TUpkSjdCUXNJVl9OXzlKR1N3cjJkN0R4d1J5dUNqdnRWSTlSUzg1WldjZnQ0LTN6dThGcXVScXhoSEtGVXlIXzlyQ1JDdzl1OXRHMDBvUld4bVUxWk1GUkZyQ2FNQ0FyM3FxS3ZSUUJ2Y1lNMXkxZ3RwTlR4R3hYeXZKNU9SUjZHYnc?oc=5",
-        "date": "2026-07-20T09:08:39+00:00",
-        "source": "PuroMarketing"
-      },
-      {
         "title": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios",
         "description": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios Rosario3",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1Q1ZXVWSmNsel9LeDhBa2dHRGxtQWZqQXZ4bzQyQl85YmM2OHJ4T0FmekFvN1RZTDRhaVEwa1lZQlhiODN6S0tPLU5MWVpxUDdSalRhMmpWQU5jNUlEejAwZVF6Q2wtSkNKamFHZ096Z1dDMFAxNVpMYzZ6S3JMODhENzhpNFhxX2o2aWdFbTVSS1FySTlhOXhjOVV1c0R1cXFDMGVOSHZ6RTd5Z0R0bnZKQXB5ckdtRzBQMk9ickNKcEhPRV80ZkRocWI5SkljeVAzZQ?oc=5",
         "date": "2026-07-17T16:13:26+00:00",
         "source": "Rosario3"
+      },
+      {
+        "title": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación",
+        "description": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación PuroMarketing",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFVfZllQb21rUFBaQmhVbU5pSHItaVlqX1c1UDExVVBKWWtOQU1OY1hfWnV3aGFOMkhNSVZLQkV6Y1dHLVNIRmg0elVRR2c0TUpkSjdCUXNJVl9OXzlKR1N3cjJkN0R4d1J5dUNqdnRWSTlSUzg1WldjZnQ0LTN6dThGcXVScXhoSEtGVXlIXzlyQ1JDdzl1OXRHMDBvUld4bVUxWk1GUkZyQ2FNQ0FyM3FxS3ZSUUJ2Y1lNMXkxZ3RwTlR4R3hYeXZKNU9SUjZHYnc?oc=5",
+        "date": "2026-07-20T09:08:39+00:00",
+        "source": "PuroMarketing"
       },
       {
         "title": "Los creadores redefinen el marketing deportivo: la comunidad se convierte en el nuevo terreno de juego",
@@ -127,10 +127,10 @@
       },
       {
         "title": "» Inteligencia Artificial para el análisis de textos: Curso virtual del PMet en agosto",
-        "description": "» Inteligencia Artificial para el análisis de textos: Curso virtual del PMet en agosto UNSAM",
+        "description": "» Inteligencia Artificial para el análisis de textos: Curso virtual del PMet en agosto unsam",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTd1VTVuOEUwSktCV3k1VzJqVXIwbnNfLU8xVFBjNkNpdFZxWmlXZmFyMkY5TWNJUEUzdEp0R1pVQ2lpOVdDRUVabHU5YWJTZ281c1E0R3lSbk5nWjEzcGpaVHM4RlQxUlYyYTYyR0FLQk05SlNRMS1BR05uRVlDc3h3c1NPOGNVUzJ5TWlwMklFNEZHS1V5WFlKUUdQemFVTVNMRmE3eFNxTzYwcGw3TEhjTml4R2hoUGhRZWxoQmh0VDg?oc=5",
         "date": "2026-07-20T17:46:22+00:00",
-        "source": "UNSAM"
+        "source": "unsam"
       },
       {
         "title": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial",
@@ -170,18 +170,18 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "San Juan busca replicar el Instituto Vaca Muerta para formar la mano de obra que demanda la minería",
-        "description": "San Juan busca replicar el Instituto Vaca Muerta para formar la mano de obra que demanda la minería Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaURQM21NZXNnTlF4bkRWWnBPSDRzTmRGNEJYVnRQQ0g3N0pLa0VMT0RFSzFKVS1aV3c1NWZZUHRzZU9tSEtyallhVk9YMzM2b0dITnRFNjM2QmM1bURZWnpkU1h4X2hvYTZLcGF5T25lTzlWa0JwTGJoUU4tNTNwVTFFZ1U3N3BwS1B5SE1YWURybkVCTk43eEJ4ZjZVdW9JbEJYU0RRbmczVVoxMU1KOWlOLUNUdklWbmRhNEdYdFd1cmxIWUlTbU9GNWtiblZv0gHWAUFVX3lxTE85Z1UwbE5YSFhYanZGZmE1ZFBPSGI2R05fZ1I5N21yT0lGYXVwS1hOalVLV2hBRjZuNWdTWlNhTDhXa08tVW9EWHdnNkVWQ2QxSkFUSlF1cWhoNmdmU2pGa2FsQjRmUGswWGF3RVNyYjVkcWpSM3Z5VC1GV05OTGZNT2VaUFNXb1NEalNVN1NXVVROY2JQbmRDLUk0X1NXMXdPWG5Fc0JiU1ZRX1NOSlpvblNVS0daM2dyOWdrd3ZQeGt3bFR1YlNBS1FWYWIyU0IwckxrbXc?oc=5",
-        "date": "2026-07-20T19:15:25+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
         "title": "De la Cuba de Castro a Vaca Muerta: la historia de los hermanos que ganaron la obra energética más grande de la Argentina",
         "description": "De la Cuba de Castro a Vaca Muerta: la historia de los hermanos que ganaron la obra energética más grande de la Argentina La Nación",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1R0aXhuQ0ZFUFZ4RmNIWFV4aloxTXM0TE5Ed0xzMEhHMG5HOVM0ZGhROHJ0bXNtU1ZOdl9VTE4wSm4yMnNKbk94aUZQc2VfWnJtdnhiMzhlQ0dRVllZektaeTBHcTBUaFdpeFdWenYyTm9PdkJVSEE1R1dKNGlpaDJ4TFlHY3B2Q3B2S2NMU1RYcldVQVVKeTVfWFNvWGctNmxkVmFwTVREZVBLUUxISjRQeDRBZFlIdi03bkFNT2ZabXdEaFlKZXVTRUlEMjFBNXotQi1QRTZMRVJsM2dNQw?oc=5",
         "date": "2026-07-20T14:04:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Neuquén emite un bono internacional por hasta US$500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta",
+        "description": "Neuquén emite un bono internacional por hasta US$500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjdfc3drcXA1TFFOX1NWOXN2SkpCVXZRdFVLYjFnWlEwNGpiYlhYTGZFNVR3WXlNTU1zMWx3LTdPbXpycUFfaUowc3FfcGs0TGR5NkpkYUE2eXZPWHZqWkJCZUI1TXg4Q3R6Q2UybEZDSmY0cmZJQlRZQXo1THdVWVpfQ2FFTVJfZHpxTmtrM2I1NXF3WU91Rl8tN1I5QVhhOWZKaA?oc=5",
+        "date": "2026-07-20T19:54:21+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Por qué transformar Vaca Muerta en desarrollo",
@@ -198,11 +198,11 @@
         "source": "Pescare"
       },
       {
-        "title": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares",
-        "description": "Vaca Muerta: Halliburton operará un fracturador eléctrico que demandará un consumo de energía equivalente a una ciudad de 30 mil hogares econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JcHA1dUkwVVNwMGlqQ1FONFZ6MV9oU0NTb1ZpLXpsYmpZVno0R1VHY3dFcl9oakM2d2I1TF9xNUR2a09SM1JmdUlqbEQ4MnYtTHkwZjZycVpxdGFEb3J1TDllSTNZSWdqNE5ZX3FsemgyNGNPSmkwckNmUDU?oc=5",
-        "date": "2026-07-17T22:46:52+00:00",
-        "source": "econojournal.com.ar"
+        "title": "La obra clave para ganar el Mundial de Vaca Muerta",
+        "description": "La obra clave para ganar el Mundial de Vaca Muerta El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSnJCb3dxLWwzNHpDd0ZtQjI2eWFWWmIyZFlzc3NCWUZyeDY1c0d1dTNZU1VUMGNvcVVvTUJ1bHEyVmdDb0tROVFWOTZIQjlxcWE5bVV0MjhjVWl0TDhqajljdkNlZHh2QUxrOWl1dXU1U2RVVGo3RkRkQUtEeGROYXk1MHNUVUlzT2VXbHB4UDNicHZrcFJLQm5R?oc=5",
+        "date": "2026-07-19T15:49:20+00:00",
+        "source": "El Cronista"
       }
     ]
   }
