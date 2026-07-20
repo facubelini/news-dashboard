@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T22:53:52Z",
+  "updated_at": "2026-07-20T23:52:57Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW9qNXNhaVVnVmFfNkVTR1FmQXNEN1RnZlZRbGNmZmJBUFJJZmdDZVB0TFo3WDRJTVhOX19KWGdOUG0tTUR1RGRoaDdjcVdwUUJuUDRKRlVCcTN4eEhtbUhXWjF2NThDaWZuMXhvUHk4YzlpS0xMTXNzemhuUlVEcXd0S2dBM0lrbjF1NHVsT0pwWGswZE03d3pGYVk1YWM1Nk5nbnNJWm1DbUdxVFp5RXJzZ0plQ0hHQXdj0gHPAUFVX3lxTE1wOU9YSEE5ejlNd2ZGeUpHZDMwWHd2ZTdoZjFCYjJreFZMUlJTcjFjaDZpRnpzVzJXWHBlRkdQd1l2SUp3ZUs4Z2dTMVNjVFRMVDdSYmZBYVBCWWR1azZwSUZKNnFiUHRXc1ZNUlBPaWcxbDgzVXI1RWs1WEM5ZmRnYlA1anNpYnV5WmNweFAyTXFBU2Nmbkk4bnJwRmg3SG5NU2dqNjhMZnF2NlRwSjVTRUpNNHJ6Z00yTnl4LXliYzBEaXJEckJkajh5dnROZw?oc=5",
         "date": "2026-07-20T20:44:03+00:00",
         "source": "Bloomberg Línea"
+      },
+      {
+        "title": "AMD y Microsoft potencian la IA en Azure con chips EPYC",
+        "description": "AMD y Microsoft potencian la IA en Azure con chips EPYC Enfasys",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mUU5NVGpLZllPWlZrUkx3UXV3Z2plWHZqZVY2M2swU0xSaDlpNnlFeTRVLUd4cE9pVTIzc2VKbWx3b2Vxdm5fbGdUUTR1d0YwMGpZdmM3ZTJpcEtBbGJqM1ROYnBOY201WWpYVVM1clZHZDVpdDFJMkpR?oc=5",
+        "date": "2026-07-20T19:25:26+00:00",
+        "source": "Enfasys"
       },
       {
         "title": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street",
@@ -38,18 +45,11 @@
         "source": "DiarioBitcoin"
       },
       {
-        "title": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios",
-        "description": "Microsoft rompió el récord de vulnerabilidades: la velocidad de la IA impacta en empresas y usuarios Brodersen | Dark News",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQnFHNzcyOXFxQVJFc05MbUNYeVcwTlk2S2hqTHU2SFd4SU5OTEs5aG9PNXU4ZndhaEhrMnhWdXlleU42VGlUa2VJTFVlZGxMeWliYi1rTWRxSjBBM3RheXhEVkFUSGw3ZnFVSjVsM0ZHRi1aaC1jYVJ0QWN4NnpZRENHd0xxcVV5VHc?oc=5",
-        "date": "2026-07-17T10:54:40+00:00",
-        "source": "Brodersen | Dark News"
-      },
-      {
-        "title": "La sorprendente razón por la que Bill Gates prefiere perezosos para los trabajos más difíciles",
-        "description": "La sorprendente razón por la que Bill Gates prefiere perezosos para los trabajos más difíciles Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEtFOTdvbWNWYzNEaXFsT1dOcXo4elAwUGRaNXlYZHlDWGx4V2dZV0F5OHJUaVFhQVczaDl0LTg1blZGTXpuaURZbHZmd1RHYk9GQUdtazc4UWZ1TkdSelpmRF9Rd0lXUGs2clVvODRFS2gwV21lS3hsTHJUUEZnX3lKbHRZV1dHME5FMjRQZmNnWVQyYnRtaUEteFNYZldCXzZIZW9peTBFbVFXWlFWLU9HemxxTmhZUTQ3djNGTXJKNmk1eXBSRTZjRnpWYjJzTEE?oc=5",
-        "date": "2026-07-20T16:57:51+00:00",
-        "source": "Infobae"
+        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
+        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
+        "date": "2026-07-01T07:00:00+00:00",
+        "source": "Ambito"
       }
     ],
     "Marketing": [
@@ -89,27 +89,41 @@
         "source": "Rosario3"
       },
       {
-        "title": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación",
-        "description": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFVfZllQb21rUFBaQmhVbU5pSHItaVlqX1c1UDExVVBKWWtOQU1OY1hfWnV3aGFOMkhNSVZLQkV6Y1dHLVNIRmg0elVRR2c0TUpkSjdCUXNJVl9OXzlKR1N3cjJkN0R4d1J5dUNqdnRWSTlSUzg1WldjZnQ0LTN6dThGcXVScXhoSEtGVXlIXzlyQ1JDdzl1OXRHMDBvUld4bVUxWk1GUkZyQ2FNQ0FyM3FxS3ZSUUJ2Y1lNMXkxZ3RwTlR4R3hYeXZKNU9SUjZHYnc?oc=5",
-        "date": "2026-07-20T09:08:39+00:00",
-        "source": "PuroMarketing"
-      },
-      {
         "title": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS",
         "description": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS sanrafael.gov.ar",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMyX3laOE9yY1VEaFN4bE5IWWZqY29yeTBxczJJeTJZajk0NkRJU3BOSU5ReU1tODB4TTZldTJHUDFtYzJ3MGV6MmN0YWVhRzJLZkhHLURyblgwZWRNd1ZiSk5SQXRXYmlZazFrRFNPZEd3LWRPWWtsczNpR21PS2RFWTNEMElGUUJmQnUtWF9WMXVRUDZkRl82aDYtczNCbmFNc09XSE96VVgwSm4wX0laMXh3QklrTU9HUWxiYjl3QW1ycWc?oc=5",
         "date": "2026-06-25T07:00:00+00:00",
         "source": "sanrafael.gov.ar"
+      },
+      {
+        "title": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación",
+        "description": "202 Digital Reputation: la regulación europea abre una vía legal para eliminar contenido digital que daña la reputación PuroMarketing",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFVfZllQb21rUFBaQmhVbU5pSHItaVlqX1c1UDExVVBKWWtOQU1OY1hfWnV3aGFOMkhNSVZLQkV6Y1dHLVNIRmg0elVRR2c0TUpkSjdCUXNJVl9OXzlKR1N3cjJkN0R4d1J5dUNqdnRWSTlSUzg1WldjZnQ0LTN6dThGcXVScXhoSEtGVXlIXzlyQ1JDdzl1OXRHMDBvUld4bVUxWk1GUkZyQ2FNQ0FyM3FxS3ZSUUJ2Y1lNMXkxZ3RwTlR4R3hYeXZKNU9SUjZHYnc?oc=5",
+        "date": "2026-07-20T09:08:39+00:00",
+        "source": "PuroMarketing"
       }
     ],
     "IA": [
       {
-        "title": "Google está construyendo una reja de IA alrededor de la Internet libre que alguna vez defendió",
-        "description": "Google está construyendo una reja de IA alrededor de la Internet libre que alguna vez defendió Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWMxbmliQzNycmhudzUyQWI2N1NBYkMzQV9mMi1CRk16N1pUSVJoUWZQak5zWjEyWEZDdlhxai0xbkpmQXdIa2xtX1pPcTNfcTBEMHdhYmFKbFk2amVMZDZWaTJVOVY5ajZSZUhKbnJINUFxcFBndFZRQlVEVVZBUHdoelBnOVdIejFIbXg4OXI3VU8zbF9iTDk3amtsT2xxUUtsU2ZyS18wVmUxX0VCOHhkc3NIT0FtdXhJ0gHAAUFVX3lxTE13N2hhY1FrcUptRUhMN0lwelVrTnZxdHJSbno2Z1VlTmM0Tlg5d3lzZDNicXEwanNpYk9lX3diWnhQTFBNMUtNNzY3V3pTQ3dfQlllVGZwajBELVFQSGotZFluMEFyanpxZnVxMlZBME82Vk1tZlE1R2VxMWpwc21CYkdxQ1J3Q1BoRGNUZU1ZMTB1VWR2QldlYUNJck43Y3R6cHAxZkt2OWZONTF2UG8ySkllR1gxRHlOdTJKX3RMNQ?oc=5",
-        "date": "2026-07-20T21:16:15+00:00",
+        "title": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN",
+        "description": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN Gobierno del Chaco",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEJFbWRGZnlxQWowaGVWMlNhenc1akVoQjFhWGxOZGFjQ1k5bVl6NmpZcFNpY2lLcnk3c1oyU2k0d1NPOWNRVkNZbVZ6UjNzQS1EUmZuMmxvSnM1dHJkUXlxLWw2c3Nxd2lmZG1rWkNKLTMzM3B4ajBmN2kyNDlhb2VQbjFSZ1lycjJTRUJmX2pOcEtCWkNhN2FxamNfdFBOUFA2azdrLTVxN3VRcUtBekh1dURoUVZzeDI0UHJ5OFhRbmk0Rm9BNERqTk13c2xnZF9vYjZLaU9VNnNC?oc=5",
+        "date": "2026-07-20T23:09:11+00:00",
+        "source": "Gobierno del Chaco"
+      },
+      {
+        "title": "OpenAI presentó su primer dispositivo físico y sorprendió al mercado: así es el teclado Codex Micro",
+        "description": "OpenAI presentó su primer dispositivo físico y sorprendió al mercado: así es el teclado Codex Micro Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkhpOFZONFJoLThveDBHaDZfWVhhWWR5WDhmZVZYN0FZYmxtb1poV2lyLVJmWW9wT1lIQXMyZ3JVV2hiSm00QW1rVUpCUm50TFpHVTZkTlFQSWdMdTNDR3J3ZjJPbF9YYTJ1VVNnaHpHQl8yVDJRSG9PaUM3WGFOTFIyd0o3ZENIVWpwbHBjcm9GRVFfaEJtQmVjYUllai16TFRNeG5MY0xUZDA3ZmFOZHR2SWxSQ2t3QWZINGM5cERaUW8xOGpUNmt1VC3SAdIBQVVfeXFMUG5BdHAxWndBUGlvNmhFZzM3MHBFQXhxRGdqdXA4NGdVTzZMTFA4SHRRQ3NUT3k5TXBsejYxRGZ5ZFNTNVA1NDlNUV9vVzFBWU1XcUJhLTF5RmNqX2ROVWNCcDl0ejVRaXhxNnlHTXhGRTRGRHp4NTBMSTM3Y0xrRUwwd2lNUnM3T0Q1TkRvLTIxMWM2Z0pCRFBmUUZ3MXBfUlpiU0M3Y0VRQk5nNXZMLXZaY1RlZThyNlNkSmZFSXBpb1Axd21zb3NlWWVad0xIN1ZR?oc=5",
+        "date": "2026-07-20T08:45:48+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina",
+        "description": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina Agrofy News",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdl9mT0ZiMUlxY1N0aE55T2RLZ1k0QXR6emo3Y1I0QnJCSXNhcXltQ1cyRGhQYVFsa2ltRGdhcEpaSUx0VDhnbFNjLWhZWld2eEFGLXpPdzBpLTdJSk9pSFFOMFdLRHpPc0RfM2ZhTDF5cDlOTkJEV2g3RUczYTRNczNOY2NwcGVQeXRST3dwOHVoaUdwT01QNlBpa3o0UlpZTTMxanI1aDVxM3plbTE3UzJDdFhIS2JHd3hDOTd3eXh0d3Z1WGE2bXBVQQ?oc=5",
+        "date": "2026-07-20T19:59:12+00:00",
+        "source": "Agrofy News"
       },
       {
         "title": "Wall Street sufrió por partida doble: más por la inteligencia artificial, que por la guerra en Irán",
@@ -126,13 +140,6 @@
         "source": "unsam"
       },
       {
-        "title": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial",
-        "description": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzlGLWFkcEx3OExOclVGQmRqV3ZIM0lUNC1SR05TVFlTc3EtdXZ6dnp3cVlFSlF1bHRlNV85YmtlZjRPRlZhSEJyZV9WYl9xdFFaampZaXZIRm5aVExzRVd4YWlEb0ZfV0Rsc0hmRU1HaHZ3a1hkNzFWYk5HVF9nNkRDWnQ2bkc3OXpvdXVROE9rQW90NkhieTBoNDRYQXNVUEpsNXRVQ3cxUU94WUlOZGpCNnR1bUVhX0hfc1U2YXpKR1NjMUJkb0hFYWVzMWhN?oc=5",
-        "date": "2026-07-19T13:12:00+00:00",
-        "source": "Agencia de Noticias San Luis"
-      },
-      {
         "title": "“Cómo fortalecer la estrategia comercial con inteligencia artificial”, una nueva jornada de la Usina de Emprendedores",
         "description": "“Cómo fortalecer la estrategia comercial con inteligencia artificial”, una nueva jornada de la Usina de Emprendedores Cámara Argentina de Comercio y Servicios",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ29qeThTeGItcXBCQXpCWUNDWEd6OF9BVzFYRlBMVjBKWTNXVTZCUERLTEdVQnpuc2YtSlZhV1hGNzU3SHVTcVJNQjJSVVp2UGJ4RUtzTzRrTW13MllkN1ZvdHI2WjJrY0dFSS02SDdHSWF2UlhaSDBtVlhNZkZqbW55RVdMRVE5c09RRENsY1pyRXlNeUFieEViSTk5NWJUOVlDb25CU2dGbG40a29wQmo4LXM2VjBWb0RMWW1OUmJFZnRCb2Y0MEhvZEY5aEZJSFZVVkV3QkVWVTZENEg4?oc=5",
@@ -140,18 +147,11 @@
         "source": "Cámara Argentina de Comercio y Servicios"
       },
       {
-        "title": "Así será el resultado de Argentina - España según la inteligencia artificial",
-        "description": "Así será el resultado de Argentina - España según la inteligencia artificial TyC Sports",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb3NERDVKRDhhcFRaM0tidG5oOHE0ei16U2k3NHd4NWZiTlNhQTc0SF9taXJVbHJZWkcyVjctd3lKSV9WZktkdG15dWphZzNvNlZ3RUVhVTV0UU44TE5OZENhWkFUSnh4TkJhZWZTd1BlOWl4SzItU0FSQ1hFRlJTMHB5aFBIOXd1YVYzX3F4aU1zdDdVdTB6Ukx5RzhhaGk5NFpoSzU3bnh0bmxTUmE2NVJQUGtnV0J1dFBwT2hn?oc=5",
-        "date": "2026-07-19T18:43:12+00:00",
-        "source": "TyC Sports"
-      },
-      {
-        "title": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano",
-        "description": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano El Colombiano",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeElmNlJXYTVxWGEwbk9QeHV30gHPAUFVX3lxTFBVSVRGVHJBeTFWY0lkeTJXMmVlUzRnUUR3UFN5SUdPZlFoVW5JdGF1OU1oTERhVUpDTkx0M0d5Y3dpck05bE9ORVdPcEtVS3pyYVJldDgzWjRteXlueGNxanl0LUhXY2tXa0NGUVBkcHBTR0dGNTZsWUZqT1M3R1psaE9Sb2lIV1JtajdWbkRlY1VCemNjcmtrNU9oRXl5b0hjeUpwaVAxNVRadC15RDlsbDBNbUh6d3NjLUo0NHBUakNiRThldGszbTRQMmY2QQ?oc=5",
-        "date": "2026-07-18T16:30:31+00:00",
-        "source": "El Colombiano"
+        "title": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial",
+        "description": "El 23 de julio comenzará la segunda cohorte de la Diplomatura en Inteligencia Artificial Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPXzlGLWFkcEx3OExOclVGQmRqV3ZIM0lUNC1SR05TVFlTc3EtdXZ6dnp3cVlFSlF1bHRlNV85YmtlZjRPRlZhSEJyZV9WYl9xdFFaampZaXZIRm5aVExzRVd4YWlEb0ZfV0Rsc0hmRU1HaHZ3a1hkNzFWYk5HVF9nNkRDWnQ2bkc3OXpvdXVROE9rQW90NkhieTBoNDRYQXNVUEpsNXRVQ3cxUU94WUlOZGpCNnR1bUVhX0hfc1U2YXpKR1NjMUJkb0hFYWVzMWhN?oc=5",
+        "date": "2026-07-19T13:12:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       }
     ],
     "Vaca Muerta": [
@@ -184,6 +184,13 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "De la Cuba de Castro a Vaca Muerta: la historia de los hermanos que ganaron la obra energética más grande de la Argentina",
+        "description": "De la Cuba de Castro a Vaca Muerta: la historia de los hermanos que ganaron la obra energética más grande de la Argentina La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1R0aXhuQ0ZFUFZ4RmNIWFV4aloxTXM0TE5Ed0xzMEhHMG5HOVM0ZGhROHJ0bXNtU1ZOdl9VTE4wSm4yMnNKbk94aUZQc2VfWnJtdnhiMzhlQ0dRVllZektaeTBHcTBUaFdpeFdWenYyTm9PdkJVSEE1R1dKNGlpaDJ4TFlHY3B2Q3B2S2NMU1RYcldVQVVKeTVfWFNvWGctNmxkVmFwTVREZVBLUUxISjRQeDRBZFlIdi03bkFNT2ZabXdEaFlKZXVTRUlEMjFBNXotQi1QRTZMRVJsM2dNQw?oc=5",
+        "date": "2026-07-20T14:04:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "Invierten US$ 2700 millones para montar la planta de urea más grande de Latinoamérica: estará en Bahía Blanca y se espera que genere 2,1 millones de toneladas anuales",
         "description": "Invierten US$ 2700 millones para montar la planta de urea más grande de Latinoamérica: estará en Bahía Blanca y se espera que genere 2,1 millones de toneladas anuales Agrofy News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMURkQjNrME9FSThLZE9WV05ZWmZVWnJka010bnlGTENyYWszT0k4ajl0VUl2cFJtdTFhM0JJeEZfV25kY28yQ3VHMUpLcVdYb25hUHF1RGlTZkZYRGNUTkZySFM1RHFPcWtRLWswM0FYVjEwNkZZZGR4UjBtWGNRcE5heFAtMC1LcHQ3MmwtZFBHTWtvYzJWVXdpSVBtMk9GZ1VLS3RaV2dTNkQxOVp5ZzRR?oc=5",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeklsV3dDbW1SX2VtRWUwZ0JKdTVkY3lvbl9scjhPclotNVVFbEpOaUVsOWdINW1EX0pScG1UZ2FnblkySmtBenFkaEF4TDJmbk01OWxERmYtSUZHZUlrdnhlc2x5eGI2YnNkYVJSV0txcXpydjhjQkZTOVpJWFVJeGw1U1BMdVVWRUhzMC1yclNQNnVBSzA0a3g1amJpWlVDYjQ4TnN3R2FSWVNfMFc2V0tES1JMY3RKakxFT1g1ZEpkRl9UaThRZkhYd2tWVWhCMkNYMkV1blJEWjJkWEZmekNR0gHnAUFVX3lxTE51RXdxNV9nbkNhcVBJanUzZi03NTFGOXEtU1FXazRXMVpHcnZyT29kUjNUS0lKYTdtaF9lVW82MmpGS0RQZEJLMWVzei1HZ2VGTmdZZmo5b1dzbXhwcjV6ZlVtUThvS3lPQk5Icm1jVmVlTldLMV8wbXNJLWYwcEVmZ3N4SDNUaDZKS2F6UFBMeGFVdEhiMy1WWUVtTnhsZWhGVF81YndFNmRfbG15US1kRWFTOWF1OURqZmhqdm9wQjZPSzRRZHJDX1BmdkxzcDR5Y2Rsa29xME1QTTN5dklXb0gydjA2RQ?oc=5",
         "date": "2026-07-20T09:44:51+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta derrama hacia el agro: Argentina tendrá una de las plantas de urea más grandes del mundo",
-        "description": "Vaca Muerta derrama hacia el agro: Argentina tendrá una de las plantas de urea más grandes del mundo Infocampo",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWmJJQlhZU2xMelhtUjdMaWpyaVNxNU9wYUIwZ3FIMmZndlkwU29sOXE4dXA0N1JMMENTQ2I4Tzc0SVZXTHJaeldneUdCOUo4SFJDaFd1a2w4b055OTdYNzBmSkhmV3VQa3hYUnJTeUMwbE9sN2poVTdZcXdTUDhfeXU0Smp3M0RndGl1VWsyb19tS1Jjdy1mM05tbWlXUXlDcnNSVm1JUDJMeUxFVFd2THZiOUJWTkRJbjd1UGVOQl9UbHVTbFBoOA?oc=5",
-        "date": "2026-07-18T14:58:04+00:00",
-        "source": "Infocampo"
       }
     ]
   }
