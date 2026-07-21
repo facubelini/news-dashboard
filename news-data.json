@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-21T15:38:54Z",
+  "updated_at": "2026-07-21T17:11:01Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft firma un acuerdo con Mistral para ampliar la infraestructura europea de IA",
-        "description": "Microsoft firma un acuerdo con Mistral para ampliar la infraestructura europea de IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVNZN2MtZ2dtM1RYSHhNM3ZaUWthQTk0ZGpfbUxrc3AtOEEyUmZnS05jVy1OWEFfRldGSHU3MFZjRVlqRmkwSk10ZkxULTlYdVVxNDdWdjZ4Um5QcnBOZnZhaWZJdGl4cUpKUnNXRXVDVl9YWWNuUFRmYXR2UWZfX1JEVm9WcGZiMkg0ZERSOGJlVnFTd3dEenhwS21VNlVCMjdzNi1IQVRHMm9ocjI3cS1nYVo0aVJnQzJ5R3lWTkFOU0lOOXV3MFliTm5yVC1tZExz0gHuAUFVX3lxTE1aVXRSdXNYeExWMm0ycVp5akEzRDFLeFhTU0hfV093LWF1SmVpaFRBUlNlWEN6dHVxZDlyZENsYzRZUHNqbEtKbEltR1p4Qm5oa3V5X1BXNDZKMk5pcjdhMUx2R2lxY0ItbGVKLTJwWXFlZVBjT0FnU3diVkh0V2ZGdUZ2MjRVclM2ZGJZc0lrSXNBQ1pLZi13QmJMVE5NSFl4aTk2anMzczZoaDJZOWo2bnh1eWd5X0FlbHRKaC12N0FTUkNZeFhHNHJGSjJ2QjBFSDNCTFA1MXdxTW5scEc0eVNVc21vbVlubkRKdVE?oc=5",
-        "date": "2026-07-21T14:18:41+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "SpaceX negocia con el Pentágono para rivalizar con Microsoft, Amazon y Google",
         "description": "SpaceX negocia con el Pentágono para rivalizar con Microsoft, Amazon y Google Yahoo",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR29zdEdhLV94NmZNVWVfNVlNZlRzZzFTUzM2YUdocFFBWld3X3N1aTJRQWhhNU5mZjc3T3h0TEx2ZnducWozVkZrMTJpaFhkYWpuUHQ0MXI3RUlzY0pqSFRtcXVubFpFcTRUVFdoc0pYd3BlWGppNEdrNHUzdThiQ2NrWTBfNXk5R3JOdFkxZlY3bG9tZFp0cGN5Zk93Ym1PWlktLQ?oc=5",
         "date": "2026-07-20T15:45:08+00:00",
         "source": "Yahoo"
+      },
+      {
+        "title": "Microsoft firma un acuerdo con Mistral para ampliar la infraestructura europea de IA",
+        "description": "Microsoft firma un acuerdo con Mistral para ampliar la infraestructura europea de IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVNZN2MtZ2dtM1RYSHhNM3ZaUWthQTk0ZGpfbUxrc3AtOEEyUmZnS05jVy1OWEFfRldGSHU3MFZjRVlqRmkwSk10ZkxULTlYdVVxNDdWdjZ4Um5QcnBOZnZhaWZJdGl4cUpKUnNXRXVDVl9YWWNuUFRmYXR2UWZfX1JEVm9WcGZiMkg0ZERSOGJlVnFTd3dEenhwS21VNlVCMjdzNi1IQVRHMm9ocjI3cS1nYVo0aVJnQzJ5R3lWTkFOU0lOOXV3MFliTm5yVC1tZExz0gHuAUFVX3lxTE1aVXRSdXNYeExWMm0ycVp5akEzRDFLeFhTU0hfV093LWF1SmVpaFRBUlNlWEN6dHVxZDlyZENsYzRZUHNqbEtKbEltR1p4Qm5oa3V5X1BXNDZKMk5pcjdhMUx2R2lxY0ItbGVKLTJwWXFlZVBjT0FnU3diVkh0V2ZGdUZ2MjRVclM2ZGJZc0lrSXNBQ1pLZi13QmJMVE5NSFl4aTk2anMzczZoaDJZOWo2bnh1eWd5X0FlbHRKaC12N0FTUkNZeFhHNHJGSjJ2QjBFSDNCTFA1MXdxTW5scEc0eVNVc21vbVlubkRKdVE?oc=5",
+        "date": "2026-07-21T14:18:41+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Microsoft desplegará la plataforma de aceleración Helios de AMD en la nube de Azure",
@@ -54,6 +54,13 @@
     ],
     "Marketing": [
       {
+        "title": "Marketing digital: una propuesta de formación para emprendedores - Cadena Nueve",
+        "description": "Marketing digital: una propuesta de formación para emprendedores Cadena Nueve - Diario Digital",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWJVMGE4NkNndHdjUXV5VGRSOUdibWFUV3N0cC1KMDN1WndRRkM5Z2x2QkM1alpqc3ZVN3hGVnNVNkVuczhxemNiSDVMV0FiVmxiOVBIN25vdF9KV0JqUW1wbG9xTmR0ak9zQVMzRG9NSC1GUFNxTmRhS0diNWpnUEJrQ0RhT1JKTEtXVWpYTkNrTU5WNEt4clNxYXIzVmxLSDZRcVRB?oc=5",
+        "date": "2026-07-21T15:49:05+00:00",
+        "source": "Cadena Nueve - Diario Digital"
+      },
+      {
         "title": "Villa de Merlo abre las inscripciones para un curso gratuito de marketing digital",
         "description": "Villa de Merlo abre las inscripciones para un curso gratuito de marketing digital InfoMerlo.com",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1lvaVhNRVU4aElDUmgxdnItVFRyd2Z4cUdJQ1Q1RXQ2clVBeFM4SnlmbUlrWnZOQnRWZWladWhUVHVYZGREd3B5MXppTDUyOF84Z1RqUjNIREd0SDVmeUh5Zm5JRUlUSHlMU04wNjhBcTRnWXh4UUZweTNGcTI1VHAwSk9OM1VORC1iWDZfVWFkNnhVSEdFaGhwc2pyWFJiRjczNFVfZHphT1ZIOXA1T1dVVkZKWXQyUEQtSXBlWlllU3ltMkE5aWpkTHdiQdIB0wFBVV95cUxNbElBblUwaG9GTzZpZFVWVjc2bDlOejBiM1BCVDF2UW9VY0E3SVVtUVpUalZiQzlGX1NDTjJRNThsdnhuX0haMUZCNkp2bUo1OC14VVpkSzI4YTR0TzhLY0FBeWVITjhwbVg1TDQtSUNYVHJabmE3MFpnU1dabzIzT0JJNTllWDByTjR1cnM2LVRNUkxuQ0QtdnMwWUpoNTd0YkpMZUwyZnhqVWcwMmJCbFF2YmpZb3N0SVJmRU9BeW1JbVFlRU1rY3NkcEMtYTYySFJB?oc=5",
@@ -89,13 +96,6 @@
         "source": "La Vanguardia"
       },
       {
-        "title": "La publicidad digital en las calles españolas ayuda a detener a un fugitivo del Reino Unido",
-        "description": "La publicidad digital en las calles españolas ayuda a detener a un fugitivo del Reino Unido PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVF5N3pBenhmTHhuQ0VpMmEtREF3RWlwd2dWT1QzTXVtV1oxYVZHY28xcVhjWVdqSHc0cjBKOGNPbTdYdUNOZGxXZmkwVkEzeDQ0TWRxMkE2UHBEVjlfb1pUU19EbWJpYWpPYk1NTS13b21sYTVqd1h0aGFyVTBsdDAyM3I5Qm0xcjhsd1dKWi1KanRidERRd18tczNUbnpUNnZ3SlZmWWllRkM2Z1E?oc=5",
-        "date": "2026-07-21T09:15:37+00:00",
-        "source": "PuroMarketing"
-      },
-      {
         "title": "Cursos de oficios: de trabajos tradicionales a la era digital",
         "description": "Cursos de oficios: de trabajos tradicionales a la era digital LM Cipolletti",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVVVWHVTWFlXSWt0ZlVULWd0cVVvb3RMYmVmaDdud3V5Um1FUkxJWVNodWJPYVBjUDJCcHVzeFI2cmttT1ExbzRuTW5JanlvVGU2MDdDajl6TjVMSkktYzBZN3RvRWdfSXBUNEZlXzlhREJMNUZ3QS1UZF9LbkRCVWoxVEkxbWJ0cnBrazdmVUhRc3pZUGd5SW10M3VMd1lyZVHSAacBQVVfeXFMT2xNcVVsblh0S2cwUXg0WGg0bTU2VUpaUlVGa0E2Sk51dkFfalhpR0tSaWxfLTd5OVM4b1pMWWxwbjRmNTBMWURlLVlJRlBSZzdSakN2S0UyZHQyTkRiRUZ1SFh2UGlCQ25TTExEZ3c1QWN5b3VQbUhMOFRDUG8tTnR5TFhCNGw4VmFFQ3FxZkcyZTA1SW5iVHNqcG5PNjd2M1VDX3A0czg?oc=5",
@@ -105,18 +105,18 @@
     ],
     "IA": [
       {
-        "title": "Microsoft firma un acuerdo con Mistral para ampliar la infraestructura europea de IA",
-        "description": "Microsoft firma un acuerdo con Mistral para ampliar la infraestructura europea de IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVNZN2MtZ2dtM1RYSHhNM3ZaUWthQTk0ZGpfbUxrc3AtOEEyUmZnS05jVy1OWEFfRldGSHU3MFZjRVlqRmkwSk10ZkxULTlYdVVxNDdWdjZ4Um5QcnBOZnZhaWZJdGl4cUpKUnNXRXVDVl9YWWNuUFRmYXR2UWZfX1JEVm9WcGZiMkg0ZERSOGJlVnFTd3dEenhwS21VNlVCMjdzNi1IQVRHMm9ocjI3cS1nYVo0aVJnQzJ5R3lWTkFOU0lOOXV3MFliTm5yVC1tZExz0gHuAUFVX3lxTE1aVXRSdXNYeExWMm0ycVp5akEzRDFLeFhTU0hfV093LWF1SmVpaFRBUlNlWEN6dHVxZDlyZENsYzRZUHNqbEtKbEltR1p4Qm5oa3V5X1BXNDZKMk5pcjdhMUx2R2lxY0ItbGVKLTJwWXFlZVBjT0FnU3diVkh0V2ZGdUZ2MjRVclM2ZGJZc0lrSXNBQ1pLZi13QmJMVE5NSFl4aTk2anMzczZoaDJZOWo2bnh1eWd5X0FlbHRKaC12N0FTUkNZeFhHNHJGSjJ2QjBFSDNCTFA1MXdxTW5scEc0eVNVc21vbVlubkRKdVE?oc=5",
-        "date": "2026-07-21T14:18:41+00:00",
-        "source": "Infobae"
+        "title": "La Inteligencia Artificial y su peso electoral: ¿se le puede preguntar a un chatbot a quién votar?",
+        "description": "La Inteligencia Artificial y su peso electoral: ¿se le puede preguntar a un chatbot a quién votar? Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcEhnc1ItN3ZSSzhZeVFjREx2THp5U2NLcnVNODU2bHNhYWhjX01WbHRYY3hhY0JtWlpvbng3eFgwZzVSSzQ5cDFqQUFZRHE2S2VLQzZ1eENRVHFPaGhVSUYwSTRBUTFTZ3FVanNPdWQ1UklJOTMyOTUzZWZPWlEwU2FVTk1PZURsdl9Pc2lNQXZqQlFkQUo0QU1lRU9Ga0ZJQXRXMDNlY0dKN09KSVQzTHNfNHTSAboBQVVfeXFMUGRMbEVTZDUzdWE4Mnp6VGpPQjR4eEUyWjgxcUhRSm9LNXkwbmxxX25nSW5NV1B1dk5KTHZiOVRmSnRNTDVuZUxJV3lmeE55QnpMbjRxZHNtcFpGc1JuTGdJbXN2M1MtZ0FqRTNLZXNiaUpWRTBMSDNzeVgydjhxbUR2R0FEV1JsWm9xa2F6MjVQeGNRcThWaXNkYkoxdkU4MmtQaTNiSFNTLUdQZG9YU2dIalFGMlpoWm5B?oc=5",
+        "date": "2026-07-21T16:10:53+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN",
-        "description": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN Gobierno del Chaco",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEJFbWRGZnlxQWowaGVWMlNhenc1akVoQjFhWGxOZGFjQ1k5bVl6NmpZcFNpY2lLcnk3c1oyU2k0d1NPOWNRVkNZbVZ6UjNzQS1EUmZuMmxvSnM1dHJkUXlxLWw2c3Nxd2lmZG1rWkNKLTMzM3B4ajBmN2kyNDlhb2VQbjFSZ1lycjJTRUJmX2pOcEtCWkNhN2FxamNfdFBOUFA2azdrLTVxN3VRcUtBekh1dURoUVZzeDI0UHJ5OFhRbmk0Rm9BNERqTk13c2xnZF9vYjZLaU9VNnNC?oc=5",
-        "date": "2026-07-20T23:09:11+00:00",
-        "source": "Gobierno del Chaco"
+        "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión",
+        "description": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczV0aHBxeXJTcnQ2eUR5UWh5LUVNaU9UUUd1eGFETGpiUTF4cXBCXzZGVWFSM2hWR0c4a2tTMTNhZVVvWTJOWTNyQTB0VFdFWE50WmtxQXpIaFhHd1VrdERmeGl1eFlEZm94ZWNwMGVLNWJ5TXNreHFwWU8tWEZONVctOVRQc2VGeVJkNGdHcFJXSFZBLXIwalotRVFuWmJSYjBVSDJLVkp2emw1ZzlCNEpadzVoSExUM0RYSXJWZlgxNXp5a255LUN4QXJ5V25ISUpuUS1ORElpaTNxb1B1dFp5UTdRZ9IBgAJBVV95cUxQbzBRUy1EZnc5ZnhzandnWFd5T0oyODQ4akMteWVWcnJqaFNYZHpTTG5fZUxFU0tFUTR6c04zNEIzRThldVllMGFjVlFybzdFeHZsam1KR1Y5TkZIV2lxcGFsLVpVa1loWk9qdy14N3p0Ql9oRnhBSUU4MExjYzVTR2FhYTVJQWV4aGJlQl84NExEVUV0SThfUTZpb1FCQ0duUUJ3QXZWd1QxcDNzRERBR0tpMnhfTE5VQzV5dWhPbFJMTWpiZ2EtbENla0dKb1Z5U1FydmZUeUdLYnVVRG1sNTl3TEZtN0MtM0VmcHJUOW1sSlFLdGlKSlJfT0JuOFY0?oc=5",
+        "date": "2026-07-21T16:53:08+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Cuando el conocimiento de internet ya no es suficiente: la IA les pone el ojo a las librerías de segunda mano",
@@ -126,18 +126,18 @@
         "source": "EL PAÍS"
       },
       {
+        "title": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN",
+        "description": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN Gobierno Del Chaco",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEJFbWRGZnlxQWowaGVWMlNhenc1akVoQjFhWGxOZGFjQ1k5bVl6NmpZcFNpY2lLcnk3c1oyU2k0d1NPOWNRVkNZbVZ6UjNzQS1EUmZuMmxvSnM1dHJkUXlxLWw2c3Nxd2lmZG1rWkNKLTMzM3B4ajBmN2kyNDlhb2VQbjFSZ1lycjJTRUJmX2pOcEtCWkNhN2FxamNfdFBOUFA2azdrLTVxN3VRcUtBekh1dURoUVZzeDI0UHJ5OFhRbmk0Rm9BNERqTk13c2xnZF9vYjZLaU9VNnNC?oc=5",
+        "date": "2026-07-20T23:09:11+00:00",
+        "source": "Gobierno Del Chaco"
+      },
+      {
         "title": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina",
         "description": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina Agrofy News",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdl9mT0ZiMUlxY1N0aE55T2RLZ1k0QXR6emo3Y1I0QnJCSXNhcXltQ1cyRGhQYVFsa2ltRGdhcEpaSUx0VDhnbFNjLWhZWld2eEFGLXpPdzBpLTdJSk9pSFFOMFdLRHpPc0RfM2ZhTDF5cDlOTkJEV2g3RUczYTRNczNOY2NwcGVQeXRST3dwOHVoaUdwT01QNlBpa3o0UlpZTTMxanI1aDVxM3plbTE3UzJDdFhIS2JHd3hDOTd3eXh0d3Z1WGE2bXBVQQ?oc=5",
         "date": "2026-07-20T19:59:12+00:00",
         "source": "Agrofy News"
-      },
-      {
-        "title": "Costa Esmeralda implementa un sistema de seguridad con inteligencia artificial, drones autónomos y robots de rescate",
-        "description": "Costa Esmeralda implementa un sistema de seguridad con inteligencia artificial, drones autónomos y robots de rescate Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMUR1Z0lZbTM0SDh2Yl9vc2tEZWcyOEc5NlpnMWR3aXkzUl9UenZaQi1RRllXb05KUmljODRkZVBHOENZMjFLTE1lelVqWkx3WWQtZHpMeko5MTBXUFYtaU9teWZLNlN0Q1ZOSlAzRnpDMUtTeE5MeWw1eTFxcm9UeWZmelRvUy1VV0kwRnFLdGNGOThzZUVoNVZqeF9xaHNpM3JBR0l4WGRReHJWVm91STZMZEg3UkJFZGhjLXlXazVnUnhSZktJRG9vRVYwbGFGc01CMDlhbmpxbzhnUWh6dWtORmJuZjJJY3FIVktpOXREY3fSAfgBQVVfeXFMTkQtMTludm5zRVZ5RTRrVUwyOEhfcVFwOGZzMEJwSkRYZUdUR3FvZnlWbDFycW5tdS1BYWNWYzBZUVJpdlNzc0xuOHJST2xOZFd0MG9ReVViZUpHaUdwU3NuVEFuRklPWVUtNTd0c05KV000cXZqUndJY2lPcjBBeTRsNnF3TG95bFZ6RURXN1dldW85alpLVTRDeHdiUHRnMjJGeGx2ZjFpQUVlQ0pCdWhxTkpvN0dEb1V6YlhTbjVIbWU4NDE3dDR6Tk04VEtHeXVWTVlKeWZWX04tZDVzZ28xQUF5dWlSOU1VZzhKTkxTcTlKTm5sbjQ?oc=5",
-        "date": "2026-07-20T15:25:36+00:00",
-        "source": "Clarin.com"
       },
       {
         "title": "Presentan un proyecto de ley para etiquetar contenidos generados con Inteligencia Artificial",
@@ -156,32 +156,39 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "Vista pidió sumar al RIGI un proyecto de u$s5.800 millones en Vaca Muerta",
-        "description": "Vista pidió sumar al RIGI un proyecto de u$s5.800 millones en Vaca Muerta Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVjRVZi1EMF9sVUdCblhCWGRvNmUyTEdJYU0zZ1daakJZZXphNmk1aXpSd19NeWFCeTlKRHk1MnI5Q1I4emR2dnNUZnhsaEkxZnZlZk9rcldTX2tJaWcwMlF6akx3b1VheTR2Y0ZkWWdHeWNQRWxoNnZZeDk0MDdiWmcyUEIxNTlNVEFTay13X0NxdmZSN3NMTk5PNVVrQlNhZldHa01pUHU?oc=5",
-        "date": "2026-07-21T12:33:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones",
-        "description": "Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLWVybG0tYXNkcU9WRThtbzdiWmJJbU1MOHltMXk2LXhxb00takRBWVdKbnlHTi04NkFPdFY5a2doSlVBWVAxcFZxSzVfYU5LOUFTRE5KNmc5QkpjdHZ3ak9fbnBDa2c2cGFhOVpTUENTellkOU5teEU5TXRSdkl5RTA0VHpSX2pKaGpMeWlHSDhZRE1tbjRsd2JKR3M5aHJpdzN5d0JYejhsZFJpN1JEUGJUdUk1eC16clJKR29FQlhVdHBxUFY1ZUVNX0ZHTlU2c0Y0bGxTeFZxTjJEaTItT0JlY3ZrWFJLa2wzQ2VsMjRjVXfSAY4CQVVfeXFMTUdDNGpBQm1ha21PeGRqWlVOU3dNMHBqNkpfcjlrZjFqQTc1YTUxb0VNU0hFd19aVnB0dTE2clI2YkJaUE83S2NQSFBNcW1JczMyQkhLMWFkQ2t5RHRCWmgyVEluOVc4dXVhZDJhNEdJQnNHeHpabEEzOG0xLVEyR0FITEUydldsRC1jMkNkVWwtYXFLN3ppOEtNYTdCd0FnS1JJLW5UN01XaGxIOUVwZGRhOWkzMVRRVDgzcW5HX3Nyc3phNk9GT0R4RXpZTEJjdDN1VGlRaXRta2EwN0Y2djJkMGlsY3NzM2NnQk9vSnhMQW14MU95djFfOUp5Q0VkYjBxSndEYnpSNGxNRUl3?oc=5",
-        "date": "2026-07-21T13:38:22+00:00",
+        "title": "Vaca Muerta todavía no supera al campo: la provincia de Buenos Aires fue la que más exportó en el primer semestre",
+        "description": "Vaca Muerta todavía no supera al campo: la provincia de Buenos Aires fue la que más exportó en el primer semestre Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN0JQaFBaQmw5d3E0a1N4aG9Ec3QyX1BrMTcxOGstNjlLMXRkTFpfLXF5XzRrNU5KZXV3X3ozYjVqWUIyR0ZoRXRWek1vc19ZTExfSURIWWtLTDhCR29OLUUtTEZIQi1TMnRuNUkxMXlqalpwUm5DRHdkcmpEZ1JRUjI1cFV6YjZobXhXMVlEYzhJcmVJTGEyNVVzRDRadVFCTkRnaUZkOUhvSXZmNHNNaF85VUZfN2VsUWw1OTBHYlVrMjQ5LTJtR3hZZEhkTVBwQ0pSaXJ0bTFHQlFVOFlibFZGa0pGZUdQandmbmNn?oc=5",
+        "date": "2026-07-21T16:53:06+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Vista, la petrolera de Miguel Galuccio, pidió sumarse al RIGI con una inversión de US$5800 millones en Vaca Muerta",
-        "description": "Vista, la petrolera de Miguel Galuccio, pidió sumarse al RIGI con una inversión de US$5800 millones en Vaca Muerta La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQekhTNVJGel9UYWxJakZfZTM4SUxlTFJmLUF2eUZJR3NBcDhWUU54c1R5TzFhR2NzYjdrM0w1cUs1Q1lmOW43N1pYWmNJeWhUZnByTG9JamhpNjk2V3REWUlYTUlqWXZpV1l0eFlvZEJnS1NtWlVmVHZNUzhSdDk0MlNmMXNscVZ6cHBZcDBNX2tVVHBTbElYQ3ZvanByS3c0RVJhQnlqQVhJRkhRMFZBazBYWEpqVEZKaUpaS1JXekM5eW1DWmVvcjZzWG5GNURLNVRvemlxSEZPTFNyM3o5OEhR?oc=5",
-        "date": "2026-07-21T13:44:00+00:00",
+        "title": "Vaca Muerta empuja los dólares: El boom exportador de la energía dejó u$s 2.207 millones adicionales",
+        "description": "Vaca Muerta empuja los dólares: El boom exportador de la energía dejó u$s 2.207 millones adicionales Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbkRkbDZOQkhqT1hNbERXVHQzNjFyT1JxRXE1UVNnZjlfOThkZzgwZTRveWd0UGhSVjlYYkNDWkZpRlpkWnNTUzNONUd4R2xwdmttdXF1a3M5YTBTeEdKT3J2RXRXd3VXZFdhMXpoY3dtWHJneXV5NWd1MWFocFVGbGs3Q0F1X3FJaW1EY1lGekN3ekl5aWtsdWRCeHhPZ3U5OTlhSU1mY1lXYWdPc25waE4tUDNnTGxGNmw1ZFZCdHUxX3RGWjhVaUdTVUI5V1ptTVlBbHg5RnIxTndYZTVRcGYzeFN5dURQNVo0MXRGUlZ4Qld0b2FpR1JXOW12MXPSAYQCQVVfeXFMTm5ybTBGaDZCWlp1ejZ4d1JrT0RFTVRpYXRoeGlxWXk3SEZLWlMxZElKQS1iM3dnemJhTGdVVDRnY2htSFo3dlVUWGtuMnV1M0dBQ3dtQmFtcFdKRU5vM3pCcklQSGQyZC1rY1VjcUFra0hTVlcwYVo4VV91TTAzeGprVHJ4R2hKeldFSFBWeXN6SXZORDFDU1ZMdVRJR3ZNXzhmV1N5S3FCT28wRVVvR2xOdzE5MjBuMlpYektxNHN3V0pSc1pGcXk4SWtyaVpZM1FvS2VrWTVCZ1NKSXQtUUZCS0dxTnd3LWJES1ZqZ2N4WncwX21DUUdWR0hWbXVDam1ud28?oc=5",
+        "date": "2026-07-21T14:30:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Por qué transformar Vaca Muerta en desarrollo",
+        "description": "Por qué transformar Vaca Muerta en desarrollo Página|12",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtXV0ZQb3pmOHBkWnVCamJBcWJveVM3OGdzLXQwYXBSdGNlRmNzWWRwaWNBMnZ3dmpFdWtzMk0yakx5Vk54R1I5M1ZzbThPSUdQaWdRSFZNZDZLbWtsSVQwS00xQ191VFhLc2lSdVdQLU81TDhWcE5uMEllSGp4bmo2bWxYY0FIekk1UWJ3?oc=5",
+        "date": "2026-07-19T18:50:52+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "La otra Vaca Muerta: invertirán US$1000 millones para poner bajo riego más de 50.000 hectáreas",
+        "description": "La otra Vaca Muerta: invertirán US$1000 millones para poner bajo riego más de 50.000 hectáreas La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTDFFRkV6OU94cjY4aTFfNlpKTTc0dDNYQ0Q1azdkRlhvQm9qZnFvcmNnRlk1ak82UHBXT1NJMWs5ZlExZjNpM1JROVNlSHQ0eVdIa21nT21ibjVCM3JjZ1BfOGQtU0VoQWY1a2YxZXUtU1RGd0l3UEJaWXRPS2pTWHJvR25Wa1FJYzJLMXBibVJLdnNOeTZQbllWZUYxTXpjZGY4R21zZER6VWgxRTZGUFdzUEN3RlNVUDlVdDJCNDB6UklxcnBrYjNPdl9TNzZWVG1CTWN6Ny1RTTROU3JZ?oc=5",
+        "date": "2026-07-21T15:28:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta",
-        "description": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjdfc3drcXA1TFFOX1NWOXN2SkpCVXZRdFVLYjFnWlEwNGpiYlhYTGZFNVR3WXlNTU1zMWx3LTdPbXpycUFfaUowc3FfcGs0TGR5NkpkYUE2eXZPWHZqWkJCZUI1TXg4Q3R6Q2UybEZDSmY0cmZJQlRZQXo1THdVWVpfQ2FFTVJfZHpxTmtrM2I1NXF3WU91Rl8tN1I5QVhhOWZKaA?oc=5",
-        "date": "2026-07-20T15:52:01+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Informe que circula entre gobernadores alerta sobre un límite de infraestructura para Vaca Muerta y la minería",
+        "description": "Informe que circula entre gobernadores alerta sobre un límite de infraestructura para Vaca Muerta y la minería Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOUd0OFJaQWthejA1S194dmZhVF9ULWR0WFFqeVByR3Z5dGgzR3V5eGROSXEtMklYVG9NVG15VFVMbGZRU1FNZlJVdWJNcEZvdmx2Q2ozRXJ2Vi0zUXNva3NZdFJoV0hRbGpsSy1BbEJ4a2ZyMGhVX1p6TnhjWU5HOHQyOEVoNlBfRFJvVzB3czVMNnBGUmVlVGJORGRiZDY3QlUyMmh6RDQzbE5MZXlHcUdVOEpzazF3Q2drQWNBcE9NUjlwVXhnVUE4VWZBemg0OFB1S9IB2gFBVV95cUxPWUo3anhwZDN1eWFfU0ZUVFJpdEZRTHZvMmlMUzkzVjhjbXdhRnUtWXlQSzFaZXg5WnVXRzVHdHlsdE5uNWhVemNhel9GYVN3c2hJWW5IVG1Fc2loN2ZXcGx5d3ZTVG4yM0VMeGZ4ZXhNbzJmaTc2YVk2SXpCNkd4WHpCSWcySE5WQ1NjODlwamhya2dsbjJlQVNCeXV2SkM1dmFTV0x1MXJuM09SSlVicGNPLWZHVXNkS2xGYmU4R1V6dE1sVXBPbE9hTGwyeW5MX3E4dnd0Q1p2UQ?oc=5",
+        "date": "2026-07-21T10:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Con el impulso de Vaca Muerta, Neuquén busca colocar deuda por primera vez desde 2017 y captar u$s500 millones",
@@ -191,18 +198,11 @@
         "source": "Ambito"
       },
       {
-        "title": "Con el impulso de Vaca Muerta, Neuquén vuelve a Wall Street tras 9 años y busca hasta u$s 500 millones",
-        "description": "Con el impulso de Vaca Muerta, Neuquén vuelve a Wall Street tras 9 años y busca hasta u$s 500 millones Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnlwc3BQTTNkR0tDS09IV3hodVkzLWxBTkV6RjBsa1E0M1lUY0JISmpmX1FiOFdZMlh3SVRaMThqOUFJbEQ1aE1JQURSXzZLVzNFOFd3NHZMZVV1NXBPUUJiOV83NUdwTGFxV29GSDlwamZIVlJhU3F2UnhqNlpkeUs1MWxrV013QV9uTkFkVklKSC1YdFdlQXRBOEpiQ1VZOFMxbFY0OGVtOEUyYkVWWUVOZjA5NTFTaG4wVkNOR3lyS2FYMGFUbUtKdzFoS0VUOHRrVG9n0gHbAUFVX3lxTFBkWGdZYnF1ZGszQ0c1RTNCa1MyY25aRlJhWVJzaGRYOW5PeG1Ja3hBSGswbnd3ZjUxMEFsaEQ4cGdWdTh2RkcwTks3ZVNGRDFYLTV4cFUxVUtXQ18za1k0WVdFNmlycVNOSG5tZUozdGtRSGJtMnJ5djI2cG9BSS1SS0xDZ0M4ZVRnX1RUTmFWUjA3UlBFYXhORWFnamFQcjJPMW1HUC1IcVF5VDQ3bXpjSEZSUEVDVHIzaWplY2hiY1NNMkZVMmY4Q3hub0Z1SE9SV2ZYd2lfTjZYbw?oc=5",
-        "date": "2026-07-21T12:01:48+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Informe que circula entre gobernadores alerta sobre un límite de infraestructura para Vaca Muerta y la minería",
-        "description": "Informe que circula entre gobernadores alerta sobre un límite de infraestructura para Vaca Muerta y la minería Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOUd0OFJaQWthejA1S194dmZhVF9ULWR0WFFqeVByR3Z5dGgzR3V5eGROSXEtMklYVG9NVG15VFVMbGZRU1FNZlJVdWJNcEZvdmx2Q2ozRXJ2Vi0zUXNva3NZdFJoV0hRbGpsSy1BbEJ4a2ZyMGhVX1p6TnhjWU5HOHQyOEVoNlBfRFJvVzB3czVMNnBGUmVlVGJORGRiZDY3QlUyMmh6RDQzbE5MZXlHcUdVOEpzazF3Q2drQWNBcE9NUjlwVXhnVUE4VWZBemg0OFB1S9IB2gFBVV95cUxPWUo3anhwZDN1eWFfU0ZUVFJpdEZRTHZvMmlMUzkzVjhjbXdhRnUtWXlQSzFaZXg5WnVXRzVHdHlsdE5uNWhVemNhel9GYVN3c2hJWW5IVG1Fc2loN2ZXcGx5d3ZTVG4yM0VMeGZ4ZXhNbzJmaTc2YVk2SXpCNkd4WHpCSWcySE5WQ1NjODlwamhya2dsbjJlQVNCeXV2SkM1dmFTV0x1MXJuM09SSlVicGNPLWZHVXNkS2xGYmU4R1V6dE1sVXBPbE9hTGwyeW5MX3E4dnd0Q1p2UQ?oc=5",
-        "date": "2026-07-21T10:00:00+00:00",
-        "source": "Ambito"
+        "title": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta",
+        "description": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjdfc3drcXA1TFFOX1NWOXN2SkpCVXZRdFVLYjFnWlEwNGpiYlhYTGZFNVR3WXlNTU1zMWx3LTdPbXpycUFfaUowc3FfcGs0TGR5NkpkYUE2eXZPWHZqWkJCZUI1TXg4Q3R6Q2UybEZDSmY0cmZJQlRZQXo1THdVWVpfQ2FFTVJfZHpxTmtrM2I1NXF3WU91Rl8tN1I5QVhhOWZKaA?oc=5",
+        "date": "2026-07-20T15:52:01+00:00",
+        "source": "econojournal.com.ar"
       }
     ]
   }
