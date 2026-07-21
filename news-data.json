@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-07-21T05:44:29Z",
+  "updated_at": "2026-07-21T08:16:37Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "AMD y Microsoft potencian la IA en Azure con chips EPYC",
-        "description": "AMD y Microsoft potencian la IA en Azure con chips EPYC Enfasys",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mUU5NVGpLZllPWlZrUkx3UXV3Z2plWHZqZVY2M2swU0xSaDlpNnlFeTRVLUd4cE9pVTIzc2VKbWx3b2Vxdm5fbGdUUTR1d0YwMGpZdmM3ZTJpcEtBbGJqM1ROYnBOY201WWpYVVM1clZHZDVpdDFJMkpR?oc=5",
-        "date": "2026-07-20T19:25:26+00:00",
-        "source": "Enfasys"
-      },
-      {
-        "title": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street",
-        "description": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW9qNXNhaVVnVmFfNkVTR1FmQXNEN1RnZlZRbGNmZmJBUFJJZmdDZVB0TFo3WDRJTVhOX19KWGdOUG0tTUR1RGRoaDdjcVdwUUJuUDRKRlVCcTN4eEhtbUhXWjF2NThDaWZuMXhvUHk4YzlpS0xMTXNzemhuUlVEcXd0S2dBM0lrbjF1NHVsT0pwWGswZE03d3pGYVk1YWM1Nk5nbnNJWm1DbUdxVFp5RXJzZ0plQ0hHQXdj0gHPAUFVX3lxTE1wOU9YSEE5ejlNd2ZGeUpHZDMwWHd2ZTdoZjFCYjJreFZMUlJTcjFjaDZpRnpzVzJXWHBlRkdQd1l2SUp3ZUs4Z2dTMVNjVFRMVDdSYmZBYVBCWWR1azZwSUZKNnFiUHRXc1ZNUlBPaWcxbDgzVXI1RWs1WEM5ZmRnYlA1anNpYnV5WmNweFAyTXFBU2Nmbkk4bnJwRmg3SG5NU2dqNjhMZnF2NlRwSjVTRUpNNHJ6Z00yTnl4LXliYzBEaXJEckJkajh5dnROZw?oc=5",
-        "date": "2026-07-20T20:44:03+00:00",
-        "source": "Bloomberg Línea"
-      },
-      {
-        "title": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street",
-        "description": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street Rosario Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRy1oS200NGdxUGVzUVhJa1FXU1hpZjB0M2hOaG5oVjZvOGtyTHFuS3NxbzVfZ05yV0NsWHlXczFVTGl2NmJaU1dIS0J4Wk5ZZ1BZYlpRTGZJdHVvTFBYUjdfVlU4dGsyVzU4eHpfX3VBMWJxcmdWbVNtYTFYc3kyal9LcHJWQWxfVWZiMEpGWXNNNkhyVEtVQUpYeXMta1pvdmRuZ3o0bnFrb2xpZkUyN1dWQkk?oc=5",
-        "date": "2026-07-20T20:44:03+00:00",
-        "source": "Rosario Finanzas"
-      },
-      {
-        "title": "Microsoft en resistencia Ichimoku: niveles en tiempo real",
-        "description": "Microsoft en resistencia Ichimoku: niveles en tiempo real Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGJ1M0dTeE85TXB6a0NxbkZWV1dKRUFBNVQ5Vl9tcDNjZ2lCdkVYWVlvUUxKN3hxNjRHSjg2bG5PR1ptV2dsVnB2Wk5seGpNSmtDVWZCaXI5YVdoRjE0UjE2SndhSmo1cGdqX191MldkVHB0bXNrNWZnWndHOVlWV19kcTlWcWxKY2Zqejl0X1RfbHJ5MjBtZ1hqLUlHUXpEdFVlSEdBTWRtX0lhS0o1WF9GQjZ2WmVV?oc=5",
-        "date": "2026-07-20T14:04:00+00:00",
-        "source": "Investing.com España"
-      },
       {
         "title": "SpaceX negocia con el Pentágono para rivalizar con Microsoft, Amazon y Google",
         "description": "SpaceX negocia con el Pentágono para rivalizar con Microsoft, Amazon y Google Yahoo",
@@ -38,18 +10,46 @@
         "source": "Yahoo"
       },
       {
-        "title": "Microsoft 365 se convierte en escondite para el malware HOLLOWGRAPH",
-        "description": "Microsoft 365 se convierte en escondite para el malware HOLLOWGRAPH DiarioBitcoin",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFJ1U1VDak5pY2NXRUdubkhPUF9HWmJ6QkJWZjgyV3lJUmtDT0E1RlRFZ1dFUU9UVE8wQ292NjFhck5ZR1F4TjZBN2ZnRDBtV1JKN3lMZjdrd0hCQ205V2h4ODdLalNkZ2lGcld3dzlLTWJ6OEdRSWxSaThIU3JzYUZEa2RlajhZdk5WellVWUJwNGlEZjlhOWJac0ZIWTB3S19KdHRpSzdRRU0?oc=5",
-        "date": "2026-07-21T00:08:27+00:00",
-        "source": "DiarioBitcoin"
+        "title": "Microsoft desplegará la plataforma de aceleración Helios de AMD en la nube de Azure",
+        "description": "Microsoft desplegará la plataforma de aceleración Helios de AMD en la nube de Azure Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzFFcmx6bnFnWnZQYVF4UHdnWUF0LTJoRGU1OFNiRUJLcnd6VENqdlBBLVE0TVVLaUdYZGVnSENpd3FNNnhxdWxRQ3dCQV9KOVQ2dVdUVUhPYjRlalowMVM3SFpIOXVpVjEyaXhDNU9FNmgwcHplbE1PVEwwMi0zSXBYUHBGeFRETjdsVDExWGhzMEg4UXhtcExKVmY2OW9tRlZLcXdB0gGrAUFVX3lxTFBuYjFiVkFKOS15TFVpMXRnTmVsRVMyZ3k4WmxFcWFpWFBMNFljR01nRzljbm5Qa1Zoc3RRRXhoNV9TeUo3alVMZjRHTjJTN0hqVlBmZ2EzMF83UmdtOHFfOGN5a1gwSGliX25yVmg5d2E2b0RCYXNKTXF2TUJrUkdrSkwxUWNQbG96RTNwY3hYenh3TllpU0FnX3dvTTFiNkJhMXppVFNya242dw?oc=5",
+        "date": "2026-07-21T04:52:42+00:00",
+        "source": "Profesional Review"
       },
       {
-        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
-        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
-        "date": "2026-07-01T07:00:00+00:00",
-        "source": "Ambito"
+        "title": "Microsoft quiere bloquear la captura de pantalla a los PDF",
+        "description": "Microsoft quiere bloquear la captura de pantalla a los PDF Digital Trends Español",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRndjX2I1TWp6NUtXUmJSSzM0SWxJNnJOUVVpX0ZHSkxIN083ckpRMmpBczdQVm1STFRLN0xiOS1CQ3RuS1lHMWU0NV9KT3pSalY1bExpdVlncG9BdjZvUEdSWHNvNjFSOTh3a3dkN3k1bFQxREQ3c2wwY092aXhaQWM5a1lQZEUtQ3lKb2p0QjhWX1E3b0tUMHk2T0NtUDZldEo0?oc=5",
+        "date": "2026-07-20T16:13:48+00:00",
+        "source": "Digital Trends Español"
+      },
+      {
+        "title": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft",
+        "description": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft Xataka",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlNRNl9HSmJGV3pPQWtxTDBsZG4xMjRwa3VaQTh3ajY0YjFGT210UXYxTmhVc0dZMjg1OGYzRU0wM1VQMU5EOFVtZGxEb3VGaVY4X3VHdFdRTXdVOVhWb1MtYjZiTGlvVnB2RWZaQTlrcHlRZnVLX25MT1pxX3lDT3luWTJxV2dFRGdsWVJxMHVQQVBFOG5UdDVka3JKWllTWlNaR1dfX3NqOVlnTHFxOERZLUhBY3RldkdXUtIBwgFBVV95cUxNSXF3RFUycml2X0Vrak0xZjh6cXkxQVBZVUhQUXhCTEttZm9ucWUyY3dBcnBoN3pRUTRfZ3didDhTbDRZYlJTOE9MWmJ0UVFub1Y4NllheUQtdGZ0eTJPMWJRN3F1T1RjSjlCLUdtMmYxWlRya2JmY0oyUzBoVHZDZHFyX282aHJ2cEo3SVZCV2hWS1NHbEEtQVhJR0Zvbm1Gam4ybm8xQ2hwTGtqVHhiX1M1YXVjaUx3MTIwdEhTWC1WQQ?oc=5",
+        "date": "2026-07-18T11:30:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "AMD celebra en Wall Street la expansión de su alianza estratégica de IA con Microsoft",
+        "description": "AMD celebra en Wall Street la expansión de su alianza estratégica de IA con Microsoft Bolsamania",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV19hTU16MGRNWHF4MUVBZ0RIcVpieWdqMkRNRE1FamhxcEtuZGdnU2FEZGI2ckJjVDlyYzZLVkNfaGVVX3F2REU5LWIxZHZNakJBQXl3eE53Y0w0N2g3cmZYRnd4YzhoRVA3V3UwaTQ3c01ZX0l0a2ZWT3ZUZHVZWXpPY3pnQzRQZzRwYWFESDZEbTJTcDRseHJ0OTNTUWNQTFBjTjFnbWxQOWRTakdTZWFHQS1IbEYwUW9RdDMxaUlhSjBH0gHKAUFVX3lxTE0tUTlYd3pBMFdJWFFaendjQlItTjAtRlgtbFpmTXgtSmVlVnVmazlvdzdXWEhwU2VoWi0xOEk5ck15cUs2LXl4STZWenIzTDBqQXFDZ2RReUtSOWhTRnZvTkVTWkstYzlZc3UzNERtUXNyU3VBeG1UdmZvdXJRMGc0eUh0NzJReE1mTXVkZ3RwVTBiUWY1WF9lNUJOamtxZjF5M0VNeFhyTVhLOFo1VW1lMUtCTi0tOE1ib3pBbG1EbmNqZllCek9xY1E?oc=5",
+        "date": "2026-07-20T14:20:18+00:00",
+        "source": "Bolsamania"
+      },
+      {
+        "title": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace",
+        "description": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace Xataka",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXN0SW44RU0yTVoxbUlHNDlUUVdWX0VkNE5nVVQ2UWN5c1Bsc2c3aU1rSkE3YWlyWG9wOEFMd2lIMEEwNVdxNWY4TWVuOXM1b1YzVWlheVkyQ3c0Q3JjV1huN1JXOVF6OF8ybGJwNWw2T09yc3RoWVZVa3ZXdXo4NVRjY2xhV3FOWG9vOEhtdnIxTXB6S1dyY2JhaDg1NG1RZ1Iyc2N2TDBjSVFiQXlDZ3FRY1RHVnVqaUFSdjlYUnhNeVM3c0HSAcsBQVVfeXFMTkswRksxczNCRUpQMUp0YmNGV3BNWVVIZE5IeHBQMm9EajVpWmhYR3k0ZFlrYVotRzVTRTRVenpob1EwMFZSY01OUlFtRUhZZXVrVWI5ZlJWQmtpSHZ5eTNQMndrVXVfZFkxeE9rOXZYQ2lQLVR2MEVoMG5zRDlQY2xJdlUxWTQ4RVc4NGU1TFNqNUtZTGI1MVBBMF95Y0NxLXRXWXRNVUNKdVpJZUcyckdXcHYwN1lIVG9uS0RaWWJMUDhvWEJLTUVsTkk?oc=5",
+        "date": "2026-06-09T07:00:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
+        "description": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdZTGYtY0E4eXJVd05LamtRY3FMQUNtZldfYTdRZXhLTlJ1MGRsUE9mZ3doNkU3WkpZd3ZCYWU4RnMwZmNqLXpXRFdxUV9lRnFRUXJUcVdOUnoxZzBBeFlsNGZiQ3ZOOTQtWjVDUTloWlJaQjN5VHU5OVkyQ3R2NGZWZGRfRThwb3FJOU1LM0RsU0lzZkw2RDBabU52V3Z6ZUFMSHBySUpYcWtPbGE1dE10XzJFSG5uYTBCSS1PR0hQLUstVUtwbS1CM1HSAdIBQVVfeXFMTUUyNXpESUVNempOR29taEQxcExPNVVDMUs0N2QwZEpuUWVlMElEcWlBVzRNSzk3YW5qdkU5MU9tbjhRWVNhMVVmSFRUV283UVlBbXR4X3FrbkYwMVNJczZVQnVpYk5SS1Yxa00zVFdENXE1VUdHZU5SOXRkWHZ5aGpCdWRIdVFvVEloMHdjSk1DcWZKZWxQd09wdTNNUllnaFVBTXNsaFRqRjUyREJUWjJjN3kybG5TT05tOEVYMXI1WVBKQVlQSjlqUFJKbGlWcldn?oc=5",
+        "date": "2026-07-14T10:30:00+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -105,11 +105,11 @@
     ],
     "IA": [
       {
-        "title": "Google está construyendo una reja de IA alrededor de la Internet libre que alguna vez defendió",
-        "description": "Google está construyendo una reja de IA alrededor de la Internet libre que alguna vez defendió Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWMxbmliQzNycmhudzUyQWI2N1NBYkMzQV9mMi1CRk16N1pUSVJoUWZQak5zWjEyWEZDdlhxai0xbkpmQXdIa2xtX1pPcTNfcTBEMHdhYmFKbFk2amVMZDZWaTJVOVY5ajZSZUhKbnJINUFxcFBndFZRQlVEVVZBUHdoelBnOVdIejFIbXg4OXI3VU8zbF9iTDk3amtsT2xxUUtsU2ZyS18wVmUxX0VCOHhkc3NIT0FtdXhJ0gHAAUFVX3lxTE13N2hhY1FrcUptRUhMN0lwelVrTnZxdHJSbno2Z1VlTmM0Tlg5d3lzZDNicXEwanNpYk9lX3diWnhQTFBNMUtNNzY3V3pTQ3dfQlllVGZwajBELVFQSGotZFluMEFyanpxZnVxMlZBME82Vk1tZlE1R2VxMWpwc21CYkdxQ1J3Q1BoRGNUZU1ZMTB1VWR2QldlYUNJck43Y3R6cHAxZkt2OWZONTF2UG8ySkllR1gxRHlOdTJKX3RMNQ?oc=5",
-        "date": "2026-07-20T21:16:15+00:00",
-        "source": "Clarin.com"
+        "title": "Europa va perdiendo la carrera por la infraestructura de la IA y se arriesga a quedarse solo con la factura, según advierte Funcas",
+        "description": "Europa va perdiendo la carrera por la infraestructura de la IA y se arriesga a quedarse solo con la factura, según advierte Funcas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUkEwZlJDaVRnN2RieEJ4dm9xZXRBc2x2S19CU29LZEFuZWNfQUxwdHNrLWxma3dsWnRkUnYyclRTb3lUaXZ2bkgyNUhFeW9fVnVkYVFDakcxaWRPTENDbnpiNmRhV3loUjNaSGJTRy1VeFJOTjVsdWFRRFZzQWJjR3d1Y0lfRGVCckRMMVMyOC1fbVFCeC1mM18yd19GUXF6Qlc5N1Myb24xdVNFQzFlME85SUNsaEQ0SjFzV1JzUUtlcjBDcEVZSlBwcC0wcVBVdEVGSDRadGVWUGhoS3pETlM1STI4NFlUUWdHbXVoWHA3TEc3UzI1ZG1OZ1pGSGVMZ0HSAZwCQVVfeXFMTUZlbjF0OWhDUUZHX2NDalBiYnlJT0Fpdk9iVXYxbUNXYTJSRFVGRzEyYVNKOUNzSXdQSHlBRnZvUEU0UjA3Nk5tdF9rUi1nN2JMWm1jYURTbHNtWlFDZ3JWNVd1czJWSVNtVlRRTmJsQTFFOHhFcldzN3VRR3JTQjdXVEQ0M0FHUm5jYjNfNWJJWm1qR2d2bE1OeTVHTmNuYUxhdUdoLVhaUGt4TnhkZmktSnNwT2NGZ3JDU0lMSGZaT3hIQzVNbjdOb1JiYzRHSWRPVnRpZ1hHQXpYOEMzVXluNzRQUU4tUE14N3hoclF6aUkxLTdudEZGcE1WdjQ2Vy1JR2hlY2hTc3QzOWQyRXhTMDVVa2trdE9KYlE?oc=5",
+        "date": "2026-07-21T07:19:52+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Cómo impactó la tecnología en el primer Mundial de la inteligencia artificial",
@@ -140,18 +140,18 @@
         "source": "Gobierno del Chaco"
       },
       {
+        "title": "OpenAI presentó su primer dispositivo físico y sorprendió al mercado: así es el teclado Codex Micro",
+        "description": "OpenAI presentó su primer dispositivo físico y sorprendió al mercado: así es el teclado Codex Micro Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkhpOFZONFJoLThveDBHaDZfWVhhWWR5WDhmZVZYN0FZYmxtb1poV2lyLVJmWW9wT1lIQXMyZ3JVV2hiSm00QW1rVUpCUm50TFpHVTZkTlFQSWdMdTNDR3J3ZjJPbF9YYTJ1VVNnaHpHQl8yVDJRSG9PaUM3WGFOTFIyd0o3ZENIVWpwbHBjcm9GRVFfaEJtQmVjYUllai16TFRNeG5MY0xUZDA3ZmFOZHR2SWxSQ2t3QWZINGM5cERaUW8xOGpUNmt1VC3SAdIBQVVfeXFMUG5BdHAxWndBUGlvNmhFZzM3MHBFQXhxRGdqdXA4NGdVTzZMTFA4SHRRQ3NUT3k5TXBsejYxRGZ5ZFNTNVA1NDlNUV9vVzFBWU1XcUJhLTF5RmNqX2ROVWNCcDl0ejVRaXhxNnlHTXhGRTRGRHp4NTBMSTM3Y0xrRUwwd2lNUnM3T0Q1TkRvLTIxMWM2Z0pCRFBmUUZ3MXBfUlpiU0M3Y0VRQk5nNXZMLXZaY1RlZThyNlNkSmZFSXBpb1Axd21zb3NlWWVad0xIN1ZR?oc=5",
+        "date": "2026-07-20T08:45:48+00:00",
+        "source": "Clarin.com"
+      },
+      {
         "title": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina",
         "description": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina Agrofy News",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdl9mT0ZiMUlxY1N0aE55T2RLZ1k0QXR6emo3Y1I0QnJCSXNhcXltQ1cyRGhQYVFsa2ltRGdhcEpaSUx0VDhnbFNjLWhZWld2eEFGLXpPdzBpLTdJSk9pSFFOMFdLRHpPc0RfM2ZhTDF5cDlOTkJEV2g3RUczYTRNczNOY2NwcGVQeXRST3dwOHVoaUdwT01QNlBpa3o0UlpZTTMxanI1aDVxM3plbTE3UzJDdFhIS2JHd3hDOTd3eXh0d3Z1WGE2bXBVQQ?oc=5",
         "date": "2026-07-20T19:59:12+00:00",
         "source": "Agrofy News"
-      },
-      {
-        "title": "Wall Street sufrió por partida doble: más por la inteligencia artificial, que por la guerra en Irán",
-        "description": "Wall Street sufrió por partida doble: más por la inteligencia artificial, que por la guerra en Irán Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUliTUFweUpyMkdBcmZ0SVdOeFZ3OHZJc3NiMEh3QWtmMFp0d01zRmd2RWVGUGt5cHNFRkdTc0JTTmVBZFdkcHlSZFR5N3BCVTUwb3o3TW9GOGVGU0JmT1NwMXEzcjhHT3ZSUHBHNUhBSVBLSXZndE9jVFB1alUtdWJkVlg4M1N3Ml9iTnBUeDBKNUxHOHp5dzhaeHhMZEVwanJhaENUWjRudHFvWUlFdGVVTW9RNFdVOHdqbnR5YnTSAcYBQVVfeXFMTmpkdlpUbTk4bWtnN0h0N1pmdERVMVVnaldQa2Nfd3JZWDZ2UEV6UWtWS3hxQVQxUXVJMzE2S2tGZmQyU1hlWHdXRmZNakpCRmJ4bjJKNk41cVZybk5QV2V2TmpyNWVmTDV3Y1dtTE0yLTgxUjRzTlVRXzB5SkphNExWWlRsM0Y0TGtXUFFrWTlhYjhadkd6aG9jbHVNXzhuYVhVcXRnX0NtUW1UUkJoZjliUUhkYm9CSy1CV2dpdkN4a2sxUU53?oc=5",
-        "date": "2026-07-20T03:00:00+00:00",
-        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
@@ -177,20 +177,6 @@
         "source": "Página|12"
       },
       {
-        "title": "Adiós a la falta de dólares: el cambio histórico de la economía argentina en 2026",
-        "description": "Adiós a la falta de dólares: el cambio histórico de la economía argentina en 2026 Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1ItYXcwNWhhV3pNbHBWMEplZnBrNVhiMVM0cUxBSlFCdkFtbHlLVklVdXMzLVhjMFljTnRnSFRLZWxPRmtCeUt0WkVHd0xZaFpwZGtUMnpxdmhrVGxfUllWY3NDNEs0dTN6bmNWMzVDLV91cTBXcjRXclRObGVYMUlTODJJWHdXbnl5dHRIVUFiM09feXpLUHlMV2xTZndjbzhjOEVxMExUeDFyRGFqeWtZVWQ0SnRV0gG-AUFVX3lxTFBhSElYNTJBcmhYTFgyZV84amE1a3BTY2Z6M05qS2sxTFhGRUNpZkU4NzcxaTJ5V2FnZE4wUUdIeUNvdTQ0WURnU2xGLTNhOGQ4ekhiVGVuc1hmeUI4VXNRb2ZLYzlpY0g2V3B6V05Rc0lCdnRHc2ZyMXBUWmpvbGJFbWJSbEUzX29jb2NSa19QZVlXMng4VmxtUXVuX0tWa0xhd2NYQWNvVS0yQW1YdHM2ZG9YbzZsWWs4SFVCTkE?oc=5",
-        "date": "2026-07-20T11:48:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Energía y minería generarían más de u$s23.000 millones en divisas por exportación",
-        "description": "Energía y minería generarían más de u$s23.000 millones en divisas por exportación Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYkU4NlBZLXFNT3NfU1lnMGFtSXQ1YzRGc2tyWElnZE5DazNvTHJabVh1ako5MGNaY2hfeTFubVFET196WlJ3d09lZUM0Zlg4ZkctbW5CYzJmNGJQYWlvemU0TVQzWUt0WWxnazh2bDlQcjAxdDd4NlByR1BnS2t6WjUtVlJuTmp3UjNxN05INHhoQ2ZoRW5UeUpSaEZIMk5LWjZj?oc=5",
-        "date": "2026-07-20T12:55:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "Invierten US$ 2700 millones para montar la planta de urea más grande de Latinoamérica: estará en Bahía Blanca y se espera que genere 2,1 millones de toneladas anuales",
         "description": "Invierten US$ 2700 millones para montar la planta de urea más grande de Latinoamérica: estará en Bahía Blanca y se espera que genere 2,1 millones de toneladas anuales Agrofy News",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMURkQjNrME9FSThLZE9WV05ZWmZVWnJka010bnlGTENyYWszT0k4ajl0VUl2cFJtdTFhM0JJeEZfV25kY28yQ3VHMUpLcVdYb25hUHF1RGlTZkZYRGNUTkZySFM1RHFPcWtRLWswM0FYVjEwNkZZZGR4UjBtWGNRcE5heFAtMC1LcHQ3MmwtZFBHTWtvYzJWVXdpSVBtMk9GZ1VLS3RaV2dTNkQxOVp5ZzRR?oc=5",
@@ -203,6 +189,20 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1R0aXhuQ0ZFUFZ4RmNIWFV4aloxTXM0TE5Ed0xzMEhHMG5HOVM0ZGhROHJ0bXNtU1ZOdl9VTE4wSm4yMnNKbk94aUZQc2VfWnJtdnhiMzhlQ0dRVllZektaeTBHcTBUaFdpeFdWenYyTm9PdkJVSEE1R1dKNGlpaDJ4TFlHY3B2Q3B2S2NMU1RYcldVQVVKeTVfWFNvWGctNmxkVmFwTVREZVBLUUxISjRQeDRBZFlIdi03bkFNT2ZabXdEaFlKZXVTRUlEMjFBNXotQi1QRTZMRVJsM2dNQw?oc=5",
         "date": "2026-07-20T14:04:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "YPF sumó otro récord en Vaca Muerta: logró más de 203 horas de fractura continua en Bandurria",
+        "description": "YPF sumó otro récord en Vaca Muerta: logró más de 203 horas de fractura continua en Bandurria Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWUtxQ0h0WHRONllyUngtNEh6NHZ5bklxUU9OX3h1ZmtvTlY1aFhwTjlsdmpBQ1JOeHZwRGFwMVVJR1Q0VnZlY3NsTUxndWZCUmJGX3hWQWwwUW5OMThTeF84NVp5T2s1T2RiWXEteWRUWFg3REI2eFgxMlFkcTdLcVkyR0l5MTBNTmJ3bFNuZjR2Ykt6Y183VDBWZkpwYUs4N0tnWDVCaXVla3pQTGdwdmt3SGJ1dW1SUll5OEF6WjQ3b2JBQVNF0gHMAUFVX3lxTE9wNkc3b2pBVDcwTzI3ZVhhVVlhNm14a01VQkc5cG1GcWFLdWxGcGphekZlOTdqSTBrMjhOdUlXazUyWGppM1lHdmVHRXppejdzaXdvYmxvN011dkp3X3hYUkl3RlVsU3kzNGRqTnk1QkdTRlRTb0Q5TjN1U3JYVmhsWF8xMTE5a1lsOU5EOVpxSXBPZzYzWFVxOHYyWllPdkhWRlZHNGdUdGpzTVctcUZ4RFNQbWZjel9jckZGWUt0M2wtWFc3b2RUd05QbA?oc=5",
+        "date": "2026-07-20T17:45:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "VMOS moviliza 16 buques para construir la terminal exportadora de petróleo de Vaca Muerta",
+        "description": "VMOS moviliza 16 buques para construir la terminal exportadora de petróleo de Vaca Muerta Pescare",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFdDbWRHcGVXVDQ4aENOdzdpeDk4dG1hTUlIcmxKX1pfYjRUU2xVT2YyWG1qM2dGbVM4bk4tTmRvRU9FMEVKNjB2a19sN3p2YmJXV3R3UnlhajllUE1PMjRHLXB2Z2Z4RFZDTk1qRGJUajlMNHNiZFJrTzVscFN3VlZXZGI3MjlDU1I3dHNYUUdHSExveTBPZzZsSHJjM1A5?oc=5",
+        "date": "2026-07-20T00:08:14+00:00",
+        "source": "Pescare"
       }
     ]
   }
