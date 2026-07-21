@@ -1,41 +1,13 @@
 {
-  "updated_at": "2026-07-21T11:02:14Z",
+  "updated_at": "2026-07-21T13:26:11Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street",
-        "description": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQW9qNXNhaVVnVmFfNkVTR1FmQXNEN1RnZlZRbGNmZmJBUFJJZmdDZVB0TFo3WDRJTVhOX19KWGdOUG0tTUR1RGRoaDdjcVdwUUJuUDRKRlVCcTN4eEhtbUhXWjF2NThDaWZuMXhvUHk4YzlpS0xMTXNzemhuUlVEcXd0S2dBM0lrbjF1NHVsT0pwWGswZE03d3pGYVk1YWM1Nk5nbnNJWm1DbUdxVFp5RXJzZ0plQ0hHQXdj0gHPAUFVX3lxTE1wOU9YSEE5ejlNd2ZGeUpHZDMwWHd2ZTdoZjFCYjJreFZMUlJTcjFjaDZpRnpzVzJXWHBlRkdQd1l2SUp3ZUs4Z2dTMVNjVFRMVDdSYmZBYVBCWWR1azZwSUZKNnFiUHRXc1ZNUlBPaWcxbDgzVXI1RWs1WEM5ZmRnYlA1anNpYnV5WmNweFAyTXFBU2Nmbkk4bnJwRmg3SG5NU2dqNjhMZnF2NlRwSjVTRUpNNHJ6Z00yTnl4LXliYzBEaXJEckJkajh5dnROZw?oc=5",
-        "date": "2026-07-20T20:44:03+00:00",
-        "source": "Bloomberg Línea"
-      },
-      {
-        "title": "AMD y Microsoft potencian la IA en Azure con chips EPYC",
-        "description": "AMD y Microsoft potencian la IA en Azure con chips EPYC Enfasys",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mUU5NVGpLZllPWlZrUkx3UXV3Z2plWHZqZVY2M2swU0xSaDlpNnlFeTRVLUd4cE9pVTIzc2VKbWx3b2Vxdm5fbGdUUTR1d0YwMGpZdmM3ZTJpcEtBbGJqM1ROYnBOY201WWpYVVM1clZHZDVpdDFJMkpR?oc=5",
-        "date": "2026-07-20T19:25:26+00:00",
-        "source": "Enfasys"
-      },
-      {
-        "title": "AMD recibe más apoyo de Microsoft: Helios entra oficialmente en Azure, ¿el mercado de chips de IA recibe a un verdadero competidor?",
-        "description": "AMD recibe más apoyo de Microsoft: Helios entra oficialmente en Azure, ¿el mercado de chips de IA recibe a un verdadero competidor? TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlBTMXk2MW9KRGxyMnBDeFFoc2k5VTJOXzlSUTNZaW9VckdsbDNnTkVmcGdvMkhSdmZRV1lxZHJialRSam1hMjdxR3ZsNTUtTmRaQ0MyTjJJeUxDR3ZteUlER2NWRkFZeUQ5X204N3J5TmNEbTlIaUdNNmFEV1lBWkVQOExfYUdjVm9ZRnd0NW4zb1dZaUNWb1JLZjlQUmowOGpVY0Q0Z3JWTlBJZUd0SkZQVllQbDJYR2FLNVQ0c0Jud3pmclhwcXVYNWlodjhCMm14VU1pRTcxaUk?oc=5",
-        "date": "2026-07-21T07:49:52+00:00",
-        "source": "TradingKey"
-      },
-      {
-        "title": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street",
-        "description": "¿Qué esperar del próximo balance de Microsoft? Esto ve un gigante de Wall Street Rosario Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRy1oS200NGdxUGVzUVhJa1FXU1hpZjB0M2hOaG5oVjZvOGtyTHFuS3NxbzVfZ05yV0NsWHlXczFVTGl2NmJaU1dIS0J4Wk5ZZ1BZYlpRTGZJdHVvTFBYUjdfVlU4dGsyVzU4eHpfX3VBMWJxcmdWbVNtYTFYc3kyal9LcHJWQWxfVWZiMEpGWXNNNkhyVEtVQUpYeXMta1pvdmRuZ3o0bnFrb2xpZkUyN1dWQkk?oc=5",
-        "date": "2026-07-20T20:44:03+00:00",
-        "source": "Rosario Finanzas"
-      },
-      {
-        "title": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos?",
-        "description": "Microsoft se convirtió en la \"oveja negra\" de la inteligencia artificial: ¿cuáles son los motivos? Ambito",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME8yR2tjU2I3NFZYMTJXS05Wc3RLZHhnSkx3dHBnc0wya0pLYXpsaXVFSzJTTThCdjRqdUV4QWdJVzJCczRTajhMUnhZdENsS1ZISC1LRDVDQnFYdFJOdmd5SFVLS0lXdV9lVFlpU0RCWXlxWXN5VWlzMmVBT0FyYmJnUG9ncHJCamhfa2oyZlpUaWJ2bENlWW10cWtEcGs0RnhMVWZ5N1F1OWRUTjBLbmQ1TGtCbWphMnZKYmFXdUJMenF3Tkhj0gHMAUFVX3lxTE5pTGZoNGE1OFV0VGJqY21GRTBjNlhodFJ3VkZtcmp6ZE9DTnVKYW5NemVncEY4cUVjbEF4NGpzMkpIMWJ3NlluaVZYazhtYXo0eTRodkQ1Y215T3h1azJSdFktelhuY1loVEZfY0dubVcybVo3MnZodE0xanlRMkhTMGVkMmh6c3dleXpGU0I4bVRFbGQzQWNaVnpSZ0NIcU9pUXdUU1M2OTJvampCUUNMNmxKZ0JmZzNPZ1ZmeEprLXozX1N3VXEyNUU4bg?oc=5",
-        "date": "2026-07-01T07:00:00+00:00",
-        "source": "Ambito"
+        "title": "SpaceX negocia con el Pentágono para rivalizar con Microsoft, Amazon y Google",
+        "description": "SpaceX negocia con el Pentágono para rivalizar con Microsoft, Amazon y Google Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR29zdEdhLV94NmZNVWVfNVlNZlRzZzFTUzM2YUdocFFBWld3X3N1aTJRQWhhNU5mZjc3T3h0TEx2ZnducWozVkZrMTJpaFhkYWpuUHQ0MXI3RUlzY0pqSFRtcXVubFpFcTRUVFdoc0pYd3BlWGppNEdrNHUzdThiQ2NrWTBfNXk5R3JOdFkxZlY3bG9tZFp0cGN5Zk93Ym1PWlktLQ?oc=5",
+        "date": "2026-07-20T15:45:08+00:00",
+        "source": "Yahoo"
       },
       {
         "title": "Microsoft desplegará la plataforma de aceleración Helios de AMD en la nube de Azure",
@@ -45,11 +17,39 @@
         "source": "Profesional Review"
       },
       {
-        "title": "Microsoft en resistencia Ichimoku: niveles en tiempo real",
-        "description": "Microsoft en resistencia Ichimoku: niveles en tiempo real Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGJ1M0dTeE85TXB6a0NxbkZWV1dKRUFBNVQ5Vl9tcDNjZ2lCdkVYWVlvUUxKN3hxNjRHSjg2bG5PR1ptV2dsVnB2Wk5seGpNSmtDVWZCaXI5YVdoRjE0UjE2SndhSmo1cGdqX191MldkVHB0bXNrNWZnWndHOVlWV19kcTlWcWxKY2Zqejl0X1RfbHJ5MjBtZ1hqLUlHUXpEdFVlSEdBTWRtX0lhS0o1WF9GQjZ2WmVV?oc=5",
-        "date": "2026-07-20T14:04:00+00:00",
-        "source": "Investing.com España"
+        "title": "Microsoft quiere bloquear la captura de pantalla a los PDF",
+        "description": "Microsoft quiere bloquear la captura de pantalla a los PDF Digital Trends Español",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRndjX2I1TWp6NUtXUmJSSzM0SWxJNnJOUVVpX0ZHSkxIN083ckpRMmpBczdQVm1STFRLN0xiOS1CQ3RuS1lHMWU0NV9KT3pSalY1bExpdVlncG9BdjZvUEdSWHNvNjFSOTh3a3dkN3k1bFQxREQ3c2wwY092aXhaQWM5a1lQZEUtQ3lKb2p0QjhWX1E3b0tUMHk2T0NtUDZldEo0?oc=5",
+        "date": "2026-07-20T16:13:48+00:00",
+        "source": "Digital Trends Español"
+      },
+      {
+        "title": "AMD celebra en Wall Street la expansión de su alianza estratégica de IA con Microsoft",
+        "description": "AMD celebra en Wall Street la expansión de su alianza estratégica de IA con Microsoft Bolsamania",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV19hTU16MGRNWHF4MUVBZ0RIcVpieWdqMkRNRE1FamhxcEtuZGdnU2FEZGI2ckJjVDlyYzZLVkNfaGVVX3F2REU5LWIxZHZNakJBQXl3eE53Y0w0N2g3cmZYRnd4YzhoRVA3V3UwaTQ3c01ZX0l0a2ZWT3ZUZHVZWXpPY3pnQzRQZzRwYWFESDZEbTJTcDRseHJ0OTNTUWNQTFBjTjFnbWxQOWRTakdTZWFHQS1IbEYwUW9RdDMxaUlhSjBH0gHKAUFVX3lxTE0tUTlYd3pBMFdJWFFaendjQlItTjAtRlgtbFpmTXgtSmVlVnVmazlvdzdXWEhwU2VoWi0xOEk5ck15cUs2LXl4STZWenIzTDBqQXFDZ2RReUtSOWhTRnZvTkVTWkstYzlZc3UzNERtUXNyU3VBeG1UdmZvdXJRMGc0eUh0NzJReE1mTXVkZ3RwVTBiUWY1WF9lNUJOamtxZjF5M0VNeFhyTVhLOFo1VW1lMUtCTi0tOE1ib3pBbG1EbmNqZllCek9xY1E?oc=5",
+        "date": "2026-07-20T14:20:18+00:00",
+        "source": "Bolsamania"
+      },
+      {
+        "title": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft",
+        "description": "El dueño de Lidl desafía a Silicon Valley: el hombre más rico de Alemania va a por Google, Amazon y Microsoft Xataka",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlNRNl9HSmJGV3pPQWtxTDBsZG4xMjRwa3VaQTh3ajY0YjFGT210UXYxTmhVc0dZMjg1OGYzRU0wM1VQMU5EOFVtZGxEb3VGaVY4X3VHdFdRTXdVOVhWb1MtYjZiTGlvVnB2RWZaQTlrcHlRZnVLX25MT1pxX3lDT3luWTJxV2dFRGdsWVJxMHVQQVBFOG5UdDVka3JKWllTWlNaR1dfX3NqOVlnTHFxOERZLUhBY3RldkdXUtIBwgFBVV95cUxNSXF3RFUycml2X0Vrak0xZjh6cXkxQVBZVUhQUXhCTEttZm9ucWUyY3dBcnBoN3pRUTRfZ3didDhTbDRZYlJTOE9MWmJ0UVFub1Y4NllheUQtdGZ0eTJPMWJRN3F1T1RjSjlCLUdtMmYxWlRya2JmY0oyUzBoVHZDZHFyX282aHJ2cEo3SVZCV2hWS1NHbEEtQVhJR0Zvbm1Gam4ybm8xQ2hwTGtqVHhiX1M1YXVjaUx3MTIwdEhTWC1WQQ?oc=5",
+        "date": "2026-07-18T11:30:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace",
+        "description": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace Xataka",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXN0SW44RU0yTVoxbUlHNDlUUVdWX0VkNE5nVVQ2UWN5c1Bsc2c3aU1rSkE3YWlyWG9wOEFMd2lIMEEwNVdxNWY4TWVuOXM1b1YzVWlheVkyQ3c0Q3JjV1huN1JXOVF6OF8ybGJwNWw2T09yc3RoWVZVa3ZXdXo4NVRjY2xhV3FOWG9vOEhtdnIxTXB6S1dyY2JhaDg1NG1RZ1Iyc2N2TDBjSVFiQXlDZ3FRY1RHVnVqaUFSdjlYUnhNeVM3c0HSAcsBQVVfeXFMTkswRksxczNCRUpQMUp0YmNGV3BNWVVIZE5IeHBQMm9EajVpWmhYR3k0ZFlrYVotRzVTRTRVenpob1EwMFZSY01OUlFtRUhZZXVrVWI5ZlJWQmtpSHZ5eTNQMndrVXVfZFkxeE9rOXZYQ2lQLVR2MEVoMG5zRDlQY2xJdlUxWTQ4RVc4NGU1TFNqNUtZTGI1MVBBMF95Y0NxLXRXWXRNVUNKdVpJZUcyckdXcHYwN1lIVG9uS0RaWWJMUDhvWEJLTUVsTkk?oc=5",
+        "date": "2026-06-09T07:00:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\"",
+        "description": "Satya Nadella, CEO de Microsoft: \"Cuando consumes inteligencia estás creando inteligencia, y lo que creas debería pertenecerte\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaHdZTGYtY0E4eXJVd05LamtRY3FMQUNtZldfYTdRZXhLTlJ1MGRsUE9mZ3doNkU3WkpZd3ZCYWU4RnMwZmNqLXpXRFdxUV9lRnFRUXJUcVdOUnoxZzBBeFlsNGZiQ3ZOOTQtWjVDUTloWlJaQjN5VHU5OVkyQ3R2NGZWZGRfRThwb3FJOU1LM0RsU0lzZkw2RDBabU52V3Z6ZUFMSHBySUpYcWtPbGE1dE10XzJFSG5uYTBCSS1PR0hQLUstVUtwbS1CM1HSAdIBQVVfeXFMTUUyNXpESUVNempOR29taEQxcExPNVVDMUs0N2QwZEpuUWVlMElEcWlBVzRNSzk3YW5qdkU5MU9tbjhRWVNhMVVmSFRUV283UVlBbXR4X3FrbkYwMVNJczZVQnVpYk5SS1Yxa00zVFdENXE1VUdHZU5SOXRkWHZ5aGpCdWRIdVFvVEloMHdjSk1DcWZKZWxQd09wdTNNUllnaFVBTXNsaFRqRjUyREJUWjJjN3kybG5TT05tOEVYMXI1WVBKQVlQSjlqUFJKbGlWcldn?oc=5",
+        "date": "2026-07-14T10:30:00+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -64,7 +64,7 @@
         "title": "Por qué un seguidor bien elegido puede valer más que un influencer en una campaña en redes sociales",
         "description": "Por qué un seguidor bien elegido puede valer más que un influencer en una campaña en redes sociales Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1ZaUGJpS090YlJPaDFfNVV1TndMbzNNa3c4ek4zSWlNajg2ZWV0R1VJLXdvNnlSYm9ySWlQV2VGUGhsQ1hhbGtSYXh5R1VVdDhxLVoxSGVxVFVYQnZUTGZHUUx5TGpfNk1YLXRkbFE4VHA1SkRVVDBUaVFweWc0R3FDSjdVOEpKOWFPcmZyaXRJaUFSRDI2VklMaENNMUVJU2JOWUNzUkV5amdBRjdoVU5NTE1sUU0xMk5FbjYxbUVBMHdJbGRBT0YyVDAxMjdqMlNQcEZvcVRCMjBzbzhv0gH6AUFVX3lxTE1JUkdDbFFOaEdPMFRvT3M2bzB4bUUyZ0prVzZjVXozclNUS2pvdTdjYkpqcnZzSkdLbHdBMTh4dWlZR0U0cjMwc0tidmdFUGdmelpyUFZzNXFObzBQZ0NQT1ZWQVUtaWVKMV8yYTdHNElvYXpDQi1JZVBZcnZnZW5TeFZNN2c3RnlSTUU4c3I5ZUhyOHFFalFDbkhxcnFpWU1vSE1vZzlZZ1pxNjFtYXpSUEp3bVRHdFFRUFU4TU5xOFVFRkFlWnJGR3I0WDZ4NjB3MUI3U0VYMkxMQkdicDdLMTJTNERkUmpTWW9sR1dYdjJaX2ZYQ3Q5WWc?oc=5",
-        "date": "2026-07-21T00:18:09+00:00",
+        "date": "2026-07-21T00:56:00+00:00",
         "source": "Infobae"
       },
       {
@@ -96,20 +96,20 @@
         "source": "LM Cipolletti"
       },
       {
-        "title": "La publicidad digital en las calles españolas ayuda a detener a un fugitivo del Reino Unido",
-        "description": "La publicidad digital en las calles españolas ayuda a detener a un fugitivo del Reino Unido PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVF5N3pBenhmTHhuQ0VpMmEtREF3RWlwd2dWT1QzTXVtV1oxYVZHY28xcVhjWVdqSHc0cjBKOGNPbTdYdUNOZGxXZmkwVkEzeDQ0TWRxMkE2UHBEVjlfb1pUU19EbWJpYWpPYk1NTS13b21sYTVqd1h0aGFyVTBsdDAyM3I5Qm0xcjhsd1dKWi1KanRidERRd18tczNUbnpUNnZ3SlZmWWllRkM2Z1E?oc=5",
-        "date": "2026-07-21T09:12:33+00:00",
-        "source": "PuroMarketing"
+        "title": "Está abierta la preinscripción para un curso nacional gratuito y virtual de marketing digital para emprendedores",
+        "description": "Está abierta la preinscripción para un curso nacional gratuito y virtual de marketing digital para emprendedores diariotortuga.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNam1yUHZ4N29YM29DT0FESHF1UnJ6SnBXb1lZWDl1RER0Z2VmeDBRdnJxSmJoZ3pkUUhIREczWWYyNUFLajR4dER5NVg5QVBDRGhRdUpKeFdCdUlTSUczOE9wM1RsYWRiREo0U3lqM2UxajZRWXNDU0trNEtDNjBTWDI5UjNwb0hscnd5T2doQVVVQ3BlXzBxRGRLQkd1eHVEODlNX0lueE9iNG96cHFwMUlIYjhfaTdkTTlMeFJJSFE4THdVa293NlBTYlJINnEwVFI5MW9B?oc=5",
+        "date": "2026-07-15T10:48:00+00:00",
+        "source": "diariotortuga.com"
       }
     ],
     "IA": [
       {
-        "title": "Cómo las grandes marcas redefinen el deseo en la era de la inteligencia artificial",
-        "description": "Cómo las grandes marcas redefinen el deseo en la era de la inteligencia artificial Perfil",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnAyWVNWRTh4eW9EU3VUaGtDUEt6Tm5MRDRQcjJRaC1rc0hzY3Jxc2JTLXozMWQySWRtOERmODBYb3Z5ampMbk1kX3dXX2gzd1RXTEtVd08yMkZ2a1BPUFc0MTVLY2Z1UjJ2OXB2Q0xUOGc0bEk2VzdGRFgtTVdnVVV4Z1M5Tm5LNlktN0xJMF9yQdIBlwFBVV95cUxNLVdVYjNSYVdIX1N6ZFlreFRFU3U4WVE5cFRoS0IxMi1KS05JdHpYY1pqaExLZ1VzeEUyVkZVN216a1ZkVGNGZ2JZU2M2N3VYS1VNSnhwS3M2d2tpTDJLQnpLQVJtcUIyRDlSQUZ6eWRFVTFPN2lPYUZ5NnlfQW9YbGo1U2x3cmhYV1FNTlZPN0VKcG9IREFj?oc=5",
-        "date": "2026-07-21T10:21:00+00:00",
-        "source": "Perfil"
+        "title": "Estudiantes combinaron ciencia con IA para investigar el bienestar animal",
+        "description": "Estudiantes combinaron ciencia con IA para investigar el bienestar animal Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzgyY2s1X0p1RzZvODV4X1ZTcGNHdHVXT1NySjY1bnJKNkFiSkNMcHJPb0NoZ3VMMWV4Vk55dXA1czVNWC1XQkJWMWN2dnVxTUxJLWw2cUpsTHd2aTFXOTJ2djhwTXU0cEd1Nk5uREJNNERrQU9ROVUtemo0NGE3TFo1cXJrVjl3LWlzZjBaeEtUZTNLVk1NODhIZktndEVTSElKb05IRE1Pcmh0bGRkWG4zT0JZZ3oyNUxOeg?oc=5",
+        "date": "2026-07-21T12:16:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       },
       {
         "title": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN",
@@ -119,11 +119,11 @@
         "source": "Gobierno del Chaco"
       },
       {
-        "title": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina",
-        "description": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina Agrofy News",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdl9mT0ZiMUlxY1N0aE55T2RLZ1k0QXR6emo3Y1I0QnJCSXNhcXltQ1cyRGhQYVFsa2ltRGdhcEpaSUx0VDhnbFNjLWhZWld2eEFGLXpPdzBpLTdJSk9pSFFOMFdLRHpPc0RfM2ZhTDF5cDlOTkJEV2g3RUczYTRNczNOY2NwcGVQeXRST3dwOHVoaUdwT01QNlBpa3o0UlpZTTMxanI1aDVxM3plbTE3UzJDdFhIS2JHd3hDOTd3eXh0d3Z1WGE2bXBVQQ?oc=5",
-        "date": "2026-07-20T19:59:12+00:00",
-        "source": "Agrofy News"
+        "title": "Por primera vez se evaluará a nivel internacional la alfabetización en IA: Mendoza se ha anticipado y trabaja en esa competencia",
+        "description": "Por primera vez se evaluará a nivel internacional la alfabetización en IA: Mendoza se ha anticipado y trabaja en esa competencia Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYVdrblV3cjNXRmFoVFZ5NUVmVHh3d0hSczNadDk2RE1pS3JEbzRGel9BRDFvUGxqcUdCaGdQaXFOUzNxMThSNDZWMHpuWVVvaWc0SWVyODVGRFc3Zmk2QUVJaXdlR2NLUmdVYzNhelVMZnRuUjRSX2N3UUVsMlh3U0lCOUluczJlVjNoR0NpdG1YclB4dGk3Njk4cTVrWUh6MmM4ZjBSWHpRMFFrWnZ1ZWhfZEFiSWlJOUtuSUJWNzVQRzZpQmk5aUQtaGtxT0laT25IYWluLWNGcGFfTkl4TjFudDNEckpsUHJKQWxlN2JBTjVKdFZLY0pzcFllY3VnYlBZ0gGeAkFVX3lxTFBQRzduM2NGS2x3bm9jTGNLVzQ3QkpwRENFUDZSLTlIVDNvZjdnTXFQM191N3V5dVMtZF9nQWFzMUtqWWZrQ0JXNGhHUmVJb3VfemN5bzc2UkZHdWtlZ0NqV0lzdlpVUHRXaDlhNE83dEJuTDVyS09ra2lHZ0cwdk0yMDIxYTJSa3M5N0hndWRfZFdPWUtOSDVXUlZFYlA4RUxsZ1k1NE03eE1XRlpsVzNKTW82Ty1QWGRMb04xT1J5VEF0RnF5azNHckFIdFJXTk5tdmJZcVJBaXhYb2xHbXk2UHp6XzI1NnpCSkh4VHJpalA0VTU0QUlrOGVWSTVaeTE4djZIX2gzdU5XbnFaUlFMd2tGallyem5YbkdfaHc?oc=5",
+        "date": "2026-07-21T04:05:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Costa Esmeralda implementa un sistema de seguridad con inteligencia artificial, drones autónomos y robots de rescate",
@@ -133,6 +133,13 @@
         "source": "Clarin.com"
       },
       {
+        "title": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina",
+        "description": "La Cosechadora más GRANDE del Mundo: Inteligencia Artificial y Cero Pérdidas en Argentina Agrofy News",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdl9mT0ZiMUlxY1N0aE55T2RLZ1k0QXR6emo3Y1I0QnJCSXNhcXltQ1cyRGhQYVFsa2ltRGdhcEpaSUx0VDhnbFNjLWhZWld2eEFGLXpPdzBpLTdJSk9pSFFOMFdLRHpPc0RfM2ZhTDF5cDlOTkJEV2g3RUczYTRNczNOY2NwcGVQeXRST3dwOHVoaUdwT01QNlBpa3o0UlpZTTMxanI1aDVxM3plbTE3UzJDdFhIS2JHd3hDOTd3eXh0d3Z1WGE2bXBVQQ?oc=5",
+        "date": "2026-07-20T19:59:12+00:00",
+        "source": "Agrofy News"
+      },
+      {
         "title": "Presentan un proyecto de ley para etiquetar contenidos generados con Inteligencia Artificial",
         "description": "Presentan un proyecto de ley para etiquetar contenidos generados con Inteligencia Artificial Radio UNRC",
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VUEFyaTN3UDhLWWNSN1hITk8wcnAzZENqTGxlYld6MVZmRGxQd0dFU1JWcDM1Z2l2M2hPb1RqY0RkWjloWmFDRmxB?oc=5",
@@ -140,27 +147,20 @@
         "source": "Radio UNRC"
       },
       {
-        "title": "» Inteligencia Artificial para el análisis de textos: Curso virtual del PMet en agosto",
-        "description": "» Inteligencia Artificial para el análisis de textos: Curso virtual del PMet en agosto unsam",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTd1VTVuOEUwSktCV3k1VzJqVXIwbnNfLU8xVFBjNkNpdFZxWmlXZmFyMkY5TWNJUEUzdEp0R1pVQ2lpOVdDRUVabHU5YWJTZ281c1E0R3lSbk5nWjEzcGpaVHM4RlQxUlYyYTYyR0FLQk05SlNRMS1BR05uRVlDc3h3c1NPOGNVUzJ5TWlwMklFNEZHS1V5WFlKUUdQemFVTVNMRmE3eFNxTzYwcGw3TEhjTml4R2hoUGhRZWxoQmh0VDg?oc=5",
-        "date": "2026-07-20T17:46:22+00:00",
-        "source": "unsam"
-      },
-      {
-        "title": "Wall Street sufrió por partida doble: más por la inteligencia artificial, que por la guerra en Irán",
-        "description": "Wall Street sufrió por partida doble: más por la inteligencia artificial, que por la guerra en Irán Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUliTUFweUpyMkdBcmZ0SVdOeFZ3OHZJc3NiMEh3QWtmMFp0d01zRmd2RWVGUGt5cHNFRkdTc0JTTmVBZFdkcHlSZFR5N3BCVTUwb3o3TW9GOGVGU0JmT1NwMXEzcjhHT3ZSUHBHNUhBSVBLSXZndE9jVFB1alUtdWJkVlg4M1N3Ml9iTnBUeDBKNUxHOHp5dzhaeHhMZEVwanJhaENUWjRudHFvWUlFdGVVTW9RNFdVOHdqbnR5YnTSAcYBQVVfeXFMTmpkdlpUbTk4bWtnN0h0N1pmdERVMVVnaldQa2Nfd3JZWDZ2UEV6UWtWS3hxQVQxUXVJMzE2S2tGZmQyU1hlWHdXRmZNakpCRmJ4bjJKNk41cVZybk5QV2V2TmpyNWVmTDV3Y1dtTE0yLTgxUjRzTlVRXzB5SkphNExWWlRsM0Y0TGtXUFFrWTlhYjhadkd6aG9jbHVNXzhuYVhVcXRnX0NtUW1UUkJoZjliUUhkYm9CSy1CV2dpdkN4a2sxUU53?oc=5",
-        "date": "2026-07-20T03:00:00+00:00",
-        "source": "Ambito"
+        "title": "Inteligencia humana ante la artificial: santafesina al Congreso Internacional de Aprendizaje Basado en Juego",
+        "description": "Inteligencia humana ante la artificial: santafesina al Congreso Internacional de Aprendizaje Basado en Juego El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYS10UVg4MUZuTDNpV2JzYmpuempac0dQY19XUzV0bjcxRDR0bmlqcDZMRXdDQmZ4S3ltNVZwdnFub3lERUVfdldNWjUtWFM1MTd0SXV0ckJFbVFFdWRRV0FXdTM4SE5NYWd2YmdacXZMY21BWFpjbkFtWTlsWUNla2taM1VKcjhSNUxXZUJFLVhJUDRYdjNhU0lnUmI0RGs0MVR0NmxRa3JMNnc3UHlKSHhKU0pVWk0xZW1GZktyYl96M09XbnhNTERWMjQ5UFlSbVN1WlVGNWp5Q0h3elpDSW5fZzZfYTRkb3g3OUV3WHVUdi1feWVaXy1Wcm5mWkEtc3FRc0RRUFZSOG55QjdKWk1RaWpjazQ30gGeAkFVX3lxTFBsbkJ5VVhrU0RrLVhNUzBZZDE4SFVBZ0U2cF9uQS15T25LYkZQcW1HU1Y2blJVbzBVRmcyR1V1UjgxVDB5Z0Fud1FOUVVVYzlGRi1KMnRLM3RmcHdHZ1JHT3dPY2ZGZDRQYjQ5WlZNTGsyeTZpODNJWmNpMmxNNzUzV0RITU1qcjlEc21WNDVLZ1VrRkJfeXRMVXBULWc5dHdTSFhkNGd4M0MwVXl1b1FzbURpNlpEN2xTcm5fMUcyUjNoeHZGa2ZzWkdCNUF1MGpvMF9QZVFweV9sb1ktTUhTQWNaWkdNY2ZPUG42UHNSZUh6NW14RUhTWFZlQkpnRFktNnJMR0s0MFNod3N6RzBwRktGZmxSUjNkaGkzYXc?oc=5",
+        "date": "2026-07-21T09:29:52+00:00",
+        "source": "El Litoral"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta",
-        "description": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjdfc3drcXA1TFFOX1NWOXN2SkpCVXZRdFVLYjFnWlEwNGpiYlhYTGZFNVR3WXlNTU1zMWx3LTdPbXpycUFfaUowc3FfcGs0TGR5NkpkYUE2eXZPWHZqWkJCZUI1TXg4Q3R6Q2UybEZDSmY0cmZJQlRZQXo1THdVWVpfQ2FFTVJfZHpxTmtrM2I1NXF3WU91Rl8tN1I5QVhhOWZKaA?oc=5",
-        "date": "2026-07-20T15:52:01+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Vista Energy solicitó la adhesión al RIGI de un proyecto de inversión por USD 5.800 millones en Vaca Muerta",
+        "description": "Vista Energy solicitó la adhesión al RIGI de un proyecto de inversión por USD 5.800 millones en Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNnNrbDlJWGdPWUZmZ2ZHT3dqRktrRE5iZ0JPX3BBWUNjQ0lHaldBRmZUNU51LUc0WmJtbTVRNEloTFRKMXhiVFVFLUk0U1RRcllnRDhwU0pxaE9sUlFuRm9LOXF0QkdNcl9oaGxmZ1BWQnczUlA1LTBndDBlSXhRU2pybjc5ejZrRHNwWTU4VEhVZkh6aEo0Nko4OVVoakN6eTM5Y1BJY3RuRXVCVjRfWmpMeks5NlhtVy1vLTQzWFVCQnhTZ1pRTFE5N2RzWkNobjNnbHd5OVdabmNqMDhWUXlOXzN6UdIBgAJBVV95cUxOVnRwZlJ6NlB1SWQ2MGhHRERYdzVXRUU0UlFUZDgzNHoxdmYtYWhpcEpua184TWV3QV9LU2FkNlo2aXkyTFhDNjVxaTlHd2cwS1luemVuLUtuVUlQS0ltcGpabmhuSkdYYmhENHNfODFXMEcwUVljcVJUU2ZMY0hhN2tRaXRkWHZBeXhQVGdEc1VBZ1lNeFhpTUczSVQtRVVLa3VnM3p4S0l1dDRydVFYTWpVMllocnZrTldGUUdycGplUzZsLWZDbkhYYWVzUXBpMmRPSzN6WS12Szk0bE8zdFFuUTY1bnhYNUJkVTJnc1RIM0hPejNBM0JsN2lDQnNf?oc=5",
+        "date": "2026-07-21T12:43:13+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Con el impulso de Vaca Muerta, Neuquén busca colocar deuda por primera vez desde 2017 y captar u$s500 millones",
@@ -170,18 +170,18 @@
         "source": "Ambito"
       },
       {
-        "title": "Neuquén aprovecha el boom de Vaca Muerta y sale a buscar dólares al mercado internacional por primera vez en casi 10 años",
-        "description": "Neuquén aprovecha el boom de Vaca Muerta y sale a buscar dólares al mercado internacional por primera vez en casi 10 años Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSHAwWGJDeXlzZUpwT2hvSDVSYWJIUFYtVU5fenNvckZKREozNDVSU3ptdG9MUl85NFN1TlU1Q05KOTNjOEdxWjNaVVZWU2RaODdRb1phS3BlTWJzZVlCdFR0R0N3dUJycVdmYlREczk3Zll3TVZJdlo4TDN0SVAxY3NHOVB3SjhQQklmclk1dW85c19ZREJVYmlQSFRSSkVsUDRDZng0dkkwazNfVFE2WkhpSmtrcl9hUzFHLW9fTkllSzBIeEdMSkNMTFJ2WDRwSFI2QlhIZGNyVkFSbUcw?oc=5",
-        "date": "2026-07-18T17:02:10+00:00",
-        "source": "Clarin.com"
+        "title": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta",
+        "description": "Neuquén emite un bono internacional por hasta US$ 500 millones: Rolando Figueroa debuta en Wall Street respaldado por Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjdfc3drcXA1TFFOX1NWOXN2SkpCVXZRdFVLYjFnWlEwNGpiYlhYTGZFNVR3WXlNTU1zMWx3LTdPbXpycUFfaUowc3FfcGs0TGR5NkpkYUE2eXZPWHZqWkJCZUI1TXg4Q3R6Q2UybEZDSmY0cmZJQlRZQXo1THdVWVpfQ2FFTVJfZHpxTmtrM2I1NXF3WU91Rl8tN1I5QVhhOWZKaA?oc=5",
+        "date": "2026-07-20T15:52:01+00:00",
+        "source": "econojournal.com.ar"
       },
       {
-        "title": "Por qué transformar Vaca Muerta en desarrollo",
-        "description": "Por qué transformar Vaca Muerta en desarrollo Página|12",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtXV0ZQb3pmOHBkWnVCamJBcWJveVM3OGdzLXQwYXBSdGNlRmNzWWRwaWNBMnZ3dmpFdWtzMk0yakx5Vk54R1I5M1ZzbThPSUdQaWdRSFZNZDZLbWtsSVQwS00xQ191VFhLc2lSdVdQLU81TDhWcE5uMEllSGp4bmo2bWxYY0FIekk1UWJ3?oc=5",
-        "date": "2026-07-19T18:50:52+00:00",
-        "source": "Página|12"
+        "title": "Con el impulso de Vaca Muerta, Neuquén vuelve a Wall Street tras 9 años y busca hasta u$s 500 millones",
+        "description": "Con el impulso de Vaca Muerta, Neuquén vuelve a Wall Street tras 9 años y busca hasta u$s 500 millones Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMnlwc3BQTTNkR0tDS09IV3hodVkzLWxBTkV6RjBsa1E0M1lUY0JISmpmX1FiOFdZMlh3SVRaMThqOUFJbEQ1aE1JQURSXzZLVzNFOFd3NHZMZVV1NXBPUUJiOV83NUdwTGFxV29GSDlwamZIVlJhU3F2UnhqNlpkeUs1MWxrV013QV9uTkFkVklKSC1YdFdlQXRBOEpiQ1VZOFMxbFY0OGVtOEUyYkVWWUVOZjA5NTFTaG4wVkNOR3lyS2FYMGFUbUtKdzFoS0VUOHRrVG9n0gHbAUFVX3lxTFBkWGdZYnF1ZGszQ0c1RTNCa1MyY25aRlJhWVJzaGRYOW5PeG1Ja3hBSGswbnd3ZjUxMEFsaEQ4cGdWdTh2RkcwTks3ZVNGRDFYLTV4cFUxVUtXQ18za1k0WVdFNmlycVNOSG5tZUozdGtRSGJtMnJ5djI2cG9BSS1SS0xDZ0M4ZVRnX1RUTmFWUjA3UlBFYXhORWFnamFQcjJPMW1HUC1IcVF5VDQ3bXpjSEZSUEVDVHIzaWplY2hiY1NNMkZVMmY4Q3hub0Z1SE9SV2ZYd2lfTjZYbw?oc=5",
+        "date": "2026-07-21T13:09:36+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Informe que circula entre gobernadores alerta sobre un límite de infraestructura para Vaca Muerta y la minería",
@@ -191,18 +191,18 @@
         "source": "Ambito"
       },
       {
-        "title": "De la Cuba de Castro a Vaca Muerta: la historia de los hermanos que ganaron la obra energética más grande de la Argentina",
-        "description": "De la Cuba de Castro a Vaca Muerta: la historia de los hermanos que ganaron la obra energética más grande de la Argentina La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1R0aXhuQ0ZFUFZ4RmNIWFV4aloxTXM0TE5Ed0xzMEhHMG5HOVM0ZGhROHJ0bXNtU1ZOdl9VTE4wSm4yMnNKbk94aUZQc2VfWnJtdnhiMzhlQ0dRVllZektaeTBHcTBUaFdpeFdWenYyTm9PdkJVSEE1R1dKNGlpaDJ4TFlHY3B2Q3B2S2NMU1RYcldVQVVKeTVfWFNvWGctNmxkVmFwTVREZVBLUUxISjRQeDRBZFlIdi03bkFNT2ZabXdEaFlKZXVTRUlEMjFBNXotQi1QRTZMRVJsM2dNQw?oc=5",
-        "date": "2026-07-20T14:04:00+00:00",
-        "source": "La Nación"
+        "title": "Creció entre planos y hoy es uno de los cerebros detrás de la ciudad que busca anticiparse al boom Vaca Muerta en la Patagonia",
+        "description": "Creció entre planos y hoy es uno de los cerebros detrás de la ciudad que busca anticiparse al boom Vaca Muerta en la Patagonia Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdUpkVHZlWlVpNEFwQjh6Wk1fWlJCMjE2dklHckhtUzA5YWFOZ2JiZDA2Zjc4VE56V3lBZlVJLWVub0JvUm9xQmZaZkVFSW5tN1NILXpLaDZUejNwZGdOSXBwRnN1Umd2WXd2RlJNWnJNcUNSQmtmMXlOX3JRbkFuR3Q1eWJKTGdTN3YxVWpUSnFkLUdYRFlVbXRxSHpQWjdvV2xWUFNrYXpzc3NGVWx6bElSaUlNdVFXWGJhdF9NYnVMakdRQXNjWU5LalgxSjZDUDV3YXgyY1k2Y2ZNWGkxdFNydTBjRDNBUEpHTjNucXljZ2c1MF9fY1YyWdIBgwJBVV95cUxNRWlIWXBJNllFRHd6TjVHRTk1aWNfdXFlN0tEeFZGRWg2UnZPUFlCTHNGNS1UM2V4NlY2N3gweGZMWUNyT1hFM0Z3TlZES0xfS3JvUlNnOW9TYktFSV9qRndHejhUNGE1NWpHYVJGSHBCU1JlQ292UVRDRUw0OUszaG5yWFd3UzRFSjN5akluVEFSd3Rqb20xN2xEal94WmNpNkNlTUlENVFBbGFOVXhTbjFYem80cHFJR1NpOWhmMXZVenI4NHkxX3dyUlZvZTJIbW04Mlp0UXRCYUpBMDlfMjVQQjcySXBwN0dtYXRHUDRraklXZEkwTlBScExOZ1g1Y2Ew?oc=5",
+        "date": "2026-07-21T11:55:39+00:00",
+        "source": "Diario Río Negro"
       },
       {
-        "title": "Invierten US$ 2700 millones para montar la planta de urea más grande de Latinoamérica: estará en Bahía Blanca y se espera que genere 2,1 millones de toneladas anuales",
-        "description": "Invierten US$ 2700 millones para montar la planta de urea más grande de Latinoamérica: estará en Bahía Blanca y se espera que genere 2,1 millones de toneladas anuales Agrofy News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMURkQjNrME9FSThLZE9WV05ZWmZVWnJka010bnlGTENyYWszT0k4ajl0VUl2cFJtdTFhM0JJeEZfV25kY28yQ3VHMUpLcVdYb25hUHF1RGlTZkZYRGNUTkZySFM1RHFPcWtRLWswM0FYVjEwNkZZZGR4UjBtWGNRcE5heFAtMC1LcHQ3MmwtZFBHTWtvYzJWVXdpSVBtMk9GZ1VLS3RaV2dTNkQxOVp5ZzRR?oc=5",
-        "date": "2026-07-20T19:21:00+00:00",
-        "source": "Agrofy News"
+        "title": "Por qué transformar Vaca Muerta en desarrollo",
+        "description": "Por qué transformar Vaca Muerta en desarrollo Página|12",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUtXV0ZQb3pmOHBkWnVCamJBcWJveVM3OGdzLXQwYXBSdGNlRmNzWWRwaWNBMnZ3dmpFdWtzMk0yakx5Vk54R1I5M1ZzbThPSUdQaWdRSFZNZDZLbWtsSVQwS00xQ191VFhLc2lSdVdQLU81TDhWcE5uMEllSGp4bmo2bWxYY0FIekk1UWJ3?oc=5",
+        "date": "2026-07-19T18:50:52+00:00",
+        "source": "Página|12"
       }
     ]
   }
