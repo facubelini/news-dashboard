@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T05:43:24Z",
+  "updated_at": "2026-07-22T08:17:33Z",
   "categories": {
     "Microsoft": [
       {
@@ -82,6 +82,13 @@
         "source": "Infobae"
       },
       {
+        "title": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? - Diario El Norte",
+        "description": "¿Cómo estructuran el Content Marketing las agencias líderes de marketing digital en LATAM? Diario El Norte - San Nicolás",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2JVU19fMS1SZUhKSDc0alpuTkdPcHZoUEtlZW5PU2p3NHpkYnNkbVN4NE03QVVFSHBWbHFWaWpuclp5aUhlb3ZON3NfZDBxM0gwYklDRW0yUnIxZ0F0bHAtWXUwS0JILVY3OHhDRGh4STZaVk85NDhmdzVjT3RzSFNVYS00N3A3dlJiM2JveGJ1Wnc5Nkc4UVFjZ2hDZ3pJbjhLZElYb012VG1MX2ljX0RFNk4waGVWcXc?oc=5",
+        "date": "2026-07-16T13:31:23+00:00",
+        "source": "Diario El Norte - San Nicolás"
+      },
+      {
         "title": "Cursos de oficios: de trabajos tradicionales a la era digital",
         "description": "Cursos de oficios: de trabajos tradicionales a la era digital LM Cipolletti",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVVVWHVTWFlXSWt0ZlVULWd0cVVvb3RMYmVmaDdud3V5Um1FUkxJWVNodWJPYVBjUDJCcHVzeFI2cmttT1ExbzRuTW5JanlvVGU2MDdDajl6TjVMSkktYzBZN3RvRWdfSXBUNEZlXzlhREJMNUZ3QS1UZF9LbkRCVWoxVEkxbWJ0cnBrazdmVUhRc3pZUGd5SW10M3VMd1lyZVHSAacBQVVfeXFMT2xNcVVsblh0S2cwUXg0WGg0bTU2VUpaUlVGa0E2Sk51dkFfalhpR0tSaWxfLTd5OVM4b1pMWWxwbjRmNTBMWURlLVlJRlBSZzdSakN2S0UyZHQyTkRiRUZ1SFh2UGlCQ25TTExEZ3c1QWN5b3VQbUhMOFRDUG8tTnR5TFhCNGw4VmFFQ3FxZkcyZTA1SW5iVHNqcG5PNjd2M1VDX3A0czg?oc=5",
@@ -94,16 +101,23 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMyX3laOE9yY1VEaFN4bE5IWWZqY29yeTBxczJJeTJZajk0NkRJU3BOSU5ReU1tODB4TTZldTJHUDFtYzJ3MGV6MmN0YWVhRzJLZkhHLURyblgwZWRNd1ZiSk5SQXRXYmlZazFrRFNPZEd3LWRPWWtsczNpR21PS2RFWTNEMElGUUJmQnUtWF9WMXVRUDZkRl82aDYtczNCbmFNc09XSE96VVgwSm4wX0laMXh3QklrTU9HUWxiYjl3QW1ycWc?oc=5",
         "date": "2026-06-25T07:00:00+00:00",
         "source": "sanrafael.gov.ar"
-      },
-      {
-        "title": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios",
-        "description": "Emoji: por qué un ícono de pocos píxeles se volvió una herramienta de negocios Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1Q1ZXVWSmNsel9LeDhBa2dHRGxtQWZqQXZ4bzQyQl85YmM2OHJ4T0FmekFvN1RZTDRhaVEwa1lZQlhiODN6S0tPLU5MWVpxUDdSalRhMmpWQU5jNUlEejAwZVF6Q2wtSkNKamFHZ096Z1dDMFAxNVpMYzZ6S3JMODhENzhpNFhxX2o2aWdFbTVSS1FySTlhOXhjOVV1c0R1cXFDMGVOSHZ6RTd5Z0R0bnZKQXB5ckdtRzBQMk9ickNKcEhPRV80ZkRocWI5SkljeVAzZQ?oc=5",
-        "date": "2026-07-17T16:13:26+00:00",
-        "source": "Rosario3"
       }
     ],
     "IA": [
+      {
+        "title": "Un agente de ChatGPT escapa de sus barreras y hackea los servidores de otra empresa para hacer trampas en un e",
+        "description": "Un agente de ChatGPT escapa de sus barreras y hackea los servidores de otra empresa para hacer trampas en un e Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSjh2ZUtyZnpnMmpmbFpVLTJiZ3YteGltUm5EVE45Q1ZzUzY0clI0bFZPVk12N3ljZ3Iwb3dYcjA0dG9aS1kzbzVxdC1KX2hRZFNRMnNzR3lCbjZ6REE5T3pyZFI2YXlSdm9SRlVrRTJ0dk80QTBOdDJrNmNCemJaTnF6Vk9Jc2pqTmRjVWtSM0FBcGdVVXQ2M0lCb0k1Q2NrMm02TmJtWDgtZmhfa1hVRElxQWNQLUJTVHJLUDl4UW10ZTZWZkU0bVNHVWFyU19iX3htR0l3SklTanpwOXdFYkUtSzBBbTZ2TTNvci1PVi1tZ9IBhgJBVV95cUxNa19rZVJrR2owSUpvTVl4QlU3Z1hfWmNHZ181aGJSRlUwZ0ZUbm10bnhEZHBXUE1sNlJRUDFSTGFiVnZwenBETDVoVUxJeHVOODcyYXlGdFhhMHNPMmpsTjdJRW02RnJkdVdQblE2VWJKWDF4Q2Rxdll6RUk0NmhWTXdKbUJQdlBuZUxCSEljMWJVdTFKWWdVUW1tWDRieVlXNWluYk9fWjhxX1U5Um9qcldEYmlqZktTWlFRWkg2SDZTYlR1M2otMmFTSWVTSnRVeTB0TWRlUkstTHVkR3JrTkFlRHRjdFFibFZEOUhhWWhKLXBqcDQ1YU5IR3VJd0JJSHlRTkpR?oc=5",
+        "date": "2026-07-22T08:04:51+00:00",
+        "source": "Diario AS"
+      },
+      {
+        "title": "OpenAI reporta hackeo autónomo \"sin precedentes\" ejecutado por sus agentes de IA",
+        "description": "OpenAI reporta hackeo autónomo \"sin precedentes\" ejecutado por sus agentes de IA La Nación",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRkR6YzIwbGVVSzNMc3pGblZnY0piNXpmcXZ4Y3pCMnN5Qm42QzZJWnJESlBQQ0dLeXIxMkF2SXNzYlJRMVJfQ1BBOS0taWxTZTlXcjU4czAyLXh5RGJJOGZqOUd1TWJaWUpQaDhxZlNPQ1RndV9wekNLbDNQVVFqSU5PZUpaZEhGRFRIWHhldU9xcm40MXRVclhoSHNwNUZRZVhCUmtYdWVieHN1TEduUUktSEwtaUdtWU5zRzhPVjdRb0FvakRqMlg1cTFBVTQ?oc=5",
+        "date": "2026-07-22T07:35:00+00:00",
+        "source": "La Nación"
+      },
       {
         "title": "La inteligencia artificial entra en una nueva era",
         "description": "La inteligencia artificial entra en una nueva era Página|12",
@@ -133,25 +147,11 @@
         "source": "La Gaceta"
       },
       {
-        "title": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN",
-        "description": "CONECTIVIDAD, CIBERSEGURIDAD E INTELIGENCIA ARTIFICIAL: RESISTENCIA SERÁ SEDE DEL FORO DE INNOVACIÓN Gobierno del Chaco",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaEJFbWRGZnlxQWowaGVWMlNhenc1akVoQjFhWGxOZGFjQ1k5bVl6NmpZcFNpY2lLcnk3c1oyU2k0d1NPOWNRVkNZbVZ6UjNzQS1EUmZuMmxvSnM1dHJkUXlxLWw2c3Nxd2lmZG1rWkNKLTMzM3B4ajBmN2kyNDlhb2VQbjFSZ1lycjJTRUJmX2pOcEtCWkNhN2FxamNfdFBOUFA2azdrLTVxN3VRcUtBekh1dURoUVZzeDI0UHJ5OFhRbmk0Rm9BNERqTk13c2xnZF9vYjZLaU9VNnNC?oc=5",
-        "date": "2026-07-20T23:09:11+00:00",
-        "source": "Gobierno del Chaco"
-      },
-      {
         "title": "Desinformación en el Triángulo Norte: la alfabetización mediática, clave frente a la Inteligencia Artificial",
         "description": "Desinformación en el Triángulo Norte: la alfabetización mediática, clave frente a la Inteligencia Artificial Infobae",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVlFIeXZNQ3RCSGV2WXFkQ0lXeU9FX1J1OXhhMmZTM2w2YjZJMEZwYjhyd0JpZFRuWW95emNmTVBGSzl2VXhLWFUtdDhZOTNOc0djbWNoX3p3aTVCNk5WZGg0YmtPb2ZOTGp3a1NtYmQxNTVham4ySFhPMGwtb2ZDMDJ3b0RjclR6V0FWR3RkZUtyelBWRFF3S1FIaTc2MXdyaDUydUtMNk5JczdtRzNVYXR0UjlkVzFTZ24ySDdPZ1VvUGxmT2RQano0SmQzM0owbk5oM0RzN1l0TFkwTHJneVE0Qi1GN2NuRUHSAYQCQVVfeXFMUE9ZVm1lTTRpWlozSnVzNjdSWk40NEpJVVlrTm1KRXlBMURuQXNQMkwzLXR3Q3hFOHVtWXlPMWl4MEEzNUtQeUgzV21Bcy02S2dseWlLdHJKejdvTHg0bG1XTTVYWm5XTkdHWl9GV1NaNnZUVlJ3NVJ6NU0wRkRRUlRNcHVCcTZpLWtwSmZMMnY4Z3lZVnZ4V1N6SWdqTXVTX2RXODlfNXdMTHVOaTUtWXBJMGRadzg4R1VKaXJ1bzh4YThYa08xSTg4NDVKcXotWEFoZUlPcHlYMXF1dThfUGFxZ1RqNUdpdEtMb0c3ZmRPbGxfWkhNLUNicnRNaXFuLWtOZmE?oc=5",
         "date": "2026-07-21T22:00:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Presentan un proyecto de ley para etiquetar contenidos generados con Inteligencia Artificial",
-        "description": "Presentan un proyecto de ley para etiquetar contenidos generados con Inteligencia Artificial Radio UNRC",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VUEFyaTN3UDhLWWNSN1hITk8wcnAzZENqTGxlYld6MVZmRGxQd0dFU1JWcDM1Z2l2M2hPb1RqY0RkWjloWmFDRmxB?oc=5",
-        "date": "2026-07-20T23:09:15+00:00",
-        "source": "Radio UNRC"
       }
     ],
     "Vaca Muerta": [
@@ -170,31 +170,31 @@
         "source": "Ambito"
       },
       {
-        "title": "Empresa de logística que trabaja en Vaca Muerta se instalará en Santa Rosa",
-        "description": "Empresa de logística que trabaja en Vaca Muerta se instalará en Santa Rosa La Arena",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFh2azJoS0F3bC1lVFB1cEdNRXFSeDZLY3NRZFRkenZNbzZzRlRJekdxdnhJemNqQnMwenp4Z0ZhYURnLVgtZHE3azRSd3VyV3lDUWZUUlVOU2gzM1NYOEwzQVhfQkdkVTlsWU50QUZUYnRXUTJ3MEIzaFk4NDBCMnpjRTdobmt2bC14R3BZVEZkZmxUOXpXbk1jem0wMjZrSHVhTkI0S0xxVmpkajBYWg?oc=5",
-        "date": "2026-07-21T21:23:59+00:00",
+        "title": "Vaca Muerta: un informe detecta problemas en infraestructura nacional",
+        "description": "Vaca Muerta: un informe detecta problemas en infraestructura nacional La Arena",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmpZWHBWNUJOZTRDVkRIOG02QUFoVTU5bDNuSDkwX3pOaTlhNVVCb2VNc3prNjR4MFEzUFR6dzhQdlBWNkZpRlNyUjM4WWZpUnRQZFpnM18tUmx0SlBaa05CSlJvVzFqcFpiNlRDWnBRS0lkYmQ5THR4QVc2LVh6UjViQTBQcjlib2ExdkMyZzZLTm1RR25tdmljY1hBVFVZMFR4V1NyeHQtTU5YOFN4UWQ5MGZua2kx?oc=5",
+        "date": "2026-07-21T22:46:27+00:00",
         "source": "La Arena"
       },
       {
-        "title": "Río Negro proyecta una Ruta de las Arenas de 119 kilómetros para agilizar la logística hacia Vaca Muerta",
-        "description": "Río Negro proyecta una Ruta de las Arenas de 119 kilómetros para agilizar la logística hacia Vaca Muerta ArgenPorts",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR09DbG83d21MM0lZbktteDlvWUdJV3VhSVFsQVY4UFYtRnlJNm5JZWg2VmptbW45MHJlbXNiQ1R3QVNhajFabXpPM2R2bE1yNmJoX182c0dnWW02emQzOVd5d0dPVFF5d1I4eVZEamFGS1Z0cGhJT1dzUmwxejZDTXBNOXMxdVRsdmc0Y2VYQlg0LU42MTBfNlF0YWRZNkt6bEZSdG51T0tqMENNVW5wbzl1amE2akUyeHJaMEF5VVNaZGhfRHBzNndYQ1VzQQ?oc=5",
-        "date": "2026-07-20T15:54:12+00:00",
-        "source": "ArgenPorts"
-      },
-      {
-        "title": "Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones",
-        "description": "Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLWVybG0tYXNkcU9WRThtbzdiWmJJbU1MOHltMXk2LXhxb00takRBWVdKbnlHTi04NkFPdFY5a2doSlVBWVAxcFZxSzVfYU5LOUFTRE5KNmc5QkpjdHZ3ak9fbnBDa2c2cGFhOVpTUENTellkOU5teEU5TXRSdkl5RTA0VHpSX2pKaGpMeWlHSDhZRE1tbjRsd2JKR3M5aHJpdzN5d0JYejhsZFJpN1JEUGJUdUk1eC16clJKR29FQlhVdHBxUFY1ZUVNX0ZHTlU2c0Y0bGxTeFZxTjJEaTItT0JlY3ZrWFJLa2wzQ2VsMjRjVXfSAY4CQVVfeXFMTUdDNGpBQm1ha21PeGRqWlVOU3dNMHBqNkpfcjlrZjFqQTc1YTUxb0VNU0hFd19aVnB0dTE2clI2YkJaUE83S2NQSFBNcW1JczMyQkhLMWFkQ2t5RHRCWmgyVEluOVc4dXVhZDJhNEdJQnNHeHpabEEzOG0xLVEyR0FITEUydldsRC1jMkNkVWwtYXFLN3ppOEtNYTdCd0FnS1JJLW5UN01XaGxIOUVwZGRhOWkzMVRRVDgzcW5HX3Nyc3phNk9GT0R4RXpZTEJjdDN1VGlRaXRta2EwN0Y2djJkMGlsY3NzM2NnQk9vSnhMQW14MU95djFfOUp5Q0VkYjBxSndEYnpSNGxNRUl3?oc=5",
-        "date": "2026-07-21T14:26:00+00:00",
-        "source": "Infobae"
+        "title": "Impulsan un corredor fluvial de 720 kilómetros para conectar Vaca Muerta con el mar",
+        "description": "Impulsan un corredor fluvial de 720 kilómetros para conectar Vaca Muerta con el mar Elonce.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWc0Y3ZDVmZQRGNRakg5T3ByTVdWMEMwMk5NOU1WY1Q1UDEtdWlXTThoaFo4cG10R0ktOGo1UFFubXV2SHVEM19MQ2IwWERFVHlkUjVRN2ZYRWVOUG5JRTdubkZhZjkweXN0QVhoNThDcTh4dVpjWEFWMm9IaG5ZZDNLaTh5aG0wMUxIUGc4NEpmMTlXNWlwckluRVBoZDZPa0NfcUIyakhUdkdaMjl2WFltal9mWXRk0gGyAUFVX3lxTE9HMkNfMjRhNUU2a2FYeUdDTUhUNXgyVlpld1JoVEJOeldNcnF0U3Y4XzRVUWVMY242MTc1amFmUUFHV0lOVU1KNlcyNXhpLTlrUHlsd0RtREtRVk1XSUVXd0l0eXJocnBHb3RzX3dvcWZSYXhHVVZwa2laOGlnSXl0ZGZ1VDRwTGRld2l0UU1CZ1EydV9FNThZVFNNb0s3OEZ4ZzA0aTM0V0p1YjRDWExQdkE?oc=5",
+        "date": "2026-07-21T20:37:00+00:00",
+        "source": "Elonce.com"
       },
       {
         "title": "Vista Energy solicitó la adhesión al RIGI para un proyecto de US$ 5.800 millones en Vaca Muerta",
-        "description": "Vista Energy solicitó la adhesión al RIGI para un proyecto de US$ 5.800 millones en Vaca Muerta Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY0RpYlJnT0QzT3piZ3BsQlZNS3dsWmJDcWU5VUFranZMTnZiM3h4anJpZUtiRWp3RUZXUF9fTjlmVHhma1lmVTJwWWUwM1htSUhGM2JiY1c0OFZ3OTZYVGlxa0hhRjFkcU1tOUhsWnNtalBVX014bjI2elpDXzRTSndna19ndUhWU1BqTzl2SkVxX28tQjFsbWFseURpOG9oWm8xcGM0NlRYZGZ3MWdDb09BUFZjN08tTjlMQUJ1Y0lhcVBUbHJuVy11cWxMSEZ2NmU5bTN5Z0lfajl40gHiAUFVX3lxTFBOTFU2NHJqMWtQclVFdG93bFBCUWp0TEVyTWtUTXJPZHVUMEJ6NURJb3dCTGVvME9LcnFaazdyZDBGcEdaeFlobTBqalVXSTRyT29SRV9QZHYtRXN0eUstb3Bxc2xQal8zUm1iYWxTTkdqcEhXM1JjeDdZTVBVSk9YQmNIcUFJemN6M1FYQmtPbXMwczVHQzlIVXBpTnA4S1VYOEgwWktseFliZW5RNHVEd01mUmh2Njh3WGJCWGNlWHViRWJkSXdEdXlncU1iSDQ1dmFrZXg0VUY5QUV0MmNYMkE?oc=5",
-        "date": "2026-07-21T13:46:51+00:00",
+        "description": "Vista Energy solicitó la adhesión al RIGI para un proyecto de US$ 5.800 millones en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelAzWDZOM0FBSDRwRVRoUW03d21vcFFCMHhmY1gxNXRLTjV0N1VjTi1NMndGZXowMzRXTV9wdVRyN09pcWptcVFZMnp2bTBfXzJnRGU0LUFuX2FuUHc0aUc0Z0ItaDJrVEVUUE4zSDdBX2paMVA2TGFfUTJUVnpPOWNPUFRidjNzUmpWbHJCTVZKazY4LVJPNVoxYnVZWkNlRDUtNmtJUjhzSHMwMm1fcVVDejl1ZElPeVpZVnFXQ2ZFY0xBTFlQVEh30gHPAUFVX3lxTE5IX1NBVHMybEhXeTFKWjFLYXlWbEpNM1NScWpMUVlWSUJVcEJJbzBpbjF3UU1hcFczbDl1MVNsYUkwOS1lbXdscTd3Tmg2UXNIaFRPNmtrYjV3OVc2dENVY0tfNWpuU25oaGN0bWxzVG5BeGxjRnVRWGtuaVlZWVZzanZyQ2tMaEprTDBieUlvQkZ0ZU5fTm5GcEpkeXZtQV9DdTJKbEZiOXJIUUNXRzFsU2VsSzBMRTBVTVdlN3JkRUhQOXNoVVI1bHpfWE1aZw?oc=5",
+        "date": "2026-07-21T12:25:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta suma otro proyecto al RIGI: Pampa Energía invertirá US$4.500 millones en Rincón de Aranda",
+        "description": "Vaca Muerta suma otro proyecto al RIGI: Pampa Energía invertirá US$4.500 millones en Rincón de Aranda Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWRRa3M1UUg3Tk5TTGpSRmw3RUJFWDRabS15THJMVWJ6YkNVcFEzTjE4cjBhY1U5U2NPVFhLSk5Rdm55OWliLVp2TFp2MnB4ZHRrbmQ4Q1hQU3NVQjZWOE54ajhTcE01ZF8wdGdLVlFicnpCa3FVVnJzdUFXN3RFV1NveHVucWZiejB6N1lOTTVjb2ctQXlnQVpUeEpNbTFDOGdicHlxLUVpT0N6U01VWEdxMDRVWVZ4U3B1WVpOVXZqeGw5NHFaVHFPb2pMWHVHbGpxMFYzd9IB3AFBVV95cUxQTjlsNVZMakRxeWxZUHlPMDFCZ3dBd3dfUXFSN21xWXJHVmlLZ3JmMDNqZ1pFV05XZkdnY1lRb3RKY25IRDZob2VmcmN5bmNIV1YzZXY2YkJoMWdKU1EybE5EVUVBWW5vTnQ4QVFlcTVMSWR4OE4xbHQ2MlNTbTVBZ0IzRXBiQUpKMnp1ZHJ4aVRyVldyTzI4TURyZHZ6TzFoZ0NwOFR3M0ZzdGQxbTF4QXJFNV9nT1NESHBySmJwdEcydmNIcUZDRkJqeF9Eek02ZzlNd1Z6Mm1DUHp3?oc=5",
+        "date": "2026-07-21T13:20:00+00:00",
         "source": "Perfil"
       },
       {
