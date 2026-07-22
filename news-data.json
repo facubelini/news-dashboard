@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T19:05:14Z",
+  "updated_at": "2026-07-22T21:04:33Z",
   "categories": {
     "Microsoft": [
       {
@@ -38,18 +38,18 @@
         "source": "Eurogamer.es"
       },
       {
-        "title": "Microsoft rechaza en $399 con Bear Flag: niveles en vivo",
-        "description": "Microsoft rechaza en $399 con Bear Flag: niveles en vivo Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGJ1M0dTeE85TXB6a0NxbkZWV1dKRUFBNVQ5Vl9tcDNjZ2lCdkVYWVlvUUxKN3hxNjRHSjg2bG5PR1ptV2dsVnB2Wk5seGpNSmtDVWZCaXI5YVdoRjE0UjE2SndhSmo1cGdqX191MldkVHB0bXNrNWZnWndHOVlWV19kcTlWcWxKY2Zqejl0X1RfbHJ5MjBtZ1hqLUlHUXpEdFVlSEdBTWRtX0lhS0o1WF9GQjZ2WmVV?oc=5",
-        "date": "2026-07-20T14:04:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
         "title": "Cómo actualizar Windows sin Windows Update",
         "description": "Cómo actualizar Windows sin Windows Update MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFFqVndBcFhzaTY2a2tqYkVZTEZGVFRVOTBFS19iV21yc2lVNmEtY1dSUlltWDg1X2tqVWJibjFIbElKLWRKSENDZWxkRTNzSmp6WmszdkR5TEJ0R1k5UFEtZm96UE9JQkpHYzc4VjhjRU1hTDFSUnpiNGJyQVQxTTFPRmhOLUM4ZlE2Z093NTlrbWl4WDl5RVhXanVtS1pLLXZkdVBIaw?oc=5",
         "date": "2026-07-22T13:12:17+00:00",
         "source": "MuyComputer"
+      },
+      {
+        "title": "Microsoft rechaza en $399 con Bear Flag: niveles en vivo",
+        "description": "Microsoft rechaza en $399 con Bear Flag: niveles en vivo Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGJ1M0dTeE85TXB6a0NxbkZWV1dKRUFBNVQ5Vl9tcDNjZ2lCdkVYWVlvUUxKN3hxNjRHSjg2bG5PR1ptV2dsVnB2Wk5seGpNSmtDVWZCaXI5YVdoRjE0UjE2SndhSmo1cGdqX191MldkVHB0bXNrNWZnWndHOVlWV19kcTlWcWxKY2Zqejl0X1RfbHJ5MjBtZ1hqLUlHUXpEdFVlSEdBTWRtX0lhS0o1WF9GQjZ2WmVV?oc=5",
+        "date": "2026-07-20T14:04:00+00:00",
+        "source": "Investing.com España"
       }
     ],
     "Marketing": [
@@ -96,11 +96,11 @@
         "source": "Diario El Norte - San Nicolás"
       },
       {
-        "title": "Del SEO a la búsqueda con Inteligencia Artificial",
-        "description": "Del SEO a la búsqueda con Inteligencia Artificial Marketing Insider Review",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmNFNHF0VmRvaVUtekFUVFZJd1F0c0otSEZTVWxXcVg2NkgzekZTVFlWalFqVTU0QmRYMVl2TEdXWjA0ajd5bE5qSG8tY1ZMVWQweUJpajdCU2w3NTJIbTIxTXBrVHBNVTlpbkwyY2w2dElQR3VWNUVBcWZTRDFPUUxkVWxLQzJycUwzNFd6U25zWTlFdlM5UDVGN0VES3d2WGVyd1hXTERLOXRrT2wxdUlBdVVBVDNjeDdNSnQxT20?oc=5",
-        "date": "2026-07-22T12:23:28+00:00",
-        "source": "Marketing Insider Review"
+        "title": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS",
+        "description": "A SALA LLENA SE DESARROLLÓ UNA CAPACITACIÓN EN MARKETING DIGITAL PARA EMPRENDEDORES SANRAFAELINOS sanrafael.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTMyX3laOE9yY1VEaFN4bE5IWWZqY29yeTBxczJJeTJZajk0NkRJU3BOSU5ReU1tODB4TTZldTJHUDFtYzJ3MGV6MmN0YWVhRzJLZkhHLURyblgwZWRNd1ZiSk5SQXRXYmlZazFrRFNPZEd3LWRPWWtsczNpR21PS2RFWTNEMElGUUJmQnUtWF9WMXVRUDZkRl82aDYtczNCbmFNc09XSE96VVgwSm4wX0laMXh3QklrTU9HUWxiYjl3QW1ycWc?oc=5",
+        "date": "2026-06-25T07:00:00+00:00",
+        "source": "sanrafael.gov.ar"
       }
     ],
     "IA": [
@@ -112,11 +112,25 @@
         "source": "BBC"
       },
       {
+        "title": "Del caso Mythos al experimento de OpenAI: por qué la industria empieza a preocuparse por las decisiones de la inteligencia artificial",
+        "description": "Del caso Mythos al experimento de OpenAI: por qué la industria empieza a preocuparse por las decisiones de la inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPeUJjTDZtckFVazlEYmUwVzJpQlY1OTNxeTJJZnB3S1NNQnhxaTVvTS05a2R1UGpsdlExZ2dMWEthUFRsT0JLal9PQmRaYUplMHJILUVmdVZCbnZ1X2p3Yjd0RTZEZDhmcmFhUXEwRjFDX0hrVVFsTXEwS0ZIQ0ZaZVZFcFdBZGZ1dHJMZlp5TmFCTzNiMHIxbHc0ck9OaU5tVjFtcTFjbUhFMkdWZ2VVLWVoWkFxS3ZfQ3NrR1Q4VXIxdHo1MTRERG5KUWptSE9JanZDbWFqcDYzSEM4TkhhX2FPNTgxWjBldnZlYVlURzEtWkFNX25zT3I4NGR0UERYaGNWTUU2c3AxS0I2dG1PRTJVOHl5RjEzcUt0S3NpQVpmZUNaRHc?oc=5",
+        "date": "2026-07-22T20:14:45+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial",
         "description": "Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLW1nVVlnWmZUMThpMldTV25wYUh3RS1EZl9XMHZZNWlVS2MzYk45bUtQUDUwQkhVeFJvTERFNmt6VHh3Tng1dVF1R0htRXNiVXJ2YUc3Q0FKaW5WRDJIcEFiYXdOZ05ZSHQxM1JFX096UGxSQlRRaFBXZTczczJTampucmdrdUlHUG9QdWQxVXhVQS0wbHZycjctb1NhQWN4MzVDWUdvNW5tNHdqOWo3Y0U1VjMzODRYdlU5LTlndVFuYlRMSUVKZFlaMmNjeXZtc2Y4Z1FKU25DeXgyWmFTY0RWNUdOUWZMaVhr0gH_AUFVX3lxTE81N016RVFkelVNa2RBZXpxdHRRYkhTUXB6ZTFkN2I1MW1IajA0LWcxVmNsZjZ4bFhQS0VFUzNfblFwX1NuUTdrbWxTU0F2dU1RTkMzV2UxVEZvQU5mMWtSYnFXSWZmYnZkb01MQS1qNFdNYThkM2lfWlB2TDNuUTIwNXF2YWRGNFNXV2dTRUFyUmJnR1VINF84eTRTTGRONHd3VjJRNkJtOThFOUVVUDVqdzAyUkVZM05ETVhSNTBIRnVsSjgyRjcwOVhCNi0wVzU2ZW9wV3BoQjQySHdodm4wbVNlNzJwbHNxdnBjQnJEbjJzOWV3eThCc2FnbmtxZw?oc=5",
         "date": "2026-07-22T11:05:42+00:00",
         "source": "EL PAÍS"
+      },
+      {
+        "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
+        "description": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXBWeHY1c3BEM0R3MUpBVHlMb01TenJoS3NERWdRZFlwZThRRllaZjYyZ0h5Ty1XZHZMWmJIOHBkTG8zRmdfNTNlMXZPNjB6RWdXUWJFcmdrQXVwbHpnRnFJQkVoQzZnRVdveXNsbnFXaGpKY0FSS2xKZXF1QzYzbDlScTdaWkxVRXBlQW9PU1BRWHhpb2FpX0ZabWR0NU02TmdEZUNWeEFNUklRSUE?oc=5",
+        "date": "2026-07-22T19:28:08+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "OpenAI dice que su IA realizó por sí sola un hackeó a otra empresa",
@@ -126,13 +140,6 @@
         "source": "La Nación"
       },
       {
-        "title": "La rebelión de las máquinas: una IA de OpenAI hackeó otra plataforma por su cuenta - TN",
-        "description": "La rebelión de las máquinas: una IA de OpenAI hackeó otra plataforma por su cuenta TN",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOG1qUmNkUDNOS2VUSkpBUVZsRmZVMUk0bmFUNDhCQVU2Y2xaeU5kSmZyU05USXhleW9iRVBtVWc1aloxM1dTWFlOVzV0Y0ZrdWQ2OWRFeVRUT2NWcGdZOGtmWks5Qy1ra1dXVkZMdDJ6blR2R1VqQzVLMUJJcUJTN2daRjNfci1qcVNRd2JfUVpHVXJXdElPanFJVjE1REZwQWRtV1JiSVJURk1IMkRkTnhESTNJMVd3U216WmNaRHlfNVBXeXfSAdoBQVVfeXFMT09RU3BXUEIwUXdTSXBXejNDcTZTWHhPMVhwblE3bUJCVHlvbzFRZWFnQTB2YkI0NFdiSUhDN2p4SzhDT0F0U2xBTXpwUjF0SUhXV3ZOSmZHU3R5ZnNraHFNVGNYWGJHX0E1eXNBaGtRelFyVzJRN2c5U1JNUnB1eXFmQ3ltWlY2VkMxRGk5ZGdKT080azgzOGIySU5oM3BuNGZPTGtKWlBZWkVGVHd2R1l6a0JMQi1hMGxCNTNodVU2RTFYNDVWeW80T2UxOHM5NlJqQkRKbF9QOFE?oc=5",
-        "date": "2026-07-22T11:48:46+00:00",
-        "source": "TN"
-      },
-      {
         "title": "Modelos de OpenAI hackearon por error los sistemas de otra compañía",
         "description": "Modelos de OpenAI hackearon por error los sistemas de otra compañía Perfil",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2xmTTU5UG5XS0lHcUJSSlBGUVp1QndTdDdqU29NMlVZQUVNWk0wVGk3ZWl4dTRveExwQTRWd2txcTVxTTIwZkdsejd1RlR6ZGdCMnN4dlBIMXgxaUx2eHB1eTVNRklWVmUwa29zRzRBY3gwYVFiZUcza2c5aDhWUmE2S1Vpc0U4WmFPTkQwRHBWQkZVYVhtdkdFWldIYkdobUpHaS00MHRiSnZCS2UxUlRUVXI3S1RlLVHSAb8BQVVfeXFMT2RMRF9yRlA4Q3dlaTBLbDhaUXhFLURpS2IxU3Y4SjlHXzJFc0d0TGFfMXpHMTJ6NDR2X2VtVThSbjd4VTI5R0xFanhSUy1lRHlYMmFyNHMtUUdhR1NqbElvaXdZQmkxUS0wVDA0NnZZMHIzOWxaTllqWmlBbkhmSWRiRWJoanNXZE5neUQtS2lrWFUxM1h5dGEwVElURjFDSWxwTzdzVVJHU2dYa1ExOEI3Z1Rhc0xlM3lCd20tZms?oc=5",
@@ -140,18 +147,11 @@
         "source": "Perfil"
       },
       {
-        "title": "Dos modelos de IA de OpenAI escapan de su entorno e ingresan a un sistema ajeno sin permiso",
-        "description": "Dos modelos de IA de OpenAI escapan de su entorno e ingresan a un sistema ajeno sin permiso Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmlMZjRfS0k1d1Fzbmd2S0JWZzBoVEN5QnhzeXZLLUF4N19WSWV4NGRkYmpoR0tYOUNkUFM0NkdKMDVxZ1dTenZ4ellvQ2RaYmJyOVc1WDlTV1Fvby1xeThmaVBwYnZXNkdndV9Tcmp3cjJEWUtuYllvTXFteE12dUp0cFZNdTFYdncyWnFvX3FweTlwdzhTQTlwQmFuZjVpaDRDckI5Y0FZckMwRGFfcm9nSTBLdW85bndONDRLMGo2Vzk2MDZqN1ludS1SUdIB6AFBVV95cUxObTBQV3RBanZ1ODdkRW9pR3JKYXRmbHFzVkVRVFlyTjJhQ1gzT2dGWUs5MnVuZ2dqbFZ2dXBXSmRkTnYyaFhvek1uS2ZrT0ExWlduME5NclVNcTRQbWxqRHNhRUdmRE96WHFaV054bWVmcGRSdkFwdmRwbGdWbjg4T090c2swcGJYVW1tRFU3Rno0WDFVWDh4QXFoYzZnNElRUTVqV2stcF9qWW5tVDVZRDVObmxuY0RSMUdfbFQzT1k5NGdqNHhteHIzT0pLYnVrTnlHaFZUc1JYVXk5QWFVX3lieWlPdUhk?oc=5",
-        "date": "2026-07-22T13:13:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "La IA de OpenAI logró infiltrarse en Hugging Face y encendió las alarmas",
-        "description": "La IA de OpenAI logró infiltrarse en Hugging Face y encendió las alarmas MinutoUno",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOXQ5OTBsOFBBVEtRbFhSUWM4dzBmenlreXp3bDR0RkMyNW9CWEJFRHQzMXpKX09IV3V4b1FZVE1xaXlSQmY1bzFzMjZvc2MwY19BZkNfaTg0OUJESkJ6S3BkQVhfWk1GNW9jTnJWdXBvX1JBTENuM1h2aUl5MmlZZG80UGhpOHdPdW5Eem1yZG9BYnp5ZS1ORjNWd3VJdkl6QWtCYlMySTZKVE3SAasBQVVfeXFMTjl0OTkwbDhQQVRLUWxYUlFjOHcwZnp5a3l6d2w0dEZDMjVvQlhCRUR0MzF6Sl9PSFd1eG9RWVRNcWl5UkJmNW8xczI2b3NjMGNfQWZDX2k4NDlCREpCektwZEFYX1pNRjVvY05yVnVwb19SQUxDbjNYdmlJeTJpWWRvNFBoaTh3T3VuRHptcmRvQWJ6eWUtTkYzVnd1SXZJekFrQmJTMkk2SlRN?oc=5",
-        "date": "2026-07-22T16:45:00+00:00",
-        "source": "MinutoUno"
+        "title": "Open AI confirmó que una inteligencia artificial vulneró a otra durante una prueba",
+        "description": "Open AI confirmó que una inteligencia artificial vulneró a otra durante una prueba diariopopular.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDh3ZnF1Q01rcnd5aEtGSWdUR2VRS3FvMjBCRHZPLXFySmFNb2pibnNMbHFNOVJpaWVwamRxQTFNMndRbzJ0QU8wRUZBZHc3cGgxcG5wZUo1SzQzT1ZacHJDdDFYemZzNHBHdEJMUTdfczNDczA3eEVuVkpiN2NpUm1wbmJJWnRZQlY0ckc4TGNONlZHN09sTGlyV1JtSDJZZU9xZkRmU2tPMFFwd0ZCM3pzbzJqWVJ5Q2NXSGZPdWx4QdIBwgFBVV95cUxPMDh3ZnF1Q01rcnd5aEtGSWdUR2VRS3FvMjBCRHZPLXFySmFNb2pibnNMbHFNOVJpaWVwamRxQTFNMndRbzJ0QU8wRUZBZHc3cGgxcG5wZUo1SzQzT1ZacHJDdDFYemZzNHBHdEJMUTdfczNDczA3eEVuVkpiN2NpUm1wbmJJWnRZQlY0ckc4TGNONlZHN09sTGlyV1JtSDJZZU9xZkRmU2tPMFFwd0ZCM3pzbzJqWVJ5Q2NXSGZPdWx4QQ?oc=5",
+        "date": "2026-07-22T17:43:00+00:00",
+        "source": "diariopopular.com.ar"
       }
     ],
     "Vaca Muerta": [
@@ -163,18 +163,25 @@
         "source": "La Nación"
       },
       {
-        "title": "Inversión en Vaca Muerta",
-        "description": "Inversión en Vaca Muerta Página|12 Vaca Muerta ya concentra dos de cada tres dólares anunciados bajo el RIGI Clarin.com Las dos caras. Pampa Energía cierra de una industria histórica, pero apuesta al agro y a Vaca Muerta La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xb1pGdkFfaS1vbDJoc21mWEUwQjFqbl90QVlhdGRmX19Hb2t2UmNvUnZiMVp6OGVaTG9Zc192RzMyMGFTWW1hWWpLSTV2aVp6MnhRYl9pX19lNWk3NHVPeTZKaDBaSnUyTEJaMnFhTWtLZw?oc=5",
-        "date": "2026-07-21T22:25:53+00:00",
-        "source": "Página|12"
+        "title": "Vista Energy solicitó la adhesión al RIGI para un proyecto de US$ 5.800 millones en Vaca Muerta",
+        "description": "Vista Energy solicitó la adhesión al RIGI para un proyecto de US$ 5.800 millones en Vaca Muerta Lmneuquen.com Oficializan el ingreso al RIGI de un proyecto de Pampa Energía en Vaca Muerta con una inversión de USD 4.500 millones Infobae Vaca Muerta ya concentra dos de cada tres…",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelAzWDZOM0FBSDRwRVRoUW03d21vcFFCMHhmY1gxNXRLTjV0N1VjTi1NMndGZXowMzRXTV9wdVRyN09pcWptcVFZMnp2bTBfXzJnRGU0LUFuX2FuUHc0aUc0Z0ItaDJrVEVUUE4zSDdBX2paMVA2TGFfUTJUVnpPOWNPUFRidjNzUmpWbHJCTVZKazY4LVJPNVoxYnVZWkNlRDUtNmtJUjhzSHMwMm1fcVVDejl1ZElPeVpZVnFXQ2ZFY0xBTFlQVEh30gHPAUFVX3lxTE5IX1NBVHMybEhXeTFKWjFLYXlWbEpNM1NScWpMUVlWSUJVcEJJbzBpbjF3UU1hcFczbDl1MVNsYUkwOS1lbXdscTd3Tmg2UXNIaFRPNmtrYjV3OVc2dENVY0tfNWpuU25oaGN0bWxzVG5BeGxjRnVRWGtuaVlZWVZzanZyQ2tMaEprTDBieUlvQkZ0ZU5fTm5GcEpkeXZtQV9DdTJKbEZiOXJIUUNXRzFsU2VsSzBMRTBVTVdlN3JkRUhQOXNoVVI1bHpfWE1aZw?oc=5",
+        "date": "2026-07-21T12:25:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
-        "title": "“No es solo Vaca Muerta y litio”: Schwarz destacó el crecimiento de nuevas inversiones productivas",
-        "description": "“No es solo Vaca Muerta y litio”: Schwarz destacó el crecimiento de nuevas inversiones productivas Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ2lSS0ZLSV8xa2JjanhpamxKVVhnemdVMmRKOFQzSzFKS0pUSl9pUl9KbXd0RVkwZFVWMTh4X3FDMkZNbHVjUXZsZV8xZkpEcGJtcEZDeTNtT2MwVElZZFJWNlRRSzFpQTM5YUh3U0x0d3dTQ3dtcmxvRkRJcE5qZFU5WmhBVmRrR3hmb2kwUk03OUd6alVCSmNlNks0dURNVThlSGZyUF9hMGpsSnh5YkRhcmRUMTh4aHVEZElTYU1aOFNMcW1ZTDNHTzZLcTlXZHFWM2xTNzB2SVg1VzFYQ2kxUVdCcTRkeVhrekpkUdIB9AFBVV95cUxNczV0UmFZSlQwdkl6aXp4eVpGR3JMaHljTGlfQ2pBb3hzNDVEdmE2N3RjQjJNd3hldk1xUHhHTTVBbGt0aVR2VzdYRUpMYXZESE5tMnlnQU9EZmFmWkFSdG1YSnJvVDhXUUYtcTNnR0JYNG9uQ0JLT1U5Sks4TEhiaXRVM29OYzlWaGxjSldINVpNbTFvM3BrQXpPOVpWXzVGYmJScVp2bjR3MGFlZEVOcXVzUVUwcG0zSFR4LXBxVHJSeTh0eG9FN09iTXV0MkZFeXJqOHU1VU1qTU9jS3lsZHVvcHdXQk5nZXlmRGIwUjQ2N20y?oc=5",
-        "date": "2026-07-22T16:48:10+00:00",
-        "source": "Perfil"
+        "title": "Vaca Muerta: completaron un pad de cinco pozos en tiempo récord",
+        "description": "Vaca Muerta: completaron un pad de cinco pozos en tiempo récord Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZk8tcmt6NjJvY09QUEVmYmFxbGRNc2FFaFBJU3RLN3NmVmNWU214ZVBNNXNmWnNjNTZUZEwzVWkzVzJuRFVFRE90UUxYckhZWDRTdUdySEp5TzF2WW5kc2ZFTkRZRW5ZZU8ydk5RRkJyeVJuMHJEYmZRUF9qdlZuOVZXekRjb0ttTTRtVXVfVkVnOHJnM1RsQkNOM19xV3Bwa0NPeE5tRdIBrAFBVV95cUxPY1FFZkZjOHM0aU5EeV9DczZHdjVjV21OWjZMMDlJOU5ILTZXc3ZiUTVXTVNaT0FKcWZ2ZGIyUmlIcG4xTGR6NHB1MWlKbmJJMkcxLVo2TWZPZHpuZF94b3hHYTB4YkpReVhwRk5rajlVUEJXeWMtczZtQ1BIUDgwVWxSODcwWnF3T2JJdG5QZXdnTU16N3dpOWNOaGJzUFNMUDQ2Rm01VjlVT3Az?oc=5",
+        "date": "2026-07-22T20:05:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Petroleras financiarán en Neuquén otro paquete de rutas en Vaca Muerta y negocian un esquema con anticipo de regalías",
+        "description": "Petroleras financiarán en Neuquén otro paquete de rutas en Vaca Muerta y negocian un esquema con anticipo de regalías econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWxXeW8ycjFMWHUxME44cGdtT2laXzNDQzJzSHhEWTJOWW5wSm9TN1BLRm9zRFE1NERvRjFVMmtVRkg0N2ViWDFIbGFpX1dUM283dE9TU1NlUDJyT3pMUXUtaXdYZ005SjhlWm1FbkpVdGc1VEgzcGxsZUhJYjl2RWlpX19zOU1JY0lxNFNXQmJha0swMVQ1VkFsRlVtMVlRZnBXb3hoUjRzSHZNZF9xUzRn?oc=5",
+        "date": "2026-07-22T19:14:40+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Advierten que los dólares de Vaca Muerta no alcanzan: el rol de la política industrial y las lecciones de 3 países",
@@ -182,13 +189,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhQay1hNEVHNlh4dkVJX1BTcVNOM3MxQzZ4MmNmNTlkR21pWlN4bXN2RVo0S09Xdk8tcnpVWm9zWk5iaWM3TThUN3ZDVXo0SHpzTXdoUnlzajBfOXNleVdSWm9IdGNnTnFqOUJIS2QzUFloR1RXcU9KOElDMzZid2pFU01WNVZ1YndWQk84YkVlNnl1YVlHQVItdmlfTHgwTExuTzRqZmlvU0hheW1DVGR3NWlVbGJteF9VeHJ0RElZLVJfSVlsNGVackpRd1BiNjZSRGtiWHZtRkRXLUHSAeMBQVVfeXFMTTVCbUJaQ19aMEJlTUNrLVoyMHhGV1FVc0NmQXl5endUbFp6VEF3ckV3LWk1ZG1TTUgwTlpiVVpZM2xhNTZJYkNYYXJaMFdZYTRBVEpCT2tvYU1fUEZETHI2V2RfNGpLRVRlSXBYUnVIaVZGY0NQdVJnSUdDSEw0bUt6dk9TUktCbnBnQkxzbl81Tmp6V2l5cUF4TTBQU09nSHk2OFNaeXI5VVRZa2lsVkhOb1R4ZkpIUEJPLXllb1hzRVVYQi1rTEgwX3o5Yk9DXzdVbGZoT2k1cjhUYWpncXhGMWc?oc=5",
         "date": "2026-07-22T10:00:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "GeoPark acelera su apuesta en Vaca Muerta con un plan de más de US$ 1.000 millones",
-        "description": "GeoPark acelera su apuesta en Vaca Muerta con un plan de más de US$ 1.000 millones econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmVCU0RtLV93TmhhVEIyUFYxb1RhandsVFQ3VVFmYUo4WGd1RnlMS2FvV0VKLXZFQnhJMTYzVkFWYXJTMTRTT1BxNE1CTGsyV2FpRDhMWjJfUHJwS19UTXE4dzhTZXhSU0s3MkFYLVl5OVVUY1hnekg4M3Q0RTZDSGpCc2VMb0FxOXUxdGVNRjdlLWV4UGpmbjkyVk41MW5fU0ZVYXFTMmR1RXJBekVYUDFZN0dDdVdt?oc=5",
-        "date": "2026-07-21T21:44:37+00:00",
-        "source": "econojournal.com.ar"
       },
       {
         "title": "De los ramos generales a los combustibles y Vaca Muerta: quién es Grupo LAC, la empresa que ahora también venderá Toyota",
