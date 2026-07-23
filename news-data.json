@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-23T15:51:14Z",
+  "updated_at": "2026-07-23T17:14:23Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Acción de Microsoft: Morgan Stanley ve valuación \"muy atractiva\"",
-        "description": "Acción de Microsoft: Morgan Stanley ve valuación \"muy atractiva\" Investing.com México",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaVplV3UzV1NXX0lXclBocEhmRU85MnlZUUVUaE43V21UWXgwQ1pHWHdTdkNtZTJzWlo2N1hHZV9RNW1iVUtDclBJZEcyUGduMXJOM3FKUF96aXFvS0hNR2UzZFlRMGJuelNFdUpKX211ajZELWVLdGt3WjVGVU1zdjRhY24yTVhHcllzUnZqa09GTkxLUktBQ2JtenRiazBaakJTQ0VxZEhQaE9vWWM4MFhXdjBTTEhH?oc=5",
-        "date": "2026-07-23T12:42:59+00:00",
-        "source": "Investing.com México"
-      },
       {
         "title": "Resultados de Alphabet, Microsoft y Meta: la pista clave está en las notas",
         "description": "Resultados de Alphabet, Microsoft y Meta: la pista clave está en las notas Yahoo Finanzas",
@@ -38,6 +31,13 @@
         "source": "3DJuegos"
       },
       {
+        "title": "Bernstein reitera su calificación de Microsoft ante el crecimiento de la IA",
+        "description": "Bernstein reitera su calificación de Microsoft ante el crecimiento de la IA Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVh0UGgwcmFjTFRjY1EtVGNXT1Y4cnlMZ2JGaUhXb0c4QVBFTkhtcGZ0bHd5TXFVaWl0eDcwM0p1b2hqaldYeDhiQk1wQ2NTeklIT243YlJTSm10TGFrX2ZyNTRzN0d5R2l6OVh6OXdUMlJLRXgyVjhtdmlocElmTndMZ2I3WXJmSkFxdkhrZDJHQk5PekFNYnNYVVltd3I1ZmVUTmZENm05ZWlLT0c0SlR0c3lzNmpsZ3JUZ0lWYzVua1Z3QnJWTlNnaWlGS0U?oc=5",
+        "date": "2026-07-22T14:33:00+00:00",
+        "source": "Investing.com España"
+      },
+      {
         "title": "Hay una nueva manera de jugar con XBOX Game Pass. Nadie lo esperaba, pero los fans de la Realidad Virtual se alegrarán con la nueva colaboración de Microsoft",
         "description": "Hay una nueva manera de jugar con XBOX Game Pass. Nadie lo esperaba, pero los fans de la Realidad Virtual se alegrarán con la nueva colaboración de Microsoft 3DJuegos",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVllMYkZyN3U3SjZidmQ2THdWb2U3ZTVUWm1sbXhsZTBkY3lkelI4V1pTOUJXWGJUeEVDQ1RuSDJTSlRBeVVmTzc1LVNfSDJmLXdKajB6dHlqOEZQNHEwUlNnNVo0UzJJNWg2Y0s2UTY0OEhDS0Q1UjIyekRfZVhwaUhYVG1tMnlnbFBiSi14NDVWM2hrOXFRemktUVhfMkFLSzFmVlp1ZlAyMC0yeUdPNjZQQzRHbS1RRHRtTVByaUFrTlNPTThQc25TMlFNeDgwZ2hGamp1bllsREdsZzRDXzZMQ2RvWndF0gHuAUFVX3lxTE9EWVRLNHptNEVkVEpFZFdXWnlVSHVIWi1ObC1lOHFkbXZRc2Naa1BjQzV2S29ieUV6NmxncURZclJvYjFuUjlpUnA2R2IwTVpnTHBOeG9TTUVUcFFjOFV0cllLOFpMUlc0dmZ6N09tSkNsby0wTjRYOUZEZ3pRcGYzS0VobFNtQWVSbVhscndqUHU2aDJsajFuaEliMDZac1J3d2ZCRUhZMjBNcTUwMFJuVjR5QzJXdF9ENVpoZ1RpTVF1NWtnRV9WelJYMHZ0Yks5VTh2LUJQT3hDNmpBZFBlelRnbXU1aUdfY0t0NlE?oc=5",
@@ -56,8 +56,8 @@
       {
         "title": "Quilmes abre la inscripción para un taller gratuito de Marketing Digital",
         "description": "Quilmes abre la inscripción para un taller gratuito de Marketing Digital Crónica",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUNGTGtYODBJanJOQkZldjZjemk4R0hueUtuZklyajhLODdTZm41N1cxeEFnaER4WmhERlAzS1A1SWdnMnFlQy1jbjFEWW5PNHNZQzIwbTUyTHpCTmR5NTRFRklxclVuTjJnQ2t4RGFpS2c4dVhyVWVieTNPaFl4M1h2VzlzSEY3ZFMwYkh0Y0lXWDFPS3Q2eHFkVVFwS3lMQ0JJUkozSzZGWXdfTlZ2V09wUXRiZUoxSHU1a1NTNURuNmE30gHKAUFVX3lxTE5Zd19ycVpnM3hBay1xNHhrbERmSHp2LTBBN0VNQ1hpcFpfNkR0RVdhazNJRnE5LUo5LUNtN09fSnZoaTBLUnVFaFJnVnNxeDRPeGlROVR2TFBlU3VxU0gzNEo2YTBtX0VKNTI1MURPN0NqQTNjS2ZNaURRR3ljWFJ5bFVXY3Rwb215WGdPVlFNc1hxNUVTYTRqZkttZDNYb3NsUU5hS1UzODU5ZDBwenU2RGc1MUhYLU1CZ3kyNUlQNUYwSVh5Tm9teHc?oc=5",
-        "date": "2026-07-23T15:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXdfcnFaZzN4QWstcTR4a2xEZkh6di0wQTdFTUNYaXBaXzZEdEVXYWszSUZxOS1KOS1DbTdPX0p2aGkwS1J1RWhSZ1ZzcXg0T3hpUTlUdkxQZVN1cVNIMzRKNmEwbV9FSjUyNTFETzdDakEzY0tmTWlEUUd5Y1hSeWxVV2N0cG9teVhnT1ZRTXNYcTVFU2E0amZLbWQzWG9zbFFOYUtVMzg1OWQwcHp1NkRnNTFIWC1NQmd5MjVJUDVGMElYeU5vbXh30gHKAUFVX3lxTE5Zd19ycVpnM3hBay1xNHhrbERmSHp2LTBBN0VNQ1hpcFpfNkR0RVdhazNJRnE5LUo5LUNtN09fSnZoaTBLUnVFaFJnVnNxeDRPeGlROVR2TFBlU3VxU0gzNEo2YTBtX0VKNTI1MURPN0NqQTNjS2ZNaURRR3ljWFJ5bFVXY3Rwb215WGdPVlFNc1hxNUVTYTRqZkttZDNYb3NsUU5hS1UzODU5ZDBwenU2RGc1MUhYLU1CZ3kyNUlQNUYwSVh5Tm9teHc?oc=5",
+        "date": "2026-07-23T15:30:48+00:00",
         "source": "Crónica"
       },
       {
@@ -106,17 +106,17 @@
     "IA": [
       {
         "title": "OpenAI dice que su inteligencia artificial se rebeló y lanzó un ciberataque \"sin precedentes\"",
-        "description": "OpenAI dice que su inteligencia artificial se rebeló y lanzó un ciberataque \"sin precedentes\" BBC Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial EL PAÍS OpenAI informa un ciberataque autónomo de IA y reabre el…",
+        "description": "OpenAI dice que su inteligencia artificial se rebeló y lanzó un ciberataque \"sin precedentes\" BBC Un nuevo modelo de OpenAI provoca un ataque “sin precedentes” contra otra plataforma de inteligencia artificial EL PAÍS Un modelo avanzado de inteligencia artificial hackea a una…",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zVHk0NWc5OWItQlVZenJEOGl2UDhuM3MwbnpoRDJsdG01b21YQ2R6OFljMExZZWNYalJWb1p1c3Mtb2JTN3NaUHlqVHU2d0kxOHp3MVVSNkZLSjjSAWBBVV95cUxObDhpd3EydDBaYVZvRlcxMlYxZmxSMXJxd0xVUGtMMGR2NVMtUGpWUktXR21uYUNWVmdrcEhkUGJWMU5EeVVGN1F2cks5azUxZ3B0TEU4ZWgxU1A4MU5VcEc?oc=5",
         "date": "2026-07-22T15:02:27+00:00",
         "source": "BBC"
       },
       {
-        "title": "Los terceros invisibles de la inteligencia artificial: una lectura constitucional de los lentes inteligentes",
-        "description": "Los terceros invisibles de la inteligencia artificial: una lectura constitucional de los lentes inteligentes Tiempo Judicial",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTUZEUnVFc0dZUWNwVTVEVWwwNC14REZxcHRwYm9zY0tkeVBQR2FEY0NZT2NjZDJoVXNGMk9XTXMzWkE3eFpFNkRYN1Z3N1k1SGZITzRoLVY0clRVQ2Mwd05mMFFTWm9Xb1dQemxnSXN0eWZabmVyM2JGcHgtbHNvT2VLeFhvdDM3aXVFYkNlTmhZWlZSYTY2alhtZHpfZHhObHJPSWlNNVVvekp4S1lmZXhsVVYzekx0NU15V2FKekdBYy0zdjNqcVVCSERzc3djVjBveDY4cHc1aWlFZEZB?oc=5",
-        "date": "2026-07-23T15:06:14+00:00",
-        "source": "Tiempo Judicial"
+        "title": "Cómo las empresas argentinas capitalizan el talento senior en la era de la inteligencia artificial",
+        "description": "Cómo las empresas argentinas capitalizan el talento senior en la era de la inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTnlVc0tkUnJUOEdQdVJ5T2lWYTBSa2R1YXkwV1VrSXVoUUppenBZZWJOMERjY0hSbHFNU1QwajNPVGRReFc5ZUtxNmJpQk9laUZtejRLd1FVMlBDVUwtcmtiaUpkZTdFb20xem5fMFF3d0RLeW12dlRUSkVaaFVKVmtfMWc4dHhaWjRTV0FoQWxfdjdHZ3JXZDJfQ0hzUUJ3cDBtMGJ3Z0h6a0wwbzBzSTc2OThJTGtYQlhPSEc3di03ZzljTWlSMWZKVnBzdlF1YlVxREs2d2ZhSE1BVXfSAfgBQVVfeXFMT0pET0FSbGRWRW40TVVraXRIVG9uaHVGcDlEM0lwMXhuT1FjbF82RXp3VEJPaDYxVGV2VVd3WXRsc2JvV2xGNmFjVXpDOW9mY3Y3SzFmU1pNdzlDNW5jdWl1THVUN3g4YmoxQmhtSEw3eS1FMzNuTWl5emQzYXd1cUhzYkVzRmlLZmlBMnNFWFdyQWdUcExReHZpbGVZd1lkTEJOdWduUVZDQXNtZ0ZJUzJmdGc1YW9RQS15QWluRTdLa3JwUEVXRTExVzFDUl8tS0NWTEFjSE9TZEo5RTNEWHNoVFphTmNpTWlYT2xzUkMzQnA4aTJlVWQ?oc=5",
+        "date": "2026-07-23T14:35:32+00:00",
+        "source": "Infobae"
       },
       {
         "title": "La inteligencia artificial entra en una nueva era",
@@ -126,6 +126,20 @@
         "source": "Página|12"
       },
       {
+        "title": "Los terceros invisibles de la inteligencia artificial: una lectura constitucional de los lentes inteligentes",
+        "description": "Los terceros invisibles de la inteligencia artificial: una lectura constitucional de los lentes inteligentes Tiempo Judicial",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTUZEUnVFc0dZUWNwVTVEVWwwNC14REZxcHRwYm9zY0tkeVBQR2FEY0NZT2NjZDJoVXNGMk9XTXMzWkE3eFpFNkRYN1Z3N1k1SGZITzRoLVY0clRVQ2Mwd05mMFFTWm9Xb1dQemxnSXN0eWZabmVyM2JGcHgtbHNvT2VLeFhvdDM3aXVFYkNlTmhZWlZSYTY2alhtZHpfZHhObHJPSWlNNVVvekp4S1lmZXhsVVYzekx0NU15V2FKekdBYy0zdjNqcVVCSERzc3djVjBveDY4cHc1aWlFZEZB?oc=5",
+        "date": "2026-07-23T15:05:41+00:00",
+        "source": "Tiempo Judicial"
+      },
+      {
+        "title": "Privacidad, empleo e infancia: las principales advertencias de un experto ante la inteligencia artificial",
+        "description": "Privacidad, empleo e infancia: las principales advertencias de un experto ante la inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVJ1ZHdub0xuNjhyQjdSY0hzYXpRam95WmctRWI3enJMZGxvMkVFTzVTNUhtc3RxSU1EbnE1eG01Q1lfUXZFWXpLOXhBQXh1RE1sYWRJTkE2ZDFzWDZ2UGFXN1dKLUQ3azhhWEJZYmZoVHpTMzl2eUNWbUwwVTFpbGNMSEZYak1mSkUtQUVrVzExRXd3N21kMVRraEpXY25MNVNkcDNxLUVMdW5VdkdtNjZJbTNqVEo2NXZ3UXRFRVVtTkNHb042VnEyUjRaanpUY0JPNGlrNkVRX3VWb3fSAfgBQVVfeXFMTm5nNkZRRGY2eHVnTEtieG1id3VRRlQxODdZVllWZFdxZ09Xd2JrWkJwaEpVeEstV1dhOG84cWprNlFsMWYydGFydjFwcHk3UFNqWnlfYklpM1ZqeTRGeENhQV8tdWlaMkplTUFuajFNVUNvR1BpMVRYa2ppYzVSUl9jbVY5Vk1mcU90emhVa2ZDN05VYVQtZzlWSjV0LUczRzhJdHYzSlR0aU1OTjZlZk1WNVJxaXZBVTF4VUdCV09UV0pmcERzcjd0bFdOWTBLTC1Gb2l0WDJ5MFRKbWdRNWpYSG84SVViTXlIbFdmdU9MblJGYTc2Rms?oc=5",
+        "date": "2026-07-23T16:34:26+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "China impulsa una estrategia de inteligencia artificial abierta mientras crece el debate en Estados Unidos",
         "description": "China impulsa una estrategia de inteligencia artificial abierta mientras crece el debate en Estados Unidos DangDai",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWt6VjY0RG5HTUlzYXpYaHZ0WTRZNUk1Y0pjSjlORUZyQTdaNHE5SVRIMW04LVdUQjRPMjhRQlJuVWN4RUF1YVB1bUlHWnZpSUhaWXpoU3BlOUJzSjZ1WXpiSU5IVXpSRkx6Qk45VlBnaG9UOXRDS3c3NV9NR0kwR1JjQWdvTzRYeFhBRFN6Z0VSaGQ1WXU1ZElkYW1MNHBRaVV1dE54NFVUU2lTcG9IY0REajZ0ZHVpVjJldWF4N1FnZjk0cEVYSnNuMjFrU2tycE5FUUVBWDQ?oc=5",
@@ -133,25 +147,11 @@
         "source": "DangDai"
       },
       {
-        "title": "Esto es lo que opina Christopher Nolan de la inteligencia artificial: “Es un caballo de Troya de cristal”",
-        "description": "Esto es lo que opina Christopher Nolan de la inteligencia artificial: “Es un caballo de Troya de cristal” Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOc0trSVlsVVFGSE5ITExTYWpYalBSM3lraFBFU1NycVhwbkRwbkFMR3VaeHJNM2Z2Y041MFhkTjJKV3k3VUlyM1VLVUItLVNzMDRhUkZYem1vN2xHT1BuTXZPZGJrXzZyczhrVm9oeVFQajd1NjY0c0d0d3BKbW5DTXJWYTg2elZwSjJUN1RmSDdLRXlPYnZzVUdtTWxHaGthZzhsdkE0QUVuNzkzYjJNVkwycTRzY2dySGNBSlk4NjU2czQwLTkwaFNKSDVOMFFuc0pLeWM5c1dQczZ4ZGVYNW5mUFBzcVRU0gGDAkFVX3lxTE8wWUlWVk1aUzQ2LXFpYnhSbXh0TjlucFJwRkh0VVhnZHlyNUtoVE9lOS1vZER4WnVXWmxJUGNZbmZUSzd3QzRoVWkyMGhEeDN2MjNrdkJmejZUVzBpdkJmdnlQYjFXSkhHZG9ianZSZ2Q4RGExWDFBRVRQZHN6eVZQcWZBaVpZcDFsTlZsSzJIU0NBUERveXRRQzFCSHhrcjF4bXh0cnlzMElyakdEWVpyaVFaMU1mQVNlLXRhMzFZZmxvTW02cUVEWUdPelpyQ3NvNzdIUHdzVzVQc2VoMDNQaktNR1BNWjdIRnpBNUgxOEh5cXpxLXh5Q19ac0xjRnhlVms?oc=5",
-        "date": "2026-07-23T09:38:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Cómo usar inteligencia artificial para innovar más rápido sin perder criterio humano",
         "description": "Cómo usar inteligencia artificial para innovar más rápido sin perder criterio humano El Cronista",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNERwWW84MEN2dElLS08zME5Ta2I0dVhGRnF6Zlg2Z1p6S25DZzdEdzhLNFR2ZEtnUzYxcmpMTWduSTZrV3NuVzg3eE95YXFEZHF5VzV4WnlWaVdHS1Zqc1loVXZlVlp6eXpvYzFpRVlsVDd4a3Z0Y3BmSE9Sb3g1NU94VXBmaTNhTGJ3UTljaEJOdk96R3JiaUNibkdURXl4QW1oYmpTOVRQanVOYVAtZHhvTzZFWTFNLUVUWXNQRm55S1NmWDNyM0RERdIB5gFBVV95cUxNWkw5Yk1oV0dGb2ZYUkRVZnpWcWotWmVnODdFaC1La3BpU1JnZWM3eHJoTWFGLTFZUWxPMWZ5TWVnTGhIVTN0X1FlbHQwOWdUcnBYMm80X29CR0E5UEpXMnVqZ09Fd24ybFBCNGhoQXpMNHNlTHJ1bnd0MzBKTzhjOGtUVUpDWC1QWXF5aVhIRlJCWDY3TFlUM0ZsTjlFOTNkSkt0RmoxdEw4cnp3dl8wcHN5UndsRzRILU1HUlZuX1RnR3V5UzNnU2lCM21lYzBWWDMwVXBCMTgtNkdsSUMtM3lSeTRYdw?oc=5",
         "date": "2026-07-23T11:23:00+00:00",
         "source": "El Cronista"
-      },
-      {
-        "title": "China endurece el control sobre la Inteligencia Artificial para frenar la adicción y los vínculos afectivos con chatbots",
-        "description": "China endurece el control sobre la Inteligencia Artificial para frenar la adicción y los vínculos afectivos con chatbots Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMG5DWTFiWHBaT0JJaDhfZDg2eEs5Wmx4ZnJPa2xqd0xJSFlMMS04cWxUVU1lNnpnWXdnNXJvMERPNTdxQlpRQXJndHNPelFuV0h0MVNsWkttMWNQV0d1TUpMMGRJajM1RGMwYXZ1LVh5YW9QbnB1b0ZFS1ZNOFNsQlpJOF9HNHQ3RHB2R2RSWVJwdG0tSlBMT0ZDd2JmNzYybnpwd05GN0dkS1pPZWxjT2FrNVp0QkdUQTcxcG1reVZtT2d0UkhsRE1seVhETTgyZVMxb0tmZGVaSHdTVlVocnZn?oc=5",
-        "date": "2026-07-23T13:00:00+00:00",
-        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
@@ -163,18 +163,18 @@
         "source": "La Nación"
       },
       {
-        "title": "Advierten que los dólares de Vaca Muerta no alcanzan: el rol de la política industrial y las lecciones de 3 países",
-        "description": "Advierten que los dólares de Vaca Muerta no alcanzan: el rol de la política industrial y las lecciones de 3 países Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhQay1hNEVHNlh4dkVJX1BTcVNOM3MxQzZ4MmNmNTlkR21pWlN4bXN2RVo0S09Xdk8tcnpVWm9zWk5iaWM3TThUN3ZDVXo0SHpzTXdoUnlzajBfOXNleVdSWm9IdGNnTnFqOUJIS2QzUFloR1RXcU9KOElDMzZid2pFU01WNVZ1YndWQk84YkVlNnl1YVlHQVItdmlfTHgwTExuTzRqZmlvU0hheW1DVGR3NWlVbGJteF9VeHJ0RElZLVJfSVlsNGVackpRd1BiNjZSRGtiWHZtRkRXLUHSAeMBQVVfeXFMTTVCbUJaQ19aMEJlTUNrLVoyMHhGV1FVc0NmQXl5endUbFp6VEF3ckV3LWk1ZG1TTUgwTlpiVVpZM2xhNTZJYkNYYXJaMFdZYTRBVEpCT2tvYU1fUEZETHI2V2RfNGpLRVRlSXBYUnVIaVZGY0NQdVJnSUdDSEw0bUt6dk9TUktCbnBnQkxzbl81Tmp6V2l5cUF4TTBQU09nSHk2OFNaeXI5VVRZa2lsVkhOb1R4ZkpIUEJPLXllb1hzRVVYQi1rTEgwX3o5Yk9DXzdVbGZoT2k1cjhUYWpncXhGMWc?oc=5",
-        "date": "2026-07-22T10:00:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "Petroleras financiarán en Neuquén otro paquete de rutas en Vaca Muerta y negocian un esquema con anticipo de regalías",
         "description": "Petroleras financiarán en Neuquén otro paquete de rutas en Vaca Muerta y negocian un esquema con anticipo de regalías econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWxXeW8ycjFMWHUxME44cGdtT2laXzNDQzJzSHhEWTJOWW5wSm9TN1BLRm9zRFE1NERvRjFVMmtVRkg0N2ViWDFIbGFpX1dUM283dE9TU1NlUDJyT3pMUXUtaXdYZ005SjhlWm1FbkpVdGc1VEgzcGxsZUhJYjl2RWlpX19zOU1JY0lxNFNXQmJha0swMVQ1VkFsRlVtMVlRZnBXb3hoUjRzSHZNZF9xUzRn?oc=5",
         "date": "2026-07-22T19:14:40+00:00",
         "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Advierten que los dólares de Vaca Muerta no alcanzan: el rol de la política industrial y las lecciones de 3 países",
+        "description": "Advierten que los dólares de Vaca Muerta no alcanzan: el rol de la política industrial y las lecciones de 3 países Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONFhQay1hNEVHNlh4dkVJX1BTcVNOM3MxQzZ4MmNmNTlkR21pWlN4bXN2RVo0S09Xdk8tcnpVWm9zWk5iaWM3TThUN3ZDVXo0SHpzTXdoUnlzajBfOXNleVdSWm9IdGNnTnFqOUJIS2QzUFloR1RXcU9KOElDMzZid2pFU01WNVZ1YndWQk84YkVlNnl1YVlHQVItdmlfTHgwTExuTzRqZmlvU0hheW1DVGR3NWlVbGJteF9VeHJ0RElZLVJfSVlsNGVackpRd1BiNjZSRGtiWHZtRkRXLUHSAeMBQVVfeXFMTTVCbUJaQ19aMEJlTUNrLVoyMHhGV1FVc0NmQXl5endUbFp6VEF3ckV3LWk1ZG1TTUgwTlpiVVpZM2xhNTZJYkNYYXJaMFdZYTRBVEpCT2tvYU1fUEZETHI2V2RfNGpLRVRlSXBYUnVIaVZGY0NQdVJnSUdDSEw0bUt6dk9TUktCbnBnQkxzbl81Tmp6V2l5cUF4TTBQU09nSHk2OFNaeXI5VVRZa2lsVkhOb1R4ZkpIUEJPLXllb1hzRVVYQi1rTEgwX3o5Yk9DXzdVbGZoT2k1cjhUYWpncXhGMWc?oc=5",
+        "date": "2026-07-22T10:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Vaca Muerta ya concentra dos de cada tres dólares anunciados bajo el RIGI",
