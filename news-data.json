@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T11:58:13Z",
+  "updated_at": "2026-07-26T13:36:26Z",
   "categories": {
     "Microsoft": [
       {
@@ -38,18 +38,18 @@
         "source": "El Ecosistema Startup"
       },
       {
-        "title": "Microsoft usará el chip TPM para bloquear la piratería de Windows",
-        "description": "Microsoft usará el chip TPM para bloquear la piratería de Windows Infosertec",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzFRd1QzVmFmZTk4Wl9DV0E2dGJ2WUthcG9RWnkydmlxbDh4QnhBRUREbHo2MFZLbTJvUEg2UG13MVN6ZUFKWXpoeHd5N2JpWW9TZ0RmY3Q3TXlnOGxIc3AzSjlyX1lYRnJyalpaTkt3X3R5TG45YkwzTUJhZnJYT1VqdFN0VHhsaGtvNUVYcDFramxHN19OcmYwRTR3MkE5MDRaOA?oc=5",
-        "date": "2026-07-25T16:45:23+00:00",
-        "source": "Infosertec"
-      },
-      {
         "title": "Por qué Meta, Microsoft y Nvidia defienden la IA de código abierto",
         "description": "Por qué Meta, Microsoft y Nvidia defienden la IA de código abierto Yahoo Finanzas",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVJ4VDlLOWpzREpDbnU4WHNvMXJXSFRRcG83bGNXREhqU2RZYVpGbTZpRXQ4V2NScUtMSkxRSXA1RDlnU1lSajBxeG1vWXA1bXlEMUExYjZtM0ZuQ1NHQnZXNzJReXQ5U1ZEUEt2MGk0TjNnV2JKanQwaVY0RVJUelpTUDFoYl9Wc1FKSjVVODZGU1ZFTGc?oc=5",
         "date": "2026-07-24T14:27:15+00:00",
         "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "La semana por delante: la decisión de tipos de la Fed en el foco, llegan los resultados de Apple, Microsoft, Meta y Amazon",
+        "description": "La semana por delante: la decisión de tipos de la Fed en el foco, llegan los resultados de Apple, Microsoft, Meta y Amazon TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbmtaMjdaVEQ1T1hTVEF3YXl3eDdlNUhNWHJpRTlYdnV6REk3bXp1bkZPb3VYQ2N1NnhvRUtUUzU5RjNTX0tvMHhSelcxUUVrbERIUzhrZVRQeFZQb3R5SGhwNG5Kc0JlOXpudXd0Vk9NTC1EaENiSVFFbW1FLW95SjJ2SUwxajlsVHhhcUVXcWNaaFNvaWl4bEhxRlZmUWp1eG9FMDdDTENUSVQySGFOc25yUEtLR0J6cDR4RGZka0FkUmQ0c0dJLXE3S0VGUlpBYkZmSEMtbw?oc=5",
+        "date": "2026-07-26T12:22:16+00:00",
+        "source": "TradingKey"
       }
     ],
     "Marketing": [
@@ -96,11 +96,11 @@
         "source": "InfoMerlo.com"
       },
       {
-        "title": "Desde marketing hasta panadería: los cursos gratuitos que ofrece Trelew para conseguir trabajo",
-        "description": "Desde marketing hasta panadería: los cursos gratuitos que ofrece Trelew para conseguir trabajo Canal 12 Web",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0VWY1lJZVVlckdoVmRMZDY2OGRwc0twTktsRlNucndZWXluRmNUUTZOR0tXd1BVaGJZTVdxRkkzWVlhUGVQRzlsaE1EanpTRXM2alI1Q2hEYi1fR1RsNWJwcFpGR2hDNkN5VHpXS3pLZHprZTlYUnRQdnF3SzRQOVJaM0RwRldDVUxTVkhIWmNfb3BIX280bTJ2eEZOMXVFNGw1ZkdiMXZnWkRYcEZoZWZ6RTZlTVg2?oc=5",
-        "date": "2026-07-23T17:45:48+00:00",
-        "source": "Canal 12 Web"
+        "title": "Cómo crear anuncios con IA gratis en 2026: la tecnología que cambió para siempre la publicidad digital",
+        "description": "Cómo crear anuncios con IA gratis en 2026: la tecnología que cambió para siempre la publicidad digital economis.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemlfRExXcGU4Y3drZ0Z2akpCNTRFSElHSGRKQUt6anVGLU0tUkpsYXRMWTRuTzVRRmNHX25MRmZRMjYzbzZ5MWN2ODVucnBVaGRTRGFTVDhFc1MzY284cHlENTJtLVFEUHpmRFlyd29MR2pvTGVnbHVEc2ZDVUV0WXgzNzJqWExDRGJQbndVeE5RaWtWR1ZkdHBNOFdhekZWQ0Q3bGNkM3ZvLTRPMGRuTmV0M0J3REZMa1JSelZ1X0hfQlM5?oc=5",
+        "date": "2026-07-24T11:45:48+00:00",
+        "source": "economis.com.ar"
       }
     ],
     "IA": [
@@ -112,32 +112,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Lo mejor de la IA tal vez no sea el futuro, sino el pasado",
-        "description": "Lo mejor de la IA tal vez no sea el futuro, sino el pasado Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzBNLVNsQmpkUVRWUWNOajFVeUoxY3BXU3BTX3hyS1hzbVpmb2RReUphZkgyNWJvdk5RaThWOEVFSUk4cXp6aXY0VGtkWXhmYXdTYVU2aXZ0a05XTDR5eTVIX3h4THF3UklEZXg5dzdpY1IxZVJPNnQtdmx2VXRkUExDckh2YUUzRXpUT0FLY09zWWIzT3l1Vkhnams4UjlURG5oOFJ2VWpVVDF1RHkxR2p30gGyAUFVX3lxTFBvME0tU2xCamRRVFZRY05qMVV5SjFjcFdTcFNfeHJLWHNtWmZvZFF5SmFmSDI1Ym92TlFpOFY4RUVJSThxenppdjRUa2RZeGZhd1NhVTZpdnRrTldMNHl5NUhfeHhMcXdSSURleDl3N2ljUjFlUk82dC12bHZVdGRQTENySHZhRTNFelRPQUtjT3NZYjNPeXVWSGdqazhSOVREbmg4UnZValVUMXVEeTFHanc?oc=5",
-        "date": "2026-07-26T11:00:00+00:00",
-        "source": "Rosario3"
-      },
-      {
-        "title": "Humanizar la educación en tiempos de inteligencia artificial",
-        "description": "Humanizar la educación en tiempos de inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNTQ0UjVmUDFzaHNpc3ZEOUxUN1RKNm1fYVpueG9uX3lXNTVtUnFIenpmMFhVNk9MMjhMZ19ZR3R5czlNWVpwZThjVzFjWlNzQ19XQnhvdGhpZUxLVEFYblNYWmRaa2hyZHk1TmVjcVNNUXh0ZkxiWmFkVUZZX1hvcWxCV1FJRUhmV25YQTN3MW8wY01XWXE1TWg4UzJ2SGxfVG1Z0gG-AUFVX3lxTE52dTZsS1NIRHFDbmNKOE53TkVPb19TRVJtYkpCZVl5T0pXOUhDUzAzX3VrTzNrdzB0cGYtMkdaLU5hcUlfTlZseDdpem80VjdPNXY0OWNIZkZ3eExGbnh2TENMYkNTbjkxcHhNNmprdHdLNXBSbndWRHhNS0JseWxheWpwcGotMTlFOEpGMW1SVHpwZVJySjdQVmxaSndMeEF2QjRmeDVDOExNUDhXTXh1cHpTVTVIaFJqUVoySWc?oc=5",
-        "date": "2026-07-26T11:02:36+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Durante años la IA se entrenó con millones de obras protegidas por derechos de autor; ahora la Justicia de EE.UU. decidió que es hora de rendir cuentas",
-        "description": "Durante años la IA se entrenó con millones de obras protegidas por derechos de autor; ahora la Justicia de EE.UU. decidió que es hora de rendir cuentas Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbmk3bGhzZ29yZ3RwcGplZmZhYXE2ZE9Eb1ZyTHBWdGFtamdSbC1xcE40Y204ZGo2emJNdWRoUzZzZE5NdndGTzJyMmNTSFpDVkhxb1NhMHBJSUdUNTR4QTVmdVZ3akIxM29vMWpJRk9tdWYxa1pSenRfSTdoWXdxSWhXWEZsd0pET2FscjY5eUtBT3JRRXN0RVlYVTRIVVBfVGNEZVh5OFA2dzBQaEJpc2lWUDZWR096LUx0Z2gtLUIxZTk4enFLa1ROSmt2d1NvZGFSRjlYVzZUVTdyT0RqRTkxNVRRaS1mWTVSUW9fM0RCd9IB9wFBVV95cUxPWFNzMm4yVjU0Zl84clR2a1daVnNxclpLTk4wc2tvS1MwU1drQ0h4bjJGS3lQT2pndXE5bTNON2RZcVE1NXNGWnlhOTI1SmFoRUFzanNuMmZZUVhianB1eUthUEp5QUZ4UjNXNkJTR0dpendxcVpLS21OcGlDcGRwWWNnWFVhdkFoM1pJY2RMUks3aUFLbktuLWxMa1p6RFhUZFFsTG9OVE9fU0hnUXBLcFNzMmhoSWEwOUxSMTBnR2w5QmJpU0xuSDNwYk9RSVpjTENIRVk1Q295d1hKSzBjbTluM2JKb2dvaV9QSEVveWdGM0NvVm9z?oc=5",
-        "date": "2026-07-25T08:59:07+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "La inteligencia artificial toma el control de los semáforos de Bahía",
         "description": "La inteligencia artificial toma el control de los semáforos de Bahía La Nueva Provincia",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0ZUMFo0R0xjbXlVWFVjV1g4YmxFUnpCdEFsWDBXLTB4eDRxaHFvZWVxQThJUU9HaXI4R3FReE5qcGpKUFRVenZiX3UtSmdhcDlaZll5LTU2MTROdERSblF0cE8yUndJM2ptTV9GbU9xbU03RmdKS1padVRfODhxLWk4WUYtNGJQY1Q0UmFZb2R2NTZPeGg0V3RJemxFbFRkZFBvUEtTSDJrUmNQU0pxT1VMa1c?oc=5",
         "date": "2026-07-26T08:03:06+00:00",
         "source": "La Nueva Provincia"
+      },
+      {
+        "title": "Lo mejor de la IA tal vez no sea el futuro, sino el pasado",
+        "description": "Lo mejor de la IA tal vez no sea el futuro, sino el pasado Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzBNLVNsQmpkUVRWUWNOajFVeUoxY3BXU3BTX3hyS1hzbVpmb2RReUphZkgyNWJvdk5RaThWOEVFSUk4cXp6aXY0VGtkWXhmYXdTYVU2aXZ0a05XTDR5eTVIX3h4THF3UklEZXg5dzdpY1IxZVJPNnQtdmx2VXRkUExDckh2YUUzRXpUT0FLY09zWWIzT3l1Vkhnams4UjlURG5oOFJ2VWpVVDF1RHkxR2p30gGyAUFVX3lxTFBvME0tU2xCamRRVFZRY05qMVV5SjFjcFdTcFNfeHJLWHNtWmZvZFF5SmFmSDI1Ym92TlFpOFY4RUVJSThxenppdjRUa2RZeGZhd1NhVTZpdnRrTldMNHl5NUhfeHhMcXdSSURleDl3N2ljUjFlUk82dC12bHZVdGRQTENySHZhRTNFelRPQUtjT3NZYjNPeXVWSGdqazhSOVREbmg4UnZValVUMXVEeTFHanc?oc=5",
+        "date": "2026-07-26T11:00:00+00:00",
+        "source": "Rosario3"
       },
       {
         "title": "¿Ecos de las puntocom? El dilema del negocio actual de la inteligencia artificial",
@@ -147,20 +133,34 @@
         "source": "Ambito"
       },
       {
-        "title": "La coartada perfecta: cómo la IA puede poner en duda cualquier prueba penal - TN",
-        "description": "La coartada perfecta: cómo la IA puede poner en duda cualquier prueba penal TN",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd0dWN0VlbldJckZoUWJIb3pwQkZqa1lzdlAyN2tQWWhxem9VZENTUTZzUVBMa0l0N3BWd21CXzVzZGFScjZqU0syV3ZJYk5jUnprTGtwUFJwbXQ5ZVVrSE4za0RKWWtkTk1teHlDZGRpR0txcTNvREx2ZGc4MExRNkFVSERTcGVucE9GSGJySFd5VS1VRktwV1RPZDdBek5zZWQwY0x1eE1ibXhURHhRdzdwQUpWbXpZekZwQWVTLTZyUncxdUHSAdoBQVVfeXFMUDRidnF5T25wc2NEbVFuMlJ0akpyUkc5OENFbVZBQWtrQ1RvQWhoelRUSWVIRzVCYnNBcVdzcWJzcUlJNGVYWXZYVUh3THRiMTJXNDBSYnozYjVzRGVIUlRQVzBlMmlPbUJpcFVJRnFQOThZdWZYcFJTUFdjNDJXWU92c25USS03bHc3OWdTdzBsaUwtQWN3NjI5bnF2WGpLV1ZTRVBiV1RHSEtwV1RrRTZOQ1MxUEFMWFVsam8ybXpnRGQxeWNlSlhNNWZkaUE3V3p2cEEzZFh3Rmc?oc=5",
-        "date": "2026-07-25T10:14:00+00:00",
+        "title": "Durante años la IA se entrenó con millones de obras protegidas por derechos de autor; ahora la Justicia de EE.UU. decidió que es hora de rendir cuentas",
+        "description": "Durante años la IA se entrenó con millones de obras protegidas por derechos de autor; ahora la Justicia de EE.UU. decidió que es hora de rendir cuentas Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbmk3bGhzZ29yZ3RwcGplZmZhYXE2ZE9Eb1ZyTHBWdGFtamdSbC1xcE40Y204ZGo2emJNdWRoUzZzZE5NdndGTzJyMmNTSFpDVkhxb1NhMHBJSUdUNTR4QTVmdVZ3akIxM29vMWpJRk9tdWYxa1pSenRfSTdoWXdxSWhXWEZsd0pET2FscjY5eUtBT3JRRXN0RVlYVTRIVVBfVGNEZVh5OFA2dzBQaEJpc2lWUDZWR096LUx0Z2gtLUIxZTk4enFLa1ROSmt2d1NvZGFSRjlYVzZUVTdyT0RqRTkxNVRRaS1mWTVSUW9fM0RCd9IB9wFBVV95cUxPWFNzMm4yVjU0Zl84clR2a1daVnNxclpLTk4wc2tvS1MwU1drQ0h4bjJGS3lQT2pndXE5bTNON2RZcVE1NXNGWnlhOTI1SmFoRUFzanNuMmZZUVhianB1eUthUEp5QUZ4UjNXNkJTR0dpendxcVpLS21OcGlDcGRwWWNnWFVhdkFoM1pJY2RMUks3aUFLbktuLWxMa1p6RFhUZFFsTG9OVE9fU0hnUXBLcFNzMmhoSWEwOUxSMTBnR2w5QmJpU0xuSDNwYk9RSVpjTENIRVk1Q295d1hKSzBjbTluM2JKb2dvaV9QSEVveWdGM0NvVm9z?oc=5",
+        "date": "2026-07-25T08:59:07+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "OpenAI dice que su inteligencia artificial se rebeló y lanzó un ciberataque \"sin precedentes\"",
+        "description": "OpenAI dice que su inteligencia artificial se rebeló y lanzó un ciberataque \"sin precedentes\" BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zVHk0NWc5OWItQlVZenJEOGl2UDhuM3MwbnpoRDJsdG01b21YQ2R6OFljMExZZWNYalJWb1p1c3Mtb2JTN3NaUHlqVHU2d0kxOHp3MVVSNkZLSjjSAWBBVV95cUxObDhpd3EydDBaYVZvRlcxMlYxZmxSMXJxd0xVUGtMMGR2NVMtUGpWUktXR21uYUNWVmdrcEhkUGJWMU5EeVVGN1F2cks5azUxZ3B0TEU4ZWgxU1A4MU5VcEc?oc=5",
+        "date": "2026-07-22T15:02:27+00:00",
+        "source": "BBC"
+      },
+      {
+        "title": "El riesgo nunca fue que la inteligencia artificial desobedeciera: fue que obedeciera - TN",
+        "description": "El riesgo nunca fue que la inteligencia artificial desobedeciera: fue que obedeciera TN",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOVhGbG1XbzlLd3pTOVBDbDB4Q0hlVzRmVmlHRWx2eEo2eTA3TGVaenFidUd1NGJWOWdsSHBGSDctUTNxQTRuREkwZ1lCSHpuZTRtX0dPNU5JMzVrLTZIYVlIejNqX0sxS1lDc0pvNzYzZ3BsaWpvZ0NMTWY0MldOcDhDOG1pYWJodlhMT09iYlp4SUxFUkNHOUE0MWg4eXNlSkZ6MWI5azI0Y3Y1anlTREhyeTdyNGstTDNZbWZudmJJWFNCYWprbtIB3AFBVV95cUxQWG5qQXZCbWpkdkZmY0dGdzBIYUxzSjE0STl5T2VSaDZHM2FhWkZsNEdqbHlmYUZIV1MxVE04WUN6dURLdWtHQnI0VWFpUk8tRmZpZVVZbVRtQXpNQ3NQSk9zdzY0OTdON2RQbEtKTGRKZkwtakVaVjZRNk1FOEpsZzc4dWwwUkFLU1otUTlrUy1OTzlaOEN0OUl3eUZ0bHNYQWFUbFlkXzJ3RlNISkVfX2poTjZjUWppY0pIdGxoMU54SW9WaFhVTmpjTWMtaERGRVE4ZnVJb29odUZv?oc=5",
+        "date": "2026-07-25T08:37:00+00:00",
         "source": "TN"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "¿Qué viene a hacer Georgieva?",
-        "description": "¿Qué viene a hacer Georgieva? Página|12",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzNXVRRFFtaGFrbjZkTi11SXEtRlFOeFZUalgzNTIySjdGN1JBcHNvTHdGUWZkMHdiQUI2RDhLeXVDTV9waGhyejJORUdvcjctNTQ5elFhdjNYRjY0N0RPMVhmaDVZRi1JNUUxMTBBWG9vR1p0MEdHTkNfd0Q?oc=5",
-        "date": "2026-07-25T15:36:56+00:00",
-        "source": "Página|12"
+        "title": "Kristalina Georgieva se saca la foto en Vaca Muerta mientras busca garantizar que haya dólares para pagar",
+        "description": "Kristalina Georgieva se saca la foto en Vaca Muerta mientras busca garantizar que haya dólares para pagar Perfil ¿Qué viene a hacer Georgieva? Página|12 Vaca Muerta y nueva deuda con el gran capital: las apuestas de Georgieva en su visita a Argentina La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZExJaWgtVFpVSG1qTUhKUnlrUVI5aXN5cTFlSGpPeWlvX09ZSjRjUllIWERLTV9qeXhKZjEycTFGUThoQWg4NlN2dERUQWxncEdjU25sUERiMWltRmJoZjRDRnVxcDZWRVNrV1Z3QUx0NGZiX1NSNHdqOFpibWNoZDRsSTY4YjZ5RGtLVUxEX0JGdzQ5Z21FUUNYTFhObG1NRUtDWFdYQm8zZ3R2ZkFBSzY4S1NPenhNWFVuNDVyX1BuQ0xZbWJTZ2FxMXZYYlQ1Tnh4Y2tWNGhvOGpITVVGUTlWeGFHQjV0ZkplNdIB8gFBVV95cUxPTWJGekdXMjAzSFctb1V5RDhaZndZVkU2OHc5SHhLQU9UOTU0NS03NFVPTU0zWUNBQXBGSUgtbEQ4LXF2ckRNMThLNFZQMFl0OS1RWnNaT1RiMlJjS01fVmVKQlN0emhrSFh3UHhmMldrUlJUTnBhNjgtUjliSktUM09XNVl3NXJFbDNKRkJXTDlqczBld1U3UXB2anhLSVU5UHJueHEySkZYWUc5VlNVdkRpQUdpTElMZDFpZTZWaGd0ampocEdUcjk1YUIyaDV3VFpINnI1dkVUY3hpdjBieTlCZndkanZKMlZVOVRkOHdvUQ?oc=5",
+        "date": "2026-07-26T02:55:00+00:00",
+        "source": "Perfil"
       },
       {
         "title": "María Emilia Soria arma su candidatura en Río Negro: criticó el impacto local de VMOS y ser el \"furgón de cola de Vaca Muerta\"",
@@ -168,13 +168,6 @@
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWDFvNTVqaGo2a1BSWGM3NU5ldnAwaHQ2XzRiblBoOEtLODVPbEo4azFjeGtNUEZMaWJSSDd5Ul9RUjY3VmthNjM5cmJTencxdG1seXlIVkRQbVVwT2NBX1A1aHFpSGhKZTd2QjBTcDBNbnk5MkdQVk1sZ1ZYSWVHSEZlX19xRWtMTm9XY1JXX0VYT3k2N3prLXlyY3V4ZEgzWVRybXUzb1VmcXM5OHI3WHdoeVZMVmltVGsxbGhVbmRiUkRHbU43TlBaakZJemNjV0RLWTRJUTNPdnViZGkyLUJLQW9qZmY2SXZxNWMyRlNsdw?oc=5",
         "date": "2026-07-25T14:47:25+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Kristalina Georgieva se saca la foto en Vaca Muerta mientras busca garantizar que haya dólares para pagar",
-        "description": "Kristalina Georgieva se saca la foto en Vaca Muerta mientras busca garantizar que haya dólares para pagar Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZExJaWgtVFpVSG1qTUhKUnlrUVI5aXN5cTFlSGpPeWlvX09ZSjRjUllIWERLTV9qeXhKZjEycTFGUThoQWg4NlN2dERUQWxncEdjU25sUERiMWltRmJoZjRDRnVxcDZWRVNrV1Z3QUx0NGZiX1NSNHdqOFpibWNoZDRsSTY4YjZ5RGtLVUxEX0JGdzQ5Z21FUUNYTFhObG1NRUtDWFdYQm8zZ3R2ZkFBSzY4S1NPenhNWFVuNDVyX1BuQ0xZbWJTZ2FxMXZYYlQ1Tnh4Y2tWNGhvOGpITVVGUTlWeGFHQjV0ZkplNdIB8gFBVV95cUxPTWJGekdXMjAzSFctb1V5RDhaZndZVkU2OHc5SHhLQU9UOTU0NS03NFVPTU0zWUNBQXBGSUgtbEQ4LXF2ckRNMThLNFZQMFl0OS1RWnNaT1RiMlJjS01fVmVKQlN0emhrSFh3UHhmMldrUlJUTnBhNjgtUjliSktUM09XNVl3NXJFbDNKRkJXTDlqczBld1U3UXB2anhLSVU5UHJueHEySkZYWUc5VlNVdkRpQUdpTElMZDFpZTZWaGd0ampocEdUcjk1YUIyaDV3VFpINnI1dkVUY3hpdjBieTlCZndkanZKMlZVOVRkOHdvUQ?oc=5",
-        "date": "2026-07-26T02:55:00+00:00",
-        "source": "Perfil"
       },
       {
         "title": "Vaca Muerta impulsó más de la mitad de la deuda corporativa emitida en Argentina durante el primer semestre",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHJMZjd1UXNWOU9ZeFdfZ0JUSWVib013QUY1LTRzUlZfMTFFcWpzM1d4b3BmT3pfRGtVYTJJWTZiSi1PUzlGTWRzQlNPWlAyNUZ4MmV2ZjFKMElwNWNzcEJ3Y1d5WlZVMVhHSk14azJDdEFzXzA3Q05kLWp5dHlJVXhDaDFWSV9kcUtYbVptMDN3Zy01VV9obTlOaEgwZw?oc=5",
         "date": "2026-07-24T12:46:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "Trabajo en Vaca Muerta: abrieron nuevas vacantes en Neuquén para profesionales y puestos técnicos",
+        "description": "Trabajo en Vaca Muerta: abrieron nuevas vacantes en Neuquén para profesionales y puestos técnicos Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2picVhqbGl6UDc5T3JlcGpJSkpUTklaM2ppc3hXRFlscmhXQmVleHZBWkw0Z29ZVlJ0NmhnWWJNa0c3RW16aUZqZXVXQ2NwOXJ1OTR4VGpmeFZVZWh0dE1teFZzU01KeU14R1E1NllKZFRQNVZ3UE5zbk4zaWloMNIBhgFBVV95cUxPX25xUnRHTHZ4TE44cHo3TllQX1RFZXFFdE12SlFnTDFqemMydWlDam5vcVFnY3NPbHl1WDlHakI2d1lOdkxubjFzWVlMUXptMHhGN0dILUtNS1VhVGdyMXNQTkdZV3NCejFHcnBfQUU1Y0pBLVRMelVsSTB3WWFmRl9Od1prQQ?oc=5",
+        "date": "2026-07-24T19:27:00+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
