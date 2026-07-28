@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-28T16:01:55Z",
+  "updated_at": "2026-07-28T18:08:43Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas",
+        "description": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnllYjczcFJPZEJ1aXZMbjE5dF8wQjl2Y3psM29oTlBMQ2VXTXVQVV9WdUZaMDF6OFhOdGVuWTVldFdsa25qTzRBMWdGRmVjNFIzU1MyVTF5YzhOd0p3QkltcjlKNG00a0hQUHM3R3dXd1VtbjlBdzFPYkNpdTBzdjRueDBWbHYzZlFpWFpCLVJxYUNTNWN0MU8xUlJSRWhyb1VJdEhleFNBbXNiakRvRFdEcDlYbFNvX2FJcWhSSENPbVNUdVlGRUtfUlE3QUhVRzhJ0gHuAUFVX3lxTE1tc2hoeXN0TkQxSjREbG1sVHJFNDhteVdMbHptck5DSTNyYTh6aG9LTWZ1S0ZFQ0ZNdjJfX0lwckRvSWNCMVYyX25PZG9YTEppclV0bTg2Y2JOcDJMU1JlbS1oLVFCSUxOQWdwQ2dIUVRXN2ptUWg4bUw3SVRUOVlrQlV4RUQ0dDc3azNPNHhhbThVNy16ZEUzSFc0MGpkNE4wSUk0MndHZGFPZlE5TjVFWWYxWHpCRkU0T09KUTdfUGw0RmJUUGp2ZzZuMG5ZVndjcnAxai1nbkdDVlFOaDhldVh5dm9aOUlHQ2kyanc?oc=5",
+        "date": "2026-07-28T02:27:00+00:00",
+        "source": "Infobae"
+      },
       {
         "title": "Microsoft avisará en agosto a las empresas de que la activación de Windows por KMS debe validarse por hardware",
         "description": "Microsoft avisará en agosto a las empresas de que la activación de Windows por KMS debe validarse por hardware Infobae",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWJPMy1ac0I1cW4ySDhiWnhPajUyajNrbGFLNnBYWjM2V19ReTZDb3Jncm5fZDE4aXdlWUprQ05peGl5SDdNck9EelFZY3ZSbWlsZzV0emFyR3R3N1lDdHFULUJDeTdMUDhDQUcyajVEWW9xcnpaVmRuTHdOby1ZSUhkaEE3STVLSTVOY2R5amN6cGJkcGRiX1VZbWlmeWFsNzVBSDgzMm9va1BDamxodm5zVHJjUVdaYjAzeG13MDJucGd0YUdTOUNqLXdjZGhqTkdlU1U4bGtRTHlMbFBIaG5NMFJQLXVScmNYN0pudzVqT1I4ZUHSAZACQVVfeXFMTUhodFd4T0dpbXNDU21RdlVIcXVyZEdvcjlNM0I1U0liamQySzNlMEhtYlA0QVFXOGpJYWFrXzczLUVQQjBsZlRIdVpXRHJsOUxBRmQ1elZrQzh0dllsUGFWc2ZidXdtbGQ1aFkzYVJSVHNzVVVvU0JtRzJnajdsRGNSTmpCOGhGUzJfU2tQZ3FzMkpIVW1VUGszMjNhbDN3d1FMQURrZ0pydnBmOUlhZG1GMnduNGgzSEx1V0VsSVdhVmJMNkJ3UTl0aS15RHFCU1BmZzJEa1pJbmp4dVR4cklOajJUQWtWRk1NTi0tRGljM3NWc08yWXpvVktuT0hsZUhVNl9CQVQ5RmJhekRKVjk?oc=5",
         "date": "2026-07-28T15:30:32+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Anthropic responde a alianza para impulsar modelos de pesos abiertos de Nvidia y Microsoft",
-        "description": "Anthropic responde a alianza para impulsar modelos de pesos abiertos de Nvidia y Microsoft Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHphUDdTdTMzUHRLc3FxNWV4Zy1KOS1fQTRmaHdmVWY3dGlzVTVONDRWTHhVQkcyTWlYa1hlQ1VpZGNZMWVwb2RWc2ZxSmhpMjB5TTdUQmVoM0p2UmpxZ1ZjRS1NbXF5dG1pREpXS0NpeEdmQUh1TEh0M0FPbFFsMzloVVpudUFWRHdDMENCX1o5Wm43NWc?oc=5",
-        "date": "2026-07-28T15:08:30+00:00",
-        "source": "Yahoo"
       },
       {
         "title": "Amazon, Apple, Microsoft y Meta presentan balances y esto prevé la City para sus CEDEARs",
@@ -31,18 +31,18 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Xbox está caído: los servicios en línea de la consola de Microsoft están dando fallos a nivel global [Actualizado]",
-        "description": "Xbox está caído: los servicios en línea de la consola de Microsoft están dando fallos a nivel global [Actualizado] Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUZJd053NXlGZDNiMGt6Mi1zNWtKemY3ajJBX3lCUURnZWN0bE80S0xlYnlBSndSQ3ZLZVVBcWt2OHB0RmhUWC1hcjZLOXQxVlctWXZHelZjeHhoQzd5TW9sakN2WDRvOGJ5REcwSWd5Z1F1Z0tmNDJpOUZxV25hcjRXM3VSVi1hdTFCZUxqSlhCWUptSV83aFFLSENnUHRJbkZIVlNFOEdRNVJGT1kxbUJKUEVqdktiSUHSAb8BQVVfeXFMUGR1YkNYTkxQcEhxVnFYRFdOcnpULVRKMUozX2hGckQ5QURyckh6NDhBNWxSc3paMWUyb0kzVEhpbFFjVXVzLTMxRVkzaThhc3hrTkhGWkl6MllKeERNaDRyamdkcUE2V1l0cmtqTVNpMUJ1WW5tR0p6b2szXzJvT3ZHSFlwRHd5SDRYN0tydmpaVWNfekFnckxyZkdKT0d2MEpZMTJiX2JXZWdGWXpFb1lGcHJVLWZRWld5cU5JWjA?oc=5",
-        "date": "2026-07-27T16:55:00+00:00",
-        "source": "Xataka"
-      },
-      {
         "title": "Nvidia y Microsoft impulsan modelos abiertos de IA contra el mercado chino",
         "description": "Nvidia y Microsoft impulsan modelos abiertos de IA contra el mercado chino Urgente24",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb2doODZodlBWZUN2YU5nSXE5RXEyTWNNOUYzWDRReXZDLW1JRVRRRUpPTERpOTg3c2ltaVRneTdJMHY1ajJ6V051bFkyWU1BTVpYemkzZGtKekFMTmlnMEhyN2JhTzF3Mk8zQXZJX19DYnZGSGc2NjZTZDZEdDFoSHlzOFhEYVlXY041VHg2LW1JN3BiYWsxN096VzRDNm9zXzJiMHVIQTJiZ2PSAbABQVVfeXFMT1Z5ZC1ZcDZEQUNXcWlDME5nZl9makNrYko5dWxBUEwzVUIzeWs5RlZFdk1yZlJRSmtQUTU3ZEEtSXdYRk90N0dMZm5Tbndfa2xzWlA2MGh6a0ozUEI5NUEweEx2MGI0aVRMdFBlMDdUcHFMal9heUFWcVNJd3Rkc1pUbmE0ZFBpUDRlWk56endwcFhUWFhLVWFBblNWbjRJMlBwOFNOekh4OGlLR29CUlg?oc=5",
         "date": "2026-07-27T18:27:00+00:00",
         "source": "Urgente24"
+      },
+      {
+        "title": "Xbox está caído: los servicios en línea de la consola de Microsoft están dando fallos a nivel global [Actualizado]",
+        "description": "Xbox está caído: los servicios en línea de la consola de Microsoft están dando fallos a nivel global [Actualizado] Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUZJd053NXlGZDNiMGt6Mi1zNWtKemY3ajJBX3lCUURnZWN0bE80S0xlYnlBSndSQ3ZLZVVBcWt2OHB0RmhUWC1hcjZLOXQxVlctWXZHelZjeHhoQzd5TW9sakN2WDRvOGJ5REcwSWd5Z1F1Z0tmNDJpOUZxV25hcjRXM3VSVi1hdTFCZUxqSlhCWUptSV83aFFLSENnUHRJbkZIVlNFOEdRNVJGT1kxbUJKUEVqdktiSUHSAb8BQVVfeXFMUGR1YkNYTkxQcEhxVnFYRFdOcnpULVRKMUozX2hGckQ5QURyckh6NDhBNWxSc3paMWUyb0kzVEhpbFFjVXVzLTMxRVkzaThhc3hrTkhGWkl6MllKeERNaDRyamdkcUE2V1l0cmtqTVNpMUJ1WW5tR0p6b2szXzJvT3ZHSFlwRHd5SDRYN0tydmpaVWNfekFnckxyZkdKT0d2MEpZMTJiX2JXZWdGWXpFb1lGcHJVLWZRWld5cU5JWjA?oc=5",
+        "date": "2026-07-27T16:55:00+00:00",
+        "source": "Xataka"
       },
       {
         "title": "Meta y Microsoft encaran sus resultados con el foco puesto en el gasto en IA",
@@ -75,25 +75,18 @@
         "source": "Que Pasa Web"
       },
       {
-        "title": "Abrieron las inscripciones para una nueva edición del curso gratuito de Operador de Marketing y Ventas Digitales",
-        "description": "Abrieron las inscripciones para una nueva edición del curso gratuito de Operador de Marketing y Ventas Digitales San Fernando Nuestro",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQWRLV0J0X0VSTC1QWS1GelBwUzgxY1hlbklTRFdmeFE1STFfNmdCeFpVZFFGeGx3LTBtb05FZE9VZXNMVUk5cFdPcHBjdng3UW5qbXI4TXFpclNwVnNuTzFIZWoxdTd2aDFlc2swWV82eU9CN1Y3dnFyMG9tcjg3aFJTN0NZRzEtaXowbEo2ZV9rRUxPWXJDUmZ2cUtZMmlxYWZrWk50UkJ0TTZEdE9NalUzYllfY1pGWFpRUTMzWlN3OVpGRmY3X1AtRnpac01nNGZaWEp1NEJuMW1kTEFSSzE2S2tfeG5TN1V2RVhWVXBCOWxUbnNYcEVScXdDeXM?oc=5",
-        "date": "2026-07-27T18:28:37+00:00",
-        "source": "San Fernando Nuestro"
+        "title": "Cómo y hasta cuándo inscribirse a los cursos gratis con salida laboral de CBA Me Capacita",
+        "description": "Cómo y hasta cuándo inscribirse a los cursos gratis con salida laboral de CBA Me Capacita eldoce",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjNXQzA4VjU2NjJIX0lFbTI3YW5xUzh1U2dncFlzQ1FaMjdlQ2tCazdja054UC1xN2x3Sm5BX3lkS2VJczJ2aUg5Mmdsb3E5Ny1HbXdqU3doYjZPVjFQUjJ3N0pCTlBiTDhTbXBjMk9iN2pPdTI3Qm80dERyMEplb25WNjVwUVBLYWk3MnlIYi1reHVzSGFqa3NQbkhLMDlidExFaTN0ZXhUWWladmxtYnZab1FuVUFFeE1pWU9fYkJLRjB0WERUcFpB0gHeAUFVX3lxTFBnU1VNVThMejhQaUIwdXVULXJwaGFiN2NTNkhaa2Vza29BOFpoMFIwcThfUlhjbzRPbFZqOVNpcXlKQXpDWGZaRGstYUhrT2RkR2QzSjZOdkxiUmZHQm41SlpUQ1lQUERrT21zbkFuczZmUHV0OWIzR0RVeC1fN2ExTTJjNjVxNzFSOWZUcW1Hc1prOFBzMkFsSEN5bkVNdUpHVkJjUlZDV2l3MWo4eEpDSUg2QlNKWjlZNkhCSVJ1Um54YzEtVGdua1lzUFgycnIxT0s4OTJDdVZnS3RxZw?oc=5",
+        "date": "2026-07-27T13:18:12+00:00",
+        "source": "eldoce"
       },
       {
-        "title": "Las carreras de comunicación cambian: el rol de los datos y la inteligencia artificial en esta nueva era",
-        "description": "Las carreras de comunicación cambian: el rol de los datos y la inteligencia artificial en esta nueva era Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNjZCQjlVbnZVRFVhQmtvZVlKcnBLNVY0ZDBvWmF4OTdmMWN4YkxDbTBpbk5CbFVxbzRUTHB2bGIwLWx0Y1h5b2NXYTE1dzduanNBZGNLSlBuN3lmLUtkcC1NV0RidzJKVThETmJtWHN4ODAyTjJlZThzREhVODZQM3RQaG4zN2RGanV0VmZiVlRwMDNwY1Zvb1VqRk5tWTc4OGpqbDcxQUYtQ1VBMGM4TzlVVVlIM0thSEdsZ2hBb3JuY203SmdGQXh6b01odVR5dEZZckRxWjBzT18wejFjUdIB-wFBVV95cUxPYnAycDN1Q0VRR1BXUHRBSzhUZ3VlS0FkZ3pDY3loaGJwZXBnUXdXYUtVOEtFeFVTY0VtSXZ4eHNGTVNwSF85aEdVYU9sdmhDbXhKRWhHTW5LcFV3R29uWXlaM09BbnJ5MTJVeHpPanc0SXNvRmx6VG5sdjN3Q3VFaVhZS3FNZ2FFT2hXekgxcm5OMlRBU3pybGRGVEVWUV9RUERIelE5dmNZNUlMZHBhdFBDS1RsS3ZLY3hFMTNoOWlfV0E3TExZbTYtaFJlUkFQdzhORzR2Wi1rRTduaXRzTnZBUFRIVU9DbWpzTldnVzQxc0FSNVBxWm5jbw?oc=5",
-        "date": "2026-07-27T04:01:00+00:00",
+        "title": "Lo que las pymes nunca le preguntan a la agencia de marketing (y deberían preguntarle si no quieren fracasar)",
+        "description": "Lo que las pymes nunca le preguntan a la agencia de marketing (y deberían preguntarle si no quieren fracasar) Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVRsb1htY0dERUhPNk44NVVsUFp4VlB4ZTJyRUUtWXpOMmJnZnNIbUROMHZNa0J4R1luMnlvNzFVREtuckhxX0cxWUE0S2pBMTl1SlM3SURsR2c1VXl0YzhjSGVIRjJoMkNyc0s3OHk5VWc5M2J4ZnRvZjhhSWdRa0FRYkN1dnotTWR3S0RkTmhVMkVGM2JNLWVLcG9EVmdaU2dVdGhGSEhqZ3R3WUVIaEZDRXZYaXhQMFd5SjNtWXpWSTlmTjJDVW1mZmFYT1JxYTN6ZDJObHkyd2Q5OUg3T0hTNkpFUdIBgAJBVV95cUxOeW5aVjRDN2Z4dGwtVF9NUVlnMm1va2ExUW9xdFFIYWlHQXZvQ3V2RzNCTWZVUGk3OTJNVHI2NFZzXzF5bGprM0FlYWtIQTNqTkFIXzl0OE84N2M0ZEdWM1B1VnRBM29ITzBzMHRYMFV3Q29lZHhpUTFFeDJjOUhMZkVwZEs3ckJPdzZzODZDMWF3NDllaURNTmtfeEd0T0h1aDBiRUlnLXlFUzFKNUZ6TjhmaDhROVdodm1kOTRHaVpSNVdpS2xFR1FLZEZpd0NzcDdEal8xMjJxVGh4Y2kxaUU0RGFUb1QtdnkzNlBUb1NvY1NaLWx1Xy1udEdtUVk5?oc=5",
+        "date": "2026-07-27T14:17:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Dulce Lozada de NP Digital: Las marcas deben seguir centrando sus esfuerzos en las personas",
-        "description": "Dulce Lozada de NP Digital: Las marcas deben seguir centrando sus esfuerzos en las personas produ",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3VBUUhwcWc0QlR4UGlsUmFQYXh6SnZTMi1IVllhdzh6Nl9zRlR3TDVYcUZnTm56bHJTZUN5bmY3eS1yTjlvMnBfUHp4QVYwSWgwb2p2NDFIb1BFU2U4RDlUbGRJVGVQSHlZRU9WQUZRa256X0hSc28wZDVvaTdrQ0FSWjUyel9Ja2JnUkkwWTAyRXpEU3IyUzBaV0JKWGxYYWx5UDNvRQ?oc=5",
-        "date": "2026-07-28T04:04:07+00:00",
-        "source": "produ"
       },
       {
         "title": "El marketing en los videojuegos redefine la forma en que las marcas se publicitan",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnlBNC1HZVJRNW9RUnlwVkt2OEhRMEY2eFRUZ1A4QUxJbnNuakcxRDlEUDFGLVd0R1Ywdy10eXVqN1JCYlVOdWkxd043WXpibU0tNjhmT2pXdnJod0JvLUtBOEFoRl9sUXB6NmtiMVRUblNPeUdEQnhzZk9CU09YekxVMVpURHZ5TW9tR0g5X3QxSWFheUZUSWVGODRUcFJveFh6a1ZHSXB2Ry00Z0dkag?oc=5",
         "date": "2026-07-27T10:24:02+00:00",
         "source": "Revista Más Industrias"
+      },
+      {
+        "title": "Dulce Lozada de NP Digital: Las marcas deben seguir centrando sus esfuerzos en las personas",
+        "description": "Dulce Lozada de NP Digital: Las marcas deben seguir centrando sus esfuerzos en las personas produ",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3VBUUhwcWc0QlR4UGlsUmFQYXh6SnZTMi1IVllhdzh6Nl9zRlR3TDVYcUZnTm56bHJTZUN5bmY3eS1yTjlvMnBfUHp4QVYwSWgwb2p2NDFIb1BFU2U4RDlUbGRJVGVQSHlZRU9WQUZRa256X0hSc28wZDVvaTdrQ0FSWjUyel9Ja2JnUkkwWTAyRXpEU3IyUzBaV0JKWGxYYWx5UDNvRQ?oc=5",
+        "date": "2026-07-28T04:04:07+00:00",
+        "source": "produ"
       }
     ],
     "IA": [
@@ -119,13 +119,6 @@
         "source": "BBC"
       },
       {
-        "title": "Más de 158.000 exámenes en entredicho por el uso de la IA: la UNAM enfrenta una de sus mayores crisis en años",
-        "description": "Más de 158.000 exámenes en entredicho por el uso de la IA: la UNAM enfrenta una de sus mayores crisis en años EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTEJHVmUyYUFUcTZYYkp0TWpJREhpSExJM2hwYzhBOVFUVEtrb2dOZUdWR0JMc3FoWUxCS0ttQ2h4LXI3S2VKdTFoVXJLZmpqc0pVVi1TQnJOSWRSZEpMRUYxcnZfMXQ4aTUxTVBNWlIxdWZRSWNoLWF0Zmd0Rm52R0F2cmE0ZWl3eVQyMktoVnR1NzVEWHBLVG5jc3N4azAtS0p1Z2I1MmpzMENJMjVYVWpXdm1mSEl6ejR1YXZMeW8wVE9McWFvVG1uYVUxTnFha2pJRy1PZGJNQWt2NTI4c2FPONIB9wFBVV95cUxOdGZTRndKeVZSSldmRk0xUFZHTEZyMzRzWUZTWUJUZEY3MlROcmVRYk0zc05NUzJldkx1MEk1WDBMbUhobkhvWTVzSWM5bDlvVWQ1VWNDSVZFRzJrQ1F3XzlMdWJvRDdsZTRVa25hNExPZXd6VE8wcWZOalZsOHJyblRPTlRBR2lYcFMwclFGSnNhcFlBQWdCbVFnVTRRT3BmWWZ2TmtHN3VvRWVlaXpzejRYZzFOWEQ0VjlWMHRGdm15ZXNoQ2xxQml6SkdSY1puWnRkZDVjczlUV0tBMHRRcnFpRjhHX3ZabU9Eb1dVLUFRY3YzWHg4?oc=5",
-        "date": "2026-07-28T04:00:00+00:00",
-        "source": "EL PAÍS"
-      },
-      {
         "title": "León XIV: afronten los desafíos de la IA con sabiduría y responsabilidad",
         "description": "León XIV: afronten los desafíos de la IA con sabiduría y responsabilidad Vatican News",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2xqVzc4NnNIYk1ROXBiZC0zTFhqTnduS1BoWXZlQVM1LVAzeWFCVENfSzJTWl9ZMS10YV9pa2drZzRfbUdGM3dDQ2ZWN25pNks1YzE0ZTYwU0hFN19ZcjFVTGlLbEZobDRRcVQ5YS1BQUEtc0MwSGVDMk1fTUlXTmFvWENQc09ZSkU4ckt5b1lhYzFFS3l0ZXVYdmN2c2dLa3oyTzhlaVhzV3p1T2c?oc=5",
@@ -140,6 +133,13 @@
         "source": "Clarin.com"
       },
       {
+        "title": "Las cuatro preguntas clave para descubrir todo lo que la inteligencia artificial deduce sobre los usuarios",
+        "description": "Las cuatro preguntas clave para descubrir todo lo que la inteligencia artificial deduce sobre los usuarios Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRjdtX1FoRl9TSm1WZzJid2V3RlJTdVFwQVJQQndmbzhMblAzQ2cwMGx1YWlRWG4yVmF6cFVaVzJlRW81ZUdwcDlOWnpKdlJkNXBaZjVHcFpRTUZFS0ZSUklGRXdrWnMtaWhIMzVBYlNtZ1RfMGxwVlZleGE0YW5OOWZESE5QU3g1RDZJcWhmWGV6ZXRDbTFHWE5nS2l1TnNFY3RON0M3R3VJUVFvMjdzbGx6c250cmFtQXRuUkFWbTFscjFKZ2lVRENxX2pPdWtkejQtVEhNZ1d0UXlrNndtdlViZHd6NGg0UlZVa2hFbXF1T0HSAfMBQVVfeXFMTUY3bV9RaEZfU0ptVmcyYndld0ZSU3VRcEFSUEJ3Zm84TG5QM0NnMDBsdWFpUVhuMlZhenBVWlcyZUVvNWVHcHA5Tlp6SnZSZDVwWmY1R3BaUU1GRUtGUlJJRkV3a1pzLWloSDM1QWJTbWdUXzBscFZWZXhhNGFuTjlmREhOUFN4NUQ2SXFoZlhlemV0Q20xR1hOZ0tpdU5zRWN0TjdDN0d1SVFRbzI3c2xsenNudHJhbUF0blJBVm0xbHIxSmdpVURDcV9qT3VrZHo0LVRITWdXdFF5azZ3bXZVYmR3ejRoNFJWVWtoRW1xdU9B?oc=5",
+        "date": "2026-07-27T21:21:00+00:00",
+        "source": "Rosario3"
+      },
+      {
         "title": "Manejan 1,2 millones de hectáreas y cuentan cómo la IA y los drones están transformando a la agricultura",
         "description": "Manejan 1,2 millones de hectáreas y cuentan cómo la IA y los drones están transformando a la agricultura Agrofy News",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGlJUWhLdHQxTlhQNk9JLURJTURzcXNYNnlIc011SHN2WVNtN0pGOEI0LUhHc2pZVzN1MGQxNWZpUDRVWlJwVHBsRlRLVDZpSW5iXzdTYzFBcFhEb0lmZzVZd3JGU1BSSS1sTUlPQ0xSQWd0ZWNLdGZyVi0wbTZ2Z1UxREl4dHByOFZqdXFQbjZjUU84a25wZm5Sdl9oR25GWXBVU1Qzd0lXY2dka2JLUmlNaDMzSmpzRExxWjl3?oc=5",
@@ -147,27 +147,27 @@
         "source": "Agrofy News"
       },
       {
-        "title": "\"La IA le está dando a la Argentina una segunda oportunidad\": Eduardo Wassi y el nuevo mapa mundial de la inte...",
-        "description": "\"La IA le está dando a la Argentina una segunda oportunidad\": Eduardo Wassi y el nuevo mapa mundial de la inte... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOV05TcWpYUDBJbVhrZzgycXZya25SUmNpZXROdTQwa0ZBb2g2dkdkTkxOOXo4dDF5cXlxMDVuWkJWLUJhV1NFTmpDMnNXczlycHItZ3pZQlgySU5oS3VUQmFoOUFPRVpRNFZZZnAxRGhYNllqMlFuT3dVTGVkWmNuUzNZZkVlQnNzdk1xdThNX0c2eWFSWEpJV2tqMkgtaDdSZElvYWJST0o1RHhibllVemJmdTYyMkNmRnR0Z3JpajdQZTVnQ05fMjJpUmZEOUFfWUlIWFF1ZDNVMlhIMndHTXo1T0kzUWljRE1TTmtOZmVfQVRLMDlINGhKcUlqVDQ1Y09mMlV0azRyeTRzWWNURWxpZFg1UERT0gGeAkFVX3lxTE5yM0tmaFl6d3Z1dWlsVGZNUVBFWVh2eHhwVHpvRF96MjU0MklKU2RIYUhuZVlabEtfTjRDWUtpNGxaN2gtWUhjTEhqVm10Uk43U19sWGM2WlBzTkZoa0dRU1JlNkFGbHJFOE12R0F4WHU1NjVLRlNxdU1MQkVYeWNIRWt4SC1ubVhkdEkwZGg0aWdPcDhnLUxWMnVVZjdTbXcyWUI4NmExekVJS29GMGhBeE5kdjQtb3VQYXI3Y0lFT3dyVWxhbDFXSEd6emx1eWt2cFVhTUxCTm9kdGNSNUtOV2diWExkSnVnN3NUamgwa2JQTzNJQWRQemJIazd1bzBCQ0JVajNZSzBmMGRBTUdPbnQtMlVidE5naGswMUE?oc=5",
-        "date": "2026-07-28T12:20:00+00:00",
-        "source": "Perfil"
+        "title": "\"Mentalidad de crecimiento en IA\": Fredi Vivas disertará en Avellaneda sobre inteligencia artificial para empresas, emprendedores y profesionales",
+        "description": "\"Mentalidad de crecimiento en IA\": Fredi Vivas disertará en Avellaneda sobre inteligencia artificial para empresas, emprendedores y profesionales ReconquistaHOY",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaF9vdVc4VFdqX3lvT2hyXzJWMzRJZ21VRHB6aURBQXBPdXZseWcxVFkzV0h5OG00c2ZfS0dyM0ZUWnlVNU9CWXZRUlRsSmoyblZvYjlscm5zY29KYzdOSEFzdE0wMkM2UnM2OUhhUm5YbnNsUER6cVAtd2ZPUkNGOUVlUUNfN2lWOThNb2hzYkVQUnFCQUJET0ZJa2FuRURZaFY3Tk4zUmVmSm52ajk5dGdLQnF2R3pxTGd4YVN6cjM4Q1ZkZ2tRZ3d5M2lJeTcycHlDX1NVX3VPOEJTS3JUeXRSTVozWC04MERueENjVkRMUGZKUnFLYk5aSDBrRDE0ZENxNHdvNUdlZw?oc=5",
+        "date": "2026-07-27T22:17:42+00:00",
+        "source": "ReconquistaHOY"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Kristalina Georgieva visita un pozo clave de Vaca Muerta y la recibe Horacio Marín, presidente de YPF",
-        "description": "Kristalina Georgieva visita un pozo clave de Vaca Muerta y la recibe Horacio Marín, presidente de YPF Perfil Kristalina Georgieva ya está en Neuquén para su recorrida en Vaca Muerta Lmneuquen.com Kristalina Georgieva llegó a Neuquén para un recorrido por el yacimiento estrella…",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2pfVTItNF9GcFM5SjJ0SEhNeHRXbWtXT2h4NG5GU1lPVlVORHJoUUhOUUFmYzkxUklPX2k1dDd4UzhESmJzWE93N2ctVnMyM2tIaVlrUDdFR0FkbjhMaXMyVmpfcXJtU3BBZVlHY0RVUGNQOC1Id2kzR181U09LUl9QTGRGOUJkTFhQS0JtTmV5SVBtOWV1R2xfYWVhRTN1NHlER0Z1b0VWTTdmWWpSVmVCZXZMbkRlMEU4RE5yVVgxSnE1b1hfM29ISUJjQdIB0wFBVV95cUxOU0oxVXNSdG1JbWdnWUlDczh0UzJNT0tFX1F1MW5ZQTdRX0E3c0wxMjBQcXZyaFV4VkN2aHdaeTJDNDF5T0tMYS1mblZYcVZNZlJ0em5hR21NeDJtSW9CQ1VnSnJHMlZJaENuWXlwOVYzSUw4WGNEOWdRa05laEs2QVFOdnd0SFIxU0V0Ti1MYlhMMDlTOGpzeElXcjhJTmRnZUc0V3EzbzdhX2syeTE5MlFFei1FQW9BWWVUYjhReEc4OEdWWkFWb2RPWG9VMk9oNUtr?oc=5",
-        "date": "2026-07-28T11:52:00+00:00",
-        "source": "Perfil"
+        "title": "Kristalina Georgieva y Luis Caputo finalizan su recorrida por Vaca Muerta: los detalles del cierre con Horacio Marín de YPF",
+        "description": "Kristalina Georgieva y Luis Caputo finalizan su recorrida por Vaca Muerta: los detalles del cierre con Horacio Marín de YPF Diario Río Negro Kristalina Georgieva llegó a Neuquén y recorre Loma Campana en Vaca Muerta Perfil Kristalina Georgieva llegó a Vaca Muerta junto a Caputo…",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdXRva1EwbWkyQ3RQYmd6bElnaHRwa0Q5eU9oeDdWYjVxdml0b1dkX2RDNmpwZ01pTEQ4QnVuM3lrbF9xZGloMWFxemh1MTJndHlEWUFvaGNJa0VGTWRBMUJjNTBCY0ZLUmtOV1czc0dfbkItNDhySkR2RXF2d3NlcE96ZFJtaHNpcHpvcFJoM2xMMzEybXFjTDZHSDVLYjBjWTE5NFU4RFR4a2RUWUtWVG5LNEk4bXlwaFZETDJPYlc4cWYxTURvVTJ3a0l4ZG85ZmJpZjdNeng4LUV0cWZyY1pwbmpwejVMZ1B5LUx3cmxaLUJ2dFdFMtIBgAJBVV95cUxObnV6WkZSVi12NWZHNTF5elJVeUdtSlVhQ254a1lTM29seEtKcHJfTGFGR2dUTzlFdDU1d3BhTWJnVFMtNG1kM09UbklpMzJ1Yk1uTHlfdm1ET2tlZzcteE5MMWlQNGRpX0VNVVhLODRuMk9oY29EWDg5QVVTdVNkbGdOaVVEN1p5YlFMWlNSQTUtbXRQWTlLdENqLURRTFhPU0F2ZktiLWU0ZW9IVFh3ZGcwbWhkeGRhOXhnLWVjX1UwQndGclNaeHkwTGlQMTBVa0ZJVVNSaVBrVE9jNUR6U2JTSVlJb0VqZ3NIcXo1S21zR0ZTdnRiQmNlSkFsbENs?oc=5",
+        "date": "2026-07-28T17:02:36+00:00",
+        "source": "Diario Río Negro"
       },
       {
-        "title": "El lado oculto y desconocido del “boom migratorio” que impulsa el Gobierno en Vaca Muerta",
-        "description": "El lado oculto y desconocido del “boom migratorio” que impulsa el Gobierno en Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0J2N1dDOEZOdHQxR0ZGVVVRWlhOZVN6WG5WM1Bxd1EwNjF1a1ZMdk9PVEI2Ul9rQktGc0V1VlVMaFBCZk9HMktMR1dpODB3OGNLVVZSZUE0eEJzTUI3dUNnUDFPTHgxbkpKZnl3ZU0tei13QzRkZDIyemplRDBHQ0RMSWE0SkRGWjk0bGJzS2N5R1k1eVRPejNVRkpnZnJ5T3V1bmhNcDk0TlRHM0kxSFd6Yw?oc=5",
-        "date": "2026-07-28T12:28:51+00:00",
-        "source": "Página|12"
+        "title": "Chau camiones: el cambio que impulsa Milei para mover la arena de Vaca Muerta",
+        "description": "Chau camiones: el cambio que impulsa Milei para mover la arena de Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmV5eURTTUtZR05xOU1PNld6aVBkYnFxMHdzS3lMY3l1N01kbVRFQ1lNUXQ3cVZpYTFtNUdtWXV5MTlUZmFoeGRseGpzbEVDVUlETVRTS1QwYTVYX0gxVkxycTNBcTV4TjdKZ2VYSGxiZjNpOHNzSWczYm5KbVU0TEFqMk5YU1FkUGZhLUR2OGVYMHJkMzhrZ1pwZ0JuTTFSUHdibUpBQzVrcWZRSTVzSUtER3liUUXSAbwBQVVfeXFMT2dGem9YQnIxRFp5TF9xRjVwUEQyVVVmN0RjcG90aDJub0lzUUNydVFKaVZ3Nmx5M2ZaMG9BU0laVTYzckVXZVdtdlUxMDFmaWs5NHBOVmpKZEJnSW81Wi1yaWRyS203a2xickM5Q0FGbDhXcVlnTmk5NFNHcE45M3BuMER5aXBwZEVNVlFBN2JFWXpUcWxfQnlFWVRJaEJxb2FRXzI3dl9pdXVrSFlIbHJfVm1ZbVpmLUVibXI?oc=5",
+        "date": "2026-07-28T11:27:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Hace dos años vieron una oportunidad en Vaca Muerta y hoy se consolidan con cuatro desarrollos en la Patagonia: “Venimos a quedarnos”",
@@ -177,32 +177,32 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "Neuquén redefine la logística de Vaca Muerta: el tren para transportar arena entra en estudio",
-        "description": "Neuquén redefine la logística de Vaca Muerta: el tren para transportar arena entra en estudio Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjdkSnhxODdHakQ2RkV1MV85R09UUndhNzQ4YlFCUk9HSnBoUTdkX251WVV4RE9rZnJ2dExPdFlxaFlLWHRlc3A5UFVSRjBEeERSenAzd3FGVnluc0xnMXREUjJzNDRraVIwUXgzajVuZUV4UXpWYU5MS2JPVHhsbGI1MlVwRDNud1kxVEdWS29KdXIyRzNfeWNHeEpqaURyOC1QWVAyenZhWFhoUzMxTlhYTWpvVEhFZm4tRlM4bzFOMXJxUWZ6cNIBzgFBVV95cUxQT2VsUlVXTDlwUEI1VzFnWmFJeFV1S09hb3JCM1BRdmpFcFdwSExJNElnQU1SeFZHZG0wVVEyNFFqTndkdnRYX1A5X09ZZTU0REVONWlaUXpvYVlVTDl4VzR0LXVtbUJ4UldSd0p0b0c3UFk3ZmVGX0JfcDE1ZXBUVi1WVjBuT0hWU0I0OGZXbW96NmZ3ZlBjcGVUTDRKc0NqOEhoMzVJYjB4am5OU3I0cXBnb2x2ek01MnF4WU9Fa2Z6eWM0MkEyd1RMWk5sdw?oc=5",
-        "date": "2026-07-27T17:45:28+00:00",
+        "title": "VMOS superó el 70% de avance: cuándo comenzará a exportar petróleo desde Punta Colorada",
+        "description": "VMOS superó el 70% de avance: cuándo comenzará a exportar petróleo desde Punta Colorada Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbFV0WTVJWjVvamxoRkVxOFI0SVhtWlhvX2F1WldKT1FPRU1yU0xQbWV3ekhKV2JrVmpBRkh3TDRtY0d0andnaW9DTThUakRPQTlkTzVHWUE3dnY1RE11amVpdGVPdmdRc29mX1Y4czhycEUwd0xBeDhlX0oydWVkRV9KYjlhdTcyR3Y3UmpHTTVNenV3cC1ZMER5U1RjZS03RXBpMS1OUG13WlNxd2RVMFZGUWxfUUJHMVdmN0NnNNIBxAFBVV95cUxPRFNjank5QWk4SldaUXpjX0NDLVp6NjhLQWNGLTRYZjQ5bUt2NW5pc0dpcHloa0ZZUS1IMy1UbHNZZ1pON1UzNXlWZENvcGd3bkZDSG9ta3ZqUVAtQkxWRXdzUHJMT3RnYUlkQVd5bHpneWlxZldaNVI5SEZFMndmdW5EQkJna09xUUtRUzhsRGlrT09wLWM0SkRWaGlEeEhoQUZtcXlWUEpPR0xPa21VcE0xTzhXX3c4UVlUaEZHOHcwZW1h?oc=5",
+        "date": "2026-07-27T20:33:00+00:00",
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Arenas para Vaca Muerta: qué hay detrás de las propuestas de la hidrovía, el tren y la ruta de la meseta",
-        "description": "Arenas para Vaca Muerta: qué hay detrás de las propuestas de la hidrovía, el tren y la ruta de la meseta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZWZZVzR0NWFEX0ZicV8yc2haZWpscTg4empBNUN2aC1FeUFlaHlMOXdHdzJMQVdiWU1wT3BSbU9SM0QxSDVXakgyWlRvSXVodHl4U3FkMGxON1JOTkZsTjVEUm1CdzFMajJaTDJtQXZNX2FnSnlOMFlKcF9xY1dfRS1kVkxxMFdrMHhvZVFTZ1RMMWNmUmpDdVk2eWI4RXpfMmpKeHVOaFZNTkhvWGE2N2tEVk9YbzJKM09xUVRDMWhQUFEzemR2aFJfQXFJOWNkUFJJaDN30gHeAUFVX3lxTFA4aHplRk5hWWczSE5KcTRzYkgxSnRqbWs1dEExbU5najB1OEpfS0p5enVHZG13eGhDelN5ak1OLXBISkxaTDZRbXVETGVWbkt1NHBweHRISUdIdWJHYWt3eHJ3allxMExMcnlURk9rUVhmbTRodldHMnpIVkN2RjFoTEdkWkZiQk1QSTJwa3hyOGFGRlQxVmttcm84NnFYUlhMbTcxbG10VkZjdC1FWmFicWIwTXVKcmVRMlRXUkxxaWxsTjVzSW1GZkVKWWlJYTllOWNYU1MybFV6eFNLUQ?oc=5",
-        "date": "2026-07-28T11:00:00+00:00",
+        "title": "Vaca Muerta Oil Sur superó el 70% de avance: YPF apunta a exportar desde principios de 2027",
+        "description": "Vaca Muerta Oil Sur superó el 70% de avance: YPF apunta a exportar desde principios de 2027 Ambito",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkQ4MzVRc0ZGLW5rVFRXTUdlckVmQmdTMmQtUDJTQWtjT0xXa3RVaENaajFqS25sZTJLald6ZVB3WS14VkFYSmg0djkxcEhFTHA4eHFpcmVMOU1rNF9CcUtBZkRmMXlQc0RsQjU1VzBSVmplRU1yR0RmTWgyQnBKOXlXcldqTnRLUFJuc3NzdDZTLUZnSXRieVJPcVF0T2I5NnV6anNaaWZmclZBZllNNjR4Q19NUQ?oc=5",
+        "date": "2026-07-28T15:51:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "El proyecto Vaca Muerta Oil Sur superó el 70% de avance: YPF confirmó que apuntan a exportar a principios de 2027",
+        "description": "El proyecto Vaca Muerta Oil Sur superó el 70% de avance: YPF confirmó que apuntan a exportar a principios de 2027 Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON2NWMkpXWjF3V2hONnUtVzZIYlVfcjk4ZHFfaEdYVlY4Y2dOWHBoazdubFV5UldxRXU4WUZYZmk1M0NRYm1vaTBmWXFtVDBoSXpFaGl0cE1BOEl5cy15TFlIdHE4U1FMaU9wRmk5TjBhR01NNnRSUEZhZEx5MDczZHJ6bGlXMTdTU3c1QVFrUGFpNXFkWlpnUzhtNnlNc3FJUGtKZlRLNThIUDJpQUhzYnVvTVZPQllDMGJ6ak1pb3Ixb3FYaXlyM0hEVnhNM2c2X0hkU2RYbGtkR19aRkRjNnl1bkVSUExFS0kyWtIB9AFBVV95cUxPY1BFOGRrRXdiY1VOTWRHOFBsSlZXc1FvLWdQSEV6eHk5Z0xwcGlLS2ViWFVrWGt0ZGc1U3FUbW5QNkhwYWpNODkwbTdfbWoyMUVqWEtSNWxMbmVNYzlWT3NEZ0EzVmpPWklmdlN6MXFnY3JWVTVmR0E3MXdsRDB0akhzTEpDLVFRaWhycFdWbXRkWTdpbTJvbUE5NXBfekhGWmpzbEU2YlVMdmt0RjdDZTlFS09JSGZ6a1loSy1VTy1KVWFQTXlmaWdyOWZsQVFtSU00enRkdDVyWVlPOHVLZWRNWDh3UHB5RE5KdmRydGhSaHJC?oc=5",
+        "date": "2026-07-28T13:18:24+00:00",
         "source": "Diario Río Negro"
       },
       {
-        "title": "Vaca Muerta produce récords, pero la logística queda atrás: la UIA pone el foco en el tren a Añelo - El Economista",
-        "description": "Vaca Muerta produce récords, pero la logística queda atrás: la UIA pone el foco en el tren a Añelo El Economista - Últimas noticias económicas y financieras",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzRXdFlIOXBNeDE3VmhsQWY5UlZpUXEtUE51NEpkelV0VC1aeWVXaEhQS2ZXd1NtQ2xpYUQ0ZmpUS25NQ09hLUEwUzNiNGJpRmFlNXFrMGR1ZzhrZC1kMldHdlpaZmNOR0xSZmxoMGFpdFdxMV9GcV9CanhSc3lVeFlFT0c5ZHNFV3pneHRiSGRPenZyaUZSVXNJSDRBX1VNYjJ3VF83cmg0M0l5QVI4cGRvQ192ZWljWEdOT3Fhd9IBxAFBVV95cUxPSktYRC1oMHgzZkpTVzd2Wi1kejZGOUxSak54VlZqNGNKWHpHUGlVQm9pckhrX01CUm5fMlBuQXpCQVV6Rm5Mb2dfTG02clQ5cW9vU0RBRVY2ZWpURzIzWWsxTVlZR0ZOaFZ6ZFBFYWd4QWZVYzRBdkZ4YzgybWdIUGZhNFVFSDd6dEE3WDlwdWUyYjA5OFJLbjRNWTQyWGN2TlJramdSUjVUaUE3Qk5iWFVrdFQ1SmtzQ3VTR1RfZERtVGV0?oc=5",
-        "date": "2026-07-27T15:41:00+00:00",
-        "source": "El Economista - Últimas noticias económicas y financieras"
-      },
-      {
-        "title": "Vaca Muerta mira al Pacífico: el corredor Neuquén-Chile gana protagonismo para exportar energía al mundo",
-        "description": "Vaca Muerta mira al Pacífico: el corredor Neuquén-Chile gana protagonismo para exportar energía al mundo Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnN6MWV2b3VraDdYZXl3TTlWTHBqZ3JlWnQ4amRkOTJNMW84bFlMcTFEdmNXNkJpUGJNWmVLdEg2R29tZ3dFRU9BNnltNmVhOGd1Rk5SRDlwcmVmZldHSWMwYjRUckZCR0drOFlGWUcweTk3T2VPMF96YjZIdGYxOF9Oc3R1RExmYldOMDZMYjZsR0pNSzhuWDkxQnc5ZDJEZDBXUm9CUjVnMm85UmJ2S3pCcmxHZjlyUllWZmNCQ3VFaktfNERnbHV3?oc=5",
-        "date": "2026-07-27T17:51:19+00:00",
-        "source": "Ambito"
+        "title": "La Unesco advirtió por el impacto del oleoducto de Vaca Muerta y pidió frenar las obras",
+        "description": "La Unesco advirtió por el impacto del oleoducto de Vaca Muerta y pidió frenar las obras a24.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDg4WUFwYnhTTGdwcFRIZkxUX1owOEhmb0VlTDZTWlhOTmJOUjRWQkgyQkd6STlmNGNncU9RWHdwd2hrd1BqZlBSQXJDSjFMRVo2VjR0Tm5TaTk0Qmd4bEhkbk85X3l6Q24ycWJwRnQzRHZaWUEtNjdGQXFsSFRCTU4zN1YtRmZxY3VYYWo5akhwSWVkcjRlUWZYdllxRFVKSjNFQzVxcDBFQm5VU0NyX1ZQR1BLczJiRFVNOdIBwgFBVV95cUxOaW9FOUhSUE4xdTl6Z0h4bzZZV0ZmVjFTeHYzcER6WWllRjkyZFBFMUtIeE5naEczUUF5MjJheE4xTUNIdTlIUnpiQTljQW9WTUx1NjVxdmh0UHJiN3phUWtITFhZenJvOFIwUTUzV1J3MUlvTWwxck8wM0Q3bHZ0cXNSSmY3X0w5ZVJMcmU3aFd5VnROdGJLVXVtZ0pJVFpsck10Y0VScmlXYjVTYXNXVTM5QU5YdjJicXNCNXVaOGRDUQ?oc=5",
+        "date": "2026-07-26T16:56:00+00:00",
+        "source": "a24.com"
       }
     ]
   }
