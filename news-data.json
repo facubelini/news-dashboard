@@ -1,9 +1,209 @@
 {
-  "updated_at": "2026-07-29T22:56:11Z",
+  "updated_at": "2026-07-29T23:57:35Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas",
+        "description": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnllYjczcFJPZEJ1aXZMbjE5dF8wQjl2Y3psM29oTlBMQ2VXTXVQVV9WdUZaMDF6OFhOdGVuWTVldFdsa25qTzRBMWdGRmVjNFIzU1MyVTF5YzhOd0p3QkltcjlKNG00a0hQUHM3R3dXd1VtbjlBdzFPYkNpdTBzdjRueDBWbHYzZlFpWFpCLVJxYUNTNWN0MU8xUlJSRWhyb1VJdEhleFNBbXNiakRvRFdEcDlYbFNvX2FJcWhSSENPbVNUdVlGRUtfUlE3QUhVRzhJ0gHuAUFVX3lxTE1tc2hoeXN0TkQxSjREbG1sVHJFNDhteVdMbHptck5DSTNyYTh6aG9LTWZ1S0ZFQ0ZNdjJfX0lwckRvSWNCMVYyX25PZG9YTEppclV0bTg2Y2JOcDJMU1JlbS1oLVFCSUxOQWdwQ2dIUVRXN2ptUWg4bUw3SVRUOVlrQlV4RUQ0dDc3azNPNHhhbThVNy16ZEUzSFc0MGpkNE4wSUk0MndHZGFPZlE5TjVFWWYxWHpCRkU0T09KUTdfUGw0RmJUUGp2ZzZuMG5ZVndjcnAxai1nbkdDVlFOaDhldVh5dm9aOUlHQ2kyanc?oc=5",
+        "date": "2026-07-28T02:27:00+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "A partir de agosto Microsoft usará el chip TPM de los PC para bloquear por hardware los Windows pirateados",
+        "description": "A partir de agosto Microsoft usará el chip TPM de los PC para bloquear por hardware los Windows pirateados Computer Hoy",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdWJkRGZWYjczdWxXQmtUMWUtT1RkTGtwM2hiOUNOd0wyaWRxa2FvN3ItLXc2bktaNDlWR196ajhhZm8xQ2szbE9PMTZRMDhmNHRPRk9RYzkyZy1UdGM5TFNSWUZmS1QxUVcwS2RCZjRvYVk0aWs4TmljWnNiamlwYlVudlVrbXBUb1N0dU80WVhoYlctVkNqUThDQjZGUnVrUzlGcmZKVzVpSkxXV2hDbk9XblFQbFJTR1dTODRUa2hDZ2JZM2lKaFlXNUlKZ0NVYmpOSUgwQ2VWaDU0eWFKQzZZV3h3cGs?oc=5",
+        "date": "2026-07-27T20:50:14+00:00",
+        "source": "Computer Hoy"
+      },
+      {
+        "title": "Microsoft afronta resultados con más beneficio esperado y precios objetivo revisados",
+        "description": "Microsoft afronta resultados con más beneficio esperado y precios objetivo revisados Yahoo Finanzas Microsoft dispara un 31% sus ganancias hasta los 133.749 millones de dólares al cierre del ejercicio fiscal elpais.com Informe de resultados: Microsoft Q4 2026 supera previsiones…",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeEVod0dzU0l1azNxdE1aRFAzRGhrVHI5WHItcFJZUE1fSGFXckxTMGU2VHYwLUJqRGJsODJSb1BJNmxaM2lKNkxrYmtESTIyWXFqRU1Ta0EyY1M1akN3MXdXM2Q3dnlpVzJPajB3UjhVSFk4Vm1YanZCMUNwSjNnYnNuaGUxSkN2ZmZxWkNfYnprXzY2TWE2dEZIRVg1MjhVQWxQUWZTbw?oc=5",
+        "date": "2026-07-29T14:25:34+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Microsoft acelera su apuesta por la IA con nuevos contratos de alquiler de centros de datos",
+        "description": "Microsoft acelera su apuesta por la IA con nuevos contratos de alquiler de centros de datos Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLVJUcXNxLXIxbDM3RWprYzl1U0tXMGpZSDdTSFA1ZDFYRnRvZ1ppWUJ3eEhZTFNfam5Rb3JKVko4am01TzU1WDk0OThxbkQwOUtCOFlkS0FhOUEtQ01JVEI1M29RSmZwaTFWUVhqLWpBRmV6Y0poZFRsRkJOWkVKUnYzWjNJWWd3MkpTWk1mSW0tWjNWSGVranlRNV9LWWMwNUx5UUxqTE52eE4xaHQzZnNOVC1yRThJSE90RmNvWTJ3VlRMZmFLN1NySnDSAeABQVVfeXFMT2phd1hrN1hEdWYzdUNwMm1UQksxczMwdGhtTF9EV0RpNGw4VmFHMklaZDVGNm0zcXZqcGNibHBxZzczR3RCaWFxREdnQzlxUzBGTzlXUkprYUNjSzRnWWU0amMzcHF1cVQ2cFl1bFkzMTkzZDJ3M1NRRDBoTnlCc0lRMlk4MjBPZGJlSS1mSFc0MFNYSm9sbFliS3ZSTGhFdEdaR05OcW00SXRqV1ZfSTBHTnVQNFY1Ti1HRmFVRDh5eTJqSmRmMTZDa1VKZFhWWlJfQmZKUFhzWGtwZXJPMEk?oc=5",
+        "date": "2026-07-29T23:09:45+00:00",
+        "source": "Bloomberg Línea"
+      },
+      {
+        "title": "Microsoft le ganó una demanda a una empresa argentina por usar software sin licencia y la Justicia la condenó a pagar US$19.300 - TN",
+        "description": "Microsoft le ganó una demanda a una empresa argentina por usar software sin licencia y la Justicia la condenó a pagar US$19.300 TN",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOb3Q2bVV0b0VnM0xHQ1pBN2dzRXdXNEl2ejJSbnBxM1FXLVVSbXRuZUdHQ3c2YkppT1lLR3RQZVVDZG1qSkhZVVFmQnpDLVhwMG9WNTdsd1cyUjVmdmVWSlltVUZlMTZNS3hkc1ByYXV1U3dLUDJaR2haS1FyaVFFR1FrOEgxWGp0ZzVacGJZeFp4ZU15WHdienVFTkx6U0I3OUNFUXVUNkYzeWFWaXFzLUZsOTdHM2swSnBFbHVwamEwczJoWExvdXN5a0JJMmJoc05SckJxaUhZVWRLQ0ctOGRodEdpWi1zRGZ5N1RTTmFLSzduSndR0gGLAkFVX3lxTE10dWg3T3pma2pKaTZoUk96bHlwOU0tSTdENVI3V1VKNnFQSFFFZ25tQ3Z2VWRRemZ6aklkcXdoanhKUVlFQnpsV0dRWHRNOW9mdGF4RGtCdWtlM1lqaEJ2QmhrZmU1WU8zRWZkQm5xdzFwU2ZOU29oalRQZ0NJNUtCVFVwdy0yTDRaWTNfVmxjSlJkMmN3RndGN1QxSlYzSHhwVVZxeGtwQmp4d3Brc1l2cU5EblNRMVpXSGxBS2pFT1RqTXAwWG5RNF93TW9TWkVSZGFHMUZhQW0yd1FWbnZhaUcwM1VlWUFFbGRMc1hVSE02Y1RaaF9VX0V3WHRlS09hVEdHTVBaQnZsOA?oc=5",
+        "date": "2026-07-29T14:47:07+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "Microsoft supera las previsiones de crecimiento trimestral en el sector de la nube, lo que disipa las preocupaciones sobre el gasto",
+        "description": "Microsoft supera las previsiones de crecimiento trimestral en el sector de la nube, lo que disipa las preocupaciones sobre el gasto TradingView",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjZXo2U0hBbGVJcUhXWXlmWEFOTlBVN1VNcWwyQmowU1M3S25HMlkwcjZXR2FPN1hqQzJ5ckNpSXpwYXYwLXVvaEtTcUZFVDJsYlFDSExGdWgzcXViUmU0NG9SVDJlbm1INVFXREZIVzdqdzlncHNj?oc=5",
+        "date": "2026-07-29T20:08:33+00:00",
+        "source": "TradingView"
+      },
+      {
+        "title": "Regulador británico investiga si Microsoft engañó a particulares y usuarios de planes familiares",
+        "description": "Regulador británico investiga si Microsoft engañó a particulares y usuarios de planes familiares El Destape",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa1JFUkFoaHFTLTIxUE1rX3RfN2d3UXFMNGZ6YWhDdUUxeXZaeDN4REJUTjRDaUtsbXNNYnBnX0paY1NWZjVXTG9yMlBfdmw1c1g0TG9faUNYQUZnZG51RFVHbjJEdUNCSWV3ZC1rem94SFBHblhNMEhLY3MyLXFSUjd4d2Z6Mm1TOXZZbnBpYzhJRUM0enB1VzlRLTR0VTZnRzR0YXpvTkhvZGFVb2JudXB0LVVQR0JZRmhfcmRnM2tjaFd3alNnbXFxOUQ5eDUwTzlScmw4QU8tWGJTTGRMNVFqVdIB9wFBVV95cUxORXF3UWVFU2xPWFoycGc1Y0s1QzdaTlY2V1Jkd3VqcEJRajdQOXowUTZYNUVOZzNiczFmbE9yVVE4ZzFWWTcxRGZuaWZ2R2tKQV9wT3gxRUtaYnFjTkZTTmdHclJhZ2dxUTNySWw5QXJKckpfdUtmc0tBX0ZVM0doQkxkcGtScE84WnhzR1EyS0ZEZFhYZWp3dzBZdXdGWGZjSUtFRUltenFlS2lXUGx6WWFhNlBoeExybkZjeDFiUUtQNkVkck96ekxKUW1JdVBXT2JzRC1lemNRRlJzWnluY3ZFa2pCZXRSQThEZ0R6amZCdU1oWFpv?oc=5",
+        "date": "2026-07-29T11:17:20+00:00",
+        "source": "El Destape"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "Cambios en las carreras de Comunicación: qué buscan hoy las empresas",
+        "description": "Cambios en las carreras de Comunicación: qué buscan hoy las empresas Cenital",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjdwSEljMklQa0dBc2tlNGVya2NjaXhOMWtGMXNpNXJlZXBTblFOY2NOV0ZISFNIMnd2U3FGam00R1NTcmk2bUxYbW9YSmVyYlY1N3VhLVRDYWwzUE9kWkVRZ2ZGRGkxXzVodGJQQVBWcERudXI4b1Q4alpNcm44bWRUOGpqZ3RfYjBkX3B5SmFidw?oc=5",
+        "date": "2026-07-29T19:00:50+00:00",
+        "source": "Cenital"
+      },
+      {
+        "title": "Marketing digital: capacitación para emprendedores",
+        "description": "Marketing digital: capacitación para emprendedores Diario El 9 de Julio",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95aWVLejJ4eldlN2pzOERSN0lsRVBGQWp1dUNSSThoY21rZXhhM1JQZFcwWGN5bVhKRndmbGZMQWF0LXVrMlJfZnZpMzU5TG1Bc0xCcnFqa1B5aHo3a3hN?oc=5",
+        "date": "2026-07-26T13:39:31+00:00",
+        "source": "Diario El 9 de Julio"
+      },
+      {
+        "title": "Redes sociales y streaming: cómo se adaptan los profesionales de la comunicación",
+        "description": "Redes sociales y streaming: cómo se adaptan los profesionales de la comunicación Filo News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazVMVDZoNGRiREZ5SmNxYU0ta2tmVjdUbm9WaUs3cFo3dElRTDNNVF82MERKR20xS2JYbGdDSVZXblhYb2ZqNFlsOXFmWkotTFpqMFRJN2NMTlJDbGc1NGdaVkd3M1hKdEtfX3lPdG1ic0g1Y3NWdTdIWmJpV1BfSkNFR2NyTENLWjlObWlDck15X3pkNm41Y1FyUzRhOHdsVUUza181MTJGbjc1Uk9tSGlaRkQxRVhFOHFqZA?oc=5",
+        "date": "2026-07-27T14:28:18+00:00",
+        "source": "Filo News"
+      },
+      {
+        "title": "Luciano Pintos se despidió del marketing de Molinos con una carta muy especial",
+        "description": "Luciano Pintos se despidió del marketing de Molinos con una carta muy especial Marketers by Adlatina",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVXZPdDBseVc4Sk82UFl2SmpHU2ZsbW9CMGlrVXhOVExsT0pBeWpheWVUcTk3SnlBQ2RienB3a2I3NGRGa0xzQnR0N3FhZHcyUENJOFZSVXVKSVY2aGx1REN4RVMzQ1ZyUUIxRWU4aDBzVmxmSnRRLVFmVUtDLVZKZTRPbndUc3dIQUxxXzBuNWlGb2drYjFJQmhHejNSdmVZMDZpQ3VmMHNUUS1UM2RNc0FLYUV2NjdTMHR6dHVJT2VGbHFVX1IzaA?oc=5",
+        "date": "2026-07-29T03:39:21+00:00",
+        "source": "Marketers by Adlatina"
+      },
+      {
+        "title": "Las carreras de comunicación cambian: el rol de los datos y la inteligencia artificial en esta nueva era",
+        "description": "Las carreras de comunicación cambian: el rol de los datos y la inteligencia artificial en esta nueva era infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNjZCQjlVbnZVRFVhQmtvZVlKcnBLNVY0ZDBvWmF4OTdmMWN4YkxDbTBpbk5CbFVxbzRUTHB2bGIwLWx0Y1h5b2NXYTE1dzduanNBZGNLSlBuN3lmLUtkcC1NV0RidzJKVThETmJtWHN4ODAyTjJlZThzREhVODZQM3RQaG4zN2RGanV0VmZiVlRwMDNwY1Zvb1VqRk5tWTc4OGpqbDcxQUYtQ1VBMGM4TzlVVVlIM0thSEdsZ2hBb3JuY203SmdGQXh6b01odVR5dEZZckRxWjBzT18wejFjUdIB-wFBVV95cUxPYnAycDN1Q0VRR1BXUHRBSzhUZ3VlS0FkZ3pDY3loaGJwZXBnUXdXYUtVOEtFeFVTY0VtSXZ4eHNGTVNwSF85aEdVYU9sdmhDbXhKRWhHTW5LcFV3R29uWXlaM09BbnJ5MTJVeHpPanc0SXNvRmx6VG5sdjN3Q3VFaVhZS3FNZ2FFT2hXekgxcm5OMlRBU3pybGRGVEVWUV9RUERIelE5dmNZNUlMZHBhdFBDS1RsS3ZLY3hFMTNoOWlfV0E3TExZbTYtaFJlUkFQdzhORzR2Wi1rRTduaXRzTnZBUFRIVU9DbWpzTldnVzQxc0FSNVBxWm5jbw?oc=5",
+        "date": "2026-07-27T04:01:00+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "FIAP Face to Face Webinar: Connected TV rompe los mitos de la publicidad digital",
+        "description": "FIAP Face to Face Webinar: Connected TV rompe los mitos de la publicidad digital produ.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzFsdUFZTGQ2dndyUHRGVkdQc1V5WEpwc1Vxb0xNRjF0ejMxMWlFV2l4dGhuYjdXUzBvWVQwc1FGc3dRbko5R042Rk5lZXI1TVhMZVlFczA0dTNCNU1RNVQ5YkEyV2Vnb2cyTDd6R0xJeldUb0R6OG9jT1JEOUxDN011SzhTcGtETDBwYnpPLUd6NTNoU0RlelpwNjhnMzIxUTFfa1QzM2ZQZ2MtVmlqaVBwMVhuLUdBblN3MQ?oc=5",
+        "date": "2026-07-29T04:04:42+00:00",
+        "source": "produ.com"
+      },
+      {
+        "title": "Quilmes abre la inscripción para un taller gratuito de Marketing Digital",
+        "description": "Quilmes abre la inscripción para un taller gratuito de Marketing Digital Crónica",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUNGTGtYODBJanJOQkZldjZjemk4R0hueUtuZklyajhLODdTZm41N1cxeEFnaER4WmhERlAzS1A1SWdnMnFlQy1jbjFEWW5PNHNZQzIwbTUyTHpCTmR5NTRFRklxclVuTjJnQ2t4RGFpS2c4dVhyVWVieTNPaFl4M1h2VzlzSEY3ZFMwYkh0Y0lXWDFPS3Q2eHFkVVFwS3lMQ0JJUkozSzZGWXdfTlZ2V09wUXRiZUoxSHU1a1NTNURuNmE30gHKAUFVX3lxTE5Zd19ycVpnM3hBay1xNHhrbERmSHp2LTBBN0VNQ1hpcFpfNkR0RVdhazNJRnE5LUo5LUNtN09fSnZoaTBLUnVFaFJnVnNxeDRPeGlROVR2TFBlU3VxU0gzNEo2YTBtX0VKNTI1MURPN0NqQTNjS2ZNaURRR3ljWFJ5bFVXY3Rwb215WGdPVlFNc1hxNUVTYTRqZkttZDNYb3NsUU5hS1UzODU5ZDBwenU2RGc1MUhYLU1CZ3kyNUlQNUYwSVh5Tm9teHc?oc=5",
+        "date": "2026-07-23T15:30:00+00:00",
+        "source": "Crónica"
+      }
+    ],
+    "IA": [
+      {
+        "title": "El nuevo fraude que usa inteligencia artificial para imitar voces y rostros de famosos y vaciar cuentas en Argentina",
+        "description": "El nuevo fraude que usa inteligencia artificial para imitar voces y rostros de famosos y vaciar cuentas en Argentina infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZGEyVjkwOVRUbi00RVRydWtBUE1WM2U1cUg2Q090UEE5c2p5bjZ3d0JiQ0VVOGVfUnJBbFkyX3JvQU5sZmd1SXd6b2Y4TkRvTUpmZkZLUWl3S1pFT3BpMlo3eEJwaVlOVjlWWW90X0QtWFNDTTNlaHRpVkFCRm54Tk5yVkN6V2Y3bEJGUEFXdE5sczBfemtPbHBoNm1FemEtRHNSQ1BJbVVrSDVXUHF3Q1R3WHFtWV9MZkNianpGNEU1NS1KR1pmVzVrRTFST1BZdllfQWZfUG42cnlHcVBxQUpuSkJVRUd1TUZvTHQyd1NfSHfSAY4CQVVfeXFMTnFEOUVTNGE4dW5WMm4ybUJTSFBRSTZwdWdaYWZBb1EyR2cwcUI1YkFHcmQydjhLZnpwNFdpWW0ya3FXV1drMDFoTEduNjRMSGtyVHZ0U0RYdC1zamx1MkthQnBxN0hxMldhdk1IMGRyM0FKVkJLX2NsUkNaZDhzVWZ3Z2Z4T2VqcWdvZEZJZEdfZHJtU1UwcEZ6azdGc251Q2NjT25VV0VwVHIxdl9yVVRpUm1OOUpNRVp6dVUtdXlVNGNzOGlBeWdFcllPeTZHODRmQUJQT1RFNmpRV0NOYThpQkdKWTN3SUtZTzJ6N1M4YzdZRnRfQktoR0ZHWjNmY0xuRUhUNHYzenlQcDNB?oc=5",
+        "date": "2026-07-29T15:20:00+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "NVIDIA advierte que la mayoría de los agentes de inteligencia artificial fracasa al pasar de la prueba a la producción",
+        "description": "NVIDIA advierte que la mayoría de los agentes de inteligencia artificial fracasa al pasar de la prueba a la producción infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWlBTLUU3b2YxdmZlMkx5VVEwamFhelN4OHNmWFNyUlZ3aGVQWGg1NmMweDRhTmpXa2ZMY1dLX1hZLVFSTllPUElvbXZBanFfN19EWDB4UUdDRVZfV1hCQ0doTENnQnR0YkRmYnd2ZDFSbTBCRlhVaDNBOXlKLVZaSUUyNHlrbGVmZzlqa2pVLWRzNkNmVGhnb0dTTFpWV3VDZGVjbmRfRDJQSUdmOWF0RVFFV3YtUXVOVkFmbXlGc2lyWmZ4VDRMVHFhQndoN0JNakZjY2RlZm9kczBaZlYzMHY5XzZBOEZ1eTIzOGl4NnVFSzIwWGVBdmhDS2_SAZcCQVVfeXFMTTBmREtsZnV3RFRBckRaSFpZVlpCYTBMNWVFUEJOUm9GWHdFaDVncTN0aE1rVEQyLTdKNkxvZ0k0aUR4TDJZYVkwWnFzYWVPZy00U3BINHdlaVo1RXlqRTlUTXp5SjcwMVBHR2k1b1JpLTZPZkR2b3J4MFMzQ1BtTjVPOFZFeHQwU0FIbG50VjM4VnVPcTVSSTNNNjFXUlVsTTFQVS1ubUNxYXF3VmdwTFFDbHRWSExGdTR6Y2dpMXlwRmFsWlNTQ2owb05Idno5bTFkUWl1UVZycnhseXVpRlZfQ1lmN0VBTTh3bFpZQjJMMVJ1MXVuT3hSaXZiWDhKaGhYb3pJdFBhQmxrWUY5VjU5VmdUNmQw?oc=5",
+        "date": "2026-07-29T01:00:00+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "Por qué los videos de animales con inteligencia artificial generan desconfianza",
+        "description": "Por qué los videos de animales con inteligencia artificial generan desconfianza infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUGxTZi0wYVlJOGFWaWttRmo1aFIwa1c5RTBqbV9td1RqZFNkVVNhNHZVa2JaNHRyWU5sZlhnTkZKVUdWbkVFOXY1c2dXd25DV2twQ25XOUIyaElxNTdhNXVRd3lEQ3R5cUNzX1dzXy0zaWpuSnM0THhaZDBmcldfcTE4aS1WU3NEX0plWWlJRXVNdjZUc2tKTlBFamFRMTNvT1BWdTdveTBqQ0FGM1lsT2R1XzhCOUlSUERvVWF30gHYAUFVX3lxTFBMZ1ZMVkFKbmtUWmxPZ244MVRPd2t5a3F0dkhDQXlpZndPMjg1ZmJtd09mUHVaUVpFUTBReXhfSi1yd2hDWlJ0Rm10VmE1WExzSXR5VGlEb3FKZ2lUc3FDZGUyT3R6X3dyWHM5d3I1dTlwNGF6eEl2Y21CVFRWRFVwQXpMdnNxVmZsS1lsTmRrMlBTd2l1OGs1VllVRGxMdHNCSEY0R1FQd2pqMXQ4cnhFdnoyS2RpNHptTXFOUW16UUhvdm5nLVBKOG55UnRxYzRvRVBxMFVXYw?oc=5",
+        "date": "2026-07-29T23:03:00+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "Cómo miles de alumnos usaron inteligencia artificial para entrar a la mayor universidad de México",
+        "description": "Cómo miles de alumnos usaron inteligencia artificial para entrar a la mayor universidad de México Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa0VmX1BiZ3JoczFiR2VYSnppV0JUSjU3Rm9KZHRjZFVzSVFubjdQUk1LYUMtWVd0N0xVdk1WblltWExRZWtmZndDdzJnNklENk13LV9GR0dRSmdhNmswWmpxcGgwenYtWmYtZzZRbjdxNlJoV3VMamlYT1hQWU5qM0F6ckpyRTN3ZVdRSFRoeXZYOWZ4UFdGU1dFTW1ZTHlIcGM1YTdQbjNzWTd5UGVBM2o0LTZETnJlOGUtYUpBWUYxcDZYczRuR3VKa1Y3dWhpQ2lN?oc=5",
+        "date": "2026-07-29T14:14:57+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "La UNAM frenó su proceso de admisión por sospechas de fraude con inteligencia artificial",
+        "description": "La UNAM frenó su proceso de admisión por sospechas de fraude con inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOakFGSW5BbngxaUstdW1zQkRsaGdMQmNvMEhDUUdKQkhfWkVEZVNteWdBVnpROHpHUDk4bldhLXVqQ1Jwc1M0SERBWDhPQThjekxNMGpybWhJQWRaTGRmd1N5dEdFUDk0WUhYVmoyVmhZdGs0cV9FZFk4aG1IMkJDX3FqM1hKTC05M1ZxTEJUWXF1OC1qYWcxVDRwX184SF9qRGNPeXZwcXE1T3lOeExXS0pDTjdOSWVfTW1uWVh1SnFGalhWY2JzNWRmVXQ0eGsyUVNpdQ?oc=5",
+        "date": "2026-07-29T18:36:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Elon Musk: \"El dinero dejará de importar en 2036 porque la IA producirá más de lo que podremos consumir\"",
+        "description": "Elon Musk: \"El dinero dejará de importar en 2036 porque la IA producirá más de lo que podremos consumir\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR3FsMWk2VFowaUZxVl95RzZFV0JwbG9GeTRWVFBSRkM4TkticGZ1RUhjMVJ6amVtNVRNeW5MYU1GejhnUFBZRG52UDZuVEVpUW9qWDVDcFZ2b0NTclhhYU9xbUt1OWhsSEFVLWhsUTZrYUxxVkNFRGFPekh4MURKWWlOanF2eEhncm9JLV9GVUJ3aEZTYndpMURzb2xQM0JCNlBYNjNkMUZzcFA0RTNaZ2tJYzloTW8yRkkwTdIBwgFBVV95cUxPMTN6ZVJwWEdyV3lXMi1SUV91dnhIYXlVM1J0bDF6ZXI4MzR6Zkd4QUZFazdaYnRFYjdHSEdfOUdETVpxYW9jNUxSZW50WkFqOTl4RlczYlZ0WHZkM212VE96ZVRjWmI3WWJVanNPYUM2VVVnNHdwMnpwY25oX2xOUUNmSGlGWWgxTjRhMGVzTDJmM3ZKbWFQNE43WDFteGU2RDFyM2tzR2E4R0ZHVGs3N0tvcjc1Wk5iME9kRVBBNlQzUQ?oc=5",
+        "date": "2026-07-29T08:46:04+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "El futuro según Elon Musk",
+        "description": "El futuro según Elon Musk La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNci1CTTNvWHhxQlhoNlN1bEZYWDIwZDRPMDFNeVRQc3A4OUU5ZE1OMlBHWFB3ZDVNMFhEUWQ2TTVEeVhZRFpxdlpYclVVZXRINWhCLWp1ZmtpUGJONWY5Rmt5d19qSEVZY2hnVDY2NWE1N0pJVV81bFhBU1FSQVg3V0hlOXlaMXVKTTFYX0NtNzl5bFVCaHdxNGM1YWU2MFB4V0RwcXhSZGZLLTjSAbABQVVfeXFMTjhGN0JQNDk1QWp2X25zam1NRlR6RHlWRmh2VV9OTlR2NmZad01Rd29sUUZ1aFJTZ1ZaVXFTMzdJc1VlR0NyMTZ6c3VxSXhIaWJsT2ZMOWVXYm9aQlVtTG0zVlBtbUJ0cFJtdC1NZ09YbXZIUkhtU0VPZk9QbDdGSnBhOGdZSUlHRjBZa1BPenRDdUw0LUN6Z2h6SG54aDlqQ1hsM1ZNeERKUU5zSHVuRGY?oc=5",
+        "date": "2026-07-29T04:00:00+00:00",
+        "source": "La Vanguardia"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "Kristalina Georgieva llegó a Neuquén para un recorrido por el yacimiento estrella de Vaca Muerta",
+        "description": "Kristalina Georgieva llegó a Neuquén para un recorrido por el yacimiento estrella de Vaca Muerta infobae.com Kristalina Georgieva recorrió Vaca Muerta junto a Luis Caputo Filo News Vaca Muerta ya genera el doble de dólares de lo que Argentina le paga al FMI por año Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNGFXZG9BUU0yNzg0YktVVENSUXlqNEtDV3FtUnVIOEViVVNWMlhobXZhUDN0SFFHRTlmaUdNY1RDSnRETFl6Y1JYQzJiZjc3Z1ktYTRLMFBaQ3ByVmxLVFphbmxRRTNvM3Y3bzViYVl4WEFvaDJ0QUhDWklVUE1PNFlTX1Z6SFA5UHA5TDVZUFR6enFOVm9rUEtrcHlmTDhLR0tIX1Y2RUlLOExxdjI1WTIyOGREWFFQM24zUXdpNWpVWlRfdXhLZHBQLW9MSEpjUUdiQkQzNVDSAfMBQVVfeXFMTVcweUp0cEZsZElBTGZCd0U4SHMtVVlSQ0tvQm9lUG1NZU1SWlpPZThGNlZmMjVqLUJsUERiTTU3Mk5Va3lRVThSRF85Z3FkXy1OeWlyODdNSW9jemZqbmJ2WktKNXF2YW9nby14cFRjUTFGd1ppcU9jYTJSdmZQRmQ3dUNYVE95TlJEU3Z4RDZwYUxBaWZMTTYtUkxfNnpLVlN6YlBfUUpVXzdvRm5fb2NIeENGaG1waGFmQ1BnNHd0cUU1Ti15ZXBYNGlhbVJVanpSY2lxU0JDSm1MM2xZREY0cWRSeWtLTXJyNnFLSjBRMmo4?oc=5",
+        "date": "2026-07-28T18:23:40+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "El shale de Permian sigue creciendo y desafía a Vaca Muerta",
+        "description": "El shale de Permian sigue creciendo y desafía a Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzNTbGNZTVgxWWQzdzRRemE2SFVVeGZkdFdqSUtLOHpVRUJsU2ZBcHM5S25HbmZoU05yR3kteG40eVNTZGVRYnUtMlFSMG8ycjlBT1puU1dDc0o2STBuQzIxeGlEeFhVMl8zUmdSbkVnblZlVFVBTkZTcV9jbmFaNFNsaVNNQU5xOTFiYjV6X2xmMU1pSEgtUkZyamdBaVNfTklYb9IBqgFBVV95cUxQREhoelc5SkE3RE9hSm5lUzdwbXk4SXpSOVFMdGVWdmFTXy1NVzlIeUpXZUdWZXE4OE85U3Rtb3ZrbkU0ZGxNU29pQ1BBMDV0RTNiZEFSR05FZXQ2VDNLbHkycmpQQVZ5QkxENS10VHlMM2FYYkdfcnhvSmRqc1lWM3UycHlYOHpkREwybXJ6VkRINzdhclZHWkRpbzVMY1BCaEgtdmp4cE1ldw?oc=5",
+        "date": "2026-07-29T20:53:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta: todos los detalles de la mega planta de tratamiento de gas que YPF construirá para el proyecto Argentina LNG",
+        "description": "Vaca Muerta: todos los detalles de la mega planta de tratamiento de gas que YPF construirá para el proyecto Argentina LNG econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWlM2TkR1a0J1ekxCZHZ1THZ3OUpiTnFiUHVJM2FYT1huOXNVVmY0djNJX0NUelllM05raVBybWFDdjZ5eTFudFdITGNFY0YzaTlGZWxiOUJBTm1ic0FXQnluSUFjSmdtS0xzMlc1bUs4ZGl5VGFhZHl1UE9oRjIzMWRkN05vckdRUkNFSE1vc0czdjl6NERobC1yRkFMTUJ5ZDVRV1lIaGZENldDeUtfclY4ZEZkaXhHamhBMnNrbWk0R0RCLUp5Rk5SeDV4cmVDcWRz?oc=5",
+        "date": "2026-07-29T17:55:51+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Vaca Muerta: YPF avanza con la licencia para perforar 12 pozos del megaproyecto Argentina LNG",
+        "description": "Vaca Muerta: YPF avanza con la licencia para perforar 12 pozos del megaproyecto Argentina LNG Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUy13TEJTZjBrZG1GQ2VqSV9RWUtnYWhNRUNhbU12QlFtdnVteUpSQmg2bE9tbGI1V2VVcEg1RTVpQU03Y2dRU1l2UHo2VUZsOGdBUUROdTBPVzViWndmdVQwdU4yYnQ4NDdBV0dBUkZWMllWSjhqUW5ZV29DbVdXOXNyMGoxalFBaUJxYkFDc1pOaEpkeUNjZGJPVndhd0dXQ0RaZzlQNC1PWGNqYWxYTHpvRjNSYWt3d2c3MTVOeGxEY21nN29oTVlEUdIB0AFBVV95cUxOR3p2OUtNaHhSX3Z1U1ZvczlvUUg1cEhMTzdHSnZyU2tpVTdLZVlyNXF1WjUzNmh3dWM5WEhIU1BNNllKVXgyaXZuM0tWRUgzVkZwM3JmMXZsU2JPeUlRdHdHbk9vQnBhU3FqOG5mbFlUV0JWdlZkc1ItZ0k0QXdneFdIdnNMRTFjTVd0ZmU2cWZmRXlpcDZqTG1la1JlOHVJbXE5cXdaVnVvRjUwemlJeFlaOThWQkpUcDNvVnpPelpBNF94T3ZjcUtFMGt5eHFs?oc=5",
+        "date": "2026-07-27T11:47:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Argentina LNG presentó en Cutral Co su inversión para Vaca Muerta",
+        "description": "Argentina LNG presentó en Cutral Co su inversión para Vaca Muerta Minuto Neuquen",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFRDakctZVlWdHQ3RnF2c0d4LXVRbGVzVTBFbGJPaTFRMDRLaE9RYWh0U2lMUVpReThIcWJnSEMyQlRvVTE2WllCOXdrQjE3LWtwYk5CVk43VmhCQUprX3N1WllHSW1VYnRhaXFuSnRDcnIyUHZaSUZEUVpvM0FGRVh2Wk9hVW9nSUdHODJIR0N1OFpKTUJnbVZ4WW1LZ2VUNVRHTjdHSmd6ZUI4dkJSTGZOVVdSXzd0aW1DUDlrelRVQlU?oc=5",
+        "date": "2026-07-29T16:03:36+00:00",
+        "source": "Minuto Neuquen"
+      },
+      {
+        "title": "El cuello de botella de Vaca Muerta ya no está en los pozos: está en las camas",
+        "description": "El cuello de botella de Vaca Muerta ya no está en los pozos: está en las camas Ambito",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYy1qZzZGRmk2R2Ewb0hBY25VWllYZUJwRkZBSDl5QWtGQnJjUnEyS3RZVmZwVC1Ddk4xWktrOHhCb0stYURsYV82VENvQzNuYVhnZVd5SkR2dnUzVlkzVWs0VkkxYUF5R1FRWWV5UFBBXzJwNG8tYWxnYzZDUnNsaFpfSFBUN3pwMTVydWl0LTFqeWlGR0hpU0dkVFA4d9IBowFBVV95cUxQVUUtMS03UXpRS1NWanltVWhvbEljSlNBeEZjYmJzV1NxZGtidVRKN2pESXBnVE41RTRfNmhIUWJPX2pCUl9DdUxhOVFIV1VZNXdTMjlfMlEwM0VWZDdhUVFGWFA2MkhkSzltR3VycXh4bktic2x4SzBiUFBNWUgxd3NTbEhoMkVybGpmX0ZkZjlzTHMxamVlZG94MFlQN1RselRz?oc=5",
+        "date": "2026-07-29T03:00:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "“Cargas históricas”: ya pasaron 154 buques por uno de los principales puertos y ahora se diversifica por Vaca Muerta",
+        "description": "“Cargas históricas”: ya pasaron 154 buques por uno de los principales puertos y ahora se diversifica por Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS28xRFlycVVoSEFzcVNMTFNSRWd5Z3plN25LMnJIc2JHTzVPMk8xTk15NHlJMk5jWFJncWNuMF82WHZrWFpHS2RZOUVqZnQ2M19IcEdpd2hFaDJRbElsQVdpMnBQM2ZHNHFOSEpneFRiSjh2TGFwTWVBbGZfR3dlNGdhRW0zM3ZieWd3bGlNN0Z6enIwMlFaRTZ2VnJaUGVGbHJCb1RHMjFBSmVQbWRvdkkyUFh4dVVyY0cwM09CWW1HN0dwdGlzRnZlY2UwbjlqQUROMmtpdUQ2ZjJtckJXU3hoNTNGT0JIM3l0RVQ2MEFZTzZSX3pkTQ?oc=5",
+        "date": "2026-07-29T14:27:00+00:00",
+        "source": "La Nación"
+      }
+    ]
   }
 }
