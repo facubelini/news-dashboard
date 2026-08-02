@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T20:46:58Z",
+  "updated_at": "2026-08-02T21:50:09Z",
   "categories": {
     "Microsoft": [
       {
@@ -18,10 +18,10 @@
       },
       {
         "title": "Residentes de Wisconsin demandan a Microsoft por el ruido de un nuevo centro de datos",
-        "description": "Residentes de Wisconsin demandan a Microsoft por el ruido de un nuevo centro de datos clarin.com",
+        "description": "Residentes de Wisconsin demandan a Microsoft por el ruido de un nuevo centro de datos Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEFGVmlHYmpSQ1RiTmlNdHpRUXF3Q1VaQml0U3JBMmVoSmtOTG5pUUZFNnhsM29LLU5NN1k4cXN0NGd5RUFYUzVmSkZ1dnhEeHBudmdOVXVxS0FYLThxSlc3NHFKZnR0N2YzbF81ejRqMnRicGJmVjR3VHNsME1EYW9NN3JmWlRtWUFMU1BlN0hkVlRpMl9pNUF2UFdjWjhOMzJtcEFwQ3R3c0pTQkJZeHhjYnFBY2IwUGxfdtIBwgFBVV95cUxORHNfR25VY0FKMFhFRWFpX3ZiMkdLeDRNazZQX2dfb3g1SWx2UHR1MUg5RzdydVM4Z0pJc1lUd3RNMXRNS0JUdXJKN1Q3UlpPRURMMXdkYlR4a0xiUmM1QTYyeE5oMVUxMXdsOGNGUjN2eFQwX1o4a2tDcWx3U1BfcFlBcHA5VEVGODBnQmx2YXJadEZ2Sm9kVzFWTFV6R0phaVcwbkR4WUpWczlzSDJRMjdkeWZBWHB3bThhd3F0eEZfUQ?oc=5",
         "date": "2026-07-31T22:08:51+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
       },
       {
         "title": "Microsoft confirma que está reconstruyendo Windows 11 desde cero con WinUI 3, dejando atrás décadas de código antiguo",
@@ -45,11 +45,11 @@
         "source": "Applesfera"
       },
       {
-        "title": "Microsoft cierra la vía más cómoda para no pagar Windows. El problema es que hay licencias más baratas que una pizza",
-        "description": "Microsoft cierra la vía más cómoda para no pagar Windows. El problema es que hay licencias más baratas que una pizza Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNXzgtZ2ZlZWVwSEdWRlQxUUJIUW5zV1Z2bVBWZGlLZmdoSGI2NVIwM3J3Nkc5R0h5RkxwWTRhYVBqbnNsU0NLYVV3NEtCUzB6SFA2TXRDQmdGNmpIUmxtM1ZHSEF1Tkx0UzRobWI1RFNDcW85TG5YSDBZbTlxQWNvendfTW1nX250SXNUSVFGWXdmRWk5cnV5eEFGbEE0c0JpWlpSLXM1VU5KU2V0TVlSbWhZa3g1SHlEMUZxWV95bU1ES1dob1ZEUHhpZUJsMDdjUkJQNVlvV2swcGlqcFHSAeMBQVVfeXFMTkpwc0FHbzFZSkI0alVTbkJUTnlwUlQ3M0ZDZWllckJZV19oc2U4YWNackQ1bmF4LWhicE50UUM1VmkwZDhfd0hqYVFFYnNTYW1zQmM5Z2pfLW9JYVgxeG1aZTZ2S3pybXNtaDdXU29obzNtaDM3MlN2Z21CY3pSZEY1R1QyRlRVOGxvbzVNZDVISV9KMy00RlhPLWNLYXR3WE1UdVloVGctSWVYMDhuMjVGNkktaVZMRmktMm92NDQzSVNyU2Jta2lFemhCTF9Rb0NRVVcxTHNtYVFfNi1jNENocjQ?oc=5",
-        "date": "2026-07-30T11:30:00+00:00",
-        "source": "Xataka"
+        "title": "Microsoft prepara una Windows 11 optimizada para PCs con solo 8GB de RAM",
+        "description": "Microsoft prepara una Windows 11 optimizada para PCs con solo 8GB de RAM Hardware Premium",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTF9PN2o5MzJuV3MxN0RWeExwdjRQYVVHSFN2ODloWmRQZFVRcElIRUYya0JiOGZObUxPMGNGbUZVWkpBQ1R2ZHR4TEpIeW0yWl9RV24tUVk5eUlSQ1ZqRmNkTWxFbThpVHBVek1UQnRqRXV4dU5QUDMyT3ZLaTNwdW40am5WN0pUSHF0T3V4YjQzZlk?oc=5",
+        "date": "2026-08-01T20:00:00+00:00",
+        "source": "Hardware Premium"
       }
     ],
     "Marketing": [
@@ -112,6 +112,13 @@
         "source": "Infobae"
       },
       {
+        "title": "“Sería una vergüenza si OpenAI no se convierte en la primera gran empresa dirigida por un CEO de IA”: creador de ChatGPT",
+        "description": "“Sería una vergüenza si OpenAI no se convierte en la primera gran empresa dirigida por un CEO de IA”: creador de ChatGPT Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNS1sbDZVTU9CRFNwTlRxOGgyWGxmMjRsN29CT2xVM2E3dXdHTENpc24xa0t3Q0JaZTNWUjZHaFVUYWprU1UyUUVRZEIyazlMWUN2UWs0dnB2c2VRSE54VllrZXRqTVZ3OUFrMUFxaWhPaVJmdWZJdVBJTi1JTFFtZ3h0VkVpa1NNd1JsdVdNbzhWbTdEVWZxSWhBRFRnS09jQVo0bFVtMUhSQm1uZmlndUk0M0k4WW1VMWM3Y3JCOXh6WlQxdWlYVkFpbk5SWGpuUVFjTm9VWEVzU2p0dFFabmlaZ2VrNXJXNm5lU1VLRkfSAYsCQVVfeXFMTVZ2cVFnLVlfRnVHQzMwQ0k5cVc4eW9VLUVpMG5vcFNuS2lacFVsT1hfeV9jRkQyckxoeHRXRlVuQjNOa3hLeDZCQnBwV0xMVmNWWUFKd1RhQUYtbjlpdjl5ZTdrbjhMaVNlRDN5Y2ZVRTNXMGx0UU5fSFVsd0t6YVVDdWJwbVp4YUJIWUh2V0xJaldRaV85MHlBYUtSZmJJWHA3c3c5S2hTV2QwVV9adV9UcW9CaUR3WjdaRVNtYUE3cl84YkcyeWRXNV9LWjVMSnZTMV9DYmNyU0NiU04wYW05d2Q0ZEFGZ3d5NFJSWV9MM21NcUVjOW1SRVdUazFwTlBKekZyOTFPYUUw?oc=5",
+        "date": "2026-08-02T20:07:15+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Un fantasma recorre la inteligencia artificial",
         "description": "Un fantasma recorre la inteligencia artificial Página|12",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTU2am02RzlTcURraDN3OW40VG1fWktaTnNndXdqTm9IdkVZZUVQbGNIUDdzZEFSNmFtU0xVdVlsb0ZPdFVha0FzdW54T0dtUEpUYThhdk51OXNVUVYwTFlGYkcySTlhLUxvZXJzaXJadk52VXRjRGUxWVJRRnA1VzdiSXlnX2tYeWZrYVVzZw?oc=5",
@@ -127,10 +134,10 @@
       },
       {
         "title": "Jensen Huang, CEO de Nvidia: \"La próxima demanda sin precedentes de empleo será de oficios como electricistas, trabajadores de la construcción y fontaneros\"",
-        "description": "Jensen Huang, CEO de Nvidia: \"La próxima demanda sin precedentes de empleo será de oficios como electricistas, trabajadores de la construcción y fontaneros\" clarin.com",
+        "description": "Jensen Huang, CEO de Nvidia: \"La próxima demanda sin precedentes de empleo será de oficios como electricistas, trabajadores de la construcción y fontaneros\" Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWFZWOGx2NGpveUo4WDFlcWdDMk16MjIya3NPX3MzTFljZVZ5WGs1SUxMaXRHV1hKQ1dmQi02eHFzbWpCV3NyV201RXo3WEEzTlNWU0p6RVlYRlJ3ZVVKNDkwM1RKTnl0M1U1UmsxZXBST0ZHbDM2dVlrdHZsR0o2d09LSm5Udko3VWc5SnI2TDBrLXlFX2U3UVh5b3ZrR3VmV3J4Rm5id0pHNm9xUktrWGRTUWx1QkhScUhkRjBKMDVrT2ZEbUZ2MTJNbEZMcDkxWDhYRzVHWnBrVVlNTU9VRkotMFlUMkVmVzUtdkJuRC1nR1dwRlRBVmxCb3hOa0xjLUJj0gGIAkFVX3lxTE1McG9wbHN4MnZOeFA5Q0NabWhfZG1XWGJLWUx2WFp2SmswWkFhbHVSSkZNVl9RNVE4V3Rzd0RoN1NMTlV4WGdEMXphZzVDNFMtNzhsMmdRU0ptaVFGRXpEVHlUZ1lZcE43VUJBS3dGWFNlX1JicEFpVXZFLUx3LVkyb090VzZnTWEwMDN1eFBSZUlLbHJkRmVsSXZobEpGZXBPWDM4M2Nsc09nTE9pbVd5Y2haamU1LTVMWGpOSWxWc3hULS1HU09waHdmUXpQakZnQmxVbGtKSms0dlBRN2xGdV9ZRmgxWWFKRXpaT1cxZ1dZY3lMS0x2TzFYUUhlMW1EMy13T0lFMA?oc=5",
         "date": "2026-08-02T12:43:01+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
       },
       {
         "title": "La Inteligencia Artificial predijo al campeón del Clausura 2026 y dejó un dato inesperado para Belgrano, Talleres e Instituto",
@@ -145,36 +152,29 @@
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNVNBM3Z1MmdqUlZDa0UzdDRhanR6LVBYTk00enpLeVRBeXVabGY1UG1ialllVlQ5SkFDMUc2UTBvSVZjeWlPUW9oRVdtNWliT1h1Ty1EbmlnS0VCbFV1X1hydHN4S0VjX25tNEs0dFBqS0FYdXd3ZFZrNDJ0UkdYaHJlRTY3eFA3UkZMYVo4ak5pSFJtMUZpakVlQXlLTEJock5RN21NdFB2QzJVcTVJSlBMZzJ6RG5kRFFidmN2TFBHbldVbXlMbzAyQTYtZnV3M29yLTFkYml3aGRxcjBWM3ZCWGpmbmdMSHdudXVxUVpxZzhXVjVtVFgyZFF4cFFY0gGUAkFVX3lxTE14d2VIWVdZUURobmt6TXRHSmVyVktuUld2UHJEV3VmZ3l1MmdoeEhTd2xiUjRuYUlic3Vmal9zakRkT0w0dU9RSE9Yc2VSSE1KVGxzdUhSc01tVFc1WnZBSTJLaVY3Q3lmR0pxRTVfamU4VklLV3BHV21vcURhRE5wRlNpMXNEV3BDRDlLcXJMRDZDMHd6aWpTSFBoYkd6UmRvZUZMUmJ0RVdjRUJzZldELUY1VFFLdGVCaGcyYlZFNF9UMm5Cd3d2b3F0Z2paejVHV3JGMGVGWWNmRnFiWWwwN1dPSXlYR1dNVmlOQkRjc3ZJLXZkWTVKb2NuZUx1S080RHVqbWs4ZHNlcDdBbzZObkZsQQ?oc=5",
         "date": "2026-08-02T08:39:00+00:00",
         "source": "TN"
-      },
-      {
-        "title": "Crisis de soledad: la inteligencia artificial gana espacio como amiga digital de los argentinos",
-        "description": "Crisis de soledad: la inteligencia artificial gana espacio como amiga digital de los argentinos Los Andes",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaF83dy15WVZIeHl6TXd0STRDMFRQWlJVeTdYeFVTUmg2YlNqZDBhS2F3SFN5Y1hKei1MdE80TWJ4M3BnNUx4Qy1UQkhSemtoejlSTVkwSWFpbEVQT1JOSjNtQ1hiYWZmRGVJMkl4SjRwbDJjRFl5Zk1KM2pyR0VlWXhvUllBSmlldG9QTkw0Z1hTdUtVWVdEbTNYMTJMcGlWSXhudElmQkxnT296Smw4Smt4TXNjYU1oLUFiMVl6X3RadFN1N2pBVFlNMA?oc=5",
-        "date": "2026-08-02T12:36:00+00:00",
-        "source": "Los Andes"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Vaca Muerta empuja una fuerte mejora en la producción y las exportaciones de petróleo, pero las ventas de naftas bajan",
-        "description": "Vaca Muerta empuja una fuerte mejora en la producción y las exportaciones de petróleo, pero las ventas de naftas bajan clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzRsX1picXVuaW5oZDYwdmRlVW9FZmZLQ29FYm52bVJZS0IwUzlic3lVczFEV1Z4UHpFTTV1dWtqRDBjVHI2elBkYWVTR0lYWi1wRkVOYmo5S2xENEZwdkJ3b0IyNGFZejdWZlRjYWVVaGFrVXYtOEc0T29NdlE0U09HUzNtTHUzeW1YTzNoZkhwa3FVenQ4RW40b0VCTmdpRzVibW1ITEgxSXRtS2pXak1DTDhWX3Qwbjl4NlVndm9ENjV2Y3FxYUZBR016dVllNFE?oc=5",
-        "date": "2026-08-02T09:01:17+00:00",
-        "source": "clarin.com"
-      },
-      {
-        "title": "Los pozos que declinan en Vaca Muerta ya tienen un plan B",
-        "description": "Los pozos que declinan en Vaca Muerta ya tienen un plan B Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeE1NQU1SQTQ0U2JmbWxTX1lLZEI4d2cwV2FXUHlyc2FTY2Q0WF9BLWtuZUwwRHRHTlYtXzNyU1U1OEtUc21uVzVVbDNQNVltbW54V2VaT2ZwaEk4M1BveGJmcXBwMjU5Z3IyQXhBSllBOVRMamcwV0pqWE43ZVFOTHpOQnpnSFR3ODR5cUlEdkZPb3d60gGaAUFVX3lxTE96cm1ONnZqRkpGcHFhY1JWZzNyNTdqbzB1NlFieUZnQUkybWVUU0ZDSnRjZy1DQ2wzS3lVWVo5UFJuOS1ZWC1mamV5Zmo5QkQ2c05MM2dDZm45THpRMFZiQnlzMTBaVkFpNENKTk12N2steHFCZE1hYVRqcldpRDZ0MGtXR1lSMExFMDE0VzNwNlNuQ1pEeFlpaUE?oc=5",
-        "date": "2026-08-01T02:55:00+00:00",
-        "source": "Lmneuquen.com"
-      },
       {
         "title": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas",
         "description": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas Infobae",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV1JROEhRaVk2LXRwelVBcUV0VHlQOTFUM2otczMyT3huWGRvMm5WSjI5UmRXSTJTOXJ1QnZNOWFFSzQ0ZU1wWTI3WndvNFg5VXJtWGkxYmpjZHI3QWxWUXh1YTlsY1RZRkhjZk8yNEh0VE9lWGtrdWdaTHpncVEyNHh6R2pSNUljV0d2cnVOb2x1Z200OEZRa2JaZTFLTmdLNmRjdmtFWjZBdDJUZGpIam13TV93ZDdidzJsRjl4QkV3OUtETTU2Qm83T2tiN0ZJQ1lxUmtVcEV3Y3VYY2RMN3ZvcEZqeUxUeDFSQ1pMNXo2bDhL0gGPAkFVX3lxTFByWEEwZkk0Vl9sVW9kME1nRnV1bmh4dC1UOHVNYklvTHZQZVAtaDdKUllJRWJfQTJYY1dkRklvLW1yemFmaEw3RVZpOV9IWDU4TTNaeWRzSTVHMDZzbWJfcHA4bm92aUdaRThQbkZpMWdaM1ZuemcyOHdTbzNaU0l0a1Fra2VoUU81bFpEdlNUMER5QjNsVXFLU3NCWWdLM190LXNaRmtId1ZmQU13OF9GRmN0MFBsTWZlNG9MNlNkQjdqQTdVUDJFbkY4Wlh4QzBMdWRIM3JaOGhnZ1UxVzN6aUhoblYzdTNfVGszTUVmcjEyVjNFN0MxMUZJR3RtQnFTSTU2RG5jYXFnQ2dDdEk?oc=5",
         "date": "2026-08-02T18:54:15+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Alerta Vaca Muerta por ciberataque que puso a prueba seguridad de mayor oleoducto del país",
+        "description": "Alerta Vaca Muerta por ciberataque que puso a prueba seguridad de mayor oleoducto del país iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdQSW9aV1htU1N6WUVqdEdaSmJEV0NJcS1yTXJGZlZnbVhzWl9sbDBka0FqZGRjQjJwUi1meERHenhoMEdWUFVRNjM4cEdpRU1qOVA2VFZkNV9mSG54NHdTMThvd3Zlbnd2YXZMcS1LS2tPbnZrbjBwQTNqcW92dWtWQktTSzhma1VSa0Z2YTZnTmNVb1l1NWZ4M0szQ3hxWldBQTlZOE1jVUtDOFdlaGhSYXlQLWVVdE5jREFqb0ZBZEVSaDQ2bdIBzgFBVV95cUxNTDVEd3BMU2phTHpDc0ZNczlzX0cyVGdkMmZ3VFg3UHRmSzl5N3Zackl4V18zRl9XQktzU2FTaFVIRURTRnl5R2ozR0l4NElWUWNlS2ZCZ0UzOXA5YXJsU2s3cFJ6MkNJQzR6aUdHSG9LYUZUT3JHeVROcjZwNXh5d2pwLWMyM18tSkphcmVHVHRJc19jdzJTQkh1ZGNvcmluTkR3LW9JVldIZzBnZG1QLTFuelhVcHM3TWw1Z1lsa1FDRVhCLVYxWFBmeFBwQQ?oc=5",
+        "date": "2026-07-31T20:31:00+00:00",
+        "source": "iProfesional"
+      },
+      {
+        "title": "La ciberseguridad se consolida como una inversión estratégica para Vaca Muerta",
+        "description": "La ciberseguridad se consolida como una inversión estratégica para Vaca Muerta Minuto Neuquen",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZURVLVpQZS10S3ptQzVYVFlCazFya244cEd0UjZGNENEbkZDc1BGVENwcUgyaTlMU3ZoLVV6Vk1CcTBOYzBvaUE1Tzcyd0FfemhMdFBKcnkxR2pDQ29fRFZRUkVGMkVKWVZzQ1pfd0ZaU1o3NFVtclBxaGNKZjdGMXRvVmFyWTduaWV3QzRoOFdhSC1nellucUVOaTdWNGpZVjJzTlFLYjE1WXJhT0hjQ3l5WkYwLWFpOEdRRlg5eHZIbk01NE9GdGNLcHdXc2ZUZkVF?oc=5",
+        "date": "2026-08-02T08:10:00+00:00",
+        "source": "Minuto Neuquen"
       },
       {
         "title": "Vaca Muerta necesitará hasta 8 millones de toneladas de arena en 2027: el desafío logístico que enfrenta la industria",
@@ -184,11 +184,11 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas",
-        "description": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORURWLVFxLWIyc3pYQWF2dmVIQzR2T0h2WWQ4OVlvNTZ1d1MzTFE0b2hzTHJKZFIyWnJnZzdnbTFYb1gwd01Ha05XRkFCYmw5NjVaeU9DUl9NWVI3XzJaZXBUbEktUFEwZUlLY0Nia1l6ZFBTQkVnb3E4S0hCcEdwUFlxUTdlcW5rM3E1cl83MEtaVUJ5NnA5ZzlFWVNYOUlnaEZOSk5zYi1PcW5SZjV5eTZjSVhKdm5wU3ZVaWtGM0YwOVFZY1JNYU84Z2JsOE02ZnJZOWdkVm85bC1oUFAxN1ZJYXpxNzhMbGxwajNWOW5GWk1DLW5KZFplUdIBlgJBVV95cUxNdHNDb0ZxaUNLZ1J2V3lZUUwxclZZLWpZV1lZZjZWYTVYVjdFM0tvNXBNM3NCNFFhWGVrVEcwSUt0OGNvV0RXVlh6Y2xjN25HN0h1czRjOEtkQy1QVzVtTFMwTnN1Y0hrS1VOd0I4bjRfRWh3akt6YWp1Z0FEd29WWVZCVlBGeThodWJhLWpTTVdJTHI5OGRHR2FuOGt0Y1BOckl4bHAzckszRHVfdkotbU5JcHVHVlFCT25Ga25PVDBXTUZFMVVsdzAteG9GQUVwY0FwcDYzdjY2OWpKckV0QVdhdEY1eDdncVBpbEhhemV6dHh5MFZCZUsxaVphLVNUN3ZsTDVfTkltXzFIdkQ2dkJNWHV2Zw?oc=5",
-        "date": "2026-08-02T04:29:00+00:00",
-        "source": "Infobae"
+        "title": "Vaca Muerta empuja una fuerte mejora en la producción y las exportaciones de petróleo, pero las ventas de naftas bajan",
+        "description": "Vaca Muerta empuja una fuerte mejora en la producción y las exportaciones de petróleo, pero las ventas de naftas bajan Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzRsX1picXVuaW5oZDYwdmRlVW9FZmZLQ29FYm52bVJZS0IwUzlic3lVczFEV1Z4UHpFTTV1dWtqRDBjVHI2elBkYWVTR0lYWi1wRkVOYmo5S2xENEZwdkJ3b0IyNGFZejdWZlRjYWVVaGFrVXYtOEc0T29NdlE0U09HUzNtTHUzeW1YTzNoZkhwa3FVenQ4RW40b0VCTmdpRzVibW1ITEgxSXRtS2pXak1DTDhWX3Qwbjl4NlVndm9ENjV2Y3FxYUZBR016dVllNFE?oc=5",
+        "date": "2026-08-02T09:01:17+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Kristalina en Vaca Muerta",
@@ -198,11 +198,11 @@
         "source": "Página|12"
       },
       {
-        "title": "Vaca Muerta no alcanza para crear empleos sin políticas acompañantes",
-        "description": "Vaca Muerta no alcanza para crear empleos sin políticas acompañantes Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM2ZvWHdfM3BEbk5Ga2w4bFFMZy1DeFdycXVVTFU0d093dnU4M0kwTXpvOHJvdVUxeEVsQ3c3eks4RG9UZVZjMzFnZVczVV83RDJGWkJ1QU5COFdrQnRabXVVUENHWEJIaTBySzU3YXBvMjJmTDFhb1R4UGh2X1ZweXlSSVNQaDZNUDhWd1JIY1Fyb21PeUVtVnRfNVdEYXEyQm5mV0hoTllFbVE1QkZuSk5sOWcxUkQ2VEg3RUVpU1pUS3psZ08wMjRmSzk4aEhFVVFMang5S2U?oc=5",
-        "date": "2026-08-02T04:53:00+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas",
+        "description": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORURWLVFxLWIyc3pYQWF2dmVIQzR2T0h2WWQ4OVlvNTZ1d1MzTFE0b2hzTHJKZFIyWnJnZzdnbTFYb1gwd01Ha05XRkFCYmw5NjVaeU9DUl9NWVI3XzJaZXBUbEktUFEwZUlLY0Nia1l6ZFBTQkVnb3E4S0hCcEdwUFlxUTdlcW5rM3E1cl83MEtaVUJ5NnA5ZzlFWVNYOUlnaEZOSk5zYi1PcW5SZjV5eTZjSVhKdm5wU3ZVaWtGM0YwOVFZY1JNYU84Z2JsOE02ZnJZOWdkVm85bC1oUFAxN1ZJYXpxNzhMbGxwajNWOW5GWk1DLW5KZFplUdIBlgJBVV95cUxNdHNDb0ZxaUNLZ1J2V3lZUUwxclZZLWpZV1lZZjZWYTVYVjdFM0tvNXBNM3NCNFFhWGVrVEcwSUt0OGNvV0RXVlh6Y2xjN25HN0h1czRjOEtkQy1QVzVtTFMwTnN1Y0hrS1VOd0I4bjRfRWh3akt6YWp1Z0FEd29WWVZCVlBGeThodWJhLWpTTVdJTHI5OGRHR2FuOGt0Y1BOckl4bHAzckszRHVfdkotbU5JcHVHVlFCT25Ga25PVDBXTUZFMVVsdzAteG9GQUVwY0FwcDYzdjY2OWpKckV0QVdhdEY1eDdncVBpbEhhemV6dHh5MFZCZUsxaVphLVNUN3ZsTDVfTkltXzFIdkQ2dkJNWHV2Zw?oc=5",
+        "date": "2026-08-02T04:29:00+00:00",
+        "source": "Infobae"
       }
     ]
   }
