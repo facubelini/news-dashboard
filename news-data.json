@@ -1,9 +1,209 @@
 {
-  "updated_at": "2026-08-02T22:50:52Z",
+  "updated_at": "2026-08-02T23:53:38Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Un malware oculto en Word puede engañar a la IA de Microsoft para alterar tus documentos en secreto",
+        "description": "Un malware oculto en Word puede engañar a la IA de Microsoft para alterar tus documentos en secreto Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOXZXRmJYWDJZb3ZzRWhUaEZCeTJzSFd0N0ZYSVc3bHk2cXlVQmsza2h4UC04ajNONl9VemM5Wnp3TGxNXzR4dHd0ZzhZZnZIMWRYZXZSbWhTeUxBak9SX0lLb1YwRG5QQWIxMVNMY2prSFpEbWlzRGhIc0NUTDZQN3BmREtjM2FXYmRyR3REdWJMUXVRSmhSRW9fN0s0S2R6bC1pcWZuRW96VEpHLXkwcmxJTWRqeFJhbDl3UF92M1lvU0thY1NyQ3dQLXpKbmozMElBMTU4M27SAfMBQVVfeXFMT3pzOFM0bHdfdlV2TWRYM3gtNEx2VzZ3YmVJUHZKRzdkOGt6dU05RkVNMS1kaTV0dUJuclY2dUk0VFFTZnBPaUZDZW5RaW8zUUZyZDNHZ2VtY0lFWkJCN003LXBvckFIS0owTGVBODc1R1NIUmRkZDdVRDJHLVRrRExjMzJzMjRBX3cwa1V1R3piVUJUY1BJdTdzVmhxLWFNcER3MW9JVW9PWFdiaFg3eC1UUFhJVnNldzIzX1Z6X2stWEV3eGtycjVaaGpGWi1IeFpwRGhBbUs5aHZKaFdJbHhWVDNfZ3BrUXBSSkJhbFZJeVBv?oc=5",
+        "date": "2026-08-02T03:11:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Microsoft Office: la poco recordada “infidelidad” del programa, en el día de su cumpleaños - TN",
+        "description": "Microsoft Office: la poco recordada “infidelidad” del programa, en el día de su cumpleaños TN",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVW5QSmRRRllHRjVHRWFldE5wVkFwaFJxN2UtdnV6VUJUNk81M2RXWjd3bnBnRmZSNU5qRFpkX1RXd0lRWDdlaVQ4MGcxT2p4UC1JY2RpNXlTUnQ4Yjk5cjJUR25Fd1c0bHVRQ0ZnT2UtYTFWZFYxcVhndmE3YngwaW45MFRYOHlRM1Rzdm5vb1NERjdDWVJkaVo3X1RHRzJoamVLUldoNGJ2MW5pOTBWbzNTNDFiWXFEUEFYbk9jN3dOVGZseU1mdnUyWG3SAeABQVVfeXFMT2VQaEhFNFhyMWhQcFZrZVA2NkhZRDUwcmRUcGg5QWpnOXFvVV9ROV9peFoxYXQ0NHp0NVREbHRQUnZvVWlXdUhMaHpfZWp1WkxNQVFpU2FfQXJOZFZSLTZKZk0zTUFidVIyaHBWRGNsNkU1Q0Fub1oxWjhvWHI2QXhJQmR4dVRqaUJMdllHLXlDOHYzNFZuNHBWbTFGN0pGVG5udHVnV04yLWJrMV9ySTVBNWZ6THBPajhPUmFHTDZ3Q0l1eFB2dTJTVG9yRG42cmJHMGVLWmxuZEZJRnRuTi0?oc=5",
+        "date": "2026-08-01T08:43:00+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "Residentes de Wisconsin demandan a Microsoft por el ruido de un nuevo centro de datos",
+        "description": "Residentes de Wisconsin demandan a Microsoft por el ruido de un nuevo centro de datos Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEFGVmlHYmpSQ1RiTmlNdHpRUXF3Q1VaQml0U3JBMmVoSmtOTG5pUUZFNnhsM29LLU5NN1k4cXN0NGd5RUFYUzVmSkZ1dnhEeHBudmdOVXVxS0FYLThxSlc3NHFKZnR0N2YzbF81ejRqMnRicGJmVjR3VHNsME1EYW9NN3JmWlRtWUFMU1BlN0hkVlRpMl9pNUF2UFdjWjhOMzJtcEFwQ3R3c0pTQkJZeHhjYnFBY2IwUGxfdtIBwgFBVV95cUxORHNfR25VY0FKMFhFRWFpX3ZiMkdLeDRNazZQX2dfb3g1SWx2UHR1MUg5RzdydVM4Z0pJc1lUd3RNMXRNS0JUdXJKN1Q3UlpPRURMMXdkYlR4a0xiUmM1QTYyeE5oMVUxMXdsOGNGUjN2eFQwX1o4a2tDcWx3U1BfcFlBcHA5VEVGODBnQmx2YXJadEZ2Sm9kVzFWTFV6R0phaVcwbkR4WUpWczlzSDJRMjdkeWZBWHB3bThhd3F0eEZfUQ?oc=5",
+        "date": "2026-07-31T22:08:51+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Apple acusó a Microsoft de robar el diseño del Mac, pero un viejo contrato firmado por ellos mismos le dio vía libre a Windows",
+        "description": "Apple acusó a Microsoft de robar el diseño del Mac, pero un viejo contrato firmado por ellos mismos le dio vía libre a Windows Applesfera",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLUZseW1MUzBSeWUtTVkwOGFyQjJGaU5BMTJNQUZSQnp3SnMxTXdWT1hPMzBCMWk4OGRHYTRUSjJCckQ2UVVzU2lFNmZnNFRSSTB0Z09SLUQ5cjFDVGdlVzV1WHlsalF5Z0t0eURERjdOb0RGVklFYnlQakMxaU15QU5SRlIybnNiaGlWa1FBb0w2SXJWN2pjVURWZ1A3X3R2NmNaVDQ2a3g2ZFVXLWFrQV9tZ3dBZGI5Qm45a2hLWmlVRVNnUnlFTW1rc0c3cUE4eDR3aXh5akRURjQ?oc=5",
+        "date": "2026-08-01T09:01:43+00:00",
+        "source": "Applesfera"
+      },
+      {
+        "title": "Microsoft confirma que está reconstruyendo Windows 11 desde cero con WinUI 3, dejando atrás décadas de código antiguo",
+        "description": "Microsoft confirma que está reconstruyendo Windows 11 desde cero con WinUI 3, dejando atrás décadas de código antiguo Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZGtEcnNBeGdIaU5POWg0V3p4dVpyd3ZZZVdaWEMxZ1dueWdmaDhGSWptYktycDRLNjhjQ01kVGNlcF9fRlJaUFhBOW10OG9odUxrdkpZOWtKSG5rZFh0a0ktdDdCcmswSTdfb1ZEU1E5bFVGdTZjZjNHQUZJSzh2cE11M3o2ZEduSVpubnZWSWhXTlM0dHZGTW1OVkI4QW91NGJwZnB5Z0Q2X2Zyd3g5dUNQZ2ktb0ZYaVhxT1ZaUkxQV1R3Tjkxa3BUQXlmN25pVHNIZUI5R2Y1czJpbGRFUG4tVXh2bFkyTmZjQ1VVRUlzMnNB0gH6AUFVX3lxTFA0N2JKZmJ3czlfa1N6bTdOdlpxSFBGYTkyU0V2WmpqVVd4bl9ScldYYjI4czI2MGZwVFJPZU9YNXY1QWFkVEJ3T2Y3VVZHN0QxSXE5cldITjFPTU15ejg2MG9Bc21jMnlRY25qWDhrel9iYnlCV2ZRZ1M4UTV4NTBaUzVmUHYwZjVZT2lYZ0x3YnhNbC1QUm5seUViZ2ZXOWpKX0g3YUZWdkFram1QUW9tYXFGdlNhREcxYXAxR1cyZkIya1ZfRV9UTDVlOUE0WGFnbTdXdHFCNS1NUVRVRmh3cExhNVRTeHdITUpRUmVBWlQ1cm9ySkxFTGc?oc=5",
+        "date": "2026-07-31T09:32:53+00:00",
+        "source": "Profesional Review"
+      },
+      {
+        "title": "Google Cloud pone en aprietos a Microsoft y Amazon: la IA entra en una nueva batalla",
+        "description": "Google Cloud pone en aprietos a Microsoft y Amazon: la IA entra en una nueva batalla Bolsamania",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW15OVpyY1hHVVJUSFE2S1o2N2FoTlIybkJFc3lGSzVZUm9wZE54aFZmZUw4T1ZWZlBad2RESHpDTWRkLW1MaDNScTBfV3NBYXBtb080a3htWUtaRk9jeHBKVlk1WjVVWGdmU2JwN3ZhT0RzcDhzcnIycFNzVTB3eDg0Q1VYTkZZdjc5bDVRcklLRVVTbWVYQV9LY2RpMk5Fb2xRSVFtRDlGSUMwcnNWcXFJVmtVRFRGMkkzODc4V01nUdIBxwFBVV95cUxQODRpZHQwU29kb2lwb2pPNlZFN0RlbmQ3WEE2R2x1YVpMRnNqMVBBcEg3ZVNFZ2haS1h3QzduZUtqbFBFeHpERUE1dDF0S2lxdWJXUTRGOWZTd1hXZ3FnV2toZXhLd1pGNllmYTZSTktRdGlUeHZwd2l3U1ZRcDVxM0lYQ05yc2F5cVhEQi1WbEpudE0ySk9aMkhvT3htUWlHM0hITmVON2JoRnpWWDJ2WGZrSW85bTRQeVhOTTRtTXJXem01aVVN?oc=5",
+        "date": "2026-08-02T04:00:00+00:00",
+        "source": "Bolsamania"
+      },
+      {
+        "title": "Microsoft prepara una Windows 11 optimizada para PCs con solo 8GB de RAM",
+        "description": "Microsoft prepara una Windows 11 optimizada para PCs con solo 8GB de RAM Hardware Premium",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTF9PN2o5MzJuV3MxN0RWeExwdjRQYVVHSFN2ODloWmRQZFVRcElIRUYya0JiOGZObUxPMGNGbUZVWkpBQ1R2ZHR4TEpIeW0yWl9RV24tUVk5eUlSQ1ZqRmNkTWxFbThpVHBVek1UQnRqRXV4dU5QUDMyT3ZLaTNwdW40am5WN0pUSHF0T3V4YjQzZlk?oc=5",
+        "date": "2026-08-01T20:00:00+00:00",
+        "source": "Hardware Premium"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital",
+        "description": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital Pan American Health Organization (PAHO)",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXc0NTJ3VVV2blNuemNIWmdUQ3JqVEpDM2hNbmNrRk1Uc2xiV1RwelpFV0dkMU03ZVh5NVpmOUhzdHcwOFpqbTh3ZUpxN2hNRzZ5dDZrR29VcDdqUnI1OUdHU3N3MDNhVm9fb09zYXNVOW5VeDNKN2h6ZFhxekpJNlFwQmNLM045Mkl6Ylh6OVYyeTZaSUN6OWZmY1dUNXJZY1BfYVM3Tm1GWHppempqaVBidzc4UW02?oc=5",
+        "date": "2026-07-31T19:00:00+00:00",
+        "source": "Pan American Health Organization (PAHO)"
+      },
+      {
+        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 13",
+        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 13 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNdkpwVkxzMzVRMlhGMHBDRUF3Y1RXOWZ0RDZqeHRKZzV2VXZHSzNJTi1kZGVuOXZQTHh1WGJJcURUOVVIU1NaZTkyQUtIN0VxTXdDZXhlRGQwUmtadjE1bmo3QWVFbmpSalpncWlBNHI1U082LUV4VVppVVBCX3VReVdFaFdRQmh2Q1p5WWFueWQ4UVVzTWlfSmhUQlB1TXl1LUNWUFdWTEZjSF9jOUplWUNldFVVQlZOOGtBTkk1b2xsWUV3cS1nVDFIOEJ4WkNRMFZScVJLam1YRXY4SGlaN2M0dWtmV2R5OTFjRk92b05EcEhIWGZwODljMWluOHRtOUJSOUc5TkJTQktiVHNNNnBXbUM2ZmxfN2JpSE9UaDZKZDcxNjk4UlhYUEU?oc=5",
+        "date": "2026-08-01T12:14:39+00:00",
+        "source": "ArchDaily"
+      },
+      {
+        "title": "Cambios en las carreras de Comunicación: qué buscan hoy las empresas",
+        "description": "Cambios en las carreras de Comunicación: qué buscan hoy las empresas Cenital",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjdwSEljMklQa0dBc2tlNGVya2NjaXhOMWtGMXNpNXJlZXBTblFOY2NOV0ZISFNIMnd2U3FGam00R1NTcmk2bUxYbW9YSmVyYlY1N3VhLVRDYWwzUE9kWkVRZ2ZGRGkxXzVodGJQQVBWcERudXI4b1Q4alpNcm44bWRUOGpqZ3RfYjBkX3B5SmFidw?oc=5",
+        "date": "2026-07-29T19:00:50+00:00",
+        "source": "Cenital"
+      },
+      {
+        "title": "Aprender. Google lanza 12 cursos gratuitos en agosto: cuáles son y cómo inscribirse",
+        "description": "Aprender. Google lanza 12 cursos gratuitos en agosto: cuáles son y cómo inscribirse La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV2k2bEdHOUZTaEoyaEFuYUdYaTV5RHp0WmNpblNrOThjVGZDWU1tTkE5dDVicndLNWtObFZrbWw5WjFFMTNDU0hjWE90YlFzUHJIZVFQSUpWZU1pM2RKeHBhNXh3UEp4Q25oaWREYkZqX1RUc3pLcGpsTTJXQVVPang1cHo5dFlNUUVueDQwaUtJbUVEY3VEenpaWDBiemFWMG5LZDJrckQ?oc=5",
+        "date": "2026-08-01T21:58:57+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "Google lanzó 12 cursos gratuitos online para capacitarse en habilidades digitales - El Objetivo",
+        "description": "Google lanzó 12 cursos gratuitos online para capacitarse en habilidades digitales El Objetivo - Medio de comunicación digital",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVF2XzJRdWJoRTdScFFYWktWYjIxWTBrMElPQk9Od3JtRVJESW9LMm1EQUdQZ0ZZY1U1OFBRMnE1TFBOeWNDYTdmYkVBTkQtNGhJb0YwWjJDS1g4YWFQUVE4MnNrODBzSTM2M04zR0dtRy1HbDNHcm1IdHVRdHZyMXlLYjRNSUh5SDkteUhaU0pTUFdyWThxMEUyMUVCUWNrdW40b3VQb1RPbzNDdkFEdzVuYTJ2VXZKWjhBOWJVVHI?oc=5",
+        "date": "2026-08-02T00:50:57+00:00",
+        "source": "El Objetivo - Medio de comunicación digital"
+      },
+      {
+        "title": "Marketing digital: capacitación para emprendedores",
+        "description": "Marketing digital: capacitación para emprendedores Diario El 9 de Julio",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95aWVLejJ4eldlN2pzOERSN0lsRVBGQWp1dUNSSThoY21rZXhhM1JQZFcwWGN5bVhKRndmbGZMQWF0LXVrMlJfZnZpMzU5TG1Bc0xCcnFqa1B5aHo3a3hN?oc=5",
+        "date": "2026-07-26T13:39:31+00:00",
+        "source": "Diario El 9 de Julio"
+      },
+      {
+        "title": "OPS alerta sobre el marketing digital de sucedáneos y pide reforzar la protección de la lactancia materna",
+        "description": "OPS alerta sobre el marketing digital de sucedáneos y pide reforzar la protección de la lactancia materna consultorsalud.com.mx",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOSDRhTGtlbHhCNERxSVdjb1FsZmJvMnpPMU9nRnpUdTNyOUNMc1JkRUwtYnFZelpPZVQtY1Z5NEh3R3VFb0JzVTNzQUdnWDI4RkJVQ1pIdUFMRDdZUDJnSlA1eWhJX2dpSEZpY0xITHZrTDBKLUJySW53?oc=5",
+        "date": "2026-07-31T19:46:42+00:00",
+        "source": "consultorsalud.com.mx"
+      }
+    ],
+    "IA": [
+      {
+        "title": "En 1988 anticipó inteligencia artificial de nivel humano en 2028, pero nadie le creyó: Hans Moravec y sus otras predicciones incómodas",
+        "description": "En 1988 anticipó inteligencia artificial de nivel humano en 2028, pero nadie le creyó: Hans Moravec y sus otras predicciones incómodas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQaGdiSHVVOS1VUVlNamhSYlBKUndQM1J1UTlfcWJCVlZXQXRsUjMtbzZxQ2R1NkpEelV5NDZ6TURxc3Nkd0MyU0hTWnN0S0N2aUQ3VUd6TDhPZUFsV2daZDY5bEYwcEdSbFp1emdTTzhDNFNMdHdsR2E5bFRhRlNSTmVVeW1jYmh4Vlg1T3ZKYUJZSFFIZktja0hwNXVRdHFBRE1sRXNkeEd3Q3R1SUJaSjJSU24wb0xyRHRIbFBvQTJsdjZ4a1d6dW56eVJmRElRaWZOS29STjAxeXhjalNYNnhMWHNBVGtNMmExVWk2Uy1udlNvZHppRnlqRHZqUnlJamwtUkRtSHhETWJlZ1B2Y9IBqwJBVV95cUxOeld2enE2Z0ZzYlhHSmR5WVZpNGoyelBaZ0NBcXJ3b3hUcDlURHlCMXkwbURSLXI0VXZDOGkxbUNuRHNnYUdrTFBPbUdNWXEzNXg3OU1uNU1zMklYVHVwU3BrT2JaT2U1NFEzZFlicTNCLUVjVE1uLUxia0RUdlFPUXNCVFVzWURlNEZVU3luZTdBSkZaaTNWbVhkNmU5NGRBSVJCYWVyZUpkbVNOUWRqeW1IYjdDdEswYXo5SXhtOTE5cDl1UEw0X21MYWhRYmdGQVNleTNJcFdJWm1KTnpQNkJUTVFZZWM0MUQwMGNZMFQ4dmRVOXlMR3EtUXBkSjdpV0FMaXZDODJYSUJRZGktRUJWdnppb3U3SXd3aGQ1OGE4R3JSdm52WU9paw?oc=5",
+        "date": "2026-07-31T18:54:02+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Las cuatro grandes consultoras cobran por enseñar a usar la IA con responsabilidad: sus propios informes tienen citas inventadas",
+        "description": "Las cuatro grandes consultoras cobran por enseñar a usar la IA con responsabilidad: sus propios informes tienen citas inventadas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSnZ2SlJmVFhSZG9lLXF0N1BwZVh3bWNWNjhDVURiaGR1djFaQ3RIT19qVmQ0eDgtMDFjZDJ0dWY1LXctNlBkM1hQYXNyYV9rM2x4dW9CZEQ0MVVSRVFTRlFfQjFKNGtNZjRDQmQ3eGtmOHIxZjY1ZVR3bFZmTHQyQTZxS1FZcDE5Vmp6YVR6cHVvRTY0VXhfR1loTzhQNHZTR2xydExJQkduQmQ5eDBBOWNub3JhR1lNOHZBT1pRalhSbWZ5VlJjQzNra29UVDhVbTBPTDROTkxKUGJkU0ZqckNXc1Jfb3Npb0RQMG5JQTJYRjZYZlRQNktwTDIxcEtXR2ZoTk1MTlAtUdIBpAJBVV95cUxNV1hGRWZTa3dlNXBwNHVrVmQ1Z05hN2tJMUZtb3NsVFBVYmI1cFQwSm4zTENud3VFMlBCUWNVUUk3QTdha0UwNFd1UUx3TzE2ZXZXVzIwclF0RnRSVkRja3EwX0E1dWJ2eVd5TU5zcExlY1otRlVXa19xY3FJWThrLWVXMFNIbWtMUVlqOEc5RGhkQUxnOGVId0hjZktBTjhuMVJUS0NlUzRFNmxzSThSYl9rOTBDV05JS2VYSTJyckNEZl94ZUtHX1NLcmdCYnM4enN1N1o5VWNqcEIyZDFZckU4bHlUVjJ4NjA3d0RwMEozanhXbmt4bl9qVEpGU091cERHZVh3N0t0YUUyRnpZbzgzNEZpY2trR0wtSV8wdEV1YTJH?oc=5",
+        "date": "2026-08-02T22:11:22+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Un fantasma recorre la inteligencia artificial",
+        "description": "Un fantasma recorre la inteligencia artificial Página|12",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTU2am02RzlTcURraDN3OW40VG1fWktaTnNndXdqTm9IdkVZZUVQbGNIUDdzZEFSNmFtU0xVdVlsb0ZPdFVha0FzdW54T0dtUEpUYThhdk51OXNVUVYwTFlGYkcySTlhLUxvZXJzaXJadk52VXRjRGUxWVJRRnA1VzdiSXlnX2tYeWZrYVVzZw?oc=5",
+        "date": "2026-08-01T23:01:00+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Jensen Huang, CEO de Nvidia: \"La próxima demanda sin precedentes de empleo será de oficios como electricistas, trabajadores de la construcción y fontaneros\"",
+        "description": "Jensen Huang, CEO de Nvidia: \"La próxima demanda sin precedentes de empleo será de oficios como electricistas, trabajadores de la construcción y fontaneros\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWFZWOGx2NGpveUo4WDFlcWdDMk16MjIya3NPX3MzTFljZVZ5WGs1SUxMaXRHV1hKQ1dmQi02eHFzbWpCV3NyV201RXo3WEEzTlNWU0p6RVlYRlJ3ZVVKNDkwM1RKTnl0M1U1UmsxZXBST0ZHbDM2dVlrdHZsR0o2d09LSm5Udko3VWc5SnI2TDBrLXlFX2U3UVh5b3ZrR3VmV3J4Rm5id0pHNm9xUktrWGRTUWx1QkhScUhkRjBKMDVrT2ZEbUZ2MTJNbEZMcDkxWDhYRzVHWnBrVVlNTU9VRkotMFlUMkVmVzUtdkJuRC1nR1dwRlRBVmxCb3hOa0xjLUJj0gGIAkFVX3lxTE1McG9wbHN4MnZOeFA5Q0NabWhfZG1XWGJLWUx2WFp2SmswWkFhbHVSSkZNVl9RNVE4V3Rzd0RoN1NMTlV4WGdEMXphZzVDNFMtNzhsMmdRU0ptaVFGRXpEVHlUZ1lZcE43VUJBS3dGWFNlX1JicEFpVXZFLUx3LVkyb090VzZnTWEwMDN1eFBSZUlLbHJkRmVsSXZobEpGZXBPWDM4M2Nsc09nTE9pbVd5Y2haamU1LTVMWGpOSWxWc3hULS1HU09waHdmUXpQakZnQmxVbGtKSms0dlBRN2xGdV9ZRmgxWWFKRXpaT1cxZ1dZY3lMS0x2TzFYUUhlMW1EMy13T0lFMA?oc=5",
+        "date": "2026-08-02T12:43:01+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Retinar: la inteligencia artificial desarrollada por investigadores del CONICET que busca prevenir la pérdida visual en personas con diabetes",
+        "description": "Retinar: la inteligencia artificial desarrollada por investigadores del CONICET que busca prevenir la pérdida visual en personas con diabetes CONICET",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNanozRDRjS1pPdHlkaTNVdG9WUFBOdXFLN3pSTjFOZkZIRTVzb0hxQlluRHczay1RLU5TczRIY19HSU12VEFKWmdNNUwxb3JiSERpZHNHdHZzZDJJODBIbUxKcDl0Mm1UY3B4VV9IdEtvM1JuZll2b0F0YmxjZWJfdHJtblRmRzByRnNJaWZVQkhhOUlvSVI1elcwemdOT3RZVWg3LUMybDRWU1BWMS0tRkNJOFhMVmFsS3QwQXNkcnRPQkN6RXhzZk1mclpyZUZhaVF5THkyTldvMzNvU2RFbk9ndFJ1WWVoTUxpNDRlcklfcDJtWEMyUWZJdnQ?oc=5",
+        "date": "2026-07-31T13:05:33+00:00",
+        "source": "CONICET"
+      },
+      {
+        "title": "Cuáles son los tres signos con “más suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial",
+        "description": "Cuáles son los tres signos con “más suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWRRa0ItSmJWeEpyb1N0MGwwTXJPcU5vaWZCRFI0WEtZc0NPM21vaW13ZTBsQUZJQlZtdDRmOGlGWEFUdlBPckFJaG1obHh2WUpZdE95Z3JOa08yTklBQUdHMXc3V1FNQ1VTdnFtNWF4WHpHWmE5dldKcEcwWldVeXl3NXZIRi0xNEhaOVc0OG9jMV9pMWxORGZyREVlQXl2Q2NtQjFlQ0owOV9FLXF0ZXBFM3Rodk1DMjlBMlZmZ1paQmdDT3FsV0ZqbEw4S2JQMGktcWgwT1EtS0g1aklvSXVKTQ?oc=5",
+        "date": "2026-08-02T16:30:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Los errores más riesgosos al usar Inteligencia Artificial en el trabajo y qué evitar",
+        "description": "Los errores más riesgosos al usar Inteligencia Artificial en el trabajo y qué evitar iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdTVoakdHc1lzcHNUQ3F5Q0RTMWxaMG53bUxrbzRwOVdlSkQ3N2hEQV9nQkd2SVRfQWtjZ1dPWVlsYV91b0xheF9nbDBybWVqZl9EenpETmlvZk5QQTlFa3J0X2FjQlRwa1pMakpyMmRGNTlPb3QyeFl6ODhubGs3VG5XYXJSbU5ySlp5M2phTFViZEw3UWtOd2xvSjdtcjlOLVdhOXRMNFJzd1cwTThxaWpNcTNYNHZPQ1V5bHFFTmRwaFVSM2Q4MlB3a9IB0AFBVV95cUxNX1l1U0dtV3VkUU9fMXRCb2hJSHUxUEw1V0k0WHU0cnA3MHRVaC0tYjZqcU5JelppT2kzaE9wY1pLak0xX1JZMEpqVC1TTWZBRE9VS3BYd1pFOWhvXzVzYklRck5MZTdaVnpBd0lHNS1kU3BOcTdlbV9MYWFYWU9iOTJvM3k3NDRzVTRvelM2ZTlodDItQWIzZWZJS0UxMHFKcmgwX2J1OGF1VllGV1lBNEkweWxTdXQ4M3RWWnA1a3pmc1QxcVBiWmxfS1FSUU1W?oc=5",
+        "date": "2026-07-30T16:12:00+00:00",
+        "source": "iProfesional"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas",
+        "description": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV1JROEhRaVk2LXRwelVBcUV0VHlQOTFUM2otczMyT3huWGRvMm5WSjI5UmRXSTJTOXJ1QnZNOWFFSzQ0ZU1wWTI3WndvNFg5VXJtWGkxYmpjZHI3QWxWUXh1YTlsY1RZRkhjZk8yNEh0VE9lWGtrdWdaTHpncVEyNHh6R2pSNUljV0d2cnVOb2x1Z200OEZRa2JaZTFLTmdLNmRjdmtFWjZBdDJUZGpIam13TV93ZDdidzJsRjl4QkV3OUtETTU2Qm83T2tiN0ZJQ1lxUmtVcEV3Y3VYY2RMN3ZvcEZqeUxUeDFSQ1pMNXo2bDhL0gGPAkFVX3lxTFByWEEwZkk0Vl9sVW9kME1nRnV1bmh4dC1UOHVNYklvTHZQZVAtaDdKUllJRWJfQTJYY1dkRklvLW1yemFmaEw3RVZpOV9IWDU4TTNaeWRzSTVHMDZzbWJfcHA4bm92aUdaRThQbkZpMWdaM1ZuemcyOHdTbzNaU0l0a1Fra2VoUU81bFpEdlNUMER5QjNsVXFLU3NCWWdLM190LXNaRmtId1ZmQU13OF9GRmN0MFBsTWZlNG9MNlNkQjdqQTdVUDJFbkY4Wlh4QzBMdWRIM3JaOGhnZ1UxVzN6aUhoblYzdTNfVGszTUVmcjEyVjNFN0MxMUZJR3RtQnFTSTU2RG5jYXFnQ2dDdEk?oc=5",
+        "date": "2026-08-02T19:49:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Alerta Vaca Muerta por ciberataque que puso a prueba seguridad de mayor oleoducto del país",
+        "description": "Alerta Vaca Muerta por ciberataque que puso a prueba seguridad de mayor oleoducto del país iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdQSW9aV1htU1N6WUVqdEdaSmJEV0NJcS1yTXJGZlZnbVhzWl9sbDBka0FqZGRjQjJwUi1meERHenhoMEdWUFVRNjM4cEdpRU1qOVA2VFZkNV9mSG54NHdTMThvd3Zlbnd2YXZMcS1LS2tPbnZrbjBwQTNqcW92dWtWQktTSzhma1VSa0Z2YTZnTmNVb1l1NWZ4M0szQ3hxWldBQTlZOE1jVUtDOFdlaGhSYXlQLWVVdE5jREFqb0ZBZEVSaDQ2bdIBzgFBVV95cUxNTDVEd3BMU2phTHpDc0ZNczlzX0cyVGdkMmZ3VFg3UHRmSzl5N3Zackl4V18zRl9XQktzU2FTaFVIRURTRnl5R2ozR0l4NElWUWNlS2ZCZ0UzOXA5YXJsU2s3cFJ6MkNJQzR6aUdHSG9LYUZUT3JHeVROcjZwNXh5d2pwLWMyM18tSkphcmVHVHRJc19jdzJTQkh1ZGNvcmluTkR3LW9JVldIZzBnZG1QLTFuelhVcHM3TWw1Z1lsa1FDRVhCLVYxWFBmeFBwQQ?oc=5",
+        "date": "2026-07-31T20:31:00+00:00",
+        "source": "iProfesional"
+      },
+      {
+        "title": "Ciberataque a Oldelval: Sin interrupción en Vaca Muerta",
+        "description": "Ciberataque a Oldelval: Sin interrupción en Vaca Muerta LA17",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUZFSjVFbi1NSlk1b3dBS1JZV1FGXzNXdnJZRmpZS0xqc1ZBYVc1MXdIVUxHYWRBMHMzanBKeTFoTkU0bHQ5VTduM2h1OWdidkZpQVJqYlVzVVNOdVQ3NkpSY1gya21FZWw3cHptSlMxbDI2RENyYWc2OE9rQS1kdUhOMzgtN3VuWEpieWNfYVczd1ZYUzBNZzRJdTFQaDlHaDRlZERETUZKWUpvRDBkck41ZTRTajB3U05Rdw?oc=5",
+        "date": "2026-08-02T21:00:00+00:00",
+        "source": "LA17"
+      },
+      {
+        "title": "Vaca Muerta empuja una fuerte mejora en la producción y las exportaciones de petróleo, pero las ventas de naftas bajan",
+        "description": "Vaca Muerta empuja una fuerte mejora en la producción y las exportaciones de petróleo, pero las ventas de naftas bajan Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzRsX1picXVuaW5oZDYwdmRlVW9FZmZLQ29FYm52bVJZS0IwUzlic3lVczFEV1Z4UHpFTTV1dWtqRDBjVHI2elBkYWVTR0lYWi1wRkVOYmo5S2xENEZwdkJ3b0IyNGFZejdWZlRjYWVVaGFrVXYtOEc0T29NdlE0U09HUzNtTHUzeW1YTzNoZkhwa3FVenQ4RW40b0VCTmdpRzVibW1ITEgxSXRtS2pXak1DTDhWX3Qwbjl4NlVndm9ENjV2Y3FxYUZBR016dVllNFE?oc=5",
+        "date": "2026-08-02T09:01:17+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Kristalina en Vaca Muerta",
+        "description": "Kristalina en Vaca Muerta Página|12",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MazhPblhkbXdGOERQSUdXUFhYcWpTTTZQOUZ2bmJjZ1VTWXQwRHJjRkpOcjNPdjhuWlpTUzVWY1E0YWJGdTF5Nk1EUkxLVHRzQmhWYWIycUZMUzRQcE4zY0hHMU5OYlZGeHMxckxpdUtKUDA?oc=5",
+        "date": "2026-07-31T23:01:00+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas",
+        "description": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORURWLVFxLWIyc3pYQWF2dmVIQzR2T0h2WWQ4OVlvNTZ1d1MzTFE0b2hzTHJKZFIyWnJnZzdnbTFYb1gwd01Ha05XRkFCYmw5NjVaeU9DUl9NWVI3XzJaZXBUbEktUFEwZUlLY0Nia1l6ZFBTQkVnb3E4S0hCcEdwUFlxUTdlcW5rM3E1cl83MEtaVUJ5NnA5ZzlFWVNYOUlnaEZOSk5zYi1PcW5SZjV5eTZjSVhKdm5wU3ZVaWtGM0YwOVFZY1JNYU84Z2JsOE02ZnJZOWdkVm85bC1oUFAxN1ZJYXpxNzhMbGxwajNWOW5GWk1DLW5KZFplUdIBlgJBVV95cUxNdHNDb0ZxaUNLZ1J2V3lZUUwxclZZLWpZV1lZZjZWYTVYVjdFM0tvNXBNM3NCNFFhWGVrVEcwSUt0OGNvV0RXVlh6Y2xjN25HN0h1czRjOEtkQy1QVzVtTFMwTnN1Y0hrS1VOd0I4bjRfRWh3akt6YWp1Z0FEd29WWVZCVlBGeThodWJhLWpTTVdJTHI5OGRHR2FuOGt0Y1BOckl4bHAzckszRHVfdkotbU5JcHVHVlFCT25Ga25PVDBXTUZFMVVsdzAteG9GQUVwY0FwcDYzdjY2OWpKckV0QVdhdEY1eDdncVBpbEhhemV6dHh5MFZCZUsxaVphLVNUN3ZsTDVfTkltXzFIdkQ2dkJNWHV2Zw?oc=5",
+        "date": "2026-08-02T04:29:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Vaca Muerta no alcanza para crear empleos sin políticas acompañantes",
+        "description": "Vaca Muerta no alcanza para crear empleos sin políticas acompañantes Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM2ZvWHdfM3BEbk5Ga2w4bFFMZy1DeFdycXVVTFU0d093dnU4M0kwTXpvOHJvdVUxeEVsQ3c3eks4RG9UZVZjMzFnZVczVV83RDJGWkJ1QU5COFdrQnRabXVVUENHWEJIaTBySzU3YXBvMjJmTDFhb1R4UGh2X1ZweXlSSVNQaDZNUDhWd1JIY1Fyb21PeUVtVnRfNVdEYXEyQm5mV0hoTllFbVE1QkZuSk5sOWcxUkQ2VEg3RUVpU1pUS3psZ08wMjRmSzk4aEhFVVFMang5S2U?oc=5",
+        "date": "2026-08-02T04:53:00+00:00",
+        "source": "Diario El Día de La Plata"
+      }
+    ]
   }
 }
