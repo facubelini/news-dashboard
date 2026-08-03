@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-03T13:35:50Z",
+  "updated_at": "2026-08-03T16:17:47Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Microsoft se une y Broadcom sale de la lista de acciones favoritas de Goldman",
+        "description": "Microsoft se une y Broadcom sale de la lista de acciones favoritas de Goldman Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0kwSnBHZlVYck96NGd1Z2hpa2JsUk94ZTZlb3NIS1N4TU1mOWpKZDJfMHNBSFBTQ0lHb3E4VW1wNTFEcjRiQW80Q3FUczZGbjNLLU1xazFiNnJBMjN4RXBJeE9lam9xYk8wZDM5dEFINDBuYXV5WWJHUDRib1Y3RUptWGZVOU84LV9KRTBfbHdTYXdOZ20wMlBoclgxamE0d3VvMkgxTzdZMmtURXFFN0MweDhCNmtlRG5LRlZCQmJiWXJkN3lyeWtrbER4dw?oc=5",
+        "date": "2026-08-03T10:30:00+00:00",
+        "source": "Investing.com España"
+      },
       {
         "title": "Un malware oculto en Word puede engañar a la IA de Microsoft para alterar tus documentos en secreto",
         "description": "Un malware oculto en Word puede engañar a la IA de Microsoft para alterar tus documentos en secreto Infobae",
@@ -15,6 +22,13 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVW5QSmRRRllHRjVHRWFldE5wVkFwaFJxN2UtdnV6VUJUNk81M2RXWjd3bnBnRmZSNU5qRFpkX1RXd0lRWDdlaVQ4MGcxT2p4UC1JY2RpNXlTUnQ4Yjk5cjJUR25Fd1c0bHVRQ0ZnT2UtYTFWZFYxcVhndmE3YngwaW45MFRYOHlRM1Rzdm5vb1NERjdDWVJkaVo3X1RHRzJoamVLUldoNGJ2MW5pOTBWbzNTNDFiWXFEUEFYbk9jN3dOVGZseU1mdnUyWG3SAeABQVVfeXFMT2VQaEhFNFhyMWhQcFZrZVA2NkhZRDUwcmRUcGg5QWpnOXFvVV9ROV9peFoxYXQ0NHp0NVREbHRQUnZvVWlXdUhMaHpfZWp1WkxNQVFpU2FfQXJOZFZSLTZKZk0zTUFidVIyaHBWRGNsNkU1Q0Fub1oxWjhvWHI2QXhJQmR4dVRqaUJMdllHLXlDOHYzNFZuNHBWbTFGN0pGVG5udHVnV04yLWJrMV9ySTVBNWZ6THBPajhPUmFHTDZ3Q0l1eFB2dTJTVG9yRG42cmJHMGVLWmxuZEZJRnRuTi0?oc=5",
         "date": "2026-08-01T08:43:00+00:00",
         "source": "TN"
+      },
+      {
+        "title": "El CTO de Azure de Microsoft ha conseguido que Doom sea jugable… dentro de Microsoft Paint",
+        "description": "El CTO de Azure de Microsoft ha conseguido que Doom sea jugable… dentro de Microsoft Paint Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnNoeVhFMHgwUUVaNkF6bmNZYXpuRE5QQXcxQTRDRjYxbW4xYWVza2JIbHFJeUlkT1BXTnVGUWJlVnRtZ3F0UEI2MlpyMzhTUEJZWGZ5NnpaZi1xM3Rkd3hHTXloU1dIMko3c3BsbGVkVi1oMlM2ZVdCQUg1YVZBX1lkaElLU3FYQWc2MTFOdUktb0lnZ1YzUEhsMVBfVlBKeDFsOFk1bTdmTlpubThXRFJTS0pOQTFRSU02Q053TzRrM1Vxb0dOOUFXTmF6TzRV0gHWAUFVX3lxTE5udHp2MlpJYjN5Z01Tb0tfOVltQ0dQX0xhSm96X2hiNTg4MVZYZkRsMUJPVkRVcTdyYzNvdllWRExzOHNsYXE0RVMyNnpKZDEzellsX3M0b25CN0dpUWNhcnhRbXMzUUw5alNqVWNETGxmSm5MR3NNTDg1NDY3S21lRWlVMDNmUFQ0RTRhXzd0TVNfeVhPWkJjem11TTdaTWMtRjlLa2tCVGo1SXJRc2JQZURxelpONE1nRklETWN5OFlUc3g3NGtTenU3YWtVWVNWUWJ6RlE?oc=5",
+        "date": "2026-08-03T14:04:58+00:00",
+        "source": "Profesional Review"
       },
       {
         "title": "Apple acusó a Microsoft de robar el diseño del Mac, pero un viejo contrato firmado por ellos mismos le dio vía libre a Windows",
@@ -36,23 +50,16 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW15OVpyY1hHVVJUSFE2S1o2N2FoTlIybkJFc3lGSzVZUm9wZE54aFZmZUw4T1ZWZlBad2RESHpDTWRkLW1MaDNScTBfV3NBYXBtb080a3htWUtaRk9jeHBKVlk1WjVVWGdmU2JwN3ZhT0RzcDhzcnIycFNzVTB3eDg0Q1VYTkZZdjc5bDVRcklLRVVTbWVYQV9LY2RpMk5Fb2xRSVFtRDlGSUMwcnNWcXFJVmtVRFRGMkkzODc4V01nUdIBxwFBVV95cUxQODRpZHQwU29kb2lwb2pPNlZFN0RlbmQ3WEE2R2x1YVpMRnNqMVBBcEg3ZVNFZ2haS1h3QzduZUtqbFBFeHpERUE1dDF0S2lxdWJXUTRGOWZTd1hXZ3FnV2toZXhLd1pGNllmYTZSTktRdGlUeHZwd2l3U1ZRcDVxM0lYQ05yc2F5cVhEQi1WbEpudE0ySk9aMkhvT3htUWlHM0hITmVON2JoRnpWWDJ2WGZrSW85bTRQeVhOTTRtTXJXem01aVVN?oc=5",
         "date": "2026-08-03T09:55:00+00:00",
         "source": "Bolsamania"
-      },
-      {
-        "title": "Microsoft confirma que está reconstruyendo Windows 11 desde cero con WinUI 3, dejando atrás décadas de código antiguo",
-        "description": "Microsoft confirma que está reconstruyendo Windows 11 desde cero con WinUI 3, dejando atrás décadas de código antiguo Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZGtEcnNBeGdIaU5POWg0V3p4dVpyd3ZZZVdaWEMxZ1dueWdmaDhGSWptYktycDRLNjhjQ01kVGNlcF9fRlJaUFhBOW10OG9odUxrdkpZOWtKSG5rZFh0a0ktdDdCcmswSTdfb1ZEU1E5bFVGdTZjZjNHQUZJSzh2cE11M3o2ZEduSVpubnZWSWhXTlM0dHZGTW1OVkI4QW91NGJwZnB5Z0Q2X2Zyd3g5dUNQZ2ktb0ZYaVhxT1ZaUkxQV1R3Tjkxa3BUQXlmN25pVHNIZUI5R2Y1czJpbGRFUG4tVXh2bFkyTmZjQ1VVRUlzMnNB0gH6AUFVX3lxTFA0N2JKZmJ3czlfa1N6bTdOdlpxSFBGYTkyU0V2WmpqVVd4bl9ScldYYjI4czI2MGZwVFJPZU9YNXY1QWFkVEJ3T2Y3VVZHN0QxSXE5cldITjFPTU15ejg2MG9Bc21jMnlRY25qWDhrel9iYnlCV2ZRZ1M4UTV4NTBaUzVmUHYwZjVZT2lYZ0x3YnhNbC1QUm5seUViZ2ZXOWpKX0g3YUZWdkFram1QUW9tYXFGdlNhREcxYXAxR1cyZkIya1ZfRV9UTDVlOUE0WGFnbTdXdHFCNS1NUVRVRmh3cExhNVRTeHdITUpRUmVBWlQ1cm9ySkxFTGc?oc=5",
-        "date": "2026-07-31T09:32:53+00:00",
-        "source": "Profesional Review"
-      },
-      {
-        "title": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace",
-        "description": "Office EU: qué es, qué incluye y cuánto va a costar la alternativa europea a Microsoft 365 y Google Workspace Xataka",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXN0SW44RU0yTVoxbUlHNDlUUVdWX0VkNE5nVVQ2UWN5c1Bsc2c3aU1rSkE3YWlyWG9wOEFMd2lIMEEwNVdxNWY4TWVuOXM1b1YzVWlheVkyQ3c0Q3JjV1huN1JXOVF6OF8ybGJwNWw2T09yc3RoWVZVa3ZXdXo4NVRjY2xhV3FOWG9vOEhtdnIxTXB6S1dyY2JhaDg1NG1RZ1Iyc2N2TDBjSVFiQXlDZ3FRY1RHVnVqaUFSdjlYUnhNeVM3c0HSAcsBQVVfeXFMTkswRksxczNCRUpQMUp0YmNGV3BNWVVIZE5IeHBQMm9EajVpWmhYR3k0ZFlrYVotRzVTRTRVenpob1EwMFZSY01OUlFtRUhZZXVrVWI5ZlJWQmtpSHZ5eTNQMndrVXVfZFkxeE9rOXZYQ2lQLVR2MEVoMG5zRDlQY2xJdlUxWTQ4RVc4NGU1TFNqNUtZTGI1MVBBMF95Y0NxLXRXWXRNVUNKdVpJZUcyckdXcHYwN1lIVG9uS0RaWWJMUDhvWEJLTUVsTkk?oc=5",
-        "date": "2026-06-09T07:00:00+00:00",
-        "source": "Xataka"
       }
     ],
     "Marketing": [
+      {
+        "title": "Piden mayores medidas de protección contra el marketing digital que socava la lactancia materna",
+        "description": "Piden mayores medidas de protección contra el marketing digital que socava la lactancia materna Consenso Salud",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzVEcnc0cHZ0aWlfdGphM2lfOVBGbTh6MEVLTWpGYjJUV2MwdEJySkFYa0VmTXVWSkF0eDlaM2ZycjdJNkliT2tzU21NZjlVRlhJTlNJcU1GbHpZb05XUlhTN1NSajNEUWt3Q1htQmZoNTdDelRrQ0dEaDRaVTVNbGEyT1dIdzFjTTFRNmM4WXR2S1pFaEhzMkJIRy03dTN3aWQyS1hybjdNdlY1a0wxNzNVeUlxdHR6djR2SWtKWmNORWs?oc=5",
+        "date": "2026-08-03T14:00:33+00:00",
+        "source": "Consenso Salud"
+      },
       {
         "title": "La batalla por la lactancia ahora se libra en las redes sociales",
         "description": "La batalla por la lactancia ahora se libra en las redes sociales Comercio y Justicia",
@@ -90,40 +97,40 @@
       },
       {
         "title": "Marketing digital: capacitación para emprendedores",
-        "description": "Marketing digital: capacitación para emprendedores Diario El 9 de Julio",
+        "description": "Marketing digital: capacitación para emprendedores diarioel9dejulio.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95aWVLejJ4eldlN2pzOERSN0lsRVBGQWp1dUNSSThoY21rZXhhM1JQZFcwWGN5bVhKRndmbGZMQWF0LXVrMlJfZnZpMzU5TG1Bc0xCcnFqa1B5aHo3a3hN?oc=5",
         "date": "2026-07-26T13:39:31+00:00",
-        "source": "Diario El 9 de Julio"
-      },
-      {
-        "title": "Google lanzó 12 cursos gratuitos online para capacitarse en habilidades digitales - El Objetivo",
-        "description": "Google lanzó 12 cursos gratuitos online para capacitarse en habilidades digitales El Objetivo - Medio de comunicación digital",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVF2XzJRdWJoRTdScFFYWktWYjIxWTBrMElPQk9Od3JtRVJESW9LMm1EQUdQZ0ZZY1U1OFBRMnE1TFBOeWNDYTdmYkVBTkQtNGhJb0YwWjJDS1g4YWFQUVE4MnNrODBzSTM2M04zR0dtRy1HbDNHcm1IdHVRdHZyMXlLYjRNSUh5SDkteUhaU0pTUFdyWThxMEUyMUVCUWNrdW40b3VQb1RPbzNDdkFEdzVuYTJ2VXZKWjhBOWJVVHI?oc=5",
-        "date": "2026-08-02T00:50:57+00:00",
-        "source": "El Objetivo - Medio de comunicación digital"
+        "source": "diarioel9dejulio.com.ar"
       }
     ],
     "IA": [
       {
-        "title": "Crecen las alarmas por el avance de la IA: nuevo incidente de seguridad y un pedido urgente de más de 200 expertos",
-        "description": "Crecen las alarmas por el avance de la IA: nuevo incidente de seguridad y un pedido urgente de más de 200 expertos Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd0VJQjBSd0VnQmZhRkpkTFcyMFBXVTNneWkxLWZ4bEd2R3RlZEZDbnRJMVNoTmpzWHljRGc1MFdGS3dqSHJLQXBocGV0SGMzbU00OHJFMldrek1ISkx4MzFqejRITzM4dFRJUEhfeVdoanNVRlp2ZnZ1aHJGMEhVX2tPSGIxV252OHFGc3VCOThMRno3WXFZNUxpUjJhc2ExZWt4a05uUXZVcUYtRE5TU3NHSFdLYXh6NzJBRFJKUU41OElGVjRIeUln0gHPAUFVX3lxTE1xaGMyVmV4em5TS1YxV09ybTBHUEltUXpoMUI4dWFzMktKVnVhdEFwZmlQY1hTczhLbFVud2hIbFJKZ2JDTDd3SGg4Y09pWW5iTlpnRjVGNVRNdlNLNmpzb0doYUdvcVJ3azJ1cW01Z2JzRmtUMm5NN25ETHI4WlBnME5Ic19pYnVrWWthaFQ4Q3phZ0VNamNsaGkwRkhzX0RrMS1NN2R4SXRNdm5VS2ZHY1hKZXV1a01jb1JyUjlvaGllTjh0cjJOb2hSREhibw?oc=5",
-        "date": "2026-08-03T08:45:30+00:00",
-        "source": "Clarin.com"
+        "title": "Un fantasma recorre la inteligencia artificial",
+        "description": "Un fantasma recorre la inteligencia artificial Página|12",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTU2am02RzlTcURraDN3OW40VG1fWktaTnNndXdqTm9IdkVZZUVQbGNIUDdzZEFSNmFtU0xVdVlsb0ZPdFVha0FzdW54T0dtUEpUYThhdk51OXNVUVYwTFlGYkcySTlhLUxvZXJzaXJadk52VXRjRGUxWVJRRnA1VzdiSXlnX2tYeWZrYVVzZw?oc=5",
+        "date": "2026-08-01T23:01:00+00:00",
+        "source": "Página|12"
       },
       {
-        "title": "Un análisis de sangre podría detectar el cáncer de hígado en etapas tempranas: así funciona con ayuda de IA",
-        "description": "Un análisis de sangre podría detectar el cáncer de hígado en etapas tempranas: así funciona con ayuda de IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMzNfclpMb0JsWVdRSTQ1TjVSMl9VdkdLaXJQcGpMeTBfbHJnVTRSREZGbG1HQ2lYVHF4dThZcmpaTzBpa2tuNWJIdkJTNXFJdE1wWkVJMEhFQmNuWUx3YjNnNmtqZHl2cS1nbEp5bndtQjZyNEVlSU9HTURqV1RmVm1iTWtnVGpiQWVIT3VXTm1kMDhqVjBmN1Vod0VXSkxOS0N4X091dmNJZWhzU0UxdU9WSENwb2NkVFh6N0V1QjE2S1hRSVc4RkhmYU5fYlhzZ2lsYlRVMWNfa1JvUnMwSlFVQk1Yc1VQUGlPStIBhwJBVV95cUxPZThjOUJsdE9WRmRrV1YtendPU1JaQkZpeGM0MWQyaVV6d3A2QjJPZnp1NWNSbXhHcElCQ25mRFRaWWxrTHlSbFJSQkpoazU1emtEZ3VJN1RhcEFoRmExc3ExOGpXSGx0WkcxMFk4VVVkRnNwVGoxQVhXLWtnODBEbVhITUN3UEtzc0Zta0pBdFotR2gxd1NwV0dXMVRKMFpaRmxJRzhfWWxlVEQzS3RWckZpNXhnenJ3Sm9TRGJld1hLaVlyZ3FrS2dxSTU2cEd3aVc4dHN0LTdXZWVDNXJaTzVjLWhzcHlSYUdhNlY0a3FCMmwtQkJjREYzd1NERWhob2tNS1kyUQ?oc=5",
-        "date": "2026-08-03T06:00:00+00:00",
+        "title": "La Unión Europea pone en marcha nuevas medidas para regular la inteligencia artificial",
+        "description": "La Unión Europea pone en marcha nuevas medidas para regular la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONjRPLTNObXBrdnJRNWJVRDgxcUNyeGtURks4WDM1YUlvaWpZbnJEMUJIQTBybzMyaE9fckdoWEU5b1RwUXNlT2NXQ1NESUxMdVFIelZ5MGk4eXJJQzczd3pLazV1S05xdTZWWEtNcnRldTBIbTgwNHlWRE9JUGdpblprdEgzRUFKQlFNVzh3WWxzRGphbG1CcXZfZ3hSM2xkbVE5ZVgxVV84ei1SUi0yZHpyNjBVbzB1TmoxVW9kU0c4VDQtUmlJNnpOUlNzUndrcGduTA?oc=5",
+        "date": "2026-08-03T15:23:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "La inteligencia artificial permitió mapear por primera vez la expansión global de las algas marinas",
+        "description": "La inteligencia artificial permitió mapear por primera vez la expansión global de las algas marinas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSGlDa0NuZnFNRUVGYW84bXphSW01NTJLd1lkMGhWOUtLLWpRWjA2aS14UnVqTnhoR08xWUFtUklmeFoyb2lTRjRWWmtnd3hIaEt6OUo4MEhsbEhReUtIV1ExQW9mZlVaRGt5T2NjRF9fYktqbEwtRDBzRzhLblVGdTFpTU84elhYbG95aVBTRlZlNl9adUVzbnY3R182UVJ3M3h0ai1ucnRmRlI5V05mN3gzRHZIcTFNRFNhV0FQNzN0am9kdlVGU1JpZThSYmM5WUM2bjlUVGh2dEFxYTlyTkdNTTNXSl8zSWZ3VzhOONIBigJBVV95cUxPQ09kWFYtNFF3aUxLRmpYYkVHN283VmlRZG1QRmsxRVJfZVVaWHFxRnF0TWdpR2Z5dTFuTHhmY09ZSU5wUUlTLVM4a3FTSmowSVhaalB0eGdzY2Q4WXMzbnpIRE1HN0lZNVFkYjRGUHc2NU5XQ20xYjZ4NU50ckxTY05xWDBOYlBzZHI2bFZsLVJEa2o0ai00bUExeWY0TEx0QUx4Y3h3dC1vRnNkVWZMMEh5cFNzelhZSU9NVFowT2ZtaGRTTkpzeEVvanRLeTJUOTZudWNrR25BOEwyTFFWNlF4UmFyWWxjS1cwTnZpXzBjUFRDdHc1RDZrSXI4bkxVc2JFMm1qZHVpdw?oc=5",
+        "date": "2026-08-03T16:15:47+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Cuáles son los tres signos con “más suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial",
-        "description": "Cuáles son los tres signos con “más suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWRRa0ItSmJWeEpyb1N0MGwwTXJPcU5vaWZCRFI0WEtZc0NPM21vaW13ZTBsQUZJQlZtdDRmOGlGWEFUdlBPckFJaG1obHh2WUpZdE95Z3JOa08yTklBQUdHMXc3V1FNQ1VTdnFtNWF4WHpHWmE5dldKcEcwWldVeXl3NXZIRi0xNEhaOVc0OG9jMV9pMWxORGZyREVlQXl2Q2NtQjFlQ0owOV9FLXF0ZXBFM3Rodk1DMjlBMlZmZ1paQmdDT3FsV0ZqbEw4S2JQMGktcWgwT1EtS0g1aklvSXVKTQ?oc=5",
-        "date": "2026-08-03T10:18:00+00:00",
-        "source": "La Nación"
+        "title": "Iglesias en Asia: La IA debe poner a las personas y el bien común en el centro",
+        "description": "Iglesias en Asia: La IA debe poner a las personas y el bien común en el centro Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV3VrVnpjRkw1WDNWRHNmc0w5dzVwZFVHV3JmTjktbS1LQzRTYWZPYkF3amkwWDF4Tl9Xd0o5cWl3MWR6SWJuaFFwLS1RdFNoTTE4VjEybjJOclJJbXJRNlZLd1pmQzVnaHBUd3BLcmNnUTVfQXpRZHJNaHhWNlUyT2JDTW1tbHBVclNtLTVEbUw3OUFlYTNTWWh6OFFoZkJRd3RmVGNGdkVOZWdqc01FZ2tUMklIUEY3N1E?oc=5",
+        "date": "2026-08-03T16:06:30+00:00",
+        "source": "Vatican News"
       },
       {
         "title": "¿Quién detendrá los asaltos de la inteligencia artificial?",
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQkFEWW9SbENvUDN6YW1JbjRzSUFEUWxEV0lPQXltRzgwZFVCaGhQV2FwSFByMk5KT0FkLV9qay1KZXQyczJjbUFvN2l4dHg0SU1Sam9kOGtYRnd2X0R2bFVCem5OTVJUbjFqeWNkbTdfRVktWDMybWNTc29RR2NLZW1SUDhPZ3J5WVQ0VXlRRHlqUEhBLW9LVFdLc2kzTzlvbXhnbTBWcm5mSzNDWjlNTXhGanNIU0w5bkhUSzcxUkxBakE?oc=5",
         "date": "2026-08-02T17:35:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Un fantasma recorre la inteligencia artificial",
-        "description": "Un fantasma recorre la inteligencia artificial Página|12",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTU2am02RzlTcURraDN3OW40VG1fWktaTnNndXdqTm9IdkVZZUVQbGNIUDdzZEFSNmFtU0xVdVlsb0ZPdFVha0FzdW54T0dtUEpUYThhdk51OXNVUVYwTFlGYkcySTlhLUxvZXJzaXJadk52VXRjRGUxWVJRRnA1VzdiSXlnX2tYeWZrYVVzZw?oc=5",
-        "date": "2026-08-01T23:01:00+00:00",
-        "source": "Página|12"
       }
     ],
     "Vaca Muerta": [
@@ -163,9 +163,9 @@
         "source": "Infobae"
       },
       {
-        "title": "Ciberataque en Vaca Muerta: hackearon los sistemas de Oldelval. ¿Qué pasó con los oleoductos?",
-        "description": "Ciberataque en Vaca Muerta: hackearon los sistemas de Oldelval. ¿Qué pasó con los oleoductos? Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON2xFdVpXWHdPU256bW1DeVk3cHV3ZFZ3VnpPVThfd29PczhIRVY0ZkE0UnZDNzJnYVFEN0tkU2QxSXExbmJyeEQxTGRCZnFhWFpneGpVY1FZQlhzU19WT01qTTF5aUpkbTVQOHBFYWcyNzduSDVxZ1ROOXdfSllqeTVHUTBNU1g3ek43WWswSEJDNGlIcFEtelo4cW1PZGVTdDI1eDQtQlVRN1A3X283NXdHLTk1VXJkN2hxNDFTZElzNmJTN3fSAcsBQVVfeXFMT2k5X2V0YjEtMnVBb0RjMndYdzJjcXZkNU16SEtkbnpBcWh0ajF3ZGdENmtPZk1iUkZDUGhsYjQ1N2gwTXdMZTc0c09UYVhiQlJlUnVVWTBTRTloalJBbUpvMld6QzdKV3dzaGlnUWZUQU4wY3Z4YmQ1dk02UGRidXRUZUNURkNlU3B6UG1iRi1FUmZBckRYNkhXNG1DdGljSjVsU0tENklUNmR6d2pzRU9rbkVRZzlJbmdLSjNGbWxWaVZJNlBqZndVUkE?oc=5",
+        "title": "Ciberataque en Vaca Muerta: ¿Qué pasó con los oleoductos de Oldelval?",
+        "description": "Ciberataque en Vaca Muerta: ¿Qué pasó con los oleoductos de Oldelval? Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDNwcU12RmdYWW4zSkdQcDYxelRTSUdwajdrWVVPaFJCTTJNdXU2bEhBY04tN3JqLUEzOVl3RzA3aVVDUlFSWVI1NFpSVlgzalllUXZuT1d4QXFISzMzWUxuRXpSQjRLeVV6NHhMd0pnVGl6V01vQnZ1d09PejlrcGZPMzZNYUxoZ1M2VHlYMVk1aC1uZEdJNW1hVlpHbGItRGcwNURSWdIBrAFBVV95cUxQaHlFT1p5Q0d2WTViYjJWT0tBNTBKUm03RHotSUpEckNHLXJHNE91d3JQRkF5Vzl0aERFN0JYTl82TUpFeWt0TndHc0l0cUptYTRQVzU1MHpzTUZ2V1pyYlNWeUEyVFRBdTZockxLb3NxR0ZQcFBlOGhKNFNDU24yaGRNTklUQmtqdjhER1pFaW92SE5adVB4VlNWNGp4ZmdqaUlKX0JRSzdXMFZ6?oc=5",
         "date": "2026-08-03T11:21:00+00:00",
         "source": "Lmneuquen.com"
       },
@@ -184,25 +184,25 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Vaca Muerta necesitará hasta 8 millones de toneladas de arena en 2027: el desafío logístico que enfrenta la industria",
-        "description": "Vaca Muerta necesitará hasta 8 millones de toneladas de arena en 2027: el desafío logístico que enfrenta la industria econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0xXLWJ2cE5MZ1JiUmg3aFZWemtKZHU1d2hiVXZBVHVoQmlWQnlxRW5Xc19FVFp3ME9TQUgwR2otTTVPeTBPTG9MX1hES1JObWRIYmpZc1hjVnNZZmtOU2tHWkl6cE9kQ3RPWHRxX25GOEJGclFCUzcxUm12aUxJZWF5bFdURUtWX1FVX2ljODZBeGZZUEtLbWxlcWZXNzhTTEhybEhPeHQwLWt0?oc=5",
-        "date": "2026-07-31T14:54:27+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Vaca Muerta: denuncian que hay más personas intoxicadas por la desregulación del gas de Javier Milei",
-        "description": "Vaca Muerta: denuncian que hay más personas intoxicadas por la desregulación del gas de Javier Milei Letra P",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDNraEs0Z3plclIyMDVQYUsxbFBjMDRfanQyWVFKS2RNSGtpOGdpcmlWTk5uLW1ZT0VCZzJVNlV1UGdHeWtUaFVrdWxuX2I5U0otbXFDNkdocDB2elhrUGNOZ2VkTVJNOS1pbXNIVmI5SWFtbFNEUWRMbjdwMFlKYzJkMFpnb181ZFF4MHloN3pNQkxHcHFGT3JOMllEdUlGTGNIUnFEMWd6Ym9tSy0wdC1wSldvUmxES0hTcTJLNXUwelpIY1JMU3pCR0hXTHBIcUHSAdcBQVVfeXFMTjYtU0dxYkpRdUtpOHVMdkhzbTN2dzNDQVJVUEZ3a0xGM0w1X2dQX0l5bFpEWU5ueTViWE03ZW94c2ZSTlhvWmpvNWg1YlRKQjZ0eUdzQ1FCQUUzLTdPUHdPSWttRzZIbF80VFppR1hFQnBMSE5MOWhPQkdTd2NQc0dkWENqY01ITFhuTFdVY2hvM2FkYmZSUG4yYm9PWlNodFpKSlVuZDAyTk5abzZqaUprMEJSeXFGZmN4cHR3YTM3WkJaTjl1UG5meHdjTmhld043dS1VVmM?oc=5",
-        "date": "2026-08-01T22:54:00+00:00",
-        "source": "Letra P"
-      },
-      {
         "title": "Kristalina en Vaca Muerta",
         "description": "Kristalina en Vaca Muerta Página|12",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MazhPblhkbXdGOERQSUdXUFhYcWpTTTZQOUZ2bmJjZ1VTWXQwRHJjRkpOcjNPdjhuWlpTUzVWY1E0YWJGdTF5Nk1EUkxLVHRzQmhWYWIycUZMUzRQcE4zY0hHMU5OYlZGeHMxckxpdUtKUDA?oc=5",
         "date": "2026-07-31T23:01:00+00:00",
         "source": "Página|12"
+      },
+      {
+        "title": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas",
+        "description": "Georgieva pidió que Vaca Muerta impulse la economía real: qué se necesita para lograr un efecto derrame, según los analistas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORURWLVFxLWIyc3pYQWF2dmVIQzR2T0h2WWQ4OVlvNTZ1d1MzTFE0b2hzTHJKZFIyWnJnZzdnbTFYb1gwd01Ha05XRkFCYmw5NjVaeU9DUl9NWVI3XzJaZXBUbEktUFEwZUlLY0Nia1l6ZFBTQkVnb3E4S0hCcEdwUFlxUTdlcW5rM3E1cl83MEtaVUJ5NnA5ZzlFWVNYOUlnaEZOSk5zYi1PcW5SZjV5eTZjSVhKdm5wU3ZVaWtGM0YwOVFZY1JNYU84Z2JsOE02ZnJZOWdkVm85bC1oUFAxN1ZJYXpxNzhMbGxwajNWOW5GWk1DLW5KZFplUdIBlgJBVV95cUxNdHNDb0ZxaUNLZ1J2V3lZUUwxclZZLWpZV1lZZjZWYTVYVjdFM0tvNXBNM3NCNFFhWGVrVEcwSUt0OGNvV0RXVlh6Y2xjN25HN0h1czRjOEtkQy1QVzVtTFMwTnN1Y0hrS1VOd0I4bjRfRWh3akt6YWp1Z0FEd29WWVZCVlBGeThodWJhLWpTTVdJTHI5OGRHR2FuOGt0Y1BOckl4bHAzckszRHVfdkotbU5JcHVHVlFCT25Ga25PVDBXTUZFMVVsdzAteG9GQUVwY0FwcDYzdjY2OWpKckV0QVdhdEY1eDdncVBpbEhhemV6dHh5MFZCZUsxaVphLVNUN3ZsTDVfTkltXzFIdkQ2dkJNWHV2Zw?oc=5",
+        "date": "2026-08-02T04:29:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Georgieva en Vaca Muerta: la deuda, el petróleo y los límites del modelo de Milei",
+        "description": "Georgieva en Vaca Muerta: la deuda, el petróleo y los límites del modelo de Milei ADNSUR",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTHVvM1FmWlc5aklvM3pLUnNpRUFPdnNHd0tqVmFXbUwzUG1idERZZDhwQUM5RjRRSjBWUTJfQy1zeExobERiUnlZWFZCVU5nNjlKNERxc3pJNGtTU3VnaTIxaEpiRkpUa3pKb1ctOXVGbU16MkxaOXQ3T2Nkb2t6azhpRHFCX1FUcHNtMUd3RWl0cWhPWjNHWGx6T1A5N094Q1ZjYlBUOGhlZVkwb1ZnM25LM2ZOdjBTd0VINEJNbWxaOWJmWHVSRFBkdmJST2liUnFRdnEwaE9qdw?oc=5",
+        "date": "2026-08-01T12:16:00+00:00",
+        "source": "ADNSUR"
       }
     ]
   }
