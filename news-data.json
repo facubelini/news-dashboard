@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-03T20:22:34Z",
+  "updated_at": "2026-08-03T22:02:48Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "¿Por qué sube hoy la acción de Microsoft?",
+        "description": "¿Por qué sube hoy la acción de Microsoft? Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXRZbHF4YUZYc1hVOXhzSG1hNmJZN2h4SGRxSmgxZ0ZYd1l2OE94c0RYaEoyb1RUQWNzTzFoSWdCV2U3cVMxVFZYSWVVR2I1RDJ4Tm54UWIza2kyTTkyNHRoOXlGMnM0OE80NlRjdG9weEF3aDlIaDQ4ZS0wUlliWGJON1U1RlN4NThmUzlsLXhCeVRGX3FzczgySGpBWVN4WVE?oc=5",
+        "date": "2026-08-03T11:57:00+00:00",
+        "source": "Investing.com España"
+      },
       {
         "title": "Durante 20 años la solución a un Windows lento fue comprar más RAM. Microsoft admite que ahora le toca a él resolverlo",
         "description": "Durante 20 años la solución a un Windows lento fue comprar más RAM. Microsoft admite que ahora le toca a él resolverlo Xataka",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSncxYU9XMGlKSmlEczIxMzhBa3E2aElyQWpLY1RwXzlBbGM5dmN3dnNWWUhmVFpoQnRLeG8wNnBQaWU0R3NsMndHQk1iblBKU1pTTDBEYzMtT0t6cDlOMF9SWW05N2hpQ1pXd0g1WWpnYU5KV05pUjNBeFRwZ1F5MmpSUkJTaG51TnFaQzlkWFI1SXJPZ1MwTUgyYWEyUk02bVlESlI2Yk5feE9FNW1GTDJjLURZVDVnM1BBLThDUi1BcXdPY2VJbUlRQV9rQ3ViOVBwLVlMTdIB3AFBVV95cUxQbmIwRWNVdTlIbXRWVXBVV1RQYWs4bGp0Uy1uU3lMdmcwbFNzdUhHTnlZSDZfNXdCSlZhSHBLOHJqU3ZqdVo0ZEJnanhUZmItYnVfdDZscW9QMWk0bUN1bjY3amhaYm03bWJCQ2h6MnpnWXZkRzVrUWd6aTZpaVRCai02d3o2VHpELWtHVVZFYm4yMzN5V3R5Zlhfb25OYkFUWkZvRFpMT0FnRWVTUVhUZjlTTFFndFBmZ190YWdqc1NoZ3BUVzhHZTNqM0E0c2dvOXMxYTdESmlZZEZu?oc=5",
         "date": "2026-08-03T16:31:43+00:00",
         "source": "Xataka"
-      },
-      {
-        "title": "Microsoft se une y Broadcom sale de la lista de acciones favoritas de Goldman",
-        "description": "Microsoft se une y Broadcom sale de la lista de acciones favoritas de Goldman Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0kwSnBHZlVYck96NGd1Z2hpa2JsUk94ZTZlb3NIS1N4TU1mOWpKZDJfMHNBSFBTQ0lHb3E4VW1wNTFEcjRiQW80Q3FUczZGbjNLLU1xazFiNnJBMjN4RXBJeE9lam9xYk8wZDM5dEFINDBuYXV5WWJHUDRib1Y3RUptWGZVOU84LV9KRTBfbHdTYXdOZ20wMlBoclgxamE0d3VvMkgxTzdZMmtURXFFN0MweDhCNmtlRG5LRlZCQmJiWXJkN3lyeWtrbER4dw?oc=5",
-        "date": "2026-08-03T10:30:00+00:00",
-        "source": "Investing.com España"
       },
       {
         "title": "Microsoft Office: la poco recordada “infidelidad” del programa, en el día de su cumpleaños - TN",
@@ -97,20 +97,13 @@
       },
       {
         "title": "Marketing digital: capacitación para emprendedores",
-        "description": "Marketing digital: capacitación para emprendedores Diario El 9 de Julio",
+        "description": "Marketing digital: capacitación para emprendedores diarioel9dejulio.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95aWVLejJ4eldlN2pzOERSN0lsRVBGQWp1dUNSSThoY21rZXhhM1JQZFcwWGN5bVhKRndmbGZMQWF0LXVrMlJfZnZpMzU5TG1Bc0xCcnFqa1B5aHo3a3hN?oc=5",
         "date": "2026-07-26T13:39:31+00:00",
-        "source": "Diario El 9 de Julio"
+        "source": "diarioel9dejulio.com.ar"
       }
     ],
     "IA": [
-      {
-        "title": "Un fantasma recorre la inteligencia artificial",
-        "description": "Un fantasma recorre la inteligencia artificial Página|12",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTU2am02RzlTcURraDN3OW40VG1fWktaTnNndXdqTm9IdkVZZUVQbGNIUDdzZEFSNmFtU0xVdVlsb0ZPdFVha0FzdW54T0dtUEpUYThhdk51OXNVUVYwTFlGYkcySTlhLUxvZXJzaXJadk52VXRjRGUxWVJRRnA1VzdiSXlnX2tYeWZrYVVzZw?oc=5",
-        "date": "2026-08-01T23:01:00+00:00",
-        "source": "Página|12"
-      },
       {
         "title": "¿El fin de los deberes? La inteligencia artificial obliga a repensar las tareas para el hogar",
         "description": "¿El fin de los deberes? La inteligencia artificial obliga a repensar las tareas para el hogar Infobae",
@@ -119,11 +112,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Europa obliga a etiquetar contenidos de IA: multas de hasta 15 millones de euros para infractores",
-        "description": "Europa obliga a etiquetar contenidos de IA: multas de hasta 15 millones de euros para infractores La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXBpcUppNnlqUDhkNV8wUEUwZEZoOTlGUFBfQ2h4bFhwckhYcHFIcWdnRmFBekxxTWRWazExVWN2Z1dpdy1vYWNlVVNTWkI2X2pNc1ViZy0xRVhObHhjdjkyQmZPdWluSzNyUGd3dTdqSWxHY1QxMlRBZXpPT2l2S0RNRUFMaTNMZl9xam4xN3lvZWRROWM2NTlPNEtlcjNlWVRMbGczVTdKNzdPMDNPdTFFRlNQb1NOa0pXTFRMVzU?oc=5",
-        "date": "2026-08-03T18:57:58+00:00",
-        "source": "La Voz del Interior"
+        "title": "Las fábricas del futuro ya existen: así están cambiando la infraestructura para la Inteligencia Artificial",
+        "description": "Las fábricas del futuro ya existen: así están cambiando la infraestructura para la Inteligencia Artificial Impacto TIC",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRGlZTXV2TTRFQzVGN1VQSGN0dG9zMlp2LXQwSUxNYlYtamFxeDlITnBmQklpZFBESGxXREVXeENxdUxzeEhTMWRrbXdlcDV2NEpuNlVNM3o0dXcwZlBlSEVFS0pxd0RvWGxXMElMZlcxNGs5c0xDWXRVY3FSMktKM3dSTmR2Ty1mWXViMjR3?oc=5",
+        "date": "2026-08-03T20:31:24+00:00",
+        "source": "Impacto TIC"
+      },
+      {
+        "title": "Un ministro clave de Kicillof dijo que la IA le diagnosticó a Milei un “delirio persecutorio”",
+        "description": "Un ministro clave de Kicillof dijo que la IA le diagnosticó a Milei un “delirio persecutorio” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdnAzRVNBTHZJU0NiOFJzaXhHTXJEeEw4MlBlWDlsdnVsSndzSk9haFNDeV9oSVdiLTZITG5zZDhYQTdaU2NoOHNzQkVPZk9UcUQxV3pVOW5OY0U4T2FOa0MtdFhlbm10RWdRejlqN1V0dmtOMWxxSXI3dU9UdXcxYUI5QnI4a29uNGFJa09UV3BXdGx6U245ZlczY3JXWFM0ZVh3Z19iR0lfMHpUR1hzX2RwX0JfYlZnZktBbl9ON3dHbktObDdyUDVDRUViRnNmeko2S1JCRXo?oc=5",
+        "date": "2026-08-03T21:15:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "¿Quién detendrá los asaltos de la inteligencia artificial?",
@@ -147,21 +147,14 @@
         "source": "La Nación"
       },
       {
-        "title": "Cuáles son los tres signos con “más suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial",
-        "description": "Cuáles son los tres signos con “más suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQWRRa0ItSmJWeEpyb1N0MGwwTXJPcU5vaWZCRFI0WEtZc0NPM21vaW13ZTBsQUZJQlZtdDRmOGlGWEFUdlBPckFJaG1obHh2WUpZdE95Z3JOa08yTklBQUdHMXc3V1FNQ1VTdnFtNWF4WHpHWmE5dldKcEcwWldVeXl3NXZIRi0xNEhaOVc0OG9jMV9pMWxORGZyREVlQXl2Q2NtQjFlQ0owOV9FLXF0ZXBFM3Rodk1DMjlBMlZmZ1paQmdDT3FsV0ZqbEw4S2JQMGktcWgwT1EtS0g1aklvSXVKTQ?oc=5",
-        "date": "2026-08-03T10:18:00+00:00",
-        "source": "La Nación"
+        "title": "Un fantasma recorre la inteligencia artificial",
+        "description": "Un fantasma recorre la inteligencia artificial Página|12",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTU2am02RzlTcURraDN3OW40VG1fWktaTnNndXdqTm9IdkVZZUVQbGNIUDdzZEFSNmFtU0xVdVlsb0ZPdFVha0FzdW54T0dtUEpUYThhdk51OXNVUVYwTFlGYkcySTlhLUxvZXJzaXJadk52VXRjRGUxWVJRRnA1VzdiSXlnX2tYeWZrYVVzZw?oc=5",
+        "date": "2026-08-01T22:25:49+00:00",
+        "source": "Página|12"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas",
-        "description": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV1JROEhRaVk2LXRwelVBcUV0VHlQOTFUM2otczMyT3huWGRvMm5WSjI5UmRXSTJTOXJ1QnZNOWFFSzQ0ZU1wWTI3WndvNFg5VXJtWGkxYmpjZHI3QWxWUXh1YTlsY1RZRkhjZk8yNEh0VE9lWGtrdWdaTHpncVEyNHh6R2pSNUljV0d2cnVOb2x1Z200OEZRa2JaZTFLTmdLNmRjdmtFWjZBdDJUZGpIam13TV93ZDdidzJsRjl4QkV3OUtETTU2Qm83T2tiN0ZJQ1lxUmtVcEV3Y3VYY2RMN3ZvcEZqeUxUeDFSQ1pMNXo2bDhL0gGPAkFVX3lxTFByWEEwZkk0Vl9sVW9kME1nRnV1bmh4dC1UOHVNYklvTHZQZVAtaDdKUllJRWJfQTJYY1dkRklvLW1yemFmaEw3RVZpOV9IWDU4TTNaeWRzSTVHMDZzbWJfcHA4bm92aUdaRThQbkZpMWdaM1ZuemcyOHdTbzNaU0l0a1Fra2VoUU81bFpEdlNUMER5QjNsVXFLU3NCWWdLM190LXNaRmtId1ZmQU13OF9GRmN0MFBsTWZlNG9MNlNkQjdqQTdVUDJFbkY4Wlh4QzBMdWRIM3JaOGhnZ1UxVzN6aUhoblYzdTNfVGszTUVmcjEyVjNFN0MxMUZJR3RtQnFTSTU2RG5jYXFnQ2dDdEk?oc=5",
-        "date": "2026-08-02T19:49:00+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "Ciberataque en Vaca Muerta: ¿Qué pasó con los oleoductos de Oldelval?",
         "description": "Ciberataque en Vaca Muerta: ¿Qué pasó con los oleoductos de Oldelval? Lmneuquen.com",
@@ -170,32 +163,25 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Alerta Vaca Muerta por ciberataque que puso a prueba seguridad de mayor oleoducto del país",
-        "description": "Alerta Vaca Muerta por ciberataque que puso a prueba seguridad de mayor oleoducto del país iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdQSW9aV1htU1N6WUVqdEdaSmJEV0NJcS1yTXJGZlZnbVhzWl9sbDBka0FqZGRjQjJwUi1meERHenhoMEdWUFVRNjM4cEdpRU1qOVA2VFZkNV9mSG54NHdTMThvd3Zlbnd2YXZMcS1LS2tPbnZrbjBwQTNqcW92dWtWQktTSzhma1VSa0Z2YTZnTmNVb1l1NWZ4M0szQ3hxWldBQTlZOE1jVUtDOFdlaGhSYXlQLWVVdE5jREFqb0ZBZEVSaDQ2bdIBzgFBVV95cUxNTDVEd3BMU2phTHpDc0ZNczlzX0cyVGdkMmZ3VFg3UHRmSzl5N3Zackl4V18zRl9XQktzU2FTaFVIRURTRnl5R2ozR0l4NElWUWNlS2ZCZ0UzOXA5YXJsU2s3cFJ6MkNJQzR6aUdHSG9LYUZUT3JHeVROcjZwNXh5d2pwLWMyM18tSkphcmVHVHRJc19jdzJTQkh1ZGNvcmluTkR3LW9JVldIZzBnZG1QLTFuelhVcHM3TWw1Z1lsa1FDRVhCLVYxWFBmeFBwQQ?oc=5",
-        "date": "2026-07-31T20:31:00+00:00",
-        "source": "iProfesional"
+        "title": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas",
+        "description": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV1JROEhRaVk2LXRwelVBcUV0VHlQOTFUM2otczMyT3huWGRvMm5WSjI5UmRXSTJTOXJ1QnZNOWFFSzQ0ZU1wWTI3WndvNFg5VXJtWGkxYmpjZHI3QWxWUXh1YTlsY1RZRkhjZk8yNEh0VE9lWGtrdWdaTHpncVEyNHh6R2pSNUljV0d2cnVOb2x1Z200OEZRa2JaZTFLTmdLNmRjdmtFWjZBdDJUZGpIam13TV93ZDdidzJsRjl4QkV3OUtETTU2Qm83T2tiN0ZJQ1lxUmtVcEV3Y3VYY2RMN3ZvcEZqeUxUeDFSQ1pMNXo2bDhL0gGPAkFVX3lxTFByWEEwZkk0Vl9sVW9kME1nRnV1bmh4dC1UOHVNYklvTHZQZVAtaDdKUllJRWJfQTJYY1dkRklvLW1yemFmaEw3RVZpOV9IWDU4TTNaeWRzSTVHMDZzbWJfcHA4bm92aUdaRThQbkZpMWdaM1ZuemcyOHdTbzNaU0l0a1Fra2VoUU81bFpEdlNUMER5QjNsVXFLU3NCWWdLM190LXNaRmtId1ZmQU13OF9GRmN0MFBsTWZlNG9MNlNkQjdqQTdVUDJFbkY4Wlh4QzBMdWRIM3JaOGhnZ1UxVzN6aUhoblYzdTNfVGszTUVmcjEyVjNFN0MxMUZJR3RtQnFTSTU2RG5jYXFnQ2dDdEk?oc=5",
+        "date": "2026-08-02T19:49:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta: los detalles del proyecto de Compañía Mega para ampliar la producción de líquidos de gas natural",
-        "description": "Vaca Muerta: los detalles del proyecto de Compañía Mega para ampliar la producción de líquidos de gas natural econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWN2MloydkRwRnV1WWt3d2d3RlUyWmlranRPRlNQLUIxRDQwbUxZMzNBZnUwMThLQm50ZmpPV09QbmRQa2hnWDNKallOMzRUSEJVRU1kNlM3bmlvNmpMa09QcVVRWHFLY0pxUjdId0pyVWZfWjdxZ0huZFFyRGY5ZUlfQm44eWhwSzRzb0FtNWNLblBkRFRGb1ZuSmRwZlBqTHNUcUJyLU9PR3duOXh6UXg2ZE1CZThQSlptN2NTRGFlVjJEZklGVmVVMDRQOVpPblE?oc=5",
-        "date": "2026-08-03T16:34:04+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Oldelval informó un ciberataque que no afectó el transporte de crudo",
+        "description": "Oldelval informó un ciberataque que no afectó el transporte de crudo Vaca Muerta News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1pZU0NrN0ZXNHBmclJ6cmF0cUMwWTNIVEJBMXp3ekx6STdsZ2p3dmE3SEJISV8ySTZld3FjN2FfczBzRFVPY3NlbUs2S3djOFBuNTFhQmVESlduS3ZLREZvTThDR0g3LWpQNUpWVERxcXluVTFHWUJMd2l2U0l2dUFkUFptd1BpbFBMSlpyaDY0WGE5SG56Z1lfbWc1QWN5aG5sM1NHMllyVmFCOGw40gGmAUFVX3lxTE5uX2tBLWlfWHN6WXN2TWYyVzdZVFVza0ZPMDZLc0ZOVUt6T1dzdHV4NXBWM1FBdVE0WWhIM1R1TVlaMFVMY0VzSXVnX0JzN1B4dndud1o2S3VTYzhOYW8zelNsalBxUnBOQmhHeGRycmdRV0ZaaFk4SzV3U3A5TkpxUTBJUjN4SGtVSV8tWnRGMUNLZU1FQnlkdnI0V2I5N1Z0d29QSEE?oc=5",
+        "date": "2026-08-03T10:14:52+00:00",
+        "source": "Vaca Muerta News"
       },
       {
-        "title": "El Gobierno aprobó otros dos RIGI para industrializar el gas de Vaca Muerta, bajar los costos del campo y exportar a Brasil",
-        "description": "El Gobierno aprobó otros dos RIGI para industrializar el gas de Vaca Muerta, bajar los costos del campo y exportar a Brasil Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDZoSjJWdklCeGtmS1lON0tuY29NQXRDR240ZmJUOWhYUHJZN3o0U2NSMHMtYzJWX2lxalhyR25ST3JwcEN3djFVOXBtVXU0OXZvUjVpbTl3RHl4dEk3Vmk0Ukd1d2Uya0J0YVBPYU5QN1h6bkIzOG8wQWtHUkk3ZGNERjUwSFRQenhrdDUzcGUydHFaY2ZfUHZGSGhPZGNmV2tIbFFOaFZoRC1RWFlFMzg0ZWowdlRTV1lDZXg3N1EtVzRUcjNHTENJc216azBKS3c?oc=5",
-        "date": "2026-07-31T19:12:25+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Bahía Blanca: Compañía Mega amplía su producción con una inversión de USD 260 millones",
-        "description": "Bahía Blanca: Compañía Mega amplía su producción con una inversión de USD 260 millones Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT1pTYVNhcFNHQjBZZzg1WFh2REtBbjJyb1JaQzNkLV9NMVVtdUxmTmxsNWdvMi1xU1RlQ1JBVnRyam01RUptTHpjWE56bHFndU9Fcl9pTGFxX241RS1aUnF5TDd4YVRneVdOTmxEWWVjaUEzb0gzNF9qdW5WS1FwNG9sTXpZNlJYd29haXF5Wmp6U3N4YUFCay1UeExSemxZTnM0ZkZYdl9YQjVHTXU5ZTZUcV9meG81bVdVelNsV0lVaDNwdmdVdWc5RWlxQ0hxcTQtenpFZzlWMEdPWGR4aUd1OC1SRGVjQ0RfeGRrWQ?oc=5",
-        "date": "2026-08-02T13:16:00+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "Descubren una mina de oro digital en Vaca Muerta: IA y el Bitcoin",
+        "description": "Descubren una mina de oro digital en Vaca Muerta: IA y el Bitcoin iProUP",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUllLS3J0cVVzZTNuYzBBOXV1dzB2cHhZX0ZyWUotdlZNLWlGUnVMQnNzbHY2OUhtenpjbFUyZTFGVzJvOFY4X0ZhU1Zvd2F6MS1rbDliUkZWdWJpYWVXZTNrYk5iSkdVY01jWTRRTUdBQlI0WGNaeW5ldFltaTZ4dnF6RkdaUFlUQnU4YzVtZ1JsZENoeXZpY0x3WmxwWlBEbjlrSWE1WFBPZm9wRDVGeUExT08yYkVyUlpTRXhlSdIBxAFBVV95cUxNMHFua2lVdkcwc3hiTDZ2ZFN4dUExT2NQWGFIelF3bnVmYzRhdGNEbVZCb2xNYmVrVUhfdVF1a1B5YWZRSEc0Qjg0YU9BdXB4bERkMGVaWUV0MEZ1c01BaWFibDJRalBSN2JyT21WREtpMldBNXItSG9KOWVvdlRXNFl6NHNmMGg5UXR1RHZSU19RVWJDcUNqWkpEcG9yMGtLd2FFcUg5MEdaM3NyNXR5OG4wTmR1bGJnczB5bHBEaHc0Ti0t?oc=5",
+        "date": "2026-08-02T06:50:25+00:00",
+        "source": "iProUP"
       },
       {
         "title": "Vaca Muerta empuja una fuerte mejora en la producción y las exportaciones de petróleo, pero las ventas de naftas bajan",
@@ -203,6 +189,20 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzRsX1picXVuaW5oZDYwdmRlVW9FZmZLQ29FYm52bVJZS0IwUzlic3lVczFEV1Z4UHpFTTV1dWtqRDBjVHI2elBkYWVTR0lYWi1wRkVOYmo5S2xENEZwdkJ3b0IyNGFZejdWZlRjYWVVaGFrVXYtOEc0T29NdlE0U09HUzNtTHUzeW1YTzNoZkhwa3FVenQ4RW40b0VCTmdpRzVibW1ITEgxSXRtS2pXak1DTDhWX3Qwbjl4NlVndm9ENjV2Y3FxYUZBR016dVllNFE?oc=5",
         "date": "2026-08-02T09:01:17+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Vaca Muerta mirando al norte: ya produce allí 80.000 barriles diarios de petróleo, más que Santa Cruz, Mendoza y Río Negro",
+        "description": "Vaca Muerta mirando al norte: ya produce allí 80.000 barriles diarios de petróleo, más que Santa Cruz, Mendoza y Río Negro Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZDJuOHpib3RuWW5rNEhuUkpKdjRONVQ0bHBxZ0IwNk9oSUZBbGRkNzVVYVdzeXkyVEoyUmJZNThZZ3VIZi1SVjZiYTlFVzVFZFMxZ281X3I2R3NTQ09GczhhOW5SX0E0a3lhZkNROE1KTms0ME55WC1TRWhEUlVhQS1ROWgyLXZtNjRJU0hjTWlXNHRmejdDOG1zQm9pM3ViN1hyZEhfMlZqWkhnUXdTbmJmWWlqOVdHZXRDYWFMWHZyY1dpbUZVblRUcWV2NzRKWVFDeHhqMFUzQmdoRUdMb2ZpZWFkWGhaRVFSNnhKcUdvZE4zUlHSAZACQVVfeXFMTm5MY1FXeFk1OVNHeDVJNWQ2RjZwdS1EQk4zWFotYy1KbHRMakN0T29fY0E0T1JXcHhKTGRKSm1iSWJFZkNKeVpTczNsM1g2NWFoVTFIMHNRZ1BLTlNySXVJajdZbDR0OUxFZXNLWE40MGRvMm1IT0IzVVdZN1J6andFcFIxeTJncGUwa050Z1FJLTA3c0l2TGd5ckhCUnFueGxpZ1phNWFEbnhpeEFMM1NfaUl6WlhPcUdlOEk5bzBKUVRac1FWczlWa2dBR0VsM2ltMTllbzZnWGk2UUpQVnUzbmhDN1c4S3RhSV8zdEotQ2FVelZsZ2Yzd2ptb1JfMWYwZ0ZiaWJHNnhHc0JZeG0?oc=5",
+        "date": "2026-08-03T06:58:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Vaca Muerta: los detalles del proyecto de Compañía Mega para ampliar la producción de líquidos de gas natural",
+        "description": "Vaca Muerta: los detalles del proyecto de Compañía Mega para ampliar la producción de líquidos de gas natural econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWN2MloydkRwRnV1WWt3d2d3RlUyWmlranRPRlNQLUIxRDQwbUxZMzNBZnUwMThLQm50ZmpPV09QbmRQa2hnWDNKallOMzRUSEJVRU1kNlM3bmlvNmpMa09QcVVRWHFLY0pxUjdId0pyVWZfWjdxZ0huZFFyRGY5ZUlfQm44eWhwSzRzb0FtNWNLblBkRFRGb1ZuSmRwZlBqTHNUcUJyLU9PR3duOXh6UXg2ZE1CZThQSlptN2NTRGFlVjJEZklGVmVVMDRQOVpPblE?oc=5",
+        "date": "2026-08-03T16:34:04+00:00",
+        "source": "econojournal.com.ar"
       }
     ]
   }
