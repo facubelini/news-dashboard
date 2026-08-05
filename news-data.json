@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T19:21:32Z",
+  "updated_at": "2026-08-05T21:01:55Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,27 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSncxYU9XMGlKSmlEczIxMzhBa3E2aElyQWpLY1RwXzlBbGM5dmN3dnNWWUhmVFpoQnRLeG8wNnBQaWU0R3NsMndHQk1iblBKU1pTTDBEYzMtT0t6cDlOMF9SWW05N2hpQ1pXd0g1WWpnYU5KV05pUjNBeFRwZ1F5MmpSUkJTaG51TnFaQzlkWFI1SXJPZ1MwTUgyYWEyUk02bVlESlI2Yk5feE9FNW1GTDJjLURZVDVnM1BBLThDUi1BcXdPY2VJbUlRQV9rQ3ViOVBwLVlMTdIB3AFBVV95cUxQbmIwRWNVdTlIbXRWVXBVV1RQYWs4bGp0Uy1uU3lMdmcwbFNzdUhHTnlZSDZfNXdCSlZhSHBLOHJqU3ZqdVo0ZEJnanhUZmItYnVfdDZscW9QMWk0bUN1bjY3amhaYm03bWJCQ2h6MnpnWXZkRzVrUWd6aTZpaVRCai02d3o2VHpELWtHVVZFYm4yMzN5V3R5Zlhfb25OYkFUWkZvRFpMT0FnRWVTUVhUZjlTTFFndFBmZ190YWdqc1NoZ3BUVzhHZTNqM0E0c2dvOXMxYTdESmlZZEZu?oc=5",
         "date": "2026-08-03T16:30:00+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Microsoft elimina la recomendación de 32 GB de RAM para Windows 11",
+        "description": "Microsoft elimina la recomendación de 32 GB de RAM para Windows 11 Noticias 3D",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlgzS05IbmtOTG9JcEttTGYzVUlsLWNxMVVhWjBjaVE0d3ZBTk9wN1JFWVFacm4zeTYzUVEyb2oxN3NlRHJhaVVQdEZTcU5TY2hEUjY2VHdUVmJzbEhuZHRwa1EyR1VVcjN5RTIxWFd6Y2VvMjk4eG9qY19UUHdmdTk4cw?oc=5",
+        "date": "2026-08-05T15:28:57+00:00",
+        "source": "Noticias 3D"
+      },
+      {
+        "title": "Microsoft explica por qué tarda tanto en modernizar Windows 11",
+        "description": "Microsoft explica por qué tarda tanto en modernizar Windows 11 MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1lVdmJBb090VlFyRjczU1YyNWV6QUlZa0dJdElOQWFrcm1YTHlKSWtQczBhbGQtWWlHcVFXMl9aN21GMWR6MHV5aGlWZUNWbVBPWTVRdFlsUm9uTXJzSEdhMG5CWC04ZzE2UnpqYVVaeF9yQkxabGJfcl91dWp6ZkdXVS0zOVZMeEg4RkNlRnc4VER2dmhnd01LQTllV2FKV1RHbg?oc=5",
+        "date": "2026-08-04T09:05:56+00:00",
+        "source": "MuyComputer"
+      },
+      {
+        "title": "Microsoft explica por qué es tan difícil eliminar el Panel de Control y avisa de cambios en el Editor del Registro",
+        "description": "Microsoft explica por qué es tan difícil eliminar el Panel de Control y avisa de cambios en el Editor del Registro Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNXNOWkJVNlQweWxDb19QenZxMEdudHFuVzNiTERWcllaejRNNVBPNmdoUWE0S3VvS0UxbXVST0ZtcjJwTnR2cXVVeUZkLUpPYXU4Vl9IM0h4ekFrQkpIMEdGRXVxV0NmdmNsdXNiLWR3OEZpM0hrSktReXZTbGt3ZEdZcnJtUlNFWUJ2Z1hVNDdJd1B3MlJPMFRvVXpjZXB5Y3p2SFhYWVNfM0JibDVoXzBaNndyTjdwZzRrdEZXTGRmWXpjODlTUWp2SVVlbThsYmE4ZFZILU1hNU1Yc1d0UnMzd3cwSk5KVGo1aHRuUmRKZ9IB9wFBVV95cUxPaEZWUUtVcXRNNDlpNElWam42dXJqdjdvXzBGN2t5bndQbXA3WlZRdkI3dk1pNlFMSGgwcWlSOGdnY2dmeEYtM1k2TUZtWlFCYjNkeW5udW03R0xqRld0TzBHbkpKZUNLMjlta01iNlU3bGQtNFFaQW1FUUpJYkhSUHpvMks2UnBjelY4c1p1QVEtY2RxbG0yeVN3cEN0SjhkWVczemtRaGtzZmVvSTdnZGpwMGVzRGJRbnMwQmhmdFdhT09Oa0h6QWhkRFpqWEVUbkNOM3M2MjlmbjRHZUVoTGE2YnRZWjQ1MkFVdl9adUVPLUFHNEZj?oc=5",
+        "date": "2026-08-04T11:14:34+00:00",
+        "source": "Profesional Review"
       },
       {
         "title": "Microsoft llevará los juegos de Xbox 360 a PC y a su próxima consola Helix",
@@ -29,27 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbk1wTGgxOTB3M3N1VnFhU1RuQkhSVmxyM3hTOHpFSlhPY3lNNmJXVzVmeHVNMmxVSlM3SW9aaDhEWXlWUWpucUJRc1oweGJFT3ZmLUdPU2h1eFdTNzA1X0k5cW9lRDNOZ1hKY3c3d2VlZ2ZoSzZUck1IbWpaY1QxbGZ5RVFZUXJDMDRYUzNOYURqLURkbFhXcUMyTmJJRWUxelNSRk9acnRzVjdBQkJqbmlLYWNqYVAyUVZsWHdVN2Y3d3VUcVotTG9FTmUzYWpYMzFEeHBScWh2ZHZTN2ZUNTNFSy1IU3BxVURoNmh3VXcyeDlfRXd2eG5Rd9IBjwJBVV95cUxQRWw1N0hSUjBVUE1hSkFtcnBWenFtX2g3TkU5N1kxRTNMVEo3cnpsaXFEWXE5YVJMemxLSEVXWGVyUG5CeWpwTzk3ME1NbGRjczR1ZkV0NkpKUndHRkhuSTBJUWhOV2pITkUtcERwOTh5dXJuSVYtbFBWUE1oM3c1ZElaaXdMa3FldDdTYTJCTU52SklHTWtVdzRraW1EMUoydDhqN3dGLTJBLUdqaGtnZklUWEMtR0d1OGoxbGQtTWRROHFvWmY2aHhEMmM4cG9JWjhSZ1ZwNEl3czhaZThJa1UwNENhaEkzNkhpYmdNa1JqandCUlA1NzhVbUtnX1hiUEpscEFHUGlZRTRzUm5Z?oc=5",
         "date": "2026-08-04T13:15:00+00:00",
         "source": "Diario AS"
-      },
-      {
-        "title": "Microsoft raciona los tokens",
-        "description": "Microsoft raciona los tokens RedUSERS",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFOUFGR0lPMGN4azdISTRrLTUwaUtJN1NMNG1EekZVamg5VWpCNWwxQWVUdF9nQl9LbEFNRHNvVUZCeWxEQ3FrOTlCV3RDWnpFVG9OM1pBcjY1NFBucF9iTjR5NGxLbE96R0hrZ1Y5cTM?oc=5",
-        "date": "2026-08-05T14:18:51+00:00",
-        "source": "RedUSERS"
-      },
-      {
-        "title": "Noticias de Israel y del mundo judío en español",
-        "description": "Noticias de Israel y del mundo judío en español Aurora Israel",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TTXJaT3dRMG1pVmk0cE5jV1VpZEE5Q2QxWnhqU2VHLUlCZHB2YmNFMXNmcmZGMmplVzdQR3ZSdi01MjNjaEgyT1YxVk05VDgzODlLMTU1X0I4VktoLXhXd3d1ckxjaFl6XzUtaFpkamY2X0ZjUFNPNQ?oc=5",
-        "date": "2026-08-05T13:09:12+00:00",
-        "source": "Aurora Israel"
-      },
-      {
-        "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
-        "description": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52Q1h5YUlJRlg0WS1GSml2UHdiOVhXY0M0M05MVWRmbV8zZTRqSjlnaFFMS3Z2T0JmOGgyaTBLS192Rmh6WHVmUk5PNkpiSHMzTTh6ZnJMeUI0d3lPSGY5WWpjZjRuTUViNlBnQWV1eTNQS0FkZVRN?oc=5",
-        "date": "2026-08-04T21:12:00+00:00",
-        "source": "Hipertextual"
       }
     ],
     "Marketing": [
@@ -90,10 +90,10 @@
       },
       {
         "title": "Llega a Buenos Aires una nueva edición del IAB Now",
-        "description": "Llega a Buenos Aires una nueva edición del IAB Now insiderlatam.com",
+        "description": "Llega a Buenos Aires una nueva edición del IAB Now Insider Latam",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbEFIelZqMVh6NHIwRTdLa0g3MGdUdTVCeG5ZMEt4UEExQW1EcG1Xc1hsa1JZeUVNQ3JuNVpocVRZODBBYVNxNTRhQWI2YTQ5M2N2anpYUmNRYmhrWEd3N3owNExLY3VLTjg3eVoxQy03MTRHNnEta3JXS1g0RUJEa09n?oc=5",
         "date": "2026-08-05T16:42:14+00:00",
-        "source": "insiderlatam.com"
+        "source": "Insider Latam"
       },
       {
         "title": "La batalla por la lactancia ahora se libra en las redes sociales",
@@ -119,11 +119,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Por qué algunos modelos de IA mienten y hacen trampa para alcanzar sus objetivos",
-        "description": "Por qué algunos modelos de IA mienten y hacen trampa para alcanzar sus objetivos La Nación",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZllLaDVLYTNwZGhydW1XdmdGYzBsUDIwSGoyR1lhNGRNSVZKMTF1RFVNZ19kMnBmeUVfbzRTOXRENC14MHZ3T2VXb0xGSi1PZmVmT3NPUW9FNUxmS3I5eTk0R3lZTngzc3BtMHF4WUNIVFlUd2FWNm56TjFZUnZ3UG10N19USkl4VFNxZHNIQ0ZReEdiVVRxXzRyaUtRMkZxMDVEeDM4NjE1NWVSN3Z3SjRfcU1jODJtVmxjSkN5QTR6Wk1NV0ZubkJrdEdzZw?oc=5",
-        "date": "2026-08-05T16:18:00+00:00",
-        "source": "La Nación"
+        "title": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real”",
+        "description": "Reino Unido eleva la alerta tras descubrir conductas peligrosas de la IA de Anthropic y OpenAI: “Es el primer engaño dirigido a una persona real” EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRDZJN2FackRfR3g3b296dFRPVTVFNmJ5TVhFLUV6UkVvenZfdWo2dldQTFNjc0NYb3BtZXhDVlZULVVDcllpbl92NTJZdF93V2I4YXltX0pPUzJhZmpmd2h2a3pOY1lPSHp5emxKb3JSdGY5dlhHVWNCZjJ4Y1N5UXlKYkZSdUlXZ1NQaTlhNXVDb1BfY1VXRmpuaE1zNlExeTZjUzJjOEQ4ZWM2b2Vpc1hBeFB5R2QtTDVSNHlfYW90aDNlc0RlRFNTVGtjLWlIc2hQT2h1a1JOZk5Cb2V1MUpZdFFGVFhsMDRWeTlfZ1VxQTFCUzRDelRybzZwbFBEMmdFbU5FZHpZZ3o4VEVoZnRNMUM0LUnSAasCQVVfeXFMUEhsWTkzUS1RVUpHaDQweTkzU25QdHVmYTFDSTZPc3Noam5fa216ektmZ1RUT2pJWlBzV0llaFV1YW4zZTNyZm41U1pnVTBlU1k5ZEdUNGIzdGZVbkV3bUhwVVQybWItYmRsVEplbnNSR3FWX3RhWUtHUzNneU5fSThTRVRiTUFXdWgxVXZxZllzTVd3aFdQbmJqUmtMcU1lcC0teHBaZGNfYTJsMXEzTnhFTjB1TE9NM0lPYWFvbnZnTnhRMkVhczdzd1R1c3F5Wmt1cVNRVUh4blhQZmxXNXdqcGkzN2daMUdYU2Z0cjI2TlB3ZndNSFI4Zm5RaVZBOFdXbXd3U2lrOHE0cl9va0k3Mi1iUDZwUnB3dGtqLVhlOUJqeXpLb2oydTA?oc=5",
+        "date": "2026-08-05T10:15:42+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "Los modelos de IA que mostraron un nivel de \"autonomía y engaño\" nunca antes visto",
@@ -170,13 +170,6 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "El boom que no se detiene: petróleo récord, más exportaciones y miles de millones en inversiones",
-        "description": "El boom que no se detiene: petróleo récord, más exportaciones y miles de millones en inversiones Ambito",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1ZsZkJvY1dYSFNPQzBUQWVUandlVGVKUGNJQ2cxNE9IdGh1TVdUUWZYenYyUmxfNzg5TXhTVkcyM0g5WmZOYUJJUUxjMDRWOTdXV2hQdDE5OGRYMmg1Mk85aE9zNGR3MUJqeDgtQmxxdm9aaUM3UG90cXVNUVNwdWdBMGVMUFl1RzJYNGlvd2xacGxjdThhUlJlM0VoX0t5Rlk3NkJmQW15d3g0dmI5dXp4eWJrblZtM1B6TXRWWkdQaC1WWFlZ?oc=5",
-        "date": "2026-08-05T16:18:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "Por el boom de Vaca Muerta, el superávit energético llegaría a USD 13.600 millones en 2026, según un informe privado",
         "description": "Por el boom de Vaca Muerta, el superávit energético llegaría a USD 13.600 millones en 2026, según un informe privado Infobae",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNenBjREtjaThPQWRaWVJCMVAwWTl5dl9iaEZDOWxrajFhaDlzZDdFTGV1VHoxSmlWV0VvWjg5eEtQN2hNNl9PbW1jcy1iYUE2Vl9sUlZLUkhHTnRnaWNiZDFycTNuSUxLWjVyTEFoY3NrOTZPZWEzRkVrb3I2TGRQWkNYcjJadGVxM1poRkJlcHh6WENPTnZaNW8ycTdUQTlKbHlDaG9UZTM0QlJqRFRxY20zbjQ4N0lTUkllWGpia1Foa1lUTDBhZzg2ek5CMzQ4NzJPR0xWSjR0dW9LeDFBWThPT2xfSDRPVG9BRDZ2c9IBigJBVV95cUxORjFVS3pQXzBpR29BWnZDaUNZbExITWp1WHA2a25LR1VXX2p2LTl2aGpzdDdYcVk3MmNYRkJGVGFYbDBLNHhyRF9SSG5WaU9kYjVnZEZHS3lrRjdwVDVkNFBqSTM0ZVlBWTNkSUNxdzlVbmNRNFRzN1FSeFRsbUgyQzVHMkZvR1k1cWVmTUlaVGplWEpCZ3JEVkk0SVkzdEhucE41bWRpekJzdDN4ZGx2cXo4Z0pQcmQzR2xPLU9FTHJhM054TjJNblVaWVRwMUE1Y1lUeHoyVE1SS3dOcDdUb2RKeFdEVmcyVHg4RFZxaXJWTnlsNnhDNmFJeDA4d192LTVNOGdIVW1wdw?oc=5",
@@ -185,24 +178,31 @@
       },
       {
         "title": "El paro de prácticos ya afecta la distribución de combustibles y a una obra clave de Vaca Muerta",
-        "description": "El paro de prácticos ya afecta la distribución de combustibles y a una obra clave de Vaca Muerta La Nación Paro en los puertos: las petroleras evalúan el riesgo de desabastecimiento de combustibles y cómo afectaría la producción de Vaca Muerta clarin.com Los prácticos se rebelan…",
+        "description": "El paro de prácticos ya afecta la distribución de combustibles y a una obra clave de Vaca Muerta La Nación Paro en los puertos: las petroleras evalúan el riesgo de desabastecimiento de combustibles y cómo afectaría la producción de Vaca Muerta Clarin.com Los prácticos se rebelan…",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjlTLTBlNG9mSmZRanFyaGs0NW42OGprdmJRbW5aclBZTW0ySUo2clRDNlNndlB6VG5ua1UwVFRibG9keEtnYkM4T1BhQU85TkF0Zmd2cnlSdlhnNTQwRFdid3NPSVlyLVZaS0s0cXNpdUotcTBtQ0l3Rk5NX0xuaHhEajU5Mm44ekJvOFpac3czR0tiZV9vNURPMDRua0xXVV8xcFExTzl3WFRRMzNRYUYyN2doV0pCcmNWZDVvZVoyT0doVFd6UEE3Q0JvSkRRRXVod1dQUmpLUEdzYng5T2V3?oc=5",
         "date": "2026-08-04T13:16:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "Pampa Energía cuadruplica ganancia de la mano de Vaca Muerta y la generación eléctrica",
-        "description": "Pampa Energía cuadruplica ganancia de la mano de Vaca Muerta y la generación eléctrica Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzlyS1prVW50OGZNV1dDY1VFb3ZuY1Z6UHhibERIV252VVdEcjRsaGNNQTRYRWhDWVd6Nmk1NVlUaGphUS1UNWMwamU3VjFRUVlwUmFjYm9ZVFo3RzBNbEl0NTZ0TUtpeHpUZWlVM1ZfenVKbFZ3Q1FURTJ3dkNwTTBOWlBoRmQ5TjZETzRZX1loRUtxcG83bWczUzB2a29RcWlVV0d5ellRN25oWFp4U1ZwcXNxc0QxRHdjMDhLU2hyb1g3Z2Zfa1R3UWJ2WlZQQm80djBXTlPSAewBQVVfeXFMTXlyMXlaWU1kcnlhNGpqNEM5QmpGcWtVWWxoaU41S29rV3daUF9zS3VtU2p5a2VoNUU2aFdENVkzdldvMVlITjZMdV92Y3BMRUduWTVsNlhjQ0NmZWtwbW5qMnNhRFZaUUNjTG9CQkNrMmJEMFBaQkZ4VEpuNGpFZXd0aERxbi1UN01GT01LS0lIRnlxOTQtTHI2ODB5d2t5N0dZckFwT0tpY21RNXpLcUxpU2MyemlVVk5pT1VpUnV2RkVaRXRPcDZ2M2JndE5odzZZWFpzTGJLMldIRG0zdVBCb2UxZDJCSVgwbE0?oc=5",
-        "date": "2026-08-04T22:42:02+00:00",
-        "source": "Bloomberg Línea"
+        "title": "Vaca Muerta mira a Europa: las cinco claves para que Argentina se convierta en un gran exportador de GNL",
+        "description": "Vaca Muerta mira a Europa: las cinco claves para que Argentina se convierta en un gran exportador de GNL Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQV96bXkxa2R1SVNsbmhCTjI3RjdnY2FUaVBVNXBDQkMzMVJidEphSUdpZVA4Z0dxN0lGSTFGOE5LZElKbGs4OTBxLVRGNzZzRFU3OWkzZGx6RFYydXFZa2NGNVU1T3ZXR0xiQ1cwcG9MMlJmYjd5T0cxeFV1X0k5bkYtNE1rQXZoNGY2WUxXcnNEcUI0dGpCTDcwSEpJby1oTlJ2T09hTG1YWXgyNXRvZklRbG5oLXhYLXZtU3JyVnE0Uy1wTGZyTFBR?oc=5",
+        "date": "2026-08-04T18:39:00+00:00",
+        "source": "Ambito"
       },
       {
-        "title": "El clúster de Morón cumple un año y busca llevar sus pymes a Vaca Muerta",
-        "description": "El clúster de Morón cumple un año y busca llevar sus pymes a Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDgzcUk4cG9BaVdGRjBNOWZ0ekluRGlOQ0xqZ0tjZkRoUjJWaTJ6WkNwazdtdTdzRjRQUmtPNjNKa2ZaNFRPdlZnb1BxVGRTX1cxUkJyeEJaX0h0aHFmeDZHb3YxSmEzUXUxOGVUYkhZdmpGQVhDVEFPbjV1OVlKWW1zRzdkVENmSndKSVhOZDFjUkpBcHVVekE0bmhnS3JpWmVlbW56N1pFaFNwM2o1WUdR?oc=5",
-        "date": "2026-08-04T00:05:53+00:00",
-        "source": "Página|12"
+        "title": "Vaca Muerta: los detalles del proyecto de Compañía Mega para ampliar la producción de líquidos de gas natural",
+        "description": "Vaca Muerta: los detalles del proyecto de Compañía Mega para ampliar la producción de líquidos de gas natural econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWN2MloydkRwRnV1WWt3d2d3RlUyWmlranRPRlNQLUIxRDQwbUxZMzNBZnUwMThLQm50ZmpPV09QbmRQa2hnWDNKallOMzRUSEJVRU1kNlM3bmlvNmpMa09QcVVRWHFLY0pxUjdId0pyVWZfWjdxZ0huZFFyRGY5ZUlfQm44eWhwSzRzb0FtNWNLblBkRFRGb1ZuSmRwZlBqTHNUcUJyLU9PR3duOXh6UXg2ZE1CZThQSlptN2NTRGFlVjJEZklGVmVVMDRQOVpPblE?oc=5",
+        "date": "2026-08-03T16:34:04+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Negociación por el gas de Vaca Muerta se pone a prueba con crisis diplomática",
+        "description": "Negociación por el gas de Vaca Muerta se pone a prueba con crisis diplomática iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWxNa2hxYWxHdFVWTUhSX0FIdHh6dW5ySUxxZmFEc3ltZW13eHpWOGVCRktpdkxVZUdhWUE4MzVVQWJSQk5LcmtHM0ZTNTZvX3hPbzlMY3dqTlJFZUxYYVNQVmtXYm9TQ1hoeGhtUWc5UjV6bWxDR2txSUhaMlVfdnI2MDFLLU84U3ZLVDhrbjBHWmJsaE9sNHp3QlJzWlhORmVfckdjX1F3aE9mZ3pJR1o4Rm54Z3hFNXg2ZEFB0gHDAUFVX3lxTE9MamtkWWx5akpxSGllSXMyc2NOZ01Wb3dDWmNWblUxcFcxRWFDYnp4VnAteDRqZGg5eE9iY182UzhFQ1pDYkJVWE9zaGQyWVZuWUkzMnVjYU9HeWw3eFZOVmZLTHNWYy1kenBhMUZiQ3ZuZ3pkOGtGMW9LZ0VPWXpRbXNDcFJ3SzV6SUJsaDc3MHloblV4bllnMTRSZEpIUzU2N3Q5NkZMRG5ZNjl5LVMwbXVjd0JjcDRzTVFFYXVGTlhuWQ?oc=5",
+        "date": "2026-08-05T09:35:00+00:00",
+        "source": "iProfesional"
       }
     ]
   }
