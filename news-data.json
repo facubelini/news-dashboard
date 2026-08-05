@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T00:02:09Z",
+  "updated_at": "2026-08-05T03:55:11Z",
   "categories": {
     "Microsoft": [
       {
@@ -18,10 +18,17 @@
       },
       {
         "title": "Europa le exigió a Apple una lista de deseos para sus rivales. Microsoft acaba de sacarle el portapapeles del iPhone",
-        "description": "Europa le exigió a Apple una lista de deseos para sus rivales. Microsoft acaba de sacarle el portapapeles del iPhone xataka.com",
+        "description": "Europa le exigió a Apple una lista de deseos para sus rivales. Microsoft acaba de sacarle el portapapeles del iPhone Xataka",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2tTTWRqem9yc1FrRDNYdWhPc01KOEQxV2g1UFRDR3ppcTdUcllpQUxieXQ3Z3JPbVpXTmpWaU9ERnp0U0tKV0dvVDhuRDVXTnRTREhzdUlsZGg5T2NwMnFqcFpOS0xiVWxmTVZCVHlXcGtPUGpsZW04ZUhhRUhjN2tpYXhyV3BkV1BaM3Y2WHUwOEN0Y2ZaU05WeXVxWlRJc1J5Q245NDBnUWozY3hnRHRNcHkwdWF0bWtDVFFxdURPMWZjSzNlNtIBzgFBVV95cUxNLXNDdUh1QUxoYXNyYy1nZmVOb1JrdF9wWEtwSldMcEpObFZjV2M1aG9TSXE2NVFrQU1SUFRCZkxrbnpfbjUyTGxKcDR2bHRVNlR0dnNTdk5aOXg5UllEcndMZTIxSzVfMzJ0dDFoOEE1XzN4OE9hc2FUaGVOWVVBMUFia1JzOXJzNHl1OVoxTUlhdTJLdWxvbTlkNU9mRVJpbkwwbUZBWU5wSGM3cEMxZVVZSHJFU3h5SWxiRkwwR096U1RsbFhZZFROMlJzQQ?oc=5",
         "date": "2026-08-04T11:31:43+00:00",
-        "source": "xataka.com"
+        "source": "Xataka"
+      },
+      {
+        "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
+        "description": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52Q1h5YUlJRlg0WS1GSml2UHdiOVhXY0M0M05MVWRmbV8zZTRqSjlnaFFMS3Z2T0JmOGgyaTBLS192Rmh6WHVmUk5PNkpiSHMzTTh6ZnJMeUI0d3lPSGY5WWpjZjRuTUViNlBnQWV1eTNQS0FkZVRN?oc=5",
+        "date": "2026-08-04T21:12:00+00:00",
+        "source": "Hipertextual"
       },
       {
         "title": "Microsoft le premia por su fidelidad durante cinco años y se gasta los puntos en una PS5: ni un euro salió de",
@@ -38,27 +45,20 @@
         "source": "MuyComputer"
       },
       {
-        "title": "El CTO de Azure de Microsoft ha conseguido que Doom sea jugable… dentro de Microsoft Paint",
-        "description": "El CTO de Azure de Microsoft ha conseguido que Doom sea jugable… dentro de Microsoft Paint Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnNoeVhFMHgwUUVaNkF6bmNZYXpuRE5QQXcxQTRDRjYxbW4xYWVza2JIbHFJeUlkT1BXTnVGUWJlVnRtZ3F0UEI2MlpyMzhTUEJZWGZ5NnpaZi1xM3Rkd3hHTXloU1dIMko3c3BsbGVkVi1oMlM2ZVdCQUg1YVZBX1lkaElLU3FYQWc2MTFOdUktb0lnZ1YzUEhsMVBfVlBKeDFsOFk1bTdmTlpubThXRFJTS0pOQTFRSU02Q053TzRrM1Vxb0dOOUFXTmF6TzRV0gHWAUFVX3lxTE5udHp2MlpJYjN5Z01Tb0tfOVltQ0dQX0xhSm96X2hiNTg4MVZYZkRsMUJPVkRVcTdyYzNvdllWRExzOHNsYXE0RVMyNnpKZDEzellsX3M0b25CN0dpUWNhcnhRbXMzUUw5alNqVWNETGxmSm5MR3NNTDg1NDY3S21lRWlVMDNmUFQ0RTRhXzd0TVNfeVhPWkJjem11TTdaTWMtRjlLa2tCVGo1SXJRc2JQZURxelpONE1nRklETWN5OFlUc3g3NGtTenU3YWtVWVNWUWJ6RlE?oc=5",
-        "date": "2026-08-03T14:04:58+00:00",
+        "title": "Windows 11 ya prueba un nuevo Administrador de impresión con WinUI 3, apenas unos días después de conocerse el plan de Microsoft",
+        "description": "Windows 11 ya prueba un nuevo Administrador de impresión con WinUI 3, apenas unos días después de conocerse el plan de Microsoft Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPaC10SzBGaEh1aGxnVHlyTGlVZk1SRE02MkwteHB6MGVHRWd4VkJCZmM0TGJrMzJEc212cmpEUWxwOTI3ellrdE1sSWpIRHQ5NURLZXJjR2RKSzNHb3FBa2xTdEJubEh5U2NFZjNnRm5jbUI5SnZRUk5xQWREUkpseVp0NlBEbi1tajF0Z0V0VUlsVkRlWmMzTFZDWmZsaUlfblNGWnV6OXVsSTNHTlZnLWU4aFdIb1o4Z3Z4bmJadFdjNzd4M0ZoNEhsTkxId1NjaFgxYTBocnlIMWs5VUQzSTNsT18zU0pheHdLd0FuT2M3ODNhOVloaXZ0WTV2ajFXRzlj0gGIAkFVX3lxTFBDbWZFc0JiYUJwcjZMZm9BWlpPRGR6TmVheUxpNWNSR1I2X0ZlRjR6YWFVUk5SQy10Q09yV0VUSmVrR1dwSWZ5eGZmTi1YZGNfWHBWRlF4WklCeUo0eUYwczBNYkxadFREbWp0alh3UGxvcVpSMUwybUNLYy1mN0ZOVmFiMHZPNlVFUTVhQkMtQVVIRkNJelJNUl81bEY3T2dieWV4NEoxZzExUlBPZjlMUW4yeXRZUnNINGx4bjdfN0s3aERLQ2RWU1ZveV9MWkN4cUhqNDd0bGdaVmlzb0hNNVJKRkszWVZwQjRiNllfcmpDWVlaQnQwT2YtdmJ5MTJkckVGZm9jMA?oc=5",
+        "date": "2026-08-03T09:05:00+00:00",
         "source": "Profesional Review"
-      },
-      {
-        "title": "Bill Gates (70 años), fundador de Microsoft: 'Cuanto más aprendes, más tienes un marco en el que encaja el conocimiento'",
-        "description": "Bill Gates (70 años), fundador de Microsoft: 'Cuanto más aprendes, más tienes un marco en el que encaja el conocimiento' Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUlpQZUZkU3FlMk9JWS1XV243Mjc3MFFIQi00dFd3YllCeWhYU1FEVGFNWVZhNW94WDUxWG1JaHp5MkhQZGdFYjFLc3hfSXppVlZEcFZycTNSTUFkRDIzdGxPUjFjWjBiZ2kteEdrdTdQS19KaHdXTENHV21SRzJ0WS1qOFNYX0dvRnVISkNKSWh1VkJHUXVkWXJqbXpBVzFkWTRRdUlaaGpPb0kyVXVaOXkxUjZIblV4ZWFESjlpbXRfM1Z4blprNllzcnpSM2ZSeXVPVW9qMnRCOGxCSjJZdDZGMlUyUWo2c045YVNUNHREUdIB9wFBVV95cUxQNVlvNGlFcnlmc0RXb2RoQ2R0MXNZOE8wZFZrVDFSTVJJdk9TbDNwWHVkb0JTcVdfLWF2ZW1YSjBnWDJjdzdzMTRMTnMzTDdJWDhJSEg3V19VSkZsYi1mU1lBTXZPWWZOLVRhNUF1Q1FvVE5Ob3lCWkZ1cFc2YTRjMFlaUmtvY0syNUY0SW0tb2drNkNoaG1uQnZNNTlteGtKRkI5ckNkUEVhVDBJVnJCM3FhQTRyVkJZVy1oZlNBVklGcmEtUWdnN2lGMVlBNFNwZHFxMnJyLTlpVnVmclJ1WmpUTVhDZXM3NDVHWGI5Rmk0b2xLZGJZ?oc=5",
-        "date": "2026-08-02T14:00:01+00:00",
-        "source": "Vandal"
       }
     ],
     "Marketing": [
       {
         "title": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza",
-        "description": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza Paralelo32",
+        "description": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza paralelo32.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakhqaTItYnk0WGU1R1lvTWw2TnhmcVBDc0pfWWVkaUVYRm16SkxYOHd4S3lFR3pjMGFQQm9GTU9fcXVvSW9DN0ZvcHJFTmRnRzFuU2tVOVFqMU92ektpX0JRSDlTN1VCekFBV1hhVWVsS2xqOU5sMUVlbUpjNHAxNnpBWVR4WGw1MzZRTzdUNnNGVWZHMGFHMnE1QlRhUWtvODNuWkpsWkJUOGtUWVRRZlZjbVB0V3VwS1BLeTItRllCZw?oc=5",
         "date": "2026-08-04T22:08:34+00:00",
-        "source": "Paralelo32"
+        "source": "paralelo32.com.ar"
       },
       {
         "title": "Ya están abiertas las preinscripciones para la 20° cohorte de la Diplomatura en Redes Sociales, Tecnologías Digitales y Comunicación (Marketing Digital & Community Manager)",
@@ -82,6 +82,13 @@
         "source": "Pan American Health Organization (PAHO)"
       },
       {
+        "title": "Agencia de marketing digital en Santo Domingo lidera la transformación digital",
+        "description": "Agencia de marketing digital en Santo Domingo lidera la transformación digital The National Law Review",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTZXbVZyQjVPaW5jTnVtc1J1SXVxeG5BY05HYkFlSG9YZXo0aFBBZTRGTmg5R1NucnYzeDJLX3V2UmlWVUU4bHVpMEJlMEZSSXpNNzB2WW43VjRfaTZNakpjMmFMTVR1b0hfenk1dzdBd044VGtVT0RHWFFqenRHaVQtVzhhN0lvcmF3U1o3c0d0ZjVXdDQtbTMwUUt4cWxmVUctSmEtWm9qVlB6Nzl3?oc=5",
+        "date": "2026-08-04T12:53:56+00:00",
+        "source": "The National Law Review"
+      },
+      {
         "title": "La batalla por la lactancia ahora se libra en las redes sociales",
         "description": "La batalla por la lactancia ahora se libra en las redes sociales Comercio y Justicia",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWlJa0xVdmY1NXh2YlltQnlpN2xlYmhCZXRRcXF1MDEzc2x3QXlxUWY4NG9BWXd2ODJPMmhlLXc5ZzlLUUEya0F0dGhmUnlJWVFoWXhsZUdoUTd1X3NjLWU2LThOVjBQNzBoaG9DWng5UlNITVFoaVNVS3dUeUk2NENRSjNKTjJiN0JZY2pWcThpbDJhR2Q1R0FsMklFTVl1YnpBTTJzVmNGdkhuTnpV?oc=5",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNdkpwVkxzMzVRMlhGMHBDRUF3Y1RXOWZ0RDZqeHRKZzV2VXZHSzNJTi1kZGVuOXZQTHh1WGJJcURUOVVIU1NaZTkyQUtIN0VxTXdDZXhlRGQwUmtadjE1bmo3QWVFbmpSalpncWlBNHI1U082LUV4VVppVVBCX3VReVdFaFdRQmh2Q1p5WWFueWQ4UVVzTWlfSmhUQlB1TXl1LUNWUFdWTEZjSF9jOUplWUNldFVVQlZOOGtBTkk1b2xsWUV3cS1nVDFIOEJ4WkNRMFZScVJLam1YRXY4SGlaN2M0dWtmV2R5OTFjRk92b05EcEhIWGZwODljMWluOHRtOUJSOUc5TkJTQktiVHNNNnBXbUM2ZmxfN2JpSE9UaDZKZDcxNjk4UlhYUEU?oc=5",
         "date": "2026-08-01T12:14:39+00:00",
         "source": "ArchDaily"
-      },
-      {
-        "title": "La OPS advierte que la publicidad digital de fórmulas infantiles pone en riesgo la lactancia materna",
-        "description": "La OPS advierte que la publicidad digital de fórmulas infantiles pone en riesgo la lactancia materna El Tiempo",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOblowdkJmN0xUOXV3RnhsN29QejZaOC11dnIwaThsRm9mdVA4RDBYdlJyODdmS0dUaUVvYy10Qko0elFtY0dzMERweU5FaFF2ZUFqMG80VWZoZWxPbUQ2TDNET1NHYUNuMk1laUdCbXVtdlJ1Q0J2anczWFQxRjFpRlZHN3pPMUN0OUhIa3VjSk1seGpxbkRPZlF4VkNWN2FWblEzenlsNEt5Q1VpRURMNlUwTlZoTzNZenhFUjRvbE5VcGd0RkhHMDI5WHFmZGo3elhuRk5R0gHbAUFVX3lxTE9RRjdwTlE5NkNta0EyZjkxQXRnaWFELVItS2MyUzQyaEx3WV85UW45d1J5X1d0NlA4Q1VTc0tSZlpaaXRiT1FzOWhmZGdpQzd2NTg2XzlraGVJNm1QTjlzVkFfbmNDNzRMbnM0TTYyUTVoN2JNeHNMcU11TDBkb2g4a3VzbVpXWWJHQ3J5ZTVXeFZOeWt6TXJrUFNUWmFJblRkdC1vaTNWQ2hEaHZPLTN4MEdvT0p4ems1Rnd2c29GcG5SZWZ3Z2QyOUpmMktlY2FpbnJxYlhuZzkzOA?oc=5",
-        "date": "2026-08-04T17:37:21+00:00",
-        "source": "El Tiempo"
       }
     ],
     "IA": [
@@ -119,13 +119,6 @@
         "source": "Letras Libres"
       },
       {
-        "title": "Corea del Sur repartirá el primer dividendo de la IA",
-        "description": "Corea del Sur repartirá el primer dividendo de la IA Perfil",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajBHd0MtRUxTcGFHa1lOMThVeV9aWWZmQ19fMHVSZWl3ZUljM2RmNFhMUEtwSUdlY2xmTGIxeFd3bEpJMnR1YktQMzBvdzVEZ2NfU1BJQ0RWYld6ZXdfWVcteGJUUVdUUlpUOVgzdWJ4UzhPXzJQbURMcE1KN2hJNll5eDNjWTQzcFpCOG1fNXVOWEdSUUZSc09WT0RTYjQ?oc=5",
-        "date": "2026-08-04T22:12:16+00:00",
-        "source": "Perfil"
-      },
-      {
         "title": "Jornada \"Inteligencia Artificial y Ciberseguridad en el Estado\"",
         "description": "Jornada \"Inteligencia Artificial y Ciberseguridad en el Estado\" Gobierno de la Provincia de Formosa",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3JmLTlBSE5SQ1FpV3R1ck4zS0JBQzIyRlV2eS1QVXU3ZVY2ekNLaE4yQUFSWGpBOFh0X0NRSllHa0tmYW92MXR1dGRqU2dIQ2ZaYmhvM2w4U1dPMVJ0RkRDekhKU1JEdmpuNm5NZ1JfbWkxNGJRRm9sVEpCOXZEMnN1dmQzNGJubHJoWGVnMms3eWgwQmotR2RicWRMX3YwZUdEYy1JbnNidw?oc=5",
@@ -140,21 +133,63 @@
         "source": "La Voz del Interior"
       },
       {
+        "title": "Inteligencia Artificial y educación en valores",
+        "description": "Inteligencia Artificial y educación en valores Los Andes",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnF3eDVRRzVoMFRKa0RpSm1TNFFFX3hIdVI5V1NFS1N3T2xvQ0hLdFRuZWxCbFVLbjhzZmZJZG5ZWlQ2LTEtT1o1TE0weXVZUFQxRjZGVXRRd2J6YktxSTRsLURSWVAzczdCMGx4b0h5MXVMZndHUURoRzJ5MlhKUm0tdDVIVlRWdjR4U1dmUjBqSjdm?oc=5",
+        "date": "2026-08-05T03:00:00+00:00",
+        "source": "Los Andes"
+      },
+      {
+        "title": "Cómo será la diplomatura en Inteligencia Artificial para docentes",
+        "description": "Cómo será la diplomatura en Inteligencia Artificial para docentes Villa María VIVO",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamJ0Z2N5cm1xSlNaU2Nyczh1ejJQYmRQcjFwQ19JSWc5LWdGbndtN3Q3dzBvMjlVdTE3eFBGTU5EZDBBVEpBTTF2YzNsT0wtaFl6YW9sNjRMdjZyMTRvY1BxTEY5S09nT0JYWEdSZzlkUFNwb0VxUjRvZlhsUmdfclVYdDVJRlFKRmZfQV9WSEdZcDVNVHM4Mw?oc=5",
+        "date": "2026-08-04T14:06:17+00:00",
+        "source": "Villa María VIVO"
+      },
+      {
         "title": "Tierra, agua y poder en la era de la inteligencia artificial",
         "description": "Tierra, agua y poder en la era de la inteligencia artificial Ambito",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMENDbDYtY1lZTC1YUkRkYWVWaHNfUlhFU0tRNzh4c0J6VVNhdWlsNVZQc1NEbmZRdW5KMHZkeE5OdXdGQ294UWt0Mm91UlNJYlJMUF81VXlXQWJSLXVWRFRkZ2tublpiekg4VFRLWE1TMERYaU84d3lXVmFqdHZvWXg3MlJGeU81UUY5dkQtejJ0WGdTWUlHRDVRa9IBoAFBVV95cUxOZVp5SjJFNTVGVGxUNzVhd0FOdUpiWUVKamJ1bEhKaEZBQTlqRkxzVEpESkF0VW5SQ0RMVVJFcVdfb21ob2ttZmpqeVdBTi1uUFFQMjY3UGVManNfaHAwR2xUVl9tV2N5S0N2bjY3N0hXaElaUk9MZndvWUhaemg5ZjlscmoyMXJIY0ljNzBTa2RrNV9YQkNpU1hDREZkRlp2?oc=5",
         "date": "2026-08-04T03:00:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Cuáles son los tres signos con “menos suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial",
-        "description": "Cuáles son los tres signos con “menos suerte” en agosto de 2026 en la Argentina, según la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV1Zlb0lGbXhhdzBwN3dDNzkxVWxqRFVmRGIwbF9OUWlTWENkTFBPdGlpUGVpUEt0Wkp5T2N5c3VUNUxKTUoyM0N5czN6Q3NIVU56QlVUVlBwd25NanoyUFZSOURYaEI5cS1YS21wcUU1ckE3VXA2a19JVGZqZXpOb3V0bFBHZnFmbzI5UktmdnBueGEydkFtZjNfY192ZmVjZ3FFS0V5N2JZS1pPR1pzYWJaRDhMd0tCNkJxSXdmazl2eEEtdmdKT2hMU2R3aDVxMXBpaUM5OXZOaEtELURxa1NZRGlZdw?oc=5",
-        "date": "2026-08-04T11:56:00+00:00",
-        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Vaca Muerta: cómo es el acuerdo de productividad para los petroleros que firmó Marcelo Rucci con empresas operadoras y de servicios",
+        "description": "Vaca Muerta: cómo es el acuerdo de productividad para los petroleros que firmó Marcelo Rucci con empresas operadoras y de servicios econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMm5Gd04wMU41eU9RUDgyb295N2c1LTljLWFscHl2WG1jY0VTYkIwMTBjSnp0dy1IeURjMDN1MEMtZ1lfc3BKMEYxS0E1VnFVbjNRbE5jZXgxYW1wZ3BuSkc5UUNFeVNheFEyZmZVUlB2cTYyUjNMWFREa25JZVpMcWpxaDdXSHFETlpJcXZSaWRORVNVbEpJSklMdUU4amV1XzVXeG56ZUoxNHc?oc=5",
+        "date": "2026-08-04T21:22:59+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "El paro de prácticos ya afecta la distribución de combustibles y a una obra clave de Vaca Muerta",
+        "description": "El paro de prácticos ya afecta la distribución de combustibles y a una obra clave de Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjlTLTBlNG9mSmZRanFyaGs0NW42OGprdmJRbW5aclBZTW0ySUo2clRDNlNndlB6VG5ua1UwVFRibG9keEtnYkM4T1BhQU85TkF0Zmd2cnlSdlhnNTQwRFdid3NPSVlyLVZaS0s0cXNpdUotcTBtQ0l3Rk5NX0xuaHhEajU5Mm44ekJvOFpac3czR0tiZV9vNURPMDRua0xXVV8xcFExTzl3WFRRMzNRYUYyN2doV0pCcmNWZDVvZVoyT0doVFd6UEE3Q0JvSkRRRXVod1dQUmpLUEdzYng5T2V3?oc=5",
+        "date": "2026-08-04T13:16:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Paro en los puertos: las petroleras evalúan el riesgo de desabastecimiento de combustibles y cómo afectaría la producción de Vaca Muerta",
+        "description": "Paro en los puertos: las petroleras evalúan el riesgo de desabastecimiento de combustibles y cómo afectaría la producción de Vaca Muerta Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZC1qaGJyMkI5aFp0SUJJNGZMZlBUdmlrdDdBZFYxNVBycUNtNnNFUlNZZXFoQ1M5TnNraF9mb2FkWXhkalpCNm9TY1hncjgxV2NSd1VCcVdtdGlqY3pVdGRKaFhKZVNjelpQUS1HN1B5MnlzQm1hcHZZZmRQUDNRUXdVRlhGV1JRc1ZsTHlMbDFMOUtqTjJSWXR5dFV1WVE1YWQ0ZDkxS3hWLTIydm5mTUhLc25hZkNlM2ZhRE9iM0M?oc=5",
+        "date": "2026-08-04T16:38:02+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Los prácticos se rebelan contra Sturzenegger y paralizan las exportaciones del campo y Vaca Muerta",
+        "description": "Los prácticos se rebelan contra Sturzenegger y paralizan las exportaciones del campo y Vaca Muerta La Política Online",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPZ01hYXNOS1d2OFFKeW11TGRTNUhzY0pjS0lGTGlna2dNd0xNeTVyTThYU2wwNHMwclVqSUdhRjVUMXBVNTJGM3J6R0x1aHhTeWVXSnA1bld5NHRYZGdRVmp30gHbAUFVX3lxTE5STVo4TUxiZEQwaG4xQ1N0WUxFS2QyREdKeWtOS1JqS0NKa0VPR3BlRzdvdm82NHJzN1lEVmlOSElPWmE1STlqcTFYRzNOLVlSWUROVjE0MWlQX0RzVHhWbTQ4aDZELWJEMG5Db2NUSHhReE51bUJwSFlMYXkyaVFoRWNzTXZaNXR6QkV3YUhtOGFzYlE4dVBTSEZMVUUtZU1keGt3ZFZ4TXZNb21LRW9BQm1nelVVOVdSRFM4ZVAtdHVidXNicDRFeXMyRUlud1JIc3BFWXhvWXdUNA?oc=5",
+        "date": "2026-08-03T12:42:01+00:00",
+        "source": "La Política Online"
+      },
+      {
+        "title": "El \"efecto Vaca Muerta\" impacta en el real estate: Neuquén ya aporta el 70,5% del petróleo nacional y acelera el desarrollo inmobiliario",
+        "description": "El \"efecto Vaca Muerta\" impacta en el real estate: Neuquén ya aporta el 70,5% del petróleo nacional y acelera el desarrollo inmobiliario Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZk9kdmlKdkRwVTRISTZ6aUpuclFmYXgwQjgzQThoM3h5aElPTWRybzVSRmZ5NEtkbnJjM3BrenpIVmxhUTM1T0V0d0g1dlIyWjhTOWkxbFlMcTdKM3RHcWl2X01RSV9DS3RmZ284VlFLWEo5dTM2Wl9zYVJSUTNpVFNFeUhBeko5SUpNOTRsRGtfOTBZUzlpaGhmMnVSRkZVZXd6WkZ5T3NxbFJfZ2prTGxlcFBORlF2cUdMNFFjdm5iYTFzUUtXd2pLTWxraVcwRlY5N2twYmtUUG9hQ0c2aUFGbUZGbUZwUTlTMm1tU1lwUXliaEJWelpZN25EZ9IBgwJBVV95cUxNcHJPUDlFU2t2Wk9pMXdoVHdsbmY2RTB0RV9vNVVLZTZWYk0zMjhvZGJDcDdqWkljcDlJLUR0bGFlOWR3RFdSbFN3VXlNckZYMzBoaVJWSV9ZcGtBQlB3VmQ3OTZEZm53VDFwd1A2N2VHa1V1ZWZZNm5WazhJWFlmYnE0ZUQ3UVZqcWFSd2stMXduaF80eU8taGtFWUc2dC1Ud3VDcWdIbGxSbmxnaGV3SmNmYkxMQk1janZrZTVSMWZRbGkzWHJVNWhTWFdWcVVMNzcxWjlWVUh2NV9mNjJQVGJoenRaSHVyU3NjRDhOLUNDdjh4bVBrUGVrZkRRWWtJMGI0?oc=5",
+        "date": "2026-08-04T03:00:00+00:00",
+        "source": "Ambito"
+      },
       {
         "title": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas",
         "description": "La operadora del oleoducto por el que circula el 75% del petróleo de Vaca Muerta sufrió un ciberataque a sus sistemas Infobae",
@@ -168,41 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDNwcU12RmdYWW4zSkdQcDYxelRTSUdwajdrWVVPaFJCTTJNdXU2bEhBY04tN3JqLUEzOVl3RzA3aVVDUlFSWVI1NFpSVlgzalllUXZuT1d4QXFISzMzWUxuRXpSQjRLeVV6NHhMd0pnVGl6V01vQnZ1d09PejlrcGZPMzZNYUxoZ1M2VHlYMVk1aC1uZEdJNW1hVlpHbGItRGcwNURSWdIBrAFBVV95cUxQaHlFT1p5Q0d2WTViYjJWT0tBNTBKUm03RHotSUpEckNHLXJHNE91d3JQRkF5Vzl0aERFN0JYTl82TUpFeWt0TndHc0l0cUptYTRQVzU1MHpzTUZ2V1pyYlNWeUEyVFRBdTZockxLb3NxR0ZQcFBlOGhKNFNDU24yaGRNTklUQmtqdjhER1pFaW92SE5adVB4VlNWNGp4ZmdqaUlKX0JRSzdXMFZ6?oc=5",
         "date": "2026-08-03T11:21:00+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Denuncian un intento de ciberataque al operador del mayor oleoducto de la Argentina",
-        "description": "Denuncian un intento de ciberataque al operador del mayor oleoducto de la Argentina Ambito",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSHVyeFNaUmYzXzhXX2dyejQzdmJxc1lyY3QzcWJOM1RjU3Q3eEVuMkdHZkQtX2dyVWRRVjdyVWxfTDRVWmNvcDlQZENDNDdXdWl6QzM5elp5YV8wMW9lS1F3MmJiYmJEbTNtcnp1dzE5b1ZGbi01TzY3RzNFZjBhamEtcmVMQ0h4WE9Zb2dmUFRfc0Fzanp5YUtUQnRnNk5P?oc=5",
-        "date": "2026-08-02T00:14:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030",
-        "description": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030 econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUZ1b1F2WklsZTUxSkhubVNINHVSRU1UeGRLdTFQOV9sb3VzTHNsY1FkajdVNjZJWndxamVDWG1Ya21GcnZISnZHSTI2dHJBQUtQeVF0UjVOc0tjQm9yT2FuVmI5VXZFRTRqVEdmU3FobTlHSXRIck9jbXFIeG1HbHpwR0cwRHhlVkI3U1F5eU8wUm12SC0xYmJJWDd5S3RoM3d4dndlSXJRV0xqX2FKYTREclZVeEFjLVVYang4QkFSMU1PYkE?oc=5",
-        "date": "2026-08-04T22:30:36+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
-        "title": "El paro de prácticos ya afecta la distribución de combustibles y a una obra clave de Vaca Muerta",
-        "description": "El paro de prácticos ya afecta la distribución de combustibles y a una obra clave de Vaca Muerta La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcjlTLTBlNG9mSmZRanFyaGs0NW42OGprdmJRbW5aclBZTW0ySUo2clRDNlNndlB6VG5ua1UwVFRibG9keEtnYkM4T1BhQU85TkF0Zmd2cnlSdlhnNTQwRFdid3NPSVlyLVZaS0s0cXNpdUotcTBtQ0l3Rk5NX0xuaHhEajU5Mm44ekJvOFpac3czR0tiZV9vNURPMDRua0xXVV8xcFExTzl3WFRRMzNRYUYyN2doV0pCcmNWZDVvZVoyT0doVFd6UEE3Q0JvSkRRRXVod1dQUmpLUEdzYng5T2V3?oc=5",
-        "date": "2026-08-04T13:16:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Paro en los puertos: las petroleras evalúan el riesgo de desabastecimiento de combustibles y cómo afectaría la producción de Vaca Muerta",
-        "description": "Paro en los puertos: las petroleras evalúan el riesgo de desabastecimiento de combustibles y cómo afectaría la producción de Vaca Muerta clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZC1qaGJyMkI5aFp0SUJJNGZMZlBUdmlrdDdBZFYxNVBycUNtNnNFUlNZZXFoQ1M5TnNraF9mb2FkWXhkalpCNm9TY1hncjgxV2NSd1VCcVdtdGlqY3pVdGRKaFhKZVNjelpQUS1HN1B5MnlzQm1hcHZZZmRQUDNRUXdVRlhGV1JRc1ZsTHlMbDFMOUtqTjJSWXR5dFV1WVE1YWQ0ZDkxS3hWLTIydm5mTUhLc25hZkNlM2ZhRE9iM0M?oc=5",
-        "date": "2026-08-04T16:38:02+00:00",
-        "source": "clarin.com"
-      },
-      {
-        "title": "Los prácticos se rebelan contra Sturzenegger y paralizan las exportaciones del campo y Vaca Muerta",
-        "description": "Los prácticos se rebelan contra Sturzenegger y paralizan las exportaciones del campo y Vaca Muerta La Política Online",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPZ01hYXNOS1d2OFFKeW11TGRTNUhzY0pjS0lGTGlna2dNd0xNeTVyTThYU2wwNHMwclVqSUdhRjVUMXBVNTJGM3J6R0x1aHhTeWVXSnA1bld5NHRYZGdRVmp30gHbAUFVX3lxTE5STVo4TUxiZEQwaG4xQ1N0WUxFS2QyREdKeWtOS1JqS0NKa0VPR3BlRzdvdm82NHJzN1lEVmlOSElPWmE1STlqcTFYRzNOLVlSWUROVjE0MWlQX0RzVHhWbTQ4aDZELWJEMG5Db2NUSHhReE51bUJwSFlMYXkyaVFoRWNzTXZaNXR6QkV3YUhtOGFzYlE4dVBTSEZMVUUtZU1keGt3ZFZ4TXZNb21LRW9BQm1nelVVOVdSRFM4ZVAtdHVidXNicDRFeXMyRUlud1JIc3BFWXhvWXdUNA?oc=5",
-        "date": "2026-08-03T12:42:01+00:00",
-        "source": "La Política Online"
       }
     ]
   }
