@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T10:47:37Z",
+  "updated_at": "2026-08-07T11:40:44Z",
   "categories": {
     "Microsoft": [
       {
@@ -31,13 +31,6 @@
         "source": "Investing.com España"
       },
       {
-        "title": "Microsoft explica por qué tarda tanto en modernizar Windows 11",
-        "description": "Microsoft explica por qué tarda tanto en modernizar Windows 11 MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1lVdmJBb090VlFyRjczU1YyNWV6QUlZa0dJdElOQWFrcm1YTHlKSWtQczBhbGQtWWlHcVFXMl9aN21GMWR6MHV5aGlWZUNWbVBPWTVRdFlsUm9uTXJzSEdhMG5CWC04ZzE2UnpqYVVaeF9yQkxabGJfcl91dWp6ZkdXVS0zOVZMeEg4RkNlRnc4VER2dmhnd01LQTllV2FKV1RHbg?oc=5",
-        "date": "2026-08-04T09:05:56+00:00",
-        "source": "MuyComputer"
-      },
-      {
         "title": "Todo lo que llega a Windows 11: Microsoft detalla sus próximas novedades y cuatro áreas de enfoque clave",
         "description": "Todo lo que llega a Windows 11: Microsoft detalla sus próximas novedades y cuatro áreas de enfoque clave Profesional Review",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjFNREtiamo2aDU5OXBNVUJNaGJ6Z2lseXFsQXVZb2M4T1IyN0ItUG9Qc1NPOEVxZ2Z4a2htQTRTc2dGcDYtVkNBbFhIMElLYVY5bzJzRl9GcG8wX2VDcXd0WkVLNDFYLTZXZ2EzR3QxTFl3MV9QVkxZX2pQbjFiTWc1M0xVanRPRGRjZHItcmpxTkJTaTl4LV9zenk2emZRM2FJZG1vd3Y5Qm82UlEyMzdyMkpkOEE0WGZyVjBTLTJTSkFBVDFQb3ItcVBIbHhsT21oUnZZWXdfeldiTzFSYXpka9IB6AFBVV95cUxQRHVNdmFoR1FuRlB2RkxfUnZtVW9IYnZNRVdvX1EzWmpTTFpCMFU1NHZOTFlsLUl2RlhBX0ltTVYtc0dWamI1WVRQYUxpWW94V19FeHA5WGRGQWxUaHFQVWQxdDN3ZmlWMG9ESmpuREtic3Rod2tIRl83anFueEFPQWZiRGd0RTZRNWhLaE82N3ZzQkVwVm1IVXA4NV9rcldNYWFaM215R0xOTU5xdkZqYm1WSnpISmNrVTYzOG9PSWE2ODdRcWZuZGVya0Zyck45QjlXQldmU0JJa0RwSVVUeWxfX0cxWFVG?oc=5",
@@ -45,11 +38,18 @@
         "source": "Profesional Review"
       },
       {
-        "title": "Microsoft elimina recomendación de 32 GB RAM en Windows 11",
-        "description": "Microsoft elimina recomendación de 32 GB RAM en Windows 11 El Chapuzas Informático",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFZqaGc5d2hqRVFvd1I0NERnYWZLcTZkdms3V3JYbE1UazVzZDNlUjRfSTlWMXI3b3JNWS0zZTNudlV4WGdBVk8zOGwtMTBFYmlyTzQ4b0NUUVJvaW5vTkdJczI2bHI2OGJSQ0U0MFpEUDdybXhwdEhGMHJMX0tLSmNOYUpaMjdUZ1lrWG9KZ1ZVM21HQVIwbDFCaw?oc=5",
-        "date": "2026-08-05T18:20:27+00:00",
-        "source": "El Chapuzas Informático"
+        "title": "Microsoft ya explica cómo cortarle internet a un agente de IA",
+        "description": "Microsoft ya explica cómo cortarle internet a un agente de IA Cultura Geek",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WVTh2OVptdlJRSThXQ1JYNDc3dFBuVEVtaVJqTkpBRURocExUWnVUMEFyREdBaDkzaHFWWVBrVGhTX2pVZ2pTNFhjSFd4STBPUXhtN1VGMnNwM2owdkpCNjFjc012SHp0UHc?oc=5",
+        "date": "2026-08-05T22:46:30+00:00",
+        "source": "Cultura Geek"
+      },
+      {
+        "title": "Microsoft elimina la recomendación de 32 GB de RAM para Windows 11",
+        "description": "Microsoft elimina la recomendación de 32 GB de RAM para Windows 11 Noticias 3D",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlgzS05IbmtOTG9JcEttTGYzVUlsLWNxMVVhWjBjaVE0d3ZBTk9wN1JFWVFacm4zeTYzUVEyb2oxN3NlRHJhaVVQdEZTcU5TY2hEUjY2VHdUVmJzbEhuZHRwa1EyR1VVcjN5RTIxWFd6Y2VvMjk4eG9qY19UUHdmdTk4cw?oc=5",
+        "date": "2026-08-05T15:38:36+00:00",
+        "source": "Noticias 3D"
       }
     ],
     "Marketing": [
@@ -96,11 +96,11 @@
         "source": "Paralelo32"
       },
       {
-        "title": "La Inteligencia Artificial Está Cambiando el Marketing Digital, Pero No de la Forma en que Muchos Piensan",
-        "description": "La Inteligencia Artificial Está Cambiando el Marketing Digital, Pero No de la Forma en que Muchos Piensan HD Tecnología",
+        "title": "La Inteligencia Artificial Está Cambiando el Marketing Digital, Pero No de la Forma en que Muchos Piensan - hd-tecnologia.com",
+        "description": "La Inteligencia Artificial Está Cambiando el Marketing Digital, Pero No de la Forma en que Muchos Piensan hd-tecnologia.com",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb3NfQW1SeWxhUU1pcmx4azlMazN0VU5UOEJUeXBKUkdrcGx3cG4zeG1zRWpJMTk5b3FwYTRsZm5IUGdaR0NzM3RuR3ZTQ0VSWk9RaEdSSjJ3Ni1IaFRPRUU1U3pLWktzakxGR204V3dFRmc2eGVOaWJFRk1MNklRZTF4SjlxVU5nSTVmcVU2NVA5LWxDWHBfZGlOOUR0bW45cEZ1MlYtT1NkS3NjMWZJU2hRdXdJb1Z3RS15clBRcXhFZjRXX2JOLUNpeXhGenN6ZkZ5ZFd30gHWAUFVX3lxTE5vc19BbVJ5bGFRTWlybHhrOUxrM3RVTlQ4QlR5cEpSR2twbHdwbjN4bXNFakkxOTlvcXBhNGxmbkhQZ1pHQ3MzdG5HdlNDRVJaT1FoR1JKMnc2LUhoVE9FRTVTektaS3NqTEZHbThXd0VGZzZ4ZU5pYkVGTUw2SVFlMXhKOXFVTmdJNWZxVTY1UDktbENYcF9kaU45RHRtbjlwRnUyVi1PU2RLc2MxZklTaFF1d0lvVndFLXlyUFFxeEVmNFdfYk4tQ2l5eEZ6c3pmRnlkV3c?oc=5",
         "date": "2026-08-05T19:25:17+00:00",
-        "source": "HD Tecnología"
+        "source": "hd-tecnologia.com"
       }
     ],
     "IA": [
@@ -112,6 +112,13 @@
         "source": "La Nación"
       },
       {
+        "title": "Tecnomoda 2026: cuando la moda argentina se encuentra con la IA",
+        "description": "Tecnomoda 2026: cuando la moda argentina se encuentra con la IA Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDh6LUdWbFhJeU1kQnZLR3JOT2VVRDVoOUppWDlPQ04zUGJOU0t2ZlpmQWR6RUpja3FJNTJkT1ZQYS1yNGFaNmtFV1hIb3BFYzJSUnhSN2IwZkQyWk41ajkwTzhlZWQta2hkV0MwbWlES080MmgtNGhtOXlDUzV4WnAyNUgxMEVSbUlmZkNfUHpMcGRDSDFuRW42NHBobkhvSnBoOGxsYVdPdmpQdTJaVkREYw?oc=5",
+        "date": "2026-08-07T11:02:00+00:00",
+        "source": "Perfil"
+      },
+      {
         "title": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial",
         "description": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial BBC",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiRDJhQU90dWdiYnlEV1FNaGxQZm1XLWtrVlpaUjhNTzdLR1Azal9qS0Nwelp5b2ZISmxFLW1XZ1hrQ3pfT2xNSmgwbk1HejlhYTJ6eVRpSzh6X3PSAWBBVV95cUxNOEFTbFNHWDhyZlBTVGtsUE84S3NfbEU1UWpDM04taXl3dEs2cWlId1ZNWjRBd3JCMVJqSjh1b3djZlRSUk14R0Zpd2JqdTU0X2ZPYjlITEYxR2pUaVFGMTM?oc=5",
@@ -119,39 +126,32 @@
         "source": "BBC"
       },
       {
-        "title": "Esta IA acaba de crear virus que no se encuentran en la naturaleza",
-        "description": "Esta IA acaba de crear virus que no se encuentran en la naturaleza La Nación",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzd3bnhoWUlYLXI5RWx6aHVMTDdpaF96T2JnUlpPQThUSjY2STYxcUNJeldSU0xvLVJRZjdGck0teUdLcnRlbW55LW1pZThjZUxfbDNON0FoaDFuVENkMVM0ZHAyZ214WjVPOWI1RkpyWnRYR05uaVRicXJRa09FZFZiN1VDWTcwN3psSjRxSkloZDJKdWwzTlhwTTZOVVE1YU9uMnBXRlZsaTF2cG9tWnk1cUxqVE0?oc=5",
-        "date": "2026-08-06T22:32:00+00:00",
-        "source": "La Nación"
+        "title": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma",
+        "description": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGllRlBDNTA2aHJPSmRQTzIzYlpoNmZ2QWdweG9NcUthc2lvOHB3cWJsVUdqQUNqYmZ6c092UzZ0ZHJaVmRQWWNURlZuLW5LdUZoWVVNZmRmWXZJazc0dEZ3dUIzRkw3Y0N1c3V3ZlFDcVc1Y0pBRDNMOFIxaGJFekdpeDE1bVNHSEJFcHVjOXZvRjdFN2ZJYzhuLTJVcWpVbC1QczkwUVZuSXZiamY5ZUZkWmgtaXo4dDRj0gHAAUFVX3lxTE0wZXZfdzQxX3pHTG9yRzRaV29LSFFtT2R5eXU5eTNPbjdKS2dNdmtScGxqVDBITllKRVpuYTVKbDFtd2NRTW50eVIyN1ZpWjMyTW54NzhBcElTZkNrdjVoVFNZSFlZMnpRRXRTQU1JSXhLTjNXU2FtSVE5MXV6VE1YV0RiZkk4MW1BVFJ2elFYLUphNVY2M3NrVUVUZ29wNzZQYnJTY0JoazhGeVROMDNuRGo3NmZZRThpdjFRM2NBVg?oc=5",
+        "date": "2026-08-06T11:30:00+00:00",
+        "source": "Xataka"
       },
       {
-        "title": "Científicos de Stanford crean virus con ayuda de IA: analizan sus posibles beneficios y riesgos",
-        "description": "Científicos de Stanford crean virus con ayuda de IA: analizan sus posibles beneficios y riesgos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc3NmbURvSnBxMXdkWFBmVUNIWk1hU0NxYTRaS3JMWFlzM0Jvem9WYXVQSVhWczg2NS1ha0s3LVQ1VHBwQmc2cjN1cE9uRlh1Q2xlVzRuSmFWam4ySXhldFFnTEtGdG8xNDJ6MlNPMXppYy14d0JkN1NHNk5lQ1JBdlNUVTJSVndsZDYyNHFRZ2ZJWUxZZmtSekhBNS1SbGt2QzVFRXIxS1pwU2UtRE55MkxVTjlLaUM1WG1TV1ZKdWVSN29fNERMUUJXRm9rMENseGItOFlobEdqdU560gH3AUFVX3lxTFBrRS1Ma0RLR2NPVjZlNFBzbUpQVjBYamhnbFpxR0RiSjlpUTZPcDFlWFhWcjlZd1lseUJIdVJyM2V4dHBmZm5odlFEbGpNeTZ1YTNrS1ptaWR3Y1hSUzBVQmk3QUx6V1BPV252VDNBOHBtWmRsMzh2cjRNUzhjdVR4Vmd1emdJalBWdGVTTVVZWDY4MGh4eGJfLXhJZjFvNlRCQ192RHlrV1d5YkRCdnVPdVJNVDVSdkxwV0lMZEhoLUxyQUp5LThuNEVILU11aG5LSFlvcHctZ2otbl9pVGJhVWJSMW1nVHlZTExKcjI0eF9zc3NKX1E?oc=5",
-        "date": "2026-08-07T00:37:46+00:00",
+        "title": "Horacio Storni: “La IA sin supervisión funciona como un atajo y termina siendo un obstáculo en la enseñanza”",
+        "description": "Horacio Storni: “La IA sin supervisión funciona como un atajo y termina siendo un obstáculo en la enseñanza” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdGJGZ2hUcXc0RWVKRnQwdHp6aE1mOGNiSXlqNW1zTllDX3JoZjk0ZTRla0FZbENrSkxrNTVGN2Q1a0dKYkFKck4xbmN3X2FCMWF0ekZ6clY3NnJ5bmx4ZWY1T1VYc3dKTGFleUVlaVdkUHd6YlpzSTlOZ2VzZkZJZ041cWlBSi1YVGdTMWVMMjh5TjREbU0wbkc2aFlfTVA1WnlfaEdDMHp6SEhQenVqZkh2dU9uVnlRR3N3S1FMdkhLcVBOX1Y5dGp4MWZ5LVVoUVhOY3AyM2tvWjJSWEhoRGVUeDM1Z9IBgAJBVV95cUxPaEJpa1JsVUo0cEwxM1J5VXUwcFBsMkVMejA5RW1LbTZoNXBYN2hTbU84a1QzSUZhNk9xYjFFNFlEU2RPc0ZZY2ZtZ2s3TWtHd1dJb01CWDRURUUwazI1VzJ4NmdfaGNmMHFNQzJZV3NSUUc5YmNmTktoaldSYWRhbXRlaVBiVWpRa3RKSDduZ3FFQTJZNjZjanFMblAyRHh0cTVqVkVQbThXdzdXQ1REQWpJc2cxN1JvZTduWXdlTVBHX2JkWmdrTnBIT2ZWbzB6NWZsbzFkY1psUGZOcmRUUFhjcmxXY2k1ZEE0R0c3R29nQTd0RTVZLXBsZ054Wmxz?oc=5",
+        "date": "2026-08-07T04:05:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma",
-        "description": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma xataka.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGllRlBDNTA2aHJPSmRQTzIzYlpoNmZ2QWdweG9NcUthc2lvOHB3cWJsVUdqQUNqYmZ6c092UzZ0ZHJaVmRQWWNURlZuLW5LdUZoWVVNZmRmWXZJazc0dEZ3dUIzRkw3Y0N1c3V3ZlFDcVc1Y0pBRDNMOFIxaGJFekdpeDE1bVNHSEJFcHVjOXZvRjdFN2ZJYzhuLTJVcWpVbC1QczkwUVZuSXZiamY5ZUZkWmgtaXo4dDRj0gHAAUFVX3lxTE0wZXZfdzQxX3pHTG9yRzRaV29LSFFtT2R5eXU5eTNPbjdKS2dNdmtScGxqVDBITllKRVpuYTVKbDFtd2NRTW50eVIyN1ZpWjMyTW54NzhBcElTZkNrdjVoVFNZSFlZMnpRRXRTQU1JSXhLTjNXU2FtSVE5MXV6VE1YV0RiZkk4MW1BVFJ2elFYLUphNVY2M3NrVUVUZ29wNzZQYnJTY0JoazhGeVROMDNuRGo3NmZZRThpdjFRM2NBVg?oc=5",
-        "date": "2026-08-06T11:30:00+00:00",
-        "source": "xataka.com"
+        "title": "Cómo mejorar la calidad de una imagen con inteligencia artificial",
+        "description": "Cómo mejorar la calidad de una imagen con inteligencia artificial TyC Sports",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaHpLcW5nTU9OVG5lUmVFZ3BHbmNwZkxNN1VZbllzTnpZMExUZzhQWWVUaHNIVzdqWmRuTWM1dVRDR21fYlBFdFJGbzVlM200WDlQTFBNNnp6NjdaQmVVNl8yOHN0U1NFMThEU0doTndncHU0Wkt5ZlpTMmhFYzNMaS1sOS1aTWZ6VjBFM241RkhrT1RQR0FwUUVLbVlMeW9UTzRNdUJmQTN3TnBQd1N1eGp3?oc=5",
+        "date": "2026-08-06T15:45:24+00:00",
+        "source": "TyC Sports"
       },
       {
-        "title": "Empleados en estas posiciones cobran hasta 25% más de sueldo gracias a la IA",
-        "description": "Empleados en estas posiciones cobran hasta 25% más de sueldo gracias a la IA iprofesional.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzdGR2w2QWJET3RvT2hmLURKdllwdURzd3d5MHhPY0c0UzdaUWZiUEV6RXNBNnNEVVduZEFHUHdYSVpMaVl4ZzNUUWJjWHJJNlZnaUlLWDd5VXJEU3BhU01CQUpPLUU2ZDhqb2JfTkM1blNuZmk1LXE3bFU3RGIwVHl4aEZFM2NjUm9pUlh2QkdYN3paZnFOWWhmMk12blVzOHh0enNUNmZOSnVaQ1NyLTQweEhyNlB4SGJfekxvYzNKSENfXzhiZkJpT0xqd9IB0wFBVV95cUxOTV9QdHVfQTduXy1PZ3lVNEc1Qjh6T2JmT2ljdFk2a2NyMDFHQ1ppbDRVaDBRRWtkOTVUdVN5TVJwazdtV2hMdjl0NDVZZS1IWXJDVXFuSzFuRVdJaVQ3TFVYWnFTOVJtX3Bqb2JzNE05UDU4b1ZqRGQ5R1lqYl9RcFJGeFdwVXZGU0Jod0V1OF9Hb0l2WXVIQm1vLXAtbWpVMGVCMkZvX29mRGxrMjVxZXdBcHFRdkI1SndzMjZlWjlXaWhIWGx3aExpMDdoRENEejFV?oc=5",
-        "date": "2026-08-06T18:40:00+00:00",
-        "source": "iprofesional.com"
-      },
-      {
-        "title": "La situación en China preocupa: el desarrollo de la IA está obligando a personas con títulos universitarios...",
-        "description": "La situación en China preocupa: el desarrollo de la IA está obligando a personas con títulos universitarios... OkDiario",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTWFmekYtQjdHWHBvTjY0YUp3dnhubk5hQTl5MUwzakVZcFc4dXBWVzVBYVpCWEEwNlZBZGE3NzVHQTk5V2FDTThkeXJKV0JXT0RKR0JvV2UtLTZGVTVBd2M1TWxwRHlfRXNlUVNaN2lsU3VDbEZhakRSQmFyZXRkcm9meGtKai1WRUU3WHQxNGpVZzRFX2xnVElLV0hKT3J3dk1STVp0N2R2MFJzNXEzOEM4UE5pSkRGaGZCRWFJU194ek5rVENxeGtNYXQyRnlRb2Jyb0VIQnpJdlVIM09zaHY1S29fa2pIZTZmMUpHZXdFd9IB9wFBVV95cUxOVFZqdjRVMENVek9FM2ZNeUd5MW1FamdXekp4bUdQYlpZY3JhVzRnYTM5MmdNUmF0enRpLVJydmRud2Vmc0ZaT0E5S1N1SmRtXzE2NU9Sdk5uY1FtWVhsNnhrUDlRQ0Y1ZURZQ29oc0lNNVgwa21zNDlHQWt1ekJiSnNLNUpJU3RLNnpldXFtNWJmVjBXaGJ5M0FISDBzV1hYZ0VRdzhxenE4ektHXzFVakNpZllFVF9hLXMwbkJielNoWTE1S0pXRUJYRU9ZeENjeWdMMFpPQlFiSGMxcGpxSE8xd3RYVzBlS1VwV1hfMkRRQWhLZVBR?oc=5",
-        "date": "2026-08-05T15:00:49+00:00",
-        "source": "OkDiario"
+        "title": "Sam Altman, CEO de OpenAI: “No hemos conseguido que la promesa de trabajar cuatro horas a la semana se haga realidad, y no espero que la IA cambie eso”",
+        "description": "Sam Altman, CEO de OpenAI: “No hemos conseguido que la promesa de trabajar cuatro horas a la semana se haga realidad, y no espero que la IA cambie eso” clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUW5aLTg1MVo2dS14Y3k1TThTTHFyX3VQVlJPbTMtUi1YMkZodUdYWFRhWldJUFZ6dEJETEgzUkFTZmEzMVV1UHp2SVFfQTVBdURLQnVTZFMtUlZsdU5YMFlpbS04cTh1NmtldTduTnBCSmptbDNCYXF1cFV2dnZrdzZXb19BSDk3NzhRclZheU1GRkdxODRGR2hFckNIOS1LbnV1MkVZalMxcmV0OUJDQ3ZMdUNfZ2w1QTRwZzBpZ01GOTgzemJUWEU2a2JnWk56VjFrZGZUM2MzVHVpTXpNSVd3?oc=5",
+        "date": "2026-08-07T06:28:48+00:00",
+        "source": "clarin.com"
       }
     ],
     "Vaca Muerta": [
@@ -163,25 +163,11 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "La petrolera de Manzano y Mercuria incorpora IA en sus pozos de Vaca Muerta",
-        "description": "La petrolera de Manzano y Mercuria incorpora IA en sus pozos de Vaca Muerta Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnM3NjVLMTBpeFQ3aFFfMzJkQ1Zjay1vbU04TnB5Nl9TM2taTExNVjZjZ0tKR1hVbVRrc3c2RURDSnRrQWcyZTNKLVRlc1hYVVkwbUVBcVhOdmxPcHM5VTlEOTlWSXFWQmRHSGhaZXU0YjlKLThyOFY5SkFoZHkwb0o5ZjI4cl9nTWtrb09jWTRhdzNPaVV2eWNrZGxDTHVfbVNKNUlpUkhPWnNoNXA4VWJLY2VpUjjSAbwBQVVfeXFMT2VWRjRMN1R6dFNlSWYtbDhhaEFESjkyaUtnX1JYUmszcGlEVm1ES0s2anRNZTNaRWdDYm1IQUJnWnpzSXVuY1AyWHFjdkhXOHRNUXMzUWhwVE8wa1lpOXlFXzFrRXhtMTcxdWdvTWhxeENrNTdoRVgxRXlwc1ppNmQwOVRITmwySlY1cldSY1dHbG4yRUNZTzBHaGdMeDJURnB0bUs3UjQ1WFEyc1k4ZnBYMWJkZ3VXYnhGY18?oc=5",
-        "date": "2026-08-06T15:11:19+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Cinco escritores imaginan Vaca Muerta: adelanto del libro que se entrega gratis en la FED",
-        "description": "Cinco escritores imaginan Vaca Muerta: adelanto del libro que se entrega gratis en la FED Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSzBsX2NMaFc1RjI3Z1pJWGVTNTNTUU9xYm1oUUlVNEtvV2xXVk5tQkppMVYwSVJvRnNpOHhXQ0tPckVjYXF6VWZOV204TzJHQktCckxPd2FRcjlJU0RPNDRycTg1RWNiSklyQ2JPcHhIU1dEX1FtcFh5MnZNd3pvaUcwdmlyMUxhWWg3MnhUbHdoVkdNWTBydVBmNWZBSl8wLWsyUTl5MzVBMFpFOWhjLW4wUEsyeUxRYmJ0X3dDVDBTYnoyWUEzQUpQbVbSAecBQVVfeXFMUEF3eWJsc1psaGw4SHpZaWloX2ZOQ0NrbTVvTXlhaXVUZHRXeE1uU3JBVjU1enh3bzNWNVRMTDNVMkF3Y2d5ZHdVU1FySk5VQnVqalBMTVh4UVhBTEE5eXpfNHc4X0R5YXZzckpxNDNkS1lPZm41alJ3TENTSG42UVdiS1JIVU5uODlZMmZRVmp3Wkt2TXB1LVZ2dHl1OV9EN1FULVJQaU1aYU9ZeHRCanNPYUp3T0YyVzBIVjdfRWFsR1NkbHVLVHNBejR1c0lONE02VHBVdGhlSmRZU2t3RVJJUzVuOVF3?oc=5",
-        "date": "2026-08-06T04:40:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030",
-        "description": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030 econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUZ1b1F2WklsZTUxSkhubVNINHVSRU1UeGRLdTFQOV9sb3VzTHNsY1FkajdVNjZJWndxamVDWG1Ya21GcnZISnZHSTI2dHJBQUtQeVF0UjVOc0tjQm9yT2FuVmI5VXZFRTRqVEdmU3FobTlHSXRIck9jbXFIeG1HbHpwR0cwRHhlVkI3U1F5eU8wUm12SC0xYmJJWDd5S3RoM3d4dndlSXJRV0xqX2FKYTREclZVeEFjLVVYang4QkFSMU1PYkE?oc=5",
-        "date": "2026-08-04T19:23:00+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Alerta en Vaca Muerta: advierten por un cuello de botella que exige hasta u$s20.000 millones para solucionarlo",
+        "description": "Alerta en Vaca Muerta: advierten por un cuello de botella que exige hasta u$s20.000 millones para solucionarlo Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS19zWC14S19mM2owTmhBaFBsa1ZwSVlkRXY2MXczTi1SWlg4bGZOYmNGTXFRbVR5enBTMENzSTQ0Z3p0T1hBWGZUZFZPeHFfLW5lTlZhcEM3T2xUUnQ1SW1MNjNUVzhaRmZGWG5GQXJ0MGJxN0N1empTdFNULThiTFdiM2J5WEVGd3VyV053RjFGcDVFanI2NDZqbS1pZEhTU252YVJWaERqVDlVQk1MZ1o0cFp4MGNKaUh2MzZqOHVIbDZ5N0E?oc=5",
+        "date": "2026-08-07T10:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Vaca Muerta gana peso mundial: un informe advierte fuertes caídas de producción en las grandes petroleras",
@@ -193,9 +179,23 @@
       {
         "title": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\"",
         "description": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\" Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3oyajJ5Z2NJa0hRUlpfM1NSbmFWTGpRblJmYjhuU19jbG9yUmxQdkEzVWhHRVZERnU2TlJtQVlRRjFId1Y4blM4ZjVacHBialNZYWV1NVhzaF9hYVBFTjNmV1NKMGo3TG55dWJhWTZNMzRvVWNTd3JpUjQ4a1NvLVdTSHZycFhSNG9HUzFqVlNtanp1S3VjS0tQYVkyM3VUbzRSeUdBYkJ3VFcyREJNMUtyeWxGYjUwRjVsWVZoQnpSTmlaTS1ZQUNXVdIB0gFBVV95cUxPWE1KNzVhRVdPM0ZuRi1WSmVWNmVqQzdmNlpuS2lyeUxGa0diQXJnTkZIZG94MFNJOUNoUlVaS3RGYkxsYzNfMUZVV3djcDZrRVpHR2xVZzJTWjJ1YnE2MHZmZVIxQ2wwZHJaVXhHUk00cWhkTk94SEQtQ200djk5Vlk1MEt4R0dnV0JmX0Q2bUV6NDNPeHc2Q0NUSWhMbjRjbEhYcjlmYnpQMzZxODQ2Ujd5MW1FTXprSkxmTTJ1aGZJc2lmdTVVSW9HNzM3OEZTZ2c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3oyajJ5Z2NJa0hRUlpfM1NSbmFWTGpRblJmYjhuU19jbG9yUmxQdkEzVWhHRVZERnU2TlJtQVlRRjFId1Y4blM4ZjVacHBialNZYWV1NVhzaF9hYVBFTjNmV1NKMGo3TG55dWJhWTZNMzRvVWNTd3JpUjQ4a1NvLVdTSHZycFhSNG9HUzFqVlNtanp1S3VjS0tQYVkyM3VUbzRSeUdBYkJ3VFcyREJNMUtyeWxGYjUwRjVsWVZoQnpSTmlaTS1ZQUNXVdIB0AFBVV95cUxPcHJVd3NtMF9yN3hfZk13dG5ieG9TNkpoeGRzb05lNXE1VGhtVUhPWHE1R3owZ2p0MnJ6V1JuWk12ek1ZOHlpdTlfZTZBX2cyOWV1S2xJUXREajVtZnRWNTlIeGtvZnUzZVZwRHdEUmRIQXlTUy1POW9MVFBPRWlBb2tuc182bTlZR2czSGExRFFDNXM2anBod1RkUmdTQlk4dzU5OGZGUm82UWhxSDNjUWh6UVVGMkp4MWw2WHpZSEk0am12T3B6NjNGNmI1UzJn?oc=5",
         "date": "2026-08-06T22:32:00+00:00",
         "source": "Perfil"
+      },
+      {
+        "title": "La petrolera de Manzano y Mercuria incorpora IA en sus pozos de Vaca Muerta",
+        "description": "La petrolera de Manzano y Mercuria incorpora IA en sus pozos de Vaca Muerta clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnM3NjVLMTBpeFQ3aFFfMzJkQ1Zjay1vbU04TnB5Nl9TM2taTExNVjZjZ0tKR1hVbVRrc3c2RURDSnRrQWcyZTNKLVRlc1hYVVkwbUVBcVhOdmxPcHM5VTlEOTlWSXFWQmRHSGhaZXU0YjlKLThyOFY5SkFoZHkwb0o5ZjI4cl9nTWtrb09jWTRhdzNPaVV2eWNrZGxDTHVfbVNKNUlpUkhPWnNoNXA4VWJLY2VpUjjSAbwBQVVfeXFMT2VWRjRMN1R6dFNlSWYtbDhhaEFESjkyaUtnX1JYUmszcGlEVm1ES0s2anRNZTNaRWdDYm1IQUJnWnpzSXVuY1AyWHFjdkhXOHRNUXMzUWhwVE8wa1lpOXlFXzFrRXhtMTcxdWdvTWhxeENrNTdoRVgxRXlwc1ppNmQwOVRITmwySlY1cldSY1dHbG4yRUNZTzBHaGdMeDJURnB0bUs3UjQ1WFEyc1k4ZnBYMWJkZ3VXYnhGY18?oc=5",
+        "date": "2026-08-06T15:11:19+00:00",
+        "source": "clarin.com"
+      },
+      {
+        "title": "Cinco escritores imaginan Vaca Muerta: adelanto del libro que se entrega gratis en la FED",
+        "description": "Cinco escritores imaginan Vaca Muerta: adelanto del libro que se entrega gratis en la FED Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSzBsX2NMaFc1RjI3Z1pJWGVTNTNTUU9xYm1oUUlVNEtvV2xXVk5tQkppMVYwSVJvRnNpOHhXQ0tPckVjYXF6VWZOV204TzJHQktCckxPd2FRcjlJU0RPNDRycTg1RWNiSklyQ2JPcHhIU1dEX1FtcFh5MnZNd3pvaUcwdmlyMUxhWWg3MnhUbHdoVkdNWTBydVBmNWZBSl8wLWsyUTl5MzVBMFpFOWhjLW4wUEsyeUxRYmJ0X3dDVDBTYnoyWUEzQUpQbVbSAecBQVVfeXFMUEF3eWJsc1psaGw4SHpZaWloX2ZOQ0NrbTVvTXlhaXVUZHRXeE1uU3JBVjU1enh3bzNWNVRMTDNVMkF3Y2d5ZHdVU1FySk5VQnVqalBMTVh4UVhBTEE5eXpfNHc4X0R5YXZzckpxNDNkS1lPZm41alJ3TENTSG42UVdiS1JIVU5uODlZMmZRVmp3Wkt2TXB1LVZ2dHl1OV9EN1FULVJQaU1aYU9ZeHRCanNPYUp3T0YyVzBIVjdfRWFsR1NkbHVLVHNBejR1c0lONE02VHBVdGhlSmRZU2t3RVJJUzVuOVF3?oc=5",
+        "date": "2026-08-06T04:40:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "YPF vendió su parte del principal yacimiento petrolero de Mendoza para concentrar la inversión en Vaca Muerta",
