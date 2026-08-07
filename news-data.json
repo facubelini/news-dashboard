@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:50:36Z",
+  "updated_at": "2026-08-07T16:47:15Z",
   "categories": {
     "Microsoft": [
       {
@@ -15,13 +15,6 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVNLNm1VS3JZMzlwcGYxSjJPMUNiaURFSWd3Wkk2MDMyOGg0TzM2WWt5Q1NVMVFnVUNseERqT3pReGVVdG9GdndzRlVhSW82M2dhdWhNX2wwRG5Wb3N5U3NwbVhhdzdRS0ZvNUVjRVlDd0g2UElOd1A0dnNpTFc1Q1V3d3BYWWtxV1RKZGJkd2twSkpDTjZmeWxVODgtbGhBWXZtNnUzb2FUY0RKVlJpZlRXOVJuMTc4VXZHUWw2VHl0UGRvOGZPci130gHkAUFVX3lxTE5CVFpnZWsyRkk2QjNaejdWbmh6SmZxNklSbEpFdEhsS2RjLVZzV25BYXVGRGpGZTFhY0d3cDM0Z09MdkxoR3dZMjgtWENINlBZSnZCc2NXcHJrU292MnpwSzh6NmRYUUQ0aGpOVkx4b1RPNC1WeTgzOWZXY21ZQzJvMnRFY20xQXRuM3MzRW8zamhKRUk5VDQ5OFN0ZkZWTWFUSzc3aWhCeF9vQUtWNGhoQjAxLU1VaEt5UXVlYmlEaEFVTEduclhEX0w0dGhQcWNTTDV2Q2FTbE5KcHhuUFZtdUtPZg?oc=5",
         "date": "2026-08-06T22:58:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Microsoft todavía depende mucho de OpenAI para su negocio de IA",
-        "description": "Microsoft todavía depende mucho de OpenAI para su negocio de IA RedUSERS",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFlDbGZkSUtzcFZJa3d5Y0Y2MjEtUTJESElhSHZDUzU2Q0ZHaE5qNHBBR2JIMUZsLTV4RnBsRHhuRVpJN25Lb1NOenJFd1lqY0lEOVBmOGNxUXVQVTVoanR1T09qLWlhVTJxbUd0MHdkQXZzOHZPY3AtOXNkSVNhTzY4MWh0UU81aVRMLQ?oc=5",
-        "date": "2026-08-06T15:02:36+00:00",
-        "source": "RedUSERS"
       },
       {
         "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
@@ -50,22 +43,36 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlM3dDlpZ0w0a2ExUUlyU0s2aHNISEw0eUlJVjdIMzVNdElBel96TU9mRWVIZl9CQWtBQnpmUU91R2ZCZ3ZOak9WQmlIUDJnMmIzOUZkVWRQaU1BWk9PNFJqN29Fa0hLdzJJR1R4cnQ2RGhPbU9GTzRWdlZUeGdvUDZqbF9IN21hWWlKcFNsUENWZGJSekQyel80M21PSzBzWUNIVF84T09JNi1xSFptVEZuYWRJRVlyRHpwdWFZcw?oc=5",
         "date": "2026-08-04T08:41:00+00:00",
         "source": "Investing.com España"
+      },
+      {
+        "title": "Europa le exigió a Apple una lista de deseos para sus rivales. Microsoft acaba de sacarle el portapapeles del iPhone",
+        "description": "Europa le exigió a Apple una lista de deseos para sus rivales. Microsoft acaba de sacarle el portapapeles del iPhone Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2tTTWRqem9yc1FrRDNYdWhPc01KOEQxV2g1UFRDR3ppcTdUcllpQUxieXQ3Z3JPbVpXTmpWaU9ERnp0U0tKV0dvVDhuRDVXTnRTREhzdUlsZGg5T2NwMnFqcFpOS0xiVWxmTVZCVHlXcGtPUGpsZW04ZUhhRUhjN2tpYXhyV3BkV1BaM3Y2WHUwOEN0Y2ZaU05WeXVxWlRJc1J5Q245NDBnUWozY3hnRHRNcHkwdWF0bWtDVFFxdURPMWZjSzNlNtIBzgFBVV95cUxNLXNDdUh1QUxoYXNyYy1nZmVOb1JrdF9wWEtwSldMcEpObFZjV2M1aG9TSXE2NVFrQU1SUFRCZkxrbnpfbjUyTGxKcDR2bHRVNlR0dnNTdk5aOXg5UllEcndMZTIxSzVfMzJ0dDFoOEE1XzN4OE9hc2FUaGVOWVVBMUFia1JzOXJzNHl1OVoxTUlhdTJLdWxvbTlkNU9mRVJpbkwwbUZBWU5wSGM3cEMxZVVZSHJFU3h5SWxiRkwwR096U1RsbFhZZFROMlJzQQ?oc=5",
+        "date": "2026-08-04T11:31:43+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
       {
         "title": "Llega una nueva edición del IAB Now",
-        "description": "Llega una nueva edición del IAB Now LatinSpots.com",
+        "description": "Llega una nueva edición del IAB Now latinspots.com",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdWpadS0xU2NkdlFUZnlnZ1FKTHk2YnBqWVNibTFMLWN6ZXpTakdMazBtc0Z2ZEhaTU5TNGtxak16ZVRPNDA1dWNSSWZRb3lWdUo4UUxVUDJra01nWnJaaUVhT0NGNGNFaV8xOXdSNTBsS2x3QjdGbURuOXltTGI0WA?oc=5",
         "date": "2026-08-07T06:02:52+00:00",
-        "source": "LatinSpots.com"
+        "source": "latinspots.com"
       },
       {
         "title": "Ya están abiertas las preinscripciones para la 20° cohorte de la Diplomatura en Redes Sociales, Tecnologías Digitales y Comunicación (Marketing Digital & Community Manager)",
-        "description": "Ya están abiertas las preinscripciones para la 20° cohorte de la Diplomatura en Redes Sociales, Tecnologías Digitales y Comunicación (Marketing Digital & Community Manager) ffyl.uncuyo.edu.ar",
+        "description": "Ya están abiertas las preinscripciones para la 20° cohorte de la Diplomatura en Redes Sociales, Tecnologías Digitales y Comunicación (Marketing Digital & Community Manager) Universidad Nacional de Cuyo",
         "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPM2R0dnpwVWFTOE1MaktOSEhPMU9GSV9QN1V6dmw1ekpsaUYyZUFNbHFQUmluVUJhYTRZeGNRa0dXRnRtb0sxcGw4ZTdTbS1abHNZVDVmeFdRNmIxZ1pSWUl3Wjl1aEp0MlNYTURySng5MFU2b1hHbW9RbUVLWnhPUy05NGFFWHBscFlNVFpfVWFUV1BIc1dXRXRrLTRkaHlLRTJ0UUtZVURzRVBVcTBNcnlJeThPU20wVFRzZUc4UEZVeXN0eXBINUhaN19zR2RYekJOMmgzR09QV19kWFpKem8zNE9XNk00Yk9MOGJjeWllVkFYc29ZX3FpU0dNUDJKT0hjLV9NaUFFSzFzTHpiVE5pRVZBRlJQOXdFdW5B?oc=5",
         "date": "2026-08-03T22:24:37+00:00",
-        "source": "ffyl.uncuyo.edu.ar"
+        "source": "Universidad Nacional de Cuyo"
+      },
+      {
+        "title": "McCann e IAB México comparten 5 macrotendencias en la industria del marketing y la publicidad",
+        "description": "McCann e IAB México comparten 5 macrotendencias en la industria del marketing y la publicidad TotalMedios",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHdrR0liQmZnRV9HNnN6cy0xenM5SGhoZFpNYzhsOGJNcEotWkVua1ZEUE9UQzRGcXcyNTNqNi14QVNzZnM4YUhKSkRZeDltcExDSnRZcTFNWXo1Mlo2dGZ2c2lsbGVkamR6NnBsak1YWHBwaEJ4b1JMOE82VWc0bzF4cTJHZXJ3WjEwblI2RXNIaWMyRVlzTURMS1lkVjZ0cjRWQUgyQmxlUjhjSDI1SEQtZmFXV1p3SDhCYnYzQTNNTlNjb1lOYXBkNWE?oc=5",
+        "date": "2026-08-07T03:00:00+00:00",
+        "source": "TotalMedios"
       },
       {
         "title": "Piden mayores medidas de protección contra el marketing digital que socava la lactancia materna",
@@ -76,10 +83,10 @@
       },
       {
         "title": "CERTIFY LLEGA A VILLA ÁNGELA CON UNA CAPACITACIÓN EN MARKETING, NEGOCIOS DIGITALES E INTELIGENCIA ARTIFICIAL",
-        "description": "CERTIFY LLEGA A VILLA ÁNGELA CON UNA CAPACITACIÓN EN MARKETING, NEGOCIOS DIGITALES E INTELIGENCIA ARTIFICIAL fmmanantial893.com",
+        "description": "CERTIFY LLEGA A VILLA ÁNGELA CON UNA CAPACITACIÓN EN MARKETING, NEGOCIOS DIGITALES E INTELIGENCIA ARTIFICIAL fm manantial 89.3",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWGsyWjlORUFSYkk0bVNxMlVfVWcxZ2JHdmlDakF4ZGNqT1Ytd3c0MzlUaHUwTUUxNDNKWDNuQ3lMeXJiRTRkS1UtazJjVy1SYUo4TEhGaHp0SXJqd1d5bXpxWjlHU3FoLXNOaXpGX0dvbjZjM0Z2NTdXT1d1MW1KQTVHc0pTZjdiVUNhVTgyMVk2ZFJxWXZSb2pGVFlRZ0pWMDN0UzA1MkxqTUhqTkkyd29jbkVSVWpaeGRyQnRhLXpJend3Q3RERm9mWEhCLUM4TzU0cWx4QWFfSjA?oc=5",
         "date": "2026-08-07T12:39:57+00:00",
-        "source": "fmmanantial893.com"
+        "source": "fm manantial 89.3"
       },
       {
         "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 1",
@@ -94,37 +101,9 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXc0NTJ3VVV2blNuemNIWmdUQ3JqVEpDM2hNbmNrRk1Uc2xiV1RwelpFV0dkMU03ZVh5NVpmOUhzdHcwOFpqbTh3ZUpxN2hNRzZ5dDZrR29VcDdqUnI1OUdHU3N3MDNhVm9fb09zYXNVOW5VeDNKN2h6ZFhxekpJNlFwQmNLM045Mkl6Ylh6OVYyeTZaSUN6OWZmY1dUNXJZY1BfYVM3Tm1GWHppempqaVBidzc4UW02?oc=5",
         "date": "2026-07-31T19:00:00+00:00",
         "source": "Pan American Health Organization"
-      },
-      {
-        "title": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza",
-        "description": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza Paralelo32",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakhqaTItYnk0WGU1R1lvTWw2TnhmcVBDc0pfWWVkaUVYRm16SkxYOHd4S3lFR3pjMGFQQm9GTU9fcXVvSW9DN0ZvcHJFTmRnRzFuU2tVOVFqMU92ektpX0JRSDlTN1VCekFBV1hhVWVsS2xqOU5sMUVlbUpjNHAxNnpBWVR4WGw1MzZRTzdUNnNGVWZHMGFHMnE1QlRhUWtvODNuWkpsWkJUOGtUWVRRZlZjbVB0V3VwS1BLeTItRllCZw?oc=5",
-        "date": "2026-08-04T22:08:34+00:00",
-        "source": "Paralelo32"
       }
     ],
     "IA": [
-      {
-        "title": "Ganadores y perdedores de la temporada de balances: Wall Street castigó el exceso de gasto en inteligencia artificial",
-        "description": "Ganadores y perdedores de la temporada de balances: Wall Street castigó el exceso de gasto en inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGhHVmJnQ3FPWE1XbG5hYmxXaG8yZlgzRzg2Q3MxR0hueExPVG1HSXdlUFp4LU1VTjljaFVSM0M1b083ak5TYTFEUHJueHdiUTZCbWNtbjZHMHR6NzNxZmZOUHdjSmw2d29vVjlVUXhGbVkwOGNxQXhVQ08yYkpvaG5kWEc4cHItQTMtVnRadkVmRWk3aFRucGdadTB4NUV4V1dqa1VpV3pFWlE1WFI2VUxfZ0YwU3JYOWpSUWdzT2pReTJOeXpwUm9NeFdESDF6cFF1emhWUUd3Zw?oc=5",
-        "date": "2026-08-07T15:36:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Iniciativa conjunta de Córdoba y el Gobierno de los Estados Unidos para fortalecer la innovación con inteligencia artificial",
-        "description": "Iniciativa conjunta de Córdoba y el Gobierno de los Estados Unidos para fortalecer la innovación con inteligencia artificial · Gobierno de Córdoba",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWkFTOEFMUWxwUjh3NUcyTGRsMFUyTTBYajd6a29EYnJCY0tpNkU4YzhZbW14RWtrS29ZM0JKNEhfVlpzek9iVkJ5d0k0ZHZHWTNZbXJjdHRGVUhSUjhnTU8tbTJSWGg5dW5lQzRGT2JxRk1hRzF3Sy1ISEFDQk1ybUdkMl9SeGFYVlBzbXhFdkltMHRKdC1FcG1nckdTdmUwYnRsUW5mSHpTRDYzSUlSX2k3bWZEamxJVGdVU3hwVUVYUnJHYjZnMnMtTGpzNzZhZnQ1MmxGUzkycmpvRmJpM2x3YXNoRFdpdjRBZDhXdW85VkZLdUJESzV0c1EzWGxa?oc=5",
-        "date": "2026-08-07T14:14:00+00:00",
-        "source": "· Gobierno de Córdoba"
-      },
-      {
-        "title": "Inteligencia artificial. Custodiar lo humano, desde Córdoba",
-        "description": "Inteligencia artificial. Custodiar lo humano, desde Córdoba La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaW1IYnYwZ010OVRrc1VFaTFsd2F1bTZpbTdBTDNzMC1vTW1ZVldBeE5hX2V0cGFHamIwbjRPVnV5Y1R1dWt3cnZkMms4MEtLZV9GbjdlYzNEX0Z3M2J4NngtMTI4WVNNbTFSX29SOFBoanFONkxMR3hPOGZhYnd3bg?oc=5",
-        "date": "2026-08-07T14:30:40+00:00",
-        "source": "La Voz del Interior"
-      },
       {
         "title": "Usan por primetra vez Inteligencia Artificial para crear virus totalmente nuevos",
         "description": "Usan por primetra vez Inteligencia Artificial para crear virus totalmente nuevos BBC",
@@ -140,11 +119,25 @@
         "source": "Infobae"
       },
       {
-        "title": "Crearon nuevos virus con inteligencia artificial: por qué el avance entusiasma y preocupa",
-        "description": "Crearon nuevos virus con inteligencia artificial: por qué el avance entusiasma y preocupa tn.com.ar",
+        "title": "Crearon nuevos virus con inteligencia artificial: por qué el avance entusiasma y preocupa - TN",
+        "description": "Crearon nuevos virus con inteligencia artificial: por qué el avance entusiasma y preocupa TN",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeE5IQWhoOU5ZdXY5SmQwVmhucmFFbTFRdU5tWksxeXRzdXoxeFRSM0EzVEQ3aDI1d0xndVlZbDdtMEFqdWFTSHlnVS1hVVhtbTJ6dE9Wd19rVWRtbk5xWHBydno0cUNoUlBLckFoYzNrb1BubTNzZ1JmRVlyWDFubko0SUZjRlAxNHI2XzhPSmFUSmRvZlRaajd5eUVNc1FramZFQXVhdHlnNU9OcDFtWFJzd1N1RjNKRklKVGNQNlFvcThGZGhKVGQ0ZUJqUGFvalJFV0ZPSlYyaEhDY05hQ05B0gH2AUFVX3lxTE1oUHZLU2VSVDFVZ19lekR5d0M0T2ZLc0dDTjA3VmhOLWpMTmthT21fck50Sk9qUUtEZFJvcnZNU2dBbGhvdHl3SGlDZUtod080N0Z3UUlVUmZIbDRtNmtVX0Z6a0ZpMkhuRnVWNUlPTWRQZGdyMDNnZ0xqX2Jkc0RhVmlNMDAyM0lhcDRTOGxPQi1HT2hDelpDdG5laEYzVUtFc0syUXZNOFFfeGg3ckpNVjB4clNadEdkN2tkTVhtYVQ0eHdYNVFyVFlZSHZVSk9YaHlOTjlZbnBnTUs5UGdtbk5ZdXM2dHJVUlhtdnF6ZVNmUVJzUQ?oc=5",
         "date": "2026-08-07T14:33:10+00:00",
-        "source": "tn.com.ar"
+        "source": "TN"
+      },
+      {
+        "title": "Ganadores y perdedores de la temporada de balances: Wall Street castigó el exceso de gasto en inteligencia artificial",
+        "description": "Ganadores y perdedores de la temporada de balances: Wall Street castigó el exceso de gasto en inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGhHVmJnQ3FPWE1XbG5hYmxXaG8yZlgzRzg2Q3MxR0hueExPVG1HSXdlUFp4LU1VTjljaFVSM0M1b083ak5TYTFEUHJueHdiUTZCbWNtbjZHMHR6NzNxZmZOUHdjSmw2d29vVjlVUXhGbVkwOGNxQXhVQ08yYkpvaG5kWEc4cHItQTMtVnRadkVmRWk3aFRucGdadTB4NUV4V1dqa1VpV3pFWlE1WFI2VUxfZ0YwU3JYOWpSUWdzT2pReTJOeXpwUm9NeFdESDF6cFF1emhWUUd3Zw?oc=5",
+        "date": "2026-08-07T15:36:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Madonna y otros artistas se rebelan contra los estudios que utilizan sus canciones para entrenar a la IA",
+        "description": "Madonna y otros artistas se rebelan contra los estudios que utilizan sus canciones para entrenar a la IA La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSENudnU4Y1pBSFFqLVRVMzlaZFYwRXJFUXlyWVMzYnpVT2tCc0Rxb0NLdHlxa0RjZHItOFZYazdPTmhtS2FDb2lXdmdBcUx5WDdxbEh4dFVnTXNXaHpHX1RMTTd5QU1XNjc1Y202NEZlM1N0ZWxOVzVLN0lNQVQ5d004SlVVeEMxbHltWWtZWUVobmFSaG84Mm1GTGhHQ3BSOHdnVElNd0FiN3cyQk5WY2p5blhieUVubjFJY3Jmb1piYkJtSmRGWGlVQTk3aWE5a3lrUW0yekNWQldkVld3dWZaTHI?oc=5",
+        "date": "2026-08-07T16:30:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "El nuevo abogado: prevenir conflictos en tiempos de inteligencia artificial",
@@ -152,9 +145,37 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnhnZVNaTWEwcWVrS0E5a0cwQWt3MGZpcWxldnpKUnQtaURMdzRkTFBOWl9FV01YTzJ5OTZaemFfbU9NeFJjWkN3eXQyWWhCRU9jLUw0N2g2bWlPamxkY29qMy1fN3VRQWpWbmxlRkVNQ3prNkhpbjloNGdsMGI2Y3YyWHpJdTU1al96bmhTbTNfcno4cjJMaEhHTDJGS214YlBPYjRXVXhHUEktelpqSE80T1RVSTl3SHfSAdQBQVVfeXFMTTBFSmtBRmxkR0VjdDRvWDVORUxRdE9XU1NZb0FhOE9HU1RCZ3VGRmlqUzcxR2kzQ3h2d0I4MFBBTjBZRDhIZE8yUTl1dXdzSEtldjF4QVBtVTZkV3NCV0RGME1saVMzRVAxV1RJLWp1a1UwNkIwU0FwZ01QYUM0Qk92ZkM2SUtwUVEwYVcxTVpDZ1kxcHItamE2Wlp4NFczV0g0cUh3Sm9CX0tjWHVkQ3JaamJwdjdtSFZ2VHh4bVZJaGJkM2dpUVJSSk1vWV9LV3oxSEE?oc=5",
         "date": "2026-08-07T13:14:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "La UNESCO recibe al papa León XIV en una jornada de reflexión sobre la inteligencia artificial, la educación y la paz",
+        "description": "La UNESCO recibe al papa León XIV en una jornada de reflexión sobre la inteligencia artificial, la educación y la paz UNESCO",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORWxfVm1KcDN4bEtVaG1aVUFPWWEweE1BaUtnZkEyekFIRzlVUWNUWF9LckRwcERBd0o2bWJLdXlGd0Z3dVRCS3NXQWRVZzU4a3FPRU5BV0NtWE5CQWJyZTdrZUR5eWRBaFpOcnNJUFNCcHcweGFzMmd3NURKemppZTRaenZWUUNacXRLalRaamVDXzF3ZjlQd0lxb3hBYllJdE44TkVNTkNqd2gtbGFnZ0RKcnpRWmpJMDVIbDM1RkF4czFTRmdXR2tYVGE?oc=5",
+        "date": "2026-08-07T10:51:24+00:00",
+        "source": "UNESCO"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\"",
+        "description": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\" Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3oyajJ5Z2NJa0hRUlpfM1NSbmFWTGpRblJmYjhuU19jbG9yUmxQdkEzVWhHRVZERnU2TlJtQVlRRjFId1Y4blM4ZjVacHBialNZYWV1NVhzaF9hYVBFTjNmV1NKMGo3TG55dWJhWTZNMzRvVWNTd3JpUjQ4a1NvLVdTSHZycFhSNG9HUzFqVlNtanp1S3VjS0tQYVkyM3VUbzRSeUdBYkJ3VFcyREJNMUtyeWxGYjUwRjVsWVZoQnpSTmlaTS1ZQUNXVdIB0AFBVV95cUxPcHJVd3NtMF9yN3hfZk13dG5ieG9TNkpoeGRzb05lNXE1VGhtVUhPWHE1R3owZ2p0MnJ6V1JuWk12ek1ZOHlpdTlfZTZBX2cyOWV1S2xJUXREajVtZnRWNTlIeGtvZnUzZVZwRHdEUmRIQXlTUy1POW9MVFBPRWlBb2tuc182bTlZR2czSGExRFFDNXM2anBod1RkUmdTQlk4dzU5OGZGUm82UWhxSDNjUWh6UVVGMkp4MWw2WHpZSEk0am12T3B6NjNGNmI1UzJn?oc=5",
+        "date": "2026-08-06T22:32:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Vaca Muerta en 2040: por qué ese año puede ser clave para la Argentina",
+        "description": "Vaca Muerta en 2040: por qué ese año puede ser clave para la Argentina ambito.com",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0VMMjlMcHZkS1g0bW84bUwtNlhHcUc1SkxBOFl4STFTZUpDVWF3b3VWZlE2eUZlTXdCYS01blJLWlpIRUUwWHFSMkVQTm15ZVpYRFFpUElrQmZXV204SmozSUFzYkptaGR6WHJ3eFJSMjBzVEppWEVYOV9JSkVGaGdhcUpnemVPNHdyRXlFZnBiVFhqSDBtNWF1OGxXdw?oc=5",
+        "date": "2026-08-06T16:55:00+00:00",
+        "source": "ambito.com"
+      },
+      {
+        "title": "Vaca Muerta gana peso mundial: un informe advierte fuertes caídas de producción en las grandes petroleras",
+        "description": "Vaca Muerta gana peso mundial: un informe advierte fuertes caídas de producción en las grandes petroleras Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdG43VDJlNzA5dFhibExsbXRWUFF4TEZFZWd0N0w2b1U3dW5DRHdRSFZVaGVfMy1KRW1oWG1zeDNTbGZvaWk4QWp1MXlSYkRrOWZQei0xVHNtRUlkc25Vd2xscXppYXVUNW9PMHg0Unc1LXFVd1hMbTlBQ2hEaHNYcWxHT2pMWHVOZ0dvTk9BNG1pQm9SMmNKUGR2bUNIMC1ZUS1kX2tKUEZ5cEhTandVUEIxOG5rQkROWUxPWEtTOEZ2bnlNNzNSUXpZblMzSmtCdW1lMWI2RmxvYW1uaHBR0gHkAUFVX3lxTFA4eDZxS1B2Y3FyZ3pfWFdFT1hRN1ZYQWF1bWI1TXdGalcydU0ta29ud3l5cWxpZXctWWdmMzNZVW1lYWdjM1pwczdBNXZvNDVTQk9uZmxTc1ItNjdUMzJPV3pmSE9CQWNQSmtCUGxIRkJxdVNBbFlNZG1ucDUtWjBNODJtZ1dZZUVjT2lfc1JXcThMVnNoZncwVG5HNTBzRFFCbnlfdEl1WGpuUVlSTzFiY1R0RHVwRUg2empTMGJscGVSRGo5dlVUZnJSLUFnWmVJQ0N1ZXluS3UzYlczQ1lsc29hUg?oc=5",
+        "date": "2026-08-06T16:05:53+00:00",
+        "source": "Lmneuquen.com"
+      },
       {
         "title": "Vaca Muerta: hay al menos 15 petroleras interesadas en las nuevas áreas que Neuquén licita a través de la estatal provincial GyP",
         "description": "Vaca Muerta: hay al menos 15 petroleras interesadas en las nuevas áreas que Neuquén licita a través de la estatal provincial GyP econojournal.com.ar",
@@ -163,32 +184,11 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Con los RIGI de Vaca Muerta y la minería, Loma Negra confía en un récord de la construcción",
-        "description": "Con los RIGI de Vaca Muerta y la minería, Loma Negra confía en un récord de la construcción Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjlmckNZMmZpZ09SY0k2SW9zakd3Q1lUc1Mwb1V5d2MxNy1XZHFZWXljdW9qMGEtVjdDOG5NNUh4cU41ajVrUnlwVktfYTc0T0xyWWtQRlFTLXpqSHRsVElOby1FTTRFNmJ2ZVBhZHliMkZlWDlzUjNQYUFPLTBGUTVrcHpBSmVYa19tRFU5WDdHNTBaS1REUllfbTBuNGRPaHlUMVFCbmxYWHFkNEc3cnB3?oc=5",
-        "date": "2026-08-07T15:16:55+00:00",
+        "title": "La petrolera de Manzano y Mercuria incorpora IA en sus pozos de Vaca Muerta",
+        "description": "La petrolera de Manzano y Mercuria incorpora IA en sus pozos de Vaca Muerta Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnM3NjVLMTBpeFQ3aFFfMzJkQ1Zjay1vbU04TnB5Nl9TM2taTExNVjZjZ0tKR1hVbVRrc3c2RURDSnRrQWcyZTNKLVRlc1hYVVkwbUVBcVhOdmxPcHM5VTlEOTlWSXFWQmRHSGhaZXU0YjlKLThyOFY5SkFoZHkwb0o5ZjI4cl9nTWtrb09jWTRhdzNPaVV2eWNrZGxDTHVfbVNKNUlpUkhPWnNoNXA4VWJLY2VpUjjSAbwBQVVfeXFMT2VWRjRMN1R6dFNlSWYtbDhhaEFESjkyaUtnX1JYUmszcGlEVm1ES0s2anRNZTNaRWdDYm1IQUJnWnpzSXVuY1AyWHFjdkhXOHRNUXMzUWhwVE8wa1lpOXlFXzFrRXhtMTcxdWdvTWhxeENrNTdoRVgxRXlwc1ppNmQwOVRITmwySlY1cldSY1dHbG4yRUNZTzBHaGdMeDJURnB0bUs3UjQ1WFEyc1k4ZnBYMWJkZ3VXYnhGY18?oc=5",
+        "date": "2026-08-06T15:11:19+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030",
-        "description": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030 econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVhSQTZ2LXNmanQwdDRlWm5nRVJZa3FSVXpXempmemhPOUh4QXctTFhzMkRlX0JDNHpQVTFVNXlWWnlTUThVUnFubERmVnBsdEFEb051VEFFSFJjU0FTaXpMcGVBZUZ4TXMxRS00WHRiRUNUWWlUUFVIeTFjMXBteTJaZERRUFpqdkRKaW9FN0lSQ04tRjBrZnQ1ZFdHYWx4WFpudHFha3VNWHQyUmR2cWhEMmZ2bnBaYm1LWHpSMFFKdw?oc=5",
-        "date": "2026-08-04T19:23:00+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Vaca Muerta en 2040: por qué ese año puede ser clave para la Argentina",
-        "description": "Vaca Muerta en 2040: por qué ese año puede ser clave para la Argentina Ambito",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0VMMjlMcHZkS1g0bW84bUwtNlhHcUc1SkxBOFl4STFTZUpDVWF3b3VWZlE2eUZlTXdCYS01blJLWlpIRUUwWHFSMkVQTm15ZVpYRFFpUElrQmZXV204SmozSUFzYkptaGR6WHJ3eFJSMjBzVEppWEVYOV9JSkVGaGdhcUpnemVPNHdyRXlFZnBiVFhqSDBtNWF1OGxXdw?oc=5",
-        "date": "2026-08-06T16:55:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\"",
-        "description": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\" Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3oyajJ5Z2NJa0hRUlpfM1NSbmFWTGpRblJmYjhuU19jbG9yUmxQdkEzVWhHRVZERnU2TlJtQVlRRjFId1Y4blM4ZjVacHBialNZYWV1NVhzaF9hYVBFTjNmV1NKMGo3TG55dWJhWTZNMzRvVWNTd3JpUjQ4a1NvLVdTSHZycFhSNG9HUzFqVlNtanp1S3VjS0tQYVkyM3VUbzRSeUdBYkJ3VFcyREJNMUtyeWxGYjUwRjVsWVZoQnpSTmlaTS1ZQUNXVdIB0AFBVV95cUxPcHJVd3NtMF9yN3hfZk13dG5ieG9TNkpoeGRzb05lNXE1VGhtVUhPWHE1R3owZ2p0MnJ6V1JuWk12ek1ZOHlpdTlfZTZBX2cyOWV1S2xJUXREajVtZnRWNTlIeGtvZnUzZVZwRHdEUmRIQXlTUy1POW9MVFBPRWlBb2tuc182bTlZR2czSGExRFFDNXM2anBod1RkUmdTQlk4dzU5OGZGUm82UWhxSDNjUWh6UVVGMkp4MWw2WHpZSEk0am12T3B6NjNGNmI1UzJn?oc=5",
-        "date": "2026-08-06T22:32:00+00:00",
-        "source": "Perfil"
       },
       {
         "title": "El acuerdo de salarios petroleros “dinámicos” en Vaca Muerta",
