@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:55:26Z",
+  "updated_at": "2026-08-07T10:47:37Z",
   "categories": {
     "Microsoft": [
       {
@@ -17,18 +17,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Microsoft en sobrecompra extrema, +15% sobre su media: Niveles en vivo",
-        "description": "Microsoft en sobrecompra extrema, +15% sobre su media: Niveles en vivo Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlM3dDlpZ0w0a2ExUUlyU0s2aHNISEw0eUlJVjdIMzVNdElBel96TU9mRWVIZl9CQWtBQnpmUU91R2ZCZ3ZOak9WQmlIUDJnMmIzOUZkVWRQaU1BWk9PNFJqN29Fa0hLdzJJR1R4cnQ2RGhPbU9GTzRWdlZUeGdvUDZqbF9IN21hWWlKcFNsUENWZGJSekQyel80M21PSzBzWUNIVF84T09JNi1xSFptVEZuYWRJRVlyRHpwdWFZcw?oc=5",
-        "date": "2026-08-04T08:41:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
         "title": "Microsoft todavía depende mucho de OpenAI para su negocio de IA",
         "description": "Microsoft todavía depende mucho de OpenAI para su negocio de IA RedUSERS",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFlDbGZkSUtzcFZJa3d5Y0Y2MjEtUTJESElhSHZDUzU2Q0ZHaE5qNHBBR2JIMUZsLTV4RnBsRHhuRVpJN25Lb1NOenJFd1lqY0lEOVBmOGNxUXVQVTVoanR1T09qLWlhVTJxbUd0MHdkQXZzOHZPY3AtOXNkSVNhTzY4MWh0UU81aVRMLQ?oc=5",
         "date": "2026-08-06T15:02:36+00:00",
         "source": "RedUSERS"
+      },
+      {
+        "title": "Microsoft en sobrecompra extrema, +15% sobre su media: Niveles en vivo",
+        "description": "Microsoft en sobrecompra extrema, +15% sobre su media: Niveles en vivo Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlM3dDlpZ0w0a2ExUUlyU0s2aHNISEw0eUlJVjdIMzVNdElBel96TU9mRWVIZl9CQWtBQnpmUU91R2ZCZ3ZOak9WQmlIUDJnMmIzOUZkVWRQaU1BWk9PNFJqN29Fa0hLdzJJR1R4cnQ2RGhPbU9GTzRWdlZUeGdvUDZqbF9IN21hWWlKcFNsUENWZGJSekQyel80M21PSzBzWUNIVF84T09JNi1xSFptVEZuYWRJRVlyRHpwdWFZcw?oc=5",
+        "date": "2026-08-04T08:41:00+00:00",
+        "source": "Investing.com España"
       },
       {
         "title": "Microsoft explica por qué tarda tanto en modernizar Windows 11",
@@ -41,7 +41,7 @@
         "title": "Todo lo que llega a Windows 11: Microsoft detalla sus próximas novedades y cuatro áreas de enfoque clave",
         "description": "Todo lo que llega a Windows 11: Microsoft detalla sus próximas novedades y cuatro áreas de enfoque clave Profesional Review",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjFNREtiamo2aDU5OXBNVUJNaGJ6Z2lseXFsQXVZb2M4T1IyN0ItUG9Qc1NPOEVxZ2Z4a2htQTRTc2dGcDYtVkNBbFhIMElLYVY5bzJzRl9GcG8wX2VDcXd0WkVLNDFYLTZXZ2EzR3QxTFl3MV9QVkxZX2pQbjFiTWc1M0xVanRPRGRjZHItcmpxTkJTaTl4LV9zenk2emZRM2FJZG1vd3Y5Qm82UlEyMzdyMkpkOEE0WGZyVjBTLTJTSkFBVDFQb3ItcVBIbHhsT21oUnZZWXdfeldiTzFSYXpka9IB6AFBVV95cUxQRHVNdmFoR1FuRlB2RkxfUnZtVW9IYnZNRVdvX1EzWmpTTFpCMFU1NHZOTFlsLUl2RlhBX0ltTVYtc0dWamI1WVRQYUxpWW94V19FeHA5WGRGQWxUaHFQVWQxdDN3ZmlWMG9ESmpuREtic3Rod2tIRl83anFueEFPQWZiRGd0RTZRNWhLaE82N3ZzQkVwVm1IVXA4NV9rcldNYWFaM215R0xOTU5xdkZqYm1WSnpISmNrVTYzOG9PSWE2ODdRcWZuZGVya0Zyck45QjlXQldmU0JJa0RwSVVUeWxfX0cxWFVG?oc=5",
-        "date": "2026-08-06T12:53:28+00:00",
+        "date": "2026-08-06T12:52:35+00:00",
         "source": "Profesional Review"
       },
       {
@@ -105,6 +105,13 @@
     ],
     "IA": [
       {
+        "title": "Mateo Salvatto: “El principal error es incorporar inteligencia artificial sin saber para qué”",
+        "description": "Mateo Salvatto: “El principal error es incorporar inteligencia artificial sin saber para qué” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT2tIR2Q4UTlDUkY0akxOTHdxY3ZWYnY1X2VIWUhxcjVsYkkyWjVTNWFselQybml2UXR1T0p1NGlCdzk3WFQ3U0pFMGVKY2pXSV9YUWRER015bktjOFJfZ3BTeUxvUUwzZmhHRlU4UkIwdUNLSTJPWjF1ZUFyOUdSam5VUm55SVhNc29lMlE3OHNBSFUwdTRpVzZuamdwaGZPTm9pZV94Qkk1eEI4VUFFRmpfTnVfZ0E5eEs1ZmU0NG5aWS1ndTE3NmIyRXlPRFlQcUZUZ0drQkVJZFIwdlRR?oc=5",
+        "date": "2026-08-07T10:00:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial",
         "description": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial BBC",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiRDJhQU90dWdiYnlEV1FNaGxQZm1XLWtrVlpaUjhNTzdLR1Azal9qS0Nwelp5b2ZISmxFLW1XZ1hrQ3pfT2xNSmgwbk1HejlhYTJ6eVRpSzh6X3PSAWBBVV95cUxNOEFTbFNHWDhyZlBTVGtsUE84S3NfbEU1UWpDM04taXl3dEs2cWlId1ZNWjRBd3JCMVJqSjh1b3djZlRSUk14R0Zpd2JqdTU0X2ZPYjlITEYxR2pUaVFGMTM?oc=5",
@@ -126,25 +133,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Manual de IA: cuáles son las tareas que la inteligencia artificial todavía no puede copiar",
-        "description": "Manual de IA: cuáles son las tareas que la inteligencia artificial todavía no puede copiar La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0xjY19YaUduSzljaHVLWXhsdnc4dHZMUWRUdUw5YkhITS05T0xUTW5OWnFWb180OGdCMjFVaTR0SEtWT2xtcFVNaTdpb0lObV9hQ2NTZFVwdXRYdUt5M2hmUU0wUjZ5Skc2dF8wZTZXMnZKQTNpSDlQSmtMWlJncUllVHN6MWdqNDU0TS1qdVc3a0hLMW5sWHZ1dUpwUW1sQWJCQnBTVzcyYzdiYTA0bXNFTk5tSEo1b3JMOEpZaTY?oc=5",
-        "date": "2026-08-06T16:13:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma",
-        "description": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma Xataka",
+        "description": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma xataka.com",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGllRlBDNTA2aHJPSmRQTzIzYlpoNmZ2QWdweG9NcUthc2lvOHB3cWJsVUdqQUNqYmZ6c092UzZ0ZHJaVmRQWWNURlZuLW5LdUZoWVVNZmRmWXZJazc0dEZ3dUIzRkw3Y0N1c3V3ZlFDcVc1Y0pBRDNMOFIxaGJFekdpeDE1bVNHSEJFcHVjOXZvRjdFN2ZJYzhuLTJVcWpVbC1QczkwUVZuSXZiamY5ZUZkWmgtaXo4dDRj0gHAAUFVX3lxTE0wZXZfdzQxX3pHTG9yRzRaV29LSFFtT2R5eXU5eTNPbjdKS2dNdmtScGxqVDBITllKRVpuYTVKbDFtd2NRTW50eVIyN1ZpWjMyTW54NzhBcElTZkNrdjVoVFNZSFlZMnpRRXRTQU1JSXhLTjNXU2FtSVE5MXV6VE1YV0RiZkk4MW1BVFJ2elFYLUphNVY2M3NrVUVUZ29wNzZQYnJTY0JoazhGeVROMDNuRGo3NmZZRThpdjFRM2NBVg?oc=5",
         "date": "2026-08-06T11:30:00+00:00",
-        "source": "Xataka"
+        "source": "xataka.com"
       },
       {
         "title": "Empleados en estas posiciones cobran hasta 25% más de sueldo gracias a la IA",
-        "description": "Empleados en estas posiciones cobran hasta 25% más de sueldo gracias a la IA iProfesional",
+        "description": "Empleados en estas posiciones cobran hasta 25% más de sueldo gracias a la IA iprofesional.com",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzdGR2w2QWJET3RvT2hmLURKdllwdURzd3d5MHhPY0c0UzdaUWZiUEV6RXNBNnNEVVduZEFHUHdYSVpMaVl4ZzNUUWJjWHJJNlZnaUlLWDd5VXJEU3BhU01CQUpPLUU2ZDhqb2JfTkM1blNuZmk1LXE3bFU3RGIwVHl4aEZFM2NjUm9pUlh2QkdYN3paZnFOWWhmMk12blVzOHh0enNUNmZOSnVaQ1NyLTQweEhyNlB4SGJfekxvYzNKSENfXzhiZkJpT0xqd9IB0wFBVV95cUxOTV9QdHVfQTduXy1PZ3lVNEc1Qjh6T2JmT2ljdFk2a2NyMDFHQ1ppbDRVaDBRRWtkOTVUdVN5TVJwazdtV2hMdjl0NDVZZS1IWXJDVXFuSzFuRVdJaVQ3TFVYWnFTOVJtX3Bqb2JzNE05UDU4b1ZqRGQ5R1lqYl9RcFJGeFdwVXZGU0Jod0V1OF9Hb0l2WXVIQm1vLXAtbWpVMGVCMkZvX29mRGxrMjVxZXdBcHFRdkI1SndzMjZlWjlXaWhIWGx3aExpMDdoRENEejFV?oc=5",
         "date": "2026-08-06T18:40:00+00:00",
-        "source": "iProfesional"
+        "source": "iprofesional.com"
       },
       {
         "title": "La situación en China preocupa: el desarrollo de la IA está obligando a personas con títulos universitarios...",
@@ -177,13 +177,6 @@
         "source": "Infobae"
       },
       {
-        "title": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\"",
-        "description": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\" Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3oyajJ5Z2NJa0hRUlpfM1NSbmFWTGpRblJmYjhuU19jbG9yUmxQdkEzVWhHRVZERnU2TlJtQVlRRjFId1Y4blM4ZjVacHBialNZYWV1NVhzaF9hYVBFTjNmV1NKMGo3TG55dWJhWTZNMzRvVWNTd3JpUjQ4a1NvLVdTSHZycFhSNG9HUzFqVlNtanp1S3VjS0tQYVkyM3VUbzRSeUdBYkJ3VFcyREJNMUtyeWxGYjUwRjVsWVZoQnpSTmlaTS1ZQUNXVdIB0gFBVV95cUxPWE1KNzVhRVdPM0ZuRi1WSmVWNmVqQzdmNlpuS2lyeUxGa0diQXJnTkZIZG94MFNJOUNoUlVaS3RGYkxsYzNfMUZVV3djcDZrRVpHR2xVZzJTWjJ1YnE2MHZmZVIxQ2wwZHJaVXhHUk00cWhkTk94SEQtQ200djk5Vlk1MEt4R0dnV0JmX0Q2bUV6NDNPeHc2Q0NUSWhMbjRjbEhYcjlmYnpQMzZxODQ2Ujd5MW1FTXprSkxmTTJ1aGZJc2lmdTVVSW9HNzM3OEZTZ2c?oc=5",
-        "date": "2026-08-06T22:32:00+00:00",
-        "source": "Perfil"
-      },
-      {
         "title": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030",
         "description": "Vaca Muerta requerirá entre US$ 15.000 y US$ 20.000 millones de inversiones adicionales en infraestructura hasta 2030 econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUZ1b1F2WklsZTUxSkhubVNINHVSRU1UeGRLdTFQOV9sb3VzTHNsY1FkajdVNjZJWndxamVDWG1Ya21GcnZISnZHSTI2dHJBQUtQeVF0UjVOc0tjQm9yT2FuVmI5VXZFRTRqVEdmU3FobTlHSXRIck9jbXFIeG1HbHpwR0cwRHhlVkI3U1F5eU8wUm12SC0xYmJJWDd5S3RoM3d4dndlSXJRV0xqX2FKYTREclZVeEFjLVVYang4QkFSMU1PYkE?oc=5",
@@ -198,11 +191,18 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "El boom que no se detiene: petróleo récord, más exportaciones y miles de millones en inversiones",
-        "description": "El boom que no se detiene: petróleo récord, más exportaciones y miles de millones en inversiones Ambito",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1ZsZkJvY1dYSFNPQzBUQWVUandlVGVKUGNJQ2cxNE9IdGh1TVdUUWZYenYyUmxfNzg5TXhTVkcyM0g5WmZOYUJJUUxjMDRWOTdXV2hQdDE5OGRYMmg1Mk85aE9zNGR3MUJqeDgtQmxxdm9aaUM3UG90cXVNUVNwdWdBMGVMUFl1RzJYNGlvd2xacGxjdThhUlJlM0VoX0t5Rlk3NkJmQW15d3g0dmI5dXp4eWJrblZtM1B6TXRWWkdQaC1WWFlZ?oc=5",
-        "date": "2026-08-05T16:18:00+00:00",
-        "source": "Ambito"
+        "title": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\"",
+        "description": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\" Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3oyajJ5Z2NJa0hRUlpfM1NSbmFWTGpRblJmYjhuU19jbG9yUmxQdkEzVWhHRVZERnU2TlJtQVlRRjFId1Y4blM4ZjVacHBialNZYWV1NVhzaF9hYVBFTjNmV1NKMGo3TG55dWJhWTZNMzRvVWNTd3JpUjQ4a1NvLVdTSHZycFhSNG9HUzFqVlNtanp1S3VjS0tQYVkyM3VUbzRSeUdBYkJ3VFcyREJNMUtyeWxGYjUwRjVsWVZoQnpSTmlaTS1ZQUNXVdIB0gFBVV95cUxPWE1KNzVhRVdPM0ZuRi1WSmVWNmVqQzdmNlpuS2lyeUxGa0diQXJnTkZIZG94MFNJOUNoUlVaS3RGYkxsYzNfMUZVV3djcDZrRVpHR2xVZzJTWjJ1YnE2MHZmZVIxQ2wwZHJaVXhHUk00cWhkTk94SEQtQ200djk5Vlk1MEt4R0dnV0JmX0Q2bUV6NDNPeHc2Q0NUSWhMbjRjbEhYcjlmYnpQMzZxODQ2Ujd5MW1FTXprSkxmTTJ1aGZJc2lmdTVVSW9HNzM3OEZTZ2c?oc=5",
+        "date": "2026-08-06T22:32:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "YPF vendió su parte del principal yacimiento petrolero de Mendoza para concentrar la inversión en Vaca Muerta",
+        "description": "YPF vendió su parte del principal yacimiento petrolero de Mendoza para concentrar la inversión en Vaca Muerta La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaFFWQlc2SkMxbHBVeHRxMDRUZG5TX0J1dWNVdzIzUUNKQl9DaVFhTlRkMmdIMkdOSEl0cnpiOHdYSHJBUzAwQ1lOMGVFc0N1b1BDdGljWG9ZYTNDVXJnTGs5ZUtKWE9IcGtDZHEzRmY4ZGxnSmUtS256eUs0aE1zWWZCWDhvQVdMcmlnSktLa1pmUEoybGVMWG9EYlFSOWN0Yl83QWptMmtPd3haRHVHU3JBakVNYjNNMDlERDMwTFFTSXNwaXdaa1VQYWFQWTlSUjBlWURJMA?oc=5",
+        "date": "2026-08-06T13:46:27+00:00",
+        "source": "La Voz del Interior"
       }
     ]
   }
