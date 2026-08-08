@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T04:50:21Z",
+  "updated_at": "2026-08-08T05:38:02Z",
   "categories": {
     "Microsoft": [
       {
@@ -25,10 +25,10 @@
       },
       {
         "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
-        "description": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control hipertextual.com",
+        "description": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control Hipertextual",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0htdUdzdHVmZFQyUklETDlnYW5tMHlRbEpkR2hMS01aMjgzcDRoR2lZeEJjYVBwQUNsaHd1NTY1SXpQdVAteFB2aGxIVjJNdUdDRTJ0MVlORkZ3SXotSXdWQkZmcVhGUWJ6SllWWURBbGtRSXpOOVJjaThJdjN2dWpya21jTE5wNExXZGh0X0w4THAxa0E4dmM4cw?oc=5",
         "date": "2026-08-05T21:35:00+00:00",
-        "source": "hipertextual.com"
+        "source": "Hipertextual"
       },
       {
         "title": "Microsoft elimina recomendación de 32 GB RAM en Windows 11",
@@ -126,6 +126,13 @@
         "source": "Perfil"
       },
       {
+        "title": "Mercado laboral en Estados Unidos, la cifra de julio y el debate sobre el rol de la IA",
+        "description": "Mercado laboral en Estados Unidos, la cifra de julio y el debate sobre el rol de la IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmp2cXVManhJSzJYbXpmVUhObHYtcFdwV2g1Ti1aSWRaRVhQbWhmb09GMmh4bG8xOHJKaU5vUTYteUlQZzljTndtd29RM1BXNk53bTRFb3l3aDlUaDBXM0V2VzdiaWk1WUxqanY5NXcyWnRObndrd094ZkJPTFZLZUtUVy0wM1hhTjNnMzFkSXhwTTQxY3ltQTRXcGNzTmI5c0JmalhDZEJtVFBTQ2U4U1E0QjRqcVRETTV0N2I0N3dpUUNxUXdfOdIB4wFBVV95cUxQY3BERE5fM2U2Vm9Ia2V4ZDhXbl82V0ZkNE5hWTB0UXpwVXppcTgxc1Z4Rk16ak1QOUkwdEphX2pWZFRGY3FOb056dnQ0Mi1nbUEtU0h6bUdaeFhZTjhoRDd1Y0ZTOHVzckFUMUJUWV9xV3hqNVpEZTZSQ2dDT01qM1Vsc28zbW0xYW1mYzNsWWFMZlU0Nkg5UkhZVE5Rd0NzWl96cko1YXppXzFCSjZfTU5rTDlDSEQ2VnhrekhjZU84TzlIamNDX1piRmdPNGVqV3duaTZmdktXeVpVaGxMLW10Zw?oc=5",
+        "date": "2026-08-08T03:23:07+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "La chispa humana en tiempos de simulación",
         "description": "La chispa humana en tiempos de simulación Los Andes",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPblUxWnpXdW84X1BRdzVwWnhDeXFDYzdiNTV3ZFp6QVhFZTBsVjAzT3Fpb0RpQTJvU0ptUkhUcHVHYXpvTUJTVzBOdnpHeGVVbktnTWJUdVduM1lJenhmSUR3OFpNUTZxcHBRbUpKSU5WN2JPcGZyNlpCN2hGSXV5aXlqazdfWlE?oc=5",
@@ -140,18 +147,11 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "Mercado laboral en Estados Unidos, la cifra de julio y el debate sobre el rol de la IA",
-        "description": "Mercado laboral en Estados Unidos, la cifra de julio y el debate sobre el rol de la IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYmp2cXVManhJSzJYbXpmVUhObHYtcFdwV2g1Ti1aSWRaRVhQbWhmb09GMmh4bG8xOHJKaU5vUTYteUlQZzljTndtd29RM1BXNk53bTRFb3l3aDlUaDBXM0V2VzdiaWk1WUxqanY5NXcyWnRObndrd094ZkJPTFZLZUtUVy0wM1hhTjNnMzFkSXhwTTQxY3ltQTRXcGNzTmI5c0JmalhDZEJtVFBTQ2U4U1E0QjRqcVRETTV0N2I0N3dpUUNxUXdfOdIB4wFBVV95cUxQY3BERE5fM2U2Vm9Ia2V4ZDhXbl82V0ZkNE5hWTB0UXpwVXppcTgxc1Z4Rk16ak1QOUkwdEphX2pWZFRGY3FOb056dnQ0Mi1nbUEtU0h6bUdaeFhZTjhoRDd1Y0ZTOHVzckFUMUJUWV9xV3hqNVpEZTZSQ2dDT01qM1Vsc28zbW0xYW1mYzNsWWFMZlU0Nkg5UkhZVE5Rd0NzWl96cko1YXppXzFCSjZfTU5rTDlDSEQ2VnhrekhjZU84TzlIamNDX1piRmdPNGVqV3duaTZmdktXeVpVaGxMLW10Zw?oc=5",
-        "date": "2026-08-08T03:23:07+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Manual de IA: cuáles son las tareas que la inteligencia artificial todavía no puede copiar",
-        "description": "Manual de IA: cuáles son las tareas que la inteligencia artificial todavía no puede copiar La Nación",
+        "description": "Manual de IA: cuáles son las tareas que la inteligencia artificial todavía no puede copiar lanacion.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0xjY19YaUduSzljaHVLWXhsdnc4dHZMUWRUdUw5YkhITS05T0xUTW5OWnFWb180OGdCMjFVaTR0SEtWT2xtcFVNaTdpb0lObV9hQ2NTZFVwdXRYdUt5M2hmUU0wUjZ5Skc2dF8wZTZXMnZKQTNpSDlQSmtMWlJncUllVHN6MWdqNDU0TS1qdVc3a0hLMW5sWHZ1dUpwUW1sQWJCQnBTVzcyYzdiYTA0bXNFTk5tSEo1b3JMOEpZaTY?oc=5",
         "date": "2026-08-06T16:13:00+00:00",
-        "source": "La Nación"
+        "source": "lanacion.com.ar"
       }
     ],
     "Vaca Muerta": [
@@ -164,10 +164,17 @@
       },
       {
         "title": "Loma Negra apuesta a Vaca Muerta y la minería para crecer",
-        "description": "Loma Negra apuesta a Vaca Muerta y la minería para crecer La Nación",
+        "description": "Loma Negra apuesta a Vaca Muerta y la minería para crecer lanacion.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTNjVmRpUnF3V29DOWhEcUtON3A5TXBSdXpGUU5SUW1Hd2VvRjhOZW16Rmp6MmVRVzJXLVRodnItbV83ejJwNE5oSE15bWVhdHVNQjk1aXRHbjU1THROTFlCZXRQb2ctcVdnVC16aHJmSnJyUXRYMWxXUFJqSndCU3lYSi0tS01xQ1ZyNzhLQVczbkpqeEE2RGFCYmM2amVMdFBla3ZZanB3SGZuLXcwZWtXSnBDTnZETWJVZ0pfMFZqRmdCQUZIdzIzVk0wZmdEajl2aw?oc=5",
         "date": "2026-08-07T17:00:00+00:00",
-        "source": "La Nación"
+        "source": "lanacion.com.ar"
+      },
+      {
+        "title": "Con los RIGI de Vaca Muerta y la minería, Loma Negra confía en un récord de la construcción",
+        "description": "Con los RIGI de Vaca Muerta y la minería, Loma Negra confía en un récord de la construcción Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjlmckNZMmZpZ09SY0k2SW9zakd3Q1lUc1Mwb1V5d2MxNy1XZHFZWXljdW9qMGEtVjdDOG5NNUh4cU41ajVrUnlwVktfYTc0T0xyWWtQRlFTLXpqSHRsVElOby1FTTRFNmJ2ZVBhZHliMkZlWDlzUjNQYUFPLTBGUTVrcHpBSmVYa19tRFU5WDdHNTBaS1REUllfbTBuNGRPaHlUMVFCbmxYWHFkNEc3cnB3?oc=5",
+        "date": "2026-08-07T17:02:29+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Apud, exsecretario de Energía: \"Todo lo que produzca Vaca Muerta de acá en adelante es para exportación\"",
@@ -184,25 +191,18 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "El boom que no se detiene: petróleo récord, más exportaciones y miles de millones en inversiones",
+        "description": "El boom que no se detiene: petróleo récord, más exportaciones y miles de millones en inversiones Ambito",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1ZsZkJvY1dYSFNPQzBUQWVUandlVGVKUGNJQ2cxNE9IdGh1TVdUUWZYenYyUmxfNzg5TXhTVkcyM0g5WmZOYUJJUUxjMDRWOTdXV2hQdDE5OGRYMmg1Mk85aE9zNGR3MUJqeDgtQmxxdm9aaUM3UG90cXVNUVNwdWdBMGVMUFl1RzJYNGlvd2xacGxjdThhUlJlM0VoX0t5Rlk3NkJmQW15d3g0dmI5dXp4eWJrblZtM1B6TXRWWkdQaC1WWFlZ?oc=5",
+        "date": "2026-08-05T16:18:00+00:00",
+        "source": "Ambito"
+      },
+      {
         "title": "Alerta en Vaca Muerta: advierten por un cuello de botella que exige hasta u$s20.000 millones para solucionarlo",
         "description": "Alerta en Vaca Muerta: advierten por un cuello de botella que exige hasta u$s20.000 millones para solucionarlo Ambito",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS19zWC14S19mM2owTmhBaFBsa1ZwSVlkRXY2MXczTi1SWlg4bGZOYmNGTXFRbVR5enBTMENzSTQ0Z3p0T1hBWGZUZFZPeHFfLW5lTlZhcEM3T2xUUnQ1SW1MNjNUVzhaRmZGWG5GQXJ0MGJxN0N1empTdFNULThiTFdiM2J5WEVGd3VyV053RjFGcDVFanI2NDZqbS1pZEhTU252YVJWaERqVDlVQk1MZ1o0cFp4MGNKaUh2MzZqOHVIbDZ5N0E?oc=5",
         "date": "2026-08-07T10:00:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Con los RIGI de Vaca Muerta y la minería, Loma Negra confía en un récord de la construcción",
-        "description": "Con los RIGI de Vaca Muerta y la minería, Loma Negra confía en un récord de la construcción Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdjlmckNZMmZpZ09SY0k2SW9zakd3Q1lUc1Mwb1V5d2MxNy1XZHFZWXljdW9qMGEtVjdDOG5NNUh4cU41ajVrUnlwVktfYTc0T0xyWWtQRlFTLXpqSHRsVElOby1FTTRFNmJ2ZVBhZHliMkZlWDlzUjNQYUFPLTBGUTVrcHpBSmVYa19tRFU5WDdHNTBaS1REUllfbTBuNGRPaHlUMVFCbmxYWHFkNEc3cnB3?oc=5",
-        "date": "2026-08-07T17:02:29+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "El acuerdo de salarios petroleros “dinámicos” en Vaca Muerta",
-        "description": "El acuerdo de salarios petroleros “dinámicos” en Vaca Muerta prensaobrera.com",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWV9oaFgwYzZxSFNvN1FqVVhFTWM1US0ydXZaYnNVNnB2bkxaTUZrajlremFlNERVMk1DMXplVEdzajNoTmxDdHF4bGFxMElJc2ZtSDRUZ3I5Z21CWnBxMEh4b2V6OGlxTnpqcXZZV09HQ25WdHp3b2g1Z3hyc3dPYjJHa1R2UFJQX3ZSb3RjX3A2am80X05pNHBB?oc=5",
-        "date": "2026-08-07T15:32:58+00:00",
-        "source": "prensaobrera.com"
       }
     ]
   }
