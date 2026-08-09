@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:43:51Z",
+  "updated_at": "2026-08-09T14:28:22Z",
   "categories": {
     "Microsoft": [
       {
@@ -106,10 +106,10 @@
     "IA": [
       {
         "title": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
-        "description": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA BBC",
+        "description": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA bbc.com",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSlNzY3lMdThETy10bnFCay05eXRzczVIVlBNVWVRSHdpYlYzR3IzWGUyZ2NoSGg0VUM3Y0c0b1dTemVTMW9OX09udkppQ080WU4xVVNYNXNoMHPSAWBBVV95cUxPM3FCZXlaZ3oyMTJkcFlTX3JWWjE1LVV4RmVwdlpYRmQ4QWRuZy00NGljTHJQcGZnMnU3c3dPaDdUUjJ5TlhweHhQd2RZNzA3M0U2cndXVjl4MVdhbExMS1E?oc=5",
-        "date": "2026-08-09T11:26:15+00:00",
-        "source": "BBC"
+        "date": "2026-08-09T11:28:38+00:00",
+        "source": "bbc.com"
       },
       {
         "title": "Juan Martín Maldacena: “No veo razón por la cual la inteligencia artificial no pueda superar a la humana”",
@@ -127,10 +127,10 @@
       },
       {
         "title": "Patrick Vandenameele, doctor en ingeniería electrónica: “La IA dará un paso más; el próximo será la inteligencia sintética”",
-        "description": "Patrick Vandenameele, doctor en ingeniería electrónica: “La IA dará un paso más; el próximo será la inteligencia sintética” Clarin.com",
+        "description": "Patrick Vandenameele, doctor en ingeniería electrónica: “La IA dará un paso más; el próximo será la inteligencia sintética” clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSkY0OWowLUk2NEVGQ1NFOTZhMWZCS2NmeHY3LWU4OGpqR1NkNDVCWEVVZmt3VEhyeVplYllnN083N0pjQ21nYUloXzhWNDRTdFBKUHRxVEZhRlpiRzRDdC1pNFh3YlM4VHB5WTJxcXkzMnctekNaU2RuTzlPajFJaXhGZXBzc1JHVjdlVEJERlJvWXZNVk5zeGJXam5QTUNkajN2OWJLdzBBc1diN21iZE9icDF6TWlhaXVxMThMVWxWVXRMam9zalk2eTN3aThUT21PYnBBZkF3OWgteVhvWkVoMA?oc=5",
         "date": "2026-08-09T09:27:31+00:00",
-        "source": "Clarin.com"
+        "source": "clarin.com"
       },
       {
         "title": "Madonna encabeza la resistencia de la música contra la Inteligencia Artificial",
@@ -156,6 +156,20 @@
     ],
     "Vaca Muerta": [
       {
+        "title": "H&P redobla la apuesta por Vaca Muerta: traerá rigs desde Estados Unidos antes de fin de año",
+        "description": "H&P redobla la apuesta por Vaca Muerta: traerá rigs desde Estados Unidos antes de fin de año Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVWE3cHctOEQxT2FZejFGV0c2Q2E1UXg2bGsteEFkUkRGR0FZMXRSVHI5bzNxZlhjTlZTUkhBano3anpLNkkyRkN0RV9GTjMweFNHSnp5cTZVWGVDZGFtZTNPYzAyYUxncXdlZ05USENOVjFHRXR4ZjhLS0NCckEyam0wa3QtZ2FDX3VmSTNEMm81ODNHUUViVm9aZUZ0N0I3SVI3Z1hkaWViT1p4TkJBMElpYUk0N1c1TWhj0gHAAUFVX3lxTE5XR3JLLWRnNF9kcVVqdW1QZ2g4eWN1UF9ZY2U5dkcyZ0RnX2o4OENMMzVwX1FGWDBqS1JleFYyXzluRUR5ZUp0Z2tKajNRRWRrclJUR3k4XzhMYU9qOXA5LVZFSFBkSXBLX3hPTGhfc09COXFDbU9CeVFRcGVMX0lrVnV1Uk5fTmQzYVRUeWxydEFVVzFmQnFSZ3lIVXFLSW5DRUN5aFJYelRnN0dxYkV3YXJjdVROY1VMVlZjX1J3TA?oc=5",
+        "date": "2026-08-07T15:30:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "La trama detrás del incidente con una cooperativa neuquina que involucra a Vaca Muerta, EEUU y China",
+        "description": "La trama detrás del incidente con una cooperativa neuquina que involucra a Vaca Muerta, EEUU y China MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb04wTzg3akg0SFNMQXFOc0pieDlXSVRqbnNrT256SWpYQnBPRDBscV9LLUhUTDdrMjFCNk5NcVItb09pRS1DX21sckcycUJxTFctaEJocnM2dXQ3anl6QlU0MmRrY3RhOFJqa2lHSGhxU3lYUFFGWVNJMmM0Q0FrTndxZjFWdWV1Ymg3Q2FIMEswRklqcFoxLXJ5WWlvcDFsX2ticHFUM3NsdGUxaGsyQXhxTkhfWkdnYXBWTl93SzZ0ek0zRnViOEx2WnJpZ9IB0wFBVV95cUxNa1I2MXFSVDE4SU9OUi16aFJ1dUZuNlc1alM0OTdxZ0Y1MmNaTkRpaEJWVl9BS2Y2WER1NkNtNFM2UWJYTnJYbHVJX0dnejl3eXlteXJHTERmdUNXZl95ak9kSmZJeE1ydFRRSnZEWS1ZVmNYaUVyaDhieTVYU3pud01IamtycTVNY3JzcktNV3k4SWFZQk4wRmp5LW1mSjVUS0tvV1B4dUppVDZSU0RpVVE4V2Q1eGR2RUg0eDFONk02d0lCRVY2ME9XQWRLMGZzX3Jv?oc=5",
+        "date": "2026-08-09T13:37:00+00:00",
+        "source": "MDZ Online"
+      },
+      {
         "title": "Estados Unidos y China trasladan su guerra de potencias a Vaca Muerta",
         "description": "Estados Unidos y China trasladan su guerra de potencias a Vaca Muerta Diario El Día de La Plata",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ21NUl9qNWVLMDRSMmxCcXl6cjkyZ081V1JDekN1MXlrNHpCM0pUS2dua2NBcjM2UUYtSVhEMW82ZVdHczNUR3NkZnZsTUxIdHZZVjhGRnhSWmV2SWdrUXpKbkZiSzNlV2hUYWZCR05BX3p2bFY0WUpxSUFRUmFfM0pla3dlSlViWVBiNmRCOFMtMEJ5RGdnUExUSE43cWEtYjNpbVVyQk03NDFfTVpqb3pIRm1BOWhRN1JjZVRma3FYUHlmTnZxSzRzc0NSYWFUZTJMbDdHeHlsUQ?oc=5",
@@ -170,39 +184,25 @@
         "source": "Perfil"
       },
       {
-        "title": "Argentina, en medio de la guerra entre EEUU y China por el 5G",
-        "description": "Argentina, en medio de la guerra entre EEUU y China por el 5G Ambito",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSThyZnFwVEFJTXNZX0JqTUYyeXZmOG1QM3BjUUYwdEdnYlV0bER6NHUwZG1qVkNDajBRajl4Qjh4cFdfWW9nNWlxamduRVhQQ1NPazZMVjBnZUhpQlcyVmRucExWanNqUW52OUNRbUo3OGhrVjJVMzNUZHBIaUd5eEVfcGtGVkp1cW9ndEx30gGTAUFVX3lxTE5xMWVPOHpkZ0c1SDZUZ2xGTW1pUW9QSGFybG5nSDRPaVJCemt3eWNDbllZX2czV2ZQVHJBNGRKemZDa2Z6M3hWdUdlamc1UGZzZVVNRWQzbVIxQXlxZjFKSXJCclFySnJHR0xnTlRDMi1yQWNTR05tTWlSc19yZ1RBbUszRlFmak5XMDlQYWpkRjNiUQ?oc=5",
-        "date": "2026-08-09T03:00:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse",
-        "description": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse Clarin.com",
+        "description": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse clarin.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFRSUVNRb3prZS1UVTF2cExOVHVZdVJnSHh6OWk3ZkV5TkRBYnRoYUNhaWFQaUVodThCVkxQeV9TcHAtQnA0M1QzOW1tTTcxNm4wUDhrMGJPc29xazR6RUI3c0ttbkFYY0ZQdjRwLWxxQ0RLZzdieWpsNTM3MDlrR1NSeG94MDFoNm1PaXRocmZmU2JYMGxLRjZXMHJ2V1JOeGlmWEUtdWhObkdBbWktN3VJSE5CTWs?oc=5",
         "date": "2026-08-09T12:00:21+00:00",
-        "source": "Clarin.com"
+        "source": "clarin.com"
       },
       {
-        "title": "Mapa de la deuda en Neuquén: las ciudades de Vaca Muerta tienen más deudores en mora",
-        "description": "Mapa de la deuda en Neuquén: las ciudades de Vaca Muerta tienen más deudores en mora Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGk3eGs3VU1ac3FQcHBFUmtOeHFxSjRrUWw3cTJLTF9mYkZEQkVzRHFjY2l0WkptX3VtaTBHQ25zcEpLNm16bGExZm5tWFJCN1V0SFVHQTZaQUI1UEpIU2FtRGV2TmVpTzdKZkNaa0xCTEljc1B1Q3JqYUtSdVcxZlVOYW03dmUxeDAxb1Izbkotbi1RTUFYT2tPcnVONVNiX1BuWTBJNTY3OGJhNllPc3VVUFbSAboBQVVfeXFMTjM3Q1RLSDdRdlpVaFpqaG1xWnM4T3JZQkl2eTY3UE0wRHExWU5ZNlVNUjNvbklYQ1hyc21SZ3d0N20yaUk5ejAxX3BrSUxuVFpQWjBEOFIyeGlDSHVWQWlCTWFfd3o0YTFTVWxkYUJxUDdDV29NSW5sdE9QOEZoNEtkZ1NFRncxQzVfRm00Y0NSbDllWHFNdHpqQ25yRUFva0ZKTzhmV3UtczRPaUtWTWFWVVdfX2VRZXdB?oc=5",
-        "date": "2026-08-09T03:00:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Vaca Muerta: denuncian que empresas de servicios asfixian a las pymes locales",
+        "description": "Vaca Muerta: denuncian que empresas de servicios asfixian a las pymes locales diarionorte.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTm4wd3Z1dEluS0cyWE9nbWUwU2xHeGxiVVFpMGhYVmVxTWRCcFpVUGEzUk9IQ3NtOE1DV1RGSlZCdWRnSVhzUjEtbmVGV1duclVvLU95UTRsc3N6MWFfbFlBXzVrUk9rNTlDTWZlY1k3dUN3V1hxMV9aU0ZGT2YxMi02blRTOUl5OGM4VENBaVRCdkxqNE9rWG1iM1FHNEpRelp1ZTFQSTdEZHduZlZ1ZA?oc=5",
+        "date": "2026-08-09T02:42:08+00:00",
+        "source": "diarionorte.com"
       },
       {
-        "title": "Loma Negra apuesta a Vaca Muerta y la minería para crecer",
-        "description": "Loma Negra apuesta a Vaca Muerta y la minería para crecer La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTNjVmRpUnF3V29DOWhEcUtON3A5TXBSdXpGUU5SUW1Hd2VvRjhOZW16Rmp6MmVRVzJXLVRodnItbV83ejJwNE5oSE15bWVhdHVNQjk1aXRHbjU1THROTFlCZXRQb2ctcVdnVC16aHJmSnJyUXRYMWxXUFJqSndCU3lYSi0tS01xQ1ZyNzhLQVczbkpqeEE2RGFCYmM2amVMdFBla3ZZanB3SGZuLXcwZWtXSnBDTnZETWJVZ0pfMFZqRmdCQUZIdzIzVk0wZmdEajl2aw?oc=5",
-        "date": "2026-08-08T17:42:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Algo huele mal en Vaca Muerta: comunidades mapuches reclaman sus derechos ancestrales en el corazón del",
-        "description": "Algo huele mal en Vaca Muerta: comunidades mapuches reclaman sus derechos ancestrales en el corazón del Tiempo Argentino",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUlE0SW1Yb1ZnVlFaZ21LMTA0emV2ZVpHazdNXzgzaWlrd05xd0JWdHVla3JMVlVWTVB3d3V6SDRlOGhqcGlmUXAzaDlSemhmZDN4V1lUX0w0X3FaOEE4anZ4eW5jX0dqWm1MWnY2LVlCaXhzOWxaQkFBTGRLdnA3TW5wc2NCd05UTWZBa3lpRUdta3VQcktBRTNvUDBUU3JkOFVHWHNSNjdWNjJWbTR3WnZHeXdKaGhfRnFpSjNSdC12UXJrUloxbUZUQ2U4VjZwWEh3QWp1WENpeUkxcTNNLWJ3RVM1REttU05HdV8tVTNLeF9kQXfSAfsBQVVfeXFMT19rN0dia3JHLXZUd3dhMDJqMHNGZVh0b1N2Wm9fY0lscWl1WUlEcWRpSDNVSFRyYzNTa3ZNSTZRRzRIb3BVc0VUa0RuUTZfUmJIOEpKWGhsNkRXS05uYTJTU09NYThLQm45QmFycDZ6RnFpek5xZVJTd01GbnZhdWFTeFFKTkxjT3hZbWdQVF9TNGt0R2VNSnhBN1kyaVAtTF9uM3N4bHZmQlRkZE10LVNQcVRHUzZ5ZTJWSC1BZlpOVHRHN2NFYWtULWRzd0NaRTBuZHgzUElpc2RVVERscG50SEE3bGx5MUNaZEljMHJWcm03M2hIclhCUzA?oc=5",
-        "date": "2026-08-08T23:23:47+00:00",
-        "source": "Tiempo Argentino"
+        "title": "Empresas regionales y el sindicato petrolero de Neuquén rechazan ajuste de Halliburton sobre contratos de pymes de Vaca Muerta",
+        "description": "Empresas regionales y el sindicato petrolero de Neuquén rechazan ajuste de Halliburton sobre contratos de pymes de Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa0pwVVVBUXFqQ2Fua2ktaUM3RUN5SzFDcnVYYk1uV0ZqcURDOW91aTJ0ZS1EOHJBeWdWNFBOM3loTC02aXlFQ2hqaS15RmdBLXZrSVdfdzZiY2VjTzVab2hUWjJtaEg3bjRjNTZYZ04ybFdjdjU0U2Fnc2NsQ0d0RmpuMWZjY0pnN2M1NWR0OWRMenFSMDI4U05WMEtmQUwxNktOOEQ0LVFCMUdUUWx1WGoxOUhNdzRtT2tLdkM0bm1EUXRDVTkwal92RFdKdkFSd01aay1DZ21nWTVybnFnRDM3RXJmZjlrZU9zU05ZQmtZR0Ra?oc=5",
+        "date": "2026-08-07T23:21:15+00:00",
+        "source": "econojournal.com.ar"
       }
     ]
   }
