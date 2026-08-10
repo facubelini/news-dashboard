@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-08-10T17:46:19Z",
+  "updated_at": "2026-08-10T18:48:41Z",
   "categories": {
     "Microsoft": [
       {
+        "title": "Microsoft planea revelar el chip Maia 300 en septiembre",
+        "description": "Microsoft planea revelar el chip Maia 300 en septiembre Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmRfZG1ucTFQWEx0NE9PS01hajhoMVpjRVhONXh2YzdwblNZWGMzaC1nb2xHTlRkdlVyeno4ekpLUUhGZGVsc29wN05ndnZiNmdkY2VjUGpLbVEzd0xaUUpYX2hjZ1NUT3h4eXVGWjIxdy0tQzh0V1hKWDl3TXBLYlhEZXVtZkpXNmZtV2gtRXBxNGRjYk5WbnNtWWtnWHZsMnhnUnNza2xuNkVSWi12Zg?oc=5",
+        "date": "2026-08-10T13:34:00+00:00",
+        "source": "Investing.com España"
+      },
+      {
         "title": "Microsoft Edge cesa las extensiones MV2 y despide a bloqueadores de anuncios como uBlock Origin",
-        "description": "Microsoft Edge cesa las extensiones MV2 y despide a bloqueadores de anuncios como uBlock Origin Infobae",
+        "description": "Microsoft Edge cesa las extensiones MV2 y despide a bloqueadores de anuncios como uBlock Origin infobae.com",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV09xbjlvOEVDbU9sUndkczA2dGUtMWFGa2lvenhENFl6NFRuZExubU1jUnc0c3VfbExHSUh4LTlVWEpZSTVVOUJCeTljZjhYcW9JZks1OE84WWE3V00ycFA2amdCRExqcDloSzRKd2hxQTZGN2V0T3Y0R2g5cWFvZ0hyWFo2b0tPN0xGaV95RHhUV3Vqbng3dVh5T3ZRUjFQMzdlUlRqYmRhUDJ5VWVXS1RPRm80dUZzNGRFZHk1dFMxT1ZzSEM2eXNpem5nQVJhZ2VzdXdPc1ZtbGFlLVBjNXl30gH8AUFVX3lxTFBiTEZCbGxMQVd6d1JjTzJnYnpaSlJhb0w2VlBnWVBHanJMWFo2Sm85U01WRDAzenNHNW5yTkFiNlZLZk9ZSVZIT1NTNjdQSmliWExjUXNHMHFUTmo0OG5wWm41T2lFMGZYUkh2eFQ5NGI1THhwdFNTcDJvRWtiNmN0ZEFqZ29saUQ4b0N3QmZYcWQ2cTZDcTFGcG91aVJ3ZTlKbHBDTkprWElGMF9wTVJtY1Y0Zmx5THIxUEE4Z3RxY0JaNjZlVUx2LXVqQ2FEOVluV0thLTVIeXpmSzE2MENJZ3AxRFl3VWhDOEFPbnJ3YVhyekJnN1VvckdiMQ?oc=5",
         "date": "2026-08-10T10:33:28+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
       },
       {
         "title": "Puede que XBOX esté en crisis, pero uno de sus estudios ha rendido por encima de lo que Microsoft esperaba y eso es una buena noticia",
-        "description": "Puede que XBOX esté en crisis, pero uno de sus estudios ha rendido por encima de lo que Microsoft esperaba y eso es una buena noticia 3DJuegos",
+        "description": "Puede que XBOX esté en crisis, pero uno de sus estudios ha rendido por encima de lo que Microsoft esperaba y eso es una buena noticia 3djuegos.com",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVFFZTRMVWFPM2hqWmlZZjN5bF9VeXdjeXBtY2h2WTZmRGZfcGFyZ0lTWW1LSTZMVDBfS0o1UnZwaXkwa0VCWEpjOFI2RVZPWHQ1Wm82a195cE9YbEZrMUtQNTdjRTVfVUxFQmpxbVBUcFNZYVExSzhVWjFxZmVlVmwzdVpiTmthdkJrNnl1cDUzdlVXS1c5bjY2d09xaFBjMk5zYXhJQjRybE56TlR5NkM5YzRKTFk3VFpGMFVUN213M19rSzVhTThWVGtHMlVnYlUydUdxVlRkcHI0X21kZm9yRWZPQdIB6wFBVV95cUxOd3dIN09HSVF4Q05NRWlwYnJ3Ymw3S0NVdjdGaDVsMG5GSHU1aUFGd2diMUZxWXJWUjBOX2RtN1lLSWVWVjd1UHRDTF80N3NqZ21aMHp3YWU2dGFpamh5YVNIalZMcjdDZTFJSjRXV1pxemk5dU8zclpZeVZNVEptcUFLaG1wYk50TDdudUdkRXY3dy12S0dhdTNpQmNiOWJ4WGx0MWpIN05VSWdQemVtS3JzMHEwX1dFUTV4SzdyS1FXSE1WcEg5MVVudmlFSUVKdjFLR3BVRlpQNlZTemNjMEs0RmdWTXRMOV9V?oc=5",
         "date": "2026-08-09T17:18:15+00:00",
-        "source": "3DJuegos"
+        "source": "3djuegos.com"
       },
       {
         "title": "Microsoft aumentará su producción de chips de IA, según The Information",
@@ -34,39 +41,18 @@
         "title": "Microsoft sube el precio de las licencias de Windows",
         "description": "Microsoft sube el precio de las licencias de Windows MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGNkMDJsVEM0YnhZc2JLZC16bVl2czdLX3VIR3hDd0c5SW5wbFJpcFZmdXNpM09hNWctVnBENW0yQTBOY3N2bFdyWk9mMW1JelR4RWw2bnVQYlNfd09YYl8wWEhQNmxwSU54N0UyZjFud3lhcHBQdFBFMEJLa0pibUNfTDE1cnZmVEMzSDBpNGlEYjZVb2k4?oc=5",
-        "date": "2026-08-10T12:16:45+00:00",
+        "date": "2026-08-10T12:18:56+00:00",
         "source": "MuyComputer"
       },
       {
         "title": "Consiguen ejecutar de forma nativa en Windows 11 el clásico Microsoft Word 1.1a de hace tres décadas",
-        "description": "Consiguen ejecutar de forma nativa en Windows 11 el clásico Microsoft Word 1.1a de hace tres décadas profesionalreview.com",
+        "description": "Consiguen ejecutar de forma nativa en Windows 11 el clásico Microsoft Word 1.1a de hace tres décadas Profesional Review",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXVkUGVtczk1MnVuZVJTb1VEQm9LZ1Q1cjlTLXV2R1ByQl83b1Z3WWtlems5TkRFcGlHTFZMRzZYb1pGMHhaNEdDazc5UHBBdWo1WVdHWU9pTFU4ZDdqS040c1hsc0xuUlVQLU9JcWxVdzNPT0ZTaXJXcXYxdEhmMVF1eVEyV1A4YkhFMFFwVWRSemNObHNWMzhiak1lWTVpYXZKTFhEU2tGMlQ2SklnbWlfeW9fMnkxVm05WEFUMnVhYXNHaE93VFF1eG1uUXcwVUt5Wnc1eG9tMy03eGln0gHkAUFVX3lxTE1PUDRmdThMQ2NNN3k4ZzJ1SmpWQUpfVFNGcnJySHdqWGlhdHNIVTdlbXVrOHdFcjdjX1hnYUlmSHhFWm1KdjJkTThFRXFxUTMzN2lySW5kOExpTkFXbXZfYWV2Uko3ZVZmdVpYQXZURHVYdEprd1c0eEVsdkZZb2V2SkdDZFZ3NkVIWFVGMWdGemZmTlZaY0kwUGt0cGhBSWVuNGtPWjl6Y0ltSnJHZWlvMFpraDBQWUI3MlFxSU9Od2htd2V0THVsR1IzekZVTDdzZVo1WW55TkMtbkpuTHBsN0d3Ng?oc=5",
-        "date": "2026-08-10T08:00:02+00:00",
-        "source": "profesionalreview.com"
-      },
-      {
-        "title": "Microsoft planea revelar el chip Maia 300 en septiembre",
-        "description": "Microsoft planea revelar el chip Maia 300 en septiembre Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZU56Mm1JdUVPcWYwR0NpUU1WTmdvNTlEX1FjRlVJaTJvaUJNOEVMYVRKVmhST1AyUFpZdm1tRm1fYml1ZW9NZHN2eFhRekdpYVlCbEowOHVKY0s3ZXkxbUNkZExfOE1VYjhvY3lLUnNSUjJOczlJeUwtdjhZZ2dXdEs5VUxUYnZtSHVGV2pBcHNabl9PaXc?oc=5",
-        "date": "2026-08-10T14:04:32+00:00",
-        "source": "Yahoo Finanzas"
+        "date": "2026-08-10T08:28:38+00:00",
+        "source": "Profesional Review"
       }
     ],
     "Marketing": [
-      {
-        "title": "Las mejores agencias de marketing digital y paid search (PPC) en España",
-        "description": "Las mejores agencias de marketing digital y paid search (PPC) en España Atalayar",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajdZTFI5YmpiOTVISXB3cHUtWlliV1FSczNtaGVZV0Vuck4wbnhtc2pleGVFbmJiektqeE12ZGFHVmZSSjJnV2xmSmVMeFNRbUJwUFdvOWhoSkRDUFRibXRWQXJyZDVBcE9Dc3lJUldvVGlTQnRva1RqSHhDRF83RFo2S0c3Z24tQndVVnZGWW9EdHgwdlJVVi1JS1M5VDVkUEN4MXhxcUdCdjZsNG0zcmh3NGVDQXZYWUlhMVdhYlpyTmxrWHZJVHJoWjNzQjFMTEFV0gHYAUFVX3lxTFAwNzN3MVoyT1FudFA2Z0RWdGtuMmhMZF8yMXJFeUFaQTRrY0J4TkRvYWZzYUlUVmJCbnl1QjFxQ0k0cWwxMllrTEVDdmlLN0htUUVqMjdTaTFhNlZ5b0tZazlVaG9CLTkyMWI4VG44WkxxX0NPZlNxcWZlYjVxb1RIQkNqOTRjSzg3bWlmYXBCd0NGcFktRC1wRzZzd1FoRDRQeXZ3OG1ILW1tNTlEeTd0Y0x2bkZFc3drUTR6emRSTmNHTmVfUDhmQVR2M1lUb2VMUk5DUV9Tdw?oc=5",
-        "date": "2026-08-10T07:55:43+00:00",
-        "source": "Atalayar"
-      },
-      {
-        "title": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital",
-        "description": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital paho.org",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXc0NTJ3VVV2blNuemNIWmdUQ3JqVEpDM2hNbmNrRk1Uc2xiV1RwelpFV0dkMU03ZVh5NVpmOUhzdHcwOFpqbTh3ZUpxN2hNRzZ5dDZrR29VcDdqUnI1OUdHU3N3MDNhVm9fb09zYXNVOW5VeDNKN2h6ZFhxekpJNlFwQmNLM045Mkl6Ylh6OVYyeTZaSUN6OWZmY1dUNXJZY1BfYVM3Tm1GWHppempqaVBidzc4UW02?oc=5",
-        "date": "2026-07-31T07:00:00+00:00",
-        "source": "paho.org"
-      },
       {
         "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26",
         "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26 ArchDaily",
@@ -82,11 +68,25 @@
         "source": "Negocios.com"
       },
       {
+        "title": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital",
+        "description": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital Pan American Health Organization",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXc0NTJ3VVV2blNuemNIWmdUQ3JqVEpDM2hNbmNrRk1Uc2xiV1RwelpFV0dkMU03ZVh5NVpmOUhzdHcwOFpqbTh3ZUpxN2hNRzZ5dDZrR29VcDdqUnI1OUdHU3N3MDNhVm9fb09zYXNVOW5VeDNKN2h6ZFhxekpJNlFwQmNLM045Mkl6Ylh6OVYyeTZaSUN6OWZmY1dUNXJZY1BfYVM3Tm1GWHppempqaVBidzc4UW02?oc=5",
+        "date": "2026-07-31T07:00:00+00:00",
+        "source": "Pan American Health Organization"
+      },
+      {
         "title": "Ya están abiertas las preinscripciones para la 20° cohorte de la Diplomatura en Redes Sociales, Tecnologías Digitales y Comunicación (Marketing Digital & Community Manager)",
         "description": "Ya están abiertas las preinscripciones para la 20° cohorte de la Diplomatura en Redes Sociales, Tecnologías Digitales y Comunicación (Marketing Digital & Community Manager) Universidad Nacional de Cuyo",
         "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPM2R0dnpwVWFTOE1MaktOSEhPMU9GSV9QN1V6dmw1ekpsaUYyZUFNbHFQUmluVUJhYTRZeGNRa0dXRnRtb0sxcGw4ZTdTbS1abHNZVDVmeFdRNmIxZ1pSWUl3Wjl1aEp0MlNYTURySng5MFU2b1hHbW9RbUVLWnhPUy05NGFFWHBscFlNVFpfVWFUV1BIc1dXRXRrLTRkaHlLRTJ0UUtZVURzRVBVcTBNcnlJeThPU20wVFRzZUc4UEZVeXN0eXBINUhaN19zR2RYekJOMmgzR09QV19kWFpKem8zNE9XNk00Yk9MOGJjeWllVkFYc29ZX3FpU0dNUDJKT0hjLV9NaUFFSzFzTHpiVE5pRVZBRlJQOXdFdW5B?oc=5",
         "date": "2026-08-03T22:24:37+00:00",
         "source": "Universidad Nacional de Cuyo"
+      },
+      {
+        "title": "Las mejores agencias de marketing digital y paid search (PPC) en España",
+        "description": "Las mejores agencias de marketing digital y paid search (PPC) en España Atalayar",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMDczdzFaMk9RbnRQNmdEVnRrbjJoTGRfMjFyRXlBWkE0a2NCeE5Eb2Fmc2FJVFZiQm55dUIxcUNJNHFsMTJZa0xFQ3ZpSzdIbVFFajI3U2kxYTZWeW9LWWs5VWhvQi05MjFiOFRuOFpMcV9DT2ZTcXFmZWI1cW9USEJDajk0Y0s4N21pZmFwQndDRnBZLUQtcEc2c3dRaEQ0UHl2dzhtSC1tbTU5RHk3dGNMdm5GRXN3a1E0enpkUk5jR05lX1A4ZkFUdjNZVG9lTFJOQ1FfU3fSAdgBQVVfeXFMUDA3M3cxWjJPUW50UDZnRFZ0a24yaExkXzIxckV5QVpBNGtjQnhORG9hZnNhSVRWYkJueXVCMXFDSTRxbDEyWWtMRUN2aUs3SG1RRWoyN1NpMWE2VnlvS1lrOVVob0ItOTIxYjhUbjhaTHFfQ09mU3FxZmViNXFvVEhCQ2o5NGNLODdtaWZhcEJ3Q0ZwWS1ELXBHNnN3UWhENFB5dnc4bUgtbW01OUR5N3RjTHZuRkVzd2tRNHp6ZFJOY0dOZV9QOGZBVHYzWVRvZUxSTkNRX1N3?oc=5",
+        "date": "2026-08-10T07:55:43+00:00",
+        "source": "Atalayar"
       },
       {
         "title": "McCann e IAB México comparten 5 macrotendencias en la industria del marketing y la publicidad",
@@ -96,11 +96,11 @@
         "source": "TotalMedios"
       },
       {
-        "title": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza",
-        "description": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza Paralelo32",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakhqaTItYnk0WGU1R1lvTWw2TnhmcVBDc0pfWWVkaUVYRm16SkxYOHd4S3lFR3pjMGFQQm9GTU9fcXVvSW9DN0ZvcHJFTmRnRzFuU2tVOVFqMU92ektpX0JRSDlTN1VCekFBV1hhVWVsS2xqOU5sMUVlbUpjNHAxNnpBWVR4WGw1MzZRTzdUNnNGVWZHMGFHMnE1QlRhUWtvODNuWkpsWkJUOGtUWVRRZlZjbVB0V3VwS1BLeTItRllCZw?oc=5",
-        "date": "2026-08-04T22:08:34+00:00",
-        "source": "Paralelo32"
+        "title": "Piden mayores medidas de protección contra el marketing digital que socava la lactancia materna",
+        "description": "Piden mayores medidas de protección contra el marketing digital que socava la lactancia materna Consenso Salud",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzVEcnc0cHZ0aWlfdGphM2lfOVBGbTh6MEVLTWpGYjJUV2MwdEJySkFYa0VmTXVWSkF0eDlaM2ZycjdJNkliT2tzU21NZjlVRlhJTlNJcU1GbHpZb05XUlhTN1NSajNEUWt3Q1htQmZoNTdDelRrQ0dEaDRaVTVNbGEyT1dIdzFjTTFRNmM4WXR2S1pFaEhzMkJIRy03dTN3aWQyS1hybjdNdlY1a0wxNzNVeUlxdHR6djR2SWtKWmNORWs?oc=5",
+        "date": "2026-08-03T14:00:33+00:00",
+        "source": "Consenso Salud"
       }
     ],
     "IA": [
@@ -112,25 +112,18 @@
         "source": "BBC"
       },
       {
-        "title": "Milei denunció un video sobre despidos en el Banco Hipotecario: está hecho con IA pero el conflicto es real",
-        "description": "Milei denunció un video sobre despidos en el Banco Hipotecario: está hecho con IA pero el conflicto es real Chequeado",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaDdNQnFkTHhhMnBtSnktNmR3bDBweHh3VnJHMk5MV0xYTkRxUVVDLThvNExDYlhhTUJJTjBXa0R2QTEzRGlVQ3BNdUxvRTJoM2RXWGo2RHJveFFhVjhkZW81eG9XbTZ0WFZQbWlud0JBNU9OaXFCVUlNa21wYjV2T0Zsalo3N0xQalM4TDV5SFRYM2FBWVlTbGkycjJWQjgyYVQzcjVLUGJFNkw2SEtoMGdyYWNPREFxemc5TjNvMTI1NVcxaFhXSldfTGNXeHluLWV6ZHJicmNYVEFlSmZF?oc=5",
-        "date": "2026-08-10T16:46:12+00:00",
-        "source": "Chequeado"
-      },
-      {
-        "title": "México usa IA para rastrear fraude y congela 2 mdd que eran enviados a otros países",
-        "description": "México usa IA para rastrear fraude y congela 2 mdd que eran enviados a otros países Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGhKSEJfcVFHRVkyZ1JkakxacUpDYndjVG5MS1RVXzU1OFlMYm4yUzF5WTAyX1dhWFVULW1JVTVYeml4aTZrd3hpcktRcDZxZmNOR284amJpQjRNMmdUMkJtblVhcXY2UXREN0dxS0dtRUFPOFFHTnV0S0Nja0NuM0ZoTzhMVVRPQ2tZVW5KVlNYQ25ncFFNa0dKdFhiQXlkUzFrd0VHRjlxWFlpbWNKV29GWUdhWHhFd1E1ZHhCNThvRDNn0gHfAUFVX3lxTE1TcUEyS3BwcldWVmgtUFJiOG0tMlU2VlJrTlR0LV9vWVV3Q1JfV2xWeTBPVVpDM01EZHNPUDFjeDExWUNLcGJjX0lrcFkxckZnUW43ekxuZGo2RHFWeFZvUlRUdjBqSFRyd21faEMwNXZnMlI5MjdmRkRVWmttM0ljM2lvTmstZTgwNXFyU1hDTENUdjRvd0dOZXVrMEU5YXA1a29VRUNtSS0wZ0pnNDQ5ZHRVYVpHNXdHdnlFazA3bjlfWU1CaE10LUQyUzFVLXh5RlU1RE5lWU1ENlQ1LVE?oc=5",
-        "date": "2026-08-10T17:11:23+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Burbuja de la IA: Ben Affleck vendió su empresa de inteligencia artificial por más de 500 millones de dólares",
         "description": "Burbuja de la IA: Ben Affleck vendió su empresa de inteligencia artificial por más de 500 millones de dólares Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNUExYXhjajU1QUE3ektUSFRkenU4eWUxcC0xZjYtbmdlY0F0UmJBSkx6cTVtNWRqSS1FZVpxdjVBQjZTcDlLaW9KOGQ1TExoejUzd205UkNSQTAwY0FGWVNiSHF6b2syWDlDeExudzRpSUNDVi1jZW1ma2Q5VWN0MHhOd09YWlJfNTRzMDlMSmZBU19RT3dZUHZxOXlDc2RJQjdJb3d1cUM3a3ozM2M0RGdyb1doQWRNRlNWVjZIeElGN0wyZ3A4bUFhZzN5THBueXNhLdIB2gFBVV95cUxQTVN5bHppNEtkdkZEWjg5WXNKQ09sTkhGaWNZbTZlUnYyWk9BXzA2ano4VnBIUGpSbXFKZGtrcFdwOXpJejc2NnZQZlhFVE5RZFNON20zWnFSdGhoWWQ1ZFpnb2txdG5kTHhqS0U4SUdNWktIZlVWZzZnc1BKajdDYzJkeU1BYXpHRFZ4RUttRHZKV3gzSk1fYjJqbXlGd3dWb2FYNFhoMVJqTkhtN0Joc0FpWV94cFdRbXhGMFdrTFZlemdaV19KTy0wLXdBbEZCYWdHYm51RkhLUQ?oc=5",
         "date": "2026-08-09T22:35:37+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Cómo la IA está quebrando al Estado británico",
+        "description": "Cómo la IA está quebrando al Estado británico infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZndrLWFGX0ktQjk4aGh3R19tczBmZ2h3NDFkOEdHVjdMZFhEWnJadjJvVEpMcWNlOG5XbmM0MzBnZGNjRjZZNzl4MWRnTGNkTzRkTTI3WGZTbXozWlN0YS1MN2dTSEJzeXkteGNScFhGQ0JNbGtkNDJOVnhxSlR5MXFlMmdVZy1reHhTZzZadGZGUXZBaHfSAbABQVVfeXFMTnhaZXR2d3BBMy1pb3pVUVlUSXI4Q21CWklFNExNLXpJUi1wVE5OdHRIUGRyNmJNbi1HR2oxNGhUdkU3dksyNVdzVnMyc2tiT1FSWk1uTGxDUWk1N1lTRm1PZS1xNzk2QlRwU2RYUGdNcjVOa05lZjFNRW5Jd2xrM1Jobl9lNFZxRk9DdzZoWExVWGxiUFJ2VkZxaVNDQTQ2MTRGa3V0cUdXX3RqdVpPeWs?oc=5",
+        "date": "2026-08-10T12:20:00+00:00",
+        "source": "infobae.com"
       },
       {
         "title": "Invitan al primer encuentro del ciclo de inteligencia artificial aplicada a proyectos",
@@ -140,41 +133,48 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "La revista Time comienza a mostrar anuncios a agentes de IA",
-        "description": "La revista Time comienza a mostrar anuncios a agentes de IA La Nación",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXhQT0lXSVJGNThPRU82eURfdVQ1Qm9mZ0FFZzk3N2xWT1pDLVZmelgtWGx5MGY0UDlmcEdKWmRaR25HR0Rpa0pySGpEc19kcG9DQlk4Z3RORktyRng4LXctSTMxcHpOWWhBazVZR2N0bUF1SFNTNnlwbjNDTnE0TEJsV2VmNURVUklpZnVuU1ZXdkxuUmk3ckFEeXR1UU53MERmQnNSSXZlMk5sVmV1TQ?oc=5",
-        "date": "2026-08-10T16:03:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "Juan Martín Maldacena: “No veo razón por la cual la inteligencia artificial no pueda superar a la humana”",
         "description": "Juan Martín Maldacena: “No veo razón por la cual la inteligencia artificial no pueda superar a la humana” Perfil",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQ251Wlc2elRsV1BFUDlJX2hRRkxuMHZ6SFlMYjh4ck1VQ09RTFJRV2ptM1haT2Z2LWFwU0hjZG1EdVd5MU9RelFURUJRZXFEUUJsT3BOb2pKLUFwekhRM252WVg5SlBySm5fbkNYSkRyakhwRFFfSktmX2p6RkVhaFZWYWtlZHNxbmNySU14ZTBGV3R5VGlfTHgtN3hfZ21KTXl2MW9SU2VNa2xGekFnbXAtS0tvX1NuY0Jkb2daY092OFh1OU9fRjl2VzBlV3R4ZTZHWU5iTkhwUzZxSHZKREozNTVwdGZfUm0tWnJkaEs2WDRWNDRRLWt5QS1HOC1vM2RtdEpFU09Fd9IBjwJBVV95cUxOVjFPenNkR2NKR3p6Vm5OZGl0azVhTXFYbDlkLTZyR1R6eXEyNmRKYk9TeTlJbjB4ckIzdWVMVlRDa3hhVXRKYnM0S21qVVE5aDVCZi1UcTVoUDk0WFZUQ3p5SnVESmlsTHhrZWw0N19IaVlwRkJfS21yX3I3dG16VEhFS2M0Z1ZJRTZETWFUbzZLcmhod3pIUGFFcmFHaVUtU0l5bWpvYmlwRjk5eVk0UHNidEc0b3dqRkxjZDFBSHl1cWlsNnZURE84aktvbmdjUERNWHBuZE13OWk4czViaFZnamJmRWhMcW8zenRuUWNjRW8tLWUzenNla01ZeWZzLXJHbXJEV0JLR3g0VHBF?oc=5",
         "date": "2026-08-09T03:37:02+00:00",
         "source": "Perfil"
+      },
+      {
+        "title": "Tecnología, automatización y límites del capital",
+        "description": "Tecnología, automatización y límites del capital Nueva Sociedad | Democracia y política en América Latina",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXphQ2RyTDZCdXRFZ3FyWFBEdm5MYmRRV3dMTWIydGxWbjNUNC1uV3pPNHRLd1NWY19lMVFBdDRIN2JqLWdTNGdqc0lQOGE3aGppSG5KdmtsREV1TzNzVWstVF9wcExkYk5NdDFHOXd4eUNXWjZTbnV5THAySVo5RndpWEJlU0JCOFFIbUxhclk3UQ?oc=5",
+        "date": "2026-08-10T12:36:00+00:00",
+        "source": "Nueva Sociedad | Democracia y política en América Latina"
+      },
+      {
+        "title": "La revista Time comienza a mostrar anuncios a agentes de IA",
+        "description": "La revista Time comienza a mostrar anuncios a agentes de IA La Nación",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNXhQT0lXSVJGNThPRU82eURfdVQ1Qm9mZ0FFZzk3N2xWT1pDLVZmelgtWGx5MGY0UDlmcEdKWmRaR25HR0Rpa0pySGpEc19kcG9DQlk4Z3RORktyRng4LXctSTMxcHpOWWhBazVZR2N0bUF1SFNTNnlwbjNDTnE0TEJsV2VmNURVUklpZnVuU1ZXdkxuUmk3ckFEeXR1UU53MERmQnNSSXZlMk5sVmV1TQ?oc=5",
+        "date": "2026-08-10T16:03:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Los récords de Vaca Muerta acercan a la Argentina al 1% de la producción petrolera mundial",
-        "description": "Los récords de Vaca Muerta acercan a la Argentina al 1% de la producción petrolera mundial Infobae",
+        "description": "Los récords de Vaca Muerta acercan a la Argentina al 1% de la producción petrolera mundial infobae.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcW02bGpWS1R0WmZ0R3lVN2xmMUFzSnFQb3hDd1g3MERRRDNnVDEyRUtncC0yM0UtVjBxbmRoRlJzaGE3bUxrVEhNT0k0bURtTXJsSDZaR2g2Qkl2SDVnaG1Rck8xZmtreWIzTWFJTnItaEU2b0lLNGpGSHktZFpqUktlZ3I4TnQtWW1ORmhFYTBvcWpqb0pUb2wtMV9zTUV4Qk9HeEFsVkhBSzRxbi1JckxBWkRQQjczRG9WMVVhWkVVekU1Um5rVThmUW9QNjDSAeoBQVVfeXFMTWJZaUFpaThzUWwwRkk2U181eTRQZE1yQVE4enpuN1h0MWdBS0xjRDFKd01VX3oyUUg5cmNrTWVnZFhBcXFRTFdhWGd5dEc1ejFyTnplRi1UZUVZV0h1QkpGdEt1WTlHYVRwTzZYTldHMUNoTnJBN29mZ1ZrLWlVbTIzYmNVYmcxTkozYkhoMnctTVNLNVl3STcxc3VyVHFqLUNUSWtRVEc5SHNsVEt0VFVwSFhlUUtnR0hWdFV0bW1mcmp6VGs4WDRNZXdIcDFIQTJtMHNJWXoyVlF4clR5eVI2T3BoVVg2UEd3?oc=5",
         "date": "2026-08-09T19:03:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Con el impulso de Vaca Muerta, Argentina combina récord de producción y mayor ingreso de divisas",
-        "description": "Con el impulso de Vaca Muerta, Argentina combina récord de producción y mayor ingreso de divisas Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejJWaE82aGJfNjBrdUtUc3pxWERWU2dLV2xqU1dsXzdiN1VTRXdtRUNkYlVTZnZzcVI3a1A1XzJqaG5fRm5kTl94cEtoTjRVNm9fVkVCTFRIVkEtRnBtOFZ1cEFSNTQ1NXMzanFXT2NHemFhbGN3RFpqOU1nNVNEZEdrMEJNWEVFd3Myck9JWi1naE03aC1jb01TYmFQaDdCZ1RHOHdrUXo4YWJ3by1TcnVMazBzRWJrOEZmUGVNNTNzVjZ1SFczcW1EZXjSAdQBQVVfeXFMUFJFM3pGUEJ1cUNYaEVISko5aEdWN1JTY2FkNVpYaGp5NUNreTkyckdGenctcGgwTXVCQlFVZGpHQmNKR0V2NW11ZGNxdUZsZUJlaTd0YjJNU0FXeXZPcl9MWmVmZEc2OF9tbDFTQ0ZGT25pZ3gxaml5aW5uWHREc3pBVE1wdFFONjdRZjJJTnlndzlPYnNQZ2V4czBBTk93M0N1cDFWS1JVTWtSeDY1TUZua3ZKTzU0SzdRZ2FRMEVsbjZxSTN2NDZ2SkEwNHRRSmc0OVI?oc=5",
-        "date": "2026-08-10T03:14:00+00:00",
-        "source": "Diario Río Negro"
+        "source": "infobae.com"
       },
       {
         "title": "Fertilizantes bajo presión: Argentina pagó USD 180 millones extra y mira a Vaca Muerta",
-        "description": "Fertilizantes bajo presión: Argentina pagó USD 180 millones extra y mira a Vaca Muerta Infobae",
+        "description": "Fertilizantes bajo presión: Argentina pagó USD 180 millones extra y mira a Vaca Muerta infobae.com",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHlJNW9zWUtUVVV0SW03QmVDTGQwQVlUbWZpdXBudWM5ai1UbExYVmxlY2dSMHV4bGpuWFZwWGY0OWRpc0pRQlJfNGFhY2FEcGk2ZzRIWHF3MXliRS1mQVFMdXAxSHhheE9wYmV0NzA2aDI2ZzRyZnlTY1lySnp2bTc5cktSNlhpVEdCWmtKb2NadFR0R0lVZDN6LXBRUmdiUDRHWHBwbGxteXQ4cUFlMC0wb1JlNmo3NDJNd2ZZcFFNYlR3ZW9UZndRTVZEenIxUGfSAewBQVVfeXFMTU5SajNRYXNmckp5bUpxZ2MyUUZRRTVRWWE0QXMxNUFlT25fSHpRQ2plSmxzYVJLR2NPQTl3eFZDU0xIWkJuZHZZODN1V0VFM1pDM3NzZ0VpUG12NGpfSmh0TEx5NUp6VnA2azJNY2FhYWhLWXc2akhoWjFCQnFBZDM0UC16NWRqUmg3Y3ktaV9oNEF3Sll6YUVoc3dfbW1BRGZuMnVHZVZkOFhWeHhhQlRIdFFZS2R4a01VclE3V2dUT2F2LTNLaHBWMUVweHIzVmxhWGhtZUxFemJzeEpmekZJZnNhaHdiaGxpZ0o?oc=5",
         "date": "2026-08-10T17:06:56+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
+      },
+      {
+        "title": "Vaca Muerta impulsa a Argentina hacia un nuevo récord petrolero y la acerca al 1% de la producción mundial",
+        "description": "Vaca Muerta impulsa a Argentina hacia un nuevo récord petrolero y la acerca al 1% de la producción mundial Diario de Cuyo",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbkhOT2RmdE5ySFVWM3lSWE9jNDJLOUYzakQ1YjgzU1NkNS1lbEd2bWtXQnpYQ21aWkZfQTFjZTh5VDBYRmVVNzBqemNsbTllQnhXQWZVZkcxN05GbWFpUHJpR0M0c1BWeFpDdVdrUEdBakJXSjRQNG1BYW5rcno4SGNhRThaTFllc1BzcXpBYnpGemU5Z19CLWJoZjdKMzBha2pqZm13TUVKUHJMR2xmU0dOM3BYWHFKVWV6TWFJZ0o3TnEyMkc0WlBYam1CYVJoWmViX08wZWlZMk1FWVE?oc=5",
+        "date": "2026-08-09T23:01:54+00:00",
+        "source": "Diario de Cuyo"
       },
       {
         "title": "Argentina LNG: Río Negro proyecta un corredor exclusivo para el traslado de arena y acelera la formación técnica con el Instituto Vaca Muerta",
@@ -184,25 +184,25 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Fue número 1 de YPF, tiene petrolera propia y planea invertir u$s 3000 millones en Vaca Muerta",
-        "description": "Fue número 1 de YPF, tiene petrolera propia y planea invertir u$s 3000 millones en Vaca Muerta El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdDR3MmZWMllPUlU3UTNjUkFfZGRBeV9yWEVaYzhHRlhBYWtvVUhmbjh0bVpiSTA4cU4xN2FmLTZYVHdKajF0cnkwbl9MVTFxR0llalZIb01rRkRYRUdTa0dmdFhMV3I4eVRrRWxrdlhnT2Zsd28zLU1FTHdJQnhXSHdNYWpOb0YwRHg5NUp4MWV6eUFFQktHOXVBU0w0a1ZPVUY5M3dKXy1Sb1FTMmdOdDRjUUZZdUpmQ1E3cmVmVEp2UDNwTXc?oc=5",
-        "date": "2026-08-10T08:00:00+00:00",
-        "source": "El Cronista"
+        "title": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse",
+        "description": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFRSUVNRb3prZS1UVTF2cExOVHVZdVJnSHh6OWk3ZkV5TkRBYnRoYUNhaWFQaUVodThCVkxQeV9TcHAtQnA0M1QzOW1tTTcxNm4wUDhrMGJPc29xazR6RUI3c0ttbkFYY0ZQdjRwLWxxQ0RLZzdieWpsNTM3MDlrR1NSeG94MDFoNm1PaXRocmZmU2JYMGxLRjZXMHJ2V1JOeGlmWEUtdWhObkdBbWktN3VJSE5CTWs?oc=5",
+        "date": "2026-08-09T12:00:21+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "La Vaca Muerta de Mendoza tiene un nuevo actor, de la mano de Vista y Trafigura",
-        "description": "La Vaca Muerta de Mendoza tiene un nuevo actor, de la mano de Vista y Trafigura iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0RFOEpibkgzVElNRWtpSm9zVkpUTjZPZXpqRllraEIyUUw2a1RPS1ZFQlZwZDJkcGI5dGlaaTdMcHJvRnJGYzM3MGRnSDJiMHVZd1lXd1RHRlIwYnIwNVFlWHd2aDIzX055TXFtY3JTa3U1dUd1MVVVNkd4eUFzUDV3TmFiUGo2dnhlZFllZWVBeW5HWE4zc0Q1RFdNQ3BKWjVKdFd0V3RNQzB4OFZkbjZDbERCTmJ5XzMtaWxjc9IBxAFBVV95cUxQVEZuRU5CY2ZTUDlIMFVrZXY5bDMxRy1qY3hPSktVQUNWczQzcGFrNVNMQmw1LU9acnotS2hpNkQ2dzExZGlQNkpmVDd1RE0tNm13a2xnbGg1UG9nbHl6eDk5SjVld0pJemJaTkRvMHlCZmpzbHBQYTMtaGplYlRCM3c5dzRNN2VscDREUWhkMm8wSEp6U2luRjk5MUtpQW9zcGZXWG0zUUFwWmVvdmdNemRta0ZRRjExMVc2S08zLWhOZzQ2?oc=5",
-        "date": "2026-08-07T19:56:00+00:00",
-        "source": "iProfesional"
+        "title": "Inversión. Construcción modular: la respuesta cordobesa al déficit habitacional de Vaca Muerta",
+        "description": "Inversión. Construcción modular: la respuesta cordobesa al déficit habitacional de Vaca Muerta La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnV6WGMxTnFPZm53UTVyODIya2EwS2hzZm5qM2Y0TTVUcll3WkpGYzVBWXlCSWptMV9hMURKZzI1TGlFcVhsVEdxOWNILU51MEhNZnJOLURDMzl2TjRIQXI5QlVkQjE0MXotQnpDWFR1Y0FBR3pWbHNIZU1VRk12S0p1OXZvYXRVYmtpZ1VteDdnSFBnYmpKeDUwVUw1SW1jc09MSGEzMElKYXYxaEpoNXY0RDJoTERldDZJbkhCM2RBU05OaDZrSDFvbXBCNGNT?oc=5",
+        "date": "2026-08-10T15:09:30+00:00",
+        "source": "La Voz del Interior"
       },
       {
-        "title": "TanGo Energy se prepara para comenzar su exploración en la Vaca Muerta mendocina",
-        "description": "TanGo Energy se prepara para comenzar su exploración en la Vaca Muerta mendocina MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjFzVHVVRGY3UVM2LUlZdHoxTEZRXzFEODF0WmJpSzMwcmVwUENEV1pDYUVROWRwbHVvRFZERHBjZm1zWUpXTFZYX295RTRjdUNvTUFMYjlYd3c2YkFwRzdYbHFkWWtWZlU2MG9TRzJmTHVveHdFeWpBWGF3V3lBWVZEaTVzbmxfZnp3bGo0MWFSb2F5d3FPM0l1QlhJRDcyWUg2bzIyeEd1NXpsclpZ0gG0AUFVX3lxTE80MnBiWWc3MzR3dURNdkNoMzl3Y3pEWVV5RjRSZjQ2b0NCYVF0NGxfWF9pSVA4T1FQVGVELTFLQkJDZ3lKZkNZUUg2c1BkU3g0UVpmMExCZEFRYlZrWXBxN3BOZF9vOFhUVnFMUVJVb2FFbk80WVV1OTVuamZkTFZrQTdfZVpQYVEwX3FjU1BXRDZSaHVKX25DYkctODlhQS11YkpJTkpsOFRpa2Q1YjcwdzlPVg?oc=5",
-        "date": "2026-08-08T00:30:00+00:00",
-        "source": "MDZ Online"
+        "title": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco",
+        "description": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco La Política Online",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQURiTF9YZV9ZaVg4VWZVdlRjMHo4XzBqNGNYeFRuQ08tTjJFM3RFOUJMaFdRUm1SbS1UWWtoSG9hWENHOFJKaVV6eUVqcS1ZRFVMNVp2SE50aGJuUXBISTFxd2VjUmlwclc3anNYaTMtcy04VEdxQ1JVdWxFOGpWS3NTRTBYeGk5OFc4eU9kUTN2R0dwSG8yS2pWZ2pJTF95Tk9EUXlWM0psT3FORWtWalNVN282RGp4TTBvRFZPcTE4QmxzYkFGMkl1YXVlYms3b1lUV1FsQnRZOU5vY0YwcUE5NG9xcklhRkNV?oc=5",
+        "date": "2026-08-10T17:12:02+00:00",
+        "source": "La Política Online"
       }
     ]
   }
