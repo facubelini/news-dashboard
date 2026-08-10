@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:20:04Z",
+  "updated_at": "2026-08-10T07:20:02Z",
   "categories": {
     "Microsoft": [
       {
@@ -69,10 +69,10 @@
       },
       {
         "title": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital",
-        "description": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital Pan American Health Organization",
+        "description": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital paho.org",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXc0NTJ3VVV2blNuemNIWmdUQ3JqVEpDM2hNbmNrRk1Uc2xiV1RwelpFV0dkMU03ZVh5NVpmOUhzdHcwOFpqbTh3ZUpxN2hNRzZ5dDZrR29VcDdqUnI1OUdHU3N3MDNhVm9fb09zYXNVOW5VeDNKN2h6ZFhxekpJNlFwQmNLM045Mkl6Ylh6OVYyeTZaSUN6OWZmY1dUNXJZY1BfYVM3Tm1GWHppempqaVBidzc4UW02?oc=5",
         "date": "2026-07-31T07:00:00+00:00",
-        "source": "Pan American Health Organization"
+        "source": "paho.org"
       },
       {
         "title": "Piden mayores medidas de protección contra el marketing digital que socava la lactancia materna",
@@ -90,10 +90,10 @@
       },
       {
         "title": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza",
-        "description": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza Paralelo32",
+        "description": "Marketing digital: por qué las marcas de belleza ya no venden con publicidad, sino con confianza paralelo32.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakhqaTItYnk0WGU1R1lvTWw2TnhmcVBDc0pfWWVkaUVYRm16SkxYOHd4S3lFR3pjMGFQQm9GTU9fcXVvSW9DN0ZvcHJFTmRnRzFuU2tVOVFqMU92ektpX0JRSDlTN1VCekFBV1hhVWVsS2xqOU5sMUVlbUpjNHAxNnpBWVR4WGw1MzZRTzdUNnNGVWZHMGFHMnE1QlRhUWtvODNuWkpsWkJUOGtUWVRRZlZjbVB0V3VwS1BLeTItRllCZw?oc=5",
         "date": "2026-08-04T22:08:34+00:00",
-        "source": "Paralelo32"
+        "source": "paralelo32.com.ar"
       },
       {
         "title": "Marketing digital: capacitación para emprendedores",
@@ -105,11 +105,18 @@
     ],
     "IA": [
       {
-        "title": "Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
-        "description": "Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA BBC",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSlNzY3lMdThETy10bnFCay05eXRzczVIVlBNVWVRSHdpYlYzR3IzWGUyZ2NoSGg0VUM3Y0c0b1dTemVTMW9OX09udkppQ080WU4xVVNYNXNoMHM?oc=5",
+        "title": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
+        "description": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSlNzY3lMdThETy10bnFCay05eXRzczVIVlBNVWVRSHdpYlYzR3IzWGUyZ2NoSGg0VUM3Y0c0b1dTemVTMW9OX09udkppQ080WU4xVVNYNXNoMHPSAWBBVV95cUxPM3FCZXlaZ3oyMTJkcFlTX3JWWjE1LVV4RmVwdlpYRmQ4QWRuZy00NGljTHJQcGZnMnU3c3dPaDdUUjJ5TlhweHhQd2RZNzA3M0U2cndXVjl4MVdhbExMS1E?oc=5",
         "date": "2026-08-09T11:28:38+00:00",
         "source": "BBC"
+      },
+      {
+        "title": "Félix Luque: ‘Esas distopías que parecían muy lejanas hoy en día son mucho más presentes’",
+        "description": "Félix Luque: ‘Esas distopías que parecían muy lejanas hoy en día son mucho más presentes’ OkDiario",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY29ET1RPLVRXMWFZaUdydEVFNTZWbUhSZ1IwbV81akZqUWp6d0wxbzlCXzhFdTFNbVAzU01Sd0ZHVEZqZGlKX1F3aUU2ZHpTMXNJdTJmTk94blUwcUZfVFRLSHg0RHVUUFgtVEFrWjU1Q190XzFMb1ZBNlpzdHZNQmdhVC03dEM2U25VV2gyRlh2cE9QTU52S094SmVob1VtMldKb2hIejR2U2JGUnNVUlA4RlhfelB2Q2NZSVh1UENxUdIBxwFBVV95cUxQanNOM2VoSzloTG02VjBYZzAzelF4MEx0Y1JjdlJONUtWQVlEX0E3T3ZlS1dOelN2ZlptaFBNeUdWN3dwd1lTNGR2VnNuRWRRRHptSWtwSTNpalVkeW5CejRaelFwd3hONWdKdUhWS2NZZzJ6YmQ0QmRKcUxHNU1nalAyVlJPVVQtNTl3UHVCUlhnYlc1VURNVlVWbnJPVDFXRTVXQ0c0Y2o2UGNySTdNQTVQM2h5Tk45X2Q3aHUzdG8zZmlNMXhn?oc=5",
+        "date": "2026-08-10T07:00:14+00:00",
+        "source": "OkDiario"
       },
       {
         "title": "Juan Martín Maldacena: “No veo razón por la cual la inteligencia artificial no pueda superar a la humana”",
@@ -120,17 +127,10 @@
       },
       {
         "title": "Burbuja de la IA: Ben Affleck vendió su empresa de inteligencia artificial por más de 500 millones de dólares",
-        "description": "Burbuja de la IA: Ben Affleck vendió su empresa de inteligencia artificial por más de 500 millones de dólares clarin.com",
+        "description": "Burbuja de la IA: Ben Affleck vendió su empresa de inteligencia artificial por más de 500 millones de dólares Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNUExYXhjajU1QUE3ektUSFRkenU4eWUxcC0xZjYtbmdlY0F0UmJBSkx6cTVtNWRqSS1FZVpxdjVBQjZTcDlLaW9KOGQ1TExoejUzd205UkNSQTAwY0FGWVNiSHF6b2syWDlDeExudzRpSUNDVi1jZW1ma2Q5VWN0MHhOd09YWlJfNTRzMDlMSmZBU19RT3dZUHZxOXlDc2RJQjdJb3d1cUM3a3ozM2M0RGdyb1doQWRNRlNWVjZIeElGN0wyZ3A4bUFhZzN5THBueXNhLdIB2gFBVV95cUxQTVN5bHppNEtkdkZEWjg5WXNKQ09sTkhGaWNZbTZlUnYyWk9BXzA2ano4VnBIUGpSbXFKZGtrcFdwOXpJejc2NnZQZlhFVE5RZFNON20zWnFSdGhoWWQ1ZFpnb2txdG5kTHhqS0U4SUdNWktIZlVWZzZnc1BKajdDYzJkeU1BYXpHRFZ4RUttRHZKV3gzSk1fYjJqbXlGd3dWb2FYNFhoMVJqTkhtN0Joc0FpWV94cFdRbXhGMFdrTFZlemdaV19KTy0wLXdBbEZCYWdHYm51RkhLUQ?oc=5",
         "date": "2026-08-09T22:35:37+00:00",
-        "source": "clarin.com"
-      },
-      {
-        "title": "Nunca más solos: cuánto cuestan y cuándo llegarán los robots que ofrecen compañía y asistencia",
-        "description": "Nunca más solos: cuánto cuestan y cuándo llegarán los robots que ofrecen compañía y asistencia tn.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYk1hQ3dvdk1uWnVYcDZhWHY1SEwzdlZqNVE3WTRkQldwQnVYbXJ0Mm1mZ3RkbnlQZnJxZTE3ZGZSRklDV1JoRW5FUG1sNEdadkMwZ0s5ZmtJTWZQbEhCNGVLNnZBM1JOSDZqYWlEVHotRVVrUDhNcThUQkRTVm1xalVJMjVKYjQ5UnNwd05TRTEtZU4zVXlTR052SGdYcFJkT1ZnZWFVU0g4cVJvTmd5aU9WWU9Eb3k0THNPY0l4cXZYQlNyM2VLMEFGcXHSAeABQVVfeXFMT28yTnRWY3BxS3JTMFFfbmpmR0h2RlREc096dGNWb2hHWHZoNEluVGFFWkY4blR5RW90bUtyS0hZZTduTjM1dDdUYWdOTWtzMzlFeDVWVjltVUJNd3hWWkltbjBYYzZBQm11akdkSVdmckRxcVIxWFJTYzZYNVpQWFpPMUhGSFVHNElnMzVvWC1BME5SazdmRFJLX25mekcwU2h6YUstcVdjdTAzdDZaR3QzTHI4Tnoya1psYVFwUzl1NHZla0JDZzAwejNXNUtweHdobHhKTDAyeHE4dnVzR1I?oc=5",
-        "date": "2026-08-09T08:23:00+00:00",
-        "source": "tn.com.ar"
+        "source": "Clarin.com"
       },
       {
         "title": "SSPC utiliza Inteligencia Artificial para combatir delitos: congela más de 2 mdd por red de fraude",
@@ -147,11 +147,11 @@
         "source": "Revista Seúl"
       },
       {
-        "title": "Madonna encabeza la resistencia de la música contra la Inteligencia Artificial",
-        "description": "Madonna encabeza la resistencia de la música contra la Inteligencia Artificial Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0pLVWJqc0hrQzhkcDFuUF90RmtsRlBZa3RWY2laUGdFNjFTOXFjcjBpVjV1ZHMzZGVycXNBcVlKODY5X0JPSHMxTE9Zam1LOUNZZVViWTlfdzFmT0ZaTVBLbms0ZFhuYmhLcGU2b2o1VE5rc3Q1dzJIWnNzZ1FaVnVGWEdYS05lSTh4T2YtSE1ZUDJUMFl1cTZhakgwSDJxQWhtU3ZSMXhiVDJiUFV3VFltOEc4aUQ0ekE0ZnM5ZFFCQWRqb1o3bjNNa1lvNVl2Q0lPX3VmaklsWmFOYzg0cldXcmlJdw?oc=5",
-        "date": "2026-08-09T06:58:57+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "La inteligencia artificial transformará los sistemas de seguridad: qué cambiará y cuáles son los riesgos",
+        "description": "La inteligencia artificial transformará los sistemas de seguridad: qué cambiará y cuáles son los riesgos tn.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVWtkV3dLbG1IWDlPMW1TbE9ITzNVME9IbFBlRmI3NnVIMW5Bcm5LaXVoemRBUnhYd1R1alF5UjFuTzlrQ3VoYl81Vkl3bTZXTFhDRTRURXQyYmI2eHFJQ3R2ZGxxTVBxVk9zX1VWYlpUMk1tUzRESDR3bEYteUp6Tm1od2RaX0EwTUdvdWFRd0d4WGhNdW1FQmFPM1gwMFk2R1VKUzJGemFHTEY2bEQyUjB4UlRSLXNHdWtUb2FkYTBMZngxc1FXdVpOYnpfRzNlN19faWVoRV9ZLVRFNjZfYlYyd9IB9wFBVV95cUxOaWZKZ3lmemY5b0tQR3FUenJlTHNhamIwUEJaVWlsdXJLRGhCVUVhX1NTYllfN0ROeUpxOS0tcEU3TldOYjVoNFQxejhncHRydmhNM2J1aWtJZlFTNVRZVkRWZUY0emE5VlktYzB3S05qdDBXdEFhcG1hLXltV2Q3dWZZckxBdnQ1R3hPUVdweGVMVEVtOUxlSzY5SE9oOWNiMThSa3dPUmlVc25FSHNSZm56VElqQkY1c1Uxb2d3OUhRcWM1cHQ4aTVuUVpCdXlyWTRsSFFENkV2dUdIVG0yZXRPWXhrM05SVmdlaUFpR05OcEJPMmdz?oc=5",
+        "date": "2026-08-09T01:27:00+00:00",
+        "source": "tn.com.ar"
       }
     ],
     "Vaca Muerta": [
@@ -164,10 +164,10 @@
       },
       {
         "title": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse",
-        "description": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse clarin.com",
+        "description": "El boom de Vaca Muerta necesita inversiones por más de un año de sus exportaciones para expandirse Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFRSUVNRb3prZS1UVTF2cExOVHVZdVJnSHh6OWk3ZkV5TkRBYnRoYUNhaWFQaUVodThCVkxQeV9TcHAtQnA0M1QzOW1tTTcxNm4wUDhrMGJPc29xazR6RUI3c0ttbkFYY0ZQdjRwLWxxQ0RLZzdieWpsNTM3MDlrR1NSeG94MDFoNm1PaXRocmZmU2JYMGxLRjZXMHJ2V1JOeGlmWEUtdWhObkdBbWktN3VJSE5CTWs?oc=5",
         "date": "2026-08-09T12:00:21+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
       },
       {
         "title": "Vaca Muerta récord: la disparidad de dos realidades que sostiene la energía argentina",
@@ -177,11 +177,11 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Estados Unidos y China trasladan su guerra de potencias a Vaca Muerta",
-        "description": "Estados Unidos y China trasladan su guerra de potencias a Vaca Muerta Diario El Día de La Plata La empresa que se le plantó a Estados Unidos y hace negocios con China en Vaca Muerta Perfil La trama detrás del incidente con una cooperativa neuquina que involucra a Vaca Muerta,…",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ21NUl9qNWVLMDRSMmxCcXl6cjkyZ081V1JDekN1MXlrNHpCM0pUS2dua2NBcjM2UUYtSVhEMW82ZVdHczNUR3NkZnZsTUxIdHZZVjhGRnhSWmV2SWdrUXpKbkZiSzNlV2hUYWZCR05BX3p2bFY0WUpxSUFRUmFfM0pla3dlSlViWVBiNmRCOFMtMEJ5RGdnUExUSE43cWEtYjNpbVVyQk03NDFfTVpqb3pIRm1BOWhRN1JjZVRma3FYUHlmTnZxSzRzc0NSYWFUZTJMbDdHeHlsUQ?oc=5",
-        "date": "2026-08-09T06:36:00+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "La empresa que se le plantó a Estados Unidos y hace negocios con China en Vaca Muerta",
+        "description": "La empresa que se le plantó a Estados Unidos y hace negocios con China en Vaca Muerta Perfil",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlhIV0p5SThsSTEtS0tTQTVPUnB0QVlUS0FGanAtNUNTQU8tNGV6eTlRVUE0NDhRdDU0WkZhYkJiazRNQmExMDBaWEtacXRUS0F4M1BUSzRXV2ZWa3p1X1pvdzNaeVN3STlvOV9wR0YzYVlFTW0zWjZsbUU3ZzhOUEh4TzFmTXhUOWQ3NDlSb3dhTGhNU3pRSmx2ZGNOYVdqbHNGQmNRMkp2M2tybGdtai1Zb0Y5MWJIZUkxN1dZSk52bGwy0gHKAUFVX3lxTE1mcWVOaG13NFdjT0sxV2tvTEpIaDNDSmFFc21tZlo2dHkweWZ2eW5RNV9ZSUIzUnZ1QmN4b0o0RlptUkY5Y0xnVnZEX0R1WVVYUUhTSGhmbE5Fc051V3o1NXpRdE5iUU11WnBGTkFuRVJmQXAyTmpERVhvUHljMkF6d1hQV193NEtMTXIzWEtXempvRE5wMkliY0tKN1RqdFREMHRCNzBLU2IwcUdLVk9WNExXSlBpREw2TEZneHRHU3VMYV93MHFuVmc?oc=5",
+        "date": "2026-08-09T05:58:03+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Algo huele mal en Vaca Muerta: comunidades mapuches reclaman sus derechos ancestrales en el corazón del",
@@ -191,18 +191,18 @@
         "source": "Tiempo Argentino"
       },
       {
+        "title": "Estados Unidos y China trasladan su guerra de potencias a Vaca Muerta",
+        "description": "Estados Unidos y China trasladan su guerra de potencias a Vaca Muerta Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ21NUl9qNWVLMDRSMmxCcXl6cjkyZ081V1JDekN1MXlrNHpCM0pUS2dua2NBcjM2UUYtSVhEMW82ZVdHczNUR3NkZnZsTUxIdHZZVjhGRnhSWmV2SWdrUXpKbkZiSzNlV2hUYWZCR05BX3p2bFY0WUpxSUFRUmFfM0pla3dlSlViWVBiNmRCOFMtMEJ5RGdnUExUSE43cWEtYjNpbVVyQk03NDFfTVpqb3pIRm1BOWhRN1JjZVRma3FYUHlmTnZxSzRzc0NSYWFUZTJMbDdHeHlsUQ?oc=5",
+        "date": "2026-08-09T06:36:00+00:00",
+        "source": "Diario El Día de La Plata"
+      },
+      {
         "title": "Mapa de la deuda en Neuquén: las ciudades de Vaca Muerta tienen más deudores en mora",
         "description": "Mapa de la deuda en Neuquén: las ciudades de Vaca Muerta tienen más deudores en mora Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGk3eGs3VU1ac3FQcHBFUmtOeHFxSjRrUWw3cTJLTF9mYkZEQkVzRHFjY2l0WkptX3VtaTBHQ25zcEpLNm16bGExZm5tWFJCN1V0SFVHQTZaQUI1UEpIU2FtRGV2TmVpTzdKZkNaa0xCTEljc1B1Q3JqYUtSdVcxZlVOYW03dmUxeDAxb1Izbkotbi1RTUFYT2tPcnVONVNiX1BuWTBJNTY3OGJhNllPc3VVUFbSAboBQVVfeXFMTjM3Q1RLSDdRdlpVaFpqaG1xWnM4T3JZQkl2eTY3UE0wRHExWU5ZNlVNUjNvbklYQ1hyc21SZ3d0N20yaUk5ejAxX3BrSUxuVFpQWjBEOFIyeGlDSHVWQWlCTWFfd3o0YTFTVWxkYUJxUDdDV29NSW5sdE9QOEZoNEtkZ1NFRncxQzVfRm00Y0NSbDllWHFNdHpqQ25yRUFva0ZKTzhmV3UtczRPaUtWTWFWVVdfX2VRZXdB?oc=5",
         "date": "2026-08-09T03:00:00+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Mendoza avanza sobre Vaca Muerta: un estudio confirmó potencial y se acelera la perforación de dos pozos",
-        "description": "Mendoza avanza sobre Vaca Muerta: un estudio confirmó potencial y se acelera la perforación de dos pozos MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXJScmhsdWI2Q0MwQ2VVOGFkVk9wUmVPRi05VGhTc1czZGdsanFCcUoxY1FRalFuOExWUU1lekxGMHJ3RW5zc2pVaS0tejRjbllHUTMxcU5VRE9Fb3EyTlhWSGlqQkpqRVJxMXEyODNYdDdCVEpzOS05RDB4NkVxR3E4MXN1a2k1WVNqcVhKVlpKWlZkRHhZcmhvbVkxNmszc2lkd1cxME41XzFsbGlGdEUxendXTTNHazV3N2Z1ek1mZTV3QVRwSldBTHjSAdIBQVVfeXFMT3VGUmh5ci1NZDNrSTNqMnVkZDNGZWVmOGxyOXFqc1hrTV85SE1DeWVfa0ljSVdTQmdUTFo1bVZCZ0xpSDBnUDVxcU0wQXM1MlpNZUVhMjJMREh1NHB6NkVqVzZMVkRCRDYtTjY4Z21iZFFKUjJlclRRbG9LRnU2MktNTEM4NFBWNTZMZi1SenJYUEpLczZSNkFHUmhPZUVCNndNLUctTFVqTFVVcVpDWFJZZVhLQWUyTGNZYi1mOG52Rk1DaVB6aTNvOU5QUGdjYXBn?oc=5",
-        "date": "2026-08-09T10:07:00+00:00",
-        "source": "MDZ Online"
       }
     ]
   }
