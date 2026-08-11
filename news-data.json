@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-11T21:39:39Z",
+  "updated_at": "2026-08-11T22:35:12Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11",
-        "description": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11 Diario AS",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdyTEpBQk5pSnRkcVpmVnlFRHRmeVk1Yy1qZUpNdWxjeFVvMGpyWWFjaXdudFZBNERXckZxcEpuc0lXS1Ayb2tMUFZVZ0FsRldqUHVmeVFaUFpDS0psUThma2thWVpiZ0RMakl0SlVEZXQ2akViWDRrTmlQQkdIcTc1a2VXTHlEMDNxMkxTa25XU0tIeVdadG1PbWQwcjVvaVhJZ2lZVGNfQ2t0blJwOXhuYjRvRlFDaTFNQ2FsaG9KRk4xMW1VWnVJb9IB3wFBVV95cUxNM1JxNXl1LW5oZ2xqaFRLd0ZtSE9mOFl1d2JfNHlyMjJibDNxZFFEaERCRFVGNThWT2lsTERUTmplUkh6RjBCSFJZT3ZYN2E0RmlCLW96WElkZVpTbGNCWmY3ZU1SM20zb21RYk1qWHJvdHRyX0ZLUUdQbHZqdUhlc2NvSVE2dWNBVTFuWnFrQ2xBQkNZUk8xVlVseE9Lam9Yc0ExNkE5ejBKZGs1N2JYNlotdUF4NkxJZ0tiTFIzNm5jVkViUjRJdDI3Ny1CemtENE1PWkE5dTRURkF2c1lR?oc=5",
-        "date": "2026-08-10T15:15:07+00:00",
-        "source": "Diario AS"
-      },
       {
         "title": "Windows 11 en PC: Microsoft elimina la recomendación de 32 GB de RAM",
         "description": "Windows 11 en PC: Microsoft elimina la recomendación de 32 GB de RAM Infobae",
@@ -17,48 +10,55 @@
         "source": "Infobae"
       },
       {
+        "title": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11",
+        "description": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11 Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdyTEpBQk5pSnRkcVpmVnlFRHRmeVk1Yy1qZUpNdWxjeFVvMGpyWWFjaXdudFZBNERXckZxcEpuc0lXS1Ayb2tMUFZVZ0FsRldqUHVmeVFaUFpDS0psUThma2thWVpiZ0RMakl0SlVEZXQ2akViWDRrTmlQQkdIcTc1a2VXTHlEMDNxMkxTa25XU0tIeVdadG1PbWQwcjVvaVhJZ2lZVGNfQ2t0blJwOXhuYjRvRlFDaTFNQ2FsaG9KRk4xMW1VWnVJb9IB3wFBVV95cUxNM1JxNXl1LW5oZ2xqaFRLd0ZtSE9mOFl1d2JfNHlyMjJibDNxZFFEaERCRFVGNThWT2lsTERUTmplUkh6RjBCSFJZT3ZYN2E0RmlCLW96WElkZVpTbGNCWmY3ZU1SM20zb21RYk1qWHJvdHRyX0ZLUUdQbHZqdUhlc2NvSVE2dWNBVTFuWnFrQ2xBQkNZUk8xVlVseE9Lam9Yc0ExNkE5ejBKZGs1N2JYNlotdUF4NkxJZ0tiTFIzNm5jVkViUjRJdDI3Ny1CemtENE1PWkE5dTRURkF2c1lR?oc=5",
+        "date": "2026-08-10T15:15:07+00:00",
+        "source": "Diario AS"
+      },
+      {
         "title": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro",
-        "description": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro MuyComputer",
+        "description": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro muycomputer.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjRGUE5wclJXVzV1X2EzdE9tN0FSSy02OEVvbEE4UF9XeGdjUkR1QUpwZDBxeVFlN3k0d2xaVTB1aDlQN2FYSGZCTjduY3E1b3BaWXBLQ2U5NjdkWlp1TTlKYmRiNTFmWWp0YWdYMGRGQVhzNFVSV1pWVC10aG45SU0wRENjNUpmY2FNcUFLcXB0V1piTXpIcklDT0ZrZExIMXFKY0ZfZGtqWVE3?oc=5",
         "date": "2026-08-11T12:28:34+00:00",
-        "source": "MuyComputer"
-      },
-      {
-        "title": "Microsoft sube el precio de las licencias OEM de Windows 11: PCs y portátiles más caros",
-        "description": "Microsoft sube el precio de las licencias OEM de Windows 11: PCs y portátiles más caros Noticias 3D",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmE4YzRDNzMtQmhXYTZ3SmFyczNrTXBtYlNSZzVMSTg3aHY2X0ZLazE3Zl9PV3hvMG1jdVZiYkU4Mk9mLVdCeG52M0dJU1VoUzlzUlZxLUdSbjdnaFp6ZWJLUlNhRlVoVUZkbDZyN3lUSWprdDhRNE1tZTV6clRhYTMtOGJtbGhPYzI0?oc=5",
-        "date": "2026-08-10T14:53:39+00:00",
-        "source": "Noticias 3D"
-      },
-      {
-        "title": "Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón",
-        "description": "Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRE1jbkVZS24yN2ZnZFpKWE1wbENPVUpPQUlaN2Y3QmpIXzJjNGN4eE9TMkdFWmViUmFGM2l4ZkRUdWw4YnBnd0lLZmNIZmRzT2V4Wm5rc1BSNzA3V1lmX0tnd015Q0J6TXVmUzk4WHdKYzE0XzFzZGtSTzcydXNta2Q5aGJYZkoxYlMw?oc=5",
-        "date": "2026-08-10T20:00:00+00:00",
-        "source": "Hipertextual"
-      },
-      {
-        "title": "Microsoft sube el precio de las licencias de Windows",
-        "description": "Microsoft sube el precio de las licencias de Windows MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGNkMDJsVEM0YnhZc2JLZC16bVl2czdLX3VIR3hDd0c5SW5wbFJpcFZmdXNpM09hNWctVnBENW0yQTBOY3N2bFdyWk9mMW1JelR4RWw2bnVQYlNfd09YYl8wWEhQNmxwSU54N0UyZjFud3lhcHBQdFBFMEJLa0pibUNfTDE1cnZmVEMzSDBpNGlEYjZVb2k4?oc=5",
-        "date": "2026-08-10T12:18:56+00:00",
-        "source": "MuyComputer"
+        "source": "muycomputer.com"
       },
       {
         "title": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país",
-        "description": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país El Cronista",
+        "description": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país cronista.com",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObWVlZGRfUGJ5OHJyNW9jREtuQ2lyQklLMHAyYmc5WEl5T2xzbnBjTG8zRXVrTWRZRW1YVXZZTlpyU1ZMWGI3eV9zdmk2Qll1R3VkRzRPYjhfcUktSDk3bEIyb3NsYS1mVlBYWkZncWRlYms1YUlNOGlHVjBTb3Fxc2JyR0NVNVA4OHJ4YTN3WGRBWnpvNlRzREt6UTAyU0ZEbkx4YW9kdWxxZGpRWVVLZXNOU1NoN3hTRWxTRWtSSHlKQVBZdnBWSEptbllOU3hWT1pYTVVsRXg4aFV3OXphSlhlWjdmYXRZVUxwcGVfSGJLV2JXUjBlckhKX1JiSkdt0gGbAkFVX3lxTE9BcDY4WWdWczZFOF9HUlE1bUJJTkdGN09GUERSZl95WG5ma2V2clVYMjJ1blViUW5tWDZRUWN0eGQzYmN3Z2xQR0tKODhJeFhwSENXb1pZSlItdVhsd0t6NkwzaENqdFdHT1RtT0ttWmM3QjBIelJxWUUwcXRfelJLRnJ2cjFtSE9ZWEx6TnJweXpmU3Z2Y0gtR0tmUGNodzI2cXNvWTk3OVUtenpqRDlTT0p0REoxbzJtR09POHY1bUVvYzFRYjZocEl1c2xJMFcwSklpZ0lpNjliOU9qZGlTcDhKbE45STRyZGVsS284RmhzNklmNU5JYWVZd1Ryam9zSXBQM3JnX0lyd1pRaDZyOU0ta2E1UENNZEU?oc=5",
         "date": "2026-08-11T18:09:14+00:00",
-        "source": "El Cronista"
+        "source": "cronista.com"
+      },
+      {
+        "title": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores",
+        "description": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTJCaU9seEE0Si1hVFBSa0ZVc05xNThXR2RweFJsZngwWm54aXM5cnZxN1dFWnAyckNzLVlzdEJrRFA1U2lDM0lBVFNfdVV0dDM3VW1mWnBzajRpbDEwb0xQZFlFVXZmZG1BQmNCemVXTzAyZG5FUXpoeHFPY1JwYWxQYmlyY0dqQjlSOFRndDdXVDEyZ3ZjNlcyOUN6bjA2MXNRRFBqYUZnX2Fmczd5TGFFa2xZU1JQNmgtTldOWlRaem1KdzE2Z0RaZHN0QUgtVnRHZDNEOFk2N1k3ZUk5MFFJZjl0VGJa0gH8AUFVX3lxTE8zelBLdmk0dUd3WUROWTJhalBndUhsQ2E1a3lMc0lrdzJjaHJHSms0UmtpcDY5SjNST3pfR3l4dzBSOFlUOUtlRGRPaEZtaEJQQ0hlTTZDaXdtSXpJWDVRTVFYOGdIZVNHSHNQOVBkNWlmZkdldFF0WEd3cWppblNEMl9hcGFCUmNOajMtaDdDTjVxdHI2U2RXVVlXeXpSd0RBNS1jOHAyR3RqZ3BLZGZtOFVSa0hjVExzMEpSWFRrUmhJcFhtTUxxRUFEZS1LZjF2Y0VNV2FULTFCOUFvSG1IaENscUVtUFU4SkluYXZjWFZZd1hoNDV2RUw2Ug?oc=5",
+        "date": "2026-08-11T12:00:06+00:00",
+        "source": "Diario AS"
+      },
+      {
+        "title": "Puede que XBOX esté en crisis, pero uno de sus estudios ha rendido por encima de lo que Microsoft esperaba y eso es una buena noticia",
+        "description": "Puede que XBOX esté en crisis, pero uno de sus estudios ha rendido por encima de lo que Microsoft esperaba y eso es una buena noticia 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVFFZTRMVWFPM2hqWmlZZjN5bF9VeXdjeXBtY2h2WTZmRGZfcGFyZ0lTWW1LSTZMVDBfS0o1UnZwaXkwa0VCWEpjOFI2RVZPWHQ1Wm82a195cE9YbEZrMUtQNTdjRTVfVUxFQmpxbVBUcFNZYVExSzhVWjFxZmVlVmwzdVpiTmthdkJrNnl1cDUzdlVXS1c5bjY2d09xaFBjMk5zYXhJQjRybE56TlR5NkM5YzRKTFk3VFpGMFVUN213M19rSzVhTThWVGtHMlVnYlUydUdxVlRkcHI0X21kZm9yRWZPQdIB6wFBVV95cUxOd3dIN09HSVF4Q05NRWlwYnJ3Ymw3S0NVdjdGaDVsMG5GSHU1aUFGd2diMUZxWXJWUjBOX2RtN1lLSWVWVjd1UHRDTF80N3NqZ21aMHp3YWU2dGFpamh5YVNIalZMcjdDZTFJSjRXV1pxemk5dU8zclpZeVZNVEptcUFLaG1wYk50TDdudUdkRXY3dy12S0dhdTNpQmNiOWJ4WGx0MWpIN05VSWdQemVtS3JzMHEwX1dFUTV4SzdyS1FXSE1WcEg5MVVudmlFSUVKdjFLR3BVRlpQNlZTemNjMEs0RmdWTXRMOV9V?oc=5",
+        "date": "2026-08-09T17:18:15+00:00",
+        "source": "3DJuegos"
+      },
+      {
+        "title": "¿Por qué sube hoy la acción de Microsoft?",
+        "description": "¿Por qué sube hoy la acción de Microsoft? Invezz",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2o5X3R4YXoxYmRPTDltcGlqcWZhNVF3Z0t4UzRES0ZrMXh3M05HOG0tNHBBQklsU1RibXBVN081UGZqelR6VDJpRU5GY3REbXlBVENOZDZjb09Kakp4VEhmckxWUjFDaENkTHlCaGtHbE9MWjR2RHlIRmd2elJTVDJLNVVjOUtHWnc?oc=5",
+        "date": "2026-08-10T17:58:39+00:00",
+        "source": "Invezz"
       }
     ],
     "Marketing": [
       {
         "title": "Lejos de la tele, el negocio de Matías Palleiro, la pareja de Jimena Barón",
-        "description": "Lejos de la tele, el negocio de Matías Palleiro, la pareja de Jimena Barón Caras",
+        "description": "Lejos de la tele, el negocio de Matías Palleiro, la pareja de Jimena Barón caras.perfil.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzlIZlF2WmkxQmJibllFSDRuLXk4VnQ1QWtEVVNYSWVpdzZCd2drRUxvY1NXdEFzbGR4MTVDY1E0WjllcWhrTDRvUEs0NVBmcWRRUGl0eHVyQWFmT2NaRXNVZTVKZnpJcUNmRUx6eUJCQmhicHk4QlhTU29oeEhjckdnX3pYQ0M3Ujg4Tm5hMEpwNzBsR2hNdUJfNmxoc1BNLWUyejJZTFUzQUnSAbABQVVfeXFMTmwwaVYtM3JuUm5uOFEzb0ZsdENyUGNmeVNYeDE4UzgtWG11X1k2bEZ1YzlyLWczdGZwVWN4U211WGtyS0VwbFAtb3cxSWhWOUJkNkg1VTU2cDN3cjlEdmZBaTA2b01lcjFvRVY5TXAwT2M3Y0lieFZSQTJ6dkN3Vzk1RXBhM1dMb3htZldzdS1rejJ0Q2lFY09vaEJMeFNkU01ZV3JfbnlvSVBFMWJPUWs?oc=5",
         "date": "2026-08-11T19:28:12+00:00",
-        "source": "Caras"
+        "source": "caras.perfil.com"
       },
       {
         "title": "La batalla silenciosa que redefinirá la publicidad digital: \"Recommendation Equity\"",
@@ -96,11 +96,11 @@
         "source": "Consenso Salud"
       },
       {
-        "title": "Las mejores agencias de marketing digital y paid search (PPC) en España",
-        "description": "Las mejores agencias de marketing digital y paid search (PPC) en España Atalayar",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOajdZTFI5YmpiOTVISXB3cHUtWlliV1FSczNtaGVZV0Vuck4wbnhtc2pleGVFbmJiektqeE12ZGFHVmZSSjJnV2xmSmVMeFNRbUJwUFdvOWhoSkRDUFRibXRWQXJyZDVBcE9Dc3lJUldvVGlTQnRva1RqSHhDRF83RFo2S0c3Z24tQndVVnZGWW9EdHgwdlJVVi1JS1M5VDVkUEN4MXhxcUdCdjZsNG0zcmh3NGVDQXZYWUlhMVdhYlpyTmxrWHZJVHJoWjNzQjFMTEFV0gHYAUFVX3lxTFAwNzN3MVoyT1FudFA2Z0RWdGtuMmhMZF8yMXJFeUFaQTRrY0J4TkRvYWZzYUlUVmJCbnl1QjFxQ0k0cWwxMllrTEVDdmlLN0htUUVqMjdTaTFhNlZ5b0tZazlVaG9CLTkyMWI4VG44WkxxX0NPZlNxcWZlYjVxb1RIQkNqOTRjSzg3bWlmYXBCd0NGcFktRC1wRzZzd1FoRDRQeXZ3OG1ILW1tNTlEeTd0Y0x2bkZFc3drUTR6emRSTmNHTmVfUDhmQVR2M1lUb2VMUk5DUV9Tdw?oc=5",
-        "date": "2026-08-10T07:55:43+00:00",
-        "source": "Atalayar"
+        "title": "Congreso Nacional de Marketing Digital 2026 reunirá a 150 speakers y líderes de la industria",
+        "description": "Congreso Nacional de Marketing Digital 2026 reunirá a 150 speakers y líderes de la industria Revista Merca2.0",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3pRamduc0hXLTJrQlpLcEJzOF9XTmo2Y2xtOEtVRW96YlFFZ01jYS1qajJsXy1UaGNPLTBfdENCYVo2dmhjdTdkZWpjLVM5eWxpdGlwWXh6Q0RneER1cmU3Z0FCOWVaTzY4c3hrXzRtUER5V1dGUHhWOG5nX01TdElvWG1wVDY1X3k0c2kyeTRucXV5cm8xUklXS0Ffd0I5NEs0S2otVk9nOFRiZVFBQkFpTkFtS0NL?oc=5",
+        "date": "2026-08-11T16:25:24+00:00",
+        "source": "Revista Merca2.0"
       }
     ],
     "IA": [
@@ -112,18 +112,11 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Inteligencia artificial en el trabajo: dos de cada tres empleados afirman que les permite ahorrar tiempo - TN",
-        "description": "Inteligencia artificial en el trabajo: dos de cada tres empleados afirman que les permite ahorrar tiempo TN",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQVZTeGtYRk9hR0lFZ3RnektXWWoydUsxVG9VU1NIQnBfQld5TGVJWXczeVlCWF9OU2JIdHhBQnVGX1hhNHhRcW56elJBR0EtTkttdlRPTXFuLWpFTVkyTHp5N0I1ZEx0UUlMX0xVdUhBeDZKYWdJcG9fa1liZGJNUjBFNDVrM0JndEc5WG80WTcxWGp3NzFCOW1NcW45SjNZR3RPZkV5NHN4MzhnR2tWMlVlVWJ4MmM5Qi1zYUNEZDZHVGJxN0JvcUpHT3dvWTlybGFrNU42QXppTjhKS21uUW1vNNIB9wFBVV95cUxOUkNDdFQzbXJGbUt4bFpxcUwtcHZYY1IwUFl3T04yTlc2SGxHRkQ4eEZsR29Vb2NvRHppblJBZE5RVVQ2amUyX3Uyb0dwYWxnTEhNa0h2MkY3TnR4N2dsVFZjY2JHSV91U2U5OEhwVXA0Ynd4amp6NG1xb1l3TXpWNlVkc0pmNGczUXlFX2lYX0RMYXdCeVRkYTlYRVo4LVhUcUgtRTZuZjR3Nmw3bk1vMWRUdnVzTnB5NHk5dDlWMjJUZVc3REFMSGlySE53TEVVaDNLOW5PR3oyb25HSVQyeFVRLXM1VEEzcnRhVS0zRWVqc3hLQ0hJ?oc=5",
-        "date": "2026-08-11T20:34:57+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
-        "description": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA BBC",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSlNzY3lMdThETy10bnFCay05eXRzczVIVlBNVWVRSHdpYlYzR3IzWGUyZ2NoSGg0VUM3Y0c0b1dTemVTMW9OX09udkppQ080WU4xVVNYNXNoMHPSAWBBVV95cUxPM3FCZXlaZ3oyMTJkcFlTX3JWWjE1LVV4RmVwdlpYRmQ4QWRuZy00NGljTHJQcGZnMnU3c3dPaDdUUjJ5TlhweHhQd2RZNzA3M0U2cndXVjl4MVdhbExMS1E?oc=5",
-        "date": "2026-08-09T11:28:38+00:00",
-        "source": "BBC"
+        "title": "Anthropic incluirá marcas de agua invisibles en los textos generados por Claude para identificar contenido de IA",
+        "description": "Anthropic incluirá marcas de agua invisibles en los textos generados por Claude para identificar contenido de IA La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcGlqX3dTY2hIeVYzYWJucnFEdTJzcmFSb2pwTVdHaUZ5bFZBeTBpNlJjQUQyX05TZXZpN1pjSTRPQzc1eU0xYVZqcUZHYmxVMUt1d2o1Yno4a0ttYk96cE84cFpGVFp2dTZaSGVoeS1sWVF0SnRPYlFwYkwwZmFnR1I5RFpoT0hvWjhfamRyN0VNZDNpSmU1ay1vMEgwby1pVVJSV19tTmNhMFUtVVZteVExdEVSS0pBUEtTenhDZnI4Qm9FWGtYV0VHeE80dVR4MmN0RmhVQ05VSHY5?oc=5",
+        "date": "2026-08-11T22:19:10+00:00",
+        "source": "La Voz del Interior"
       },
       {
         "title": "El Papa: Para construir la paz, desarmar la tecnología y la inteligencia artificial",
@@ -133,11 +126,11 @@
         "source": "Vatican News"
       },
       {
-        "title": "Meta presentó su modelo más avanzado de inteligencia artificial de código abierto",
-        "description": "Meta presentó su modelo más avanzado de inteligencia artificial de código abierto La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEJnUjlGYXpzblVJVVB3cFdfY1VWRWJDVk0tWDAxeGFDdW9HZVBaVlZDUDRORnlTa2ctejBEWmM3cFRZYk9iNG1EektkNW9YNWhTRTNaNVB3Q0VuMmY5TjROZzNuNEhkRi1CTG9POWhmTU1FeDR0RUhaMlB6SUhFQng4VjZSbDVodVpXdmNmUU5XbU1WUGxZVG56Yjl6ckdzbkQ3VFFNQm5WWThCZ1M5Q1pOQWFDT3FQbUlWLTE1dGlSRm9oMWfSAcsBQVVfeXFMTUVyc2FSTlFuVHhQTnY2M2hhVzQtbUdfQVZvdDJDQTFPLTFET3h0dWMwc1hEZ0VDSi02aHRKcnlla09sVXhuSUxaTkM2R1FlRi13UDB4ZlQwMU1XT05feXU4YjBmZVhjOFpwRC1Jckk2d2Q3LXMxak4wVjN6Xy1lZUEzcUlCZHpidFNOdm11dHVEc0dRVWFRRXJhelNEQnZqSElJRE5lZFdsZ2ZnaHB1blRUR1BNRFRVbnU3TkNEZW5RUjRCdTRjcTAzbTg?oc=5",
-        "date": "2026-08-11T16:32:16+00:00",
-        "source": "La Gaceta"
+        "title": "Inteligencia artificial en el trabajo: dos de cada tres empleados afirman que les permite ahorrar tiempo - TN",
+        "description": "Inteligencia artificial en el trabajo: dos de cada tres empleados afirman que les permite ahorrar tiempo TN",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQVZTeGtYRk9hR0lFZ3RnektXWWoydUsxVG9VU1NIQnBfQld5TGVJWXczeVlCWF9OU2JIdHhBQnVGX1hhNHhRcW56elJBR0EtTkttdlRPTXFuLWpFTVkyTHp5N0I1ZEx0UUlMX0xVdUhBeDZKYWdJcG9fa1liZGJNUjBFNDVrM0JndEc5WG80WTcxWGp3NzFCOW1NcW45SjNZR3RPZkV5NHN4MzhnR2tWMlVlVWJ4MmM5Qi1zYUNEZDZHVGJxN0JvcUpHT3dvWTlybGFrNU42QXppTjhKS21uUW1vNNIB9wFBVV95cUxOUkNDdFQzbXJGbUt4bFpxcUwtcHZYY1IwUFl3T04yTlc2SGxHRkQ4eEZsR29Vb2NvRHppblJBZE5RVVQ2amUyX3Uyb0dwYWxnTEhNa0h2MkY3TnR4N2dsVFZjY2JHSV91U2U5OEhwVXA0Ynd4amp6NG1xb1l3TXpWNlVkc0pmNGczUXlFX2lYX0RMYXdCeVRkYTlYRVo4LVhUcUgtRTZuZjR3Nmw3bk1vMWRUdnVzTnB5NHk5dDlWMjJUZVc3REFMSGlySE53TEVVaDNLOW5PR3oyb25HSVQyeFVRLXM1VEEzcnRhVS0zRWVqc3hLQ0hJ?oc=5",
+        "date": "2026-08-11T20:34:57+00:00",
+        "source": "TN"
       },
       {
         "title": "La apuesta por la inteligencia artificial y la infraestructura sostenible redefine las prioridades de la industria guatemalteca",
@@ -147,20 +140,27 @@
         "source": "Infobae"
       },
       {
-        "title": "¿La inteligencia artificial puede reducir las desigualdades educativas? Esto encontraron dos nuevos estudio...",
-        "description": "¿La inteligencia artificial puede reducir las desigualdades educativas? Esto encontraron dos nuevos estudio... Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFZJUlY3T2I5T3VDbEF6VlA5cU5ucUZ6dlpZby01UWlPNlZFanZ4UmNUbzJNU0hzQ3lQdHBGc3duWTloRzBiUzlZbXRIWHc4SWpRaWJJdkdlUmpUQnJOR3JaNnpPY3RsX3I0MlJFWklvakZQVl9jeVM5RF93bGJxVUtsX05DY1Z5cmljS0RJeFRWM2VCQXNCYVRnbk9SNzVnaGMyanY5Tlh4akl1V09KRTR3WW9oNGl3cU01RFNUQlJSNE8zWXJQdThseFU2MkpVdXpJU0FjRTAtSTFXNnU5VU9pbExKUDc2WlgzYlRSMUJhUdIB8gFBVV95cUxPTFZJUlY3T2I5T3VDbEF6VlA5cU5ucUZ6dlpZby01UWlPNlZFanZ4UmNUbzJNU0hzQ3lQdHBGc3duWTloRzBiUzlZbXRIWHc4SWpRaWJJdkdlUmpUQnJOR3JaNnpPY3RsX3I0MlJFWklvakZQVl9jeVM5RF93bGJxVUtsX05DY1Z5cmljS0RJeFRWM2VCQXNCYVRnbk9SNzVnaGMyanY5Tlh4akl1V09KRTR3WW9oNGl3cU01RFNUQlJSNE8zWXJQdThseFU2MkpVdXpJU0FjRTAtSTFXNnU5VU9pbExKUDc2WlgzYlRSMUJhUQ?oc=5",
-        "date": "2026-08-10T21:18:00+00:00",
-        "source": "Rosario3"
+        "title": "Meta presentó su modelo más avanzado de inteligencia artificial de código abierto",
+        "description": "Meta presentó su modelo más avanzado de inteligencia artificial de código abierto La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEJnUjlGYXpzblVJVVB3cFdfY1VWRWJDVk0tWDAxeGFDdW9HZVBaVlZDUDRORnlTa2ctejBEWmM3cFRZYk9iNG1EektkNW9YNWhTRTNaNVB3Q0VuMmY5TjROZzNuNEhkRi1CTG9POWhmTU1FeDR0RUhaMlB6SUhFQng4VjZSbDVodVpXdmNmUU5XbU1WUGxZVG56Yjl6ckdzbkQ3VFFNQm5WWThCZ1M5Q1pOQWFDT3FQbUlWLTE1dGlSRm9oMWfSAcsBQVVfeXFMTUVyc2FSTlFuVHhQTnY2M2hhVzQtbUdfQVZvdDJDQTFPLTFET3h0dWMwc1hEZ0VDSi02aHRKcnlla09sVXhuSUxaTkM2R1FlRi13UDB4ZlQwMU1XT05feXU4YjBmZVhjOFpwRC1Jckk2d2Q3LXMxak4wVjN6Xy1lZUEzcUlCZHpidFNOdm11dHVEc0dRVWFRRXJhelNEQnZqSElJRE5lZFdsZ2ZnaHB1blRUR1BNRFRVbnU3TkNEZW5RUjRCdTRjcTAzbTg?oc=5",
+        "date": "2026-08-11T16:32:16+00:00",
+        "source": "La Gaceta"
+      },
+      {
+        "title": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada",
+        "description": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEVmRnluYllFb1UtN2tlbDhWU3FYWmo1TUppT1FXQUtBMG1tNXBUQWpCYWhXRG1mWmVGbEgwNkkwVkxVWUZaaURuUy01YW9CQ3M3RnFUN0V2T3AwODJfN21Tb2dyZFNlMW9tSVUyNUVxOWVvNXlWb2xhdWVvU29ldDRYVE1vY0hMUkptM1FxdzhzLWdnYzBoMS05V0NuazU0aElEbmR6dXFQTUxQZW1BM1F4NHNJLS1sVFVFaXNicWlEcnM?oc=5",
+        "date": "2026-08-11T19:08:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Los sets de fractura de Vaca Muerta tienen hasta un 30% de capacidad ociosa",
-        "description": "Los sets de fractura de Vaca Muerta tienen hasta un 30% de capacidad ociosa mase.lmneuquen.com",
+        "description": "Los sets de fractura de Vaca Muerta tienen hasta un 30% de capacidad ociosa Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU54cnVQcmxFVXVSV0dUalhBNXJyMmlYVVJrUXU0LWdnaWlfaFkwNUFlTTdrVW9nS19zOWloODl0c1Jxam1vT2ZfUldBdVlTZFFFZzIzcVN6MXBfa0l4d1dHX1NWUWNta1licnFBWlJoWXh6TFFCVlZKZ3JVWnpLNXkyZDZyNVNiZVFiWElKRFE2dHJwWmo3cEhtdXNPdlFQZ2RMOTdvLXJHUXPSAbABQVVfeXFMTTAwa2dZaXpWeXVMNVp3cXFCWG1rMGtyck0zR1lUaHlrSlZYRzZGZkRhN2lKTEhPWllXLTNURlNrc1I4emdmT3p4SlI2ZmxLVGJ2QmtTNmllQkdEN0pMNG9KNFE3Vjg1cDh5QUR0Y1JzLXdRNTVTNUcwdmFCRlk5d1RLVVVQc0VtaU5WNzJyeHJtWDNJa2RwMzJYVzF2cGh5MnJOV2FWdGdhS0hqWUhWSGE?oc=5",
         "date": "2026-08-10T17:56:40+00:00",
-        "source": "mase.lmneuquen.com"
+        "source": "Lmneuquen.com"
       },
       {
         "title": "La empresa que se le plantó a Estados Unidos y hace negocios con China en Vaca Muerta",
@@ -184,25 +184,25 @@
         "source": "Ambito"
       },
       {
+        "title": "Ganar competitividad: el desafío de las pymes para acompañar el salto de escala en el desarrollo de Vaca Muerta",
+        "description": "Ganar competitividad: el desafío de las pymes para acompañar el salto de escala en el desarrollo de Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ2ZRd1RhYTZvSjVWNFhmUDNyeWFoRXpVS3ctNXJRMEpFTDlqMTFwaEZzOTBHUTdTc3VUQ0xOSEJySGRJWjZhWDJhTGpsMWtWUGdrS0JxdmpCTl9UaXlyWFBNcUJlcmxzZ2ZjSUcyNlNKXzNZeG1saW9FdC1UVHFRMFRoVnpxUnByaFZ3a2J1MnU1Vk9KX1BV?oc=5",
+        "date": "2026-08-11T22:27:09+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Tenaris inició las operaciones de su tercer set de fractura",
+        "description": "Tenaris inició las operaciones de su tercer set de fractura Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalVoSkVJT0R4bzFZOVJtakdtd2NVWGJTSEtOSk9kUndhb1NGSkNmZDNuUzhKdjhRTjdIaGloMnp3OHduaW93YjZfc2hJSllORzRUZHlEY21BaEQ2aGFtTzdPamVjblc2ODBSYlk1aDdBcG0tUzJoVVh6SmFjVFlzY1RCQWlZaXZkUGp0aDVnWnBlb096Y3g1eldtYnE4V3EyaGFj0gGoAUFVX3lxTE5BYjFXSEJMZzM4aFQ0ZVJYVm04Y2RyS3lqaXEzWWdhZ21rSFFPSk0xUVRSVElIQ055blZNTktHME84WHRyazk2YmdBYjR4S1RFd2x0bXZEQ3ZCekt6emNuLU1XM19PWkFZWkpnU0pxSXFMYXVtQURqX2t3cmlobVV5Uk5XQkJBQ2g4N1pJZzV5ci1jb2ZRMFRBMU5FZEVNZlRhM2hYa0wxUQ?oc=5",
+        "date": "2026-08-11T19:17:26+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
         "title": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta",
         "description": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDJ3UExMZHVLT3k0MXhkOEMxZy1pb3lXZ0w2V2VlWlBlY3RIY0poTktMc0hJNVpvd2pxWXlkbVZ6TkZHS1VETWJZaUhlSlJOMzZTMml1RTY5d3R0bFVRMlM3SlE2eXJEc2lnLVNqWTAxWUMwRHpjMkZYWnVkaTVKMnM5dzNlQXNmWDloTjBEbURNWndpRDFvcGdNdWxrYmlaYTRHLW9FX0RmejdscGpfQXE5dHV4MjF2ZDdxOGNVZ1o5YjFBVUMwcEdLVDY0b21qSkFuRU5R?oc=5",
         "date": "2026-08-10T23:22:43+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Fue número 1 de YPF, tiene petrolera propia y planea invertir u$s 3000 millones en Vaca Muerta",
-        "description": "Fue número 1 de YPF, tiene petrolera propia y planea invertir u$s 3000 millones en Vaca Muerta El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdDR3MmZWMllPUlU3UTNjUkFfZGRBeV9yWEVaYzhHRlhBYWtvVUhmbjh0bVpiSTA4cU4xN2FmLTZYVHdKajF0cnkwbl9MVTFxR0llalZIb01rRkRYRUdTa0dmdFhMV3I4eVRrRWxrdlhnT2Zsd28zLU1FTHdJQnhXSHdNYWpOb0YwRHg5NUp4MWV6eUFFQktHOXVBU0w0a1ZPVUY5M3dKXy1Sb1FTMmdOdDRjUUZZdUpmQ1E3cmVmVEp2UDNwTXc?oc=5",
-        "date": "2026-08-10T08:00:00+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "Con resultados financieros récord, Marín anticipó ante inversores los próximos pasos de YPF",
-        "description": "Con resultados financieros récord, Marín anticipó ante inversores los próximos pasos de YPF La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRGg3TDRYNlVTMDY1YzJBYUtUbWRVdmM4LUlsRkVDeUVpSG9WRlJIY0p5RTUxUVdsaTgwYnJmd1FKN1pNcmZDR1VKV0I1Z0RoUkU1TUduaWlWZmM4bG5EQWU2R3dOUGhZeWpkVlM1Sk5ZTk5DZ3J6Z2h6UDZyTXVlcXBBWDdBMkk5NUJySklkSjAxams5ek5Wbm0tQVN6LTl1ZzRmc3lQTFg1QWZiZE5ITktjOWVBZWpFZmtDUms4UHRDeWhXQUluSWU3N09hRGkycDdEWmpBTQ?oc=5",
-        "date": "2026-08-11T18:42:00+00:00",
-        "source": "La Nación"
       }
     ]
   }
