@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-08-12T14:18:30Z",
+  "updated_at": "2026-08-12T15:54:15Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "S&P Global amplía la integración de datos en Microsoft 365 Copilot",
-        "description": "S&P Global amplía la integración de datos en Microsoft 365 Copilot Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3pjbC1CRWt1UGJYUW9ObmtBYWZmemV4Qk0wVTYxYkp6X0t6NU9FVUpIVF9KYVBmYS01S3JKMlRERDZHRThCdXl0OVN4OW0zMFVWUUMtcmdMQ1I4V19EM0pBSWhOV2M3VFphVV9rbm41cEpVNExfVEVxZklYaG1VRGJGODdSOU00cmdjMDdZcVZJVkNlOVNnV2FmY0FzZ0VsS0VGUjdBdWVXdjNsZDMxX1pHTG91OG1iMV9ZcjZB?oc=5",
-        "date": "2026-08-12T12:18:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
         "title": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft",
-        "description": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft clarin.com",
+        "description": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXdQbnRhcXVQbV84TV9PbFFiWFNpeWtYTW9Sa0NlQ3VVLWotLWFHbmtkazNqdW8xN240dU1sS2NDUmlZZVN3X0E4cy1vQkFOcXhVc3BmcWo1NTR2VVVDRDIxVmVnbFRSbTJiYUFzSkxiUWhUM2swSkxobE5zMEVOU1J4YXBvaTVGLTFYLUROa0FDblVMdzNrMktzSHN4cjhyVzU2Y1hkQkZwT2JGdHc1RTZBQ2hLQmhOOU02YW85Uk1WMXlZUDZtNXZnQ1FqZ9IB0wFBVV95cUxPLUlCZGx3TXZ0ZkNnWWpGY1BNVzgtTWpfRndsVmsycV9jNHBPQjJIaHhhNmYyMnVJeEVYWnZQT1ExZlhJV3E5MlRaT3ZPbGVjTmFrMlItS3hCQkhyMkVuaWN6eFVPSWdQdHBFcDAzTnhaOHZLQzVhRnhGLWI0TXA0UDBvY2dXVnFPTUFmdWJEVXB6OTdHMUVUdGVtZFVpaEpieHdLU2pYNXFGQmVoelhaTTIzSnlLOTRnS0otUE1BX2RrdllrdDRJa2JmeEtWTnA2WEt3?oc=5",
         "date": "2026-08-12T09:00:16+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
       },
       {
         "title": "Microsoft responde al aumento de precios de hardware: ahora sus licencias de Windows son más caras",
@@ -32,10 +25,10 @@
       },
       {
         "title": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro",
-        "description": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro muycomputer.com",
+        "description": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjRGUE5wclJXVzV1X2EzdE9tN0FSSy02OEVvbEE4UF9XeGdjUkR1QUpwZDBxeVFlN3k0d2xaVTB1aDlQN2FYSGZCTjduY3E1b3BaWXBLQ2U5NjdkWlp1TTlKYmRiNTFmWWp0YWdYMGRGQVhzNFVSV1pWVC10aG45SU0wRENjNUpmY2FNcUFLcXB0V1piTXpIcklDT0ZrZExIMXFKY0ZfZGtqWVE3?oc=5",
         "date": "2026-08-11T12:28:34+00:00",
-        "source": "muycomputer.com"
+        "source": "MuyComputer"
       },
       {
         "title": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país",
@@ -50,15 +43,22 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTJCaU9seEE0Si1hVFBSa0ZVc05xNThXR2RweFJsZngwWm54aXM5cnZxN1dFWnAyckNzLVlzdEJrRFA1U2lDM0lBVFNfdVV0dDM3VW1mWnBzajRpbDEwb0xQZFlFVXZmZG1BQmNCemVXTzAyZG5FUXpoeHFPY1JwYWxQYmlyY0dqQjlSOFRndDdXVDEyZ3ZjNlcyOUN6bjA2MXNRRFBqYUZnX2Fmczd5TGFFa2xZU1JQNmgtTldOWlRaem1KdzE2Z0RaZHN0QUgtVnRHZDNEOFk2N1k3ZUk5MFFJZjl0VGJa0gH8AUFVX3lxTE8zelBLdmk0dUd3WUROWTJhalBndUhsQ2E1a3lMc0lrdzJjaHJHSms0UmtpcDY5SjNST3pfR3l4dzBSOFlUOUtlRGRPaEZtaEJQQ0hlTTZDaXdtSXpJWDVRTVFYOGdIZVNHSHNQOVBkNWlmZkdldFF0WEd3cWppblNEMl9hcGFCUmNOajMtaDdDTjVxdHI2U2RXVVlXeXpSd0RBNS1jOHAyR3RqZ3BLZGZtOFVSa0hjVExzMEpSWFRrUmhJcFhtTUxxRUFEZS1LZjF2Y0VNV2FULTFCOUFvSG1IaENscUVtUFU4SkluYXZjWFZZd1hoNDV2RUw2Ug?oc=5",
         "date": "2026-08-11T12:00:06+00:00",
         "source": "Diario AS"
+      },
+      {
+        "title": "Microsoft planea revelar el chip Maia 300 en septiembre",
+        "description": "Microsoft planea revelar el chip Maia 300 en septiembre Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmRfZG1ucTFQWEx0NE9PS01hajhoMVpjRVhONXh2YzdwblNZWGMzaC1nb2xHTlRkdlVyeno4ekpLUUhGZGVsc29wN05ndnZiNmdkY2VjUGpLbVEzd0xaUUpYX2hjZ1NUT3h4eXVGWjIxdy0tQzh0V1hKWDl3TXBLYlhEZXVtZkpXNmZtV2gtRXBxNGRjYk5WbnNtWWtnWHZsMnhnUnNza2xuNkVSWi12Zg?oc=5",
+        "date": "2026-08-10T13:34:00+00:00",
+        "source": "Investing.com España"
       }
     ],
     "Marketing": [
       {
         "title": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos",
-        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos nortemisionero.com.ar",
+        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos Norte Misionero",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0VVWXFEb1Yxc1hld2pMb255V0ZCYnBVUVV6YWJGODR1Q0FvZGYwRW92RGFwUDdjcElvazVFaEx4SmtEYktlZ0EwVl9VZUtuVEg5S1YyTGNybHRrY0JNbXNkaXpVbjlMT1pwTkFZaDRhUnNBb2JPbUtZVS1YNVU1ZWYxUU9PWDRnbkl0WDBfX1Fpd28zOUlQd3lMUE55VTljc08zY0tLMlkzcUh6MGpvMXVJNkRQVkk4bWVsMzc2VW9DUDRoc3lKWVJFbHh5SkJsMk5nSw?oc=5",
         "date": "2026-08-12T11:58:12+00:00",
-        "source": "nortemisionero.com.ar"
+        "source": "Norte Misionero"
       },
       {
         "title": "Abrió inscripción para nueva diplomatura universitaria en Tres Lomas",
@@ -119,25 +119,11 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Qué es AI Persona, el nuevo aviso que suma Spotify en las canciones - TN",
-        "description": "Qué es AI Persona, el nuevo aviso que suma Spotify en las canciones TN",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlFuaU91V2UzSkxiQlNVWXpBNmxnaUxUQkt2ZWFvbDdXQ2hqd2ptVENpek04eVgtckdIcUJ5WDlXcG9JUy1GR016NkVmUUpIQXk2U3ZfY3VLakhJQThqSEJEWkk2bW1MZXNmQ2ZoSEdZMEZhbDBQVnI0eEdBMExRaTJ1cHk1TnZhbjItOVpKYmRNVlBLb1F4YmhZWUhPYl9xaW45NGlMUHUyQ1FZdWdiNUhhYUEyd9IBygFBVV95cUxQZkFHY0ZkeC1CQnVBZWV3enRlYWRhbG55ay1XRHA5elV1allPMW1SODNZNFJUYngzTUlSUXowd21pWU0wWTdIeFBoaWpiQ2hvLUtJWTBSeWRDMnQyZjA4R2t1MWhBc2NOSm1hck90cWJBQXZzcnQ0WnRnZGR5bWRMd2h6NHBQTEUxYlB2bmU2ODJqRHJvWEViYUNhTXppRl9aX1dhMThITlVoOEg5bWo1MklnU2treHVQcFQ1UHM4QUY1d1daN19NSjB3?oc=5",
-        "date": "2026-08-12T12:30:58+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "El 82 % de las empresas españolas prevé aumentar su inversión en trasformación digital con la IA como prioridad",
-        "description": "El 82 % de las empresas españolas prevé aumentar su inversión en trasformación digital con la IA como prioridad Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcEJEcmM0ZElvMGxQeGtvN1o3QnBmOVFWcm9BUmlsR1lYX3FYeDVaN24zUG01MjlwcGliYnByMVgyZnQySHZBclpzT0djM3RFeWpfTm16YTBoa3JXLUxvQWNtSUE1UkU1QVNiREJZOG4yWmsxYlNLZEhRaTlrNDFrRkJWRzBlM2ZCelVSOFZmRFFieDNXS3VWNkFMbndybmxIS2g3b3diQW1YcmhYVEp4NXlfNWN4SHk0Q2tJOC14U1hBWmdpSjFQMDlzZHY2SHNzNkVpajZSREVWanBwU2R1SzdVUHlsQXdxZC1aMU9YT3hRNUtr0gGPAkFVX3lxTE5CY3FuV1BqY0pGYkpFVjgySWgxcHE2UV9xVkVDUXB1WXRZblpZWWpOZjB0YTRjWlc5UjgzeEtwcEVEdmQ2WlNkTXo1czhQbXlLVkdEclZybjJjYnphM1BoaHI1ZHZIS214bEJRY29NVkFNUzZZVmVTWnluUlhpMTBkMzRhY1RLMS1KOWVkTENHX1g5aC16US1xcFdDNl9qS2R2dm95czV4Tzh3X3lJUEdGV3FFLVhpR3lRTXdaQjZreXhYSHVOVTZkY1lfbko4ZXJIcjloZVRXamFGRjQzMk16UzF6TVZoX21QQXNPUkFWT3pwZHdXSE84TGVaMDNHLXRjcmR4b1M1STJYbm1nNGc?oc=5",
-        "date": "2026-08-12T14:08:43+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Ryanair se alía con Google Cloud para introducir inteligencia artificial en sus servicios",
-        "description": "Ryanair se alía con Google Cloud para introducir inteligencia artificial en sus servicios Cinco Días",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUV80ZDhQeGJnZXFiTU52U0Z5XzNWY3VPcUozRzNlSTcwQUJhN1h0eEVRckl0eV9jclByRDlJVTJaR2R2bHFhR0VNTkJXeHdXLWNXV3lYWGNqMnIzbTltWmFqY3AwNUo0OXBpeVNyc0dGZWxXdnRfWnBfVVBWbnVwb1YzVGtJV055NXYxVndVdkZjcnVIWnl0c2xFSi1zMldwb1p3c0FMQ2p1X0g2MGtQTHMteUk1Y21qbW9TWV9VRlNkY245RTNQcE5hTE00N1FsN0dlZHNIdU5PaUww0gHwAUFVX3lxTE9wdVZwV0E0QmgzdGlUaXBCR0YtZUJvUzV1N2tkb3JVaEhxU1h2cWh1YWFUVTFoSUxVbUg2WWh3dndlUEtqdEVIOG5nS3pGOGpRb1lxcGJEQmFNd016QTZZUUJiV3R5cVY4Y1FDM2xVWTFGQk90M2E2Q0dzandEN1JiTVI2THhWc1F2NEtDZlB5Zm1SMlpwQlBuV3I4OWh6OFgxZHJZdkpHY25LY1YydENMMl9zYWdTbXg1X2wybUFWZ2N4WjcwMTZSaU1GM3FES3R2RHBSVWxHVk5tNG16VUczdDVOMFQ4d1FXZmtlZ1lGVw?oc=5",
-        "date": "2026-08-12T11:39:38+00:00",
-        "source": "Cinco Días"
+        "title": "Mark Zuckerberg imagina una superinteligencia para todos, pero advierten sobre el riesgo del individualismo con IA",
+        "description": "Mark Zuckerberg imagina una superinteligencia para todos, pero advierten sobre el riesgo del individualismo con IA Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQa19xRUFJanBja1d5T1FoX3pIbmJaT3AxZWltVDhhTW40V0JSWkdxQlR4cFZneEZicDBRMVQySjFqYjZheXZmZmxpYmxoRDFaY1liSmZPeDQ1c0xtWWIyUUQ1NE5fZERiR25ZNEdaRU9GXzlTaVJpZHFNcVJTeUJaZG15RExkVnpJbFBZQl9JNEdHZ29ZU3ZORF9wbHBRRUZKbHBQSjZqSnIwTU9wWTFqYjdxMGt0VHhQdmhaLWU2UDg0OEZlY1FtbjV1S3NidzNTZENsc3BFRzdOMi1EOXRxbU5QaS1JRHROSC1ZVmQ3cGljNVRhX0dIUWEzdmtDTnZZSHJ6dUN0Nm1jbFVWR25VdEdFc2g?oc=5",
+        "date": "2026-08-12T14:41:00+00:00",
+        "source": "Diario El Día de La Plata"
       },
       {
         "title": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada",
@@ -148,19 +134,33 @@
       },
       {
         "title": "Expertos de Google crean el primer robot para realizar videoconsultas de salud y es más eficaz que los médicos",
-        "description": "Expertos de Google crean el primer robot para realizar videoconsultas de salud y es más eficaz que los médicos clarin.com",
+        "description": "Expertos de Google crean el primer robot para realizar videoconsultas de salud y es más eficaz que los médicos Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcHJBZ25DamFrT0hndXpUbmhxeU1rWVpHWHNhMWVXYTBwUldMQWUxdXc4LW1DVnlaYXZzTndnWTBsRFd4SUlBbHVRWTR2M0VjZERYeDVydkk3UFhSZVh3R0pnRXBBbWpfZWpRWmM1Z3I2U1JkV0J1b211RTF0dGVpOC1mMzFsdlkwczRwLWtJUFZIVmhjSE1wT2dvRVZmakFXWFZxaG5XSlRuZ0ZNMWw0cTk4cDlTMjhKeDA5NXFrTDBlMGV5ODI4Mg?oc=5",
         "date": "2026-08-12T09:00:18+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
+      },
+      {
+        "title": "El Papa: Para construir la paz, desarmar la tecnología y la inteligencia artificial",
+        "description": "El Papa: Para construir la paz, desarmar la tecnología y la inteligencia artificial Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmlCcS1pbDRUSFd5QzE3S1Jvb09LMXRDN3JPNy16V2tDeFA3Y3huTnFQTDd0RmR5VzlZS3Q2U0dYU1pVWUpCU0hySHRORDhmN2pUMmJwcUR1U0ZaUXpQZkt2aWVOTlhQYWVCdGtreWlxdXJ5SENZQloyRXpoMFNpN0x6clVjbGRRRU1BNU9BTUhPVU9OeGhKUktMM2JjdzJjd0k5WGVud1pjVXVTOV9oM3FBeEM?oc=5",
+        "date": "2026-08-11T10:23:01+00:00",
+        "source": "Vatican News"
+      },
+      {
+        "title": "El control de la inteligencia artificial enfrenta a EEUU y China en una nueva era tecnológica",
+        "description": "El control de la inteligencia artificial enfrenta a EEUU y China en una nueva era tecnológica Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDRLdURMRDYxSEhxV2lYYmE3a0JXcnE2eVUxak5QakRSMGhaTWhfNnpuUVpjUWlBSGJVQ21kY2tNRG91SnJBU1BfRXNnQ1JzSGV0RGNhSE43WlBZM2d4b3pHWXZCdDhJbmRXdGZpN0hUbk9Gci1kU0RSZUpzOUktZ1lfNWpFWWpqNXE1QTVHYnRPckdLdzYwRHZlWGswZ3dSM01WN3RBUzdVb2pGNVRtZnF5X1BDYldwOE9xZ2VPclLSAcYBQVVfeXFMTVUxZGd5Rk9wRzV3TTZWaThRc3Y4TF8xZ2NFblpNNjlrV2J6bTRaNHNueFA4T2RFb0xIdXRJQll2cDdCRjE5LUhJQVQ5ZzB2czhaQmE1NFJETWdRRFcxdUNtc2tPMUd0NU9EWV85RmxqRGh1aHEtcUlBYzhCbU1XS1MwdUg2a0ZyUFZYY3FRV29ZQUdUU0RkckU3VEN3S1FNeVJrc2QxX0VOU3VycVgzX3NyTTJjQjRKN3k2OHVtMFl3UjB5ZDhB?oc=5",
+        "date": "2026-08-12T03:00:00+00:00",
+        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "La empresa que se le plantó a Estados Unidos y hace negocios con China en Vaca Muerta",
-        "description": "La empresa que se le plantó a Estados Unidos y hace negocios con China en Vaca Muerta perfil.com",
+        "description": "La empresa que se le plantó a Estados Unidos y hace negocios con China en Vaca Muerta Perfil",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWlhIV0p5SThsSTEtS0tTQTVPUnB0QVlUS0FGanAtNUNTQU8tNGV6eTlRVUE0NDhRdDU0WkZhYkJiazRNQmExMDBaWEtacXRUS0F4M1BUSzRXV2ZWa3p1X1pvdzNaeVN3STlvOV9wR0YzYVlFTW0zWjZsbUU3ZzhOUEh4TzFmTXhUOWQ3NDlSb3dhTGhNU3pRSmx2ZGNOYVdqbHNGQmNRMkp2M2tybGdtai1Zb0Y5MWJIZUkxN1dZSk52bGwy0gHKAUFVX3lxTE1mcWVOaG13NFdjT0sxV2tvTEpIaDNDSmFFc21tZlo2dHkweWZ2eW5RNV9ZSUIzUnZ1QmN4b0o0RlptUkY5Y0xnVnZEX0R1WVVYUUhTSGhmbE5Fc051V3o1NXpRdE5iUU11WnBGTkFuRVJmQXAyTmpERVhvUHljMkF6d1hQV193NEtMTXIzWEtXempvRE5wMkliY0tKN1RqdFREMHRCNzBLU2IwcUdLVk9WNExXSlBpREw2TEZneHRHU3VMYV93MHFuVmc?oc=5",
         "date": "2026-08-09T05:58:03+00:00",
-        "source": "perfil.com"
+        "source": "Perfil"
       },
       {
         "title": "Vaca Muerta: cómo es el fondo anticíclico de regalías que creó Neuquén en 2020 y que dejó de ahorrar frente a la crisis de infraestructura",
@@ -170,32 +170,11 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Tenaris expande su presencia en Vaca Muerta con la puesta en marcha de su tercer set de fractura",
-        "description": "Tenaris expande su presencia en Vaca Muerta con la puesta en marcha de su tercer set de fractura econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGZLRm1lVjFRTHFVS1RNak9HRURUdjFHT1JlN0k1czJqY3QtWlRyTGd3WFhSVDlQUUNzaHBxWk80TFdkS3pUZGdFS1ZTTjJ4SG4wYzhlUDBqRXlPSFVvSnIzR2laM05vc1RVanBxaC0wcTFSVVMtWlYwaUV4UlJCMElIeExwdw?oc=5",
-        "date": "2026-08-12T12:08:42+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
         "title": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta",
-        "description": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta clarin.com",
+        "description": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta Clarin.com YPF y PAE buscarán proveedores especializados en Vaca Muerta Lmneuquen.com La venta de Metrogas, la Argentina petrolera y el objetivo de oro de YPF: las definiciones de…",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDJ3UExMZHVLT3k0MXhkOEMxZy1pb3lXZ0w2V2VlWlBlY3RIY0poTktMc0hJNVpvd2pxWXlkbVZ6TkZHS1VETWJZaUhlSlJOMzZTMml1RTY5d3R0bFVRMlM3SlE2eXJEc2lnLVNqWTAxWUMwRHpjMkZYWnVkaTVKMnM5dzNlQXNmWDloTjBEbURNWndpRDFvcGdNdWxrYmlaYTRHLW9FX0RmejdscGpfQXE5dHV4MjF2ZDdxOGNVZ1o5YjFBVUMwcEdLVDY0b21qSkFuRU5R?oc=5",
         "date": "2026-08-10T23:22:43+00:00",
-        "source": "clarin.com"
-      },
-      {
-        "title": "YPF y PAE buscarán proveedores especializados en Vaca Muerta",
-        "description": "YPF y PAE buscarán proveedores especializados en Vaca Muerta mase.lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUhuUDh5alY0WGVQR0tTVE1yQjRlejFsNXRFUHI5X0VuMm1oN0pMZWlrUlJmR3VWbTdXam9wZmFGWUo5a0hDZFJhSDZGYnZxSkhCOUZfekpvMXdicnRlUlN0UXdvclFkeVQ4S0o3ZDJhWXVTWW1OT2dKdTFWQnJMeGFhOXZkRjkyTVpPSENaN3hRQjFmMTVoZWZzTFM2YkFMdDdST3pLVzbSAa4BQVVfeXFMUEZ1eWpFai04MVlTMTdBVkNfTGdtckFNRjUtdEtPQXJFb3NfcnExMjF2TVNFRVRhUnJzcFk0Rk1kdDBHSFdJNFZHVktyZWJyT3NlYUk1em5PUlJNak12S0dVQV9SZ1VHRV9PaXBSZW1xN3lCb09IZ2Zjc3NnYlk2T205Z3EzR2ZjRlRCRjYtYVdOYUlTYXBFT1llQTNFQkhXUFBtQlh0cHJhN0Faa2pn?oc=5",
-        "date": "2026-08-11T14:43:42+00:00",
-        "source": "mase.lmneuquen.com"
-      },
-      {
-        "title": "Con resultados financieros récord, Marín anticipó ante inversores los próximos pasos de YPF",
-        "description": "Con resultados financieros récord, Marín anticipó ante inversores los próximos pasos de YPF La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRGg3TDRYNlVTMDY1YzJBYUtUbWRVdmM4LUlsRkVDeUVpSG9WRlJIY0p5RTUxUVdsaTgwYnJmd1FKN1pNcmZDR1VKV0I1Z0RoUkU1TUduaWlWZmM4bG5EQWU2R3dOUGhZeWpkVlM1Sk5ZTk5DZ3J6Z2h6UDZyTXVlcXBBWDdBMkk5NUJySklkSjAxams5ek5Wbm0tQVN6LTl1ZzRmc3lQTFg1QWZiZE5ITktjOWVBZWpFZmtDUms4UHRDeWhXQUluSWU3N09hRGkycDdEWmpBTQ?oc=5",
-        "date": "2026-08-11T18:42:00+00:00",
-        "source": "La Nación"
+        "source": "Clarin.com"
       },
       {
         "title": "Cómo financiar el crecimiento de tu empresa en la era de Vaca Muerta",
@@ -203,6 +182,27 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUVRuT2ZTZXBkUTBvRjkyMG0tNjhtNGVUVUNhWnNkZXFKb1V2a1l2X1BScWxBTUZGVWQzZ1BVQ2xQczlxbHdla3VKRTcwNXFfU1JKbk0wZER6WlZPQjI3WDhPZEotVGNpelM2SG94djdPTkI0ZGEydWRwM2JacmR5OHpSNXBhSG4tQUlRT2xxVHY5N0QzOVdOV1BlNDBMWkNlcGtiQjBBNVkxMXc?oc=5",
         "date": "2026-08-11T12:13:52+00:00",
         "source": "Gobierno de Río Negro"
+      },
+      {
+        "title": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco",
+        "description": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco La Política Online",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQURiTF9YZV9ZaVg4VWZVdlRjMHo4XzBqNGNYeFRuQ08tTjJFM3RFOUJMaFdRUm1SbS1UWWtoSG9hWENHOFJKaVV6eUVqcS1ZRFVMNVp2SE50aGJuUXBISTFxd2VjUmlwclc3anNYaTMtcy04VEdxQ1JVdWxFOGpWS3NTRTBYeGk5OFc4eU9kUTN2R0dwSG8yS2pWZ2pJTF95Tk9EUXlWM0psT3FORWtWalNVN282RGp4TTBvRFZPcTE4QmxzYkFGMkl1YXVlYms3b1lUV1FsQnRZOU5vY0YwcUE5NG9xcklhRkNV?oc=5",
+        "date": "2026-08-10T17:20:11+00:00",
+        "source": "La Política Online"
+      },
+      {
+        "title": "Vaca Muerta: proyectan que se incorporarán 700 camiones para transportar las arenas",
+        "description": "Vaca Muerta: proyectan que se incorporarán 700 camiones para transportar las arenas Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXZOZDQ5LTR5RHhGV1o4Q2Z0QjJ0SG1vNDBnVFpIN3FUcDFubWNoT2FZYnBjbExjRVlqbmpkSWtwSnhqTklCSlZTNzd6NzVPWVVMTDl4a0llQlRhbW5GRnd5akpGRFY1Rk83YjN6NmVmWVBET2p6X0cyREVTM0hYX2tzT1BEVjYzRTZlTVNQMjZud2JnT1NoS2dSS0l0aks0TFJoSGt6NnhzdzRKUmh2Wnl1U1ZqUUZqNHM4VmJuTkNaV3fSAcgBQVVfeXFMTzhudm5NNTIzeXFXYjdrZ3ZwTXFsTVdPdTFrVTR6UXFYSnpJTE1NX1NwcWs4Zms3eUdOYWNmNVlKS0h0aVZlQ2JZWUVsTFRiTEJscW1YcnBRN2xIZnVKUVhXSVR1MjJBcG9DdV9tbFRVQXVpempZUjBxb1ppUlpWdlh0UGVfWmljWU5JLUppREVwUHNNTVp2NkVlQ0lsNHF3Qmd1OWNiVXdtUkYwckpfTkVaejA0QnFveURuTlZOT3NkSGhWWEpzMEk?oc=5",
+        "date": "2026-08-11T18:05:57+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Inversión. Construcción modular: la respuesta cordobesa al déficit habitacional de Vaca Muerta",
+        "description": "Inversión. Construcción modular: la respuesta cordobesa al déficit habitacional de Vaca Muerta La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnV6WGMxTnFPZm53UTVyODIya2EwS2hzZm5qM2Y0TTVUcll3WkpGYzVBWXlCSWptMV9hMURKZzI1TGlFcVhsVEdxOWNILU51MEhNZnJOLURDMzl2TjRIQXI5QlVkQjE0MXotQnpDWFR1Y0FBR3pWbHNIZU1VRk12S0p1OXZvYXRVYmtpZ1VteDdnSFBnYmpKeDUwVUw1SW1jc09MSGEzMElKYXYxaEpoNXY0RDJoTERldDZJbkhCM2RBU05OaDZrSDFvbXBCNGNT?oc=5",
+        "date": "2026-08-10T15:09:30+00:00",
+        "source": "La Voz del Interior"
       }
     ]
   }
