@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:58:29Z",
+  "updated_at": "2026-08-12T20:49:40Z",
   "categories": {
     "Microsoft": [
       {
@@ -62,10 +62,10 @@
       },
       {
         "title": "Abrió inscripción para nueva diplomatura universitaria en Tres Lomas",
-        "description": "Abrió inscripción para nueva diplomatura universitaria en Tres Lomas laopinion.com.ar",
+        "description": "Abrió inscripción para nueva diplomatura universitaria en Tres Lomas La Opinión – de Trenque Lauquen",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1U1SHpWcFd3TUVnUlRpblJwTkRvN0pYbzV4UWxXT0trdTAtLTg2QnlNRkZPb2FYNkY1cWd5dmUtcVJscU50OGxBaDZkZ1VQNjgySVVQVWl4b2pHak5mVm1rOGE1XzBBa0dwQ25zakRTZTV6RU80SlBIVGVLNTdCc1g3RW9GUkRWSWh3aHM2a2JfZVhxYXB2VkhB?oc=5",
         "date": "2026-08-12T14:00:43+00:00",
-        "source": "laopinion.com.ar"
+        "source": "La Opinión – de Trenque Lauquen"
       },
       {
         "title": "El exitoso negocio de Matías Palleiro, la pareja de Jimena Barón: lejos de la tele y enfocado en el marketing digital",
@@ -89,18 +89,18 @@
         "source": "La Señal FM - 97.7"
       },
       {
-        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26",
-        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26 ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNT3lheWJiZUZWZVVGeUFDcTFEbXhSdDVNcFZ2cXdaOTRtb3o1X2VjZUtvRVpkTlVIR0lZMTlGeXR5SW0tTWZ1M3EzOUZxUnRSbldaWTkxbFJ4T0lROE1xd0JpOVJyWHM3d1hROUZQbXp6TFBxOG91LTNrR2pGWUJFVWJxbGhnd3FQMnJPVUhLTEFvWE0zdldDN3J2WXN3OFUzYXdwSW95QWItZlpheGRFZ2lwanQtN3dRZ1pxU2JmZzkwWUNfNmZQOHBIdk9EVHI1azZlUm9KWDdqMmV2M2xxV1VYUUxYYUYtOVlPWlJYYnFSZmdfODZSTjE2LWVNY0ZzeVI2UHpyY1hfRFRSZVR5MjFtQ1NMbUttRmpwdlFQeExrbmE3aTJhOWRqc2w?oc=5",
-        "date": "2026-08-09T02:38:17+00:00",
-        "source": "ArchDaily"
-      },
-      {
         "title": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital",
         "description": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital Pan American Health Organization (PAHO)",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXc0NTJ3VVV2blNuemNIWmdUQ3JqVEpDM2hNbmNrRk1Uc2xiV1RwelpFV0dkMU03ZVh5NVpmOUhzdHcwOFpqbTh3ZUpxN2hNRzZ5dDZrR29VcDdqUnI1OUdHU3N3MDNhVm9fb09zYXNVOW5VeDNKN2h6ZFhxekpJNlFwQmNLM045Mkl6Ylh6OVYyeTZaSUN6OWZmY1dUNXJZY1BfYVM3Tm1GWHppempqaVBidzc4UW02?oc=5",
         "date": "2026-07-31T07:00:00+00:00",
         "source": "Pan American Health Organization (PAHO)"
+      },
+      {
+        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26",
+        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNT3lheWJiZUZWZVVGeUFDcTFEbXhSdDVNcFZ2cXdaOTRtb3o1X2VjZUtvRVpkTlVIR0lZMTlGeXR5SW0tTWZ1M3EzOUZxUnRSbldaWTkxbFJ4T0lROE1xd0JpOVJyWHM3d1hROUZQbXp6TFBxOG91LTNrR2pGWUJFVWJxbGhnd3FQMnJPVUhLTEFvWE0zdldDN3J2WXN3OFUzYXdwSW95QWItZlpheGRFZ2lwanQtN3dRZ1pxU2JmZzkwWUNfNmZQOHBIdk9EVHI1azZlUm9KWDdqMmV2M2xxV1VYUUxYYUYtOVlPWlJYYnFSZmdfODZSTjE2LWVNY0ZzeVI2UHpyY1hfRFRSZVR5MjFtQ1NMbUttRmpwdlFQeExrbmE3aTJhOWRqc2w?oc=5",
+        "date": "2026-08-09T02:38:17+00:00",
+        "source": "ArchDaily"
       }
     ],
     "IA": [
@@ -119,6 +119,13 @@
         "source": "EL PAÍS"
       },
       {
+        "title": "Los lectores prefieren las historias creadas por una IA, pero valoran más las que tienen autores humanos",
+        "description": "Los lectores prefieren las historias creadas por una IA, pero valoran más las que tienen autores humanos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTWFRUDdMcUJyMF9neV82N0M1cHN1QVdFdzNRaVA1MWpIb3p2d1JmNmVOdWZBaFVKRzZ3LTRsM2FXRWx6OTFlOFByVVprVFpBS0tUNHN4cmM1RDZUMERZX0UzbHY5S3RJVnk5cGxodmFOTVhjOTBnQy1NbF9aQ0taeDJRNGh0OENqSWxjdlV1bEY2RG9jc1d4NFgzVmVnd3FvbG1zMzEtQzQ4N0VROHlDY1lGeTdiVmE2YmE1MmxvQ2cyemhKNXpIMXRsbmp3eVhTS3dzRi1sZHVJU2Vk?oc=5",
+        "date": "2026-08-12T19:17:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "Industria cosmética: beneficios y riesgos de la inteligencia artificial según la UNAM",
         "description": "Industria cosmética: beneficios y riesgos de la inteligencia artificial según la UNAM Infobae",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRTd0o4OXNtaGdVMkFlSlRZdTBxRnJZUG43R1dMWklkWHp4dWxrSkRkdVViY1ROdEtSSENvT0VfT0JMU2g3OHFNUE1DWmlwZnRGb0RQT2ZTVnFVNEh0bTgwSjlhcGtJb2pjeUpDQmNpZlA5S2FERUZQRVI0Z2ZoOGlDVEpSYVZDclBoU1BqbDVZdklTRFdKX1RHZ0tVWFgxTHZkSUdnN0I2TDU5RVNsdEk4ejhtZkszbHpMdFdXeTZsbjdGNVHSAeABQVVfeXFMUHhfR3ByY1FBc2s4LXZEaXhhR2RSaHFhLXBSUzEyM2loMTI1Y0R4MFE4d1NJTFM5ci1CWDNkYW54RHJRVlhvckFCSk9YYjdWVWpkREdYRXFEeENmNFdCVjFUQV9DSWRFcUx5dHFaRTl1QnByTjJBbkFUcTNCMWFNSlBoM3ZWNUF5WEVqMVZKM3JUQnE2U3ZCX3JhSHdNeXBQTkNsSHE0MExOeW1yZmNhWTBOUVRMaE1GbFFJSDhVdmE3Wm0taDFGdV9xZXdka0pkSWVNSU92R1gzZVEtNjRvRDg?oc=5",
@@ -126,11 +133,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Trabajar más rápido con IA: todo lo que hoy puede hacer por vos y aún no aprovechás",
-        "description": "Trabajar más rápido con IA: todo lo que hoy puede hacer por vos y aún no aprovechás Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmtqUmNWMzBLSWhTMVlrYXpNb2ZHNVZJRWd0T2V2VTRwN0V6TFRRdk5Tal85Yko0WVRnMDZnR3ppcS1lbGg5dEtWU1JZeFdiV2Y2S3lVTUJnTnlZSHB3b1o0dzZLdHktNVNGOFkxbHEycGlZV2ROaTFuZmRFdnV5YXctY0d3VzBvVGJzdVJKM1Y4bjBUeG52UzBKSkJWOFVRNUE?oc=5",
-        "date": "2026-08-12T09:00:16+00:00",
-        "source": "Clarin.com"
+        "title": "El fin de la era del experto: por qué lo que sabés ya no alcanza",
+        "description": "El fin de la era del experto: por qué lo que sabés ya no alcanza El Eco",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcE1iLWxEcTZHOWd1ZHc5YkxoX0Vudjc1UzRjcFQxbXJpd1J3VU8xeERHMTAwSE15U2MxUm5QVkIwOHJtZDRfdzZ1cW1FVUNYcmRVMFVyQU1IREFLb1FwVWZEc0NqcGhkaGxRN2x0OVdEaWRKalRSaG52bERobVlQRlJuTTEtSlZDeGs3TjA0eWxVYVZFVGtfUXhHclQ?oc=5",
+        "date": "2026-08-12T19:42:40+00:00",
+        "source": "El Eco"
       },
       {
         "title": "El Papa: Para construir la paz, desarmar la tecnología y la inteligencia artificial",
@@ -145,36 +152,15 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDRLdURMRDYxSEhxV2lYYmE3a0JXcnE2eVUxak5QakRSMGhaTWhfNnpuUVpjUWlBSGJVQ21kY2tNRG91SnJBU1BfRXNnQ1JzSGV0RGNhSE43WlBZM2d4b3pHWXZCdDhJbmRXdGZpN0hUbk9Gci1kU0RSZUpzOUktZ1lfNWpFWWpqNXE1QTVHYnRPckdLdzYwRHZlWGswZ3dSM01WN3RBUzdVb2pGNVRtZnF5X1BDYldwOE9xZ2VPclLSAcYBQVVfeXFMTVUxZGd5Rk9wRzV3TTZWaThRc3Y4TF8xZ2NFblpNNjlrV2J6bTRaNHNueFA4T2RFb0xIdXRJQll2cDdCRjE5LUhJQVQ5ZzB2czhaQmE1NFJETWdRRFcxdUNtc2tPMUd0NU9EWV85RmxqRGh1aHEtcUlBYzhCbU1XS1MwdUg2a0ZyUFZYY3FRV29ZQUdUU0RkckU3VEN3S1FNeVJrc2QxX0VOU3VycVgzX3NyTTJjQjRKN3k2OHVtMFl3UjB5ZDhB?oc=5",
         "date": "2026-08-12T03:00:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada",
-        "description": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEVmRnluYllFb1UtN2tlbDhWU3FYWmo1TUppT1FXQUtBMG1tNXBUQWpCYWhXRG1mWmVGbEgwNkkwVkxVWUZaaURuUy01YW9CQ3M3RnFUN0V2T3AwODJfN21Tb2dyZFNlMW9tSVUyNUVxOWVvNXlWb2xhdWVvU29ldDRYVE1vY0hMUkptM1FxdzhzLWdnYzBoMS05V0NuazU0aElEbmR6dXFQTUxQZW1BM1F4NHNJLS1sVFVFaXNicWlEcnM?oc=5",
-        "date": "2026-08-11T19:08:00+00:00",
-        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Tenaris expande su presencia en Vaca Muerta con la puesta en marcha de su tercer set de fractura",
-        "description": "Tenaris expande su presencia en Vaca Muerta con la puesta en marcha de su tercer set de fractura econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGZLRm1lVjFRTHFVS1RNak9HRURUdjFHT1JlN0k1czJqY3QtWlRyTGd3WFhSVDlQUUNzaHBxWk80TFdkS3pUZGdFS1ZTTjJ4SG4wYzhlUDBqRXlPSFVvSnIzR2laM05vc1RVanBxaC0wcTFSVVMtWlYwaUV4UlJCMElIeExwdw?oc=5",
-        "date": "2026-08-12T12:08:42+00:00",
+        "title": "Vaca Muerta: cómo es el fondo anticíclico de regalías que creó Neuquén en 2020 y que dejó de ahorrar frente a la crisis de infraestructura",
+        "description": "Vaca Muerta: cómo es el fondo anticíclico de regalías que creó Neuquén en 2020 y que dejó de ahorrar frente a la crisis de infraestructura econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkVYeVY5V0dBdmlVLTR3ZUlxbW5XQUprTUIwblFhdmJvZUxGTnQxSmMyQzEyTWc1cVlVVDhuSFE1SktXYnlmaE1iREwtQkJjQm5tcDJnWG1nSjdrMF9zYlhtTVFsZFgwMENXWFJqMFFncVpvRUVNOEtnQ29VX1lkcnpXeXVYU0R6d3daVXBxTFlFNXlZSl8ycGE5cjR1QQ?oc=5",
+        "date": "2026-08-12T13:58:10+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Los sets de fractura de Vaca Muerta tienen hasta un 30% de capacidad ociosa",
-        "description": "Los sets de fractura de Vaca Muerta tienen hasta un 30% de capacidad ociosa Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTU54cnVQcmxFVXVSV0dUalhBNXJyMmlYVVJrUXU0LWdnaWlfaFkwNUFlTTdrVW9nS19zOWloODl0c1Jxam1vT2ZfUldBdVlTZFFFZzIzcVN6MXBfa0l4d1dHX1NWUWNta1licnFBWlJoWXh6TFFCVlZKZ3JVWnpLNXkyZDZyNVNiZVFiWElKRFE2dHJwWmo3cEhtdXNPdlFQZ2RMOTdvLXJHUXPSAbABQVVfeXFMTTAwa2dZaXpWeXVMNVp3cXFCWG1rMGtyck0zR1lUaHlrSlZYRzZGZkRhN2lKTEhPWllXLTNURlNrc1I4emdmT3p4SlI2ZmxLVGJ2QmtTNmllQkdEN0pMNG9KNFE3Vjg1cDh5QUR0Y1JzLXdRNTVTNUcwdmFCRlk5d1RLVVVQc0VtaU5WNzJyeHJtWDNJa2RwMzJYVzF2cGh5MnJOV2FWdGdhS0hqWUhWSGE?oc=5",
-        "date": "2026-08-10T17:56:40+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta suma equipamiento clave: Tenaris puso en marcha su tercer set de fractura con una inversión de US$110 millones",
-        "description": "Vaca Muerta suma equipamiento clave: Tenaris puso en marcha su tercer set de fractura con una inversión de US$110 millones Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdkt4UF9DemdaWVA0aUFhOTVwa0lZMW9wWVlaaWluelU5VDdSWUhaYlAwX1p5d2RVYlJpRERvUEZhOEZnWnVMU0d0RUN0TTBtTmRENklfNFhXNjRQWFdBS3dpRnFHcjFDXzNEMUF1YW1LSG9kYUI4SjZEQnhpVDV6bm5oY3I4S25TYTg5U21CS3FvcjhqYnhmUlVVekktaHRhcHZ2YllnYm9yRTE5aDE0ZzZFSF9JWkZYQ2VvQVY4RFdYQkp5N1BFMnJ6N3BCSXR3SVhKZEpvT25vTC1XdzJJcTYwdWRwcVJ2LU9TQmw2blFiVW8wS21tedIBgAJBVV95cUxQM0VLdm5CZUczeVcybmYyUl9WMk0xcmRTc2V4eDVpa3NjNFBBa0RnNUduakZQRENjTEV6OVVVRGVLR2VzeDJBYmg5OEF1YWtRZE1YZVlEQUU0QzRlY0J3SWtsaEczSmFSbHU5Sm04QWU3WWRZR1pXMFFuU2psb19JcjFYQlkzLXhoeG40b2t2TUQ5VE1pR2hPX2s0MFJYRHdBYnJFOElYbF83N0dUSngwNnBKVlhVNVhtVFZrQkctcEs5RlkwR1cxV0JXd2dWeG1GMDhUbWV0LWtNWEJWM0JKenN5V09lekd6ZW52Vl9sNjlLaS1MZVJPY2NWTE9Zc0hJ?oc=5",
-        "date": "2026-08-11T20:46:05+00:00",
-        "source": "Diario Río Negro"
       },
       {
         "title": "Gobernadores reclamaron obras para llevar al norte el gas de Vaca Muerta y una ley por “zonas cálidas”",
@@ -203,6 +189,20 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmR5Y29iVkE5Mm9ma2RFOXBDZXVEUklBZGFyWG1xa2RqendVdXlwQjhNdGZkbHh3b2NmQXBrUGp0QmdrQUw5bDV4UFlmTldMT1pvMEpsTVhFVmlNTVlUdVRaZ05BS1dDc2d2VnFLTUY1WUZlbnhzeWVlRDdrcDVFMXY0NnJ5eENlbFdOaWRQUzcwQURva3h0em5lRlM0dWFkVlh4VkdQWU54dTBuU0xYTF9BWFlrdXQxeGJvRXE5VFNxZTY3SmVhenM0TlVOdw?oc=5",
         "date": "2026-08-12T14:23:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "Vaca Muerta y desalojos exprés: el combo que enfrentan las familias que alquilan",
+        "description": "Vaca Muerta y desalojos exprés: el combo que enfrentan las familias que alquilan La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFQ4cW1McGpHaEI0aEdrdWljVVgwaTBhdXdiOGg1anVpM1IwZVFFQXB0dFdCYlNZc0JPeHJ0b0pOMHc4NnZMZVhtdzZYbzF1cDJuOEFNQnRqOTU5UGJGRjdRYjlzcWZoT0hmOEFfMnlOWTZoMzhxZ3ZoMG5UNHlxV3hlVVBpOHl0cnhXZ18zTFAwQkhsMnZDOEl0UmNKSDB2a0tMV0Z1MWxVTGI0N19keHhPSdIBuwFBVV95cUxOREJZX19XMEl3UnpqclFtcEYzZnJzVVp4bUtFTlNVeVJ2ZHRfd0xUQlROMHZGeHBFNkh4UDhvZTMtUU1hbmVNbVhucW9pYXNTVEZKcU91Rm5raFV6VmhMbmJ2b2tZX1MxRko5V2NxeS1UNVpGckltdmRZajJTdEY4TU5BOVBBOEFRLXVTbXZiMGdNRUFHMkw5NGdiak1CX0ZUNHBiN2ZKUU0tUTY3eHgwVThHYnhXMEV2SmdR?oc=5",
+        "date": "2026-08-12T18:47:43+00:00",
+        "source": "La Izquierda Diario"
+      },
+      {
+        "title": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco",
+        "description": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco La Política Online",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQURiTF9YZV9ZaVg4VWZVdlRjMHo4XzBqNGNYeFRuQ08tTjJFM3RFOUJMaFdRUm1SbS1UWWtoSG9hWENHOFJKaVV6eUVqcS1ZRFVMNVp2SE50aGJuUXBISTFxd2VjUmlwclc3anNYaTMtcy04VEdxQ1JVdWxFOGpWS3NTRTBYeGk5OFc4eU9kUTN2R0dwSG8yS2pWZ2pJTF95Tk9EUXlWM0psT3FORWtWalNVN282RGp4TTBvRFZPcTE4QmxzYkFGMkl1YXVlYms3b1lUV1FsQnRZOU5vY0YwcUE5NG9xcklhRkNV?oc=5",
+        "date": "2026-08-10T17:20:11+00:00",
+        "source": "La Política Online"
       }
     ]
   }
