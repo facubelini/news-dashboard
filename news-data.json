@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:34:00Z",
+  "updated_at": "2026-08-12T23:34:27Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXdQbnRhcXVQbV84TV9PbFFiWFNpeWtYTW9Sa0NlQ3VVLWotLWFHbmtkazNqdW8xN240dU1sS2NDUmlZZVN3X0E4cy1vQkFOcXhVc3BmcWo1NTR2VVVDRDIxVmVnbFRSbTJiYUFzSkxiUWhUM2swSkxobE5zMEVOU1J4YXBvaTVGLTFYLUROa0FDblVMdzNrMktzSHN4cjhyVzU2Y1hkQkZwT2JGdHc1RTZBQ2hLQmhOOU02YW85Uk1WMXlZUDZtNXZnQ1FqZ9IB0wFBVV95cUxPLUlCZGx3TXZ0ZkNnWWpGY1BNVzgtTWpfRndsVmsycV9jNHBPQjJIaHhhNmYyMnVJeEVYWnZQT1ExZlhJV3E5MlRaT3ZPbGVjTmFrMlItS3hCQkhyMkVuaWN6eFVPSWdQdHBFcDAzTnhaOHZLQzVhRnhGLWI0TXA0UDBvY2dXVnFPTUFmdWJEVXB6OTdHMUVUdGVtZFVpaEpieHdLU2pYNXFGQmVoelhaTTIzSnlLOTRnS0otUE1BX2RrdllrdDRJa2JmeEtWTnA2WEt3?oc=5",
         "date": "2026-08-12T09:00:16+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores",
+        "description": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTJCaU9seEE0Si1hVFBSa0ZVc05xNThXR2RweFJsZngwWm54aXM5cnZxN1dFWnAyckNzLVlzdEJrRFA1U2lDM0lBVFNfdVV0dDM3VW1mWnBzajRpbDEwb0xQZFlFVXZmZG1BQmNCemVXTzAyZG5FUXpoeHFPY1JwYWxQYmlyY0dqQjlSOFRndDdXVDEyZ3ZjNlcyOUN6bjA2MXNRRFBqYUZnX2Fmczd5TGFFa2xZU1JQNmgtTldOWlRaem1KdzE2Z0RaZHN0QUgtVnRHZDNEOFk2N1k3ZUk5MFFJZjl0VGJa0gH8AUFVX3lxTE8zelBLdmk0dUd3WUROWTJhalBndUhsQ2E1a3lMc0lrdzJjaHJHSms0UmtpcDY5SjNST3pfR3l4dzBSOFlUOUtlRGRPaEZtaEJQQ0hlTTZDaXdtSXpJWDVRTVFYOGdIZVNHSHNQOVBkNWlmZkdldFF0WEd3cWppblNEMl9hcGFCUmNOajMtaDdDTjVxdHI2U2RXVVlXeXpSd0RBNS1jOHAyR3RqZ3BLZGZtOFVSa0hjVExzMEpSWFRrUmhJcFhtTUxxRUFEZS1LZjF2Y0VNV2FULTFCOUFvSG1IaENscUVtUFU4SkluYXZjWFZZd1hoNDV2RUw2Ug?oc=5",
+        "date": "2026-08-11T12:00:06+00:00",
+        "source": "Diario AS"
       },
       {
         "title": "Microsoft responde al aumento de precios de hardware: ahora sus licencias de Windows son más caras",
@@ -38,13 +45,6 @@
         "source": "El Cronista"
       },
       {
-        "title": "Microsoft planea revelar el chip Maia 300 en septiembre",
-        "description": "Microsoft planea revelar el chip Maia 300 en septiembre Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmRfZG1ucTFQWEx0NE9PS01hajhoMVpjRVhONXh2YzdwblNZWGMzaC1nb2xHTlRkdlVyeno4ekpLUUhGZGVsc29wN05ndnZiNmdkY2VjUGpLbVEzd0xaUUpYX2hjZ1NUT3h4eXVGWjIxdy0tQzh0V1hKWDl3TXBLYlhEZXVtZkpXNmZtV2gtRXBxNGRjYk5WbnNtWWtnWHZsMnhnUnNza2xuNkVSWi12Zg?oc=5",
-        "date": "2026-08-10T13:34:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
         "title": "Microsoft Edge prepara el fin de uBlock Origin por la transición a Manifest V3",
         "description": "Microsoft Edge prepara el fin de uBlock Origin por la transición a Manifest V3 Digital Trends Español",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkhHaEZSZ2dnQVYxZU5FME93R3BhZWpJSFViT2pEMml0QWtVelJld1hNcDBfSjQ1MmswbWNKdWJzaWRpbFBxM2N1Rl9FUUxSdFR2NnJ2Qldhejd5M19ZY3lqZzlHSG9FRFJ0ZjFiS1VsOTQwX0JkSkJSR2hIT0tBdnhVbkR1ZnZYd0xWSGdoSUlSSVdlTkI2YU1LZndUZzQzOFMtYlFZTmppOHFhTnVKS1RndlRPRU5CVUozd2dR?oc=5",
@@ -54,13 +54,6 @@
     ],
     "Marketing": [
       {
-        "title": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos",
-        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos Norte Misionero",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0VVWXFEb1Yxc1hld2pMb255V0ZCYnBVUVV6YWJGODR1Q0FvZGYwRW92RGFwUDdjcElvazVFaEx4SmtEYktlZ0EwVl9VZUtuVEg5S1YyTGNybHRrY0JNbXNkaXpVbjlMT1pwTkFZaDRhUnNBb2JPbUtZVS1YNVU1ZWYxUU9PWDRnbkl0WDBfX1Fpd28zOUlQd3lMUE55VTljc08zY0tLMlkzcUh6MGpvMXVJNkRQVkk4bWVsMzc2VW9DUDRoc3lKWVJFbHh5SkJsMk5nSw?oc=5",
-        "date": "2026-08-12T11:58:12+00:00",
-        "source": "Norte Misionero"
-      },
-      {
         "title": "Marketing digital para pymes: estrategias de email que funcionan en 2026",
         "description": "Marketing digital para pymes: estrategias de email que funcionan en 2026 NewsDigitales",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2k0NUEyRVg3MFhGQnVucTJhQkUtR2dmUEE2RFJxYU10Rm1OYTQ4ZjFkU3F1aEFMaHNoQ3BWa1pldm81MjVjMnNDZ05sSWNpNkx6emNPTTZBV19KUlF4SlhKelVKQ0IxZkZoN0tqZE5USnFpREdMSU1qNGVmVFREeVBnMXEwU0NQNHA2dWltTHRiZkdXUE12X0FtSWVNR0ZCbUhEVjNhWmdvb216cUZYeWtvVy0?oc=5",
@@ -68,11 +61,18 @@
         "source": "NewsDigitales"
       },
       {
+        "title": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos",
+        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos Norte Misionero",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0VVWXFEb1Yxc1hld2pMb255V0ZCYnBVUVV6YWJGODR1Q0FvZGYwRW92RGFwUDdjcElvazVFaEx4SmtEYktlZ0EwVl9VZUtuVEg5S1YyTGNybHRrY0JNbXNkaXpVbjlMT1pwTkFZaDRhUnNBb2JPbUtZVS1YNVU1ZWYxUU9PWDRnbkl0WDBfX1Fpd28zOUlQd3lMUE55VTljc08zY0tLMlkzcUh6MGpvMXVJNkRQVkk4bWVsMzc2VW9DUDRoc3lKWVJFbHh5SkJsMk5nSw?oc=5",
+        "date": "2026-08-12T11:58:12+00:00",
+        "source": "Norte Misionero"
+      },
+      {
         "title": "Abrió inscripción para nueva diplomatura universitaria en Tres Lomas",
-        "description": "Abrió inscripción para nueva diplomatura universitaria en Tres Lomas La Opinión – de Trenque Lauquen",
+        "description": "Abrió inscripción para nueva diplomatura universitaria en Tres Lomas laopinion.com.ar",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1U1SHpWcFd3TUVnUlRpblJwTkRvN0pYbzV4UWxXT0trdTAtLTg2QnlNRkZPb2FYNkY1cWd5dmUtcVJscU50OGxBaDZkZ1VQNjgySVVQVWl4b2pHak5mVm1rOGE1XzBBa0dwQ25zakRTZTV6RU80SlBIVGVLNTdCc1g3RW9GUkRWSWh3aHM2a2JfZVhxYXB2VkhB?oc=5",
         "date": "2026-08-12T14:00:43+00:00",
-        "source": "La Opinión – de Trenque Lauquen"
+        "source": "laopinion.com.ar"
       },
       {
         "title": "La batalla silenciosa que redefinirá la publicidad digital: \"Recommendation Equity\"",
@@ -90,10 +90,10 @@
       },
       {
         "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26",
-        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26 archdaily.com",
+        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 26 ArchDaily",
         "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNT3lheWJiZUZWZVVGeUFDcTFEbXhSdDVNcFZ2cXdaOTRtb3o1X2VjZUtvRVpkTlVIR0lZMTlGeXR5SW0tTWZ1M3EzOUZxUnRSbldaWTkxbFJ4T0lROE1xd0JpOVJyWHM3d1hROUZQbXp6TFBxOG91LTNrR2pGWUJFVWJxbGhnd3FQMnJPVUhLTEFvWE0zdldDN3J2WXN3OFUzYXdwSW95QWItZlpheGRFZ2lwanQtN3dRZ1pxU2JmZzkwWUNfNmZQOHBIdk9EVHI1azZlUm9KWDdqMmV2M2xxV1VYUUxYYUYtOVlPWlJYYnFSZmdfODZSTjE2LWVNY0ZzeVI2UHpyY1hfRFRSZVR5MjFtQ1NMbUttRmpwdlFQeExrbmE3aTJhOWRqc2w?oc=5",
         "date": "2026-08-09T02:38:17+00:00",
-        "source": "archdaily.com"
+        "source": "ArchDaily"
       },
       {
         "title": "Eleva Estudio dicta seminario gratuito por sus 10 años - La Señal FM",
@@ -105,13 +105,6 @@
     ],
     "IA": [
       {
-        "title": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
-        "description": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA BBC",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSlNzY3lMdThETy10bnFCay05eXRzczVIVlBNVWVRSHdpYlYzR3IzWGUyZ2NoSGg0VUM3Y0c0b1dTemVTMW9OX09udkppQ080WU4xVVNYNXNoMHPSAWBBVV95cUxPM3FCZXlaZ3oyMTJkcFlTX3JWWjE1LVV4RmVwdlpYRmQ4QWRuZy00NGljTHJQcGZnMnU3c3dPaDdUUjJ5TlhweHhQd2RZNzA3M0U2cndXVjl4MVdhbExMS1E?oc=5",
-        "date": "2026-08-09T11:28:38+00:00",
-        "source": "BBC"
-      },
-      {
         "title": "No, la IA no es inteligente",
         "description": "No, la IA no es inteligente EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3YlRzOVFZcDlaam1hQjN1eXhlQWppbDRwNjJJQzJOY05CRTIwOFRpNFdWT0RzOWIxM3ZRX1NOQy1ObTJ3dU5QTTJ1aXBCNUk0RWttQ1ZnR1BsbU5xczlpQnd3YjhLOGdZQ2NzRWh0ZHgtdGItYkQ3TTk1N1TSAZABQVVfeXFMTU1mT1pyOGRnWml0VGJLUkxWRjFrVWVWMDZ5empCZUxjekw4NkxEYmpHR2VnSjhSMmFSN1FGSUl5YlNxWkN2ZUlmWnQxQ2tkT0k5TTV2WTVobVlSZlVtX3Z2ZW9sRzNISFo5QnAxalFGam9tQlRUS1liN09HVkFfTld6TE5KZ0FMM09zYkhEMUV5?oc=5",
@@ -119,11 +112,11 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Industria cosmética: beneficios y riesgos de la inteligencia artificial según la UNAM",
-        "description": "Industria cosmética: beneficios y riesgos de la inteligencia artificial según la UNAM Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRTd0o4OXNtaGdVMkFlSlRZdTBxRnJZUG43R1dMWklkWHp4dWxrSkRkdVViY1ROdEtSSENvT0VfT0JMU2g3OHFNUE1DWmlwZnRGb0RQT2ZTVnFVNEh0bTgwSjlhcGtJb2pjeUpDQmNpZlA5S2FERUZQRVI0Z2ZoOGlDVEpSYVZDclBoU1BqbDVZdklTRFdKX1RHZ0tVWFgxTHZkSUdnN0I2TDU5RVNsdEk4ejhtZkszbHpMdFdXeTZsbjdGNVHSAeABQVVfeXFMUHhfR3ByY1FBc2s4LXZEaXhhR2RSaHFhLXBSUzEyM2loMTI1Y0R4MFE4d1NJTFM5ci1CWDNkYW54RHJRVlhvckFCSk9YYjdWVWpkREdYRXFEeENmNFdCVjFUQV9DSWRFcUx5dHFaRTl1QnByTjJBbkFUcTNCMWFNSlBoM3ZWNUF5WEVqMVZKM3JUQnE2U3ZCX3JhSHdNeXBQTkNsSHE0MExOeW1yZmNhWTBOUVRMaE1GbFFJSDhVdmE3Wm0taDFGdV9xZXdka0pkSWVNSU92R1gzZVEtNjRvRDg?oc=5",
-        "date": "2026-08-12T19:37:17+00:00",
-        "source": "Infobae"
+        "title": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
+        "description": "Inteligencia artificial: Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lSlNzY3lMdThETy10bnFCay05eXRzczVIVlBNVWVRSHdpYlYzR3IzWGUyZ2NoSGg0VUM3Y0c0b1dTemVTMW9OX09udkppQ080WU4xVVNYNXNoMHPSAWBBVV95cUxPM3FCZXlaZ3oyMTJkcFlTX3JWWjE1LVV4RmVwdlpYRmQ4QWRuZy00NGljTHJQcGZnMnU3c3dPaDdUUjJ5TlhweHhQd2RZNzA3M0U2cndXVjl4MVdhbExMS1E?oc=5",
+        "date": "2026-08-09T11:28:38+00:00",
+        "source": "BBC"
       },
       {
         "title": "Nuevo taller sobre inteligencia artificial",
@@ -131,13 +124,6 @@
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3B4T1U3VTVGTnh6LXI4NVBIRnRlaGh1UHFvM1JJYnBkSlhGbGl0VXZGY1o2MTI1X0Z1SFNzMW80bVBCbk1ITzJENkdsY3BMYXd4REtCUlR3UENJZXptMU1mdVktNHdVcVNwbWItaV9zMjVEanZTd0dIME11SkxISUduQQ?oc=5",
         "date": "2026-08-12T21:53:21+00:00",
         "source": "Diario Norte"
-      },
-      {
-        "title": "El Papa: Para construir la paz, desarmar la tecnología y la inteligencia artificial",
-        "description": "El Papa: Para construir la paz, desarmar la tecnología y la inteligencia artificial Vatican News",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmlCcS1pbDRUSFd5QzE3S1Jvb09LMXRDN3JPNy16V2tDeFA3Y3huTnFQTDd0RmR5VzlZS3Q2U0dYU1pVWUpCU0hySHRORDhmN2pUMmJwcUR1U0ZaUXpQZkt2aWVOTlhQYWVCdGtreWlxdXJ5SENZQloyRXpoMFNpN0x6clVjbGRRRU1BNU9BTUhPVU9OeGhKUktMM2JjdzJjd0k5WGVud1pjVXVTOV9oM3FBeEM?oc=5",
-        "date": "2026-08-11T10:23:01+00:00",
-        "source": "Vatican News"
       },
       {
         "title": "El control de la inteligencia artificial enfrenta a EEUU y China en una nueva era tecnológica",
@@ -152,22 +138,50 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEVmRnluYllFb1UtN2tlbDhWU3FYWmo1TUppT1FXQUtBMG1tNXBUQWpCYWhXRG1mWmVGbEgwNkkwVkxVWUZaaURuUy01YW9CQ3M3RnFUN0V2T3AwODJfN21Tb2dyZFNlMW9tSVUyNUVxOWVvNXlWb2xhdWVvU29ldDRYVE1vY0hMUkptM1FxdzhzLWdnYzBoMS05V0NuazU0aElEbmR6dXFQTUxQZW1BM1F4NHNJLS1sVFVFaXNicWlEcnM?oc=5",
         "date": "2026-08-11T19:08:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Industria cosmética: beneficios y riesgos de la inteligencia artificial según la UNAM",
+        "description": "Industria cosmética: beneficios y riesgos de la inteligencia artificial según la UNAM Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRTd0o4OXNtaGdVMkFlSlRZdTBxRnJZUG43R1dMWklkWHp4dWxrSkRkdVViY1ROdEtSSENvT0VfT0JMU2g3OHFNUE1DWmlwZnRGb0RQT2ZTVnFVNEh0bTgwSjlhcGtJb2pjeUpDQmNpZlA5S2FERUZQRVI0Z2ZoOGlDVEpSYVZDclBoU1BqbDVZdklTRFdKX1RHZ0tVWFgxTHZkSUdnN0I2TDU5RVNsdEk4ejhtZkszbHpMdFdXeTZsbjdGNVHSAeABQVVfeXFMUHhfR3ByY1FBc2s4LXZEaXhhR2RSaHFhLXBSUzEyM2loMTI1Y0R4MFE4d1NJTFM5ci1CWDNkYW54RHJRVlhvckFCSk9YYjdWVWpkREdYRXFEeENmNFdCVjFUQV9DSWRFcUx5dHFaRTl1QnByTjJBbkFUcTNCMWFNSlBoM3ZWNUF5WEVqMVZKM3JUQnE2U3ZCX3JhSHdNeXBQTkNsSHE0MExOeW1yZmNhWTBOUVRMaE1GbFFJSDhVdmE3Wm0taDFGdV9xZXdka0pkSWVNSU92R1gzZVEtNjRvRDg?oc=5",
+        "date": "2026-08-12T19:37:17+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Spotify lanzó la nueva etiqueta para identificar artistas generados por inteligencia artificial",
+        "description": "Spotify lanzó la nueva etiqueta para identificar artistas generados por inteligencia artificial Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcWhaRWdOMl9pUzdkRFo0bTVXaWZ0ektFajBrQlhJZDJrTjd1bUU5X2hRdnBDV0pzd1otaURfb1UzRXRHSGZFQ2d0a0xmbTBuVVV1ZUpqMFFoS2dHc0NpYWwzd2hRS1VMdUJBRkFleU9GTzN3MVdjcDd0dVRtMEJOQnRsUmUyWW5GQ2RDRV9HUml1cDZ3TDMzUWkxZ01za1VxdmNIdlBMNFlGZ2hJQ1BMaDV1RkxOeFk5cE1KMGxMV2V0VWZ4dnBFN0lpaFRvamozX3E0LXV5ZGh5dFhxeC1Cc3dpMWzSAeQBQVVfeXFMTXFoWkVnTjJfaVM3ZERaNG01V2lmdHpLRWowa0JYSWQya043dW1FOV9oUXZwQ1dKc3daLWlEX29VM0V0R0hmRUNndGtMZm0wblVVdWVKajBRaEtnR3NDaWFsM3doUUtVTHVCQUZBZXlPRk8zdzFXY3A3dHVUbTBCTkJ0bFJlMlluRkNkQ0VfR1JpdXA2d0wzM1FpMWdNc2tVcXZjSHZQTDRZRmdoSUNQTGg1dUZMTnhZOXBNSjBsTFdldFVmeHZwRTdJaWhUb2pqM19xNC11eWRoeXRYcXgtQnN3aTFs?oc=5",
+        "date": "2026-08-12T16:22:00+00:00",
+        "source": "Rosario3"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Vaca muerta, litio y agro: tres motores que proyectan un salto de escala para la economía argentina",
-        "description": "Vaca muerta, litio y agro: tres motores que proyectan un salto de escala para la economía argentina La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVy1nQVJ0NERNbGhDTHhyZWNDa0x5ekhyTk1Za05Sb1BMSHZHcWxmbGtKcm96QWdpV2pSUERZN1dwRzgtNzlySjZ6Q1Q0d0szZmwycUVtMUd0UGVGSV9JNXZMU2JfWG5nUlRKSkdYeFJqWWstUlNYWHRRM1hrMzdDdFhEaFBzeXhjdUhzTjMwWE9IbWk4dDlTQXhVOFpocUgxQ3dLWG9ndXFBOVE4eDhweHhuTTBEOHRlamZ0b0Q5LUdad2o3ejRHcUlyeGE5Sm5TTkctUjgybENPakYwUzFya00zQTI1ZlE4c1Vkdw?oc=5",
-        "date": "2026-08-12T22:04:00+00:00",
-        "source": "La Nación"
-      },
       {
         "title": "Tenaris expande su presencia en Vaca Muerta con la puesta en marcha de su tercer set de fractura",
         "description": "Tenaris expande su presencia en Vaca Muerta con la puesta en marcha de su tercer set de fractura econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGZLRm1lVjFRTHFVS1RNak9HRURUdjFHT1JlN0k1czJqY3QtWlRyTGd3WFhSVDlQUUNzaHBxWk80TFdkS3pUZGdFS1ZTTjJ4SG4wYzhlUDBqRXlPSFVvSnIzR2laM05vc1RVanBxaC0wcTFSVVMtWlYwaUV4UlJCMElIeExwdw?oc=5",
         "date": "2026-08-12T12:08:42+00:00",
         "source": "econojournal.com.ar"
+      },
+      {
+        "title": "El corazón de Vaca Muerta busca técnicos en enfermería",
+        "description": "El corazón de Vaca Muerta busca técnicos en enfermería Neuquen Informa",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPck81X0l5SHdyS2RCR2VWVWJXMU0xRlotVnBKVkd4ZXgzeGhuR3FiQ0JrUlZYM2hCeC0zSlhsSDM1NHpoODFEUHBsMVg0RGxjZHdCVHNOcFpzTndiNEVTd3NkUTc1T2liaUVjZHRrR1d1Wml1RUVjbUN6c1h4NllsOG1NeU1LR3ljRDNrQmVJbDBTdTJmal9PYU1CRXNKWHRJN1RvamZybUVXcC0wMkYzNTMxdGlad9IBuwFBVV95cUxQQ2xOeG9xYWNYVnI2S2xXNTAzd1RPTXNUbG1VZm1PWWhWeW1MMkhsZzRvQ3NsQ2w3dlVhRVl6NndRV1JabUFYOVZTR2YzcGd2RDVFX0FMeURFVnAtWkY1T2lfZDgzdjdzZnhSYWVaWlBGYWhVTnhxTFdtZXRiRF9wQUtWbWVsNzZQU2Zqd0RfRGdnUWtGVVpOeVNUalFiNmoxWnBTNTJ1T0hEUGE3TElMMWNuN3NoZEZLVmMw?oc=5",
+        "date": "2026-08-11T07:00:00+00:00",
+        "source": "Neuquen Informa"
+      },
+      {
+        "title": "Marcelo Katz: “La realidad empezó a adquirir rasgos bufonescos”",
+        "description": "Marcelo Katz: “La realidad empezó a adquirir rasgos bufonescos” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3VVbDRHYnBESVp1VHhTVTYwQ0NYanlhSUtJRUhNNUp0V0JPQjdqY1ZEeVVnWkhKeldrRWJvVTB1TjA1VlF2bnQ0YVdEZk1pVDlDQ3lneUhmWF8zbXAwNDloTk9GNXJPakQxZ3Qxb1FUb1Yyb2FxMGlqYy05eUYwbFJFeFhrcnZFWUJ2WTYtMEdobVk2ZHV1d0xzUWpCZTJKV0E?oc=5",
+        "date": "2026-08-11T23:01:00+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Gobernadores reclamaron obras para llevar al norte el gas de Vaca Muerta y una ley por “zonas cálidas”",
+        "description": "Gobernadores reclamaron obras para llevar al norte el gas de Vaca Muerta y una ley por “zonas cálidas” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVk0UGk2eHdJampXQnFULWlNczZQdC03OTdIaVV5WUpCUy0xY0M0dDJ2Tjd3RTdlTk92a3c4bkZkVFhGaEIwS19vbUJWT1o4R2pOZ2VYY0R3NlZud3JJTWpPU3JPVGlMblp3bEo2UDdWMG45cURVSm11dFAwNmk0ME1RMTJjdjZlc2RtQ0JYaEN2S2RuTjJocDMwTlRZWkFOV0pyU0FtN2dDeGoyQWEzUFktOUJrRjh0REJxbG9YZ0lfVFk5?oc=5",
+        "date": "2026-08-12T19:46:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta",
@@ -177,11 +191,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "YPF y PAE buscarán proveedores especializados en Vaca Muerta",
-        "description": "YPF y PAE buscarán proveedores especializados en Vaca Muerta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUhuUDh5alY0WGVQR0tTVE1yQjRlejFsNXRFUHI5X0VuMm1oN0pMZWlrUlJmR3VWbTdXam9wZmFGWUo5a0hDZFJhSDZGYnZxSkhCOUZfekpvMXdicnRlUlN0UXdvclFkeVQ4S0o3ZDJhWXVTWW1OT2dKdTFWQnJMeGFhOXZkRjkyTVpPSENaN3hRQjFmMTVoZWZzTFM2YkFMdDdST3pLVzbSAa4BQVVfeXFMUEZ1eWpFai04MVlTMTdBVkNfTGdtckFNRjUtdEtPQXJFb3NfcnExMjF2TVNFRVRhUnJzcFk0Rk1kdDBHSFdJNFZHVktyZWJyT3NlYUk1em5PUlJNak12S0dVQV9SZ1VHRV9PaXBSZW1xN3lCb09IZ2Zjc3NnYlk2T205Z3EzR2ZjRlRCRjYtYVdOYUlTYXBFT1llQTNFQkhXUFBtQlh0cHJhN0Faa2pn?oc=5",
-        "date": "2026-08-11T14:43:42+00:00",
-        "source": "Lmneuquen.com"
+        "title": "YPF analiza llevar por vía fluvial la arena que necesita Vaca Muerta",
+        "description": "YPF analiza llevar por vía fluvial la arena que necesita Vaca Muerta ArgenPorts",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9MWWczRG5rOGtvd2hnUlpwY1R0emRYSjlGVmpMbEo2ZW5STE5MM3RSbmdoWVJTNmxHcmRQZWVIY2d1NkJIVmItaVktSHRsbHNBWFJPcmpOcFZHRmhSMWVFRFZrazliSjNjWXBCdFdCUGtYbFJ4RmFUS01JX2dQaXh2blpCZE5VYzZ5N241LXZ5UzJLcHRWa3REblJBdw?oc=5",
+        "date": "2026-08-12T03:48:10+00:00",
+        "source": "ArgenPorts"
       },
       {
         "title": "La venta de Metrogas, la Argentina petrolera y el objetivo de oro de YPF: las definiciones de Horacio Marín",
@@ -189,20 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmR5Y29iVkE5Mm9ma2RFOXBDZXVEUklBZGFyWG1xa2RqendVdXlwQjhNdGZkbHh3b2NmQXBrUGp0QmdrQUw5bDV4UFlmTldMT1pvMEpsTVhFVmlNTVlUdVRaZ05BS1dDc2d2VnFLTUY1WUZlbnhzeWVlRDdrcDVFMXY0NnJ5eENlbFdOaWRQUzcwQURva3h0em5lRlM0dWFkVlh4VkdQWU54dTBuU0xYTF9BWFlrdXQxeGJvRXE5VFNxZTY3SmVhenM0TlVOdw?oc=5",
         "date": "2026-08-12T14:23:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Vaca Muerta y desalojos exprés: el combo que enfrentan las familias que alquilan",
-        "description": "Vaca Muerta y desalojos exprés: el combo que enfrentan las familias que alquilan La Izquierda Diario",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFQ4cW1McGpHaEI0aEdrdWljVVgwaTBhdXdiOGg1anVpM1IwZVFFQXB0dFdCYlNZc0JPeHJ0b0pOMHc4NnZMZVhtdzZYbzF1cDJuOEFNQnRqOTU5UGJGRjdRYjlzcWZoT0hmOEFfMnlOWTZoMzhxZ3ZoMG5UNHlxV3hlVVBpOHl0cnhXZ18zTFAwQkhsMnZDOEl0UmNKSDB2a0tMV0Z1MWxVTGI0N19keHhPSdIBuwFBVV95cUxOREJZX19XMEl3UnpqclFtcEYzZnJzVVp4bUtFTlNVeVJ2ZHRfd0xUQlROMHZGeHBFNkh4UDhvZTMtUU1hbmVNbVhucW9pYXNTVEZKcU91Rm5raFV6VmhMbmJ2b2tZX1MxRko5V2NxeS1UNVpGckltdmRZajJTdEY4TU5BOVBBOEFRLXVTbXZiMGdNRUFHMkw5NGdiak1CX0ZUNHBiN2ZKUU0tUTY3eHgwVThHYnhXMEV2SmdR?oc=5",
-        "date": "2026-08-12T18:47:43+00:00",
-        "source": "La Izquierda Diario"
-      },
-      {
-        "title": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco",
-        "description": "Peña apura el gasoducto desde Vaca Muerta para avanzar con la exploración en el Chaco La Política Online",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQURiTF9YZV9ZaVg4VWZVdlRjMHo4XzBqNGNYeFRuQ08tTjJFM3RFOUJMaFdRUm1SbS1UWWtoSG9hWENHOFJKaVV6eUVqcS1ZRFVMNVp2SE50aGJuUXBISTFxd2VjUmlwclc3anNYaTMtcy04VEdxQ1JVdWxFOGpWS3NTRTBYeGk5OFc4eU9kUTN2R0dwSG8yS2pWZ2pJTF95Tk9EUXlWM0psT3FORWtWalNVN282RGp4TTBvRFZPcTE4QmxzYkFGMkl1YXVlYms3b1lUV1FsQnRZOU5vY0YwcUE5NG9xcklhRkNV?oc=5",
-        "date": "2026-08-10T17:20:11+00:00",
-        "source": "La Política Online"
       }
     ]
   }
