@@ -1,9 +1,209 @@
 {
-  "updated_at": "2026-08-13T18:54:44Z",
+  "updated_at": "2026-08-13T19:53:39Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador",
+        "description": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWpNb1VjRmlqR3preUlaWldRdnl0aDlYRkxVQUJmZVB5NE1kYjVWYzVtRXFpSXJUSE1ocEY0WXVrRzkweDdOX3Fvdml3RUIxSGZ0NFFXelFVYVd4S1duYjdBMTJjRkJ2NkJCLXJUZjA1T0JQYXR3bTNaNVhncHJlMnFfUzQ1REhiTmtvbXNRWHhCYnNYYXpxZVFBem83UQ?oc=5",
+        "date": "2026-08-12T19:38:00+00:00",
+        "source": "Hipertextual"
+      },
+      {
+        "title": "Microsoft reduce su presencia en China",
+        "description": "Microsoft reduce su presencia en China Infobae",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdENNaHhRSVV6ZG1Rd3VoM2RzT05RampFSmYtalR5NlpqZWpnZXFnQU85NklfWUkySjhOYlU5aDFvYXppem95dW1sUy03bnhrZE95TmJFbDRjOXgxQVBzU1JfdzQzZE5FREFZblNpNXM4RktKV0xZQkdRYWVJME1qczU4dUhNalVwMEQ1Mkp5ZFhId9IBrAFBVV95cUxNV2cwSmppdmR5QkhybnlkNmpFc1JvdGJSVFNLV3Z4YVIxR1dCejFyWUhsUzc4NjkxRlJNZ2htRHF5T0pxQlVzOUg0emFJazVXb1huOG9aeUNVZTV0cGpuVVBnMnNkZG11VEdTWnVjTHgzcEVHMDRxWEhGZEU1QUtfUXR4Q2dhT1hjR3dvTHNiUk5Vd2V6REczNWxId29USjZTdFJTd2NyQWhJNnE3?oc=5",
+        "date": "2026-08-13T13:41:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft",
+        "description": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXdQbnRhcXVQbV84TV9PbFFiWFNpeWtYTW9Sa0NlQ3VVLWotLWFHbmtkazNqdW8xN240dU1sS2NDUmlZZVN3X0E4cy1vQkFOcXhVc3BmcWo1NTR2VVVDRDIxVmVnbFRSbTJiYUFzSkxiUWhUM2swSkxobE5zMEVOU1J4YXBvaTVGLTFYLUROa0FDblVMdzNrMktzSHN4cjhyVzU2Y1hkQkZwT2JGdHc1RTZBQ2hLQmhOOU02YW85Uk1WMXlZUDZtNXZnQ1FqZ9IB0wFBVV95cUxPLUlCZGx3TXZ0ZkNnWWpGY1BNVzgtTWpfRndsVmsycV9jNHBPQjJIaHhhNmYyMnVJeEVYWnZQT1ExZlhJV3E5MlRaT3ZPbGVjTmFrMlItS3hCQkhyMkVuaWN6eFVPSWdQdHBFcDAzTnhaOHZLQzVhRnhGLWI0TXA0UDBvY2dXVnFPTUFmdWJEVXB6OTdHMUVUdGVtZFVpaEpieHdLU2pYNXFGQmVoelhaTTIzSnlLOTRnS0otUE1BX2RrdllrdDRJa2JmeEtWTnA2WEt3?oc=5",
+        "date": "2026-08-12T09:00:16+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país",
+        "description": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObWVlZGRfUGJ5OHJyNW9jREtuQ2lyQklLMHAyYmc5WEl5T2xzbnBjTG8zRXVrTWRZRW1YVXZZTlpyU1ZMWGI3eV9zdmk2Qll1R3VkRzRPYjhfcUktSDk3bEIyb3NsYS1mVlBYWkZncWRlYms1YUlNOGlHVjBTb3Fxc2JyR0NVNVA4OHJ4YTN3WGRBWnpvNlRzREt6UTAyU0ZEbkx4YW9kdWxxZGpRWVVLZXNOU1NoN3hTRWxTRWtSSHlKQVBZdnBWSEptbllOU3hWT1pYTVVsRXg4aFV3OXphSlhlWjdmYXRZVUxwcGVfSGJLV2JXUjBlckhKX1JiSkdt0gGbAkFVX3lxTE9BcDY4WWdWczZFOF9HUlE1bUJJTkdGN09GUERSZl95WG5ma2V2clVYMjJ1blViUW5tWDZRUWN0eGQzYmN3Z2xQR0tKODhJeFhwSENXb1pZSlItdVhsd0t6NkwzaENqdFdHT1RtT0ttWmM3QjBIelJxWUUwcXRfelJLRnJ2cjFtSE9ZWEx6TnJweXpmU3Z2Y0gtR0tmUGNodzI2cXNvWTk3OVUtenpqRDlTT0p0REoxbzJtR09POHY1bUVvYzFRYjZocEl1c2xJMFcwSklpZ0lpNjliOU9qZGlTcDhKbE45STRyZGVsS284RmhzNklmNU5JYWVZd1Ryam9zSXBQM3JnX0lyd1pRaDZyOU0ta2E1UENNZEU?oc=5",
+        "date": "2026-08-11T18:09:14+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA",
+        "description": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVItXzd3UGR5bnlKWTFWMFJyTDFaOXBwMVFvY0hhUUZwVlJRUE92bFRGSFNMVl84d0NHVURLMlozdHMwN3dWYk5zYXVQOG5YQllsT2xHdWJ2MGVqQWZ5U0JWejY4TW5aOHBZZTNxcmIteUhwNFV1VUdETFA4aE1GTUtmNjZ3V01jSWljOXN3bTBNdnEzRG41Uk9LOVcyR3FQVERhMG1KZzF0aFdYMmdQTDFFeTJScm1jVUpsUnFxa0tZaHFfbFh6QjBybXdjQXFnRUx6SdIB2gFBVV95cUxObi1HR1JBS2s4cTBnaUh3RDVhTWNVTThEa1hldFAtLXlfT3dIaEdJZWZES0tQYnhVeVlEWW1fU3FyWTFQcW1vSnlxZVVKUFl6YjJzMDc0S1NOTW0yLWlQMFA5SXlrbnBRYTMtVDkzZUkxVzVFSGVWbXVaMXdmclBTcEwtRnJxb2JyYXI5aXhVQmVyN3ZRZll5X3NlNV9Fc0tneXEyQmhGTDctX2FxZ3ZFNWdzaHlJdndXdmJrYi1zSWpPNWtLVHgyVmZIYnJuNVV5SG0xS2M4b1hEZw?oc=5",
+        "date": "2026-08-13T12:18:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Microsoft Edge prepara el fin de uBlock Origin por la transición a Manifest V3",
+        "description": "Microsoft Edge prepara el fin de uBlock Origin por la transición a Manifest V3 Digital Trends Español",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkhHaEZSZ2dnQVYxZU5FME93R3BhZWpJSFViT2pEMml0QWtVelJld1hNcDBfSjQ1MmswbWNKdWJzaWRpbFBxM2N1Rl9FUUxSdFR2NnJ2Qldhejd5M19ZY3lqZzlHSG9FRFJ0ZjFiS1VsOTQwX0JkSkJSR2hIT0tBdnhVbkR1ZnZYd0xWSGdoSUlSSVdlTkI2YU1LZndUZzQzOFMtYlFZTmppOHFhTnVKS1RndlRPRU5CVUozd2dR?oc=5",
+        "date": "2026-08-12T18:03:44+00:00",
+        "source": "Digital Trends Español"
+      },
+      {
+        "title": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores",
+        "description": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTJCaU9seEE0Si1hVFBSa0ZVc05xNThXR2RweFJsZngwWm54aXM5cnZxN1dFWnAyckNzLVlzdEJrRFA1U2lDM0lBVFNfdVV0dDM3VW1mWnBzajRpbDEwb0xQZFlFVXZmZG1BQmNCemVXTzAyZG5FUXpoeHFPY1JwYWxQYmlyY0dqQjlSOFRndDdXVDEyZ3ZjNlcyOUN6bjA2MXNRRFBqYUZnX2Fmczd5TGFFa2xZU1JQNmgtTldOWlRaem1KdzE2Z0RaZHN0QUgtVnRHZDNEOFk2N1k3ZUk5MFFJZjl0VGJa0gH8AUFVX3lxTE8zelBLdmk0dUd3WUROWTJhalBndUhsQ2E1a3lMc0lrdzJjaHJHSms0UmtpcDY5SjNST3pfR3l4dzBSOFlUOUtlRGRPaEZtaEJQQ0hlTTZDaXdtSXpJWDVRTVFYOGdIZVNHSHNQOVBkNWlmZkdldFF0WEd3cWppblNEMl9hcGFCUmNOajMtaDdDTjVxdHI2U2RXVVlXeXpSd0RBNS1jOHAyR3RqZ3BLZGZtOFVSa0hjVExzMEpSWFRrUmhJcFhtTUxxRUFEZS1LZjF2Y0VNV2FULTFCOUFvSG1IaENscUVtUFU4SkluYXZjWFZZd1hoNDV2RUw2Ug?oc=5",
+        "date": "2026-08-11T12:00:06+00:00",
+        "source": "Diario AS"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares",
+        "description": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares Bragado TV",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2VKY1VuZGNjUFdTTElpazBPWDNxLWZUcTNWTDF2ckFuaGllMDAyaENneUpjbVlJNUFYRTJWeFlWOGxWc3E5bVVSVXRLUTFBU0pPeENjeDlkcGp0WEwyeVFWNmpSVHV2Q0wtNW5yOVJzQnlwSGhYTWFsR0dJdkJleEI5dkZ6a3ZKRjRHQkpTWnFuaS1FX0JWNTlnbmhhY19lb1dPU3BoMTM5N1VlUVlZNTJ0YkxuSWpRd2ZjcjIzYUtWS2pOWENr0gHMAUFVX3lxTFBnakxSdloxNDUzSDJCTWFBdzlGbHlYdzlMQm81YVVfS05aNzZKYkRVelhTZDRSREtMbHVVakNWR1dwX3NETjJzTDQxWE1BRTY0UkpmMERyTmIwY0dXQktzNGsyVHVYYTgtQzEtMFpDQWFKelpSQ21KNG83YUdXR1c0Rlo5eWM4b202ZThUOVM3RmlJZFp4NlRHakFPVExBYVZQUFFwcEVJckRBdmxrQ0IyQWVVMkVuOTlDaV9NN1lKcjRweFk4eVVnaGh4Tg?oc=5",
+        "date": "2026-08-13T14:30:16+00:00",
+        "source": "Bragado TV"
+      },
+      {
+        "title": "Sol Naios, argentina que vive en Miami: \"Fui al supermercado, compré pan, carne, palta, verduras, yogurt y gasté 312,79 dólares\" - TN",
+        "description": "Sol Naios, argentina que vive en Miami: \"Fui al supermercado, compré pan, carne, palta, verduras, yogurt y gasté 312,79 dólares\" TN",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOUxrbm02Yjl6YVBWb2dRUThERHZZd1BRTzhQMkpyTUFLZkJjU2hGQkd4RFU2aWY4bVRiNkNLc19VUXZ0RkZ2TG5OYWdVRW5Fb2xKdkJyYVFpS1VHazUyWDhtdHRjVjRxTDFzWHBWTjQ1N1dXekt6MHhNWk5hWG4tdHQtV1VMRFY3d01IZTdTWHdCa01uMHhxYTFkUW51akNKVFE4WFFhcDh2NWdUTUZaTURVNzY0V3dmSTZZblY1UDYxOEF2RVZZU2hjcHNlVkxVWUpIMXYxLVFMb1BBWUY4b2JJS3JPVTJuU3E4MlZR0gGCAkFVX3lxTE1CTXR6WVEtamdNNVBKTk5zYjBQSjE4bi00YS05MGpnWU1LNEIwd1h4TXRwY09QRmJqOXNxbHVnUjdSSzgtTEY2NU5QcHNYRm9FSFE0TjJCWkJDdEdDV21DTXhBdGcyQ2VGY3pWMThNWGJyMnJDVlBoTjljVUZZYjVOdE9OaDF1ZHdaaVVzVlQwZ1FXTHhEYTQ1LWpfYXpHLVZleXEwX0xIcU9lQnhRMWF5SmpYMEtEVjBKZ09EQzAtZjllUzBORG9QZktJdGdaVGhlclFaaVRJN1R6T2t0Q3pFNFBrSXVUM1ZVTmtiRWxYeEc1OEd1VU0xRFJYOTJ0MXljUQ?oc=5",
+        "date": "2026-08-13T13:04:18+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "ELDORADO IMPULSA CAPACITACIONES GRATUITAS EN INTERNET Y MARKETING DIGITAL",
+        "description": "ELDORADO IMPULSA CAPACITACIONES GRATUITAS EN INTERNET Y MARKETING DIGITAL misiones.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLVl2UzdQT3FNWWhKRG1MUzcyeEZWOFh0MDg1Q0t2c3E5aHo2VExPSFo5eWZBWHUzd01kcVZPMk5JWXdnRV9tcUhITi0zdERzWVd5YjcwS2ZjSVhuMDhWU1hpRkFBN1hJS1VMSjFKeDh5RC1TWTFMRTZ5U2Iya1F3LUo3bHZ3cHAwdWVfOTEwTHZfQ1gyUDhTU2xKU2xoM1U?oc=5",
+        "date": "2026-08-12T15:58:07+00:00",
+        "source": "misiones.gob.ar"
+      },
+      {
+        "title": "Marketing digital para pymes: estrategias de email que funcionan en 2026",
+        "description": "Marketing digital para pymes: estrategias de email que funcionan en 2026 newsdigitales.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2k0NUEyRVg3MFhGQnVucTJhQkUtR2dmUEE2RFJxYU10Rm1OYTQ4ZjFkU3F1aEFMaHNoQ3BWa1pldm81MjVjMnNDZ05sSWNpNkx6emNPTTZBV19KUlF4SlhKelVKQ0IxZkZoN0tqZE5USnFpREdMSU1qNGVmVFREeVBnMXEwU0NQNHA2dWltTHRiZkdXUE12X0FtSWVNR0ZCbUhEVjNhWmdvb216cUZYeWtvVy0?oc=5",
+        "date": "2026-08-12T18:05:10+00:00",
+        "source": "newsdigitales.com"
+      },
+      {
+        "title": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos",
+        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos Norte Misionero",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0VVWXFEb1Yxc1hld2pMb255V0ZCYnBVUVV6YWJGODR1Q0FvZGYwRW92RGFwUDdjcElvazVFaEx4SmtEYktlZ0EwVl9VZUtuVEg5S1YyTGNybHRrY0JNbXNkaXpVbjlMT1pwTkFZaDRhUnNBb2JPbUtZVS1YNVU1ZWYxUU9PWDRnbkl0WDBfX1Fpd28zOUlQd3lMUE55VTljc08zY0tLMlkzcUh6MGpvMXVJNkRQVkk4bWVsMzc2VW9DUDRoc3lKWVJFbHh5SkJsMk5nSw?oc=5",
+        "date": "2026-08-12T11:58:12+00:00",
+        "source": "Norte Misionero"
+      },
+      {
+        "title": "Futuro digital inclusivo: lanzan capacitación en redes y marketing para personas con discapacidad",
+        "description": "Futuro digital inclusivo: lanzan capacitación en redes y marketing para personas con discapacidad Radio Facundo Quiroga",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmV6NlFNWDcyOVh0eHpfOGVJeEhKZktDc01HYjF4VXdSN0xQbThGeXVtZW9kZURPSElqdEVobWliR1dFMlFFeTV1M0VsYU1xcFdSM3FKT1pvbnpaLWgtcENkSGowMHpuOS10TmtuVWJGaFViTGMxUnI2U3Q0b0dHRmU0b0FVb1IwQU9YVmRqS21wQWp0c0hSaUlpZUFMWGxHVXpZWTVscUhoczRaaC05NEIxeXo0VjhkNGFJd0NFX1NKdw?oc=5",
+        "date": "2026-08-12T20:04:03+00:00",
+        "source": "Radio Facundo Quiroga"
+      },
+      {
+        "title": "La batalla silenciosa que redefinirá la publicidad digital: \"Recommendation Equity\"",
+        "description": "La batalla silenciosa que redefinirá la publicidad digital: \"Recommendation Equity\" TotalMedios",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzR6azZCWDR4eHFSTXVnT2M4dFpOZS1WVTUxSzFSaVVJOU1rdUZ2VVpLZFNPS3dGdzRQR21hT2RzeWUtU1RWV1ZuTTJzdkZ2ZEp1eVpHajlQTmdWMXYweUlIRFNsQXdOeDgzano1VXZVdXJRcVBqOXVIRVhwX2tUQzBkLTROVFlpNzlJNlZHT0hyaEtBcUJZeUdUTlBzUklKVU16VE4xWnA0VE1tNDJ0a0NzcjVMeFM0NFdB?oc=5",
+        "date": "2026-08-11T03:00:00+00:00",
+        "source": "TotalMedios"
+      }
+    ],
+    "IA": [
+      {
+        "title": "Brian May se burló de la inteligencia artificial tras ver cómo recreó una tapa de Queen",
+        "description": "Brian May se burló de la inteligencia artificial tras ver cómo recreó una tapa de Queen Indie Hoy",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXpFdVFQZnNicDdsZkVqRko0aVZmX2d5V1Z1NFVCVW5HdFo4djBYeU9IeERUXzdIWGhZMGFxWHNDcVFFNDdPX2ZJZjU3ZlJjTlZ2QXdUXzk2ODE1YWxGVzJLMGd3dG5DMFd2S0NZcVotbnpyc0l5dEh3dVNabDc0YlBaeWphMzM5Uk5WQnpVWXctNDRoWFZicDZJYURTbGhiSmx0VTgwTWlPUTRrS1pzZ0hQaHRCbnF1RWfSAcIBQVVfeXFMTVctTWE3Vk1WT3A1X2RkWkMwWEswejYtc3dialNmTHZCQkF1THlXdno4ckNpRkdNaXpQd3JGMXd5YUlreXUyN3BkTHpSc2MzSERHdnVDZzgzN2ZTSDZ0WGlzV0hnT2JIR18wTENXdVRVeUFoV2Jzd1QxdlhNRGo2cW1RaVZRS1JmMEEydE1IcXUxX2VNejdTVUxGNEZMNEVCdzJmOGZjQ2EzNXpqQWVoN1Nab090eWxubDNwNkkwbEV4SFE?oc=5",
+        "date": "2026-08-12T17:00:00+00:00",
+        "source": "Indie Hoy"
+      },
+      {
+        "title": "El Salvador frena la fabricación clandestina de productos con apoyo de inteligencia artificial y vigilancia interinstitucional",
+        "description": "El Salvador frena la fabricación clandestina de productos con apoyo de inteligencia artificial y vigilancia interinstitucional Infobae",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMFQ5dGVic0Z2RnNURTBMSVJBQXJLSnBGakpJYXllcnVLb2tlcDJmc3UxcURRcW1fOVlLT0p5ajJoYUZzZ1R4ZDVFQzU1dnliN3RLbkY1MGUwamw3bjYzRk41cTdjUEV2b29ETHB3WnFMMWNxY1F4TUNVbnJZbTd3MllraE4tSWxfbjgxT1Z3dF90ZmZ0Q0JndkRsRTNmQVpNYXJCTXJqNzZkdFQ4azhsMXU2cUt0SWQ5OUVfWVdfXzk1eF9yTmlDNGFOaVFYZFZnQWZqdUdFQWRRUXMxZk5ZQk5zSHRmMW5WNi1ybWN2bzh3bTZLd2kwek13UnZrbXdXYjB4QtIBnwJBVV95cUxQTTAtVVVMdE1BZ3Ffcm5xVUVpeTJRazFwTFRvQVNXWXBhRWNsWndmbGZJdzlSdUNXSjRrc3Z6TWRxRmVuMk05bnlKd1ZoUC1rVW5RVGhPeE9IbERRQkM4SllrSEQ5aldyR0lGb2c2dXFQTVRwZWpvVGVmaHcwYjk2dkZnUWxvSzBNU1RIRlFzdFFjWVRhamdraGhpV1ZOR0ktbzRVWThHX1VsRU00djFwMS1aemVXX0NJajB2LXFOWGJQZ0RmbG50d21RUjFXbHRURmF3MnNuamRhbHk0d29JWFl4N0pBNjNhdzNXOFNzTklVTHpQcWdWV3M2X25KbERhNkI3ek9MYkV0cVJNOVJmUnctQ0hRVkl5R2h6eUN2VQ?oc=5",
+        "date": "2026-08-13T19:32:31+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "El boom de la IA llegó a los bancos: qué están haciendo y cuál es el principal temor",
+        "description": "El boom de la IA llegó a los bancos: qué están haciendo y cuál es el principal temor La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd1dYQUtQTG00bm9WOUU3WGhCUUpoZk1qdDNvZ2M1czUtZk5YU3pWTW5LOGZDYzVMUnFUai1sUnY4Nk9ac0x3ZDd2QnRHZjZYUTlRRGNjZnJtMERzTXVKTVR1T04wZHhTNDJ2QUZMMWdsS2ZaMjNwYjhQbVUwb0Y3SkNMM1VUVEIwZjVKalVOaDZYd3I2WWZxSzJUR2FsVktMbGhfb1F2TXVzSF9uMUNiV212YUxYWHo3VGkwVTAzMDFIbDZ6d05jOWRQSV9iclZ5?oc=5",
+        "date": "2026-08-13T19:08:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Tecnología, inteligencia artificial y nuevos hábitos: las claves de Infobae Talks Pensamiento Techie",
+        "description": "Tecnología, inteligencia artificial y nuevos hábitos: las claves de Infobae Talks Pensamiento Techie Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ1V3TDZwbUVsdmp0akx0Z0tLNlFBS1BqMkJha0dhc1BMc1BOc01EVXdMbXZTd1pLWEgtdkIzRGVKWGZyQUlVdWZKRXdqREt1eGludVcwV0FETHNna0NHTFkwdmFVRUhuXzJsMy1tX05xTExoYlpUejJiS3NZaEhXTF85TFlpYVZkRUNzWU9uMktTUkFBclBFVWpsSmF0TC1TVVUyeWhuUkR3SmJoMzJjbElpdGJ3SUY0QlB3dDBESzYzQWxRanQtWFJIYXFQR1VJYXJ1MzRHR0lOd9IB9AFBVV95cUxORkduVjFnNENCWTUyOHNOMHdNT3FGSmcwZnFhdklndWFDdlZTaXFpcVgwRlQ3YVNONjNycHQ1Sjd2Q2E5SFVKeV80bFBHNTVRa201OHRaem54UVBNcWZqN1FPMTFsVDN0b0I2dGZSd1R0VjFtWncyS0JicUNSVkZQUm9BdnVGS3NXWlBTSlhqVHJPX0xLWmxHSUpKMURrbU1IRjdUdXNHX1BFNWtTUDF2US0zVjd6RGwwekJKQlN5X2R4dTQ4VXJtTGRqa3FVOF96azRtTWh2RTlVVWtOZnpmakdjMWpmbmd1ZTNVZEJxdFZPUHJD?oc=5",
+        "date": "2026-08-13T19:21:28+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La última trampa de la inteligencia artificial",
+        "description": "La última trampa de la inteligencia artificial Revista Anfibia",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzV5M21rUVhTQW5IaWVLZHZfeXRhNnRSeUhtdnBBOVppT1k4V1B2YllvQ1RlVEJ2VnRVcHNnZmFVSXZwb01sQTNNc1liUi1YaFBqRXUwTlhwdXVxSE8yT2t3SUFKTnpLbFZHQjB0Q19yTTY0eUxxMHh4WXhjRUk0MktOb00?oc=5",
+        "date": "2026-08-13T11:53:38+00:00",
+        "source": "Revista Anfibia"
+      },
+      {
+        "title": "Quién es Adriana Baravalle, la especialista en Inteligencia Artificial que asumió al frente de Innovación y Tecnología",
+        "description": "Quién es Adriana Baravalle, la especialista en Inteligencia Artificial que asumió al frente de Innovación y Tecnología elDiarioAR.com",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGg1Wkduc09neURWTjhIbUhxRVhabnZHZWV4QXJzR1pYRHkwQUZlWk9iM0wzb1AtWlVEdVNGWERvZnRjcnF6ZjRTbnVPSU95M2syTDk5MDlmSm1Ja1ZUWjd4dUpTV2pISkV4VTYtdFZQenR3QmU2OEZ5YTlPRzc4QUpEdUpGMlBCSEdfTTdOQTJjamxIaVpTcDdEZGIyRjd0YWlIeTFxUVp4RXBaOGY1Nk81MGdQelEzV2lwWFEtTGxkM0ptODhDekQ0TXQ4eDBHblUta1hmMVJHd9IB3wFBVV95cUxOTnhVMExLSEdvaHFrdmZIaG9MV2ZGcTJxSDFycFRVMkEzTC16aW56a0JBdXFYRUdVVVZtRThnV1BYZDE4ZmNqaGtIdVIzR2RoRUNCMnIwdk1hbUZsNUJ4WlRkaDl0Q3dkQno3U2M1OGlKRm5yQTdFSS11MHVyY2tpSVBBMzJ4MnJ5NlRaMnJMeUlSWTc4ckpjQ2JGTkV1MlFja0lTbHJVeE82UUJ0YndibTVEZ21jNThOVVJjTzEwbmtXZHNsNlhrOVZNWUxTQk5uZ0dvbFdFNFJ6eFpKUUlV?oc=5",
+        "date": "2026-08-13T13:23:26+00:00",
+        "source": "elDiarioAR.com"
+      },
+      {
+        "title": "Adriana Baravalle es la nueva secretaria de Innovación: quién es la especialista en IA que llega al Gobierno",
+        "description": "Adriana Baravalle es la nueva secretaria de Innovación: quién es la especialista en IA que llega al Gobierno Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa0p6NHlrSi1QWTF1bVJkejlPbHVZR3MxUHZ6MlJkTW9yeHl0LXFXS3RyTThFSVp5el9OSDBwUVZHLWF0ZTRXN1c4dGFSTzBqT21UU0duZjJGQVU3SjZ5NkJJZDJTYUV6Q2ZhSFIxT3prYXR3cGxfQUtibXFuSEJtODZJWmVocWlYbTVoemFZQlpsYUxXcFlGOEg2QTZodTFpUjRFdHBtRjZMU0tMM0lSZlk0YWp3OUxGU2xvSWNDYTd3N0Y5UU1XdXJrbDd4WV94THlUc3dQbkpVdUkyM29LaGk1MTNrRUhEd2dNWlJlSdIB9AFBVV95cUxNUnhNRGt6cFZHWDV6YkxTbHJVaDU4TEFlRW04WmxqNkoySWQ1TzZNWFpMdk93SWZSS1VuYWZuVXFjS1hvcTd1amt2ZnFpYWV4Um9fbXpUNmR3dnJlbS03c01BNVNyYVpWdzRGdFdkSHVaSEtNNFNVSnFXYS1iOGxhQVY2TnRYZEVlVzFTbVV1SUxFaUlTN01zMjJMU3FCT1N1dnJqWGswRTVXSUQwRm5IRXhfRzBaTlB5VXpBVUxLbF9XNlNKQkp3dTZOTjZ3R25HaUs4bk1zMEhGWXU2dG9nUFVhNGliRXRSQmlLSEUxREYxMmdH?oc=5",
+        "date": "2026-08-13T12:30:37+00:00",
+        "source": "Perfil"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "Adjudicaron los servicios para el campamento del Vaca Muerta Oil Sur en Río Negro",
+        "description": "Adjudicaron los servicios para el campamento del Vaca Muerta Oil Sur en Río Negro Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnVfX1BGWGJVVjVEVkwwTjRxOW4wQTFZMVMyUG5UNXdKMXBFM2lJSkQ0Y0lNcGs5anF3NGR3d0dfRFU0S3FndzF0QzZwLVh2STVTWEVyUEJnR3FXRVhCdXdkTWlHTklMRHBMNXVqRmMzSlFfV3g4b1RwZ256ZE45SWlhMENoWUlQZ2pMMUp0RGVnMjVrbWsyYlY2V1lMMElvZndYX254bWdkU3B3d2RXandzd2pScEdNUVJRT1Z30gHDAUFVX3lxTE1UQmtPQmFJSTdzME0yWDdYamFXMnpLVkR6QkZmZXQ5UkpHcTJWZ1dMUmNSLXQ0dGZ6MHdHRHVQM2xEWWNaRUZFdldjdjVhS1B5azFxaGhqYkFjRDNrNjBfTFBUQlJrVzM3c0hhNUhYWHRsQXRIV2ZiWU1SQ0Jqa3NYVXQya0JkTmRMd0h6dGROeDVxZ2xKYkQ2Q2hlUzZrb1NFcG1acUxrQmR6SW9pQ2E4RU9hbEVBWnkwVEg5b0R1bXBxRQ?oc=5",
+        "date": "2026-08-12T14:35:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Daniel González reveló que Vaca Muerta duplicó sus recursos y roza los 30.000 millones de barriles, cifra equivalente a un siglo de producción",
+        "description": "Daniel González reveló que Vaca Muerta duplicó sus recursos y roza los 30.000 millones de barriles, cifra equivalente a un siglo de producción econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02dGpRNFVUMnIyMnotSGZSUEpyZXpIa202bExveWt6bEF1RGlpY19zSWNRWDFIbFM5dHppVG9Bdm0yVWlVVmx2aWx1ckRLLWxjaWFUMHFRREFsZEtycUdSMGJrNTlUdS1ndGxXODg0Mml6ZDJLNGs2b1VzZzE?oc=5",
+        "date": "2026-08-13T14:47:28+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "A 13 años del primer pozo, Vaca Muerta tiene casi el doble de petróleo del que se calculó originalmente",
+        "description": "A 13 años del primer pozo, Vaca Muerta tiene casi el doble de petróleo del que se calculó originalmente Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbXFHQjhYOHRGdWtxbE9UNHpNSlNuTTFxLU00OXZzSkdxa2xLVVEwUTM1UklNVmZKLVhUY3dySFI3djJTZGhoQkloNmE5NC1jNlhmSTFMR244bUF3ZjQ0Z0ZxSnJ1QkhIRFFyRGpEYmkyT2pkWmk0LVVRSjEzaEdWQWkyUzlvcGZoQWt5Z1FOZkFJZnhvUmFLOGp2cmpfMTR3T3Z5UlZOSmo3QVBSckFxUzI3QlRMSmpvVkpzMHJmemVlUWZvM3BZZFJUTUFrbFF2c1lJQU9LY0ZEU2xaTFlva9IB-wFBVV95cUxOQ3V1SW5TUU9td09hcUctcldQTmtTWHBhVElDTmxmcS04QV9TdVlqQTVGSjB4RnBkZnozTVNPZlFFaVdvWk0tTURLZnE5dWV0b0QtNEctaVVMSGtVaXMxODhtRUJiZVF1TW9pWUNURDdRRjlBQld1dWdxTkFTZkhSR1pNbWx0U3AzTkVrNVpwdDJiVFBzMkItVVMyNG95dUV2MjBERlo2ODZHdXVFdXVDZG5MU1ZQSUpmWEJSdGZpeTlRaWY2SElPTEh5ZkpIMjNBVUtxaHE3MXRuMlBuMkJNc3htcXlzNDJ4bmNXcTRzNU9jQzB1cWtJS1M5SQ?oc=5",
+        "date": "2026-08-13T17:51:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Confirma el Gobierno que se duplicaron los “recursos recuperables” de Vaca Muerta",
+        "description": "Confirma el Gobierno que se duplicaron los “recursos recuperables” de Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLTdFZE1CaWJlVkN5TlNxRlI3WXh1eldvcWlEUmM3MWtSdnZjRlBRWUhERTEtbF83UVJWWnU4a0lzeUt1RlExR3NIU2xkV095YzUwY05TSkF5R3NhMzRKOHR3Yk5HYk5Cd3YtVkwzWVgyMy0yNG9SbnVHc3Roa3VQWEQ5VnNIQVB0WGdEM3lSMGxnVkYwSmVnOHpIX004RmpKbTh5SjNEVDlnTkV2WTMzdzhacXR6cGgyWXRzVE10SlBMcDMyaW9UOURCZnlFN2hJM0lKRm9MdWt5eG1UaFMxT0Fn?oc=5",
+        "date": "2026-08-13T15:12:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "El embajador de EE.UU. cuestionó la tecnología china en Vaca Muerta: “No va a ayudar a traer inversiones”",
+        "description": "El embajador de EE.UU. cuestionó la tecnología china en Vaca Muerta: “No va a ayudar a traer inversiones” Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGlzOVhGZFFpaHA0cHhKajRwMzNBVHo4b0hRNWZaa1JDektkLWNwY0ZxRHdQYnhCbHVwZFRmbXFPOGt5OWE1a09hSk9GZWZQWWs4THBrRkV6c1A3NHFxSi04VGQ0cVJXLUdMNVl5V1M0RnFJV2ZmZ3kxRjFhQkR5SHNnTUw0VkdEQ0FHV19pbVpmWENhcFM3Zlh3UXFsYi1KVXdGYUpqTDBoMUhUR3d5ZlJMV3JpaWVOdktueFRFeHAyRnpncDB4al9YTW5fRy1NMVkxakI5N1N2U3NFaENrUNIB5gFBVV95cUxONk45MzREV3dEWmxYTkVwcFI4OXppNE1GWVd4RXJLcEgzbm1MTWNkUDF2M0xrc3lyQnlvVDYxWmZncVQ4Z1FFS1RMMWJwSVhLZkZOSXQ4TmNWZk9wZVppY2o1MXZMQmxwd3hkcEVCQ3UxZlUxdUNMaldzakJoUVhTQ2l1QXhUNXZkYS1rYmRVamJ6Y1FJSTJRM3N5TWhrYjRXR2drby1acmxCcDFLakVlN3oxY1R1Rk1JZndhaUc5eXBUWTZDMUc2RmJiNEstbDVpd3ZRQmpzeU9WSmRSX2hrS3k4QV9mdw?oc=5",
+        "date": "2026-08-13T14:54:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Huawei: el embajador de Estados Unidos aseguró que podría haber injerencia china en Vaca Muerta",
+        "description": "Huawei: el embajador de Estados Unidos aseguró que podría haber injerencia china en Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON2M4eGh2UVRfOGVGV2Vsd1hQb19DQVkwQ3RfcUNPb29McXZRbkJWN2FqMl9DME1pYTFCcHZBYlZYdzhJNzh1emh4ZUVXbFRNTXB3cU0xYk84aTdWaF9tcDg0VHZPTEZIc3pMOVJfRFlSMlBDRG1mbVNhMkNqMi1kUjdxNWlxenJ0aFhZSmZObWdLNV9KZ2doekQ5dGNNaV9HVmw5MGtMSUJMdDY2dWtQeldLaXVHcVR4SGE3alp0cGFiTEdJakRnRVRpWGxVSHNMMzBtang0WdIB3wFBVV95cUxQZC1KLXZVQUZBblZvS1ptUDI2Q2hQS1lWbkVURlJjOGN5dnc1eGR3Q1ZrRkRVTWRsVnVCOTBIQlNwT0VtQXlsTXE4LVRNZ3IyeVlld1JPVU0zMUpFRmJ4bnNaMkV2VEcwSVlGLW15TzhJX3NBZ05GZ0ZXS2gxeVBrR1VIb3JMOFpjZVZXby1HTGtqLWtmUzV1NC1XX3Y2VFlHZUVYVlc1bFVOWnJPYkQ4SnpoM1JZaHRsLW1qejE4WWxGLUpVa2tZS0NGdU9rY3ZtQzhubFk1d0JtWFc5UHhz?oc=5",
+        "date": "2026-08-13T18:03:02+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Estados Unidos presiona para excluir tecnología china de Vaca Muerta y analiza financiar obra estratégica",
+        "description": "Estados Unidos presiona para excluir tecnología china de Vaca Muerta y analiza financiar obra estratégica Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcDBTYmxUVXU3R0ROWHRtYWVua1dkcmRGRWVxbmZqRHB4b2Y3ZVlCN1lCWTJVZVQtNEViMFBNdEZKUmVJTmF4dnVDYmR5b3VoSFB3WmdUSzRpUWpUQklBSWdlazhjd1hHY3Y1UkVaemlfd1NaWlkxZUlTQlJpVUgxOUF3dWFKMzZWeXZ0VUplZVN6alRfMGkyNG0wUEFaRm5kMXdUTjRRbVFFbjB0Q2hZYWhCZVpCZlU3NlFKUjBaSlBXblhLaTJ4U1RIbm1iTVcxNmUtWDI2YkF4OVdCbHc?oc=5",
+        "date": "2026-08-13T13:09:47+00:00",
+        "source": "Clarin.com"
+      }
+    ]
   }
 }
