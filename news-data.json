@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-13T22:34:50Z",
+  "updated_at": "2026-08-13T23:35:08Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador",
-        "description": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWpNb1VjRmlqR3preUlaWldRdnl0aDlYRkxVQUJmZVB5NE1kYjVWYzVtRXFpSXJUSE1ocEY0WXVrRzkweDdOX3Fvdml3RUIxSGZ0NFFXelFVYVd4S1duYjdBMTJjRkJ2NkJCLXJUZjA1T0JQYXR3bTNaNVhncHJlMnFfUzQ1REhiTmtvbXNRWHhCYnNYYXpxZVFBem83UQ?oc=5",
-        "date": "2026-08-12T19:38:00+00:00",
-        "source": "Hipertextual"
-      },
       {
         "title": "Microsoft reduce su presencia en China",
         "description": "Microsoft reduce su presencia en China Infobae",
@@ -24,6 +17,13 @@
         "source": "Clarin.com"
       },
       {
+        "title": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA",
+        "description": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVItXzd3UGR5bnlKWTFWMFJyTDFaOXBwMVFvY0hhUUZwVlJRUE92bFRGSFNMVl84d0NHVURLMlozdHMwN3dWYk5zYXVQOG5YQllsT2xHdWJ2MGVqQWZ5U0JWejY4TW5aOHBZZTNxcmIteUhwNFV1VUdETFA4aE1GTUtmNjZ3V01jSWljOXN3bTBNdnEzRG41Uk9LOVcyR3FQVERhMG1KZzF0aFdYMmdQTDFFeTJScm1jVUpsUnFxa0tZaHFfbFh6QjBybXdjQXFnRUx6SdIB2gFBVV95cUxObi1HR1JBS2s4cTBnaUh3RDVhTWNVTThEa1hldFAtLXlfT3dIaEdJZWZES0tQYnhVeVlEWW1fU3FyWTFQcW1vSnlxZVVKUFl6YjJzMDc0S1NOTW0yLWlQMFA5SXlrbnBRYTMtVDkzZUkxVzVFSGVWbXVaMXdmclBTcEwtRnJxb2JyYXI5aXhVQmVyN3ZRZll5X3NlNV9Fc0tneXEyQmhGTDctX2FxZ3ZFNWdzaHlJdndXdmJrYi1zSWpPNWtLVHgyVmZIYnJuNVV5SG0xS2M4b1hEZw?oc=5",
+        "date": "2026-08-13T12:18:00+00:00",
+        "source": "Ambito"
+      },
+      {
         "title": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país",
         "description": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país El Cronista",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObWVlZGRfUGJ5OHJyNW9jREtuQ2lyQklLMHAyYmc5WEl5T2xzbnBjTG8zRXVrTWRZRW1YVXZZTlpyU1ZMWGI3eV9zdmk2Qll1R3VkRzRPYjhfcUktSDk3bEIyb3NsYS1mVlBYWkZncWRlYms1YUlNOGlHVjBTb3Fxc2JyR0NVNVA4OHJ4YTN3WGRBWnpvNlRzREt6UTAyU0ZEbkx4YW9kdWxxZGpRWVVLZXNOU1NoN3hTRWxTRWtSSHlKQVBZdnBWSEptbllOU3hWT1pYTVVsRXg4aFV3OXphSlhlWjdmYXRZVUxwcGVfSGJLV2JXUjBlckhKX1JiSkdt0gGbAkFVX3lxTE9BcDY4WWdWczZFOF9HUlE1bUJJTkdGN09GUERSZl95WG5ma2V2clVYMjJ1blViUW5tWDZRUWN0eGQzYmN3Z2xQR0tKODhJeFhwSENXb1pZSlItdVhsd0t6NkwzaENqdFdHT1RtT0ttWmM3QjBIelJxWUUwcXRfelJLRnJ2cjFtSE9ZWEx6TnJweXpmU3Z2Y0gtR0tmUGNodzI2cXNvWTk3OVUtenpqRDlTT0p0REoxbzJtR09POHY1bUVvYzFRYjZocEl1c2xJMFcwSklpZ0lpNjliOU9qZGlTcDhKbE45STRyZGVsS284RmhzNklmNU5JYWVZd1Ryam9zSXBQM3JnX0lyd1pRaDZyOU0ta2E1UENNZEU?oc=5",
@@ -31,11 +31,11 @@
         "source": "El Cronista"
       },
       {
-        "title": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA",
-        "description": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVItXzd3UGR5bnlKWTFWMFJyTDFaOXBwMVFvY0hhUUZwVlJRUE92bFRGSFNMVl84d0NHVURLMlozdHMwN3dWYk5zYXVQOG5YQllsT2xHdWJ2MGVqQWZ5U0JWejY4TW5aOHBZZTNxcmIteUhwNFV1VUdETFA4aE1GTUtmNjZ3V01jSWljOXN3bTBNdnEzRG41Uk9LOVcyR3FQVERhMG1KZzF0aFdYMmdQTDFFeTJScm1jVUpsUnFxa0tZaHFfbFh6QjBybXdjQXFnRUx6SdIB2gFBVV95cUxObi1HR1JBS2s4cTBnaUh3RDVhTWNVTThEa1hldFAtLXlfT3dIaEdJZWZES0tQYnhVeVlEWW1fU3FyWTFQcW1vSnlxZVVKUFl6YjJzMDc0S1NOTW0yLWlQMFA5SXlrbnBRYTMtVDkzZUkxVzVFSGVWbXVaMXdmclBTcEwtRnJxb2JyYXI5aXhVQmVyN3ZRZll5X3NlNV9Fc0tneXEyQmhGTDctX2FxZ3ZFNWdzaHlJdndXdmJrYi1zSWpPNWtLVHgyVmZIYnJuNVV5SG0xS2M4b1hEZw?oc=5",
-        "date": "2026-08-13T12:18:00+00:00",
-        "source": "Ambito"
+        "title": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador",
+        "description": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWpNb1VjRmlqR3preUlaWldRdnl0aDlYRkxVQUJmZVB5NE1kYjVWYzVtRXFpSXJUSE1ocEY0WXVrRzkweDdOX3Fvdml3RUIxSGZ0NFFXelFVYVd4S1duYjdBMTJjRkJ2NkJCLXJUZjA1T0JQYXR3bTNaNVhncHJlMnFfUzQ1REhiTmtvbXNRWHhCYnNYYXpxZVFBem83UQ?oc=5",
+        "date": "2026-08-12T19:38:00+00:00",
+        "source": "Hipertextual"
       },
       {
         "title": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores",
@@ -45,11 +45,11 @@
         "source": "Diario AS"
       },
       {
-        "title": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro",
-        "description": "Ya puedes utilizar Microsoft Word 1.1 en Windows 11, si quieres, claro MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUjRGUE5wclJXVzV1X2EzdE9tN0FSSy02OEVvbEE4UF9XeGdjUkR1QUpwZDBxeVFlN3k0d2xaVTB1aDlQN2FYSGZCTjduY3E1b3BaWXBLQ2U5NjdkWlp1TTlKYmRiNTFmWWp0YWdYMGRGQVhzNFVSV1pWVC10aG45SU0wRENjNUpmY2FNcUFLcXB0V1piTXpIcklDT0ZrZExIMXFKY0ZfZGtqWVE3?oc=5",
-        "date": "2026-08-11T12:28:34+00:00",
-        "source": "MuyComputer"
+        "title": "Microsoft planea revelar el chip Maia 300 en septiembre",
+        "description": "Microsoft planea revelar el chip Maia 300 en septiembre Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYmRfZG1ucTFQWEx0NE9PS01hajhoMVpjRVhONXh2YzdwblNZWGMzaC1nb2xHTlRkdlVyeno4ekpLUUhGZGVsc29wN05ndnZiNmdkY2VjUGpLbVEzd0xaUUpYX2hjZ1NUT3h4eXVGWjIxdy0tQzh0V1hKWDl3TXBLYlhEZXVtZkpXNmZtV2gtRXBxNGRjYk5WbnNtWWtnWHZsMnhnUnNza2xuNkVSWi12Zg?oc=5",
+        "date": "2026-08-10T13:34:00+00:00",
+        "source": "Investing.com España"
       }
     ],
     "Marketing": [
@@ -89,18 +89,18 @@
         "source": "Norte Misionero"
       },
       {
+        "title": "Colombia | Participa durante agosto en talleres y curso gratis en Inteligencia Artificial, matketing y más para tu empresa, negocio o emprendimiento en Bogotá",
+        "description": "Colombia | Participa durante agosto en talleres y curso gratis en Inteligencia Artificial, matketing y más para tu empresa, negocio o emprendimiento en Bogotá DPL News",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLV84cW5SdXd4TE5zTnR6ZjF4Um42SXBTVERVSUV2VmFXbWcxUEdqRE1GR09ZSEdGcWFKR3pGMVFISFNPRVJ5NHpkcEZsTk9MYnRUQXFWMkhvZE5lTnpmY0pucFRhdHpoa200SUZMdWRSdDItUXhwaUtENU5famlIZHpFeFp4bjQzMlRrcVhTWHBlQU1nYTluWG15Sy1pY3IxeGRBRUMyS21aLWp0MTFTRDBaakpER2FYTUsxWkVtZElUWlR2MlpFNUV1RllfcDM3ZzRIUFV0WTRuSEpxWkVyMkUxaGZpTE1Za0ZULUFGX2hELXE3NjNUNkFuQnJjXzZtLXo1Wlpn?oc=5",
+        "date": "2026-08-13T15:41:00+00:00",
+        "source": "DPL News"
+      },
+      {
         "title": "Futuro digital inclusivo: lanzan capacitación en redes y marketing para personas con discapacidad",
         "description": "Futuro digital inclusivo: lanzan capacitación en redes y marketing para personas con discapacidad Radio Facundo Quiroga",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmV6NlFNWDcyOVh0eHpfOGVJeEhKZktDc01HYjF4VXdSN0xQbThGeXVtZW9kZURPSElqdEVobWliR1dFMlFFeTV1M0VsYU1xcFdSM3FKT1pvbnpaLWgtcENkSGowMHpuOS10TmtuVWJGaFViTGMxUnI2U3Q0b0dHRmU0b0FVb1IwQU9YVmRqS21wQWp0c0hSaUlpZUFMWGxHVXpZWTVscUhoczRaaC05NEIxeXo0VjhkNGFJd0NFX1NKdw?oc=5",
         "date": "2026-08-12T20:04:03+00:00",
         "source": "Radio Facundo Quiroga"
-      },
-      {
-        "title": "La batalla silenciosa que redefinirá la publicidad digital: \"Recommendation Equity\"",
-        "description": "La batalla silenciosa que redefinirá la publicidad digital: \"Recommendation Equity\" TotalMedios",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzR6azZCWDR4eHFSTXVnT2M4dFpOZS1WVTUxSzFSaVVJOU1rdUZ2VVpLZFNPS3dGdzRQR21hT2RzeWUtU1RWV1ZuTTJzdkZ2ZEp1eVpHajlQTmdWMXYweUlIRFNsQXdOeDgzano1VXZVdXJRcVBqOXVIRVhwX2tUQzBkLTROVFlpNzlJNlZHT0hyaEtBcUJZeUdUTlBzUklKVU16VE4xWnA0VE1tNDJ0a0NzcjVMeFM0NFdB?oc=5",
-        "date": "2026-08-11T03:00:00+00:00",
-        "source": "TotalMedios"
       }
     ],
     "IA": [
@@ -110,6 +110,20 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQXpFdVFQZnNicDdsZkVqRko0aVZmX2d5V1Z1NFVCVW5HdFo4djBYeU9IeERUXzdIWGhZMGFxWHNDcVFFNDdPX2ZJZjU3ZlJjTlZ2QXdUXzk2ODE1YWxGVzJLMGd3dG5DMFd2S0NZcVotbnpyc0l5dEh3dVNabDc0YlBaeWphMzM5Uk5WQnpVWXctNDRoWFZicDZJYURTbGhiSmx0VTgwTWlPUTRrS1pzZ0hQaHRCbnF1RWfSAcIBQVVfeXFMTVctTWE3Vk1WT3A1X2RkWkMwWEswejYtc3dialNmTHZCQkF1THlXdno4ckNpRkdNaXpQd3JGMXd5YUlreXUyN3BkTHpSc2MzSERHdnVDZzgzN2ZTSDZ0WGlzV0hnT2JIR18wTENXdVRVeUFoV2Jzd1QxdlhNRGo2cW1RaVZRS1JmMEEydE1IcXUxX2VNejdTVUxGNEZMNEVCdzJmOGZjQ2EzNXpqQWVoN1Nab090eWxubDNwNkkwbEV4SFE?oc=5",
         "date": "2026-08-12T17:00:00+00:00",
         "source": "Indie Hoy"
+      },
+      {
+        "title": "Anthropic estaría en conversaciones para comprar la startup Decart por US$6.000 millones",
+        "description": "Anthropic estaría en conversaciones para comprar la startup Decart por US$6.000 millones Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMXBBTDhVM3cyalBYUjdxMFJPeTg5MFZzaURObzdNSTk0ZGRQcW9BTFFmWVhjcF9Sd0tKbTVwcUE1NldubkZWdFZNdzJGbjJwVFNHUFU0bnZlM25WWTFabElqOVdyNnVKemlBWjdtOFlJdnlDWnBiZm1ZNjZDOE9MU2pscGdWQzkwYVgtaHJfd2pYMmtkNHVodlJDUnFUbUNtZnlIWWVPa2lVUTRhc1B4UUk1cnI0MXJLaVJ5cnZ4REN2dXRob1drR0VYdlo3dkpIQVZN0gHYAUFVX3lxTE5LOUdidDlMbnBJbnpYNW1PeldkbXVtdVJZdmw3UzZwOWpkcE5MRG11Q3RrTnB6WnNhUzNIQ3cwZmt2clRaczd6SmlZak55TjFhMTR0MU9ZbnNFT1M5NXBtWVNjWFk1bnhFdGVfWVlWMndNM1NqT2p1am1INlE4S0ZRcExpQlJwTUpvSlFaZU81bFYtY2RyejJ6bGtaQVBsS1pMd3hfZnd0Q3NjZVZYNGQ1NDJJeFVDcXJYN3FyelZ1dm5tWnUwX1pHc2QxX2VGaWUzNUdvQzliLQ?oc=5",
+        "date": "2026-08-13T22:40:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Google presentó Gemini 3.7 Flash, su nuevo modelo de IA enfocado en programación y agentes",
+        "description": "Google presentó Gemini 3.7 Flash, su nuevo modelo de IA enfocado en programación y agentes La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFlpT0VHemZnYzJZRFBHSWRXNDhUY0p3NjZINlpZdHpsbWxwbFRENWM2bUZBYWRNUFZVbU42WWFOeU0yU2VQYTVCdVRnaHVabWdKQ1JkdXRlTm4wX2p1anVsZFpueVRvSGJDdURNbmtTOWF1S3VmdkdwcEQ3cXBDOElaeXlBMXRSNlVhdXpUaHQ1TnFKbTNJc3VyUks5QUI1YThwZzloLTJLQUYtOHV6Qno5NHRGd1hZUDVwNFZLajdvWkVRX1hiLUJMdw?oc=5",
+        "date": "2026-08-13T23:08:32+00:00",
+        "source": "La Voz del Interior"
       },
       {
         "title": "La última trampa de la inteligencia artificial",
@@ -138,23 +152,16 @@
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVBLSUs3bXhEaFZNd0tJdnRLWXM5SzNzSm5YaF9QcmRCLTB1ZGRyMEV3NXU1NW83cW8xUDdwdHNLZXEtaHo0WTNCZVZjVGxHa0VscHVNcDNIaG1JaGlRendTbDJwSlNUcUUxdzFndzVWNU1jOTZmWUFOTVZyZkhDcF9CQU4xWVYyNUpLME9jaWdCOXc3M1QtTzZFVUxlSDkwcHVNMTBGV1B5Q1g3MDNPSWk0aUpra2daMl9HcUpIUXRud3ZaQzM4MzFYNU5ZMDcxSHVtTEx0eDMweGhWa3VzcGFYZ0gzLXJxZVHSAYQCQVVfeXFMUGpQNkhtTG9ucmIzNEFHRVBhSzZBai1LRjdzX2dnSHk1aTRHR2hZM1ZwMEtydDJ0ZGhRS05QNjAtZUI4TTEyRHR2STZNZFMwaDJuWmZfeDh3VkpCTkMwOHllQkJZVTB4T0tRSy0tcHhjLXB2c3U4UVVmNDdVbXZidXNudXFRM0NQRmctMWp2VVdXZXlpN3FrS2EzTHBfMUJUUEpOQnI4TUhXM0Joc3pjLUk2aVl4VDBDLVpVYXJzQnFvcWZDeXdYMFNDbEVtWjF2S3duakFfX3piU0d6NVBGWHp1Y0o4UmxldXB1OTNoODRiR0pOd0FkX3BkOGhveFZUdWROSmI?oc=5",
         "date": "2026-08-13T14:09:43+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "La Universidad del Aconcagua presenta una guía institucional para el uso responsable de la inteligencia artificial",
-        "description": "La Universidad del Aconcagua presenta una guía institucional para el uso responsable de la inteligencia artificial Universidades Hoy",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM1ZZclVqb3ByaE9maWdZS2loV2JSM3AtMHR1dVJPZlB6ODVId3BsdEFtVzU1NERMWnlZaktBXzJjQU5sNFBtTWJCb0RXcEFiVkxDRVRKbkpSVDdSeFVMNFpsVU8yOVJVZVBnTklQTVdyNXJzbnJlZmRuSjJsREM1YklEVVlhS0prSmtZYl9fRTIxcHVVWVQ2M3lXXzZ1THhaNnBDM2Q0WDJTb210eXJ2S0dGem9JYzVnaW90NGoyNS1jdHMtaGRFSU1UdlhwdUVXc09JT3hqakIxaTR6SVhEc0tMWHNnaE8yRm8zNWk3dw?oc=5",
-        "date": "2026-08-13T04:19:33+00:00",
-        "source": "Universidades Hoy"
-      },
-      {
-        "title": "El boom de la IA llegó a los bancos: qué están haciendo y cuál es el principal temor",
-        "description": "El boom de la IA llegó a los bancos: qué están haciendo y cuál es el principal temor La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd1dYQUtQTG00bm9WOUU3WGhCUUpoZk1qdDNvZ2M1czUtZk5YU3pWTW5LOGZDYzVMUnFUai1sUnY4Nk9ac0x3ZDd2QnRHZjZYUTlRRGNjZnJtMERzTXVKTVR1T04wZHhTNDJ2QUZMMWdsS2ZaMjNwYjhQbVUwb0Y3SkNMM1VUVEIwZjVKalVOaDZYd3I2WWZxSzJUR2FsVktMbGhfb1F2TXVzSF9uMUNiV212YUxYWHo3VGkwVTAzMDFIbDZ6d05jOWRQSV9iclZ5?oc=5",
-        "date": "2026-08-13T19:08:00+00:00",
-        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Adjudicaron los servicios para el campamento del Vaca Muerta Oil Sur en Río Negro",
+        "description": "Adjudicaron los servicios para el campamento del Vaca Muerta Oil Sur en Río Negro Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnVfX1BGWGJVVjVEVkwwTjRxOW4wQTFZMVMyUG5UNXdKMXBFM2lJSkQ0Y0lNcGs5anF3NGR3d0dfRFU0S3FndzF0QzZwLVh2STVTWEVyUEJnR3FXRVhCdXdkTWlHTklMRHBMNXVqRmMzSlFfV3g4b1RwZ256ZE45SWlhMENoWUlQZ2pMMUp0RGVnMjVrbWsyYlY2V1lMMElvZndYX254bWdkU3B3d2RXandzd2pScEdNUVJRT1Z30gHDAUFVX3lxTE1UQmtPQmFJSTdzME0yWDdYamFXMnpLVkR6QkZmZXQ5UkpHcTJWZ1dMUmNSLXQ0dGZ6MHdHRHVQM2xEWWNaRUZFdldjdjVhS1B5azFxaGhqYkFjRDNrNjBfTFBUQlJrVzM3c0hhNUhYWHRsQXRIV2ZiWU1SQ0Jqa3NYVXQya0JkTmRMd0h6dGROeDVxZ2xKYkQ2Q2hlUzZrb1NFcG1acUxrQmR6SW9pQ2E4RU9hbEVBWnkwVEg5b0R1bXBxRQ?oc=5",
+        "date": "2026-08-12T14:35:00+00:00",
+        "source": "Lmneuquen.com"
+      },
       {
         "title": "Recalcularon Vaca Muerta: estiman más de 30.000 millones de barriles, casi el doble de lo que se creía",
         "description": "Recalcularon Vaca Muerta: estiman más de 30.000 millones de barriles, casi el doble de lo que se creía Ambito",
@@ -177,13 +184,6 @@
         "source": "La Nación"
       },
       {
-        "title": "Adjudicaron los servicios para el campamento del Vaca Muerta Oil Sur en Río Negro",
-        "description": "Adjudicaron los servicios para el campamento del Vaca Muerta Oil Sur en Río Negro Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYnVfX1BGWGJVVjVEVkwwTjRxOW4wQTFZMVMyUG5UNXdKMXBFM2lJSkQ0Y0lNcGs5anF3NGR3d0dfRFU0S3FndzF0QzZwLVh2STVTWEVyUEJnR3FXRVhCdXdkTWlHTklMRHBMNXVqRmMzSlFfV3g4b1RwZ256ZE45SWlhMENoWUlQZ2pMMUp0RGVnMjVrbWsyYlY2V1lMMElvZndYX254bWdkU3B3d2RXandzd2pScEdNUVJRT1Z30gHDAUFVX3lxTE1UQmtPQmFJSTdzME0yWDdYamFXMnpLVkR6QkZmZXQ5UkpHcTJWZ1dMUmNSLXQ0dGZ6MHdHRHVQM2xEWWNaRUZFdldjdjVhS1B5azFxaGhqYkFjRDNrNjBfTFBUQlJrVzM3c0hhNUhYWHRsQXRIV2ZiWU1SQ0Jqa3NYVXQya0JkTmRMd0h6dGROeDVxZ2xKYkQ2Q2hlUzZrb1NFcG1acUxrQmR6SW9pQ2E4RU9hbEVBWnkwVEg5b0R1bXBxRQ?oc=5",
-        "date": "2026-08-12T14:35:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
         "title": "Estados Unidos presiona para excluir tecnología china de Vaca Muerta y analiza financiar obra estratégica",
         "description": "Estados Unidos presiona para excluir tecnología china de Vaca Muerta y analiza financiar obra estratégica Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcDBTYmxUVXU3R0ROWHRtYWVua1dkcmRGRWVxbmZqRHB4b2Y3ZVlCN1lCWTJVZVQtNEViMFBNdEZKUmVJTmF4dnVDYmR5b3VoSFB3WmdUSzRpUWpUQklBSWdlazhjd1hHY3Y1UkVaemlfd1NaWlkxZUlTQlJpVUgxOUF3dWFKMzZWeXZ0VUplZVN6alRfMGkyNG0wUEFaRm5kMXdUTjRRbVFFbjB0Q2hZYWhCZVpCZlU3NlFKUjBaSlBXblhLaTJ4U1RIbm1iTVcxNmUtWDI2YkF4OVdCbHc?oc=5",
@@ -191,18 +191,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "El embajador de EE.UU. cuestionó la tecnología china en Vaca Muerta: “No va a ayudar a traer inversiones”",
-        "description": "El embajador de EE.UU. cuestionó la tecnología china en Vaca Muerta: “No va a ayudar a traer inversiones” Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeGlzOVhGZFFpaHA0cHhKajRwMzNBVHo4b0hRNWZaa1JDektkLWNwY0ZxRHdQYnhCbHVwZFRmbXFPOGt5OWE1a09hSk9GZWZQWWs4THBrRkV6c1A3NHFxSi04VGQ0cVJXLUdMNVl5V1M0RnFJV2ZmZ3kxRjFhQkR5SHNnTUw0VkdEQ0FHV19pbVpmWENhcFM3Zlh3UXFsYi1KVXdGYUpqTDBoMUhUR3d5ZlJMV3JpaWVOdktueFRFeHAyRnpncDB4al9YTW5fRy1NMVkxakI5N1N2U3NFaENrUNIB5gFBVV95cUxONk45MzREV3dEWmxYTkVwcFI4OXppNE1GWVd4RXJLcEgzbm1MTWNkUDF2M0xrc3lyQnlvVDYxWmZncVQ4Z1FFS1RMMWJwSVhLZkZOSXQ4TmNWZk9wZVppY2o1MXZMQmxwd3hkcEVCQ3UxZlUxdUNMaldzakJoUVhTQ2l1QXhUNXZkYS1rYmRVamJ6Y1FJSTJRM3N5TWhrYjRXR2drby1acmxCcDFLakVlN3oxY1R1Rk1JZndhaUc5eXBUWTZDMUc2RmJiNEstbDVpd3ZRQmpzeU9WSmRSX2hrS3k4QV9mdw?oc=5",
-        "date": "2026-08-13T14:54:00+00:00",
-        "source": "Perfil"
+        "title": "Giulio Retamal de FECENE: \"Vaca Muerta no es un lugar para llegar, hacerte el valiente, bajar precio, ganar mercado y después ver qué hacemos\"",
+        "description": "Giulio Retamal de FECENE: \"Vaca Muerta no es un lugar para llegar, hacerte el valiente, bajar precio, ganar mercado y después ver qué hacemos\" econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmaWlnLUR1UThxdzRrWnlROGp1dzRYdGw0MHF5VFpKb082RGRwR0N3SmE4YV9salVCeEFDTGxhZnZxa3dNSGxGQ0JMb0s5bU5weDBSSURrY3BHY0pRMUtDajQ4MFloVWxIWVFGOWxPWmdDWktxRVpOek1FTWo?oc=5",
+        "date": "2026-08-12T22:50:07+00:00",
+        "source": "econojournal.com.ar"
       },
       {
-        "title": "Estados Unidos exige el control de Vaca Muerta y limitar la presencia de empresas chinas",
-        "description": "Estados Unidos exige el control de Vaca Muerta y limitar la presencia de empresas chinas La Nueva Mañana",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG1ObUh6VFhkV3FRWUlnUWh3LVo5YzlLQ1YtbGRqVjBDODMtcWF4cXF3endTWERRbkRWNVR2MkxUaXVpS2hwQW01X3Rld1dtV3FTbnBFNzR5YUR3VzF5WGZyZXdYdHg5dUxfSE54bE54elRSRVpBaEVpNVk4aDJLRFhRV2JZOFJTQUcyVkJLdnBIb1lkbTV6MG1tZGhzRDhBMFpoU0FxNWw2ZkFsX0w0SWI3c0ROS3B3bXQtUU5n0gG2AUFVX3lxTFBrTy1BSVR6dG5VdTN4TXdCb2RHRWtveW9pSWMzbmx6cnlFdjNBc3c1ZXkzM1FaTnR6a0dOME5vTjRXcDBoTDJKQlRuRFhmcVl6TFY5X3FsTmZ2QUZNb1gxbnVuSnZydl9GUUt3SW1yTnBXdG9ONGE3MlQxenh4OEtkSDlUWkVIQXFMdU5TSkc0TDJnM1o0b2U3bklzUHVxWHBDdndLcGFaRjBhZFFla1E4eEpmSTBB?oc=5",
-        "date": "2026-08-13T18:56:00+00:00",
-        "source": "La Nueva Mañana"
+        "title": "La inversión en Vaca Muerta mira el largo plazo más allá de las urnas aunque exige señales a la macroeconomía",
+        "description": "La inversión en Vaca Muerta mira el largo plazo más allá de las urnas aunque exige señales a la macroeconomía Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLVZEWUFzcUNUWk9GZ2oyYlotZTFkRXhBNDZpYlJHZTFreXQ5T0tucGtOcFpCLVdfcnZxZTYteW5QWkhjN2xuclhzdUhCT3g0U2VYeGFGNVVhem5jWWd5ZFBHNF9LRXROSzd0SlBwOEY2M0Q3SFZjRTloQVduU0t6ejlzX3lmcENReFlyRi0zYjQwbmZseDhWQmFNcWNPUk54N0kzUURjd1dvRmktYlcxLXFRTEJLeFdqNXgxWkNKdFZxZWtxV0NlYnJfSVp5Y1N6dERZUmhsUk0zRnhiV1p6a2gyMEVVNG5kNXZ0d9IB8gFBVV95cUxNUm5pUnRuNnc3ODRHM0preHd1Y2hWRTJnNzFlTXRzZTB0ZjVyV0IxVTU2OWpZd2tRa0pPbkFZTXIwSG9TR0FwWmF1a1RrdDJUb0NpOEpEQkZVQWFlU1FNUU9qS0J2OGljS0tJWE9BQl9fdGoyTXFZZS11amt0ZG9XMHduUjJkSEt0SDgyWHViY1JzNHFReWFFMXdZWUZWaGc5ZERtSlFuOTNzMHVTZlJWTzhINlM3c1E1dWpKWlNTS29oY2UtVHVuMWpySTdENG9lbDR5aGJBQUNvQ1U4TWp6TTIxT2tta0hHazRFdVI1Y291QQ?oc=5",
+        "date": "2026-08-13T08:30:00+00:00",
+        "source": "Perfil"
       }
     ]
   }
