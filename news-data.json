@@ -1,20 +1,41 @@
 {
-  "updated_at": "2026-08-13T09:57:46Z",
+  "updated_at": "2026-08-13T11:00:57Z",
   "categories": {
     "Microsoft": [
       {
+        "title": "Microsoft responde al aumento de precios de hardware: ahora sus licencias de Windows son más caras",
+        "description": "Microsoft responde al aumento de precios de hardware: ahora sus licencias de Windows son más caras Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjRObFhtSUxNZHA1cTFHU2xIbG4waGVicl85MHhJaTNIM3N2aG9UTkIyWGFfY2kybWRlaHFEb19JdTR5TUpHbmZXbktNWERKa19UYXJhTF9FVzZfYjgzWlh3ZXgzQkJ5OW5NMlBDUXFrTkpPWnczNU5lTk1lTEplWFg0NlIxUmRfaEhqZE90UWhTOHNJTHRpXzhyaTA4dXBTZS1OcFNXMm5zQW4wNDU0TW1UOUZLWkhlVVRnZ3VNdzR5Wk53QXl6U2hoQnBZbVlfN2NSbEtR0gHwAUFVX3lxTE5tX3lTWU16MVRfVnJsQ19fYU9icVJOZ0VGc1E2MEx3ajVtcVk5dUp5Rm5xU0M1U0JvMmJNN0ZEWmRvT0pOMmhLMVZSeDZHdXk2WTc4Q0M5c1VRZzIwTjN4WmRlZzVyTmNSamU3YWtkWHFGUjN2MXQ0ZlJYRjJvemdGN3ZDTk9XWjJvYm03RVdxNmNweWVVZU4takJDaTBPMUREMkFGX043THcyVlN6RXJ4Q0lENEhvS3RadkZEOFZPZW05Ui1aaHpXbGlKOVhidWVFSldVWkczcnUySVhrUnQ5SGJpa2xXQjl3UzMwWEp1Tw?oc=5",
+        "date": "2026-08-12T00:06:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador",
+        "description": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWpNb1VjRmlqR3preUlaWldRdnl0aDlYRkxVQUJmZVB5NE1kYjVWYzVtRXFpSXJUSE1ocEY0WXVrRzkweDdOX3Fvdml3RUIxSGZ0NFFXelFVYVd4S1duYjdBMTJjRkJ2NkJCLXJUZjA1T0JQYXR3bTNaNVhncHJlMnFfUzQ1REhiTmtvbXNRWHhCYnNYYXpxZVFBem83UQ?oc=5",
+        "date": "2026-08-12T19:38:00+00:00",
+        "source": "Hipertextual"
+      },
+      {
+        "title": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11",
+        "description": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11 as.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdyTEpBQk5pSnRkcVpmVnlFRHRmeVk1Yy1qZUpNdWxjeFVvMGpyWWFjaXdudFZBNERXckZxcEpuc0lXS1Ayb2tMUFZVZ0FsRldqUHVmeVFaUFpDS0psUThma2thWVpiZ0RMakl0SlVEZXQ2akViWDRrTmlQQkdIcTc1a2VXTHlEMDNxMkxTa25XU0tIeVdadG1PbWQwcjVvaVhJZ2lZVGNfQ2t0blJwOXhuYjRvRlFDaTFNQ2FsaG9KRk4xMW1VWnVJb9IB3wFBVV95cUxNM1JxNXl1LW5oZ2xqaFRLd0ZtSE9mOFl1d2JfNHlyMjJibDNxZFFEaERCRFVGNThWT2lsTERUTmplUkh6RjBCSFJZT3ZYN2E0RmlCLW96WElkZVpTbGNCWmY3ZU1SM20zb21RYk1qWHJvdHRyX0ZLUUdQbHZqdUhlc2NvSVE2dWNBVTFuWnFrQ2xBQkNZUk8xVlVseE9Lam9Yc0ExNkE5ejBKZGs1N2JYNlotdUF4NkxJZ0tiTFIzNm5jVkViUjRJdDI3Ny1CemtENE1PWkE5dTRURkF2c1lR?oc=5",
+        "date": "2026-08-10T15:15:07+00:00",
+        "source": "as.com"
+      },
+      {
         "title": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft",
-        "description": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft clarin.com",
+        "description": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXdQbnRhcXVQbV84TV9PbFFiWFNpeWtYTW9Sa0NlQ3VVLWotLWFHbmtkazNqdW8xN240dU1sS2NDUmlZZVN3X0E4cy1vQkFOcXhVc3BmcWo1NTR2VVVDRDIxVmVnbFRSbTJiYUFzSkxiUWhUM2swSkxobE5zMEVOU1J4YXBvaTVGLTFYLUROa0FDblVMdzNrMktzSHN4cjhyVzU2Y1hkQkZwT2JGdHc1RTZBQ2hLQmhOOU02YW85Uk1WMXlZUDZtNXZnQ1FqZ9IB0wFBVV95cUxPLUlCZGx3TXZ0ZkNnWWpGY1BNVzgtTWpfRndsVmsycV9jNHBPQjJIaHhhNmYyMnVJeEVYWnZQT1ExZlhJV3E5MlRaT3ZPbGVjTmFrMlItS3hCQkhyMkVuaWN6eFVPSWdQdHBFcDAzTnhaOHZLQzVhRnhGLWI0TXA0UDBvY2dXVnFPTUFmdWJEVXB6OTdHMUVUdGVtZFVpaEpieHdLU2pYNXFGQmVoelhaTTIzSnlLOTRnS0otUE1BX2RrdllrdDRJa2JmeEtWTnA2WEt3?oc=5",
         "date": "2026-08-12T09:00:16+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
       },
       {
         "title": "Qué hacen los hijos de Bill Gates, el fundador de Microsoft que solo les dejará menos del 1% de herencia",
-        "description": "Qué hacen los hijos de Bill Gates, el fundador de Microsoft que solo les dejará menos del 1% de herencia infobae.com",
+        "description": "Qué hacen los hijos de Bill Gates, el fundador de Microsoft que solo les dejará menos del 1% de herencia Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3h4SkFoOUJWMTZha2NHTk9tM0RUVEtoZk5ZcjRqeTNrc1d1TWFNTDRjVURBMUl2eFBfVEdqaWJ0c2ItWVdUcW1qRUx4LTdXZjgxekpldXpNeWRVWXVjSjh0NWtOMFg4UVo2TjVyN0xZT0FWVnVIYlpBcTJLS2tDWFJDY1VrOGhWV1hPYUxzbVlWMG9LX1Y5UlM0VVVNZ19NcGJob29BOGMxckNRSDVzazA0NGdFc1R3bWRONzR6UFRvM0ZxQkM5NEpZTHRYdVI1eW1JSHd3Y2lja1ZB0gH3AUFVX3lxTE1obXY3WmxRbnlPQUNXTjN4NDk3YW8zS1Y1YVNqNURPRUN0UGRRcFBJX0FFVWR6Y0dNMFdmbjIyUnZnQy1lSVNYOWF0RjVYZjc3cXItaTFRMHZrQTM0RFlFcVBpZktkckZEVFhHTnVJNmJLbldWUFZBMU4zbkIxU1ROaUVqNm8yQkp0TXg3UlBWdFhBRUFXVW5RMy0tWVBZRkxGQThFak5NNzg1dmwzeFJqZjVoY1NlVFUxaklqem45SEk1QVlQd2NmVnRpQTNYQ04xMDUtZS1fRExyNmtYRWxNWW9aa2cwbmNiX1l1VDJsQWpQOUlfQ1U?oc=5",
         "date": "2026-08-13T03:57:00+00:00",
-        "source": "infobae.com"
+        "source": "Infobae"
       },
       {
         "title": "Histórico relevo: Ivonne Mejía será la primera mujer en liderar Microsoft México para acelerar la era de la IA en el país",
@@ -24,32 +45,11 @@
         "source": "El Cronista"
       },
       {
-        "title": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores",
-        "description": "Xbox tendrá por fin su propio trofeo de platino: Microsoft confirma la función más pedida por los jugadores Diario AS",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaTJCaU9seEE0Si1hVFBSa0ZVc05xNThXR2RweFJsZngwWm54aXM5cnZxN1dFWnAyckNzLVlzdEJrRFA1U2lDM0lBVFNfdVV0dDM3VW1mWnBzajRpbDEwb0xQZFlFVXZmZG1BQmNCemVXTzAyZG5FUXpoeHFPY1JwYWxQYmlyY0dqQjlSOFRndDdXVDEyZ3ZjNlcyOUN6bjA2MXNRRFBqYUZnX2Fmczd5TGFFa2xZU1JQNmgtTldOWlRaem1KdzE2Z0RaZHN0QUgtVnRHZDNEOFk2N1k3ZUk5MFFJZjl0VGJa0gH8AUFVX3lxTE8zelBLdmk0dUd3WUROWTJhalBndUhsQ2E1a3lMc0lrdzJjaHJHSms0UmtpcDY5SjNST3pfR3l4dzBSOFlUOUtlRGRPaEZtaEJQQ0hlTTZDaXdtSXpJWDVRTVFYOGdIZVNHSHNQOVBkNWlmZkdldFF0WEd3cWppblNEMl9hcGFCUmNOajMtaDdDTjVxdHI2U2RXVVlXeXpSd0RBNS1jOHAyR3RqZ3BLZGZtOFVSa0hjVExzMEpSWFRrUmhJcFhtTUxxRUFEZS1LZjF2Y0VNV2FULTFCOUFvSG1IaENscUVtUFU4SkluYXZjWFZZd1hoNDV2RUw2Ug?oc=5",
-        "date": "2026-08-11T12:00:06+00:00",
-        "source": "Diario AS"
-      },
-      {
         "title": "Microsoft Edge prepara el fin de uBlock Origin por la transición a Manifest V3",
-        "description": "Microsoft Edge prepara el fin de uBlock Origin por la transición a Manifest V3 es.digitaltrends.com",
+        "description": "Microsoft Edge prepara el fin de uBlock Origin por la transición a Manifest V3 Digital Trends Español",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkhHaEZSZ2dnQVYxZU5FME93R3BhZWpJSFViT2pEMml0QWtVelJld1hNcDBfSjQ1MmswbWNKdWJzaWRpbFBxM2N1Rl9FUUxSdFR2NnJ2Qldhejd5M19ZY3lqZzlHSG9FRFJ0ZjFiS1VsOTQwX0JkSkJSR2hIT0tBdnhVbkR1ZnZYd0xWSGdoSUlSSVdlTkI2YU1LZndUZzQzOFMtYlFZTmppOHFhTnVKS1RndlRPRU5CVUozd2dR?oc=5",
         "date": "2026-08-12T18:03:44+00:00",
-        "source": "es.digitaltrends.com"
-      },
-      {
-        "title": "Microsoft responde al aumento de precios de hardware: ahora sus licencias de Windows son más caras",
-        "description": "Microsoft responde al aumento de precios de hardware: ahora sus licencias de Windows son más caras infobae.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjRObFhtSUxNZHA1cTFHU2xIbG4waGVicl85MHhJaTNIM3N2aG9UTkIyWGFfY2kybWRlaHFEb19JdTR5TUpHbmZXbktNWERKa19UYXJhTF9FVzZfYjgzWlh3ZXgzQkJ5OW5NMlBDUXFrTkpPWnczNU5lTk1lTEplWFg0NlIxUmRfaEhqZE90UWhTOHNJTHRpXzhyaTA4dXBTZS1OcFNXMm5zQW4wNDU0TW1UOUZLWkhlVVRnZ3VNdzR5Wk53QXl6U2hoQnBZbVlfN2NSbEtR0gHwAUFVX3lxTE5tX3lTWU16MVRfVnJsQ19fYU9icVJOZ0VGc1E2MEx3ajVtcVk5dUp5Rm5xU0M1U0JvMmJNN0ZEWmRvT0pOMmhLMVZSeDZHdXk2WTc4Q0M5c1VRZzIwTjN4WmRlZzVyTmNSamU3YWtkWHFGUjN2MXQ0ZlJYRjJvemdGN3ZDTk9XWjJvYm03RVdxNmNweWVVZU4takJDaTBPMUREMkFGX043THcyVlN6RXJ4Q0lENEhvS3RadkZEOFZPZW05Ui1aaHpXbGlKOVhidWVFSldVWkczcnUySVhrUnQ5SGJpa2xXQjl3UzMwWEp1Tw?oc=5",
-        "date": "2026-08-12T00:06:00+00:00",
-        "source": "infobae.com"
-      },
-      {
-        "title": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11",
-        "description": "Microsoft da marcha atrás y elimina una de sus mayores recomendaciones para Windows 11 Diario AS",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdyTEpBQk5pSnRkcVpmVnlFRHRmeVk1Yy1qZUpNdWxjeFVvMGpyWWFjaXdudFZBNERXckZxcEpuc0lXS1Ayb2tMUFZVZ0FsRldqUHVmeVFaUFpDS0psUThma2thWVpiZ0RMakl0SlVEZXQ2akViWDRrTmlQQkdIcTc1a2VXTHlEMDNxMkxTa25XU0tIeVdadG1PbWQwcjVvaVhJZ2lZVGNfQ2t0blJwOXhuYjRvRlFDaTFNQ2FsaG9KRk4xMW1VWnVJb9IB3wFBVV95cUxNM1JxNXl1LW5oZ2xqaFRLd0ZtSE9mOFl1d2JfNHlyMjJibDNxZFFEaERCRFVGNThWT2lsTERUTmplUkh6RjBCSFJZT3ZYN2E0RmlCLW96WElkZVpTbGNCWmY3ZU1SM20zb21RYk1qWHJvdHRyX0ZLUUdQbHZqdUhlc2NvSVE2dWNBVTFuWnFrQ2xBQkNZUk8xVlVseE9Lam9Yc0ExNkE5ejBKZGs1N2JYNlotdUF4NkxJZ0tiTFIzNm5jVkViUjRJdDI3Ny1CemtENE1PWkE5dTRURkF2c1lR?oc=5",
-        "date": "2026-08-10T15:15:07+00:00",
-        "source": "Diario AS"
+        "source": "Digital Trends Español"
       }
     ],
     "Marketing": [
@@ -112,18 +112,18 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Santilli designó a Adriana Baravalle como secretaria de Innovación, Ciencia y Tecnología",
-        "description": "Santilli designó a Adriana Baravalle como secretaria de Innovación, Ciencia y Tecnología tn.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVDhJME5QOFlsSWZxS1pJNnB5SDRzZUNHekl3SWJkNDJIQU9yQm9nYWlCcjRfN3V6NUJrazVsZzNmSUtYVjBlN0dGY0lyVEhPRFBiSjVId1RGZU1FTHFOamhlYjJ3d01oaExweTRta1R5SEVRaDlXVXAwRTlHcDRMSzdzY1VUa2xNdDR6Unc4Sk1OOTA4QWpXS0d2NUZQTS1nVlZGR0RrWjhxU0VlWElWUkpMT2RZYXZCMTExUXIzU3Fqak9z0gHYAUFVX3lxTE5sRklFd3hldVNSSjJkMGRFZkVhME1uNHRZS1JVZnY1WnpxWUJVNGZETzVZeDF0U3BlVU1OV3MyejZ2SVZqYWpQVHlEbC1JdnpLUUsyZ3N4clN0YzRsempWcDJoaFNua2xnckFHb20xRzdrWG9zekRQUVFRbm03dzZtMW8tekM2bnNLRTVTUXptQmJVcUpWbHpfYUtsUGYtMWJlS2tLVTd6UVhaV2pTTzVkVE40OWNNREdaV2Y1SlIxZXNfZUQ2UmhFT0FWeV9QVHVMRG5HZTFmRw?oc=5",
-        "date": "2026-08-13T04:36:25+00:00",
-        "source": "tn.com.ar"
+        "title": "Inteligencia artificial: te amo, te odio...",
+        "description": "Inteligencia artificial: te amo, te odio... Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWwxYjdudUNBb0JRcy10OXh1aEFEWjZHeGRaNEYwVERwbWRBUUVZNHJadmk1eG9qMDNOMVFXNlBva3NYLW84bDF5ZGJiSkpXVlNlQnV6N3FYWWlJMDg5b2lJeUZPN3FLTmpYdWxJVTJQLUczNkk1NUJIOTNJZHNvaGZsXzB4ZERVeFHSAaQBQVVfeXFMUFFpd1J2eUlkQzdEX09QLVI0Z2N4TFo1Q1lBYmpTX1cyZThtd2oxaV9ISm1wXzBpU0U1N2FoelZsRmEybXMyMV9Md2tUNVVrS3NjUlp4VnVPMHgzc1JNc2d3Vkl2ZHVSMnVIM0FSWm5jRGpwVmtvOXFJY3M0dTRCdldJV0w5VXFXQy12ZzdKU3l6OG9wODNqQk9sT0RNZU9UZXFaNmY?oc=5",
+        "date": "2026-08-13T07:22:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Inteligencia artificial: te amo, te odio...",
-        "description": "Inteligencia artificial: te amo, te odio... infobae.com",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWwxYjdudUNBb0JRcy10OXh1aEFEWjZHeGRaNEYwVERwbWRBUUVZNHJadmk1eG9qMDNOMVFXNlBva3NYLW84bDF5ZGJiSkpXVlNlQnV6N3FYWWlJMDg5b2lJeUZPN3FLTmpYdWxJVTJQLUczNkk1NUJIOTNJZHNvaGZsXzB4ZERVeFHSAaQBQVVfeXFMUFFpd1J2eUlkQzdEX09QLVI0Z2N4TFo1Q1lBYmpTX1cyZThtd2oxaV9ISm1wXzBpU0U1N2FoelZsRmEybXMyMV9Md2tUNVVrS3NjUlp4VnVPMHgzc1JNc2d3Vkl2ZHVSMnVIM0FSWm5jRGpwVmtvOXFJY3M0dTRCdldJV0w5VXFXQy12ZzdKU3l6OG9wODNqQk9sT0RNZU9UZXFaNmY?oc=5",
-        "date": "2026-08-13T06:25:06+00:00",
-        "source": "infobae.com"
+        "title": "Santilli designó a Adriana Baravalle como secretaria de Innovación, Ciencia y Tecnología - TN",
+        "description": "Santilli designó a Adriana Baravalle como secretaria de Innovación, Ciencia y Tecnología TN",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVDhJME5QOFlsSWZxS1pJNnB5SDRzZUNHekl3SWJkNDJIQU9yQm9nYWlCcjRfN3V6NUJrazVsZzNmSUtYVjBlN0dGY0lyVEhPRFBiSjVId1RGZU1FTHFOamhlYjJ3d01oaExweTRta1R5SEVRaDlXVXAwRTlHcDRMSzdzY1VUa2xNdDR6Unc4Sk1OOTA4QWpXS0d2NUZQTS1nVlZGR0RrWjhxU0VlWElWUkpMT2RZYXZCMTExUXIzU3Fqak9z0gHYAUFVX3lxTE5sRklFd3hldVNSSjJkMGRFZkVhME1uNHRZS1JVZnY1WnpxWUJVNGZETzVZeDF0U3BlVU1OV3MyejZ2SVZqYWpQVHlEbC1JdnpLUUsyZ3N4clN0YzRsempWcDJoaFNua2xnckFHb20xRzdrWG9zekRQUVFRbm03dzZtMW8tekM2bnNLRTVTUXptQmJVcUpWbHpfYUtsUGYtMWJlS2tLVTd6UVhaV2pTTzVkVE40OWNNREdaV2Y1SlIxZXNfZUQ2UmhFT0FWeV9QVHVMRG5HZTFmRw?oc=5",
+        "date": "2026-08-13T04:36:25+00:00",
+        "source": "TN"
       },
       {
         "title": "Nuevo taller sobre inteligencia artificial",
@@ -148,25 +148,25 @@
       },
       {
         "title": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada",
-        "description": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada lanacion.com.ar",
+        "description": "Cuál es la IA que más usan los argentinos y por qué podría ser desplazada La Nación",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEVmRnluYllFb1UtN2tlbDhWU3FYWmo1TUppT1FXQUtBMG1tNXBUQWpCYWhXRG1mWmVGbEgwNkkwVkxVWUZaaURuUy01YW9CQ3M3RnFUN0V2T3AwODJfN21Tb2dyZFNlMW9tSVUyNUVxOWVvNXlWb2xhdWVvU29ldDRYVE1vY0hMUkptM1FxdzhzLWdnYzBoMS05V0NuazU0aElEbmR6dXFQTUxQZW1BM1F4NHNJLS1sVFVFaXNicWlEcnM?oc=5",
         "date": "2026-08-11T19:08:00+00:00",
-        "source": "lanacion.com.ar"
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "La inversión en Vaca Muerta mira el largo plazo más allá de las urnas aunque exige señales a la macroeconomía",
-        "description": "La inversión en Vaca Muerta mira el largo plazo más allá de las urnas aunque exige señales a la macroeconomía Perfil",
+        "description": "La inversión en Vaca Muerta mira el largo plazo más allá de las urnas aunque exige señales a la macroeconomía perfil.com",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQLVZEWUFzcUNUWk9GZ2oyYlotZTFkRXhBNDZpYlJHZTFreXQ5T0tucGtOcFpCLVdfcnZxZTYteW5QWkhjN2xuclhzdUhCT3g0U2VYeGFGNVVhem5jWWd5ZFBHNF9LRXROSzd0SlBwOEY2M0Q3SFZjRTloQVduU0t6ejlzX3lmcENReFlyRi0zYjQwbmZseDhWQmFNcWNPUk54N0kzUURjd1dvRmktYlcxLXFRTEJLeFdqNXgxWkNKdFZxZWtxV0NlYnJfSVp5Y1N6dERZUmhsUk0zRnhiV1p6a2gyMEVVNG5kNXZ0d9IB8gFBVV95cUxNUm5pUnRuNnc3ODRHM0preHd1Y2hWRTJnNzFlTXRzZTB0ZjVyV0IxVTU2OWpZd2tRa0pPbkFZTXIwSG9TR0FwWmF1a1RrdDJUb0NpOEpEQkZVQWFlU1FNUU9qS0J2OGljS0tJWE9BQl9fdGoyTXFZZS11amt0ZG9XMHduUjJkSEt0SDgyWHViY1JzNHFReWFFMXdZWUZWaGc5ZERtSlFuOTNzMHVTZlJWTzhINlM3c1E1dWpKWlNTS29oY2UtVHVuMWpySTdENG9lbDR5aGJBQUNvQ1U4TWp6TTIxT2tta0hHazRFdVI1Y291QQ?oc=5",
         "date": "2026-08-13T08:30:00+00:00",
-        "source": "Perfil"
+        "source": "perfil.com"
       },
       {
-        "title": "Vaca Muerta: cómo es el fondo anticíclico de regalías petroleras de Neuquén que dejó de ahorrar frente a la crisis de infraestructura",
-        "description": "Vaca Muerta: cómo es el fondo anticíclico de regalías petroleras de Neuquén que dejó de ahorrar frente a la crisis de infraestructura econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkVYeVY5V0dBdmlVLTR3ZUlxbW5XQUprTUIwblFhdmJvZUxGTnQxSmMyQzEyTWc1cVlVVDhuSFE1SktXYnlmaE1iREwtQkJjQm5tcDJnWG1nSjdrMF9zYlhtTVFsZFgwMENXWFJqMFFncVpvRUVNOEtnQ29VX1lkcnpXeXVYU0R6d3daVXBxTFlFNXlZSl8ycGE5cjR1QQ?oc=5",
-        "date": "2026-08-12T13:58:10+00:00",
+        "title": "Giulio Retamal de FECENE: \"Vaca Muerta no es un lugar para llegar, hacerte el valiente, bajar precio, ganar mercado y después ver qué hacemos\"",
+        "description": "Giulio Retamal de FECENE: \"Vaca Muerta no es un lugar para llegar, hacerte el valiente, bajar precio, ganar mercado y después ver qué hacemos\" econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmaWlnLUR1UThxdzRrWnlROGp1dzRYdGw0MHF5VFpKb082RGRwR0N3SmE4YV9salVCeEFDTGxhZnZxa3dNSGxGQ0JMb0s5bU5weDBSSURrY3BHY0pRMUtDajQ4MFloVWxIWVFGOWxPWmdDWktxRVpOek1FTWo?oc=5",
+        "date": "2026-08-12T22:50:07+00:00",
         "source": "econojournal.com.ar"
       },
       {
@@ -178,10 +178,10 @@
       },
       {
         "title": "Gobernadores reclamaron obras para llevar al norte el gas de Vaca Muerta y una ley por “zonas cálidas”",
-        "description": "Gobernadores reclamaron obras para llevar al norte el gas de Vaca Muerta y una ley por “zonas cálidas” lanacion.com.ar",
+        "description": "Gobernadores reclamaron obras para llevar al norte el gas de Vaca Muerta y una ley por “zonas cálidas” La Nación",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQVk0UGk2eHdJampXQnFULWlNczZQdC03OTdIaVV5WUpCUy0xY0M0dDJ2Tjd3RTdlTk92a3c4bkZkVFhGaEIwS19vbUJWT1o4R2pOZ2VYY0R3NlZud3JJTWpPU3JPVGlMblp3bEo2UDdWMG45cURVSm11dFAwNmk0ME1RMTJjdjZlc2RtQ0JYaEN2S2RuTjJocDMwTlRZWkFOV0pyU0FtN2dDeGoyQWEzUFktOUJrRjh0REJxbG9YZ0lfVFk5?oc=5",
         "date": "2026-08-12T19:46:00+00:00",
-        "source": "lanacion.com.ar"
+        "source": "La Nación"
       },
       {
         "title": "Vaca Muerta y desalojos exprés: el combo que enfrentan las familias que alquilan",
@@ -191,18 +191,18 @@
         "source": "La Izquierda Diario"
       },
       {
-        "title": "Fertilizantes bajo la lupa: Argentina pagó USD 180 millones extra y mira a Vaca Muerta",
-        "description": "Fertilizantes bajo la lupa: Argentina pagó USD 180 millones extra y mira a Vaca Muerta infobae.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHlJNW9zWUtUVVV0SW03QmVDTGQwQVlUbWZpdXBudWM5ai1UbExYVmxlY2dSMHV4bGpuWFZwWGY0OWRpc0pRQlJfNGFhY2FEcGk2ZzRIWHF3MXliRS1mQVFMdXAxSHhheE9wYmV0NzA2aDI2ZzRyZnlTY1lySnp2bTc5cktSNlhpVEdCWmtKb2NadFR0R0lVZDN6LXBRUmdiUDRHWHBwbGxteXQ4cUFlMC0wb1JlNmo3NDJNd2ZZcFFNYlR3ZW9UZndRTVZEenIxUGfSAewBQVVfeXFMTU5SajNRYXNmckp5bUpxZ2MyUUZRRTVRWWE0QXMxNUFlT25fSHpRQ2plSmxzYVJLR2NPQTl3eFZDU0xIWkJuZHZZODN1V0VFM1pDM3NzZ0VpUG12NGpfSmh0TEx5NUp6VnA2azJNY2FhYWhLWXc2akhoWjFCQnFBZDM0UC16NWRqUmg3Y3ktaV9oNEF3Sll6YUVoc3dfbW1BRGZuMnVHZVZkOFhWeHhhQlRIdFFZS2R4a01VclE3V2dUT2F2LTNLaHBWMUVweHIzVmxhWGhtZUxFemJzeEpmekZJZnNhaHdiaGxpZ0o?oc=5",
-        "date": "2026-08-10T17:02:43+00:00",
-        "source": "infobae.com"
-      },
-      {
         "title": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta",
-        "description": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta clarin.com",
+        "description": "YPF alcanzó un resultado récord en el segundo trimestre y acelerará sus inversiones en Vaca Muerta Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDJ3UExMZHVLT3k0MXhkOEMxZy1pb3lXZ0w2V2VlWlBlY3RIY0poTktMc0hJNVpvd2pxWXlkbVZ6TkZHS1VETWJZaUhlSlJOMzZTMml1RTY5d3R0bFVRMlM3SlE2eXJEc2lnLVNqWTAxWUMwRHpjMkZYWnVkaTVKMnM5dzNlQXNmWDloTjBEbURNWndpRDFvcGdNdWxrYmlaYTRHLW9FX0RmejdscGpfQXE5dHV4MjF2ZDdxOGNVZ1o5YjFBVUMwcEdLVDY0b21qSkFuRU5R?oc=5",
         "date": "2026-08-10T23:22:43+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
+      },
+      {
+        "title": "YPF y PAE buscarán proveedores especializados en Vaca Muerta",
+        "description": "YPF y PAE buscarán proveedores especializados en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUhuUDh5alY0WGVQR0tTVE1yQjRlejFsNXRFUHI5X0VuMm1oN0pMZWlrUlJmR3VWbTdXam9wZmFGWUo5a0hDZFJhSDZGYnZxSkhCOUZfekpvMXdicnRlUlN0UXdvclFkeVQ4S0o3ZDJhWXVTWW1OT2dKdTFWQnJMeGFhOXZkRjkyTVpPSENaN3hRQjFmMTVoZWZzTFM2YkFMdDdST3pLVzbSAa4BQVVfeXFMUEZ1eWpFai04MVlTMTdBVkNfTGdtckFNRjUtdEtPQXJFb3NfcnExMjF2TVNFRVRhUnJzcFk0Rk1kdDBHSFdJNFZHVktyZWJyT3NlYUk1em5PUlJNak12S0dVQV9SZ1VHRV9PaXBSZW1xN3lCb09IZ2Zjc3NnYlk2T205Z3EzR2ZjRlRCRjYtYVdOYUlTYXBFT1llQTNFQkhXUFBtQlh0cHJhN0Faa2pn?oc=5",
+        "date": "2026-08-11T14:43:42+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
