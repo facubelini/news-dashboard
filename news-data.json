@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T03:42:33Z",
+  "updated_at": "2026-08-16T04:29:24Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,13 +8,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnllYjczcFJPZEJ1aXZMbjE5dF8wQjl2Y3psM29oTlBMQ2VXTXVQVV9WdUZaMDF6OFhOdGVuWTVldFdsa25qTzRBMWdGRmVjNFIzU1MyVTF5YzhOd0p3QkltcjlKNG00a0hQUHM3R3dXd1VtbjlBdzFPYkNpdTBzdjRueDBWbHYzZlFpWFpCLVJxYUNTNWN0MU8xUlJSRWhyb1VJdEhleFNBbXNiakRvRFdEcDlYbFNvX2FJcWhSSENPbVNUdVlGRUtfUlE3QUhVRzhJ0gHuAUFVX3lxTE1tc2hoeXN0TkQxSjREbG1sVHJFNDhteVdMbHptck5DSTNyYTh6aG9LTWZ1S0ZFQ0ZNdjJfX0lwckRvSWNCMVYyX25PZG9YTEppclV0bTg2Y2JOcDJMU1JlbS1oLVFCSUxOQWdwQ2dIUVRXN2ptUWg4bUw3SVRUOVlrQlV4RUQ0dDc3azNPNHhhbThVNy16ZEUzSFc0MGpkNE4wSUk0MndHZGFPZlE5TjVFWWYxWHpCRkU0T09KUTdfUGw0RmJUUGp2ZzZuMG5ZVndjcnAxai1nbkdDVlFOaDhldVh5dm9aOUlHQ2kyanc?oc=5",
         "date": "2026-07-27T07:00:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Galería de Microsoft Technology Center/ SmithGroup JJR - 1",
-        "description": "Galería de Microsoft Technology Center/ SmithGroup JJR - 1 ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanpUX00wRHVET0lTeUljbDMzYXVHZ3FCN2tfNklKcUk1dFhmd29ZM05mQVpqMDdlMWVkSEdJZks2d1IwcHJRSVJ5TTdoTUpTMllXVHhOYjY4U3VvbU5VcGN4ZzFYSUVsWEhnekxwZnJwSEFzQk5VOTdaWEpXQTk5RUpHdXd6M3pkdUQ5aUdNT0ZYN045Ump1SHlEY3ltMHcyMW1IUXFn?oc=5",
-        "date": "2026-08-15T10:52:51+00:00",
-        "source": "ArchDaily"
       },
       {
         "title": "Optimización de la curva de rendimiento Frontier",
@@ -43,6 +36,13 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdyTEpBQk5pSnRkcVpmVnlFRHRmeVk1Yy1qZUpNdWxjeFVvMGpyWWFjaXdudFZBNERXckZxcEpuc0lXS1Ayb2tMUFZVZ0FsRldqUHVmeVFaUFpDS0psUThma2thWVpiZ0RMakl0SlVEZXQ2akViWDRrTmlQQkdIcTc1a2VXTHlEMDNxMkxTa25XU0tIeVdadG1PbWQwcjVvaVhJZ2lZVGNfQ2t0blJwOXhuYjRvRlFDaTFNQ2FsaG9KRk4xMW1VWnVJb9IB3wFBVV95cUxNM1JxNXl1LW5oZ2xqaFRLd0ZtSE9mOFl1d2JfNHlyMjJibDNxZFFEaERCRFVGNThWT2lsTERUTmplUkh6RjBCSFJZT3ZYN2E0RmlCLW96WElkZVpTbGNCWmY3ZU1SM20zb21RYk1qWHJvdHRyX0ZLUUdQbHZqdUhlc2NvSVE2dWNBVTFuWnFrQ2xBQkNZUk8xVlVseE9Lam9Yc0ExNkE5ejBKZGs1N2JYNlotdUF4NkxJZ0tiTFIzNm5jVkViUjRJdDI3Ny1CemtENE1PWkE5dTRURkF2c1lR?oc=5",
         "date": "2026-08-10T15:15:07+00:00",
         "source": "Diario AS"
+      },
+      {
+        "title": "Las acciones de Microsoft (MSFT) podrían estar infravaloradas en un 1 % tras las últimas noticias sobre los ingresos por IA",
+        "description": "Las acciones de Microsoft (MSFT) podrían estar infravaloradas en un 1 % tras las últimas noticias sobre los ingresos por IA simplywall.st",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcmdYSHQ3dVBrTHNndzNCUjRJUGRUOGVTWUFLdTQ5Y1R2SFM3RURSekluZ3N2ekU4SllHWF94RmpQNlJnYU44MEZtOG1VUW0tbDR3YVdBeHVOelN3SzdQZFUxbmprMWNRdVZfV2l5YkZoZHpqMHZVcnNGYzFoSjZkQUd0R3RNUWgwQWlqNU5Qa1NTWGczeEFQZmI2MURocW9oZjhhRFRYakhCbzJrM0ZBWmhOTWY5MmRkOHFXWVBXMEhYcmRyWWsyTy130gHPAUFVX3lxTFBuNlF0aU8tdzhLaklVRGlSYmRtWkhLbllralZ4eUhRODhHY3d5Vk9hcUd1R3MwUC1ObDg4cG1Ud1hXUm92SmkzeDRvbEtsU0dGNlU0UzhkSUtNZE02WUFHMFh1U2NaX243c2U3VGNqaDlGQUNPR19ta3F2SjhfVDY1bDZ3M2lVc1ZCRFN2SGY3ZmtzeFN0MTVZRUJXdzA0d2Jla1otbUxxY2c5NllWV0F1eWlBTXVSZ0E2V2xHc0ZEXzM1YUhwM25BUUxEYjFfQQ?oc=5",
+        "date": "2026-08-15T18:12:34+00:00",
+        "source": "simplywall.st"
       },
       {
         "title": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft",
@@ -106,17 +106,10 @@
     "IA": [
       {
         "title": "La última trampa de la inteligencia artificial",
-        "description": "La última trampa de la inteligencia artificial Revista Anfibia",
+        "description": "La última trampa de la inteligencia artificial revistaanfibia.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzV5M21rUVhTQW5IaWVLZHZfeXRhNnRSeUhtdnBBOVppT1k4V1B2YllvQ1RlVEJ2VnRVcHNnZmFVSXZwb01sQTNNc1liUi1YaFBqRXUwTlhwdXVxSE8yT2t3SUFKTnpLbFZHQjB0Q19yTTY0eUxxMHh4WXhjRUk0MktOb00?oc=5",
         "date": "2026-08-13T11:53:38+00:00",
-        "source": "Revista Anfibia"
-      },
-      {
-        "title": "Cómo la resistencia ciudadana lleva a la inteligencia artificial al centro de la agenda electoral en Occidente",
-        "description": "Cómo la resistencia ciudadana lleva a la inteligencia artificial al centro de la agenda electoral en Occidente Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONURqR3NZZEdfa0YyQ1d6dTh6c0hFQUFaeTlsSzJRZmxkREc3SUhJY0otOUZ4WlZWWFJYRnF5NkZudjhpSER2eHZMSkl3SndpZjFhZW1ST3d1bGZobnM2NWx6Q1I5Vk1BdkRENW1yU1pqWXBGTWhnVFBNX0d3Z19SNjdhRVA0YTJWZlp1SXNhNmd0UU90TGlBTFhRZFplYmJDNGJvb3Y5a2tYZGdfVnllcWpyOEdZSWZXMFhfYXM0dlp6ZHRuRDJjTkgyZmtwcGQxLWdYRWRkN3NhVmNoeUVhWjB5WllLYjNYZVFPcHBRZXRkd9IBjAJBVV95cUxOX1VXWDk1TnU1akpnOXhLRHlTb056XzlRVDFZckZEMjdiS2plUDdJTGJQcExycEFjR2hDYU9qbDZKNlRTS1JyMUFINXpFWVNGRFpISkN3NVZra2pRaV80RkZHZk5yYVJubUliMmRlcDIwZG1ZUEk5Nm0zVWtXTUZMZ3pQRUhyRGZaSWxRUWpMZEZNYTVrVXBlUF80MnpTSTZtOEppLTNWamFkX21FMlVhdHN5R0lnb25rUVJOdmM2NUl6SjZtaEhJd2Vsd21WWDhZN0pjLVExa2ZRWGtHcTYxUmowR25xcGpZU3R2dVFISTIzdktfTjJKVkQ1TjJXcWF5ZWpSdFZ3RU1OMTVs?oc=5",
-        "date": "2026-08-16T00:50:34+00:00",
-        "source": "Infobae"
+        "source": "revistaanfibia.com"
       },
       {
         "title": "Filosofía, Odiseo y la virtud en la inteligencia artificial",
@@ -140,6 +133,13 @@
         "source": "Página|12"
       },
       {
+        "title": "Ya es un hecho: los chatbots lograron reemplazarnos, conversan entre sí y el humano poco aparece",
+        "description": "Ya es un hecho: los chatbots lograron reemplazarnos, conversan entre sí y el humano poco aparece Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWENTaW93RGtHQm1reG9rNXdOSUVZaERBSTBJZ0M0bzBqbndlRnhOb3RPZDJEajBDc2FBQ1dsTEt3dGhjUEgxU2F4dHNseEwwMXVlTmpfMXg0SkxsSDdkZHU5MElYTEtfaS10OXNYUnprYTVNYkJrMThFQ1hTLUVqWkpzVTZqbGJObm5WNFY1bWN0VUp1UGFvS0E0SXpDUTZQSWtxaWZYdkxvTjJzR1Y3WER3OUNDRnk0R2ZXMGhoS0s2VW9kdHBKd0w0RWk5S0lhOVHSAewBQVVfeXFMT2pnR0JwenpMOTc3U0pTMXdnSGZ1RjVTU1VDRVdxVG42REMwdlBvN1BFbV9iRngzS2pBakxHNXg0bWpoaWJUNFowaGwyU3dyV1ZQbXZTdk91MXI5dWhzY2RkTXNMME03VC1PX05jdVI3TFJYRTdGMV85Yi03akQ0bUFqRjJFZmJVazRsRGJKZk93SHJUOW1VQWY2b254V0Y5bjdhXzdtVjRQa1pPc1RvY3JneEsteHFYejFxM2thS19NQVRtNlJGNlc1b1ZjRHVTcC14SV96OVFIeFRBSTBxUGlqc0s5aDhZWlAweXA?oc=5",
+        "date": "2026-08-16T00:05:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Video Chloé Bakalar explica cómo funciona realmente la ética de la inteligencia artificial",
         "description": "Video Chloé Bakalar explica cómo funciona realmente la ética de la inteligencia artificial Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3JUUkotak9DUXlBYkQ5T1VBUURJWjI3X3dVTlFEYVJnLXFXX2VXb25TY2N0bU5hbG5XYUZOSmE0TDhpd3hqNXEtQWJwbVlTdkh6U0FjcFJwdV8yVDdvUUNJQUNQMUtIY0VCSmdfaUQ5QkRSSXNxUUVkS2FrRk1zbGJYRnBmMG9UTXNDSHNNQ1dJTF9SQXhYcmY3SGp2NjBHeG9KcU00bml4TDNXTnN3RmtNSTNKSUFYamc?oc=5",
@@ -148,10 +148,10 @@
       },
       {
         "title": "San Francisco incorpora inteligencia artificial para optimizar el tránsito en cruces semaforizados",
-        "description": "San Francisco incorpora inteligencia artificial para optimizar el tránsito en cruces semaforizados Radiocanal",
+        "description": "San Francisco incorpora inteligencia artificial para optimizar el tránsito en cruces semaforizados radiocanal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOF9rTk40UXdkSHl6YTJ5MHN0anFRQ1RKYWdrRFRqTlg0STlHZ1ducjVXZjVld2YwT283Q1RDSUNEaWxkMHVrclFjUzNaVGhnMUtuUlFtclppZzl4S2tEUUxxQVQxU3JDVDNwYkhRVWNYc0l2VXBJdWdmQk1oLVhaVVh4YjlEdE43dnA3dU5RVE9IOFNEVmZGQ0hDalVrdER6SlBNbTJxeUV4bldqakJuTDhlZW0wT290bDhwc05GamV4TmNLQWVJSXBMSjB6empPQnFDd2Z5a2tRZjg?oc=5",
         "date": "2026-08-15T17:00:47+00:00",
-        "source": "Radiocanal"
+        "source": "radiocanal.com.ar"
       }
     ],
     "Vaca Muerta": [
