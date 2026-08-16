@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-08-16T04:29:24Z",
+  "updated_at": "2026-08-16T05:22:14Z",
   "categories": {
     "Microsoft": [
       {
         "title": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas",
-        "description": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas Infobae",
+        "description": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas infobae.com",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnllYjczcFJPZEJ1aXZMbjE5dF8wQjl2Y3psM29oTlBMQ2VXTXVQVV9WdUZaMDF6OFhOdGVuWTVldFdsa25qTzRBMWdGRmVjNFIzU1MyVTF5YzhOd0p3QkltcjlKNG00a0hQUHM3R3dXd1VtbjlBdzFPYkNpdTBzdjRueDBWbHYzZlFpWFpCLVJxYUNTNWN0MU8xUlJSRWhyb1VJdEhleFNBbXNiakRvRFdEcDlYbFNvX2FJcWhSSENPbVNUdVlGRUtfUlE3QUhVRzhJ0gHuAUFVX3lxTE1tc2hoeXN0TkQxSjREbG1sVHJFNDhteVdMbHptck5DSTNyYTh6aG9LTWZ1S0ZFQ0ZNdjJfX0lwckRvSWNCMVYyX25PZG9YTEppclV0bTg2Y2JOcDJMU1JlbS1oLVFCSUxOQWdwQ2dIUVRXN2ptUWg4bUw3SVRUOVlrQlV4RUQ0dDc3azNPNHhhbThVNy16ZEUzSFc0MGpkNE4wSUk0MndHZGFPZlE5TjVFWWYxWHpCRkU0T09KUTdfUGw0RmJUUGp2ZzZuMG5ZVndjcnAxai1nbkdDVlFOaDhldVh5dm9aOUlHQ2kyanc?oc=5",
         "date": "2026-07-27T07:00:00+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
       },
       {
         "title": "Optimización de la curva de rendimiento Frontier",
-        "description": "Optimización de la curva de rendimiento Frontier news.microsoft.com",
+        "description": "Optimización de la curva de rendimiento Frontier Microsoft Source",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1I4R1JuMzdYTld3OEZDeDZ1Rk1vM2NULVhTMG9hVm5hOGFPMGM0Z3paNHdDeGM1RUNqdGN3UFUyaGJOY0o0ZS1FRDhaanh4NGxfT2ItNExyOF9BYnM3V3YxNzZOSXFGY090R2N4dkZ1RHpsWEcxUFl3eWR6OThwc1poZXBONWQzU2RobHAwYXF1clQtTUtFSFE0WnV6bkdhOWZQa044N0J0d0hLbWVOZ0tqOFJvdDViWWc?oc=5",
         "date": "2026-08-11T17:08:47+00:00",
-        "source": "news.microsoft.com"
+        "source": "Microsoft Source"
+      },
+      {
+        "title": "Galería de Microsoft Technology Center/ SmithGroup JJR - 1",
+        "description": "Galería de Microsoft Technology Center/ SmithGroup JJR - 1 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanpUX00wRHVET0lTeUljbDMzYXVHZ3FCN2tfNklKcUk1dFhmd29ZM05mQVpqMDdlMWVkSEdJZks2d1IwcHJRSVJ5TTdoTUpTMllXVHhOYjY4U3VvbU5VcGN4ZzFYSUVsWEhnekxwZnJwSEFzQk5VOTdaWEpXQTk5RUpHdXd6M3pkdUQ5aUdNT0ZYN045Ump1SHlEY3ltMHcyMW1IUXFn?oc=5",
+        "date": "2026-08-15T10:52:51+00:00",
+        "source": "ArchDaily"
       },
       {
         "title": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcmdYSHQ3dVBrTHNndzNCUjRJUGRUOGVTWUFLdTQ5Y1R2SFM3RURSekluZ3N2ekU4SllHWF94RmpQNlJnYU44MEZtOG1VUW0tbDR3YVdBeHVOelN3SzdQZFUxbmprMWNRdVZfV2l5YkZoZHpqMHZVcnNGYzFoSjZkQUd0R3RNUWgwQWlqNU5Qa1NTWGczeEFQZmI2MURocW9oZjhhRFRYakhCbzJrM0ZBWmhOTWY5MmRkOHFXWVBXMEhYcmRyWWsyTy130gHPAUFVX3lxTFBuNlF0aU8tdzhLaklVRGlSYmRtWkhLbllralZ4eUhRODhHY3d5Vk9hcUd1R3MwUC1ObDg4cG1Ud1hXUm92SmkzeDRvbEtsU0dGNlU0UzhkSUtNZE02WUFHMFh1U2NaX243c2U3VGNqaDlGQUNPR19ta3F2SjhfVDY1bDZ3M2lVc1ZCRFN2SGY3ZmtzeFN0MTVZRUJXdzA0d2Jla1otbUxxY2c5NllWV0F1eWlBTXVSZ0E2V2xHc0ZEXzM1YUhwM25BUUxEYjFfQQ?oc=5",
         "date": "2026-08-15T18:12:34+00:00",
         "source": "simplywall.st"
-      },
-      {
-        "title": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft",
-        "description": "Mientras todos hablan de IA, otra carrera tecnológica avanza a toda velocidad entre IBM, Google y Microsoft Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXdQbnRhcXVQbV84TV9PbFFiWFNpeWtYTW9Sa0NlQ3VVLWotLWFHbmtkazNqdW8xN240dU1sS2NDUmlZZVN3X0E4cy1vQkFOcXhVc3BmcWo1NTR2VVVDRDIxVmVnbFRSbTJiYUFzSkxiUWhUM2swSkxobE5zMEVOU1J4YXBvaTVGLTFYLUROa0FDblVMdzNrMktzSHN4cjhyVzU2Y1hkQkZwT2JGdHc1RTZBQ2hLQmhOOU02YW85Uk1WMXlZUDZtNXZnQ1FqZ9IB0wFBVV95cUxPLUlCZGx3TXZ0ZkNnWWpGY1BNVzgtTWpfRndsVmsycV9jNHBPQjJIaHhhNmYyMnVJeEVYWnZQT1ExZlhJV3E5MlRaT3ZPbGVjTmFrMlItS3hCQkhyMkVuaWN6eFVPSWdQdHBFcDAzTnhaOHZLQzVhRnhGLWI0TXA0UDBvY2dXVnFPTUFmdWJEVXB6OTdHMUVUdGVtZFVpaEpieHdLU2pYNXFGQmVoelhaTTIzSnlLOTRnS0otUE1BX2RrdllrdDRJa2JmeEtWTnA2WEt3?oc=5",
-        "date": "2026-08-12T09:00:16+00:00",
-        "source": "Clarin.com"
       }
     ],
     "Marketing": [
@@ -69,10 +69,10 @@
       },
       {
         "title": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares",
-        "description": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares Bragado TV",
+        "description": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares bragadotv.com.ar",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2VKY1VuZGNjUFdTTElpazBPWDNxLWZUcTNWTDF2ckFuaGllMDAyaENneUpjbVlJNUFYRTJWeFlWOGxWc3E5bVVSVXRLUTFBU0pPeENjeDlkcGp0WEwyeVFWNmpSVHV2Q0wtNW5yOVJzQnlwSGhYTWFsR0dJdkJleEI5dkZ6a3ZKRjRHQkpTWnFuaS1FX0JWNTlnbmhhY19lb1dPU3BoMTM5N1VlUVlZNTJ0YkxuSWpRd2ZjcjIzYUtWS2pOWENr0gHMAUFVX3lxTFBnakxSdloxNDUzSDJCTWFBdzlGbHlYdzlMQm81YVVfS05aNzZKYkRVelhTZDRSREtMbHVVakNWR1dwX3NETjJzTDQxWE1BRTY0UkpmMERyTmIwY0dXQktzNGsyVHVYYTgtQzEtMFpDQWFKelpSQ21KNG83YUdXR1c0Rlo5eWM4b202ZThUOVM3RmlJZFp4NlRHakFPVExBYVZQUFFwcEVJckRBdmxrQ0IyQWVVMkVuOTlDaV9NN1lKcjRweFk4eVVnaGh4Tg?oc=5",
         "date": "2026-08-13T14:30:16+00:00",
-        "source": "Bragado TV"
+        "source": "bragadotv.com.ar"
       },
       {
         "title": "Marketing digital para pymes: estrategias de email que funcionan en 2026",
@@ -90,10 +90,10 @@
       },
       {
         "title": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos",
-        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos Norte Misionero",
+        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos nortemisionero.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0VVWXFEb1Yxc1hld2pMb255V0ZCYnBVUVV6YWJGODR1Q0FvZGYwRW92RGFwUDdjcElvazVFaEx4SmtEYktlZ0EwVl9VZUtuVEg5S1YyTGNybHRrY0JNbXNkaXpVbjlMT1pwTkFZaDRhUnNBb2JPbUtZVS1YNVU1ZWYxUU9PWDRnbkl0WDBfX1Fpd28zOUlQd3lMUE55VTljc08zY0tLMlkzcUh6MGpvMXVJNkRQVkk4bWVsMzc2VW9DUDRoc3lKWVJFbHh5SkJsMk5nSw?oc=5",
         "date": "2026-08-12T11:58:12+00:00",
-        "source": "Norte Misionero"
+        "source": "nortemisionero.com.ar"
       },
       {
         "title": "Nuevas formas de gestionar pagos de publicidad digital en Argentina",
@@ -106,10 +106,10 @@
     "IA": [
       {
         "title": "La última trampa de la inteligencia artificial",
-        "description": "La última trampa de la inteligencia artificial revistaanfibia.com",
+        "description": "La última trampa de la inteligencia artificial Revista Anfibia",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzV5M21rUVhTQW5IaWVLZHZfeXRhNnRSeUhtdnBBOVppT1k4V1B2YllvQ1RlVEJ2VnRVcHNnZmFVSXZwb01sQTNNc1liUi1YaFBqRXUwTlhwdXVxSE8yT2t3SUFKTnpLbFZHQjB0Q19yTTY0eUxxMHh4WXhjRUk0MktOb00?oc=5",
         "date": "2026-08-13T11:53:38+00:00",
-        "source": "revistaanfibia.com"
+        "source": "Revista Anfibia"
       },
       {
         "title": "Filosofía, Odiseo y la virtud en la inteligencia artificial",
@@ -119,6 +119,13 @@
         "source": "La Nación"
       },
       {
+        "title": "La locomotora y el trazado",
+        "description": "La locomotora y el trazado El Cohete a la Luna",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhQl9yclc0ekNyVkctajlSb3gtaWN1djJKdC1iTWlJQkUtcGl1THczUTNJcjhIbmVSNUY5WXdZR1Z1NXJXVE51d1FHX19HS25pLTI2bk94UDFFWERGb1JMQW9UYkxUQ1FzMXBj?oc=5",
+        "date": "2026-08-16T03:07:24+00:00",
+        "source": "El Cohete a la Luna"
+      },
+      {
         "title": "Justicia y tecnología Cuando la IA entra al expediente: una sentencia que mira el futuro de la prueba penal",
         "description": "Justicia y tecnología Cuando la IA entra al expediente: una sentencia que mira el futuro de la prueba penal La Voz del Interior",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVGNCRkMtbVFZSU5Gb1JMaG43OEd3ME1mRXg1QTQtZno5SllLYndZOHJLSjd4VUhVZnRYaGVxNjJSdGdDaDZ5QXZiMWFCMkp5VHJDY3MxRURlWW1RZ2lBNzFUWDhzV0RzLUgwNGlNWnBCWG0xSmZOeDJzbWZOYkd6cjR0SXUyUEx1VXZrUV9iOE5tdDdwQTlwVEdyLVhwY3M4YjVUUmlsQ2w?oc=5",
@@ -126,18 +133,11 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "De los influencers a la inteligencia artificial, quién es quién en el debate político en redes sociales",
-        "description": "De los influencers a la inteligencia artificial, quién es quién en el debate político en redes sociales Página|12",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNndqUWV4N0d5dlM3RzNmOFlfWTdzY0hBbmI4QWRQbUppSC02Vkhtc0pZY21jRGlVRXBkRUpOVTYxS3haU0prdFpqdGtrMnJ5OHlmWW5VY3U4Qkh1UDNGalhsTWJlU3REVmNpb250S1FaYmZKc09XT0RGTGdiSzRYdlI1TU5SSEx4UzZyZGZmZThCYURPMFNxYktTWTdlb0JRRGZxRHl1eU9id2RPLXFRajNPWGs4VHBvV1JGY2ZleERTZFJLc2NHWVBaelhBOWtMbU9BQ2lXVXBCdw?oc=5",
-        "date": "2026-08-14T23:01:00+00:00",
-        "source": "Página|12"
-      },
-      {
         "title": "Ya es un hecho: los chatbots lograron reemplazarnos, conversan entre sí y el humano poco aparece",
-        "description": "Ya es un hecho: los chatbots lograron reemplazarnos, conversan entre sí y el humano poco aparece Infobae",
+        "description": "Ya es un hecho: los chatbots lograron reemplazarnos, conversan entre sí y el humano poco aparece infobae.com",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWENTaW93RGtHQm1reG9rNXdOSUVZaERBSTBJZ0M0bzBqbndlRnhOb3RPZDJEajBDc2FBQ1dsTEt3dGhjUEgxU2F4dHNseEwwMXVlTmpfMXg0SkxsSDdkZHU5MElYTEtfaS10OXNYUnprYTVNYkJrMThFQ1hTLUVqWkpzVTZqbGJObm5WNFY1bWN0VUp1UGFvS0E0SXpDUTZQSWtxaWZYdkxvTjJzR1Y3WER3OUNDRnk0R2ZXMGhoS0s2VW9kdHBKd0w0RWk5S0lhOVHSAewBQVVfeXFMT2pnR0JwenpMOTc3U0pTMXdnSGZ1RjVTU1VDRVdxVG42REMwdlBvN1BFbV9iRngzS2pBakxHNXg0bWpoaWJUNFowaGwyU3dyV1ZQbXZTdk91MXI5dWhzY2RkTXNMME03VC1PX05jdVI3TFJYRTdGMV85Yi03akQ0bUFqRjJFZmJVazRsRGJKZk93SHJUOW1VQWY2b254V0Y5bjdhXzdtVjRQa1pPc1RvY3JneEsteHFYejFxM2thS19NQVRtNlJGNlc1b1ZjRHVTcC14SV96OVFIeFRBSTBxUGlqc0s5aDhZWlAweXA?oc=5",
         "date": "2026-08-16T00:05:00+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
       },
       {
         "title": "Video Chloé Bakalar explica cómo funciona realmente la ética de la inteligencia artificial",
@@ -147,11 +147,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "San Francisco incorpora inteligencia artificial para optimizar el tránsito en cruces semaforizados",
-        "description": "San Francisco incorpora inteligencia artificial para optimizar el tránsito en cruces semaforizados radiocanal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOF9rTk40UXdkSHl6YTJ5MHN0anFRQ1RKYWdrRFRqTlg0STlHZ1ducjVXZjVld2YwT283Q1RDSUNEaWxkMHVrclFjUzNaVGhnMUtuUlFtclppZzl4S2tEUUxxQVQxU3JDVDNwYkhRVWNYc0l2VXBJdWdmQk1oLVhaVVh4YjlEdE43dnA3dU5RVE9IOFNEVmZGQ0hDalVrdER6SlBNbTJxeUV4bldqakJuTDhlZW0wT290bDhwc05GamV4TmNLQWVJSXBMSjB6empPQnFDd2Z5a2tRZjg?oc=5",
-        "date": "2026-08-15T17:00:47+00:00",
-        "source": "radiocanal.com.ar"
+        "title": "De los influencers a la inteligencia artificial, quién es quién en el debate político en redes sociales",
+        "description": "De los influencers a la inteligencia artificial, quién es quién en el debate político en redes sociales Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNndqUWV4N0d5dlM3RzNmOFlfWTdzY0hBbmI4QWRQbUppSC02Vkhtc0pZY21jRGlVRXBkRUpOVTYxS3haU0prdFpqdGtrMnJ5OHlmWW5VY3U4Qkh1UDNGalhsTWJlU3REVmNpb250S1FaYmZKc09XT0RGTGdiSzRYdlI1TU5SSEx4UzZyZGZmZThCYURPMFNxYktTWTdlb0JRRGZxRHl1eU9id2RPLXFRajNPWGs4VHBvV1JGY2ZleERTZFJLc2NHWVBaelhBOWtMbU9BQ2lXVXBCdw?oc=5",
+        "date": "2026-08-14T23:01:00+00:00",
+        "source": "Página|12"
       }
     ],
     "Vaca Muerta": [
@@ -164,10 +164,10 @@
       },
       {
         "title": "El magnate Peter Thiel hizo la primera inversión en Vaca Muerta y compró el 1% de las acciones de Vista",
-        "description": "El magnate Peter Thiel hizo la primera inversión en Vaca Muerta y compró el 1% de las acciones de Vista Infobae",
+        "description": "El magnate Peter Thiel hizo la primera inversión en Vaca Muerta y compró el 1% de las acciones de Vista infobae.com",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2pSOERKUWdFeFpBUDJHd1JRY3FhWFUyczRMdzBFVzNZQzFsdmIwVXpmMkRETXRiTHpaeWFPU3pZeUF4Q3BDbnl0S09PSjBVaEprUUIwcV9UdUg0d3A4OGZTdmF5U25BZ3RIQ3U2ak14WkxfQmFvQ2dOYzQzdnFtblZ3OW9sNTFkNUtSU1I2b0VnV0J0T1JfV0RBSEJSdHVfVExfaWc1aHM5bUxMN2tNd04yQjBzZ0pXUGNsZndVTE5MaVEya04wQldNWC10WWh4cHlJanowdXdpNEZHWHJONNIB-wFBVV95cUxQRmtQSkJka0tFOXA1ZktJQzRvS0V4dEtJNzV1NUlIWTU3WEhnZ092RjJnWlhPOE1VUE1hQ3dISUdyeWZMdG1qMlpCcmtFSVNvRmNHdHFZV3hFcmVfRDdYbFJSV24zVzdnTS1FN1ZqcU1pWW5fTFlhaDhzMWU4MHNHSHhNTE10WUtVazBUUm91TVhNNmw2NU5MSHYyZVBUdGRzMG1oTUlyTkd6VjlMdVlBZndXOEFpMlB6U3dQT3dZMnFJekN2UEFrZ0k1TkN6MWktcHd0cll5bGhzNS1UVWVMSFdHYXIxVGNnbjFIZXFxVklvb2JGSTZjdGVkQQ?oc=5",
         "date": "2026-08-15T23:47:30+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
       },
       {
         "title": "Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú obsesionado por la energía y los datos",
@@ -178,31 +178,31 @@
       },
       {
         "title": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más",
-        "description": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más Infobae",
+        "description": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más infobae.com",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMERIUlRfRWhULTRJM0tsaTRmOTBRaEFLRUFjTUMwRXlVTUxuNnVweGtZaEQtTWZSWE5tMXpMeHRleGRrbG1JWWF4azRuLVdFcDBzdG1iNlFkOXNMZ19vRTFBRzJOaGNQYjdvc1lzM0V5QVVjX0xVUjZCVGZMbjM2NFZrX3VncVFqYm1uTE5wajBmbVhpMFkwSmM0VjFlYTZ3Wjg3ZzRnQXNfazJ0dlkzT19sX0Z4TGlTanBpYWNPbHUwVzZGYWJQYU1ZUGZGVy04a3Q2TGlYNEdGUEFJeVJrSFd1YVdWNnc1UHZlcWtDRV85T1JC0gGPAkFVX3lxTE4tbUtJeHd6Um55RVJoNGV1VU8zd3pXUWI1dmRmRktuTG0xYzBseENKREwxUmotQ1JmdHU3eFFRci03M0ZmVWVGc1lWeldxS09kRmg1RHEzd1JYM0p1YkVGYngzcFJMb1ZoZE00bVJKWWlnb3cxaXZTWUE5M2V4Z2JOanEzNFFxQ3dscGRIbHB1amlKTGY3RDNLSGU3MWNRaUNwNlltaDVLbUNhSHJzd1djb0gzS1d0WGczRWo4VmowYnBDNTV1UC15NHdCQ0dCcDNTOXBvczlkYmRITWY1Y0w4RmJLeEhsV2JhRDJfOWQ3ejlXWVJ5SHRxaGRaYnRBSzJfV1Q4OVA1UHBaaE1WcGM?oc=5",
         "date": "2026-08-15T19:10:00+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
       },
       {
-        "title": "Estados Unidos alertó por la tecnología en Vaca Muerta y la embajada de China lo cruzó con dureza",
-        "description": "Estados Unidos alertó por la tecnología en Vaca Muerta y la embajada de China lo cruzó con dureza Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT0Y1YWc4a3JFeGhIZDhsOVd2QmpORmw4YmJIcFNNZ2IzdTJsVmtGTVNwNXRhMGtFRWNMNWVtOEpuYjJxeDZSUWF4dTZDRWsxSlZhM2x2UGNFVU82SktqYzEzS3JBQVlPZ3lGTGI5U2hZVjg3Q2d3WE9vRjNTTHJjV2tXZWtHYko5VmFBc09hX2tEZ3NOTFBNM0xsa2pCdFY3d0hsdVJXTENNamVBTzNBcUVObTgzWE1hdXo0MmlQakNsLWVFNkxpbjFkOXZNeVcteHZJWm15SEpkRFptNktETFpQdmpMLUp5QWNVcVRCTUxOcEMxai0zWHpwbV82QdIBgwJBVV95cUxPdWZBeURPMHI4elVKa3JuUk41Y095ODZjUHRrVnQ1NHZjOWQtbV8yd0tWS09qNUNVVUxhdWVWTkZoQXBINTh6Zk96ZGxOaXBrV19fTFhNSWhyOV9JYWZPUzZULV9HN1h4clNGaGVOUy1KQjV2R2RxREhvbURqYXRDUVFjTHBLd1M5S3d1ZFFhOFhDeVlVWnRQN1d5M0hNWm9OVHlXeS1HcnJWZDdURGlzS0FDX3k2dVBSVWhyRU5fd1RGaFhpLWY2c2dVa3d4cXlnS0VQUHZyaC12ZUlEdExiSDR0N19UMGpzYXJCMzVfVlVBOFM2S2FBZTRmcXJJVHdocjQ4?oc=5",
-        "date": "2026-08-14T03:54:00+00:00",
+        "title": "Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia",
+        "description": "Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUVDMnd4cXhvTWpfNUpIUkR3UFlfRWJ3YVliSGZHV3MxeWtCdGtFREJXRkk0Rm1sZ3lkTHQxQmhCNDlQMThhakY1ME9nQ3hRQkhRX3h3Sms1ZEJhODRzOUZBazhxYXBQelNPQzZPSzFlZTQ3aHE2TUhmTEZGemN0LW1GSW1obnJiaHF2bTBmUkUwa2lpTXBEUFNnVGFFVUl5S0xfQXFPMHBubmI5azJtazVVM0FfbGpWVGRXNjI5am9LRXFNRWppY0R4dWlfOVR4Q3RaV05HMXYzNlRLY0hSTl9LSFHSAeoBQVVfeXFMTy1rQXdnTzF0cnJlSU14cmJkRHJJdDk5TWcycDVNcWRTUHFhZFNicXRnSTlzXzNBME02WEhCSk9Zd3NCX3N6OGlVTmYwUVBaNXhldHhpN0syMXByYXVKeFJRbU1SR1NJTUMtYlpMVmpSaGNtcHFYZTJycFp1bkdmX2JlMWFBV3U5YWw1WDhIU1BDSklBLUNaU3BvaURSMzJmV2VfLUt0eDFPRFNFNWU0alJTV2NvcWJoQ09aTE9fLXpPSzlGVFlaTTBWU2VEanE0cmpVMENJd2NSUmF5aUZnanFEUE43a09kOFRR?oc=5",
+        "date": "2026-08-15T03:40:17+00:00",
         "source": "Perfil"
       },
       {
-        "title": "Alerta de Estados Unidos por la injerencia china en Vaca Muerta",
-        "description": "Alerta de Estados Unidos por la injerencia china en Vaca Muerta Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd252elZKenI5cVVYd3JOV1hORWxnQU1taUFxOG5pd0pjODlOc0FLbjVZOEJEWFNfSHVuZUFvVHN1YUZGWGxQS1FJN2V6dHBZdXhmdzY1UW9TUTZMX0xzZkw0Sk9IdkZURy1SOTNudWU1YkRDVHlPRWxsNHJEM1NxYzFEV3dweENEd0VpUGNTNl9xREpyWUdMdTJhejJ3M2Q0T3NhUWxGUC1sM3ZDYVRLeG8yWEtvV3A0R3JwdzNBNndmc2Ryc1lNZFNFTHhnS2ludkE?oc=5",
-        "date": "2026-08-14T04:54:10+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "Vaca Muerta en el centro de los anuncios",
+        "description": "Vaca Muerta en el centro de los anuncios Página|12",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTW53cmFYX0drV1YyRDhXeWJsRGtLMTVsTk13VURHZ0VxREhpR2tZckJVY00waWtwV2oydVhBRkotSTJxRGxrSzh4WWxNQ29YMTIxcDN3eDh6VWliOTNYblFIdGJ3Qk11WEpkMDZhZGp6NVNleF8xbmJQZ1hVOVF5UnRGb3ZmLUE?oc=5",
+        "date": "2026-08-14T21:18:26+00:00",
+        "source": "Página|12"
       },
       {
-        "title": "Estados Unidos presiona para excluir a la tecnología china de Vaca Muerta",
-        "description": "Estados Unidos presiona para excluir a la tecnología china de Vaca Muerta Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcDBTYmxUVXU3R0ROWHRtYWVua1dkcmRGRWVxbmZqRHB4b2Y3ZVlCN1lCWTJVZVQtNEViMFBNdEZKUmVJTmF4dnVDYmR5b3VoSFB3WmdUSzRpUWpUQklBSWdlazhjd1hHY3Y1UkVaemlfd1NaWlkxZUlTQlJpVUgxOUF3dWFKMzZWeXZ0VUplZVN6alRfMGkyNG0wUEFaRm5kMXdUTjRRbVFFbjB0Q2hZYWhCZVpCZlU3NlFKUjBaSlBXblhLaTJ4U1RIbm1iTVcxNmUtWDI2YkF4OVdCbHc?oc=5",
-        "date": "2026-08-13T13:09:47+00:00",
-        "source": "Clarin.com"
+        "title": "¿Quién paga el éxito de Vaca Muerta? El día después del petróleo",
+        "description": "¿Quién paga el éxito de Vaca Muerta? El día después del petróleo Perfil",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2FlWFpfdXROVG9vREtkSlpYWTVHemY0dWFzZHFKOS0wbXpWNGtBeER6TERPZlFvM2NqQlJ2V1lYM3dqMV9Nc1ByeUw0a3p2cVpsVjlYdEQzalJGMkU2UG8zd3Y4WWIzTTJGQ0czOF82eS1ic0xnSndIUjVMclpXLTN1d3E2eWJOd3ZkMEktVm4xVWYzelMwNGF5SENVYkdxcmIybkxpRDR1RE1u0gGyAUFVX3lxTE9BUDhnVmxUTk85QkE4RFdLSmVWMFRiY0R5aHN3TUJrc0RSaUxnYzB1em1ucElIX2JhNEU0QUJ2NVUwaGUtcUs0WkxySE10d0JUWUhkVkswWHhBRmxhaURpbGpKNWhXTGlVUm5jdjVNYlZUaEFsXy03NHR3X18yTGFENjRRclVWeW9ubzJWLWFXV0pHSXhDWkdsdWZIaVB3c2RDdEc3VGpYWDBpdHktYWRMQnc?oc=5",
+        "date": "2026-08-14T16:40:47+00:00",
+        "source": "Perfil"
       }
     ]
   }
