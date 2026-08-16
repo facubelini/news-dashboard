@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:25:53Z",
+  "updated_at": "2026-08-16T14:16:28Z",
   "categories": {
     "Microsoft": [
       {
@@ -11,10 +11,10 @@
       },
       {
         "title": "Optimización de la curva de rendimiento Frontier",
-        "description": "Optimización de la curva de rendimiento Frontier news.microsoft.com",
+        "description": "Optimización de la curva de rendimiento Frontier Microsoft Source",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1I4R1JuMzdYTld3OEZDeDZ1Rk1vM2NULVhTMG9hVm5hOGFPMGM0Z3paNHdDeGM1RUNqdGN3UFUyaGJOY0o0ZS1FRDhaanh4NGxfT2ItNExyOF9BYnM3V3YxNzZOSXFGY090R2N4dkZ1RHpsWEcxUFl3eWR6OThwc1poZXBONWQzU2RobHAwYXF1clQtTUtFSFE0WnV6bkdhOWZQa044N0J0d0hLbWVOZ0tqOFJvdDViWWc?oc=5",
         "date": "2026-08-11T17:08:47+00:00",
-        "source": "news.microsoft.com"
+        "source": "Microsoft Source"
       },
       {
         "title": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA",
@@ -106,10 +106,10 @@
     "IA": [
       {
         "title": "La última trampa de la inteligencia artificial",
-        "description": "La última trampa de la inteligencia artificial Revista Anfibia",
+        "description": "La última trampa de la inteligencia artificial revistaanfibia.com",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzV5M21rUVhTQW5IaWVLZHZfeXRhNnRSeUhtdnBBOVppT1k4V1B2YllvQ1RlVEJ2VnRVcHNnZmFVSXZwb01sQTNNc1liUi1YaFBqRXUwTlhwdXVxSE8yT2t3SUFKTnpLbFZHQjB0Q19yTTY0eUxxMHh4WXhjRUk0MktOb00?oc=5",
         "date": "2026-08-13T11:53:38+00:00",
-        "source": "Revista Anfibia"
+        "source": "revistaanfibia.com"
       },
       {
         "title": "¿Cómo afecta ChatGPT al cerebro?: qué se sabe hasta ahora",
@@ -126,6 +126,13 @@
         "source": "La Nación"
       },
       {
+        "title": "Clima de Negocios: “Lo de James” en San Francisco y cómo el súperciclo IA hace que startups se muden a EEUU en busca del sueño global",
+        "description": "Clima de Negocios: “Lo de James” en San Francisco y cómo el súperciclo IA hace que startups se muden a EEUU en busca del sueño global Infobae",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcUtvZ3ozczFpcFpGNWp2ZFBkeG92R1dSd1hhSlRyX3B0MTl6U3l1anZsUGNoQmNmZXhwOElDU2hIdVI4UDBIREhCanh4cWJRSnItMFVaeXdzZGhraURwZHZvTjlPU2hOZHF5WW1sakZDQzZERlFjdHJMcHRWS0lJZndiSXdUQTlyZkVSR0dYVnh6UE5WM2FER0lfN0ptSllYN19HLUdLVHhBNmQzXzJtWnRwS2x1QXVBTW5KYnFFWmwtcmxuMDhDcDRxM1JZVTNzVVZmdTl4LXVtTnphQ3lqeEJNelpQejdfbVBRb3lpbUt1bV9PR1BySU5SMXdlUGcxdjR6ZzdR0gGgAkFVX3lxTE1KczE4X2VYT2pqNnFVQTNxTkNxS1kxMTZXM3hHbE1UQkhvSndYSUxTT0Y0YXVOOVZoR3FmaVZfVU93Y0RVYUFGTEJ4blg5VEZWcENPSXE3TURIMENsVzQxQzBubVlya3R6WU1YbVlreEZHMVNUNWU5UUEySVF0alBKaEoxRUltck95cl9UM3dwYWlOODFIMTduUjhIMTNkZDJoQkQ3RW55eUsxTWVId01tT0YzYXgxQzIxTTNfRk5BRUkxdGRLWGx4TVZFSEVIckdqcmJ2dUlWQzV2VnZjNnF6aFNjaGQyOWdZVEJZdzkxZGtnbEswcWNkQlJCc1BYTDI4T2JGRE56dHhmUHhwdllBTFBvZ0RqOE5yQVRZZFB5Zw?oc=5",
+        "date": "2026-08-16T03:21:35+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "La campaña ya comenzó: ¿de qué manera los libertarios usan cuentas hechas con IA para captar votos?",
         "description": "La campaña ya comenzó: ¿de qué manera los libertarios usan cuentas hechas con IA para captar votos? Página|12",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHlrX3VVQnZNRmpCaVFudC02SlJpM1VwamNZejZ6YjMtZUhaQ2NJMmJzb3dtXzR5N3AzUU9OTjdfcXNlUEF1cXkyR25NcjdzbkgtNTNQOGhfeVV5WUd5bnpMLTh2a0dNNnlmWURmRHh3SE1BM2x1dkd6RURJd1RrYVNkNUhjbXJ1c01GT0R2RzZvRGkzU0NmNE9fNDBYbi1yeUFCRmtaVUFhOUJwSGxZNWZoRGNkVG5OU2dTQnhxYnF6UzJCc0ZqWXllbEdFdzl5dVE?oc=5",
@@ -134,17 +141,10 @@
       },
       {
         "title": "Video Chloé Bakalar explica cómo funciona realmente la ética de la inteligencia artificial",
-        "description": "Video Chloé Bakalar explica cómo funciona realmente la ética de la inteligencia artificial Clarin.com",
+        "description": "Video Chloé Bakalar explica cómo funciona realmente la ética de la inteligencia artificial clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3JUUkotak9DUXlBYkQ5T1VBUURJWjI3X3dVTlFEYVJnLXFXX2VXb25TY2N0bU5hbG5XYUZOSmE0TDhpd3hqNXEtQWJwbVlTdkh6U0FjcFJwdV8yVDdvUUNJQUNQMUtIY0VCSmdfaUQ5QkRSSXNxUUVkS2FrRk1zbGJYRnBmMG9UTXNDSHNNQ1dJTF9SQXhYcmY3SGp2NjBHeG9KcU00bml4TDNXTnN3RmtNSTNKSUFYamc?oc=5",
         "date": "2026-08-15T16:58:35+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Ya es un hecho: los chatbots lograron reemplazarnos, conversan entre sí y el humano poco aparece",
-        "description": "Ya es un hecho: los chatbots lograron reemplazarnos, conversan entre sí y el humano poco aparece Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWENTaW93RGtHQm1reG9rNXdOSUVZaERBSTBJZ0M0bzBqbndlRnhOb3RPZDJEajBDc2FBQ1dsTEt3dGhjUEgxU2F4dHNseEwwMXVlTmpfMXg0SkxsSDdkZHU5MElYTEtfaS10OXNYUnprYTVNYkJrMThFQ1hTLUVqWkpzVTZqbGJObm5WNFY1bWN0VUp1UGFvS0E0SXpDUTZQSWtxaWZYdkxvTjJzR1Y3WER3OUNDRnk0R2ZXMGhoS0s2VW9kdHBKd0w0RWk5S0lhOVHSAewBQVVfeXFMT2pnR0JwenpMOTc3U0pTMXdnSGZ1RjVTU1VDRVdxVG42REMwdlBvN1BFbV9iRngzS2pBakxHNXg0bWpoaWJUNFowaGwyU3dyV1ZQbXZTdk91MXI5dWhzY2RkTXNMME03VC1PX05jdVI3TFJYRTdGMV85Yi03akQ0bUFqRjJFZmJVazRsRGJKZk93SHJUOW1VQWY2b254V0Y5bjdhXzdtVjRQa1pPc1RvY3JneEsteHFYejFxM2thS19NQVRtNlJGNlc1b1ZjRHVTcC14SV96OVFIeFRBSTBxUGlqc0s5aDhZWlAweXA?oc=5",
-        "date": "2026-08-16T00:05:00+00:00",
-        "source": "Infobae"
+        "source": "clarin.com"
       },
       {
         "title": "China no quiere que sus internautas se enamoren de una inteligencia artificial",
@@ -156,13 +156,6 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta",
-        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVEOGlsNWI2NmFLSGpXQWRRSFk4bnNoa3VNdm82SFFNXzkwdmg0NDVRaE1oQnFaVTA2U2lJcElhdkFJUndOYnRxdDlQMEtzWnRhOWFLUnU5ejdZck54TFVCNWVqVks1aENBeHJpcjZ1X1lGNE4tZWs4VjBJUXJHaEtqYmVkWjFoOGZXOVlja2E3b21STW5IRVZpNVhfbkF6cThidERkVQ?oc=5",
-        "date": "2026-08-16T13:02:42+00:00",
-        "source": "Página|12"
-      },
-      {
         "title": "Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina",
         "description": "Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina La Nación",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjlMQ1pPY0liS0Q1MlhhY3FSZ0d3MjV2aDliZkhfT3hQOElINmVsT2VHVjZkWnZ6N21GV1BxbktQc3hta1NSdG1rWTZ6U3NuOXByREg3cU5LLXUzeWpzRER1ajAzYnFLRXh4Um5MQ01ya0ozMGFTRm1vQWRzU2tOb1JyOG51cm9zT1hrQm5OWm9rUmRyS3VoUFJMZVdYRDlSVjV1TFlja1hENG9LZlY4cFdZM3d0T1BZalY5cFpDMW44bG0xVFpwZEk5R1g?oc=5",
@@ -170,11 +163,18 @@
         "source": "La Nación"
       },
       {
-        "title": "Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú obsesionado por la energía y los datos",
-        "description": "Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú obsesionado por la energía y los datos Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaUYweThITHBlanlVWDU1b0RpUTNCQncxWlJreERHazlXWXZtV3B6aXpybGV3TWV3ejRlUm15Qnhsb3FpZ1JmdTRqZF8zZWNucGJzSzZOdHFYRlBveDBGc3RDWVhKenFMVkJYMHRUOGM4eGNpNmt5VkZnRHV0dE1DSHVhaEJVZW92OHI3SVdGMU5rczlZT053OXJ3WXhXSnJEOWZmOXJsekVMTk9hdFdpNVl4cDdvd2pDRF91Y3ZwYWMzbUxmMWFJQjNyNzd3OE5CQ3VXcGJUQkw5QQ?oc=5",
-        "date": "2026-08-15T23:59:46+00:00",
-        "source": "Clarin.com"
+        "title": "Peter Thiel apuesta por Vaca Muerta y profundiza su vínculo con la Argentina de Milei",
+        "description": "Peter Thiel apuesta por Vaca Muerta y profundiza su vínculo con la Argentina de Milei perfil.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUNTWGRUZlpZQk9Tck9BOU5BZjdvZG0wdWtXUGhkYlliaTB1X1ctaUpJQ0xhZEoxc3lmZm5sMFdiZjl4ODFUMElMYko5clpEdzN0RURJTTRTWlZiRGFsUVdyWVl3RWljQm4yQzRlMXpWV0MydjRmdFFKUmxBeDZtcmhscXhMZzNnbVhvZ2FJU3hHNVZKeTJKWHc2SDlpa21RLWRXY3dtWnBHXzNxeUZGZndmX3hkcmU2aHloX0VkQnFWcTYtMmNiYlFNMHA?oc=5",
+        "date": "2026-08-16T00:27:30+00:00",
+        "source": "perfil.com"
+      },
+      {
+        "title": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta",
+        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVEOGlsNWI2NmFLSGpXQWRRSFk4bnNoa3VNdm82SFFNXzkwdmg0NDVRaE1oQnFaVTA2U2lJcElhdkFJUndOYnRxdDlQMEtzWnRhOWFLUnU5ejdZck54TFVCNWVqVks1aENBeHJpcjZ1X1lGNE4tZWs4VjBJUXJHaEtqYmVkWjFoOGZXOVlja2E3b21STW5IRVZpNVhfbkF6cThidERkVQ?oc=5",
+        "date": "2026-08-16T13:02:42+00:00",
+        "source": "Página|12"
       },
       {
         "title": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más",
@@ -184,25 +184,25 @@
         "source": "Infobae"
       },
       {
-        "title": "Estados Unidos alertó por la tecnología en Vaca Muerta y la embajada de China lo cruzó con dureza",
-        "description": "Estados Unidos alertó por la tecnología en Vaca Muerta y la embajada de China lo cruzó con dureza Perfil Alerta de Estados Unidos por la injerencia china en Vaca Muerta eldia.com China le contestó a Peter Lamelas y llevó la disputa por Vaca Muerta al terreno de la \"guerra fría\"…",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT0Y1YWc4a3JFeGhIZDhsOVd2QmpORmw4YmJIcFNNZ2IzdTJsVmtGTVNwNXRhMGtFRWNMNWVtOEpuYjJxeDZSUWF4dTZDRWsxSlZhM2x2UGNFVU82SktqYzEzS3JBQVlPZ3lGTGI5U2hZVjg3Q2d3WE9vRjNTTHJjV2tXZWtHYko5VmFBc09hX2tEZ3NOTFBNM0xsa2pCdFY3d0hsdVJXTENNamVBTzNBcUVObTgzWE1hdXo0MmlQakNsLWVFNkxpbjFkOXZNeVcteHZJWm15SEpkRFptNktETFpQdmpMLUp5QWNVcVRCTUxOcEMxai0zWHpwbV82QdIBgwJBVV95cUxPdWZBeURPMHI4elVKa3JuUk41Y095ODZjUHRrVnQ1NHZjOWQtbV8yd0tWS09qNUNVVUxhdWVWTkZoQXBINTh6Zk96ZGxOaXBrV19fTFhNSWhyOV9JYWZPUzZULV9HN1h4clNGaGVOUy1KQjV2R2RxREhvbURqYXRDUVFjTHBLd1M5S3d1ZFFhOFhDeVlVWnRQN1d5M0hNWm9OVHlXeS1HcnJWZDdURGlzS0FDX3k2dVBSVWhyRU5fd1RGaFhpLWY2c2dVa3d4cXlnS0VQUHZyaC12ZUlEdExiSDR0N19UMGpzYXJCMzVfVlVBOFM2S2FBZTRmcXJJVHdocjQ4?oc=5",
-        "date": "2026-08-14T03:54:00+00:00",
-        "source": "Perfil"
+        "title": "Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia",
+        "description": "Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia perfil.com",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUVDMnd4cXhvTWpfNUpIUkR3UFlfRWJ3YVliSGZHV3MxeWtCdGtFREJXRkk0Rm1sZ3lkTHQxQmhCNDlQMThhakY1ME9nQ3hRQkhRX3h3Sms1ZEJhODRzOUZBazhxYXBQelNPQzZPSzFlZTQ3aHE2TUhmTEZGemN0LW1GSW1obnJiaHF2bTBmUkUwa2lpTXBEUFNnVGFFVUl5S0xfQXFPMHBubmI5azJtazVVM0FfbGpWVGRXNjI5am9LRXFNRWppY0R4dWlfOVR4Q3RaV05HMXYzNlRLY0hSTl9LSFHSAeoBQVVfeXFMTy1rQXdnTzF0cnJlSU14cmJkRHJJdDk5TWcycDVNcWRTUHFhZFNicXRnSTlzXzNBME02WEhCSk9Zd3NCX3N6OGlVTmYwUVBaNXhldHhpN0syMXByYXVKeFJRbU1SR1NJTUMtYlpMVmpSaGNtcHFYZTJycFp1bkdmX2JlMWFBV3U5YWw1WDhIU1BDSklBLUNaU3BvaURSMzJmV2VfLUt0eDFPRFNFNWU0alJTV2NvcWJoQ09aTE9fLXpPSzlGVFlaTTBWU2VEanE0cmpVMENJd2NSUmF5aUZnanFEUE43a09kOFRR?oc=5",
+        "date": "2026-08-15T03:40:17+00:00",
+        "source": "perfil.com"
       },
       {
-        "title": "El impacto de Vaca Muerta en la producción energética y agropecuaria",
-        "description": "El impacto de Vaca Muerta en la producción energética y agropecuaria TV Pública",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEtFUnFhVS1UMkNPTHVPT1VxcFo1OHJvenBBVDRQTkFlWmN5U3FTU0hBUVZDS0tlTEl4QUh4eE5HUDlJdk5nOFp4YzVmeU1obDRKdm1XaG1fS3VtdzNRZld5RnpfLXpJMzdRaWROWVpleDk0YnBNNnIweEg1c21JTkczN3VvQVVNRmptbWJuWUNwVWh6RS10X1VIWnJrbzRCbUJFOA?oc=5",
-        "date": "2026-08-15T19:48:39+00:00",
-        "source": "TV Pública"
+        "title": "La vida más allá de Vaca Muerta: la Patagonia fija su agenda productiva al margen del boom energético",
+        "description": "La vida más allá de Vaca Muerta: la Patagonia fija su agenda productiva al margen del boom energético letrap.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNVpheGo0OWpkX25TZ002YUx1QTV6ZzVIOUhybG0tS19DYUNpMHVUV2Ryc1lwLW9lQ0xXNklzMVJ2VThnOHlGX3NBVV9udmtsTjZnQTZMZ2xJMXFIR18taUl0S0cxT0VVWHRvMnllUGlpejROcHZ2dmc4dGdqX1lGRlBvb0NWU2h1Tkg3aVc5N1BPZHgwYjZDNWd2ZDhtOTN6R1oyQjBjTTBTZnZwbzdqSkNKN1ZKZ1doU2c2OTA1aDJSOHVMaWF1X0dsYi1RazV5N3VmV0lfUzLSAd4BQVVfeXFMTXctRlUyNnJaRXlpTnZtZURPRDBqTjZIRlppTGE1VDBNOWRxSTY2M2wxUkM4V2xLX2N2RXhQbkJlZWlueWVpMk9Xd1RBT0xKRFRDSWhsVjZUVTM2U2ZOOWZYVWt4Wjk0LTJKcmlIU25EVkVJRnJyNzB1N3Q5MGlBTGtoZ1FSUmt1RnVXQkFWZjU1Q0d0U0ZtblZzOUk3S295OGRzbTk4ME9DLW40T29vanhlUkl5cV96OER6aVNMdDBPNXY5UW9ieTl4NllSd09vODBKaGJqUHRrWUxGNV9R?oc=5",
+        "date": "2026-08-16T03:00:00+00:00",
+        "source": "letrap.com.ar"
       },
       {
-        "title": "Del auge energético al potencial para el real estate, una mirada sobre Vaca Muerta",
-        "description": "Del auge energético al potencial para el real estate, una mirada sobre Vaca Muerta Ambito",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkFRSTNaZFNrVTctQkY3X2ZkaHE0LUl0OUtTbXJURHI3SE5SVzhDZU1CMjVCV0x0OUkyMlJoMkxIZVZjSkVONGxOcktaVGJCR3h5S01vYWEzaFJ2YVpmY0dfMVllVGNoME44UkFqTFBfUHFqN1o3X1RBekIyMWVxSzJfWEVfMW5ZWlMwTmZza2gycEZ3czhDTXpYWWpWbXNsQlIxdNIBqgFBVV95cUxOWFNMOE9aaEtzbk5OY1RKSXFhaEY3YW96azhPVkwtbGwtYkVXelZVeEFpbmt1UnFVMDM4SnpYeTdBdWZlRGZPSlIzQ3pqdThDRk01V1ZXellmYXVWTXJGNGJUcHhCOU1TTmhreXUwWFB4M1pIODEyUDZkYUtIYWpNNzNkUko5UmNFSDBCX0pKeGljeU1vSEtHWTdCbkdxbE9oN0c3Q2NnNEt1Zw?oc=5",
-        "date": "2026-08-14T16:48:18+00:00",
-        "source": "Ambito"
+        "title": "¿Quién paga el éxito de Vaca Muerta? El día después del petróleo",
+        "description": "¿Quién paga el éxito de Vaca Muerta? El día después del petróleo perfil.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2FlWFpfdXROVG9vREtkSlpYWTVHemY0dWFzZHFKOS0wbXpWNGtBeER6TERPZlFvM2NqQlJ2V1lYM3dqMV9Nc1ByeUw0a3p2cVpsVjlYdEQzalJGMkU2UG8zd3Y4WWIzTTJGQ0czOF82eS1ic0xnSndIUjVMclpXLTN1d3E2eWJOd3ZkMEktVm4xVWYzelMwNGF5SENVYkdxcmIybkxpRDR1RE1u0gGyAUFVX3lxTE9BUDhnVmxUTk85QkE4RFdLSmVWMFRiY0R5aHN3TUJrc0RSaUxnYzB1em1ucElIX2JhNEU0QUJ2NVUwaGUtcUs0WkxySE10d0JUWUhkVkswWHhBRmxhaURpbGpKNWhXTGlVUm5jdjVNYlZUaEFsXy03NHR3X18yTGFENjRRclVWeW9ubzJWLWFXV0pHSXhDWkdsdWZIaVB3c2RDdEc3VGpYWDBpdHktYWRMQnc?oc=5",
+        "date": "2026-08-14T16:40:47+00:00",
+        "source": "perfil.com"
       }
     ]
   }
