@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-16T17:14:21Z",
+  "updated_at": "2026-08-16T18:19:45Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+        "description": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1dINTZEX1oxMC1wWjRudHdvT2pzR0REYk5RbjBXMnZYQldQcTlRbWo2cUR3SW1BcndfQ2RSVHlLclBGdFNHV2xOUlQzR1V3WV81b1A5R055ZFRRaEh0SWNFd2dpUXY2Q2tZQWRKZVNIU1l4OE5FZThPOU5DdHlvTzdnVXptTnB5ckUzOGdYdURBTl9pUVE?oc=5",
+        "date": "2026-08-16T18:00:00+00:00",
+        "source": "Hipertextual"
+      },
       {
         "title": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas",
         "description": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas Infobae",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHdyTEpBQk5pSnRkcVpmVnlFRHRmeVk1Yy1qZUpNdWxjeFVvMGpyWWFjaXdudFZBNERXckZxcEpuc0lXS1Ayb2tMUFZVZ0FsRldqUHVmeVFaUFpDS0psUThma2thWVpiZ0RMakl0SlVEZXQ2akViWDRrTmlQQkdIcTc1a2VXTHlEMDNxMkxTa25XU0tIeVdadG1PbWQwcjVvaVhJZ2lZVGNfQ2t0blJwOXhuYjRvRlFDaTFNQ2FsaG9KRk4xMW1VWnVJb9IB3wFBVV95cUxNM1JxNXl1LW5oZ2xqaFRLd0ZtSE9mOFl1d2JfNHlyMjJibDNxZFFEaERCRFVGNThWT2lsTERUTmplUkh6RjBCSFJZT3ZYN2E0RmlCLW96WElkZVpTbGNCWmY3ZU1SM20zb21RYk1qWHJvdHRyX0ZLUUdQbHZqdUhlc2NvSVE2dWNBVTFuWnFrQ2xBQkNZUk8xVlVseE9Lam9Yc0ExNkE5ejBKZGs1N2JYNlotdUF4NkxJZ0tiTFIzNm5jVkViUjRJdDI3Ny1CemtENE1PWkE5dTRURkF2c1lR?oc=5",
         "date": "2026-08-10T15:15:07+00:00",
         "source": "Diario AS"
-      },
-      {
-        "title": "¿Halo de los creadores de Call of Duty? Microsoft prepara un giro inesperado - rumor",
-        "description": "¿Halo de los creadores de Call of Duty? Microsoft prepara un giro inesperado - rumor ixbt.games",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUlxNElxQ2hObHZzXzM0X2h4NWVnZk5zX2FNamxyUU5PSWNQUGltT3VBdDBGY2Z5RmJEa3Y5NGxKUUF3TDBNVHU0OUdpY0pzMVRvM0ZKYVR2dElzdGUxV2xiaWhfem9hNG1jX2FESDByVDdUNVdnN0k4ak80bDZTUVNaZzVmS1Z1cUJDVHNNYVpRRnhWWFZMN0Q5eklMb3lOQnJvcUdXSXJTZEFZZk1LbFNGOHdGSzlGWi1J0gHAAUFVX3lxTE5POU52dXBRQm42SlU4VGtSajBKWllOSnBVMGJZNk5zaTZNOGV0UmxwaHRxblI4Q25tanRNZHFmZ0dSU1hnSUUyaldzVkRLS0VXZXNtUWNITGQtOXlabUI3cWptVU4xa0ZNMDdUME9OaEdLQ3ZUY012X2dKQ1NFRkh2OHlMdE5rMGkxbUdMZFZJcVoxMVVVZG5CWUpkQWdtVHRhTS1nd3JWcTZOTkJpOEdvSnRTWkl0SldmMDdWUklVYw?oc=5",
-        "date": "2026-08-16T07:11:11+00:00",
-        "source": "ixbt.games"
       }
     ],
     "Marketing": [
@@ -62,10 +62,10 @@
       },
       {
         "title": "La municipalidad de Eldorado impulsa capacitaciones en internet y marketing digital",
-        "description": "La municipalidad de Eldorado impulsa capacitaciones en internet y marketing digital De la Tribuna TV",
+        "description": "La municipalidad de Eldorado impulsa capacitaciones en internet y marketing digital delatribunatv.com",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWdRem9feWo5VjlMRVpsNkh4N2p0OS1FLXdMVW1IUUtVNHlWNExsMHNZR0NPVmYxMDc1YlRkQ2tmYnR6NlprczdvcWxmTDZFMlpIZVV4eWt0NEo1blF4SmFpQVNKQ2dyS0xuQTYxdTdnOGstV1lhQmtvYUFzX2ZfWHFXZjZGRVpHbkFZVU0yRlhKSjFCelZFT1g3UHhiU0h5ZEo3ZXRheDZ0OUVEcnVnQV9NQzc2bmNPRjg2STVyNms3TTg1MVVMYllKMjNwV3RKQzBRNHZIOA?oc=5",
         "date": "2026-08-14T13:20:50+00:00",
-        "source": "De la Tribuna TV"
+        "source": "delatribunatv.com"
       },
       {
         "title": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares",
@@ -90,10 +90,10 @@
       },
       {
         "title": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos",
-        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos Norte Misionero",
+        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos nortemisionero.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0VVWXFEb1Yxc1hld2pMb255V0ZCYnBVUVV6YWJGODR1Q0FvZGYwRW92RGFwUDdjcElvazVFaEx4SmtEYktlZ0EwVl9VZUtuVEg5S1YyTGNybHRrY0JNbXNkaXpVbjlMT1pwTkFZaDRhUnNBb2JPbUtZVS1YNVU1ZWYxUU9PWDRnbkl0WDBfX1Fpd28zOUlQd3lMUE55VTljc08zY0tLMlkzcUh6MGpvMXVJNkRQVkk4bWVsMzc2VW9DUDRoc3lKWVJFbHh5SkJsMk5nSw?oc=5",
         "date": "2026-08-12T11:58:12+00:00",
-        "source": "Norte Misionero"
+        "source": "nortemisionero.com.ar"
       },
       {
         "title": "Nuevas formas de gestionar pagos de publicidad digital en Argentina",
@@ -156,11 +156,11 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina",
-        "description": "Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina La Nación El magnate Peter Thiel hizo la primera inversión en Vaca Muerta y compró el 1% de las acciones de Vista Infobae Peter Thiel cambió los \"bits\" por barriles: compró u$s76 millones de Vista…",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjlMQ1pPY0liS0Q1MlhhY3FSZ0d3MjV2aDliZkhfT3hQOElINmVsT2VHVjZkWnZ6N21GV1BxbktQc3hta1NSdG1rWTZ6U3NuOXByREg3cU5LLXUzeWpzRER1ajAzYnFLRXh4Um5MQ01ya0ozMGFTRm1vQWRzU2tOb1JyOG51cm9zT1hrQm5OWm9rUmRyS3VoUFJMZVdYRDlSVjV1TFlja1hENG9LZlY4cFdZM3d0T1BZalY5cFpDMW44bG0xVFpwZEk5R1g?oc=5",
-        "date": "2026-08-15T23:42:00+00:00",
-        "source": "La Nación"
+        "title": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta",
+        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12 Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina La Nación Peter Thiel cambió los \"bits\" por barriles: compró u$s76 millones de Vista y mira a Vaca Muerta Ambito",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVEOGlsNWI2NmFLSGpXQWRRSFk4bnNoa3VNdm82SFFNXzkwdmg0NDVRaE1oQnFaVTA2U2lJcElhdkFJUndOYnRxdDlQMEtzWnRhOWFLUnU5ejdZck54TFVCNWVqVks1aENBeHJpcjZ1X1lGNE4tZWs4VjBJUXJHaEtqYmVkWjFoOGZXOVlja2E3b21STW5IRVZpNVhfbkF6cThidERkVQ?oc=5",
+        "date": "2026-08-16T13:02:42+00:00",
+        "source": "Página|12"
       },
       {
         "title": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más",
@@ -171,10 +171,10 @@
       },
       {
         "title": "Estados Unidos alertó por la tecnología en Vaca Muerta y la embajada de China lo cruzó con dureza",
-        "description": "Estados Unidos alertó por la tecnología en Vaca Muerta y la embajada de China lo cruzó con dureza Perfil",
+        "description": "Estados Unidos alertó por la tecnología en Vaca Muerta y la embajada de China lo cruzó con dureza perfil.com",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT0Y1YWc4a3JFeGhIZDhsOVd2QmpORmw4YmJIcFNNZ2IzdTJsVmtGTVNwNXRhMGtFRWNMNWVtOEpuYjJxeDZSUWF4dTZDRWsxSlZhM2x2UGNFVU82SktqYzEzS3JBQVlPZ3lGTGI5U2hZVjg3Q2d3WE9vRjNTTHJjV2tXZWtHYko5VmFBc09hX2tEZ3NOTFBNM0xsa2pCdFY3d0hsdVJXTENNamVBTzNBcUVObTgzWE1hdXo0MmlQakNsLWVFNkxpbjFkOXZNeVcteHZJWm15SEpkRFptNktETFpQdmpMLUp5QWNVcVRCTUxOcEMxai0zWHpwbV82QdIBgwJBVV95cUxPdWZBeURPMHI4elVKa3JuUk41Y095ODZjUHRrVnQ1NHZjOWQtbV8yd0tWS09qNUNVVUxhdWVWTkZoQXBINTh6Zk96ZGxOaXBrV19fTFhNSWhyOV9JYWZPUzZULV9HN1h4clNGaGVOUy1KQjV2R2RxREhvbURqYXRDUVFjTHBLd1M5S3d1ZFFhOFhDeVlVWnRQN1d5M0hNWm9OVHlXeS1HcnJWZDdURGlzS0FDX3k2dVBSVWhyRU5fd1RGaFhpLWY2c2dVa3d4cXlnS0VQUHZyaC12ZUlEdExiSDR0N19UMGpzYXJCMzVfVlVBOFM2S2FBZTRmcXJJVHdocjQ4?oc=5",
         "date": "2026-08-14T03:54:00+00:00",
-        "source": "Perfil"
+        "source": "perfil.com"
       },
       {
         "title": "Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\"",
@@ -198,11 +198,11 @@
         "source": "Letra P"
       },
       {
-        "title": "El impacto de Vaca Muerta en la producción energética y agropecuaria",
-        "description": "El impacto de Vaca Muerta en la producción energética y agropecuaria TV Pública",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEtFUnFhVS1UMkNPTHVPT1VxcFo1OHJvenBBVDRQTkFlWmN5U3FTU0hBUVZDS0tlTEl4QUh4eE5HUDlJdk5nOFp4YzVmeU1obDRKdm1XaG1fS3VtdzNRZld5RnpfLXpJMzdRaWROWVpleDk0YnBNNnIweEg1c21JTkczN3VvQVVNRmptbWJuWUNwVWh6RS10X1VIWnJrbzRCbUJFOA?oc=5",
-        "date": "2026-08-15T19:48:39+00:00",
-        "source": "TV Pública"
+        "title": "Las empresas que dominan Vaca Muerta",
+        "description": "Las empresas que dominan Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0h1WTBIcnpkWkNCZzh4NTV0dEQ0THExZjh0R1dlMVlIdllHT0J0NTE5cC1aeUpVTTRDc3R6LWg2Zi1HVFlSQnlnQnJ0ZFI0NlVZYmVrRURBODdPOFRQaC1nMDFZMGZVMW9ZWWZ4b2VYeDhoRDVoNkFrcVN4WkNVYWxaXzdWSXp0cVp4eNIBkgFBVV95cUxNN0hpbmh4WEc4VHFoaXJkV2NfczUxUFNpX1NaenR4S3dpVTlURW1JczdLUlZkeFE3Mi1PWlNjNm4wamluemVKbHhKLUd6OWMzMF92WE9GbldqNExUZjE5M2tqd1lPcUlHU3QzNGxyTVdENXlzYkhuN2p3NDgzRWxjNEhoSDc4cjg1Y1pRWkRjWW8zdw?oc=5",
+        "date": "2026-08-15T15:50:00+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
