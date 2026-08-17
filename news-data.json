@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-17T03:43:46Z",
+  "updated_at": "2026-08-17T04:34:55Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Kaspersky alerta sobre pishing en Microsoft Authenticator",
-        "description": "Kaspersky alerta sobre pishing en Microsoft Authenticator Enfasys",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMlZnZERiMVpzck1wRVZ1Vk9lZ01lSWhfd2laWnhSZUJlWTJKVFJzMUF4QzI0LWI2ajVrQTE5M1NUSVpCdmZ0d3d2RWlNNmpFeU4xYlkwSTVTREdncHA3QzhGSGVoUzY4RlNfRlNmTDVySzgxdVZNUGlTVWxBbTYyZUJ3Nk1CbWFVdC1JWUtXMTRNa1YyaVlYSW5GaGlEN3lYYWFoU2tXMzBlVE9jQkZtUzV6dlJKZw?oc=5",
-        "date": "2026-08-16T20:36:06+00:00",
-        "source": "Enfasys"
-      },
       {
         "title": "Google, Amazon y hasta Microsoft llegaron a invertir en el deporte: Barcelona, F1 con McLaren o la Bundesliga",
         "description": "Google, Amazon y hasta Microsoft llegaron a invertir en el deporte: Barcelona, F1 con McLaren o la Bundesliga Infobae",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTFd6MlhvOWlEdHRuTzdMdGdHU1RxSWNjaXM4RE9mNW9hZ0F0QzBvWElwVmN2VV81LXV5MkN3T2tzOTE0cFBCY2gwM0RFSkRlekFvTXMwS3l5TjJyQWktcU9RQjlEdGVscW9sckF3c1JiWmFreUxYSEFMZnRJcjg4QnN0TXJhQVdSNW12eVlMYVo3MHVvQXg0ZFRFMmRaZFd1ZjV5VlpFcjQtZnhSU0pnZ1hPYkFsOU91WXQzN280WG53QWE3b0RwRVhCTks1MnZkdExaM0gzajlFNEU1UVk5Z3dn0gH8AUFVX3lxTE8weDA0N1FZRV80a2k4YlBHNWVJZjdtUHlKS1R5SUQ1NDJnNHJMekNNcncwYzhLYy13a1hDRF92dW44MmFjTkt2N2M1U2EyU01qVzhtbVh2dFc2OXJyQmhDT29aVXdBZEE4YjYxNm9rQVRLWXpHUXlkaEVHX0txZkVINlJWQi0zMkFoSXBwLWgxdVB5WTJOM1dOUkJkem9mbm9xQVFKQ3FIM0FwYkVfTDdUSXJqQTd1NUVJU2p5U2c1TG1EbXhJb2VscDZaMHZUUW9yRzBldVYyRGloNEdocDV3bkVtZjJRaWJvOTJKUGk0S1hxVjlxaUdEa2Z6SQ?oc=5",
         "date": "2026-08-16T21:00:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Kaspersky alerta sobre pishing en Microsoft Authenticator",
+        "description": "Kaspersky alerta sobre pishing en Microsoft Authenticator Enfasys",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMlZnZERiMVpzck1wRVZ1Vk9lZ01lSWhfd2laWnhSZUJlWTJKVFJzMUF4QzI0LWI2ajVrQTE5M1NUSVpCdmZ0d3d2RWlNNmpFeU4xYlkwSTVTREdncHA3QzhGSGVoUzY4RlNfRlNmTDVySzgxdVZNUGlTVWxBbTYyZUJ3Nk1CbWFVdC1JWUtXMTRNa1YyaVlYSW5GaGlEN3lYYWFoU2tXMzBlVE9jQkZtUzV6dlJKZw?oc=5",
+        "date": "2026-08-16T20:36:06+00:00",
+        "source": "Enfasys"
       },
       {
         "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
@@ -32,10 +32,10 @@
       },
       {
         "title": "Optimización de la curva de rendimiento Frontier",
-        "description": "Optimización de la curva de rendimiento Frontier news.microsoft.com",
+        "description": "Optimización de la curva de rendimiento Frontier Microsoft Source",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1I4R1JuMzdYTld3OEZDeDZ1Rk1vM2NULVhTMG9hVm5hOGFPMGM0Z3paNHdDeGM1RUNqdGN3UFUyaGJOY0o0ZS1FRDhaanh4NGxfT2ItNExyOF9BYnM3V3YxNzZOSXFGY090R2N4dkZ1RHpsWEcxUFl3eWR6OThwc1poZXBONWQzU2RobHAwYXF1clQtTUtFSFE0WnV6bkdhOWZQa044N0J0d0hLbWVOZ0tqOFJvdDViWWc?oc=5",
         "date": "2026-08-11T17:08:47+00:00",
-        "source": "news.microsoft.com"
+        "source": "Microsoft Source"
       },
       {
         "title": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA",
@@ -46,10 +46,10 @@
       },
       {
         "title": "Microsoft Is Retreating in China, but AI Keeps a Door Open",
-        "description": "Microsoft Is Retreating in China, but AI Keeps a Door Open TradingView",
+        "description": "Microsoft Is Retreating in China, but AI Keeps a Door Open es.tradingview.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2RDd01ONDNaRmRGellGYTh0TXhzaXluTDNTTmliU0FIb2N4V1o5UzZteWcwM2tVT2VRR1JsNU9tUHlvVFpJZ0RPSGdWNmMwclB3RVEwNWRRUE5NX2tWc2pxR1c2MEk3S1RIbVBXbEZJdEJmcVlTcnRPT1hmYnNZUGppSXlZdFpNdnh1c1ZERDJnUGpwSlVEaDg1LXpuSUFpQVFOdlY0TDA3ODJuMjFfZ2JHMS04Tmc?oc=5",
         "date": "2026-08-13T16:51:23+00:00",
-        "source": "TradingView"
+        "source": "es.tradingview.com"
       }
     ],
     "Marketing": [
@@ -76,10 +76,10 @@
       },
       {
         "title": "Marketing digital para pymes: estrategias de email que funcionan en 2026",
-        "description": "Marketing digital para pymes: estrategias de email que funcionan en 2026 NewsDigitales",
+        "description": "Marketing digital para pymes: estrategias de email que funcionan en 2026 newsdigitales.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2k0NUEyRVg3MFhGQnVucTJhQkUtR2dmUEE2RFJxYU10Rm1OYTQ4ZjFkU3F1aEFMaHNoQ3BWa1pldm81MjVjMnNDZ05sSWNpNkx6emNPTTZBV19KUlF4SlhKelVKQ0IxZkZoN0tqZE5USnFpREdMSU1qNGVmVFREeVBnMXEwU0NQNHA2dWltTHRiZkdXUE12X0FtSWVNR0ZCbUhEVjNhWmdvb216cUZYeWtvVy0?oc=5",
         "date": "2026-08-12T18:05:10+00:00",
-        "source": "NewsDigitales"
+        "source": "newsdigitales.com"
       },
       {
         "title": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital",
@@ -113,10 +113,10 @@
       },
       {
         "title": "Filosofía, Odiseo y la virtud en la inteligencia artificial",
-        "description": "Filosofía, Odiseo y la virtud en la inteligencia artificial lanacion.com.ar",
+        "description": "Filosofía, Odiseo y la virtud en la inteligencia artificial La Nación",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEFYdnR0TVg3Y0hyZGs3NkNpMldhTURCR0dUcHgzbWRtMHhvcVRqRnVIOTVQbzM1OTMxVUJiZVVCeEptVDEzWXlKNDdhaElTVUtIMHU0T0IzX1o5ZEVPdzhJQzk2cVRlYVlGMGJzOE5VWmdLbVkxQjdnYzVTWEZEVzlqbkxWUjZQMXV3cWZ3ajBQcG02TV9UVm9sd3ZtS2FCY2pwVW9xUXEwZlVF?oc=5",
         "date": "2026-08-16T03:01:00+00:00",
-        "source": "lanacion.com.ar"
+        "source": "La Nación"
       },
       {
         "title": "Inteligencia artificial: crecen en Texas las protestas contra los data centers por la presión sobre la red eléctrica y el impacto ambiental",
@@ -140,27 +140,27 @@
         "source": "Página|12"
       },
       {
-        "title": "Nació en Buenos Aires, trabaja en Silicon Valley y revela los trabajos que podrían desaparecer en Argentina en 2030 - TN",
-        "description": "Nació en Buenos Aires, trabaja en Silicon Valley y revela los trabajos que podrían desaparecer en Argentina en 2030 TN",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUEZSQ3lVNVQ3RHFrcTFIc2x5SHlRRGkyZm9VUV9FTkZCa1FINkNaV3hiY3BDQ0F1VzUyNFlpdUZ1OVRxUTVrMnNvUXloVEZYQnFKaTRkZTdxamp1aFQ0c0VmaHdHcEJHU0FyZkh6QzA0cmFubVUtRjVIdExyUDd5Si1SVFlvOXViaGIwMEFETlEzNG0wVWtJSkNUY1E0R3E1SUxtVWNCX1BBWHFvRGxTYVNWWkZuMDdZSUp1UU81Sm5oaXl5UjhMYUh6MlBIdjNSUXFjbkZxUEFVcFBUbm9WaVozTzZfWHhN0gH8AUFVX3lxTFBRalVhc1FzblJLVnNOZkVJWmZ4QktlOFhPZnV2WWFDb24tLUhOVzJKU2FGY1ZqVEwxSlYxeTRXeXF3emxHUFpxYkxxU3pnNi1FOXJpN0ZPX0I2TFV3R2gxcm9aWVVhXzc4czBZQmd4c2hNWUh5dUtKNTZrMjNmMmx6eFdlWlFUVjBLZnBoQVgydVJNX0RzRm5CRWt1U3BlZGhhcUNRZEdtSm83WkY0Zk1rSS05YXJnSy1McG81a01HZlhYcVhLLTdUbUFJM3pjbVAtRWM4cEJNOFl6b3ZKMWRNbF83QTRIb2dpTndKemFNSGJWZDZlWEswa1lmUw?oc=5",
-        "date": "2026-08-16T08:38:00+00:00",
-        "source": "TN"
-      },
-      {
         "title": "Córdoba abrió su buscador con IA: ahora la ciudadanía puede consultar fallos judiciales de acceso libre",
         "description": "Córdoba abrió su buscador con IA: ahora la ciudadanía puede consultar fallos judiciales de acceso libre La Voz del Interior",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDNfSkxuakVIa3dJenl3YzNvd2FJcG05b0V5SmVUUFo5NzMwTHBFSEI0WEpKMmswSUhRZjlBRHZqTldFVXJKRDdmbnhIcWhiUFNkWWx5Z1ZVM3g0SjZOYlNWWXFJaS1Cc1RGUWJOZFFTLXlsRXlqV0pmVzRwaHBIMVYtT1llbkFoQzRsLUllNmRHWTdGS0t0QkhFTUgtS3MxMmlaQ3FPVDZfdUxm?oc=5",
         "date": "2026-08-16T22:34:53+00:00",
         "source": "La Voz del Interior"
+      },
+      {
+        "title": "Nació en Buenos Aires, trabaja en Silicon Valley y revela los trabajos que podrían desaparecer en Argentina en 2030 - TN",
+        "description": "Nació en Buenos Aires, trabaja en Silicon Valley y revela los trabajos que podrían desaparecer en Argentina en 2030 TN",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUEZSQ3lVNVQ3RHFrcTFIc2x5SHlRRGkyZm9VUV9FTkZCa1FINkNaV3hiY3BDQ0F1VzUyNFlpdUZ1OVRxUTVrMnNvUXloVEZYQnFKaTRkZTdxamp1aFQ0c0VmaHdHcEJHU0FyZkh6QzA0cmFubVUtRjVIdExyUDd5Si1SVFlvOXViaGIwMEFETlEzNG0wVWtJSkNUY1E0R3E1SUxtVWNCX1BBWHFvRGxTYVNWWkZuMDdZSUp1UU81Sm5oaXl5UjhMYUh6MlBIdjNSUXFjbkZxUEFVcFBUbm9WaVozTzZfWHhN0gH8AUFVX3lxTFBRalVhc1FzblJLVnNOZkVJWmZ4QktlOFhPZnV2WWFDb24tLUhOVzJKU2FGY1ZqVEwxSlYxeTRXeXF3emxHUFpxYkxxU3pnNi1FOXJpN0ZPX0I2TFV3R2gxcm9aWVVhXzc4czBZQmd4c2hNWUh5dUtKNTZrMjNmMmx6eFdlWlFUVjBLZnBoQVgydVJNX0RzRm5CRWt1U3BlZGhhcUNRZEdtSm83WkY0Zk1rSS05YXJnSy1McG81a01HZlhYcVhLLTdUbUFJM3pjbVAtRWM4cEJNOFl6b3ZKMWRNbF83QTRIb2dpTndKemFNSGJWZDZlWEswa1lmUw?oc=5",
+        "date": "2026-08-16T08:38:00+00:00",
+        "source": "TN"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Carlos Melconian, economista: “No nos pegamos un tiro porque está Vaca Muerta”",
-        "description": "Carlos Melconian, economista: “No nos pegamos un tiro porque está Vaca Muerta” lanacion.com.ar",
+        "description": "Carlos Melconian, economista: “No nos pegamos un tiro porque está Vaca Muerta” La Nación",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDl0VUM5SEVKWVF6VmVKR2FJdTFCNUQ4LWxUSXdiSFNyckp1cjRyZ1J3eWw4VEtZdnhuWVVuM1JRY3FGUjYwTTJfaTBjUWtmQnlmbkxzME5QckNsR2NGWWVBU1JLcHVpQ0tLSGxYSFR6QUthMXJ3SGF1aFBESkU0d2FaSVBRZkZwY1JIT05MNEppWjU1eEM3TUhzempnTk8wSGl2d2Q5OUpGLTlYOWlfaXhIY2w4WWMxTWQ4THI3V3hkZw?oc=5",
         "date": "2026-08-16T18:57:00+00:00",
-        "source": "lanacion.com.ar"
+        "source": "La Nación"
       },
       {
         "title": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más",
@@ -171,17 +171,10 @@
       },
       {
         "title": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta",
-        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12 Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina lanacion.com.ar Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú…",
+        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12 Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina La Nación Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú obsesionado…",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVEOGlsNWI2NmFLSGpXQWRRSFk4bnNoa3VNdm82SFFNXzkwdmg0NDVRaE1oQnFaVTA2U2lJcElhdkFJUndOYnRxdDlQMEtzWnRhOWFLUnU5ejdZck54TFVCNWVqVks1aENBeHJpcjZ1X1lGNE4tZWs4VjBJUXJHaEtqYmVkWjFoOGZXOVlja2E3b21STW5IRVZpNVhfbkF6cThidERkVQ?oc=5",
         "date": "2026-08-16T13:02:42+00:00",
         "source": "Página|12"
-      },
-      {
-        "title": "Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\"",
-        "description": "Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\" La Izquierda Diario Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia Perfil De los yacimientos de Vaca Muerta emergen disputas entre Washington y Beijing El…",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHBGLWNjUGY5RktCbmREX0xGUi1ULXh5UHdEQ3RKV1lWempoemEzSVFXY0VwVWdPWlJlQ3V0YkdUX1FBREp0OWkweHNEOEUtYlZYNjkwVU1RSF93WDR0Z0FuU3N6d1pBTWJfWUxTQ1QyRTJzWVk2S3REb2lWV3M4WHJKQWZ6WWV5SmowZjRPa0tjbm1YVzZMaXZ1ZEN3RERXM1hyTTVZa2RQaHVUN3NtY0pCdHbSAbwBQVVfeXFMTmZpUXduem5LTFpDam1CRklCQ3A2dU5fTXJnbnlXV2o4UXZtcGI3Vkx3TlBqS2lOUV9MN3NzUFY0Wi05SlFBMUJheTVZcmJrbVFQQ2wxRjhnQmVsTFZoU2ZPN3FEczNmSHpyWXdSVUI0Yy1WMTlSa1R1aWFzNk03bUJNY2l0VkFUbzZXRFR1RVYyeUVxQ1ZGZ24xa083Vlg3Z3l6VHJoWGVKWnlmZzNIYlV0eU5NdGdDZVNoV3c?oc=5",
-        "date": "2026-08-16T14:26:08+00:00",
-        "source": "La Izquierda Diario"
       },
       {
         "title": "La vida más allá de Vaca Muerta: la Patagonia fija su agenda productiva al margen del boom energético",
@@ -196,6 +189,13 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0h1WTBIcnpkWkNCZzh4NTV0dEQ0THExZjh0R1dlMVlIdllHT0J0NTE5cC1aeUpVTTRDc3R6LWg2Zi1HVFlSQnlnQnJ0ZFI0NlVZYmVrRURBODdPOFRQaC1nMDFZMGZVMW9ZWWZ4b2VYeDhoRDVoNkFrcVN4WkNVYWxaXzdWSXp0cVp4eNIBkgFBVV95cUxNN0hpbmh4WEc4VHFoaXJkV2NfczUxUFNpX1NaenR4S3dpVTlURW1JczdLUlZkeFE3Mi1PWlNjNm4wamluemVKbHhKLUd6OWMzMF92WE9GbldqNExUZjE5M2tqd1lPcUlHU3QzNGxyTVdENXlzYkhuN2p3NDgzRWxjNEhoSDc4cjg1Y1pRWkRjWW8zdw?oc=5",
         "date": "2026-08-15T15:50:00+00:00",
         "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\"",
+        "description": "Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\" laizquierdadiario.com Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia Perfil De los yacimientos de Vaca Muerta emergen disputas entre Washington y Beijing El…",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHBGLWNjUGY5RktCbmREX0xGUi1ULXh5UHdEQ3RKV1lWempoemEzSVFXY0VwVWdPWlJlQ3V0YkdUX1FBREp0OWkweHNEOEUtYlZYNjkwVU1RSF93WDR0Z0FuU3N6d1pBTWJfWUxTQ1QyRTJzWVk2S3REb2lWV3M4WHJKQWZ6WWV5SmowZjRPa0tjbm1YVzZMaXZ1ZEN3RERXM1hyTTVZa2RQaHVUN3NtY0pCdHbSAbwBQVVfeXFMTmZpUXduem5LTFpDam1CRklCQ3A2dU5fTXJnbnlXV2o4UXZtcGI3Vkx3TlBqS2lOUV9MN3NzUFY0Wi05SlFBMUJheTVZcmJrbVFQQ2wxRjhnQmVsTFZoU2ZPN3FEczNmSHpyWXdSVUI0Yy1WMTlSa1R1aWFzNk03bUJNY2l0VkFUbzZXRFR1RVYyeUVxQ1ZGZ24xa083Vlg3Z3l6VHJoWGVKWnlmZzNIYlV0eU5NdGdDZVNoV3c?oc=5",
+        "date": "2026-08-16T14:26:08+00:00",
+        "source": "laizquierdadiario.com"
       },
       {
         "title": "Ruta 5 deteriorada: conflicto burocrático afecta Vaca Muerta",
