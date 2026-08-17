@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-17T11:19:44Z",
+  "updated_at": "2026-08-17T12:32:18Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot",
+        "description": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX00wMW1jbzQxMnNhVGp2dFZ2OUozRzBia2dLSzFGODh5TlFsdXNGNEhIXy1ZU1BhSHBxcnFoQXdWSGJkeVU2Rk1KM2lvQTVYU2d0X1BTcVZfaFplZktWRzZud0JmOUM1dWxQVXVjQTFFdHp2N1kyemI0NVVpZmtxVnNTWWJ0RjEzV2hXYzdrMzhzanRh?oc=5",
+        "date": "2026-08-17T11:38:00+00:00",
+        "source": "CNN en Español"
+      },
       {
         "title": "Datos clave: Plan del chip de IA Maia 300 de Microsoft; Binance acredita MSFTB",
         "description": "Datos clave: Plan del chip de IA Maia 300 de Microsoft; Binance acredita MSFTB TradingView",
@@ -18,10 +25,24 @@
       },
       {
         "title": "Microsoft no sabe cuándo llegará la actualización de Exchange y culpa a la IA",
-        "description": "Microsoft no sabe cuándo llegará la actualización de Exchange y culpa a la IA diariobitcoin.com",
+        "description": "Microsoft no sabe cuándo llegará la actualización de Exchange y culpa a la IA DiarioBitcoin",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2gzU3J2VTdySjM4ZW5DR0FzNzQwdy1XQW40MkhNcnE1RnpWODE0UlN3X0FJVWJrb05JbDA4ODVfQmVIaUx6OEptVmttTFY0THp6SnMtbUhQbUJ4REpCbHRjTy1rRldseFo5VWVOU0xvWndGMWc5aXpmRWV2Sm96MS1hSXdWaVB1OVRyenJKTFVHU18yNml4MXM2SGJpcEI5ZU9zOXZqME1Od3l4NDNKckRhRV8ySUY3cEE?oc=5",
         "date": "2026-08-17T10:49:22+00:00",
-        "source": "diariobitcoin.com"
+        "source": "DiarioBitcoin"
+      },
+      {
+        "title": "Windows 11: Microsoft mitiga un fallo en la RAM que permite eludir sus defensas",
+        "description": "Windows 11: Microsoft mitiga un fallo en la RAM que permite eludir sus defensas Softonic",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUpBc0NhX2lKUjhiekJjT1lab2hZbmxZNTd0OFg4NnRKUFYwWVBiNWdMUlRtVmJvT0t3TkxaVTlBNVo2WEdOVzdvVlRkbVZGbWtBa2U0MmpTZk53bWM4c3lPQ0luQXNSTGdKYU0yUHJBVnduYWdTWDFmNHg0WE4zbGVzRXo2UGw5RlFqVk0xSlZSRld5aktKdVJ5ZnV4LVh2UzBxVHg2VVc3TlhSM2J5Z19LQQ?oc=5",
+        "date": "2026-08-17T08:34:38+00:00",
+        "source": "Softonic"
+      },
+      {
+        "title": "Microsoft retira función COPILOT() de Excel tras un año en preview",
+        "description": "Microsoft retira función COPILOT() de Excel tras un año en preview El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVWZpcER3UjhKd3lYcHl2ZEpyUG9INWZYYy1XN3FndFBZWXQwWTZDOTN4UWJvU2JkajFEanl6Vndjd0dJRkItVXk4UUg3YWlqQXY3ZHpvZFpKTlpIRl96OElDTFkzVTdlbWdsN01DbzZSTjlmYnNwRFBHbmpTdVdVMDZlU2M3SWEtZXVIcWxudnVvc0NvS1NCRXVIRQ?oc=5",
+        "date": "2026-08-17T11:09:57+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
         "title": "Microsoft nombró 20 juegos que se lanzarán en Xbox esta semana",
@@ -29,27 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXdXRDR6MlN3U1VBakdFNm0wUy1aWEFmY0tWb0c2RFNmTDllWHFXeDNneFJuYXdXSEpGNDNNU2hhRWFnME1YUXJTXy1ZZlJ5dHktVEVsQk4teEEyVU1fUlo5MF9jbV9fOHdzUkFaeVRnMTkwM2VFeDA0WGx5MUVNcE5RRTRydER4UU9QMTc1RHdldGRtOWlLZ21yTXJtMnBMRFpwVmw1MWkyNE9Uam92MXNn0gG3AUFVX3lxTFBZbjUzekVYUjZCYTlNZW9wazdnaVFOTnJTTGU2RmZWTUVtZ3lxMF9ERFdKNXNLVXUzNWFUV3JMVjNsczJDVjZsNGhuZy1tWHZpZ0tzX1NVZFNKZGc0TVRnZU1uS2xsVGFxR3RzX1JDb2pTY0hwVjRQQXpyTXllQU0tYjVwSUhnZDU5OEZ2S3FqOWpteF95Y1Q3eXFPbFhMODBzSDBYbk9WUDhWNVZmYXJ0Szd5TFpsTQ?oc=5",
         "date": "2026-08-17T04:26:24+00:00",
         "source": "ixbt.games"
-      },
-      {
-        "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
-        "description": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1dINTZEX1oxMC1wWjRudHdvT2pzR0REYk5RbjBXMnZYQldQcTlRbWo2cUR3SW1BcndfQ2RSVHlLclBGdFNHV2xOUlQzR1V3WV81b1A5R055ZFRRaEh0SWNFd2dpUXY2Q2tZQWRKZVNIU1l4OE5FZThPOU5DdHlvTzdnVXptTnB5ckUzOGdYdURBTl9pUVE?oc=5",
-        "date": "2026-08-16T18:00:00+00:00",
-        "source": "Hipertextual"
-      },
-      {
-        "title": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA",
-        "description": "Microsoft se aleja de China por las tensiones con Washington, pero mantiene puentes gracias a la nube y la IA Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWVItXzd3UGR5bnlKWTFWMFJyTDFaOXBwMVFvY0hhUUZwVlJRUE92bFRGSFNMVl84d0NHVURLMlozdHMwN3dWYk5zYXVQOG5YQllsT2xHdWJ2MGVqQWZ5U0JWejY4TW5aOHBZZTNxcmIteUhwNFV1VUdETFA4aE1GTUtmNjZ3V01jSWljOXN3bTBNdnEzRG41Uk9LOVcyR3FQVERhMG1KZzF0aFdYMmdQTDFFeTJScm1jVUpsUnFxa0tZaHFfbFh6QjBybXdjQXFnRUx6SdIB2gFBVV95cUxObi1HR1JBS2s4cTBnaUh3RDVhTWNVTThEa1hldFAtLXlfT3dIaEdJZWZES0tQYnhVeVlEWW1fU3FyWTFQcW1vSnlxZVVKUFl6YjJzMDc0S1NOTW0yLWlQMFA5SXlrbnBRYTMtVDkzZUkxVzVFSGVWbXVaMXdmclBTcEwtRnJxb2JyYXI5aXhVQmVyN3ZRZll5X3NlNV9Fc0tneXEyQmhGTDctX2FxZ3ZFNWdzaHlJdndXdmJrYi1zSWpPNWtLVHgyVmZIYnJuNVV5SG0xS2M4b1hEZw?oc=5",
-        "date": "2026-08-13T12:18:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Optimización de la curva de rendimiento Frontier",
-        "description": "Optimización de la curva de rendimiento Frontier Microsoft Source",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1I4R1JuMzdYTld3OEZDeDZ1Rk1vM2NULVhTMG9hVm5hOGFPMGM0Z3paNHdDeGM1RUNqdGN3UFUyaGJOY0o0ZS1FRDhaanh4NGxfT2ItNExyOF9BYnM3V3YxNzZOSXFGY090R2N4dkZ1RHpsWEcxUFl3eWR6OThwc1poZXBONWQzU2RobHAwYXF1clQtTUtFSFE0WnV6bkdhOWZQa044N0J0d0hLbWVOZ0tqOFJvdDViWWc?oc=5",
-        "date": "2026-08-11T17:08:47+00:00",
-        "source": "Microsoft Source"
       }
     ],
     "Marketing": [
@@ -66,6 +66,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWdRem9feWo5VjlMRVpsNkh4N2p0OS1FLXdMVW1IUUtVNHlWNExsMHNZR0NPVmYxMDc1YlRkQ2tmYnR6NlprczdvcWxmTDZFMlpIZVV4eWt0NEo1blF4SmFpQVNKQ2dyS0xuQTYxdTdnOGstV1lhQmtvYUFzX2ZfWHFXZjZGRVpHbkFZVU0yRlhKSjFCelZFT1g3UHhiU0h5ZEo3ZXRheDZ0OUVEcnVnQV9NQzc2bmNPRjg2STVyNms3TTg1MVVMYllKMjNwV3RKQzBRNHZIOA?oc=5",
         "date": "2026-08-14T13:20:50+00:00",
         "source": "De la Tribuna TV"
+      },
+      {
+        "title": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares",
+        "description": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares Bragado TV",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2VKY1VuZGNjUFdTTElpazBPWDNxLWZUcTNWTDF2ckFuaGllMDAyaENneUpjbVlJNUFYRTJWeFlWOGxWc3E5bVVSVXRLUTFBU0pPeENjeDlkcGp0WEwyeVFWNmpSVHV2Q0wtNW5yOVJzQnlwSGhYTWFsR0dJdkJleEI5dkZ6a3ZKRjRHQkpTWnFuaS1FX0JWNTlnbmhhY19lb1dPU3BoMTM5N1VlUVlZNTJ0YkxuSWpRd2ZjcjIzYUtWS2pOWENr0gHMAUFVX3lxTFBnakxSdloxNDUzSDJCTWFBdzlGbHlYdzlMQm81YVVfS05aNzZKYkRVelhTZDRSREtMbHVVakNWR1dwX3NETjJzTDQxWE1BRTY0UkpmMERyTmIwY0dXQktzNGsyVHVYYTgtQzEtMFpDQWFKelpSQ21KNG83YUdXR1c0Rlo5eWM4b202ZThUOVM3RmlJZFp4NlRHakFPVExBYVZQUFFwcEVJckRBdmxrQ0IyQWVVMkVuOTlDaV9NN1lKcjRweFk4eVVnaGh4Tg?oc=5",
+        "date": "2026-08-13T14:30:16+00:00",
+        "source": "Bragado TV"
       },
       {
         "title": "Marketing digital para pymes: estrategias de email que funcionan en 2026",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPREdXRzY3V2kta1lQQ25BTnJMWHZHWmNhd2dyQWRpNGUzTDZjVndWMGtpeWdGWUJLaFVjak5xTUxNczNlWk9kSTJJVl9UeHNSbFk2OE9PM0NfT0xSNVdFLThFRUFsTWdnNmpsd0VBUmFlMm9qeGZ1N1BjWHRudWNOY2MtbVB5MjEtU1RnWURWdUFhRmgxRVc0Yll4bjdVZFMyQ3VCRXZQendobWtEOVhCbw?oc=5",
         "date": "2026-08-14T07:00:00+00:00",
         "source": "Semanario de Junín"
-      },
-      {
-        "title": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos",
-        "description": "La Municipalidad de Eldorado capacitará en Internet y Marketing Digital con dos talleres gratuitos Norte Misionero",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0VVWXFEb1Yxc1hld2pMb255V0ZCYnBVUVV6YWJGODR1Q0FvZGYwRW92RGFwUDdjcElvazVFaEx4SmtEYktlZ0EwVl9VZUtuVEg5S1YyTGNybHRrY0JNbXNkaXpVbjlMT1pwTkFZaDRhUnNBb2JPbUtZVS1YNVU1ZWYxUU9PWDRnbkl0WDBfX1Fpd28zOUlQd3lMUE55VTljc08zY0tLMlkzcUh6MGpvMXVJNkRQVkk4bWVsMzc2VW9DUDRoc3lKWVJFbHh5SkJsMk5nSw?oc=5",
-        "date": "2026-08-12T11:58:12+00:00",
-        "source": "Norte Misionero"
       }
     ],
     "IA": [
@@ -126,13 +126,6 @@
         "source": "Clarin.com"
       },
       {
-        "title": "A un año de las presidenciales: cómo se piensa el rol de la IA en las elecciones",
-        "description": "A un año de las presidenciales: cómo se piensa el rol de la IA en las elecciones El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalpGR2FYZFFPekgxZkdsUUNYX3o1MEdBcGpXV3NFemtyeGY1UDU2ZmptZHc0amw0OWNhSHIzX0x4QklRSzlPS0EzeUttZGozMGUwNFdoQU5jTjdUWUIydVZlNkl6VURkbDVYYWt1TWJveHhTdEdpWU83YU9WYmlTMG5TQlRPc3R4R2NwbkZNblltUEFYVEFPbmJpV2tjTVdJb2JBVXAzYUhhRU1GY3NfYlo2VVVvbEJEeUR2SGc4WGt1MU95RWozSnhza1JqU3Y3VVNReU9PNlpRT0U3OWJXQ2Vid0Iyem_SAewBQVVfeXFMTzJSYTg1ZHpOeGt5ck5LeDNyeHRiLWtKUENhbmd0bm1ubF9URDFxWjJMSHFrM3BZdGg5SWVKTHdVVWNPaG5rNG85S3VmTjJzeVUzN2F0a3pDNUxUcTRjVDJKd0djb29nMWdrbDU1cUlKeU01YkZBVzRwZkRabkZuTmhHS1A0UU8xX2JCRF9TblZGdHNHNWhBNk1reVBhUmdaY1lkTVFHYjVsMXU0aWE2Q0Zya0t3RjNxcEZMam1qOW43NWEtSXh6T0c0eWlxR1ZpMzZiMDVMZEZLbDBXd3E2aVdtM193SkZXSEFmbFg?oc=5",
-        "date": "2026-08-17T10:14:44+00:00",
-        "source": "El Litoral"
-      },
-      {
         "title": "Filosofía, Odiseo y la virtud en la inteligencia artificial",
         "description": "Filosofía, Odiseo y la virtud en la inteligencia artificial La Nación",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEFYdnR0TVg3Y0hyZGs3NkNpMldhTURCR0dUcHgzbWRtMHhvcVRqRnVIOTVQbzM1OTMxVUJiZVVCeEptVDEzWXlKNDdhaElTVUtIMHU0T0IzX1o5ZEVPdzhJQzk2cVRlYVlGMGJzOE5VWmdLbVkxQjdnYzVTWEZEVzlqbkxWUjZQMXV3cWZ3ajBQcG02TV9UVm9sd3ZtS2FCY2pwVW9xUXEwZlVF?oc=5",
@@ -152,6 +145,13 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLU9QaE9hNFV5dU1fV2RnNEVZdXZUTXdEVE9BbEtfNUFTM3I1eVB4akNaUlBJM09TMzNnUUZJeFdDTmZ6UlNkRHcyMnNjTUV5YVZIYzVwUEEydmFmM1ZBdFBVNlprQ082VngyMGdqdnpNRHpYNmxsc0wxSEhWOHZWeE5USmZ5aVg5aVVJQjh5amliekpXY2c?oc=5",
         "date": "2026-08-16T12:39:51+00:00",
         "source": "Chequeado"
+      },
+      {
+        "title": "A un año de las presidenciales: cómo se piensa el rol de la IA en las elecciones",
+        "description": "A un año de las presidenciales: cómo se piensa el rol de la IA en las elecciones El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalpGR2FYZFFPekgxZkdsUUNYX3o1MEdBcGpXV3NFemtyeGY1UDU2ZmptZHc0amw0OWNhSHIzX0x4QklRSzlPS0EzeUttZGozMGUwNFdoQU5jTjdUWUIydVZlNkl6VURkbDVYYWt1TWJveHhTdEdpWU83YU9WYmlTMG5TQlRPc3R4R2NwbkZNblltUEFYVEFPbmJpV2tjTVdJb2JBVXAzYUhhRU1GY3NfYlo2VVVvbEJEeUR2SGc4WGt1MU95RWozSnhza1JqU3Y3VVNReU9PNlpRT0U3OWJXQ2Vid0Iyem_SAewBQVVfeXFMTzJSYTg1ZHpOeGt5ck5LeDNyeHRiLWtKUENhbmd0bm1ubF9URDFxWjJMSHFrM3BZdGg5SWVKTHdVVWNPaG5rNG85S3VmTjJzeVUzN2F0a3pDNUxUcTRjVDJKd0djb29nMWdrbDU1cUlKeU01YkZBVzRwZkRabkZuTmhHS1A0UU8xX2JCRF9TblZGdHNHNWhBNk1reVBhUmdaY1lkTVFHYjVsMXU0aWE2Q0Zya0t3RjNxcEZMam1qOW43NWEtSXh6T0c0eWlxR1ZpMzZiMDVMZEZLbDBXd3E2aVdtM193SkZXSEFmbFg?oc=5",
+        "date": "2026-08-17T10:14:44+00:00",
+        "source": "El Litoral"
       }
     ],
     "Vaca Muerta": [
@@ -164,7 +164,7 @@
       },
       {
         "title": "El magnate Peter Thiel hizo la primera inversión en Vaca Muerta y compró el 1% de las acciones de Vista",
-        "description": "El magnate Peter Thiel hizo la primera inversión en Vaca Muerta y compró el 1% de las acciones de Vista Infobae Peter Thiel apuesta por Vaca Muerta y profundiza su vínculo con la Argentina de Milei Perfil Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué…",
+        "description": "El magnate Peter Thiel hizo la primera inversión en Vaca Muerta y compró el 1% de las acciones de Vista Infobae Peter Thiel apuesta por Vaca Muerta y profundiza su vínculo con la Argentina de Milei perfil.com Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a…",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNT2pSOERKUWdFeFpBUDJHd1JRY3FhWFUyczRMdzBFVzNZQzFsdmIwVXpmMkRETXRiTHpaeWFPU3pZeUF4Q3BDbnl0S09PSjBVaEprUUIwcV9UdUg0d3A4OGZTdmF5U25BZ3RIQ3U2ak14WkxfQmFvQ2dOYzQzdnFtblZ3OW9sNTFkNUtSU1I2b0VnV0J0T1JfV0RBSEJSdHVfVExfaWc1aHM5bUxMN2tNd04yQjBzZ0pXUGNsZndVTE5MaVEya04wQldNWC10WWh4cHlJanowdXdpNEZHWHJONNIB-wFBVV95cUxQRmtQSkJka0tFOXA1ZktJQzRvS0V4dEtJNzV1NUlIWTU3WEhnZ092RjJnWlhPOE1VUE1hQ3dISUdyeWZMdG1qMlpCcmtFSVNvRmNHdHFZV3hFcmVfRDdYbFJSV24zVzdnTS1FN1ZqcU1pWW5fTFlhaDhzMWU4MHNHSHhNTE10WUtVazBUUm91TVhNNmw2NU5MSHYyZVBUdGRzMG1oTUlyTkd6VjlMdVlBZndXOEFpMlB6U3dQT3dZMnFJekN2UEFrZ0k1TkN6MWktcHd0cll5bGhzNS1UVWVMSFdHYXIxVGNnbjFIZXFxVklvb2JGSTZjdGVkQQ?oc=5",
         "date": "2026-08-15T15:22:00+00:00",
         "source": "Infobae"
@@ -177,18 +177,18 @@
         "source": "Letra P"
       },
       {
-        "title": "Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\"",
-        "description": "Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\" La Izquierda Diario Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia Perfil De los yacimientos de Vaca Muerta emergen disputas entre Washington y Beijing El…",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHBGLWNjUGY5RktCbmREX0xGUi1ULXh5UHdEQ3RKV1lWempoemEzSVFXY0VwVWdPWlJlQ3V0YkdUX1FBREp0OWkweHNEOEUtYlZYNjkwVU1RSF93WDR0Z0FuU3N6d1pBTWJfWUxTQ1QyRTJzWVk2S3REb2lWV3M4WHJKQWZ6WWV5SmowZjRPa0tjbm1YVzZMaXZ1ZEN3RERXM1hyTTVZa2RQaHVUN3NtY0pCdHbSAbwBQVVfeXFMTmZpUXduem5LTFpDam1CRklCQ3A2dU5fTXJnbnlXV2o4UXZtcGI3Vkx3TlBqS2lOUV9MN3NzUFY0Wi05SlFBMUJheTVZcmJrbVFQQ2wxRjhnQmVsTFZoU2ZPN3FEczNmSHpyWXdSVUI0Yy1WMTlSa1R1aWFzNk03bUJNY2l0VkFUbzZXRFR1RVYyeUVxQ1ZGZ24xa083Vlg3Z3l6VHJoWGVKWnlmZzNIYlV0eU5NdGdDZVNoV3c?oc=5",
-        "date": "2026-08-16T14:26:08+00:00",
-        "source": "La Izquierda Diario"
+        "title": "Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia",
+        "description": "Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia perfil.com Peter Lamelas contra Huawei: la pelea por Vaca Muerta y la \"diplomacia del garrote\" La Izquierda Diario De los yacimientos de Vaca Muerta emergen disputas entre Washington y Beijing El…",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUVDMnd4cXhvTWpfNUpIUkR3UFlfRWJ3YVliSGZHV3MxeWtCdGtFREJXRkk0Rm1sZ3lkTHQxQmhCNDlQMThhakY1ME9nQ3hRQkhRX3h3Sms1ZEJhODRzOUZBazhxYXBQelNPQzZPSzFlZTQ3aHE2TUhmTEZGemN0LW1GSW1obnJiaHF2bTBmUkUwa2lpTXBEUFNnVGFFVUl5S0xfQXFPMHBubmI5azJtazVVM0FfbGpWVGRXNjI5am9LRXFNRWppY0R4dWlfOVR4Q3RaV05HMXYzNlRLY0hSTl9LSFHSAeoBQVVfeXFMTy1rQXdnTzF0cnJlSU14cmJkRHJJdDk5TWcycDVNcWRTUHFhZFNicXRnSTlzXzNBME02WEhCSk9Zd3NCX3N6OGlVTmYwUVBaNXhldHhpN0syMXByYXVKeFJRbU1SR1NJTUMtYlpMVmpSaGNtcHFYZTJycFp1bkdmX2JlMWFBV3U5YWw1WDhIU1BDSklBLUNaU3BvaURSMzJmV2VfLUt0eDFPRFNFNWU0alJTV2NvcWJoQ09aTE9fLXpPSzlGVFlaTTBWU2VEanE0cmpVMENJd2NSUmF5aUZnanFEUE43a09kOFRR?oc=5",
+        "date": "2026-08-15T03:40:17+00:00",
+        "source": "perfil.com"
       },
       {
         "title": "Las empresas que dominan Vaca Muerta",
-        "description": "Las empresas que dominan Vaca Muerta mase.lmneuquen.com",
+        "description": "Las empresas que dominan Vaca Muerta Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS0h1WTBIcnpkWkNCZzh4NTV0dEQ0THExZjh0R1dlMVlIdllHT0J0NTE5cC1aeUpVTTRDc3R6LWg2Zi1HVFlSQnlnQnJ0ZFI0NlVZYmVrRURBODdPOFRQaC1nMDFZMGZVMW9ZWWZ4b2VYeDhoRDVoNkFrcVN4WkNVYWxaXzdWSXp0cVp4eNIBkgFBVV95cUxNN0hpbmh4WEc4VHFoaXJkV2NfczUxUFNpX1NaenR4S3dpVTlURW1JczdLUlZkeFE3Mi1PWlNjNm4wamluemVKbHhKLUd6OWMzMF92WE9GbldqNExUZjE5M2tqd1lPcUlHU3QzNGxyTVdENXlzYkhuN2p3NDgzRWxjNEhoSDc4cjg1Y1pRWkRjWW8zdw?oc=5",
         "date": "2026-08-15T15:50:00+00:00",
-        "source": "mase.lmneuquen.com"
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Vaca Muerta: Problema logístico entre transporte y vivienda",
@@ -198,11 +198,11 @@
         "source": "LA17"
       },
       {
-        "title": "Vaca Muerta bajo presión: un insumo clave disparó su precio un 500% en menos de un año",
-        "description": "Vaca Muerta bajo presión: un insumo clave disparó su precio un 500% en menos de un año Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbkJLNzRfalB5VzZWWEk3TWVmOC1JTTlNUHVoc3R6Y1pIR2hjX29qdUhxT3k5ODl5cWVpVUdPUHdfSFZfem84MnhUYmtfaVRyaGFJMzJxSmR1NDZWUjZ2XzBGTkYzQmRZbmJCc0lLRHFRaGlwMUVtNl9SNFlMUlF3VW5hUHlVUUd6eWVqRnVKRkJhMG1zbGx0N21VYzlRdUhqbjdVdEJlZEQ5SXlqM1dHa1ZaZGdkYW52eXhyN0t0TkRHMzdQN2NqMllDRDM5WXRfSllIbWRvR2U4S2lK?oc=5",
-        "date": "2026-08-16T17:05:00+00:00",
-        "source": "Minuto Neuquen"
+        "title": "IETEPA en riesgo: alumnos de Añelo reclaman fondos para continuar",
+        "description": "IETEPA en riesgo: alumnos de Añelo reclaman fondos para continuar Vaca Muerta News",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQT2o0N2kyRjVNd2VCNmhwMENxdFpKM0o4c1hUZEl6TDV0bExRZ1FLX29JZGJaS2R3bFhZTE1XWThXbGNGNm5HSDF2UDNCRnVCb2w3VkZwcjloNU12UDM2cWpGdVV1OGtIVWpXQXdRT3RCLUx3UUl4Q2NVSm9qdmxEZzBFNmVBam5kREYxak5iOTc2MVFob2hfZmFScXBUemhobHV4QTMzMmJPZGVKd284TmM1blhsSWVCbS1MTGJZMUN5a2tpYUZPVnlMRG5yTXhEdEhvUmRxRnRmdVFXMXJ5N1FvcWtMWU52aFRiaDZFenYwUEF4UzdKNGFxYlFnYktyVGpTeU1sWFFDSjd3Z1NqMmZIWU05LUw3cHfSAZACQVVfeXFMUHJrVEg1WGtMa3hvbzgzaFZRSEFBZjgwWHM1UkFyZHhLa29icVFDcjV6N2pQU3FEXzEzdWJXVnBwb0hlcTN6RnZ3aENlWFQzaDd2ekNfUkdZYWdMU3c5czBXZEFGQ3M1STZ3QWhrd3dyNlJvaXZYUVVpMktTUHNUcWlNbE43eDhZOFVzcG5rNHc3bzZOeGVxWHBsVUxSNWZMbGNSOGN1Z2s1N3ZKSFVOOGI5Y1RtdzhaZ0d3RnJoNnY0LVJvQkpBSHZwdUxSMUhCQU0zUnVvdGlSV0ZJQ2RUTWJvbUU1SHM3Vm9CbU94VlQ3cGJMZko2ME1VVGxzN3pYQzQzZ2JXTUxJN1A5TUZHY3g?oc=5",
+        "date": "2026-08-16T17:38:35+00:00",
+        "source": "Vaca Muerta News"
       }
     ]
   }
