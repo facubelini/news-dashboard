@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T11:19:30Z",
+  "updated_at": "2026-08-18T12:33:42Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,13 +8,6 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1oxbVIzenFNMGVzMVRaUF9lU1BYS1JxSUVUTzY4QXNlOE9MbVR4NmhuUTJxU1ZpWnNJSFYxQXZMMi1QV0FFdnZ4LWY2bVdYdGxiWjUzZ1NjQzVFMjZRN3pTRXlwWUFxQ0MyOEFiajJQTHlhYW1PVWM1dlVkV0puZWJNUjNHbjRzUkdJWXJGNjZzT2drcEhaTGJPZnd5WDg3WXFkNmNPYXNBUXA2S3ZENWFYRGNYZ0l3U01ZbEpEUFd2NkhSQWfSAcsBQVVfeXFMT01qMVdieEhkbDl2SmNuLS1vZFRqQUlwbC1BblM3SnBfWWRBSURIR3JCTVJ3amNhZ2ZUMk9YQzEwZ3o2U2lidUhFQ0hoWjh1THpYWE9DcGJIN21XTUcweUVtSDMtQWstd1pjRnhNTXdmcWJJc1IycTVyQ2xFZkFzTzRvcThaZW1uRmVsRzVKQlhZSjZLQXZaX0xNUnpWR19oRWlIT2dsMXctUTgzbl9HWVc1YXhrOUFFUkRHS1JJUElqb1lWaGowUTdRV1U?oc=5",
         "date": "2026-08-17T18:00:22+00:00",
         "source": "Xataka"
-      },
-      {
-        "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
-        "description": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1dINTZEX1oxMC1wWjRudHdvT2pzR0REYk5RbjBXMnZYQldQcTlRbWo2cUR3SW1BcndfQ2RSVHlLclBGdFNHV2xOUlQzR1V3WV81b1A5R055ZFRRaEh0SWNFd2dpUXY2Q2tZQWRKZVNIU1l4OE5FZThPOU5DdHlvTzdnVXptTnB5ckUzOGdYdURBTl9pUVE?oc=5",
-        "date": "2026-08-16T18:00:00+00:00",
-        "source": "Hipertextual"
       },
       {
         "title": "Microsoft permitirá personalizar el menú del clic derecho de Windows 11 y elegir qué opciones aparecen",
@@ -34,7 +27,7 @@
         "title": "Microsoft mejora el WinRE para Windows 11",
         "description": "Microsoft mejora el WinRE para Windows 11 MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE5DZmFFcjhxNnhHa2Utd3BxNEs1aEJyNVNQcFM3ZDU0UGdNOW1MRHlXLWdzUzZkeTdHOTJRTlNQSTdPa21vX1ZKQVZYejB2MXM0RTZBSkFtdW0ybG5za3gtN0FtRG1UaWZTejh6YnZ5MFI1c3ZrNTBnbUFVQUVQZGtoWjhNUXdD?oc=5",
-        "date": "2026-08-18T07:31:37+00:00",
+        "date": "2026-08-18T07:34:11+00:00",
         "source": "MuyComputer"
       },
       {
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWNkRDJnMlJyQjNCY3NFUC03Y05SbUd5bEQzeDExSWxSemE1T3I2d2txd0o2NWxrT3NKaEFEZEh4WTFyeUFuX2J1Zmc4bHZlMTlYeTdEU0ZLeGoySVVQXzZidU1nSldNWFZFVm9fVmxUWVZ6Uk9PTndKZzZCMzBiSU1kc2tRcmpyZDFpZHVZbWJrS0pyM2VWNnQzRmpmbE1zTXgtWTJqM0FQaUZR?oc=5",
         "date": "2026-08-17T20:33:55+00:00",
         "source": "Digital Trends Español"
+      },
+      {
+        "title": "Microsoft retira su asistente de voz Mico a menos de un año del lanzamiento: lo convirtió ahora en un tutor",
+        "description": "Microsoft retira su asistente de voz Mico a menos de un año del lanzamiento: lo convirtió ahora en un tutor Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWNDSUpfYnVYTExZOEZZN1lNY0t3aFMyb25uVVFBZWhwMTNJaXlrVmVJWEg3MHhVOWhWalRhQ05YUUlDWld2ajRWS1ZjX0JRVE5jQ0pycnVaUnl3NDF1RHU5SGlBa0ZMVVoycVoxem50bzJzNnBjQjZiV2Faa0pCYXFEVmtVSEw4dVBIZVJkbGNvTXZQUF95YTk3Vk1NdWp3Y2VuV3FLYWJmVkVyeFVhVWw3eEk5U0FjcXotUnUwY3R4ME1heG9VVVU3aVE2eV9ENFVV0gHuAUFVX3lxTFAyRlF5SDlGWlhERUk0eE55UFEtcmxJQldqTU0wRlA2cEs2NjBBYVJGOGlRNkNiNEFOVENnSXRyVko0c2x4M3JZSXMxUmQ2dloyb1BUUGh0WDh5UUZaR05rWTlVaUZEYUVIMGx2Vkl6dFRKNndST3QxWkllSVowbG1GQU5WV254cWNtcEZSQ1ppX01MRnFxQ0pvM3Rjb2hEbmZibnk0Q2Z4MEJ4V0VSdTZJUDhUYVhCSUNNSjFIMVRLUUxIUGJXTXQzalpVUklyT0ZfS2tBVXFlTDFPZ3hydXNOc0F0dks5dnBFaFduM3c?oc=5",
+        "date": "2026-08-17T13:00:10+00:00",
+        "source": "Infobae"
       }
     ],
     "Marketing": [
@@ -105,13 +105,6 @@
     ],
     "IA": [
       {
-        "title": "Filosofía, Odiseo y la virtud en la inteligencia artificial",
-        "description": "Filosofía, Odiseo y la virtud en la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEFYdnR0TVg3Y0hyZGs3NkNpMldhTURCR0dUcHgzbWRtMHhvcVRqRnVIOTVQbzM1OTMxVUJiZVVCeEptVDEzWXlKNDdhaElTVUtIMHU0T0IzX1o5ZEVPdzhJQzk2cVRlYVlGMGJzOE5VWmdLbVkxQjdnYzVTWEZEVzlqbkxWUjZQMXV3cWZ3ajBQcG02TV9UVm9sd3ZtS2FCY2pwVW9xUXEwZlVF?oc=5",
-        "date": "2026-08-16T03:01:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial",
         "description": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNamF6MUsyWVVoR2lZY2hKLUlySEVVRmZibjgxQVlsRUJ3UHhoQmd5SG1SR3JrTnlKeVhjZTF0bzdmb3k1RUU3bmFtODRIczJSX2tNNVpFcWVORFdTVmc3WDQ0bXJ1RVFnblYtQ09YNHlObzNDeUstVlBnTWpQeF9MajFQdHdzMXRZYk1iSUgxbV9SSmI1YndUU2VyVDFmZTh3TTl0NVJfWFJmbmFLUFY2akZXSkVzdGdOalhpTGRLZ0wxek13dXo0blRXNNIB3wFBVV95cUxNRmluVjVXSndhMzg3VTNoSXNPbWNyZnI4Q01kOTRZaWVlWXBTYkx2RkhrTFVWdFlobEY0amZEUHYtRVFYMWpTdzZPdXdaNU94VFRHQ3BjSERGLVZCWnFHNUtvd2xBRWJ4ZUVkRjNHeEkwQjlmLWN1YVQ3RzNVc3FCZEZxdEFQWEF4Q0cwc2JTRVZRRVNFYTFjVlRoSFdqSHZSbE5QajhzVmdKQk4tQUFZXzFTTjVXaWVKVXRpM0EzY3ZPLURqd2U3d0Q5eFNGZUgweldkUUxBbXBscXhLSzV3?oc=5",
@@ -119,48 +112,55 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "El lado peligroso de los agentes de IA: advierten que pueden ser manipulados para acceder a tus correos, archivos y cuentas",
-        "description": "El lado peligroso de los agentes de IA: advierten que pueden ser manipulados para acceder a tus correos, archivos y cuentas clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFEyemhOZmRQWTcyeS1UQW51RFIyeVB5OFFQSnZ0UXdyVVNJMTItanl1NHNQaDFnbkFxaWNwdGpnMElfa3NidzREWEY2UFhyQmV6R2p6eU1GU0VybnQyZndTM1ZxbHhtdnM2Q2lqWDRDaWpIenZyQ2RteG81UHRHUm4yQlFVbXh4X0pFc2N0Vk15Uzc5S2F2RndPMjhYQUhYbGdOSm1BMzZOOXVpbXNMemJIYUdSMFB3dFpOamx5ZGRSalF4SVExX3B0ZVNfbUZjNEhrdFFn0gHbAUFVX3lxTE16UDhyRF9fcjc0UDJwRDFFOU9tV25hQUJKeVZjaDJMMG81ZEtMV3VmaWxaeFlqS01LZWQxR29VNndPYnZveEl3V3R3WlhEakI3a2pwRXVzaTVnSE8xU1o4SkVuNkM4RWFTZy1icUZXUW9iSkVkYWY3dWJjVVlYOTlsTVRqdEdSQlJlRlhGMHdqX3kxdjlBbDFORE5MZjBlTUVkNldhVDUtQ3pza0l1RVJnRzNrOHJuU2ZrUlN0a1BPbUhTU3g0eXZoWTdVaHlwX01RbVZsV0NCTTEtcw?oc=5",
-        "date": "2026-08-18T08:45:51+00:00",
-        "source": "clarin.com"
+        "title": "Filosofía, Odiseo y la virtud en la inteligencia artificial",
+        "description": "Filosofía, Odiseo y la virtud en la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEFYdnR0TVg3Y0hyZGs3NkNpMldhTURCR0dUcHgzbWRtMHhvcVRqRnVIOTVQbzM1OTMxVUJiZVVCeEptVDEzWXlKNDdhaElTVUtIMHU0T0IzX1o5ZEVPdzhJQzk2cVRlYVlGMGJzOE5VWmdLbVkxQjdnYzVTWEZEVzlqbkxWUjZQMXV3cWZ3ajBQcG02TV9UVm9sd3ZtS2FCY2pwVW9xUXEwZlVF?oc=5",
+        "date": "2026-08-16T03:01:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Estados Unidos impulsa un bloque tecnológico para aislar al régimen de China en la carrera por la inteligencia artificial",
-        "description": "Estados Unidos impulsa un bloque tecnológico para aislar al régimen de China en la carrera por la inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQc3JBM3ZjbVA1TU1raDdUOXVTQmxKZEpqUWtvOVZDX0t4RGdSeXBDU3pDTmc3bGZ3SFAzRUxUSE0zR2VScllOcF9WSmx2ODk0elZ5LVpoMzBFWldDYjZQZHlZY21BOGpWbEVFNTlzaUdhMTg5UG9rU3hhNjFRdFNreGtKM3c3UEs5OUdrOWY3TUl3djVMaFl1Yk1ITFEwaFRpYkZMaTFVRWhxRF9WSDFGdXdkUXpCNWc0S0tQQXdBTXg5NzY4U2Q3WHdpTkJneHlHM1JhejZpVVVWMDNZanBldC1YRXlQVktxOVNVSUxKRzh5UlhucEtJcWdNNy1EdWE0OEHSAZwCQVVfeXFMTnRYRk9JRzFTX2cyZFZ0NkpXMVAtZGxOOEZVc2hJWEpUSkJwaS1lWWVxRXVnbGFiZXgtMkY3WDgtbXBIc2ZXaW1hLVQ2SExxdHFiMlRBX0daSE9Va2JyM0s4UjhoXzRwUE5NVzg2NnZOSTVMZzdUa2I0aFpESE5ZM0NIZE9lcDlRUzFRbmhkNWItcmdybXh6WTR4bl9QVzZqbHN5YU9zTWdhSmRFblpPQ0x3SURVLWtzNXd5bk50ZElzR0Y5MVltWjJ2MnEyVDVGSUd5MUJkZ0Qzc3Z3MUJ2ekNQQjZTUkZPcGVkLS1PVEdMV0lvbE03X19VRTAzV043eWs4QThwZkJOd0NySTRYdF9rNDlxV0gzNEoxdVM?oc=5",
-        "date": "2026-08-17T23:12:00+00:00",
+        "title": "“Quiero que los jóvenes argentinos tengan oportunidades equivalentes a Silicon Valley en nuestro país”, planteó la nueva secretaria de Ciencia especialista en IA",
+        "description": "“Quiero que los jóvenes argentinos tengan oportunidades equivalentes a Silicon Valley en nuestro país”, planteó la nueva secretaria de Ciencia especialista en IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPYWVNYU5UTzRMSnZFbEstT0NUS2tDRDE0V085Q0lTckxuX1l4MExmcUdTU2JIYnVUTWRNQk9CeDJ0YVBZZUVodmZMdzZFbFRlaEJRekE3OFhabEowVzU1dU96Mkh0OEx2V0JmUi1WUEY4OG1fR2R0SDZvM0N0S3lHVXAtLU02dXBlZkdSZ2djclB0NjNlcjN3QTItcGRyNzhnOWtaa04wZUZEbm1oTWlKYzNKYlBPTTNRTzZLRVF2RF9xQkU5eG1vYi1jVVliUFVGWElCWGlCemhEQ3FVcUp2eFhkcUJuMlo2aE5jRzFrclpEQjgwWHE2VVZmcTU4dGhFLWVwLU5qMENiQi1HeWhvWXlYMkVGdFVZcHJCWnFhcjN5eVdXVGxKLUVIV01QblVsSmfSAcwCQVVfeXFMTkdmTjQzR2lUN0o3ZWs5cTQ1QnVhMmpMczR6T0tVMExhYS1xb01QemVVZVRnYldvVDU4N0tiNlFhWEw3ZkhDOWNlM2ktdUVDRlNZb3FlSEh0bC1iNUV0dEgzbWZ4SFNjR2tIOV95c0xUS2JzMlBUcDBqV1ozMlMwVEg1VktCSGUtUTMyMzZqdS1LX3czcXpFZ21jNjRWTEhSSVBWRU5RUUEyQ0lBak5OVk1GbkNLWDZpMzh1WVVtM2ZUSUNXOGxTNTV4NWdVRWt6NFpQY2ZfaExkQ20yT0VQbUMtWE96Tjc1NnJwRjVmTGMyQTBib2N5Q0w5XzduamFoa0JnNHBrLUR5VlRsRHhiMFNDbWZPMmw1em1vcmFqVWpJTkRXS05sOGFFQXhsNzdnVTBfZ2lqMkpjOUFZREhJRFBpMTQ4eDZqdmZ6YzU?oc=5",
+        "date": "2026-08-18T11:51:58+00:00",
         "source": "Infobae"
       },
       {
-        "title": "La Inteligencia Artificial golpea a los jóvenes",
-        "description": "La Inteligencia Artificial golpea a los jóvenes Los Andes",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOEQ3dkJPOE9jdzJwYVRWVVFrMFJmVlFzWVFVdS1fWjRjRnpWSGEzcHVYc1ZNYm1JQ29veTdXelFJSW5wSUNybnJxLWlWWjk2cHhUQkltZF9yTXh6TWJvMGhndUJnMTVfTTd0d3Rlc2wwZExvSkdKaGNCRkllNGhmQmlYaC13MVlXc0lBWjlQdG1uX0xY?oc=5",
-        "date": "2026-08-18T03:25:00+00:00",
-        "source": "Los Andes"
+        "title": "Especialistas explican: ¿se puede controlar completamente a los agentes de inteligencia artificial?",
+        "description": "Especialistas explican: ¿se puede controlar completamente a los agentes de inteligencia artificial? La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2pBYm9TWjFLTUZJLXAwMjNiVndwcm9iR2Z2WlRISzJYWVRvRUdGX1EybGQ4V3dkMGx2Q18xSVlTY2doSjZvRnhHNVNtaE9yTk1zUHhsMUR6TXZkSHFJTTZZTk8yeUEtZUwzR1U2bTJkeWNna042SHdRZTV5Z3JyY1R5Yy0xMkFITURhcU9GZTY5NXgyaUVqU2o3QWJhcWM5bHI0Nld4TkIzd2Z3SmJuVElWWkMzR1JzVUhkU3dGaE5FckM4UlFTM01qdEJIS3J3dVNLNjRDc1U3aGxpRGhZb3lB?oc=5",
+        "date": "2026-08-18T12:04:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Juan Leyrado celebró la fusión entre inteligencia artificial y actuación para revivir a Sarmiento",
-        "description": "Juan Leyrado celebró la fusión entre inteligencia artificial y actuación para revivir a Sarmiento La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcjJpbWM1anhtNTBla2FOdG42R05zMTBCbnFCRDltclhIb1hxWXFpSERyRzVJUEdPNkZJd3Y3blpnRTFjYzlZLU5QSlV5S1djWFUtZkpZMlNIVzBGQno4MFBtUl9SUllaMUgya2p2MUEwWU8xbXE4aUtxeG9jcTVsampwVFRISlRvcWFZVU1CSU8zRkpmNk00dUxEMkdRRmhJTzNSMlZaN3ExR2Z0ZU5ZakhCRlZtazdGcVRWeWZzRFE2cV9Ub3JTQU80bXh5S2lKc2RGU2xlZ2IxOUUzS3BIQw?oc=5",
-        "date": "2026-08-17T22:16:12+00:00",
-        "source": "La Voz del Interior"
+        "title": "Así se creó “El Libertador”, la película de IA sobre el encuentro, casi desconocido, entre San Martín y Sarmiento",
+        "description": "Así se creó “El Libertador”, la película de IA sobre el encuentro, casi desconocido, entre San Martín y Sarmiento Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTEV6aDUyNUNmbW1McDJjUUxJc2NCNV9URGd6N0VyRWRxX2hpeUtlOVJoZlduN0lEdEN4T05hOVFTbHBNektPT2w2NEtMZXUxNHFVNUVRR2ZSNGtQNGhnQkw2aVYyUm5MS19LX1p1Z0lBdi01RlY1ZElNbjdZSmRSc3I1U3E4MXBNb1oxdmlIaTlSYkpMdWRySjQ0aV8zM3VDa3VVb0x5bndiX2Fqd293bTB6NUxVYmEwcHJRZUdWYlN1RTkzTzJUTWFzbjhRX18zZWlPZmoxVk4zRnZnQjVCTzlPVU10OGl30gGDAkFVX3lxTE9Kc0lNX0NyRWhyTUE4c2lhcWNQS2x5MWtGeFRxbjVuTGowNDZjb2tMQmdlNFZOelJSUGZDVlEtbXUwUUxtczc0NXB3RDBadHZ5ci1sOWFGaFlOOGZpNG5kN291VnlTUEpJblNxMmQySjVCV3ZjeVZ1WURZNjFoT2JFdHg0UkEtMDRoMnVpbzNKOUhmb2RuX05vNnNvMWVRQ2hod3ptdC0zd0MtTzNJbHZoRG16TVlZQzBiZldqTHJXcVAyMDZRODFCTFZwX0xjWVhJWmlwVTZiT2tkeTJlelY5bWxkTXFjR3pYcVpnWVJMekUwRWwxWWNLZ2pHbjJtNDJpWFk?oc=5",
+        "date": "2026-08-18T12:02:49+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Advierten que la euforia por la inteligencia artificial podría terminar en un crash bursátil",
-        "description": "Advierten que la euforia por la inteligencia artificial podría terminar en un crash bursátil ambito.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNS1nLVVnVHVOLWpZeWc0ZThBNUlmcDhwVWNjN2Q0Y1FSenBxaW92Vmp0YWtrS0dzdnpIUld0N0hoV3NqZmpNMFQyUExKVmhRblc1cjhsd1hINm1PMWtudjY3TTNXZ2dQRjdueDcwMkhtelM0czVhR2xfbFFSZGdiV0VvTGpkN3NxNmE2dElQMkowUU1xbmdUWER1cGQ3Qk15Z2syS0xlVXpKdGRfR3FCUllVRk5hLTBuZkRzUmNZWW9ZV3Jv0gHKAUFVX3lxTE00Qnl1SGJodVdvOURZU0lBdi1yM1YwemNVOE10NmdCdFpLMktDUTVEWEIwb1pvcW1TOU9YSHJWZlR0OUd1VkE2QXp1bVZWaW1tQmdvZ09xeVZwakxfUXJhU0lGV2pvdGM4b25WazljaE9kN3FEMFg0UjRCeHNmLWtrRndLcW9qcm9qSEZMYnUwQWVCM01Qb2hkbmhFM3Z0NDcyaWRFZXlPWmtBT3FGUXpPYUJHUGRkX1NKejk2dW5fRV81MV83d0RMamc?oc=5",
-        "date": "2026-08-17T14:16:00+00:00",
-        "source": "ambito.com"
+        "title": "Las mejores acciones de Inteligencia Artificial para invertir en Agosto de 2026",
+        "description": "Las mejores acciones de Inteligencia Artificial para invertir en Agosto de 2026 Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzE4QVVJdnhDbXA3M25DWDNVTW5QS2JMQWhPYWZsZXNIamFzY0NOM2dUVzNnRkpTN0FqNENfelVqZ1ZnQm10TEd5alBkX2xFbElPdFdMRHhBVUNvcVJ6WkdFY1Fsai04bDNNaVFXLURtRTRqSVpjY1lpdEVabF9Yc3p4NlY2QVF2T3dGNXQ0cTZmbTE4QjRDODJRN2UybmNMZVJUa1lLR2s4eG9TYTRSSXo0VDVnT2o4bWozNGNGWEE2RTFPaEVaSjhJMnFhSUNP?oc=5",
+        "date": "2026-08-18T05:50:00+00:00",
+        "source": "Investing.com España"
+      },
+      {
+        "title": "El lado peligroso de los agentes de IA: advierten que pueden ser manipulados para acceder a tus correos, archivos y cuentas",
+        "description": "El lado peligroso de los agentes de IA: advierten que pueden ser manipulados para acceder a tus correos, archivos y cuentas Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFEyemhOZmRQWTcyeS1UQW51RFIyeVB5OFFQSnZ0UXdyVVNJMTItanl1NHNQaDFnbkFxaWNwdGpnMElfa3NidzREWEY2UFhyQmV6R2p6eU1GU0VybnQyZndTM1ZxbHhtdnM2Q2lqWDRDaWpIenZyQ2RteG81UHRHUm4yQlFVbXh4X0pFc2N0Vk15Uzc5S2F2RndPMjhYQUhYbGdOSm1BMzZOOXVpbXNMemJIYUdSMFB3dFpOamx5ZGRSalF4SVExX3B0ZVNfbUZjNEhrdFFn0gHbAUFVX3lxTE16UDhyRF9fcjc0UDJwRDFFOU9tV25hQUJKeVZjaDJMMG81ZEtMV3VmaWxaeFlqS01LZWQxR29VNndPYnZveEl3V3R3WlhEakI3a2pwRXVzaTVnSE8xU1o4SkVuNkM4RWFTZy1icUZXUW9iSkVkYWY3dWJjVVlYOTlsTVRqdEdSQlJlRlhGMHdqX3kxdjlBbDFORE5MZjBlTUVkNldhVDUtQ3pza0l1RVJnRzNrOHJuU2ZrUlN0a1BPbUhTU3g0eXZoWTdVaHlwX01RbVZsV0NCTTEtcw?oc=5",
+        "date": "2026-08-18T08:45:51+00:00",
+        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Neuquén abre licitación por 15 áreas de Vaca Muerta: quiénes participan, cómo definen ganadores y las aclaraciones de último momento",
-        "description": "Neuquén abre licitación por 15 áreas de Vaca Muerta: quiénes participan, cómo definen ganadores y las aclaraciones de último momento ambito.com",
+        "description": "Neuquén abre licitación por 15 áreas de Vaca Muerta: quiénes participan, cómo definen ganadores y las aclaraciones de último momento Ambito",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ0NYMHNLS2QwTC15VHFDT29TRW1BbE9CenhucUpDNEVQT1hQOVROckFQa2FKT0ZUaWllQ0FWYUkzLThoZFJ3aXlZOHpxZkZiS2FqQTlVa3pndHB0ZTZIYUtXYVNZdnF6dzN4VU5qb0x0cFZlMWhOa1VQcEY4V3JIMUlfOW1xQVdaQW9YRThuN0ZVQTVuOFB6dHdoUVpBZ3hDX3FhYWtTN3ZmcW5YamY3WEY2aE9vTTBJTXQxWm9fdnUzVUhKUEkyT1AxOUFDYTN3NC1NNnZQdnVKNUlmUUxWZjRGVUJZX2Y1M0NzSEZzRHZ0UQ?oc=5",
         "date": "2026-08-17T16:56:00+00:00",
-        "source": "ambito.com"
+        "source": "Ambito"
       },
       {
         "title": "Carlos Melconian, economista: “No nos pegamos un tiro porque está Vaca Muerta”",
@@ -171,10 +171,10 @@
       },
       {
         "title": "\"You shall not pass\": una banda de Gandalfs le armó un piquete a Peter Thiel por su inversión en Vaca Muerta",
-        "description": "\"You shall not pass\": una banda de Gandalfs le armó un piquete a Peter Thiel por su inversión en Vaca Muerta perfil.com",
+        "description": "\"You shall not pass\": una banda de Gandalfs le armó un piquete a Peter Thiel por su inversión en Vaca Muerta Perfil",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWmFzMzJRbWxtUExuUldLeEtiNEZYalRpRmxKS2steGlaVWtoanNxd0xtVUlwek1qLUM2UUJDbmQta3VFZzJ0UzluQ3Z0Y3hUM0QyS3piczRZbmxVcDIwUmd1VjF6bmZXNVlUSGFQc2FxSlVCOFZBTFF6MUV3Z016OUFER1ZWS1BsRkIxLWdESlNMeHpFUzkxblpUY0Rta2FlTkhZZWN6czhzR0J1cUxsdGg3SF9wanUzNTlKV2taeVRYZV9vVmpTLUdwUjdGRDl4VkQ2OHFla1A1SWNfLXpGV3VUUXJuRUXSAewBQVVfeXFMTVVlQXo3WEgtN0pYV3JESzVYNE5GdEx6WnA3ZWFnX1VWenViY2ZXRFNpdVRuM2VvZkZWMW1TZWR3dy1URURWMDdXQlUtM3lKZHB0NFo0SkdQd2hfV0pfQ1RUYjk1dE51YXRmeDhlekF3bmNPWldWZ3E5Mm9zdVhLVUxGaV9MaHgtcDBobFVKV0t2bTVieU5Cb09OZ3FEWUF3SHJ0RmkzeG5TU3lwQ0F6MDd5U2NKb29jN1pETTJ5bUlEX0QxM1o2d2VOWDQ3VUE2elZkb2xrNTFfWHlVQzFweklENEZGcUtLVVNFR3E?oc=5",
         "date": "2026-08-18T02:35:32+00:00",
-        "source": "perfil.com"
+        "source": "Perfil"
       },
       {
         "title": "El millonario tecnócrata Peter Thiel puso un pie en vaca muerta",
@@ -192,10 +192,10 @@
       },
       {
         "title": "Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú obsesionado por la energía y los datos",
-        "description": "Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú obsesionado por la energía y los datos clarin.com",
+        "description": "Peter Thiel pone un pie en Vaca Muerta y la IA: qué acciones tiene y a qué sectores apuesta un gurú obsesionado por la energía y los datos Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaUYweThITHBlanlVWDU1b0RpUTNCQncxWlJreERHazlXWXZtV3B6aXpybGV3TWV3ejRlUm15Qnhsb3FpZ1JmdTRqZF8zZWNucGJzSzZOdHFYRlBveDBGc3RDWVhKenFMVkJYMHRUOGM4eGNpNmt5VkZnRHV0dE1DSHVhaEJVZW92OHI3SVdGMU5rczlZT053OXJ3WXhXSnJEOWZmOXJsekVMTk9hdFdpNVl4cDdvd2pDRF91Y3ZwYWMzbUxmMWFJQjNyNzd3OE5CQ3VXcGJUQkw5QQ?oc=5",
         "date": "2026-08-15T23:59:46+00:00",
-        "source": "clarin.com"
+        "source": "Clarin.com"
       },
       {
         "title": "Peter Thiel compró acciones de Vista y desembarca en Vaca Muerta: cuáles son sus inversiones en la industria energética",
