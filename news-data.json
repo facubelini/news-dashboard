@@ -1,9 +1,209 @@
 {
-  "updated_at": "2026-08-18T03:38:58Z",
+  "updated_at": "2026-08-18T04:29:24Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+        "description": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1dINTZEX1oxMC1wWjRudHdvT2pzR0REYk5RbjBXMnZYQldQcTlRbWo2cUR3SW1BcndfQ2RSVHlLclBGdFNHV2xOUlQzR1V3WV81b1A5R055ZFRRaEh0SWNFd2dpUXY2Q2tZQWRKZVNIU1l4OE5FZThPOU5DdHlvTzdnVXptTnB5ckUzOGdYdURBTl9pUVE?oc=5",
+        "date": "2026-08-16T18:00:00+00:00",
+        "source": "Hipertextual"
+      },
+      {
+        "title": "Microsoft permitirá personalizar el menú del clic derecho de Windows 11 y elegir qué opciones aparecen",
+        "description": "Microsoft permitirá personalizar el menú del clic derecho de Windows 11 y elegir qué opciones aparecen infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSlJiTGVaYlB4OGEwNU9pbm9icnVaZ3BhbzdLNTZKZ05GUWFwU1B5UnJmZ3JfYXJyU0F6dHl5Unl1Y1FTUWRqaGM0LWYxUEhfN0pxQkduTkxVaElUTGtxSXlBbUZXQjRTd08wQ0xYSVpWTUl2UHBpYzNxVzN1U19fMXRqSjJ6bzNOeC1wdzAtaVE3QkRJMVhQSWtKcHpJbDNMTDRWeF92QUlVQ3VUckVvdVJ6VklZcmdHalRKUjdSLWp5eW4xQ054TmdvWXNzeURwYjdkYXBCeURBdXYtMUhyQTJFLXYtVW5yWFZr0gGGAkFVX3lxTE84d3VnaVdKRzhqZXhJNGpzZ1RMc050NlY5UjBnRExPT29zZk1DSXpSejROLWhhaTRBdUpfQVRYUWt3RFpOX1NaRG1NU3phXzZnMHEzM001cDNrZ3YxbXlsQzFRNXpKMDBwRF9scTRxb1JpMEhJemFKaFhBNWdUYXJ4WTlWVlVjUjc0VlBQcVN6NmZldVNONEh2VUtZLUM5dnNITktXR3ZwSFlOUi02TE5JdkhBNTZFbi05UE1wekljZl9yUjNUaVQ4M0MtMVZFYlFGNlBsY2YySVVITnZDLXlIRVBkemxFcGp0dFdhM0NjN1hQSUpDX3RuSWtwNXRzS0k1WWxCSGc?oc=5",
+        "date": "2026-08-17T15:31:00+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "Comienza el juicio por el asesinato del gerente de Microsoft en Florida tras una emboscada mortal",
+        "description": "Comienza el juicio por el asesinato del gerente de Microsoft en Florida tras una emboscada mortal Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV1V1U1pVMjk5T05jUS01Zm5fRzJDT0VuZVVwZmhFZDctUnVIaC1EM0dhS1VCeG1SVS1SbjJYRUlUSGZlTU03cnJDbmtwd213NWh1MnQ4TnVxeWduMzBMNU1KVHUtZFlhYVkwUEVUbzI0Q2tubk1VeG1KVVBja1dOSkN6ajgzRG1XNHc5bW9aMXdaU3FNSThIeTRmRnd0UkdaZ2ZwNUJVYlRIbkVNU1phbk9FbFhJQVZLWEREeERhc3IxWTBSeFgtOTk0bFM1b0VWV1ROcjhBbmpHMEZUYVlnYXpILVpnZ9IB6wFBVV95cUxQaVdKdDRMemlZelozOFFNcDFrUzJ4VU51TmVJRHV5dzdqSXRCaVZya3VUYm9DaEUtZDNXWXUxaURyVjNjaW82Tm9YdVdaOWNwU2hrN2tuWmNtVnRET3g3eTVBUF9kSjdzeHpVamVDTThCY3NsUEFuZEhaeGlvbzAtM3FGSF96bXlqMUlIaHpJckd2OEZ6VE5JN3lQUGQwblNRMGVYSXRISUdYLUE1UU5HdHpZbkFfbXMwaFRiT3JyX25aVThKdmJUbE55alNZOVhuZkxoUjNzeWhiT19TYzczRXp3elc1V3NpT1dv?oc=5",
+        "date": "2026-08-17T18:45:04+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
+        "title": "Google, Amazon y Microsoft ya no solo patrocinan el deporte: ahora también forman parte de su infraestructura",
+        "description": "Google, Amazon y Microsoft ya no solo patrocinan el deporte: ahora también forman parte de su infraestructura Gizmodo en Español",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT19ILU10b3FndFdURG9xQnAwRXFQRHZXa2RMWEpFMWFxcFJudDkzVG9hZFJzMWF2cldtYlExY0E4WUJJeFFWamQ5RklJVHVzREpoWFc1NkxCVXFjblNxSERMTlE5eDNhMnNaTEs4UklaVk5zbEZ3RER3TTJJLWhUckk5dXZLM1VqRzJJaGlYZUxYR3NHVHQzMWxFeTcxUTU1cnFfVEUwSTNIY2RzLVlmQzFDTXNybDJuU1hVTFlmc215VGRjdWRfQ1JqMmIzZmlSbERaVGc0cm0?oc=5",
+        "date": "2026-08-17T13:59:19+00:00",
+        "source": "Gizmodo en Español"
+      },
+      {
+        "title": "Microsoft lanza MAI-Code-1.1-Flash, su nueva IA para programadores",
+        "description": "Microsoft lanza MAI-Code-1.1-Flash, su nueva IA para programadores Digital Trends Español",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWNkRDJnMlJyQjNCY3NFUC03Y05SbUd5bEQzeDExSWxSemE1T3I2d2txd0o2NWxrT3NKaEFEZEh4WTFyeUFuX2J1Zmc4bHZlMTlYeTdEU0ZLeGoySVVQXzZidU1nSldNWFZFVm9fVmxUWVZ6Uk9PTndKZzZCMzBiSU1kc2tRcmpyZDFpZHVZbWJrS0pyM2VWNnQzRmpmbE1zTXgtWTJqM0FQaUZR?oc=5",
+        "date": "2026-08-17T20:33:55+00:00",
+        "source": "Digital Trends Español"
+      },
+      {
+        "title": "Microsoft retira a Mico del modo de voz de Copilot y lo convierte en tutor dentro de Learn Live",
+        "description": "Microsoft retira a Mico del modo de voz de Copilot y lo convierte en tutor dentro de Learn Live infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWNDSUpfYnVYTExZOEZZN1lNY0t3aFMyb25uVVFBZWhwMTNJaXlrVmVJWEg3MHhVOWhWalRhQ05YUUlDWld2ajRWS1ZjX0JRVE5jQ0pycnVaUnl3NDF1RHU5SGlBa0ZMVVoycVoxem50bzJzNnBjQjZiV2Faa0pCYXFEVmtVSEw4dVBIZVJkbGNvTXZQUF95YTk3Vk1NdWp3Y2VuV3FLYWJmVkVyeFVhVWw3eEk5U0FjcXotUnUwY3R4ME1heG9VVVU3aVE2eV9ENFVV0gHuAUFVX3lxTFAyRlF5SDlGWlhERUk0eE55UFEtcmxJQldqTU0wRlA2cEs2NjBBYVJGOGlRNkNiNEFOVENnSXRyVko0c2x4M3JZSXMxUmQ2dloyb1BUUGh0WDh5UUZaR05rWTlVaUZEYUVIMGx2Vkl6dFRKNndST3QxWkllSVowbG1GQU5WV254cWNtcEZSQ1ppX01MRnFxQ0pvM3Rjb2hEbmZibnk0Q2Z4MEJ4V0VSdTZJUDhUYVhCSUNNSjFIMVRLUUxIUGJXTXQzalpVUklyT0ZfS2tBVXFlTDFPZ3hydXNOc0F0dks5dnBFaFduM3c?oc=5",
+        "date": "2026-08-17T13:08:19+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "Google, Amazon y hasta Microsoft llegaron a invertir en el deporte: Barcelona, F1 con McLaren o la Bundesliga",
+        "description": "Google, Amazon y hasta Microsoft llegaron a invertir en el deporte: Barcelona, F1 con McLaren o la Bundesliga infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTFd6MlhvOWlEdHRuTzdMdGdHU1RxSWNjaXM4RE9mNW9hZ0F0QzBvWElwVmN2VV81LXV5MkN3T2tzOTE0cFBCY2gwM0RFSkRlekFvTXMwS3l5TjJyQWktcU9RQjlEdGVscW9sckF3c1JiWmFreUxYSEFMZnRJcjg4QnN0TXJhQVdSNW12eVlMYVo3MHVvQXg0ZFRFMmRaZFd1ZjV5VlpFcjQtZnhSU0pnZ1hPYkFsOU91WXQzN280WG53QWE3b0RwRVhCTks1MnZkdExaM0gzajlFNEU1UVk5Z3dn0gH8AUFVX3lxTE8weDA0N1FZRV80a2k4YlBHNWVJZjdtUHlKS1R5SUQ1NDJnNHJMekNNcncwYzhLYy13a1hDRF92dW44MmFjTkt2N2M1U2EyU01qVzhtbVh2dFc2OXJyQmhDT29aVXdBZEE4YjYxNm9rQVRLWXpHUXlkaEVHX0txZkVINlJWQi0zMkFoSXBwLWgxdVB5WTJOM1dOUkJkem9mbm9xQVFKQ3FIM0FwYkVfTDdUSXJqQTd1NUVJU2p5U2c1TG1EbXhJb2VscDZaMHZUUW9yRzBldVYyRGloNEdocDV3bkVtZjJRaWJvOTJKUGk0S1hxVjlxaUdEa2Z6SQ?oc=5",
+        "date": "2026-08-16T21:00:00+00:00",
+        "source": "infobae.com"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad",
+        "description": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad En Linea Noticias",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkRvZDVZT00yX0xNcWNhSjBEM2dtRmZkT1lGeUNtVXc1UzQxMzRfeXk2UXlLSVZtTlBUWGV5SDNfcTRNSmRPVlhDZkFjWVV3SDRKeXdRaEVobkFEdk1jNFFYSDVxSnIxcUJrdi05cm00U29SRjBMQWNzTTUxbnpxWDlmNFlWdVFYbHhGQ3dXSjBNa09MV29WMWdoUzJfdjlqbE1DM0stVHVacXdYUWJzOW4xWm1hYUNX?oc=5",
+        "date": "2026-08-18T01:03:21+00:00",
+        "source": "En Linea Noticias"
+      },
+      {
+        "title": "Mucho más que redes sociales: formación en comunicación y marketing digital en el territorio",
+        "description": "Mucho más que redes sociales: formación en comunicación y marketing digital en el territorio ungs.edu.ar",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3NHNmd5OUtNQnN6WEoxWjM1bnkyX29xWi1oS0dVQ0RnMm8xQ1hlRmw3M3d6WVAwSGVSRTJYajFSUlFtX21wOHlWVDNOczFaSFdNelhScHNSOS1fcVUxLUdJQmRhQVk2MnlPN2RpcUpBTzBWNFlFQ2c5SmFOR1RZMGVNZHNNWFNRaTh6bWprSGpGbFh3Yl9VUmlYeU5qbkU2SGNMLUhLZzRsVExFWVRsZkhUS1Y0RkpNaXNyR0N3ekR0TkN0a1JrMTE1eDNIdEE?oc=5",
+        "date": "2026-08-14T19:17:44+00:00",
+        "source": "ungs.edu.ar"
+      },
+      {
+        "title": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares",
+        "description": "Marketing digital: por qué las tarjetas virtuales se vuelven más populares bragadotv.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2VKY1VuZGNjUFdTTElpazBPWDNxLWZUcTNWTDF2ckFuaGllMDAyaENneUpjbVlJNUFYRTJWeFlWOGxWc3E5bVVSVXRLUTFBU0pPeENjeDlkcGp0WEwyeVFWNmpSVHV2Q0wtNW5yOVJzQnlwSGhYTWFsR0dJdkJleEI5dkZ6a3ZKRjRHQkpTWnFuaS1FX0JWNTlnbmhhY19lb1dPU3BoMTM5N1VlUVlZNTJ0YkxuSWpRd2ZjcjIzYUtWS2pOWENr0gHMAUFVX3lxTFBnakxSdloxNDUzSDJCTWFBdzlGbHlYdzlMQm81YVVfS05aNzZKYkRVelhTZDRSREtMbHVVakNWR1dwX3NETjJzTDQxWE1BRTY0UkpmMERyTmIwY0dXQktzNGsyVHVYYTgtQzEtMFpDQWFKelpSQ21KNG83YUdXR1c0Rlo5eWM4b202ZThUOVM3RmlJZFp4NlRHakFPVExBYVZQUFFwcEVJckRBdmxrQ0IyQWVVMkVuOTlDaV9NN1lKcjRweFk4eVVnaGh4Tg?oc=5",
+        "date": "2026-08-13T14:30:16+00:00",
+        "source": "bragadotv.com.ar"
+      },
+      {
+        "title": "Marketing digital: 20%-40% del presupuesto se pierde en clics inútiles",
+        "description": "Marketing digital: 20%-40% del presupuesto se pierde en clics inútiles El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXpndHBFZXdxdDVaSXNEcjd4Q3gwRVpXZUotRTNJV0xDTDExYXpmWEh6SWZzc2NjV29qN2tvQzZMa0wyckswZkphNkIwSVRId0dxbnNia1hMSUVTMTF3UXVXZzdyZHhGa2RCazlSZXl4YWVxVlZ1MXB5d3BhSVRTS0NJdXpqV0haY1E3UUZ5Rk9fVG9LZWdGOTI2T044WWs?oc=5",
+        "date": "2026-08-17T16:21:41+00:00",
+        "source": "El Ecosistema Startup"
+      },
+      {
+        "title": "Growth marketing con IA: cómo las pymes argentinas crecen en redes sin agrandar el equipo",
+        "description": "Growth marketing con IA: cómo las pymes argentinas crecen en redes sin agrandar el equipo La Brújula 24",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUzhGOHhydnpfNW96SHM1dmtCYm1NMElBWC1qME90QjdvamRpMkVjWlM3b0cxcXVJOUpEY0UxQmRwNXBqYzJEWWNBM29PWURRc3R6UWJILTl6OGxJTFFTS3NoVUpsOGNsYUdaZnIzdzg3U0VUWFhKUmJEa3NrcTViTXJ0a2VoeGc0WXlrWFRRSTNJRzBKZFozV1lRRXZDRFR3UjN0MnlEbXczMTU3S29HTFZEZWhraFA4Mlc3dnVvS01kWHpneENpMWdRcC1ONTdGWHVTZ1FBTE9MQQ?oc=5",
+        "date": "2026-08-17T21:48:54+00:00",
+        "source": "La Brújula 24"
+      },
+      {
+        "title": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital",
+        "description": "La OPS llama a proteger la lactancia materna frente a la creciente influencia del marketing digital Pan American Health Organization (PAHO)",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXc0NTJ3VVV2blNuemNIWmdUQ3JqVEpDM2hNbmNrRk1Uc2xiV1RwelpFV0dkMU03ZVh5NVpmOUhzdHcwOFpqbTh3ZUpxN2hNRzZ5dDZrR29VcDdqUnI1OUdHU3N3MDNhVm9fb09zYXNVOW5VeDNKN2h6ZFhxekpJNlFwQmNLM045Mkl6Ylh6OVYyeTZaSUN6OWZmY1dUNXJZY1BfYVM3Tm1GWHppempqaVBidzc4UW02?oc=5",
+        "date": "2026-07-31T07:00:00+00:00",
+        "source": "Pan American Health Organization (PAHO)"
+      },
+      {
+        "title": "El marketing digital no se aprende en diapositivas",
+        "description": "El marketing digital no se aprende en diapositivas El Economista",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa285VnJfQmZPeEZpd2l3eTFhRDhwaGNHRVowTEVPZEdCY1laa0VyVVMtWjdDNHlZMl9wNWVCTkZwQmFaT1ZUSkNvdnBaeHdrS09oLU1IcUVDaktFTmxhUnM3aXNldkJnYjdxUjZjWlJTN0l4Rk5FZjJwbGxFbzdVNXdMd2hJSFd2SVVTQW1iTS1Qd0dEX2lDNHZSZ0VGMl9m0gGmAUFVX3lxTE5rNE8wRWVtaU56a1M4UmplVUM1RXhWUHE5ZWVvRXJQU0JEZUdvS3UzWlVzZ2ppVkZ5ZUFNVDBqeWExZ25jaEw0R3N0T3RaQmVaUlBoYnNHREpBdkRWZ2p2SjB4T29yOFdZcmJZTW1LMzcwanBEdnFwZmZQczJnd0c2SXpNOENXSFRXOVA1bkVISzhqNmZETEpDZE5KZVQ2TFdxRktYM1E?oc=5",
+        "date": "2026-08-17T15:26:27+00:00",
+        "source": "El Economista"
+      }
+    ],
+    "IA": [
+      {
+        "title": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial",
+        "description": "Las adolescentes parten con desventaja en el aprendizaje de la inteligencia artificial EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNamF6MUsyWVVoR2lZY2hKLUlySEVVRmZibjgxQVlsRUJ3UHhoQmd5SG1SR3JrTnlKeVhjZTF0bzdmb3k1RUU3bmFtODRIczJSX2tNNVpFcWVORFdTVmc3WDQ0bXJ1RVFnblYtQ09YNHlObzNDeUstVlBnTWpQeF9MajFQdHdzMXRZYk1iSUgxbV9SSmI1YndUU2VyVDFmZTh3TTl0NVJfWFJmbmFLUFY2akZXSkVzdGdOalhpTGRLZ0wxek13dXo0blRXNNIB3wFBVV95cUxNRmluVjVXSndhMzg3VTNoSXNPbWNyZnI4Q01kOTRZaWVlWXBTYkx2RkhrTFVWdFlobEY0amZEUHYtRVFYMWpTdzZPdXdaNU94VFRHQ3BjSERGLVZCWnFHNUtvd2xBRWJ4ZUVkRjNHeEkwQjlmLWN1YVQ3RzNVc3FCZEZxdEFQWEF4Q0cwc2JTRVZRRVNFYTFjVlRoSFdqSHZSbE5QajhzVmdKQk4tQUFZXzFTTjVXaWVKVXRpM0EzY3ZPLURqd2U3d0Q5eFNGZUgweldkUUxBbXBscXhLSzV3?oc=5",
+        "date": "2026-08-17T03:30:01+00:00",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "Filosofía, Odiseo y la virtud en la inteligencia artificial",
+        "description": "Filosofía, Odiseo y la virtud en la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEFYdnR0TVg3Y0hyZGs3NkNpMldhTURCR0dUcHgzbWRtMHhvcVRqRnVIOTVQbzM1OTMxVUJiZVVCeEptVDEzWXlKNDdhaElTVUtIMHU0T0IzX1o5ZEVPdzhJQzk2cVRlYVlGMGJzOE5VWmdLbVkxQjdnYzVTWEZEVzlqbkxWUjZQMXV3cWZ3ajBQcG02TV9UVm9sd3ZtS2FCY2pwVW9xUXEwZlVF?oc=5",
+        "date": "2026-08-16T03:01:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Por qué no deberías usar a la Inteligencia Artificial como psicólogo, según la UNAM",
+        "description": "Por qué no deberías usar a la Inteligencia Artificial como psicólogo, según la UNAM infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDNiMmV1bjJHSEJScW9ISHU0UDhVcW4wSDROT0NOSm5DQUtTSlhpQ0V5MVV2VTZLRWxFdnMwSkpxS0VJMUlfZHRSVUFhTkk3WnRBNEhNNUljUEZ5aXJCVEFtZHZlTnZZU2NZUUlhdXRUc2ZrWFZlTUVuRURxc2J0dFhuUlg1TEVNd0lPZ3hBUGw3d3c4Z2tNUTRSQ0hQUmRGZ3NTSHFjdk55QzlVeDFFdHg1c0c2aVNTX0kzVklnNmYtSVHSAd4BQVVfeXFMT0N0VHY3WDZkTk14dHpnbHRrYUhQOVQxeTB2MlBZZUVPOWxTcVhZdDBmd2MyUEM5YkZTcHFFcjd4dm1fYWRmXzJienFQT2xSdG5sZm1VMTBDZkF0djhoZWlyMDRBdEloQUlpTlJ1Q3VqNVdocEhJNzgzNUlyb0JGNnlNUVlxTGh1c21iQ1AzeHZPamFaTW5KMC1pTWlsUVlRVE05ZVRfaVRKRXBtMV8zQ0IzMFdWTGttSHhDVDM3dkNRZjM4d2RzdE40clVzRHhJNXJfb3RueWowRUtOQ0NR?oc=5",
+        "date": "2026-08-18T04:15:58+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "La Inteligencia Artificial golpea a los jóvenes",
+        "description": "La Inteligencia Artificial golpea a los jóvenes Los Andes",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOEQ3dkJPOE9jdzJwYVRWVVFrMFJmVlFzWVFVdS1fWjRjRnpWSGEzcHVYc1ZNYm1JQ29veTdXelFJSW5wSUNybnJxLWlWWjk2cHhUQkltZF9yTXh6TWJvMGhndUJnMTVfTTd0d3Rlc2wwZExvSkdKaGNCRkllNGhmQmlYaC13MVlXc0lBWjlQdG1uX0xY?oc=5",
+        "date": "2026-08-18T03:25:00+00:00",
+        "source": "Los Andes"
+      },
+      {
+        "title": "La fiebre de la IA, un gol en propia meta de Europa",
+        "description": "La fiebre de la IA, un gol en propia meta de Europa Cinco Días",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeTc5azdlS0d5RHRLUjBFNTd3dkdTNmR1Nkw2Q2JNbFdtVHJnaE0yemM0eURiNjQ0T3M2WDlNYjllcUpPVzk3Y3QwSUtZQ0VFenQ4VnFQZ0w3ck5pNzVtZFNmS05qcExSUjZhaWtQWnNjc2RjSUpWNVpFSDhzX2JBa3Q1LURZNjh3LVMyUzJraWlzQnVwaVNzZ1ZCakI4Y0VaWmFxTnh30gG6AUFVX3lxTE1fUXdGUFR6anlGTGU5eEVWNlN1bGk2R2JhT2NNV1pja3lGZzNqUGZIbG9aZ1RiZGc3NlhMNWNVSnZzSkFrbUZzNDl6bUFzTHE4UUJ6Rmk2bGhBWW5ZaFpuZ0R1NkFlV1MzOEo5aURWVVlqbjE0QmFkWDNrZVBlR3N4VW9WVUVzVE5HbDlKa3FKellVS1J1Q2dJY0ZEck5CclQ1UWY1cWIzM2g5MV9tSkZYQ3B2MXBEWWFHdw?oc=5",
+        "date": "2026-08-18T03:40:00+00:00",
+        "source": "Cinco Días"
+      },
+      {
+        "title": "“Vienen entre 18 y 24 meses que podrían ser los más intensos de nuestras carreras”: la advertencia sobre la IA de un jefe de seguridad de Anthropic",
+        "description": "“Vienen entre 18 y 24 meses que podrían ser los más intensos de nuestras carreras”: la advertencia sobre la IA de un jefe de seguridad de Anthropic Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXZEY0J5OWhCWG4zbzRDWnlrdTE2Qlkwcmo0bDRBTVp5bjdJSEt6SkJfQU9RcFZDb1F0aGZQaktuMDlHWFhzOVd3NXB3QlJ1VFhaZ3dOQ1ZhdDdqUm51VVMzaUlaM2MzWDNQbHJMRDB2Vk82M0ZNZ09SbHlDSWRUSUluSEhHQno0NDN0Y191QVFEOGxneVhRQnJ3UVdXNFk1eWtrVE5pNHZWUGF4bDhXODlUdjJSU0FmX0RSZm5FOGFHUU5lTms5bEZYR3VPcU5tdVHSAdcBQVVfeXFMT3Z5OTN2R2hUVklJS21rN2RjZHV2QmxBN3gxWndIanM0aU10ZS1FZDEzMXNWWUx2MXc4dlBYRmpMZEctTVhqQ0tkWmZBTlFzc2g0dDVuUUZia0ljb09VYUpaazlnSHNjWGxxVk9UcVltSkNobXhBV0JaU3hZdkFMT2p4RkRVMXczTEoyR3ItQ1VjWXlFX3lmcFAtODNoOHhQUE15OWFFOGJPY054QWtjRUZjSEcyLWNuakgzYzFZTkJ0NWVIYkRQZmk3RnF0WVJ0R3FreWdfZTQ?oc=5",
+        "date": "2026-08-17T08:45:36+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Musk y Altman dicen que la \"singularidad\" de la IA ya llegó",
+        "description": "Musk y Altman dicen que la \"singularidad\" de la IA ya llegó dw.com",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdEMzR2pOYjVFVUw3c2FqZ3VFTjFoYlFnWGlZdHJiWWZVbml0U3NwU1hadkFwX05wdzhNd0dNUDdpcmdYNEtBTmhHQTJvRmZrSmdJVVpFLUE2V1F5WFVrZElGaXhWVURxRVRNX01VMFdmd1d4b2g4UXI2ZWNpcVVIeWIwc25yLWZBSDZVVXdhcTRUMGJvSnN0czQ4Qm5PUmFxWVhKNzRxQjM0cEFQQVBiN20zaXpWbE1lTFRaMUdCTFVLOHI1VUt1MTZXM0NHQnRScmpuTVZodXplY3Y4VTJpYjh2ZUROVW1hd1ZCSS1zcHdCOWNSU3fSAfYBQVVfeXFMTW5sMWJxTkNTQ2JXSy02Q29lYmpXNjNpMEticG9qbDkycjM0RmJLZVRrUktzVkJWUkFOYXRuOXJGeTJjUTY0Q20yUG96QkJUbTJ1RXNudXI5cUoyVk5xc3dzMU93ZjlCcWFqaU1SaURqYWw5c1pUMXpsam11QkxRSDdYX1hjcWl4Uzlrb3Q1UUhIZlBuR1F3WVdkTEJFd1VQNndZREdiMjI1bWYtZm5HZVZCdFFiWlJWVHUtNXdubUFhMlVFYWpkYzJFRlJRa1NUZ1pSeS1Qb0swOGdkZUxIcEJfOVZLckN2YWJsOEQ0QTFudFNfX0dn?oc=5",
+        "date": "2026-08-17T19:44:37+00:00",
+        "source": "dw.com"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "Neuquén abre licitación por 15 áreas de Vaca Muerta: quiénes participan, cómo definen ganadores y las aclaraciones de último momento",
+        "description": "Neuquén abre licitación por 15 áreas de Vaca Muerta: quiénes participan, cómo definen ganadores y las aclaraciones de último momento ambito.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ0NYMHNLS2QwTC15VHFDT29TRW1BbE9CenhucUpDNEVQT1hQOVROckFQa2FKT0ZUaWllQ0FWYUkzLThoZFJ3aXlZOHpxZkZiS2FqQTlVa3pndHB0ZTZIYUtXYVNZdnF6dzN4VU5qb0x0cFZlMWhOa1VQcEY4V3JIMUlfOW1xQVdaQW9YRThuN0ZVQTVuOFB6dHdoUVpBZ3hDX3FhYWtTN3ZmcW5YamY3WEY2aE9vTTBJTXQxWm9fdnUzVUhKUEkyT1AxOUFDYTN3NC1NNnZQdnVKNUlmUUxWZjRGVUJZX2Y1M0NzSEZzRHZ0UQ?oc=5",
+        "date": "2026-08-17T16:56:00+00:00",
+        "source": "ambito.com"
+      },
+      {
+        "title": "Carlos Melconian, economista: “No nos pegamos un tiro porque está Vaca Muerta”",
+        "description": "Carlos Melconian, economista: “No nos pegamos un tiro porque está Vaca Muerta” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDl0VUM5SEVKWVF6VmVKR2FJdTFCNUQ4LWxUSXdiSFNyckp1cjRyZ1J3eWw4VEtZdnhuWVVuM1JRY3FGUjYwTTJfaTBjUWtmQnlmbkxzME5QckNsR2NGWWVBU1JLcHVpQ0tLSGxYSFR6QUthMXJ3SGF1aFBESkU0d2FaSVBRZkZwY1JIT05MNEppWjU1eEM3TUhzempnTk8wSGl2d2Q5OUpGLTlYOWlfaXhIY2w4WWMxTWQ4THI3V3hkZw?oc=5",
+        "date": "2026-08-16T18:57:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta",
+        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12 Peter Thiel pone un pie en Vaca Muerta con una apuesta por una petrolera argentina La Nación El millonario tecnócrata Peter Thiel puso un pie en vaca muerta infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVEOGlsNWI2NmFLSGpXQWRRSFk4bnNoa3VNdm82SFFNXzkwdmg0NDVRaE1oQnFaVTA2U2lJcElhdkFJUndOYnRxdDlQMEtzWnRhOWFLUnU5ejdZck54TFVCNWVqVks1aENBeHJpcjZ1X1lGNE4tZWs4VjBJUXJHaEtqYmVkWjFoOGZXOVlja2E3b21STW5IRVZpNVhfbkF6cThidERkVQ?oc=5",
+        "date": "2026-08-16T13:02:42+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más",
+        "description": "Vaca Muerta y el precio de la arena: por qué un insumo que cuesta USD 22 por tonelada termina pagándose seis veces más infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMERIUlRfRWhULTRJM0tsaTRmOTBRaEFLRUFjTUMwRXlVTUxuNnVweGtZaEQtTWZSWE5tMXpMeHRleGRrbG1JWWF4azRuLVdFcDBzdG1iNlFkOXNMZ19vRTFBRzJOaGNQYjdvc1lzM0V5QVVjX0xVUjZCVGZMbjM2NFZrX3VncVFqYm1uTE5wajBmbVhpMFkwSmM0VjFlYTZ3Wjg3ZzRnQXNfazJ0dlkzT19sX0Z4TGlTanBpYWNPbHUwVzZGYWJQYU1ZUGZGVy04a3Q2TGlYNEdGUEFJeVJrSFd1YVdWNnc1UHZlcWtDRV85T1JC0gGPAkFVX3lxTE4tbUtJeHd6Um55RVJoNGV1VU8zd3pXUWI1dmRmRktuTG0xYzBseENKREwxUmotQ1JmdHU3eFFRci03M0ZmVWVGc1lWeldxS09kRmg1RHEzd1JYM0p1YkVGYngzcFJMb1ZoZE00bVJKWWlnb3cxaXZTWUE5M2V4Z2JOanEzNFFxQ3dscGRIbHB1amlKTGY3RDNLSGU3MWNRaUNwNlltaDVLbUNhSHJzd1djb0gzS1d0WGczRWo4VmowYnBDNTV1UC15NHdCQ0dCcDNTOXBvczlkYmRITWY1Y0w4RmJLeEhsV2JhRDJfOWQ3ejlXWVJ5SHRxaGRaYnRBSzJfV1Q4OVA1UHBaaE1WcGM?oc=5",
+        "date": "2026-08-15T19:10:00+00:00",
+        "source": "infobae.com"
+      },
+      {
+        "title": "La vida más allá de Vaca Muerta: la Patagonia fija su agenda productiva al margen del boom energético",
+        "description": "La vida más allá de Vaca Muerta: la Patagonia fija su agenda productiva al margen del boom energético Letra P",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNVpheGo0OWpkX25TZ002YUx1QTV6ZzVIOUhybG0tS19DYUNpMHVUV2Ryc1lwLW9lQ0xXNklzMVJ2VThnOHlGX3NBVV9udmtsTjZnQTZMZ2xJMXFIR18taUl0S0cxT0VVWHRvMnllUGlpejROcHZ2dmc4dGdqX1lGRlBvb0NWU2h1Tkg3aVc5N1BPZHgwYjZDNWd2ZDhtOTN6R1oyQjBjTTBTZnZwbzdqSkNKN1ZKZ1doU2c2OTA1aDJSOHVMaWF1X0dsYi1RazV5N3VmV0lfUzLSAd4BQVVfeXFMTXctRlUyNnJaRXlpTnZtZURPRDBqTjZIRlppTGE1VDBNOWRxSTY2M2wxUkM4V2xLX2N2RXhQbkJlZWlueWVpMk9Xd1RBT0xKRFRDSWhsVjZUVTM2U2ZOOWZYVWt4Wjk0LTJKcmlIU25EVkVJRnJyNzB1N3Q5MGlBTGtoZ1FSUmt1RnVXQkFWZjU1Q0d0U0ZtblZzOUk3S295OGRzbTk4ME9DLW40T29vanhlUkl5cV96OER6aVNMdDBPNXY5UW9ieTl4NllSd09vODBKaGJqUHRrWUxGNV9R?oc=5",
+        "date": "2026-08-16T03:00:00+00:00",
+        "source": "Letra P"
+      },
+      {
+        "title": "El nuevo mapa de YPF para Vaca Muerta: 16 rigs, 213 mil barriles diarios y un RIGI histórico",
+        "description": "El nuevo mapa de YPF para Vaca Muerta: 16 rigs, 213 mil barriles diarios y un RIGI histórico Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTmlfclZSRHBZcnNPSG11MGlvM0VHc093N3haOXRqSGRQTVRhX3l0YlE1VjNpNnpGZmJ5ZkZOd2h3ak9ocWRFa0JTRUFRbmZjTFY1Zld6NDNkY19hS3YxNkNvakhQcjJfdkd2YlFLRWw5elFaSnJ3RWdaWEhtOUk4d2Z2ZjdVQUFYclM4Z3NJTTc1TE1qUWFjdDIyUlJVY2wxaWdILUlHV25mSUMzZjUxamd1OTVsNHowZlE3d0I2V0xkQnR3bEHSAcsBQVVfeXFMTVZoc0p0ZU1JdlNXZkM4UnV2cGpBak5oUXQ5ODhtTU1LSzM3b1h2OGN2cnRSVThXeDRuS1ZBc0QtU00ycG9sUlZCd2JaSUtpQ3Q0YnZGaENXTDQ4RnRrSjduak9yT1ZWYW1qV1RxVTVnSEFtQ1RFVE1IdGN3ekdFalZFTU1NM3oza2FNLU82Vl9zVEdMNmVsbFVPbjZkckVVOTI3dHlDeXJHeHBYYl9VVUxEUFRkR1k4VTZJTFJLeWNFY3FyeU5Eck1RdWc?oc=5",
+        "date": "2026-08-17T16:07:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "\"La construcción del futuro será un proceso de industrialización\", sostuvo Rudoni",
+        "description": "\"La construcción del futuro será un proceso de industrialización\", sostuvo Rudoni BAE Negocios",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjdqQUd3YlIzMGtGb1RsYnJtMHlJUDVHcG9Nd3F5SHFHSmI2RHhJc250dmxSRFNoci1TYjNoVndfN25kaGkzc2VTVDZWcUxDemh5RlZna1I1S3NuNlZhamt6amlaWXZfNFdnLWQ0aVUxQnpQbTVZSE8yaWZQTVd4ZXB3N25peHh6SENVOWRyUW5yakhBVGppQ0tWY01pcHd3UHNvRHFVcFJPTGEzbUt3TG84M3BzbnPSAbABQVVfeXFMTWNoOVgxLXJ2TnBNaVpDOUNTeU10M3VjU0pfUXNGM1A2cWtGWDNaN1ZaejBVMjlaVTFKVlRkTF9hai1pZEpPaU1FWnlCekhUV29HVWZNV2Z1UlphVlFJRkFTdXN6aGhVVEIybVVaYnVlOVZtMm9SbktTX2w2elR1RDlKVWNzLTlJVUZTcnMyZHBYVGZFbEJ2Zk9qWVJlbTJYSHdRRHdac1NVcDFHRE8xWVY?oc=5",
+        "date": "2026-08-17T19:30:00+00:00",
+        "source": "BAE Negocios"
+      }
+    ]
   }
 }
