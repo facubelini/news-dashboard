@@ -1,13 +1,48 @@
 {
-  "updated_at": "2026-08-19T06:33:36Z",
+  "updated_at": "2026-08-19T07:32:32Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "\"No es progreso, es lo contrario\": un centro de datos de Microsoft se ha topado con algunos vecinos de Zaragoza",
-        "description": "\"No es progreso, es lo contrario\": un centro de datos de Microsoft se ha topado con algunos vecinos de Zaragoza Xataka",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1oxbVIzenFNMGVzMVRaUF9lU1BYS1JxSUVUTzY4QXNlOE9MbVR4NmhuUTJxU1ZpWnNJSFYxQXZMMi1QV0FFdnZ4LWY2bVdYdGxiWjUzZ1NjQzVFMjZRN3pTRXlwWUFxQ0MyOEFiajJQTHlhYW1PVWM1dlVkV0puZWJNUjNHbjRzUkdJWXJGNjZzT2drcEhaTGJPZnd5WDg3WXFkNmNPYXNBUXA2S3ZENWFYRGNYZ0l3U01ZbEpEUFd2NkhSQWfSAcsBQVVfeXFMT01qMVdieEhkbDl2SmNuLS1vZFRqQUlwbC1BblM3SnBfWWRBSURIR3JCTVJ3amNhZ2ZUMk9YQzEwZ3o2U2lidUhFQ0hoWjh1THpYWE9DcGJIN21XTUcweUVtSDMtQWstd1pjRnhNTXdmcWJJc1IycTVyQ2xFZkFzTzRvcThaZW1uRmVsRzVKQlhZSjZLQXZaX0xNUnpWR19oRWlIT2dsMXctUTgzbl9HWVc1YXhrOUFFUkRHS1JJUElqb1lWaGowUTdRV1U?oc=5",
-        "date": "2026-08-17T18:00:22+00:00",
-        "source": "Xataka"
+        "title": "CaptiveCrunch: malware en Wi-Fi público para viajeros",
+        "description": "CaptiveCrunch: malware en Wi-Fi público para viajeros Microsoft Source",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV09vUFo5UnN4WTg0dXN3ZnRGRWtyakQwajdGUTFJcGVlVjUzU3BOTTFDMi1RMUVwbjBReFlBMjBjbmgwZ1NsQVE5YXk1X0ZFZUpMb3ZOdEE2bGZPbFlicGtsSWZkeHczUDdtdnNRYkVKVXM5cExLUFE5M1ZmYWpsS0l3T1V5ZFBjdUMwV0JRcGd2eS11YWdv?oc=5",
+        "date": "2026-08-18T17:04:37+00:00",
+        "source": "Microsoft Source"
+      },
+      {
+        "title": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas",
+        "description": "Golpe a la piratería de Windows: el movimiento con el que Microsoft busca blindar empresas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnllYjczcFJPZEJ1aXZMbjE5dF8wQjl2Y3psM29oTlBMQ2VXTXVQVV9WdUZaMDF6OFhOdGVuWTVldFdsa25qTzRBMWdGRmVjNFIzU1MyVTF5YzhOd0p3QkltcjlKNG00a0hQUHM3R3dXd1VtbjlBdzFPYkNpdTBzdjRueDBWbHYzZlFpWFpCLVJxYUNTNWN0MU8xUlJSRWhyb1VJdEhleFNBbXNiakRvRFdEcDlYbFNvX2FJcWhSSENPbVNUdVlGRUtfUlE3QUhVRzhJ0gHuAUFVX3lxTE1tc2hoeXN0TkQxSjREbG1sVHJFNDhteVdMbHptck5DSTNyYTh6aG9LTWZ1S0ZFQ0ZNdjJfX0lwckRvSWNCMVYyX25PZG9YTEppclV0bTg2Y2JOcDJMU1JlbS1oLVFCSUxOQWdwQ2dIUVRXN2ptUWg4bUw3SVRUOVlrQlV4RUQ0dDc3azNPNHhhbThVNy16ZEUzSFc0MGpkNE4wSUk0MndHZGFPZlE5TjVFWWYxWHpCRkU0T09KUTdfUGw0RmJUUGp2ZzZuMG5ZVndjcnAxai1nbkdDVlFOaDhldVh5dm9aOUlHQ2kyanc?oc=5",
+        "date": "2026-07-27T07:00:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Bill Gates, fundador de Microsoft, dijo en 1995: “El éxito es un pésimo maestro, seduce a las personas inteligentes haciéndoles pensar que no pueden perder” - TN",
+        "description": "Bill Gates, fundador de Microsoft, dijo en 1995: “El éxito es un pésimo maestro, seduce a las personas inteligentes haciéndoles pensar que no pueden perder” TN",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUttN0tPdk1QZnFnT1pVdVVtenZxSWlKZGRxajBSUDhaT0RqeE1vZVpVNFVKS0hQTzJzcGQyZ0swNjI5TEgtVGdUcktiT01oM1hwTjRpWERxSE4xcnpVTXJiSG0tSENjbzRlUEZiU0Z2T1FWbTJfVlB1b05MSENPM2N5UExIMHpNbUNFeE1NTm9IZURQdXZHZlpvQ3E0bkQyWHJqTkwzX1RmR3ZFNHNrSGE4ZFp3eHRuUE1oOXhnYnlhNXh1VDg4QmQ3SnNNa3NWQzBsbXZ1M3RKdnlEejQyX0NBUG5ZN1B0aHfSAf4BQVVfeXFMUHV0V2NkTDk3Z3RpLUpUYjdPR1l6cXVkVk44dThGc2ZJd0J2c0FsOWV2c2t2M1JSbW5QUXByUHRILUI3Ri13Z25IejZkeGI3UEo1bFFCWFlDRm9WR2NjY1NTc1ZWbk1ueVB3dGxHYk1HbFlsX2NZNFVXM2gwWWxYSmhkTVl5d3o3ZTd2MlBhVlRoVVNzaHJnR3pxTlh0RmhuN0VvdmxUQ19Wdmw4ZjlhTUhaR0lBNzlybVY2NGJsVk1waXFWc2NTTWtrMXJiYnJqM0g2S0pMX053cXptZkM3RU51MF9DRzc0SE51aE42YzMtVy1ISldVR0VwQ01DdXc?oc=5",
+        "date": "2026-08-17T23:37:17+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "Microsoft unifica Copilot y prepara una \"super app\" de IA",
+        "description": "Microsoft unifica Copilot y prepara una \"super app\" de IA Connecta B2B",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktGTEhvUDRhSDRnYmYtQjBMZnBZbGhrVVdGVTRUOWJVYVpySFVMS194SndjTXNWV3AwQ3M0S19NOHBmZUNwQ0xjeTRiZ0NlUDVHRkFFLW05ZVFpc2hzQ3lPdGk0WVF5WG1RWkF3aHVNeDlNRzRCc2ZvaHhBZU9LZ1BtZ1JrUTVZekJWaTkwSXp6QWt2aDdNbEln?oc=5",
+        "date": "2026-08-18T15:13:18+00:00",
+        "source": "Connecta B2B"
+      },
+      {
+        "title": "Análisis técnico de las acciones de Microsoft: Se intensifica la presión de soporte en $468,52",
+        "description": "Análisis técnico de las acciones de Microsoft: Se intensifica la presión de soporte en $468,52 Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUFhN0xaZWR6U3JWeFh6dDQxQWZXTHFTeFRfVXhWbEt5U0hXdUFpMjhkZmlfNnQ5MWFaUmhfLU1zczB5SzhnSW93MHl4dmhnNzVZQUg0VndsbkJTSENtY3A0MUMtM21YV1NYdGVtenY3Z2xrT1RWWnpfR01uSXZFZ3RqRDM0OGhwS3RRa243eHhrRnZUSThoZEl1RQ?oc=5",
+        "date": "2026-08-18T14:38:45+00:00",
+        "source": "Traders Union"
+      },
+      {
+        "title": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot",
+        "description": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX00wMW1jbzQxMnNhVGp2dFZ2OUozRzBia2dLSzFGODh5TlFsdXNGNEhIXy1ZU1BhSHBxcnFoQXdWSGJkeVU2Rk1KM2lvQTVYU2d0X1BTcVZfaFplZktWRzZud0JmOUM1dWxQVXVjQTFFdHp2N1kyemI0NVVpZmtxVnNTWWJ0RjEzV2hXYzdrMzhzanRh?oc=5",
+        "date": "2026-08-17T11:38:00+00:00",
+        "source": "CNN en Español"
       },
       {
         "title": "Comienza el juicio por el asesinato del gerente de Microsoft en Florida tras una emboscada mortal",
@@ -15,50 +50,15 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV1V1U1pVMjk5T05jUS01Zm5fRzJDT0VuZVVwZmhFZDctUnVIaC1EM0dhS1VCeG1SVS1SbjJYRUlUSGZlTU03cnJDbmtwd213NWh1MnQ4TnVxeWduMzBMNU1KVHUtZFlhYVkwUEVUbzI0Q2tubk1VeG1KVVBja1dOSkN6ajgzRG1XNHc5bW9aMXdaU3FNSThIeTRmRnd0UkdaZ2ZwNUJVYlRIbkVNU1phbk9FbFhJQVZLWEREeERhc3IxWTBSeFgtOTk0bFM1b0VWV1ROcjhBbmpHMEZUYVlnYXpILVpnZ9IB6wFBVV95cUxQaVdKdDRMemlZelozOFFNcDFrUzJ4VU51TmVJRHV5dzdqSXRCaVZya3VUYm9DaEUtZDNXWXUxaURyVjNjaW82Tm9YdVdaOWNwU2hrN2tuWmNtVnRET3g3eTVBUF9kSjdzeHpVamVDTThCY3NsUEFuZEhaeGlvbzAtM3FGSF96bXlqMUlIaHpJckd2OEZ6VE5JN3lQUGQwblNRMGVYSXRISUdYLUE1UU5HdHpZbkFfbXMwaFRiT3JyX25aVThKdmJUbE55alNZOVhuZkxoUjNzeWhiT19TYzczRXp3elc1V3NpT1dv?oc=5",
         "date": "2026-08-17T18:45:04+00:00",
         "source": "Cadena 3 Argentina"
-      },
-      {
-        "title": "Microsoft retira su asistente de voz Mico a menos de un año del lanzamiento: lo convirtió ahora en un tutor",
-        "description": "Microsoft retira su asistente de voz Mico a menos de un año del lanzamiento: lo convirtió ahora en un tutor Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWNDSUpfYnVYTExZOEZZN1lNY0t3aFMyb25uVVFBZWhwMTNJaXlrVmVJWEg3MHhVOWhWalRhQ05YUUlDWld2ajRWS1ZjX0JRVE5jQ0pycnVaUnl3NDF1RHU5SGlBa0ZMVVoycVoxem50bzJzNnBjQjZiV2Faa0pCYXFEVmtVSEw4dVBIZVJkbGNvTXZQUF95YTk3Vk1NdWp3Y2VuV3FLYWJmVkVyeFVhVWw3eEk5U0FjcXotUnUwY3R4ME1heG9VVVU3aVE2eV9ENFVV0gHuAUFVX3lxTFAyRlF5SDlGWlhERUk0eE55UFEtcmxJQldqTU0wRlA2cEs2NjBBYVJGOGlRNkNiNEFOVENnSXRyVko0c2x4M3JZSXMxUmQ2dloyb1BUUGh0WDh5UUZaR05rWTlVaUZEYUVIMGx2Vkl6dFRKNndST3QxWkllSVowbG1GQU5WV254cWNtcEZSQ1ppX01MRnFxQ0pvM3Rjb2hEbmZibnk0Q2Z4MEJ4V0VSdTZJUDhUYVhCSUNNSjFIMVRLUUxIUGJXTXQzalpVUklyT0ZfS2tBVXFlTDFPZ3hydXNOc0F0dks5dnBFaFduM3c?oc=5",
-        "date": "2026-08-17T13:00:10+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Microsoft mejora el WinRE para Windows 11",
-        "description": "Microsoft mejora el WinRE para Windows 11 MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWE5DZmFFcjhxNnhHa2Utd3BxNEs1aEJyNVNQcFM3ZDU0UGdNOW1MRHlXLWdzUzZkeTdHOTJRTlNQSTdPa21vX1ZKQVZYejB2MXM0RTZBSkFtdW0ybG5za3gtN0FtRG1UaWZTejh6YnZ5MFI1c3ZrNTBnbUFVQUVQZGtoWjhNUXdD?oc=5",
-        "date": "2026-08-18T07:34:11+00:00",
-        "source": "MuyComputer"
-      },
-      {
-        "title": "¿Por qué cae hoy un 3% la acción de Microsoft?",
-        "description": "¿Por qué cae hoy un 3% la acción de Microsoft? Invezz",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzgyZWVjSEcwMFdmQk1UNVpHdUlvSkxSTFRkck9PS3BoLUEzMjd0dk5ITXFNd2lGMUp5OUdaNUoycE51S2s4NGtJUDFQZVR4NGdPWXFfSDBQSlFaSVNIWTQ0TUlVZUtYRW82eTJfMEpkdnd3M1VDQkN4NWdqQTZWVkZ3U1ltZmF0MjVra2l6OFJXOTJxQVMwZw?oc=5",
-        "date": "2026-08-17T18:10:42+00:00",
-        "source": "Invezz"
-      },
-      {
-        "title": "Un ejecutivo de Microsoft fue asesinado frente a su hija: así comenzó el crimen que tardó cuatro años en llegar a juicio",
-        "description": "Un ejecutivo de Microsoft fue asesinado frente a su hija: así comenzó el crimen que tardó cuatro años en llegar a juicio Univision",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLVN5TzJRWDE3UUtmZkM5cmNnY3FoTzZKTlVCY0c3U0hSbk5kbmtxV0VESkN6YnBmNWdKbkRSaV9xY0U5ejdoV1VXQThReE9YN0JzRGZsSU4zVzE3bFp1RG9YaTYxYTlDSkhoQmJUZjdLdmJwYWZyN0pSSjBGeEJON1VFd0l4VXNEaFVlNmJhSlRKX3hkVkVBWjFTdXhmRkY0WTh2OG1QQWRtZ2ltN1FPQzRDN3JtTmpqV0FtR2NIQVk1bUR1cVhyYlFYUkh2WTNHblJ3ejVaSnl0WFNHUFAwbjVXRzI4dVloQmdFN3dsa28weV9xNEgwNFlKNXNaZw?oc=5",
-        "date": "2026-08-18T02:47:53+00:00",
-        "source": "Univision"
-      },
-      {
-        "title": "Google, Amazon y hasta Microsoft llegaron a invertir en el deporte: Barcelona, F1 con McLaren o la Bundesliga",
-        "description": "Google, Amazon y hasta Microsoft llegaron a invertir en el deporte: Barcelona, F1 con McLaren o la Bundesliga Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTFd6MlhvOWlEdHRuTzdMdGdHU1RxSWNjaXM4RE9mNW9hZ0F0QzBvWElwVmN2VV81LXV5MkN3T2tzOTE0cFBCY2gwM0RFSkRlekFvTXMwS3l5TjJyQWktcU9RQjlEdGVscW9sckF3c1JiWmFreUxYSEFMZnRJcjg4QnN0TXJhQVdSNW12eVlMYVo3MHVvQXg0ZFRFMmRaZFd1ZjV5VlpFcjQtZnhSU0pnZ1hPYkFsOU91WXQzN280WG53QWE3b0RwRVhCTks1MnZkdExaM0gzajlFNEU1UVk5Z3dn0gH8AUFVX3lxTE8weDA0N1FZRV80a2k4YlBHNWVJZjdtUHlKS1R5SUQ1NDJnNHJMekNNcncwYzhLYy13a1hDRF92dW44MmFjTkt2N2M1U2EyU01qVzhtbVh2dFc2OXJyQmhDT29aVXdBZEE4YjYxNm9rQVRLWXpHUXlkaEVHX0txZkVINlJWQi0zMkFoSXBwLWgxdVB5WTJOM1dOUkJkem9mbm9xQVFKQ3FIM0FwYkVfTDdUSXJqQTd1NUVJU2p5U2c1TG1EbXhJb2VscDZaMHZUUW9yRzBldVYyRGloNEdocDV3bkVtZjJRaWJvOTJKUGk0S1hxVjlxaUdEa2Z6SQ?oc=5",
-        "date": "2026-08-16T21:00:00+00:00",
-        "source": "Infobae"
       }
     ],
     "Marketing": [
       {
         "title": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio",
-        "description": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio Aquí La Noticia",
+        "description": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio aquilanoticia.com",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFFJNnBvRTlZS294QXQ1S085VGNlX0lyRVhLNHA1M2pNQzRoU00yT2JfYnBZTjZSd1ZJOC1qRG52ak9abFpxWmxSM2xhU2Z4Y1VrMk8tUllaU1prYUNLaTRYemlPeGp1eWdtT1VGR3BWOUN0N2NrelNGeTZ6X0VkellUdHM2R0N2ZldyWkllbHFQVzFTM1RHQmtCSGVDazF5NnhFQ09tOTk3UVNRMU9GRmdyMm90NUNNczBaZXFMU0ZCcklrN056Uw?oc=5",
         "date": "2026-08-18T21:07:13+00:00",
-        "source": "Aquí La Noticia"
+        "source": "aquilanoticia.com"
       },
       {
         "title": "Hija de Bill Gates podría enfrentar acciones legales por presunto fraude digital con su startup",
@@ -69,10 +69,10 @@
       },
       {
         "title": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital",
-        "description": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital viapais.com.ar",
+        "description": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital Vía País",
         "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTmQ4aXBqVXRVanNoSWI0ZExEZzZjZl9SZDJpOGZzckNBN09MZGxKUnlwTWNJWlZyXzBPQVVqRDZfWW1EaDJROEpJYTB2RVVaR2hOdFBfT2pnaDhfaGxIU2g2d0lLclU5QXRvYnpLVlRvUFNnNmtwUlViV1dKZ2M0d0lCRFZsZVQ2N0FzQ0twbWg5Zlo3UVJKYm9ycEljcm4zUi13emRxa1M2elBVV21HYUo2YjRyMk1LemFtVlJBcVRjSnQtRE9YUmJvRlBSM29IbVhpUWNkX2g4QWxQRjllaUV1bW9DVkIxRTFmV0ZKdjdwOW9JV0N5and3bUZkcEUtdWFzbDh1a1RtdFhjSHRiVkZiMnc1Si04Z2ZvaFpObjdKVDhZbUZoTXJJa0oyOENJa2hRT05pdVZ4YmZvb3liclpyV2Z0VGN3eDZ3N3FHaDA?oc=5",
         "date": "2026-08-18T22:49:00+00:00",
-        "source": "viapais.com.ar"
+        "source": "Vía País"
       },
       {
         "title": "Lejos de la televisión, el exitoso nuevo negocio de Estefi Berardi",
@@ -140,34 +140,34 @@
         "source": "La Nación"
       },
       {
-        "title": "El Gobierno capacitará a empleados públicos en el uso de inteligencia artificial",
-        "description": "El Gobierno capacitará a empleados públicos en el uso de inteligencia artificial El Chorrillero",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2huUFVvZUp2ZUY3N2NSZWdUNG5tOE5ldzhydC1HZWN4cF95OS15RTh0OExrejhJTE9IQnlNVUNJdjhaSE1mY0NyODBBbHFHand1X0RBRHVNUEhHOVJudmhaMG9ObTAydEQwTFduRWJvR3V3MDRxbmJuZFB1LVcyc3FlaTg3RXdKRE1fdzVuWkV4VThKTnBDSFdsaF9VVncxalF5NWFxR0RfMWRTdnY2SjRLbF9Qak1vQVFDOGZYZU9uQi1KSHNvTzZ5SWVNNDDSAc8BQVVfeXFMUF9oblBVb2VKdmVGNzdjUmVnVDRubThOZXc4cnQtR2VjeHBfeTkteUU4dDhMa3o4SUxPSEJ5TVVDSXY4WkhNZmNDcjgwQWxxR2p3dV9EQUR1TVBIRzlSbnZoWjBvTm0wMnREMExXbkVib0d1dzA0cW5ibmRQdS1XMnNxZWk4N0V3SkRNX3c1blpFeFU4Sk5wQ0hXbGhfVVZ3MWpReTVhcUdEXzFkU3Z2Nko0S2xfUGpNb0FRQzhmWGVPbkItSkhzb082eUllTTQw?oc=5",
-        "date": "2026-08-19T02:02:06+00:00",
-        "source": "El Chorrillero"
-      },
-      {
         "title": "Deloitte lanza capacidades de agentes de Inteligencia Artificial (IA) conectados en su plataforma global Omnia",
         "description": "Deloitte lanza capacidades de agentes de Inteligencia Artificial (IA) conectados en su plataforma global Omnia El Cronista",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3h5OXNrR3NQd1o3ZXl2Mk1mSE5DT2tvaElwYmxmNVJmLWFMaHBLRzY4ZW14emVFbkFEdG5iLUFETmlnWHVvdGQzVHFHRVI5aVlQaUgtMDBlMS1PY0VpdDgwa0FxTDZSbGY4dU9BNEhON3hHZjFSTlhSclRyUnRlQVpEZDJHeDJycDU4X1FoMVRZWUFPZDVPdHdhaEp1Zno5U3RvMVk1V0trZlVWNHVxUXRVWkpUZXc3aENDUWc2dWZEN0cyMF9PRXZVNWRnN2Vmb2dMNG4wTlVQSGd6b2hnRDR30gH8AUFVX3lxTE1QS1ROd0FCZC1Fay1NWTZkUXFkLW1UdS1VWDVQU1JFUkxnQndUN0UxM0hqWVlrWjY4UnZFM0xiaFZKLUd3NFJ5RVdxdjhNME1uTUhJdU1oSnRLM0JqeVotV1RTVDZnV1VYOU91ZTZ1ai1DTmwwRlNkQUo2RWxETHRfdjhiQ2cxQnVGT0tpNHZKUWcyTm1YQUszdFQ3ekNDTXVBRW00SHJ5alBXNmlqMWQ5bzhLVTN2NE1wTVcwRmFrZ3dmT2UzWmFnZGstN2hxcGd4RHZXZ284aFQ1bHRKQnVyYWRXd05QRndJMUktb1MwODV1S1c5dUVGN25jVQ?oc=5",
         "date": "2026-08-18T18:10:58+00:00",
         "source": "El Cronista"
+      },
+      {
+        "title": "Nació de un prompt y ahora tiene música, rostro y voz: quién es LUMI-7, la artista argentina de IA",
+        "description": "Nació de un prompt y ahora tiene música, rostro y voz: quién es LUMI-7, la artista argentina de IA Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMm0tajhHLTVyRFJETm5aQ3plU3dFS2loS0NQS1YzVTA0VFQzbFdXN05tbGg5MHBtV1ZQTWZkakxpT2FnVW56aU1pLXZRVWxUckxVSXYwYkhodjhnVkJLbjJpYkNaZ01Qbzh4dW92S1JpenZmZldXc0x3SHU1dDdFc05naWdlSkQ5OWc0YkQwbXB1TF9LajFCcEtIb3kyM0E4ckZFZ2pOTVdoVEt2WlNWeGg0WWZSdWs1Vk1vSVBuNDlwb2Fxd2tpY2R6NHVldUNpb01zUEQ2MFctQnNJeGfSAeMBQVVfeXFMTnBMbUI2UGNYY0xWZkdiQVdveHJYSHhDaUpqUGZ0MnlpaTNDWXhTbUFaWlNob1pzSDZzd2VPbVVWMmk0NmhmX3J0VXotam1FcjNSWUJuNUFNRFNRZ2M0LXFHWlZmSzhQUlgwM3dYMjR1di1RX1hyazd0b0R1X2JpYmo2M1hPcEdPWnE3MkNZaGE3SWhhNXBzTWFrdXpPb3JJTTU2NUJMTG9IZWNQMmdYb1g5b1hGcTdaM1hTVEIxNUZWck5JTkRMYUdzSlFoN1FNcmNfN0JZTXpUbGFtZWt2MHNGcU0?oc=5",
+        "date": "2026-08-18T14:27:38+00:00",
+        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "¿Quién es Peter Thiel, el multimillonario tecnológico que decidió invertir en Vaca Muerta?",
-        "description": "¿Quién es Peter Thiel, el multimillonario tecnológico que decidió invertir en Vaca Muerta? Diario Río Negro Peter Thiel compró acciones de Vista y desembarca en Vaca Muerta: cuáles son sus inversiones en la industria energética econojournal.com.ar \"You shall not pass\": una banda…",
+        "description": "¿Quién es Peter Thiel, el multimillonario tecnológico que decidió invertir en Vaca Muerta? rionegro.com.ar Peter Thiel compró acciones de Vista y desembarca en Vaca Muerta: cuáles son sus inversiones en la industria energética econojournal.com.ar \"You shall not pass\": una banda…",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkVYVEhzR2QydFl3OXFSYTJ1NWh5WU9yLWdJTl9tQ0dma0FqR21Ya3V3YTVWNnZKRml2NDJ6UTAtbXFDY2txd2pCT0s5alhZUjFlZlF5MXQ5SHFQNU4wN0daWUxuaExDSVFTM1QwdjBlQjZ2M1Z5cFAxM2kzR1lHMkZhRnNlSTROLVJaUG9BeVYzZDdXbTk0YXN6SU9TQU5hXzhJZHhyQlR5dmlwb05NTVhybjQ5U2lNY29lZmkzbEktVkhqRHhxRjJSdHPSAdQBQVVfeXFMTXl4elNuX3dUVFFNZFhFd054YU5VOXVyRTdLLTF5V0ViN21YWGRqZ2daYU1aNTFMOUdzalh0eHBNQzE0M3E1UVczUE13aHo3TEFkUkNQb3VoeUZRMDdXUkFHVThiQzFfM0twTjBadzJTNW1WU0Q2ZUJ6TFJwSTloZEhIVnN1dWRlRzlXck9iNGZ3ODJ4RW03VDc2dmtrUTRVd0tVRzlOR1dhbTZZR2U2ZUVqNWtQNk5OVDNsQ1I0Y0FwWjUySjlsR3lPWHlxOHNTZjdlcUQ?oc=5",
         "date": "2026-08-17T16:55:42+00:00",
-        "source": "Diario Río Negro"
+        "source": "rionegro.com.ar"
       },
       {
         "title": "Siete sets de fractura de Vaca Muerta quedaron parados",
-        "description": "Siete sets de fractura de Vaca Muerta quedaron parados Lmneuquen.com",
+        "description": "Siete sets de fractura de Vaca Muerta quedaron parados mase.lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ09OUWJZdjhzR05VUW5SbFFUSkM4ekdhdzhUcnkwRzJ2SXlaUHBWdHlUMlRiUWpFLTNfdXl0eFRiSDVnam9zQzdFbHZ6MDVzdTc3S0VoNkVGRFk1REpnMWNOcVRKRkVidkdxckVVc2U0MWdySzJ6d3BtYmZEalFnUUtCMzY1SF9HaGhRetIBkgFBVV95cUxOLTZhXzVHRWNFekowV0ZuNHZXSFVLZHM3ZF9DaWg5T0JVd0lUNHVNb0ZGWllmUGFYQTJTdTFWQWZ2M3JxODRWUU9aaXlKcDg5ODRzZFg1dldmVHFBcUJBME1qZjNkS1N1MnNXa3psOGliVjBZalNfcWtjSmNlanM0aEZYUVRwN2NRSW9uYUp1emh4dw?oc=5",
         "date": "2026-08-18T14:50:00+00:00",
-        "source": "Lmneuquen.com"
+        "source": "mase.lmneuquen.com"
       },
       {
         "title": "Vaca Muerta: expertos en finanzas formulan recomendaciones para que las pymes petroleras puedan mejorar su acceso al crédito",
