@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-19T07:32:32Z",
+  "updated_at": "2026-08-19T08:29:15Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Meta recopila 3 veces más datos de usuario que Microsoft o Apple",
+        "description": "Meta recopila 3 veces más datos de usuario que Microsoft o Apple Euronews",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFA3N3JJVXo3a1VxaFdOT0hxcE5kZUNNY25ZSnc0Q2pJNGozNW9CV0xMMkU1Y0E1OW9EYjRKa0tRMkdaZ19PM1k1LXFGWU54TzdqcjdEYmxhcnAyd3VoaVlaUWJZVnctYW1FOUVBNENOaVdSUm51cDFJd0JKdDJGNDFiM0J2VkJ5bUxhTnR2MGhtbm81T2x1bURqSGtsNTVOeS05b3NzYw?oc=5",
+        "date": "2026-08-19T07:51:09+00:00",
+        "source": "Euronews"
+      },
       {
         "title": "CaptiveCrunch: malware en Wi-Fi público para viajeros",
         "description": "CaptiveCrunch: malware en Wi-Fi público para viajeros Microsoft Source",
@@ -24,6 +31,13 @@
         "source": "TN"
       },
       {
+        "title": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot",
+        "description": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX00wMW1jbzQxMnNhVGp2dFZ2OUozRzBia2dLSzFGODh5TlFsdXNGNEhIXy1ZU1BhSHBxcnFoQXdWSGJkeVU2Rk1KM2lvQTVYU2d0X1BTcVZfaFplZktWRzZud0JmOUM1dWxQVXVjQTFFdHp2N1kyemI0NVVpZmtxVnNTWWJ0RjEzV2hXYzdrMzhzanRh?oc=5",
+        "date": "2026-08-17T11:38:00+00:00",
+        "source": "CNN en Español"
+      },
+      {
         "title": "Microsoft unifica Copilot y prepara una \"super app\" de IA",
         "description": "Microsoft unifica Copilot y prepara una \"super app\" de IA Connecta B2B",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVktGTEhvUDRhSDRnYmYtQjBMZnBZbGhrVVdGVTRUOWJVYVpySFVMS194SndjTXNWV3AwQ3M0S19NOHBmZUNwQ0xjeTRiZ0NlUDVHRkFFLW05ZVFpc2hzQ3lPdGk0WVF5WG1RWkF3aHVNeDlNRzRCc2ZvaHhBZU9LZ1BtZ1JrUTVZekJWaTkwSXp6QWt2aDdNbEln?oc=5",
@@ -36,29 +50,22 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUFhN0xaZWR6U3JWeFh6dDQxQWZXTHFTeFRfVXhWbEt5U0hXdUFpMjhkZmlfNnQ5MWFaUmhfLU1zczB5SzhnSW93MHl4dmhnNzVZQUg0VndsbkJTSENtY3A0MUMtM21YV1NYdGVtenY3Z2xrT1RWWnpfR01uSXZFZ3RqRDM0OGhwS3RRa243eHhrRnZUSThoZEl1RQ?oc=5",
         "date": "2026-08-18T14:38:45+00:00",
         "source": "Traders Union"
-      },
-      {
-        "title": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot",
-        "description": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX00wMW1jbzQxMnNhVGp2dFZ2OUozRzBia2dLSzFGODh5TlFsdXNGNEhIXy1ZU1BhSHBxcnFoQXdWSGJkeVU2Rk1KM2lvQTVYU2d0X1BTcVZfaFplZktWRzZud0JmOUM1dWxQVXVjQTFFdHp2N1kyemI0NVVpZmtxVnNTWWJ0RjEzV2hXYzdrMzhzanRh?oc=5",
-        "date": "2026-08-17T11:38:00+00:00",
-        "source": "CNN en Español"
-      },
-      {
-        "title": "Comienza el juicio por el asesinato del gerente de Microsoft en Florida tras una emboscada mortal",
-        "description": "Comienza el juicio por el asesinato del gerente de Microsoft en Florida tras una emboscada mortal Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV1V1U1pVMjk5T05jUS01Zm5fRzJDT0VuZVVwZmhFZDctUnVIaC1EM0dhS1VCeG1SVS1SbjJYRUlUSGZlTU03cnJDbmtwd213NWh1MnQ4TnVxeWduMzBMNU1KVHUtZFlhYVkwUEVUbzI0Q2tubk1VeG1KVVBja1dOSkN6ajgzRG1XNHc5bW9aMXdaU3FNSThIeTRmRnd0UkdaZ2ZwNUJVYlRIbkVNU1phbk9FbFhJQVZLWEREeERhc3IxWTBSeFgtOTk0bFM1b0VWV1ROcjhBbmpHMEZUYVlnYXpILVpnZ9IB6wFBVV95cUxQaVdKdDRMemlZelozOFFNcDFrUzJ4VU51TmVJRHV5dzdqSXRCaVZya3VUYm9DaEUtZDNXWXUxaURyVjNjaW82Tm9YdVdaOWNwU2hrN2tuWmNtVnRET3g3eTVBUF9kSjdzeHpVamVDTThCY3NsUEFuZEhaeGlvbzAtM3FGSF96bXlqMUlIaHpJckd2OEZ6VE5JN3lQUGQwblNRMGVYSXRISUdYLUE1UU5HdHpZbkFfbXMwaFRiT3JyX25aVThKdmJUbE55alNZOVhuZkxoUjNzeWhiT19TYzczRXp3elc1V3NpT1dv?oc=5",
-        "date": "2026-08-17T18:45:04+00:00",
-        "source": "Cadena 3 Argentina"
       }
     ],
     "Marketing": [
       {
+        "title": "Nueva Diplomatura en Comunicación y Marketing Digital",
+        "description": "Nueva Diplomatura en Comunicación y Marketing Digital chavesdigital.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkVLYzJGZ09KSmVTU2hjZEVSWGQtM1RJUk8zUXBsTTNHbm4xMDRmdVQyckJEYVh1SEpLMjItQ01DcUJxQUZSU1dFWmRjd19FSWIxck13a3BKVGxCMHk5d0RLWU83M3lBVnByMFd3eW9EN2lYUXozRF90cllEb3ZPMTJibnZ4a1NNTXVn?oc=5",
+        "date": "2026-08-19T00:22:36+00:00",
+        "source": "chavesdigital.com.ar"
+      },
+      {
         "title": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio",
-        "description": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio aquilanoticia.com",
+        "description": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio Aquí La Noticia",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFFJNnBvRTlZS294QXQ1S085VGNlX0lyRVhLNHA1M2pNQzRoU00yT2JfYnBZTjZSd1ZJOC1qRG52ak9abFpxWmxSM2xhU2Z4Y1VrMk8tUllaU1prYUNLaTRYemlPeGp1eWdtT1VGR3BWOUN0N2NrelNGeTZ6X0VkellUdHM2R0N2ZldyWkllbHFQVzFTM1RHQmtCSGVDazF5NnhFQ09tOTk3UVNRMU9GRmdyMm90NUNNczBaZXFMU0ZCcklrN056Uw?oc=5",
         "date": "2026-08-18T21:07:13+00:00",
-        "source": "aquilanoticia.com"
+        "source": "Aquí La Noticia"
       },
       {
         "title": "Hija de Bill Gates podría enfrentar acciones legales por presunto fraude digital con su startup",
@@ -70,7 +77,7 @@
       {
         "title": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital",
         "description": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital Vía País",
-        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTmQ4aXBqVXRVanNoSWI0ZExEZzZjZl9SZDJpOGZzckNBN09MZGxKUnlwTWNJWlZyXzBPQVVqRDZfWW1EaDJROEpJYTB2RVVaR2hOdFBfT2pnaDhfaGxIU2g2d0lLclU5QXRvYnpLVlRvUFNnNmtwUlViV1dKZ2M0d0lCRFZsZVQ2N0FzQ0twbWg5Zlo3UVJKYm9ycEljcm4zUi13emRxa1M2elBVV21HYUo2YjRyMk1LemFtVlJBcVRjSnQtRE9YUmJvRlBSM29IbVhpUWNkX2g4QWxQRjllaUV1bW9DVkIxRTFmV0ZKdjdwOW9JV0N5and3bUZkcEUtdWFzbDh1a1RtdFhjSHRiVkZiMnc1Si04Z2ZvaFpObjdKVDhZbUZoTXJJa0oyOENJa2hRT05pdVZ4YmZvb3liclpyV2Z0VGN3eDZ3N3FHaDA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlVKZjFOZUxmOEpfRHh0NklmSDJkd0NaMGEwaC1qZWN4azlwaVhaakNpMGRxMkhiQzdxaDRTWk9WWXV0bEliaDc5eG1LWDJjU2NBVzAzTGV3b1BOTEZxMFdDZHZLcDlwXzhjRnVjZmlxN0g0YUw2X2JNOUQ4d0k4cERYMXhMOENfa2lkcERrODdBQ2Z5dFFZMFBzdFdQb1VhNUZVY0hnSE1IV0x0MzhYUWZENFhhMF95SER3OXVzZ2JXVGtr?oc=5",
         "date": "2026-08-18T22:49:00+00:00",
         "source": "Vía País"
       },
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3NHNmd5OUtNQnN6WEoxWjM1bnkyX29xWi1oS0dVQ0RnMm8xQ1hlRmw3M3d6WVAwSGVSRTJYajFSUlFtX21wOHlWVDNOczFaSFdNelhScHNSOS1fcVUxLUdJQmRhQVk2MnlPN2RpcUpBTzBWNFlFQ2c5SmFOR1RZMGVNZHNNWFNRaTh6bWprSGpGbFh3Yl9VUmlYeU5qbkU2SGNMLUhLZzRsVExFWVRsZkhUS1Y0RkpNaXNyR0N3ekR0TkN0a1JrMTE1eDNIdEE?oc=5",
         "date": "2026-08-14T19:17:44+00:00",
         "source": "ungs.edu.ar"
-      },
-      {
-        "title": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad",
-        "description": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad En Linea Noticias",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkRvZDVZT00yX0xNcWNhSjBEM2dtRmZkT1lGeUNtVXc1UzQxMzRfeXk2UXlLSVZtTlBUWGV5SDNfcTRNSmRPVlhDZkFjWVV3SDRKeXdRaEVobkFEdk1jNFFYSDVxSnIxcUJrdi05cm00U29SRjBMQWNzTTUxbnpxWDlmNFlWdVFYbHhGQ3dXSjBNa09MV29WMWdoUzJfdjlqbE1DM0stVHVacXdYUWJzOW4xWm1hYUNX?oc=5",
-        "date": "2026-08-18T01:03:21+00:00",
-        "source": "En Linea Noticias"
       }
     ],
     "IA": [
@@ -112,18 +112,18 @@
         "source": "Infobae"
       },
       {
-        "title": "La Ciudad implementa inteligencia artificial en escuelas para un aprendizaje responsable",
-        "description": "La Ciudad implementa inteligencia artificial en escuelas para un aprendizaje responsable Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFdkNUU3S05hS3BiTTVZTml1QmQzV3JKcDhSQVd3enp2Tlpmc2ltMVFndFJHVFJQZ1JHVHB3VktKS0lWS2h2NXNVcHF6elNubHRLeHBHQ2xrSVl2by1YRURXWWV6d1k4VjlSZy14dVFOLVByX3oyR3puMENwcUNtRmJRVnhnRll5NHZsNHpvOFpxVG5ZOEZlemd3cGNqX0s3T3JQNU03NXo1Q1FZQVBCd3FLV3dRUFJsa1A0RTMzb3hOcWtHOExQT1JYZVk4dE1Bb3fSAdcBQVVfeXFMTml4UkVuaGlIbTBMZnpLdkZZTmZ4WTU3WVFXbnM2aGNLZ2xRM0l1cTU5djI1dEpiaExlYkhBTm1DNF91WXowSXp1Uk5LRHA1U2dYcXhVaDlHbW56XzhwdlcwNmluZW5Yek5yazdLdnpMWmJPTUp1ck1zejNXUm1Oa1ZpS3FLdUgxYTBPQjlJV2l3ZnhtRmFNc241bDBBS0t6dmMzTnlBY3dxbEoxV1FWZWRYVjFpVHBkTXRwRFJwaWlnX2hsbXlwaWJidXZjRDQ4b0RLN0JRR2s?oc=5",
-        "date": "2026-08-18T23:02:16+00:00",
-        "source": "Cadena 3 Argentina"
-      },
-      {
         "title": "El gobierno porteño incorporó la Inteligencia Artificial como contenido obligatorio en las escuelas - TN",
         "description": "El gobierno porteño incorporó la Inteligencia Artificial como contenido obligatorio en las escuelas TN",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcllBeGRyY0JfZXVZbzNCUjJ3WTVVZlU5Qk9aM2pub29JTGRyMktQejVENENhYXRDVUlWZTczYkNYOHdSbWdiWWRhV3pETTVVcUZXSTFZNjdBN0V6dXh5NTMwaWdiY0lDX1A2WEhManBIMWpvY2ZHanp1Y3B6eHc5ZVZROVlvT2lEZkhaSUZmX2VQQ1dKOTdyU0dQT1dCYXF0T3o5Z0tvZmZETHE0VWpmRmZ3YUJhOE1LSm12YVAtM2NSUFo4aXY4TEtpU0VQQWNNMDN4SdIB6AFBVV95cUxQZzhEOU1UM3lrQUpsUGktRUpyS2VReFJaeG0tZm5UTWlXSUpwaGFMZ0J5YkVzSm1SZzBhTDFEUWdJRzZYSThRZ2JEZTZrbmtGTzNGMUJqWVZwdU9NdDRsbDMwMWtTSHZCRHRNTDZwTUdNdk00Tkd1RllUaVdWZHJ2UDV0aVhKQkN6NG9GRDhXTTZzSjlIZEJLRzJIOVAxWnQxbXlxUThPSm10T21GVXJlZm5uVkN1R3cwT0ZRNjY3dlV6VE9xRjByRWFhQnlMb0xXeE5RQ0tWM1FvNVpxbkZHMXgwcFM4U2Ex?oc=5",
         "date": "2026-08-18T21:15:12+00:00",
         "source": "TN"
+      },
+      {
+        "title": "La Ciudad implementa inteligencia artificial en escuelas para un aprendizaje responsable",
+        "description": "La Ciudad implementa inteligencia artificial en escuelas para un aprendizaje responsable cadena3.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFdkNUU3S05hS3BiTTVZTml1QmQzV3JKcDhSQVd3enp2Tlpmc2ltMVFndFJHVFJQZ1JHVHB3VktKS0lWS2h2NXNVcHF6elNubHRLeHBHQ2xrSVl2by1YRURXWWV6d1k4VjlSZy14dVFOLVByX3oyR3puMENwcUNtRmJRVnhnRll5NHZsNHpvOFpxVG5ZOEZlemd3cGNqX0s3T3JQNU03NXo1Q1FZQVBCd3FLV3dRUFJsa1A0RTMzb3hOcWtHOExQT1JYZVk4dE1Bb3fSAdcBQVVfeXFMTml4UkVuaGlIbTBMZnpLdkZZTmZ4WTU3WVFXbnM2aGNLZ2xRM0l1cTU5djI1dEpiaExlYkhBTm1DNF91WXowSXp1Uk5LRHA1U2dYcXhVaDlHbW56XzhwdlcwNmluZW5Yek5yazdLdnpMWmJPTUp1ck1zejNXUm1Oa1ZpS3FLdUgxYTBPQjlJV2l3ZnhtRmFNc241bDBBS0t6dmMzTnlBY3dxbEoxV1FWZWRYVjFpVHBkTXRwRFJwaWlnX2hsbXlwaWJidXZjRDQ4b0RLN0JRR2s?oc=5",
+        "date": "2026-08-18T23:02:16+00:00",
+        "source": "cadena3.com"
       },
       {
         "title": "Los creadores de la inteligencia artificial más avanzada del mundo se han puesto de acuerdo en una cosa: hace falta frenarlos",
@@ -133,48 +133,41 @@
         "source": "3DJuegos"
       },
       {
-        "title": "OpenAI desacelera el desarrollo de su nueva IA para prevenir futuros hackeos",
-        "description": "OpenAI desacelera el desarrollo de su nueva IA para prevenir futuros hackeos La Nación",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMEFLVi1NaVlhbFVpVEpTZWIwZkJTX2kzd3pIb3pzRDBqZVBXVFlGODdMQ2VnYzRnNlliZDdic2NQa0p3REhwUVZ5RkYxSHowUlJDbnRuMDhvcjhPdW90N1Vja2Q4VV9QMGV5c3NJbTRVal9Nd25RMGdNSzFmUGpIaXViQkdyUUFUdGpvQVVUcTBtZXJQaTR1RzE3QnhHT0dOUXN5cnM0N2tfWjYxM25ieWtHZWF6QkNsdGthRklocnROLTYxSmxqdDNYOHQ?oc=5",
-        "date": "2026-08-19T06:05:00+00:00",
+        "title": "Especialistas explican: ¿se puede controlar completamente a los agentes de inteligencia artificial?",
+        "description": "Especialistas explican: ¿se puede controlar completamente a los agentes de inteligencia artificial? La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2pBYm9TWjFLTUZJLXAwMjNiVndwcm9iR2Z2WlRISzJYWVRvRUdGX1EybGQ4V3dkMGx2Q18xSVlTY2doSjZvRnhHNVNtaE9yTk1zUHhsMUR6TXZkSHFJTTZZTk8yeUEtZUwzR1U2bTJkeWNna042SHdRZTV5Z3JyY1R5Yy0xMkFITURhcU9GZTY5NXgyaUVqU2o3QWJhcWM5bHI0Nld4TkIzd2Z3SmJuVElWWkMzR1JzVUhkU3dGaE5FckM4UlFTM01qdEJIS3J3dVNLNjRDc1U3aGxpRGhZb3lB?oc=5",
+        "date": "2026-08-18T12:04:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "Deloitte lanza capacidades de agentes de Inteligencia Artificial (IA) conectados en su plataforma global Omnia",
-        "description": "Deloitte lanza capacidades de agentes de Inteligencia Artificial (IA) conectados en su plataforma global Omnia El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ3h5OXNrR3NQd1o3ZXl2Mk1mSE5DT2tvaElwYmxmNVJmLWFMaHBLRzY4ZW14emVFbkFEdG5iLUFETmlnWHVvdGQzVHFHRVI5aVlQaUgtMDBlMS1PY0VpdDgwa0FxTDZSbGY4dU9BNEhON3hHZjFSTlhSclRyUnRlQVpEZDJHeDJycDU4X1FoMVRZWUFPZDVPdHdhaEp1Zno5U3RvMVk1V0trZlVWNHVxUXRVWkpUZXc3aENDUWc2dWZEN0cyMF9PRXZVNWRnN2Vmb2dMNG4wTlVQSGd6b2hnRDR30gH8AUFVX3lxTE1QS1ROd0FCZC1Fay1NWTZkUXFkLW1UdS1VWDVQU1JFUkxnQndUN0UxM0hqWVlrWjY4UnZFM0xiaFZKLUd3NFJ5RVdxdjhNME1uTUhJdU1oSnRLM0JqeVotV1RTVDZnV1VYOU91ZTZ1ai1DTmwwRlNkQUo2RWxETHRfdjhiQ2cxQnVGT0tpNHZKUWcyTm1YQUszdFQ3ekNDTXVBRW00SHJ5alBXNmlqMWQ5bzhLVTN2NE1wTVcwRmFrZ3dmT2UzWmFnZGstN2hxcGd4RHZXZ284aFQ1bHRKQnVyYWRXd05QRndJMUktb1MwODV1S1c5dUVGN25jVQ?oc=5",
-        "date": "2026-08-18T18:10:58+00:00",
-        "source": "El Cronista"
+        "title": "Cuando una IA ataque, otra tendrá que defendernos",
+        "description": "Cuando una IA ataque, otra tendrá que defendernos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnpwU1dpZmhIM2VhUFhxY1NvZEpQNEJudEZGQ25Pay1qZ1prcTZodGF1aVJ6TGIwcjVrUktDS2dmaDQ3cGJkS21EUVEtNDRpWWZCNFVxOWZHOWhxOHVvTnczdV9wQ1haZFA0V2pfN21yd0ZSYlNzTVVQYjM1cmp1M2JUdGhoZUFJY3ZPYW9WVVJDd3I5WGhN0gGyAUFVX3lxTE9tR3pKSmY3LXpDcGtWT1ZRZGVNMEt5Y25DX3FDaXNXX1Z1YXlNaG12aTdjMnZtaHp5RVIxV2xpeTBNWDhQSFUtVUtaU1hnSUd0U095NTAzVm5pc3FTV3hQeUJUYW5OcTBpQWJFMUFYUlp5bGIzbHVtcV82R2pwOW5MVGlBcUhvUmtHTHA5OHVMVFRIWF8tYzNEQUFvMUhLU3V4M1JVWFJlWWNLM3llX1BTZWc?oc=5",
+        "date": "2026-08-19T07:45:04+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Nació de un prompt y ahora tiene música, rostro y voz: quién es LUMI-7, la artista argentina de IA",
-        "description": "Nació de un prompt y ahora tiene música, rostro y voz: quién es LUMI-7, la artista argentina de IA Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMm0tajhHLTVyRFJETm5aQ3plU3dFS2loS0NQS1YzVTA0VFQzbFdXN05tbGg5MHBtV1ZQTWZkakxpT2FnVW56aU1pLXZRVWxUckxVSXYwYkhodjhnVkJLbjJpYkNaZ01Qbzh4dW92S1JpenZmZldXc0x3SHU1dDdFc05naWdlSkQ5OWc0YkQwbXB1TF9LajFCcEtIb3kyM0E4ckZFZ2pOTVdoVEt2WlNWeGg0WWZSdWs1Vk1vSVBuNDlwb2Fxd2tpY2R6NHVldUNpb01zUEQ2MFctQnNJeGfSAeMBQVVfeXFMTnBMbUI2UGNYY0xWZkdiQVdveHJYSHhDaUpqUGZ0MnlpaTNDWXhTbUFaWlNob1pzSDZzd2VPbVVWMmk0NmhmX3J0VXotam1FcjNSWUJuNUFNRFNRZ2M0LXFHWlZmSzhQUlgwM3dYMjR1di1RX1hyazd0b0R1X2JpYmo2M1hPcEdPWnE3MkNZaGE3SWhhNXBzTWFrdXpPb3JJTTU2NUJMTG9IZWNQMmdYb1g5b1hGcTdaM1hTVEIxNUZWck5JTkRMYUdzSlFoN1FNcmNfN0JZTXpUbGFtZWt2MHNGcU0?oc=5",
-        "date": "2026-08-18T14:27:38+00:00",
-        "source": "Perfil"
+        "title": "La inteligencia artificial que comprometió infraestructura real y el verdadero desafío que plantea",
+        "description": "La inteligencia artificial que comprometió infraestructura real y el verdadero desafío que plantea MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTZLRE5FcWVRMGZnekxPQkc3a3FZNkZUb2FDMFpkd01ENE81VHcyanFKQW1XbWZfMFVvVW5SbXdWbUh0QWxwWno5T1dqUG5xMUlBeVNfQ21sRVpwVDZCX1NEQnVpdzZiU3hqb1lVQlRHVm1kSS1ZNjZjSmlETVFMSFg0dm1YdGd4cHg5V3RjcWlTaFFyblJjcmZEMnRBRzRhMHdEaTljdjFEV3FDaVBfTUR3Yy1UV2hMYmlmMDJDNF9XdkVKVmVnY2lhZEotaVc2Y0ZRRtIB2gFBVV95cUxPa0VtUmZIb2d5RlA0UWxYd1E2NFlFM3d6RVREdG1wckJEZDBKY01GTDEwZE94b1pzSWZneDFGRzlmMXNJX0tNbDBLZnRGZmRKUHZXVlJoX0NTbGY4MGwwLTRqX0RVYl9rblcxY2lEUV94UzdVaWw1RVMwdVFCWHladHhpTWgtdFBRU3BPYlJlN0xhRy13ODdoM1RJLUxSV0RsYkJ3cFFYZnNONkRuaEtwYzZ5b1Y2cXdzd3RuUlZHNUFNQVVLQXhCcmdYdEhXbkZzWHo2UmRzNktYQQ?oc=5",
+        "date": "2026-08-18T10:26:00+00:00",
+        "source": "MDZ Online"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "¿Quién es Peter Thiel, el multimillonario tecnológico que decidió invertir en Vaca Muerta?",
-        "description": "¿Quién es Peter Thiel, el multimillonario tecnológico que decidió invertir en Vaca Muerta? rionegro.com.ar Peter Thiel compró acciones de Vista y desembarca en Vaca Muerta: cuáles son sus inversiones en la industria energética econojournal.com.ar \"You shall not pass\": una banda…",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkVYVEhzR2QydFl3OXFSYTJ1NWh5WU9yLWdJTl9tQ0dma0FqR21Ya3V3YTVWNnZKRml2NDJ6UTAtbXFDY2txd2pCT0s5alhZUjFlZlF5MXQ5SHFQNU4wN0daWUxuaExDSVFTM1QwdjBlQjZ2M1Z5cFAxM2kzR1lHMkZhRnNlSTROLVJaUG9BeVYzZDdXbTk0YXN6SU9TQU5hXzhJZHhyQlR5dmlwb05NTVhybjQ5U2lNY29lZmkzbEktVkhqRHhxRjJSdHPSAdQBQVVfeXFMTXl4elNuX3dUVFFNZFhFd054YU5VOXVyRTdLLTF5V0ViN21YWGRqZ2daYU1aNTFMOUdzalh0eHBNQzE0M3E1UVczUE13aHo3TEFkUkNQb3VoeUZRMDdXUkFHVThiQzFfM0twTjBadzJTNW1WU0Q2ZUJ6TFJwSTloZEhIVnN1dWRlRzlXck9iNGZ3ODJ4RW03VDc2dmtrUTRVd0tVRzlOR1dhbTZZR2U2ZUVqNWtQNk5OVDNsQ1I0Y0FwWjUySjlsR3lPWHlxOHNTZjdlcUQ?oc=5",
-        "date": "2026-08-17T16:55:42+00:00",
-        "source": "rionegro.com.ar"
+        "title": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta",
+        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12 ¿Quién es Peter Thiel, el multimillonario tecnológico que decidió invertir en Vaca Muerta? Diario Río Negro Los otros intereses de Peter Thiel tras desembarcar en Vaca Muerta: Súper-RIGI, data centers y…",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVEOGlsNWI2NmFLSGpXQWRRSFk4bnNoa3VNdm82SFFNXzkwdmg0NDVRaE1oQnFaVTA2U2lJcElhdkFJUndOYnRxdDlQMEtzWnRhOWFLUnU5ejdZck54TFVCNWVqVks1aENBeHJpcjZ1X1lGNE4tZWs4VjBJUXJHaEtqYmVkWjFoOGZXOVlja2E3b21STW5IRVZpNVhfbkF6cThidERkVQ?oc=5",
+        "date": "2026-08-16T13:02:42+00:00",
+        "source": "Página|12"
       },
       {
         "title": "Siete sets de fractura de Vaca Muerta quedaron parados",
-        "description": "Siete sets de fractura de Vaca Muerta quedaron parados mase.lmneuquen.com",
+        "description": "Siete sets de fractura de Vaca Muerta quedaron parados Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ09OUWJZdjhzR05VUW5SbFFUSkM4ekdhdzhUcnkwRzJ2SXlaUHBWdHlUMlRiUWpFLTNfdXl0eFRiSDVnam9zQzdFbHZ6MDVzdTc3S0VoNkVGRFk1REpnMWNOcVRKRkVidkdxckVVc2U0MWdySzJ6d3BtYmZEalFnUUtCMzY1SF9HaGhRetIBkgFBVV95cUxOLTZhXzVHRWNFekowV0ZuNHZXSFVLZHM3ZF9DaWg5T0JVd0lUNHVNb0ZGWllmUGFYQTJTdTFWQWZ2M3JxODRWUU9aaXlKcDg5ODRzZFg1dldmVHFBcUJBME1qZjNkS1N1MnNXa3psOGliVjBZalNfcWtjSmNlanM0aEZYUVRwN2NRSW9uYUp1emh4dw?oc=5",
         "date": "2026-08-18T14:50:00+00:00",
-        "source": "mase.lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta: expertos en finanzas formulan recomendaciones para que las pymes petroleras puedan mejorar su acceso al crédito",
-        "description": "Vaca Muerta: expertos en finanzas formulan recomendaciones para que las pymes petroleras puedan mejorar su acceso al crédito econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2VTblpqTWxlM1FOd0pnMVlKTXAwYlkxOGF5MWowVnptY1QtekF0bDluZE5uN1NMYlhuNy1ZOTZTdVU1ZHFvTDNPZk1SdXhtdlNtdUFvY2ZRZS1YdHhDMDVlcW5TV2sxZEd4cVhVU3BtZW85Z2VrbkNDbWUzQTJneWY2RFZKZ3c5YXNGNmhjOFk1NVVwMlM5Sg?oc=5",
-        "date": "2026-08-18T15:10:49+00:00",
-        "source": "econojournal.com.ar"
+        "source": "Lmneuquen.com"
       },
       {
         "title": "El gigante argentino de la siembra que ahora atiende a Vaca Muerta: la empresa familiar que nació con un arado usado, cumple 70 años y apuesta fuerte a la diversificación",
@@ -184,6 +177,13 @@
         "source": "Agrofy News"
       },
       {
+        "title": "Vaca Muerta: expertos en finanzas formulan recomendaciones para que las pymes petroleras puedan mejorar su acceso al crédito",
+        "description": "Vaca Muerta: expertos en finanzas formulan recomendaciones para que las pymes petroleras puedan mejorar su acceso al crédito econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2VTblpqTWxlM1FOd0pnMVlKTXAwYlkxOGF5MWowVnptY1QtekF0bDluZE5uN1NMYlhuNy1ZOTZTdVU1ZHFvTDNPZk1SdXhtdlNtdUFvY2ZRZS1YdHhDMDVlcW5TV2sxZEd4cVhVU3BtZW85Z2VrbkNDbWUzQTJneWY2RFZKZ3c5YXNGNmhjOFk1NVVwMlM5Sg?oc=5",
+        "date": "2026-08-18T15:10:49+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
         "title": "Pablo Bereciartua: \"Vaca Muerta, la minería y el agro son importantes, pero la Ciudad aporta más del 20% del PBI\"",
         "description": "Pablo Bereciartua: \"Vaca Muerta, la minería y el agro son importantes, pero la Ciudad aporta más del 20% del PBI\" Ambito",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWTFMZ242aDAwN3ozRTJad1pkUnplbExwbGZJcHBjTEJ3dFNKYl9LTUtUTE42Q2ZhNTBUYXJPVUNhSDRGc3FEY0R0NU03ZTEzR1BOT1h5MkMwSUl4TjhqcW5xQlpHMzY2OUxYeHFudm1RMFNqemp0dEJ2bEo2dE53cGFTYTVNQks4QUdlVkllMHdGLW9uYzgxWmpUSC0xdGppRXl1NUEwNVFsUDRSVEZicXNENUxtQVNYX05nMVdfS2E5UHZVckNsek1JUjhuWTM5bjFQc1Jn0gHbAUFVX3lxTFBEcVVHbV9iblJINDJraDA3a0FmdFhSVHFvb3Q2TUloQkE2UHFJem1SV1EzVmp3TTJGWnBmOVdDdElFRXYzOWtwLUtKdThlVmYwbVZRVllWdTgtM0xoUHYtcDFFdVVrNllBVUlBU29tMzdONGlhODQ3YjZIYUJyWDY4cjl2Z2dYRXFPWDlRaXdqRnZwWjc2cFAzUnhfb25HOWtJOTlJNm1UeXk0VkZyTGdLZVRHWVkyelpOQ0RncDhvWHZmb1BaNFJ1QWgzYUdaQnpWdUdCTUp6dHFXSQ?oc=5",
@@ -191,18 +191,18 @@
         "source": "Ambito"
       },
       {
+        "title": "Todas las provincias perdieron empresas, salvo Neuquén: Vaca Muerta aparece como la gran excepción de la era Milei",
+        "description": "Todas las provincias perdieron empresas, salvo Neuquén: Vaca Muerta aparece como la gran excepción de la era Milei somosjujuy.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3hKRGpPUUw3Tm5TWHI0Rl9xNlZOSlQzbmpjTWlVTHAyU29GQmMzTE1WRS1TMktxSjEydXBSN0VrTUV0OHBKeHhNN0ZFV1JtS2VOcExTUEVMYkZrY1RycU1hSGFZOWNxSEsyajJvTElnZnNlZXJ6QU5rblJTV290a1d2NnZrLXJDVTB0bzZnbDFTbUlob2gwWVJvMDNwc2R2aXFEOTN1bzM4MEdocHotZjhCSmMyUzd3QjZ6NVhfbEhKWjNjUzdGdzctVFZvRG1TYjlXS2JZMHVaVnYzcnBvOHVn0gHnAUFVX3lxTE0xa29IbFpJOERGQ1g3Y3VHOUdHcUNRcFpuV1VkcVpKY2FZeWlzcXdlQWFMZWJSbUVpZ1lTS1IxbGdMcHRrMkc3ZkM4R1dlREEzTFYxcExUcUswWWJMaHhxZFdCa2ZXcFktZ0syaDNqME5vR0l2RTFRLXZKcmRMRWRTN1FGYXoxS2R3bjF4VThZbFQ4c3NWRDJCX01EeEJlX0tDdDlnQnZBalNGZUdJNGZVbk9MVlVFYXVjWkRncGZ5aWJuMFBzNFRCSXUxdTJublJVNmdodWh2TlRfeUprZFl6NEFydnZpaw?oc=5",
+        "date": "2026-08-18T18:00:00+00:00",
+        "source": "somosjujuy.com.ar"
+      },
+      {
         "title": "\"No nos pegamos un tiro porque está Vaca Muerta\"",
         "description": "\"No nos pegamos un tiro porque está Vaca Muerta\" Diario Norte",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcjlGQVNZbkV6SzB6am1Yd0hnQWtZV3djRUZHOTFDMVZpRGxYbHZsN1RMNXhUWEZIejVBOG1tcW5IaC1jSmloLXQ3TEduTzRKMmhvamlUNGxyNk9waTZGSVBydVBDM1VVRnBzMmktMFZ6MXMzN0dlbEFvNG5ZOWQ2aWZXNTZsUXgw?oc=5",
         "date": "2026-08-18T01:04:56+00:00",
         "source": "Diario Norte"
-      },
-      {
-        "title": "Carlos Melconian cuestionó el plan económico de Milei: “Se están fumando Vaca Muerta”",
-        "description": "Carlos Melconian cuestionó el plan económico de Milei: “Se están fumando Vaca Muerta” Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQU9EQjFhSk8xUEwtd29HMGVlRDdlVU8wQkxFU1JGNnJuSFdvRVU4R3hXRDc0TU82OFAzZnVFSHdaSktyR2pmQjcxNzM2MWhZdkQyRXFhYzJmdk1wWEFmTDNGWWo5N0o2bjF6YzVzem55X25zY01lSXNZN2xZb0g1MW9OZXhaOEZsa25KVlZSZndvUDNSSDBHSTcxcGNyNHVxWUZqdnBleWg5cFA3SmU1LWhwZDhqNVVMa0ZCZlZNSXhEci1HSDRxYkZrZTQ5NmVHbnZ5aG5sQUjSAd4BQVVfeXFMT0JzOXJHa3pJblk2M1BUWHZmMDlQNmRPQ2cwRnR2WERraVhVekZpUGFkeURfOEFKbVlSQ0cwR3QzcDBjZ2hnRlFLMWR6YlNQWFV6eWpEbndaOTl3dElUOXg4UjNmbkpaSnFkT2dmeU9zeWVhRlgtVkdHUWl6SXVUeUFNcHBaRF90TDV5cUJibDlrQlNxTHRPSU9EeWFmSS1VcFM4aXdZeE1HMkZucDZBVW9UMFkzaGlXX2c5cmE5MEhjbFBKQnhOeWY0SE5odm9FUzFHN2NCVHB6WVJoRW9n?oc=5",
-        "date": "2026-08-18T16:24:46+00:00",
-        "source": "Perfil"
       }
     ]
   }
