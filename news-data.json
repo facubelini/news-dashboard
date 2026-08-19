@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-19T14:26:28Z",
+  "updated_at": "2026-08-19T15:24:45Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Cómo una herramienta de IA devolvió tiempo y continuidad al trabajo contable en la UAT",
+        "description": "Cómo una herramienta de IA devolvió tiempo y continuidad al trabajo contable en la UAT Microsoft Source",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOWRvc1lRWk1qQmVrZ3Q2NEpCTG9ybW9scHlDd2htWjVqYzlFLUQzSXNfMThzaktlZU5CUlZpQ2JiUHZHVlhIRWZSSEdPOGdNa0hwdjVsMG44eUxpMmlXc3pmcGZPOGpzdDBaNjhhSl9jejBtaG10Tl9pWkRLQTNTSk1YT0FGcDhMbXdMZTdmWHRWd2tValdESzZodGRPNmppYUNBLUlkdVVDNWZvS2h5ZnpDaFZzbWRSaFMwY1JUckljNktsdExmQnBVbnBxSW02V0hPSDNiaFNuUmRUWUZVVHlrSQ?oc=5",
+        "date": "2026-08-19T15:09:44+00:00",
+        "source": "Microsoft Source"
+      },
       {
         "title": "Ciberdelincuentes se aprovechan de función oficial de Microsoft Authenticator para robar cuentas",
         "description": "Ciberdelincuentes se aprovechan de función oficial de Microsoft Authenticator para robar cuentas Infobae",
@@ -17,6 +24,13 @@
         "source": "Euronews.com"
       },
       {
+        "title": "¿Podría Microsoft lanzar una placa de expansión para convertir un PC en Xbox Project Helix?",
+        "description": "¿Podría Microsoft lanzar una placa de expansión para convertir un PC en Xbox Project Helix? Noticias 3D",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXpVRDRpQVpNVXFiUm1vUE9KeGlORjBrUWJKbFJqSGN4UW9hRHJsZ2ZxdnlsdFViMUxxODRXdUI1c01oOTlnbkVkb3BsSWluSWktcFpTbG5CT09EdEF2M2RNQlNuQ3p1REJ6dUM0Q2NIcTM1dmhoT0FXNHF4b0p2YUE1b3dPMGRkUWtVbw?oc=5",
+        "date": "2026-08-19T15:21:55+00:00",
+        "source": "Noticias 3D"
+      },
+      {
         "title": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento",
         "description": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento MuyComputer",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemZNNlJRTnpLVkdrOUZxMmFjSDQ0ZnFjeG02TWM3U2JrMEo0eFM5NWJGMWNvdFNTTjNqU1BFRE11WUU2dnNselNvWkF1b2hLU3RjTXN1dE9oSTB6SFlMWU1reWxuWnR3OC03Ry1fWnlYd2JzTUsxc2JmbWYwb3ZHU1ZqaVdLR01Ob2VQVHZIb0RYNzU1aUY4OHl4SXRPNFhjaVJXcVFKVmtwMDlHQ0EzOEVMN0hJeUFtSV9kMmhSYUJiRE9JYUdF?oc=5",
@@ -24,32 +38,18 @@
         "source": "MuyComputer"
       },
       {
-        "title": "CaptiveCrunch: malware en Wi-Fi público para viajeros",
-        "description": "CaptiveCrunch: malware en Wi-Fi público para viajeros Microsoft Source",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV09vUFo5UnN4WTg0dXN3ZnRGRWtyakQwajdGUTFJcGVlVjUzU3BOTTFDMi1RMUVwbjBReFlBMjBjbmgwZ1NsQVE5YXk1X0ZFZUpMb3ZOdEE2bGZPbFlicGtsSWZkeHczUDdtdnNRYkVKVXM5cExLUFE5M1ZmYWpsS0l3T1V5ZFBjdUMwV0JRcGd2eS11YWdv?oc=5",
-        "date": "2026-08-18T17:04:37+00:00",
-        "source": "Microsoft Source"
+        "title": "Microsoft limita Windows Media Player Legacy en Windows 11 y empuja al nuevo Media Player",
+        "description": "Microsoft limita Windows Media Player Legacy en Windows 11 y empuja al nuevo Media Player Microsofters",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd09rRXVkbjRSMW5XVGFFNWJEQ19MdGFzb1VzUTdQLXg4QU5oeUVCZVBiQkRYdEhOQm1jN0dyWlUySlYwWmhVeWdhMXNpUDZJQlN5THBiMTdVMUY5UU1CNFFwUHJmdUlOU3Rab2J6Ujl0cXdUYzNwOXJyaUdmb0NXT3laYjFGZEJ6R0RQSVRkYzdWR01KSTd4WFpJNldMcExtbk9kNnptMlc5V0ZPZjZja1E4OXpCb0NBcUV5bWJfWWpiU25nUE9seHZmbHpSWDU2?oc=5",
+        "date": "2026-08-19T14:58:29+00:00",
+        "source": "Microsofters"
       },
       {
-        "title": "Bill Gates, fundador de Microsoft, dijo en 1995: “El éxito es un pésimo maestro, seduce a las personas inteligentes haciéndoles pensar que no pueden perder”",
-        "description": "Bill Gates, fundador de Microsoft, dijo en 1995: “El éxito es un pésimo maestro, seduce a las personas inteligentes haciéndoles pensar que no pueden perder” tn.com.ar",
+        "title": "Bill Gates, fundador de Microsoft, dijo en 1995: “El éxito es un pésimo maestro, seduce a las personas inteligentes haciéndoles pensar que no pueden perder” - TN",
+        "description": "Bill Gates, fundador de Microsoft, dijo en 1995: “El éxito es un pésimo maestro, seduce a las personas inteligentes haciéndoles pensar que no pueden perder” TN",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUttN0tPdk1QZnFnT1pVdVVtenZxSWlKZGRxajBSUDhaT0RqeE1vZVpVNFVKS0hQTzJzcGQyZ0swNjI5TEgtVGdUcktiT01oM1hwTjRpWERxSE4xcnpVTXJiSG0tSENjbzRlUEZiU0Z2T1FWbTJfVlB1b05MSENPM2N5UExIMHpNbUNFeE1NTm9IZURQdXZHZlpvQ3E0bkQyWHJqTkwzX1RmR3ZFNHNrSGE4ZFp3eHRuUE1oOXhnYnlhNXh1VDg4QmQ3SnNNa3NWQzBsbXZ1M3RKdnlEejQyX0NBUG5ZN1B0aHfSAf4BQVVfeXFMUHV0V2NkTDk3Z3RpLUpUYjdPR1l6cXVkVk44dThGc2ZJd0J2c0FsOWV2c2t2M1JSbW5QUXByUHRILUI3Ri13Z25IejZkeGI3UEo1bFFCWFlDRm9WR2NjY1NTc1ZWbk1ueVB3dGxHYk1HbFlsX2NZNFVXM2gwWWxYSmhkTVl5d3o3ZTd2MlBhVlRoVVNzaHJnR3pxTlh0RmhuN0VvdmxUQ19Wdmw4ZjlhTUhaR0lBNzlybVY2NGJsVk1waXFWc2NTTWtrMXJiYnJqM0g2S0pMX053cXptZkM3RU51MF9DRzc0SE51aE42YzMtVy1ISldVR0VwQ01DdXc?oc=5",
         "date": "2026-08-17T23:37:17+00:00",
-        "source": "tn.com.ar"
-      },
-      {
-        "title": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot",
-        "description": "Un ejecutivo de Microsoft fue asesinado a tiros en plena calle. La fiscalía dice que fue parte de un elaborado complot CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX00wMW1jbzQxMnNhVGp2dFZ2OUozRzBia2dLSzFGODh5TlFsdXNGNEhIXy1ZU1BhSHBxcnFoQXdWSGJkeVU2Rk1KM2lvQTVYU2d0X1BTcVZfaFplZktWRzZud0JmOUM1dWxQVXVjQTFFdHp2N1kyemI0NVVpZmtxVnNTWWJ0RjEzV2hXYzdrMzhzanRh?oc=5",
-        "date": "2026-08-17T11:38:00+00:00",
-        "source": "CNN en Español"
-      },
-      {
-        "title": "Microsoft tiene 2,2M de chips de IA sin conectar: por qué",
-        "description": "Microsoft tiene 2,2M de chips de IA sin conectar: por qué El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHQ3T1czTm1uQ0lrZmwtVmZkd09BRTFnV0RXM2pGRkk2ZGxDVU04OGNPWEZINFV0QjFvVUI1VUwzUGZBNkw1YWF1MU1TN3ZOUnVJQUFiVWxsb0FGSG1IY01WaS1jRmN5YWNJUlNXWFNfQU1kT09DeENnVWhDd29VVkNZTmRLV19xUV8ycmpLcw?oc=5",
-        "date": "2026-08-19T10:51:57+00:00",
-        "source": "El Ecosistema Startup"
+        "source": "TN"
       }
     ],
     "Marketing": [
@@ -90,10 +90,10 @@
       },
       {
         "title": "Lejos de la televisión, el exitoso nuevo negocio de Estefi Berardi",
-        "description": "Lejos de la televisión, el exitoso nuevo negocio de Estefi Berardi caras.perfil.com",
+        "description": "Lejos de la televisión, el exitoso nuevo negocio de Estefi Berardi Caras",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQUwyX3BMYkthYlZhQVhWbXRvUGpTT2ZBUTVMX3JsYTF1VGh2d2g5SUVsYm45VzZVd3BOMFpic2hMNFdOVHRRX0dlemZGSmtHdVQ1eGh3Y1luUXlrcEl2Rm5IVnNVMTBkcTd0cGd1SkQ1TkMxRTAtVG91VndrQmxQMktTZWpZaDJoSXdqU1V1Zy00d05qMHhWeU8wWjJ4OEw2cnVVQ05IUGlPUdIBrwFBVV95cUxOQ2F0RjUzQzRSQjJIMTlBdkdZSXA4enV2Ml9kVElrR3BKOTRseWhJZG9Fay1fVmpzUUFBelotNVI5YXhfN0VQSmJQWURoWWhFQ1BnZnJKcEIzZkhLR0FqZG5wd2ZhcE5Dak12aE1yeEozekxvMW52clhNdTNCckw4WVRBN0pYRkhuU2ptc3QzanVLZEFzZG1wUWpTQ1M1UGJQUEVRQ2tkTjctbUlNTkVN?oc=5",
         "date": "2026-08-18T20:12:58+00:00",
-        "source": "caras.perfil.com"
+        "source": "Caras"
       },
       {
         "title": "Ofrecerán capacitaciones virtuales de marketing y redes sociales para emprendedores en Trelew",
@@ -119,18 +119,32 @@
         "source": "Cadena 3 Argentina"
       },
       {
-        "title": "La Ciudad incorporó la inteligencia artificial a la currícula escolar obligatoria",
-        "description": "La Ciudad incorporó la inteligencia artificial a la currícula escolar obligatoria La Prensa Digital",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkt1Nzgwa01zT3pXbjhiWFZJZUJhbFQyeWNYQzBMWUVXT3U5ekRQMUdPWkRqTGExOHkzRGYtVFRIRF9HQjZBanJKOWM0WkFKeWtIb0ltMFg0bjBmS1BqZnIxTzBCc0VuTFAwbXpWUVdadkpZcXFyUnJQSGM1LWhaYXhXMVRLbzdsVlA3MDVLdnRPTXd6cFYwYnFTeGY3eGdLTVhlTXZ0SloxQUJmaDdadm5nZ1p5NGVpTUY1Z0pXZEhwMy1H?oc=5",
-        "date": "2026-08-19T00:45:00+00:00",
-        "source": "La Prensa Digital"
+        "title": "El gobierno porteño incorporó la Inteligencia Artificial como contenido obligatorio en las escuelas - TN",
+        "description": "El gobierno porteño incorporó la Inteligencia Artificial como contenido obligatorio en las escuelas TN",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcllBeGRyY0JfZXVZbzNCUjJ3WTVVZlU5Qk9aM2pub29JTGRyMktQejVENENhYXRDVUlWZTczYkNYOHdSbWdiWWRhV3pETTVVcUZXSTFZNjdBN0V6dXh5NTMwaWdiY0lDX1A2WEhManBIMWpvY2ZHanp1Y3B6eHc5ZVZROVlvT2lEZkhaSUZmX2VQQ1dKOTdyU0dQT1dCYXF0T3o5Z0tvZmZETHE0VWpmRmZ3YUJhOE1LSm12YVAtM2NSUFo4aXY4TEtpU0VQQWNNMDN4SdIB6AFBVV95cUxQZzhEOU1UM3lrQUpsUGktRUpyS2VReFJaeG0tZm5UTWlXSUpwaGFMZ0J5YkVzSm1SZzBhTDFEUWdJRzZYSThRZ2JEZTZrbmtGTzNGMUJqWVZwdU9NdDRsbDMwMWtTSHZCRHRNTDZwTUdNdk00Tkd1RllUaVdWZHJ2UDV0aVhKQkN6NG9GRDhXTTZzSjlIZEJLRzJIOVAxWnQxbXlxUThPSm10T21GVXJlZm5uVkN1R3cwT0ZRNjY3dlV6VE9xRjByRWFhQnlMb0xXeE5RQ0tWM1FvNVpxbkZHMXgwcFM4U2Ex?oc=5",
+        "date": "2026-08-18T21:15:12+00:00",
+        "source": "TN"
       },
       {
-        "title": "Elecciones 2027: inteligencia artificial y la libertad del voto",
-        "description": "Elecciones 2027: inteligencia artificial y la libertad del voto Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjhDcG1hcllJWVVrQ1hhUEFhcjV0YTZ5bFhvNEZvdGVkcVo5b0VMRTNmeE5QWHJDanNOVFNndm1mTWdUa2FDNzU2MkpLT0dsYlRuRm9LVTQydV9BbDlQQlpMWGJVa2JiaGhyZkFjTkN0QjIwa2E5QU9uSEswS1Q0dVY3NFFXSHlHWGN1SUJHOTl6X1BlWjZrZVhSRFZGMFA2NE80a1V6Yjdsd9IBxAFBVV95cUxOcTZCZENNQ1BITGU2djhxUndqTHgxRGxxUHg2Z2xOeWhHQUJ6Rkpaa1hEeFBNUk5zbFBSTkdBY2ZtcUlOWi0zcVJHN1BRa3dUR3lwaklUOW10WWtFakhtN2t6RFdKTDk5eHJhZzlscE1xVjFuV2QtVkdNWGxsQ0NnQ0prcGh2cWR3NkRkZE1KYWtRMGF2M3lHVm1ydXU0ZnBYZFRoazM3MmFJTVVIck1PdkcxalBjYVBWZ0JyakFQdHYzZloz?oc=5",
-        "date": "2026-08-19T12:57:35+00:00",
+        "title": "Los creadores de la inteligencia artificial más avanzada del mundo se han puesto de acuerdo en una cosa: hace falta frenarlos",
+        "description": "Los creadores de la inteligencia artificial más avanzada del mundo se han puesto de acuerdo en una cosa: hace falta frenarlos 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWURBazV2bWEydlRudnFyenZvd0JpR3NJQVlleWpESDcwejNKQ0g4M014Y091LU5VbGtzRnBYQkhmcTVXTUlQTnJMay1YWEF3amQ3NUt6U3RzY3VfSXA0QnlpNGF4RFUwcElONktUNEtqMHRfRnBSZUIya0JvYTQzZ1BfakE5N0ppV1FUa1lRY1h3YUthZlRwdXNpR05maTdrV0NtOUhfek5meEZHV2RiODRYQ1dqTlZkbk0tUlBNanFvTHp4clZnTFVCX3Y3cmx2TXR3Ry1ZMjZfMW5Kb2NZ0gHkAUFVX3lxTE8wYjRpWWV6X2RFMFhJQVFRZUJMZUhNS0ZXU2ZEZ2ZTRmVQUUJKZGlLd2J3X2ktWWllTHVBRmE4ZnFMX0lLUW41eF9IdDFYdGd4RTZXZUFhbi1sVVlfOHNacC0xSzNoSG9scTh2NGZieURKeC1LWlhQRkJBalNEQzgxYktXanRLTEIwdFFqUmxmcTJ1VEo5S3pZNmdoWGJ0cVlUd3dRZEhzdG9OWjZxd2dsNXNUV0EySGxUM0ZPSVdwTy1WUGJncE9MSUt4NFdlVmFfMFpNc0pTbU9IaS0xd05KR2lBaA?oc=5",
+        "date": "2026-08-16T10:00:48+00:00",
+        "source": "3DJuegos"
+      },
+      {
+        "title": "Nueva York prueba herramientas de inteligencia artificial para mejorar la autonomía de personas con discapacidad visual",
+        "description": "Nueva York prueba herramientas de inteligencia artificial para mejorar la autonomía de personas con discapacidad visual Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObWlldjZwVFBRc0p5UVpvVHI0SHBBeDQ3Y3NKeWwzTmkyQm5uLVdnNU5zQUFqMWF5OHN1d2pOcDkzQ2pjN05SaVlZYTBodG50Vkc4Q2hyWVdhM2FmRHpIVS1MT01XdGRhQTdSWHQ5d2NncXp2eTZhTmQ5czNUT1VOVDJmUkJnUWtYMnRrbjhWc2pmMUlFd2JlMzJLc3NqT2RSV2F2YWQtSnAyazJjRnVHcWhRdmlGcjZtOFhTcUpYS2FGUlBFSFdOd0swM2dWbEZIWlJQT0dSa1hWaVBvUU00a241MnNvcFUxanNQUzFaNVo1X3dOZjhuQ1RLaEdFclHSAZoCQVVfeXFMT1lWUnMwR2JRTndvN3hya0lscGZsU2RUR1JiSHNqamVXWDA2dHNZaW54M0NNTUc1WlMtbHZkaE9SbEZRc19weHN6SnFpRk0wZTZ4b19fT3dFcEtiT050S1pmb0xsQS1raks0LUl3ZE50V1VwWFpROFdpOGF3SjF5M205TlBQQ1p1MHo5bVVFN0NqOTlIaGdCRGZhM3RRTGRDdUJwRlJqM1U1ekM5Q0x0VTJ5Znd6enhtTUVLb0VLR3BmQzY3dHdQYXZhMmZzRmdoN21YaWhoLU1XckFuTWRQTVh3YlB5RE8tUUNYdEI0SW0wd1FtWGlwN2RHSnZocjNSeUR6bTByaVQ1eFUweXlkSjBxN2l2UTNUZ2F3?oc=5",
+        "date": "2026-08-19T15:14:56+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "La guerra, la IA y la deuda ya cuentan la misma historia",
+        "description": "La guerra, la IA y la deuda ya cuentan la misma historia El Economista",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPXzhsRDBYQS1UeEI4alZZRUtjbXZkS1htODdNci15QVVPUEhvRE1BZFlleFdMcHV4MmJBeFZlTTN3QUtUcm5QcjhDcnBlYTJyQVJ0ZlRoa1dtYzFEOUhUTEc0Qnh1UGd4ZW5aYU01VFlGbVlVbFlZQjhXOGhXWjd4ZF9Lb3FNaDJyNlFzcElMZ2NnYlZrRXVOQWNqb2dFUzBsdHNUQWhJWC1YVE93NEhEWGRSLWpGckJDRi1SREpScFpDcXpVUGlsWXNmWVhHWVHSAboBQVVfeXFMTkppeTRTM2QyYjdkbmY1OUpaczM0d0NnM3NKRmQ1MzU1c2s5dFlSVmQtcjNrZzU0eG1KdEtVTFN1bE9TTmNyVGV0X2RtY3ZiSVVLMkpuNUNlOXBOcmxVRkRUTXRfSXN2aERQY0U5NEFCRHh0VDZxR3I5aVJsRE1mSWxWc1BXdXBQSnNvS0VBYks0QzVsdUlRSWtfLXRnWkRmNG0ySjdtZDg4cUt6TTBVOVVsNXA5N2lmcGR3?oc=5",
+        "date": "2026-08-19T15:19:33+00:00",
+        "source": "El Economista"
       },
       {
         "title": "La inteligencia artificial y el fin de las matemáticas",
@@ -138,30 +152,9 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0VMeGoya1RkdjZiX3Q5c1VwSFNPZHpiYS1yQWhSSE5NYzlqUDNEdllPdFVPTVk2ck9ha1U3ZGM0bEtjdWhTQWxLQkt4bm92VjE4MTRnQXgxVUdZMGE3YU1GTE9Td3VqWWNuREdDdXRLQTduY3BLLV83VmtYd042QzdRcnUtVktIbUlZaVpvcjZ4cUxjV3FTRTl0Z9IBtgFBVV95cUxOU2VkTkhaN3FRdGRYVW1KT1ZpMUlwM3RoT1BWaEF0b2JvSTFEV2FpMUtVT1p6Z0MzQUlIbGVHdWNCZGRiUTQ4RlZaY3FJU2FuQmlxUWxTWWdrcWVxTWJuSS1lV3lLaFR0TTcwMVhwZ0liZklqM2Q4R2p6MmJhWGZzUmtQc1NUWUh6VEtpTFdobGFpZzBQVDJIeDRPNEtXemtySVUzWjBHWVl2RUVZZXo1UWI4RXpudw?oc=5",
         "date": "2026-08-19T13:57:47+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "El boom de la IA dispara el precio de las viviendas en San Francisco a USD 1,7 millones",
-        "description": "El boom de la IA dispara el precio de las viviendas en San Francisco a USD 1,7 millones Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGZkYXhDRi15eERZNlpTcEp6cEo1QzZFeFp2Wk1KNXZsNjBxWnF2bHFuRVIxNzBQV2JSOUVlc250bVJpUWszMUJBdzMtRWhFREVuZnJDT1VPOU84MnpqVXBrb1VBbWZGZUtXXzJvQl9KWTlOdXJqRVo2TFRjaDhSREtOMnBramhtZ0VYU2JWTkd2TjlDeExWbEttNHR2cjJ0RUM3ZUdRbVVYV25CWWNaQzZvR3BUZUc4ZFBDdWFvR21nUDZoS3NWZDQza25TOEZzYnJqc3pmZmctSFlNQnZIdtIB-wFBVV95cUxQa3FXeTVtRUlhTWtsSDdIUnNKeENadWNPQ21jck9La2tiaHg2a1JwblJneE1tOS1qZnZkQ3ZfdFV6TDE0WEJiSnZldHdsdFFtbzR4UVB6elB6dEJGY2p3VWRUUy1RY1dzd3A3cThscjdnVjg3LU9hZkJfSm9la1dlaUNzSWp2VFoxTl93d0NzcXdVX3pBQWJkam9MZElZSk90TnpTS3FpRk1uZG11QVo3M090SlhTUmgzTnUwUmxZaDl2Y1ZaX09PRjRBb0hpdzlGems1a2FOb05IeTBhOGFnb2poVVdma3JPMkJUcFJlR1pzUi1HdE1iT3Rwbw?oc=5",
-        "date": "2026-08-19T14:12:44+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "¿Las empresas de Inteligencia artificial generativa son una burbuja a punto de estallar?",
-        "description": "¿Las empresas de Inteligencia artificial generativa son una burbuja a punto de estallar? Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVhBa2JkV2lCNDV3d0luaFJ4cEhjX3NNaVpQcmJ0aVFaeUh4MExTejBpclpOcVZLaXpkQzA5a1VMSjEzdklBU0RMaU1tRUxxWFlHUmRWWDh0V2duM2k0bDFra3hrSVlnSXBIREkwMEp5NjA3WnN2blpucldkOHhzMnQ0ZDZwTkZ2TE1Pbm9weWRKQzJyLXVIQjJvY3JzcmVQU0lLbXdtc3cyTFdFZ3EtSVlR0gG3AUFVX3lxTE42OW54LTA3ckVpckVtZWl3WS15VkdOQnBHSW5ZZXZxN1R0a0pTX05LV2dPcWFvRGJ0amRZVTI5SjZsLXZVdXJOR205ZjVoTjdYRjhOeWwtRlg5YndES2JQQVM1d0NoQzFabjVjR182bWl5dEFLeFYwekctbjVyQmQtMDE3Ri10OUtnNkVkaEZhX2Z2VVBNdTJjRTljOVZZNW41V0x1ZFo2SHI1ejBXSGZ3WmlySlN2QQ?oc=5",
-        "date": "2026-08-19T09:06:07+00:00",
-        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "La maniobra en Uruguay que multiplicará la venta de petróleo de Vaca Muerta",
-        "description": "La maniobra en Uruguay que multiplicará la venta de petróleo de Vaca Muerta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEdTYlNKXy1CZ1lXbThfSGNNM3B6MXMwQTRZV3pZbFhvWkpfWDhDdXpzVTBaQjZNRkNfZ0pVLV9QTTJSXzBXWTJvUXF4NjBSQU5Hbjd5dTVWMU1MU3FtLXRMamN0Z1lXV3NmdDUycTJFTEl6aFJQY2h1eVBMUE45MzllQU12MTNqSUE5RkQydFUzN0ROZ184Tk52ZllyOGE5dFo1S0lib29pcDAtZkZhLVNhZjjSAboBQVVfeXFMUG9lYzZKZWE5VVl2ZGJONzB6SmVka0NQTUdsRlVqZmtFRG04SlNTTTVfbExzdHFfV2pUYmN5cHAzVjhPSmg3dk5LV09vUUFTTi1KclYxT0Z3WWtkWVZ1dFd2TzVzdVZSMU01M2RTNUlvTXpxNUtLOERDLWlDV1ctczJGNFlRS2hkYzdGOGNsT1RXbnB5MHVCR0dYNUdGdE5WRlBEQTQ3NV9YY3k1U1VieG9xdE9ZdVFUTmVR?oc=5",
-        "date": "2026-08-18T13:29:00+00:00",
-        "source": "Lmneuquen.com"
-      },
       {
         "title": "Cómo ve la India el boom energético argentino: el informe que analiza a Vaca Muerta desde Nueva Delhi",
         "description": "Cómo ve la India el boom energético argentino: el informe que analiza a Vaca Muerta desde Nueva Delhi Lmneuquen.com",
@@ -170,18 +163,32 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Vaca Muerta en el centro de la escena: la Expo Argentina Oil & Gas vuelve a Neuquén con récord de expositores",
-        "description": "Vaca Muerta en el centro de la escena: la Expo Argentina Oil & Gas vuelve a Neuquén con récord de expositores Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWDdVQjA4Um1jN3ZYczJMREdfcFFEdTZpR3pVWFJVdzVPblU2ckpKS1FDdVJJVklGVERJLTYxNmpsaXVxYnFCUFdpanh1QlE1R3ByT3lxejd4cW9SNnF0UkJnZFBWcmRsaVpoYlZfeFJLNWFCcmtDZW05d1lzRGE2dFhPTWpCeFU4Z254RUNTdThpR0FoV09kT1Jka3d2MTVzMDJrYlB4T3Jib09qckQtMjJjYjFuc0M0S20tQ29jMjNSODVUTGxLb29sckgzWW8xRks0a2hEZ1dJbTVzVEdMNGtZb1lPZ9IB7gFBVV95cUxQS3VjMXBhb3R1RHUzWjdRYzVFWXlZN0RZYW1uMzlDMjBTc18xVEFaa2cweUJIS1ZERXh3X1NaR1RYa2ZUN19UMXYzZ1JraTMtWllrc2xDX1JzcWpWbWdwSDFNZnlDZDJKUGtTNFNQTUtlNnZvOFQ2blU1bjUtRkRFUTJsX0R1WlJJek5BZTZBdTJEOWJUNjlwMmM4QkJkcy1OWmRlUVBDRUdQcWx6VExTZjU0VU0teXdvZUlCMDdaT0E1X3g1U1ZDYmR5bjloQlBEUTdabnZqaHFJZ0hFbi1BTG1CTUJrZmI3b2Y0UUFB?oc=5",
-        "date": "2026-08-18T14:50:24+00:00",
+        "title": "Mientras el crudo sigue en alza, la actividad en Vaca Muerta no afloja y suma nuevos proyectos al RIGI",
+        "description": "Mientras el crudo sigue en alza, la actividad en Vaca Muerta no afloja y suma nuevos proyectos al RIGI Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTRSdTlnY0JCQ3B4MHBieHRtRzBCcUt6bjNHcUxTQnpvNEhFbU9WNFRNNzhpSFhla3VrR1ZOM01jd05BaG12cW5aVTBvTzE1a3BIaXNmUHdia0d3NURLY1c3UUJFaHJnZjZHTW9ScERTTTVXSjA0ZkJxNzRhMG83NFVsQ0Z6Wlg2SThkUk9nUHkxY3Z2ZlU0QWhTQ2lLLU9qYmVfUnNIVTBZUS1CVzlYVlBxYnJoa3JyY0ZaRG9JaXItLWh3NW9xUHhWb2w5QjRsWDZzZdIB3AFBVV95cUxOLU13NzVFS3prRnlabktESzhRNDNILTEzMTdZNF8yYUZpWVV4eXh4dzUxNkd2UF94N3ZWVy1HYlV4M3pDbWJma3ZPYkVaQmtDZXZTZlAxVjFOZjdKOFJIbURlLVZJYjFnU2pXX2tZSjNKQk0xeGdSZXNJTldxLXdvZGF4OGlNSVcxaWNtVTlLbEVtUldPSmFFbDRtYnJ0ajNBV0pZSHVIWkxKdXNaR3I2X19LektuMFlheE41dEwtZmNycjlHNHkydE9NZ3NIWTFDSWo4ZHdMX29pNTNF?oc=5",
+        "date": "2026-08-19T03:22:00+00:00",
         "source": "Diario Río Negro"
       },
       {
-        "title": "“Un motor que se encendió”: el sector energético proyecta una década récord para la Argentina",
-        "description": "“Un motor que se encendió”: el sector energético proyecta una década récord para la Argentina La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc3pvY0p5eWlrOVpqRWlXQkRLbjJGOFZTZnB1SkRLbVk5eU5EWk1rUWl5RG52WWNMRlBqUXhRWlF5dkZOU2dVUm1lb2lzWEhlQWlsd0xQUldZajcwTW5UdjU0NHVoWE5GZERsMlIzelVDaDAtM0xWUk94eDkwVmN3V2hQM1lEeGk4T1RkZE9nbTNTSHlMaE9BaU5KMzZ6bUF1a2Y4R1R2Ri0yVEI1RTMwVEtUeWs4QlFObEJIUk9qQWJ1WUVleDRqR1pjdkxkTkxXc1FQb0ZTOG9BcF9nRG84dWV1TQ?oc=5",
-        "date": "2026-08-19T14:05:00+00:00",
+        "title": "Vaca Muerta: por qué conseguir un rig ahora puede costar hasta US$15 millones",
+        "description": "Vaca Muerta: por qué conseguir un rig ahora puede costar hasta US$15 millones Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHEyVWgwV1hlZ0VjTnBCVHpkUXBNX1JqTHJmY3FSdTlOTURwNTczSjlSVEtTTk5meE5hMXBoZnZBbERNQTBuVkNpTnNHWURHMDFqRk1CS2Q0ZGlNR052a2FLSjF0R01EUXhOOTFJcWtLdEhDSG4yY2xjX1Y4RC14REFsS3U1bEVYbXRjRUdBZlZ1OU4tMDdVOGp2V3dRME13OE9kM2JSOExkc3hiaG1DMDhzQdIBuAFBVV95cUxPVWc3SHZZdDdZU0g5WGdBU2xZZ015Z3BOVE5JOEZWVHNvc1JrendNUnRubFRWN1VocW5pVkE4bGhkZ194RkZQUmxfcnBiV1I0b1Y0NVdZd01ta3BaalVTU1NfbDN1Mmp2c3Ntd3FzMDU5Qk9xbTloRnhDaFNIM1E1eEV2a0lkbHpEb1lrWWJ3d3duWERITWliWjN5ZF92WXVjVDJfaGpDZVg5WFhUUldybFdYamlCOFZk?oc=5",
+        "date": "2026-08-19T14:54:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "De Vaca Muerta a los fertilizantes: la apuesta de US$2700 millones que abre un nuevo negocio",
+        "description": "De Vaca Muerta a los fertilizantes: la apuesta de US$2700 millones que abre un nuevo negocio La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWFBKcXd5RHRpd3hSVHpJZHl2Rk9XQTE1bTBhUVQwblJ1aVllVVQyci1jVVQ5ZWI5ZHNQczJUSkxDd0J4VXNEQWhGQzlDZ0VZSU82azZfb3JqMXV6UkI4QjFjZnUzQXFTZjkwamRjLWJ4dkRFeU1wX0oxc2xIel9GY05LYmhDenMwdUNDWTBwYTYxaFB6Wk5nbldrRWNfVDN6QTJJUzRaX0dtay13aEkwWkllM2ZDY2UzaGxiakktOFJnS0xjMi1JdTJZWTF6eTNqeXVkUmw2S2tNX2V3Q1JhZ1lTcw?oc=5",
+        "date": "2026-08-19T15:02:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "YPF vuelve a la carga por la hermana menor de Vaca Muerta",
+        "description": "YPF vuelve a la carga por la hermana menor de Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzVvQWxJY0RWOXpuVng3YUgwNEJKM3BBSWxlaktfSGFxd19oQ2ltbXpwMmNHaDE3VDRuMGFPT3NZQW1XZGZPZUNJakR0MlV1bWRfR2x3akVyV2lhWXk5RkUzR0Y4SGZyeVloRFg3aTNVLTlmdWFZLWp5dGZvWnkzX09NblBnMTlvNlprWnpJUXZId1BnaExvdNIBngFBVV95cUxQZVljMTZLbk5SMzhQalFBb1BVWm9tV0RzSlpuQ0tDMlJUTnZ1cW9SUktGaXpRdUZKQ0ZwNWFOcGNMZ0dtSmluUF9GOUJxanRSSG5YQVdXN08ycGN1OXdOQWRpLWF1ZUxxRFRXc2FmWEVxWlc1LV9RbDg4QUtnY3ZXamlYem9HTVN5MWpvX1pqTFlFbHVxNHc0Rzd1STBvQQ?oc=5",
+        "date": "2026-08-19T14:43:48+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Pablo Bereciartua: \"Vaca Muerta, la minería y el agro son importantes, pero la Ciudad aporta más del 20% del PBI\"",
@@ -189,13 +196,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWTFMZ242aDAwN3ozRTJad1pkUnplbExwbGZJcHBjTEJ3dFNKYl9LTUtUTE42Q2ZhNTBUYXJPVUNhSDRGc3FEY0R0NU03ZTEzR1BOT1h5MkMwSUl4TjhqcW5xQlpHMzY2OUxYeHFudm1RMFNqemp0dEJ2bEo2dE53cGFTYTVNQks4QUdlVkllMHdGLW9uYzgxWmpUSC0xdGppRXl1NUEwNVFsUDRSVEZicXNENUxtQVNYX05nMVdfS2E5UHZVckNsek1JUjhuWTM5bjFQc1Jn0gHbAUFVX3lxTFBEcVVHbV9iblJINDJraDA3a0FmdFhSVHFvb3Q2TUloQkE2UHFJem1SV1EzVmp3TTJGWnBmOVdDdElFRXYzOWtwLUtKdThlVmYwbVZRVllWdTgtM0xoUHYtcDFFdVVrNllBVUlBU29tMzdONGlhODQ3YjZIYUJyWDY4cjl2Z2dYRXFPWDlRaXdqRnZwWjc2cFAzUnhfb25HOWtJOTlJNm1UeXk0VkZyTGdLZVRHWVkyelpOQ0RncDhvWHZmb1BaNFJ1QWgzYUdaQnpWdUdCTUp6dHFXSQ?oc=5",
         "date": "2026-08-19T03:00:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta",
-        "description": "El magnate tecnológico Peter Thiel plantó bandera en Vaca Muerta Página|12 Vaca Muerta suma a Peter Thiel: por qué el magnate eligió a Vista Energy Lmneuquen.com Quién es Peter Thiel, el magnate tecnológico y aliado de Trump que vino al país: su apuesta fuerte por Vaca Muerta y…",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjVEOGlsNWI2NmFLSGpXQWRRSFk4bnNoa3VNdm82SFFNXzkwdmg0NDVRaE1oQnFaVTA2U2lJcElhdkFJUndOYnRxdDlQMEtzWnRhOWFLUnU5ejdZck54TFVCNWVqVks1aENBeHJpcjZ1X1lGNE4tZWs4VjBJUXJHaEtqYmVkWjFoOGZXOVlja2E3b21STW5IRVZpNVhfbkF6cThidERkVQ?oc=5",
-        "date": "2026-08-16T13:02:42+00:00",
-        "source": "Página|12"
       },
       {
         "title": "Vaca Muerta: expertos en finanzas formulan recomendaciones para que las pymes petroleras puedan mejorar su acceso al crédito",
