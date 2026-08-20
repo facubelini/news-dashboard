@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:30:46Z",
+  "updated_at": "2026-08-20T09:27:09Z",
   "categories": {
     "Microsoft": [
       {
@@ -46,10 +46,10 @@
       },
       {
         "title": "Meta recopila 3 veces más datos de usuario que Microsoft o Apple",
-        "description": "Meta recopila 3 veces más datos de usuario que Microsoft o Apple Euronews",
+        "description": "Meta recopila 3 veces más datos de usuario que Microsoft o Apple Euronews.com",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFA3N3JJVXo3a1VxaFdOT0hxcE5kZUNNY25ZSnc0Q2pJNGozNW9CV0xMMkU1Y0E1OW9EYjRKa0tRMkdaZ19PM1k1LXFGWU54TzdqcjdEYmxhcnAyd3VoaVlaUWJZVnctYW1FOUVBNENOaVdSUm51cDFJd0JKdDJGNDFiM0J2VkJ5bUxhTnR2MGhtbm81T2x1bURqSGtsNTVOeS05b3NzYw?oc=5",
         "date": "2026-08-19T07:51:09+00:00",
-        "source": "Euronews"
+        "source": "Euronews.com"
       }
     ],
     "Marketing": [
@@ -59,13 +59,6 @@
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NWDdPSlJMQnVEcWlRb2c3UUFpQXZubFYxZU94QTlmSkh6bDJKakdXTVo0Z2xlbzNUdGUwRG5JV1RwX1liNFBpWTYtdm5ZdXgwNG81dVhkZ3pyUm1sTXRlVTNrbVFaaHhHY2c5Ny11NHBlY3FlcFR3WnV3?oc=5",
         "date": "2026-08-20T06:02:10+00:00",
         "source": "LatinSpots.com"
-      },
-      {
-        "title": "Marketing",
-        "description": "Marketing Entre Ríos Ahora",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzYTQ1MHN4bmVEaFg3UVVrRnRMY1l5U3FHc3lET1FDRTZIOEdRWkZuUVRUeE1zdlhCU3hDTE5LTlNJdndfN21UYVpqR3JHMkMz?oc=5",
-        "date": "2026-08-19T16:09:48+00:00",
-        "source": "Entre Ríos Ahora"
       },
       {
         "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 18",
@@ -89,6 +82,13 @@
         "source": "ChavesDigital"
       },
       {
+        "title": "Marketing",
+        "description": "Marketing Entre Ríos Ahora",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzYTQ1MHN4bmVEaFg3UVVrRnRMY1l5U3FHc3lET1FDRTZIOEdRWkZuUVRUeE1zdlhCU3hDTE5LTlNJdndfN21UYVpqR3JHMkMz?oc=5",
+        "date": "2026-08-19T16:09:48+00:00",
+        "source": "Entre Ríos Ahora"
+      },
+      {
         "title": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio",
         "description": "Mucho más que redes sociales: la UNGS llevó formación en comunicación y marketing digital al territorio Aquí La Noticia",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFFJNnBvRTlZS294QXQ1S085VGNlX0lyRVhLNHA1M2pNQzRoU00yT2JfYnBZTjZSd1ZJOC1qRG52ak9abFpxWmxSM2xhU2Z4Y1VrMk8tUllaU1prYUNLaTRYemlPeGp1eWdtT1VGR3BWOUN0N2NrelNGeTZ6X0VkellUdHM2R0N2ZldyWkllbHFQVzFTM1RHQmtCSGVDazF5NnhFQ09tOTk3UVNRMU9GRmdyMm90NUNNczBaZXFMU0ZCcklrN056Uw?oc=5",
@@ -105,18 +105,25 @@
     ],
     "IA": [
       {
+        "title": "¿Por qué las empresas de inteligencia artificial están comprando millones de libros?",
+        "description": "¿Por qué las empresas de inteligencia artificial están comprando millones de libros? The Conversation",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUZHQU9LSUdsUVNoZWxOd3JRNWtBZHYySGY5MG0zXzBqcHJqNEIzTjZNSnFmM09Gb0gxOUF5V21HRGR0YTJMQTlxckZHcHMybG00RGFtRHplRS0xYnl2WXlNV05jTnNpZUR4R1ppZnF1bUhKUmt2X2cxUk1KSVVmdXhjcFJ2WFdNY2NDU014WEdITC1ab05SdmhxU0xnYnN3WDVudktNNkw2dlZybC1reTY1bUZhZ05x?oc=5",
+        "date": "2026-08-19T14:53:12+00:00",
+        "source": "The Conversation"
+      },
+      {
+        "title": "Inteligencia artificial en la salud argentina: el desafío de innovar sin deshumanizar la atención - TN",
+        "description": "Inteligencia artificial en la salud argentina: el desafío de innovar sin deshumanizar la atención TN",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVNVcXg5WWFRQXUzZnVXc3Z1WXBEbVhMWVMxdV9HM0pmWmpRS1g5UG9jWldCZkViOHMzUnhwYlBmc19MRFRpT2xTOU1mcnZoYXJCeEJHb1N5SzVxSFBodmxpMWM5d3czNGVkV0RZN00yTS1IV0pPUjBFRDZmVWswTmlCZjlzekdHZ2J5TDk2Qk9JNW14TFBiRm9EY2dfcWFLUlVWdGJ2ZXZhNGhWS0JMMkFQSG1vQ1oyQ0tTeHZSTTl4RGZQbzNBZVNwTHVRdy11dE8xRW5UeTZKd9IB7gFBVV95cUxNZWZ4TFk3MDZvcFVvTm1SNDNaRmw0elp3aUtQcnZGeVIzR1VCMkxTRWZ3ZmlTTFRmZFotODQ0UERkbklnbDBtSkdnWkM1eVVJdERLbjNpU25NdVRSTlZYY2RtcWpKUjVUemlHYmkxcUlSLWtDalZIT3ZBOEo2WWx5SGFPenpCY29xUlg1VkV6MGMyS0xweVFPSk92bVJ2VmJLSzhhLUVIR2xfYVFKMFpUal9DaGpkV1FpNDFWLV9EdUt5SV8xYWtKbWFvTmVON0VvTlEwSmpUb0hqY3Y5V21hTXBzVENwZUlNVXo0OTBR?oc=5",
+        "date": "2026-08-20T08:32:00+00:00",
+        "source": "TN"
+      },
+      {
         "title": "¿Las empresas de Inteligencia artificial generativa son una burbuja a punto de estallar?",
         "description": "¿Las empresas de Inteligencia artificial generativa son una burbuja a punto de estallar? Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVhBa2JkV2lCNDV3d0luaFJ4cEhjX3NNaVpQcmJ0aVFaeUh4MExTejBpclpOcVZLaXpkQzA5a1VMSjEzdklBU0RMaU1tRUxxWFlHUmRWWDh0V2duM2k0bDFra3hrSVlnSXBIREkwMEp5NjA3WnN2blpucldkOHhzMnQ0ZDZwTkZ2TE1Pbm9weWRKQzJyLXVIQjJvY3JzcmVQU0lLbXdtc3cyTFdFZ3EtSVlR0gG3AUFVX3lxTE42OW54LTA3ckVpckVtZWl3WS15VkdOQnBHSW5ZZXZxN1R0a0pTX05LV2dPcWFvRGJ0amRZVTI5SjZsLXZVdXJOR205ZjVoTjdYRjhOeWwtRlg5YndES2JQQVM1d0NoQzFabjVjR182bWl5dEFLeFYwekctbjVyQmQtMDE3Ri10OUtnNkVkaEZhX2Z2VVBNdTJjRTljOVZZNW41V0x1ZFo2SHI1ejBXSGZ3WmlySlN2QQ?oc=5",
         "date": "2026-08-19T09:06:07+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Elecciones 2027: inteligencia artificial y la libertad del voto",
-        "description": "Elecciones 2027: inteligencia artificial y la libertad del voto Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjhDcG1hcllJWVVrQ1hhUEFhcjV0YTZ5bFhvNEZvdGVkcVo5b0VMRTNmeE5QWHJDanNOVFNndm1mTWdUa2FDNzU2MkpLT0dsYlRuRm9LVTQydV9BbDlQQlpMWGJVa2JiaGhyZkFjTkN0QjIwa2E5QU9uSEswS1Q0dVY3NFFXSHlHWGN1SUJHOTl6X1BlWjZrZVhSRFZGMFA2NE80a1V6Yjdsd9IBxAFBVV95cUxOcTZCZENNQ1BITGU2djhxUndqTHgxRGxxUHg2Z2xOeWhHQUJ6Rkpaa1hEeFBNUk5zbFBSTkdBY2ZtcUlOWi0zcVJHN1BRa3dUR3lwaklUOW10WWtFakhtN2t6RFdKTDk5eHJhZzlscE1xVjFuV2QtVkdNWGxsQ0NnQ0prcGh2cWR3NkRkZE1KYWtRMGF2M3lHVm1ydXU0ZnBYZFRoazM3MmFJTVVIck1PdkcxalBjYVBWZ0JyakFQdHYzZloz?oc=5",
-        "date": "2026-08-19T13:54:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Presentan un ciclo de formación en innovación e inteligencia artificial aplicada al marketing y a los negocios",
@@ -126,18 +133,18 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-        "description": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres) EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeUNyMFB3Vm9lU3Z4MXY2SGJJeGItU3F5NTJVZUlYQ3N6d05EWkRQSTl0NThTVDhVYzlnQ2pjUXNHZE1uajQyUlZ6YlNsbGFudkx3XzlBcF91ZmNVZ2N1NlNSMy1jU0VRQmJPRFBYakJJTjA1d1oyX0lJS196MkRRb2MySWpjUFlTQksyeG01SF96MGphaTktaWpXVjBfUGtLUzhIaFNRWFRCdnBlLVhKZnI1Znk3Tmk3cTVYYml5VGpPcFlRWVhlZU9MbnB6M2tRaEJGTNIB6AFBVV95cUxNZm1oUHNGNmFrRFNpM0JUZVFucDdnN0pEQldpcGg0LXBvVXNvQ2F2OUx1d3lYWGZtMDhhdE1XNjl2d215ZVYxaW1qU1pYRlBIVlFfbG80WGwxM2ZlajdJdkI0RElPWUk2WUhuWS1iZ3hYZHpSeHNmdWM4WG9hM0FueThzZ29KeFdaNVFiaDRwSXFaUmVMaGpabU41cUlleGlsWHR5Y2FKc1YzWmprMm1GZ3E0ckhsbDVyQVpFZFgxUm1PSGhSRGVfWUx0RmlKbjZWdzl5OGRNVk9oOV8yMm5VMnhaanlwX29r?oc=5",
-        "date": "2026-08-20T05:30:00+00:00",
+        "title": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano",
+        "description": "OpenAI paraliza el entrenamiento de su IA más avanzada tras la ‘rebelión’ de sus agentes este verano EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaE96dkhSNll5bHBObmR5N0hfT2ZrTVloaGM5S3l6ZzdOSkdDMHd1S3VrdnRGWUZod3J2Y213QWtuWTE3eG96VVQtQjB0Q3dSMTA5UXh4THA4RXR3aGpuWTRUUjdGSkMzenN5S19qZHduRDhuU2h3a1NjajlEcFh5Q1hmM0Fyajh2a3VNeGVDRi1CRGNRRDdQOWVmM0FZLWdZUmxRSHIyQzJpYXNLc045Z1hYOGtMNWVISkRxVWZrYkxMZHpfYkRDVFN6U0JzTUZtYURHM19rNEFQUmM00gHwAUFVX3lxTE5UbFVPQWNGbk12OVN2YUxQTmtvQTJ5dDVyRE9ObTZxc09GUEp1UXRHQnNJV0VDRmxlbS1yQ3pISWY0Z0NDOXVlR25od2RXdVFUWHQyQmVtZWFodGpCWlFuNi1WSEJ0aS1RR1lfNmdBN0QtenNEbHJtQ0VYQWU0VUJSSFhCUW5JMXNiWDlBTDk1YnpQRmE4anZWaEhKX3g5c2o2QU1KdEcwUUhLaFNhTTQ5eTNDbWxEOE5zOG5qNHEzOXp6VTR2Z3haMVV5SXVrYzI2dzVwTW5kVzhsWFBBYnpBVmRiN0NqRS1CUktab3JHdQ?oc=5",
+        "date": "2026-08-19T08:38:50+00:00",
         "source": "EL PAÍS"
       },
       {
-        "title": "El gobierno porteño incorporó la Inteligencia Artificial como contenido obligatorio en las escuelas - TN",
-        "description": "El gobierno porteño incorporó la Inteligencia Artificial como contenido obligatorio en las escuelas TN",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcllBeGRyY0JfZXVZbzNCUjJ3WTVVZlU5Qk9aM2pub29JTGRyMktQejVENENhYXRDVUlWZTczYkNYOHdSbWdiWWRhV3pETTVVcUZXSTFZNjdBN0V6dXh5NTMwaWdiY0lDX1A2WEhManBIMWpvY2ZHanp1Y3B6eHc5ZVZROVlvT2lEZkhaSUZmX2VQQ1dKOTdyU0dQT1dCYXF0T3o5Z0tvZmZETHE0VWpmRmZ3YUJhOE1LSm12YVAtM2NSUFo4aXY4TEtpU0VQQWNNMDN4SdIB6AFBVV95cUxQZzhEOU1UM3lrQUpsUGktRUpyS2VReFJaeG0tZm5UTWlXSUpwaGFMZ0J5YkVzSm1SZzBhTDFEUWdJRzZYSThRZ2JEZTZrbmtGTzNGMUJqWVZwdU9NdDRsbDMwMWtTSHZCRHRNTDZwTUdNdk00Tkd1RllUaVdWZHJ2UDV0aVhKQkN6NG9GRDhXTTZzSjlIZEJLRzJIOVAxWnQxbXlxUThPSm10T21GVXJlZm5uVkN1R3cwT0ZRNjY3dlV6VE9xRjByRWFhQnlMb0xXeE5RQ0tWM1FvNVpxbkZHMXgwcFM4U2Ex?oc=5",
-        "date": "2026-08-18T21:15:12+00:00",
-        "source": "TN"
+        "title": "Elecciones 2027: inteligencia artificial y la libertad del voto",
+        "description": "Elecciones 2027: inteligencia artificial y la libertad del voto Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjhDcG1hcllJWVVrQ1hhUEFhcjV0YTZ5bFhvNEZvdGVkcVo5b0VMRTNmeE5QWHJDanNOVFNndm1mTWdUa2FDNzU2MkpLT0dsYlRuRm9LVTQydV9BbDlQQlpMWGJVa2JiaGhyZkFjTkN0QjIwa2E5QU9uSEswS1Q0dVY3NFFXSHlHWGN1SUJHOTl6X1BlWjZrZVhSRFZGMFA2NE80a1V6Yjdsd9IBxAFBVV95cUxOcTZCZENNQ1BITGU2djhxUndqTHgxRGxxUHg2Z2xOeWhHQUJ6Rkpaa1hEeFBNUk5zbFBSTkdBY2ZtcUlOWi0zcVJHN1BRa3dUR3lwaklUOW10WWtFakhtN2t6RFdKTDk5eHJhZzlscE1xVjFuV2QtVkdNWGxsQ0NnQ0prcGh2cWR3NkRkZE1KYWtRMGF2M3lHVm1ydXU0ZnBYZFRoazM3MmFJTVVIck1PdkcxalBjYVBWZ0JyakFQdHYzZloz?oc=5",
+        "date": "2026-08-19T13:54:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Bahía Blanca será sede del Primer Congreso sobre Inteligencia Artificial aplicada a la producción",
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaDdhd2ZSR2RrS3NKdm50RVdzNVRuNnVuYWRmWm1FVktudlZ2RmFkclNRU0pjVmQ3cHpUTmExQ3BETURBNUozYWVBQUhHeEhVYV9vN3ZqTHh6N2lXeTFyMWphMWZwNE1mc3ZWUVoyVVhWSWdoZWdlbjFOSy1CTlA4ajZ4ZVlDM2dnZVdMQl9qb2dqVkh5OWliOE9SY3pLWHNaZ3dXd3pBQUZndUhsemVmQTZYRjlPQmVOdlRwODhYSU94aXRyYnozeHptQVZDeW9LOVE1a2hUQXhmZzNTQ1p2TjZFQjBaM3VU?oc=5",
         "date": "2026-08-20T03:00:54+00:00",
         "source": "La Nueva Radio Suárez"
-      },
-      {
-        "title": "Ciberseguridad: WhatsApp prueba una herramienta con inteligencia artificial para frenar estafas",
-        "description": "Ciberseguridad: WhatsApp prueba una herramienta con inteligencia artificial para frenar estafas La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGh0eS1zc1V1ZHVYV1VJam8tUXcxMTZWRE0tTkd6OXllWUZzazJpdTJaeEtwRVNfSjFjMC1lb1lFWmphMmtBWVkxWHprQUdxV2JMZnNkdVp4c1dUb1p3QjRJU3hOS1N1ODdEUDJtZDNGWVlSMERCbmc4eV9kNmhIME5XYkx0eGxjNXRldXBHYWhBelVFNWc2N01MT3haaVNHdTlYcHlWdUlndXdTb3BqOWtDcjNNem5JWWxsM2tzbVBHaV9RMlJ0X0pORjNaRm1kZFk2NGVZRWfSAd4BQVVfeXFMT1RyLThTMmN4aTNSbWpsLWRxSFZTeWN1eEZZU1h4OXdMQ3V3Vlp1TElOQ1dQbGU1RklwUWZRN0l3Y2JieXk3SEx1a3ZFbVllbDAxckdKRnJ5d0NpVE5JTHBGbkRiWkpKM0xNQjVEdk1MYmNLeEV6eFptV216YkoyYjJ5bFZEYzNqeFQ0aWtBbHFlM1dMbEItanlUaF9MX1NuSXIzck84empFLVVOejhMRXpfX1BHdGQ0eG15ai1fWUFqZXFEbnh6NnFFd1VXMy1KcTd6bU1RVC1UZ1YyNlhR?oc=5",
-        "date": "2026-08-19T12:49:11+00:00",
-        "source": "La Gaceta"
       }
     ],
     "Vaca Muerta": [
