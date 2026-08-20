@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-20T13:40:59Z",
+  "updated_at": "2026-08-20T14:29:53Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Lo que faltaba: Microsoft rompe Windows Defender, el antivirus nativo de Windows 11",
+        "description": "Lo que faltaba: Microsoft rompe Windows Defender, el antivirus nativo de Windows 11 Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1F2OTFiYjlMVlhDU1l4SGdhUkxHR29Zalg3MGJZRFJFV1dOeHlTdld3N0x6ZlJ4TzRoN0N5bjBhcE9iZEdzZXRyT1pRRm15YTcyNHlPOTB3SUp3MmRWWFFWaW51OFhBb0MzNlpiNUNYU3IzekNUTUlSX2p0eVA3UEtiVGVVc3NkQ0RRMUZCTEJiQQ?oc=5",
+        "date": "2026-08-19T17:24:48+00:00",
+        "source": "Hipertextual"
+      },
       {
         "title": "Microsoft revela una forma más inteligente y más rápida de desplegar actualizaciones de Windows en las empresas",
         "description": "Microsoft revela una forma más inteligente y más rápida de desplegar actualizaciones de Windows en las empresas Infobae",
@@ -22,13 +29,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdnBaX0JXZDdBaUZFaEcyc0lUZlB3OGRqTFVsS240TlVSbU83aGtwQkV6LVU3eDJrSGt0SWNYQldyWW9YUklNYTlEei0wb2VNNlBnOFhUdW42Wjd4MzFYaHVxanpxcU9mRWlMZlpDRXBSenpidGhOcjVRWEtUZjcxaGFjSDBaQmFuUUF4b3poQkhrU3RXZ2FXcVlqbFRjcnZlaEp2N09kc3JIXzJvZFZta0hRNFFmMDZzM1RiRERWR1pyVHBsRlFYd295STZoN3RjaG8wSlpjVzNpdWxlUlRaS0UtX0p6N2M5?oc=5",
         "date": "2026-08-20T10:33:53+00:00",
         "source": "Notimérica"
-      },
-      {
-        "title": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento",
-        "description": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemZNNlJRTnpLVkdrOUZxMmFjSDQ0ZnFjeG02TWM3U2JrMEo0eFM5NWJGMWNvdFNTTjNqU1BFRE11WUU2dnNselNvWkF1b2hLU3RjTXN1dE9oSTB6SFlMWU1reWxuWnR3OC03Ry1fWnlYd2JzTUsxc2JmbWYwb3ZHU1ZqaVdLR01Ob2VQVHZIb0RYNzU1aUY4OHl4SXRPNFhjaVJXcVFKVmtwMDlHQ0EzOEVMN0hJeUFtSV9kMmhSYUJiRE9JYUdF?oc=5",
-        "date": "2026-08-19T13:54:16+00:00",
-        "source": "MuyComputer"
       },
       {
         "title": "¿Podría Microsoft lanzar una placa de expansión para convertir un PC en Xbox Project Helix?",
@@ -89,18 +89,18 @@
         "source": "Aquí La Noticia"
       },
       {
+        "title": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital",
+        "description": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital Vía País",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTmQ4aXBqVXRVanNoSWI0ZExEZzZjZl9SZDJpOGZzckNBN09MZGxKUnlwTWNJWlZyXzBPQVVqRDZfWW1EaDJROEpJYTB2RVVaR2hOdFBfT2pnaDhfaGxIU2g2d0lLclU5QXRvYnpLVlRvUFNnNmtwUlViV1dKZ2M0d0lCRFZsZVQ2N0FzQ0twbWg5Zlo3UVJKYm9ycEljcm4zUi13emRxa1M2elBVV21HYUo2YjRyMk1LemFtVlJBcVRjSnQtRE9YUmJvRlBSM29IbVhpUWNkX2g4QWxQRjllaUV1bW9DVkIxRTFmV0ZKdjdwOW9JV0N5and3bUZkcEUtdWFzbDh1a1RtdFhjSHRiVkZiMnc1Si04Z2ZvaFpObjdKVDhZbUZoTXJJa0oyOENJa2hRT05pdVZ4YmZvb3liclpyV2Z0VGN3eDZ3N3FHaDA?oc=5",
+        "date": "2026-08-18T22:49:00+00:00",
+        "source": "Vía País"
+      },
+      {
         "title": "Marketing",
         "description": "Marketing Entre Ríos Ahora",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzYTQ1MHN4bmVEaFg3UVVrRnRMY1l5U3FHc3lET1FDRTZIOEdRWkZuUVRUeE1zdlhCU3hDTE5LTlNJdndfN21UYVpqR3JHMkMz?oc=5",
         "date": "2026-08-19T16:09:48+00:00",
         "source": "Entre Ríos Ahora"
-      },
-      {
-        "title": "AMDT | La consultora que convierte datos en decisiones",
-        "description": "AMDT | La consultora que convierte datos en decisiones EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnFMTUROMENVWUx6allIMkg2ZVN6MzRzUUxXT191eWFBNUhYZGY3TjBfNFpKczdlek9rTnJmb2hJUkNBdDhUMWhlYi1qZDBLLXhleGxPeUhzSTR2b1lSR2FJTTFtcFc2dDFzQVk3WVd3bkVUM1NqSjYtSkR2aVpxRlJZNElkbTcxQ3JaTmEwZ3VPcnBvbmtBZGotQ0Q0VFR0UkIyUjlOUlI1bHdZUV9IT3owcTVOUzF4RGVlZVNxdGRaSDdZRlHSAdoBQVVfeXFMTmE4QzNpdlJtaEttNHNzWUlqMFMteGUwZGs5NWc2YzdkQWZQTUk4eE1jdzRUdk5Jak1SY3I4N3pDNk1xQ2ZBOHJZWW1EcFJOekVHTkg3WUNXMkVLRDh3dHZ6VmVpc2publVkaVhDR3FWTGxkekVRdm81S2dSd1FkbjlUaE1yV3pIdHRsYlJKX2JacVNOOTlDdDVvRU9uM3ZDSXZfN3pibXJUMk9kMjNXamVqNmJmYUhObmlXZnpnLUFiTHBqRDM3U0FJRXFZcld4aWFIQmd1alZKcHc?oc=5",
-        "date": "2026-08-20T10:05:36+00:00",
-        "source": "EL PAÍS"
       }
     ],
     "IA": [
@@ -133,25 +133,25 @@
         "source": "TN"
       },
       {
-        "title": "Inteligencia artificial y medicina: las diferencias entre los sistemas de salud de cuatro países",
-        "description": "Inteligencia artificial y medicina: las diferencias entre los sistemas de salud de cuatro países Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdmk4aUNadzFZZzBYT3plWWhiblNoQmstcjV2YjVrcTFsYkh4Q0JVa3NBTHk4NXpsMEUydG43LVZlNm56UDQ1M0NEeEdxMHI1aERFWUZUV3djalFwQXhENnRPN3lLS2U2WmpFSDVfUy1mUE81ZlZlODRBX3EwdUx4UlRDWWc4ZktVdWQxYWNEd09fbXVzbzhJWi0xZ1BhUWtZVjNzM0NITF84V0oxTDRCbEV4S2FHR0tXUU5RTHZhYmhtZjJhdHZPaS1GUldvaEhiLTZ1SXFobi1TbHPSAeABQVVfeXFMUHluOGIwcVlBWnZaMXZ6RFM3bXdiTlg4VlJvTVVPWWswOFA0T0JMYThKUzJQTEtNOE5pdlVGZzNkSmg1Uk5YODYyR0t1V1AxWXlxdVdqSW9uaU9yVVl5alFZOXZMN0hqekJxcVUzTlhYZkdiamJ5RHVsMG9BOXVZV2NrUzhIemdySUlHV3g3d0tuLU04ajd6RXMtaGpxclY5Y215aTRKQklKbFk1N3BGWE5YWEJONGtmUVR3d01rNlBfWHkxZWx3TmV1TVJrd1NvUE14ZFBGNmtvQk02ZTVqSVE?oc=5",
-        "date": "2026-08-19T20:05:13+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "El peligro de reemplazar al médico por ChatGPT: qué puede hacer la inteligencia artificial y cuáles son sus límites en salud",
-        "description": "El peligro de reemplazar al médico por ChatGPT: qué puede hacer la inteligencia artificial y cuáles son sus límites en salud Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbUMzdDZ1ZFU0b2RNYnFBcDVPdzA3NUM4LWIxWGVJOXNIT0x1eVpPQ0M1OTMtbzZNVFlDaThvX1lxSjc1aW0xLUNoWkpPQ2NHX0dmV2NYZm9ucm14MXVJa0xSVVMtaE1Ud05BWjUwRlJpanBQWlQzS29qck9lTzF0TEVvWFpHaFpDWjVzbXFFUlI3X21tbThITFRTWDV1eGdZUnVmbWYycmxsN3JSMUk3Mmo3V09xQ0owUkRjR2tCRUxjVHJ2N1JIQlRxU0p1aDZrTEJlZW5hd0ZRSHFmcVhBWTk4LXozZnE3SHMxNDdqY1d0aktaRDV6MVBQcl9KLUtwZGx30gGeAkFVX3lxTFBmSDdwTW5VZlBKRXV4ZkJUNFduakFWb0xnZlBDd2VXNGtwYU52T0xMYnU5anpMTjlIem1hNnFfNWcwMU5Ca0xvRDRTbFVUa1Z0OGpsYndZcWFVdTRhd3RhSHRIZDlrWDdwbzUwLWpKelU3NW5PdFlINm5GNkxPNmQyYnNTTVR3S2NqdEw3ckY2REdUWHByWHlDOXR5MS0yOG9iMF9CdkxJbFVIa2JyMGRxNmNpb2lzSlhScGxkeEJHOXo0Y0ZhWlo4QTlLeTcyS3hUVWd5emctUTh4eGs0LUtGd0N6QzVqaVpvV0ttS3U0T2o5WG04bFVpRk1GR29XbDFYVFNyTW10RDBoOWwxNFc5X3J3czVZTG05c3dscHc?oc=5",
-        "date": "2026-08-19T20:59:09+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Bahía Blanca será sede del Primer Congreso sobre Inteligencia Artificial aplicada a la producción",
         "description": "Bahía Blanca será sede del Primer Congreso sobre Inteligencia Artificial aplicada a la producción La Verdad Junín",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0xiVWlkbDZjZkh1RVUxa1poR1ByNGNRT2R2am4zdWRUb2ROQkROU0J0NHZyV01vNDFoRnI0NWhKX2lCWldlV3pLdlBTenRPbVhRSDB4Mm5Ubm5TNEtDSkR1OGpZWVFzUGFFS1hnVl8xaUZ3UFFnMkRCSkNfWVVhWUFrV2dQMDg3YklsaTAyQzJlSjhsSzZYbHM4ZDBTaEJXLTVGMmFocHVWaTBRTU1KQm9CUWlDblk2ZDFhQkwwZDQwOHM?oc=5",
         "date": "2026-08-20T11:38:28+00:00",
         "source": "La Verdad Junín"
+      },
+      {
+        "title": "Bahía Blanca tendrá un congreso sobre inteligencia artificial y producción",
+        "description": "Bahía Blanca tendrá un congreso sobre inteligencia artificial y producción Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORDduaUxXTXlGdGxCRjk3U3hWNHBEZi0xV2MzTS1CUXZNUTRRQmJ5SDViNHdyZzVxNjFSUmdLSS1ZWmwxUG4tYnBmLWZacjBsbzcxT190R1VaRnlWYV9VcFJpSFM4b2dPUF9Rd1ZEUHh1OVZDU0w0aHRqX1FVU2YzLVFnbF9oM0taQ0hxRHFDRUhqOFpfZmt2WEh5QlNLaWZRdnhPaDAwZmFjbzBabHlZajhuNWhkN1lUWUp4YVI3VllyeGIyS2JhYXRmMl9pSjNFelZOWmoyWWVDakpWNFNwNg?oc=5",
+        "date": "2026-08-20T12:40:00+00:00",
+        "source": "Diario El Día de La Plata"
+      },
+      {
+        "title": "Organizan el encuentro de Inteligencia Artificial más importante del país",
+        "description": "Organizan el encuentro de Inteligencia Artificial más importante del país La Arena",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2VUY2VtSTBxS0hWejI3eXdqaE9QT29wNTFaNFNJOWFwczNQR3FZSkRiMHo2UWdGNHBiU1ZuT1RmZGxnRmcyYm9PTGVOYk1Sa1J0aHlDTzJ3WE1ibEtTRm9sTVBfMjJham10VzhlaHkzRUwyT3JGMVdOTm1UZ2lCR1J0cDZlUWs1R1JwRTFZbkRuU3ZnYTdRRTN5akFQeVZ5VExhNUZabFRobERLQ1Q2bXp3VzM3NlJ2ZHhlS2JBakQ?oc=5",
+        "date": "2026-08-20T13:45:10+00:00",
+        "source": "La Arena"
       }
     ],
     "Vaca Muerta": [
@@ -184,11 +184,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Continental Resources compra el 50% de Phoenix y arma un gigante en Vaca Muerta",
-        "description": "Continental Resources compra el 50% de Phoenix y arma un gigante en Vaca Muerta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVhlZmxIRHk0bHUyT3JEdklfcWhrT2M3UGZQd3E4U0cwa011aHZPWHlQQzFQdVNWYzdLb2FOX0pHMkp1TzJlNWtXVEYtSDZVRjl5RVVBOThzaTd2bmwwOVY3aG5xQWw3RkExOWtaTk1GZEFBM2VBTE9WUmZKMldSclJjRzJBUFZldUw4ZlRsQ2hyT3plclpnV0thanhjTjlOLUZyYktYbmI2bmdkZlNlbTQtYVlGVWM1NDB2NNIBwgFBVV95cUxQOGdDbkdDT2Fwakc0UExYOGVocUVEM1FNdld5S1FvX3FzVVI3Ml9CYThNVmo4UGRLYTJsbVAwZ0xWZzNMcWdLLXNPWG1FVU96Nm9aNDFlQ1UyX25IbnRKaEphamIxU3pXd3VvWV9kZHhVU21Xam1NNE5NMTBUWExyR0xWR2Z2TkYxZnlBVEJCcDhxVG5nLTJram05V0dVNHphaUNiRU9IQzMtaFN5c0c1SEQ5a0JrQnV4UVU3OHRzbExFUQ?oc=5",
-        "date": "2026-08-20T11:32:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "El magnate estadounidense Harold Hamm duplica su apuesta en Vaca Muerta e invertirá US$4000 millones",
+        "description": "El magnate estadounidense Harold Hamm duplica su apuesta en Vaca Muerta e invertirá US$4000 millones La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSGQzWGdFc0MyWldmcUs5UHcybzBEekJZazdlSXNrZXVYWFlpZmxOMkhQbmpKd1lOel9hLVUtUzNXYnEzOWZRWkRGOUNNYmNmMXBpOURYWmpiV19ZbXhWSXR3ckV2YWh1ejNLaXk2SGtaelUyQzh0aGNlTUswelFWaUo4MDdBdmdaR3h1VXNLYVZ0Zjc4WXYxVzY5bTItWlFhMjY2dHlSTDItbkthYnRHdHdhaFMxTjBLaTNwTnExVHN1Yk9pTXN2M2JKaDFMdDdPUDJKQVU0b2MtV1l1TGV6TUg0dw?oc=5",
+        "date": "2026-08-20T13:29:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "El \"Rey del Fracking\" va por más en Vaca Muerta y suma como socios a Mercuria y José Luis Manzano",
+        "description": "El \"Rey del Fracking\" va por más en Vaca Muerta y suma como socios a Mercuria y José Luis Manzano Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUpFUTRDQy1SQ3BEVEZTMVhDQ2wyWGxENDRwcl82d3VaTEVBWVoyT2g5cVBYTXo3cFNRbVpBcWV0QV81RkRZUDdybEVlYXRwNjNEX0JDMXZMLU93YWUteS0zMHNRX3hjT1B5QjRMMjRQT29rUW10M25NbFQ4ajN3WVFaWHZlNS0wSlVPT3NtY0k2WTdJQ054WEE5V0pNczUyMEdwcHpOUUZ2UVY2VXdRNERMRjFQV294Rm42N3hRS2toTUE?oc=5",
+        "date": "2026-08-20T13:56:25+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Continental Resources compra un 50% de Phoenix y crea una plataforma conjunta con Mercuria para desarrollar nuevas áreas en Vaca Muerta",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXR6c2QwTVh5aFZqWkNVczAwVVlxelNzVmhTUTYyUUVKYUpIWmhMUlNhV0RFTmlTTmplM3FmVHYxZ0YyZFV5YkJkVlBPRVM4UVdlSlNDRlJwbjFKREJHUHk2S0QyYmF1czVDU0pyQWFIUXI0R25URFRqS2xBeW1PbXlaSmR2M2REQlhpb3I3T1BLLTFYamxIb3NJcmd3cjNmbTQ5YVFkRQ?oc=5",
         "date": "2026-08-20T11:41:26+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "El “rey del fracking” compró una compañía clave que opera en Vaca Muerta y planea inversiones por USD 4.000 en cinco años",
-        "description": "El “rey del fracking” compró una compañía clave que opera en Vaca Muerta y planea inversiones por USD 4.000 en cinco años Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUFp3QmRvMl91QjJyNlhITmhRZkVBT0FVbXRlVy1FTGJfTjJ5UFRWbkdIUWkwNGI2QXFnMWRHV05yOG9tYVJDNy1aRWxnVmtsRm1raDJROTJ6bnhzZmlPX21XaTdzMENwbUlrdXhILXNKcV9mUEJiTVRqS2NzZHg2bVlYQ0hKR0xLeXJtNmt0UUx0UnRiQk1CQURxSDFjZXJBenZReVk0eDlWQXpLZ21iZ2J5X3pFSU9KMFZaQmQ2Q3JBV045ZW5uemVKalRzMFNvNTZOeGlldWJkcmU2RXBVWUdYcXB3UTIxczM5NFVqREwtUmN1ZUHSAZACQVVfeXFMTXZ6U0lLeWxtcTlDNFhUdmR2M0FLSmZadnRfRTVydW1DcFp0SC1LYjFERWo5U3hiajBnYTdNczBXaXZrNHJzQ1FxNXkyaDFEV0VreFhFZU9nUTI0Z180ZFpfbWhhS0ZjVW05WGxQMVhHVHRKWmx6VmphQXB4MmFIY1ZHZ1BvSHE1NXF2bF9ISEFoRjRyMnJFc01nelVOaWtpaUxsa0owSlZ2RlNoS2h6UkNHWjY0eG96eXhZbUpCcG5nUFZwbnVsT1ZtczNLZ0lOLWlMcFFKeWRqbHN5ekc0WHZ4RFZDbzlGSG9YbEhjblVDSC1JS1pPME1Uc0dNMmJ0QUxRUm5XQWVJMk9LajlhTXg?oc=5",
-        "date": "2026-08-20T12:28:43+00:00",
-        "source": "Infobae"
       }
     ]
   }
