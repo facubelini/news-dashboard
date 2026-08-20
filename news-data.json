@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-20T14:29:53Z",
+  "updated_at": "2026-08-20T15:27:16Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Lo que faltaba: Microsoft rompe Windows Defender, el antivirus nativo de Windows 11",
-        "description": "Lo que faltaba: Microsoft rompe Windows Defender, el antivirus nativo de Windows 11 Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1F2OTFiYjlMVlhDU1l4SGdhUkxHR29Zalg3MGJZRFJFV1dOeHlTdld3N0x6ZlJ4TzRoN0N5bjBhcE9iZEdzZXRyT1pRRm15YTcyNHlPOTB3SUp3MmRWWFFWaW51OFhBb0MzNlpiNUNYU3IzekNUTUlSX2p0eVA3UEtiVGVVc3NkQ0RRMUZCTEJiQQ?oc=5",
-        "date": "2026-08-19T17:24:48+00:00",
-        "source": "Hipertextual"
-      },
       {
         "title": "Microsoft revela una forma más inteligente y más rápida de desplegar actualizaciones de Windows en las empresas",
         "description": "Microsoft revela una forma más inteligente y más rápida de desplegar actualizaciones de Windows en las empresas Infobae",
@@ -29,6 +22,13 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdnBaX0JXZDdBaUZFaEcyc0lUZlB3OGRqTFVsS240TlVSbU83aGtwQkV6LVU3eDJrSGt0SWNYQldyWW9YUklNYTlEei0wb2VNNlBnOFhUdW42Wjd4MzFYaHVxanpxcU9mRWlMZlpDRXBSenpidGhOcjVRWEtUZjcxaGFjSDBaQmFuUUF4b3poQkhrU3RXZ2FXcVlqbFRjcnZlaEp2N09kc3JIXzJvZFZta0hRNFFmMDZzM1RiRERWR1pyVHBsRlFYd295STZoN3RjaG8wSlpjVzNpdWxlUlRaS0UtX0p6N2M5?oc=5",
         "date": "2026-08-20T10:33:53+00:00",
         "source": "Notimérica"
+      },
+      {
+        "title": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento",
+        "description": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemZNNlJRTnpLVkdrOUZxMmFjSDQ0ZnFjeG02TWM3U2JrMEo0eFM5NWJGMWNvdFNTTjNqU1BFRE11WUU2dnNselNvWkF1b2hLU3RjTXN1dE9oSTB6SFlMWU1reWxuWnR3OC03Ry1fWnlYd2JzTUsxc2JmbWYwb3ZHU1ZqaVdLR01Ob2VQVHZIb0RYNzU1aUY4OHl4SXRPNFhjaVJXcVFKVmtwMDlHQ0EzOEVMN0hJeUFtSV9kMmhSYUJiRE9JYUdF?oc=5",
+        "date": "2026-08-19T13:54:16+00:00",
+        "source": "MuyComputer"
       },
       {
         "title": "¿Podría Microsoft lanzar una placa de expansión para convertir un PC en Xbox Project Helix?",
@@ -96,11 +96,11 @@
         "source": "Vía País"
       },
       {
-        "title": "Marketing",
-        "description": "Marketing Entre Ríos Ahora",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzYTQ1MHN4bmVEaFg3UVVrRnRMY1l5U3FHc3lET1FDRTZIOEdRWkZuUVRUeE1zdlhCU3hDTE5LTlNJdndfN21UYVpqR3JHMkMz?oc=5",
-        "date": "2026-08-19T16:09:48+00:00",
-        "source": "Entre Ríos Ahora"
+        "title": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad",
+        "description": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad En Linea Noticias",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkRvZDVZT00yX0xNcWNhSjBEM2dtRmZkT1lGeUNtVXc1UzQxMzRfeXk2UXlLSVZtTlBUWGV5SDNfcTRNSmRPVlhDZkFjWVV3SDRKeXdRaEVobkFEdk1jNFFYSDVxSnIxcUJrdi05cm00U29SRjBMQWNzTTUxbnpxWDlmNFlWdVFYbHhGQ3dXSjBNa09MV29WMWdoUzJfdjlqbE1DM0stVHVacXdYUWJzOW4xWm1hYUNX?oc=5",
+        "date": "2026-08-18T01:03:21+00:00",
+        "source": "En Linea Noticias"
       }
     ],
     "IA": [
@@ -122,15 +122,15 @@
         "title": "Uno de cada dos expertos en recursos humanos utiliza IA para seleccionar personal: cómo conviene armar un currículum",
         "description": "Uno de cada dos expertos en recursos humanos utiliza IA para seleccionar personal: cómo conviene armar un currículum Infobae",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeXpKT1BPRTFkbzRfczkzMWtndTIyYU15ckpOSmg1UFFXRTZxVHJpeDRlcDA0enlMa2MwMkFHOEZ0MDBUdGR5T29NcEQ5X3dRQjZ2ejdQWkFrVjcyUHEyVnVpTjhJX253WHlydjVPblVjU0ZacFZPMVF4U1Y3c1UzeVVkekJmV0g5MjF2Z1FWTndFZWpGWDBnTkUxc0pDaFFPbkVEX3FjQUNxd0M2VXJEQXpvWXRsQmQyQzV1Um9yMG9lRHBGR1YxMFBfclp0QjlFcFhsem5xb0d5SnptYVk2UEFwR2JncWNGMDJkNzcxMHdNd9IBjAJBVV95cUxOQy1ibTRGQlZiWE0wYnV3eGY3MkJJWHdnWTdMdkpMUi01WDJySjVrZWFxMFNjUmZHTWVYZVZ0OFhZVW56VmR1N19XTXQtRXljYWtoUlcxRzFwd2dXRllXTVVWbHdjTkRpdzZZSlhlNjlXOUNERWM2c0pFZVh6UU8yNS1NUWFrZ0RFNjZ1MnVQaDZxNnY5alhPcG9OWFlLOTk4RXM3UnNmd01uVlVES1NxM01FUEJmRjJCc2UtU0JWZ3pxVy1YemZLNGdNVVpJZUl5VUU4bXFhYXRWcmpfSXJzV0V1M1R2U3ZrckRISXhQMHdReDdDQW5qUGd1Z1E0U3RMcWpBd3I5QllPcWx5?oc=5",
-        "date": "2026-08-20T12:15:16+00:00",
+        "date": "2026-08-20T13:09:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Inteligencia artificial en la salud argentina: el desafío de innovar sin deshumanizar la atención - TN",
-        "description": "Inteligencia artificial en la salud argentina: el desafío de innovar sin deshumanizar la atención TN",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVNVcXg5WWFRQXUzZnVXc3Z1WXBEbVhMWVMxdV9HM0pmWmpRS1g5UG9jWldCZkViOHMzUnhwYlBmc19MRFRpT2xTOU1mcnZoYXJCeEJHb1N5SzVxSFBodmxpMWM5d3czNGVkV0RZN00yTS1IV0pPUjBFRDZmVWswTmlCZjlzekdHZ2J5TDk2Qk9JNW14TFBiRm9EY2dfcWFLUlVWdGJ2ZXZhNGhWS0JMMkFQSG1vQ1oyQ0tTeHZSTTl4RGZQbzNBZVNwTHVRdy11dE8xRW5UeTZKd9IB7gFBVV95cUxNZWZ4TFk3MDZvcFVvTm1SNDNaRmw0elp3aUtQcnZGeVIzR1VCMkxTRWZ3ZmlTTFRmZFotODQ0UERkbklnbDBtSkdnWkM1eVVJdERLbjNpU25NdVRSTlZYY2RtcWpKUjVUemlHYmkxcUlSLWtDalZIT3ZBOEo2WWx5SGFPenpCY29xUlg1VkV6MGMyS0xweVFPSk92bVJ2VmJLSzhhLUVIR2xfYVFKMFpUal9DaGpkV1FpNDFWLV9EdUt5SV8xYWtKbWFvTmVON0VvTlEwSmpUb0hqY3Y5V21hTXBzVENwZUlNVXo0OTBR?oc=5",
-        "date": "2026-08-20T08:32:00+00:00",
-        "source": "TN"
+        "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
+        "description": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres) EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeUNyMFB3Vm9lU3Z4MXY2SGJJeGItU3F5NTJVZUlYQ3N6d05EWkRQSTl0NThTVDhVYzlnQ2pjUXNHZE1uajQyUlZ6YlNsbGFudkx3XzlBcF91ZmNVZ2N1NlNSMy1jU0VRQmJPRFBYakJJTjA1d1oyX0lJS196MkRRb2MySWpjUFlTQksyeG01SF96MGphaTktaWpXVjBfUGtLUzhIaFNRWFRCdnBlLVhKZnI1Znk3Tmk3cTVYYml5VGpPcFlRWVhlZU9MbnB6M2tRaEJGTNIB6AFBVV95cUxNZm1oUHNGNmFrRFNpM0JUZVFucDdnN0pEQldpcGg0LXBvVXNvQ2F2OUx1d3lYWGZtMDhhdE1XNjl2d215ZVYxaW1qU1pYRlBIVlFfbG80WGwxM2ZlajdJdkI0RElPWUk2WUhuWS1iZ3hYZHpSeHNmdWM4WG9hM0FueThzZ29KeFdaNVFiaDRwSXFaUmVMaGpabU41cUlleGlsWHR5Y2FKc1YzWmprMm1GZ3E0ckhsbDVyQVpFZFgxUm1PSGhSRGVfWUx0RmlKbjZWdzl5OGRNVk9oOV8yMm5VMnhaanlwX29r?oc=5",
+        "date": "2026-08-20T05:30:00+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "Bahía Blanca será sede del Primer Congreso sobre Inteligencia Artificial aplicada a la producción",
@@ -163,18 +163,18 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Neuquén recibió ofertas por 8 nuevas áreas de Vaca Muerta: cuáles son y quiénes integran las empresas interesadas",
-        "description": "Neuquén recibió ofertas por 8 nuevas áreas de Vaca Muerta: cuáles son y quiénes integran las empresas interesadas Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWWFfR201M3JmR0l5NXFFcU9kX0VWampOa3BYZkFaY2lSTTNTZzY1QWhZNnZONHhYLTBWcGJYZjVGNDFLNXFBR3NmeEVQZ21IeEE3U3RMamN3NmNRakNDTkg4N0xaMkJfOUZ6ZlZORDlYMUxsS3RWVUtpZzAyRmZnRmVhN0l3MWl6enZXeHRBeTRXV1VhMVNwS0FpN3NzanN4dGExYVNOUENZMy1YTDB4REZxRlFHc2NXQ203VDVscFRxYThDUno1Vmpna0ozbS1QU3NDWmhVZUNKQ0hWU1ZIQ3dtcW4tV2h6SkdtUGpn0gH2AUFVX3lxTFBybnNMNjVxd2dBaWl1Vk14R0Y2WDUteWJFSC1YMEVrYzc4SWE0RjRFZkswRW9BVW12Ym8xd0pUeGVGYWE4UldNN3dKem90NThFVFV0WkJrS0VsLWtmNDU2aWVtc2pGRFBibU1vdWJLR095bnpadk1odU5Oc25jYnFEek40OXJnM3U0RXdwbGZpNUlSX09IVkpBNy1hOGJCV0d5eHBQY3RlRklUbFp2WmhZR3ItMWtRSnF0Ym84cW50WEtQTl9haUFWQVM3YThXa2xzM1J1aWhicjBvLTIyXy1ZVEJmZEdWU2czcTFnODlMYlN1cGhHQQ?oc=5",
-        "date": "2026-08-19T22:29:09+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
         "title": "Neuquén licitó 15 áreas de Vaca Muerta, exigió más regalías y hubo sorpresas entre los interesados",
         "description": "Neuquén licitó 15 áreas de Vaca Muerta, exigió más regalías y hubo sorpresas entre los interesados Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN205YWxwSjN3OHBiSm5WMUZEaThzdkw4OGVzVm1NX0VBZXFadHc3LV9WeU05LTlkbDdTaVdSa0pob2E5UlJKTElUUVpmMnNoWUN1RWJMMUZPLWVBTHB2RFYyM2g5VTUxVW9JSHpOZ25IbVptTnBzazc5bk4yLVRsSlM3RHBETmg2cnlfVE9aRmtLVkhhX2FxOUxSRjFmT2hvTzJlNlNYcHo2ZnpVVVFDYmdmeExsRE8za0dpSDJ1QUs?oc=5",
         "date": "2026-08-19T22:23:57+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Vaca Muerta: cuáles son las 10 ofertas que compiten por 8 áreas de GyP",
+        "description": "Vaca Muerta: cuáles son las 10 ofertas que compiten por 8 áreas de GyP Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFI5Wjlza1VQdWMwQW9paDI0VFltQU1yX0xQMmdUNjltV1I1UXhwSkxEMHpVZTdKQy1zeWY1VGR4azA4M2R5U0pyWVhUWGdyZW9JSmMtUHZ2Z2ZpS2F1RGl0YnhjdXZ2MERHX3Z0VXM0cHJSQWdMT003dTByZ1FLZ0o1UF9DZlAtOFFVaWZUaFJ6dWMzbkt1WF9vQl9QMjTSAaQBQVVfeXFMT3BPTzd3R2t6Y1BvUnh1NDNsS0NocEIxSVRPQkNyVUJnTHBRWlNpSGN1dWFKWVBQUFE0WEsweFFJUHdHbWxud3JwSWJlN1NrVnkzT2xVMUhMVHBRMkNwOTVtVlZYc2NqUERhejVyMUtzc1dSanlFYWJjbFR0NU5waHR6MGVUMUNuX0JuYmM4TnNZdGZnWU50SEJ6TmFUTTRuYWVQMVU?oc=5",
+        "date": "2026-08-19T21:14:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Ni Vaca Muerta, ni el agro, ni la minería: cuál es el sector de la economía argentina más competitivo, según The Economist",
@@ -198,11 +198,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Continental Resources compra un 50% de Phoenix y crea una plataforma conjunta con Mercuria para desarrollar nuevas áreas en Vaca Muerta",
-        "description": "Continental Resources compra un 50% de Phoenix y crea una plataforma conjunta con Mercuria para desarrollar nuevas áreas en Vaca Muerta econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXR6c2QwTVh5aFZqWkNVczAwVVlxelNzVmhTUTYyUUVKYUpIWmhMUlNhV0RFTmlTTmplM3FmVHYxZ0YyZFV5YkJkVlBPRVM4UVdlSlNDRlJwbjFKREJHUHk2S0QyYmF1czVDU0pyQWFIUXI0R25URFRqS2xBeW1PbXlaSmR2M2REQlhpb3I3T1BLLTFYamxIb3NJcmd3cjNmbTQ5YVFkRQ?oc=5",
-        "date": "2026-08-20T11:41:26+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Continental Resources compra el 50% de Phoenix y arma un gigante en Vaca Muerta",
+        "description": "Continental Resources compra el 50% de Phoenix y arma un gigante en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVhlZmxIRHk0bHUyT3JEdklfcWhrT2M3UGZQd3E4U0cwa011aHZPWHlQQzFQdVNWYzdLb2FOX0pHMkp1TzJlNWtXVEYtSDZVRjl5RVVBOThzaTd2bmwwOVY3aG5xQWw3RkExOWtaTk1GZEFBM2VBTE9WUmZKMldSclJjRzJBUFZldUw4ZlRsQ2hyT3plclpnV0thanhjTjlOLUZyYktYbmI2bmdkZlNlbTQtYVlGVWM1NDB2NNIBwgFBVV95cUxQOGdDbkdDT2Fwakc0UExYOGVocUVEM1FNdld5S1FvX3FzVVI3Ml9CYThNVmo4UGRLYTJsbVAwZ0xWZzNMcWdLLXNPWG1FVU96Nm9aNDFlQ1UyX25IbnRKaEphamIxU3pXd3VvWV9kZHhVU21Xam1NNE5NMTBUWExyR0xWR2Z2TkYxZnlBVEJCcDhxVG5nLTJram05V0dVNHphaUNiRU9IQzMtaFN5c0c1SEQ5a0JrQnV4UVU3OHRzbExFUQ?oc=5",
+        "date": "2026-08-20T11:32:00+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
