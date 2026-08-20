@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-20T22:20:40Z",
+  "updated_at": "2026-08-20T23:19:59Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Australia obliga a Google, Meta y Microsoft a pagarles a los medios de comunicación por usar sus contenidos",
+        "description": "Australia obliga a Google, Meta y Microsoft a pagarles a los medios de comunicación por usar sus contenidos Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3F6X21DUzVTNUJkQjRhbDhvQ1ZLa19JOHFncjhmQWVyVEFEYnZmMnhNSkRsXzVob01lelI5WEptamFBSUFNZ3pFcUFHYmZkNFF3MkhtZkxjbU9YcVN2MnVWV1VzWVFsdUE2dVprUHI4aWNGOWl0dHJMaGg5MERHMG5lYm9US2g5ZXdNM3RhTVRELXJ4QW92WDJYRzU3VjdmS2VteURHRXpfUEh5QWMxbFhhT25sRUZYdFBZTnE1dmZUUHRVZ1QzbFFmNDJXQQ?oc=5",
+        "date": "2026-08-20T20:20:51+00:00",
+        "source": "Clarin.com"
+      },
       {
         "title": "Microsoft revela una forma más inteligente y más rápida de desplegar actualizaciones de Windows en las empresas",
         "description": "Microsoft revela una forma más inteligente y más rápida de desplegar actualizaciones de Windows en las empresas Infobae",
@@ -15,6 +22,13 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDJxTkx2eTZGdU1DMXhLOVpYbVBFdzhoaW9GeWRhclNRNjZTOFB0d2wzTEJneXI2cUtLQVhZQjFIWS1saDdwbGIydE9QLVZlNHJjMW5McEhUYXRwODYtVmZJTkhUbHYzcmpvdEc3VVZvSkFHSGlSZDF6QWpGMjRQd2g5Tm9wMUtHbFFUT04tRXRNMXh6dFZVRDNMZDQ5X3YtcU5j?oc=5",
         "date": "2026-08-20T18:51:52+00:00",
         "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Microsoft reconoció que una actualización de Windows de agosto podría provocar problemas en los videojuegos. ¿Qué hacer entonces? - TN",
+        "description": "Microsoft reconoció que una actualización de Windows de agosto podría provocar problemas en los videojuegos. ¿Qué hacer entonces? TN",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNGhCNVhOUnh3Ni04Tk0wZVVfaE5lN2poa19GaGwwYnFUaDZXRzJMNXBnS1RocTBkRVRfVVhyQjJaX1BzWmV1Q1B1V0J3VGlDRmVsLWJSTmhYdV9tcnBUWnlvbHRHb1d6Tkt4LW5NZmVjMmFDVFVhc1p1T0ZuZjN6dnlidVItMFlfTGFOM28wR2hEN3hFS0ZEcDRvZEpRT2ZfYTNyZy05Ym1sd0hycGd1SGFOY2pIZUk0MWRMYnlQUXNtbDEtN0w1a3ktWllrTlI2Z25PaG9pR0NfLUFhQUp6dTRTZF9lUGU5Zl8xbkN2MlJ0VmpEVjE5T3J4U2JkMjhSZUHSAZYCQVVfeXFMUGtmZ1A0UkZHWjI2MEVjRmYteHp5V3hnd1R5cjF6VlNrdFR2U1NveEFoUk5oNzhFOVRLZi1MbE5iNkdGSl95UDZrZ1hOTy1ZdExVcDB4SU16S0NCRk0ybXNHVm52R3hWcmNQMkNqbEx0Z3VURkljVURIaTZuQ0p3b3NfQUZOaXRmMjBGTEM5WEZMTlJhSUpReUhIMW5XcG50YWVDU1V6c0hjMFdVYzFKalJ5SmpHRHY0b0tWdmJIS0VTN2xZRHZQQm02dlgzcGxTVUUxaGQ5NVUtY1Y1YmhYSmR5M25mNUY1bVFZYUQyRTNzRjhvRXdTN2ExM1ZHVzdNTjhraHFYRjY4djNMWk42SWp2RlNRUHc?oc=5",
+        "date": "2026-08-20T23:06:54+00:00",
+        "source": "TN"
       },
       {
         "title": "\"Trabajé en algo que no debería\". El director de uno de los grandes fracasos de XBOX asume responsabilidades y agradece a Microsoft su último gesto",
@@ -31,28 +45,21 @@
         "source": "Notimérica"
       },
       {
-        "title": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento",
-        "description": "La última actualización de Microsoft Defender provoca fallos graves en su funcionamiento MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemZNNlJRTnpLVkdrOUZxMmFjSDQ0ZnFjeG02TWM3U2JrMEo0eFM5NWJGMWNvdFNTTjNqU1BFRE11WUU2dnNselNvWkF1b2hLU3RjTXN1dE9oSTB6SFlMWU1reWxuWnR3OC03Ry1fWnlYd2JzTUsxc2JmbWYwb3ZHU1ZqaVdLR01Ob2VQVHZIb0RYNzU1aUY4OHl4SXRPNFhjaVJXcVFKVmtwMDlHQ0EzOEVMN0hJeUFtSV9kMmhSYUJiRE9JYUdF?oc=5",
-        "date": "2026-08-19T13:54:16+00:00",
-        "source": "MuyComputer"
-      },
-      {
         "title": "¿Podría Microsoft lanzar una placa de expansión para convertir un PC en Xbox Project Helix?",
         "description": "¿Podría Microsoft lanzar una placa de expansión para convertir un PC en Xbox Project Helix? Noticias 3D",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXpVRDRpQVpNVXFiUm1vUE9KeGlORjBrUWJKbFJqSGN4UW9hRHJsZ2ZxdnlsdFViMUxxODRXdUI1c01oOTlnbkVkb3BsSWluSWktcFpTbG5CT09EdEF2M2RNQlNuQ3p1REJ6dUM0Q2NIcTM1dmhoT0FXNHF4b0p2YUE1b3dPMGRkUWtVbw?oc=5",
         "date": "2026-08-19T15:41:42+00:00",
         "source": "Noticias 3D"
-      },
-      {
-        "title": "Un ejecutivo de Microsoft fue asesinado frente a su hija: así comenzó el crimen que tardó cuatro años en llegar a juicio",
-        "description": "Un ejecutivo de Microsoft fue asesinado frente a su hija: así comenzó el crimen que tardó cuatro años en llegar a juicio Univision",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLVN5TzJRWDE3UUtmZkM5cmNnY3FoTzZKTlVCY0c3U0hSbk5kbmtxV0VESkN6YnBmNWdKbkRSaV9xY0U5ejdoV1VXQThReE9YN0JzRGZsSU4zVzE3bFp1RG9YaTYxYTlDSkhoQmJUZjdLdmJwYWZyN0pSSjBGeEJON1VFd0l4VXNEaFVlNmJhSlRKX3hkVkVBWjFTdXhmRkY0WTh2OG1QQWRtZ2ltN1FPQzRDN3JtTmpqV0FtR2NIQVk1bUR1cVhyYlFYUkh2WTNHblJ3ejVaSnl0WFNHUFAwbjVXRzI4dVloQmdFN3dsa28weV9xNEgwNFlKNXNaZw?oc=5",
-        "date": "2026-08-18T02:47:53+00:00",
-        "source": "Univision"
       }
     ],
     "Marketing": [
+      {
+        "title": "Una nueva etapa para ChatGPT La incorporación de publicidad representa un cambio importante en el modelo de negocio de ChatGPT. OpenAI sostiene que los anuncios permitirán mantener un mayor acceso a sus herramientas sin que todos los usuarios t",
+        "description": "Una nueva etapa para ChatGPT La incorporación de publicidad representa un cambio importante en el modelo de negocio de ChatGPT. OpenAI sostiene que los anuncios permitirán mantener un mayor acceso a sus herramientas sin que todos los usuarios t instagram.com",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKTHZmcG55TnFKQkw0eTZQOGdhV0NRc1YyaXdrakJTNkxPUk9MNnE0d3JqOEZkZDRiMl9aOWJLT2tSTXItc2h3aThuZ0NzZmdSMHc?oc=5",
+        "date": "2026-08-20T22:30:31+00:00",
+        "source": "instagram.com"
+      },
       {
         "title": "Nueva Diplomatura en Comunicación y Marketing Digital",
         "description": "Nueva Diplomatura en Comunicación y Marketing Digital ChavesDigital",
@@ -91,39 +98,18 @@
       {
         "title": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital",
         "description": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital Vía País",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlVKZjFOZUxmOEpfRHh0NklmSDJkd0NaMGEwaC1qZWN4azlwaVhaakNpMGRxMkhiQzdxaDRTWk9WWXV0bEliaDc5eG1LWDJjU2NBVzAzTGV3b1BOTEZxMFdDZHZLcDlwXzhjRnVjZmlxN0g0YUw2X2JNOUQ4d0k4cERYMXhMOENfa2lkcERrODdBQ2Z5dFFZMFBzdFdQb1VhNUZVY0hnSE1IV0x0MzhYUWZENFhhMF95SER3OXVzZ2JXVGtr?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTmQ4aXBqVXRVanNoSWI0ZExEZzZjZl9SZDJpOGZzckNBN09MZGxKUnlwTWNJWlZyXzBPQVVqRDZfWW1EaDJROEpJYTB2RVVaR2hOdFBfT2pnaDhfaGxIU2g2d0lLclU5QXRvYnpLVlRvUFNnNmtwUlViV1dKZ2M0d0lCRFZsZVQ2N0FzQ0twbWg5Zlo3UVJKYm9ycEljcm4zUi13emRxa1M2elBVV21HYUo2YjRyMk1LemFtVlJBcVRjSnQtRE9YUmJvRlBSM29IbVhpUWNkX2g4QWxQRjllaUV1bW9DVkIxRTFmV0ZKdjdwOW9JV0N5and3bUZkcEUtdWFzbDh1a1RtdFhjSHRiVkZiMnc1Si04Z2ZvaFpObjdKVDhZbUZoTXJJa0oyOENJa2hRT05pdVZ4YmZvb3liclpyV2Z0VGN3eDZ3N3FHaDA?oc=5",
         "date": "2026-08-18T22:49:00+00:00",
         "source": "Vía País"
-      },
-      {
-        "title": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad",
-        "description": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad En Linea Noticias",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkRvZDVZT00yX0xNcWNhSjBEM2dtRmZkT1lGeUNtVXc1UzQxMzRfeXk2UXlLSVZtTlBUWGV5SDNfcTRNSmRPVlhDZkFjWVV3SDRKeXdRaEVobkFEdk1jNFFYSDVxSnIxcUJrdi05cm00U29SRjBMQWNzTTUxbnpxWDlmNFlWdVFYbHhGQ3dXSjBNa09MV29WMWdoUzJfdjlqbE1DM0stVHVacXdYUWJzOW4xWm1hYUNX?oc=5",
-        "date": "2026-08-18T01:03:21+00:00",
-        "source": "En Linea Noticias"
       }
     ],
     "IA": [
       {
-        "title": "Científicos crean un índice para medir la incertidumbre de la población - Clone",
-        "description": "Científicos crean un índice para medir la incertidumbre de la población - Clone Página|12",
+        "title": "Científicos crean un índice para medir la incertidumbre de la población",
+        "description": "Científicos crean un índice para medir la incertidumbre de la población Página|12",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVTdDSjY0bjhGSXc1SkNFRFZSNGxZWUVLNlBUQTZ2RDNTQXpDLWVtTGRIYWN0RmRwRnV1bm04aVpqV1lkal9FN0IyUkptUmxUUUctMVg2Zmd1ck9ncjdXQ3BtOUNJVzZ1U2ZuY05GNnFoMC1kd3lTQV9vd20yWDRaY3BnOHZTRFhGSHk5cHF4NHhxcEhFeUs1MU44WTdtWHlaRjdlbXg0STFyVkZrcUZpSWN3S25WeFpy?oc=5",
         "date": "2026-08-20T21:06:00+00:00",
         "source": "Página|12"
-      },
-      {
-        "title": "RDC: La Unión Europea prepara un ambicioso plan para desarrollar infraestructura propia de inteligencia artifi...",
-        "description": "RDC: La Unión Europea prepara un ambicioso plan para desarrollar infraestructura propia de inteligencia artifi... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbWQ2ZkdMWDhhdmVGTF9iOUZ2djNmTjVGVWxpQXN1YW84cmRDMjAzQ0lzYl9HajNXQzItVkNhYm1kOXNrOUZKMmZOcmlIOWtON2FrUVJZdmltTGZBX3hEaU4xa3pObnVEZW84V0tubFpnTDMtdFNGVTd3MEZpQkdUSTFfRXEzQW53b0FKUHB1M1lkeVFqX2ZpZktiMGpaWFl6THQ0Z05fVnpHTGpBTVVUaXliNWpCT1pWc3U4dWg4WXFDd0t0UFQtMXpyYjJvT2NPVnFLOEt1TkpSRXZ3enZPMDRJN0hsbVNWY0NuOTVDWUtBSjTSAfgBQVVfeXFMTlNJc3dYVFFDLXNCVzZCbGtyaWhVbVNjeG9zZ1ZMV094bXhjSDFMbmFVNnFuSFM2MDVwM0p2TXZRQlRoS19kcWhwczhUTjhFNmE2RlUzSTBuLTFCY2E4SFBHWmxhWW4yakVyQXFDWEpnaDRGVEJaX0d5TlRZTnZvYzRKbllGaW5pNWpYZ0ozekhZZ1lILVI3aWRleGoyQWdmSTFfOTBtWU1Wd0NfUnRZWG4yRVBIbXlEWklqazRzWVIzV1NhSmpab0t5M0V4MmprOXQzX1cyc19PdEgyeEpIb0ZEYkJDZEc4MEh4cGRoYXo0WFQzM2U1bTI?oc=5",
-        "date": "2026-08-20T21:49:20+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "¿Ventaja o peligro? Ahora la IA de Claude puede responder tus emails sin que le des permiso - TN",
-        "description": "¿Ventaja o peligro? Ahora la IA de Claude puede responder tus emails sin que le des permiso TN",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGx0Qmo1aC1jUW5FVmpudXBEVVlxY1Q5SU1CcG9GZ0J3VVR5VHZsSlAxODFnQkhjMDdoY0sxa24zUks0UW5mSERsUS0tRUxjb29SdEZGd2FiOWZCalhmQ2ZFSXkycmNJa293UGRlZnhIMU5YS05sUVdndlJfQVlOc01raTZDTHFBb0hzTXp0UVZUOFloQWVCMkJtMUFzMUs0WUh2RFU0bWZqOUp3NWZZZGFkNThFZGNvMFNMeXZ2c0FabFlPVHZkQ2ZZd1JPZG5R0gHkAUFVX3lxTFB0Y2ZKS0J0TkU0Zy0zekViOWplWF81X3d0ZFpsV0pfMXkwVXl6S2dTai1rWnc1VVV4VHpud3h0SFhWa1ZpNElIQ0g3MFE0OTZBUXg0Z00xdGxhNmpkUWdaSEp1RHJuUFNaY0tyb1RKMHpDQU9zR3ZwdURBQjR0Sm1Za21yb25KSzRvN1RPX2otTmFyZUlLRXhZdzMwaDZKaFQ2aElBMVBNemFPTWtOYTdwUllIVVFTeVdlUlNoM01DOU9tbGJLMXhBOEdPci1ENUphYjNsd2R3NW9HR3k1ZHdtMnZXRQ?oc=5",
-        "date": "2026-08-20T21:22:21+00:00",
-        "source": "TN"
       },
       {
         "title": "Presentamos Consultor IA: una nueva forma de resolver consultas profesionales con inteligencia artificial",
@@ -140,6 +126,20 @@
         "source": "Infobae"
       },
       {
+        "title": "Cómo la inteligencia artificial habría descubierto que la junta médica analizó por error estudios del padre de Diego Maradona - TN",
+        "description": "Cómo la inteligencia artificial habría descubierto que la junta médica analizó por error estudios del padre de Diego Maradona TN",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU0Fxek02Q3I3SUkydVNNQjRMY3dWbExtY0QwM2lVT0VjM1NlX05EZzdJellnRThBOVFFT1JCVGQtNXJQS3E0OERzbC04RHp1bGVaUFVIbkpmeldnY1VzanFMNWYwcmZtNFBYUmVjNHV4djNhRzlxWkJ3QUIzWm44S2Y1YzRYcU81dThWMUZaT1hvUElPSFEycTk5UEMzQjA2eVhRUG9MaXE2SHplTXZoX0pvMVJZenBSV2JqdFpaWjZDbjF1UDg0U0ZCR1BQTzJLWWozOWo3cFFsanlTMjZiOFZJS0pQUnEwU09FdGpETDdHNEVqSl9aU3YwaW81Tm840gGUAkFVX3lxTFBSM1B0cHpuN1R3NlVOOC1YSzMzdmVVRHpLejhQaVdaSDgtNXlpT0M2WWplVWphWWV0UURZWkZfY3hydjZldUt1V1QzakdRdVQtZTNabUU4V0t3aEZHeGpEZ19iQXJRbXFNVUZjWmNyOWtRNllwNzlFYXRGNnN0a29FeDZfeU05bjV2bDdwNmZ2SzhpSVRPaldldW9LUzVib1RZOVRBT1hQYWhrcWd2WlhIOVBqeFp6N2tlWFNnVURTb09qYlF5am9saWtMQkJxeWxsY3YwcXI0eEFvRGgwaVNKeWYwdldWcjA3T0RLRXpoNHVSVkx2UFJ2Sm96enNIN3VLT0xDNXBHR3QwSUFKejIwWWk4Rg?oc=5",
+        "date": "2026-08-20T16:26:34+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "RDC: La Unión Europea prepara un ambicioso plan para desarrollar infraestructura propia de inteligencia artifi...",
+        "description": "RDC: La Unión Europea prepara un ambicioso plan para desarrollar infraestructura propia de inteligencia artifi... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbWQ2ZkdMWDhhdmVGTF9iOUZ2djNmTjVGVWxpQXN1YW84cmRDMjAzQ0lzYl9HajNXQzItVkNhYm1kOXNrOUZKMmZOcmlIOWtON2FrUVJZdmltTGZBX3hEaU4xa3pObnVEZW84V0tubFpnTDMtdFNGVTd3MEZpQkdUSTFfRXEzQW53b0FKUHB1M1lkeVFqX2ZpZktiMGpaWFl6THQ0Z05fVnpHTGpBTVVUaXliNWpCT1pWc3U4dWg4WXFDd0t0UFQtMXpyYjJvT2NPVnFLOEt1TkpSRXZ3enZPMDRJN0hsbVNWY0NuOTVDWUtBSjTSAfgBQVVfeXFMTlNJc3dYVFFDLXNCVzZCbGtyaWhVbVNjeG9zZ1ZMV094bXhjSDFMbmFVNnFuSFM2MDVwM0p2TXZRQlRoS19kcWhwczhUTjhFNmE2RlUzSTBuLTFCY2E4SFBHWmxhWW4yakVyQXFDWEpnaDRGVEJaX0d5TlRZTnZvYzRKbllGaW5pNWpYZ0ozekhZZ1lILVI3aWRleGoyQWdmSTFfOTBtWU1Wd0NfUnRZWG4yRVBIbXlEWklqazRzWVIzV1NhSmpab0t5M0V4MmprOXQzX1cyc19PdEgyeEpIb0ZEYkJDZEc4MEh4cGRoYXo0WFQzM2U1bTI?oc=5",
+        "date": "2026-08-20T21:49:20+00:00",
+        "source": "Perfil"
+      },
+      {
         "title": "Tecnomoda se consolidó como el lugar de encuentro de marcas y referentes de la moda y la tecnología",
         "description": "Tecnomoda se consolidó como el lugar de encuentro de marcas y referentes de la moda y la tecnología Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObC01dVh1VGRvV1pyVGk4TWt0dURkbGp4enVQcVl3NlJjWUFLb05FSXJsVThtc09QVk9xYnVQeHR6YjhJZFFTMzY4QXYzVnVmRm5YMGZDV3RlZURFbGNLUjFGZ0NKdlNENGp0aHJab3Axb19DNi1lcF9LYTRQZ2k3ZDVTTnRrdGF1Zl9NSFRrcG52Rk9uS2VwMzEzYVdFcUI3VXBaUkZkdW9hSlFFQXBrV2lBVm5ZRHZ6UUIzaTEtONIBxAFBVV95cUxQM3NleXp6TER0NHUzM0pJX0p0ZGFQMEFuVThYc25IdlRndGJpUi1LT0p6VEU2M1hqNlJLSjVyRmdoaHVhMi1UX2Z6Tm8tRlAtdHJUdzFSMU8zeVRPeGV6MDVHOE03akN0bjhIRXM3WEhyM3FmUWx3VzBtWUI3SGRVVzBJTjd0QUU3WnRqRWV1MWl0VUtLU0VQZ0xPR3E2MkVTOXZIUnhTT1pfOTVKalFCdXFkSC1Oam1oZWpTNXNsS2NoTmk5?oc=5",
@@ -147,34 +147,34 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
-        "description": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres) EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeUNyMFB3Vm9lU3Z4MXY2SGJJeGItU3F5NTJVZUlYQ3N6d05EWkRQSTl0NThTVDhVYzlnQ2pjUXNHZE1uajQyUlZ6YlNsbGFudkx3XzlBcF91ZmNVZ2N1NlNSMy1jU0VRQmJPRFBYakJJTjA1d1oyX0lJS196MkRRb2MySWpjUFlTQksyeG01SF96MGphaTktaWpXVjBfUGtLUzhIaFNRWFRCdnBlLVhKZnI1Znk3Tmk3cTVYYml5VGpPcFlRWVhlZU9MbnB6M2tRaEJGTNIB6AFBVV95cUxNZm1oUHNGNmFrRFNpM0JUZVFucDdnN0pEQldpcGg0LXBvVXNvQ2F2OUx1d3lYWGZtMDhhdE1XNjl2d215ZVYxaW1qU1pYRlBIVlFfbG80WGwxM2ZlajdJdkI0RElPWUk2WUhuWS1iZ3hYZHpSeHNmdWM4WG9hM0FueThzZ29KeFdaNVFiaDRwSXFaUmVMaGpabU41cUlleGlsWHR5Y2FKc1YzWmprMm1GZ3E0ckhsbDVyQVpFZFgxUm1PSGhSRGVfWUx0RmlKbjZWdzl5OGRNVk9oOV8yMm5VMnhaanlwX29r?oc=5",
-        "date": "2026-08-20T05:30:00+00:00",
-        "source": "EL PAÍS"
+        "title": "Meta se convierte en uno de los mayores clientes de inteligencia artificial de Microsoft",
+        "description": "Meta se convierte en uno de los mayores clientes de inteligencia artificial de Microsoft Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDJxTkx2eTZGdU1DMXhLOVpYbVBFdzhoaW9GeWRhclNRNjZTOFB0d2wzTEJneXI2cUtLQVhZQjFIWS1saDdwbGIydE9QLVZlNHJjMW5McEhUYXRwODYtVmZJTkhUbHYzcmpvdEc3VVZvSkFHSGlSZDF6QWpGMjRQd2g5Tm9wMUtHbFFUT04tRXRNMXh6dFZVRDNMZDQ5X3YtcU5j?oc=5",
+        "date": "2026-08-20T18:51:52+00:00",
+        "source": "Yahoo Finanzas"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Continental Resources compra un 50% de Phoenix y crea una plataforma conjunta con Mercuria para desarrollar nuevas áreas en Vaca Muerta",
-        "description": "Continental Resources compra un 50% de Phoenix y crea una plataforma conjunta con Mercuria para desarrollar nuevas áreas en Vaca Muerta econojournal.com.ar El magnate estadounidense Harold Hamm duplica su apuesta en Vaca Muerta e invertirá US$4000 millones La Nación El \"Rey del…",
+        "description": "Continental Resources compra un 50% de Phoenix y crea una plataforma conjunta con Mercuria para desarrollar nuevas áreas en Vaca Muerta econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXR6c2QwTVh5aFZqWkNVczAwVVlxelNzVmhTUTYyUUVKYUpIWmhMUlNhV0RFTmlTTmplM3FmVHYxZ0YyZFV5YkJkVlBPRVM4UVdlSlNDRlJwbjFKREJHUHk2S0QyYmF1czVDU0pyQWFIUXI0R25URFRqS2xBeW1PbXlaSmR2M2REQlhpb3I3T1BLLTFYamxIb3NJcmd3cjNmbTQ5YVFkRQ?oc=5",
         "date": "2026-08-20T11:41:26+00:00",
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Ni Vaca Muerta, ni el agro, ni la minería: cuál es el sector de la economía argentina más competitivo, según The Economist",
-        "description": "Ni Vaca Muerta, ni el agro, ni la minería: cuál es el sector de la economía argentina más competitivo, según The Economist Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY203eEQ0WW9ubTdKUDI1bkQ2S2FtZFJqNlhZMlNNekk4Q1BXSnJhXzZxdjdfMlhIRjlCUTNlUjFjWFJqNVN1VWdUb0J2Q29mZmxxSThxM21PanZqckd2VWtoUDJTWElGbUUtSVNzVnFsVkg4TWl2ak9YYUdwNlpNUVBxYXVWZUF3c2hkMTY0cG1waGgyN1ZJUk1uTlFNaG4tVHFtdV94MFUtUlV3TEVjSlZYbGhUczBEVGlPSVM4TXdQZXpjc19hU0MyUkZrbTFvQV9jZ3U2cnBjREptSWFaZm9xRnBfVzdLWFdiNDZYQy03ZlBE0gGPAkFVX3lxTE5FN1Vqb0tSc21rMEtidGNIWU1PcDVlYUxJdXlPbnRrNXVOeG1FWFdjaVZxclNhdFhFb3NNR0szLVlYLWZFZUt6aHVwTWl4ZGt5M3EzOFdyeWdUaXRnY3N4Sk1SQ1I2NUc2VnVqTkJfOUV2a2RSeVY5Y0lSUjdIbUpwYWk5dmV1Z1Rya1VzTE9Jd3J5emZpQ3V4MzRzbzFqd1FYREJ0bjJ0anpPT280bmVXUHpsSjBIb2ZHc1pPMHFubkktVjZMeGE4ZTV1dkVfRG8yMHIyZUtZYWs1eTYyRC15ZU1WVnpVT0dsZjFxTHJOUEQxZWFFWFM1V2VsZUppMEliQkpRUWxlOVNtcEpKVlU?oc=5",
-        "date": "2026-08-19T21:23:34+00:00",
-        "source": "Infobae"
+        "title": "Continental Resources compra el 50% de Phoenix y arma un gigante en Vaca Muerta",
+        "description": "Continental Resources compra el 50% de Phoenix y arma un gigante en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaVhlZmxIRHk0bHUyT3JEdklfcWhrT2M3UGZQd3E4U0cwa011aHZPWHlQQzFQdVNWYzdLb2FOX0pHMkp1TzJlNWtXVEYtSDZVRjl5RVVBOThzaTd2bmwwOVY3aG5xQWw3RkExOWtaTk1GZEFBM2VBTE9WUmZKMldSclJjRzJBUFZldUw4ZlRsQ2hyT3plclpnV0thanhjTjlOLUZyYktYbmI2bmdkZlNlbTQtYVlGVWM1NDB2NNIBwgFBVV95cUxQOGdDbkdDT2Fwakc0UExYOGVocUVEM1FNdld5S1FvX3FzVVI3Ml9CYThNVmo4UGRLYTJsbVAwZ0xWZzNMcWdLLXNPWG1FVU96Nm9aNDFlQ1UyX25IbnRKaEphamIxU3pXd3VvWV9kZHhVU21Xam1NNE5NMTBUWExyR0xWR2Z2TkYxZnlBVEJCcDhxVG5nLTJram05V0dVNHphaUNiRU9IQzMtaFN5c0c1SEQ5a0JrQnV4UVU3OHRzbExFUQ?oc=5",
+        "date": "2026-08-20T11:32:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
-        "title": "Las monoboyas del VMOS cruzaron Ormuz y avanzan hacia Río Negro",
-        "description": "Las monoboyas del VMOS cruzaron Ormuz y avanzan hacia Río Negro Gobierno de Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXBQTlNsNC1kWEctRXF1SjYwaG9WN3pSNU9XT0RhMWloTDdYUkdheUhXYnBIZElfWDRYZ05UMGlxLWR3ei1UclRVUGdpYmVOTDVBN3Jzd0NBUW5GRHJlMTAweVN1Z1pkWmx2bkpGdEZVdXJMYnU4cGtBUWIxQzRzRGQ5bW43Tks1QUVSSVZMMkhYUGU1MC1UblBDQkVqb3dtamFidzQxNzgwUEFENzBGeUtwb1JjUQ?oc=5",
-        "date": "2026-08-20T21:04:09+00:00",
-        "source": "Gobierno de Río Negro"
+        "title": "El magnate estadounidense Harold Hamm duplica su apuesta en Vaca Muerta e invertirá US$4000 millones",
+        "description": "El magnate estadounidense Harold Hamm duplica su apuesta en Vaca Muerta e invertirá US$4000 millones La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSGQzWGdFc0MyWldmcUs5UHcybzBEekJZazdlSXNrZXVYWFlpZmxOMkhQbmpKd1lOel9hLVUtUzNXYnEzOWZRWkRGOUNNYmNmMXBpOURYWmpiV19ZbXhWSXR3ckV2YWh1ejNLaXk2SGtaelUyQzh0aGNlTUswelFWaUo4MDdBdmdaR3h1VXNLYVZ0Zjc4WXYxVzY5bTItWlFhMjY2dHlSTDItbkthYnRHdHdhaFMxTjBLaTNwTnExVHN1Yk9pTXN2M2JKaDFMdDdPUDJKQVU0b2MtV1l1TGV6TUg0dw?oc=5",
+        "date": "2026-08-20T13:29:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Vaca Muerta: el Gobierno le aprobó un RIGI de USD 6.400 millones a la petrolera de Paolo Rocca",
@@ -184,11 +184,11 @@
         "source": "Infobae"
       },
       {
-        "title": "RIGI: se aprobó un nuevo proyecto en Vaca Muerta y la inversión comprometida superará los US$6000 millones - TN",
-        "description": "RIGI: se aprobó un nuevo proyecto en Vaca Muerta y la inversión comprometida superará los US$6000 millones TN",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVBCWTM4UXh6QVJYSUw0YXRxSm1hYU5IVUstbV9ZRlNHOFZPbmtMaVcyMTYtNG1walZCTlBrMy13UXlOQVhVc3F5OVd1QnVjVy1VXzNSbE9xdUl1bUpEVFVfZE1kYWpRYk1EWXUtTkFpR0tCMGQtT25Zakh6Vnd5cV9LdF90QnNUZHJwc2R4dUt5MkV6aVlMaXR0bVFrdUpONl93VUFVOHJ5M0pMdjRmclY5QlZIbzZlN215T29xcDBBd2lmTWh2R0F3N0o0U19mb3hsMncwejJkQ3PSAe8BQVVfeXFMUHNiRFp2d09GbFhJc1pEU3VBTk5GOWtsckRteWh0WlNrMjZpd0pFamlwNTdIOGhjdEtVZ2VrYW1rMF9xa1VueUtlZ1RQejI3MC1uenAxY3JvMUJjNGVGUG9JOVRDSU5ONExyVEZfcU5SeXRvVTB2LXhUZXFxMm52VnVDSTJKNnhmZFY1U1N6cW1zSmFKaVYzclB1WXNuZU85RUZER3Z4dERqWkN2UHpUZ0l1SU56UTh4LWxtT2M5OWFXZ2VIVGUtWHRyMFN0UnhnMlV3S0dFYjNrc0pwb3BxSEh2aWhKM21GNHRPQmlXWTg?oc=5",
-        "date": "2026-08-19T20:49:45+00:00",
-        "source": "TN"
+        "title": "El Gobierno aprobó el proyecto de Tecpetrol bajo el RIGI y habilitó una inversión millonaria en Vaca Muerta",
+        "description": "El Gobierno aprobó el proyecto de Tecpetrol bajo el RIGI y habilitó una inversión millonaria en Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWGVISDhOdkNPM1EyV0l0MHk5bHJ5RXAwaHA1cWJuTlRJay1qTFYyOUV3Z04yeTJxVkRNa1F5OEcxb1ctdFNTY09jWFgycExQUUdpSDlBSGtZR2ljcnhoMGFKZlNsSnpEeU5RZXhKY29abmMzM3V6bmN2NUdMcFMxVGRpZXVrOGR4c2pIX0pnNUUwdGFRclVscUs1MjRPajlvbENwT0h0Q1pudXZGSmlsRk1pUEtua3BhbmcySGJqRUE2VDBPZ3l3SmVuZGVtT2FaVzdkTl9zbTloZlEtcHlmWm9jQUYwTVnSAe8BQVVfeXFMTmdJQ0NMektZRU5RX0FGaHgyVnlkX00wQWZRQkxVVzByZ2MwTkowcGtLWU90Mkl4SzlaLTZBeld5Si1zbzBlRGlwQnk4VlJNR0s5bjNwalJ1RUU2LTBEX3hpYmtVZ0pEUnExMVhNaDlxYkR4SnNBdU9KNTJTZUVfM1pvTlRiRHpSMUs2b2RyaFF6ZUl2cUh3MTZ1TUV0YXg5N3ZPSFk1LUQ0bHp3enE2N3pSRmRxcjFxMjF1Sks1ZFBsNzdzMEhhMG1uc0dLMTlsMXYzWjNvMWkxNEJRLVlsOUtXeDMyV2ppMGZCdnBJME0?oc=5",
+        "date": "2026-08-19T23:02:32+00:00",
+        "source": "Diario Río Negro"
       },
       {
         "title": "Otro RIGI para Vaca Muerta: el Gobierno aprobó una inversión de u$s6.400 millones",
@@ -198,11 +198,11 @@
         "source": "Ambito"
       },
       {
-        "title": "RIGI y Vaca Muerta: las inversiones que pueden sostener el superávit energético hasta 2030",
-        "description": "RIGI y Vaca Muerta: las inversiones que pueden sostener el superávit energético hasta 2030 Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVlLZVhGZElibHg2NlVabmxwdGNwYnVyeDgtYzNpWmlFMThwX3dsQ1VzdnUxWEIzM1ZyRVY3UjBBd3FzTm1ydjFTc0ZIOHJjUjN6NTBZZ1NrWnI4Q0J3MlFSUk5BYTdJUmdZSTNrZU9rMlA3b0JQN0JJOFljc1pMcHdudVM5amNnWHNzbWRDTVJYRnVkM3RzUkpGNUJlTVpqSno5QUVZM0ZvMnBGYTZBY1Z4YTZhTXZLS3NscFNjdXQ5aXBmcWlBZ0QzNNIB0AFBVV95cUxOejliOWtrVElkMFZLMjdYSEVhSlRMcnJsdTJ6YW5LNi1qU0JkcUdWd19sNGYtNkYxT0oyRmN6VjlaNGhyMVY1bXdSZ2t4Z3M4dFJKcHdKTnpubGdncndSRmJ6Y0t6UVBqd0M3UjkyQmkxUmdFWGw4OFBmMVpvY0VfUDd6a3ROQTFBOUZrS3FYSEJOT0RTQXhrcWxtVjYyNG9ZRTZDZF91dE5qbTN2Y0d1UlJSWlcwQjlyZVZqVjRqRi0wQWFGOWRDZzN2SUR1VWNi?oc=5",
-        "date": "2026-08-19T21:27:24+00:00",
-        "source": "Perfil"
+        "title": "Las exportaciones de petróleo saltaron 144% en julio y el superávit energético acumuló USD 6.853 millones en el año",
+        "description": "Las exportaciones de petróleo saltaron 144% en julio y el superávit energético acumuló USD 6.853 millones en el año Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRW1hZVlBaS1MR005N3VQWWhNYkJOd19nZTd5LUxFNFV3WXRtM3Z5NERGREZ5VFpvOXI2ekgwN1RQSHB1bnBERFYzQmJMb2VxZzNrOF9yaXlzQVAyVUFDREFjY09SY2Q2TzM1Y01tYmFCeGsydUhDNHVRLWk2OGI1MzFKalVra3ZMTTIxRjN3QVB4a21nZHVsQmZuejZwZWNfY2YyVkt6d19LV0dFNEljdXMxMmROa2djNGx2LVVUM2lKMGQ4LUdfUWNsMDBMS09BbXIxTmNVV0pabTRsZ2RZY0xGaHZGeU1rbWxCcXFwQdIBigJBVV95cUxNcnJnNjJUM3prV3hjWlZHbGg1MGt6LVBMcklJbUlzVktqM2dlWlRoSVRDWVVPd1BJd3E1MDV0dkpzSWV0NmJzSTZORGFhZE5yMVV0N1htcHVEQUdqS0E1cWlYQ1VLamJFMW5tcU8wS0p0bm1WQ1hFMl9hNTlEZWdaM2lWbDRjUXlZSW8yelEydjE2ZDFjcWhOOFlVaU5iX3ZVSDRUOHFMTDhHR2tYUE9iZVg4V1ZrejAtek1hRzhfNF9wU0Zwd2Zic3hSa0ZlcW5ZWS15emM3SzhaNXVIOEcxU1NaMUlDeGFtRGszMUJYczRKTnRVVmNXaEdURnlaa1FDUTgyazliQzdMQQ?oc=5",
+        "date": "2026-08-20T22:57:23+00:00",
+        "source": "Infobae"
       }
     ]
   }
