@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:31:44Z",
+  "updated_at": "2026-08-21T05:26:30Z",
   "categories": {
     "Microsoft": [
       {
@@ -54,13 +54,6 @@
     ],
     "Marketing": [
       {
-        "title": "Una nueva etapa para ChatGPT La incorporación de publicidad representa un cambio importante en el modelo de negocio de ChatGPT. OpenAI sostiene que los anuncios permitirán mantener un mayor acceso a sus herramientas sin que todos los usuarios t",
-        "description": "Una nueva etapa para ChatGPT La incorporación de publicidad representa un cambio importante en el modelo de negocio de ChatGPT. OpenAI sostiene que los anuncios permitirán mantener un mayor acceso a sus herramientas sin que todos los usuarios t instagram.com",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKTHZmcG55TnFKQkw0eTZQOGdhV0NRc1YyaXdrakJTNkxPUk9MNnE0d3JqOEZkZDRiMl9aOWJLT2tSTXItc2h3aThuZ0NzZmdSMHc?oc=5",
-        "date": "2026-08-20T22:30:31+00:00",
-        "source": "instagram.com"
-      },
-      {
         "title": "Nueva Diplomatura en Comunicación y Marketing Digital",
         "description": "Nueva Diplomatura en Comunicación y Marketing Digital ChavesDigital",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkVLYzJGZ09KSmVTU2hjZEVSWGQtM1RJUk8zUXBsTTNHbm4xMDRmdVQyckJEYVh1SEpLMjItQ01DcUJxQUZSU1dFWmRjd19FSWIxck13a3BKVGxCMHk5d0RLWU83M3lBVnByMFd3eW9EN2lYUXozRF90cllEb3ZPMTJibnZ4a1NNTXVn?oc=5",
@@ -89,34 +82,41 @@
         "source": "ungs.edu.ar"
       },
       {
-        "title": "Llega eCommerce Day Argentina",
-        "description": "Llega eCommerce Day Argentina LatinSpots.com",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NWDdPSlJMQnVEcWlRb2c3UUFpQXZubFYxZU94QTlmSkh6bDJKakdXTVo0Z2xlbzNUdGUwRG5JV1RwX1liNFBpWTYtdm5ZdXgwNG81dVhkZ3pyUm1sTXRlVTNrbVFaaHhHY2c5Ny11NHBlY3FlcFR3WnV3?oc=5",
-        "date": "2026-08-20T06:02:10+00:00",
-        "source": "LatinSpots.com"
-      },
-      {
         "title": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital",
         "description": "Chaves Municipio ofrece una nueva Diplomatura en Comunicación y Marketing Digital Vía País",
         "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTmQ4aXBqVXRVanNoSWI0ZExEZzZjZl9SZDJpOGZzckNBN09MZGxKUnlwTWNJWlZyXzBPQVVqRDZfWW1EaDJROEpJYTB2RVVaR2hOdFBfT2pnaDhfaGxIU2g2d0lLclU5QXRvYnpLVlRvUFNnNmtwUlViV1dKZ2M0d0lCRFZsZVQ2N0FzQ0twbWg5Zlo3UVJKYm9ycEljcm4zUi13emRxa1M2elBVV21HYUo2YjRyMk1LemFtVlJBcVRjSnQtRE9YUmJvRlBSM29IbVhpUWNkX2g4QWxQRjllaUV1bW9DVkIxRTFmV0ZKdjdwOW9JV0N5and3bUZkcEUtdWFzbDh1a1RtdFhjSHRiVkZiMnc1Si04Z2ZvaFpObjdKVDhZbUZoTXJJa0oyOENJa2hRT05pdVZ4YmZvb3liclpyV2Z0VGN3eDZ3N3FHaDA?oc=5",
         "date": "2026-08-18T22:49:00+00:00",
         "source": "Vía País"
+      },
+      {
+        "title": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad",
+        "description": "Tarjetas virtuales para marketing digital: una tendencia que gana popularidad En Linea Noticias",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkRvZDVZT00yX0xNcWNhSjBEM2dtRmZkT1lGeUNtVXc1UzQxMzRfeXk2UXlLSVZtTlBUWGV5SDNfcTRNSmRPVlhDZkFjWVV3SDRKeXdRaEVobkFEdk1jNFFYSDVxSnIxcUJrdi05cm00U29SRjBMQWNzTTUxbnpxWDlmNFlWdVFYbHhGQ3dXSjBNa09MV29WMWdoUzJfdjlqbE1DM0stVHVacXdYUWJzOW4xWm1hYUNX?oc=5",
+        "date": "2026-08-18T01:03:21+00:00",
+        "source": "En Linea Noticias"
+      },
+      {
+        "title": "Llega eCommerce Day Argentina",
+        "description": "Llega eCommerce Day Argentina LatinSpots.com",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NWDdPSlJMQnVEcWlRb2c3UUFpQXZubFYxZU94QTlmSkh6bDJKakdXTVo0Z2xlbzNUdGUwRG5JV1RwX1liNFBpWTYtdm5ZdXgwNG81dVhkZ3pyUm1sTXRlVTNrbVFaaHhHY2c5Ny11NHBlY3FlcFR3WnV3?oc=5",
+        "date": "2026-08-20T06:02:10+00:00",
+        "source": "LatinSpots.com"
       }
     ],
     "IA": [
+      {
+        "title": "Entre la IA y el empleo: TecPrize 2026 pone el foco en la brecha de habilidades de América Latina",
+        "description": "Entre la IA y el empleo: TecPrize 2026 pone el foco en la brecha de habilidades de América Latina Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTVZeERWbi1JeGhfcXlBYVM5Qy1DTGt4blRESEcya0VRT2d3Y0JCVzJDZnpUQjBNdEk0ODZOZ3VFdjQzeVhNU0pHUDA3Zzd6QjctMEgyQmJZMzY4NE4wOHI2eTZoakdRR2hTcVV5ZG84RzBiS1RyelBfb1NWd1J3aUt1bF81c1NuSERpeWNCRFBVTEt0VHNqMG10M3lCWkdrQ2pOS1oxVkh5Wmk5T2w0N0RobUlKUFN2SFdlRWF6dWpOc3Q3NndFcjRjWm41YlpxWFN1NWdjRDBMQdIB9AFBVV95cUxQQlRJQWo1ekhkSEpfa0xfZWszS19wMkJEdmVhV1R0ZnZaNkxmYml2c3RFeVd6YWotckRERmJPRHZfSWFDcXl4VzdPOFpCMGdMYjBGOC1vRmFqUEVTbVRTRkN5azAyT3YyeFJEby1mTlNNQS1oMTRHZHFWem9LYmVtcEdhWklPOEdGdDh4TWhLdHhhMWs4Y1ZBRjloTDN6Tzc0dnJUZlFURUpKYWdwYTRfbF8tUGJGRHd1MVNDSTRmT29RZ0lUemphaTlwSnNPUUh6TTZBcFdUVnduSWNmckR4YmdkOGJsVlFOOFY5M0tNYVM5clNy?oc=5",
+        "date": "2026-08-21T04:32:44+00:00",
+        "source": "Infobae"
+      },
       {
         "title": "Presentamos Consultor IA: una nueva forma de resolver consultas profesionales con inteligencia artificial",
         "description": "Presentamos Consultor IA: una nueva forma de resolver consultas profesionales con inteligencia artificial Errepar",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd1B1X1I4RlRVWTFxWVFUZkV0WlZoM1FNSVBzZklQa2ZqSHpmM2prcXJNWXM5NFp6a203M0loVld6OXhWWVFZSkRXbWpXT1VqY2s5SFJxWXppZ1VFRFYwSTNHbXhaM29kZWhvcTVYYmtOZ0VsU3NtREZNazl4Q1U1S0FWb0c4aDFlUW41cnFpZmo0TnlJenAySmoyaml2WHpPWkZKX0U5UUFFLXZlWEROSkxKTnpJN1pISDU5bVo0dTN0MXFnb1hCOGNWSkl4RGJFT1M1LVpwVkc5cEM1d0xtUEE1aFFpOGs?oc=5",
         "date": "2026-08-19T21:49:19+00:00",
         "source": "Errepar"
-      },
-      {
-        "title": "Mercedes Miguel, ministra de Educación de CABA: “La inteligencia artificial está impactando en el aula, los chicos vienen con la tarea perfecta”",
-        "description": "Mercedes Miguel, ministra de Educación de CABA: “La inteligencia artificial está impactando en el aula, los chicos vienen con la tarea perfecta” Infobae",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdFhEMk5GTHJUeVRjODNTc25oemxTNy1GUnE1UzNhWkQzeWZxZ2hXakFJbGJpaEd6a012eV9ZR3lWOGc4dXJoQWlRZmRFZWdzZVN1bkpyRk54Qk9WcHpwOUVUY0JDdllhS0txdmtZTTEwMTZsX19SZGVMY3RfZTFKbWkxSkVCWmxRa3N0YWNuVERmWFotZjhXT1dYY3hoWmpJX1ZHSi0zUHU2M2NxMzlkUENiOGZYRXFpdUN0UklkRG9temdlQzQ5U2FMNXlRY2NTRlB0NmY4YVBOS3NxNnBQc0RibXZDTDBEaWFpR04xcXZFSW9QZlNzd2tTWi1DMGFHTElpdjNNeWRiUUZSM3BndUR30gGsAkFVX3lxTFBLWnpVSHdLTk1KTjdoOUFKYkd1MWE0aERBdTlEcGVzeklhVHVVbUhoekh2eEcxNzdyY0dNczJBWENYNTVhWVRUd29kbG9RUmFSaFNSZGJybEp3cWwxZzdZQWVpSlNnVnVPMWZGeFZYMEZKM3FWcGxQcXNBZ1ZOdmU0cEpfZS03MGdoTFlmcFdOYjhUb29LdGJSWnl5Rzg1SWFra2lCS1pXeDlEakMtMGI2RW9MWGhaWnE2ZmxJNmZnTms4UWNHREwwakZFcHVjd2lHN1E4N0tNRW83SDE1elBVbHpmQW13TEt0QlB0VDRNUUFBeVpxOHlyYWFYZXl6SEhjOVlmemwxTHp2UXVpM2t6WU8tanpleDNZY0FEU1JCNFN2S21HSFppSGdWWA?oc=5",
-        "date": "2026-08-20T14:34:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Cómo la inteligencia artificial habría descubierto que la junta médica analizó por error estudios del padre de Diego Maradona - TN",
