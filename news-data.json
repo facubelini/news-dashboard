@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-08-21T23:17:26Z",
+  "updated_at": "2026-08-22T00:54:25Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Australia obliga a Google, Meta y Microsoft a pagarles a los medios de comunicación por usar sus contenidos",
-        "description": "Australia obliga a Google, Meta y Microsoft a pagarles a los medios de comunicación por usar sus contenidos Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3F6X21DUzVTNUJkQjRhbDhvQ1ZLa19JOHFncjhmQWVyVEFEYnZmMnhNSkRsXzVob01lelI5WEptamFBSUFNZ3pFcUFHYmZkNFF3MkhtZkxjbU9YcVN2MnVWV1VzWVFsdUE2dVprUHI4aWNGOWl0dHJMaGg5MERHMG5lYm9US2g5ZXdNM3RhTVRELXJ4QW92WDJYRzU3VjdmS2VteURHRXpfUEh5QWMxbFhhT25sRUZYdFBZTnE1dmZUUHRVZ1QzbFFmNDJXQQ?oc=5",
-        "date": "2026-08-20T20:20:51+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "En Australia, Google, Meta, TikTok y Microsoft deberán pagarles a los medios por usar sus contenidos",
-        "description": "En Australia, Google, Meta, TikTok y Microsoft deberán pagarles a los medios por usar sus contenidos Los Andes",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLWtDVjlQeGp4MTZheDFwRUJtSEphT0xUTURFYmZ5ZlJYS2dnWGlld0Z1UGxKd3lpeHphZnlJV1dfNy1CRGZHdlFBcEZpSm13OEsxX05TcHlUc2hFejk1VGV4QUpfcUVxWGtTb1M4UlFtQzBYUGM4cm5lVFBpS1pValVvVEs3OU5QWGRacTNtQncwNlpkUnhqcV9rdVYxRllnTGJVa1M0cTFZOGphVkJmcEtINGJQaHJYTFByc01qR2txQmdRaXF3N0FxSlJQeXc?oc=5",
-        "date": "2026-08-21T13:15:00+00:00",
-        "source": "Los Andes"
-      },
       {
         "title": "Australia obliga a Google, Meta y Microsoft a pagarle a los medios por el uso de sus contenidos",
         "description": "Australia obliga a Google, Meta y Microsoft a pagarle a los medios por el uso de sus contenidos La Voz del Interior",
@@ -50,6 +36,20 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDJxTkx2eTZGdU1DMXhLOVpYbVBFdzhoaW9GeWRhclNRNjZTOFB0d2wzTEJneXI2cUtLQVhZQjFIWS1saDdwbGIydE9QLVZlNHJjMW5McEhUYXRwODYtVmZJTkhUbHYzcmpvdEc3VVZvSkFHSGlSZDF6QWpGMjRQd2g5Tm9wMUtHbFFUT04tRXRNMXh6dFZVRDNMZDQ5X3YtcU5j?oc=5",
         "date": "2026-08-20T18:51:52+00:00",
         "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Rockstar guarda silencio, pero ya ha presentado citaciones judiciales a Microsoft y Discord para dar caza al filtrador de GTA 6",
+        "description": "Rockstar guarda silencio, pero ya ha presentado citaciones judiciales a Microsoft y Discord para dar caza al filtrador de GTA 6 VidaExtra",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPamI0WUk4cUlqZ0pzOU1FNXp6MWQ4UDEzVjJHUEdISGE3RUZaTG1tT0g2OUtPRHdwTVY5Z3BNZ19Xa3NHZXRraFpVRURtbEhLTDNhdTRad1lmNW95VVVOZHcwcUVvdko1bXhIZEVpTGR3cnktdWI5ZFdEd25rRU1SZXcyTFNwTWRHbFZwNk1HYVg5Tlp0MXdoUkpYTW1LekZJUWFuMlJnengwVUdubk5meDlHVG5NcDQwdnFXb2dCeGdiZjktUUg4YzdZMTB0cFM0bmpLdkd0aWpVTkpqSi1N?oc=5",
+        "date": "2026-08-21T14:25:46+00:00",
+        "source": "VidaExtra"
+      },
+      {
+        "title": "En Australia, Google, Meta, TikTok y Microsoft deberán pagarles a los medios por usar sus contenidos",
+        "description": "En Australia, Google, Meta, TikTok y Microsoft deberán pagarles a los medios por usar sus contenidos Los Andes",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLWtDVjlQeGp4MTZheDFwRUJtSEphT0xUTURFYmZ5ZlJYS2dnWGlld0Z1UGxKd3lpeHphZnlJV1dfNy1CRGZHdlFBcEZpSm13OEsxX05TcHlUc2hFejk1VGV4QUpfcUVxWGtTb1M4UlFtQzBYUGM4cm5lVFBpS1pValVvVEs3OU5QWGRacTNtQncwNlpkUnhqcV9rdVYxRllnTGJVa1M0cTFZOGphVkJmcEtINGJQaHJYTFByc01qR2txQmdRaXF3N0FxSlJQeXc?oc=5",
+        "date": "2026-08-21T13:15:00+00:00",
+        "source": "Los Andes"
       }
     ],
     "Marketing": [
@@ -105,11 +105,11 @@
     ],
     "IA": [
       {
-        "title": "Wayla presentó su modelo IA Nativo para transformar la industria de las asistencias",
-        "description": "Wayla presentó su modelo IA Nativo para transformar la industria de las asistencias 100% seguro",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTM3QzRWNS0wN01fbjdzajB4Smg5b0lYdUpVWGVNSEttQXdsTldBckFtNlROUmRIbHRrMzdGUTh5RExUc0xjSV91SWQycURBeDViVElva2dnVUdFSnJXVUJ4X21HVUFCMkpRVG1rMjhKMjBrTkhOQWlGcVhaWFRfWFJqTG4tRWNOcTBveWtzckxDQ19mR0p0VGdTNGI4TTJiZWJMR3FQdnpYWlN2VXc?oc=5",
-        "date": "2026-08-21T21:42:05+00:00",
-        "source": "100% seguro"
+        "title": "Las empresas de Asia Central y el Cáucaso adoptan IA al doble de ritmo que la media global",
+        "description": "Las empresas de Asia Central y el Cáucaso adoptan IA al doble de ritmo que la media global Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdEFRNU04elJDLU5FelRZb2VtZS1qZE1ZSnJLU1hiLVVLRFpqSDhxM0FXeGdXWWVZZDBjRUY5ME93MjhsQ01EblpyU0tVd3BLNjJlVDRQZzBLbmhYM0t3eTFnUXNYMlFGRGRTUEdqc3U0VHhvdmpRLUh2NnMySkZxZzU4WU53M1pJVWZ5T0hJaklYcDhla0txWjVGbmpFX0ZERjNOWGxoVEhVWjZ0YllITWFrYUhGdlJOak1RUTJWWEFmZFltdkJqX2V3?oc=5",
+        "date": "2026-08-22T00:29:01+00:00",
+        "source": "Euronews.com"
       },
       {
         "title": "El Papa: el mundo no necesita una inteligencia artificial que disminuya la humanidad",
@@ -133,13 +133,6 @@
         "source": "Página|12"
       },
       {
-        "title": "Más que un modelo: Nvidia muestra como una buena arquitectura puede multiplicar las capacidades de la IA",
-        "description": "Más que un modelo: Nvidia muestra como una buena arquitectura puede multiplicar las capacidades de la IA La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGQwdFpxN3JpR2xqY001anQya25jMFN4V3FFQnR3bjVHM182RFhGLXl1NExZNndtT2stOWt6b0VTcTZpcXRvaTd5eXkwellxYmFSLUtpSHo1MGxRZi0wZXFEem1wcklOb2tjQ1JlS3M4S1pHUHJMcjNsanFKakxXWjlwNVdoekdFcmZaWWpmYURqRFJCMUt2RmEtUHA1bkxIUExldGxtZlpyeHNYSm9ZenlGcHpSaGVLOUpxR3VxdDRUZ01zaUE?oc=5",
-        "date": "2026-08-21T22:58:52+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
         "title": "Internet ya no se escribe solo: la inteligencia artificial está detrás de 1 de cada 3 textos nuevos",
         "description": "Internet ya no se escribe solo: la inteligencia artificial está detrás de 1 de cada 3 textos nuevos Infobae",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd29FbV83QUY4RHJJeElLS2VILXM5aTYwdUV3bGE3bk9wY2FzUHBFeUR3WXA5U1BHMEFDZXEtZ3JwZ3dXTjFHdFJrdTlDX2UwYk5wbG1jakUzY3E5M0J3NlctT3BJcHVPSmt4ZXY1Qmd1OTdCMWRwUUtmaWhtbGtqdkhIY2NQakF0WVZpRkNBRkx3aTcxX2JsVDhXeE9GWURTa2w4aUp4WndmSFBuR090cHJyWUJWM0h4MVh2c2pWdUFXbjhpQk55MF9kRm9nUUxsNFVDY0pZanl5aW9GMUJ1b2hQd9IB_gFBVV95cUxNdHV6M0tBOHVEcUVEc3VQUXFZMkw0Q2tIdkZ1dlFMa0dHS25NSVVBeUU2R0RiMDV4UTlGay1JNXNJZFg4Q3laT2NWbDZtYTh2M3EtREx3TTU4SW9hSl9nUDNza0ItUW96MzlNNndXNU45WGtDdEliRDY4TG9QR29ZZElKZmMwV2NsMnNMMFhTQktxSUpRZUozMGI1MEtzbWdIam9VZWVWYjBCbTlUMnpqRDhOTWM4ZktvaXdIMlpRcHV2QUVpZVdXdmJMWGptTVA3VTRBVlEyVUN6bVJMdHUzQjZXMmw3M3RnR2tVT2w1MUU5R0ZPSXBISlVfZjNqUQ?oc=5",
@@ -152,6 +145,13 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLXF6VThpQkNUclRSclpFNDJoX1hMa2Q4Y0V5SEpRMXZzZHI4ZHE1dUFrallaaXhheUlQV0piR002SksxNDQ5VDZ6WVRGQ0lJdldST3pBSUlmNkVpTVJwRGctM1V3Z3pwWkFZZXZkQlRsYVBGVW1ENFRLWHFrdV9YQTBoTmxTQ09lYlNsQXZuU0pxNURwalR3QXFkZ1BoUG5VMlNGUldYVEtMZWJtNzN2SENPeVJjck1GVGhYLWt3dzFxbHdYOC02YlI4ZFctSG1JeHFvaDRScEdELTRNVTJsc3pn0gH2AUFVX3lxTE4zeUFrVEt6UTVpUm9oTHMtODlWczAyQ1pWVWpLV05qMU44MEllbGIwVUJzNzhFNHNVQjJISUg0cGNLbHloRkxuUGVGTm5DQm5DczktRi1weTFDbTV3d1F3el9WckJmU1JjWllGalJfYUJ5dHI4WGoyR0V3YUg1ek12OHQzZ2R3TGowbk5TMEFGNkJaY0loanFNWnUtWVhzTmppRzhGY0VNMWpZbW1pSnhRMWUyeG52ZUJiNXRPb2tMY3lnZmZFZTZ6Q0hxaEU1YUhkQnJzV1puUGIxRE4xVzNuOGpHOHVZakZFMHlHZVZ1WnVPX3FxZw?oc=5",
         "date": "2026-08-21T15:47:46+00:00",
         "source": "eldoce"
+      },
+      {
+        "title": "Presentamos Consultor IA: una nueva forma de resolver consultas profesionales con inteligencia artificial",
+        "description": "Presentamos Consultor IA: una nueva forma de resolver consultas profesionales con inteligencia artificial Errepar",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd1B1X1I4RlRVWTFxWVFUZkV0WlZoM1FNSVBzZklQa2ZqSHpmM2prcXJNWXM5NFp6a203M0loVld6OXhWWVFZSkRXbWpXT1VqY2s5SFJxWXppZ1VFRFYwSTNHbXhaM29kZWhvcTVYYmtOZ0VsU3NtREZNazl4Q1U1S0FWb0c4aDFlUW41cnFpZmo0TnlJenAySmoyaml2WHpPWkZKX0U5UUFFLXZlWEROSkxKTnpJN1pISDU5bVo0dTN0MXFnb1hCOGNWSkl4RGJFT1M1LVpwVkc5cEM1d0xtUEE1aFFpOGs?oc=5",
+        "date": "2026-08-19T21:49:19+00:00",
+        "source": "Errepar"
       }
     ],
     "Vaca Muerta": [
@@ -198,11 +198,11 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "Rolando Figueroa quiere que el gas de Vaca Muerta llegue a Chile: \"Es una decisión que deben tomar\"",
-        "description": "Rolando Figueroa quiere que el gas de Vaca Muerta llegue a Chile: \"Es una decisión que deben tomar\" Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdVZkOFllUUI1YmVHN3lvSWU1SzZubnZMWEtSY2J1c1N4eEJlVXZCcWpOSGtaNG5CUmFRYlV1NEUxYmtGQU92ZWpwS1pqMmcxNkpCcWVKakdBZERZTjlqU0lsTk9GRGZVY3VMREg1SjFoMm5URXZlUlJDSDYzMXpqRjk5YXpyeGd1dURZM1B5NjhjZ1hGdUI3anJiZHc5TVFrV00wWElWS0R4R3F4MFdKOEcwQ0tiOXNWWlM2TzJMN1ZvNGI1V1VVd0ZWYlFNY3F5MXEwb0dVTXNBQ0HSAeMBQVVfeXFMTkt4UDdHdVNEMlE5TGViV1FGUV9sM1pjY1hzbkp4OG1lZDhTd3RjUmtUQ0l0SE9HdWE1elV6NElPZzUycm9UaUpCRHdOT2tMaUZYTEtXTHAtTndUa1A4cGRKZ3AxOW1Cd2dEU3ZGVVZXT3F4bGJ1el9qWWdwRmVJRzRtcmhJODhDVnh2VHBDRmRXQUQzUGhnWXZwX2M5WTFGYXN3LXFjRUdObkc0WndfVHlWMUNiU1cwVWc0X29uVmNENW9uX2dwbmdGeTlLNUpwLUNGdWg2QlJLcldxMWlhWlQ1TXc?oc=5",
-        "date": "2026-08-20T18:16:30+00:00",
-        "source": "Diario Río Negro"
+        "title": "El gobernador de Neuquén acusó a una multinacional por sobrecostos en el transporte de gas a Chile",
+        "description": "El gobernador de Neuquén acusó a una multinacional por sobrecostos en el transporte de gas a Chile La Política Online",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb0taUjAzVEVXSVVIZUg4NU54VmNMWWgwX3hKVmJiX0NyNFVNSVdDY3dZZU1MaGtNZldFZ2VkU2FVc3ppa0dLc1dmdUR3TkZxWXlZNkx5eGYydmNXY1k4LU84TElZVWFXODdZR3hCdEVNQXdldkhmX2d1TFRXN29RcGg2SEoyMEg0ZGt4OUlPcVZ5U2Z2VlVpbzRBOXdSTV9ORTBid2ZGcjRiRWZDUHAtSUxRcjgyQ0kxVVNfRXN0UjhJaG1haHVac25aSnJrR0tvZG5vd2RxTEVMbW9VTkd6S25vN3YxSEg0a3pJ0gHbAUFVX3lxTFBPaFk1T0RYMlF3MjdvcnJYMTB5clFfRDV6YVR4bW5MT09DU05mcU5iNUdnVlBCb09IMk5UWnFPZTBuMEdjSlNjcXlxSTQ1T01ucXdBQzhMUUdHNFpSYV81OEx1RGtlZDc3aXVrVkFJWDh3b1FjVXdfQUs1bmU3NDZ0M3g0QUY2b0hlR3lFLThVLWdlUjItc1pqN1RtbEoxcjBKdVo1TVYzMHMzTFBEUVFKWVVZSlRSZ1NLWUJJVExGam9COXRFb3RDZVBPNDVYX2RVQUlPd2dhcTdwVQ?oc=5",
+        "date": "2026-08-20T23:18:25+00:00",
+        "source": "La Política Online"
       }
     ]
   }
