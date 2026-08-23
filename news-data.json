@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T17:15:03Z",
+  "updated_at": "2026-08-23T18:20:10Z",
   "categories": {
     "Microsoft": [
       {
@@ -15,13 +15,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbERLUDZtX1gtU3lVcE5mNEJTaEFGVXFwRTlEYjdYbGZXX0RPdnY4NG43WDl0dU15UlBMVGJ6VmZfOUxKVDBZOUhPUDZSYjZqUjh2YlFkZnlKdmhnTk9PNURiTFlReHZBVlVpNXQxMnJUaGZ5Rk5XVlhDbkVJd0J6RXYzb2Z0RUlETnF5ZlJBbUxBMXFiUm0zYUg3SHBUWFZZS1pjRmpTTDR5Nm8?oc=5",
         "date": "2026-08-23T06:52:25+00:00",
         "source": "Diario Norte"
-      },
-      {
-        "title": "Windows 11 cambia para siempre el menú cuando das clic derecho en tu PC: estas son las nuevas opciones",
-        "description": "Windows 11 cambia para siempre el menú cuando das clic derecho en tu PC: estas son las nuevas opciones Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOXJRNGluajdxWm5kT2R3NmdpX0VWYTFISld1RzB1SzVmdnN5bzlCNUJ4T2xielRweXhvV2NheXR1d0hDeWllc0pWWDlvSk4wTjU2VzJxaWh4T3Z0ZkhSSVE2MF9iRzViUVA5dWkyYnhmeF9qdXR6bjlYekRqdVQ5b2lOeTEtTzQ0MU9hcFFNRzltcXRacDV3QWhBNHdTYUhYRnN5MnJ0dS1GNDZRZWZvc1h4UkMxVjdESklPZzJLdnE1OVpwa1FjM1ZOeklldFp5em8zZUxmbk5JalHSAfYBQVVfeXFMTThONjNFUWk3RVlsT3MwWGJvZzFGZDZDNFNRMlN4N2EyY1Bza2w0Sy0zOHJUQ0hJVW41UVBUaEJrYXBVdDBLdU9mNXVocFFxMHVqZzF4OVplZDlVWTFjMWhGclFvQk9NalZpTnotLWJXM1pkaUpqQ1hFbHZvcjMwZEh5TDBRUExsd1FFa1BWRlJ3WEw3NzI5bFJNM0ZxTDgyaVBZbzVKZVpHUWxDVjljOFJweDNzVjJUTngxQUpOSW1BRkpfWGZpYzBfWVBpQXJIT1hPcmJVZDNvaGZlZVREeTV2bzdZTE5pREhTM3oybjhWcHlEOXlR?oc=5",
-        "date": "2026-08-23T16:49:56+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Microsoft está matando el viejo Windows Media Player para obligarte a usar una nueva app",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONER1MU5ic3BzZjVtcVcySnN1X2c3ZFE0bFQ1ZkFiYkVMaU5MRnJxQWpyZDREdFltVVItMTdWNXFNTjlJbW9xbi1PUG1WTVpuMXYzdE8tVXA2ZGVJdF8yUU5zODdqemZxZ0wtRjFVNFVPcUJzcDZWTlgxSmJVYzJmWlRlMnlKTmxxUUhQY3FIdUxrN1QwY1I2ek1QWUVIY1ZVT1JFZzhNejhTM3kyMHlmYS1sdjhlV2c30gG-AUFVX3lxTE4ySkVmWHZLb21BZ21DTVdpdTFYaDIzN0ZCVU4tZXNzcl9jWHIwaDFxeUFrX004TGlFc3FQUXptUVpnWlZCWmtHTWllREd2LUtQNk9NZVN6eFhhMkltVVh5NktzTHV4NGZWUlRkUTRuUVlXS0R3c25GUElBVl9JUEVWQnBKdER5QjIxRUtjSHlWREF3TTVZNkgxMUhQSy1ScUNwRTNnVjlMVkxhVVV6OGVsMEtaZzJ1cHVZOEdCekE?oc=5",
         "date": "2026-08-21T15:26:00+00:00",
         "source": "Somos Jujuy"
+      },
+      {
+        "title": "Take-Two toma medidas legales tras la filtración de GTA 6: Microsoft y Discord tienen que entregar información",
+        "description": "Take-Two toma medidas legales tras la filtración de GTA 6: Microsoft y Discord tienen que entregar información Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNm9CckNBM1l3aWFMaTRhRkU4bmtCUExrUy1SNmVZYWtsLTNSWWpTeGZwcTFzaHNCR1k4YXFVRmdpeTREaUc2LUh0UzZIZE1BNVQtb1ZWV292Nm1VdTY0TUhkT3ZsUi0tQjI4VXFfSnRoTjZoYUZ5N2tlV3ZNMEFtZUQ0M05MdWhadF9jZUlRcUdLUGdMLVFQWGxsN3NVWFRXQnB4bVo4QkRmVmZxNjllNGxKaEJTYVBoZ0lEYlRiWjNhLXpwY0w3aEJfdVU2djdCSlhPZXVTQkV1R2pEdTFwRGdSNDdHZ9IBgAJBVV95cUxOajBEekJKWG5jTXhxcFhLanJvVFpUbTkzOG1mZ2d0Zm1NT1pNNlVlcm1lUlo4am9PSE9xd2EyUkNtd1ROTXBZYVN4U3BXNXc3Y1U3SDVkYkJHT1ZvUkpiT0FRcm9WSUhmY0REcnpRU2ozdlk2WXAzb3VtTXZDQlRtbHJOdm5CblZ3RzRkNEJMR2RqWVI5OWN6WkZyU210bzV3NTJLU01nTWd1bkxVNGs4OWZDZXBfZmFzSHQ3SlZjdnExUVA5R0FPTmY2cnBiNHJXdmlGdVJmRVI0VkVxTE1jRkFuN1BLeHVGd1JDMFNRTW9Zb0J1bk9jd191QXF0MW5x?oc=5",
+        "date": "2026-08-22T15:39:00+00:00",
+        "source": "Infobae"
       }
     ],
     "Marketing": [
@@ -75,18 +75,18 @@
         "source": "LatinSpots.com"
       },
       {
-        "title": "Marketing digital impulsa Pymes en Latinoamérica 2026",
-        "description": "Marketing digital impulsa Pymes en Latinoamérica 2026 Reporte Asia",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzMzOUZqdTlIMUljZzBwWWtRMk10VnBVVnF0dHFzT1ZvWlZzNG5Dd0Y5MlViUGh1YVNmeXRycVVfeU5zRmRmTlV2VEM0Q2JBSmJiMkYwZzUtYU1UOTY0YlNZSlo5MHNsUnprRXBLcmpTVWZoUlNtRWFxbVVWLXV1NnZIVGdYMmxVTjV6bm9MX0JUa3llY0xqUlNWTUNEUDQ?oc=5",
-        "date": "2026-08-23T00:45:39+00:00",
-        "source": "Reporte Asia"
-      },
-      {
         "title": "Curso de Marketing Digital en Quilmes: cómo anotarse y cuáles son los requisitos",
         "description": "Curso de Marketing Digital en Quilmes: cómo anotarse y cuáles son los requisitos Crónica",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHpGVFJzRE9KN1R2YWNjazJjMlBYN2NkSG05Q1JpQVFTSFVpNDViSUFHOEdzMWZ4TklPSDhweFpLTXdYTHA3OWxIbUtlMmEzb0pERmdwUnZTWnp1S0Zvc1llLUx5ZW5BY21qWVJ1N01JM1IxeFdqVlNWS0E0VE0xNTVFUWxJazVLVERkOFpJRmFiVllMVG90cVlrcjVUUzFzYmdKTzhHZGQ2UnhyR2ZyQURaSG1oTVAyZ0w3VEFCWklsV2xQWHFz0gHMAUFVX3lxTE9Odm5jQ3dRQXJTbDFOQ0hNdDRMYW1EM3N0Z3BhOTAzTzI3U0kzLXZjaW9TbGZpSDdxTFU1U0RtM0lsV3U2bmJZYnJrVW15V0ZnNWdzNzc4cUk0ZVN2QVhpRHlSZ0hjbzkydGExLTM1d1E4eVptS3pYUVpWQXppOGtIZWNkOVN4MXRTSFpkbWNDNlVJS3FoWFJxMkV0cXI4eWxOWDJqRC1EOF9rckI5M0JCYlh4bjlWY2M3X0dSUkNkR2Z3bnl4RXpvRU1yaA?oc=5",
         "date": "2026-08-21T12:50:00+00:00",
         "source": "Crónica"
+      },
+      {
+        "title": "Marketing digital impulsa Pymes en Latinoamérica 2026",
+        "description": "Marketing digital impulsa Pymes en Latinoamérica 2026 Reporte Asia",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdzMzOUZqdTlIMUljZzBwWWtRMk10VnBVVnF0dHFzT1ZvWlZzNG5Dd0Y5MlViUGh1YVNmeXRycVVfeU5zRmRmTlV2VEM0Q2JBSmJiMkYwZzUtYU1UOTY0YlNZSlo5MHNsUnprRXBLcmpTVWZoUlNtRWFxbVVWLXV1NnZIVGdYMmxVTjV6bm9MX0JUa3llY0xqUlNWTUNEUDQ?oc=5",
+        "date": "2026-08-23T00:45:39+00:00",
+        "source": "Reporte Asia"
       },
       {
         "title": "Nueva Diplomatura en Comunicación y Marketing Digital",
@@ -163,18 +163,11 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "EE UU vuelve a presionar contra la tecnología china y pone el foco en Vaca Muerta",
-        "description": "EE UU vuelve a presionar contra la tecnología china y pone el foco en Vaca Muerta Diario El Día de La Plata EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\" Ambito Lamelas volvió a expresarse en contra del uso de tecnología china en…",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMWtZRkJqMmoxbTFhLTVJT2NlWkVQZVhnd1VpRHFXTXNVeEc0aXpCdGRZd0xsZ0FGVlZXRFFkTVZaUTZWMDcwbzViRGJnT3ZhRVFLTGFyV0tqX1JNTmRFXzRvX0wxWHJVMjNKOW9HV1FoUUNjdkZPZzBUb1N0V2xJSURLOTdKVldIWkYzdlVwbmtuNmoySE9kSXZ4NGszdGFSblUtM1hkeGtOcXdZRVJGQVdXVGVqdkYtZE5kN1NKVFFBbzJXVU1iRGNGMTcxeUFUbThmUGNtWlRGYzF0RUFPZThWWFprWXVYcnc?oc=5",
-        "date": "2026-08-23T06:41:06+00:00",
-        "source": "Diario El Día de La Plata"
-      },
-      {
-        "title": "China se consolida como proveedor de los ganadores del RIGI y deja atrás a EE.UU.",
-        "description": "China se consolida como proveedor de los ganadores del RIGI y deja atrás a EE.UU. Perfil",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmtsN3EyaFpVNWgzT2RCVHF0VTljMm5ja25HVTVWWkFsU001c2VoRWVCanBDNEd3cU1JeVNMYk1nUXRFdXhpSFBDdWJvYVRLVDBLZGpaZGZhNHgzOThSZG5ISkg0Q3JHNmtqUWtyOTBJRkVtcXZQbi1rMXFWNDJ6WmczVW9OWElFOVBacWtyRFIzRmZqSURnMlhIY0Q1d1dlUDJuUlU1ZUJiM0F6RjdSQ0RaR1hObzAwcVBPQTF1MU5YejlQ0gHKAUFVX3lxTFBkREc5bVRXU3J3ZGxvRGc4dE9STUFDbS13T2F2Y3hBaWRyWEllY09VMHNDYkdVNkwwSGVqN29mOFd6dW9QaXI3cXNPWnBVTVJYcVU5MUwxdGJ6VnJaZ0RSOFpTNFdrdWdCbGlGOTVuYUFHTDQtR3FmeVNLeGtZb3NQSHh2M0ktNjV5N1UzNHRlV3dpQzlmQ1BwVThCZGFoaUJuTkY2VGxRYjlQc1JNMERGTU9tcWF6TlpWNW56aTN2bDBYeEpqeWYwVXc?oc=5",
-        "date": "2026-08-22T04:44:52+00:00",
-        "source": "Perfil"
+        "title": "Lamelas volvió a expresarse en contra del uso de tecnología china en Vaca Muerta: “Riesgos de espionaje”",
+        "description": "Lamelas volvió a expresarse en contra del uso de tecnología china en Vaca Muerta: “Riesgos de espionaje” La Nación EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\" Ambito El embajador de EE.UU. redobló su pedido para evitar inversiones…",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzRKdGdCTGdfVkpnUHZkM3RVZkNOYzl4MC1jRU5LOEI5bEhxaldSaVlremdPOUJuaG03M2s3TGhkN25LRnNCU3pHS1Q5ZHJ5bDZoRVFjRFFDbTMxM2JDeTlwOVA0bUlMNGx6cWZ3VFpXMS14M0FuTy05MXNPMl8wUTBmTnZpdkRza0U4NU0yS2FRR3RIQXVmaGxMWjRrcC1Pd0YyLTYtYTVmNjdWZFZyX2ppUUlOc2xibGRwZFhXMWFJdllqZjczMm12QURWZXdNUGtzbVA5NE4?oc=5",
+        "date": "2026-08-22T19:32:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Neuquén. Vaca Muerta: laboratorio de la reforma laboral",
@@ -182,6 +175,13 @@
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd2h0RFFfa0JXdjNaUzdHWk52RE9iZXFfOVo1cnZHN09UUWktLXRUUGFmSEFBREY5dmJpSGhUbzF3NlRic3N6cU1hUHNnSl9vUHlaQ2k4N3dsdF9tSlY2b2FLSXdmQ3dEd3pZX3ZDMkl5S2dveFlfRWZsSzdHRkV5RGI0THZuQQ?oc=5",
         "date": "2026-08-23T12:41:09+00:00",
         "source": "La Izquierda Diario"
+      },
+      {
+        "title": "China se consolida como proveedor de los ganadores del RIGI y deja atrás a EE.UU.",
+        "description": "China se consolida como proveedor de los ganadores del RIGI y deja atrás a EE.UU. Perfil",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmtsN3EyaFpVNWgzT2RCVHF0VTljMm5ja25HVTVWWkFsU001c2VoRWVCanBDNEd3cU1JeVNMYk1nUXRFdXhpSFBDdWJvYVRLVDBLZGpaZGZhNHgzOThSZG5ISkg0Q3JHNmtqUWtyOTBJRkVtcXZQbi1rMXFWNDJ6WmczVW9OWElFOVBacWtyRFIzRmZqSURnMlhIY0Q1d1dlUDJuUlU1ZUJiM0F6RjdSQ0RaR1hObzAwcVBPQTF1MU5YejlQ0gHKAUFVX3lxTFBkREc5bVRXU3J3ZGxvRGc4dE9STUFDbS13T2F2Y3hBaWRyWEllY09VMHNDYkdVNkwwSGVqN29mOFd6dW9QaXI3cXNPWnBVTVJYcVU5MUwxdGJ6VnJaZ0RSOFpTNFdrdWdCbGlGOTVuYUFHTDQtR3FmeVNLeGtZb3NQSHh2M0ktNjV5N1UzNHRlV3dpQzlmQ1BwVThCZGFoaUJuTkY2VGxRYjlQc1JNMERGTU9tcWF6TlpWNW56aTN2bDBYeEpqeWYwVXc?oc=5",
+        "date": "2026-08-22T04:44:52+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Cobro de peaje en Vaca Muerta: cuándo comienza y todos los detalles",
