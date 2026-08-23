@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T10:17:03Z",
+  "updated_at": "2026-08-23T11:15:39Z",
   "categories": {
     "Microsoft": [
       {
@@ -105,6 +105,13 @@
     ],
     "IA": [
       {
+        "title": "¿Es inteligente la Inteligencia Artificial?",
+        "description": "¿Es inteligente la Inteligencia Artificial? Infobae",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3J1bUpiWlhwM25GWVNrN2VnS183QVhtRnRkUEc4MFFfV1NhM3k2UkJrYmJmSlZLTkpIZkdTZ0tyTGhFaUtBR0FJWWJPNE45TDduTlFzQWxoQUc2WmkyV1ZYYVVSck1zNUw3QlhhSmtobEcwM2gzTTBsLWFQSWZveE5wN1dBcXVMWU11cU1QWGVpelJNbXRGatIBswFBVV95cUxQWGszR29ycE9tWmRadm1fU0RXTmNKQldnRmZQWm5TYU9kZmhCLVd2bHd5VHRjajdvZWFRbU9uVjNnVWZIS1RLWjI4Sm9QcGxyVzY5ODhXZ0RMTGYwaGZ6ZDJyZTFBcTlaYktFOVFCZDFmUm1Hcl85YUNrYUd3MWNCM0prWFlSNEFLeVFDdTVZRUw4eWtBYmNvN09iMTI1aTlEdjhTSTR5QkJPd1pMOXo0UWE0WQ?oc=5",
+        "date": "2026-08-23T10:59:11+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Los gráficos para entender el despegue de la inteligencia artificial",
         "description": "Los gráficos para entender el despegue de la inteligencia artificial EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjlNUmFINENiTWZtV1QtcThIVlJIUk9idHVxcFNDUjh4aUxYUEpZWXRUWDkwaWdWbjJCU3BXZlk3eEVxcmRMS05RV0ZPbDVVSDFHajdDU0VJNy1oRmg3UGU0b21BWmNRUkszNVcyUVNvSU9pSTc0WVZHUkNNLUFPdUZsN250S0ttNE01dGJ6TW9xMUxqemZvb2ZNa0UwbE1vOEd5YlF4NDN6cmxfQUFWZNIBxAFBVV95cUxOM2J5WmFqUTUzc0VUaWlaVHRzdG5KZHpDSDFvNlQyenpicUR1LWR2Y2dmYzV1RUNBalZ5dG5ndk1nNUo0LUdxSGhDbUFocTl2THZpZ0dzQ1M0VkluWVhGei1QYmc1SUlqeGluakQzUnpjV2dpbWFsOS0yak9MRTFOTFFyOUk5Mkd5UnkwV284MmdhSy1Lc2llZ0RGNEc4eGItVGk2cmhQQ0pVemtNNDVhNjRhSWZfUUlfMHB2cjRMSTl3d0df?oc=5",
@@ -133,25 +140,18 @@
         "source": "Vatican News"
       },
       {
-        "title": "La inteligencia artificial desde el psicoanálisis",
-        "description": "La inteligencia artificial desde el psicoanálisis La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVMzMTRwOVFERDNOUWxYdGkzS1lEZnV1T1VrcHRsVU11YlRJeTFfQmtIc0ZUUHhLRjFUU2loVmNZaHM2cnJHOGhLYUZlVE9iWDlVTEw0NDRmdFFrZUszanRhaTF2RHp3cGNtZEJTZG9SSzNfOTRSb2lwQlBPbTBCekRwanVkNlk0TnVERTNIZXJiUHlEYzNvZWprZm1qeVlzZzlWN0thU0hjUGhFdlHSAbMBQVVfeXFMT24zNEZobmk0ZllIWHdmWTVKa0RXTE5ISlpvdFNvREJudVNBSklJaDVwYWtVcGZuTE1yLXhZclYwZ2VaOEMwLVFwLWpjaEtHcnBCSzk4QXh3c1VlcFRIcEdCSkRHWlBNc3BENmowYUVsN09JekROQy1TbnN1VUR4SU1qMXBvNDhuNGtWWV9nME9QWmFrUDR0SWpoR2VzM3BvUjhyaU5ydFdCMmVRWE1WVkJqNm8?oc=5",
-        "date": "2026-08-23T03:03:40+00:00",
-        "source": "La Gaceta"
+        "title": "¿La inteligencia artificial nos dejará sin trabajo? Una especialista derriba el temor",
+        "description": "¿La inteligencia artificial nos dejará sin trabajo? Una especialista derriba el temor Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1JMaGtRc2lyUGVzQS1wZTZXMHUwR1NQaFNFMXBWeWwzVExVSmFRd1FFOFNOQ3pSOFRLaHpPRjN0NlhPcHQwblVhcFZkczhyN0Z0RENURzVrZUJDVHRQWmtXaG5kOXpvaXRDcFNMY1RMMzNleFpxM2s1ZHJDWkF0MEF0TEZtUlZMNXdsUWUzQUVXcGNlVGxXZncteTRZQzFadGFXaVdOVTM4bXlFa2ppYmtNUVp6VHkwa2pHU3RZRGQ0R0wzOC1zT2VBNXZkbzVCX1FuUzFuVjDSAd4BQVVfeXFMT0tiYmVyajhPMkJVUWFWRW9HMlM1dVJhWE1mZUk4UGFONGRzV01US3h4OVRDVFNzcUJZcktCaVZONS1VSzc3SFUzZTI3RkJBamZzZWNrU1JEX0UtNHdRV1Bwd05hM01LeUNrV01EMmRSVS1pcjdmekVpT0NPWlRJZXdWRGZ5S3FycU9JVWw4MllHaHMyYmZBaTE3cXIwRHVhVERFaDY2YzF4RmZKVUlQVFRnd1htZXBzeHVVZWpvaDFYTm9QRUNTOS0wbkpiOUZwcko4Nml2Z0ZQeEMwclBR?oc=5",
+        "date": "2026-08-22T10:37:57+00:00",
+        "source": "Cadena 3 Argentina"
       },
       {
-        "title": "Yuval Noah Harari, sobre los peligros económicos y políticos de la IA",
-        "description": "Yuval Noah Harari, sobre los peligros económicos y políticos de la IA La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdVdOcjhLeS1sNkE0anVrMnF3MTBPODVodkNjZEpYRnJ3MjQ4dTQzTFJDZXRDZWpYU0tmYndhYzU3RTNQRWhsX19CTXVpMTdiMUFqQjRNYndkck1maUpzRlNVMU5wYVp1dGJHblpVSFM0dHEyU3JaSlZSSFZoQjJXc2JkczVkTWgwOFhOcnVyTDFDNktqVkZ1bXZxR2ctTXNlaUNQNThhNHVycWxuaGI3elN2c0ZVdnFZUWc?oc=5",
-        "date": "2026-08-22T19:44:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Las claves para que la inteligencia artificial funcione en las empresas",
-        "description": "Las claves para que la inteligencia artificial funcione en las empresas Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON2VJYUI2V2dzUURyZUR0MFZoemRCQzVwRDdLdWpCSXdJMzN4SkpYZzZkN28yR1JtUVF5MVcyLXRneDduRGg2azU3c0toSTRQb3NYMDFWV0FsM3BVNDBKdmx6ZTdlS3YzR3Y0NUFraklYM0M4NmF3bDJueVRqWEplTXNkUmJvTWV2R0ZXZWoxYmR1Ym50MkRzWEZ0dTFCa2ZqYkpWemdtR0h3VGJUeFN0etIBuAFBVV95cUxNV0hiazJ0VEJ3Qmg3VTNVRzkwZFFWYlhOMEVVZlpKSlZhMnZQZTFnejVwNU1qV01jaHNDUDFWZ1hsU251N1hPbFFtSU5iWl9JdEE5NENhYm9IRjFmR0RtMVdvMmpERk4tSTNyWUZKTGVmX2JQRTY2MVh4T2MzbncydUgzcWtEeUdmdU1NUXUwaWJMVVo3RVdFTVBUZER1bXh6NXR0WThLa053RjN4bDcxdklsUDZvVXBs?oc=5",
-        "date": "2026-08-22T08:00:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "Inteligencia artificial en la resonancia de próstata: qué aporta al diagnóstico",
+        "description": "Inteligencia artificial en la resonancia de próstata: qué aporta al diagnóstico La Capital",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM1JkeGl0ek1RWnhCQTlRUEExM014d2dxLWxKTThUcFh5azBGVktybmpPb3Vwb3llTk8zdXFCZzNFZWFOSWloTHVJOWhEVjB3ZTcxYlFOLXE5N0trYTlvX3JqODhhd1ZRQ3dzcXVuR2xvTE9mTW85eUVUSXdLeHlEdjZvUERDZi01N1NZVmIxWHZiZ00xblY4ME1XMVJIQlVfUlB6S1N4aGQyRWFURDRXNkVhUmpLbU9hZnNqSGZ5RdIBxAFBVV95cUxQeGRDVVpaVlM1NXVXb3hHZ1E0ZDRVYW1Ua0k4Ykl4Y2dNMXRNWEVodGM3VGlZQ1AxQ041blNNd0xMTzZmWVE3SG85OHF5U3plZnpycXN4WGdPMmhBV0NEcU1zekg3S0x5bG5YQWYyYnpILWpjcVpXRTBOQTVqQk1BODNMMnNfc0NjLU90Q0hJYWtMdm1fSVZEUTdWSGc1N3FSemx3RnNnRzQzbXQwV214cnZBMUNBRG9iMnI4bjR5MjRjcEJP?oc=5",
+        "date": "2026-08-23T10:12:49+00:00",
+        "source": "La Capital"
       }
     ],
     "Vaca Muerta": [
@@ -163,6 +163,13 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\"",
+        "description": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\" Ambito El embajador de EE.UU. redobló su pedido para evitar inversiones de una tecnológica china en Vaca Muerta Clarin.com EE UU vuelve a presionar contra la tecnología china y pone el…",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWl4dTFLMEtOWFNKaTRZMW4xcXlOZUFLUTczSzBXUWVaNV9mVkZIRDZKQTdHTlNZODV0Z0hxWUxnM2Y2bG1WRV9JaTJLRTQ4S25EWmtxZmJrei1WY2lmN0ozY2hLZzFYbGJFbHlLemt0MDRQNmVrY2FzUUo0VXZ1LTUtZ01JZkxXcTZJbEV4RVFjdkpSTm1GRm53Z3V1MW55cTBiRWZBbEhwWHd5UGxYUUc2cWtrdWfSAbwBQVVfeXFMTVpUM2hCMEhoNlN6RmVSQVNWcm5NZ3FiVGhUdkZLV0NBWkFoUkVIS1lLNGp2RWRRR25KM2pHaHVDbVJHSGpZeVRiRTkwMlhsMEVXa3BJQ19CMFh0bjlnaGxqUGdpUVdPZ2RZSXRSMy1teEtFb1N4QzJiaUZHNkMtT1BqWi1MTjhNTGRFeEJ3UjMzVGRodE5NVEVRVno0MEd4dzJzcE43STJZWjMzUGYzbllVNU4wNzMyWTNKSDQ?oc=5",
+        "date": "2026-08-23T00:42:00+00:00",
+        "source": "Ambito"
+      },
+      {
         "title": "China se consolida como proveedor de los ganadores del RIGI y deja atrás a EE.UU.",
         "description": "China se consolida como proveedor de los ganadores del RIGI y deja atrás a EE.UU. Perfil",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmtsN3EyaFpVNWgzT2RCVHF0VTljMm5ja25HVTVWWkFsU001c2VoRWVCanBDNEd3cU1JeVNMYk1nUXRFdXhpSFBDdWJvYVRLVDBLZGpaZGZhNHgzOThSZG5ISkg0Q3JHNmtqUWtyOTBJRkVtcXZQbi1rMXFWNDJ6WmczVW9OWElFOVBacWtyRFIzRmZqSURnMlhIY0Q1d1dlUDJuUlU1ZUJiM0F6RjdSQ0RaR1hObzAwcVBPQTF1MU5YejlQ0gHKAUFVX3lxTFBkREc5bVRXU3J3ZGxvRGc4dE9STUFDbS13T2F2Y3hBaWRyWEllY09VMHNDYkdVNkwwSGVqN29mOFd6dW9QaXI3cXNPWnBVTVJYcVU5MUwxdGJ6VnJaZ0RSOFpTNFdrdWdCbGlGOTVuYUFHTDQtR3FmeVNLeGtZb3NQSHh2M0ktNjV5N1UzNHRlV3dpQzlmQ1BwVThCZGFoaUJuTkY2VGxRYjlQc1JNMERGTU9tcWF6TlpWNW56aTN2bDBYeEpqeWYwVXc?oc=5",
@@ -170,32 +177,25 @@
         "source": "Perfil"
       },
       {
-        "title": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\"",
-        "description": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\" Ambito",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWl4dTFLMEtOWFNKaTRZMW4xcXlOZUFLUTczSzBXUWVaNV9mVkZIRDZKQTdHTlNZODV0Z0hxWUxnM2Y2bG1WRV9JaTJLRTQ4S25EWmtxZmJrei1WY2lmN0ozY2hLZzFYbGJFbHlLemt0MDRQNmVrY2FzUUo0VXZ1LTUtZ01JZkxXcTZJbEV4RVFjdkpSTm1GRm53Z3V1MW55cTBiRWZBbEhwWHd5UGxYUUc2cWtrdWfSAbwBQVVfeXFMTVpUM2hCMEhoNlN6RmVSQVNWcm5NZ3FiVGhUdkZLV0NBWkFoUkVIS1lLNGp2RWRRR25KM2pHaHVDbVJHSGpZeVRiRTkwMlhsMEVXa3BJQ19CMFh0bjlnaGxqUGdpUVdPZ2RZSXRSMy1teEtFb1N4QzJiaUZHNkMtT1BqWi1MTjhNTGRFeEJ3UjMzVGRodE5NVEVRVno0MEd4dzJzcE43STJZWjMzUGYzbllVNU4wNzMyWTNKSDQ?oc=5",
-        "date": "2026-08-23T00:42:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "El embajador de EE.UU. redobló su pedido para evitar inversiones de una tecnológica china en Vaca Muerta",
-        "description": "El embajador de EE.UU. redobló su pedido para evitar inversiones de una tecnológica china en Vaca Muerta Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkVEQzFETDlUbFlldGp4aW5mT1dlTTFwZjVEY29nM2pHVHNSR0FLRlNEcERkeWV1T3BaQXpzM1RKS2dhU2QyQkY2TS1ISkpNdWpZVzZqcTFWdHMtNG5oNHBRMjN1U0VWanYwbW9vdXJqTkhXRlJPUlE5YnRCaWFqU0lsMnBLRXRXVFlWSGZ5dDcwVUluMlFOdzIwVEV5U2hxLXl5WktVZ2lrYXdZTzJ5bUtuQmpFc3FFS0V1OWpidldNSHpPMTg4?oc=5",
-        "date": "2026-08-22T16:36:43+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "EE UU vuelve a presionar contra la tecnología china y pone el foco en Vaca Muerta",
-        "description": "EE UU vuelve a presionar contra la tecnología china y pone el foco en Vaca Muerta Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMWtZRkJqMmoxbTFhLTVJT2NlWkVQZVhnd1VpRHFXTXNVeEc0aXpCdGRZd0xsZ0FGVlZXRFFkTVZaUTZWMDcwbzViRGJnT3ZhRVFLTGFyV0tqX1JNTmRFXzRvX0wxWHJVMjNKOW9HV1FoUUNjdkZPZzBUb1N0V2xJSURLOTdKVldIWkYzdlVwbmtuNmoySE9kSXZ4NGszdGFSblUtM1hkeGtOcXdZRVJGQVdXVGVqdkYtZE5kN1NKVFFBbzJXVU1iRGNGMTcxeUFUbThmUGNtWlRGYzF0RUFPZThWWFprWXVYcnc?oc=5",
-        "date": "2026-08-23T06:41:06+00:00",
-        "source": "Diario El Día de La Plata"
-      },
-      {
         "title": "La soja negra de Vaca Muerta",
         "description": "La soja negra de Vaca Muerta Página|12",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yRFBlamdfaGtnaW85Q1AxYWVnQk5tc19nYXo3OHFxSnZQZ1Z0ekFEbVl4b1pUTTR5VlhabXNQM0RrXzdLTDdKdy0tWGE0Snl3ZFJDT2dZbFczdWMwdFZkTXNZWVVjeHF6VEt5dzczTzJfZ0RqUG9R?oc=5",
         "date": "2026-08-20T23:01:00+00:00",
         "source": "Página|12"
+      },
+      {
+        "title": "Video Carlos Melconian: \"No hay película, Vaca Muerta y el campo salvan las papas\"",
+        "description": "Video Carlos Melconian: \"No hay película, Vaca Muerta y el campo salvan las papas\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSExyWGVmMHhLOV9lNmF5OEJCSk5IWTRMaEZ2emgtZjFfdWw1X2RKci11OVlMbHNkR05YTTBjVXItWXcyZUwycy1YT1E1akFYX0xMdFhteEtaUGx3RWdHMGdjWlp3WkpvQktDalJLMlNwMGdjTXlPT1JTQlgwc0VSempaanVJNHZHUDVuOU5XZjNjRUlOZnlKR1dPUXdiQ0JjODRteUxVQQ?oc=5",
+        "date": "2026-08-21T15:47:35+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "El gobernador de Neuquén acusó a una multinacional por sobrecostos en el transporte de gas a Chile",
+        "description": "El gobernador de Neuquén acusó a una multinacional por sobrecostos en el transporte de gas a Chile La Política Online",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb0taUjAzVEVXSVVIZUg4NU54VmNMWWgwX3hKVmJiX0NyNFVNSVdDY3dZZU1MaGtNZldFZ2VkU2FVc3ppa0dLc1dmdUR3TkZxWXlZNkx5eGYydmNXY1k4LU84TElZVWFXODdZR3hCdEVNQXdldkhmX2d1TFRXN29RcGg2SEoyMEg0ZGt4OUlPcVZ5U2Z2VlVpbzRBOXdSTV9ORTBid2ZGcjRiRWZDUHAtSUxRcjgyQ0kxVVNfRXN0UjhJaG1haHVac25aSnJrR0tvZG5vd2RxTEVMbW9VTkd6S25vN3YxSEg0a3pJ0gHbAUFVX3lxTFBPaFk1T0RYMlF3MjdvcnJYMTB5clFfRDV6YVR4bW5MT09DU05mcU5iNUdnVlBCb09IMk5UWnFPZTBuMEdjSlNjcXlxSTQ1T01ucXdBQzhMUUdHNFpSYV81OEx1RGtlZDc3aXVrVkFJWDh3b1FjVXdfQUs1bmU3NDZ0M3g0QUY2b0hlR3lFLThVLWdlUjItc1pqN1RtbEoxcjBKdVo1TVYzMHMzTFBEUVFKWVVZSlRSZ1NLWUJJVExGam9COXRFb3RDZVBPNDVYX2RVQUlPd2dhcTdwVQ?oc=5",
+        "date": "2026-08-20T23:18:25+00:00",
+        "source": "La Política Online"
       },
       {
         "title": "Cobro de peaje en Vaca Muerta: cuándo comienza y todos los detalles",
