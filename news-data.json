@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T09:40:09Z",
+  "updated_at": "2026-08-24T10:31:45Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,18 +10,18 @@
         "source": "Opinando San Nicolás"
       },
       {
-        "title": "Cómo Google y Microsoft se instalaron en las escuelas de Estados Unidos: acuerdos, capacitación y recursos",
-        "description": "Cómo Google y Microsoft se instalaron en las escuelas de Estados Unidos: acuerdos, capacitación y recursos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0hXQTVlbGFoTDhfcWMtRTRkUE9GcllON24zandOdzZUaERTc1BRN1EtS2FjNk5aMHM1eTlfaUQ3dnlIX254ckFmLXlZU3dRUVduT0JnNjVmZG5vTjdVOWxDZ2VCeEdsRG0wbUVkYzB2MHhvdU5oczZqckc0ZEswdnp0ZVdkVWxrVllfYWhQa0kyNDZtR1J6N2NPOFdBMlNBOVFBd2lCMEh5ZFZEaUpSUnRSVDFWUVNJT2xqbmIyZjNLQzIyM05VNHlaYUMzcHVvWkhwdEQ2U1ZVMmZvellF0gH6AUFVX3lxTE9QaGxIMHVfeVFvODBfU1lobXVQM0FxWjBqVHAwXy1RcXpUdi1tSVRueWpvLWo5cVFXZkdhQjF1ejFqcmRJT1JVQWc1NWhBT1RDaTBTbWlvRUNDeVIwVVBGdHM1RmlKbWhYOHpxNUxKT2ZsWG9XNDRYUEtDV0Y4OWFMUDUxWVBpUkhCYzJHVlFyWEtXMVhhak9PSTdPaG9xTlhVSEVGLVF5RDlOSWk2NlB5QTFlUFJiVTg3b1ZuMlU1TGF0eUdzUGxlZzk1QmxfNjNyQWYxNmFUSmZ2alZNVjZRQjNCYXJrLTBMMmI3aUNteDhiblprbVJFaVE?oc=5",
-        "date": "2026-08-24T03:02:10+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Bethesda no solía sufrir recortes, pero desde la compra de Microsoft hay una nueva y temida normalidad que se repite cada año",
         "description": "Bethesda no solía sufrir recortes, pero desde la compra de Microsoft hay una nueva y temida normalidad que se repite cada año 3DJuegos",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ1EwS1A4RkUxT3RwY1QtOGhSd0JuYS1ick9NNFBjS0g1b2Q1YUJJcXJIdmh2NWl4X1pwUjFET0tLTEhKMktuN3J6c1RJSUJrTUtiS1ZlUHJ0d0xyVldFMnRMdzdiWXpyejNNSHdCNmxhQW9IS1FsUGdGSjQ5NWpWQUh3YXBoTy1VX29ZbEZiT3YzM0k3NE9RZkVzY3lOLXl0ZFlPc01TR1UxRGZIN3V5eE1oMGJNSWk2UjhkTHNxZTM4Vlk2b2tUUk90amxjVTlwbDl5NEJDLVdtR1o1MXlEdFA1R1N3T1HSAewBQVVfeXFMTi1JcEs2TDdTX0EtRm9yTUhTQjkwTGVkYnZ1UzJXSGdPVWNjM0RTeGl1aW5rbXNfUUlqNmlsWmpKZF9yTGd6eEI5bkRzeS0tNzFaQTJMUThwMC1vamF1dk9pN0xtS1NkdDl3U29yREhxTG9NUVpFUW54bEl3Nl9yeG1iMC1XYkluSUl4cFFyZ2pFaG1pYjhVYzJqYnV0ODY0WlhkN3hWUThLX1VzZ09Fd09NaFpYVzFlbUdLWmN6NDZ3eEZpZGU2ckV0aE42T1dZUXF6bnV2X3hyczBFQ3kyblVoQ3BGRWJqT3RVNVQ?oc=5",
         "date": "2026-08-23T23:33:46+00:00",
         "source": "3DJuegos"
+      },
+      {
+        "title": "Cómo Google y Microsoft se instalaron en las escuelas de Estados Unidos: acuerdos, capacitación y recursos",
+        "description": "Cómo Google y Microsoft se instalaron en las escuelas de Estados Unidos: acuerdos, capacitación y recursos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0hXQTVlbGFoTDhfcWMtRTRkUE9GcllON24zandOdzZUaERTc1BRN1EtS2FjNk5aMHM1eTlfaUQ3dnlIX254ckFmLXlZU3dRUVduT0JnNjVmZG5vTjdVOWxDZ2VCeEdsRG0wbUVkYzB2MHhvdU5oczZqckc0ZEswdnp0ZVdkVWxrVllfYWhQa0kyNDZtR1J6N2NPOFdBMlNBOVFBd2lCMEh5ZFZEaUpSUnRSVDFWUVNJT2xqbmIyZjNLQzIyM05VNHlaYUMzcHVvWkhwdEQ2U1ZVMmZvellF0gH6AUFVX3lxTE9QaGxIMHVfeVFvODBfU1lobXVQM0FxWjBqVHAwXy1RcXpUdi1tSVRueWpvLWo5cVFXZkdhQjF1ejFqcmRJT1JVQWc1NWhBT1RDaTBTbWlvRUNDeVIwVVBGdHM1RmlKbWhYOHpxNUxKT2ZsWG9XNDRYUEtDV0Y4OWFMUDUxWVBpUkhCYzJHVlFyWEtXMVhhak9PSTdPaG9xTlhVSEVGLVF5RDlOSWk2NlB5QTFlUFJiVTg3b1ZuMlU1TGF0eUdzUGxlZzk1QmxfNjNyQWYxNmFUSmZ2alZNVjZRQjNCYXJrLTBMMmI3aUNteDhiblprbVJFaVE?oc=5",
+        "date": "2026-08-24T03:02:10+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Renunció a Microsoft para empezar de cero y encontró una oportunidad: la historia del empresario indio cuya firma vale US$ 11.000 millones",
@@ -45,11 +45,11 @@
         "source": "TN"
       },
       {
-        "title": "Australia obliga a Google, Meta y Microsoft a pagarles a los medios de comunicación por usar sus contenidos",
-        "description": "Australia obliga a Google, Meta y Microsoft a pagarles a los medios de comunicación por usar sus contenidos Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3F6X21DUzVTNUJkQjRhbDhvQ1ZLa19JOHFncjhmQWVyVEFEYnZmMnhNSkRsXzVob01lelI5WEptamFBSUFNZ3pFcUFHYmZkNFF3MkhtZkxjbU9YcVN2MnVWV1VzWVFsdUE2dVprUHI4aWNGOWl0dHJMaGg5MERHMG5lYm9US2g5ZXdNM3RhTVRELXJ4QW92WDJYRzU3VjdmS2VteURHRXpfUEh5QWMxbFhhT25sRUZYdFBZTnE1dmZUUHRVZ1QzbFFmNDJXQQ?oc=5",
-        "date": "2026-08-20T20:20:51+00:00",
-        "source": "Clarin.com"
+        "title": "'Algo ha cambiado con Microsoft': un artista de Bethesda denuncia que ahora sufren despidos cada año",
+        "description": "'Algo ha cambiado con Microsoft': un artista de Bethesda denuncia que ahora sufren despidos cada año Vandal",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUk1LeXp3cWdVWGxKbjM4QXBLV003Q1NtVE5oUHVySmJmRzVIOGRQZU8tcmVXbng5YUljV3RHTkJjVmI0VjZoSDg4NG1JZms2eC1pWDA5cWRUN2Z3S0F4b2UyelZ2Z0VDNkFzRi00MFl6VGFqTTZJV3c3N2lDSVliZ0NUdjNHdWRiRW9kaFJQTU15ZGVKNHlRcHhZY3JtQkdqbFVIRUpUOERzdDJlMmpzMDBpQm9zeFNBVEM4X3ZmVGRxc19RRjJkS1BfWXVLWUlSbGhkdDY5UznSAd4BQVVfeXFMTWRCSms5Ykx2cExpR1MwREdMX3BBOGlhTGVsUTBCV3FQZ2xZdkZ5MW93VzZ4ajZYb09vdUZQa0dBSkJxZmlpbm5VUU5DMC15MnlNM0dXVlg3M2FobGJma1I2aGJMclBRS095N1VtQm1kd1NHbGRweTdCSXBoUGJuNC1IRXNWdXZtZFNtS3Fqak1oSjVoUGVPVGxhZEtPZzdySHBuTnZJdGJGcDV6RW5yajFkVFFPc0FxdjJDb28wSUV5TnNvejl6d2ZvTU1heWRaNzVkOHVRUEhwM3ItZEhn?oc=5",
+        "date": "2026-08-24T09:52:00+00:00",
+        "source": "Vandal"
       }
     ],
     "Marketing": [
@@ -112,34 +112,6 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Nueva era dorada: cómo una joya del campo va a dar que hablar con la inteligencia artificial",
-        "description": "Nueva era dorada: cómo una joya del campo va a dar que hablar con la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcnMwdEplcS13Y2hXQmk3aExUaHNkSlBZOUtiNFFfY1FQbmlSV0ZXV3pyaUFtTUdmUUlnQ1VEQ1dCUk44OWJYazlhdjZibWxaeU9rbzYyU25rN3dxaXlSOTZqQk0xV3R0eTlwUk5tc1FaMWNGTjl0V1lOMTFSa3VrQVJJYVc1M2JIcTd3MzlHbFZ5Znp3U3hnTVUwc2YwcGtUWTZTVFdDUUV1RnVGQzVTQTJTX2V2cW94c0FiNzFtem1VY0JHQVEtclFzclE5d1JmOUYtQllsQk9GaDF1WUloNA?oc=5",
-        "date": "2026-08-24T09:00:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Qué es la rendición cognitiva y por qué los científicos afirman que es el mayor peligro de la IA - TN",
-        "description": "Qué es la rendición cognitiva y por qué los científicos afirman que es el mayor peligro de la IA TN",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTFOMWl2TGp4Q3BoTTA5ZjhPZ3N5VXdLSHF0NTd3OEJLYnJsOWdzUkVsRnZfcEg4aHViMnFyY2RvNUJRTDFCN0pZb0RvMHp5MXhlaVF6NnFUNG1XODJ0WWFhUGdTODdlREY3cE5zQWQxMnF3SklhLUtuNVdYU1M5ZWg0YVpLY29aT2ItVkxndlRJcFdKaHJOOFRtVjNMY3dLb2Jrd1pyUjdQWkdBU3dNQ1htWUdLcUpyM3lPX1E1eF9EZUplQ3pDU2VMWjVlVzBRcGdSYm1oclhyZ9IB7gFBVV95cUxQTkZRamkyR3FCeV9qSFllcFludmJuSXdjVTRiLWs5QmpUUW5yOFU4Z0RlNTBmQ1dqaEdpaFc3dlVXTU9pRVpCbElaSnVxNUtxenVMU2xaRllLMFItOFNycWxDc1FpT01YeGdTYjVXQkxFUkpWVXdVY0lWbUV4NGQ3OVVBeVVVekxELVFNRTFtVnV6ckFrWUJiMlRRODFNdUFwRmhHNmlubXRSR0RCanFtTU1FcGhLMXFtZExJbnhERHVjb3g0WDVwSVZ1bnVMSjZWTk9HTnhmV0F3Y0J6Z0ZQOGt0THVwM3pFNUF0V2pB?oc=5",
-        "date": "2026-08-24T08:55:00+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Alibaba y SoftBank movilizan más de 14.100 millones para acelerar su apuesta por la inteligencia artificial",
-        "description": "Alibaba y SoftBank movilizan más de 14.100 millones para acelerar su apuesta por la inteligencia artificial Cinco Días",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdjY2bjBRSllDeHJ1TTJpQTVQQjQxVTdmNVZzNDNkTUtwNDZJY0NLaFFMZFRGc29HVFUxYzZiNDNpTjlNOWgzMHNNSGJFb2hNUzRuRjBxSExKeGxiaW9paXFxaW54NUMxV3JFMEhrNFVRU2JRbnF6N1dhLUg1dXl4U1JYTWFVVmtWT0ZNQkNPemkzQ1ZIME9oME1EdUh5cGRPVlR4Qi1pT3lsYkJkUkZVS0VNbERGZEtOZk1mbDlTeWVsMElfTW9sSGJjS2F0RFVVbXY0bjFFNldtYmZBbVMzdHBxekQyQkRzeklVc1Y3cFhrWFXSAYcCQVVfeXFMUDE5TnRtOEpEX0MxdWVOMGlIZFBRUW5rM3FDQzZjWFFkTWhZRXBQXy1kQTY0Y1JuZnBOMWV1eFZDeHFibjdxXzNtSlpxRG5palcwXzZlckpEYkp3N2IzSk5lbHlUYTk5SG1SNFZwQ3ZCRDI4aFRUaUMzV21WeFpVbFdYUlBqQ3hTZ1Y1anQ2a0Y4dksxdGJvSjdqNGVmNXEycnZMV2dqUTFZWDhwQk5UUElDYmU4QkpDVUt5bTdveHB2MDJJUEJjcEhIeTlqVVpHX2d4YWVidEV5ZmlDTHNSbkZhQ2ZmZXdpWnQxN2tvSU1SU2tObVNHUFZ6NnI2dEhlZWFCX2U1YTQ?oc=5",
-        "date": "2026-08-24T08:49:17+00:00",
-        "source": "Cinco Días"
-      },
-      {
-        "title": "Yuval Noah Harari, filósofo e historiador: “Un cazador-recolector de hace 50.000 años entendía su propia vida mucho mejor que una persona actual, sabemos más sobre el mundo, pero no entendemos nuestra vida”",
-        "description": "Yuval Noah Harari, filósofo e historiador: “Un cazador-recolector de hace 50.000 años entendía su propia vida mucho mejor que una persona actual, sabemos más sobre el mundo, pero no entendemos nuestra vida” Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQ1R1Ty1YWHJwLTFSMWIyU2RTTzZVdVdEWXR4ZXpTeDZ1YXZCQk1PVnhoNjdsZEd0dDhWY25TR3RhTU1NaElvUU9Xb3RJQURzV1hNcnhIZ2lYRU9tSU43c1lvWGdBcmVYR1RNYWVDOWRIZFRkbEhHODdTcHhEZXo5LVhnYmFzSmRCejFhb3dyck53a1p3dElqOXgyM1FpMC1Nc0tNMk5YQlJmRFhEYVNtWXRmckU1Y0pjdVUwUGh5bW1pblJ1QVhYQ2RVOHhtaG4wN0xVSUcwRzdqYlZ0WGdROEh5UzlseFF5LWZReEg4dm9sb1VHZ0JFdjIxMU9WbFBOVlhRdHFobGJ3NlNxZ0gtTnFiSkxqX19PNHZPR004aWFnNkpQbzFB?oc=5",
-        "date": "2026-08-24T05:27:18+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "¿Es inteligente la Inteligencia Artificial?",
         "description": "¿Es inteligente la Inteligencia Artificial? Infobae",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3J1bUpiWlhwM25GWVNrN2VnS183QVhtRnRkUEc4MFFfV1NhM3k2UkJrYmJmSlZLTkpIZkdTZ0tyTGhFaUtBR0FJWWJPNE45TDduTlFzQWxoQUc2WmkyV1ZYYVVSck1zNUw3QlhhSmtobEcwM2gzTTBsLWFQSWZveE5wN1dBcXVMWU11cU1QWGVpelJNbXRGatIBswFBVV95cUxQWGszR29ycE9tWmRadm1fU0RXTmNKQldnRmZQWm5TYU9kZmhCLVd2bHd5VHRjajdvZWFRbU9uVjNnVWZIS1RLWjI4Sm9QcGxyVzY5ODhXZ0RMTGYwaGZ6ZDJyZTFBcTlaYktFOVFCZDFmUm1Hcl85YUNrYUd3MWNCM0prWFlSNEFLeVFDdTVZRUw4eWtBYmNvN09iMTI1aTlEdjhTSTR5QkJPd1pMOXo0UWE0WQ?oc=5",
@@ -147,11 +119,39 @@
         "source": "Infobae"
       },
       {
+        "title": "Nueva era dorada: cómo una joya del campo va a dar que hablar con la inteligencia artificial",
+        "description": "Nueva era dorada: cómo una joya del campo va a dar que hablar con la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcnMwdEplcS13Y2hXQmk3aExUaHNkSlBZOUtiNFFfY1FQbmlSV0ZXV3pyaUFtTUdmUUlnQ1VEQ1dCUk44OWJYazlhdjZibWxaeU9rbzYyU25rN3dxaXlSOTZqQk0xV3R0eTlwUk5tc1FaMWNGTjl0V1lOMTFSa3VrQVJJYVc1M2JIcTd3MzlHbFZ5Znp3U3hnTVUwc2YwcGtUWTZTVFdDUUV1RnVGQzVTQTJTX2V2cW94c0FiNzFtem1VY0JHQVEtclFzclE5d1JmOUYtQllsQk9GaDF1WUloNA?oc=5",
+        "date": "2026-08-24T09:00:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "Qué son los datacenters para inteligencia artificial y por qué disparan el consumo de energía",
         "description": "Qué son los datacenters para inteligencia artificial y por qué disparan el consumo de energía La Voz del Interior",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzY2YmNVTlRpOWRnNzV1TTFyOXpuN1hvUUYwZ0NmSEpRMDZib0g1Z3JZbFJTRFR0a1RoTjRHaTRtdnlyeE5WbWo3Ylh5YlczZWhHWmM4YUIteEI0c2JYYjRFT0RCaUJZS2ZMV0ZDTXRUZGNsNk1yNnluMk9tNTJyZDVBT3R5NzBsRE52UHd5SFpUMl9wdjdIcDZmYnB5bVAtbG44WW5hYldEY2o2MXR6R0EtN1pHdlI5TTFSSU00SzFTOEk?oc=5",
         "date": "2026-08-24T03:01:17+00:00",
         "source": "La Voz del Interior"
+      },
+      {
+        "title": "El Papa León XIV volvió a alertar sobre la Inteligencia Artificial: \"No pueden ser los algoritmos los que decidan\"",
+        "description": "El Papa León XIV volvió a alertar sobre la Inteligencia Artificial: \"No pueden ser los algoritmos los que decidan\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdU1ZYlFsZHM4RmZkdnltc1RadXJsY3pDOFpPQ0NpZlJIWkpUWUVjd21UU0ZSeXJQTFY0WENVeERhMnFHeWtOTnJvUEcySlVTSF8zTnNtZkpVVmpxdlZkTE43UEtMb3NIbU9taEtqUmFBS2NSVHlkZDl0V2VOSUIyY2hsY1BZT29heWtjSG9vRGFaVUp0TWh6SHZNdE1EMldyVUVXbnJVMkQwOWoyOWhFRXAzU01GdjFXVXlLa2FUSmQ4UTA?oc=5",
+        "date": "2026-08-22T19:16:57+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "El Papa: el mundo no necesita una inteligencia artificial que disminuya la humanidad",
+        "description": "El Papa: el mundo no necesita una inteligencia artificial que disminuya la humanidad Vatican News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVm5XMHBBWWhONnFsRUhmOE1RT0pJd0JQZkVHLTVBdlVXRnpMVFNoS1piLWNfSmdfeWdUWlBaSEY4NmFBTDRSdkdFZ1FWeWF2bG0xWXJwamZaWWtRRTB2VGlwQzhuSlcxcnJUdEpBOFR5NzBLMDFBVW8zU0s5bHNTNThFSEJTYTdQTy1RS2xoUW9vWFJCdmZ0RUZzcWdleG5kMEZEa2NBUWlOZw?oc=5",
+        "date": "2026-08-21T10:49:15+00:00",
+        "source": "Vatican News"
+      },
+      {
+        "title": "León XIV advirtió sobre los riesgos de la inteligencia artificial: \"No pueden ser los algoritmos los que decidan\"",
+        "description": "León XIV advirtió sobre los riesgos de la inteligencia artificial: \"No pueden ser los algoritmos los que decidan\" Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWNpN0ZTZFhKaXcxREh6NmFkakFCQURwR2NJUldpbXkzMUxjcjU3Vk04dW9FZHBJTnZOekxmQ1dHa2YzTDhrZnFZNzE2TmIxQ3lNUDU5WUNRcEpJVkJkSXdyVHZ4WTdYVnBBRm5CcjRtY2E2bExlQ25kamlCeGVlM0F6eE5wR2xCZVJZV2dJOEVZQ0dGUkxSb2JaU3pUSjM2LVozbmgyOEVUbUNEMHppSjR0NjZ2VHY3Q09yVzY3WldRblByX2o1VG5zN19McHJLWk1yVEZ30gHbAUFVX3lxTE56YWZVemhyUTRGZXhjdFN3OWFVcEsxQnk1TzFfTEhEaERKMWYwN2NDd0JjTGxKcFY3Qi1PRHR4UEYzNHJ1ZkptbFhJbHpLUnNKMGRBa21RTGZQZ2c2WkM2WUxWNkpLSlFoSFJ2S19YQ3pGMWVEQWZwbmxIVnFMZjJzdnM2b0ZMLUVBY0J6OHdRZXJXbUdLRVcyZGNaaFBxM2pGZk5VSnlzYzA3MVFEeDVRLTQ0Zm5DTkFaMFFOVHdQUk1WY3BRaklJZFJ5cTJKd1VxWmpyYzZyQndwWQ?oc=5",
+        "date": "2026-08-22T22:47:00+00:00",
+        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
@@ -170,13 +170,6 @@
         "source": "La Izquierda Diario"
       },
       {
-        "title": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\"",
-        "description": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\" Ambito",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWl4dTFLMEtOWFNKaTRZMW4xcXlOZUFLUTczSzBXUWVaNV9mVkZIRDZKQTdHTlNZODV0Z0hxWUxnM2Y2bG1WRV9JaTJLRTQ4S25EWmtxZmJrei1WY2lmN0ozY2hLZzFYbGJFbHlLemt0MDRQNmVrY2FzUUo0VXZ1LTUtZ01JZkxXcTZJbEV4RVFjdkpSTm1GRm53Z3V1MW55cTBiRWZBbEhwWHd5UGxYUUc2cWtrdWfSAbwBQVVfeXFMTVpUM2hCMEhoNlN6RmVSQVNWcm5NZ3FiVGhUdkZLV0NBWkFoUkVIS1lLNGp2RWRRR25KM2pHaHVDbVJHSGpZeVRiRTkwMlhsMEVXa3BJQ19CMFh0bjlnaGxqUGdpUVdPZ2RZSXRSMy1teEtFb1N4QzJiaUZHNkMtT1BqWi1MTjhNTGRFeEJ3UjMzVGRodE5NVEVRVno0MEd4dzJzcE43STJZWjMzUGYzbllVNU4wNzMyWTNKSDQ?oc=5",
-        "date": "2026-08-23T00:42:00+00:00",
-        "source": "Ambito"
-      },
-      {
         "title": "Lamelas volvió a expresarse en contra del uso de tecnología china en Vaca Muerta: “Riesgos de espionaje”",
         "description": "Lamelas volvió a expresarse en contra del uso de tecnología china en Vaca Muerta: “Riesgos de espionaje” La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzRKdGdCTGdfVkpnUHZkM3RVZkNOYzl4MC1jRU5LOEI5bEhxaldSaVlremdPOUJuaG03M2s3TGhkN25LRnNCU3pHS1Q5ZHJ5bDZoRVFjRFFDbTMxM2JDeTlwOVA0bUlMNGx6cWZ3VFpXMS14M0FuTy05MXNPMl8wUTBmTnZpdkRza0U4NU0yS2FRR3RIQXVmaGxMWjRrcC1Pd0YyLTYtYTVmNjdWZFZyX2ppUUlOc2xibGRwZFhXMWFJdllqZjczMm12QURWZXdNUGtzbVA5NE4?oc=5",
@@ -189,6 +182,13 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkVEQzFETDlUbFlldGp4aW5mT1dlTTFwZjVEY29nM2pHVHNSR0FLRlNEcERkeWV1T3BaQXpzM1RKS2dhU2QyQkY2TS1ISkpNdWpZVzZqcTFWdHMtNG5oNHBRMjN1U0VWanYwbW9vdXJqTkhXRlJPUlE5YnRCaWFqU0lsMnBLRXRXVFlWSGZ5dDcwVUluMlFOdzIwVEV5U2hxLXl5WktVZ2lrYXdZTzJ5bUtuQmpFc3FFS0V1OWpidldNSHpPMTg4?oc=5",
         "date": "2026-08-22T16:36:43+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "El embajador de EE.UU. pidió a los países de la región que eviten la tecnología china y advirtió sobre su uso en Vaca Muerta",
+        "description": "El embajador de EE.UU. pidió a los países de la región que eviten la tecnología china y advirtió sobre su uso en Vaca Muerta MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGFTbC1hY2xXSnZZRHBVb1FPUnY2SXNXaGNYZXIweVMyU0JGOGwyM0ROTU1KRmRXOTIyRUV4VVpvc1owYXIzMHJtVERiRUtOandGcko2VDJWczFHdFBWVGMtamk2MjJlWTRnTVlwZFRFa3JnSFUyMWNWdTZZeV8wOW1BcHNyN1lmcU1DTlFXUE5uVFJpczhobnkwcFdiWGRPTWRHZVE4SFQzejdrUldHZjBmdGVaby1BZkhTeDNXWVZ0MHozbEFCbnd1cFVjWGdBRHdLNklwMGROd9IB3wFBVV95cUxPZEFWdTZPNWhfd2FLbGVxOURYQlM4UTJFb2V5ZXRFTmFkbTdJQzNoUUF2WmQwLVVmRlIxMnhPekZqZ2lyWHl4dEkxM3dWZEtZdVNHdG9WYUhnaUZrUGs4endyMXdGSkhhYXlzZHJVdzh1WlZjbmhoUXVnRG9DNlZ1d2FxSC1WNXg4SVdhWmVXNF9IZVBmek9ibE9UbktndWxiSl9iR3d4TzB5RE5WeERIdjYyc3o5M2xMZzgxUVdzTzQybTZORjNDNkowVmllNEFSTnRsbldnYVRIUmh1Z3k4?oc=5",
+        "date": "2026-08-22T18:57:00+00:00",
+        "source": "MDZ Online"
       },
       {
         "title": "China se consolida como proveedor de los ganadores del RIGI y deja atrás a EE.UU.",
