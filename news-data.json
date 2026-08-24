@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-24T02:21:45Z",
+  "updated_at": "2026-08-24T03:49:07Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Renunció a Microsoft para empezar de cero y encontró una oportunidad: la historia del empresario indio cuya firma vale US$ 11.000 millones",
-        "description": "Renunció a Microsoft para empezar de cero y encontró una oportunidad: la historia del empresario indio cuya firma vale US$ 11.000 millones Forbes Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRFczSUMtYlNYQ2FrdVhMOXRkQlRldnRSb2hGTWNPVTdFYkxTdVRoVnRlc2FRdTRUb25jNi1HMy0zTlVkN2lfRHZhZV9hRGh1Rk5rNVZVVGRfSEdEN0RZaDgzRUtSMEZnTE5sa2JlVVM0NEZYZE1ENnRHbzNueGdrQnBiSjZoRWJKWURSUEltbDFscHNmdkZodHRPdlMyekl3ZkZKLVpZa09YSXZmQjZZbzk2LTZrRzV0MU1ZcEFWM2hNM2RlNzZCVkVURkZPUlducHZ4dERMTGtXN0JzTXFSeXBzNUxzelh3WE5kQW5feHZDSlBUamdR0gH8AUFVX3lxTFBFSTRVaVVvd01mYUlXU1g4dnY2SzF5NV9GYkZ5OTNXdWM2dWExb0ZTMFNXYUhoTTlCOUR2dFRmSXRiWmJ3RHpnQ1pvVTZaWmZYZUpEcWYzUDc0QWwzbVFlQzc4NmJTSWt4Ymt4NjRDSXNRVTgtQ0hneTRnbXQ3SWxuYk1RQUVmQW5QLXJPTjRpN19tM2hVREYxbVBlT0wzTFZWVTRQazEwU0JNOE5FMUwwNkVGcUV1LV9YZFBvUUZkdGVIVjJhV1pTV0NpLWl5VFNfZ1NpbFpyaUVaYmtuS3diV1dQelYxeFpINzJNZzBCT2dlcEJQUHE4T3J0OQ?oc=5",
-        "date": "2026-08-23T13:30:00+00:00",
-        "source": "Forbes Argentina"
-      },
       {
         "title": "Bethesda no solía sufrir recortes, pero desde la compra de Microsoft hay una nueva y temida normalidad que se repite cada año",
         "description": "Bethesda no solía sufrir recortes, pero desde la compra de Microsoft hay una nueva y temida normalidad que se repite cada año 3DJuegos",
@@ -17,25 +10,25 @@
         "source": "3DJuegos"
       },
       {
+        "title": "Cómo Google y Microsoft se instalaron en las escuelas de Estados Unidos: acuerdos, capacitación y recursos",
+        "description": "Cómo Google y Microsoft se instalaron en las escuelas de Estados Unidos: acuerdos, capacitación y recursos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0hXQTVlbGFoTDhfcWMtRTRkUE9GcllON24zandOdzZUaERTc1BRN1EtS2FjNk5aMHM1eTlfaUQ3dnlIX254ckFmLXlZU3dRUVduT0JnNjVmZG5vTjdVOWxDZ2VCeEdsRG0wbUVkYzB2MHhvdU5oczZqckc0ZEswdnp0ZVdkVWxrVllfYWhQa0kyNDZtR1J6N2NPOFdBMlNBOVFBd2lCMEh5ZFZEaUpSUnRSVDFWUVNJT2xqbmIyZjNLQzIyM05VNHlaYUMzcHVvWkhwdEQ2U1ZVMmZvellF0gH6AUFVX3lxTE9QaGxIMHVfeVFvODBfU1lobXVQM0FxWjBqVHAwXy1RcXpUdi1tSVRueWpvLWo5cVFXZkdhQjF1ejFqcmRJT1JVQWc1NWhBT1RDaTBTbWlvRUNDeVIwVVBGdHM1RmlKbWhYOHpxNUxKT2ZsWG9XNDRYUEtDV0Y4OWFMUDUxWVBpUkhCYzJHVlFyWEtXMVhhak9PSTdPaG9xTlhVSEVGLVF5RDlOSWk2NlB5QTFlUFJiVTg3b1ZuMlU1TGF0eUdzUGxlZzk1QmxfNjNyQWYxNmFUSmZ2alZNVjZRQjNCYXJrLTBMMmI3aUNteDhiblprbVJFaVE?oc=5",
+        "date": "2026-08-24T03:02:10+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Renunció a Microsoft para empezar de cero y encontró una oportunidad: la historia del empresario indio cuya firma vale US$ 11.000 millones",
+        "description": "Renunció a Microsoft para empezar de cero y encontró una oportunidad: la historia del empresario indio cuya firma vale US$ 11.000 millones Forbes Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRFczSUMtYlNYQ2FrdVhMOXRkQlRldnRSb2hGTWNPVTdFYkxTdVRoVnRlc2FRdTRUb25jNi1HMy0zTlVkN2lfRHZhZV9hRGh1Rk5rNVZVVGRfSEdEN0RZaDgzRUtSMEZnTE5sa2JlVVM0NEZYZE1ENnRHbzNueGdrQnBiSjZoRWJKWURSUEltbDFscHNmdkZodHRPdlMyekl3ZkZKLVpZa09YSXZmQjZZbzk2LTZrRzV0MU1ZcEFWM2hNM2RlNzZCVkVURkZPUlducHZ4dERMTGtXN0JzTXFSeXBzNUxzelh3WE5kQW5feHZDSlBUamdR0gH8AUFVX3lxTFBFSTRVaVVvd01mYUlXU1g4dnY2SzF5NV9GYkZ5OTNXdWM2dWExb0ZTMFNXYUhoTTlCOUR2dFRmSXRiWmJ3RHpnQ1pvVTZaWmZYZUpEcWYzUDc0QWwzbVFlQzc4NmJTSWt4Ymt4NjRDSXNRVTgtQ0hneTRnbXQ3SWxuYk1RQUVmQW5QLXJPTjRpN19tM2hVREYxbVBlT0wzTFZWVTRQazEwU0JNOE5FMUwwNkVGcUV1LV9YZFBvUUZkdGVIVjJhV1pTV0NpLWl5VFNfZ1NpbFpyaUVaYmtuS3diV1dQelYxeFpINzJNZzBCT2dlcEJQUHE4T3J0OQ?oc=5",
+        "date": "2026-08-23T13:30:00+00:00",
+        "source": "Forbes Argentina"
+      },
+      {
         "title": "Google, Meta y Microsoft deberán pagar a los medios por usar sus noticias",
         "description": "Google, Meta y Microsoft deberán pagar a los medios por usar sus noticias Diario Norte",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbERLUDZtX1gtU3lVcE5mNEJTaEFGVXFwRTlEYjdYbGZXX0RPdnY4NG43WDl0dU15UlBMVGJ6VmZfOUxKVDBZOUhPUDZSYjZqUjh2YlFkZnlKdmhnTk9PNURiTFlReHZBVlVpNXQxMnJUaGZ5Rk5XVlhDbkVJd0J6RXYzb2Z0RUlETnF5ZlJBbUxBMXFiUm0zYUg3SHBUWFZZS1pjRmpTTDR5Nm8?oc=5",
         "date": "2026-08-23T06:52:25+00:00",
         "source": "Diario Norte"
-      },
-      {
-        "title": "Windows 11 cambia para siempre el menú cuando das clic derecho en tu PC: estas son las nuevas opciones",
-        "description": "Windows 11 cambia para siempre el menú cuando das clic derecho en tu PC: estas son las nuevas opciones Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOXJRNGluajdxWm5kT2R3NmdpX0VWYTFISld1RzB1SzVmdnN5bzlCNUJ4T2xielRweXhvV2NheXR1d0hDeWllc0pWWDlvSk4wTjU2VzJxaWh4T3Z0ZkhSSVE2MF9iRzViUVA5dWkyYnhmeF9qdXR6bjlYekRqdVQ5b2lOeTEtTzQ0MU9hcFFNRzltcXRacDV3QWhBNHdTYUhYRnN5MnJ0dS1GNDZRZWZvc1h4UkMxVjdESklPZzJLdnE1OVpwa1FjM1ZOeklldFp5em8zZUxmbk5JalHSAfYBQVVfeXFMTThONjNFUWk3RVlsT3MwWGJvZzFGZDZDNFNRMlN4N2EyY1Bza2w0Sy0zOHJUQ0hJVW41UVBUaEJrYXBVdDBLdU9mNXVocFFxMHVqZzF4OVplZDlVWTFjMWhGclFvQk9NalZpTnotLWJXM1pkaUpqQ1hFbHZvcjMwZEh5TDBRUExsd1FFa1BWRlJ3WEw3NzI5bFJNM0ZxTDgyaVBZbzVKZVpHUWxDVjljOFJweDNzVjJUTngxQUpOSW1BRkpfWGZpYzBfWVBpQXJIT1hPcmJVZDNvaGZlZVREeTV2bzdZTE5pREhTM3oybjhWcHlEOXlR?oc=5",
-        "date": "2026-08-23T17:43:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Microsoft está matando el viejo Windows Media Player para obligarte a usar una nueva app",
-        "description": "Microsoft está matando el viejo Windows Media Player para obligarte a usar una nueva app Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3ZNX0ptWmFuM21lVmVobDRURVB6OHd6OE5ETHVJeVBwQzdGT2VFV2pmdWtXX3JOZVBmX0djOGVZQmhoOGRTOW8tZ29tT1RVTGdNYnFLeXFkYWJqUDRUQjRNWkdHRmZzSDgtdDNGZFdrb0JheXVvcXdrOFFTdDU1SGFMNGJLNFItcVRQOFFyT0I?oc=5",
-        "date": "2026-08-23T17:00:00+00:00",
-        "source": "Hipertextual"
       },
       {
         "title": "Microsoft reconoció que una actualización de Windows de agosto podría provocar problemas en los videojuegos. ¿Qué hacer entonces? - TN",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3F6X21DUzVTNUJkQjRhbDhvQ1ZLa19JOHFncjhmQWVyVEFEYnZmMnhNSkRsXzVob01lelI5WEptamFBSUFNZ3pFcUFHYmZkNFF3MkhtZkxjbU9YcVN2MnVWV1VzWVFsdUE2dVprUHI4aWNGOWl0dHJMaGg5MERHMG5lYm9US2g5ZXdNM3RhTVRELXJ4QW92WDJYRzU3VjdmS2VteURHRXpfUEh5QWMxbFhhT25sRUZYdFBZTnE1dmZUUHRVZ1QzbFFmNDJXQQ?oc=5",
         "date": "2026-08-20T20:20:51+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Microsoft está matando el viejo Windows Media Player para obligarte a usar una nueva app",
+        "description": "Microsoft está matando el viejo Windows Media Player para obligarte a usar una nueva app Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3ZNX0ptWmFuM21lVmVobDRURVB6OHd6OE5ETHVJeVBwQzdGT2VFV2pmdWtXX3JOZVBmX0djOGVZQmhoOGRTOW8tZ29tT1RVTGdNYnFLeXFkYWJqUDRUQjRNWkdHRmZzSDgtdDNGZFdrb0JheXVvcXdrOFFTdDU1SGFMNGJLNFItcVRQOFFyT0I?oc=5",
+        "date": "2026-08-23T17:00:00+00:00",
+        "source": "Hipertextual"
       }
     ],
     "Marketing": [
@@ -61,25 +61,18 @@
         "source": "generallavalle.gob.ar"
       },
       {
-        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 19",
-        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 19 ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNRjF4ME5GeXFETDNwdko1c2JyQk1OSnZMUlZKdjhuNWtqSEM3aElJSzZJMjFFN21xQ2loZkZSRmZNSm4xd3A4bnBqRHBONDl4Yjd3VDg5UTBrRHRtMWR0RlhtVkhEb3FJV05wcENISXM1TDlBT2J4MnRfdDlLWDBqd1E2WGIxNVJRQ1czaElKS0pqZ2o5Uk9WX1lyY3ZRaGxtR0h1OGFXbmRPUHFoQi1jV2ZNUFV2SGpCa0dYdWJkZ1ZfbG4yM0UyZ0duMGV0MTVoQmUtZTcwa2ZRSXJQNENPZzFZdHROaHFEcEh3VnlkWmwwZjhNT29WaUFDbThWeVZ2bU9Ody1EbHlEbFlVaEhQcG1ZblgwUEg1UWpDSXd2NHhLa05ha0ZnNWw2a0c?oc=5",
-        "date": "2026-08-23T03:07:31+00:00",
-        "source": "ArchDaily"
-      },
-      {
-        "title": "La transformación digital impulsa nuevas oportunidades para emprendedores y pequeñas empresas",
-        "description": "La transformación digital impulsa nuevas oportunidades para emprendedores y pequeñas empresas Tribuna de Periodistas",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVJabUJQOFduRVFCZTgybTZaZ2ZIOG9iWGFIakM2TGRTclgwWUNBc0dEM1FkZjBiblBMUDZfR2hJUWs4WklmcGVFUUlTaWlwNXpUUUxMck82akY0YWE2N29GcGxTbjA3ZzhBWFpIZUlXWU1SeXRuRGhvQktBSmhBdUpMWjRJU1RYOWFxWUd5ZVFZZmNrdWRBZ3pFMFhVTkZ5elR1WWRDa19QdmNUVEpSNlhTMGFhRGV3dW9VWUo2SXlwNmpq?oc=5",
-        "date": "2026-08-23T20:53:00+00:00",
-        "source": "Tribuna de Periodistas"
-      },
-      {
         "title": "Misiones capacitó en marketing digital a 100 marcas locales de siete municipios",
         "description": "Misiones capacitó en marketing digital a 100 marcas locales de siete municipios Agencia de Noticias Solidarias",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BaFhZMmhYZ1AzMEk3V2FaZUVNVnV2aTJKMFNCR2x2VVVRWldORDVYYUhEX2p5RXNjU3VTYzFhX0dKekN3MjZxcm00OEJVTHkzQTFiRnJBc040S0dz?oc=5",
         "date": "2026-08-20T21:45:00+00:00",
         "source": "Agencia de Noticias Solidarias"
+      },
+      {
+        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 19",
+        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 19 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNRjF4ME5GeXFETDNwdko1c2JyQk1OSnZMUlZKdjhuNWtqSEM3aElJSzZJMjFFN21xQ2loZkZSRmZNSm4xd3A4bnBqRHBONDl4Yjd3VDg5UTBrRHRtMWR0RlhtVkhEb3FJV05wcENISXM1TDlBT2J4MnRfdDlLWDBqd1E2WGIxNVJRQ1czaElKS0pqZ2o5Uk9WX1lyY3ZRaGxtR0h1OGFXbmRPUHFoQi1jV2ZNUFV2SGpCa0dYdWJkZ1ZfbG4yM0UyZ0duMGV0MTVoQmUtZTcwa2ZRSXJQNENPZzFZdHROaHFEcEh3VnlkWmwwZjhNT29WaUFDbThWeVZ2bU9Ody1EbHlEbFlVaEhQcG1ZblgwUEg1UWpDSXd2NHhLa05ha0ZnNWw2a0c?oc=5",
+        "date": "2026-08-23T03:07:31+00:00",
+        "source": "ArchDaily"
       },
       {
         "title": "Tras el Mundial 2026, ¿Cuál es el nuevo desafío del marketing digital?",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkVLYzJGZ09KSmVTU2hjZEVSWGQtM1RJUk8zUXBsTTNHbm4xMDRmdVQyckJEYVh1SEpLMjItQ01DcUJxQUZSU1dFWmRjd19FSWIxck13a3BKVGxCMHk5d0RLWU83M3lBVnByMFd3eW9EN2lYUXozRF90cllEb3ZPMTJibnZ4a1NNTXVn?oc=5",
         "date": "2026-08-19T01:02:30+00:00",
         "source": "ChavesDigital"
+      },
+      {
+        "title": "Mucho más que redes sociales: formación en comunicación y marketing digital en el territorio",
+        "description": "Mucho más que redes sociales: formación en comunicación y marketing digital en el territorio ungs.edu.ar",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3NHNmd5OUtNQnN6WEoxWjM1bnkyX29xWi1oS0dVQ0RnMm8xQ1hlRmw3M3d6WVAwSGVSRTJYajFSUlFtX21wOHlWVDNOczFaSFdNelhScHNSOS1fcVUxLUdJQmRhQVk2MnlPN2RpcUpBTzBWNFlFQ2c5SmFOR1RZMGVNZHNNWFNRaTh6bWprSGpGbFh3Yl9VUmlYeU5qbkU2SGNMLUhLZzRsVExFWVRsZkhUS1Y0RkpNaXNyR0N3ekR0TkN0a1JrMTE1eDNIdEE?oc=5",
+        "date": "2026-08-14T19:17:44+00:00",
+        "source": "ungs.edu.ar"
       }
     ],
     "IA": [
@@ -112,18 +112,25 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Ciudad de Córdoba. Estudiantes crearon una \"startup\" para registrar barreras urbanas",
-        "description": "Ciudad de Córdoba. Estudiantes crearon una \"startup\" para registrar barreras urbanas La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3FZaUc2aXRvOHlYMXIzSlJ0S18xNi1nSFFTRlQ4cmVESVBMcjZ4UUxvMHF0bmtxVjN0MVJ5YVZoNzFDX3FONEJIaGoxaXd5R2RXMkRHYVNTb25qUElhZlRlVUM3YWVrNnBPakd1UzlkTHZ3QVdva1Vsd2x1Y0EtVVZBbjVqdlg1bzFiUnNVRWoyb0tEREZibk5EdkFTM3cyaEpWVURBc1I1ajNBSTZBejJn?oc=5",
-        "date": "2026-08-24T00:15:13+00:00",
+        "title": "¿La Inteligencia Artificial nos está haciendo dependientes?",
+        "description": "¿La Inteligencia Artificial nos está haciendo dependientes? La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTVBoRGxZbEdubW5UclBtdXplWFFDNGpDVkhVbkhkdHcxdDgyaWFHLUZFOUJIUUJlU1hKdF9MNTZtRDVaQVVQMkdwMkFLb19INy1tamZyNUVZY2lDX2NMNU5nRV9EM1ltUU02Zm94d3pkdXlWbkQ3TGdlbVQycG9WMG1FTWI4eEJYeXZxWFBZN0dET0FBVGJ1N21GbDJmWGhROTNSOXdPX1RCQQ?oc=5",
+        "date": "2026-08-24T03:05:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Qué son los datacenters para inteligencia artificial y por qué disparan el consumo de energía",
+        "description": "Qué son los datacenters para inteligencia artificial y por qué disparan el consumo de energía La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzY2YmNVTlRpOWRnNzV1TTFyOXpuN1hvUUYwZ0NmSEpRMDZib0g1Z3JZbFJTRFR0a1RoTjRHaTRtdnlyeE5WbWo3Ylh5YlczZWhHWmM4YUIteEI0c2JYYjRFT0RCaUJZS2ZMV0ZDTXRUZGNsNk1yNnluMk9tNTJyZDVBT3R5NzBsRE52UHd5SFpUMl9wdjdIcDZmYnB5bVAtbG44WW5hYldEY2o2MXR6R0EtN1pHdlI5TTFSSU00SzFTOEk?oc=5",
+        "date": "2026-08-24T03:01:17+00:00",
         "source": "La Voz del Interior"
       },
       {
-        "title": "¿Es inteligente la Inteligencia Artificial?",
-        "description": "¿Es inteligente la Inteligencia Artificial? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3J1bUpiWlhwM25GWVNrN2VnS183QVhtRnRkUEc4MFFfV1NhM3k2UkJrYmJmSlZLTkpIZkdTZ0tyTGhFaUtBR0FJWWJPNE45TDduTlFzQWxoQUc2WmkyV1ZYYVVSck1zNUw3QlhhSmtobEcwM2gzTTBsLWFQSWZveE5wN1dBcXVMWU11cU1QWGVpelJNbXRGatIBswFBVV95cUxQWGszR29ycE9tWmRadm1fU0RXTmNKQldnRmZQWm5TYU9kZmhCLVd2bHd5VHRjajdvZWFRbU9uVjNnVWZIS1RLWjI4Sm9QcGxyVzY5ODhXZ0RMTGYwaGZ6ZDJyZTFBcTlaYktFOVFCZDFmUm1Hcl85YUNrYUd3MWNCM0prWFlSNEFLeVFDdTVZRUw4eWtBYmNvN09iMTI1aTlEdjhTSTR5QkJPd1pMOXo0UWE0WQ?oc=5",
-        "date": "2026-08-23T11:52:00+00:00",
-        "source": "Infobae"
+        "title": "Cuentos personalizados con IA para explicar a los niños del Hospital Niño Jesús la quimioterapia",
+        "description": "Cuentos personalizados con IA para explicar a los niños del Hospital Niño Jesús la quimioterapia EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaHAzTXB6eS1PZDdBS3FFMFp4Qk5hVFNzbE5WOWNZc0wyN2x6eWQyLUZLQ0UxS1FqcDBHVWFvZWllbEdyMTl1cWtqYlhrYXRoX183TjBTOWoxbDFrQXctMUR0a1NUSXhSSzhObzdleTlPcUNWVTJaZUcxTmNFU09QMVZ5STNORWZXYlZpUXVlaHcyY0ZJRElFckk1WlRHWEo0WnlQT1JsMmxnUlpKejNWR0pkZzV1aWwtYm5obUdWVTFzSjg3b1pHaWhnX3lHZEt4V2tONWVUU2dqWXhra09iaTZSMNIB9wFBVV95cUxOdm1vT0U0QVpjbkE1WDhIaHlPREpIbWY3dENqV1JuemZjZzZGdG4xWWN0elV1T1NWWWI2bW10SGpkaS02SXF4VkZoWHppMkxDZmV2aW1YR1VRN2l5LVFPbG80YlpFN0ZrVmZvTE4yVXBBYWdHVXpKcnZuS3pRTFdjbjdETTJSUGJkVy1tbmRpLS0xaUowVF9kU1lYNWZmZ1g5WVVGSWZRTkMtbHo2Zm9pbnVfc19udmxpZXhIbi1pVzdDVnhycVI2ekNFUWhrWVRGeHlpVEhhVXNTR0huVzZvUFNVYlJHcnVadDlfdWxYaURPYUdyN2M4?oc=5",
+        "date": "2026-08-24T03:30:01+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "El Papa León XIV volvió a alertar sobre la Inteligencia Artificial: \"No pueden ser los algoritmos los que decidan\"",
@@ -141,27 +148,13 @@
       },
       {
         "title": "León XIV advirtió sobre los riesgos de la inteligencia artificial: \"No pueden ser los algoritmos los que decidan\"",
-        "description": "León XIV advirtió sobre los riesgos de la inteligencia artificial: \"No pueden ser los algoritmos los que decidan\" DataChaco",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnZ4d3BOdGhZRzN6SzJmd1VDaXg1T2kzSUF1OEpaTEN6VzBQdkJPdV9fcFJEXzY2Y21hcmwwLVdZZF9jOElNWmZQbDUyR2JhWDJLVFVPM1prVzNna2FBZHdaZHA0dC1TeTgzRm5vTkIzMWdqMldGQVJDSDh0ODZHVzZRSl9VcEJzSU13cUtLZVV2UG1zWnJIYnJQa2ZxeVVieVg2eUl5UmZza21TRWdwNTdYUmNpaEM3YlRFdHdRQ2RhNEd3N1JYb1RoQjgxMEREUVlPTWlOTTNKTXM?oc=5",
-        "date": "2026-08-23T20:24:38+00:00",
-        "source": "DataChaco"
-      },
-      {
-        "title": "La Plata: declaran de Interés Municipal un libro sobre IA | El Dia",
-        "description": "La Plata: declaran de Interés Municipal un libro sobre IA | El Dia Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTHc0RzJzZjFIdUQzbEFiak83NEdiSFMxMWc4ZzlxdTlISllkaUx6RkdCbjFBYjZMMDYxemstVmhiUjNUQ1hPdDNBSDBKUklDSU5CZ3VYSkR3N21KXzhyaEtoSlBWSVI3RUJpSUNGc2NXYlJYVmNHN29qX1JETG9xNnlIRWdCSjROLWFsNlhzQUY2dnhkSkhwRE4wMUFkLWNEc3lianEyVHVtMUZHTmFFRkdMLVV3YzdNYU9IMkZHMHk1OVg2c3FoWGx0b0xNckxrUmpEdGNDOHhlcXhDNks1QmphVnU?oc=5",
-        "date": "2026-08-23T18:21:00+00:00",
-        "source": "Diario El Día de La Plata"
+        "description": "León XIV advirtió sobre los riesgos de la inteligencia artificial: \"No pueden ser los algoritmos los que decidan\" Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWNpN0ZTZFhKaXcxREh6NmFkakFCQURwR2NJUldpbXkzMUxjcjU3Vk04dW9FZHBJTnZOekxmQ1dHa2YzTDhrZnFZNzE2TmIxQ3lNUDU5WUNRcEpJVkJkSXdyVHZ4WTdYVnBBRm5CcjRtY2E2bExlQ25kamlCeGVlM0F6eE5wR2xCZVJZV2dJOEVZQ0dGUkxSb2JaU3pUSjM2LVozbmgyOEVUbUNEMHppSjR0NjZ2VHY3Q09yVzY3WldRblByX2o1VG5zN19McHJLWk1yVEZ30gHbAUFVX3lxTE56YWZVemhyUTRGZXhjdFN3OWFVcEsxQnk1TzFfTEhEaERKMWYwN2NDd0JjTGxKcFY3Qi1PRHR4UEYzNHJ1ZkptbFhJbHpLUnNKMGRBa21RTGZQZ2c2WkM2WUxWNkpLSlFoSFJ2S19YQ3pGMWVEQWZwbmxIVnFMZjJzdnM2b0ZMLUVBY0J6OHdRZXJXbUdLRVcyZGNaaFBxM2pGZk5VSnlzYzA3MVFEeDVRLTQ0Zm5DTkFaMFFOVHdQUk1WY3BRaklJZFJ5cTJKd1VxWmpyYzZyQndwWQ?oc=5",
+        "date": "2026-08-22T22:47:00+00:00",
+        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Bahía Blanca tiene nuevos dueños: TGS",
-        "description": "Bahía Blanca tiene nuevos dueños: TGS La Izquierda Diario",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13U200NUNGc3NVcUFpMjdZWWREVDRmVVY1S203LWxrNElwODROdEdKWUpoMWVWaG5kekFkbVFuQXFYYnAzNUtBdzVOUC01SzVTTFllMzFCWURuQ0sxQ3NRVVoyVzlOQ3dFckhaRGRfN09sSGp0MEx6dGNn0gGCAUFVX3lxTE9Canp3eWpZSk5LTTNGTUJCR08zRzJjUE5NcXNEcFZnaHNsX3RGbWZvWUV2bEhRM1d4cE1PcWltU1dKdGFwV1V1bVZzRmxpU2NvekNmalpXWmU3REYtSWtsNTFkWlBmMUlZeDJnYkcyVGkzYVhZS0l5TnNIY0dyVTB5dFE?oc=5",
-        "date": "2026-08-23T23:52:44+00:00",
-        "source": "La Izquierda Diario"
-      },
       {
         "title": "Cómo vive Añelo la presión de Vaca Muerta: \"Si el gobierno nacional no nos ayuda, se va a generar un problema social\"",
         "description": "Cómo vive Añelo la presión de Vaca Muerta: \"Si el gobierno nacional no nos ayuda, se va a generar un problema social\" econojournal.com.ar",
@@ -171,10 +164,31 @@
       },
       {
         "title": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\"",
-        "description": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\" Ambito El embajador de EE.UU. pidió a los países de la región que eviten la tecnología china y advirtió sobre su uso en Vaca Muerta MDZ Online Lamelas volvió a expresarse en contra del…",
+        "description": "EEUU volvió a advertir por tecnología china en Vaca Muerta y habló de \"riesgos de espionaje\" Ambito",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWl4dTFLMEtOWFNKaTRZMW4xcXlOZUFLUTczSzBXUWVaNV9mVkZIRDZKQTdHTlNZODV0Z0hxWUxnM2Y2bG1WRV9JaTJLRTQ4S25EWmtxZmJrei1WY2lmN0ozY2hLZzFYbGJFbHlLemt0MDRQNmVrY2FzUUo0VXZ1LTUtZ01JZkxXcTZJbEV4RVFjdkpSTm1GRm53Z3V1MW55cTBiRWZBbEhwWHd5UGxYUUc2cWtrdWfSAbwBQVVfeXFMTVpUM2hCMEhoNlN6RmVSQVNWcm5NZ3FiVGhUdkZLV0NBWkFoUkVIS1lLNGp2RWRRR25KM2pHaHVDbVJHSGpZeVRiRTkwMlhsMEVXa3BJQ19CMFh0bjlnaGxqUGdpUVdPZ2RZSXRSMy1teEtFb1N4QzJiaUZHNkMtT1BqWi1MTjhNTGRFeEJ3UjMzVGRodE5NVEVRVno0MEd4dzJzcE43STJZWjMzUGYzbllVNU4wNzMyWTNKSDQ?oc=5",
         "date": "2026-08-23T00:42:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "Lamelas volvió a expresarse en contra del uso de tecnología china en Vaca Muerta: “Riesgos de espionaje”",
+        "description": "Lamelas volvió a expresarse en contra del uso de tecnología china en Vaca Muerta: “Riesgos de espionaje” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzRKdGdCTGdfVkpnUHZkM3RVZkNOYzl4MC1jRU5LOEI5bEhxaldSaVlremdPOUJuaG03M2s3TGhkN25LRnNCU3pHS1Q5ZHJ5bDZoRVFjRFFDbTMxM2JDeTlwOVA0bUlMNGx6cWZ3VFpXMS14M0FuTy05MXNPMl8wUTBmTnZpdkRza0U4NU0yS2FRR3RIQXVmaGxMWjRrcC1Pd0YyLTYtYTVmNjdWZFZyX2ppUUlOc2xibGRwZFhXMWFJdllqZjczMm12QURWZXdNUGtzbVA5NE4?oc=5",
+        "date": "2026-08-22T19:32:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "EE UU vuelve a presionar contra la tecnología china y pone el foco en Vaca Muerta",
+        "description": "EE UU vuelve a presionar contra la tecnología china y pone el foco en Vaca Muerta Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMWtZRkJqMmoxbTFhLTVJT2NlWkVQZVhnd1VpRHFXTXNVeEc0aXpCdGRZd0xsZ0FGVlZXRFFkTVZaUTZWMDcwbzViRGJnT3ZhRVFLTGFyV0tqX1JNTmRFXzRvX0wxWHJVMjNKOW9HV1FoUUNjdkZPZzBUb1N0V2xJSURLOTdKVldIWkYzdlVwbmtuNmoySE9kSXZ4NGszdGFSblUtM1hkeGtOcXdZRVJGQVdXVGVqdkYtZE5kN1NKVFFBbzJXVU1iRGNGMTcxeUFUbThmUGNtWlRGYzF0RUFPZThWWFprWXVYcnc?oc=5",
+        "date": "2026-08-23T06:41:06+00:00",
+        "source": "Diario El Día de La Plata"
+      },
+      {
+        "title": "Neuquén. Vaca Muerta: laboratorio de la reforma laboral",
+        "description": "Neuquén. Vaca Muerta: laboratorio de la reforma laboral La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd2h0RFFfa0JXdjNaUzdHWk52RE9iZXFfOVo1cnZHN09UUWktLXRUUGFmSEFBREY5dmJpSGhUbzF3NlRic3N6cU1hUHNnSl9vUHlaQ2k4N3dsdF9tSlY2b2FLSXdmQ3dEd3pZX3ZDMkl5S2dveFlfRWZsSzdHRkV5RGI0THZuQQ?oc=5",
+        "date": "2026-08-23T12:41:09+00:00",
+        "source": "La Izquierda Diario"
       },
       {
         "title": "Cobro de peaje en Vaca Muerta: cuándo comienza y todos los detalles",
@@ -189,20 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmtsN3EyaFpVNWgzT2RCVHF0VTljMm5ja25HVTVWWkFsU001c2VoRWVCanBDNEd3cU1JeVNMYk1nUXRFdXhpSFBDdWJvYVRLVDBLZGpaZGZhNHgzOThSZG5ISkg0Q3JHNmtqUWtyOTBJRkVtcXZQbi1rMXFWNDJ6WmczVW9OWElFOVBacWtyRFIzRmZqSURnMlhIY0Q1d1dlUDJuUlU1ZUJiM0F6RjdSQ0RaR1hObzAwcVBPQTF1MU5YejlQ0gHKAUFVX3lxTFBkREc5bVRXU3J3ZGxvRGc4dE9STUFDbS13T2F2Y3hBaWRyWEllY09VMHNDYkdVNkwwSGVqN29mOFd6dW9QaXI3cXNPWnBVTVJYcVU5MUwxdGJ6VnJaZ0RSOFpTNFdrdWdCbGlGOTVuYUFHTDQtR3FmeVNLeGtZb3NQSHh2M0ktNjV5N1UzNHRlV3dpQzlmQ1BwVThCZGFoaUJuTkY2VGxRYjlQc1JNMERGTU9tcWF6TlpWNW56aTN2bDBYeEpqeWYwVXc?oc=5",
         "date": "2026-08-22T04:44:52+00:00",
         "source": "Perfil"
-      },
-      {
-        "title": "Oportunidades en Vaca Muerta: por qué las pymes de Córdoba se reconvierten para el sector petrolero",
-        "description": "Oportunidades en Vaca Muerta: por qué las pymes de Córdoba se reconvierten para el sector petrolero La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWjJFUmFMZVNMcjRNVTZrN3FzUVhzeFRvU1FIdHdPVm9uUmd2c1QzeERVbnNselNfcDFWUUE3YzV3dENnWFRtTE15N0xGdDBLcmhYRS1pTDY0Ymxnbmt6Rm5xeFNlTjViVmxxQUd4MHpPbDNjOE4zWFdOMjA1QWRTT0VNUEdaMXd2ejI4LTVpNDN5TlM0TE4tYkNrTkNLbTRRc0JTU2d0TnZJVmFEZnJQdjlwbUNRQnJ6bXQzY25n?oc=5",
-        "date": "2026-08-21T13:22:31+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "La soja negra de Vaca Muerta",
-        "description": "La soja negra de Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yRFBlamdfaGtnaW85Q1AxYWVnQk5tc19nYXo3OHFxSnZQZ1Z0ekFEbVl4b1pUTTR5VlhabXNQM0RrXzdLTDdKdy0tWGE0Snl3ZFJDT2dZbFczdWMwdFZkTXNZWVVjeHF6VEt5dzczTzJfZ0RqUG9R?oc=5",
-        "date": "2026-08-20T23:01:00+00:00",
-        "source": "Página|12"
       }
     ]
   }
