@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T16:29:24Z",
+  "updated_at": "2026-08-24T17:25:08Z",
   "categories": {
     "Microsoft": [
       {
@@ -105,6 +105,13 @@
     ],
     "IA": [
       {
+        "title": "¿Es inteligente la Inteligencia Artificial?",
+        "description": "¿Es inteligente la Inteligencia Artificial? Infobae",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3J1bUpiWlhwM25GWVNrN2VnS183QVhtRnRkUEc4MFFfV1NhM3k2UkJrYmJmSlZLTkpIZkdTZ0tyTGhFaUtBR0FJWWJPNE45TDduTlFzQWxoQUc2WmkyV1ZYYVVSck1zNUw3QlhhSmtobEcwM2gzTTBsLWFQSWZveE5wN1dBcXVMWU11cU1QWGVpelJNbXRGatIBswFBVV95cUxQWGszR29ycE9tWmRadm1fU0RXTmNKQldnRmZQWm5TYU9kZmhCLVd2bHd5VHRjajdvZWFRbU9uVjNnVWZIS1RLWjI4Sm9QcGxyVzY5ODhXZ0RMTGYwaGZ6ZDJyZTFBcTlaYktFOVFCZDFmUm1Hcl85YUNrYUd3MWNCM0prWFlSNEFLeVFDdTVZRUw4eWtBYmNvN09iMTI1aTlEdjhTSTR5QkJPd1pMOXo0UWE0WQ?oc=5",
+        "date": "2026-08-23T11:52:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Los gráficos para entender el despegue de la inteligencia artificial",
         "description": "Los gráficos para entender el despegue de la inteligencia artificial EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjlNUmFINENiTWZtV1QtcThIVlJIUk9idHVxcFNDUjh4aUxYUEpZWXRUWDkwaWdWbjJCU3BXZlk3eEVxcmRMS05RV0ZPbDVVSDFHajdDU0VJNy1oRmg3UGU0b21BWmNRUkszNVcyUVNvSU9pSTc0WVZHUkNNLUFPdUZsN250S0ttNE01dGJ6TW9xMUxqemZvb2ZNa0UwbE1vOEd5YlF4NDN6cmxfQUFWZNIBxAFBVV95cUxOM2J5WmFqUTUzc0VUaWlaVHRzdG5KZHpDSDFvNlQyenpicUR1LWR2Y2dmYzV1RUNBalZ5dG5ndk1nNUo0LUdxSGhDbUFocTl2THZpZ0dzQ1M0VkluWVhGei1QYmc1SUlqeGluakQzUnpjV2dpbWFsOS0yak9MRTFOTFFyOUk5Mkd5UnkwV284MmdhSy1Lc2llZ0RGNEc4eGItVGk2cmhQQ0pVemtNNDVhNjRhSWZfUUlfMHB2cjRMSTl3d0df?oc=5",
@@ -112,18 +119,11 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial",
-        "description": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFFMSzduRWZSRF9lOTRXdC1MTkZfX1VTank3bWY2WktRcS1pMFJRLVpvcGdRYTR2RlpkWl94UTZpUGlNQ0s0WlZIblRxRFdaX1NQRmdrMEFYRjNOX1QyenVuOXJoU0k3ZXFncllydEtwMngtTGFFSFJkZGdtV0tmSDZPWjhTVHV1dFZGWVFFQVhoNHUyM3ZiNnVIZFVMYklxWmRuWUh6ZkdEU2tSNVc1b2RBOU1tZFlLVG5pZU1pSnhnel9reHg2anF2QXBOZFE5a3BB?oc=5",
-        "date": "2026-08-24T16:25:00+00:00",
+        "title": "Nueva era dorada: cómo una joya del campo va a dar que hablar con la inteligencia artificial",
+        "description": "Nueva era dorada: cómo una joya del campo va a dar que hablar con la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcnMwdEplcS13Y2hXQmk3aExUaHNkSlBZOUtiNFFfY1FQbmlSV0ZXV3pyaUFtTUdmUUlnQ1VEQ1dCUk44OWJYazlhdjZibWxaeU9rbzYyU25rN3dxaXlSOTZqQk0xV3R0eTlwUk5tc1FaMWNGTjl0V1lOMTFSa3VrQVJJYVc1M2JIcTd3MzlHbFZ5Znp3U3hnTVUwc2YwcGtUWTZTVFdDUUV1RnVGQzVTQTJTX2V2cW94c0FiNzFtem1VY0JHQVEtclFzclE5d1JmOUYtQllsQk9GaDF1WUloNA?oc=5",
+        "date": "2026-08-24T09:00:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "El nuevo agujero de seguridad de las empresas no está en sus servidores: está en cómo sus empleados usan la IA",
-        "description": "El nuevo agujero de seguridad de las empresas no está en sus servidores: está en cómo sus empleados usan la IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFhSTXhCXzRseFlmN3ppN1FvY1JNLWtDcnEydHJha0x5V0hPTHRNZnJ2eEt4dEZUTjZnMWdEOHRoUk84SUYxX0dUNWViYm51NTN2UTJFSUFMbmJ1UzhmdUNQX1J5XzByeDRkb3UteDBrbjY1Y3ZpSUNWZURNUHBrRUR0WmVyLXU2WG8xM19nUWhaTjUxeDJpZVRMa3RuN3JmY0ZvbnR3TldGSGhQTThrYjdCbldKMlZIel8zczAyWUxhemJHRWZuZXZaWnR1RGRucWdSNDBsQnZhMGh1cTQxWmt2aEtDMDU20gGDAkFVX3lxTFBTdEpsWXppa09Pd3VKemxaWElDeXByeUxpSlZaUGRjRjVHQzdBb1pvSnFfSnlMQndYNkRIUHFBMDJkY051NTVUS0pMMEhjNXczc2t6UHlSbE1OM25tVHdjUmFpM3M2dE9xaVg0VjJ4RllLUUNaR3pkQUVaMFdMV3B6RXNNaURHTjM4UmdPdHJLNXVEY244VlhWTkRfSGJoNmJXYmJidFhvd25UWnBncXJRbGw5dU83NlZ5M2RuME40OTVrWENiZkx6bzNGM19DdFNnVkZRWDB4cUJXTnkxc2cxa2NLUG9hRUkyeFB6SWJzejJFTkIwZVVwem5HZ1ZkWUlZNGM?oc=5",
-        "date": "2026-08-24T15:10:24+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Un dron mató a tres ucranianos. Estaba guiado completamente por inteligencia artificial",
@@ -140,11 +140,11 @@
         "source": "TN"
       },
       {
-        "title": "Un grupo de expertos coincide: esta puede ser la primera profesión que sea 100% asumida por la IA",
-        "description": "Un grupo de expertos coincide: esta puede ser la primera profesión que sea 100% asumida por la IA Diario AS",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYWdJQWJwYThfUUlSWUlfUUl2NGpsdF92aG1DWWV1Q2JOcUNCam5MdmtQZEU2NzlXMFhWamJtLWx5V2xiQ1JscFJJVExZOUJ6YXRXUi1BLVQzbGQtRy1JRzF5bkUyeG01WFhmUXJ3a2RRaFp1b2Fha2tySmw0Um5qUXV6cXlBanNMZGp5UVpIMDJ2VkM0ZHdtNG83b21iSF9PNmVRX3ROdXV4YkhYQ0JhVXN0cFEySnFFTlVtYWx5a2dKMEJiOWZOUE9lNjU2bUU0T2VmaDhmc9IB6wFBVV95cUxNbXpWeGVjVEo4eENmWEVscHhHbHRSVk5wOUk5bDBjVXFxaVpJdW5ZcDNKanZKcU9VUVhMd050eVdDNFpDbjVOTjY1Q1ItZDVfRHA1QWxmQ1lKRC00VEdLeEd5aWNyN3BMelRVaWRTOTB2eGtCSWwxLUt1ZDNyb1NmRDI2VDJPX3JNdm9mY2pmMW1oZVVfRzZZdk5XcXZabG9YREpQNXNWTGR1N3Z1djVZYW5NLTIyVlQwalNtbmxiWXpXdXpqU3ZkOU1SYkxaYjRsSXkxYjJwLVNuM2U0cjFSaXFVdEE4UUVsYmlj?oc=5",
-        "date": "2026-08-24T15:52:48+00:00",
-        "source": "Diario AS"
+        "title": "Capacitación y actualización sobre Inteligencia Artificial en el Colegio de Martilleros",
+        "description": "Capacitación y actualización sobre Inteligencia Artificial en el Colegio de Martilleros La Verdad Junín",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWU9hZDhSdndzQldDNUNDa21QamFiOW9hRW1BTWhpZUllbGJYTVJQMmYzVVZ3ZWZ6WTB6OXhkdkZ2c1lpMndONnN6ejRTV3NLak8xRlc4WUNhdFJ5Y2pfdHV2ZV9xOHdDWi0yRGJrNHlma0lXa3haOC1DRGgzVU5vRlRtWm1EUXFveVRhRXVwS2hGTVhpYWREeWUzeW8tSzg2M2Nlem5yZHAxSnl5Z2U5UTJQaVJ4dw?oc=5",
+        "date": "2026-08-24T16:42:19+00:00",
+        "source": "La Verdad Junín"
       },
       {
         "title": "Empresas, inteligencia artificial y seguridad jurídica: qué está en juego en la reforma de la Ley de Sociedades",
@@ -157,7 +157,7 @@
     "Vaca Muerta": [
       {
         "title": "Vaca Muerta llega a la literatura: cinco cuentos sobre petróleo y crisis ecológica",
-        "description": "Vaca Muerta llega a la literatura: cinco cuentos sobre petróleo y crisis ecológica Clarin.com Récord petrolero: en un año creció 25% la producción de barriles en el \"corazón\" de Vaca Muerta Clarin.com ¿Puede el “Texas argentino” salvar la economía del país? Infobae",
+        "description": "Vaca Muerta llega a la literatura: cinco cuentos sobre petróleo y crisis ecológica Clarin.com Vaca Muerta imparable: el nuevo récord petrolero que alcanzó Neuquén en julio Lmneuquen.com ¿Puede el “Texas argentino” salvar la economía del país? Infobae",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUtSSUJYRnpUZXR3M2Z2Wmg2NmN5eUUybFJZSVJ6dXVQU0NYb0VNTHRKaTNPV0lxRWJCVmRrS1g3cW53VzNhSGgzaU1zZjBLdnNtYmo0MHVLVEVXME9CSGJDb01Vd3BQSkVuQzlPYXlJVGIxNDJKbHdyR01qM0RvU1kwNElHMURCYk1xVjMyZnpiUFBsR2FsZ3FfRTZIMXFSNmRHZ25qLU91aUlZN0Mxdg?oc=5",
         "date": "2026-08-24T12:05:24+00:00",
         "source": "Clarin.com"
