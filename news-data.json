@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-25T06:36:07Z",
+  "updated_at": "2026-08-25T07:38:35Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft culpa a la iluminación RGB de todos los problemas de Windows 11",
-        "description": "Microsoft culpa a la iluminación RGB de todos los problemas de Windows 11 El Chapuzas Informático",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlZXMXJRWUNHV3hjaDl4QXc0Sk5pTTBkM0pKX0xDeHBzMEZ4Wjh1RWpSa0J5TTdRcGRyV0xnQjRKV2dLQ1RBNWxpaWVod0J3MEduazRoU1k1RkNHdjFfY05CeEVna2xtMlhTSXRoWmZwclB2SFRkX1l0dlAxXzdrQmwxTFV6SWVYQzkxVXJUVmY2VXM?oc=5",
-        "date": "2026-08-23T10:42:41+00:00",
-        "source": "El Chapuzas Informático"
-      },
       {
         "title": "Por qué Perfil decide luchar contra el robo de OpenAI y Microsoft",
         "description": "Por qué Perfil decide luchar contra el robo de OpenAI y Microsoft Perfil",
@@ -38,10 +31,10 @@
         "source": "3DJuegos"
       },
       {
-        "title": "'Algo ha cambiado con Microsoft': un artista de Bethesda denuncia que ahora sufren despidos cada año",
-        "description": "'Algo ha cambiado con Microsoft': un artista de Bethesda denuncia que ahora sufren despidos cada año Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUk1LeXp3cWdVWGxKbjM4QXBLV003Q1NtVE5oUHVySmJmRzVIOGRQZU8tcmVXbng5YUljV3RHTkJjVmI0VjZoSDg4NG1JZms2eC1pWDA5cWRUN2Z3S0F4b2UyelZ2Z0VDNkFzRi00MFl6VGFqTTZJV3c3N2lDSVliZ0NUdjNHdWRiRW9kaFJQTU15ZGVKNHlRcHhZY3JtQkdqbFVIRUpUOERzdDJlMmpzMDBpQm9zeFNBVEM4X3ZmVGRxc19RRjJkS1BfWXVLWUlSbGhkdDY5UznSAd4BQVVfeXFMTWRCSms5Ykx2cExpR1MwREdMX3BBOGlhTGVsUTBCV3FQZ2xZdkZ5MW93VzZ4ajZYb09vdUZQa0dBSkJxZmlpbm5VUU5DMC15MnlNM0dXVlg3M2FobGJma1I2aGJMclBRS095N1VtQm1kd1NHbGRweTdCSXBoUGJuNC1IRXNWdXZtZFNtS3Fqak1oSjVoUGVPVGxhZEtPZzdySHBuTnZJdGJGcDV6RW5yajFkVFFPc0FxdjJDb28wSUV5TnNvejl6d2ZvTU1heWRaNzVkOHVRUEhwM3ItZEhn?oc=5",
-        "date": "2026-08-24T09:52:00+00:00",
+        "title": "Microsoft encuentra un posible culpable de los últimos fallos de Windows 11: los dispositivos y programas con RGB",
+        "description": "Microsoft encuentra un posible culpable de los últimos fallos de Windows 11: los dispositivos y programas con RGB Vandal",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaExlaGc0SHBQZG5SSEpQOFd1LVlNbXQ2b05tay1ha2pmbi1jQlZUUlFvaEhtSjNXU2otX01SVGlNd1ZnLTZHaVpQY240eUlWVFpVX3BTV2hnaXBHRUdVZExJQW1CN2pyUWhLSmJ6YmlmdDBoUTV3Q2QwX2FpMjlMVS11Mi1HU3FpYVFvQ2FjblZoUkFQZ2ZKTnlwbFM3cElkcnNUSFRNN3FtMkZZdmE4c2dhdlI1cHFYbElIYVk4TS1BbV84YUJNOExpeWg2dEdCMm9LMzAyZ2pfUUJ4dHctTNIB5gFBVV95cUxPZGwzNE5FLWRWcmc1TVVQRmVLSzNpYTQxdEJ0MzlTMkRKYXhPNkpwQzdwX2F6T0RIVmFhTkIzQll1NGRGaFVxV2VqOHJGZ0FpYTRpOW1UNXRaQzlTdHZuQTljQ0RXZzUtbXpnNl9PWVJWSnVudTdnaE5JWTVRa1lpWklHUnFfLUtFcFNnVU5ELVJwLWJJczJwWnVRT1Z0enc5RGpPc3pnN3FjNDVWWFVUZG9CeUNUbjE0Z0d2cm0tWC0tQy1DUGJOazZXbkVHSXhmMEpPemtPVDl1S3VPWlZkUi1pcEtkdw?oc=5",
+        "date": "2026-08-24T08:38:00+00:00",
         "source": "Vandal"
       },
       {
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVQ1RC1mMUdOUGw1XzJWb3ViTUdaVF9YQzRDNk03NjU3WGhxNEtYZUFNZTZpYllzel85TlQ0OE03MnlDQk5lOXhSYUdRdWFHenl0ZWZBaXNtQ05vSWhGZmx0elBsX2ZDd0tFQVRQUW9tZzEyY202N2djQ20xdnZSY2xUdk9DbDZiSGFtS0lvU25hWkZpUmNCZzg3c3RLdWRiNHJDNTUxRll0S1pKZW8yd2RaZXItTnhfN1VDNkdCaVIzc3lQSjNlZVJYdGxCYlRDWTRjY2lqZ9IB3AFBVV95cUxOZURvbTdqOEx1b2NrVEFyc3pUeUJac0NHRWxodFJWYnRydFRTZTRGeWFfSzJXb0Q5M1pYQkJOa0EyeGhBdXdiZk9FbUQxUm9BWmVDaG5WeXdYT2dua1BFRDFoN1FEdkFKLWt3Qk8xdGhZUnR5dWl1Z3hGUzRncVlPVUVPWDUxXzJnNUJJTlNZYVRTOE0weW9zNzgtSy1VZTE0cUVaZF8zZjFPa01Ocmc0dmxPSWpENmZGQ1JjdUNseXVjX3VNc0dBZDdNWXY2TkdpaUJsUExlbWJJN0NP?oc=5",
         "date": "2026-08-24T19:16:12+00:00",
         "source": "Perfil"
+      },
+      {
+        "title": "'Algo ha cambiado con Microsoft': un artista de Bethesda denuncia que ahora sufren despidos cada año",
+        "description": "'Algo ha cambiado con Microsoft': un artista de Bethesda denuncia que ahora sufren despidos cada año Vandal",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUk1LeXp3cWdVWGxKbjM4QXBLV003Q1NtVE5oUHVySmJmRzVIOGRQZU8tcmVXbng5YUljV3RHTkJjVmI0VjZoSDg4NG1JZms2eC1pWDA5cWRUN2Z3S0F4b2UyelZ2Z0VDNkFzRi00MFl6VGFqTTZJV3c3N2lDSVliZ0NUdjNHdWRiRW9kaFJQTU15ZGVKNHlRcHhZY3JtQkdqbFVIRUpUOERzdDJlMmpzMDBpQm9zeFNBVEM4X3ZmVGRxc19RRjJkS1BfWXVLWUlSbGhkdDY5UznSAd4BQVVfeXFMTWRCSms5Ykx2cExpR1MwREdMX3BBOGlhTGVsUTBCV3FQZ2xZdkZ5MW93VzZ4ajZYb09vdUZQa0dBSkJxZmlpbm5VUU5DMC15MnlNM0dXVlg3M2FobGJma1I2aGJMclBRS095N1VtQm1kd1NHbGRweTdCSXBoUGJuNC1IRXNWdXZtZFNtS3Fqak1oSjVoUGVPVGxhZEtPZzdySHBuTnZJdGJGcDV6RW5yajFkVFFPc0FxdjJDb28wSUV5TnNvejl6d2ZvTU1heWRaNzVkOHVRUEhwM3ItZEhn?oc=5",
+        "date": "2026-08-24T09:52:00+00:00",
+        "source": "Vandal"
       }
     ],
     "Marketing": [
@@ -112,13 +112,6 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "La IA avanza y China teme por sus empleos",
-        "description": "La IA avanza y China teme por sus empleos Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXhyZnFVNFE5dHFnQ3ZzZnZUTGd2dVBBTjJCRm5aeDJ1WUNzSHBfOFpsaUdsVkJ2LXZQbmh5S0VDSzd1NTBDSlF5dS10c2hfLUNJVEF3cUFIQ252dy1wS1NGRVJ4US1IcHRHYndPZ2prcE5ra3ZORjhkTHlSRXBWbmtpc1lIbUZIS1NoMVRJcWNDU2hDSDlr?oc=5",
-        "date": "2026-08-25T05:26:22+00:00",
-        "source": "Diario El Día de La Plata"
-      },
-      {
         "title": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial",
         "description": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial La Nación",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFFMSzduRWZSRF9lOTRXdC1MTkZfX1VTank3bWY2WktRcS1pMFJRLVpvcGdRYTR2RlpkWl94UTZpUGlNQ0s0WlZIblRxRFdaX1NQRmdrMEFYRjNOX1QyenVuOXJoU0k3ZXFncllydEtwMngtTGFFSFJkZGdtV0tmSDZPWjhTVHV1dFZGWVFFQVhoNHUyM3ZiNnVIZFVMYklxWmRuWUh6ZkdEU2tSNVc1b2RBOU1tZFlLVG5pZU1pSnhnel9reHg2anF2QXBOZFE5a3BB?oc=5",
@@ -147,20 +140,27 @@
         "source": "La Verdad Junín"
       },
       {
-        "title": "El nuevo agujero de seguridad de las empresas no está en sus servidores: está en cómo sus empleados usan la IA",
-        "description": "El nuevo agujero de seguridad de las empresas no está en sus servidores: está en cómo sus empleados usan la IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFhSTXhCXzRseFlmN3ppN1FvY1JNLWtDcnEydHJha0x5V0hPTHRNZnJ2eEt4dEZUTjZnMWdEOHRoUk84SUYxX0dUNWViYm51NTN2UTJFSUFMbmJ1UzhmdUNQX1J5XzByeDRkb3UteDBrbjY1Y3ZpSUNWZURNUHBrRUR0WmVyLXU2WG8xM19nUWhaTjUxeDJpZVRMa3RuN3JmY0ZvbnR3TldGSGhQTThrYjdCbldKMlZIel8zczAyWUxhemJHRWZuZXZaWnR1RGRucWdSNDBsQnZhMGh1cTQxWmt2aEtDMDU20gGDAkFVX3lxTFBTdEpsWXppa09Pd3VKemxaWElDeXByeUxpSlZaUGRjRjVHQzdBb1pvSnFfSnlMQndYNkRIUHFBMDJkY051NTVUS0pMMEhjNXczc2t6UHlSbE1OM25tVHdjUmFpM3M2dE9xaVg0VjJ4RllLUUNaR3pkQUVaMFdMV3B6RXNNaURHTjM4UmdPdHJLNXVEY244VlhWTkRfSGJoNmJXYmJidFhvd25UWnBncXJRbGw5dU83NlZ5M2RuME40OTVrWENiZkx6bzNGM19DdFNnVkZRWDB4cUJXTnkxc2cxa2NLUG9hRUkyeFB6SWJzejJFTkIwZVVwem5HZ1ZkWUlZNGM?oc=5",
-        "date": "2026-08-24T15:13:00+00:00",
+        "title": "Reino Unido y Ucrania firmaron un acuerdo para compartir datos de inteligencia artificial del campo de batalla",
+        "description": "Reino Unido y Ucrania firmaron un acuerdo para compartir datos de inteligencia artificial del campo de batalla Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVGs3SUVVQVJhbEdFWW5zNGRzMXNvLV9JUjRsYTFNdFRvN0JtY3BtcUk1YjJMNGZ3WUZHU2ljZ3QwdGdOWExzVkVOMnVJTUpJQzRBWEctbVd5dThVU3JuUXR2ZXg1emt0OTF6QUFBcmlhSnpDWG1oMnRRVUFJSFlQbU5rYm1nUEQzQl9zM2g5RFpSTUVMb21hWDFGSmwxQWwzWmhqRE14VkNOMWZaRDZ1NnJldGRKNmFSTGY4UFl4dDk3Vi1kMnhBQUtiRks3WTlQck5aX2o3VGYxZkhWclExSDBsbEtMaE40T205RWZralNhd9IBjAJBVV95cUxQRlY1VVJZUkYzWHNiUHQ3bGFvUm82eHRLTzMzdEQxQ0FvVzVvWUVuVTJXemJzang4ZDNKMEF6N1hCblFOTkh6eVQ5bExRZmhyUHhyUUNUT0hFckRJWGJrZFlqczlNSUxZb0laVHQ0QkdaZXNmNjZYSmRDWm5tYTZTUEZ5VWZfNnY3OU12T3lZZjNoTVNyU01iNEFMY1VwbVpxYU9jYV9LeF85UHVtZkhtTTd2V1dyOG04UWNuRXp5eFV3V09JZzRpdlVpQ0R0dzBiY3RaVDJPYjJLRHNNb2VBSzBfSElNMHZQMGY5TEdrVnZkVzk3c2VNZDlkNjFmX1BaQ3Fsd1I0UzZfQUlI?oc=5",
+        "date": "2026-08-24T21:02:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Empresas, inteligencia artificial y seguridad jurídica: qué está en juego en la reforma de la Ley de Sociedades",
+        "description": "Empresas, inteligencia artificial y seguridad jurídica: qué está en juego en la reforma de la Ley de Sociedades La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3E4T0gza1B4T0NqdUdWQUUwSXFxVGItOGl1WFEzVHN0Qk9hV21HcUdPVFBpUG9HdS1XRlVpREVDaXpXWTk3WmdsMkY5MndtbnJBLU1yMm9BdXRnRnJnY0d1VU51MzhDU0dhSnduMWxFOG9iaWVXUGx4UVdpYnZUa1hyeXVzV2ZQajhpaWFwVV9wVVZkc0ZiMVJNb21iaGRaV0xGWFFjd2syOHlvZGZHQVZEQW5aVGt6cjVTR25lT2xES1hxT1U0MjAwTFBKdmthTG83QkJnVWJhcjZ0bEE?oc=5",
+        "date": "2026-08-24T15:47:35+00:00",
+        "source": "La Voz del Interior"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Vaca Muerta llega a la literatura: cinco cuentos sobre petróleo y crisis ecológica",
-        "description": "Vaca Muerta llega a la literatura: cinco cuentos sobre petróleo y crisis ecológica Clarin.com The New York Times, sobre Vaca Muerta: “¿Podrá el ‘Texas argentino’ salvar la economía del país? La Nación Gustavo Medele: \"Un pozo de Vaca Muerta de 2015 acumulaba menos petróleo y que…",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUtSSUJYRnpUZXR3M2Z2Wmg2NmN5eUUybFJZSVJ6dXVQU0NYb0VNTHRKaTNPV0lxRWJCVmRrS1g3cW53VzNhSGgzaU1zZjBLdnNtYmo0MHVLVEVXME9CSGJDb01Vd3BQSkVuQzlPYXlJVGIxNDJKbHdyR01qM0RvU1kwNElHMURCYk1xVjMyZnpiUFBsR2FsZ3FfRTZIMXFSNmRHZ25qLU91aUlZN0Mxdg?oc=5",
-        "date": "2026-08-24T12:05:24+00:00",
-        "source": "Clarin.com"
+        "title": "The New York Times, sobre Vaca Muerta: “¿Podrá el ‘Texas argentino’ salvar la economía del país?",
+        "description": "The New York Times, sobre Vaca Muerta: “¿Podrá el ‘Texas argentino’ salvar la economía del país? La Nación The New York Times pone foco en Vaca Muerta: la silenciosa migración en busca del \"Texas argentino\" La Voz del Interior Vaca Muerta llega a la literatura: cinco cuentos…",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFhRZWlydzBUSTJIQkFnRDhmZUFtYUp0UzJYQ256TnF5VHBHYy1lSVhFZnZNQndKSnJxZTZTTWZQMjBHOFF0UzQ2Z0FIZWUycXgxT0hXRXpydWlMSU9CbFZPRXF1ZGx4SXdvZWlWd2Vfc0VlcmpucEFhYkhrUlc2N2l3VExUNzNXZE5zeWNBM3FXdkI5NE9PeExkbUVLcTFqd0VRMmhUVWpyQW9FdGJHZmE2ZkItSm1VbWJJYkpDdFE2a0piS3pKT3ZDeTdOSi00ejZPaWRn?oc=5",
+        "date": "2026-08-24T13:43:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Vaca Muerta opera al 4,4% de la escala de EEUU: el financiamiento como clave para cerrar esa brecha",
