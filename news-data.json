@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T23:19:39Z",
+  "updated_at": "2026-08-26T00:57:43Z",
   "categories": {
     "Microsoft": [
       {
@@ -15,13 +15,6 @@
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFVtdmxjTTVlQU5CVnVMYVFkRm5CemN1YnJKT2hsTXNsaHlUeC1tQUM3NXRLNW5ram13NjhleWJXYjhfUUtGLXYtLTRwSGVqZUhUNDVuVFhSSHhESURwRkZiTlBzd0xqdkk5c3Btak1KbmlFR0xPVWFUR0lHbE5kWkEzdE5EdmJJcnVwcGxMejB3T2xjR1dRVTBjMzNzWXBGT3NDRC1ySGEzYmNKc2ppWGNLdGplZjBjYjlramowelBGMzhISXFoR0JIRUhBUFZ2ZWkyY0tlaHhqanA4NnJMWk9IZzllcnNsYjZhRXFpc1JhZ9IBjAJBVV95cUxNZFRMbmNha2RGNmRrMlo1RkNROE5Ia1YyOS1LVDl1NG1RdktxSy1HRlozclZHV3RONVNBQWN4TWRYMGFFQTM0YnBOXzg0SHB1QW1BN3NENEo1OFZJVjR5UVZySWVIMlJBUzhpa2x4QVNEbXB2YUQ0NnhGMDAxSVBiOUFxQWZNeS1qOU5SNHRiZTNFNkVVSmQ3ZkVnNW5KOXVtUzA3YXN6OTU0R0h4aWFkQTNaSm5rNnRkZmx2NjNyMDZlRnBfYTJPTkNQS1VyY0hRRDdEYkY4WDhRVmtvWkYwNkxrczhXeE1vQ2lGdWFiNnljZHBueDFGeUZscUVMZk1TbDFWSVF0MktFcE5q?oc=5",
         "date": "2026-08-25T10:28:58+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Tesla, Amazon y Microsoft mantienen ganancias en niveles técnicos clave",
-        "description": "Tesla, Amazon y Microsoft mantienen ganancias en niveles técnicos clave Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXVRRmh3M0dvanZqWEV6MTFaa3AtZm5yNlBrQl96R1FHa0Y5Z0gwNW5keGlpNHg0dlRDQzc3TmFIWFc0N1dvRG9vczhzdWVIWnhULTVMdVo2clpkcXkzXzFwdWpNVEx4X2FoQXc0UkhPVnAtd3RHeWN4d0RTYkhYcGtwYWFMb05mSTBfWnJQTVhDWUwwOUZtWVhfU3RiOVJr?oc=5",
-        "date": "2026-08-24T13:12:19+00:00",
-        "source": "Yahoo Finanzas"
       },
       {
         "title": "Bethesda no solía sufrir recortes, pero desde la compra de Microsoft hay una nueva y temida normalidad que se repite cada año",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDlVTGVGVmdiU0pKaHlTREY2Q2xIdWtnR2psQTNSUVpKSjZXOEhETXpER0hQSFR3NFJkcE5qdmRYV0VyTkRBQS1nMXREZ0ItQmJ1QkNQbTdUQ2ZVUEhJMzh5cjFVWWhob2djUHM4eXB3cWFiQ0xSTTJheGdRVzdNcllOeUpUSlc1cGxWUzUyaw?oc=5",
         "date": "2026-08-25T11:33:32+00:00",
         "source": "El Chapuzas Informático"
+      },
+      {
+        "title": "Perfil demandó a OpenAI y Microsoft por uso de contenidos sin autorización",
+        "description": "Perfil demandó a OpenAI y Microsoft por uso de contenidos sin autorización La Arena",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzZjXzJwdFZnSWpjUHBXeUZaSl9WczBEcEZEbG56d1ZidVF5Rmx3TnFfSnQwR0tzcWZVWWNlUElWMDJEZDZoQmItVExSdi1ZMUtRLTNCazVIOGNFME9GUi1BcDdoS2Q2SERnV2stbUhJendXTVE0VWN5Zng0dWg1TjZNQU8zMzAtMWJveUZBR3IzTm1nT1BVVHl0LUFrX0FIRzZCcTEweWNuU01SNVBJZ0Rzc2djd0l2OGFLVkx3?oc=5",
+        "date": "2026-08-25T12:14:59+00:00",
+        "source": "La Arena"
       }
     ],
     "Marketing": [
@@ -105,17 +105,10 @@
     ],
     "IA": [
       {
-        "title": "RDI: Berlín prueba un sistema de vigilancia con inteligencia artificial que puede seguir personas por la ciuda...",
-        "description": "RDI: Berlín prueba un sistema de vigilancia con inteligencia artificial que puede seguir personas por la ciuda... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMjlVZTNobFFCZFJpTjJuMGhEX1NiaVNMdTFoaExLQXdXUFIxNDdfYkhiMHFMMTlZVmhVZkpFUmVwa3Ezc2RDRF9QSFVzOFZjZ2dyQVZGYXhTZWl5bHR3VU16MGZMRXFxa0FQcU5fdy1ZaE52dEZlSloxczRNaU9HZXUzYUJxU05VSko1LTdQSVFCT0RjSnRUejhvX1QwbjAwNjZEYUY0WjVYZnpXZ1BjVFZLYVJMQ1JudWVTQy1mOUJxTXFXTmNYMWM1aWp4SThOY1ZZ0gHYAUFVX3lxTFB0Snd4b2gzNl84dDE2NVE2dXIycmI3Z09JZndSZlJpNzRIQmkwTFZMdDJKZi1iQXBGNlE4ZDFsbkhORnhUWU44czJBczhBekJGV3liRm1OT0g1c0tQX1FmV2ZkaXBTVXBmc2labnpyeU5NbzNFdGVfV0s2ckZMNVNkcXRyWnMzc1FmaGp3anYxUDVUb0o0LVo5WnZIN2RxUEpSMEJXU1haWGozaU9SS3JONm9XTlpvSHlLbzg0QXpMSWhqa2J2bEJmMDU2aGNWd3lURTl0NDd1Mg?oc=5",
-        "date": "2026-08-25T22:56:14+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Elon Musk tiene claro cuándo será el fin del celular: “en cinco o seis años”",
-        "description": "Elon Musk tiene claro cuándo será el fin del celular: “en cinco o seis años” Infobae",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPckpGNkNETVRjbEJ4TUJLSGNZdXU1Sl9FaUQtMWhGZnNndVMzdDFLZExJUml2T2swYjl3Sm1RZE1KajVUc2pCaVp5UzVZdGU0MHJiZF82THRCX0ZDNm1pVXBNVWxrdk8zTlp4OGREcDZlMGtRM0EyaVdMbnpVNDVzZFBnSjBKZHh4MlR4RktGZFRPZ2JjUjdiNnJXVmFPbGFYdEhBX18tQ2NPVVhSOG9ES2dCTE9xQdIB0AFBVV95cUxQOGhGeFl1Vi1lVnhyelJ5R3NITkc0eW9OMmE5RXRXOGJ4YVJvMnN6MkpmM3U0S2w1Z3IwWm9VWWVwTFY5ci1wVVZ2U0o3SVRNckk5QUdhQndUeVBmVFNBN0hOdlhleHBMamJWMHY0UUJERlZ0aV9HZmphTWZOUTkwTG55MDZIR0ZvODJHQmkybkl3WVV6RTdOSVhqVU9RQjdFZmVObVZUdHVKcjk1YmJ4M0hpSFZhUnU1LTBtbUhRVFlsQkZYTWJ3LW9rZnZRQW91?oc=5",
-        "date": "2026-08-25T18:45:00+00:00",
+        "title": "DeepSeek y los hackers de Xi Jinping: ataques duplicados, controles casi nulos y una brecha que inquieta a Occidente",
+        "description": "DeepSeek y los hackers de Xi Jinping: ataques duplicados, controles casi nulos y una brecha que inquieta a Occidente Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOemcxUFZ0TkxaRk5GSG90LTVIZGFGMHd2VzVodkpGT1FNcllZZjVDRUVqVS1yN3NXaVpTZVQ0a1ZrYjNuSEZMRWJ2RDU2ZHBpVXVLUkhuVDNGMG9vTzliakJ4Z01RWUU4b3AzMTZpQ0MxSjNiMUZDdk5oUXRvUk8wMEpZWVNMVTFTUmFHOWs0MGNTX3BiQTBmeENqSUZZMllwUnc2WG5IX1RPSnlDbkF2TS0xakIxM0k1aXFKTlAtczZvc1g3cm14RV9YTzNERUlrUk8yWHBzb3g4dzh6RVpjNmVTS0xxV0ZMRXlfYVR4ZVBwNXBKdGM40gGSAkFVX3lxTE0ya0NxY3lscnRjeVlNTlZKbkdnV0ZFUG5kNkxaSmlMZ1VkVXJsa0RMN1huR0xJZ0VDNzVLTS1FRWl4U3k4aU1iV0wxS25OMDdQN0NHX2pPMGR6UUpCcDNwRHZibUN4REpQN2hXMk5UODY3Q1BrN3N1NDBmTnNWamNZajdZRmNpX0QxelRuN2ctamY4NV9OeHBHMC1ZQ1BXTGpGSTVGQWhfOXVLNFFkMEU2Z3JCeFROc3NjSVB5cGgzM2E0RGYtMmRqTU5TT0NiMDAwSktMX1FZWWlPc1RKdmd2UHFDQTd4akFOOHZQc1F5eVN0QVhkcWlwQWNtZWFaMlNjSUZ3VWtqRDBJbV80UnN2TlE?oc=5",
+        "date": "2026-08-25T13:33:00+00:00",
         "source": "Infobae"
       },
       {
@@ -133,13 +126,6 @@
         "source": "La Nación"
       },
       {
-        "title": "EDUCACIÓN CAPACITA A 2.500 BIBLIOTECARIOS CHAQUEÑOS EN INTELIGENCIA ARTIFICIAL",
-        "description": "EDUCACIÓN CAPACITA A 2.500 BIBLIOTECARIOS CHAQUEÑOS EN INTELIGENCIA ARTIFICIAL Gobierno Del Chaco",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGFFOG94ekUxOXJiVVd2ejFUMko3MlBETGRVNE1pMDBsNXdOMThrSnpUMVJBaWR0aEdYSVRiaDVmN1gzZUpWN3N3MnRWN2pEWG93ZWFHdFVuYzJwVEJQQ2VaWmNSNWFDblpzcXR0cmFXU043SmtCWUNnWmpPMmVLQ2RNTGJ4M1dncTlUMzh3OUZ3Nk53THRZWDFydmVGckIzVzNuR09rTFJKRXBGQm1QY1BGSHR5dkk5TnJIV0VKZUZ0UQ?oc=5",
-        "date": "2026-08-24T21:07:11+00:00",
-        "source": "Gobierno Del Chaco"
-      },
-      {
         "title": "La superinteligencia y la nube de humo",
         "description": "La superinteligencia y la nube de humo Revista Anfibia",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXhqOGVXVkswY0wxT1hhMXBKUG02V0NsaVFhM0w1YWlkOEVJek1yd1NxcEx3QXJzZjFWdU9MWXRMdW9ZaXUwN2JhbzdreEV5Rkl0dm1neVlsR1dybll0U0hNYWN2VU0teEpPUEpTV3lwY3FtdHcyZGNkYVZuS3ktQkJ3?oc=5",
@@ -147,41 +133,41 @@
         "source": "Revista Anfibia"
       },
       {
-        "title": "VAR en España: se muestran las jugadas que eligió la IA y se explica qué pasó",
-        "description": "VAR en España: se muestran las jugadas que eligió la IA y se explica qué pasó Olé",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSlNfRnd1ajVaaThSdVp4UUo5bnlHbWViVy1kakJiT1NGa01WdnAyNmtpMHhFZ0U0bGU1eWREMkRZRHMzYkZ4THd6WHZXZVhQSkNpaWlKTlRXLWpoRmdTYXlEeEtoUUhtbEIzS3FGdzllZWRQRTYxRWN5MnQ0Y1lNbUwxcTM0V0RmZUFPV2JSVG1HTmlScXN3UXAxclhNYXh0WmE5Z0otaHpaLXpSV25maWFMWmE5MUltSFFVblpkMHZJV0x3ejIwQlZOejAtZ3gwVlVUVHQtOXluR1dJbmJ3ZGJDd3I?oc=5",
-        "date": "2026-08-25T21:09:24+00:00",
-        "source": "Olé"
+        "title": "EDUCACIÓN CAPACITA A 2.500 BIBLIOTECARIOS CHAQUEÑOS EN INTELIGENCIA ARTIFICIAL",
+        "description": "EDUCACIÓN CAPACITA A 2.500 BIBLIOTECARIOS CHAQUEÑOS EN INTELIGENCIA ARTIFICIAL Gobierno Del Chaco",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGFFOG94ekUxOXJiVVd2ejFUMko3MlBETGRVNE1pMDBsNXdOMThrSnpUMVJBaWR0aEdYSVRiaDVmN1gzZUpWN3N3MnRWN2pEWG93ZWFHdFVuYzJwVEJQQ2VaWmNSNWFDblpzcXR0cmFXU043SmtCWUNnWmpPMmVLQ2RNTGJ4M1dncTlUMzh3OUZ3Nk53THRZWDFydmVGckIzVzNuR09rTFJKRXBGQm1QY1BGSHR5dkk5TnJIV0VKZUZ0UQ?oc=5",
+        "date": "2026-08-24T21:07:11+00:00",
+        "source": "Gobierno Del Chaco"
+      },
+      {
+        "title": "Cómo la inteligencia artificial en TikTok inventa recuerdos",
+        "description": "Cómo la inteligencia artificial en TikTok inventa recuerdos Página|12",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWdfcUZuZDljUFdxYWRJZWM2bzBKV3lxUzZTM0o1YXQwbE9RX1lkYTFrVmhQNmdkVEFTaVFuSlgxZ2R2ZXQ3TVdwM1JXek1ISEtpVVFhYUNIUjJuMGpCcThJNFRweU1KNF9fR3JlRmlwSG1vMW9nZU52MlREMmJlZmtXaHBMSVRBcjNvUG9uNm9BalM5RzdCZnFSX0x2NVRZ?oc=5",
+        "date": "2026-08-26T00:14:54+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Social Media Day Argentina presenta un ciclo de formación en Innovación, Inteligencia Artificial aplicada al m...",
+        "description": "Social Media Day Argentina presenta un ciclo de formación en Innovación, Inteligencia Artificial aplicada al m... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOa2RJMzFQaEgyLVBvakdEOUg2U2R3aUdobmhJOXg4X3FPajlqbGFEeXdTTmJxUTl1Z3p2cm5QQnU0VV9rX3NKTDlMaXVEU0wtTlRtdS1aTlNCR28yMzl0QWc0cDh0M21VS1pvYW9hMkxSdGtzRl9tUDM3dmoyY0N5cDB5WFd6bkZ0OVVkTUFiZXpKNHJIZlpOV1dZeUdGZ2lkN05BRGhiOTd0QkV3dVQ1YlgwemJjZHpHdy1VS0lLQUM0N0N1NmFqTWtneVQtandEakF2WmNlWEVFNkhsM0dQREVxMXcwUHdKWmx5VmVRRWhqMlpQb3ZueUMwVnk2cVNaSjRYV21icnFHWFlWVUtYQW5RZ0JWa05ma1hNLW5vREHSAaYCQVVfeXFMTk9QQjN3NlNrRzc1VWN3akpudC1FdjBnUHV4NUZhNTE4RDZ4a1gwamM0eDg1MnlFS0VseEFuNC1vdUV3NndsUGJKZGEwbDVKSUhwS2U1RkhBeXFKbWJrQWUtMnpJTlhpT3E1dlJYUUtKVXVQVUFqSUpLRk90bUxyT1JWZl93NXFETXlZQmdIN1lQTk1EZ3dqTUZtMVJZMEJ5dmZWVkFSUjhzb3NNSXBjZXYxaVhFdVFnbWVyVUZrZGVnU3Q4Qy15RmFiWk5oU2NTM0hXOWlXTVctMTMwMHdsa1VtVDkxWlRSZEpDckwxQk1MZ1AtUFh1NWpyZ2F6bnd4TkdVVVFxVEYyYjJIQVVUUWk0aEFQeGJpeGhvek1Vdzl5OGdiQTdR?oc=5",
+        "date": "2026-08-25T13:00:00+00:00",
+        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Tragedia en Neuquén: un operario murió y otro resultó herido tras un accidente en Vaca Muerta",
-        "description": "Tragedia en Neuquén: un operario murió y otro resultó herido tras un accidente en Vaca Muerta Infobae",
+        "description": "Tragedia en Neuquén: un operario murió y otro resultó herido tras un accidente en Vaca Muerta Infobae Tragedia en Vaca Muerta: murió un operario de YPF y otro quedó herido Diario Jornada Tragedia en Vaca Muerta: quiénes son las dos víctimas fatales del incidente en Rincón del…",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWNCdWVGRjVsbHpFM3NOUUcwY3ItZ1p2VVNUUHZYek9UQTNJUzE0d0RpUXFPdlg3VGtuWlczQWVWZGxQbEFzUjFTXy1DRW83VGpqZEtwU1ZkR01LRm5YZVJxQ3hYQ2tQYXExT1dfNlJSU2RYSXRvb1cxeVFpSmtoc1hYbGtBUko2NmQ1SS00MTBwSXg2MDRETnRJMk9TbHNENlhwZl9NSXo4VUFtRUlENjMzZjVEcXNseDVvRGJORktxZEZuMkh0aFhNaGV5LWxnM05F0gHuAUFVX3lxTE5wMS1saGF6S0tiRmNmTjhsOFJwT1RSNWxQMWhrTG9xNnlZczFORGtmT2drSHBxdFVod05zb2lQeDhKc3NiZU1MTVBHdTBkemo0U1dwSVVGSU9JcGpCZ1o0UHZ6Mk92UkFfYzhzR0RUUVRFM25mV2Rqb3dmZjFpSnpHdkNLSnNaaEJiYzFnSDY3MFVMa2FjSkZWTDJ2QnlRUFp0czZodmxObGVGanVQRXlMRmZZTEZ6OGJxLURleERPSURsc25ZdnBxcGxFVE16OV9kckJjZUlZWlBLbmk4UUNneWRUT2ZsUGNMWWxOYlE?oc=5",
-        "date": "2026-08-25T20:51:16+00:00",
+        "date": "2026-08-25T21:36:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta: un muerto y un herido tras un accidente en una planta de gas",
-        "description": "Vaca Muerta: un muerto y un herido tras un accidente en una planta de gas Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTU50NHdpR09nRXBVLXFWa0k2b21FaFV2WjQxZm94MExnbldqb3JGOHZmR2xXNGZMaC03WlV1RmdJd2tLX01YZ0pSR25ITWRwOUF3a1VySkd5Wlg4T0YzVFdJVDBKQ2RqenNZNUlfRkdnM1dSdDBPeFVtRmVvRDBGX0pKdURFNmFfNjdUSTZZcFkxWkhlYjQ0cC1WWno?oc=5",
-        "date": "2026-08-25T21:39:54+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Tragedia en Vaca Muerta: quién es la víctima fatal y cómo se encuentra el operario gravemente herido",
-        "description": "Tragedia en Vaca Muerta: quién es la víctima fatal y cómo se encuentra el operario gravemente herido Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTG5zaHVPWlhaOGkzZXJKZnUzdHV6UUVtWGlaLXZ6cnJxMUpMdmpSMWRSZ1NSOWM5VDhKVXdfY1k1VjlvZmJxcXByOUUzWTJwZUJDaXhPTGloZ2labDZYNF9IMHo1M2RjS3RWWGRwVGVycENTOTlTaW5tYkhaODN1WkNHTkpwNmIxMXBkWUo2NE9xUTV5NVVrT2JwMDVtd3djLXB5aU5VQzVRUkp6ZjBBakltNFVtRC1UNWwyeGJJbVJSSFAtQWhIdnU3LTFDSmMxWU1LbFBn0gHbAUFVX3lxTE5OZnRENnpoSzRwQUg5MTNVckQzTEpPdzBReEl1S01xRkNLSXZTY1YxM08ybGhabG02LTI4Y0p3M1pxM3d1eVFhNjVHVFFYbjlnNUVmTkc3NUM2bkRVYU9UWC1FRWJ6a0xxcDk5bzJJYmlFRE5uOC1pc3lrQk54eEJmUjVWdFZqZG1leFdvV0o0TUtubm1MTTlmLXhqRGlndVpqNzFFVExGeV82TFI5bTcxd25Fbk00eUpJWktXbGhPRDlSRDhiTTZqaGhGaUZCVnoyaEtBbDFxWXhncw?oc=5",
-        "date": "2026-08-25T22:17:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "La petroquímica quiere capturar el boom de Vaca Muerta: menos importaciones y nuevas inversiones - El Economista",
-        "description": "La petroquímica quiere capturar el boom de Vaca Muerta: menos importaciones y nuevas inversiones El Economista - Últimas noticias económicas y financieras",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHhadmJtMzR4Z3pCWk0wSElWZnVENjNiT0w4aU8wdHRfWVU3cEFYYm03X1IzeGRFS1liTm9ScEcySFdxbk9kTEJHeUxEWlYwdWZ1b1lUSHF5bU1DVnV0MFZvOXBLMEthTlZ2VGtZdFE2SWxqNjVJOUVNOWN2QWZrOWNvSHVGb25CamQ3V29DOGQzaDBtWmNHc29MS2Z1YWItM0NfZ1VOaWdVRlpWc25DdktqY0ZXVEozck4xdWlZcDBBT18wUV9FQk9B0gHPAUFVX3lxTE1TTVliVjBEUHNsalR1WlA4eWtITmZhNmV5cFM3U2tSQU4tSnRLb25QSWtZZGVfQkkwX3Q1NTI1b3pxZ1pPa19yeTRZWTgwUmJkMXhzZHRCemQwNmhYWHRrX2ZDS2hSZWZLRFozSV9VMFc5eG5CLWlpV0tXdmZSdHZPazdtM1Q2U0RFckVyTmFFd2hSVTZqdWxIbzFMUDgzeGdxUTlGdXEtaGVoYU5HbDVtVlkxSGtJZjFxQV9tM1FzaDBaNllVUUw4THNkZ3JHSQ?oc=5",
-        "date": "2026-08-24T18:38:00+00:00",
-        "source": "El Economista - Últimas noticias económicas y financieras"
+        "title": "El nuevo tren para Vaca Muerta: recorrido, costos y el plan para conectar la producción patagónica con el Atlántico",
+        "description": "El nuevo tren para Vaca Muerta: recorrido, costos y el plan para conectar la producción patagónica con el Atlántico El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbnhiSlBnYjJsbTJXOGtYb1FXXzdmSlVCb3IyNFoxS0JIUHUyYzg1eDBsN1E5eURqVVV2b1VwWG1WQlpueXhscUFVRVZVSnJ3NU9QSGQ4YjVHR3U5OE42V0JJVlJ1TzhXYzZIdDJYSFRNbDFSX25FTmlpZW1IMXpIdUpBU0lTajlteXhOdkdlMjlOcXkteWE2a2dkaTV6cG1lRnlCel9kWW1Eb2xIN3pBclIwOEUyVGNmcDk4blVva0d3aW1oSFZ3WGVQY3lBU3VkV0RrZ0oyclE0OWdJ?oc=5",
+        "date": "2026-08-24T11:44:24+00:00",
+        "source": "El Cronista"
       },
       {
         "title": "La expansión de Vaca Muerta abre camino a la \"Quinta Ola\" de inversiones para la industria petroquímica",
@@ -191,18 +177,32 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "La descompresión accidental de un caño en Vaca Muerta provocó la muerte de un obrero y heridas a otro que trabajaban en la zona",
-        "description": "La descompresión accidental de un caño en Vaca Muerta provocó la muerte de un obrero y heridas a otro que trabajaban en la zona Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSm8yUTVrMlExaHo5TVVOUk9rbzF5MUFXbHpHRW5vazd2M0pkdTNDME1hazF5cmV0UUEwOE1NaG50M3NJaTJPNzJtZHRZSzNqOWlfczF4NHVXd2ZldC0xbi1JbnBoR3BXUlZFSnB0MGhTWEx5d2x2d19VYm1QaDI3VjBZdzNQbzVMbmQxX3piR0R5bWtZams4VU5nbl9VZVlKRHdBUlRiUTVVM0NRSHp0NVBlUWg3dHNJMnp4RS1vc2JUNE9wTzdZcFd0TmJLVjZhNm5R?oc=5",
-        "date": "2026-08-25T21:39:16+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "YPF y sus socias buscan cerrar el mayor crédito privado para exportar GNL de Vaca Muerta - TN",
         "description": "YPF y sus socias buscan cerrar el mayor crédito privado para exportar GNL de Vaca Muerta TN",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlByM1h1ZnhUc3RWUnlkdnpLYy1nSUhHNlBmMmZSbXdfdnJqVFpKc1pVa3hPZjhSTG5MeV9IdXk3VEM4eEVOaU5BaEtxVFBtRWtHNFlDQktianJYeGJkVjNWQUo3dW41bUN5VmNrZVFPcldiZ1E2T3VoWWRWQmd6ZmsxWnN1UUNtczZVM242Z0RLb0hXcjdkcnFESDRzWkV3N0tsUnl3OHhnb0dRb0dwZzU1VXpYZHdUVHhrTUdGUHc1ZTg1UEHSAdoBQVVfeXFMTlJrb2k4ZUphb3ktbWZUVWJCVzI5enpScWZQdHZvWGFDdlpuQ0k2NElCT3NnbHlQY19CbXpQY09zclZrRTNqc1VZVEdtVG1MRk5VQlNwRV9ZeXRHYUdScGRCZ3FUaFFycGhMUTI5TG1zaVNrakU2X3hocHBWSDdJZzd3ampILXN0VjNwTDdmcVQ3UWtoUklvcll4NVYxWHdQdXd6MUJRRzZra3ZhTnVRYTB0Y3UxTnJBSXZ0aXFsTGZYTDloaW82TUI4SGktRndrQWZ4SnJLZlVMQ0E?oc=5",
         "date": "2026-08-25T17:07:15+00:00",
         "source": "TN"
+      },
+      {
+        "title": "YPF busca cerrar el mayor crédito privado para exportar GNL de Vaca Muerta",
+        "description": "YPF busca cerrar el mayor crédito privado para exportar GNL de Vaca Muerta El Liberal",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWViUUNkd2k5cXZ3T2JjRW94N0dBVkZ1eXF4WndIaTcwZVVHOEEyTFNJYWhlellyS29aXzhoeV9OdFoyQ2VscTN1U0Z3ZzR3NmxFMERIZHdIQmpEOVJVOUkxaEFIb2cxaWFIdm9WejdwT2FPYUM4ZDEta0pOUEdRVHZncV9icEQ2Z212T0t4eU1sdWFZS3NDeTRvVTF1RDRVU1N1dzgtTGpyMzBvYTNBeHBid3pNdi1aMms0cWU1ONIByAFBVV95cUxNbFItV1pZaGNkNmlwZkd5SlExTVhzckZiZnFyb1RvSHhPMnFSc0YwRE9lYUdYeXJvZXhIR18yWXdJMFZCNF9xM2pRMUxfQXpMVUJRNS1mRDREUERTZ0RaNHVXLTZFTEVlckp0dTJaZWZlNWRnRVdUdkowWmp0SGJQMDYxdmMtdTFSdThrTnQ4UXhna294X0g0aWJmeDNCZEhqZ1ZGR3FFYkdidjVHOVdnSTNPb2JROXNYWjRUaC1xMFZYRjhEcWw3dw?oc=5",
+        "date": "2026-08-25T20:21:00+00:00",
+        "source": "El Liberal"
+      },
+      {
+        "title": "El proyecto que reabrirá las exportaciones argentinas de GNL ultima un crédito por US$1300 millones",
+        "description": "El proyecto que reabrirá las exportaciones argentinas de GNL ultima un crédito por US$1300 millones La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbllGQ3FENnNUaEdOLVpIUi1VcXBHRWhIMTRLZ2JzVVM4NEd1LUZZSVRrVmY2alVsZVV3emQ4NmhaeFpqeHQ4WU50THJka2VJWmMxa19xSk8wcWpDeFF5UzI1eW9DM3lMcG05OG5WdFlpMEEyOThrN3R4T3pUbkJaX2xKQzRPWXI1amhnNHlENUhOQ3JIZjNXNWRoOW1hX25kUTFOaUQ4RXBna19UNDJSM0ZZSmNEc2ZKQzhfdkFIcXlCUjVfOUhCSWp1bE5yTWptRlRSSlIyOEdlZ0UybExkYkx3?oc=5",
+        "date": "2026-08-26T00:08:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Milei acelera las concesiones: 9.000 km de rutas, trenes por 50 años y una megaobra en Vaca Muerta - El Economista",
+        "description": "Milei acelera las concesiones: 9.000 km de rutas, trenes por 50 años y una megaobra en Vaca Muerta El Economista - Últimas noticias económicas y financieras",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUtDajd0TEUxUWtUUzZVTDFRNkxSVjd1SHpCLS1XQ1g4VEh1OE4tZFdsUTVXRkxyQWNMeWM5ZkxZT0R4aHR2S1I0NEpQLVZuTlhYak9ZR05mMUdmSDFLbFZKY1lpdVRUdFFmczQxd3kwNWNYQlFfQW1Pd1hFSWZWdC1pblVfTW1aWXF1WHNvTUZJdG1BZWdjOVMzclE4WnAtT0xZM1ZZNHp4a0dETmJwUnA5TEZ4XzlxZFR2MWZyeG7SAcYBQVVfeXFMTktRMEV0ZkJtOGFJR1E2eUZjWElISzNNWF9BSHVYRDFYQ1M1TTV2N0ppZWUxT09TWjJNRWQtaEY1eHVSS3VOM0FFbmxXQW9HQVZXMzBRMGNmdG5VcXdwQzNFWThoQWxOMUhNbFNSVHJVUjNoTzBtN1NzelF5ZXJ4bVhmT0J4eHMtVDFkN1N5SUVBOWpydVdnd3NGUHJsVWtVblg3S19iV2Nhd05zX2s0OFE5MUYwX1hSai1laFM2NlhVN3pSak9B?oc=5",
+        "date": "2026-08-25T15:34:00+00:00",
+        "source": "El Economista - Últimas noticias económicas y financieras"
       }
     ]
   }
