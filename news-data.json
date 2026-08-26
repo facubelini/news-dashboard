@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-26T00:57:43Z",
+  "updated_at": "2026-08-26T02:24:38Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\"",
+        "description": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZmdjcnB2X1UxVVhfa09HOFhzdDl1azQ3dHhiOVg4ekpzdUU1bGstS3JscG4ycG9ISGxuemxhcjZhSHZXaGZ6NVMtaGxBUE1CTjRyakh6MkZWNFFoN3U5elBnSFlEeEhYWnNUbEUzOHpGYjNxRGRYV2dNY3Y5Q0NMdjJDYlhOVlVYRzJVaEU0QkpBM1VwQmYyM05VRkktTmdkTkFlVEhLdWhLVjJuaHNubklHMEFnUHlfbXRnNWU4aGE0eG1oVDFNUHZGYUEzNU0yQWFJang1UDlBczR5S01ZenFSWng2Q3ZHWEhzSEVZSXJ3YUNQNUE?oc=5",
+        "date": "2026-08-25T13:20:54+00:00",
+        "source": "Clarin.com"
+      },
       {
         "title": "Por qué Perfil decide luchar contra el robo de OpenAI y Microsoft",
         "description": "Por qué Perfil decide luchar contra el robo de OpenAI y Microsoft Perfil",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVDlVTGVGVmdiU0pKaHlTREY2Q2xIdWtnR2psQTNSUVpKSjZXOEhETXpER0hQSFR3NFJkcE5qdmRYV0VyTkRBQS1nMXREZ0ItQmJ1QkNQbTdUQ2ZVUEhJMzh5cjFVWWhob2djUHM4eXB3cWFiQ0xSTTJheGdRVzdNcllOeUpUSlc1cGxWUzUyaw?oc=5",
         "date": "2026-08-25T11:33:32+00:00",
         "source": "El Chapuzas Informático"
-      },
-      {
-        "title": "Perfil demandó a OpenAI y Microsoft por uso de contenidos sin autorización",
-        "description": "Perfil demandó a OpenAI y Microsoft por uso de contenidos sin autorización La Arena",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzZjXzJwdFZnSWpjUHBXeUZaSl9WczBEcEZEbG56d1ZidVF5Rmx3TnFfSnQwR0tzcWZVWWNlUElWMDJEZDZoQmItVExSdi1ZMUtRLTNCazVIOGNFME9GUi1BcDdoS2Q2SERnV2stbUhJendXTVE0VWN5Zng0dWg1TjZNQU8zMzAtMWJveUZBR3IzTm1nT1BVVHl0LUFrX0FIRzZCcTEweWNuU01SNVBJZ0Rzc2djd0l2OGFLVkx3?oc=5",
-        "date": "2026-08-25T12:14:59+00:00",
-        "source": "La Arena"
       }
     ],
     "Marketing": [
@@ -92,7 +92,7 @@
         "title": "Brillan Ellas reúne este miércoles a mujeres emprendedoras en Posadas",
         "description": "Brillan Ellas reúne este miércoles a mujeres emprendedoras en Posadas economis.com.ar",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGIyeVY2Y1VfSm5CdFZsSW5TZjJvSUVlYnVGLUVzWUNNOGpuSEdxWmZ6SWVlV0pXQUdDSk9nekFLMDRlamJ3NWNFWXpyMXdRVWEyWE9UTnp5R29QTG5OTnoxREprcmg0RHYtMGUtMExhN3o1SW9PY1JreEhPMW5JZUtiQThTcWtQSkM5ck16dlZjeUpLQTFSbzZB?oc=5",
-        "date": "2026-08-25T13:04:39+00:00",
+        "date": "2026-08-25T13:02:54+00:00",
         "source": "economis.com.ar"
       },
       {
@@ -105,11 +105,11 @@
     ],
     "IA": [
       {
-        "title": "DeepSeek y los hackers de Xi Jinping: ataques duplicados, controles casi nulos y una brecha que inquieta a Occidente",
-        "description": "DeepSeek y los hackers de Xi Jinping: ataques duplicados, controles casi nulos y una brecha que inquieta a Occidente Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOemcxUFZ0TkxaRk5GSG90LTVIZGFGMHd2VzVodkpGT1FNcllZZjVDRUVqVS1yN3NXaVpTZVQ0a1ZrYjNuSEZMRWJ2RDU2ZHBpVXVLUkhuVDNGMG9vTzliakJ4Z01RWUU4b3AzMTZpQ0MxSjNiMUZDdk5oUXRvUk8wMEpZWVNMVTFTUmFHOWs0MGNTX3BiQTBmeENqSUZZMllwUnc2WG5IX1RPSnlDbkF2TS0xakIxM0k1aXFKTlAtczZvc1g3cm14RV9YTzNERUlrUk8yWHBzb3g4dzh6RVpjNmVTS0xxV0ZMRXlfYVR4ZVBwNXBKdGM40gGSAkFVX3lxTE0ya0NxY3lscnRjeVlNTlZKbkdnV0ZFUG5kNkxaSmlMZ1VkVXJsa0RMN1huR0xJZ0VDNzVLTS1FRWl4U3k4aU1iV0wxS25OMDdQN0NHX2pPMGR6UUpCcDNwRHZibUN4REpQN2hXMk5UODY3Q1BrN3N1NDBmTnNWamNZajdZRmNpX0QxelRuN2ctamY4NV9OeHBHMC1ZQ1BXTGpGSTVGQWhfOXVLNFFkMEU2Z3JCeFROc3NjSVB5cGgzM2E0RGYtMmRqTU5TT0NiMDAwSktMX1FZWWlPc1RKdmd2UHFDQTd4akFOOHZQc1F5eVN0QVhkcWlwQWNtZWFaMlNjSUZ3VWtqRDBJbV80UnN2TlE?oc=5",
-        "date": "2026-08-25T13:33:00+00:00",
-        "source": "Infobae"
+        "title": "Arrancó BahIA Summit 2026: “La ciudad y la región se ponen a la vanguardia del desarrollo”, alentó Gustavo Elías",
+        "description": "Arrancó BahIA Summit 2026: “La ciudad y la región se ponen a la vanguardia del desarrollo”, alentó Gustavo Elías La Nueva Radio Suárez",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbFZIcjducVhqN1VHQ09mS0pEU0ZJT2R1ZDNPME9YT3B1ellaNWg3R19nMVp4b0R5RlNGUFkyUlRXcFBvYUpDclk1UVdhZEU4bDNKNndOZ1psYklVMWFQemxRUGZpVXBjQzdqV2Y3dTlVbWZGUG85OWxnLWk3c2VJbDJGRGFBRklsT1gySGpZZlFjUmNJVE4xNVlLWHJ4Yk9YMjhfR0ttbEx3Z215UWlQZ0RzbTV6YjJ2WldYeVZZeGZhclhqOFVKMkxjM3pSN1YyQU9iTGpJTUF0YzRfTXpYY0dZTVJZamh6aGUxa3Z3ejBDZ05vaUJV?oc=5",
+        "date": "2026-08-26T01:30:01+00:00",
+        "source": "La Nueva Radio Suárez"
       },
       {
         "title": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\"",
@@ -119,18 +119,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial",
-        "description": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFFMSzduRWZSRF9lOTRXdC1MTkZfX1VTank3bWY2WktRcS1pMFJRLVpvcGdRYTR2RlpkWl94UTZpUGlNQ0s0WlZIblRxRFdaX1NQRmdrMEFYRjNOX1QyenVuOXJoU0k3ZXFncllydEtwMngtTGFFSFJkZGdtV0tmSDZPWjhTVHV1dFZGWVFFQVhoNHUyM3ZiNnVIZFVMYklxWmRuWUh6ZkdEU2tSNVc1b2RBOU1tZFlLVG5pZU1pSnhnel9reHg2anF2QXBOZFE5a3BB?oc=5",
-        "date": "2026-08-24T16:25:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "La superinteligencia y la nube de humo",
-        "description": "La superinteligencia y la nube de humo Revista Anfibia",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXhqOGVXVkswY0wxT1hhMXBKUG02V0NsaVFhM0w1YWlkOEVJek1yd1NxcEx3QXJzZjFWdU9MWXRMdW9ZaXUwN2JhbzdreEV5Rkl0dm1neVlsR1dybll0U0hNYWN2VU0teEpPUEpTV3lwY3FtdHcyZGNkYVZuS3ktQkJ3?oc=5",
-        "date": "2026-08-25T09:17:47+00:00",
-        "source": "Revista Anfibia"
+        "title": "Google revela que en la Argentina una adopción de Inteligencia Artificial impulsaría el PBI hasta un 6,7%",
+        "description": "Google revela que en la Argentina una adopción de Inteligencia Artificial impulsaría el PBI hasta un 6,7% Infobae",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNS3NLX3ZuOGVBUUFWajVTbjFPa21raXpfSVNGV3Q0RnBsX3BHcUZNSHk3MHZhTkNjb0FUY3NWdkl3QUw1eGdzbUtfY0thWWFfRkRUZmZOdkZCUVNRdU1sQ1J0azBmbm93NjVlN0RWaWxlU0IyQWE0WlhuMnM2Rm9DQ3F5aUw1NE1VanNRQ2xCS1RJanFlYmc1XzVITVFzdWtGWTFleEZUaU1fMzJUNlpYeXB2OVhEaFNhTHNWblowYXdrbmFKTVNNcHFHcTZDTVRDLWNQYzlveVZzZkw4elIxbUJtU3FQTUhOVzhwZG9Ndzl0YlJJbDhhQzItTTdIcWlRbWI0WUxJaDQtcmx2anRIR1ZaTlJnUnPSAbICQVVfeXFMT090RGdGaVREMGdEWE1ZYVRLckRldGVzRU55OWZpaVhIOVBDYVM5aE9GcFBNTHJrZEpjVUU5cHFJa2xER21VVnRGVFFhMHJ3dTZudDNyaFNhQmFkaXVEZEIzSlgzdVZsMUFfVmRlckZ1YWdhdFFqTE1PazJ4MU9kT3VXd3llak9KSEZLZC11R0UxQnNSS3ZkRUMxNUFNaDNZMWtKT1ctM3otTDhPM3NEQ20wZ3p2eFg0YUxPM3VHSXZqN1pYaUhfOUh5TFZHS3IxQ1ByQ01LbUJYYmhVT016a1RHVGdad2lDNlExSXBWLThEZDAyVU9fT2lmblBkQWQxb0JXSzBSMVlwbHdqUm9xemVQblk3b3pMU3BEUTAyVW12b21uQkRmNDJoV2xsaXdGRVpR?oc=5",
+        "date": "2026-08-25T14:12:34+00:00",
+        "source": "Infobae"
       },
       {
         "title": "EDUCACIÓN CAPACITA A 2.500 BIBLIOTECARIOS CHAQUEÑOS EN INTELIGENCIA ARTIFICIAL",
@@ -140,24 +133,31 @@
         "source": "Gobierno Del Chaco"
       },
       {
+        "title": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial",
+        "description": "Manual de IA: qué información nunca deberías compartir con una inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMFFMSzduRWZSRF9lOTRXdC1MTkZfX1VTank3bWY2WktRcS1pMFJRLVpvcGdRYTR2RlpkWl94UTZpUGlNQ0s0WlZIblRxRFdaX1NQRmdrMEFYRjNOX1QyenVuOXJoU0k3ZXFncllydEtwMngtTGFFSFJkZGdtV0tmSDZPWjhTVHV1dFZGWVFFQVhoNHUyM3ZiNnVIZFVMYklxWmRuWUh6ZkdEU2tSNVc1b2RBOU1tZFlLVG5pZU1pSnhnel9reHg2anF2QXBOZFE5a3BB?oc=5",
+        "date": "2026-08-24T16:25:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "Cómo la inteligencia artificial en TikTok inventa recuerdos",
         "description": "Cómo la inteligencia artificial en TikTok inventa recuerdos Página|12",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWdfcUZuZDljUFdxYWRJZWM2bzBKV3lxUzZTM0o1YXQwbE9RX1lkYTFrVmhQNmdkVEFTaVFuSlgxZ2R2ZXQ3TVdwM1JXek1ISEtpVVFhYUNIUjJuMGpCcThJNFRweU1KNF9fR3JlRmlwSG1vMW9nZU52MlREMmJlZmtXaHBMSVRBcjNvUG9uNm9BalM5RzdCZnFSX0x2NVRZ?oc=5",
-        "date": "2026-08-26T00:14:54+00:00",
+        "date": "2026-08-26T01:34:39+00:00",
         "source": "Página|12"
       },
       {
-        "title": "Social Media Day Argentina presenta un ciclo de formación en Innovación, Inteligencia Artificial aplicada al m...",
-        "description": "Social Media Day Argentina presenta un ciclo de formación en Innovación, Inteligencia Artificial aplicada al m... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOa2RJMzFQaEgyLVBvakdEOUg2U2R3aUdobmhJOXg4X3FPajlqbGFEeXdTTmJxUTl1Z3p2cm5QQnU0VV9rX3NKTDlMaXVEU0wtTlRtdS1aTlNCR28yMzl0QWc0cDh0M21VS1pvYW9hMkxSdGtzRl9tUDM3dmoyY0N5cDB5WFd6bkZ0OVVkTUFiZXpKNHJIZlpOV1dZeUdGZ2lkN05BRGhiOTd0QkV3dVQ1YlgwemJjZHpHdy1VS0lLQUM0N0N1NmFqTWtneVQtandEakF2WmNlWEVFNkhsM0dQREVxMXcwUHdKWmx5VmVRRWhqMlpQb3ZueUMwVnk2cVNaSjRYV21icnFHWFlWVUtYQW5RZ0JWa05ma1hNLW5vREHSAaYCQVVfeXFMTk9QQjN3NlNrRzc1VWN3akpudC1FdjBnUHV4NUZhNTE4RDZ4a1gwamM0eDg1MnlFS0VseEFuNC1vdUV3NndsUGJKZGEwbDVKSUhwS2U1RkhBeXFKbWJrQWUtMnpJTlhpT3E1dlJYUUtKVXVQVUFqSUpLRk90bUxyT1JWZl93NXFETXlZQmdIN1lQTk1EZ3dqTUZtMVJZMEJ5dmZWVkFSUjhzb3NNSXBjZXYxaVhFdVFnbWVyVUZrZGVnU3Q4Qy15RmFiWk5oU2NTM0hXOWlXTVctMTMwMHdsa1VtVDkxWlRSZEpDckwxQk1MZ1AtUFh1NWpyZ2F6bnd4TkdVVVFxVEYyYjJIQVVUUWk0aEFQeGJpeGhvek1Vdzl5OGdiQTdR?oc=5",
-        "date": "2026-08-25T13:00:00+00:00",
-        "source": "Perfil"
+        "title": "VAR en España: se muestran las jugadas que eligió la IA y se explica qué pasó :: Olé - ole.com.ar",
+        "description": "VAR en España: se muestran las jugadas que eligió la IA y se explica qué pasó :: Olé - ole.com.ar Olé",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSlNfRnd1ajVaaThSdVp4UUo5bnlHbWViVy1kakJiT1NGa01WdnAyNmtpMHhFZ0U0bGU1eWREMkRZRHMzYkZ4THd6WHZXZVhQSkNpaWlKTlRXLWpoRmdTYXlEeEtoUUhtbEIzS3FGdzllZWRQRTYxRWN5MnQ0Y1lNbUwxcTM0V0RmZUFPV2JSVG1HTmlScXN3UXAxclhNYXh0WmE5Z0otaHpaLXpSV25maWFMWmE5MUltSFFVblpkMHZJV0x3ejIwQlZOejAtZ3gwVlVUVHQtOXluR1dJbmJ3ZGJDd3I?oc=5",
+        "date": "2026-08-25T21:09:24+00:00",
+        "source": "Olé"
       }
     ],
     "Vaca Muerta": [
       {
         "title": "Tragedia en Neuquén: un operario murió y otro resultó herido tras un accidente en Vaca Muerta",
-        "description": "Tragedia en Neuquén: un operario murió y otro resultó herido tras un accidente en Vaca Muerta Infobae Tragedia en Vaca Muerta: murió un operario de YPF y otro quedó herido Diario Jornada Tragedia en Vaca Muerta: quiénes son las dos víctimas fatales del incidente en Rincón del…",
+        "description": "Tragedia en Neuquén: un operario murió y otro resultó herido tras un accidente en Vaca Muerta Infobae Tragedia en Vaca Muerta: confirmaron la muerte del segundo operario herido en el incidente de Rincón del Mangrullo Lmneuquen.com Tragedia en Vaca Muerta: la fuga que provocó la…",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWNCdWVGRjVsbHpFM3NOUUcwY3ItZ1p2VVNUUHZYek9UQTNJUzE0d0RpUXFPdlg3VGtuWlczQWVWZGxQbEFzUjFTXy1DRW83VGpqZEtwU1ZkR01LRm5YZVJxQ3hYQ2tQYXExT1dfNlJSU2RYSXRvb1cxeVFpSmtoc1hYbGtBUko2NmQ1SS00MTBwSXg2MDRETnRJMk9TbHNENlhwZl9NSXo4VUFtRUlENjMzZjVEcXNseDVvRGJORktxZEZuMkh0aFhNaGV5LWxnM05F0gHuAUFVX3lxTE5wMS1saGF6S0tiRmNmTjhsOFJwT1RSNWxQMWhrTG9xNnlZczFORGtmT2drSHBxdFVod05zb2lQeDhKc3NiZU1MTVBHdTBkemo0U1dwSVVGSU9JcGpCZ1o0UHZ6Mk92UkFfYzhzR0RUUVRFM25mV2Rqb3dmZjFpSnpHdkNLSnNaaEJiYzFnSDY3MFVMa2FjSkZWTDJ2QnlRUFp0czZodmxObGVGanVQRXlMRmZZTEZ6OGJxLURleERPSURsc25ZdnBxcGxFVE16OV9kckJjZUlZWlBLbmk4UUNneWRUT2ZsUGNMWWxOYlE?oc=5",
         "date": "2026-08-25T21:36:00+00:00",
         "source": "Infobae"
@@ -177,32 +177,32 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "YPF y sus socias buscan cerrar el mayor crédito privado para exportar GNL de Vaca Muerta - TN",
-        "description": "YPF y sus socias buscan cerrar el mayor crédito privado para exportar GNL de Vaca Muerta TN",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlByM1h1ZnhUc3RWUnlkdnpLYy1nSUhHNlBmMmZSbXdfdnJqVFpKc1pVa3hPZjhSTG5MeV9IdXk3VEM4eEVOaU5BaEtxVFBtRWtHNFlDQktianJYeGJkVjNWQUo3dW41bUN5VmNrZVFPcldiZ1E2T3VoWWRWQmd6ZmsxWnN1UUNtczZVM242Z0RLb0hXcjdkcnFESDRzWkV3N0tsUnl3OHhnb0dRb0dwZzU1VXpYZHdUVHhrTUdGUHc1ZTg1UEHSAdoBQVVfeXFMTlJrb2k4ZUphb3ktbWZUVWJCVzI5enpScWZQdHZvWGFDdlpuQ0k2NElCT3NnbHlQY19CbXpQY09zclZrRTNqc1VZVEdtVG1MRk5VQlNwRV9ZeXRHYUdScGRCZ3FUaFFycGhMUTI5TG1zaVNrakU2X3hocHBWSDdJZzd3ampILXN0VjNwTDdmcVQ3UWtoUklvcll4NVYxWHdQdXd6MUJRRzZra3ZhTnVRYTB0Y3UxTnJBSXZ0aXFsTGZYTDloaW82TUI4SGktRndrQWZ4SnJLZlVMQ0E?oc=5",
-        "date": "2026-08-25T17:07:15+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "YPF busca cerrar el mayor crédito privado para exportar GNL de Vaca Muerta",
-        "description": "YPF busca cerrar el mayor crédito privado para exportar GNL de Vaca Muerta El Liberal",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWViUUNkd2k5cXZ3T2JjRW94N0dBVkZ1eXF4WndIaTcwZVVHOEEyTFNJYWhlellyS29aXzhoeV9OdFoyQ2VscTN1U0Z3ZzR3NmxFMERIZHdIQmpEOVJVOUkxaEFIb2cxaWFIdm9WejdwT2FPYUM4ZDEta0pOUEdRVHZncV9icEQ2Z212T0t4eU1sdWFZS3NDeTRvVTF1RDRVU1N1dzgtTGpyMzBvYTNBeHBid3pNdi1aMms0cWU1ONIByAFBVV95cUxNbFItV1pZaGNkNmlwZkd5SlExTVhzckZiZnFyb1RvSHhPMnFSc0YwRE9lYUdYeXJvZXhIR18yWXdJMFZCNF9xM2pRMUxfQXpMVUJRNS1mRDREUERTZ0RaNHVXLTZFTEVlckp0dTJaZWZlNWRnRVdUdkowWmp0SGJQMDYxdmMtdTFSdThrTnQ4UXhna294X0g0aWJmeDNCZEhqZ1ZGR3FFYkdidjVHOVdnSTNPb2JROXNYWjRUaC1xMFZYRjhEcWw3dw?oc=5",
-        "date": "2026-08-25T20:21:00+00:00",
-        "source": "El Liberal"
-      },
-      {
-        "title": "El proyecto que reabrirá las exportaciones argentinas de GNL ultima un crédito por US$1300 millones",
-        "description": "El proyecto que reabrirá las exportaciones argentinas de GNL ultima un crédito por US$1300 millones La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbllGQ3FENnNUaEdOLVpIUi1VcXBHRWhIMTRLZ2JzVVM4NEd1LUZZSVRrVmY2alVsZVV3emQ4NmhaeFpqeHQ4WU50THJka2VJWmMxa19xSk8wcWpDeFF5UzI1eW9DM3lMcG05OG5WdFlpMEEyOThrN3R4T3pUbkJaX2xKQzRPWXI1amhnNHlENUhOQ3JIZjNXNWRoOW1hX25kUTFOaUQ4RXBna19UNDJSM0ZZSmNEc2ZKQzhfdkFIcXlCUjVfOUhCSWp1bE5yTWptRlRSSlIyOEdlZ0UybExkYkx3?oc=5",
-        "date": "2026-08-26T00:08:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "Milei acelera las concesiones: 9.000 km de rutas, trenes por 50 años y una megaobra en Vaca Muerta - El Economista",
         "description": "Milei acelera las concesiones: 9.000 km de rutas, trenes por 50 años y una megaobra en Vaca Muerta El Economista - Últimas noticias económicas y financieras",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUtDajd0TEUxUWtUUzZVTDFRNkxSVjd1SHpCLS1XQ1g4VEh1OE4tZFdsUTVXRkxyQWNMeWM5ZkxZT0R4aHR2S1I0NEpQLVZuTlhYak9ZR05mMUdmSDFLbFZKY1lpdVRUdFFmczQxd3kwNWNYQlFfQW1Pd1hFSWZWdC1pblVfTW1aWXF1WHNvTUZJdG1BZWdjOVMzclE4WnAtT0xZM1ZZNHp4a0dETmJwUnA5TEZ4XzlxZFR2MWZyeG7SAcYBQVVfeXFMTktRMEV0ZkJtOGFJR1E2eUZjWElISzNNWF9BSHVYRDFYQ1M1TTV2N0ppZWUxT09TWjJNRWQtaEY1eHVSS3VOM0FFbmxXQW9HQVZXMzBRMGNmdG5VcXdwQzNFWThoQWxOMUhNbFNSVHJVUjNoTzBtN1NzelF5ZXJ4bVhmT0J4eHMtVDFkN1N5SUVBOWpydVdnd3NGUHJsVWtVblg3S19iV2Nhd05zX2s0OFE5MUYwX1hSai1laFM2NlhVN3pSak9B?oc=5",
         "date": "2026-08-25T15:34:00+00:00",
         "source": "El Economista - Últimas noticias económicas y financieras"
+      },
+      {
+        "title": "The New York Times pone foco en Vaca Muerta: la silenciosa migración en busca del \"Texas argentino\"",
+        "description": "The New York Times pone foco en Vaca Muerta: la silenciosa migración en busca del \"Texas argentino\" La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGhJNGVGaU5fN0ZSMnVvam1rU0gtaDl4SWtOd0hfejBxdTc1NTJhOWtxYU9EcTllOEdhTWl3bGpWMi1JdXctOUNySko2ZlBPTHN0SFc0NXdYTDJmMWgxN1R5cTFTTU9jdktYLV9FS29ZZTZLajR5cDdLTUJzV21FbDNzMVBic1VjNExlWlEtV0ZjbmtKVEpsdGYtaW1HV0hzdUxXSWlKYjVfLVg3TF8xUExLa0dJeGNZUkZJRktSdi03cHBRTGNMVTFnVXFxR09s?oc=5",
+        "date": "2026-08-24T12:23:23+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "The New York Times, sobre Vaca Muerta: “¿Podrá el ‘Texas argentino’ salvar la economía del país?",
+        "description": "The New York Times, sobre Vaca Muerta: “¿Podrá el ‘Texas argentino’ salvar la economía del país? La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFhRZWlydzBUSTJIQkFnRDhmZUFtYUp0UzJYQ256TnF5VHBHYy1lSVhFZnZNQndKSnJxZTZTTWZQMjBHOFF0UzQ2Z0FIZWUycXgxT0hXRXpydWlMSU9CbFZPRXF1ZGx4SXdvZWlWd2Vfc0VlcmpucEFhYkhrUlc2N2l3VExUNzNXZE5zeWNBM3FXdkI5NE9PeExkbUVLcTFqd0VRMmhUVWpyQW9FdGJHZmE2ZkItSm1VbWJJYkpDdFE2a0piS3pKT3ZDeTdOSi00ejZPaWRn?oc=5",
+        "date": "2026-08-24T13:43:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Gustavo Medele: \"Un pozo de Vaca Muerta de 2015 acumulaba menos petróleo que uno de 2024\"",
+        "description": "Gustavo Medele: \"Un pozo de Vaca Muerta de 2015 acumulaba menos petróleo que uno de 2024\" Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXU5a0dzZ3Y3dGJTOHB4T3VoSnU0T0g5aF93Y2tKNS03eVVtbGJDbEdKMGl3UWVydTFXSWZiSUxEOXQ1YlFxaU1aR2JFYU55allDX1FFUU1OTmt1RnI2UXhwcW5MQ3pvUnBjRlBDODd3bm04eXo2dXpkWUkwSlhSSEg2eXRUN2ZWbTMwa0tPMmdzRHlBc1RGWHdKM01neUZFNzAzaHZHWnpNbnN5ME1XUFJTLTJaLXY4RVVuaGJxTVp0UXfSAcgBQVVfeXFMT0hKZ0Q0OGxocVlDNVRqeXlDZFFtcVE1MXRqcjJKLW5CUUVPeDZNNmJXbFZJVWFyZjIyVTc1ZDU5ZFhfeWFwVXZuTXlqOUtqUDRFV2ROSVVSZE04VUh2eEZFbmV2WjdzSnZPX1h3N19ieG5sejBCWG9LM1ZYSGlFN1FKVk1maWVFdmJ0aTV0b2lhRWREc3N4eUo2b0xvSXR6blB1djkta0FsLTRKWHVMdlJnNV9HTTFTSVptdWVUMTBBUDkxQlZYQzk?oc=5",
+        "date": "2026-08-25T15:00:00+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
