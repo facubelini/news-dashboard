@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-26T21:34:27Z",
+  "updated_at": "2026-08-27T02:48:16Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\"",
-        "description": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\" Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZmdjcnB2X1UxVVhfa09HOFhzdDl1azQ3dHhiOVg4ekpzdUU1bGstS3JscG4ycG9ISGxuemxhcjZhSHZXaGZ6NVMtaGxBUE1CTjRyakh6MkZWNFFoN3U5elBnSFlEeEhYWnNUbEUzOHpGYjNxRGRYV2dNY3Y5Q0NMdjJDYlhOVlVYRzJVaEU0QkpBM1VwQmYyM05VRkktTmdkTkFlVEhLdWhLVjJuaHNubklHMEFnUHlfbXRnNWU4aGE0eG1oVDFNUHZGYUEzNU0yQWFJang1UDlBczR5S01ZenFSWng2Q3ZHWEhzSEVZSXJ3YUNQNUE?oc=5",
-        "date": "2026-08-25T13:20:54+00:00",
-        "source": "Clarin.com"
-      },
       {
         "title": "Perfil demanda a OpenAI y Microsoft por el uso de contenidos periodísticos sin autorización",
         "description": "Perfil demanda a OpenAI y Microsoft por el uso de contenidos periodísticos sin autorización Perfil",
@@ -17,11 +10,25 @@
         "source": "Perfil"
       },
       {
-        "title": "LibreOffice critica la interfaz 'Ribbon' de Microsoft mientras mejora sus pestañas y conserva el menú clásico",
-        "description": "LibreOffice critica la interfaz 'Ribbon' de Microsoft mientras mejora sus pestañas y conserva el menú clásico Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcFVtdmxjTTVlQU5CVnVMYVFkRm5CemN1YnJKT2hsTXNsaHlUeC1tQUM3NXRLNW5ram13NjhleWJXYjhfUUtGLXYtLTRwSGVqZUhUNDVuVFhSSHhESURwRkZiTlBzd0xqdkk5c3Btak1KbmlFR0xPVWFUR0lHbE5kWkEzdE5EdmJJcnVwcGxMejB3T2xjR1dRVTBjMzNzWXBGT3NDRC1ySGEzYmNKc2ppWGNLdGplZjBjYjlramowelBGMzhISXFoR0JIRUhBUFZ2ZWkyY0tlaHhqanA4NnJMWk9IZzllcnNsYjZhRXFpc1JhZ9IBjAJBVV95cUxNZFRMbmNha2RGNmRrMlo1RkNROE5Ia1YyOS1LVDl1NG1RdktxSy1HRlozclZHV3RONVNBQWN4TWRYMGFFQTM0YnBOXzg0SHB1QW1BN3NENEo1OFZJVjR5UVZySWVIMlJBUzhpa2x4QVNEbXB2YUQ0NnhGMDAxSVBiOUFxQWZNeS1qOU5SNHRiZTNFNkVVSmQ3ZkVnNW5KOXVtUzA3YXN6OTU0R0h4aWFkQTNaSm5rNnRkZmx2NjNyMDZlRnBfYTJPTkNQS1VyY0hRRDdEYkY4WDhRVmtvWkYwNkxrczhXeE1vQ2lGdWFiNnljZHBueDFGeUZscUVMZk1TbDFWSVF0MktFcE5q?oc=5",
-        "date": "2026-08-25T10:28:58+00:00",
+        "title": "Microsoft Flight Simulator Suite y Dokimon Quest gratis en Steam por tiempo limitado: cómo tenerlos en mi PC",
+        "description": "Microsoft Flight Simulator Suite y Dokimon Quest gratis en Steam por tiempo limitado: cómo tenerlos en mi PC Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWV0RXZXOWxuRkduUlpqNG42Z1FvVlhWWGZaYzlBemRKbm5pcWd4Q052SkVBU1ZTbUxBbTB4M1I1SENNMEJROTVqbnY4SDF4QWx5aDQzWDA2UWs5Q2F1WVlaUWRFTVZlNTk5YUJjWjlLS1oyeE5uUko3UmZtcXBrZDR0LUM2azBDUHFOeFV3d2s2YlRkYWpYaVhLT3J2dUxaQWh5TDVBTmhaM2xSd1N4bHgyUEh5UjRTdW9KUldRMGdmWmNzVDlzS3RFYUVkWjNSTW1FMVNneEJVaGdKcnhmbURUNNIB_gFBVV95cUxQQjBHNGJkaHU4R29kWDZkMU9PbEdLSUFUM0ZlRTdZQ3RoNEFBZW41aHYycktfelY4bGZDU3VvamNjRlF2djFKUkcxRngxZDk3ZUxKQ21CSkhFQl90ZXZVTXZqUFlQdUszbFBXM21CMGRXak4wTXFsUWxnTk4wYzN1Smd1TlZZYjZxSDJnVVc4eFFwdUNXM0RVb3dlZ0x3X0NDa0VYWGsyQ2xPM3pmSG5ROWFQV0JXZ1dRSDdrVVhud282VDh2QnpZLUFQZ2d3bTdST1U4RnQwcG9Ra19XMERmSGdRRUtwOVRWR3FtSzBZb1EyZmttOG15LUg0cXp4QQ?oc=5",
+        "date": "2026-08-26T19:53:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\"",
+        "description": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZmdjcnB2X1UxVVhfa09HOFhzdDl1azQ3dHhiOVg4ekpzdUU1bGstS3JscG4ycG9ISGxuemxhcjZhSHZXaGZ6NVMtaGxBUE1CTjRyakh6MkZWNFFoN3U5elBnSFlEeEhYWnNUbEUzOHpGYjNxRGRYV2dNY3Y5Q0NMdjJDYlhOVlVYRzJVaEU0QkpBM1VwQmYyM05VRkktTmdkTkFlVEhLdWhLVjJuaHNubklHMEFnUHlfbXRnNWU4aGE0eG1oVDFNUHZGYUEzNU0yQWFJang1UDlBczR5S01ZenFSWng2Q3ZHWEhzSEVZSXJ3YUNQNUE?oc=5",
+        "date": "2026-08-25T13:20:54+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Microsoft te permitirá convertir tus juegos físicos de Xbox en digitales. Y eso abre una puerta clave: su preservación",
+        "description": "Microsoft te permitirá convertir tus juegos físicos de Xbox en digitales. Y eso abre una puerta clave: su preservación Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2xXSHRYendMa3ZwblRlZTgtb3BfVEdxSHVqOE9oS1hsSW5sdWxoZkpzMXhlQ05wMy1vQzlfLXZJa01aR1JGSUptVVZ0S0JQQkhuWFR1b29TNmpVTTlHd244QkpJSXlpdkFxQkZRWHh5dHZhWGZPZkJvTGJaYTZsT3lnYkExVUhIaWdUT0lENERaUHBEaFhPZnYyMmVHUmJSM0Rmc2hDTWVNZ0N1SlBzLVBUaUpuWUtkbnNwSm9zSk9oeDJyQUpFNGwxYzZZVU10a21ubS1xSVQzQjDSAeABQVVfeXFMT2JYaExOVTJYVzZZUzNXQzI5SHVkeWhYSDg5NlRwcmwtVnpaU1l5Wjg4U3JSb2luRUh4Y1poTXp3NWJKNG9LbTdjVUZBYkV5Q09kdVp5VVQ0dlQyVG5DeVJjOTJhUm45RmxwMXZNVmdMWWZGcWcwYkVSR21ET2JaSGdRT1U5MU5uOXBuamhKR2lWVldzb0N5bFVWNGpKYUswc3ZqN0RNZWlqemVPemFDSHpPdGxOb1BTOEJhSGozYk9odlhDd3RrYjh1Tm9peVd1TnpXRnBXTDZSREpvYkRoRkQ?oc=5",
+        "date": "2026-08-26T17:31:00+00:00",
+        "source": "Xataka"
       },
       {
         "title": "Microsoft encuentra un posible culpable de los últimos fallos de Windows 11: los dispositivos y programas con RGB",
@@ -43,16 +50,16 @@
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ1EwS1A4RkUxT3RwY1QtOGhSd0JuYS1ick9NNFBjS0g1b2Q1YUJJcXJIdmh2NWl4X1pwUjFET0tLTEhKMktuN3J6c1RJSUJrTUtiS1ZlUHJ0d0xyVldFMnRMdzdiWXpyejNNSHdCNmxhQW9IS1FsUGdGSjQ5NWpWQUh3YXBoTy1VX29ZbEZiT3YzM0k3NE9RZkVzY3lOLXl0ZFlPc01TR1UxRGZIN3V5eE1oMGJNSWk2UjhkTHNxZTM4Vlk2b2tUUk90amxjVTlwbDl5NEJDLVdtR1o1MXlEdFA1R1N3T1HSAewBQVVfeXFMTi1JcEs2TDdTX0EtRm9yTUhTQjkwTGVkYnZ1UzJXSGdPVWNjM0RTeGl1aW5rbXNfUUlqNmlsWmpKZF9yTGd6eEI5bkRzeS0tNzFaQTJMUThwMC1vamF1dk9pN0xtS1NkdDl3U29yREhxTG9NUVpFUW54bEl3Nl9yeG1iMC1XYkluSUl4cFFyZ2pFaG1pYjhVYzJqYnV0ODY0WlhkN3hWUThLX1VzZ09Fd09NaFpYVzFlbUdLWmN6NDZ3eEZpZGU2ckV0aE42T1dZUXF6bnV2X3hyczBFQ3kyblVoQ3BGRWJqT3RVNVQ?oc=5",
         "date": "2026-08-23T23:33:46+00:00",
         "source": "3DJuegos"
-      },
-      {
-        "title": "Editorial Perfil inició una demanda por daños y perjuicios contra OpenAI y Microsoft",
-        "description": "Editorial Perfil inició una demanda por daños y perjuicios contra OpenAI y Microsoft TotalMedios",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1ZCVW5OLUhjeDBqMkRyM3RJZW5IRlo1QWJvY0dGWU43WW53T3pkMjBKblM0d1ZHa0lJQ1BEd2llZnBLaWxQRC1WdkxiU3ZLSmRCNkhXT0ZBY2Njb2JINGNaN1NHWWstbDBRT3o2X2FKc1EtRWcxanNkM19Va3ZhMGtnR2JaN2gtY0x2eFZOV2ZCVDBwZ1RBbmFueVZJdkpRVzRKajBRV2Jfd2k3UDNhUkFSdTkteGlHLXQ3bURULWw?oc=5",
-        "date": "2026-08-26T03:00:00+00:00",
-        "source": "TotalMedios"
       }
     ],
     "Marketing": [
+      {
+        "title": "La manipulación digital y la generación de imágenes por IA plantean un debate crucial: los límites éticos, la desinformación y el impacto directo en el trabajo de los fotoperiodistas. Desliza ➡️ y escucha lo que expertos y conferencistas compartieron en FOTO",
+        "description": "La manipulación digital y la generación de imágenes por IA plantean un debate crucial: los límites éticos, la desinformación y el impacto directo en el trabajo de los fotoperiodistas. Desliza ➡️ y escucha lo que expertos y conferencistas compartieron en FOTO instagram.com",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iNDNZRkd0dGVUTkVUak00UnlGeS1ORlRvTU5BRGlLUXBDckw0MENqaG56UmlDeldWT092QUZZYTZ3QjU3UDF5S0VwVWFIOG1OQmc?oc=5",
+        "date": "2026-08-27T00:26:52+00:00",
+        "source": "instagram.com"
+      },
       {
         "title": "IA para el trabajo: capacitarán en productividad, gestión y marketing digital",
         "description": "IA para el trabajo: capacitarán en productividad, gestión y marketing digital Aries On Line",
@@ -66,6 +73,13 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlhKXzVrVm5aeWJNVU5ibDkxQW1ia01IRDFzeTYwRGMxekE0c21Sd3g2Mklsa0FlczVWSzFnWmRPU3ZDcjVIcjctNHhWOXZWeFFqdTkxN3RwQk5Kd3FWQUJMZ000Vk5LZWV1ZktmT3pVTHFYMzN5T2QzUm5BS1VTaUZBa3BwcGxJSWZZWTNuSzZYSVlUYmJrcFBxd3pmZnh0alhrSmpCUE5DWVlydlFTalYtNEFyVVVYcE1FY255QjUyYVRxX01FSA?oc=5",
         "date": "2026-08-26T06:03:11+00:00",
         "source": "LatinSpots.com"
+      },
+      {
+        "title": "Agencias de marketing digital en Argentina: ranking y guía para elegir la tuya",
+        "description": "Agencias de marketing digital en Argentina: ranking y guía para elegir la tuya FM Del Condado",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZW53SG9vOW1jRFM0MERObnIzZmhtTU5lNTB2YlpoNWQyZTl1c3ozTE1leEdqYjFHem1rLXZmQy1oTW90WGV2ZTdlX2JLYzlzZGVpLXA1ajd1eExFay15dVlSZFNTaWRLeVpxdXRBdTVKNXVselczMURuMnZDSzN6bWRUeUc2eXNjeTlIYlRHSzQxT0FJY29BV0M1UDJkNHJ6TzNVM3F5LVo?oc=5",
+        "date": "2026-08-26T18:40:00+00:00",
+        "source": "FM Del Condado"
       },
       {
         "title": "Inició el curso de Publicidad Digital & Performance en la Escuela de Innovación y Tecnología",
@@ -82,55 +96,20 @@
         "source": "Diario Democracia"
       },
       {
-        "title": "Dictarán un taller de Redes Sociales y Marketing Digital para emprendedores",
-        "description": "Dictarán un taller de Redes Sociales y Marketing Digital para emprendedores generallavalle.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXVWdUxGaVhwYnRFcFVtcDV3a2JpWWxCdHVIV1lTVUZjX0JQek5XQTVRM0J3YTBJSjBPNjRWd1dTNlRyVjFESi03XzFDcU11NkhoMTkyeTF6RXZicGRSc1I5TzNraFh1UlJXaHJJZGZwa3ROdFlEX3pCRGpjRDViUDkzeU0tZlRPWXZhLVdZRUxILVM5andmdlQyTmFvMUxfbHg0RVZxS2NQQjJfYnotMmt6bDBYRzZRdkV5T2pvSmVrSTJLdDY1dXI5MXdmajA?oc=5",
-        "date": "2026-08-21T18:59:07+00:00",
-        "source": "generallavalle.gob.ar"
-      },
-      {
         "title": "Inteligencia artificial, audiencias y nuevos negocios: la industria de la publicidad digital debate su reinvención",
         "description": "Inteligencia artificial, audiencias y nuevos negocios: la industria de la publicidad digital debate su reinvención La Nación",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdG9ESjg3TFg0WXJDc3dHSTNicmFkd29Gekg0a0Zodkp1ZkF5WDg1Q2RHLVZ2M3F1R0RNNXFYMk5Id0JuS1JJbHdGNE9Sb2hPcENDcVhNZFJ3bHlTQndVRnBONXJiZWRzeURlSE9QYUdpaWNLTThGTmNfQ3hmV2JCSTNTc1JIeFc2LXJ3bHJSektfbWpVX1BVS3VjVEdnbG9ySFhJVElaZVJPU3NBYVFQX0RPdjI5cEhaZHNMNGJHR21kajJNSzJoY2MtbFphX0wxaGR3a29XOXZoQWluY3NhWlRrZlpkNkdxN1JBcTM5WUs?oc=5",
         "date": "2026-08-25T20:09:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Las mejores agencias de growth marketing en Latinoamérica",
-        "description": "Las mejores agencias de growth marketing en Latinoamérica Bariloche Opina",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVNJRHN3VnR1ZTg1WVhCTGVxRThUUVZURWhLYXduWGV5b1B1ZkNzenExa2JRN3hwSjhXaDFQc1Q2ZFdESTVJc3RaU1FYdllhUVNab1hONlVLaDZGbHpOdm5DRzZ1QXZQN3o3TXkwUWROakxTdWNUN0pUdzQ3YTBHV01tVGNKalhIUnhrcWV4a1BCRXpzLUhNdGVpY2VHU0M3Tnp2QWp2S3ZRdnJUQ3NhMjgyR3nSAboBQVVfeXFMUGZqM09uaWNrZ2JqUkNmSEpGMkJzbThYNHJHZ29FT0ZGQ2JmamQ1NG15NThoNTZwMnpVTkY2VXJHYjlLQlJvY0NhUGV6NlpSZEVoLUZjMXZieGwyRmJSOS16MjJnRjRBeUdsYjJFcFZiMWR4aXMzNG00SVpWV2NkLTVmVG8tb0Y4R3JvYjVfVTFmcUdpWFhhYWVla3ZIWTlDSE9vU3g4TUVkWi1yUWNkemN4SEdGSGxUSGRB?oc=5",
-        "date": "2026-08-25T18:57:07+00:00",
-        "source": "Bariloche Opina"
       }
     ],
     "IA": [
       {
-        "title": "El inconsciente artificial",
-        "description": "El inconsciente artificial Página|12",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xeFJfeTk3Zkpya2syY1oxbmQtUnZ6bjdTdEpyZ2VzcmdVT01mZU9uNVRKUHVKVEdwbi1uZnRNTnE3c2h2aU9zbS16c2hGb2hCRW9BdWI2YWR1TkZXY09IMTAzZjNOZ0VTQ1J3bFNBT0lvSklU?oc=5",
-        "date": "2026-08-26T21:14:23+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "Francia militariza el control migratorio en Mayotte con drones e inteligencia artificial",
-        "description": "Francia militariza el control migratorio en Mayotte con drones e inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRExhaEVPNV85M1JUS0pUalB5dURPdFU2eTNrNWs1Tl9zREVlNC1HRlRoLXZleTg2R19VbE1mVlNFTU1vUmZMWnVrTW9hRW9DZFpyOERUMnJEckp3a3JhUzZaemw3a1RzV2NTeWJFZm9NSElZQUJBWlo0WFRWZ2R2TXVpRDVrbWtuRVpvMHE2bzJHRklVVHZ6b3lxMWpNQjNFRUt4QjRoZW4tUXNxSnZWcVlENHNkRzZYRGZ5SDJFSXVUb0RmMUdtRUVHUFZmY2Y4TTVWb9IB7wFBVV95cUxPR2l5OWxnYlV3NDZjUWc5RTVsaHdKaUE5YUpma1c4VHAyc0paZlBmMUhtMUhQQ2NCY084SmRZLWY0b0lPcWZiVHE5Y3dwdm0xdWFuMEl0aEZaTEgxNVpBWHdfRzNKazFXOTRNM05zQkF0M25LVHBfOFFCa1BRdmtqZ0pad2RXSHVER09CZkNUUzhtS01NVXoteGEtYmxyQUxQUU95S1laYlhHOU1rY2JhY05ES0xpOEZVbVZhQ3Q2dUNva2JVcDVmdkNhNGRQekcyc1BEM0tlQjF4RXZrOEtuVGpwcm1BVnpSMFN1dkhYaw?oc=5",
-        "date": "2026-08-26T21:11:41+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Google Cloud apuesta por la “era agéntica” y lanza nuevas soluciones de IA para finanzas y el sector legal",
-        "description": "Google Cloud apuesta por la “era agéntica” y lanza nuevas soluciones de IA para finanzas y el sector legal La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOclJwT3pvMm9xTmJsNVIwbGpuMmJIMVFhRWhjbmF0NVBFak9pbUN3aEJJSF9HQWNoZlhpY3hvd0dlWGx0VEc0QjdYSWJBNTJ5RG12dkF4MlpGZktnUXpFYlAxblJNZWFWZ2l2ZWEzYTE4ajg5UnFrUXFNcnY2MjZLUlp4QmVKeTBIcW41VkVad3NKd1NtQlV6eWVqRTlXVm1WWEk4dlVhOUpYd0dHd2hHb3lUVDZxeTc3d0g1VjVrbmp0WmZSSFVaNVhLVEM?oc=5",
-        "date": "2026-08-26T20:35:11+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "Mesa de trabajo con representantes de Salesforce sobre inteligencia artificial y soluciones tecnológicas",
-        "description": "Mesa de trabajo con representantes de Salesforce sobre inteligencia artificial y soluciones tecnológicas argentina.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSG9VMGN1ZUxwU1Vsbm9wZnoxQlhscTg2NWhCckhQVFlXbTQ2N2N2TlJIeTBpa1hQenJ1cGN4OFFnbTlqN0hjYzBoeEt1dm5ad0kyWFVFNHVzMVMzMlFfYmtUWkxBMlkwY0FZcjdQaDUzTndiQ3RTZHh5cWxHclpydkQtM0tXclpZdFl0S252VkZqQkpqaE5fNEw1b29OTDI5MTdFOVZoNjFNc0RjQ01NV0Vpd0lYam5vWmxqbzBXclhMWnhCbzdEWg?oc=5",
-        "date": "2026-08-26T18:21:01+00:00",
-        "source": "argentina.gob.ar"
+        "title": "Cerca de 700 agentes de IA de OpenAI se coordinaron para un ciberataque autónomo, según un informe",
+        "description": "Cerca de 700 agentes de IA de OpenAI se coordinaron para un ciberataque autónomo, según un informe La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdkJQTkFfYnBxMnpoNkZzblN1QUVhZy02bnZGZHlCMmg1R0RUcG1pSFRyaGZBWXNuNWVhbm1wclZ3bEpWYmhJZUxhMnhIa3kyUE9GWDMtWENaQmwtbGFkUzlDOGYtZ1owLW1LZkVEQWg1Q2J4ZnRiN0VCZmdBU2E1X3FhNFN2ZUpKMkJoQVlCQ3dpSXV1cEpYbVNWLVlLNzZGa0p1TlFtcEJTY05GM0NqOVQzZ0sxM0RkaS0xdVAtd3kwWkVPMm5LbC1QaWFMaWhYQno2bGlwNDBuVUJzRVJ2ZGRrRER4Z2sy?oc=5",
+        "date": "2026-08-27T00:55:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Connie Ansaldi puso fin a CUX, su proyecto de inteligencia artificial que había sido cuestionado por profesionales de la salud mental: qué pasó",
@@ -140,6 +119,13 @@
         "source": "Clarin.com"
       },
       {
+        "title": "Cómo la inteligencia artificial en TikTok inventa recuerdos",
+        "description": "Cómo la inteligencia artificial en TikTok inventa recuerdos Página|12",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWdfcUZuZDljUFdxYWRJZWM2bzBKV3lxUzZTM0o1YXQwbE9RX1lkYTFrVmhQNmdkVEFTaVFuSlgxZ2R2ZXQ3TVdwM1JXek1ISEtpVVFhYUNIUjJuMGpCcThJNFRweU1KNF9fR3JlRmlwSG1vMW9nZU52MlREMmJlZmtXaHBMSVRBcjNvUG9uNm9BalM5RzdCZnFSX0x2NVRZ?oc=5",
+        "date": "2026-08-26T10:42:00+00:00",
+        "source": "Página|12"
+      },
+      {
         "title": "Berlín quiere medidas urgentes en inteligencia artificial para evitar que “el futuro de Alemania se decida en Pekín y Washington”",
         "description": "Berlín quiere medidas urgentes en inteligencia artificial para evitar que “el futuro de Alemania se decida en Pekín y Washington” EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPeHNXTUUyclV0aWVPc2ZKb2lOdUt3cVh4TDFRZThVVmQtZW5sazBaOVBPamptbk84NnRQbWNVcHBtSnl1VmFaTGpMM0RZUEpTelhBdVdua0l1bFduSjlkT3dyUGMtbU1pY3ZrYkhCSVFLdTVIaWFxZ3NKdm4wZ0xhSW5EaExBb1NTbms4N3p6X0ZWc1hWb3NpcEpqemRZc0N5dVM5M2lQUmhGN25mS0pqNTJ3TkRRMDFrU09tc25yOUo4NXUzbjhZN3YwVG9uaGVoZFBSREUtMi1aelpKaEhLLWQ1SWlqb29tNHVWUFpxYWlXOEhPREZoclFjM2NKNy00Mmp6bWRuNNIBmwJBVV95cUxPdlpqR241NllJdGNrRDg3Y3RjVl9kQmh3SmlRczhRTllkWFNtVUhSdS1VQTB0OVk3blBrelkyOVl3bXh0dG9aTnBIb3Y2cHpyWEd6VUVsQ0VDZzlMWnBTU3Q0OTN6a3Q3TWdfVkc0ZFE2NmNFOXNWTy1yVmNES0Y2YTltVjdvVmI1RUluNEgwOUpIbFJnQ0ZsTGpNaG43ZFFBSW02bnJxZ2FUVWoxcE5GckVPaTZXYkV1QlNDc2czQXVOSDRpcG1JNjhuNWlIdW8zV0pnT0drV3RYQ05MLUJ5cHFYWmw2SzhGd1VISEs4U1VwcUpHakxjcVJrTGMtSkRXcEtOcEZkN003bHgwZVNqSWI4cHAyZ3VyRHNz?oc=5",
@@ -147,62 +133,76 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "El Ministerio Público Fiscal presentó los resultados de su primer relevamiento interno sobre inteligencia artificial",
-        "description": "El Ministerio Público Fiscal presentó los resultados de su primer relevamiento interno sobre inteligencia artificial Fiscales.gob",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMzdNWDRrTTUyZkVpYklNbzlHYmEtMVRkaFlPa1JycnBhT2NmVjE4Y3ZoYlRscWxoWnhhb0ppazdhbXl2M200cU53dnVRZi1BZkZhWDNFTDhMcDYwbFpJT28xTnByMWNnRnRmWG5uTnZ1LVpoeWxTYlBoenZzVW5MZXpTRWdtWGNXNDRDMzBOeWdBOFlaQUZiWVZ1NVpKTWZVYzAxUHRUSXlWTkRwUVMwaG1BZVpLT01PUmQ4ZW5XdmxkUDFUeFF6cF9pOGl6bl9KcEFpSWN1blBiMzZFNTlub3hWbWVzTUx4UHA0TGwzY0E1NndCMlJMZA?oc=5",
-        "date": "2026-08-25T19:07:58+00:00",
-        "source": "Fiscales.gob"
+        "title": "Francia militariza el control migratorio en Mayotte con drones e inteligencia artificial",
+        "description": "Francia militariza el control migratorio en Mayotte con drones e inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRExhaEVPNV85M1JUS0pUalB5dURPdFU2eTNrNWs1Tl9zREVlNC1HRlRoLXZleTg2R19VbE1mVlNFTU1vUmZMWnVrTW9hRW9DZFpyOERUMnJEckp3a3JhUzZaemw3a1RzV2NTeWJFZm9NSElZQUJBWlo0WFRWZ2R2TXVpRDVrbWtuRVpvMHE2bzJHRklVVHZ6b3lxMWpNQjNFRUt4QjRoZW4tUXNxSnZWcVlENHNkRzZYRGZ5SDJFSXVUb0RmMUdtRUVHUFZmY2Y4TTVWb9IB7wFBVV95cUxPR2l5OWxnYlV3NDZjUWc5RTVsaHdKaUE5YUpma1c4VHAyc0paZlBmMUhtMUhQQ2NCY084SmRZLWY0b0lPcWZiVHE5Y3dwdm0xdWFuMEl0aEZaTEgxNVpBWHdfRzNKazFXOTRNM05zQkF0M25LVHBfOFFCa1BRdmtqZ0pad2RXSHVER09CZkNUUzhtS01NVXoteGEtYmxyQUxQUU95S1laYlhHOU1rY2JhY05ES0xpOEZVbVZhQ3Q2dUNva2JVcDVmdkNhNGRQekcyc1BEM0tlQjF4RXZrOEtuVGpwcm1BVnpSMFN1dkhYaw?oc=5",
+        "date": "2026-08-26T21:12:42+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "El repunte de Nvidia demuestra que la obsesión de Wall Street por la inteligencia artificial está lejos de haber terminado",
+        "description": "El repunte de Nvidia demuestra que la obsesión de Wall Street por la inteligencia artificial está lejos de haber terminado TradingView",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45OHEwSXFFTVIxN3VLMUNRNGpYc014Z3FrUDNYZGgtWlV5VS14bnlZYWMwMV85UFNJcFVFN2tpT05VOFhOZXNMby1rRkpiZG1rTng0Y3Rqak1yekZ0dnVrZ0N4bFJJNW9LUDVDSE9ZdGVTQklUQ2xv?oc=5",
+        "date": "2026-08-26T21:32:12+00:00",
+        "source": "TradingView"
+      },
+      {
+        "title": "Elon Musk le pone fecha de caducidad al celular: en cinco años serán reemplazados por inteligencia artificial",
+        "description": "Elon Musk le pone fecha de caducidad al celular: en cinco años serán reemplazados por inteligencia artificial Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcjhXU0xUMkx4bmdGSHZGRGNfTDdXZEttUlptX0o1NWh0dWpKemNyQWJKcGV5bXVteGhDRXcxMWNCM1doSEZRN2pIY1lBU3Z5aVhleGVxVTdielNUZWo1US11LVgycjlsMVVMdkdWOWVPRmlHMGhhRmxCc1plSGdzcmhjQmZoeXlrSFMxeV9nelUwLXB1dzFQZHRuMmJXb2xSa0lyb1ZUQmlIRkRKSGowdXVfX3l2SkZJUTkzWFVxLXJBQ0FUdzJ1QWRReGFwSWVVTmxLVW1pU2dySzgtM0MwVW1jdnBkMWw4NHN3aXh30gHzAUFVX3lxTFBRSEtQeDh4bzdfMlpnUWROSklrRzdrbWRLaENxUVNmamdZXzhrWEtKVHBHT3FPelNNQi01RG4xZFdkRE1US0pPeVNneFNzU1NFa2lncVN0Mzg5NzRDZGFYekRTejY4UFgxUVQzX29tRlQ0RmczcUZkbDBGZjJXWVdnNzFHYzMybVVHYTRkcjR3OGlJNGtZaUdkSTNWRTVTR09lZzdEUVFRX1VsVzN0Y3hCbmtSa0NfM25tVHpXcGZTRVp2VzhvZm5NTjczT0lzTEgzd2Vya2ljZF9jdnNUX05vNThxbHFnZ2xqSFVEb0xTTm9MOA?oc=5",
+        "date": "2026-08-26T15:32:00+00:00",
+        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Quiénes eran los operarios que murieron en un accidente en un yacimiento de Vaca Muerta",
-        "description": "Quiénes eran los operarios que murieron en un accidente en un yacimiento de Vaca Muerta La Nación Quiénes eran los operarios que murieron en el accidente que se produjo en Vaca Muerta TN Vaca Muerta: dos muertos tras un accidente en una planta de gas Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSXVFa1RlR19PRGFqREJ5aHNudEhSV2xrNXIwVmNqRlVvY0pWZ3pKekxWZ2NBVFhuZUpSZUNiMzlfRUlTQTNqZ2hadE9DWUtuT0VaSlNMZUV1YmF6WTJlVXJnQWNmLUVyemF1OGhmSF9ZZURpQXQxZmxaaWlINnNRVEV1QWRKUDZLQ1AxdlF5aW5pV29KblFKQWx5c2I5cllXSndmNGhTbnBFRUpmbVdlMk52bHNVczlmanNJTVFhZFZoMmhMSjNnTWVUaEl6QU1LUTc0?oc=5",
-        "date": "2026-08-26T16:10:00+00:00",
-        "source": "La Nación"
+        "title": "Vaca Muerta: quiénes eran los dos operarios que murieron tras un accidente en la planta neuquina",
+        "description": "Vaca Muerta: quiénes eran los dos operarios que murieron tras un accidente en la planta neuquina Infobae Quiénes eran los operarios que murieron en un accidente en un yacimiento de Vaca Muerta La Nación Vaca Muerta: dos trabajadores murieron tras un incidente en el bloque Rincón…",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUpHS3Q0bVp4ai1uM05jM2ZmUXgtckZEcFRObHFIcVp2RTdKN0trWHhycEF0LWxBSUVqZEtOTEZCbk9iM0tuNVVhV3hjZjVDaGpESkVjOGJNdVRPTURZclNfNl83M18yZEpFRUVTZEtQRzFUbFFVTEx1dDNlSHgzYWJybUVVZEQwbldSN1JtRTZORllqUXhsMHExTVd4UGhfa0VUR3FJY25EZVRVTU9pcUxMeG9MQ1dBSnZOS2dKc1hNY2ZBQ1ctYnd0VDBmejRNcnFxLTI0UdIB8gFBVV95cUxQNnR2UUtncXZaekFRYnRhdldOTkZsVG92TjUxTlZaZkNCRXRtN1QybEV6MHpKbk5HaVZLalpBS2tMWXljWkIzVEhpZ240SURUWHIxOU40RVBIRVpJNF92X2IxRXJiZm1fX2dDby1SZXRlOTBMQ3dRR3J0MDRQUWFFSXVLM2xFRFoxYW1rOVd4anZJaVI2YXdqN2N2NnY4UXcwX282b1NpTVdtdnFkempSMGRDRE1FOHZCLUNJZkpGNFZTUzZsTzBRUHB3TmhjWlZMS25IY2NaZkVmQ21ZZUQtcFd5LXpVRzhRcGNrUUcxamVmdw?oc=5",
+        "date": "2026-08-26T20:45:56+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "La expansión de Vaca Muerta abre camino a la \"Quinta Ola\" de inversiones para la industria petroquímica",
-        "description": "La expansión de Vaca Muerta abre camino a la \"Quinta Ola\" de inversiones para la industria petroquímica econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObi1XN1FRQUxzSF9nRzB4ZjZHLTA0NTBMdDFrMFZfNWJaYi1Ud0NJMlU3SnVfMkczYXNGcFAzQ0oyeklDbDlWZklxYlJ3bTMzd0JTZUlhLTM1eVVhVWVlVTFvVXdXTHc2WDBtbnBBZHJ2d1JRN245N2lLQTI2NTJMQ1Y2SnZXeUJuTG0wTTJiMUhPSUxvTm15eHFhOUhLb2tmdV9oN1RGMlA1V2lvOXl1MTl5Z1JwUFVrWlFvZmoweFRjN0JnTnBQOGxLVlAycU1xMkhmLXpCdHN4MWwwYlY0U2NBT1o2NHluYk9hQ19R?oc=5",
-        "date": "2026-08-25T19:39:17+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Nación aprobó una inversión de U$S 365 millones para ampliar la producción de gas en Vaca Muerta",
+        "description": "Nación aprobó una inversión de U$S 365 millones para ampliar la producción de gas en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXRjb3VzcFNXd0oyWFc3Z0ozWmJDYTBMY1NEOVcyNWQxUzBsd09oblFMY3NGS0hXSERJM0VmZHM3NVdPdUtWS29VaUJ4WXlXVHhkVHliYkh1aWp0VHVxSlR4ZUlfVUkyNXh6Yl90N2RxS2JKZFJPRjhDMkFJSk5GZXhnZmlacHQ0eGxrZ2xrLXhHS3JPNW9LTDRGUDhVZDJPM1BHb2tuUjFER1YzYl8yUFdCOWFrQmNHOHFvZG130gHDAUFVX3lxTE8xRmNPd2REWlpMN3J5YWhoeVhmR1ZpekZTTjdicC1OYkZ2R1dMM1dvNThCWWxPaWNvTWhLV1h2ZkROZXpOMUQzVkJQdUFkS2s4TjlMc3BiUy0tLUFneDR6TEg5ZWFMV0ZiQndoMEZIb3hzMGVlcW9tQUtjRlE4N0p5RzZ2bkZUSGd1cU5aaUVOX19WMlVtRTNIUkZCNmIycGRlTUlmSGl4ajhrN1dnQkxCZzM4emwzdFkwTW1ITk04NUJuUQ?oc=5",
+        "date": "2026-08-26T14:14:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
-        "title": "Vaca Muerta: cómo la industria petroquímica puede transformar el gas en más empleo y exportaciones",
-        "description": "Vaca Muerta: cómo la industria petroquímica puede transformar el gas en más empleo y exportaciones El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkFzUFp0TVVhdkRvLXYzX2EyYWpCQXY1ak5jTU1ubGhsU3RkbW5iTUhPSDRmT1JTWjR0MVo1eUZRUE04VE5mS3FDR3VKQXpPT202Y0djcU91d2ZNejhocTc0eS1SNUVjOXd1cVVidEVYVjBXZFVpaG4tblJyYklBb0Z3a1hnSG13RWF5eGxEdGJhMEZHT0tpY0x4LU00UmpZWnBsTzJUVXBtN2Vpb3hOb1l5RW1sVThKNVVuTjViNHEtdW5CdjhiVkFXNGQ?oc=5",
-        "date": "2026-08-25T14:20:53+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "Día de la Petroquímica en Argentina: Cómo Vaca Muerta impulsa la \"Quinta Ola\" del sector",
-        "description": "Día de la Petroquímica en Argentina: Cómo Vaca Muerta impulsa la \"Quinta Ola\" del sector Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcUZtYldUaS1OMGRqSHdqMW50dXZDQ0RWOTIwUENBREhla0tOSkEzblRmUHp3RVZCYk5fTjNMRDZvREhGU1BuTlI0M1lsUm9QakxicG9vaDkwUFVjb1QwbFlFMWRMbjM4a1lEMTRDSFNVeF9KbzN5XzZ1M3dyU2l1NEVIbnZyNUVPNURTX1hUM1YzeWFMS1kxZnhndjJmY0VzNTR1YzIwRER4WG4wNExvS2Nmck1lN3RoUTkzenpKUE9femVpQVBEdWRR0gHSAUFVX3lxTE9GMUFoX3VVQUJEdGdONHQtZVJpSFk0SUdVNThUNVFXTXZFSTd5OEVkREhJOU5RRV95enVZYk5lTGlsZVN1S2E2ajRETzFpS1JDQWwySGJyazdKUmpaRHY4QnlyUWV1X21fZjhYbjloWEJ4Mmo3UUVSLW0xRWFpNlN1UjE3dUJ0SmZpd0ZNV2dZVmxOOF9PSHJ4a1F0Ri1jTWtwbUZZaTFsbi1RMkxUSmdHWUthRENZOVJnbUNLbl9QMTZNT0R3YjBDSXVkQm1PME1lUQ?oc=5",
-        "date": "2026-08-26T13:25:04+00:00",
+        "title": "Nación dio luz verde al RIGI para Compañía Mega por US$365 millones para ampliar su planta en Vaca Muerta",
+        "description": "Nación dio luz verde al RIGI para Compañía Mega por US$365 millones para ampliar su planta en Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWFTZDkyTWd3dEVhd2VDZHdxZTV6enVuNjY3UnZaSkRYLVZyYkhIOG12OWQ1eWtKcmpUNGhFdl9maDJtT1ktLVFiZXB6cHROOXRCUG1IZ21YaGUtdlY2SEZpN1UtU2lOa0h6THVnTHdaOG9pVHpJajJNZE1mM0dhcjV5YTdyNjVBYm8xaW9pRklQNkFPR0QzZUZEU2MtRUpxc2FTUHp6OGxhRWw0aENQTGNWbVhveWsxTzJGTFR3SnRvTGlPZnhxOHI4VGc5aFVac1kxWmZ0cHlXTk4wUUxGS0Zkb9IB6wFBVV95cUxPQkhMMkxSYmVnYXNSZk5ETUdvVzdfN0kzUVZvUHhVbXotekxNNkZwR0cyVHpmYW5BQzF1TmtueTM5Wmx6MU5YRDJfa1Jmbm5LSkpBRkVsSGtJakd0SjQtRVlGZ3dkNXh6ZnhIZjNNM1FGOGhYZVFkMzQxNnBpRG1Yc21CQTVFbVNVam9kOWhMZWdJUlB5NDl4ZXRta0hiX2VVenNmcEZ2dEdhN1VNbDdoQ2lfRjN1dHNtYkptbW1uTUZnSHljdEVPMlNHY3pVbHc1STZlZndFZEYwQkJQclMweUpidFpqWHZKVmhR?oc=5",
+        "date": "2026-08-26T14:08:55+00:00",
         "source": "Diario Río Negro"
+      },
+      {
+        "title": "RIGI: aprobaron el plan de Compañía Mega por USD 365 millones para exportar más líquidos del gas de Vaca Muerta",
+        "description": "RIGI: aprobaron el plan de Compañía Mega por USD 365 millones para exportar más líquidos del gas de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUTA0UnQyeHZkeklvSGxMbTNKNFEtNC1aSmg2cWxmaHZHTUFrSEszOURIVzdzSkhiZXFqc2NGeWRLZFo4OFJpak5OdmZzNGRMZHg5bEhOeno5SUI1UXBMWjFfRDJYQ3VMblowbnlPUHZxTkF4bWttejdfenk5S01uZkRHU09JY1oweGQ3TmlmWnhJLTdCMWVrdWdpcVhZc1RNZC1kZTVpemxmQkVOSURIUHQ1bk1jX0pqenhiU0U3NTh6OU1yWUhUamNMR0xjdVZyUi0yTHAxSXpTaGg5eE8tcHMxRmdzUThiakY40gGGAkFVX3lxTE1zcWd0RDYxLWtTX2lnVEpPeTBfYVh0Z2pvbFcxSWQyZXQ0YUJBUHFCM0NrUklPN21IemxUd3R6Ukw2SEZOR3IyRThOcVhwdlhRZS1LNUQxTHBhc1RtV0lXcjVPaFY5ZDR2MzlIcFF0YjB5SE5GZ0NPTzNiRzhzRE1IeVZhdjMtel80OF9LbXJDU18waFBqR2M4UjI2eFQ2RlB3VHZkUldpUnhibnpwU2ZhbUMyRHFiRkI1X0Rkdno0NzJyeWVMcUhkM01ncTlDUF90T1NxNlphSjZpZzNwLVpPbS1acThxVDNVTFJ2LUlaYXF3aVBISWROclJxUU5RLWJZcmxlUmc?oc=5",
+        "date": "2026-08-26T16:47:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "» Vicuña y Vaca Muerta: ¿estamos rifando el futuro? Víctor Ramos en Lectura Mundi",
         "description": "» Vicuña y Vaca Muerta: ¿estamos rifando el futuro? Víctor Ramos en Lectura Mundi UNSAM",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalFSbEZvZTNxVXYwU1cyMTB6SFhuQW9LNjJTclFOZGFvTXJjemtnRndFbk1wbUVsa29FV1JMaVBXNHZyV3RlLUdXWDlaSVBaT0ZzMkExWTVqRjhMNXZyR3VTamU2R3BCYUxYZk03V2l4MENHMVpIWFdrdUVpdXQwcXFON2Q5OUxFZFVWU3l6TnVCQzZzN3ZxN3Z0c0tjLWFCLXdFdllGWUJSSDNyZnctYWJqbWFVWmlya0E?oc=5",
-        "date": "2026-08-26T18:53:09+00:00",
+        "date": "2026-08-26T22:52:25+00:00",
         "source": "UNSAM"
       },
       {
-        "title": "YPF y sus socias buscan cerrar el mayor crédito privado para exportar GNL de Vaca Muerta - TN",
-        "description": "YPF y sus socias buscan cerrar el mayor crédito privado para exportar GNL de Vaca Muerta TN",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlByM1h1ZnhUc3RWUnlkdnpLYy1nSUhHNlBmMmZSbXdfdnJqVFpKc1pVa3hPZjhSTG5MeV9IdXk3VEM4eEVOaU5BaEtxVFBtRWtHNFlDQktianJYeGJkVjNWQUo3dW41bUN5VmNrZVFPcldiZ1E2T3VoWWRWQmd6ZmsxWnN1UUNtczZVM242Z0RLb0hXcjdkcnFESDRzWkV3N0tsUnl3OHhnb0dRb0dwZzU1VXpYZHdUVHhrTUdGUHc1ZTg1UEHSAdoBQVVfeXFMTlJrb2k4ZUphb3ktbWZUVWJCVzI5enpScWZQdHZvWGFDdlpuQ0k2NElCT3NnbHlQY19CbXpQY09zclZrRTNqc1VZVEdtVG1MRk5VQlNwRV9ZeXRHYUdScGRCZ3FUaFFycGhMUTI5TG1zaVNrakU2X3hocHBWSDdJZzd3ampILXN0VjNwTDdmcVQ3UWtoUklvcll4NVYxWHdQdXd6MUJRRzZra3ZhTnVRYTB0Y3UxTnJBSXZ0aXFsTGZYTDloaW82TUI4SGktRndrQWZ4SnJLZlVMQ0E?oc=5",
-        "date": "2026-08-25T17:07:15+00:00",
-        "source": "TN"
+        "title": "Añelo: El corazón de Vaca Muerta recibirá por primera vez la Expo Industrias y Servicios en 2027",
+        "description": "Añelo: El corazón de Vaca Muerta recibirá por primera vez la Expo Industrias y Servicios en 2027 Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT3MycTNUdFBoUmFKQ0JkeXh3SEJ5ZEV4WFpDN0RneDJQYUI4LUExcEdId2l0UkYyRFVmNl9SUnlOWmVNYnRfNHNMRUJoeW1vdkF2M0dqNUs2cVNJZm10SjBFaXpIam5CV3RLNXdiV1pwR2RPcmtGYWdqc3pKaWdmZUVLMlVTbTB4azFyUWczSGpJb1FYV1hYZXU1ZUNyakV6QWhIem1nMHhBdWY5bUJBeXF5ckF6YlpHbFV6SjBEdWZ2dm9yZmV2N3R5aWZUV1VpYUhSd29ReVfSAeABQVVfeXFMUDIwdF9FNi1oeVlHMU9lbHFiblJjbWFHdkdZMF94NXh6MThKYzJjcmZUWFBXTDRVeVlPWTFrRjhGQUlEbjMwUXlNRFdTeWtRcnRHTlpfNXZRcEc0bzFlc3M5WkllTkxNazZOU3NwT29MbFp1TDFacUZieWtCLTBSQmM4Wi1FRU1hVnd2OEFYbUJWMHN4RklBS0dEeDVoaWNyODRPX25MS0hrbmxmQXV0dm84OHUyMnRWV3NORjc1Vk5JX1BjRktFaTdxdGJmdEk4a3RoT3h4MzQ0S09QNVFNMUk?oc=5",
+        "date": "2026-08-26T17:37:28+00:00",
+        "source": "Diario Río Negro"
       },
       {
-        "title": "El proyecto que reabrirá las exportaciones argentinas de GNL ultima un crédito de US$900 millones",
-        "description": "El proyecto que reabrirá las exportaciones argentinas de GNL ultima un crédito de US$900 millones La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbllGQ3FENnNUaEdOLVpIUi1VcXBHRWhIMTRLZ2JzVVM4NEd1LUZZSVRrVmY2alVsZVV3emQ4NmhaeFpqeHQ4WU50THJka2VJWmMxa19xSk8wcWpDeFF5UzI1eW9DM3lMcG05OG5WdFlpMEEyOThrN3R4T3pUbkJaX2xKQzRPWXI1amhnNHlENUhOQ3JIZjNXNWRoOW1hX25kUTFOaUQ4RXBna19UNDJSM0ZZSmNEc2ZKQzhfdkFIcXlCUjVfOUhCSWp1bE5yTWptRlRSSlIyOEdlZ0UybExkYkx3?oc=5",
-        "date": "2026-08-26T00:08:00+00:00",
-        "source": "La Nación"
+        "title": "Fabrican equipos para Vaca Muerta y van por más: la apuesta de una empresa argentina por la minería",
+        "description": "Fabrican equipos para Vaca Muerta y van por más: la apuesta de una empresa argentina por la minería Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbkJvRHlJZzM2Z0R2cDg1bzVkQ1d4Zy1ySWdEZ3VNdDdRY01nWFdFLW56ci1TYi1HRFRqTFI1MkJ1Ukp1amtyVDNBVHpDWng5dWRWakJDQ19OTkRyRDdrNzQxdkIwTUFYRGQtQkZ0TEhZYW9ucGhzQi1BclhNQlhPX2dCZTEwUlRjUG5ncXk3STQtb2dndU9VNE1SM05vQlNsQnI2Tm9VbHc4TzNYdXJ5N2hBSVBtOVI0MFVVMW5ITEJiZ040SkVyeDYtWFdmMVNuczJyQWZwNDQ3YVVnUVc5dVJjVnJ6MlZ4UHYtbnhvc9IB9AFBVV95cUxPZkkzY29aWXBSS0huNVV3VnVYUHBNMGtIbEQweXRwLVR3dk1HR29pV3RDcWtkU1FhNklXYmc1d0toZTJBbnE3TjFrTDRtU3hEbGlFam9ieGk4ZkZFNENITGZsS192NHFDSWEtOV9mUG5jQjJDMHJYM0NGM0pyblFsRWVKSVZ5SExBZV8zWVRFbUxwX0VUVEZTTWhVcEdMR2pOczAwSE9ncFR6QzJUMXVPUUVaazFTTzV4d1Jya0xNMGhkVG54a09ZSGoyOFo0QzIteml1WUtfNVpScWYyVV90X3NvcE1GZUVaS2dodnV3Y3pmblRa?oc=5",
+        "date": "2026-08-25T17:49:41+00:00",
+        "source": "Cadena 3 Argentina"
       }
     ]
   }
