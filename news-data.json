@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-29T03:00:30Z",
+  "updated_at": "2026-08-29T10:39:49Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Google, OpenAI, Microsoft, Anthropic y otrás 100 compañías más de tecnología piden a Gobiernos del mundo que se preparen para ciberataques",
-        "description": "Google, OpenAI, Microsoft, Anthropic y otrás 100 compañías más de tecnología piden a Gobiernos del mundo que se preparen para ciberataques Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRnV6YU14SlZnRTFkUnktTnRWQUtHMC1fbmhZZjJTek5udnlZN0I5SmowTGI1d2QtVUp4bDUtM0dSSjl6RUZ6N2hfcW9CTnRWYkdSUHF4eGgtLTdMN3piOXZpTzRaUlpJWjVfX245cGtRWnYzTkNDbldDVjh1Yk52YmtLR3dWd3M3ZkUwbW1QYkJuQl9lMzlZa3RPbDRLaFFkWkpLTGluQWo0bFhEU05FOWQwejdpclZFcGJWT3c5ZDZHRjdpX1B3YmpOWlpaWUs2dUN6M0xHSklNQV9DMEdlcGlXbXJycF9SSjNHWkRzeGNVWDRJZXBwTms3ejYwYkFpQnYtSm16RWfSAaMCQVVfeXFMTzZ1alRoN2lsV1lyVE5USHN5RmV4Ujl3Vi1kR184YkY0b0JkdEJkRHVsT25yanduVElDTjQwWDZsZ2ZtS3RkbGdmbGpCdll2TnZwdDYxbFByVThhejM1UGhaOUdMUVRJVGhfd2RfbmUwbjVlNW13aFZFWmdGNzM3WE41bzBsY3RRZ2xsbnotLU9ta0FsMkRnVk1BTEtwSlJvUFVqNTZxWUZYWGdiZGY0bThQWHpEajV4UlpuVUlOdGlzbzBEcVMwd0tPanVqdlM0azkyaGR1MGV6SnJxWlNWc0xTdXJvSTNPYkVCUHR5dzZuTVgyWTlia0dVVDNnV2hKeTdRTnZlM0ZrSl9rTjFqeVVoWWlkRzU3LWNQODhMMURzb0Rv?oc=5",
-        "date": "2026-08-27T23:43:00+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "Llegó a Microsoft, vivió en Canadá y decidió volver a Tucumán para crear su propia empresa",
         "description": "Llegó a Microsoft, vivió en Canadá y decidió volver a Tucumán para crear su propia empresa La Gaceta",
@@ -17,11 +10,11 @@
         "source": "La Gaceta"
       },
       {
-        "title": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\"",
-        "description": "Bill Gates, cofundador de Microsoft: \"Dentro de diez años, la mayoría de las tareas humanas podrán ser realizadas por inteligencia artificial\" Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZmdjcnB2X1UxVVhfa09HOFhzdDl1azQ3dHhiOVg4ekpzdUU1bGstS3JscG4ycG9ISGxuemxhcjZhSHZXaGZ6NVMtaGxBUE1CTjRyakh6MkZWNFFoN3U5elBnSFlEeEhYWnNUbEUzOHpGYjNxRGRYV2dNY3Y5Q0NMdjJDYlhOVlVYRzJVaEU0QkpBM1VwQmYyM05VRkktTmdkTkFlVEhLdWhLVjJuaHNubklHMEFnUHlfbXRnNWU4aGE0eG1oVDFNUHZGYUEzNU0yQWFJang1UDlBczR5S01ZenFSWng2Q3ZHWEhzSEVZSXJ3YUNQNUE?oc=5",
-        "date": "2026-08-25T13:20:54+00:00",
-        "source": "Clarin.com"
+        "title": "Google, OpenAI, Microsoft, Anthropic y otrás 100 compañías más de tecnología piden a Gobiernos del mundo que se preparen para ciberataques",
+        "description": "Google, OpenAI, Microsoft, Anthropic y otrás 100 compañías más de tecnología piden a Gobiernos del mundo que se preparen para ciberataques Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRnV6YU14SlZnRTFkUnktTnRWQUtHMC1fbmhZZjJTek5udnlZN0I5SmowTGI1d2QtVUp4bDUtM0dSSjl6RUZ6N2hfcW9CTnRWYkdSUHF4eGgtLTdMN3piOXZpTzRaUlpJWjVfX245cGtRWnYzTkNDbldDVjh1Yk52YmtLR3dWd3M3ZkUwbW1QYkJuQl9lMzlZa3RPbDRLaFFkWkpLTGluQWo0bFhEU05FOWQwejdpclZFcGJWT3c5ZDZHRjdpX1B3YmpOWlpaWUs2dUN6M0xHSklNQV9DMEdlcGlXbXJycF9SSjNHWkRzeGNVWDRJZXBwTms3ejYwYkFpQnYtSm16RWfSAaMCQVVfeXFMTzZ1alRoN2lsV1lyVE5USHN5RmV4Ujl3Vi1kR184YkY0b0JkdEJkRHVsT25yanduVElDTjQwWDZsZ2ZtS3RkbGdmbGpCdll2TnZwdDYxbFByVThhejM1UGhaOUdMUVRJVGhfd2RfbmUwbjVlNW13aFZFWmdGNzM3WE41bzBsY3RRZ2xsbnotLU9ta0FsMkRnVk1BTEtwSlJvUFVqNTZxWUZYWGdiZGY0bThQWHpEajV4UlpuVUlOdGlzbzBEcVMwd0tPanVqdlM0azkyaGR1MGV6SnJxWlNWc0xTdXJvSTNPYkVCUHR5dzZuTVgyWTlia0dVVDNnV2hKeTdRTnZlM0ZrSl9rTjFqeVVoWWlkRzU3LWNQODhMMURzb0Rv?oc=5",
+        "date": "2026-08-27T23:43:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Bill Gates, cofundador de Microsoft: “La transición a esta nueva era de la IA será uno de los momentos más turbulentos de la historia de la humanidad”",
@@ -45,6 +38,13 @@
         "source": "El Confidencial"
       },
       {
+        "title": "Microsoft Flight Simulator Suite y Dokimon Quest gratis en Steam por tiempo limitado: cómo tenerlos en mi PC",
+        "description": "Microsoft Flight Simulator Suite y Dokimon Quest gratis en Steam por tiempo limitado: cómo tenerlos en mi PC Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWV0RXZXOWxuRkduUlpqNG42Z1FvVlhWWGZaYzlBemRKbm5pcWd4Q052SkVBU1ZTbUxBbTB4M1I1SENNMEJROTVqbnY4SDF4QWx5aDQzWDA2UWs5Q2F1WVlaUWRFTVZlNTk5YUJjWjlLS1oyeE5uUko3UmZtcXBrZDR0LUM2azBDUHFOeFV3d2s2YlRkYWpYaVhLT3J2dUxaQWh5TDVBTmhaM2xSd1N4bHgyUEh5UjRTdW9KUldRMGdmWmNzVDlzS3RFYUVkWjNSTW1FMVNneEJVaGdKcnhmbURUNNIB_gFBVV95cUxQQjBHNGJkaHU4R29kWDZkMU9PbEdLSUFUM0ZlRTdZQ3RoNEFBZW41aHYycktfelY4bGZDU3VvamNjRlF2djFKUkcxRngxZDk3ZUxKQ21CSkhFQl90ZXZVTXZqUFlQdUszbFBXM21CMGRXak4wTXFsUWxnTk4wYzN1Smd1TlZZYjZxSDJnVVc4eFFwdUNXM0RVb3dlZ0x3X0NDa0VYWGsyQ2xPM3pmSG5ROWFQV0JXZ1dRSDdrVVhud282VDh2QnpZLUFQZ2d3bTdST1U4RnQwcG9Ra19XMERmSGdRRUtwOVRWR3FtSzBZb1EyZmttOG15LUg0cXp4QQ?oc=5",
+        "date": "2026-08-26T19:53:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "OpenAI, Anthropic, Google y Microsoft llaman a actuar ante el riesgo de ciberseguridad de la IA",
         "description": "OpenAI, Anthropic, Google y Microsoft llaman a actuar ante el riesgo de ciberseguridad de la IA La Vanguardia",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR2Q0ZGoyZnN4MUV5bjRiVmdTc2RlaWlwUWVWQjdHTHRMUTVlQmI2Yjd0a2lKS3ZWTDB6WDl2eWlxcUNxNDlTRk5BTWZmYnpEaXFURVk0U1ZyRU85RDNYa2dSXzFfb1ZPaG1JRnJnSlBNSFdScmRmYzhvcG5kb0VhQ0dOcUNHUW1fOTA2UHRPWGVrR0RjaWVNTkhmOWxlWlR6RTV5ZmpJQkxLU3g2bzV6VDh3aFE0Qk1zSHU4LUppUUU5LV9id1dKSNIBzgFBVV95cUxPSW1sTDJmLV9pQl80UWRSdWwteTdBOTdwWlk1ZkdpNFB4dWYtZk1mUkJOcUo4em5kUFd4V09GdTZCd3JwV3JxZFFCMm5JLUc0LUxuZTJVOXRtZDdJZ3hZYUF6M3NURGlKNjdDYzg5R1F4Qm41TlptMzZVR2VRUTJSd0hkVmZJb1YtMW5aZXVMOWUtc2ZmdUNrNXNHSFRFSTlBNFNnVTRuajJJMHNnenFnVlp6MkRKQWVmV0VlcVN0RTZWZVlDMEtKTGxzWlZkUQ?oc=5",
@@ -61,13 +61,6 @@
         "source": "Perfil"
       },
       {
-        "title": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital",
-        "description": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital ReconquistaHOY",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVAxS0k0NnZENDFIbDZCNXg1U1lMYk93ZFpsak5FMEJnV3BUcV9HQS1Qc0F2ZkZRZmY5UDFvTWV3bmtuTnctSzRaVEVlWm1yWlV5NWtlZUYxQ1RKc1prWVhkZkd1WG5VZ0Vyc25BNXhuUGpLRHJ2V3MwOHpTcVh6UUlfTlNJMXRFT0trOU96dGZRaWozWkRoX0tULUEzclU4Nm0wdXl4LXJtR3Rqb1l6NVZDVk5PZGVrQnlFaE5R?oc=5",
-        "date": "2026-08-28T12:22:38+00:00",
-        "source": "ReconquistaHOY"
-      },
-      {
         "title": "Fernando Cerimedo declaró por enriquecimiento ilícito y afirmó que gana US$500.000 al mes",
         "description": "Fernando Cerimedo declaró por enriquecimiento ilícito y afirmó que gana US$500.000 al mes Diario Río Negro",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjFiTXEzYk00N1d4QTE4MmRlMHFsZ2Y4S0JybG1OeUlRUEMxeW4wZ211SVZ5NjNXeWNYSlFRX3lNbmJnM1RlOFFDMmlDUzUxUkloaFBVTTNZRzhzSEtKdWFKMUkyV084ZUNIWUlrU2Mzc1FSWmdpdGh4alM4eHZBSGoxb0hiNHRZa3BiLTBHX3RhbE1IR1BidE14TjJIMnhieE42cjRMMzc0TnhhbnkzUmpMdGNFTVYtdHdmblF0RXAyN0U4b0tqOXRBZnBLdk3SAdcBQVVfeXFMUGU1NXRwNzNxVzBsMDRiVXplWUNkVkZPb2ZGUDk2bXdVZHRYZDhJSUdueDhqOE5RUkFvNUhWUVZxajl2LXczSFdTTHlaeFFmeWNLdTZSR3hFczI4YWJjZ1BaOEpYQUtkcFVmZWFqamZCdW55bW16R3Q1VzVIcENmYW1KUTlXWDEzQjJOc2dNbEl0b0Zic3NZaE5qMEpwZFI2STFSN25ockpzUTJlbGR6cTFKQ1NrT2RTLS1DLVc4dGNvVE5zd1NuSHhtdmVNbjNDQjFhVVA2cFk?oc=5",
@@ -76,10 +69,24 @@
       },
       {
         "title": "Por qué Fernando Cerimedo declaró en Bolivia que gana medio millón de dólares al mes",
-        "description": "Por qué Fernando Cerimedo declaró en Bolivia que gana medio millón de dólares al mes Minutouno",
+        "description": "Por qué Fernando Cerimedo declaró en Bolivia que gana medio millón de dólares al mes MinutoUno",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2l6Y1dYS0Fqd1N1dlJuQUlHaWNoTEItVTlncGFROEo0U0Njdllzc2lzNDVxRVhQUW92YTdWa01UN0JuNWpXY180MEY0LXhrMkh6Z01kazZYMGhYOTZRRS10TVlCam5pdjlRVW0tN1hVQU9NUUZUSWxNQnRWbXVQbUZMY2JsaFpvOWdQYWE4YlFJQ1dDWDF0TWJYRDdXck1GRzU2ZllKTURFSko4dU82YXBmVjlRSGdNNlZ6WElwMNIBvwFBVV95cUxPZ2l6Y1dYS0Fqd1N1dlJuQUlHaWNoTEItVTlncGFROEo0U0Njdllzc2lzNDVxRVhQUW92YTdWa01UN0JuNWpXY180MEY0LXhrMkh6Z01kazZYMGhYOTZRRS10TVlCam5pdjlRVW0tN1hVQU9NUUZUSWxNQnRWbXVQbUZMY2JsaFpvOWdQYWE4YlFJQ1dDWDF0TWJYRDdXck1GRzU2ZllKTURFSko4dU82YXBmVjlRSGdNNlZ6WElwMA?oc=5",
         "date": "2026-08-29T02:27:00+00:00",
-        "source": "Minutouno"
+        "source": "MinutoUno"
+      },
+      {
+        "title": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital",
+        "description": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital ReconquistaHOY",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVAxS0k0NnZENDFIbDZCNXg1U1lMYk93ZFpsak5FMEJnV3BUcV9HQS1Qc0F2ZkZRZmY5UDFvTWV3bmtuTnctSzRaVEVlWm1yWlV5NWtlZUYxQ1RKc1prWVhkZkd1WG5VZ0Vyc25BNXhuUGpLRHJ2V3MwOHpTcVh6UUlfTlNJMXRFT0trOU96dGZRaWozWkRoX0tULUEzclU4Nm0wdXl4LXJtR3Rqb1l6NVZDVk5PZGVrQnlFaE5R?oc=5",
+        "date": "2026-08-28T12:22:38+00:00",
+        "source": "ReconquistaHOY"
+      },
+      {
+        "title": "Inició el curso de Publicidad Digital & Performance en la Escuela de Innovación y Tecnología",
+        "description": "Inició el curso de Publicidad Digital & Performance en la Escuela de Innovación y Tecnología La Verdad Junín",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkZSVTItVkZIMzdScGwxNUUwbFhNaG90Z3BJYnd4d3JIZ19uZW9XWmM4aVMyN1FycUl6WXdwclhxWkpMcmpOQzJiN0VLSndkY0o5aW80RERGSkZiZ3lMbjk4c0I1ZWRqbjNfUk80aEdYZXp0elZDaUx1cGFWX2YzQnNUWGxoelRyNWVpVjRWeTVKdWlYRUpsZ1ZyX1FXQUpNcU1vLTBsQW9yZDdaRDR3dUVZTi1CVkI4RkE?oc=5",
+        "date": "2026-08-25T10:02:48+00:00",
+        "source": "La Verdad Junín"
       },
       {
         "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 16",
@@ -94,42 +101,14 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlhKXzVrVm5aeWJNVU5ibDkxQW1ia01IRDFzeTYwRGMxekE0c21Sd3g2Mklsa0FlczVWSzFnWmRPU3ZDcjVIcjctNHhWOXZWeFFqdTkxN3RwQk5Kd3FWQUJMZ000Vk5LZWV1ZktmT3pVTHFYMzN5T2QzUm5BS1VTaUZBa3BwcGxJSWZZWTNuSzZYSVlUYmJrcFBxd3pmZnh0alhrSmpCUE5DWVlydlFTalYtNEFyVVVYcE1FY255QjUyYVRxX01FSA?oc=5",
         "date": "2026-08-26T06:03:11+00:00",
         "source": "LatinSpots.com"
-      },
-      {
-        "title": "Inteligencia artificial, audiencias y nuevos negocios: la industria de la publicidad digital debate su reinvención",
-        "description": "Inteligencia artificial, audiencias y nuevos negocios: la industria de la publicidad digital debate su reinvención La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdG9ESjg3TFg0WXJDc3dHSTNicmFkd29Gekg0a0Zodkp1ZkF5WDg1Q2RHLVZ2M3F1R0RNNXFYMk5Id0JuS1JJbHdGNE9Sb2hPcENDcVhNZFJ3bHlTQndVRnBONXJiZWRzeURlSE9QYUdpaWNLTThGTmNfQ3hmV2JCSTNTc1JIeFc2LXJ3bHJSektfbWpVX1BVS3VjVEdnbG9ySFhJVElaZVJPU3NBYVFQX0RPdjI5cEhaZHNMNGJHR21kajJNSzJoY2MtbFphX0wxaGR3a29XOXZoQWluY3NhWlRrZlpkNkdxN1JBcTM5WUs?oc=5",
-        "date": "2026-08-25T20:09:00+00:00",
-        "source": "La Nación"
       }
     ],
     "IA": [
       {
-        "title": "OpenAI, Anthropic, Google y más de 100 empresas advirtieron sobre los riesgos de la inteligencia artificial para la ciberseguridad - TN",
-        "description": "OpenAI, Anthropic, Google y más de 100 empresas advirtieron sobre los riesgos de la inteligencia artificial para la ciberseguridad TN",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQmVFT1huMGpYdzRsclNJV2NqeERMTVBXejdHS2dkLUk1U1BRVU56NHVZSDU5NUtqUmlveGFsMWpWUWY5Mk5obFg2ZGV6S0VBbzlZNS1IN0d5ZWRqd3lrVFBzelZRQmFTQUllbXJSd0VZQi1Rd2ZoOTNHUThhd2ExWWlmakpwWl9Kc1JxWVp6WTFZTFJDYzhZdVZHdzZ4UnkzUmdpbDFRaXRCZ2pQVjJFblhudGFxZE5WZUZDdHZFZ3VXZzJhX2ZDM1BRZUpOOVRiTndCdXdEZG5nQlRsUzF2ZTBLaEh3RmhLMWxPQ04yRE5JY1JTWlQwTWNzUjVNR0loMjlNUdIBmAJBVV95cUxPV3Y2emwxWHZIS1AtMk1oT21ndVZxMXNURjB6Z2NQMVV2OHM0cEpRT0JZamp3YlZyV0plRGxCT1hKaHdzbTBjZFN5Q0EzUldTdHo5a3NhTFFSTDFHclRuenEwZVJxeEFGVHVXcWlPRWJrODlWaTVSY2hyWUJuS1VraEN3bUdhUE03RnBpLW1MMEpscmFIWHRqdERiWlBEREtkZ1lUQkJmbUNScTRFQmFMcDN0d0l2OG5Da0o5OTczR1U4WXphcldYMkxWU290blBIWGQzaFJPRXR1aFpEYm5LTGdRdjdwRWhneWt4VVJPSlp1anJuZkdsSkZoalhPLUV1TndvdnpubFJQSTZJNkt5Z0g4SU1KdHYw?oc=5",
-        "date": "2026-08-29T00:43:00+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Un informe reveló cómo 700 agentes de inteligencia artificial de OpenAI se coordinaron para atacar Hugging Face sin supervisión humana",
-        "description": "Un informe reveló cómo 700 agentes de inteligencia artificial de OpenAI se coordinaron para atacar Hugging Face sin supervisión humana Infobae",
-        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdFJZV1dpZHhGblc3YVZmLTloX0twOGxwTnNNa19SSGU1RGVlTnY0RlRZSWdMTUVMWHAyZVJsS3hUZjRFTld1M3dJV1Vod044c3gzZDZXUEFUOXRsWm5vWmdRdGJTT2huUlBjbllTckRfczdScnFHZ3ZjZXVFNGN3cTREMU9PWFZYVUUwLXh2M1BfbWNEeDFvc0wyS3hLdmRuRWJCTkJVRHQzenRBelVNczdOZC1QZzlHUVBNUEdWWFM4QVB0ZWhJYUJDMmQyeWtsWmhrdm0yYmFFRTB1UWtkV216eFdLTjVjTDZxYllQOTNNOGkzdklHTk9JckZ5cV80b18ySmttQmc5ajV1Q3dHM1lPU3RoT20wbHV3QdIBtwJBVV95cUxPbE1uSW1DanFGMWZSUU9TZEtSLUIxaF9xVGlnbnI1bXhjaHhuYURtQ2ktX24xQWx0VW5OMEZ2RjRRVWtpcHlIN1lEUlVxWTUtVDRRYzZ2QzVtQ3BRdklDLWFGTXh6UTM3aEI2RzhPaktQMmdpSEZUaDVXY2lkeU1ZaHd5eWlFOVBUVUxudnd4aFY5ZGVlWmJENUw0QXFBcjhLam9MLVhBMGJ2VUluVXZxQ1RBbzVmNnJ2OHRKWWRtNzNrZDhuQnNOdFpfajVfVjZCa2lHa0ZaTjhNRGpxVUV5dGIzdXRVamtzWUpRMDU4VklSZE1qM0NPM3hLcWt4eDVsT3lJRjNxeUN6TUstd1BLQjNXbDFBR2VqUGxfWTNTYWF0Y3EwYUV4dS15UFp1a2x2eGFfanRnWQ?oc=5",
-        "date": "2026-08-27T15:42:54+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Las 100 empresas top de IA advierten de una próxima ola de ciberataques impulsados por inteligencia artificial",
-        "description": "Las 100 empresas top de IA advierten de una próxima ola de ciberataques impulsados por inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWZDbmpfWEFaeXRiajJ4ZDIyaE5zVnU5TDNNUVZnQml5TDZCMFVZaU9aMFNoek1SUG9oZnBLNThIbDFtdzJVWVZvU3pvRVRPaXlTeW1sd0liTGZIUDdyOTBQbUNWejlkakVnLV9Cd2Z3ZTlBNkZ5eFBuRjJIT1kwZlFwY0pqTmJGc3lUZzBMbk5pMVdxOFRIZjVHdjRGdk9XWTlxM3ZIMk5WUE1pc3RfS2pvZFhoYVdBMmJiN0ttZGUwMTI3WlRzM3lod29sMTlGWFZYdktwYlRLcEQ0V1NtM1Jwd1Nwdw?oc=5",
-        "date": "2026-08-28T12:53:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "La moda anti-IA: la camisa contra la vigilancia ya existe",
         "description": "La moda anti-IA: la camisa contra la vigilancia ya existe DW.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2kwczJuTVI5ZHhvWTBuSExrbHd2RUtraGFsWVFiRzNWVGVFalRLM2V0YjhrUmlabG9vOEItUmZpZmJXUU1WNDFaS0FnTHV2M3ppNWVjNEJpMTFuU0RNVXBDd1E2UkZrUFNiVUtFSENqazJGbGRDdHotSW53MDVrRzhUNExTZEZUN3U1eTdzZExydmtpUlNZMWxESEcwckFn0gGgAUFVX3lxTE1VQzlKMmF6OFZPejdLOEFpV09MTUhyQzgzUmlyeU5QdmdQMDNwZENuYWZOWXdiSWRrUF9hUlRtM3VZX2VvcUFkeFFKdGR1Y1NnV3Bra0pSZzJGSmRkUkdyS2doVEdURnhMX1FfY2g2c2RpdXUzb3luVWF6Tl9DNzRQeHNfX3dnOXQ1dnRLclBVVVB5bTlLd0oxYnI0TUFVZWM?oc=5",
-        "date": "2026-08-28T17:46:58+00:00",
+        "date": "2026-08-29T01:49:13+00:00",
         "source": "DW.com"
       },
       {
@@ -140,11 +119,11 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "En Estados Unidos, la IA ya entró al consultorio: casi la mitad de los pacientes no sabe si su médico la usa",
-        "description": "En Estados Unidos, la IA ya entró al consultorio: casi la mitad de los pacientes no sabe si su médico la usa Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc1VfZEVhM1A2ZjZGTjNmZmdyUFZTX1ZoOHp3QmFGcHdsb0szSnkzc0IzWktUYjJJS2RmZ19hLS1OMGVVZ1N6SkFfZVRnYTZ2SzlLMlc1Mllvd0dOWlkxejZvNkFqQVVBY1R4V2stMU0xUHQtVmFCV1JMc2E1b1A0T0owSHFsdWtWdmlfRjFJbTBNMEhCcEkzYkFROTNRVzhsYUV0UVVheHZIOER4VDdDZGRuNEpCdHhveHduakVLMHdNbTJJWVE2OWhfNzcwZDlCeEU4Y2pDNHpFZlZWUDJFbGNlWG54VU9FOW5lY2hB0gGIAkFVX3lxTE1oUldnR2liM2lpZG1xX0xrVFhTa2FXdDlXeUFJWXRYT01OajNudVhLMnBuZlA5SzUzOVZTTGZneDI0SEdKNWpwY2ZYUENuZTFra2RzUmwxRWxBVlRrM185MnpXby05OFAxenE5UW1JRUNkd1FXUk1OdnE4cmZTS1hCWjBuR3pWb1VYUlVUQWx2UG40bDVGM09EZXlQaFZwa2ZLT3JhQURKcnc0eUt3X1FLTmNEcWI1bU5mbGhPV3RQVXhPajJZdk9keEhIbFpxWTV6UE4wNVhnRzZodndzeDFSX2FmOUs4a04wR1FjOVI0dkVXckxRSDl1bGR4NWJsZXQ4WHhsWlJMeQ?oc=5",
-        "date": "2026-08-28T21:32:00+00:00",
-        "source": "Infobae"
+        "title": "OpenAI, Anthropic, Google y más de 100 empresas advirtieron sobre los riesgos de la inteligencia artificial para la ciberseguridad - TN",
+        "description": "OpenAI, Anthropic, Google y más de 100 empresas advirtieron sobre los riesgos de la inteligencia artificial para la ciberseguridad TN",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQmVFT1huMGpYdzRsclNJV2NqeERMTVBXejdHS2dkLUk1U1BRVU56NHVZSDU5NUtqUmlveGFsMWpWUWY5Mk5obFg2ZGV6S0VBbzlZNS1IN0d5ZWRqd3lrVFBzelZRQmFTQUllbXJSd0VZQi1Rd2ZoOTNHUThhd2ExWWlmakpwWl9Kc1JxWVp6WTFZTFJDYzhZdVZHdzZ4UnkzUmdpbDFRaXRCZ2pQVjJFblhudGFxZE5WZUZDdHZFZ3VXZzJhX2ZDM1BRZUpOOVRiTndCdXdEZG5nQlRsUzF2ZTBLaEh3RmhLMWxPQ04yRE5JY1JTWlQwTWNzUjVNR0loMjlNUdIBmAJBVV95cUxPV3Y2emwxWHZIS1AtMk1oT21ndVZxMXNURjB6Z2NQMVV2OHM0cEpRT0JZamp3YlZyV0plRGxCT1hKaHdzbTBjZFN5Q0EzUldTdHo5a3NhTFFSTDFHclRuenEwZVJxeEFGVHVXcWlPRWJrODlWaTVSY2hyWUJuS1VraEN3bUdhUE03RnBpLW1MMEpscmFIWHRqdERiWlBEREtkZ1lUQkJmbUNScTRFQmFMcDN0d0l2OG5Da0o5OTczR1U4WXphcldYMkxWU290blBIWGQzaFJPRXR1aFpEYm5LTGdRdjdwRWhneWt4VVJPSlp1anJuZkdsSkZoalhPLUV1TndvdnpubFJQSTZJNkt5Z0g4SU1KdHYw?oc=5",
+        "date": "2026-08-29T00:43:00+00:00",
+        "source": "TN"
       },
       {
         "title": "El truco de la “contraseña familiar” para evitar estafas con inteligencia artificial",
@@ -152,15 +131,43 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSC03cmhPTW9iajY5eFRSUE9URWhoVmhIbUt1cHlCdGd4ZzhONk1RQmo2eDBCWUNTTXBzUUtfdW1VZ3k1RWZaUFZuTGFzdVVmWlBFc3R0ckF2bVpGTFNUYU1jQ2NrM01CLUw1dGVQTTJCNWF6V21NaUU4a3lDNDNWbGJxWWJLMHQ4VzRfMG56M055S1pjTTZSR1JSc0pRSm9MZHJiVF9IWUdyTjd2NVVuSnB5cl9JS0FzdWIzWjB6aDVPUjFvTEhVQ1kwRFpVZjA?oc=5",
         "date": "2026-08-28T13:36:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Aprendé a estudiar e investigar con inteligencia artificial",
+        "description": "Aprendé a estudiar e investigar con inteligencia artificial Municipalidad de Salta",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFVNSk5uVkNteHNtTlJVLVJocmtCQ3Z3MEQ2SVlmYjc0QUFQRzVHZERqblVjM1pHbjlGWFh1LS1WSVpvLVRZSG5taEotSmRUUURjUmxiZlRFRExydjVMQnZnY3NYUEtaOUxlRnJaSHZWcWxBOGIyak9PNy1hUUlEZTQzT2M1WlVTSlNfLTdyN0dZcVJsbmplRWhKdTFBRF82Rl9v?oc=5",
+        "date": "2026-08-28T15:44:24+00:00",
+        "source": "Municipalidad de Salta"
+      },
+      {
+        "title": "En Estados Unidos, la IA ya entró al consultorio: casi la mitad de los pacientes no sabe si su médico la usa",
+        "description": "En Estados Unidos, la IA ya entró al consultorio: casi la mitad de los pacientes no sabe si su médico la usa Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc1VfZEVhM1A2ZjZGTjNmZmdyUFZTX1ZoOHp3QmFGcHdsb0szSnkzc0IzWktUYjJJS2RmZ19hLS1OMGVVZ1N6SkFfZVRnYTZ2SzlLMlc1Mllvd0dOWlkxejZvNkFqQVVBY1R4V2stMU0xUHQtVmFCV1JMc2E1b1A0T0owSHFsdWtWdmlfRjFJbTBNMEhCcEkzYkFROTNRVzhsYUV0UVVheHZIOER4VDdDZGRuNEpCdHhveHduakVLMHdNbTJJWVE2OWhfNzcwZDlCeEU4Y2pDNHpFZlZWUDJFbGNlWG54VU9FOW5lY2hB0gGIAkFVX3lxTE1oUldnR2liM2lpZG1xX0xrVFhTa2FXdDlXeUFJWXRYT01OajNudVhLMnBuZlA5SzUzOVZTTGZneDI0SEdKNWpwY2ZYUENuZTFra2RzUmwxRWxBVlRrM185MnpXby05OFAxenE5UW1JRUNkd1FXUk1OdnE4cmZTS1hCWjBuR3pWb1VYUlVUQWx2UG40bDVGM09EZXlQaFZwa2ZLT3JhQURKcnc0eUt3X1FLTmNEcWI1bU5mbGhPV3RQVXhPajJZdk9keEhIbFpxWTV6UE4wNVhnRzZodndzeDFSX2FmOUs4a04wR1FjOVI0dkVXckxRSDl1bGR4NWJsZXQ4WHhsWlJMeQ?oc=5",
+        "date": "2026-08-28T21:32:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Con drones e inteligencia artificial, investigadores del INTA logran anticipar el rendimiento del maíz",
+        "description": "Con drones e inteligencia artificial, investigadores del INTA logran anticipar el rendimiento del maíz ReconquistaHOY",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT1Z5WU9XTXMwRXlyMzJGdjFKXzN6V3hwWGFWdXgySm12LTk5UUpCMU1DNGZiREswOF94czVCQ2lOTXVzZHQtZVdZNTRJcTFkRnl5R2lVd19KOHItQzBwXzRrQmNaTE9rdk04WFVhSnQxRm0tVVIzUUFzLTR3V00zbmlvdlVaeVZNUlhvY0R2blVlMDBOV3ZKMkRtOTgtZ3h2Z0ZoaTBCLUZscVpZeENwd184S0F6eXVrbHZnWjdlbUw1Zm5zWl8wOHpUYjVoeTVwQ1h4RA?oc=5",
+        "date": "2026-08-28T13:01:16+00:00",
+        "source": "ReconquistaHOY"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Tragedia en Vaca Muerta: la Justicia confirmó cómo ocurrió el accidente que provocó la muerte de dos operarios",
-        "description": "Tragedia en Vaca Muerta: la Justicia confirmó cómo ocurrió el accidente que provocó la muerte de dos operarios Infobae Quiénes eran los operarios que murieron en un accidente en un yacimiento de Vaca Muerta La Nación Opinión. En lo que va del año se registraron nueve muertes…",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUmRLMFZmS3B3R25xNVVMSlpnWjgwd3dTVmEtTUxjc2pjRVJwWWhuQlNoNHc4LS1qWC1YTW5wdC10d2d0aXgwd2h1NHI0WUs1aEVmcVB2Qkg0STA2ZDNacHlycDZaeDRJaWRjaGV1TEoxcjlqbTc2T3VUT0FMSEtuekNUVVNTbkxzY3lPM29lbEZIWHV2RUsta1Z4MHhOMlM1TzlpZl9VZFFFMXhhNTZMYjZReE1SbndHZXlUYTVqNHFYTzdKMWZhY3JUUC1LbjE2N3ZYM2RpUmJjQkhoWjBOR1NXbVA3ZlZ0a0HSAYQCQVVfeXFMTmdxVHhxODJBV01TLXVIWHRGNDZrZEZyekpjRWZxalFlTEFOazJvcC1tMTdYTERGcWM1dERkTVRUSWU4UXdQUkxQdWR2UzI2T0dJczJaZ0pCdUR3dEo4MmJkdWowTHhKQUJXRkpyM0s3R2Y2VWtGclVDb1BiY0tXMnhGdUlTaGhIV0ZKcEtyZ2taYmxSaC1iVzNTalQ0d3RhN1pBMGh2YzAyV2FrdWV2UE5SaWlVc0hvMXFlQmVFeDFqdm1fZ1pidWNFNnJ3MVlHZTg0eVRVZDBNUXdqNV9Nb1VKcHJCdmZudk4xQ1AwUkduRG9BVi1hWTdxVjhBS3poTmJCMjk?oc=5",
-        "date": "2026-08-27T19:54:00+00:00",
-        "source": "Infobae"
+        "title": "Giro en Vaca Muerta: Halliburton deja en pausa el recorte y abre una negociación con cada proveedor - El Economista",
+        "description": "Giro en Vaca Muerta: Halliburton deja en pausa el recorte y abre una negociación con cada proveedor El Economista - Últimas noticias económicas y financieras",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM1VXdldkSmNSV0NjRE5aSTVQZkhsbFJ3Y1hpTV9oc0ZPMWJlbFBpcHlrYmMwYVVoYWtvWFZMUTVLLTlEeDNuNEhnUngtcjRPV0NJTG5nazR3djR6OVpBbzF5SlBQMG56UHkwOExwc0lXcG9KUC15WFI4RG1GTW1WdnlyQ01xeVFyR2NKVmlraXM3ZTN6R1NCYUtBRU5NUkNxZFdPWWpkbFNZVkpZSU5ybGpodXVFY3lGYXdSZEVTdzBGcHRP0gHKAUFVX3lxTE5sdHdGQ1R1NEUxV3VLUnNoZnVxdmlXQmhZQjhaLVdNc1V5S1hrdlhWdzhmb3ByaTdCUTlxMU9GTGNiZ0ZnX29qQlAyaFVib2xjY3AzbE52V0lQdThRRWFQU1o5M3lJV211eGN4aVA0RHVxSXU0ZEdXMVN2M1FfTWxERVJiRXBZd3AxblZWNGs0cTZ2U0dUUmd4UF9RR3VnZ0duVExZMF9QSmc3THl2VURIRWNPZG4yUERZVDhsUkMwMlBjSlE5S2lpcnc?oc=5",
+        "date": "2026-08-27T15:58:00+00:00",
+        "source": "El Economista - Últimas noticias económicas y financieras"
+      },
+      {
+        "title": "La Justicia dio detalles del accidente que provocó la muerte de dos operarios en Vaca Muerta - TN",
+        "description": "La Justicia dio detalles del accidente que provocó la muerte de dos operarios en Vaca Muerta TN Quiénes eran los operarios que murieron en un accidente en un yacimiento de Vaca Muerta La Nación Tragedia en Vaca Muerta: la Justicia confirmó cómo ocurrió el accidente que provocó…",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYWVyVVpZVGRnRWl5RExCMnMxakdXTk1FU2ZicENsZTE1V2tzUnRZRWVZd3Z6Nk9MTkVoX3NELVNwN2k1SzZWdWtPMFIwZko4bHFzUHNvSWZxSWZSVjhsQllLNUtvVFFIeVNmRnI5LWJUWDlIU01tRWdydzdVd2hGcUtncVBPY29kM01wczd5VG1fZUNJS3ZzTWIzdlB5emV4NEUxR3l1aXJpb1h3T2IyNzE1YWswMk0zUGluZ0ZVd2NyMTlLMFg5Sy0wNjlLd9IB4gFBVV95cUxQX1g4aHlpMmREMmgxazBpUU10NzFQa2dtbzJPbXNDYjhITU5qNV9MYzVKeF9FcG1hQ2FESmFQcExGMXRWVEdpcHE4VkVMRWdGZ21uTzBNcERlRDhtb1UxNElIU0JRZHFXcTlsN2Rlc1NTU05hMVNlcDFyd3ZnaUhCRTlqcEVlZm15d09nWmVkV3ZsYjQyakYwTmRBb1lVeDBRdmVTT2RqVUJqNlJFT3hUdjlhSHRHWVFYWWQybHNMQ3VQUDA2ZnNuV29EUnY4QmNZRW9ySEdHSkxienRIVGNha0hR?oc=5",
+        "date": "2026-08-27T21:32:54+00:00",
+        "source": "TN"
       },
       {
         "title": "Vaca Muerta corre contra las elecciones: busca US$20.000 millones antes de 2027",
@@ -170,31 +177,10 @@
         "source": "La Nación"
       },
       {
-        "title": "Vaca Muerta llevó la producción de petróleo a otro récord y el crudo ya lidera las exportaciones argentinas",
-        "description": "Vaca Muerta llevó la producción de petróleo a otro récord y el crudo ya lidera las exportaciones argentinas Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaHl6OTlDRFAxcGp3blNCRTladHBsMG10UkdxSmQwa0M5WGtZSGVMNnJQeHVlUnVPWTRVc3c1b01OSE1LMlRaUk1MZDc0RmF6UU5TMVQ4b1lHZVQ5OUFUMzIyZThLSlhWdUdnWEZQR2NDWXhVTnVBeVhQdk1mZU14VkFVZlVsNnJNaDBIalM2MTA3QTFzSWJna3pDTlZBUjF2ZFNpMl9CRzJHR29La3hzT0VJU1lMWFppR0dIRTFtX2otXzB6elcwTjI5VTROZlZvb2R1S3VJRWl2Zw?oc=5",
-        "date": "2026-08-27T23:58:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Vaca Muerta impulsó un récord histórico para el crudo argentino",
-        "description": "Vaca Muerta impulsó un récord histórico para el crudo argentino Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ00xS3BhU2N2LTNZM1ZvN0hfbDNBR1F2NFJibVVhNVk1LVdoWlcxR0NiUUw4MGZYV0ExZV9ZV0tSSldPOHFvSWNvQk9saU1pZHhja2tNcG9vNHAzYVFHMUs5MUIzZld4MFEyOGowMWJUME9HaWxtTjF6YVdTSGxLUUU3N3NYSUNTc05NN1dSc1ZyNGJ3UERFTW9ac1NPb01kVGNNQ092T3XSAa4BQVVfeXFMT1V4RDVFWUJzdHRtdEU3T0FRZ1lCT0VEdGJYendQb2NUMS1aakxnMVZsTElLRFA1Uk0tOXFmY2pRaTJtVmkzZTJzU1Yxb0pVZVMzRTBXblR3SEs3NHI2QmRMRjA4eDdsMjBXVUZYN2k1dHY2ZkJjWmZ4WjM5TlBHUU9tdWdHMk4xcHpfMUU5RGZJR09DVUkza1cyY1pIXzRnY1JBS0NMX2JWZGhyN0l3?oc=5",
-        "date": "2026-08-28T13:36:52+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Las exportaciones de energía ya superan los u$s 9.000 millones",
-        "description": "Las exportaciones de energía ya superan los u$s 9.000 millones Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaTBoX2tPMm1fYlVvVS1Tak9pV1NtTllCaDl4aUJ6MFI2LTFocjZhOFZ3V3ZkejIzNWQ0dHY4NEVCdk93LVY4T3ZXZmZMV3dyWE5xVzJaMnMtd2wwU0JTOERDS3E1TzJqTVNqamJiRk1Hd1FnLUdKcmpwQ2gyLW5ERTl2UVEtQlppMy1KMTJURmRCSzhsSi1zLV9DZTVXYWJYZ1hxaTZRcGNjOTliY0NkLXdWcFV4LW1EaUE2T241aEhpbUhTY1NSbWpydDBfVlVLY2Nwc3VSWm9Ja2E1cFhRNk9qRdIB6AFBVV95cUxNVG12eXFRbW0ycnB1R1hOWWF6ajEtWkV4QXJvdmpfQUFFZmxWVkxYT2dZeWV3UEdpMDJpWExhcVMwd1VVaGtFWjE0a0FaZmFDWjdBWVpKUTRIWFU3Z1dhQXA0bU1COGFqdUJaNnlOd2F1V2liV0REcTFwVGpYdER3ZV8xTWNEcDN2VTM0VUFkZGpxcVBOZnYzU1pVbUlzbzFNajhkOHBaY3huYmZ6dWkxSDdyekJDZkdVUTV6RFJwemRHMzJpMmdVcTU5TlExcXdra3lRMnBBRWx6NUE0VnB5eTZpYkRSWFlV?oc=5",
-        "date": "2026-08-28T10:53:40+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "San Matías Pipeline obtiene préstamo por USD 900 millones para el gasoducto dedicado al GNL",
-        "description": "San Matías Pipeline obtiene préstamo por USD 900 millones para el gasoducto dedicado al GNL Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR19jZ3pMUF80QlhWSTlTNEI5RnRuYmZhUnFhOEJxaXZpVUx4TFRVN0NrRVFxYTZtZFkwei1mbHpRVkdiNlltbkR2elVmd0J1aEtqM05ybkNBMk1JcjhkeXZPRjR3ZVpsZFptWGVsdDAzTHJVT004UVgxSGE2ZV9ucDBmX0d6WDJYYW9pMVdBWUV2OUR4Q1pHbloyNnY0Q0hpeDFKNjE3SDg0MDlKcGxsaHRWeGcwNkpNT0k4NFA3a9IBxAFBVV95cUxNQmZBNFV3Y0NzN2tvd2p4aTRRb0oxcVFxWlo0YlYxaGhuYW96QUp0dEh4YXBxeGNabU1neXYzOU1MNDcyelZzSkhxTkNHUFFZQ0ZIYjhiWlgwOHFwSW5GYnlmVFBwaWoyQm9Ed0Z1bjF5T3d4by01YW5XY1JCZ2tNLWdwMnI5REdEdHlLS2FjT1VfbWlJdURleDNvd0RHb1BIanRwS09MXy1UUWhYd2czOWdtN3RXeE5seUswRWJZTkN5WkE2?oc=5",
-        "date": "2026-08-28T15:45:00+00:00",
+        "title": "El \"manual\" del Rey del Fracking para conquistar Vaca Muerta",
+        "description": "El \"manual\" del Rey del Fracking para conquistar Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORlV2YXh0TTNVUVVoaUVSQ25BYjk4UXRuYnNyZXFxMWZYeHlKQVpFclpzQldRR1hZQTRfQWNRdkFOZ29aczQ5RXRsUEY1SDI3QlNJMkJFd3JGSU9NMzZpVUQ4MVhoaHp5dTRfU0RjY1NrMkhHam9RVzJmRXgzWk1hYWZDQXhTOUVodGZSU2NsVkRnamRmb2xibDQyMHpLS2o3LW5n0gGoAUFVX3lxTE1RQ3ZSZFJoN2djbkc0TU5XcTlsa0hHSXVLTlBvRHV0aUlSZnRXTDJ6aEdUUjJBbWJzdWpnYVdsdEFSYlNwTjkwVG9MZTN2TF9mZlNJaUFoV1Z5NXdSMjdTVDhoYmppLWNyeWhxSEFJM0kzcG5NZm40ZlFLbUgtczlFZExVb1psajZ0QWxPUGxQbUVYUUwwT2FMTGVjeDJVUHRERnV6TG50RA?oc=5",
+        "date": "2026-08-29T02:55:00+00:00",
         "source": "Lmneuquen.com"
       },
       {
@@ -203,6 +189,20 @@
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORGJpV3ZFb2lUNmQ1dDg4WEc1N3NYX3c4VUYxd3N6TjJtcXFXUVJDVkdTUENnVFhiRFc0bmFwb0VpY0dOZjB1RlJzM2NIMGVMTGs0dzFTRDZQZkVBSk9nODRyTTFHV2RzcHZiaU9RQUVKcDJxMVdxSmhURjU2bW83WWZmVW0zYUUtSmF0T3hkSlUzc05sVjVveUtobVJMNEhCOUs0NXYzQWFFbnNBbkR3Rm9pd1pHSVU5UUd2QVNIRWNBOG1mcHBqVmg1WXN6TklNZkEyZmgtUXJ6ZWdmQlplWHIyXzVsek5CdzV1aG8wRHU0cHY1c2tRUtIB_gFBVV95cUxOOWlBRVB3Q3VNYlZJYnFYRUxCZXdndFVGOUJGX0t4QjY3R01vanh1REY1ZHljWEFJTjBwdkYzNl9wU3Vrc1NfNFhLQWhiVVRQdHp5ZVRrOVYxNEo1NVhTUHdyT29iRUliZ09GbDJBc0xIeVJici1Xc2Q2WTlBNGliTjJJMWFVZkFDLXdwWnh1cWZFbElZcEtWY3hSZ19FYk8yQ3pVR2pESEptN05ib2FZN1pHZGJMYlp4ZGRsaVVuaUhOZTgzcTlVV2JteGhaWnRpUW5GaE1QOGFNcmRjU081eWlZYmItdHZDbi1mS2IwdHFpWnpqal9iS01XclRndw?oc=5",
         "date": "2026-08-28T16:10:18+00:00",
         "source": "Perfil"
+      },
+      {
+        "title": "Vaca Muerta en expansión: las megaobras que buscan convertir a la Argentina en potencia exportadora",
+        "description": "Vaca Muerta en expansión: las megaobras que buscan convertir a la Argentina en potencia exportadora El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSkF5SFVCN2JqcjJvLVV6bGk1azNvbml1NUs1dXJWdndMSnlxLWRtX28zdGFfdnBqUXp5WllZZGU4TlJmT1ltZlpscVhHWjYyV0c5b0ZKMmFWYVRqRllaSVNzX3NlY1gtTTRnV2x2SmdrSjRXNjNlb2dfNk9xaTR6YTZRU3o4Ukl2Y0tXUDRXZ3BybGpnZnhvQTUzc3ZoR1lHM0YtZThLSWVOcm1hbjVQbjB5LU5VQ3JwYjNpZ1FlUVRMR3Q0NmZZZ0Z1YU1Jem9WNmRTRXpGQkZIQQ?oc=5",
+        "date": "2026-08-28T09:00:00+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "Un consorcio de petroleras cerró un crédito por US$900 millones para un nuevo gasoducto entre Vaca Muerta y el Golfo San Matías",
+        "description": "Un consorcio de petroleras cerró un crédito por US$900 millones para un nuevo gasoducto entre Vaca Muerta y el Golfo San Matías La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRk9iM0xXeHhjaXlFNDVPSUdMVDhCbFhuN0RsdXJfeFVYenVEZmJxdVl3OXVzal9YY2hJVzlNV0RIa2JYaEk1cFI4VGF5OXhxQWNkMTVmOUJQbG1MTFQwa0Y3UkR4TmVzWl9vZkZnV1BHNUk2SklaOEJmRFdMczlyTEdlOXRuNDYxZTZHV0lLNVNzbVUyb3dsYWRpMWtVakFJT3VhdXNpclFkdkdRaTJyUWdyVUpjMVp5OUx4NXVMOGozQjl0cGRQVjRRTWZ3eHNHYkI1SEU4U2VuVGJfZ2g4bg?oc=5",
+        "date": "2026-08-28T16:29:00+00:00",
+        "source": "La Nación"
       }
     ]
   }
