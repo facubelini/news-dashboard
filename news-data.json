@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:30:17Z",
+  "updated_at": "2026-08-30T17:07:28Z",
   "categories": {
     "Microsoft": [
       {
@@ -17,13 +17,6 @@
         "source": "ixbt.games"
       },
       {
-        "title": "Windows 11 permitirá apagar la PC desde el celular",
-        "description": "Windows 11 permitirá apagar la PC desde el celular Opinando San Nicolás",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUtUMWdjY255TW44cHFPS2RCd0pHUVdkdGpXYUZZY1J2dmN0RjdhQlNzZW5Va1VfT3NYQk0wR3BzcXFTNFhFNUdtMTlnZVBkZXJKSDh3V1lNOHo3RlhKSEllbFBtVWlXakQ4SmxaNUxoSGl6RlVvVHFFeEpXSjM3WFhZNA?oc=5",
-        "date": "2026-08-30T09:16:43+00:00",
-        "source": "Opinando San Nicolás"
-      },
-      {
         "title": "Editorial Perfil demandó a OpenIA y Microsoft por el uso de contenido periodístico sin autorización",
         "description": "Editorial Perfil demandó a OpenIA y Microsoft por el uso de contenido periodístico sin autorización La Nación",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYW5odkw3RWhsU3NWRHExeHFKZjhHRWNjNnBDNDlwTER6VVJsOGFXR2l3N185TEptT3RCbkVGN0lBdHVLWFNJYm5WMjhldmFhVFRCckplNkRrOS1SOWk4NGFUODJZNFQyNG51STdVV2ZXNTJFc3JJbC1OSVlGbVpabnVxQ1BHT1hKUG5ncmtuWkxzeGQyb2t0V0lqeW5JOVZ4LUxGcm9GVlI1eEtydnRFWnFIRndPMjU0M0RrYkxQNmhiWmJqcGpVQ2VTWVJmZnA3SE5PS1M0eG1BbVdPdlBmVGNyYlk?oc=5",
@@ -38,6 +31,13 @@
         "source": "Perfil"
       },
       {
+        "title": "Llegó a Microsoft, vivió en Canadá y decidió volver a Tucumán para crear su propia empresa",
+        "description": "Llegó a Microsoft, vivió en Canadá y decidió volver a Tucumán para crear su propia empresa La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZzFOU3lFZFE4TTU0RXJ0emRSYUN1XzFVVVdIZ2o5anloTE11Y0VkWUFwMDMyUzFsd19Gd3NRUGRZVDVkWXZwS2xoRVY3V3MzVWc5eEhJZFEtVWRSY1kxWWJfM1ItQi1Bb1dYRjZzZlNSR1F0WWlONEhqd09EZmluVVJLa3FOODN2MF9wV2Z1a3VtRTVwb3duTkU2akJMMDZ6UUdqN2lVa1M2TGlMb1Y2RHVzTVJLajBtQkU1VThqek9sRE5Qc1FCUGVGbTjSAdIBQVVfeXFMTzhHb3RRZnpvd2tjQUhkSFkybG4yVVI2Z2YyZmZ6aUxiWDkxdkFTX3JLc0s1bm92N2I1VVFHdVp4WkhGRHZ5RjB4X1dLOGlxR3dJdkk1akVVdDZWcEtiNVU2ZGE0blhMZDJ5NHUwaEhnVmRLR1RLdHBaQzlQVlFhN3JvRWZyeFcxR283Yk9fbHliaV9lYUwzRUV3cm5yT0FTNWNWVnN4OU0zM0g3VnhKRTR3U0hLMGJvc2p1c2xuNm0wblBfNXZkSHpwcEg4cWZCUUx3?oc=5",
+        "date": "2026-08-27T17:27:14+00:00",
+        "source": "La Gaceta"
+      },
+      {
         "title": "Bill Gates advierte por el avance de la IA y propone reservar empleos exclusivamente para humanos",
         "description": "Bill Gates advierte por el avance de la IA y propone reservar empleos exclusivamente para humanos El Chorrillero",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNTZEMmYyaEduUkl4TzRiMmRQcEIyaVhrTkhsNUhwb1ptMU9tLTZkdEU3aUpMcDRBZTlxblAwdXNfSlNjZENoOHFSMkhpcjhzOG1zNEYySzJkRDIyZUtWUHQzTnlXTnRMYjBmZzVZMVg5bE91d3hiTXBNZktvWFg2aENfNzNLaHJtVm92aFRlTl9hQWk0MzEyVy15VjlnekI3UGhzamFmMHdKWWhRRUhyYS1DUFo1bm5jeUw5Nk8tUE5QYlAtZk9MMUd3OXVISW5BekF5Ui1BNENYZkgyM0M2QjFJMWFsZ9IB5gFBVV95cUxPNTZEMmYyaEduUkl4TzRiMmRQcEIyaVhrTkhsNUhwb1ptMU9tLTZkdEU3aUpMcDRBZTlxblAwdXNfSlNjZENoOHFSMkhpcjhzOG1zNEYySzJkRDIyZUtWUHQzTnlXTnRMYjBmZzVZMVg5bE91d3hiTXBNZktvWFg2aENfNzNLaHJtVm92aFRlTl9hQWk0MzEyVy15VjlnekI3UGhzamFmMHdKWWhRRUhyYS1DUFo1bm5jeUw5Nk8tUE5QYlAtZk9MMUd3OXVISW5BekF5Ui1BNENYZkgyM0M2QjFJMWFsZw?oc=5",
@@ -45,11 +45,11 @@
         "source": "El Chorrillero"
       },
       {
-        "title": "Llegó a Microsoft, vivió en Canadá y decidió volver a Tucumán para crear su propia empresa",
-        "description": "Llegó a Microsoft, vivió en Canadá y decidió volver a Tucumán para crear su propia empresa La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZzFOU3lFZFE4TTU0RXJ0emRSYUN1XzFVVVdIZ2o5anloTE11Y0VkWUFwMDMyUzFsd19Gd3NRUGRZVDVkWXZwS2xoRVY3V3MzVWc5eEhJZFEtVWRSY1kxWWJfM1ItQi1Bb1dYRjZzZlNSR1F0WWlONEhqd09EZmluVVJLa3FOODN2MF9wV2Z1a3VtRTVwb3duTkU2akJMMDZ6UUdqN2lVa1M2TGlMb1Y2RHVzTVJLajBtQkU1VThqek9sRE5Qc1FCUGVGbTjSAdIBQVVfeXFMTzhHb3RRZnpvd2tjQUhkSFkybG4yVVI2Z2YyZmZ6aUxiWDkxdkFTX3JLc0s1bm92N2I1VVFHdVp4WkhGRHZ5RjB4X1dLOGlxR3dJdkk1akVVdDZWcEtiNVU2ZGE0blhMZDJ5NHUwaEhnVmRLR1RLdHBaQzlQVlFhN3JvRWZyeFcxR283Yk9fbHliaV9lYUwzRUV3cm5yT0FTNWNWVnN4OU0zM0g3VnhKRTR3U0hLMGJvc2p1c2xuNm0wblBfNXZkSHpwcEg4cWZCUUx3?oc=5",
-        "date": "2026-08-27T17:27:14+00:00",
-        "source": "La Gaceta"
+        "title": "Windows 11 prepara una función para apagar o reiniciar la computadora desde el celular",
+        "description": "Windows 11 prepara una función para apagar o reiniciar la computadora desde el celular Opinando San Nicolás",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUtUMWdjY255TW44cHFPS2RCd0pHUVdkdGpXYUZZY1J2dmN0RjdhQlNzZW5Va1VfT3NYQk0wR3BzcXFTNFhFNUdtMTlnZVBkZXJKSDh3V1lNOHo3RlhKSEllbFBtVWlXakQ4SmxaNUxoSGl6RlVvVHFFeEpXSjM3WFhZNA?oc=5",
+        "date": "2026-08-30T09:18:33+00:00",
+        "source": "Opinando San Nicolás"
       }
     ],
     "Marketing": [
@@ -68,18 +68,18 @@
         "source": "La Verdad Junín"
       },
       {
-        "title": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica",
-        "description": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica LatinSpots.com",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlhKXzVrVm5aeWJNVU5ibDkxQW1ia01IRDFzeTYwRGMxekE0c21Sd3g2Mklsa0FlczVWSzFnWmRPU3ZDcjVIcjctNHhWOXZWeFFqdTkxN3RwQk5Kd3FWQUJMZ000Vk5LZWV1ZktmT3pVTHFYMzN5T2QzUm5BS1VTaUZBa3BwcGxJSWZZWTNuSzZYSVlUYmJrcFBxd3pmZnh0alhrSmpCUE5DWVlydlFTalYtNEFyVVVYcE1FY255QjUyYVRxX01FSA?oc=5",
-        "date": "2026-08-26T06:03:11+00:00",
-        "source": "LatinSpots.com"
-      },
-      {
         "title": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital",
         "description": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital ReconquistaHOY",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVAxS0k0NnZENDFIbDZCNXg1U1lMYk93ZFpsak5FMEJnV3BUcV9HQS1Qc0F2ZkZRZmY5UDFvTWV3bmtuTnctSzRaVEVlWm1yWlV5NWtlZUYxQ1RKc1prWVhkZkd1WG5VZ0Vyc25BNXhuUGpLRHJ2V3MwOHpTcVh6UUlfTlNJMXRFT0trOU96dGZRaWozWkRoX0tULUEzclU4Nm0wdXl4LXJtR3Rqb1l6NVZDVk5PZGVrQnlFaE5R?oc=5",
         "date": "2026-08-28T12:22:38+00:00",
         "source": "ReconquistaHOY"
+      },
+      {
+        "title": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica",
+        "description": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica LatinSpots.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlhKXzVrVm5aeWJNVU5ibDkxQW1ia01IRDFzeTYwRGMxekE0c21Sd3g2Mklsa0FlczVWSzFnWmRPU3ZDcjVIcjctNHhWOXZWeFFqdTkxN3RwQk5Kd3FWQUJMZ000Vk5LZWV1ZktmT3pVTHFYMzN5T2QzUm5BS1VTaUZBa3BwcGxJSWZZWTNuSzZYSVlUYmJrcFBxd3pmZnh0alhrSmpCUE5DWVlydlFTalYtNEFyVVVYcE1FY255QjUyYVRxX01FSA?oc=5",
+        "date": "2026-08-26T06:03:11+00:00",
+        "source": "LatinSpots.com"
       },
       {
         "title": "Inteligencia artificial, audiencias y nuevos negocios: la industria de la publicidad digital debate su reinvención",
@@ -89,55 +89,41 @@
         "source": "La Nación"
       },
       {
-        "title": "Comenzó el curso de Publicidad Digital en la Escuela de Innovación",
-        "description": "Comenzó el curso de Publicidad Digital en la Escuela de Innovación Diario Democracia",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUxPT3lhYjBjaktla1VJbURCTE5CeW15ZERGSnlOM3RSd18yRU1VWlBBZHhVWXVGbkRURGlSU1RIbVdYVjFncW9VbHRDdkpqTnFhQUpuWkVSX3k4cTlpWmpLdDZubjh3aEp5Y0NRc0ttZFUtcFRjMnVvcG56V2g0X3h0M2llX0N1SzR4ZlJMMGI4SF9ETEItR2hLYWo4d085VlAxZFlZQQ?oc=5",
-        "date": "2026-08-24T18:59:00+00:00",
-        "source": "Diario Democracia"
-      },
-      {
         "title": "Cerimedo aseguró ante la Justicia que gana hasta un millón de dólares por mes y desligó esos ingresos de Bolivia",
         "description": "Cerimedo aseguró ante la Justicia que gana hasta un millón de dólares por mes y desligó esos ingresos de Bolivia Perfil",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQX0VQSzlYV2k0RE5vOXp4cG1zMmJKVF90U29oWnN1RW11M1RzeHZIWXJRSnNKV1JpM3dsT3hva05fYUpHR0JSMldqQTBJcGZVRFBZOFE4RmREQUV5U2ltRnc0aWx3S2pCUWtzYVZJbnZkM1pwaUsyQTU2VDhjdFlBdzZfdmpnTW0tVDRFVkRQN3BnZDFMdUZ3RGc0elFKVXNNckhjaEo2b1FMaF9JRnlRbDF0M2ZlYUFDSl9tcURYN3pOQkd6Y056dUh3UG04Xzlvd1JyRW92RXFtejBZT3hYV3E4a1hCTkRYWDFwM3hhZXR3bjR3NnVJ?oc=5",
         "date": "2026-08-29T00:46:37+00:00",
         "source": "Perfil"
+      },
+      {
+        "title": "Comenzó el curso de Publicidad Digital en la Escuela de Innovación",
+        "description": "Comenzó el curso de Publicidad Digital en la Escuela de Innovación Diario Democracia",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUxPT3lhYjBjaktla1VJbURCTE5CeW15ZERGSnlOM3RSd18yRU1VWlBBZHhVWXVGbkRURGlSU1RIbVdYVjFncW9VbHRDdkpqTnFhQUpuWkVSX3k4cTlpWmpLdDZubjh3aEp5Y0NRc0ttZFUtcFRjMnVvcG56V2g0X3h0M2llX0N1SzR4ZlJMMGI4SF9ETEItR2hLYWo4d085VlAxZFlZQQ?oc=5",
+        "date": "2026-08-24T18:59:00+00:00",
+        "source": "Diario Democracia"
       }
     ],
     "IA": [
       {
-        "title": "Las universidades de Los Ángeles apuestan fuerte: carreras de IA para formar a los profesionales que el mercado ya está pidiendo",
-        "description": "Las universidades de Los Ángeles apuestan fuerte: carreras de IA para formar a los profesionales que el mercado ya está pidiendo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOc2FITHRwOXNTQng5Rk1TbzJYSnkycHgwd0dzaWJoZjJMeXRLWGh1RXBmb0xlSk5aUG16SnpucDJLUnZkZDBYQ1FqRmpOZ0dRMGVEUWVJcm9mcnFOMUFXRUtoaU5Fd195V1c3Umg0QVdmTm5wM3hnM2lrN0QxR3U4MklqWFZ3bFc5UHJHSFoxdzhaeF84LWFrNVZ6LXpNSDJTZlNDS21kb1JnZDZROWZPdi1pN3pYb0E1aW03QTlTUmljc3hrU3RBdzNwSzhrSXVrUVl1azM5UkpuYUNIUWZMM0J1NXo1Y09TNVBVdzdwTkxmcUZrbGhKQTZnWEpRVU05QXhGU0FOSWVEZ9IBpAJBVV95cUxNZzdyV2RHVE1PUkgxLV9LZXp2Q2RCR1Jlbl94MGI4MjBuRzV1V0FhS0JkZWljc2tadVpGYk15eTZVYXhaN0hkN3VDWHJFZmprdFJuN25BNGZSclN5bmpWSDViM0VkMjZ4TDVjTDh2RXkxSUM0SVB0eFdhblh4UkZUUUNidldUU2ViV3ZNVXFPM2pQbkhKbExkbmh3Z05Ka0tqZ1pDZzFnaXVxQTVtRGpCYmVNSDJYbE5RUWl2Z2FhYzMxc05CUy1Rc1hNX0pLRG1KUFdBZTJIQkY1cDVqQTBLNVlLcE9PLUxaNVNVVmZSVk5kblpONkR6eVNCUUpWeGtDNEkxdkRlRGFHVnJUbXdBY1JSaWxQaW9HYmpoMi04eU50Q1BE?oc=5",
-        "date": "2026-08-30T10:59:16+00:00",
+        "title": "La camisa que engaña a las cámaras de vigilancia con inteligencia artificial y dificulta detectar a quien la usa",
+        "description": "La camisa que engaña a las cámaras de vigilancia con inteligencia artificial y dificulta detectar a quien la usa Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONVpOSnZxM25QTXVzUjU5YnhlVVJqeXh2Y19vVUJuSmJDRXQ5c0JraXVUdWJvT203VWZtbHd2MGZsSzdMWG5tQ3M5M1ZtTkROZndWNGVYalZpY1JXZ0s1Y0V5RktCVGViZ3JhdkdYbGxGdmF2cnpfTzlCRUY2Q29rT2lGcXp4cWNySmQ4SUUxSW5ZUzlZdEFwbXNyVHF0eEN6VkFwUXEwTlpybGVZUVhFb1hkaVg2MlFnQXN5LXNtaWRUWS10d204LWlrUXY2MXhyb09YbjdkYzk1X0Q3NUZ1bHUteEZMUlIySEHSAYQCQVVfeXFMUDFCTGxNNm5NWHJBNDNoX3BHaUswcjhzOGoxVUtXc3gzd1JKdFJRNFBhemxzX3lTT2d0cmV3bVhPTEVycjVvaElPYTZTMUdkb2JXYnNlSkRpWlljUTJ4YjNtcS1GWmJsZGRvUldjdVUybng4d1BHNzVDQlcyVUNBLVdPZXUxTllTb1ZXQ2RZVmF6cy04dFpBWnRhbWZOeFVEVV9yU1ZfUlluWU5WYVFMNTBjMWxYX09idW0wUkREbnVJU0hYZUtON3Y0a2NUajBKZGY1XzNiQllJaTQwNHZ1VFdwZE5RYjVUcTg3OTVTbTJESnI1NmVya2pVNjBIZFZfeXhZRXI?oc=5",
+        "date": "2026-08-29T14:36:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Donde antes había vacas y patatas, hoy hay centros de datos: esta ciudad china es la \"gasolina\" de la IA",
-        "description": "Donde antes había vacas y patatas, hoy hay centros de datos: esta ciudad china es la \"gasolina\" de la IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMGhneFVVOXFnV1JBTXEyeExETXJhdUdaMXNFLUxPdnFINHVwMzU3OWhLQzhOZEc2QVFic21Zc05wLXVBbHdlSlNKWmdsbFZfRXQxT25nMUpGUXdTcmJpM1Q3bkZkMWozdUpxNGtZNzd4YXUxeXNnWnFLUXk4QzBDUHZ6azh4MEdpRVhCeENsNWhYcXQ2cW5pWnNFN2hNUGN3NHFLVHJNUjZKM2FXM21oQUN5TVNiQdIBuwFBVV95cUxOLWhrX1hfQTZvMl9zS2t1Y2pxOWplOVJTaFFRNHAzVWpYVlN2NjI2M0lPaG55N3EyT1Z4dkNhdGxOclpJRzNXUndkajd0bHN4TDBQMUxVTXZjU1AzanJWVkJTVi1INHVrVkx0RDZyTzZsdldIaTJtdk5EWUJQbENWTTcycVNzbVZBNnNNUHlpVHlDT1RTTGFNTGdZSmExeTNVWExoUDJDOXFsaUpKeHRaZ29oa3RhUU9SX21J?oc=5",
-        "date": "2026-08-30T10:01:04+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Elegir una profesión en tiempos de IA",
-        "description": "Elegir una profesión en tiempos de IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODVBc1FpY1p2T3dHSHhaMDlCLW5CLXc2Tlg0Q2M2bGtYVjdhNVdySWZyODVRRlhRdkFVQ3p3YUdJaHB4eFN1VUwzRllsMmpaSXVnVnlEVHF6b2E0Y3Brc0NiallyOUNncWtyUU1nR1pQZDBaVm5may1XR0t3Y3JRRkJlbC11V0hwdGoxSW8tMUxmMTE0bXdzakdhdmdRR21CaWhPWmxTMA?oc=5",
-        "date": "2026-08-30T12:17:41+00:00",
+        "title": "Wanda Nara le preguntó a la inteligencia artificial cuántas veces la engañó Maxi López: “Yo ya me olvidé”",
+        "description": "Wanda Nara le preguntó a la inteligencia artificial cuántas veces la engañó Maxi López: “Yo ya me olvidé” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbks4TUhRSVlyVUM0NDQyMkFnZG8xWDVJTEZRaG9lUGJ5VDhMblNYNW5DQzN1VGd4aktTSjc1TEQ0ZVhYNVFzcWJNX3Z6QjRFd2hEaWt3clpvS0dYN2k4RHZ5enlIeFRJNm52SVRHYUVoT3NEQ0RUV3l1UFJnUko4ZUxvZExobTBrdzBGM3c0ME9Pczg2Q1Y1NDlHalUzMWtiUVVqWnI0RERGaXA2bFQ5ck0zTzFCbDg3WV92VVdlQnEtSU1oZXBQZzRKTExKNm5pck8yM3ZjSE1LdDdMRUJUR9IB-wFBVV95cUxOMnFzQ0ZCblluWHFaU0RCZkdCMVk3NWE1UDVYTWp6VE4zZ2hVV29aNjI3aVNjX0gyeENURnRyWmxqb3pWY3VHbDRVbnhnMV9HMXRRclJtLWhfbnRGTlZfdDE4QXB5b2ZDOXFmX1Vic2pvS1RiWTVOdkxXSGZqOWZ0dTMtdGpSUFVYSTdFTjFpbnNBU0haSmdhUmxnVDhJYzJsS2ZtQnpXTkR5RjdEeDd2VzBZU1U5ZXpRbWdITXhuUDM3OTlsbGJZRVM3UEc0MURFVjkwaGhpeEF2M3FUSGk2ZG1RNkFUWlFLa1BXTU9MdTNkcjFvLWR2UFpoUQ?oc=5",
+        "date": "2026-08-30T15:22:16+00:00",
         "source": "Infobae"
       },
       {
-        "title": "La moda anti-IA: la camisa contra la vigilancia ya existe",
-        "description": "La moda anti-IA: la camisa contra la vigilancia ya existe DW.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2kwczJuTVI5ZHhvWTBuSExrbHd2RUtraGFsWVFiRzNWVGVFalRLM2V0YjhrUmlabG9vOEItUmZpZmJXUU1WNDFaS0FnTHV2M3ppNWVjNEJpMTFuU0RNVXBDd1E2UkZrUFNiVUtFSENqazJGbGRDdHotSW53MDVrRzhUNExTZEZUN3U1eTdzZExydmtpUlNZMWxESEcwckFn0gGgAUFVX3lxTE1VQzlKMmF6OFZPejdLOEFpV09MTUhyQzgzUmlyeU5QdmdQMDNwZENuYWZOWXdiSWRrUF9hUlRtM3VZX2VvcUFkeFFKdGR1Y1NnV3Bra0pSZzJGSmRkUkdyS2doVEdURnhMX1FfY2g2c2RpdXUzb3luVWF6Tl9DNzRQeHNfX3dnOXQ1dnRLclBVVVB5bTlLd0oxYnI0TUFVZWM?oc=5",
-        "date": "2026-08-28T16:39:34+00:00",
-        "source": "DW.com"
-      },
-      {
-        "title": "Nicolás Martorell: “Hay mucho pesimismo en la misma comunidad que hace las IA”",
-        "description": "Nicolás Martorell: “Hay mucho pesimismo en la misma comunidad que hace las IA” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMzB0VWczbjZCWDRWendTQXVkRlhuMkUtRko0T09oR3hUUTFISWQ3Y1JCTy1CVEVuRU90MDlMQjA0TG9aelIzYTV4LUdLQmhMUHVDMm1hY0hhRmRScTFPTU92SzlwM0lOM1FjaXppOWlienE2NWhaZzQteHZEOWpRSDBMcEVMVmRKS2lNZk53TjdHWm1EeEEyckd6Zm85UzF5cWlXMkZqZGVScE0yZHp4Vmx2VFdKWW9DNkVyd3pERFVWUUFZVUlQQzN1b2hFMFROUkZ2VjdkcHVlZw?oc=5",
-        "date": "2026-08-30T03:01:00+00:00",
-        "source": "La Nación"
+        "title": "Inteligencia artificial: fechas para la capacitación para la administración pública provincial",
+        "description": "Inteligencia artificial: fechas para la capacitación para la administración pública provincial Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkpLRDBpVGJWNkVpa01NdEhhdjFfOEYxa0lpaWkwSGVpVnA4OXNEVHd0QTBYMWhqNndUTWZ6SFpsMWl2VWZZOUlpMlZ2TXpaZzBhT1l3LV9iMGZNUzhEa2hUTmpiMmEwSXFvUk9oOHQ0Mm5MWmhhSndZV1gwZkM4V1RXdUZRdmZ1UVMwSF9SV1FtbTFZSGluSlEzOTB2MS1nS082OWE2Y2U5empzOEFoT3BpS0RxcmVNR1hYS1dRcXQwZE9xdHJSbXh1aUR4aEh5RHBBQTZ6MA?oc=5",
+        "date": "2026-08-30T14:17:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       },
       {
         "title": "¿Será la inteligencia artificial la clave para que la economía argentina dé el salto?",
@@ -147,14 +133,49 @@
         "source": "Clarin.com"
       },
       {
-        "title": "IA: Los misterios y secretos medievales que están siendo revelados gracias a la inteligencia artificial",
-        "description": "IA: Los misterios y secretos medievales que están siendo revelados gracias a la inteligencia artificial BBC",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYRWhiV1V2SnpYS3dESTZhQ3RWZ3QxMmVBdThKb3k3TF93czl2YXlhX2F6OVFSQzduay13MGZfVTNrRHN2d2Mzb1c0ZkQ3bHR2czF1QUU2ZHV6ZEnSAWBBVV95cUxQc0hVaGdSd0JGWHJuODFxbkVaZ3g4Q3ZQTFZQWmlReWt6NTg1cFdtVzBrUHY4VVFTSzE3d2N5ZmJ4WnBTeXluZUJ6LUk3TWktSFkwT0ZKdWNONE9kb0xGSFM?oc=5",
-        "date": "2026-08-29T11:29:40+00:00",
-        "source": "BBC"
+        "title": "De la dactilografía a la inteligencia artificial: la fórmula de Institución Cervantes para cumplir 61 años educando",
+        "description": "De la dactilografía a la inteligencia artificial: la fórmula de Institución Cervantes para cumplir 61 años educando La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbUUxbGttbGN4REtDanY5TmoxUm9za3pMSF9xRXhKdmxGNTJ1dUdFVDJaRHJRVnkzeGoyUXBFRFpZUmlDTGFLVG5mR3c5UWdKdnFDS3hpU0VVU1EtZFJYdURJemNTS0tPTktkSXlwUmdoZXZfNk96QTNDMl8xNnFEQ2tSdmFmV0hQU3duM2ItY1ZILTFHU280dTZEQkdEVnRWOS1BbDlRMVFJZHBFTEhIRmE5XzlXOGM4elRtaGFSdDJoNl8wQnNSYlkxRFNwN0xOV2tUSFFaTkc1c2dw?oc=5",
+        "date": "2026-08-29T11:20:18+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "Nicolás Martorell: “Hay mucho pesimismo en la misma comunidad que hace las IA”",
+        "description": "Nicolás Martorell: “Hay mucho pesimismo en la misma comunidad que hace las IA” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMzB0VWczbjZCWDRWendTQXVkRlhuMkUtRko0T09oR3hUUTFISWQ3Y1JCTy1CVEVuRU90MDlMQjA0TG9aelIzYTV4LUdLQmhMUHVDMm1hY0hhRmRScTFPTU92SzlwM0lOM1FjaXppOWlienE2NWhaZzQteHZEOWpRSDBMcEVMVmRKS2lNZk53TjdHWm1EeEEyckd6Zm85UzF5cWlXMkZqZGVScE0yZHp4Vmx2VFdKWW9DNkVyd3pERFVWUUFZVUlQQzN1b2hFMFROUkZ2VjdkcHVlZw?oc=5",
+        "date": "2026-08-30T03:01:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "“Milei es la continuación de la pandemia por otros medios”",
+        "description": "“Milei es la continuación de la pandemia por otros medios” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGNHSWVCTU93X2JEZDZRb3VLdEtpT25yZmNTZ09rYzZVOFhiS0R5dTUzdHZPWHJmeTZQbE1OTzJGaS1Xb1E1Mnp5Szg5b2VUbXR0bXcyZ3k0endKQ0hIR3lnajRuMnN6enFPWXNibmJGc0xjRlRRQXl5YlhkZUROQ2pSSDRjdDJpUlEwMkdaVmstZlZlNWJpNEZGbS0?oc=5",
+        "date": "2026-08-29T23:59:40+00:00",
+        "source": "Página|12"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Tragedia en Vaca Muerta: confirman cómo se produjo el incidente y la causa de muerte de los dos petroleros",
+        "description": "Tragedia en Vaca Muerta: confirman cómo se produjo el incidente y la causa de muerte de los dos petroleros Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSUZTOHhEWEpMbE9QN21XX29xbUQ4SXpMdXl6Y2Q3NXpSNVp1cHhEVTd6bFlaZlRfSWFVY29YaHd0OC1uU1FLN3BaRFFRcEp0ZGNqWGdCM3lxTHhrX0Vid3huRWxnTDVsczhId1QtQzI0eDFDcUZRQjhLSXdaVkpQWE5yZjdhdmFaRDhXZzBLWkliNW80Sl9yU25ZaHNBNXhGRm5sbGM4TUl0cnV5czVoWmJVOWZhVzlIdDdCYXBVcVlSQTBERnpGSmR4WW45dFEtQVJFSlFn0gHbAUFVX3lxTE5yaHF2Yjk2VGZjYjkxM1JadHlKSVJFa21zc0FtRm93Y3ZENkduTVVWb09HdUdMZ2NpcHRscE8xVVhoTnZva0F5UzdoVXNxUTY4WDFIVzhDd3FSUTlCQ1NyZ3hTWVd2eUZfd0Q4R3VNcS1ZNElNVEQyZzFyZ3JUVzFiOU9CUXpVV2xkM0FVN0pHaDd4ajVGN2VaaGY4YWtieUQxNnJJbGpvVEtLelk0ampMdk5DTk0ybE1oTHAwNXktYWhkZ1lqTTFBX21Td0l0MXpUeTBGT2FFaEF3NA?oc=5",
+        "date": "2026-08-27T15:11:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Muerte de los trabajadores en Vaca Muerta: una \"sobrepresión\", la principal hipótesis de la fiscalía",
+        "description": "Muerte de los trabajadores en Vaca Muerta: una \"sobrepresión\", la principal hipótesis de la fiscalía Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeld3SnlzMUkyMU1Fcy0zMDhaMzZ0MWtpNkNhZzlFRk0xVVpqSkxFS09IS1pPNlgwaDlxWE9ib3hsY3pyX1BxU3lzZnFpUm85cGdtQTN6YkdmNDdsRWZKYnZYVGFfdTRsZ3BJbjQ0T0lRdG9PRE94QjR2QzRaRVBlSUxYZ2lZLVp1RDNpZVVlRzJ0MGRhTkRxTGRmYXZMZE9pdzY2dGlmRUotWWJocVFFMDRySjNZRTMtbVJ5RlpmU0JyVkYxcS1UU2VzUmJwWW1pcGxxa1R0UkJKUdIB4gFBVV95cUxOSWVOZGYzN2NlbUw3bzlIS25vWkN2YU9ybmdYenpidGJXVVZuMklNZVdFdm1kYVE5YW9MSldad3lpUTI1alFfeFZ5ZFNJWk8wdXJjeU9HQ05JVEdEeTFxd0FUYWtBbld3bkozaFc0YzU5NzJWRHlEZWh2aHRtTTNGcndybjRpRk9VUzk2TTZ1dE9qVzNpNGJ6WThTTVM4enVTN2lFaU9va3UyZmx4WHNjODZwNDh5M1BYOHNsSWxVTHBrbWRWcVN3YnJ1dk83bHdVZ2U0VmtaVTRnZ09UZndncFp3?oc=5",
+        "date": "2026-08-27T18:05:27+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Tragedia en Vaca Muerta: revelaron las causas del incidente que ocasionó la muerte de dos operarios",
+        "description": "Tragedia en Vaca Muerta: revelaron las causas del incidente que ocasionó la muerte de dos operarios Los Andes",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdkNmd2g5NHhBa1JNYkxqcjhWTjgtVWpyV3Noc1psZk02NzNZX1p0T19RS0dZUUdXaWplcXZUYmQyQjVkX2w3ZjdTTTdBbFExNmtJTHFiVU03ZE81OFppaDNXTTNtemZJMENHYTFQME4taVNhNVQzVjZTSXNsbXlPdV9UZ05xb0dTUHgzbnVFeVdVSFBFNnNoUjJrY2h1bzM3bkxCRHk0QjFRNWVMbDBScDJXUk1SMDU0T0t3dkpGTmlMYUxvNGtSc0I2dl9mV2kxZl84Tzkwdw?oc=5",
+        "date": "2026-08-27T21:52:00+00:00",
+        "source": "Los Andes"
+      },
       {
         "title": "Vaca Muerta y textiles: ganadores y perdedores del modelo económico y el \"tapado\" que podría resurgir en 2027",
         "description": "Vaca Muerta y textiles: ganadores y perdedores del modelo económico y el \"tapado\" que podría resurgir en 2027 Clarin.com",
@@ -163,10 +184,10 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Cambio en el mapa de exportaciones: Neuquén se convirtió en la tercera provincia exportadora, impulsada por Vaca Muerta",
-        "description": "Cambio en el mapa de exportaciones: Neuquén se convirtió en la tercera provincia exportadora, impulsada por Vaca Muerta La Nación",
+        "title": "Cambio en el mapa de exportaciones: Neuquén se convirtió en una de las cinco provincias más exportadoras, impulsada por Vaca Muerta",
+        "description": "Cambio en el mapa de exportaciones: Neuquén se convirtió en una de las cinco provincias más exportadoras, impulsada por Vaca Muerta La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2x4NUozSVdGcjBDbXhoQ09XSVBQVWVieU0taEZqbHVpbUpJamptOU10bnNsTUg1WGw3VGVxSGZSVmtZbEEyQWF0TGZpR2ZSLWJPcWMzOWQyX3hRZjduR05JM0U1V0J5WGNTcjFJR3k2ZXAtdEREWS1mdUVLLTRvcWU2MEJvUm5MbkYwRzZNMlZJODlFMF94dlg3YUVjVzRSOEJFZTlaT2k0VVdFcjJuY2ExX29XNE96dkt5YVhNT0w2Ykd0enVCcG54dlh1Sy1DQjZDbUF5dE0?oc=5",
-        "date": "2026-08-29T20:55:00+00:00",
+        "date": "2026-08-30T15:14:00+00:00",
         "source": "La Nación"
       },
       {
@@ -177,32 +198,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta acelera y el petróleo desplazaría a la soja como principal exportador antes de fin de año",
-        "description": "Vaca Muerta acelera y el petróleo desplazaría a la soja como principal exportador antes de fin de año Ambito",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMzN6LVZmdVJsaGlCQnhPbjZPOTlWOGdaVy00Y1cyMGgtZnFXZmhmNzBLQ1pwR0o5UVk4REZ4LTBscWVYQVFwcW5EVUxWa3FQb3UxNEFCTU9DYjJwbEhwQkFnNnFSbFJxZlAybF9OVzBLZGdUOXA1TmQxUE9iSC0xaURld1dXNnZEb0tiSmhoZzBMOXpxYTBQVXpvVmdFMVdYNmNkWVZsbDEwT2FHRFctcmdxNW81Y09Fb21ZdTBLcFVreXNNQmFYWHZZdzBzLTTSAdQBQVVfeXFMT0tBMTZja2RjZHFHSGFHNExSXy1UZlFCUE0wTjRUVGluNjBhUjMyV0s3TWJUUk85cWR0aEM1S0pKVjlTQmlBTFZzUEd3eTVjcHh3UXpLM29LM1JhbVMwUmVxc2ttZnAyV3FnNV9XVWFWdFFkc0RReWFla0hQT0pJM1VRbEI1SGNmWWdVXzB1VnpYejM3WTNSWUJ2cEFSdkxBRmRZdXRKamtDRGpQcGFhZTNTenFLTmlFSFFTVWJJY1pFNk05dFJDVm4zMk50MkpDck1TYTg?oc=5",
-        "date": "2026-08-29T15:39:00+00:00",
+        "title": "Agua en Vaca Muerta: el reúso gana peso por el costo, la subida del canon y la logística",
+        "description": "Agua en Vaca Muerta: el reúso gana peso por el costo, la subida del canon y la logística Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdE9PbEVqN3hXYTY2QkNtcDM1eGxEM2l3SW1VV3RnV2VHZUlDa1h5RWRaZlViS0FSVHMyWW13NllMV0tFQm1oOTJxM3BIWnhFSHRBeWNTc1BCa2x1dEh2NFBldGRJY2J2a3hKRDJvejZxeElLZ0l4WWs4Y3E3akZ5VUNyTUdBTTNTNnVOWFg1LUVtRDJKb2N4N3NEVlBYUV9UT1lLUnBTZVRIcXVBbi04d3VEWHlHUm90ekcw0gHAAUFVX3lxTFBtMUpEUDdsdGltamVxNWpZcmFKVlBjVW9ZcWFlSVFrWDZwZ1FfTzl1ZUF2MjF0d2dZTGVfVTlLTnE2YVRoQWI2MXZlSk9JamZyaWx2UHF5UFJMQ3dXNUtZSUVoR19LSW1fZXFhcUtJelBFZUFVa0NuME5tU0hULUtZT1RjcFgxbzJVdUJGbHd0RWhNNUFuU3ZxMWhZOFdYaHJ0bzFSU3M3WW9YZzFnLVFUWWpRSmp0QUJpU3RvUDJCTA?oc=5",
+        "date": "2026-08-29T17:35:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Por mil kilómetros de rutas: Figueroa firmará con las operadoras en Houston",
-        "description": "Por mil kilómetros de rutas: Figueroa firmará con las operadoras en Houston Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaklwanlmSllzaTMzbXI1T2N1LXBGNHl5aXZWdS1PQUViVFQ5dmY2MC1LZVI4Vjc5ZVVnU25EZERHN2FGOEpsSURneWN3UDl3RVk3TThwT3ZXanl0UEpEVUxUUTJ5WXBCZ0ZOR01BSTV4ZWsyTXNxRm1WVWxTMEdpaGRNaWVLLVRiSDRlLXhuNkJaYWVUMnBLaFFTM0Frazk3aGNTUDZPYzFPTGwtM2hDTGg3Q0RGWk9jY1o5M1AxNU9ydHB6bDNKRFUzTDcwQUNZ0gHWAUFVX3lxTE5YWTdoVlBHcDFPcEJnWks1Q2oyUTJrYms3cExlMHp2bTFUeWZYaVpjcHRwWnFJVXhWdWQ0VWpJYlVRZnhiZ0VINEZiR3dKZV80ckcyQlo5ZjkyZGVnTFNyNktNQTEzaWR5S0tDS2FNSzgtV05RODdRbi11bEFPRnZPcUNEV2w4dnc4UlVkNUlZZzJtZGE4aHlkcFNUZXFvUkdPeGJRNFlHN2JlRHpTR3FaWThySXdGUVotVVJkaGUyRU43RHBrWGV5eFk3RDZoWFFkU2x5THc?oc=5",
-        "date": "2026-08-29T10:56:22+00:00",
-        "source": "Neuquen Informa"
-      },
-      {
-        "title": "Gaido y Figueroa en Washington: el plan político para que las inversiones echen raíces",
-        "description": "Gaido y Figueroa en Washington: el plan político para que las inversiones echen raíces Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbFRLMjVhZVZxRVR2NVdQRmdpZ1FRcFRyVms4QnVyWU1jdmFpNktaTDlnSjRYMVI4UUJqYWJzZ3g2anRtSHFGRGFSSGF3V193TTVLV2FDaGlLTXhxTU5XRC1FU0c2Y282UXh0NDBoLTdJU0JlNkFzNUFseXZNcGU0RGM0V1R3MW5sREp1OUlobTNFanpTSTI0QWFUZTVHTy1OS0stUkFWcHBod2dsakxud09nMGc4Tm9wUk02MNIBwgFBVV95cUxPZW1UODl2UDBMV1l1Q3lfRjJ1YUZOVzJ4dkNmWFFrUERNUXVBNzg1b0NaeEZhYkp5SjZwZ0JuNHFrQTJwdWs4VWxJdDBYa0N1NFotNjU2d1FkbWNwMEV5WEhKMkpITGpCQTNfeFJCYWNuekE4aHk4WDZhSlI0WDItb1FMeTlaUGdXdjZpemNHcTBGb082WGFRdFFYeGVoU2RaSjFGY0VDUVJiUUExSG5NNFBOb2hTNVM3MDFQR1NsMjNKUQ?oc=5",
-        "date": "2026-08-30T03:00:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Neuquén impulsa un ambicioso plan vial de 750 kilómetros para conectar Vaca Muerta con Chile",
-        "description": "Neuquén impulsa un ambicioso plan vial de 750 kilómetros para conectar Vaca Muerta con Chile LA17",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMURIOG9PSlQ2Z1FGYlpJcWRQcE1xMlZEYzdOQTZBZDR4SXVYbmk2N3YzYVZoUHNlWC1mZk42emM5NFhGdWtUMnloMDZOam1HZjhpeThibFVDYmZLajBPVS1YUWM5UFRPSEZ6T2VBOFhoR0JWdDVVV1pZdXlrR0xCWDQ3bVVZWWgxVU5PVlpwWk4wTmdfN1dJTGlXd3VFVk1SRmNLQi1lNlFvSUx5UE1kLVJLdDNPLTJQd3ZsdUk0R0djdGh3?oc=5",
-        "date": "2026-08-30T12:08:00+00:00",
-        "source": "LA17"
       }
     ]
   }
