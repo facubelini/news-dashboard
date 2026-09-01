@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-09-01T20:24:27Z",
+  "updated_at": "2026-09-01T22:55:59Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft: BofA sube precio objetivo a US$600",
-        "description": "Microsoft: BofA sube precio objetivo a US$600 El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4QU1RcEQ4LW1MaTEzZUd4Vzg1c21hMTZKTjB3NVczQkVpYk00MEI5cnJJOVNWTTJfRHhjMmROaUF4S0NXc1pkLXd5TmxZaFl4RnZYTWM0YmROOEFvRldXZHN6SE85Qzh3YnZLLWg4VF9uWDZuZzRBUVczb3BJTGc?oc=5",
-        "date": "2026-09-01T16:36:49+00:00",
-        "source": "El Ecosistema Startup"
+        "title": "IA Responsable en 2026: cómo Microsoft se adapta al futuro",
+        "description": "IA Responsable en 2026: cómo Microsoft se adapta al futuro Microsoft Source",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEV0c0hfYThlNTA3NTBab2kzR282QnhlUG9kLWVuM0Q1ZzhwcDF5SGJVRFdmZy04UXZWbEFyWU1YVE9LQ0FCZkJITE9sUFl1UTZzcHFRZjdjS0JXdjRnbWJNYjlxcklIMWtvdGQ0MTNielRTWVczVktBQ2tXSXAwbGZHaE9GMFBobnZla3dsYw?oc=5",
+        "date": "2026-09-01T16:50:14+00:00",
+        "source": "Microsoft Source"
+      },
+      {
+        "title": "Un error en Windows 11 hace que el cursor del computador desaparezca y así se puede evitar",
+        "description": "Un error en Windows 11 hace que el cursor del computador desaparezca y así se puede evitar Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzd1QWdhSThWeHB3bEs3a0xmZXhfelNici11R2hON3lBODVFMHBfMWtQQjZSZGY3Uk1lZlRsbEFCcXNMMTdYWGpfNk9PLThQOERmYnpzWFlvanNReE1QRGJFY0k1YkU5M0dlWFEyb0RqVW1Vei1paDZxTUVmMVJfNUdjQjRJT2NIMXRRSzZTQ0ExSmlBUnRIejFfMEJxQ2xiN2xpanphZ2tvZVprNmdDU0JQU1NFSE82VkFRWm9rSW5EdG9veWYyWUMxVVfSAecBQVVfeXFMUHh0YnBtS0p2TWgwVVFXdUY0MXBYRW8yOVNaTGdVeEhvLUcyclA4WXpDNVBXVVltUHBZM1NTdEVRbV9BMnpKVWtBUk9pbU1NYVRCZElybHcwY0VsM0pITEZZRWFhM1l4WUZDZlBDRkh0RkFhc3N5LWhwT1h1Vl92WUlCZFZYNF9vQXNqWXVUV2NOUFVGVVh6M2ZOdG1oYm1HZHl3ei1adG53aTAzajNLVjBERURjUVdlYk1rSjJXaWhmcjQ2Y0w2OGpwZDVIRzVNVm1KdmlCbHplbzkwU3BJVU1ueDI3Y2dV?oc=5",
+        "date": "2026-09-01T18:19:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La interrupción de Microsoft 365 entra en su segundo día con Outlook aún inestable",
+        "description": "La interrupción de Microsoft 365 entra en su segundo día con Outlook aún inestable DiarioBitcoin",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ3JnMWpfVUZsYjdyZDZhU1NkOWFidkxRUjY2LTBBR2ZrdEsyUkR1MW1YZUN3elZfRXlRRUNfWkZFNFNpTVBJbjNSVURwZ3dORXkxQWNhTFp1SHFDSGsyYkhpNEZ6VlRnNF9LLXUwZFlBNjhkVkhZWUZUM1RiOVNNVjBJOTJvNTI1amkwTEhYT29IS3JucGxUTl9uelVJMG50NDNpRXZaN3hRbVduY0gzZDJqeFFuSXNlbVVqakd0MA?oc=5",
+        "date": "2026-09-01T15:33:40+00:00",
+        "source": "DiarioBitcoin"
       },
       {
         "title": "\"Tenemos una ventana de tiempo limitada\": alerta de OpenAI, Google y Microsoft a los gobiernos sobre una nueva ola de ciberataques con IA",
@@ -17,25 +31,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Microsoft expone el divorcio tecnológico en México: la base laboral abraza la IA, mientras la alta dirección se frena",
-        "description": "Microsoft expone el divorcio tecnológico en México: la base laboral abraza la IA, mientras la alta dirección se frena El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbUszRTRZTlB5eE9ORGZ1cHlWbHY5RnByRlVfQ05zVGUtenhmOFR4eXlVc0t1LWVDMVM1c0RJdktvcHJKdDFOWkx5WVFPb0tldjJyQmZIV1U3STNVWEZiT1BOeEpSX19FQUNkNnRmbjg5aTk3TXlpTXh5UGFtclplMDNzM2JwOU9wekZXS0Y2SFF5eVVtY2VWb3dZUmhOZEdidUxvZjlkM1ZqSDc2bGpsYTZPYjNlY2Z0Z01VTF96bzNod0ROblpfV2ZCc1NXaExQc19IcFZ6aU02ZWJpcjFxbEZZMmJtZzdYd0ZGdVZ4WVA2bElmNzhoVURR0gGUAkFVX3lxTE5MTkdQR1kwODNfbG1UcUVaSW1WUFEtbE5PRWQwdnR0R3BhUllNTUVFUTNMSS1FMmx6bXZSQWk4azR6RzFRLXY0TVJITjRJN2hKdGt4VElvR3ZhdWlOOGNzN091U09xc2xTRHFkWWtaQk9Ic3FFRHk4cTU2bmtxZ05sLVBpeWRZclFnOVExOFRwOGg1R2lUWTN0SEI4OWYya2Vwa3hKWDVUQUhQZTFHSnFMTF9mYlQ2dW5LZzF0Nm81Q3dJcjFJMG1IVktlaVJDOVg2VWFuT0JBdFIwTENRaFhZWXZyQmUwRnFhcWtydXR3elAzM1FfSWxJMGtGZ1Fab1FfRmJtMmwtdjYzY1Z6cDh0X3JPUA?oc=5",
-        "date": "2026-08-31T19:32:17+00:00",
-        "source": "El Cronista"
+        "title": "Microsoft confirma que la caída de Outlook también golpeó a Teams, SharePoint, OneDrive y Purview",
+        "description": "Microsoft confirma que la caída de Outlook también golpeó a Teams, SharePoint, OneDrive y Purview Minuto60",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2lYS2p3YnFKWnRycVIyenM2aHVrbWI2bDk5Vk9hS2xjWHJjUVJPOE5UaERBVTFoa1c4b3g5Tk1PTl9mZkJEZVZUNjNoY18yNmRiZERfVzlmQUwtMVRFVi1JaHROdUw4N2JTYnh0QzVCMVA4eHVzSm1VRDVEbjc3d01uRDJjZEI5R0VVTzBqbUxSRnlJQnp6eVRDTDhUTkp0QnpaMmJ5c0RLQQ?oc=5",
+        "date": "2026-09-01T02:39:26+00:00",
+        "source": "Minuto60"
       },
       {
-        "title": "The Elder Scrolls VI podría ser exclusivo de Xbox y Microsoft evita confirmar su llegada a PlayStation",
-        "description": "The Elder Scrolls VI podría ser exclusivo de Xbox y Microsoft evita confirmar su llegada a PlayStation HD Tecnología",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95T2pWcGdkelI1WFlXVDFwVG05VXg2amw5X3VIZFBrbzYtQ0c0ZHFQN0ZqMkV2eTlKQlhRWmY2OVo0Wk5iYlEtMzdydEgtTWpLWnF3M1NzekU1YWp1by16MGY3c0w5U1XSAWxBVV95cUxNZTBfSDZCV3lmTW1PVGRIOUQ5LVBtN3dMUkRoWGZRcTR4UWFaLTNwR3M5RXpmS3R6SUFGWmpyMkNLVGphUHFOdjZNTkhWM2pITW1wM3hXcGtMMWRPYWRHb2tnb0luQVpiREkteWs?oc=5",
-        "date": "2026-08-31T19:03:58+00:00",
-        "source": "HD Tecnología"
-      },
-      {
-        "title": "Un empleado de Microsoft gastó 28.000 dólares en IA en 28 días: la empresa ya pone límites y usa GPT-5.6 Sol de OpenAI por defecto",
-        "description": "Un empleado de Microsoft gastó 28.000 dólares en IA en 28 días: la empresa ya pone límites y usa GPT-5.6 Sol de OpenAI por defecto La Razón",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNjVXR1U3UDFZWm4wX284SmhYMVZQSW9nX3FPU3NHNExTMXlPNU15eENMMjR0TGlqY1lJQmtFMWVGWlRGNEJYZEZfQ1pacWZnSVVpbFo3STBwbTBuN09rclR6cWd4N1BfNEJMZVJYSWpLdFRwYjRyQVVlcnE3dzhHM056VnZjanZXb2pwQ1VNQVRNUkpmU3lwbmVrSHdObnNoNG03aE1JOGY5S1RHaFA4dGNWa0lYb21URm13MF85QWw5emxtaUZTXzFPOHNsUVhuXzhMazFmTnJXbExtTU9aazlqOVVKN2tmd1ByNVpGR2FHc01ldF8yMQ?oc=5",
-        "date": "2026-08-31T14:00:00+00:00",
-        "source": "La Razón"
+        "title": "Claude llega a Microsoft 365: así funciona la integración con Office",
+        "description": "Claude llega a Microsoft 365: así funciona la integración con Office Blogthinkbig.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkxNdjVjWnNBOTlicWFDRGVEZlBNeE94T1FpcVlpZTU5d1o5Z3FmNDNSR2pyaU9zZ2ZNemNGN21pT3VaX3pIdUNIVU5TLTM4blpSZks4NS1WMy1zbWxQTXBxZDdidTJFSC14eGtScWZSN3ZqTVpCYVBJeVhaejBNWmZwZHJwRWxJTFJCaHJvdDdBU2NJMEdR?oc=5",
+        "date": "2026-08-28T17:51:28+00:00",
+        "source": "Blogthinkbig.com"
       },
       {
         "title": "El cine y la televisión son ahora una oportunidad. Microsoft quiere aprovechar las IP más queridas de XBOX para llevarlas a la pequeña y gran pantalla",
@@ -43,43 +50,22 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU25UdGE5TF82OThBci1RSmZQMWpjSVc2N0xMVjJSbl9WR2d4XzVDQXJYTE01aDdFdHI1RVlOeE9zOXFURTJVamZQemxqdWlVc1RXZDZsaURYVW96WF9aU3Q3RjBjOXVWcmdKNmQza0EtMHlqM3NmWkU0UFVvRTJmUUhmRVpiZnM5ZURwRnJ4TzFGc2dhMW1Vd3BJX2VGQi01Ui1jdUs0T1J1clgzNHdHQmM2WlUycmJSc3pxN1RmUEtNTWFLWm9zeFNLdzJ3SVpxUjJKZEliaXhTZlJqUXZ2UDkzMk5qOEQ2Zm5DSHQwQ0E2LXPSAfgBQVVfeXFMUHlEMzFNbGtmcEp4RXh4OGVqaTdLWW1YYjFxY1hhM3BMWU81bnVQUzdmUy1ZWF9OSlNfQmtBbDZ0WDZ5dFdkRU1aU1Y5SmZmQktCTUlTY2ZaYjFyaWRrM0ZCMExwNEJuUGNucDl5VkhmRmw0MU02Q0JNQ2pzTE1FSl9Mb3ZGT045ZldsYmdwWV85NUdjQncyc1NucU1zMGd0LWVuZTB5MGs1X2NlUjRpWkptSWd3NkkwTUV5bmFpMFRkUXpxRHJNLU9qTWdhVEluVDFlM1p0akFGSmhDMVpJTEhBOUo4d01qUjVIMUdQLXgxZUVsZDdwSzM?oc=5",
         "date": "2026-08-30T17:21:18+00:00",
         "source": "3DJuegos"
-      },
-      {
-        "title": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
-        "description": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYm5uNU4zT1Y5V1hNRkFTdkNzRTZMSG01ZnI3a2RScDdxR25HeVY1bms2SXhlMm5RenN6MlItd250TTRqVllkN0FQZ0dUZndiNkpGYTVuUV9UZ2dyRlcyTTl6NXFJeFlfM290a2c5a05ZMDFaLW0wVG5PUUk3N3FtM1BPNjZaNURlWGprSHNoODA5c0RHWUZ0dXlsYWlsSXRJRDhxbzNVTnRsdDFwZGpaOWNlcDVBc0QxNVZhTFY3cWVNcGpNZDZxZ2gwRlhrbTZSeVBMR2x3YmpwWkHSAeABQVVfeXFMT21sZllRUlNiMDFEQXRiRHg3R1hBMnB2S0REdDhIYnU1bWRSZWpUcnhINXhWdWVyTmZDSjYweHR5TmpRR0J4RWxDbDQxSEpZWGVLRzl6c21tUzA3dXkxeVlnR2NGYUMxSENjdzhIcUpOOTNhcmtqQm9OOEFqUWZVU1poUzdZVEhyblJRVWVnd3ZzS3c1amY4R0tjdjc5bE5sRHBkdGRJT3I5UlVUcFJ5dnpWYTZ6NVh0QjhJd1FfZUFBd0dfbUJkVkczRkh5d0JSNUt4UHdsOFc4Q21wczBMMjM?oc=5",
-        "date": "2026-08-31T19:01:45+00:00",
-        "source": "Xataka"
       }
     ],
     "Marketing": [
-      {
-        "title": "La UCSE lanzó una diplomatura que combina Marketing Digital e Inteligencia Artificial",
-        "description": "La UCSE lanzó una diplomatura que combina Marketing Digital e Inteligencia Artificial diariopanorama.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcF9Fb01iTFY4YlNTMzhSdmF6aEdEYXhpMmVBODhsYXlJczU0bUE3S2lrbS1sSjZPd3k5c2RkaDkzUHBRdTdYYjlmUHNMbzg3VTNkYWFQZUNlamsyM0VhNjFhSkFwOEhpdFFJZkplZjdHTjZZeDhjZXBqRlBOMjc0YmxSci0xTEhjUjNXX3NpeUxxdlNvUlo3Tzc4ZFZWT2ZSTVpZaFk4M243VS1tX0ZzblVvc1dtRi1NeFdldA?oc=5",
-        "date": "2026-09-01T16:17:39+00:00",
-        "source": "diariopanorama.com"
-      },
-      {
-        "title": "Vivi Smart Growth llevó la mirada latinoamericana a Google Nueva York",
-        "description": "Vivi Smart Growth llevó la mirada latinoamericana a Google Nueva York DossierNet",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnlWaUppVjRXRlZwTzV3MENhR2JORTFZNFdPRlpERGlhSVI0SFlKTU5wY2NOS3ZUaXBvSVF4N2FEcHNMVndIb1NCOEttMmtXcF9CNFpjSGMwVTJobnZtX0FLV1pLYndzM0c5WTA3TWtRV2dQNmxzMThLY2NPU25ybjE0c3BHYUZLaFpGeGpScHk0RzRFaExrTVR2ekEteURLaFFQNGdyMUZUeWc?oc=5",
-        "date": "2026-09-01T12:54:29+00:00",
-        "source": "DossierNet"
-      },
-      {
-        "title": "Sucrédito abrió una vacante para Marketing y Comunicación: cómo aplicar",
-        "description": "Sucrédito abrió una vacante para Marketing y Comunicación: cómo aplicar lagaceta.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbUdsUkRUSjRxNVVTeU1TNjI5M1RRby1MMUg1cUFfRjhhWnVWNGNOdFJCNG5lTVdPY0MyaWY2SjhxT2xJQzlldThwdkY5UEFmQ0twNk8zZmhEZ19oN0hFOVZpNVJiVFZqUXE1QkdUTHRHcFJWOWFyVmtDRzFMcWdGU0xEWW9ibmJ3ekR3WDlIc3liZGh4QWdZV2wyYjhZNUdxal9UUWZKclZQMlBXLWdJRElyZVJ6SzFHdVVz0gHAAUFVX3lxTE5ieUpwTUdYb2dpb09xaDhTaE1nX3BhY1JUOEYwdkNpZUpYbVVrQ2tBczNDdWVmc1p0MFdhMjVIS2Z3aGhPSUJNYnNzN3pnMnJ1ZXEwbkRtNUtpeWdoT0ZKSGRYOWFnQzJPdktuU1FKcHEzUDFSdWVmTUtLNnluNkJBR0tWYy1QUkpWdUoyQlVSWWEtcmFpOGtsRHpCSjNKcnRjWnFzU0VucnhXZzVZbFJSeUJSeEhVOXNSRUcybW9RZg?oc=5",
-        "date": "2026-09-01T17:43:25+00:00",
-        "source": "lagaceta.com.ar"
-      },
       {
         "title": "CAPACITACIÓN GRATUITA SOBRE INTRODUCCIÓN AL MARKETING DIGITAL EN ARMSTRONG",
         "description": "CAPACITACIÓN GRATUITA SOBRE INTRODUCCIÓN AL MARKETING DIGITAL EN ARMSTRONG FM Renacer",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGpvM3drRjRFUko0elRiNDZ2ZF9hMU9Ha0NxMHE5QnNrZVZpZm8xZUlpdEM1dVo2ZkQ5RWtUQlV5QUVRX2dpNXR1WU9nZ3Nta2tLOGNuNWxnYzRIQWw0Q0xMeHBDSFlyV1NPRzJ2YjNzcmc2UC1IWGNocXN4UkR0a2dOSWlfaEM0MHJlWHhDaUpPNFhJeF9CR1VjOTFnQUREM1hRTklFQVhQUzg2Tm9XNHJ1X1p2dw?oc=5",
         "date": "2026-09-01T13:51:00+00:00",
         "source": "FM Renacer"
+      },
+      {
+        "title": "Social Hub analiza cómo está cambiando la industria del creator marketing",
+        "description": "Social Hub analiza cómo está cambiando la industria del creator marketing DossierNet",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEROQWJacGVmRktwMGRxaWtMLUFQRUg4OVE1MGxZMlhwVFNBZUNCSGptbEl2OFB4aHBnX3ZSbDNSd3pHOFVTTDBnU0JxbS04VFlCU0hUbS1GWjBSVmoxZUNCZ28tV05fWlhSbGhCcVdVQ0prVnNVWmpiMm5vUk41ZlJndHhXelVtN2xsbGZOMmUweFhRV202V0hsRmJtMzQtYkktXzZsYV84eW8tdjEwVQ?oc=5",
+        "date": "2026-09-01T12:59:29+00:00",
+        "source": "DossierNet"
       },
       {
         "title": "El SEO no murió: se volvió más importante en un internet donde cada vez es más difícil ser encontrado",
@@ -89,18 +75,32 @@
         "source": "La Nueva Provincia"
       },
       {
-        "title": "MARKETING DIGITAL archivos : Página 2 de 3",
-        "description": "MARKETING DIGITAL archivos : Página 2 de 3 economis.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LcS1aZXFTOEo1MTlxZ0l3LUJKdVVnNXkwRjlkSDhCMXlLODZNNHFEQjJwUlM1Tm5NdVItazZsYjlsTzlXWDl1LUVReUcxc0VjXzgya2U1VDRIb0swd292bjlScw?oc=5",
-        "date": "2026-09-01T01:00:19+00:00",
-        "source": "economis.com.ar"
-      },
-      {
         "title": "Taller gratuito de Marketing Digital para potenciar a emprendedores en Armstrong.",
         "description": "Taller gratuito de Marketing Digital para potenciar a emprendedores en Armstrong. armstrongyregion.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0dUaldkNHRXZDA4N2R1VmhFRjlMZWJaeVdveHFpWTZiYWc4cjVKS2MwakVlRmROUk5qa29EMWExODE3TVBGZm1WVTZ3enB2RXlsU2dkQ2I5elZLV2Y3S1Rnb3VGLVptSlBUMDdray0zUjBpclU2Vk9USHlaWjRpalpGUFhmVS1ubTFBRDc5UTVVYVhwWm93M25jU2ZDdkZKRXN6Tkl1aU5hUFA4UFFjcEdSV0h2X3l5NjZaUi1UMGZ1QdIBwgFBVV95cUxPV0dUaldkNHRXZDA4N2R1VmhFRjlMZWJaeVdveHFpWTZiYWc4cjVKS2MwakVlRmROUk5qa29EMWExODE3TVBGZm1WVTZ3enB2RXlsU2dkQ2I5elZLV2Y3S1Rnb3VGLVptSlBUMDdray0zUjBpclU2Vk9USHlaWjRpalpGUFhmVS1ubTFBRDc5UTVVYVhwWm93M25jU2ZDdkZKRXN6Tkl1aU5hUFA4UFFjcEdSV0h2X3l5NjZaUi1UMGZ1QQ?oc=5",
         "date": "2026-08-31T13:36:11+00:00",
         "source": "armstrongyregion.com.ar"
+      },
+      {
+        "title": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica",
+        "description": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica TotalMedios",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeHFfMzdwelRScEdOX2l3cnpHMXpWU3hQRjJKZnEyc0wwMlNWazY1ZUVUYndGekc4UER5SEc3dnNnOWZxaDB0WnpobjhjY2RTVHkwRElnYmxGbEM0NHZSS2wwTzFkUnM0VmQ0cmlnZ2NPcVN3TXVCbkx6ZWtTOXIxQ2c2YXpPdDNmRGtuUkhjUW5sTm94R2FFcUNLSjhlcEJOZ1JldVB3YkE2cHZUYVUxMXZnaDM1MFhLcHpkQjAwNl9KRFczalI0?oc=5",
+        "date": "2026-08-28T03:00:00+00:00",
+        "source": "TotalMedios"
+      },
+      {
+        "title": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital",
+        "description": "El Centro de Innovación y AGENPiA ofrecen cursos de animación, IA y marketing digital ReconquistaHOY",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVAxS0k0NnZENDFIbDZCNXg1U1lMYk93ZFpsak5FMEJnV3BUcV9HQS1Qc0F2ZkZRZmY5UDFvTWV3bmtuTnctSzRaVEVlWm1yWlV5NWtlZUYxQ1RKc1prWVhkZkd1WG5VZ0Vyc25BNXhuUGpLRHJ2V3MwOHpTcVh6UUlfTlNJMXRFT0trOU96dGZRaWozWkRoX0tULUEzclU4Nm0wdXl4LXJtR3Rqb1l6NVZDVk5PZGVrQnlFaE5R?oc=5",
+        "date": "2026-08-28T12:22:38+00:00",
+        "source": "ReconquistaHOY"
+      },
+      {
+        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 16",
+        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 16 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNYlhCUTVwTEE3b2l2NS1uY0NmR3plaDVVM05vWjlyQUppbW5mTnVhY3REWUZUcHNBZDZOUTRrQjM2Qnc3WGo3RlBIdnNYMzJTM2tOZHpHMVBsRzhiaGxsUnFYYXFYTHJHbnZVUWFZbUh2X0EwVUVKbEdraGZDcUl3OEtKSXVQZGxfTW51UUE2anBJTTRuWUJiNFhrSzRBYnFCNVJyZ29tcDVITnlELWg2b1hTZTdfeVZmRW1GVThDakVCQlpDbV9md2lRdGlKQ0I0QXMxdzdDT3VOT0E1SHVJQW92Zk5OcTdhNlpFdWtGX3JUbjBka2RZN0pmeWVFR3dCenliQmdKaW15ZjhkUXhtdmVUMWJJS1dBODBZbVYtSl9TU1J2dC1EQWh1QTE?oc=5",
+        "date": "2026-08-27T20:19:59+00:00",
+        "source": "ArchDaily"
       }
     ],
     "IA": [
@@ -112,25 +112,11 @@
         "source": "Enrique Dans"
       },
       {
-        "title": "Recuperó la vista gracias a una operación en la que la inteligencia artificial tuvo un rol central durante la cirugía",
-        "description": "Recuperó la vista gracias a una operación en la que la inteligencia artificial tuvo un rol central durante la cirugía La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQalRteGZ3WWgxN0xxbGRVOGktS0hhQjRYOEU2UEZPY2VHbkt0MUhTaGs4TFJCZENxdnJLZlBjVVI5Ql9VOF80eXZOTmV2emRFQUtJWTFwWmdGVWc3d0dOWVFSQTl0WDVDcGtCcUR6bmxKQ09SNkNNcW1wMFptdjJxeUM3UmFCX3hwZkNjMzQyTU90aF8yRDV3WUx3cjh0ZXlSdWhMbnRVUWF4alI5N2VtbHd0N0NjRXlZZUxMZzQ4S2xtSXZFQ1U5WTdQVTVrT3dqd3QyblZOaF9oQ3RPNUM5cXRqZDQ?oc=5",
-        "date": "2026-09-01T18:36:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Egresaron los primeros 370 docentes y directivos de la primera cohorte",
-        "description": "Egresaron los primeros 370 docentes y directivos de la primera cohorte Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORW4zb2JrSy1KOF9lU3NaMGtTSzFOSkFHQk5KUGx4Ny1ac0QtV2tHS0NweG11Yzg5ekdoX1pNNi1FWXBUNWdVQ2YxdGhLazdBd1RSREp3QjZjN0c4ZnhtMmN0SEItdU5Gd0ZCamZmdFJRcG15OExzd194T29IQzZfRUc5NHl3d0dyeWVDUlVBX05KZDVOQklyUmhFRTlzVHRHWEZuVFJiN2ZzVC1SbTVhR0pRV3BzTVJp?oc=5",
-        "date": "2026-08-31T23:30:00+00:00",
+        "title": "“La inteligencia artificial es un aliado que ningún docente puede dejar de lado”",
+        "description": "“La inteligencia artificial es un aliado que ningún docente puede dejar de lado” Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY0xtbHZqVmtjVFNSajlrRGcwS3V4bGRsSk5McEhuNWZvd2duaVU5SEppRl9SUzlESlpCT0FQTWFJU2pDc2E1WGdlanhMOVlEdGM0QXpiNFN3Nzd1VHpDU21YMlBRLTFuRHNNVUlLa19TOEJsejZQQUpNUVVXRjczd0x5M0xqWUttTm5JY0FJamx4U25WbF9jWFpJemdzNEk5TzlMQXNTd01zM29MeHVUSTFJdHlBVXFmMVc3Z01pb19FanM?oc=5",
+        "date": "2026-09-01T20:40:00+00:00",
         "source": "Agencia de Noticias San Luis"
-      },
-      {
-        "title": "Sintropología: “En las universidades esto entrará como entró internet, primero como una asignatura rara y después como una carrera formal”",
-        "description": "Sintropología: “En las universidades esto entrará como entró internet, primero como una asignatura rara y después como una carrera formal” infobae.com",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPU2kxRE1TNmI1NVczQnBxUUxrT1JWRUptX3NMVHd4RDN2clQ3aVR6NXBWT0l2TS1vR1M1WDhzTFZpdTVXWmYzMDlCX29VZXdUX3lhWDRraDBVdU1wRHhpSWQ3NGdqVXhmMy14UjgxYWhYMXc3am9QZnNwaUFqY3ItTWl3R05fYUJWVGlQLThqV0k3aFVoR01aZ1VjN3FXdE1CTmt6VGtXRi1FeElyWGtJbFZ6QmowOU9YM2pyQTViXzZvRXVwbEYyZFFneTBDUDNTVEQwZnRwNllOWHpEd0VzMkRvV3J1OWJsYWViRzZwUVpDa2xFcTcyS1dBQkxJNnZpeHd2cnJsMllPU0o10gGnAkFVX3lxTE81LWstMFRPTlJfVkY1YktCa3VCLWJDNmhneWVRd0k4ZGhXX25OM08wSnhqVjlfeU9oUklVNU1ucjJJbFpvdWVCbWtEbGFIMG5YU042dVNLTE5pY0h1SU90TXJDZGNDOTA5cVBTeGtVcUxfSjBsUGxfX2cwTTBRSy1JbHJLdlpaOVgwdHl0Y29sTGlDckdvdWdtZ05UZGxBUmNWTi1CX3lBVDVRenFhY2Q2YTdrUEFwQjE3T0RSTlZxZ3ROWDVRT0p4c2VoUnZ6aTMzMk1jVGpYZkNqaWtoOFhkTXhibTR0aDJJU3VVazBJTTdfZDd3b01SdTZQcWNCQWJLN2d1QXpoUnBOU3VPeFJyNVFLMy1qZlpPaFlWdXJmZFlTbGQ1OFE?oc=5",
-        "date": "2026-08-31T05:12:33+00:00",
-        "source": "infobae.com"
       },
       {
         "title": "EL ICCTI CONVOCA A UN NUEVO ENCUENTRO SOBRE DISEÑO DE PRODUCTOS DIGITALES E INTELIGENCIA ARTIFICIAL",
@@ -140,28 +126,35 @@
         "source": "Gobierno del Chaco"
       },
       {
-        "title": "Docentes cordobeses podrán capacitarse en el uso de la Inteligencia Artificial de Canva",
-        "description": "Docentes cordobeses podrán capacitarse en el uso de la Inteligencia Artificial de Canva · Gobierno de Córdoba",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmFwVmk3N0lzd1NUY2RCRmNGaTFhalpGYnREaERYQ2pQRlYtcFJadkk1LW51QWJBNDJrR0RCZVRZTkNiWGhaZDRPTmNWbWFVc2FodDZaQnBCMU1zZ082NkxnanEwazA1b3dkNS00aTREWk5acE9Rd3hOSHdtVlMweEVtY3BXNmFuQUZtVGVoZVNmNnF4Z3ZlSlVXQXZvaVFLSUhZakJxUy1tQi1FbVJCVWZKR19uTV8tZE9QWVhHWWFFZnRL?oc=5",
-        "date": "2026-08-31T11:50:00+00:00",
-        "source": "· Gobierno de Córdoba"
+        "title": "Sintropología: “En las universidades esto entrará como entró internet, primero como una asignatura rara y después como una carrera formal”",
+        "description": "Sintropología: “En las universidades esto entrará como entró internet, primero como una asignatura rara y después como una carrera formal” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPU2kxRE1TNmI1NVczQnBxUUxrT1JWRUptX3NMVHd4RDN2clQ3aVR6NXBWT0l2TS1vR1M1WDhzTFZpdTVXWmYzMDlCX29VZXdUX3lhWDRraDBVdU1wRHhpSWQ3NGdqVXhmMy14UjgxYWhYMXc3am9QZnNwaUFqY3ItTWl3R05fYUJWVGlQLThqV0k3aFVoR01aZ1VjN3FXdE1CTmt6VGtXRi1FeElyWGtJbFZ6QmowOU9YM2pyQTViXzZvRXVwbEYyZFFneTBDUDNTVEQwZnRwNllOWHpEd0VzMkRvV3J1OWJsYWViRzZwUVpDa2xFcTcyS1dBQkxJNnZpeHd2cnJsMllPU0o10gGnAkFVX3lxTE81LWstMFRPTlJfVkY1YktCa3VCLWJDNmhneWVRd0k4ZGhXX25OM08wSnhqVjlfeU9oUklVNU1ucjJJbFpvdWVCbWtEbGFIMG5YU042dVNLTE5pY0h1SU90TXJDZGNDOTA5cVBTeGtVcUxfSjBsUGxfX2cwTTBRSy1JbHJLdlpaOVgwdHl0Y29sTGlDckdvdWdtZ05UZGxBUmNWTi1CX3lBVDVRenFhY2Q2YTdrUEFwQjE3T0RSTlZxZ3ROWDVRT0p4c2VoUnZ6aTMzMk1jVGpYZkNqaWtoOFhkTXhibTR0aDJJU3VVazBJTTdfZDd3b01SdTZQcWNCQWJLN2d1QXpoUnBOU3VPeFJyNVFLMy1qZlpPaFlWdXJmZFlTbGQ1OFE?oc=5",
+        "date": "2026-08-31T05:12:33+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Cuando la inteligencia artificial decide qué CV llega al reclutador",
-        "description": "Cuando la inteligencia artificial decide qué CV llega al reclutador La Nueva Provincia",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRzNuYnpWd0RiUG5tVUJpdGltYUVMUEZqZzIzb1BfbVVKUFhjWnZMckVFay1XRmJTeS0temZxQ2VxTmw0eVp4dVBtSURpS09KdnVsbFF1dVp6aVVjV1hjNGxaOUpWaDBuYVhXamlZWEVtT1drbHppTFowc3Y3RW0yVnhjdmkwSll6VXlfendnZHp2a3p5bXJER3dnd1FhbkpOTHIxVFRmZkRIelpZNDZrRVhhMA?oc=5",
-        "date": "2026-08-31T08:10:55+00:00",
-        "source": "La Nueva Provincia"
+        "title": "Cuáles son los tres signos con “más suerte” en septiembre de 2026 en la Argentina, según la inteligencia artificial",
+        "description": "Cuáles son los tres signos con “más suerte” en septiembre de 2026 en la Argentina, según la inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEdrdWI1bGVha29sOTRtdk1uNmJqbWVwMTk5aFZGaHNkZVRHaTdhSkRVX2ttcmxJaW5VMEw2YXhIcnNraEZGYnJ0MmhMQVR0MElGcFhkWTJxdWxJOFFYcHlYRHAzbE9KcERYMkV1dzdCWlhZZW1DalYyUHVLbkRWMFpQM3pVeXNwSUhuNzVfaUVLNENHZDBfUHU1Wi1JMXJIX1gxQmcza0VUMnAwUlVFRjZZakFxcnN5bXgxemwxNUxqN0Zybnc4OEdxcjFhOGpBekc3RnM3QQ?oc=5",
+        "date": "2026-09-01T10:52:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Los que no utilicen la etiqueta correspondiente verán reducido el alcance de sus publicaciones, advirtieron los responsables de la red social. - TN",
+        "description": "Los que no utilicen la etiqueta correspondiente verán reducido el alcance de sus publicaciones, advirtieron los responsables de la red social. TN",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTERGN1NoOGxqUklZVjhzSDJSSDhSd1RDOHVFaktMS3lxVUg4ZWRoTkJVcU4xVUVyeGo5b2YwbEVpTUVpYW4ya3YySHFac0NPWUQwYmt1T25VaWh3QUZPMnE3aWhnaVBUNTI1Z2pmQ010OFJobkQxWVBiWU9YbVdWY05sbjdOVTFvTW9rdEd2RWNHUFJZcThwQkpFTEVxdTNCTWhSeE5kb245OHdwbjJXcFVhSEc0NENXRkJhVVVqMlZ0V3BhQUl3anBkcXEzVy14YmfSAeYBQVVfeXFMTVN1cVNvZXVSUi1qYWlJblhtVGlNa3lrQ2s0TXRLdjVxZ2pMZVBYOEl3WnMyY1ZSYjlLdlVzVnNOQmtaaERubDZXX1ZvOF9MMnNTNDhYMW1IeW1COHdwY2NCcHhfV2F5eVV2N3NxMXctOXl0OW1DRURjUXVXVUFoX25SMmVWNUFqUlNLOXNSc0xnS0pHeV95Ync5YXl0TFYzNXhuVlNYU1dEd0taQXRCSnpHXzFTNm9oendaUERHNzNXaEV1NXpWMXZGTFppdzZlQmNHcDI0blQxVjV1aFBwRHlSbXVELXc?oc=5",
+        "date": "2026-08-31T17:26:21+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "La inteligencia artificial ya puede comprar por su cuenta: cómo funciona el nuevo comercio entre agentes",
+        "description": "La inteligencia artificial ya puede comprar por su cuenta: cómo funciona el nuevo comercio entre agentes Net tv | Aire Fresco",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUlJNajVDbzcxQllGZXFUbXNiWFV2cWQ2SzEydUdJSjItZ1hyYkdENWttTTZkU0dRdmZtSzlvX3V6aG51bnBZT1JCSzlUNkRwWXZfM0NDcklDVjlwQmF3RlRSb3NwcmUwbVdyaUdpelhZUmt5XzZmNURkUHBqOXhTZnh1SklrR2haUzcwVm9WLUd0YjNWaElrc0JTYTdmX0hzWGVMdDZnaHFvemh3X2MyYzM5VldfcjdkQV9KX0VOd0dXTXI2VnpMSWRPT2R2WlBfRlF1cElLSlNKTHg1czFIT0ZOQ1ZVZ3RGenI0dXNBQnF3b3YwN2h5OQ?oc=5",
+        "date": "2026-09-01T15:15:00+00:00",
+        "source": "Net tv | Aire Fresco"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Vaca Muerta no entra en Vaca Muerta",
-        "description": "Vaca Muerta no entra en Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1JieGh0bDJkS1lNU1hSOE8tNEYtSGRfamlxOGFaN3VIeGZlVlNXVE5Ib0x5SWtGTjdqMUU4czZqSEtpSlBKVHd5bWp4cU5tRzZBQk1TTXVSZzgwWVk2UEpheEFEdkFqWE5DdzBaNV9ZUDR5SHF4MlJaYmZaZXkxaw?oc=5",
-        "date": "2026-08-31T21:02:19+00:00",
-        "source": "Página|12"
-      },
       {
         "title": "Vaca Muerta Oil Sur: cómo es el cronograma de la última etapa de la obra marina que finaliza en diciembre",
         "description": "Vaca Muerta Oil Sur: cómo es el cronograma de la última etapa de la obra marina que finaliza en diciembre econojournal.com.ar",
@@ -177,6 +170,13 @@
         "source": "La Nación"
       },
       {
+        "title": "Houston y Vaca Muerta: por qué el desembarco de una “nueva” petrolera mediana puede ser el inicio de una ola de inversiones de EEUU",
+        "description": "Houston y Vaca Muerta: por qué el desembarco de una “nueva” petrolera mediana puede ser el inicio de una ola de inversiones de EEUU Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3E3cDhYXzcyRW9ua0tyemJNeHRaRjNJOFVkUngzRDh4dlZDREl2Vm9ieXN3M3JjdFo5by1qMjkzR0lidzJHTFh6NVBkU3dQUWl0LVM2a3BEa3htTGYtTXRENjVZd3ZhMWFFRUxNSXdJVFNpT3pOQ05VdUxtUUJ4S3ZTZTREWlFVUDUtc2N1emFFRFNIbWRxSHBfaGlxZkF1N01rMmluN2U3dzhHZlFQakxna1kwdURwZGhvTnNfQ1hpVklyNkVDcHpoeEJVNHIyMk80Skp5ZHZjRHVDVU1nbFd3XzJ5QnM3V3NLNkN6dENZQjlLeUhlMzRtMkx2QllDREtv0gGeAkFVX3lxTE1aQWFnREY3YTE0RVJWVV9jblhaa1JhTmV2R2VrNTNXbEZUcUxhYk1DWWxjOVZTQUNSbS12LU4xX1VjYi1YM1hKWV9lUTJ6cnhrWmlUeXo2UHF6VXgxQTFOOU9kOXU4MFgzYTl5MEl2VjAwdlN4Ym5EVG1oZlFMYzloWC0xVTZRMi1Memd3c2c1eHZ5dFB6WVFXMVhZT21TcFh5ZWo4WkJrS05PVmsxekh4a1BtSzV2ZERGSE9wLU05MnZ6Qld4cjlGU0NtVzU3VUJiMHFYQ1pJTXBvMHVzMFdNaFh1OGZMbXpQT1RiOHRLUVN3NW9KV1Fwak1OSTRVdk5vWTZyZXpvSF81MFdnM1ZJY1VpNHJKSGNFZG1KRlE?oc=5",
+        "date": "2026-08-31T06:20:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Las principales claves que definen el éxito de las inversiones inmobiliarias en Vaca Muerta",
         "description": "Las principales claves que definen el éxito de las inversiones inmobiliarias en Vaca Muerta Ambito",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ21CdjBIVjRoTVF4ZFo2aWdNSUhHMzl2YmJlaThWZXRKSzhnb2VDc05GbzVqbUZBR2h2Nkdvcm9tS3kwd25iN2gzWUhVUDFQSWhxYll2TDVnQnZVYmR0VjhocUZVMUt3MnFWX3RZLVRKaU9ib2lFdHlDWE1Qa2lRVTBXTFFhSXlobXBLMmdkUVpMb0FCb0NyN3NnNlFVTkh2N2VXcFB2RkVEeE1LWHRrd2hmMGRYLXpI0gG-AUFVX3lxTE9yZTNMOUx0Rlp6ZEIwaEQ0QWpCcE52akpLZFg4OC1zTkFEZGI3VE9LM0dva3VSRU1MWEVoaGhtTWxmX3RwOHE1TVlnUkVBckZSdmFaNG5iY3R0UG1tMEdqNG1fQWR2ZEZ3NkdzY2dBNFZIQ2Q3ZGYwNUFoSDBYcHdlV1p5UGViUlR6SHFSRldET1FhUjVMc1MtSFdnUWJwU3VqcTBaZjFfQkpVYjF4alZHa09FWTRpM1EwNFpOOWc?oc=5",
@@ -184,17 +184,10 @@
         "source": "Ambito"
       },
       {
-        "title": "El peso de Vaca Muerta: la industria energética paga uno de cada tres salarios privados en Neuquén",
-        "description": "El peso de Vaca Muerta: la industria energética paga uno de cada tres salarios privados en Neuquén infobae.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHpVckNILVdWWi1xM1RjbGVNQ0thS1o1QjVvOGlaUDZjRmdURXJnWk1vZFZHaTdscG91aDNPd3hpMnBtakdiVG9fREdwWGN0cHBrSmxpTHIxUFcxd2lIMy1FZkdtUzBoSW1NSGYtLWk1c0d0elByVmdHdVpJQXROMlVHdHNoaGJWM1JoczktUzAxMXNLdE1IUWtxcm9ZMnkyWnl0TGZqQWlVMVFNckoxVHF5bWxvbnJZY3Z3a1dTaExHclB3Q3pPUnZYVDlUNUk5bnRmQmlfTV9FQdIB9AFBVV95cUxNamhCV0gtWVhuNWt3WHN3T2t2REE0WGk3NVhnTnVMYVN4bVlsRDJPX19XcXhUQTc0SDlCbU5iUUVobmFSSW83WXhObVRnV1RqeEQwaVNqa0JzZllnSk1aT3g2MEdOaVZYNmhWQ2VCbVJ4Y0QzVmlWS2dwX0tLVUNkRzhhdHVYa0VGSWQxWFdlSldVN1I0NDROcTI1X0hncXFHTjJYVkM5MEU3ZFRVMk5MTDM0cDhxNTRFVF9OMEVTTnV2SzBwNm9pSHh4N3NSelFueVlqbDV2SjkyZ3EyTmYxTFdmTFBzZzliWmRoWERoWTViQjAz?oc=5",
-        "date": "2026-09-01T06:43:00+00:00",
-        "source": "infobae.com"
-      },
-      {
         "title": "Shale Day en Houston: Vaca Muerta llega con entradas agotadas",
         "description": "Shale Day en Houston: Vaca Muerta llega con entradas agotadas Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1U2NXo3NEk5WW1xYVRidHptZWlxR05peEx0ZU4wSHlXdDdMVWs0SzdrSEhaNUhmVTYyekNxcEcyX0VQU2ozYjhqR3pHd3huS1poMXBQdFlqdlR6eFM4VXNOZElURmlDTEYzV0tia25qbjBSSDFLQXBXYTdvcWJudmNIbVBWa1lfalhtZTJEWDRndVdoaERrQlk0YW1iY0pUeWtV0gGoAUFVX3lxTE1OalRDVG1ZUlRRQzRHd1Zqei03M1g4NjJMclhHaTFSOWk0aWNNektwQUNpdDd5ZmRWSmF2QlNWVVlrN0FWSmhNeXBRU3RZcVNtQ0VJSG1WcGZsNDFXbkFTVGtGdnpFckV5V0dKRzAyQmtsQ1p2S3EwSlY1MXBsNWpxUXVZSU1GZlVkSzlEbDJ0d2dITlJZNzJvQTBmU19pSl9Jdlg2SDNWQg?oc=5",
-        "date": "2026-09-01T15:16:27+00:00",
+        "date": "2026-09-01T15:16:00+00:00",
         "source": "Lmneuquen.com"
       },
       {
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWFtaVFHbG5IOW5Lcnk1YnNGc0VtY3VkYm8wU3VTdGhFSWotSkhlSnZVZmctR214VjZBMkprbkRiS1V1V3hhNm5aTUlMZGFYcHVfY004UlQ3eHBJZ3dNa2NwZUVhaEtCT0hqQVpEeGsxUWN5NndnU2phVnNWcWNhZ2Rrc0xKdGhBT29fRjdUVkNzSUUzR1NuY3BzYWJXaHYwSmhxRmlHQkFmdERxbXF3Q0dsTFptZHFiT2dWVFR4RnVSd0NoLXd0bnQtejdEVmJwc1E?oc=5",
         "date": "2026-08-30T09:00:51+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Nuevo récord de petróleo en Argentina: siete de cada 10 barriles ya salen de Vaca Muerta",
+        "description": "Nuevo récord de petróleo en Argentina: siete de cada 10 barriles ya salen de Vaca Muerta bloomberglinea.com",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNDB6QV9CVmtTbnFMRTdjbnNWRjI2dE1YaWstUWVkS3AxWkpNSVhoX2tvNVFQdFlhODBoaUZpaWNBTlBfcFJPYXJDcXJVa3kxUlhpUEtDVm1Db3lsMG9XRkNtRHdDV0Y4ZDdTRHo1Ml9xNVozdkJfSHFKOGstOXIzUEM1Sm56eHJvdXJBaTRtejlIcHc1eHdiWnRPUUtUYU50WmpRdElKbWg3UXR6b2l0SGZMSXlkZ1NpSVdEMXhLbVFaSFFXeTNoNG9NdmtDZ20xOVNIZDlaeUpQYzTSAe8BQVVfeXFMTnJnNm5rX3NTWnpEZXhPVHNxaS1HUzM4Wmp4ZFBHLW5WOGVObl9hMU9idUgtWExRck10emN4aTU1Z1ozR0c3UmFMQkZwQzZTNVpKX0tkX0Q2S3NWNGZuNEpSZjNCMHBubmtpZ0ZOc2xrbmdyYnpqVlc0d1dXYWI0eEFhT01uRXFRT29MWXpOZWIxNFZ6ejUxaS03LUVtSWxvZHZ5NElsY0tjcFQzNUxZWEZiZ1BuOXZZUzVjcEswd2xtUEU3MmtSM2hKMmgtei1ldVVuMUdwWC1yQmNJVTdxWHdwMkFpTV96ZUpQeUM0NTg?oc=5",
+        "date": "2026-08-31T16:42:41+00:00",
+        "source": "bloomberglinea.com"
       }
     ]
   }
