@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-09-02T10:25:31Z",
+  "updated_at": "2026-09-02T14:53:50Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Soberanía digital: el control que impulsa la innovación",
-        "description": "Soberanía digital: el control que impulsa la innovación Microsoft Source",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzJFM3B2Z1NqUXRocktoU3hqa0FkU3lUMVdvRGhkQTdlc283eGtxUFNIc3lJc1p0ZmRkdVIwMWlkSV9BaVBjZ2lFVmxsMTNmT2NrakYyX2pLQmhlR1RmUVNMNldvVVVPWGFRWktYdlpjcUhBUTFzWEFMcWFkQXZYWnBvTk5rTXNmVnZYQURsQmt6cmMzcll4d0dndUN6c0dTMlI4QXZnRWJGUjM4UkpPYw?oc=5",
-        "date": "2026-09-02T10:15:27+00:00",
-        "source": "Microsoft Source"
-      },
-      {
-        "title": "Microsoft emite alerta por nuevo ataque a Windows que usa captchas falsos para infectar el equipo",
-        "description": "Microsoft emite alerta por nuevo ataque a Windows que usa captchas falsos para infectar el equipo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMHRGaHNFN0xmNUZrUW9uMXZ0Q2NCT2JtWTIyaGxlTFpJb19KX2psN3dKMWFtaG5kSEtsTEZuWUs5amtWRlZCTUpsUlBuVDhMbktNZFNzWlZoOVBwS0RiaHl0RThHeDlXMWNrQ0pkNDF1RUdTS1JkUFowV3U0NWVzWm9yUG0xa3lwcE5Hby02ZmFTZXlUaGdmRlFiN0xOQUlIbFV4M0lsZzNNckZLTnJpbVEtR0JSUHBEUENnSm42TjlJa0dNVTIydm85blhJQmVVT0QxUHNB0gHwAUFVX3lxTFByYjRSUkQ5SDZ3SkJwN1dBVk9BM21rem8zdkxjQVJKU2lrTTU0T3E5eDA2VkRxU0ZaZFBtOVkzZkZTVllNSnN4dXlMamRKOHVJWXRSSTV6WFV0ZkxNMldVV2xReU1jQTNwcW8yS19MNklzUHYzZXBOM2trWWR3Smg3akp1dmFxQ0g0WnFNOEZybmZqNEhiRmFJLXVoazF2b3NUNVBpLTFyTElOdkJBYlRRZzgxUmxMNExLV0g4VnRUZGpILVpDdWFBQjVLbG1pM0FRTm9tZkFvWElwVk1ZeUdYOVBuS2lIQnZabURXNFdtaw?oc=5",
-        "date": "2026-09-02T02:37:56+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Una actualización de Windows 11 modifica el puntero del mouse y genera problemas: cómo solucionarlo - TN",
-        "description": "Una actualización de Windows 11 modifica el puntero del mouse y genera problemas: cómo solucionarlo TN",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZFhRS2xlTUZIUGg5aHUySndoQkczRGVxVjUyZ1loV3RKUTlqUXBSUjJ2b05UbmllTmpxdHVHc2ZHUXFvVnhmS0NnUHAyNXg2TWk0LVFsSUFsUkpMRVVHVVRpM3RpYXZnaC10MHBuMlZKNWlhcGczMHN5T0ZnUDZmOFpoREZKc2ZPVi0tdVZKMnQyUTJVSjE5MTItV3JHODFzZ3FzOHZjOE53cXpFSjBJWHNGSm5nc2hIcjYwTXhKUkQyeTdDTEhral9pazN6MUs1cVpZQ2lRaktILVl40gHwAUFVX3lxTE1kbzhJcmQ1RW5LME5yWF9waVNyRVJuUmxlcDJybTdYYW4ycXhvN0VkbXZWR2U3YXFhOFh4RTgtdXJneDFxVWRSZFBLeXNwaWF3Ym1DWjQyRDFKcUxGQnlVdVN5WHQ2TElUTGIxZEdQd3NSX1lZMXNGOC1yeExENC00ZktNdS11Q3pCSkExT25kU0w3T19OQ0ExNHhhMlZaNWpsMnBoMUFNSERKLWY3LU1vRGwzSWZjZ2lYNGx6WjZvdlVhR3Z2VUh3d3NuLW1qcGRKc2pKcVdqUTFWXy1VTUZOaFdVRDhJVjFJRHg1aGRsYQ?oc=5",
-        "date": "2026-09-01T19:36:28+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Opera pierde el recurso judicial contra la exención concedida por la UE a Edge, de Microsoft, de las normas de la DMA",
-        "description": "Opera pierde el recurso judicial contra la exención concedida por la UE a Edge, de Microsoft, de las normas de la DMA TradingView",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxbkt1aUJrYmdwQ2g4aGk0aXhtQThVQWljTVVIOGx1UXJfc3FLVHNYeXA2TjUxRjhzenBfb3FySkNLdk15d1VFOThWVlJ1ZTJ0MlFmVGpWdHd5ZEhPX2VZZWthOTZYMG1GZEtYU2xYRGdralFlYXR3?oc=5",
-        "date": "2026-09-02T08:13:31+00:00",
-        "source": "TradingView"
-      },
       {
         "title": "\"Tenemos una ventana de tiempo limitada\": alerta de OpenAI, Google y Microsoft a los gobiernos sobre una nueva ola de ciberataques con IA",
         "description": "\"Tenemos una ventana de tiempo limitada\": alerta de OpenAI, Google y Microsoft a los gobiernos sobre una nueva ola de ciberataques con IA Clarin.com",
@@ -38,11 +10,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Claude llega a Microsoft 365: así funciona la integración con Office",
-        "description": "Claude llega a Microsoft 365: así funciona la integración con Office Blogthinkbig.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkxNdjVjWnNBOTlicWFDRGVEZlBNeE94T1FpcVlpZTU5d1o5Z3FmNDNSR2pyaU9zZ2ZNemNGN21pT3VaX3pIdUNIVU5TLTM4blpSZks4NS1WMy1zbWxQTXBxZDdidTJFSC14eGtScWZSN3ZqTVpCYVBJeVhaejBNWmZwZHJwRWxJTFJCaHJvdDdBU2NJMEdR?oc=5",
-        "date": "2026-08-28T17:51:28+00:00",
-        "source": "Blogthinkbig.com"
+        "title": "Microsoft emite alerta por nuevo ataque a Windows que usa captchas falsos para infectar el equipo",
+        "description": "Microsoft emite alerta por nuevo ataque a Windows que usa captchas falsos para infectar el equipo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMHRGaHNFN0xmNUZrUW9uMXZ0Q2NCT2JtWTIyaGxlTFpJb19KX2psN3dKMWFtaG5kSEtsTEZuWUs5amtWRlZCTUpsUlBuVDhMbktNZFNzWlZoOVBwS0RiaHl0RThHeDlXMWNrQ0pkNDF1RUdTS1JkUFowV3U0NWVzWm9yUG0xa3lwcE5Hby02ZmFTZXlUaGdmRlFiN0xOQUlIbFV4M0lsZzNNckZLTnJpbVEtR0JSUHBEUENnSm42TjlJa0dNVTIydm85blhJQmVVT0QxUHNB0gHwAUFVX3lxTFByYjRSUkQ5SDZ3SkJwN1dBVk9BM21rem8zdkxjQVJKU2lrTTU0T3E5eDA2VkRxU0ZaZFBtOVkzZkZTVllNSnN4dXlMamRKOHVJWXRSSTV6WFV0ZkxNMldVV2xReU1jQTNwcW8yS19MNklzUHYzZXBOM2trWWR3Smg3akp1dmFxQ0g0WnFNOEZybmZqNEhiRmFJLXVoazF2b3NUNVBpLTFyTElOdkJBYlRRZzgxUmxMNExLV0g4VnRUZGpILVpDdWFBQjVLbG1pM0FRTm9tZkFvWElwVk1ZeUdYOVBuS2lIQnZabURXNFdtaw?oc=5",
+        "date": "2026-09-02T03:32:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Microsoft expone el divorcio tecnológico en México: la base laboral abraza la IA, mientras la alta dirección se frena",
@@ -50,15 +22,64 @@
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbUszRTRZTlB5eE9ORGZ1cHlWbHY5RnByRlVfQ05zVGUtenhmOFR4eXlVc0t1LWVDMVM1c0RJdktvcHJKdDFOWkx5WVFPb0tldjJyQmZIV1U3STNVWEZiT1BOeEpSX19FQUNkNnRmbjg5aTk3TXlpTXh5UGFtclplMDNzM2JwOU9wekZXS0Y2SFF5eVVtY2VWb3dZUmhOZEdidUxvZjlkM1ZqSDc2bGpsYTZPYjNlY2Z0Z01VTF96bzNod0ROblpfV2ZCc1NXaExQc19IcFZ6aU02ZWJpcjFxbEZZMmJtZzdYd0ZGdVZ4WVA2bElmNzhoVURR0gGUAkFVX3lxTE5MTkdQR1kwODNfbG1UcUVaSW1WUFEtbE5PRWQwdnR0R3BhUllNTUVFUTNMSS1FMmx6bXZSQWk4azR6RzFRLXY0TVJITjRJN2hKdGt4VElvR3ZhdWlOOGNzN091U09xc2xTRHFkWWtaQk9Ic3FFRHk4cTU2bmtxZ05sLVBpeWRZclFnOVExOFRwOGg1R2lUWTN0SEI4OWYya2Vwa3hKWDVUQUhQZTFHSnFMTF9mYlQ2dW5LZzF0Nm81Q3dJcjFJMG1IVktlaVJDOVg2VWFuT0JBdFIwTENRaFhZWXZyQmUwRnFhcWtydXR3elAzM1FfSWxJMGtGZ1Fab1FfRmJtMmwtdjYzY1Z6cDh0X3JPUA?oc=5",
         "date": "2026-08-31T19:32:17+00:00",
         "source": "El Cronista"
+      },
+      {
+        "title": "Bill Gates, cofundador de Microsoft, sobre la Inteligencia Artificial: \"No se trata de que la IA sustituya al ser humano, sino de que lo potencie\"",
+        "description": "Bill Gates, cofundador de Microsoft, sobre la Inteligencia Artificial: \"No se trata de que la IA sustituya al ser humano, sino de que lo potencie\" MARCA",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVi1QVmZsd3d2S1FXcmNCc1BRaU56blhWV0hsT1V1OHU0Ml85Ulh6QkxVVTBOVnJWbGxGVUtYVnR0X0VTaEl2NVhrcHlwOXJaZWVUWm9uSEd6S0hkVkJ2QTBXNjRvQ0p4YnF2Z0J0MlIyR1d2U04yVWswUk9XaDU5TFp3NVM1Y3ZMRV9NaDBHQ2ZhOVBCdEJJUzZaM1pkSGRJbU9lQWhKcXktUzYtUFc0S2xwS0FuZG1kZ2x0b0VfckdtVkJUcHFNcVoxOGxSY0dycDdYUGNHdHRJSGZEQVM5amlxQWxKaGRpMWfSAeoBQVVfeXFMUGowb045UEM5RmljRkVGS1BZbmRQSE1RUVJVUnMxeFhBZUI2dU1LQ2hZUEhBU3BwSERTVnZiY1ZxdDhqYzNCM3RBd1JZN3Z3Ny12eXR6SzZIVEptTm5jZk81MkU3WmxwY3lYbmFQd3N4dkJPMXU2MzZXbW1ZVTAyMHFpaVlvYWcwZU9MMlFxVnRWZ2dSaVczUTR5TGphNlotX0tVVFRXV3E2Y2pTVUlVV2VWSm1qZGl0cE52bVZXMXhWeXRvT1JCQXVLb2gtUHZXUFFrUjh1RG1sazg0LU43emZrZUd4ekNyVU13?oc=5",
+        "date": "2026-09-02T05:01:40+00:00",
+        "source": "MARCA"
+      },
+      {
+        "title": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
+        "description": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYm5uNU4zT1Y5V1hNRkFTdkNzRTZMSG01ZnI3a2RScDdxR25HeVY1bms2SXhlMm5RenN6MlItd250TTRqVllkN0FQZ0dUZndiNkpGYTVuUV9UZ2dyRlcyTTl6NXFJeFlfM290a2c5a05ZMDFaLW0wVG5PUUk3N3FtM1BPNjZaNURlWGprSHNoODA5c0RHWUZ0dXlsYWlsSXRJRDhxbzNVTnRsdDFwZGpaOWNlcDVBc0QxNVZhTFY3cWVNcGpNZDZxZ2gwRlhrbTZSeVBMR2x3YmpwWkHSAeABQVVfeXFMT21sZllRUlNiMDFEQXRiRHg3R1hBMnB2S0REdDhIYnU1bWRSZWpUcnhINXhWdWVyTmZDSjYweHR5TmpRR0J4RWxDbDQxSEpZWGVLRzl6c21tUzA3dXkxeVlnR2NGYUMxSENjdzhIcUpOOTNhcmtqQm9OOEFqUWZVU1poUzdZVEhyblJRVWVnd3ZzS3c1amY4R0tjdjc5bE5sRHBkdGRJT3I5UlVUcFJ5dnpWYTZ6NVh0QjhJd1FfZUFBd0dfbUJkVkczRkh5d0JSNUt4UHdsOFc4Q21wczBMMjM?oc=5",
+        "date": "2026-08-31T19:01:45+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "El cine y la televisión son ahora una oportunidad. Microsoft quiere aprovechar las IP más queridas de XBOX para llevarlas a la pequeña y gran pantalla",
+        "description": "El cine y la televisión son ahora una oportunidad. Microsoft quiere aprovechar las IP más queridas de XBOX para llevarlas a la pequeña y gran pantalla 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU25UdGE5TF82OThBci1RSmZQMWpjSVc2N0xMVjJSbl9WR2d4XzVDQXJYTE01aDdFdHI1RVlOeE9zOXFURTJVamZQemxqdWlVc1RXZDZsaURYVW96WF9aU3Q3RjBjOXVWcmdKNmQza0EtMHlqM3NmWkU0UFVvRTJmUUhmRVpiZnM5ZURwRnJ4TzFGc2dhMW1Vd3BJX2VGQi01Ui1jdUs0T1J1clgzNHdHQmM2WlUycmJSc3pxN1RmUEtNTWFLWm9zeFNLdzJ3SVpxUjJKZEliaXhTZlJqUXZ2UDkzMk5qOEQ2Zm5DSHQwQ0E2LXPSAfgBQVVfeXFMUHlEMzFNbGtmcEp4RXh4OGVqaTdLWW1YYjFxY1hhM3BMWU81bnVQUzdmUy1ZWF9OSlNfQmtBbDZ0WDZ5dFdkRU1aU1Y5SmZmQktCTUlTY2ZaYjFyaWRrM0ZCMExwNEJuUGNucDl5VkhmRmw0MU02Q0JNQ2pzTE1FSl9Mb3ZGT045ZldsYmdwWV85NUdjQncyc1NucU1zMGd0LWVuZTB5MGs1X2NlUjRpWkptSWd3NkkwTUV5bmFpMFRkUXpxRHJNLU9qTWdhVEluVDFlM1p0akFGSmhDMVpJTEhBOUo4d01qUjVIMUdQLXgxZUVsZDdwSzM?oc=5",
+        "date": "2026-08-30T17:21:18+00:00",
+        "source": "3DJuegos"
+      },
+      {
+        "title": "Un empleado de Microsoft gastó 28.000 dólares en IA en 28 días: la empresa ya pone límites y usa GPT-5.6 Sol de OpenAI por defecto",
+        "description": "Un empleado de Microsoft gastó 28.000 dólares en IA en 28 días: la empresa ya pone límites y usa GPT-5.6 Sol de OpenAI por defecto larazon.es",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNjVXR1U3UDFZWm4wX284SmhYMVZQSW9nX3FPU3NHNExTMXlPNU15eENMMjR0TGlqY1lJQmtFMWVGWlRGNEJYZEZfQ1pacWZnSVVpbFo3STBwbTBuN09rclR6cWd4N1BfNEJMZVJYSWpLdFRwYjRyQVVlcnE3dzhHM056VnZjanZXb2pwQ1VNQVRNUkpmU3lwbmVrSHdObnNoNG03aE1JOGY5S1RHaFA4dGNWa0lYb21URm13MF85QWw5emxtaUZTXzFPOHNsUVhuXzhMazFmTnJXbExtTU9aazlqOVVKN2tmd1ByNVpGR2FHc01ldF8yMQ?oc=5",
+        "date": "2026-08-31T14:00:00+00:00",
+        "source": "larazon.es"
       }
     ],
     "Marketing": [
+      {
+        "title": "Nueva diplomatura en Marketing Digital con modalidad bimodal",
+        "description": "Nueva diplomatura en Marketing Digital con modalidad bimodal Diario Democracia",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmdMLVp4UUhpemhfcGdOTHViWHNJOERYZl92d2dCLWN0MFZzSzI1c3czZDlQNmRIM0dhaXJXdEowNGZERVdCUFZmdlBTVEU0dmh2OHU3enZTaWduallwYzh4eTF3dG5YNXB0bmppWExNbWJtSVVMWXNaVGM0TkdQSWFQWFdHSzMxM1FnNGFLNUdWcEw0V25JLUloTFVhNzdBUG1NcUFpX29PM0VK?oc=5",
+        "date": "2026-09-02T12:12:08+00:00",
+        "source": "Diario Democracia"
+      },
       {
         "title": "Dictarán una Diplomatura en Marketing Digital + IA",
         "description": "Dictarán una Diplomatura en Marketing Digital + IA El Liberal",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdUs5ZjU4SWI5ZkJ0eWFvN0tKQkYxUERJVVBzZHMta1habzNGWXlveHlFbWVqQlJGN3pMYjVaNDEwanNyYWQ1THB6ODFkeHZvSXdCXzFhVUhLZW9QYWRSOGo3S3B5NXVBQlZ5d2FzLXR2MVdPUnNLdlJJLW1nVmJ2VjVqSGZMS0o2RGUwQVQ0ZXVtUkJXT2ZZY0JfOXpLd9IBpwFBVV95cUxOZFJKSllqcGpIQUpneTdreTZ1VnV5Y3V0NVFGU18xSlhHNFU2SUxzOWFsVVBLWlRENlVhSzdWbFQ3U0ZMcUlmRXlHQ3g0LXhja1pjZU1lUk1vaDNfSDQ2SXFaU0JCRGJCaGVkYkFMdnVoQVUyaG8zeEtMRk93a2lmVW1aQTJ0aXplODRLcG0zamgyVm5VRk8yNU55dnk1RkxXc0RzYVNsaw?oc=5",
         "date": "2026-09-02T09:00:00+00:00",
         "source": "El Liberal"
+      },
+      {
+        "title": "Marketing digital e inteligencia artificial: La nueva diplomatura de la UCSE para potenciar proyectos y negocios",
+        "description": "Marketing digital e inteligencia artificial: La nueva diplomatura de la UCSE para potenciar proyectos y negocios Nuevo Diario Web",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbHA0REMyTlpTdFB1aWlFTmVqcE5zVlNGQUxMbFJnQjVDaGZXdUlMTUVkZFNSQXJSc3Vsd083MzV3U1Y2N2RWdVJHaS1kZ0RaWnZYTUo4N0lhcmRpOEhjWk1JLWdENFlTcGpNNTd1WVdGekVwa25pcHY5al9lOFlSVmNBUGlqM1dOTTI5cUV4QU9idFgwOTJqelpGMmkwQUxKQjJjcjRTWFhLR2dSYXI2SUpheUVleE1NcFp1ZnFjQ244bjY0LTAtLUs3VHJHUGFaczhENWxQQlF0WnY5Zk1hSjl2SkhEWnZnUXM1NTF3OA?oc=5",
+        "date": "2026-09-02T12:53:09+00:00",
+        "source": "Nuevo Diario Web"
+      },
+      {
+        "title": "UCSE lanza diplomatura en Marketing Digital + IA de 180 horas",
+        "description": "UCSE lanza diplomatura en Marketing Digital + IA de 180 horas El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcWttcDJWemJ5ZG56d0Y0aC1OU25vTVItLXkwakZCMmV6RVluSTBhaU5Pb2NULTMzdHdKTmRkSWUydXpxX25KTjdVR0FNcDdJNjBmNEVnZVRVV2VpVVRfLVJVaFlwcTE3eUtBd3dSTWREb2ZSN2dfUE5pUjBFMjVvMmF0VnRUNkpZV2pLRlp6eXNkZk9m?oc=5",
+        "date": "2026-09-02T14:21:52+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
         "title": "La UCSE lanzó una diplomatura que combina Marketing Digital e Inteligencia Artificial",
@@ -68,11 +89,11 @@
         "source": "Diario Panorama"
       },
       {
-        "title": "UCSE lanza diplomatura en Marketing Digital e IA: 180 horas",
-        "description": "UCSE lanza diplomatura en Marketing Digital e IA: 180 horas El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWENQTXJiOS1LbGF2ekNQNlhYS0tmWnE3U05rZnFUZ3RUU1BZakVPZzlVRUxHUU1uTWV3eGFlSVM0YnZic19BX2dVMXdxWmgzd0ZXdll1V24zdDZTcU5peGp1TV9BZ2RxSzdvTE9HYzE1bG9GdVhNbE1KU0plZnAwRVZrTVpWR2hSZVI1Sms1NXdJOW8?oc=5",
-        "date": "2026-09-01T18:06:37+00:00",
-        "source": "El Ecosistema Startup"
+        "title": "Córdoba: abrieron 3.500 becas gratuitas para capacitarse en tecnología",
+        "description": "Córdoba: abrieron 3.500 becas gratuitas para capacitarse en tecnología Sumario Noticias",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjZtc0d3bDhDS1JvOHVhblpLRzNDbElGVkdQWWlSX1BLSW1sSGtKak9pWjNSQnVRZnNRdGRnRFR2OU5PM1lGaXE0UTRPM2ZHZV9vdDlnUUR0OEhsTVRYRlFZWk1yc04wcEt3eV9UZWQ3UFR2UEg1U1hpOWR3Qy1XR1ZVZ3RpOEdWazZUbm5Kd3VETFdrbXJvcHdKaEFyajVnTGFLeTJNZjR1anA4T0s3VzBHOA?oc=5",
+        "date": "2026-09-02T13:38:56+00:00",
+        "source": "Sumario Noticias"
       },
       {
         "title": "Vivi Smart Growth llevó la mirada latinoamericana a Google Nueva York",
@@ -80,36 +101,36 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnlWaUppVjRXRlZwTzV3MENhR2JORTFZNFdPRlpERGlhSVI0SFlKTU5wY2NOS3ZUaXBvSVF4N2FEcHNMVndIb1NCOEttMmtXcF9CNFpjSGMwVTJobnZtX0FLV1pLYndzM0c5WTA3TWtRV2dQNmxzMThLY2NPU25ybjE0c3BHYUZLaFpGeGpScHk0RzRFaExrTVR2ekEteURLaFFQNGdyMUZUeWc?oc=5",
         "date": "2026-09-01T12:54:29+00:00",
         "source": "DossierNet"
-      },
-      {
-        "title": "Cómo vender tu marca en 2026",
-        "description": "Cómo vender tu marca en 2026 Periodico PublicidAD",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTEphV3JLT281WmhBdjNsVWpRZ2RzMTVrUjByUGxnS2NLZVdrX2tQZTAyMnV2cXhUUVNXWTlobW5fTXRySzI0dEl0bFozdWVrNjc2eWExZFlPRkV3TExGWWV4dkozb1BvRFdSMndJdmxCNEJRRmR0MmZyX2txWGw3TTI4d3lKb0t1RHFSVVdBcURPRWpYeV9vX2RveF9BWlhGRkctNdIBqgFBVV95cUxPQUtVNEFEM2V4YmxNT2JDUl9kcDlMQURJa2w5U1RFM1dBblJ3VFdGOV9XcnhJRWpwbnBQdnNhWXllci1XTnd2bmxkak5iM0R3VHlaNWZOS056RWZPeW5rNFZBXzJuWUJLandkbHpmX1FLb2t2eXVGRXlnNWl2M0VaZGJqX3M1NDF3TE9ndjR6TkRIQTRXdG51dE56a29GcU81aVNTYkNuMXh2Zw?oc=5",
-        "date": "2026-09-02T07:00:00+00:00",
-        "source": "Periodico PublicidAD"
-      },
-      {
-        "title": "Taller gratuito de Marketing Digital para potenciar a emprendedores en Armstrong.",
-        "description": "Taller gratuito de Marketing Digital para potenciar a emprendedores en Armstrong. armstrongyregion.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0dUaldkNHRXZDA4N2R1VmhFRjlMZWJaeVdveHFpWTZiYWc4cjVKS2MwakVlRmROUk5qa29EMWExODE3TVBGZm1WVTZ3enB2RXlsU2dkQ2I5elZLV2Y3S1Rnb3VGLVptSlBUMDdray0zUjBpclU2Vk9USHlaWjRpalpGUFhmVS1ubTFBRDc5UTVVYVhwWm93M25jU2ZDdkZKRXN6Tkl1aU5hUFA4UFFjcEdSV0h2X3l5NjZaUi1UMGZ1QdIBwgFBVV95cUxPV0dUaldkNHRXZDA4N2R1VmhFRjlMZWJaeVdveHFpWTZiYWc4cjVKS2MwakVlRmROUk5qa29EMWExODE3TVBGZm1WVTZ3enB2RXlsU2dkQ2I5elZLV2Y3S1Rnb3VGLVptSlBUMDdray0zUjBpclU2Vk9USHlaWjRpalpGUFhmVS1ubTFBRDc5UTVVYVhwWm93M25jU2ZDdkZKRXN6Tkl1aU5hUFA4UFFjcEdSV0h2X3l5NjZaUi1UMGZ1QQ?oc=5",
-        "date": "2026-08-31T13:36:11+00:00",
-        "source": "armstrongyregion.com.ar"
-      },
-      {
-        "title": "MARKETING DIGITAL archivos : Página 2 de 3",
-        "description": "MARKETING DIGITAL archivos : Página 2 de 3 economis.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LcS1aZXFTOEo1MTlxZ0l3LUJKdVVnNXkwRjlkSDhCMXlLODZNNHFEQjJwUlM1Tm5NdVItazZsYjlsTzlXWDl1LUVReUcxc0VjXzgya2U1VDRIb0swd292bjlScw?oc=5",
-        "date": "2026-09-01T01:00:19+00:00",
-        "source": "economis.com.ar"
       }
     ],
     "IA": [
       {
-        "title": "Claude Fable 5.1: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic",
-        "description": "Claude Fable 5.1: lista de novedades de la nueva versión del modelo de Inteligencia Artificial de Anthropic Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlRaaVJfZ2diX1NKeTJLcjA5MXlBYWJLRHZ1dVVodW9hdjBDbG5rUFNLOF9OX2JVS0FZcVlQN1ItZXlBbDB5NXgyZER3OUhsQzNmbjk2YURJNkdubUdoNDVtcTBqdjRTY3dkeHBFaEJUbjU1TlZUOE9yeXVsLWhySWpETldOUnMzcE1tX0NMUkJDYkV0cG95aV9wRmx3LTlCXzF2S1ctLTF3d19lanhKWDRiQmpHOGZu0gG-AUFVX3lxTE9wdU1ZZzRscU5KZGI1RTA4RnU0NnhCeHFpdzJ3bFU3TVhiNW1LOGZDVGROZ3I2S3BnTGlJd3o1WnQ3UHcxUkxLT1BOUkV2Wl9fMVViT2lTaUY3aWdnS0VqQjNwNGJaWmNfVTM3RWRyaHdIcmZGdC13UEJJczJGVzhSbHFiamVETU1RZnVRenJzbVJRX1czOWtjM01COGRad0FvZFJrVXhNQTgydndKSU8tQ0NkU2dBd3ppUHdQM0E?oc=5",
-        "date": "2026-09-02T10:16:15+00:00",
-        "source": "Xataka"
+        "title": "Nueva York prohibirá el uso de inteligencia artificial en escuelas primarias e intermedias",
+        "description": "Nueva York prohibirá el uso de inteligencia artificial en escuelas primarias e intermedias Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYkdKcEh5bE80X2FFNDZ4LWdzSzZRUWtBRlNSRGFDSVR3X3RKSWVRYVYtajR6VDZUck5paEU3WlEzWU9FLTZldWlwd3RLdUJVSWYwbjhKNXp2WjR6UjBVbkxCY2VoV1h1aUdteTE1SDhJMkc4eXFPUTNGc0RPdm5zLU9pS2QtU1NKYlROeVh2UGJ4N3JPdGpaMDJ6bjUzQUVGWmhIekctaF9CN09sOVFtX0pBUzg5b01GZ3ZEOHp0dmZqMVkwRWJGUFlXX2dUTW9QU1UtNWxtWWRLM2ZNOFAyaVF2cjUzcVdi0gGDAkFVX3lxTFBzWUVNZS1tanRiZUhvWTBrNkI1TTEtVUU4S0p3ZTcwV3VhTUQ0YkRVV0NubklDY2ExekwtOG1rcC1KRHp0RlhybXctcmcxMi0ydjB2UDRKbU9kR012dmFSLVprVnBxZTRUdmhNZ0ZyNEtuUGFGRldDM0lpcjNUbWhJd2JfdEJYVkFkVWZOcGQxUTNjQTBEQk1KTFBfVFc3N2ZtMUd4NW9PMXdvOGJueVBzb2tEcGdmN0p0amdjZmltUnFlbldlYm5ISTVpQW0zaGcxSVR1TlJER04wZVhsa0J5akl0OHluazRDekhHbXpBZUlad0gwa2toZlY5T3hUOWg3Tjg?oc=5",
+        "date": "2026-09-02T13:35:34+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La inteligencia artificial ya reina en el mundo estudiantil, según un estudio",
+        "description": "La inteligencia artificial ya reina en el mundo estudiantil, según un estudio MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUVTbzU5TmtLUVpXVXJBNWpxSE9RYWlvTEpMZFlxZmJyN3lrbGRjbm5vbzJOd0lLc2cyLXdDNFNyZlpYOFJrMW5Uekg3YVBiT2RpdEhXbnBGUV9CVmJpT1NPNl9kUkZyNVo1MXFsQzllMzRPNWNLX0pKSHFqRHFmZjlNdmZrd2paSUtpRDlMejRtUW1GVm9LVUZjVXVySmdsM3dKeFlUMDZxdUxpZjBB0gG0AUFVX3lxTE1zei02T1pFQmp5LU9NcGNfakR6MU44NVM2WjVtSGUtZFp1cVcydFJiQ1ltSWVtRW4tcXZmalp3dkJIYjc0NTRPOHJTLWN2VXc2ZmVwZ0RHMmhBemlPak5sZ2p2VmxWUkliVFlmX2M4RXhUdWYwbnVrWm5kYlk2Mll0V2JudDJhTTVmcTBLUzZubWNBTmlRby03YXptcUhtNXpjdnFpdElpNVMxWEV1WS01d0kwWQ?oc=5",
+        "date": "2026-09-01T20:48:00+00:00",
+        "source": "MDZ Online"
+      },
+      {
+        "title": "Nueva York prohibirá el uso de IA en las escuelas públicas",
+        "description": "Nueva York prohibirá el uso de IA en las escuelas públicas Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1VCX2R1UWl0TGpWOFVRdTluNU5MaE9ZWlNlZTktTjlDTHo5bXBSRUNJOXM5Tk9rS0xLdHg4VU5QY1VENkhManFxcnVuWmhvS2VRUmw2bnY5d3ZvNjhKcUN4WUtqUDBsMVpkSDM5Z1M2SlJBU2lnVHdMemlBVF9paXE2MkNHdkdfMEJ3SHR4UHpqWXJUVjlj?oc=5",
+        "date": "2026-09-02T13:59:17+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Realizan la primera cirugía cerebral asistida con inteligencia artificial",
+        "description": "Realizan la primera cirugía cerebral asistida con inteligencia artificial Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRjlRVlZXWGF4Z0RJRDVMdEJ5OEpmQmxmYUQ1TGN4MUt2Zmo0eEF4dGhEbUdNRXZ1N1hFTEF3MkpkX1NDUzRvMUwyLUphNzk1N1dReGUtZVNYQTRSUGh3T2lVbnpvV3pzTzd1ZmRmWFRfSDBQbmF5VEJ2UktmdXRWVjZoVXV2dF9uY1VYQWFxWFlfQWpfa25IUS1mODVwOGVfOUM5dUNnMzRxNF92OTB2Slo2RUhPVVdmWnhZYnhPMnpDN1ZXdGJhdGJjLThvMDlJRWw1MTVKelVBQUhqMWhJ?oc=5",
+        "date": "2026-09-02T12:56:00+00:00",
+        "source": "Diario El Día de La Plata"
       },
       {
         "title": "Las empresas de inteligencia artificial están comprando y destruyendo miles de libros",
@@ -119,90 +140,69 @@
         "source": "Clarin.com"
       },
       {
-        "title": "“La inteligencia artificial es un aliado que ningún docente puede dejar de lado”",
-        "description": "“La inteligencia artificial es un aliado que ningún docente puede dejar de lado” Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY0xtbHZqVmtjVFNSajlrRGcwS3V4bGRsSk5McEhuNWZvd2duaVU5SEppRl9SUzlESlpCT0FQTWFJU2pDc2E1WGdlanhMOVlEdGM0QXpiNFN3Nzd1VHpDU21YMlBRLTFuRHNNVUlLa19TOEJsejZQQUpNUVVXRjczd0x5M0xqWUttTm5JY0FJamx4U25WbF9jWFpJemdzNEk5TzlMQXNTd01zM29MeHVUSTFJdHlBVXFmMVc3Z01pb19FanM?oc=5",
-        "date": "2026-09-01T20:40:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Cómo usar ChatGPT: guía para dar los primeros pasos con la inteligencia artificial",
+        "description": "Cómo usar ChatGPT: guía para dar los primeros pasos con la inteligencia artificial lanueva.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdTJmZkN6bElXQkFFV0t4SUMwSDUwMWRGNDIxTTV3RmNPTDRXRkhMQThRS1llODM2RndBb25HVVVNQUU5UXFVVDBFLXJpd0hERmZGcDVKV3FDUTlLaTdfbGRoOXRSUDkxekZjdXAyd3JvZDFGTE4xYU5tYjhmNkMySTFJcDVEMEtOYzBfWWhIYW5hV2paa3RkTGZfLW1KYWJ5LWlBX200Ynd1X1Q3cXZRbVFvV29GWUdYVVJpQUNoZnItSU0?oc=5",
+        "date": "2026-09-02T11:48:16+00:00",
+        "source": "lanueva.com"
       },
       {
-        "title": "Recuperó la vista gracias a una operación en la que la inteligencia artificial tuvo un rol central durante la cirugía",
-        "description": "Recuperó la vista gracias a una operación en la que la inteligencia artificial tuvo un rol central durante la cirugía La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQalRteGZ3WWgxN0xxbGRVOGktS0hhQjRYOEU2UEZPY2VHbkt0MUhTaGs4TFJCZENxdnJLZlBjVVI5Ql9VOF80eXZOTmV2emRFQUtJWTFwWmdGVWc3d0dOWVFSQTl0WDVDcGtCcUR6bmxKQ09SNkNNcW1wMFptdjJxeUM3UmFCX3hwZkNjMzQyTU90aF8yRDV3WUx3cjh0ZXlSdWhMbnRVUWF4alI5N2VtbHd0N0NjRXlZZUxMZzQ4S2xtSXZFQ1U5WTdQVTVrT3dqd3QyblZOaF9oQ3RPNUM5cXRqZDQ?oc=5",
-        "date": "2026-09-01T18:36:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Qué hace realmente la inteligencia artificial cuando responde, según diversos estudios",
-        "description": "Qué hace realmente la inteligencia artificial cuando responde, según diversos estudios Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSjR2WGtEcG1GRXJxcHVsaGF5ZDVYTWxOQUhmcU9ITjFQTi01cmpyaXNiTXl0MUFLSTY4N0pfa0p6VF9nMHVpdWZ5RGo0bW9ZUF9DenB5dE9RRkxMZjNybXBUWmg2TUpPQU5pazBUVFpTMGFhQjNfY0x1ckN0dnVkUU9KVGpETUg5a3dnSHVra1FGWVAzbWpULUVoX3pGd1ZrNDRyN0l6cVJHZ1FjLUJ3LVRMNmVZYU1CLTB3MThaRlNkNlg0VFZ6TFlB0gHkAUFVX3lxTE1TQjRTcFJBejQxbWdJVVlrSDFTWkRsRUVuMDNTLXQxa2R0LXlSVlVTajZ0VTBhLVJ4OHRGVmhXY2E1a1E3c3hFcVpTeFBfSGFVOWNNbWh1dGUxZnI3TktHd1pFWHZOUzdNbzFPXzVuTGdSS1FrelA0RFBIY1FxaWRPNDVLTy1aMlZWZzdLa08zZTgzbmFLVi14SmRKU0VzVWVLQ2JtUUduek05TF8yUkJja19XX1JnNEZtOWdNZmZMek9xU0UtVFFXWGNTeVVsWGJKR2FfdDR4c2p2dTVMX3Jqemdwdg?oc=5",
-        "date": "2026-09-01T20:46:10+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "La inteligencia artificial ya puede comprar por su cuenta: cómo funciona el nuevo comercio entre agentes",
-        "description": "La inteligencia artificial ya puede comprar por su cuenta: cómo funciona el nuevo comercio entre agentes Net tv | Aire Fresco",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUlJNajVDbzcxQllGZXFUbXNiWFV2cWQ2SzEydUdJSjItZ1hyYkdENWttTTZkU0dRdmZtSzlvX3V6aG51bnBZT1JCSzlUNkRwWXZfM0NDcklDVjlwQmF3RlRSb3NwcmUwbVdyaUdpelhZUmt5XzZmNURkUHBqOXhTZnh1SklrR2haUzcwVm9WLUd0YjNWaElrc0JTYTdmX0hzWGVMdDZnaHFvemh3X2MyYzM5VldfcjdkQV9KX0VOd0dXTXI2VnpMSWRPT2R2WlBfRlF1cElLSlNKTHg1czFIT0ZOQ1ZVZ3RGenI0dXNBQnF3b3YwN2h5OQ?oc=5",
-        "date": "2026-09-01T15:15:00+00:00",
-        "source": "Net tv | Aire Fresco"
-      },
-      {
-        "title": "La UCSE lanzó una diplomatura que combina Marketing Digital e Inteligencia Artificial",
-        "description": "La UCSE lanzó una diplomatura que combina Marketing Digital e Inteligencia Artificial Diario Panorama",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcF9Fb01iTFY4YlNTMzhSdmF6aEdEYXhpMmVBODhsYXlJczU0bUE3S2lrbS1sSjZPd3k5c2RkaDkzUHBRdTdYYjlmUHNMbzg3VTNkYWFQZUNlamsyM0VhNjFhSkFwOEhpdFFJZkplZjdHTjZZeDhjZXBqRlBOMjc0YmxSci0xTEhjUjNXX3NpeUxxdlNvUlo3Tzc4ZFZWT2ZSTVpZaFk4M243VS1tX0ZzblVvc1dtRi1NeFdldA?oc=5",
-        "date": "2026-09-01T16:17:39+00:00",
-        "source": "Diario Panorama"
+        "title": "Córdoba. Vuelve el Congreso Innova Educa 21: será el 5 de noviembre con foco en inteligencia artificial",
+        "description": "Córdoba. Vuelve el Congreso Innova Educa 21: será el 5 de noviembre con foco en inteligencia artificial La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWC1vcElnS0tWLTNxeGI2MjhIV3NEUTc4NHJvZk51NW54R1hOZldZakdxVVdLUFFaQjd2bDRmdThCdnVyZElxRHdNRUhvVElmOU5KQVpJSlBGTXBITU1wRk5NNkVIUjlFQndhcmRJdHY2Y25MblRkOHB3anFQN1hmX2plaFhlc3FtSC00NHRnamN0eXVvb2piSHJZWTMya1hsb0p5aEFaUlRqbWRvcnM5OFZyLTc0d05NUVMwR2xORlozZkpm?oc=5",
+        "date": "2026-09-01T23:11:32+00:00",
+        "source": "La Voz del Interior"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Vaca Muerta pone la mira en un tren olvidado hace dos décadas: buscan reactivar una ruta estratégica hacia Quequén",
+        "description": "Vaca Muerta pone la mira en un tren olvidado hace dos décadas: buscan reactivar una ruta estratégica hacia Quequén Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcndHbXk1VzZHQ2xOSUJYMG5oUkVBaDhFTlZUUGVMUUdUSU9qY1IxVUtGdDZTNlItZ2hTNjA3XzFyVTFRVmJLTHdoblRKR0R2eF9TQVMxUUw2ejF6ZG4zbkg3T1dkY0NHcGhQZVNlZmxsMFBqQnBPN0hfaF9MeFpGVnpnNUpWOXVNTkNQRzhQUmdMSDliN3JmZWo3c0NQVTBJYU5YSHZveUhIU3JLQWhYSkFoc2o0alhqWlN0cnh3UEI2TlBrSzI4UjhVYVVyTHZHbW9fTXFhVF9HR2JxTmZHejdQZFVDVzdOaDY3OE9NT0vSAfgBQVVfeXFMUC1CX0hod19Pbjl2VTBESGRaak4yN2hfUTR5aTBKa0RsYlZmUUxGZVpvQzIwdDZudFYwVmE1OHVFX3ZsYXU4aGJrc2pzcndnN0dfYTMtS0xHMUJ6a2EyTTJ3Q0tJNTJrUjJkWlJsTWJtQ2k1cFROdDNEb2t4UllxVjFzM2tNOWhMMnkzNTQxRVVwenZsOG56ZWpTYTJDLW5fdy1MWjBSb2dWUy1tMlluZmdoQnN5Y1RfemVZZzJ6WUQyVGtHcG1QT2Z2TkZiM0VDYlZNdGJaQ0ZpY01pam9McG9HVWNya2lIRHZQcDczRVNRX3pBQ0Z6cDk?oc=5",
+        "date": "2026-09-01T17:10:02+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Rutas de Vaca Muerta: Rolando Figueroa firmará el acuerdo con las operadoras la próxima semana en Buenos Aires",
+        "description": "Rutas de Vaca Muerta: Rolando Figueroa firmará el acuerdo con las operadoras la próxima semana en Buenos Aires Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa0xhXzIzYWpuMVlySU1kdWxVVElhUl96eS1xREx1MGdyWG9SVjE0X1ZzX1hZRlRkMlMyTHotRGNxM3YxTkZUSlRZc0lIYlhheWk5bGFvNkwxYUZpanYtWWFFSzBIdEtJZjJXWjhWdW5mZ2VodVJibWh1YW5SX0tfQS1IcnFDbUNkXy14d0VfS2ZuOGp2dXhoSE9xS1ZKdnJWdnU1bjRUNjEwZk9hSUl3RGVpNlpacTdwYzBlb09sR0UyX205N21lUE5KdXZ2bUZyaDAxbXRENndvTEJpb3FOc9IB5gFBVV95cUxNT0tzUVZGSGhpX0ZFLTZZMTRjX1lvMHUyUDctcmY4MWtYS1NQTHRGenl4QnY3VU1yaENXLVVtbU94WTdxLWZvWF8taVRtdjBCTzFvRFE1TkI4aFlQbkJvMll1SHI4eVpfdlRPT0tMaEZScWZWalhGRVB5VTA2YjYzTG53cUdHUkkyakZQNzFCT1hrZ0xFeHUzQUFHSEF1aVdsMFlJV3BPUmM3ZUNtWk1GQ09FZFlsa2RmXzNqUUFNV29oOUw5V0ZseGU3LUFycmprX1hjOUhqNzRUNnJ6WWo5bnRBZzNkUQ?oc=5",
+        "date": "2026-09-02T12:48:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Figueroa busca inversiones en EE.UU. y asegura que Vaca Muerta ofrece seguridad jurídica y previsibilidad",
+        "description": "Figueroa busca inversiones en EE.UU. y asegura que Vaca Muerta ofrece seguridad jurídica y previsibilidad Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV2s4djJpdmllNXFKWGxrTFVicHphcDV0ek1XR0kyTmpTUVdmOEpKT1pyNTQwYmZVOW9hc0tqZTBnVkFJZy1KZEVTZWphVk82LXFiSFJBQzlrLVRYcUVjN2FuaEljNm8teXFReFFwc0NjWlZwWllHdVdkM0N5Z0VGV2ZXSGV2aXlMN2ZESlNIQXFKRnQ5amFnRkl1VTZOT1NibDhVTmUxNGVsRFY3ZGFfWEdmUWU5aGw3MEYtc3lJQ19oTWdEdGI5Ym1mNlQ4eXpjWHQ2aDQxa2NfUdIB4gFBVV95cUxPc2duUGhKTVdTS0JwSUNKelFiSXJGb2hNV2xxNV9BNXprMm9aaEswVnpqQ2VvWFl4VksxTGdpTmtXT3hxRjlEVWNHOU9McHRYRHMwRU1ua24ySUM0a2FiT1FNSjktaUxTdVdfUkFvcnFXaWxib3MtWXd1M3R3T3VmVXVRTFZtVlBRVHZ4dExSNmV2dVFYQ3NGb0ZfRWF2YzQxMng0RzBjdm53UFpwZ1NzZy1QcmpkMmQ1MFdZelh5Q0dURlJuSy1NSXlEOHZSN1BVeXJ2bm5aaE5UREM1dzBOZlFB?oc=5",
+        "date": "2026-09-02T09:12:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Rolando Figueroa firmará en Buenos Aires el acuerdo con petroleras para el financiamiento rutas en Neuquén",
+        "description": "Rolando Figueroa firmará en Buenos Aires el acuerdo con petroleras para el financiamiento rutas en Neuquén Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUWlxTDVZUkNIOEp4ODRlUnVGXzZJWkd6UGxtQXdVRDJkOUtTX1ZyVS1UWTRmQzM4MXVLamVhdzlXTk51azZ3bEhYdHdqTzFtejJaN0c3NzVBNEJSZnpHNVV2MW56ZG1ORnVCMWIyV2tpT0daWVhMaEpKaHVXMHZmSmtjdUR4S2JTWXREdlh4S0dQNUt5YXQ0SWtHLUNCVTZpSHZsVGIzWDMyYlBGV3lPTkNxOVpjcTY5a2gtYnhlQlB0RG05UjBvcmxHbTFqVUlVT1ZmRk50RlhheTd3WGl0YW5NQTRSaUHSAe8BQVVfeXFMT3Q4V2xrSWtPLVc2RUpSTjU4VWpxaGo2RjhCVDBUOXQtdVlWcDZjbkpPb09xRk1KS3J1dy1RdVNBcXhFNHBQNVBjN3RGWlF2OHJBdmhqbFpDY3B3MHVQa1g3SlNmRUtkOHR0bW9ldW5GeWx6ZC1uNFpwaUFFT0JjdTRONEQ4Qkp0b3ZORWdxVFRGdzhwMmo4YU8tSF9wVFU1OEx6NUtZc2RCQUF3aGlOaGF5ME1vUGZVV3RpTjlPZUZIUF9CUEhnR3NveGplZWhMVUlhOFhWbHByalhDMVc0a29sSkxWTFdveWszSjljcm8?oc=5",
+        "date": "2026-09-02T12:56:50+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Neuquén, imán poblacional: Vaca Muerta impulsa una migración interna récord",
+        "description": "Neuquén, imán poblacional: Vaca Muerta impulsa una migración interna récord Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGFmOFFBTVNJSzVGTlFmeXBILVVWM1laU3ZEV1ZDQ3hJR0d0UFhXRFJ5eXJPRmd6ZU5ET25YMWRrSjFodWM5bXNKZUF0NHZ4V0F0ZmhXQ2M1amFyd2Z5RnlyeVc2YlNkS3pfY3kyRVFhNUFWcm0zZXpKckdTaklBRjlCckNLcDI1bThDMUc2VVF2ZWJ4OGxXbmFBZHhvNEFzb00wb3M4LUxYbG5pZG93aThrVmFVLWRtWExLcGN30gHDAUFVX3lxTE5uZm5EaTlfSDR2MkoycWdqMWhTcXR0cWNVcF9PMzRSS21YYVoyNk5ieGFWS2xTWkxiYjdackZnU09yVWYyNVpaeTE3MWZSZzQ3ZU5RYXlIZExiZlI3bkxoVDFILVhBR2hiX2MyaUlaVGlzanp1OEVGUGR0TFZWM2JEaTlvcHItcUoyeUY4eGtKZ1ZzRUI5MnZlN1FyR215bzVRWDhXQ2hYbGdZTHpxWVJaRU1lTEpnSDRncFEyY1dfcU5Fcw?oc=5",
+        "date": "2026-09-02T14:10:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Neuquén busca financiamiento internacional para obras clave post Vaca Muerta",
+        "description": "Neuquén busca financiamiento internacional para obras clave post Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMThyNGd5OTV1NHYzTjVWTDEya3pFSzhtMVE0UmU1YlRDNEM3Q2pNUEpPeFByNC1QNmhIcTlidUhuNUdSQmJnQUp2ZFhJUklXaTJjaS0xWnRaQ0VpcjFwaUtwZkFxNDVOMzZiaXNMSzRWQ1htckhva0Q3VEt1ZzBRZU04ck51djAya2NKYUFUelJhd2JtSzdEdU9WODhWMU01S0hRWHVjaHlaaGNlWXlQVDBEZS1sY0ZvZ3Q40gHAAUFVX3lxTE5LUmtyT2NMMnhRUVRFcDd2U3lDdlpjWlU2RW5nazVCS1dDQlFVQUdYR2prLVJiTkFwZHhhd0VKejlpWUxndEdaZkJ2dEFjazJVS3VJZkdWNjNXZVhBUWt3U0k2NEVhekZ3MmhxRV9IVFQtQ2Y4STl6UFluUUhjVEg5NG9zM3haRGJpRHFQVFRsbzk1RFcwbmFQY3JYN1lwdGJVdkNzQURCa3dyOTRZVHpFcmprTE91eno0WWtjTmg0eg?oc=5",
+        "date": "2026-09-02T12:43:00+00:00",
+        "source": "Lmneuquen.com"
+      },
       {
         "title": "YPF renovó un acuerdo con una empresa empresa tecnológica para para ampliar su plataforma digital de perforación de pozos en Vaca Muerta",
         "description": "YPF renovó un acuerdo con una empresa empresa tecnológica para para ampliar su plataforma digital de perforación de pozos en Vaca Muerta econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTDJSV2hMWVNMZW53VkJCenJWSXZvQll0Q3BIZ2VsVDRKU1F6bUpMZzBBdW8ySlNmZDQ2cUJveVBTUjh5SFNSNUozOXluUjhLYXRuTUVTZ3hIa28tNjRSVmhBVGx3SWpGX0dNemI3X1dKT3dsQ1VBZ18xajNhM3NXY19vaGl3NjVzNHhDVUxXNWM5S2xBWm15aWp4NXBGTHR1dmw5aFNQTU02Tmtvd2xuQmY3RktjMmNlSTRVaDA5ZVp0OHFXWFdMTGp5VnRBbmxwNWZsanlXOXZDc0R3S3RrQnIzQ1RyMTljcndOak4zYlN4d2V6aEt5OUdkOGNTUmJhZFE?oc=5",
         "date": "2026-09-01T16:38:59+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Vaca Muerta no entra en Vaca Muerta",
-        "description": "Vaca Muerta no entra en Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1JieGh0bDJkS1lNU1hSOE8tNEYtSGRfamlxOGFaN3VIeGZlVlNXVE5Ib0x5SWtGTjdqMUU4czZqSEtpSlBKVHd5bWp4cU5tRzZBQk1TTXVSZzgwWVk2UEpheEFEdkFqWE5DdzBaNV9ZUDR5SHF4MlJaYmZaZXkxaw?oc=5",
-        "date": "2026-08-31T21:02:19+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "Cómo Marcelo Mindlin se convirtió en el empresario que más apuesta en el gobierno de Milei",
-        "description": "Cómo Marcelo Mindlin se convirtió en el empresario que más apuesta en el gobierno de Milei La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWWpJLXdtU25qbW1uc3FKRXRLNjB0VmJkWTR5elMzalNBcHR3OVNiU1VpRjRGbnFVTTRIYTFJUHpMeU1DRDBZdUFCQ3Q3WW9ySDBSbEtGMkNuZWs5UlVCS19jUHc0M0JwWWRCTlA0RzZ6eWFOa1JQdVR6dFFDakNBQ2pzZVFwdDN2cGRFMXgxRVA2R3BrQ05uMV9KYlRNeGdRYXpkNHUxX1dUbXZJUlRlWDZDamJjS3Nza3NhX3MxM3pNQzRycE5RNTNpb3NBbEtRMnlhZWROVQ?oc=5",
-        "date": "2026-09-01T16:19:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Las principales claves que definen el éxito de las inversiones inmobiliarias en Vaca Muerta",
-        "description": "Las principales claves que definen el éxito de las inversiones inmobiliarias en Vaca Muerta Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ21CdjBIVjRoTVF4ZFo2aWdNSUhHMzl2YmJlaThWZXRKSzhnb2VDc05GbzVqbUZBR2h2Nkdvcm9tS3kwd25iN2gzWUhVUDFQSWhxYll2TDVnQnZVYmR0VjhocUZVMUt3MnFWX3RZLVRKaU9ib2lFdHlDWE1Qa2lRVTBXTFFhSXlobXBLMmdkUVpMb0FCb0NyN3NnNlFVTkh2N2VXcFB2RkVEeE1LWHRrd2hmMGRYLXpI0gG-AUFVX3lxTE9yZTNMOUx0Rlp6ZEIwaEQ0QWpCcE52akpLZFg4OC1zTkFEZGI3VE9LM0dva3VSRU1MWEVoaGhtTWxmX3RwOHE1TVlnUkVBckZSdmFaNG5iY3R0UG1tMEdqNG1fQWR2ZEZ3NkdzY2dBNFZIQ2Q3ZGYwNUFoSDBYcHdlV1p5UGViUlR6SHFSRldET1FhUjVMc1MtSFdnUWJwU3VqcTBaZjFfQkpVYjF4alZHa09FWTRpM1EwNFpOOWc?oc=5",
-        "date": "2026-09-01T03:00:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "El peso de Vaca Muerta: la industria energética paga uno de cada tres salarios privados en Neuquén",
-        "description": "El peso de Vaca Muerta: la industria energética paga uno de cada tres salarios privados en Neuquén Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHpVckNILVdWWi1xM1RjbGVNQ0thS1o1QjVvOGlaUDZjRmdURXJnWk1vZFZHaTdscG91aDNPd3hpMnBtakdiVG9fREdwWGN0cHBrSmxpTHIxUFcxd2lIMy1FZkdtUzBoSW1NSGYtLWk1c0d0elByVmdHdVpJQXROMlVHdHNoaGJWM1JoczktUzAxMXNLdE1IUWtxcm9ZMnkyWnl0TGZqQWlVMVFNckoxVHF5bWxvbnJZY3Z3a1dTaExHclB3Q3pPUnZYVDlUNUk5bnRmQmlfTV9FQdIB9AFBVV95cUxNamhCV0gtWVhuNWt3WHN3T2t2REE0WGk3NVhnTnVMYVN4bVlsRDJPX19XcXhUQTc0SDlCbU5iUUVobmFSSW83WXhObVRnV1RqeEQwaVNqa0JzZllnSk1aT3g2MEdOaVZYNmhWQ2VCbVJ4Y0QzVmlWS2dwX0tLVUNkRzhhdHVYa0VGSWQxWFdlSldVN1I0NDROcTI1X0hncXFHTjJYVkM5MEU3ZFRVMk5MTDM0cDhxNTRFVF9OMEVTTnV2SzBwNm9pSHh4N3NSelFueVlqbDV2SjkyZ3EyTmYxTFdmTFBzZzliWmRoWERoWTViQjAz?oc=5",
-        "date": "2026-09-01T06:43:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Shale Day en Houston: Vaca Muerta llega con entradas agotadas",
-        "description": "Shale Day en Houston: Vaca Muerta llega con entradas agotadas Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1U2NXo3NEk5WW1xYVRidHptZWlxR05peEx0ZU4wSHlXdDdMVWs0SzdrSEhaNUhmVTYyekNxcEcyX0VQU2ozYjhqR3pHd3huS1poMXBQdFlqdlR6eFM4VXNOZElURmlDTEYzV0tia25qbjBSSDFLQXBXYTdvcWJudmNIbVBWa1lfalhtZTJEWDRndVdoaERrQlk0YW1iY0pUeWtV0gGoAUFVX3lxTE1OalRDVG1ZUlRRQzRHd1Zqei03M1g4NjJMclhHaTFSOWk0aWNNektwQUNpdDd5ZmRWSmF2QlNWVVlrN0FWSmhNeXBRU3RZcVNtQ0VJSG1WcGZsNDFXbkFTVGtGdnpFckV5V0dKRzAyQmtsQ1p2S3EwSlY1MXBsNWpxUXVZSU1GZlVkSzlEbDJ0d2dITlJZNzJvQTBmU19pSl9Jdlg2SDNWQg?oc=5",
-        "date": "2026-09-01T15:16:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta y textiles: ganadores y perdedores del modelo económico y el \"tapado\" que podría resurgir en 2027",
-        "description": "Vaca Muerta y textiles: ganadores y perdedores del modelo económico y el \"tapado\" que podría resurgir en 2027 Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWFtaVFHbG5IOW5Lcnk1YnNGc0VtY3VkYm8wU3VTdGhFSWotSkhlSnZVZmctR214VjZBMkprbkRiS1V1V3hhNm5aTUlMZGFYcHVfY004UlQ3eHBJZ3dNa2NwZUVhaEtCT0hqQVpEeGsxUWN5NndnU2phVnNWcWNhZ2Rrc0xKdGhBT29fRjdUVkNzSUUzR1NuY3BzYWJXaHYwSmhxRmlHQkFmdERxbXF3Q0dsTFptZHFiT2dWVFR4RnVSd0NoLXd0bnQtejdEVmJwc1E?oc=5",
-        "date": "2026-08-30T09:00:51+00:00",
-        "source": "Clarin.com"
       }
     ]
   }
