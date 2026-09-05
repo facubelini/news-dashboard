@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T22:43:39Z",
+  "updated_at": "2026-09-05T00:33:48Z",
   "categories": {
     "Microsoft": [
       {
@@ -24,20 +24,6 @@
         "source": "IGN España"
       },
       {
-        "title": "\"Ya no confío en la industria del videojuego\". Los sindicatos de XBOX declaran la guerra a Microsoft por las indemnizaciones",
-        "description": "\"Ya no confío en la industria del videojuego\". Los sindicatos de XBOX declaran la guerra a Microsoft por las indemnizaciones 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTklPZ3JwSEloOUkydHAwZU11MWlCWnZ0TlZYS3lBS1REQU1qak1LempvM01UaHJMMGMyeUFzRy1fZnJWbFQ1ZE1GQ2pTWVFhLUZEbEZDRmtFMVNUV2Z4aDNhMExybGI3TmdsQTl2RHRPdWFVcU9OcHdZRk5IY0VhMEZyYWJtMWpVUlA0THZGQ3ZQLUZPR2stRXRjWjdwbHIyMTR5c3VWeUlaWjZkQWoyQlUzdWZBMVgyOXR2eEZpaVFFWkN4dEl1UlplZTRlSVNvVXNjQUdn0gHbAUFVX3lxTE4tcmZRcDZCY1RMZkN6VTF2a0tSR0hYLU03NVBOX1hRMmN3UXJlV1NJNVFTYlpPcXlaWkVUdl8zdVVxcmc5djlxWV9va0tSaktrNmJYQlZfbDJZMnBFSk14cXd0MWZxbTZqYnJERmNOV0NLTkZrNGpGRTFwWTNRaTVzZGh5RlBjWGRhaXhDVGJOcVZ1ZW1CTVM0a0hDZjlSUU5ld2tpNEtIX0ZDVHhYWHA3Qm8wOUdSTUhUZ2t2eXBSZnRRNmJoMndiaGd5b29KYnh5MF9kVm1CZGx3TQ?oc=5",
-        "date": "2026-09-02T11:30:15+00:00",
-        "source": "3DJuegos"
-      },
-      {
-        "title": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate",
-        "description": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate Eurogamer.es",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXBhMjdFTkNBVGZGemFKT2w1enVBODBOUldDUEtsVTRISHktdUxaMTQtNW0teFJEMHdwVnpPVHVENDBBcUJfNWtsS1pBQnNockVvOVF4WW9qWmhDRThNRXE0emhZMFc1b1RKVi1WRmlvQm5kVDhiamtYRkpXTE5FWGRjb2xBMHQ4aTVqSm12cFZZeE9MYkFmZFFSSm1BR2wtWTYyOGM3MV9BcUFqbEpGUEpGc29CREdMcGtsd2xMbXRrNFJIRkFyVQ?oc=5",
-        "date": "2026-09-03T17:53:57+00:00",
-        "source": "Eurogamer.es"
-      },
-      {
         "title": "¿Qué aprendió Microsoft tras comprar millones de créditos de eliminación de carbono?",
         "description": "¿Qué aprendió Microsoft tras comprar millones de créditos de eliminación de carbono? ExpokNews",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbG9GdzhmTXp0N3N4SUhRckVKWmRjbGxHS3pFYlBsY3UxWGROZ2VFSzFHN1dBTGZFbHoxREszWDRPVXBTOUFDRGNOX2ZBOTNzU3VVYndFeFFQMXYzX2VFMkFyN2lWRFFfdjA3S3BJWkxBWjVaajJ2Z1FzZGt4cWp2N2VucEJhSDBmdk1GVjJCcy1meVAydGgtbkdfV1Y?oc=5",
@@ -45,11 +31,25 @@
         "source": "ExpokNews"
       },
       {
+        "title": "Microsoft lanza MAI-Transcribe-2, la IA de transcripción de audio que compite con OpenAI y Google",
+        "description": "Microsoft lanza MAI-Transcribe-2, la IA de transcripción de audio que compite con OpenAI y Google SoftZone",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ablFnTW1iYkR0LXpiVmppQTh6TDFXV2Zta19rU2lNaWlqeno0ODRlRXZQYk9KZUYyQk45cXNiSlJvQ3NiN2FGR05RaEZZWkNETzk5bmd3V21NVjBJcF9fczlKcklYVDdfQjFmamdfNnhvRmZYbG9Ddg?oc=5",
+        "date": "2026-09-04T14:01:33+00:00",
+        "source": "SoftZone"
+      },
+      {
         "title": "No hay trato: Sony, Microsoft y Nintendo rechazan compensar a los jugadores por las subidas que motivaron los aranceles",
         "description": "No hay trato: Sony, Microsoft y Nintendo rechazan compensar a los jugadores por las subidas que motivaron los aranceles Vandal",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRm9zVWtpOF85RjVfTEttSERnUmlZbmxXX2RROERjU3FsZFhtY3g1LW5SaHF3U3QyeTZqalpFbjdlVkd5VHpMWkRkSjREN1pnS1ZLNTc2RkFvQVBPa0JybENGQUJKSVBVSDlGZFdBN0NXdTIzaXJNeGhEcXE4Nmw0RmJ4THVGZUVrRnV1WWNibEV3SWowSm91dXVjUW8tTW9ubzZrQlNmOHU2cFpxb2gzOWNQQThFUFJvYVFKY3g5VWQyREFxVGcxaVpQUl9JRjVKVWZncUpxS2s2ZFBuYU0yMzRaM1QycFNla2NUWnB30gHzAUFVX3lxTE1VUFZCWmxpZXdib19QajY3ZV8wR0VtVHdyZmR2SzJJdHpqb18wQ01rM09FWF9tUkdqV3pNcHRXemZVamRVcEFHT0llVFdvX0w4S1FjUzZkUmVyelZ3U0FUQ2tnY0pFUVVyWVduMEFJRGUwYTAteTZOVVBFV3d0Z1NoMzJGX3ZOdU1lNkJEdTgxaldzeWRURUJEdTlQMjByRXhJT0RjV1ZDOTdUemNKXzRtTjZHSEtaS1VEaFB2eWcyb2tvVUt6eENrb2dsTkhpaTJzbFdaYWtRQ245dXNQcVdqektTZUd0YUMyZXNVaGZKQ00yMA?oc=5",
         "date": "2026-09-04T21:55:02+00:00",
         "source": "Vandal"
+      },
+      {
+        "title": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate",
+        "description": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate Eurogamer.es",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXBhMjdFTkNBVGZGemFKT2w1enVBODBOUldDUEtsVTRISHktdUxaMTQtNW0teFJEMHdwVnpPVHVENDBBcUJfNWtsS1pBQnNockVvOVF4WW9qWmhDRThNRXE0emhZMFc1b1RKVi1WRmlvQm5kVDhiamtYRkpXTE5FWGRjb2xBMHQ4aTVqSm12cFZZeE9MYkFmZFFSSm1BR2wtWTYyOGM3MV9BcUFqbEpGUEpGc29CREdMcGtsd2xMbXRrNFJIRkFyVQ?oc=5",
+        "date": "2026-09-03T17:53:57+00:00",
+        "source": "Eurogamer.es"
       }
     ],
     "Marketing": [
@@ -113,10 +113,10 @@
       },
       {
         "title": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
-        "description": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial EL PAÍS",
+        "description": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial elpais.com",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQczgtcmhCazlGSlhDNWZMbEJJZ1FPR2JVY2RuTUhhWmM0bERSRnpvMUpmZVppZUNUbXl2YTJRcjJRVm9fMm9KRWNWbXdyWExmTU9tSmRLOVFSckFfY0M3N3daampwejVhR3hLUWQ3dldNazNiODAwOUtTenZqdk5SMFcxeEFXWENvbUc1ank1RzNsT0lBdkVtTzFkVW5YM05ZSEg4ZHZKWEZyNzVhZm1qazkycVIyWUN5Y1ZDU0xJLUxqSmdzZ1ZPbWNHdkUycWIwODhwYzNQeHlBdGtWNXhhRVZIYXFNMHVIYlVTUmdIUDBuZlZnWEJWU2dWUXfSAZACQVVfeXFMUHF3NTFCSGs4bjVrcWRMM1BOQXkxUGNaYnBkdWtXU0VZWl9ZYkRFUDM0bmhLMUtkUDJKbXpTSzBGcm9iM2UtbnV4ZUVvT1ZBX3BOMG91azhhalJXRU4zbjNmSExDeVRLUERxdnZmWUtwSlJZWWtBZGhNekduRjBET3RGa2l1cmV4Zi1mdFlaZkE0alVsdVlCNDNhYmljYmZRbWpkWDhWV1NZUi1RdVdxZmZ6VFJxWFJ6bmJOQ1hvak1ya0czeDYyQlRmNUNMUWduUXA5UU5oVVhlbVlNUEpmV1FNUW1qNzVZemIzdzlhZXliTFJ4bnZJZDRVRkhfOEJsMll6TmEtQVM0UlB2ZjhJcUM?oc=5",
         "date": "2026-09-04T13:46:11+00:00",
-        "source": "EL PAÍS"
+        "source": "elpais.com"
       },
       {
         "title": "Sam Altman se disculpó por el lanzamiento “caótico” de GPT-6 Astra: usuarios Pro no podían usarlo",
@@ -133,13 +133,6 @@
         "source": "Infobae"
       },
       {
-        "title": "Inteligencia artificial: \"Un alumno que es vago y la usa para resolver situaciones y no pensar…\"",
-        "description": "Inteligencia artificial: \"Un alumno que es vago y la usa para resolver situaciones y no pensar…\" Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbHhyQ0w1ZW5ZUlEwNjlINDFDV3I1VkF3Zk1MVzE2SmVGV09rRWdZeXVrZnBORkhHRG5QYlNISVRaLVhYYmlkcktlNUVOOUhqcEt0OFU2MkNVaUZnLWZSdklqSkYxVFJNR2ZSbXlwOU1HbUM1cTBaMVhuSWp4aVpNamhrU2lSWGxxNkptOE5jNElMYXhCNndiY1AyTW5LRFpzMEpUZUFCa1VUWUtpV0d2d2l5Skt5TUxiN0prdXBQbUY2RDJOc2hwMVQyVlROYVZqbFVmUzNzOW5WZ256RzFQcVc4RERCMEhBdVHSAe8BQVVfeXFMTXRoTGkzVHNSem51dF85WW9CMGl5YlpzSnYtUVhvQ0haTGY0NVo0cXFaNDBpUkdVWlE4aGU0aW1EczVnMU4xOW9aaWM1NWlPdVJyb241WWQ4RmJPU2p5X0JxUFFlaGhFNkt3R3EyQWFJMkhvcHJPbGEyWnZxUE9TUEpzcGN4X0J4VjNqOElYQ3hjR2MxaEdHeE1iMm1CeEJZZy05RTNhMS1aWHR1NkV2TnpITER3VC1XeE9CSHBEbzVKczA0TWgzNTktZV9ITGlaZmh1dDJwUzVlR1UwVlREcFpjT1dMM3hRdXVVWkhhSGc?oc=5",
-        "date": "2026-09-03T14:49:01+00:00",
-        "source": "Cadena 3 Argentina"
-      },
-      {
         "title": "Nueva York prohíbe la inteligencia artificial en escuelas públicas hasta la secundaria",
         "description": "Nueva York prohíbe la inteligencia artificial en escuelas públicas hasta la secundaria El Litoral",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcFZMZGZ2WW40VFR2bnRsd0JFWUJsN2E1cUZOTHBqNDduRlpaeWdsZXVFQ0x1Rml3Rml2V0UwNFV6TG1Ga2tOWW40U0JDbnNYWHVXN3F3R20zUUhZSnF3REZTXzZYV0NFNUFsSnl1akRUTXVlNm1TdEwxd05uTFdkZVFTemM1OXE0Q3AzamFEOFdlb0JPdFo0YWVBS25IaEcyOWhOSFkxcE54UGFFekt1YnBCSlh3SEJ6UU1lUjNVQk9WRzEyNlpjNXpXZVhxQdIB0wFBVV95cUxPVXNIV0lhOVZtdzZ6TWt1NzBxOGZTTXZpdkRHSklSSGxwMk9aRWJKRDBTZlNPZDd3bjNUWjV1dElXUVJrdXV2RWczME5tRHdtR2gzbHpUS0F4V3pRdkQxWnJsNFRYNkdaRnVhaTh6N2ZicnhvTU9IRkhJWWNGV3ljZTNuamNpUDV6RGhpN1dSUUV4dktGVmJsV0U5djZ1aE9YYTM2RjZoMm16Z2h5ZUFqRmI1NEgwSGdWZ3hhT1l5dmMyWHh4UExEZnBvMk1STmR6S1Q0?oc=5",
@@ -147,21 +140,21 @@
         "source": "El Litoral"
       },
       {
-        "title": "El lado oscuro de la inteligencia artificial: poder, algoritmos y estupidez colectiva",
-        "description": "El lado oscuro de la inteligencia artificial: poder, algoritmos y estupidez colectiva Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1FzMlBfM0RId1BpT3NZX0lLck10WmJJb0ZtRTRlbktqbUhfbjVVN0lER0xRblpHcW04N0NFbS1xQnVMeEFfY2hlWjh4YzdUc3BJczlDQTJ4V3RzMnp0LXJtU05HZEt6c3dXWndNcWJmRU1Ib3podWRoeDRRdDFXaUk3WkZyb0g5eHQ1czljTnNoXzFjUnZjdC03OXlJWG8wUWctc1pZb29KaWtsU0F1NE51cnJPNVhqd2hvWl9R?oc=5",
-        "date": "2026-09-04T15:00:09+00:00",
-        "source": "Clarin.com"
+        "title": "Inteligencia artificial: \"Un alumno que es vago y la usa para resolver situaciones y no pensar…\"",
+        "description": "Inteligencia artificial: \"Un alumno que es vago y la usa para resolver situaciones y no pensar…\" Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbHhyQ0w1ZW5ZUlEwNjlINDFDV3I1VkF3Zk1MVzE2SmVGV09rRWdZeXVrZnBORkhHRG5QYlNISVRaLVhYYmlkcktlNUVOOUhqcEt0OFU2MkNVaUZnLWZSdklqSkYxVFJNR2ZSbXlwOU1HbUM1cTBaMVhuSWp4aVpNamhrU2lSWGxxNkptOE5jNElMYXhCNndiY1AyTW5LRFpzMEpUZUFCa1VUWUtpV0d2d2l5Skt5TUxiN0prdXBQbUY2RDJOc2hwMVQyVlROYVZqbFVmUzNzOW5WZ256RzFQcVc4RERCMEhBdVHSAe8BQVVfeXFMTXRoTGkzVHNSem51dF85WW9CMGl5YlpzSnYtUVhvQ0haTGY0NVo0cXFaNDBpUkdVWlE4aGU0aW1EczVnMU4xOW9aaWM1NWlPdVJyb241WWQ4RmJPU2p5X0JxUFFlaGhFNkt3R3EyQWFJMkhvcHJPbGEyWnZxUE9TUEpzcGN4X0J4VjNqOElYQ3hjR2MxaEdHeE1iMm1CeEJZZy05RTNhMS1aWHR1NkV2TnpITER3VC1XeE9CSHBEbzVKczA0TWgzNTktZV9ITGlaZmh1dDJwUzVlR1UwVlREcFpjT1dMM3hRdXVVWkhhSGc?oc=5",
+        "date": "2026-09-03T14:49:01+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
+        "title": "Nvidia comprará Hugging Face: por qué la operación puede transformar la inteligencia artificial que usamos todos los días - TN",
+        "description": "Nvidia comprará Hugging Face: por qué la operación puede transformar la inteligencia artificial que usamos todos los días TN",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVFZxbk9PbW5ieGdiOHpnZ0Y3VnhZNGV3aWJZWTdkNGlkRDgxakZGZzhwM25RMnRwWlA3ams2cHFEck1JdU81UGwtVklTNGVVVnlwOEZmZmNodjl5Q1dySm1kU1pBSUFLcVBhMk1keUJackxhM2duTmRNQUJ3dWkwTUNHMnREZVd5WjU3OFR2cTVIQUg3V0Z5andhLWZZdXVpLWN0TEpXQi1uLUxERno4QjJtU3dDNzd2eEg3cFdqa2pJTk5QNXFwdXR6RnhnLWhBenY2aHk4NmxsNnVicWx2bmlsNU1kejZJTXg4NDYwN2tmbmRQSFRnMjVR0gGOAkFVX3lxTE5mWlkwMWFPV3pMQlRJaDVKa2dFdGJCbWxWMWRzbnNJQU8wRTlibDNhNjlkY2N1VzdyVUxSTVBVTmtUVUZhSURWWGNUYVJkSmJsMDBoMTZySHJ4YzMyRldYVUZjc3piNy1vRTAzTWxFU1U1RVBmM1lmSkRkUFF3UUJ0VjNRRXQxVTk3MlNQbmpueDQ3akpFV3o5b2VIT2JDY282UFI1T3dKSmw2dVlDUUtVVWJzVjhxdU56VUcwa1d0VnBNTWZSZ3BidDlJZElFV2psNTkyWG41RDVZSi1IRU5YS3pPN1d6bFJIWnM5LW51a2RNaHdDS1dDYThxU1NIWFA1ZENEODRUWkZrNnBUUQ?oc=5",
+        "date": "2026-09-05T00:22:00+00:00",
+        "source": "TN"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "YPF devolverá cuatro áreas de Vaca Muerta y acelerará la ampliación del VMOS",
-        "description": "YPF devolverá cuatro áreas de Vaca Muerta y acelerará la ampliación del VMOS Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1VTVm5IUXowT053UG5ZMm1MRWZLT2FWeWVqajRsQU80N3M5ZFkzUkM3Q3lKb0JBRHZXRFhzMEUxSnhRdmRVX2pRSExMMGpSVTRSUVJwYkdwWllqbDM3MlM4TUpjUnZVaDNaeGtGeXJDblU5b09yZzBfTENMbEt1SEl2OVd5QlZ1TnhOTEp3RFc2YjRZMEJaSUZsQlBNcEluMTUyWUs4T1JrOTVBWEdtZ1Uzd1hfRlJ5eHZOMFlB0gHDAUFVX3lxTE53VlBOLTRnTVVQQW81MlhySzZJbk9oYjNWcVBwZ3lRY3NWeUt3dmtmaXRRNEt0NFBrQnV3Q1RIVlVqYnB4M215Z0NCOWNQaU4wQlFfeU1fZ1ViZlEyRUV5MDdDdEZVTHltSERFSHRKeUFUd3JfLVhmM3YwREVSUUJOTDUtLTZldy1XSXlZTWR4SC1WQ1dCWm9vVFBITzhVd2M3U2Vqc1pnc1pJNjZKSHYyRk1ZZEc0NWtmMi11WDJZbVNtSQ?oc=5",
-        "date": "2026-09-03T16:06:00+00:00",
-        "source": "Lmneuquen.com"
-      },
       {
         "title": "Argentina ratificó que tiene el respaldo de Chile y advirtió: las empresas que operen en Malvinas serán excluidas de Vaca Muerta",
         "description": "Argentina ratificó que tiene el respaldo de Chile y advirtió: las empresas que operen en Malvinas serán excluidas de Vaca Muerta Infobae Malvinas: Argentina advirtió que las empresas que operen sin autorización en las Islas serán excluidas de Vaca Muerta Diario Río Negro Pablo…",
@@ -170,11 +163,11 @@
         "source": "Infobae"
       },
       {
-        "title": "El otro negocio de Vaca Muerta que podría generar exportaciones por US$ 2.000 millones al año",
-        "description": "El otro negocio de Vaca Muerta que podría generar exportaciones por US$ 2.000 millones al año Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3Zya2pBblhDWi1CbWtqQjliNV9NV3VjZ3pFaUxYY1VPSFQtNl81VVR2R09fSzJvT1g1Y0RoLXJKTVNrNndQbkpxaFJ6ZWZRNlVnNlVBV0c4S0o3dDNvTnk1aGVKWkJtQWVTQ1B1cmh4OTlHY3dOYWZva1RIOGRPX0YwcEpFRmJQVVQwWTdkd0E3aFNvelBFVVhZSDNUbHhxYXJmanRkOU1LeFllTVNwM0tqa1pqdTdGaGt3blVHZXMzek9UOUVJ0gHMAUFVX3lxTE9pOHJiUk51X3VsNVdvY2daNFg3ai1fT2laZG9aTWZkQ19TbFVKeHhmc0hoVmNONmlRYXJnSFczYmN6dnVRbGl6ckNiZHB6ZUY1S0xLeEZtNXNRaFJjaDM2UDlmWHhkeVBPYWJrY1lRQTc3LWptVkduZHhRUWlqT3dhRHo0Rk56dnBhRzZ6eUVMTGwtdEF1dXRTcGZpRUZsRDBjM01ESUVVNlFuZDBzU3Y4ZlM4bW9qNFVHTnh3WHhZVldvLTdHNFVKcjRGQQ?oc=5",
-        "date": "2026-09-03T12:34:34+00:00",
-        "source": "Clarin.com"
+        "title": "Shale in Argentina: FECENE anticipa nuevos socios para Vaca Muerta",
+        "description": "Shale in Argentina: FECENE anticipa nuevos socios para Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDdId0NNQy0zVE1hWll0T2pzVjdqNXlBRlFBendhRjJkZHhua1ZTSXRXaV92aEdtajhySUpoWVpiNUw3aVVYZXExV1ZCOFlvSUVzMFNud25rOWZrby1TZ0tQVGZ0Rmk1WVUwTkV4RFFWaEkwd3NGcnFEei1CLXhKOXp3U1J2R09ZX18tOWpOZHJrZWZkZHo4YzRqSTZ5c3ctUHUxVHBTQTNqSkdo0gGyAUFVX3lxTE1JaHd5cklMSlRoQlJxOHlvSEg5WTEtdFA4YUsyNEZVdVlEWDRNNXlvSld6dW1xTDQyMFpHMmJPamhyQWdGMUprSGZRN1FYYTBvbllXSGtXbEhSaHpBeFYweGRsbmJsZWJBNEpQdGpWVzhyeFFvTEJYWWN2ekV4dmx1cXJPdG55cTB5aHZseWFpamJoTkZvLVR0QnJmQmFqYWwtRVN5MWs3M2xWXzBERVFPUmc?oc=5",
+        "date": "2026-09-04T18:36:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Estafa millonaria: usurpan y comercializan tierras fiscales en el corazón de Vaca Muerta",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakpUa3B1cUFjcmxtRjh3NFZsd0gwcG80RHQyN2pxOTNnRmxYd3hQamZLdzdxR2Z0d0otM2RqVy0wREhsejhBRnhaR2xjSjBnazYwTmNHWndLNXVTaGd1aDlydDJIMzkzbndIMFpWZW5mdk1sdlBxYklDV1JWRW9CUEJWLU1JNjlPMUs0akIzYjdDY2NoZ1Z1X0o1ZnllOUppVlk3eHFvckpNa1RvUWJyT3I3QzhDMm9obnNWMG5KcmFiVW5vV2pV0gHMAUFVX3lxTE8tZThHX2dXRkdGUFpYa29GVEY5VTdhVlRUNHdNYnV6RXdUZjkybWl5OWdIX18wR1JSY1J6dV8yUm4waHpxVGRSb1hvczQwNnBVNHFIaldWdVNjZ21Kb0IySXV3SFdjNWkyX3B3djBPUlFfZUhQRHAzQ3BRV3VKTm1GV0lMTWJ5b0g0NnB6Ul93NXZVTjAwRUxjS1VNZHZUQm56Z2JWbVFLelpzcmVQWmUyb0hlNFAxWGZET3N4Mk4yc1lDLUVKX0luN3hlMQ?oc=5",
         "date": "2026-09-04T01:11:42+00:00",
         "source": "Neuquen Informa"
+      },
+      {
+        "title": "El otro negocio de Vaca Muerta que podría generar exportaciones por US$ 2.000 millones al año",
+        "description": "El otro negocio de Vaca Muerta que podría generar exportaciones por US$ 2.000 millones al año Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3Zya2pBblhDWi1CbWtqQjliNV9NV3VjZ3pFaUxYY1VPSFQtNl81VVR2R09fSzJvT1g1Y0RoLXJKTVNrNndQbkpxaFJ6ZWZRNlVnNlVBV0c4S0o3dDNvTnk1aGVKWkJtQWVTQ1B1cmh4OTlHY3dOYWZva1RIOGRPX0YwcEpFRmJQVVQwWTdkd0E3aFNvelBFVVhZSDNUbHhxYXJmanRkOU1LeFllTVNwM0tqa1pqdTdGaGt3blVHZXMzek9UOUVJ0gHMAUFVX3lxTE9pOHJiUk51X3VsNVdvY2daNFg3ai1fT2laZG9aTWZkQ19TbFVKeHhmc0hoVmNONmlRYXJnSFczYmN6dnVRbGl6ckNiZHB6ZUY1S0xLeEZtNXNRaFJjaDM2UDlmWHhkeVBPYWJrY1lRQTc3LWptVkduZHhRUWlqT3dhRHo0Rk56dnBhRzZ6eUVMTGwtdEF1dXRTcGZpRUZsRDBjM01ESUVVNlFuZDBzU3Y4ZlM4bW9qNFVHTnh3WHhZVldvLTdHNFVKcjRGQQ?oc=5",
+        "date": "2026-09-03T12:34:34+00:00",
+        "source": "Clarin.com"
       }
     ]
   }
