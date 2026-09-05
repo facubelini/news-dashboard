@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-09-05T18:45:00Z",
+  "updated_at": "2026-09-05T20:53:42Z",
   "categories": {
     "Microsoft": [
       {
         "title": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares",
-        "description": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares infobae.com",
+        "description": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares Infobae",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN3FlTjRJc3lUNVdqelMwQ3Y1djBYdGIzR1VULXFqODJzejlyeHkyaFMwNzcydm5sUDRWSjFsYzdhSzJZRDlzQ29PX2pCcGQ4a3hfZTdNTHhxMTBXbGItUUVNV04yVW1fZGlhTnJ3VWNBcVU4SmdjY2wybnNZY2dncWNKeGxrMGFvcFlwWV9NLWhacHZEMEdNbG5FaEdOSnQ1WHJzcWktQlB6WktHZkw2dEJ2VkVuUVhmdWNsMW1Wb0JKNEtPdGpXM0dvMkN1Ul9fTURVZGFXZWvSAfMBQVVfeXFMT1Jqa0tROEpFQktHeXFjcTRXUFZYeXljMG9iM2tBRkVfWmRBUXVKZG12azByZW10VFVJNUtNaE50cEZiREhiZHFIa0FIb01Xa08wMUI3UGFMOWZ3ZnlUTXFjdjZlbWhqUEZoZ1NfVjB6RnZwS29TY3RuQldmM3B4VWJIY0daVktxcTJHLXBFaENUdFpZNXhBeXZZc3JfVmVDV2xQRTF4aTlWSDVDZE0zb0xVdW51aHZPTDNac0JRTDdzT2s3UXluQTMyXzJFUk8xMzRtT0VGc0hnZ3Ezd3YzYl9Rek9tZjBrYnRNNjY0SWFHVzd3?oc=5",
         "date": "2026-09-05T13:15:09+00:00",
-        "source": "infobae.com"
+        "source": "Infobae"
+      },
+      {
+        "title": "Claude llega a Microsoft 365: así funciona la integración con Office",
+        "description": "Claude llega a Microsoft 365: así funciona la integración con Office Blogthinkbig.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkxNdjVjWnNBOTlicWFDRGVEZlBNeE94T1FpcVlpZTU5d1o5Z3FmNDNSR2pyaU9zZ2ZNemNGN21pT3VaX3pIdUNIVU5TLTM4blpSZks4NS1WMy1zbWxQTXBxZDdidTJFSC14eGtScWZSN3ZqTVpCYVBJeVhaejBNWmZwZHJwRWxJTFJCaHJvdDdBU2NJMEdR?oc=5",
+        "date": "2026-09-03T04:01:52+00:00",
+        "source": "Blogthinkbig.com"
+      },
+      {
+        "title": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo?",
+        "description": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo? Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnZqTHJLMDlKVDVBZlZvaTdBdmM4ZkJHYTRxUUpHSzVLR1B0djk4aEtqcEhuMUc3VmgyQWp0eWpjVVYzMEt0amZna1lDQjJhOFcwM21pV3U4eTQxenJVVzdSQjN3R0tUbExsa2V5NWkxVllORjBQNzlZanlFWVU4TkZoV00zT0FPdHBLZXpiR045WmNBYjdMSEJyX3U3eHhsTnU2MFhMcTBDVlpITkxucXE4dWJpTmvSAcsBQVVfeXFMTl9JdFI2bTNudV9rNW9aVjNvYm5uOUk0NGpoWnBmTldlTGctbkNSRDFyanRvM1c0WXJUNWZKZk1RRHZsNlpXVC1jMkxObnNSM1Z2YjE2VlVnTEpFNGs4aFdtUXRvUjJpN0xIc3A2bjVCSnRTVHdOemUwVUxRYU9vVUh2TUs0eUxBWi04WGlwcWM2Z2IzRG5uNG82R3NQU2hZVVlEQ3psQ1RSd2h0cDdjWGF3U18xRzcyMTlUMUlKWWZoWFl0eGtUUEZVVk0?oc=5",
+        "date": "2026-09-04T18:04:03+00:00",
+        "source": "Bloomberg Línea"
       },
       {
         "title": "Sony y Microsoft se niegan a devolver un solo dólar a quienes pagaron más por sus consolas, pero las demandas se amontonan",
@@ -17,55 +31,34 @@
         "source": "3DJuegos"
       },
       {
-        "title": "Siete funciones mejoradas por Microsoft para recuperar la confianza en Windows 11",
-        "description": "Siete funciones mejoradas por Microsoft para recuperar la confianza en Windows 11 MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON08xRldWV2Fwb1dueWpqS1JuWkcwMGJSbXF2Y0o1SHUtQzVqU1AtY2h2eGkySllTcUpQYlhRU3VONmh6RGxOVmNnVWJPZjBkVE1YM0RJWHdXYkIteHQxcEFyZnk0elJpU2dPU0hzNVp6SXVaWUZIUzUzQXc2SDFSa0cxd29Da05RSXM2YkNzd2hWMHptdnZRQndPZjZZQ096RWlpRVk3b1g1WEpMZlB0SDlSUGI4dGhXajlBb2lB?oc=5",
-        "date": "2026-09-05T09:04:08+00:00",
-        "source": "MuyComputer"
+        "title": "El «Seattle Times» y «Newsday» demandan a OpenAI y Microsoft por presunta infracción de los derechos de autor",
+        "description": "El «Seattle Times» y «Newsday» demandan a OpenAI y Microsoft por presunta infracción de los derechos de autor TradingView",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00aVhmRWN0OFQteTRwUkZYTkNXOGpHRXBzNjlpVDJlZlFvYlM1Wnd5eURVWmxXQV9ORDU0cWNqQ3ViZ1dFTVFuT2N1NXA2NWVSLW9qNGFuRFo0aXhvbGQxLTBDRllCOGx0ckpsZmxpWm9TVzFwUUdZ?oc=5",
+        "date": "2026-09-05T02:59:00+00:00",
+        "source": "TradingView"
       },
       {
-        "title": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate",
-        "description": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate Eurogamer.es",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXBhMjdFTkNBVGZGemFKT2w1enVBODBOUldDUEtsVTRISHktdUxaMTQtNW0teFJEMHdwVnpPVHVENDBBcUJfNWtsS1pBQnNockVvOVF4WW9qWmhDRThNRXE0emhZMFc1b1RKVi1WRmlvQm5kVDhiamtYRkpXTE5FWGRjb2xBMHQ4aTVqSm12cFZZeE9MYkFmZFFSSm1BR2wtWTYyOGM3MV9BcUFqbEpGUEpGc29CREdMcGtsd2xMbXRrNFJIRkFyVQ?oc=5",
-        "date": "2026-09-03T17:53:57+00:00",
-        "source": "Eurogamer.es"
+        "title": "\"Tenemos una ventana de tiempo limitada\": alerta de OpenAI, Google y Microsoft a los gobiernos sobre una nueva ola de ciberataques con IA",
+        "description": "\"Tenemos una ventana de tiempo limitada\": alerta de OpenAI, Google y Microsoft a los gobiernos sobre una nueva ola de ciberataques con IA Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcEZtNjloZFpHZzNDVTNLWVIxZFV2WGpZdjNXbFdnazd1ZThwRTk4aE44cEMtRjZMaFE1THV0d2ZfYXJ5RHRpRm1UTE4yZ3RfeDZNMTNsYm9Id2czM2ttT2RHdmlJcEFvY1BWNHFPUk5GX2hxZnNHbFVMUks4Nl8xbkJiaFh5TG1wb0F6QWRhR1I0aTJNaFd5S1pvbUx4MkE5NVFZMlg2M3IySTNldndjMXczaWQzYU1lVktWb0JpX2JPWTVKdEk2X3lmZjg3cFktTEY2eG9ITFk2UdIB3wFBVV95cUxQVEZGeVgxckdibTZNVnF2YVY0MzB0NkttZHk2SUlQWUNqNDNob0Q4Sm1xQVUxdkxsVWRtcXFGRDgxM0RvVlg0RWxTN3pDT3M1WHhyc2lyakFOQjRZSTN0WjZQdDBId1dkLTY2U2RBT2MxVzBpU0xKRHVRM29SM2xsSmY0NGFMb2hrWGxHbzBESElhM1R4NF9wamtzcl9ZbVJXTl9zTzRPUmV1cWRPLVlTcGtESkRoSjFiS2pnSHU1TnN6bHhYX1c2RUl5ZTl2aTRaTFlXZVBRNEhBdzNmcU44?oc=5",
+        "date": "2026-08-31T08:45:02+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Microsoft lanza MAI-Transcribe-2, la IA de transcripción de audio que compite con OpenAI y Google",
-        "description": "Microsoft lanza MAI-Transcribe-2, la IA de transcripción de audio que compite con OpenAI y Google SoftZone",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ablFnTW1iYkR0LXpiVmppQTh6TDFXV2Zta19rU2lNaWlqeno0ODRlRXZQYk9KZUYyQk45cXNiSlJvQ3NiN2FGR05RaEZZWkNETzk5bmd3V21NVjBJcF9fczlKcklYVDdfQjFmamdfNnhvRmZYbG9Ddg?oc=5",
-        "date": "2026-09-04T14:01:33+00:00",
-        "source": "SoftZone"
-      },
-      {
-        "title": "No hay trato: Sony, Microsoft y Nintendo rechazan compensar a los jugadores por las subidas que motivaron los aranceles",
-        "description": "No hay trato: Sony, Microsoft y Nintendo rechazan compensar a los jugadores por las subidas que motivaron los aranceles Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRm9zVWtpOF85RjVfTEttSERnUmlZbmxXX2RROERjU3FsZFhtY3g1LW5SaHF3U3QyeTZqalpFbjdlVkd5VHpMWkRkSjREN1pnS1ZLNTc2RkFvQVBPa0JybENGQUJKSVBVSDlGZFdBN0NXdTIzaXJNeGhEcXE4Nmw0RmJ4THVGZUVrRnV1WWNibEV3SWowSm91dXVjUW8tTW9ubzZrQlNmOHU2cFpxb2gzOWNQQThFUFJvYVFKY3g5VWQyREFxVGcxaVpQUl9JRjVKVWZncUpxS2s2ZFBuYU0yMzRaM1QycFNla2NUWnB30gHzAUFVX3lxTE1VUFZCWmxpZXdib19QajY3ZV8wR0VtVHdyZmR2SzJJdHpqb18wQ01rM09FWF9tUkdqV3pNcHRXemZVamRVcEFHT0llVFdvX0w4S1FjUzZkUmVyelZ3U0FUQ2tnY0pFUVVyWVduMEFJRGUwYTAteTZOVVBFV3d0Z1NoMzJGX3ZOdU1lNkJEdTgxaldzeWRURUJEdTlQMjByRXhJT0RjV1ZDOTdUemNKXzRtTjZHSEtaS1VEaFB2eWcyb2tvVUt6eENrb2dsTkhpaTJzbFdaYWtRQ245dXNQcVdqektTZUd0YUMyZXNVaGZKQ00yMA?oc=5",
-        "date": "2026-09-04T09:43:00+00:00",
-        "source": "Vandal"
-      },
-      {
-        "title": "Una IA de Microsoft está escaneando fotos de jirafas en África para evitar su extinción",
-        "description": "Una IA de Microsoft está escaneando fotos de jirafas en África para evitar su extinción infobae.com",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFhBeGJUVHFjZVBsQkFOU1VPM3lwVmRodExINGVLUk52STdxZG93OVhyUTdvT01fUlVBdUh4WG1nT2ZhYmJaWDJ0UXNtQU9GMGdtb0tNTTNHQ2YzQnNaOHdXWFJYTkR1c1dFXy1MdkFjOGppR0FLV29aZVR3RnhXX0N1QW9IVkd1eTRNZ01tRjFvV19nVlA5dEIyeUt5V3RPcTFLdU91V1h2aFdEeDRRZXZVYTAzbWtjUEdicWZScXptWVpvMEdhUdIB4wFBVV95cUxQMkJnZERWTXUyZ29MMzVIRndNdHhpRDUxVGREUklxRUpBZlBOUEozS0ZSWGhlb1FVWGt2dVNRSDY0VjFDU2ctQU0tUXQyTnFvcFI4ZVl5MHpnb0NOcHAxOHlzUWwxYURxOUJfRDc5T1pWRDN6ME40UmdqX3NqRnRQZWRINVdCb1JfU3FGQ1FZMUUwUmU2TDB4WFA2S3FqcHBRRTVyMVBSdUhJd3VaLUs1cU1qaHdOWWU3cmNLY3I4dDlSeVBLb2pqbWJRbmRHbExSa3F6bTJhSWJhOGU2czNhNGNEaw?oc=5",
-        "date": "2026-09-03T17:43:00+00:00",
-        "source": "infobae.com"
+        "title": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo?",
+        "description": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo? Rosario Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVZBd3NvS2VwbFBMR2NlcnpMdkNncEo3b3Uyb2wyQVl4SHdHTHBaWkF2RTNmZFZSSGs5aktETHFMWWYwZERNQjl4eFBoNmRhQms2VVlvajNrRnREMWtfRkl3ZmlSb1FnM3R0RkNoVUUwZUlTbFV5RFdlWUtLdGh2NWFQSWoxdHl1c0UyRmc0SklvZTc5VlFlOEtaLW91UlN0QW1xeE1Za0x0cXJMeHlEUw?oc=5",
+        "date": "2026-09-04T18:04:03+00:00",
+        "source": "Rosario Finanzas"
       }
     ],
     "Marketing": [
       {
-        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 4",
-        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 4 ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOYlVZNEh4X293c0JXeFp1U1JjSXE3c3dXZkJIY3BBTjQzX3ZIYm1sdS1ENWthWDl2cFkzbzZkTi1QZU5ZekpPLVJKc1ZYVlNvV3JHQkp5Z29mWXV0WF9sRnlwR01YUmFuRnF3cmJ2Q1JhcW9nd09vcDRUQWxsZWxJVXh3SjdJYXJvMGFweDA0VjVwb01OZTVVbXZhYlROaHg5QzdfbENkUHl2V29sQU1tTF9FMnUxSTlhRWhveUdRYVV5RUZDVGR3Uk5sbE10Nlp2ZXRXbEJzd0V6ZDIzb0ZUUDZGTmpNUmZNc2tZV0VpRUxxSG4ySG5IbEszaWllaGRMamtRN2wwVzRGNEhrQ0NjdkxHekRhZzN4V3llSVBzeEJEYk1Udkd3cUcyMGk?oc=5",
-        "date": "2026-09-04T21:04:50+00:00",
-        "source": "ArchDaily"
-      },
-      {
         "title": "Cursos gratuitos de innovación tecnológica, marketing y alfabetización digital en Florencio Varela",
-        "description": "Cursos gratuitos de innovación tecnológica, marketing y alfabetización digital en Florencio Varela varela.gob.ar",
+        "description": "Cursos gratuitos de innovación tecnológica, marketing y alfabetización digital en Florencio Varela Municipalidad de Florencio Varela",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IbFAxQVFYUVRza3FKclhmUElROXkySUFfRkdJSXE1X0RlX3hDTXNaX3Z1cktGTXhOTk9JeWpHQWNlQk1INXBoblZTQTlfeXV6M1QzOVk1Q2ljTnRiTGdJX3Y1LU9qdG0zczhUWg?oc=5",
         "date": "2026-09-04T14:54:40+00:00",
-        "source": "varela.gob.ar"
+        "source": "Municipalidad de Florencio Varela"
       },
       {
         "title": "Nueva diplomatura en Marketing Digital con modalidad bimodal",
@@ -73,6 +66,13 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmdMLVp4UUhpemhfcGdOTHViWHNJOERYZl92d2dCLWN0MFZzSzI1c3czZDlQNmRIM0dhaXJXdEowNGZERVdCUFZmdlBTVEU0dmh2OHU3enZTaWduallwYzh4eTF3dG5YNXB0bmppWExNbWJtSVVMWXNaVGM0TkdQSWFQWFdHSzMxM1FnNGFLNUdWcEw0V25JLUloTFVhNzdBUG1NcUFpX29PM0VK?oc=5",
         "date": "2026-09-02T12:12:08+00:00",
         "source": "Diario Democracia"
+      },
+      {
+        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 4",
+        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 4 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOYlVZNEh4X293c0JXeFp1U1JjSXE3c3dXZkJIY3BBTjQzX3ZIYm1sdS1ENWthWDl2cFkzbzZkTi1QZU5ZekpPLVJKc1ZYVlNvV3JHQkp5Z29mWXV0WF9sRnlwR01YUmFuRnF3cmJ2Q1JhcW9nd09vcDRUQWxsZWxJVXh3SjdJYXJvMGFweDA0VjVwb01OZTVVbXZhYlROaHg5QzdfbENkUHl2V29sQU1tTF9FMnUxSTlhRWhveUdRYVV5RUZDVGR3Uk5sbE10Nlp2ZXRXbEJzd0V6ZDIzb0ZUUDZGTmpNUmZNc2tZV0VpRUxxSG4ySG5IbEszaWllaGRMamtRN2wwVzRGNEhrQ0NjdkxHekRhZzN4V3llSVBzeEJEYk1Udkd3cUcyMGk?oc=5",
+        "date": "2026-09-04T21:04:50+00:00",
+        "source": "ArchDaily"
       },
       {
         "title": "E-commerce 2026: las 4 palancas del marketing digital",
@@ -90,10 +90,10 @@
       },
       {
         "title": "El método digital que convierte el tráfico web en ventas reales",
-        "description": "El método digital que convierte el tráfico web en ventas reales infobae.com",
+        "description": "El método digital que convierte el tráfico web en ventas reales Infobae",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZldsNWJvampwT0ZDLXpnUWNKbFBpVm9lQXNhNkF1dHExMldnYmVuZnc1bml5cFA5NmxqM2dqbGR0VUExOFhNdUtlb2JDVzFVT2ZIWFNYUXpwcnU0ZTVaSFFTbENXSktUdkVMa3N0UXpxSlN0WFhlekprdXJPNmU0ZW9rQ0l3ekt5dWc0cm5sa3RNZ0RKbEhqVm5YZnRya2dOQUNhOExZRTQtZWvSAcYBQVVfeXFMUEZsTi1WUDc3RkRBWWhXZndpN2hUcXVTcXdFM3N6cmJFWVJXTFBnMUZIX04yLUdKaF9uUm9fVDFQVGRhMVQxSzJZZE5DU05FM1VHeGhTQWNWZkJEVXZGenZGb2JVcE5mU0c4NC1LZFQ4NGtQVXhldVFLelNsUVRLdy1jTG9LRVFCeE5JN05DUS1aU0s4X0ZkMkVlb1FzQUdSWndER0dpWk81RHAxX2d3YzVRX1B3bl85VFM5TjRGekNIXzdnTVdR?oc=5",
         "date": "2026-09-03T04:01:00+00:00",
-        "source": "infobae.com"
+        "source": "Infobae"
       },
       {
         "title": "Marketing digital e inteligencia artificial: La nueva diplomatura de la UCSE para potenciar proyectos y negocios",
@@ -105,27 +105,6 @@
     ],
     "IA": [
       {
-        "title": "Inteligencia artificial innegociable",
-        "description": "Inteligencia artificial innegociable Perfil",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmNNQUcwTkF4U1pRdDhGNHdocnF1bFFwLWgzd095YkhLTnB5T3NVNXJaN2djb0FkMk1uc0pOdEhHNmJkVTItaEF6QjU0Nlh1RFd4MG9FRGNKNlc1d05BRzQ3SWtBS1I4bkZUY2E1MUd5MkU4Sm9HMmo3eWpncGY4YnNpa25NNHA4STVJYWhxWdIBlAFBVV95cUxPNFNTWTRPMURaLUVNZUh6aUlaQURXYVg3ZUtBZ2psbElqelJSNE9xdUlvRDRsMUthLVAxRUdUdHdHVzNQLV9JdzdWWEg1S0xBVVlJU2RJSi1CRkd1UHUxcFpKeUNmdkpsY2FSZWpKelZ6NExRd2xmdk55c0JxZC1rQ2Y0M1R6ZGFzMlBBcFJVOHNVVzRC?oc=5",
-        "date": "2026-09-04T08:30:00+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando?",
-        "description": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando? infobae.com",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUdISzl1RTZfcE9uc0JGTXFxNkN2Y3ptSkhfYW9maDJqMGF1SmdYRkRwVmk1aVVpeVVBaDZLNTU1cVpfM2V0NmRqb0JVRy1YR0tTNVMtS09ZcGFhWEJSaV9TV0tMUnRSTGJkQk1QRHZ2cDBBOGNJdFpYcGlvdklOel9KQ015VjBKazMyTUUtdDJPZlR3WGNzd2EyTWhvd3hzQWpvUFBiS2dCSnNHSURPWWNFMk5LMWxQM2lkV1lIVjFQd9IB3AFBVV95cUxQYXZCY3o4RGxaTDNFRjRLZ1M4VFl4cVRabmxBR1YwRHExQ2t6VmVKbXhvTURQR0E0dDhvbWo3bl95eFFkYkRVNVd2blFlSFBOeHR1OWprZnVmSWRYR0wyMmJ4RkVjTVRIZE9LMGhrUmNUZE1RSENNeGhad2lSdmhtSW0wNENKbVU4OTVicFhlejlfV2ZIZGVxV1c3dTFKOGZwMVpzSEgtQ0lkOW4yZmdPU2F1WnpleTNSeTBrQ3ZLdWtOVm9SQjV4VWRMUDZidFdXSHdOckJtMTQ0RGN2?oc=5",
-        "date": "2026-09-04T12:44:00+00:00",
-        "source": "infobae.com"
-      },
-      {
-        "title": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
-        "description": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad) BBC",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RbmFMb00zbzBTVWZTTXh4ODh3UEFZR0VoSldsdVg5bFB6WWU1bVo2UTczcTlBR2RWd0loQ2hLRC15ZmxFbzlTRG9KMGFKRTZLcEN4SUpPV2RfR1XSAWBBVV95cUxOaW82cURadUNtSUIxUFExdjVnQ1lBRVlxTV9fX0htbGlNWWhqNmJCU0FjSDZSSnN3VUVDM09SenlNZF9kbGRlZ2lqeGI3Q2tmZ2hkaGd3S1FxTHkzTXptY3E?oc=5",
-        "date": "2026-09-05T04:01:40+00:00",
-        "source": "BBC"
-      },
-      {
         "title": "Docentes y estudiantes exploraron el potencial de la Inteligencia Artificial para contar historias",
         "description": "Docentes y estudiantes exploraron el potencial de la Inteligencia Artificial para contar historias Agencia de Noticias San Luis",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVUtyNDlpWnFOWUJhTWx0R1ZGekVjOHkzZDNYU291eW1GWVpOS3dQYWw0Rk9ZZHlJdUxwNXJLVkE5ZHNsM0ZxSWZ6Uy1SWkZqZm9SbjVXY1MwNjhDb0ZnYVBmZVRWbmZMRTVQd2JaODdOaWhhYVR2eUxXc3R5LXlyUFFla1REajMwSW00QXhUTHEzVlQ1eGVRMUxyYnpEZVlNckU5MU5EU053OEx1RXlsNUphblZxWEItNXkwVkJUM3JfeG1oNFBpMERnYzR4eWMxQUowdzhJaEVxSjItenc?oc=5",
@@ -133,11 +112,11 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "Córdoba puso en marcha una nueva formación docente sobre inteligencia artificial aplicada al aula",
-        "description": "Córdoba puso en marcha una nueva formación docente sobre inteligencia artificial aplicada al aula · Gobierno de Córdoba",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNUMxQklnU3JfOG1IT0dDYk1xRFZyaXhmRUxpeVZuYzFSM2pyM21jQnNUeFkxVzJoaUkwMUJfeG5hU2d4dDdYdks2c205bkdfZU5Bd29oZUtaVHZ1Qk13VXd4MEdQbTl0U2VsNmdWODJFYWduM2h6MlZZNGhwcTBxX01VMFhUTjlEdnNtSUxWMWV4X1BBT2JLd0x5c0p3OUpLU1RXWk8xV3JUU1duY01kMnhGOU1wYUFfR0tKSTU0b0hCbWtEQTJWU3hfR0dQVlBLc1E?oc=5",
-        "date": "2026-09-04T11:36:00+00:00",
-        "source": "· Gobierno de Córdoba"
+        "title": "Presidente salvadoreño destaca evaluación de plan piloto con IA en escuelas públicas",
+        "description": "Presidente salvadoreño destaca evaluación de plan piloto con IA en escuelas públicas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa01hQTBpOEhhRzNxb2c5bGFRbWROcHRMeHJsRU9PaEtCc2dEVHNCNnp4YjMxVExmTEYyU2NDT3FDQ2FZckZpWGdaR2hfTXFfZGpDOXR3b05PalA4eTZORzR6S1ZUOEp5R3ZKNVg5SHRXVXhVSUxtRGpYM29xanNvNGhFcUZCb3h3cjdMeWJZV3BHNWlTZnYyODZiUlk3aUNWVW1idVpJZTVVMGJqR205VTRSajJTQm9SYTNScXBUWUs2TlhoV0haMEpSNmJlT2ZFQW9R0gHuAUFVX3lxTFB3U2xGbnFObVV2MmNsdXM2MXZ0WjFET05ISmJCMWdER09zVlc1WG5CQi1WY2dHSHFmOVJ0djRoeHNSeWo1MHBKTjRxdU12YVE2UlFXRnRvcU9MODh5YUx0VXo3VHlZcjlpOFdnb0MzX25Gd1IzVlpyNnprd3RlM0pvOXBfbWF1TFJVLXBwM2kyZEVQb0k4V1Z4dEo2WWNZTGpIaU1RSEotU1ZUS0VSSGw1cnlxTWFwUnZ6bVk5Q2o2RnBwWjFxeExDOXV6czM5bHZaQk1XVmhJV3NEdHdqN05ORVNGSVZNQmNNT1ZsdEE?oc=5",
+        "date": "2026-09-05T20:07:31+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Abren inscripciones para capacitar a docentes entrerrianos en el uso de inteligencia artificial en el aula",
@@ -145,6 +124,27 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3daMUZqNUVKczlYdEczNkt0QjhHYlVKWWszRHB3OGs5M3RWXy12dE52QVg0WFdWWjE1UWxOOXExMUx2NUJjTGZxZVBmdUlwamlpN2I2OFJsVFBtbHVJU3VNLVplY1FUZ18tN0RxU0t3RkgyNWhQQXBkWi1EMVR0dng1LUkxbl9xVDU1eFVfQlpjVGE1MlEtT01feE9KU2xMWjVIRnFmeHJRZG9LV2paZEVRNnZrNjk4LTZ1YXh2c0RKTDVOc2hxWGt2SHExaTFvcGJoenF4N3h0Y19X?oc=5",
         "date": "2026-09-03T16:54:26+00:00",
         "source": "Gobierno de Entre Ríos"
+      },
+      {
+        "title": "Inteligencia artificial innegociable",
+        "description": "Inteligencia artificial innegociable Perfil",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmNNQUcwTkF4U1pRdDhGNHdocnF1bFFwLWgzd095YkhLTnB5T3NVNXJaN2djb0FkMk1uc0pOdEhHNmJkVTItaEF6QjU0Nlh1RFd4MG9FRGNKNlc1d05BRzQ3SWtBS1I4bkZUY2E1MUd5MkU4Sm9HMmo3eWpncGY4YnNpa25NNHA4STVJYWhxWdIBlAFBVV95cUxPNFNTWTRPMURaLUVNZUh6aUlaQURXYVg3ZUtBZ2psbElqelJSNE9xdUlvRDRsMUthLVAxRUdUdHdHVzNQLV9JdzdWWEg1S0xBVVlJU2RJSi1CRkd1UHUxcFpKeUNmdkpsY2FSZWpKelZ6NExRd2xmdk55c0JxZC1rQ2Y0M1R6ZGFzMlBBcFJVOHNVVzRC?oc=5",
+        "date": "2026-09-04T08:30:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "El MIT creó un sistema para descifrar el razonamiento detrás de las decisiones de los autos autónomos",
+        "description": "El MIT creó un sistema para descifrar el razonamiento detrás de las decisiones de los autos autónomos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNl9najZPZ1pjWHNmWEt0YkVRaGp5bUU1RkluYktJVmVWaG91Y04xWmJOeEZMYUpqNThMV3lFNHgxcnhDcEV0VFp2NzFsQ1NHeHhuWHlFcXViV2FHMU5UWHA0MmlreEMwVDNhc0RDXzBxQTl0Y1NnRHI5T2VBS0JBeVNvVzlCbFJIb3dmdHZIbVMteTdzeWJiMlNCWHJHN25YVG9Tam1vWFBJbFhzalB1VlhCbjVFZ0pxUy05MkY5RzNlblpOOXU2NjVXRkpqV2J2UDlVa1gtQUhmZk3SAfYBQVVfeXFMTjU1M05PQkUzUGt1MFdqTFhsNW9Tdm1lSTFLQlY2bGhReWpVU2lLRm56alp6cnl5Y25WNnY5SlJpOUxZUlNtR2ZlRGVvM3FhNzlraG8ycDJMUnhySERQeHZvY3JIRVJLNFB4bWoxYl8wbnAwcWVFQ0FkMUdPeDZyVzYyNUk0NUVfc29zcW40b1hwZndHOVdCbkk2UjFKLUZEY3pvZ3Y0WnVrRDR2Y1Zfcy03VzhMcG9CNkdaM3Q5UE5iRUJldElrWHA0QnpkQTlKRmM0cnBWMmJDYXZvbXZjSXY3Q1FUNUZSUEhGcWtqS1poQzBGZGJB?oc=5",
+        "date": "2026-09-05T18:38:19+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
+        "description": "\"Totalitarismo total\": cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad) BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RbmFMb00zbzBTVWZTTXh4ODh3UEFZR0VoSldsdVg5bFB6WWU1bVo2UTczcTlBR2RWd0loQ2hLRC15ZmxFbzlTRG9KMGFKRTZLcEN4SUpPV2RfR1XSAWBBVV95cUxOaW82cURadUNtSUIxUFExdjVnQ1lBRVlxTV9fX0htbGlNWWhqNmJCU0FjSDZSSnN3VUVDM09SenlNZF9kbGRlZ2lqeGI3Q2tmZ2hkaGd3S1FxTHkzTXptY3E?oc=5",
+        "date": "2026-09-05T04:01:40+00:00",
+        "source": "BBC"
       },
       {
         "title": "Cómo abrir la caja de Pandora con IA",
@@ -177,18 +177,18 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "Shale in Argentina: FECENE anticipa nuevos socios para Vaca Muerta",
-        "description": "Shale in Argentina: FECENE anticipa nuevos socios para Vaca Muerta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDdId0NNQy0zVE1hWll0T2pzVjdqNXlBRlFBendhRjJkZHhua1ZTSXRXaV92aEdtajhySUpoWVpiNUw3aVVYZXExV1ZCOFlvSUVzMFNud25rOWZrby1TZ0tQVGZ0Rmk1WVUwTkV4RFFWaEkwd3NGcnFEei1CLXhKOXp3U1J2R09ZX18tOWpOZHJrZWZkZHo4YzRqSTZ5c3ctUHUxVHBTQTNqSkdo0gGyAUFVX3lxTE1JaHd5cklMSlRoQlJxOHlvSEg5WTEtdFA4YUsyNEZVdVlEWDRNNXlvSld6dW1xTDQyMFpHMmJPamhyQWdGMUprSGZRN1FYYTBvbllXSGtXbEhSaHpBeFYweGRsbmJsZWJBNEpQdGpWVzhyeFFvTEJYWWN2ekV4dmx1cXJPdG55cTB5aHZseWFpamJoTkZvLVR0QnJmQmFqYWwtRVN5MWs3M2xWXzBERVFPUmc?oc=5",
-        "date": "2026-09-04T18:36:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
         "title": "Vaca Muerta rompe récords y VMOS entra en la recta final: ¿qué oportunidades abre para las petroleras?",
         "description": "Vaca Muerta rompe récords y VMOS entra en la recta final: ¿qué oportunidades abre para las petroleras? Ambito",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlVUZ3ExZ2Z3Y3R1LTFlR3Y3QU9DWE4xZkp3dnJOUTl5WXZFNE5USm9FSXNaa1dPNzRjbDRsVzdpMzVGdFBkWldaUUpSMzdVOWctZV9CUlNQRl9kX2stb3dPU3UxVURjeGYxZTFJRW1jcGJndzNreU1wTzJrZ3poQmcteEd3bldKZTBCZXhqN1VOOVJNcTMxbFNHUGxaSUJTQjMydFVRck9aN2ROSXdIRUNNZG1teHpJNUxZNS1BbUzSAcYBQVVfeXFMT2RYWjBnbG5ES2JDOFVPTURlZ1V3S3ExVUtpbl9GV3k1eTdhNzVpbUR1RS16VERLcHk5VldpY1IzS1hxNExYZXp3cnFIeXhIN3VwOC11NFBkakVGOElXR3llTFEtWmlOMkoyaW1aaVR6YUhuNVZhZ2lzZnhQOEZVY1VrcHluNEpzLXNFYXpwb3BSZ2paODVMSkVCdkZMQmpPQ2luSG1mQ0MtS2VXdFJjYUd4Vkt3SGlfZ0FYMXl2TWUwXzlQNy1R?oc=5",
         "date": "2026-09-05T03:00:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "Shale in Argentina: FECENE anticipa nuevos socios para Vaca Muerta",
+        "description": "Shale in Argentina: FECENE anticipa nuevos socios para Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDdId0NNQy0zVE1hWll0T2pzVjdqNXlBRlFBendhRjJkZHhua1ZTSXRXaV92aEdtajhySUpoWVpiNUw3aVVYZXExV1ZCOFlvSUVzMFNud25rOWZrby1TZ0tQVGZ0Rmk1WVUwTkV4RFFWaEkwd3NGcnFEei1CLXhKOXp3U1J2R09ZX18tOWpOZHJrZWZkZHo4YzRqSTZ5c3ctUHUxVHBTQTNqSkdo0gGyAUFVX3lxTE1JaHd5cklMSlRoQlJxOHlvSEg5WTEtdFA4YUsyNEZVdVlEWDRNNXlvSld6dW1xTDQyMFpHMmJPamhyQWdGMUprSGZRN1FYYTBvbllXSGtXbEhSaHpBeFYweGRsbmJsZWJBNEpQdGpWVzhyeFFvTEJYWWN2ekV4dmx1cXJPdG55cTB5aHZseWFpamJoTkZvLVR0QnJmQmFqYWwtRVN5MWs3M2xWXzBERVFPUmc?oc=5",
+        "date": "2026-09-04T18:36:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Oportunidad para Vaca Muerta: el gas del Cono Sur permitiría sustituir el 100% de las importaciones de urea",
