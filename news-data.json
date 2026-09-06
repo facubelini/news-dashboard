@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-09-06T00:30:17Z",
+  "updated_at": "2026-09-06T05:25:45Z",
   "categories": {
     "Microsoft": [
       {
+        "title": "Seattle Times y Newsday demandan a OpenAI y Microsoft por uso de su periodismo",
+        "description": "Seattle Times y Newsday demandan a OpenAI y Microsoft por uso de su periodismo Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGh3dW14U2JTOU96QzQzcHpSUjROS1IwYjFCdy1BSng2bkVUcTZHVmU3VlhuOWctVEtMdURrcGxoVjJKQU1tbVFUS2ZlR1ZicFIzVUlFWU9IbDMxSGlHWWIyTl9DTV9wTTRjZTlJNWM0aDZ0M1FJSEFScFhMM2JBbDZrQ1NuUk9QRHFwNWltcFgtbUU5OHFPTTNjWEVJLUFGelpQdHNPcmNOWWVQamtYMHQxdUd0aFJtOFNNOGpyQnZnZVlQWkhv0gHMAUFVX3lxTE93T1I5a2dlNWFyZUIwb3JTYWdETmhxcXNiWXNxOVpuM1l0aFhzRlRBSS1qbmFxYmZ5bERINU4wV21WX2Jld2pTU2pLcFA1ZS1EZ0xKY0FlbUNvQkYzTE9IRndHNi1oS3hVSE0yRnVpUG9iZ21HLW44Q1pWTk5IMnUwejUwWTRGNDhkRi1ub0U0N0l6bkhuMUx1bFFFOFFSLTNIVWwwaXFYOVN3UjRMWHhyMHJRVVI3NTZSZjhza29lQzg5eEFQOGgxakp6aw?oc=5",
+        "date": "2026-09-06T01:11:59+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
         "title": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares",
-        "description": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares Infobae",
+        "description": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares infobae.com",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN3FlTjRJc3lUNVdqelMwQ3Y1djBYdGIzR1VULXFqODJzejlyeHkyaFMwNzcydm5sUDRWSjFsYzdhSzJZRDlzQ29PX2pCcGQ4a3hfZTdNTHhxMTBXbGItUUVNV04yVW1fZGlhTnJ3VWNBcVU4SmdjY2wybnNZY2dncWNKeGxrMGFvcFlwWV9NLWhacHZEMEdNbG5FaEdOSnQ1WHJzcWktQlB6WktHZkw2dEJ2VkVuUVhmdWNsMW1Wb0JKNEtPdGpXM0dvMkN1Ul9fTURVZGFXZWvSAfMBQVVfeXFMT1Jqa0tROEpFQktHeXFjcTRXUFZYeXljMG9iM2tBRkVfWmRBUXVKZG12azByZW10VFVJNUtNaE50cEZiREhiZHFIa0FIb01Xa08wMUI3UGFMOWZ3ZnlUTXFjdjZlbWhqUEZoZ1NfVjB6RnZwS29TY3RuQldmM3B4VWJIY0daVktxcTJHLXBFaENUdFpZNXhBeXZZc3JfVmVDV2xQRTF4aTlWSDVDZE0zb0xVdW51aHZPTDNac0JRTDdzT2s3UXluQTMyXzJFUk8xMzRtT0VGc0hnZ3Ezd3YzYl9Rek9tZjBrYnRNNjY0SWFHVzd3?oc=5",
         "date": "2026-09-05T14:10:00+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
+      },
+      {
+        "title": "Claude llega a Microsoft 365: así funciona la integración con Office",
+        "description": "Claude llega a Microsoft 365: así funciona la integración con Office blogthinkbig.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkxNdjVjWnNBOTlicWFDRGVEZlBNeE94T1FpcVlpZTU5d1o5Z3FmNDNSR2pyaU9zZ2ZNemNGN21pT3VaX3pIdUNIVU5TLTM4blpSZks4NS1WMy1zbWxQTXBxZDdidTJFSC14eGtScWZSN3ZqTVpCYVBJeVhaejBNWmZwZHJwRWxJTFJCaHJvdDdBU2NJMEdR?oc=5",
+        "date": "2026-09-03T04:01:52+00:00",
+        "source": "blogthinkbig.com"
+      },
+      {
+        "title": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo?",
+        "description": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo? Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnZqTHJLMDlKVDVBZlZvaTdBdmM4ZkJHYTRxUUpHSzVLR1B0djk4aEtqcEhuMUc3VmgyQWp0eWpjVVYzMEt0amZna1lDQjJhOFcwM21pV3U4eTQxenJVVzdSQjN3R0tUbExsa2V5NWkxVllORjBQNzlZanlFWVU4TkZoV00zT0FPdHBLZXpiR045WmNBYjdMSEJyX3U3eHhsTnU2MFhMcTBDVlpITkxucXE4dWJpTmvSAcsBQVVfeXFMTl9JdFI2bTNudV9rNW9aVjNvYm5uOUk0NGpoWnBmTldlTGctbkNSRDFyanRvM1c0WXJUNWZKZk1RRHZsNlpXVC1jMkxObnNSM1Z2YjE2VlVnTEpFNGs4aFdtUXRvUjJpN0xIc3A2bjVCSnRTVHdOemUwVUxRYU9vVUh2TUs0eUxBWi04WGlwcWM2Z2IzRG5uNG82R3NQU2hZVVlEQ3psQ1RSd2h0cDdjWGF3U18xRzcyMTlUMUlKWWZoWFl0eGtUUEZVVk0?oc=5",
+        "date": "2026-09-04T18:04:03+00:00",
+        "source": "Bloomberg Línea"
       },
       {
         "title": "Sony y Microsoft se niegan a devolver un solo dólar a quienes pagaron más por sus consolas, pero las demandas se amontonan",
@@ -17,39 +38,18 @@
         "source": "3DJuegos"
       },
       {
-        "title": "Siete funciones mejoradas por Microsoft para recuperar la confianza en Windows 11",
-        "description": "Siete funciones mejoradas por Microsoft para recuperar la confianza en Windows 11 MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON08xRldWV2Fwb1dueWpqS1JuWkcwMGJSbXF2Y0o1SHUtQzVqU1AtY2h2eGkySllTcUpQYlhRU3VONmh6RGxOVmNnVWJPZjBkVE1YM0RJWHdXYkIteHQxcEFyZnk0elJpU2dPU0hzNVp6SXVaWUZIUzUzQXc2SDFSa0cxd29Da05RSXM2YkNzd2hWMHptdnZRQndPZjZZQ096RWlpRVk3b1g1WEpMZlB0SDlSUGI4dGhXajlBb2lB?oc=5",
-        "date": "2026-09-05T09:04:08+00:00",
-        "source": "MuyComputer"
+        "title": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo?",
+        "description": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo? Rosario Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVZBd3NvS2VwbFBMR2NlcnpMdkNncEo3b3Uyb2wyQVl4SHdHTHBaWkF2RTNmZFZSSGs5aktETHFMWWYwZERNQjl4eFBoNmRhQms2VVlvajNrRnREMWtfRkl3ZmlSb1FnM3R0RkNoVUUwZUlTbFV5RFdlWUtLdGh2NWFQSWoxdHl1c0UyRmc0SklvZTc5VlFlOEtaLW91UlN0QW1xeE1Za0x0cXJMeHlEUw?oc=5",
+        "date": "2026-09-04T18:04:03+00:00",
+        "source": "Rosario Finanzas"
       },
       {
-        "title": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate",
-        "description": "Microsoft limitará a quince horas al mes el uso sin coste extra de Xbox Cloud en Xbox Game Pass Ultimate Eurogamer.es",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXBhMjdFTkNBVGZGemFKT2w1enVBODBOUldDUEtsVTRISHktdUxaMTQtNW0teFJEMHdwVnpPVHVENDBBcUJfNWtsS1pBQnNockVvOVF4WW9qWmhDRThNRXE0emhZMFc1b1RKVi1WRmlvQm5kVDhiamtYRkpXTE5FWGRjb2xBMHQ4aTVqSm12cFZZeE9MYkFmZFFSSm1BR2wtWTYyOGM3MV9BcUFqbEpGUEpGc29CREdMcGtsd2xMbXRrNFJIRkFyVQ?oc=5",
-        "date": "2026-09-03T17:53:57+00:00",
-        "source": "Eurogamer.es"
-      },
-      {
-        "title": "Microsoft lanza MAI-Transcribe-2, la IA de transcripción de audio que compite con OpenAI y Google",
-        "description": "Microsoft lanza MAI-Transcribe-2, la IA de transcripción de audio que compite con OpenAI y Google SoftZone",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ablFnTW1iYkR0LXpiVmppQTh6TDFXV2Zta19rU2lNaWlqeno0ODRlRXZQYk9KZUYyQk45cXNiSlJvQ3NiN2FGR05RaEZZWkNETzk5bmd3V21NVjBJcF9fczlKcklYVDdfQjFmamdfNnhvRmZYbG9Ddg?oc=5",
-        "date": "2026-09-04T14:01:33+00:00",
-        "source": "SoftZone"
-      },
-      {
-        "title": "No hay trato: Sony, Microsoft y Nintendo rechazan compensar a los jugadores por las subidas que motivaron los aranceles",
-        "description": "No hay trato: Sony, Microsoft y Nintendo rechazan compensar a los jugadores por las subidas que motivaron los aranceles Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRm9zVWtpOF85RjVfTEttSERnUmlZbmxXX2RROERjU3FsZFhtY3g1LW5SaHF3U3QyeTZqalpFbjdlVkd5VHpMWkRkSjREN1pnS1ZLNTc2RkFvQVBPa0JybENGQUJKSVBVSDlGZFdBN0NXdTIzaXJNeGhEcXE4Nmw0RmJ4THVGZUVrRnV1WWNibEV3SWowSm91dXVjUW8tTW9ubzZrQlNmOHU2cFpxb2gzOWNQQThFUFJvYVFKY3g5VWQyREFxVGcxaVpQUl9JRjVKVWZncUpxS2s2ZFBuYU0yMzRaM1QycFNla2NUWnB30gHzAUFVX3lxTE1VUFZCWmxpZXdib19QajY3ZV8wR0VtVHdyZmR2SzJJdHpqb18wQ01rM09FWF9tUkdqV3pNcHRXemZVamRVcEFHT0llVFdvX0w4S1FjUzZkUmVyelZ3U0FUQ2tnY0pFUVVyWVduMEFJRGUwYTAteTZOVVBFV3d0Z1NoMzJGX3ZOdU1lNkJEdTgxaldzeWRURUJEdTlQMjByRXhJT0RjV1ZDOTdUemNKXzRtTjZHSEtaS1VEaFB2eWcyb2tvVUt6eENrb2dsTkhpaTJzbFdaYWtRQ245dXNQcVdqektTZUd0YUMyZXNVaGZKQ00yMA?oc=5",
-        "date": "2026-09-04T09:43:00+00:00",
-        "source": "Vandal"
-      },
-      {
-        "title": "\"Ya no confío en la industria del videojuego\". Los sindicatos de XBOX declaran la guerra a Microsoft por las indemnizaciones",
-        "description": "\"Ya no confío en la industria del videojuego\". Los sindicatos de XBOX declaran la guerra a Microsoft por las indemnizaciones 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTklPZ3JwSEloOUkydHAwZU11MWlCWnZ0TlZYS3lBS1REQU1qak1LempvM01UaHJMMGMyeUFzRy1fZnJWbFQ1ZE1GQ2pTWVFhLUZEbEZDRmtFMVNUV2Z4aDNhMExybGI3TmdsQTl2RHRPdWFVcU9OcHdZRk5IY0VhMEZyYWJtMWpVUlA0THZGQ3ZQLUZPR2stRXRjWjdwbHIyMTR5c3VWeUlaWjZkQWoyQlUzdWZBMVgyOXR2eEZpaVFFWkN4dEl1UlplZTRlSVNvVXNjQUdn0gHbAUFVX3lxTE4tcmZRcDZCY1RMZkN6VTF2a0tSR0hYLU03NVBOX1hRMmN3UXJlV1NJNVFTYlpPcXlaWkVUdl8zdVVxcmc5djlxWV9va0tSaktrNmJYQlZfbDJZMnBFSk14cXd0MWZxbTZqYnJERmNOV0NLTkZrNGpGRTFwWTNRaTVzZGh5RlBjWGRhaXhDVGJOcVZ1ZW1CTVM0a0hDZjlSUU5ld2tpNEtIX0ZDVHhYWHA3Qm8wOUdSTUhUZ2t2eXBSZnRRNmJoMndiaGd5b29KYnh5MF9kVm1CZGx3TQ?oc=5",
-        "date": "2026-09-02T11:30:15+00:00",
-        "source": "3DJuegos"
+        "title": "\"Tenemos una ventana de tiempo limitada\": alerta de OpenAI, Google y Microsoft a los gobiernos sobre una nueva ola de ciberataques con IA",
+        "description": "\"Tenemos una ventana de tiempo limitada\": alerta de OpenAI, Google y Microsoft a los gobiernos sobre una nueva ola de ciberataques con IA Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcEZtNjloZFpHZzNDVTNLWVIxZFV2WGpZdjNXbFdnazd1ZThwRTk4aE44cEMtRjZMaFE1THV0d2ZfYXJ5RHRpRm1UTE4yZ3RfeDZNMTNsYm9Id2czM2ttT2RHdmlJcEFvY1BWNHFPUk5GX2hxZnNHbFVMUks4Nl8xbkJiaFh5TG1wb0F6QWRhR1I0aTJNaFd5S1pvbUx4MkE5NVFZMlg2M3IySTNldndjMXczaWQzYU1lVktWb0JpX2JPWTVKdEk2X3lmZjg3cFktTEY2eG9ITFk2UdIB3wFBVV95cUxQVEZGeVgxckdibTZNVnF2YVY0MzB0NkttZHk2SUlQWUNqNDNob0Q4Sm1xQVUxdkxsVWRtcXFGRDgxM0RvVlg0RWxTN3pDT3M1WHhyc2lyakFOQjRZSTN0WjZQdDBId1dkLTY2U2RBT2MxVzBpU0xKRHVRM29SM2xsSmY0NGFMb2hrWGxHbzBESElhM1R4NF9wamtzcl9ZbVJXTl9zTzRPUmV1cWRPLVlTcGtESkRoSjFiS2pnSHU1TnN6bHhYX1c2RUl5ZTl2aTRaTFlXZVBRNEhBdzNmcU44?oc=5",
+        "date": "2026-08-31T08:45:02+00:00",
+        "source": "Clarin.com"
       }
     ],
     "Marketing": [
@@ -68,13 +68,6 @@
         "source": "ArchDaily"
       },
       {
-        "title": "E-commerce 2026: las 4 palancas del marketing digital",
-        "description": "E-commerce 2026: las 4 palancas del marketing digital El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdW9vcHA0aHVaYmZ2RkFsOUp1ejdWeWNLSk15V0dTYUd0SVZmUXpfcVI2N3c1bkl3S0FDN29oc1RSbzdqMGl3aEpfMEJJdmYyNnJGNmZfaWtBbFN1OExHTFN5bmRqbVMtWUNCamhfbno5aHQyOUxaNXFfS0ptcFROTGNlUVhZMWFoRERJ?oc=5",
-        "date": "2026-09-05T15:45:44+00:00",
-        "source": "El Ecosistema Startup"
-      },
-      {
         "title": "Marketing digital: Llegó la era de la personalización de la mano de la IA",
         "description": "Marketing digital: Llegó la era de la personalización de la mano de la IA Urgente24",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDM2YnVtd2x3MkdSMngxTW15X1Z2WmdINUlya1M5cEVsR0xVeURQRzh2dG5xS3BCdEdfN0l6WHVUaTk1OGwtUnI3dzFaZ3RFVDMtWmJqWHFZaFFlZEhDWmdIdnhqTDNkLUpEdGJhUkNMRG5ST0p5RV8yMmxtcUx0b1g2R09nemhfRXMzMWNuRVl6ckN0cUJGSzZkdHpLWWFBNDJ3cTFGcEl5S2vSAbABQVVfeXFMUEtrakpPd0hkcEp2cEdUa2xtV2lTRW9pcWYya2dLVTc2T2ZhNkZ6a0I1cVFaQl8zUWNwSzJ6WC1nbkgzTWRHbzd2Y05uREJtSUpTbkdOdGF4Q0JpVVdFN0YyaTRic1I0UkR2X2pLQ2VHZWdZbG5zT2szNjh5SUduVGJDM2tFZE9IWTVvWWNPR2VSTWlvMnUyR3YzOWdNYlRwNjZURFhWS25HMkgzbzZCVGc?oc=5",
@@ -82,11 +75,18 @@
         "source": "Urgente24"
       },
       {
+        "title": "E-commerce 2026: las 4 palancas del marketing digital",
+        "description": "E-commerce 2026: las 4 palancas del marketing digital El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdW9vcHA0aHVaYmZ2RkFsOUp1ejdWeWNLSk15V0dTYUd0SVZmUXpfcVI2N3c1bkl3S0FDN29oc1RSbzdqMGl3aEpfMEJJdmYyNnJGNmZfaWtBbFN1OExHTFN5bmRqbVMtWUNCamhfbno5aHQyOUxaNXFfS0ptcFROTGNlUVhZMWFoRERJ?oc=5",
+        "date": "2026-09-05T15:45:44+00:00",
+        "source": "El Ecosistema Startup"
+      },
+      {
         "title": "El método digital que convierte el tráfico web en ventas reales",
-        "description": "El método digital que convierte el tráfico web en ventas reales Infobae",
+        "description": "El método digital que convierte el tráfico web en ventas reales infobae.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZldsNWJvampwT0ZDLXpnUWNKbFBpVm9lQXNhNkF1dHExMldnYmVuZnc1bml5cFA5NmxqM2dqbGR0VUExOFhNdUtlb2JDVzFVT2ZIWFNYUXpwcnU0ZTVaSFFTbENXSktUdkVMa3N0UXpxSlN0WFhlekprdXJPNmU0ZW9rQ0l3ekt5dWc0cm5sa3RNZ0RKbEhqVm5YZnRya2dOQUNhOExZRTQtZWvSAcYBQVVfeXFMUEZsTi1WUDc3RkRBWWhXZndpN2hUcXVTcXdFM3N6cmJFWVJXTFBnMUZIX04yLUdKaF9uUm9fVDFQVGRhMVQxSzJZZE5DU05FM1VHeGhTQWNWZkJEVXZGenZGb2JVcE5mU0c4NC1LZFQ4NGtQVXhldVFLelNsUVRLdy1jTG9LRVFCeE5JN05DUS1aU0s4X0ZkMkVlb1FzQUdSWndER0dpWk81RHAxX2d3YzVRX1B3bl85VFM5TjRGekNIXzdnTVdR?oc=5",
         "date": "2026-09-03T04:01:00+00:00",
-        "source": "Infobae"
+        "source": "infobae.com"
       },
       {
         "title": "Marketing digital e inteligencia artificial: La nueva diplomatura de la UCSE para potenciar proyectos y negocios",
@@ -96,11 +96,11 @@
         "source": "Nuevo Diario Web"
       },
       {
-        "title": "Lali Digital: estrategia y personalización para hacer crecer marcas",
-        "description": "Lali Digital: estrategia y personalización para hacer crecer marcas Caras",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnNiWW83VWU4RURCcnBPT2VwOEc2ckZJYzVWcG9nMXZRT25SNTAyN2hXOVg3aDQybnNqUDhyNFIxbkxxNEs4UHFZZW1OMFFqa3d3ZmhCSGo5dUo2MXRlQzBnbjBjcTNpRlJ6S0ZlSElxT0g5OFZ4aU8xQ25nekVSTHcycXNPdWdKRVBWMlZ3a3lKVExBQmxGM2ZjVUo3X2N5TzEtRzFYdUZFclJ5eGxuSXVMMnJ1d0hP?oc=5",
-        "date": "2026-09-04T05:20:51+00:00",
-        "source": "Caras"
+        "title": "Aleph y Roblox amplían la venta de publicidad digital en siete países latinoamericanos",
+        "description": "Aleph y Roblox amplían la venta de publicidad digital en siete países latinoamericanos mercado.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenFtOFlrRG8wMlA0NVRrUm8ydVoyMWtuM2pjN0ZGeGI2OHBQSTBWTVpfSXBnTzYtdnlPdVNXd0lFZ1pOOWVaMjhMZ3dVY2hlUXozOWlWdW1wWjRDeEMtMUl0aV9ka2NHNFg1MTlpXzdzYjB0djlpZ3VjQUxPeFNodWtva2p4OGFUNXZsVERmdzlUd1VmV1JYQ0F0cVNjakRMTU83Yi1qZ3VaMkM2UVZFb09Yc0g2cXQ1eXY4?oc=5",
+        "date": "2026-09-03T10:36:34+00:00",
+        "source": "mercado.com.ar"
       }
     ],
     "IA": [
@@ -112,18 +112,18 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando?",
-        "description": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUdISzl1RTZfcE9uc0JGTXFxNkN2Y3ptSkhfYW9maDJqMGF1SmdYRkRwVmk1aVVpeVVBaDZLNTU1cVpfM2V0NmRqb0JVRy1YR0tTNVMtS09ZcGFhWEJSaV9TV0tMUnRSTGJkQk1QRHZ2cDBBOGNJdFpYcGlvdklOel9KQ015VjBKazMyTUUtdDJPZlR3WGNzd2EyTWhvd3hzQWpvUFBiS2dCSnNHSURPWWNFMk5LMWxQM2lkV1lIVjFQd9IB3AFBVV95cUxQYXZCY3o4RGxaTDNFRjRLZ1M4VFl4cVRabmxBR1YwRHExQ2t6VmVKbXhvTURQR0E0dDhvbWo3bl95eFFkYkRVNVd2blFlSFBOeHR1OWprZnVmSWRYR0wyMmJ4RkVjTVRIZE9LMGhrUmNUZE1RSENNeGhad2lSdmhtSW0wNENKbVU4OTVicFhlejlfV2ZIZGVxV1c3dTFKOGZwMVpzSEgtQ0lkOW4yZmdPU2F1WnpleTNSeTBrQ3ZLdWtOVm9SQjV4VWRMUDZidFdXSHdOckJtMTQ0RGN2?oc=5",
-        "date": "2026-09-04T12:44:00+00:00",
-        "source": "Infobae"
+        "title": "Promoverán la inteligencia artificial en las aulas tucumanas",
+        "description": "Promoverán la inteligencia artificial en las aulas tucumanas La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNTd2X3RzS3l5NVJvQ0ZUaWhSbjM5VzhsV0tEVGVlVUJqNTVrZGFZbTdrV3MzQ3ozUk1rVWdRTFZ1UzBnQzlPcGhJSkVoQkowZVVubU1JdlBFeGY2VkdBZE9RUzVLV3FLbGdWekxKN09HY2JyOXlBbVdoRkExdVdYT1RwLUlLdTZPamNhcko3VEpsZWM1ZlI1RzFEMWgzN2FMak1UMTV5S1LSAa4BQVVfeXFMUDd3Tk85dDhYWldaWVZmRVNRVEhBaE1PSWRMVVMwWnNUdjdLNDNtQlk0NDRUQUtHZUZTdkFFVGpKVGdmaWxlUzM2a2J2VWRSelVVRmZJT1JaWGJOLXNYREJ5ZWZLLUZpcWRkcVZxTW5Nb214SDh3MFFjcVN4UFJSNUMxOWFmcUkzeFowMi05T3ZkUnUtbUZmSVB3dDVXdFdaUkU1TmFYV0tEUzd4TVJB?oc=5",
+        "date": "2026-09-05T02:43:32+00:00",
+        "source": "La Gaceta"
       },
       {
-        "title": "A la escuela con Google Gemini: la Ciudad abrió la puerta para que las empresas de IA entren a las aulas",
-        "description": "A la escuela con Google Gemini: la Ciudad abrió la puerta para que las empresas de IA entren a las aulas Letra P",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQkNxdnFjNzcxMkRiam53N2VBeVpQanRxRGdMa3BEc1QwX29BUWlJRHM2dV9XbDlvYzBoWXY4Qmk1eU83MWtOYkxwUm9TczNqUmNfTEU0VUNOSmt4NndSOXhDUlZNcGg2UnNnZkJlME9uQ3BfaEFiYkVUekh2V1lXNy10U2MtQWZVWG9aZEVoNkI5VDc4YW8yYWR5RF9veDN6VTFFdXZBenJNci14N2F3VkgyS1pULVJrUEh1bmdvNy1nQnVZNVZTa3lRZ0QtQW5FcTdHaDEzRnM4UEtxdU9jd0J3?oc=5",
-        "date": "2026-09-05T12:53:00+00:00",
-        "source": "Letra P"
+        "title": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando?",
+        "description": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando? infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUdISzl1RTZfcE9uc0JGTXFxNkN2Y3ptSkhfYW9maDJqMGF1SmdYRkRwVmk1aVVpeVVBaDZLNTU1cVpfM2V0NmRqb0JVRy1YR0tTNVMtS09ZcGFhWEJSaV9TV0tMUnRSTGJkQk1QRHZ2cDBBOGNJdFpYcGlvdklOel9KQ015VjBKazMyTUUtdDJPZlR3WGNzd2EyTWhvd3hzQWpvUFBiS2dCSnNHSURPWWNFMk5LMWxQM2lkV1lIVjFQd9IB3AFBVV95cUxQYXZCY3o4RGxaTDNFRjRLZ1M4VFl4cVRabmxBR1YwRHExQ2t6VmVKbXhvTURQR0E0dDhvbWo3bl95eFFkYkRVNVd2blFlSFBOeHR1OWprZnVmSWRYR0wyMmJ4RkVjTVRIZE9LMGhrUmNUZE1RSENNeGhad2lSdmhtSW0wNENKbVU4OTVicFhlejlfV2ZIZGVxV1c3dTFKOGZwMVpzSEgtQ0lkOW4yZmdPU2F1WnpleTNSeTBrQ3ZLdWtOVm9SQjV4VWRMUDZidFdXSHdOckJtMTQ0RGN2?oc=5",
+        "date": "2026-09-04T12:44:00+00:00",
+        "source": "infobae.com"
       },
       {
         "title": "Inteligencia artificial innegociable",
@@ -147,20 +147,20 @@
         "source": "BBC"
       },
       {
-        "title": "Cómo abrir la caja de Pandora con IA",
-        "description": "Cómo abrir la caja de Pandora con IA Página|12",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTN5TE9ncEZPSmRFVjNCZTNJelZIbm9vT2JYZlprU2dlbXY1V0Rzc1A2ZHRBSFJzWWdHTThjbHplQ1Zyd1dXWXlIY0JYNWVNdUVwR3E1bDVZdTdsTnVZbE0wUmhzbkI4RUZjM1lacGFGTkRGaGtCLWNORTI2OF9XcHp3?oc=5",
-        "date": "2026-09-04T22:58:26+00:00",
-        "source": "Página|12"
+        "title": "Aseguran que hay 7 habilidades laborales que la inteligencia artificial no podrá reemplazar",
+        "description": "Aseguran que hay 7 habilidades laborales que la inteligencia artificial no podrá reemplazar lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLWxkbGNlNzk4UHZFeWZObU55YmRQVjRuOTBZdVlLZHF4QV9qbUZhWXFmVTVvWVpJeTJwMy1HMjZiME1iUFVhbXVfXzUtQVgyX3JTVHoyMzBaT3hrazBlRUE3U2lpek5GS0Z4WTBaNUxQckJRZzhlOWJzNTBZNDh6dmdMbXpNdjdRX1BJUTVmVGZxX0E3aXZYTkdsRUN5S285R05GYzBDTlNzVE8yc3FBXzAyNVp0dlVRaWZkdll0ZkFYTXVCQ29tZnc4Z3d3Y2FDeG05LTR3SzXSAd4BQVVfeXFMUHNhWmx0MmhjTlVnZVJnN2pvNGs0U0oyQ2VONmlMaHpyUHpqdXJmclJyM3JjVHJsZThxRUFyUmIyLU1vT2pqUkVhVkNwU0MtMnEteldjallyQzZ0VHQ0R1dURjVzanBQT1hsTWMySm16Ui1KN1pyRlJGbTEwOVFvRW9CLXlMRTFSZHZ3RXhCallvQk5CSkZ4UkxKaDJrVTdBM3JDTjBPblRzUmFUOWhSbVNTUjBfRFdlSHctWXFYTDZnNDdVRV9xSzlLRlF1QS1LRU9GQlVfQXpRSTh4WHBR?oc=5",
+        "date": "2026-09-05T17:06:00+00:00",
+        "source": "lmneuquen.com"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "SLB, uno de los gigantes de Vaca Muerta, descartó toda actividad en Malvinas",
-        "description": "SLB, uno de los gigantes de Vaca Muerta, descartó toda actividad en Malvinas Diario Río Negro Argentina ratificó que tiene el respaldo de Chile y advirtió: las empresas que operen en Malvinas serán excluidas de Vaca Muerta Infobae Las tres empresas de servicios petroleros más…",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGZVSVBYc2M4c3plQ0tXZFk5elExSnQ0SC01OUVrSlhONlBlX0Z4V1UxT3Nvak5CTWwwU3h2T1NOTE1mZXEtdDQ2UzhOajlSUmYtMTVOZF9hMVJfcDRQZDNXMWVCMWVpTkx5azY2OTBYa0hobk4tdjJVYy04Mk50RHN1cVV2NHdvX0dnVjFENzg5dWw0dlpWYnQ4REVJWHNxTngwdlVwdWFSWXBWeU00bFUtUDBZb0VEaENCZDc5YWhxSWNxTk8ta1RmQXA0d9IB1gFBVV95cUxQT3A1Y0hyYzl5eUJwelpUUDZIVW55eGU2ZXduZnZoVkdZaWp2QkZsekhSN21SeXdTc3ZkTk9YdmpDNTFFMU5iZkdiOE9KNjNLc0laMl9zYlBISGkxbFlkMkxqQXFDX21DZGlJUU5yNHpqMTJ5aUhXTkdtN2l1YmVuOEtvSlZYY0VfQ3FLZl9FNEpxYnNTRFh3X3JpZEhrNmJZTmVrd2h1dWlkTkE5cmgwbXZ6OS0ycFVIakpqZkhYd2JTcjRBRFB6TFA0X19wTDRscGZsUEp3?oc=5",
-        "date": "2026-09-05T16:37:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "Las tres empresas de servicios petroleros más grandes del mundo anunciaron que no harán negocios en Malvinas",
+        "description": "Las tres empresas de servicios petroleros más grandes del mundo anunciaron que no harán negocios en Malvinas Clarin.com Una de las empresas que opera en Vaca Muerta no participará en proyectos de Islas Malvinas lmneuquen.com Más polémica por el petróleo de Malvinas: un proveedor…",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMndHaGlhbDRsb29wcnFFbThESzZ1M3M2V29jZUlfdFktTFZDaloyR1VmTFZzN1RVdXl4aXdLWFNfelE1cUQxWVpBRHhUYTV2QUpuVl9pOUY0OWg3UWZJQ05xT1BsaUZLSGYtd0hNaEY3SEZVWXZSQ1IwN2ljVjg0QmswdnktWmU1UFhxWTFKSk5LdzdlUlpGNHliR1ZXQ194bzh1WWFUM1ljRHdZWHktQThmaHVxSUd6cEdSLXJLOExwY205Y0prQnBRSW0wdDhjRnd3eEVzQVNvcUUw?oc=5",
+        "date": "2026-09-05T14:11:19+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Vaca Muerta: Mariano Gaido y Rolando Figueroa presentaron en Houston el polo de inversiones",
@@ -184,6 +184,13 @@
         "source": "Neuquen Informa"
       },
       {
+        "title": "Las inversiones asociadas a la revolución energética",
+        "description": "Las inversiones asociadas a la revolución energética infobae.com",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFo1THdQTWFLWDYxWlhaX0hJdXRXTDRONmZpR1pGZXdEZThmUzhCQzB6MkY2Wm90WV9QbTBTN3ZURTg4dzI4TGlDcldIZVZ4Mi1LTDlYLWc2dEJNZzI2VlhMYi10Zy1jXy1nLXo3RXhrUDc3OUFXeGphdGoxMjRuVFpkYXRHTmRMNnlSVVFYSkNLdzkzY3VuaHRqUE_SAbcBQVVfeXFMT1FIaEREaEszdlhGTTRHNWZLTmNSMllLNTg2T1lVenNoTE1SY3BYYmRwVzZsSlM1WWgzaEI2Um55M3NwM0JYalNTU2RQVUtaeXBXTGhmOWhIV3cyZUlwbTBuOHlzQ1ptc1BwVTdyOGtzSVBTYkszTXc4SzJDZVRQRm5VMVIydHlFYUN6elphUC1rOXAwM1lobkNSWWlBZ3NPQ0ZYd244LUhDYjZQNHpHTFp5bE0xR1hZ?oc=5",
+        "date": "2026-09-06T04:14:07+00:00",
+        "source": "infobae.com"
+      },
+      {
         "title": "Vaca Muerta en perspectiva política",
         "description": "Vaca Muerta en perspectiva política Página|12",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkVNWWxtUTluUHY4UUxhcEJMOTR2d3Zlc3NlYWxZN3dYa3psNWI4eUNWTmc0TUo3OXI2aXhZSHNqNTBzMDNVb1hyMUpRLTR3TkcwNEp6bWNWbV8yUjB2bDV0WXlGNUVmOE5kLVBhcGJmNnZBNThCdjNwS1E5LTNwUA?oc=5",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlVUZ3ExZ2Z3Y3R1LTFlR3Y3QU9DWE4xZkp3dnJOUTl5WXZFNE5USm9FSXNaa1dPNzRjbDRsVzdpMzVGdFBkWldaUUpSMzdVOWctZV9CUlNQRl9kX2stb3dPU3UxVURjeGYxZTFJRW1jcGJndzNreU1wTzJrZ3poQmcteEd3bldKZTBCZXhqN1VOOVJNcTMxbFNHUGxaSUJTQjMydFVRck9aN2ROSXdIRUNNZG1teHpJNUxZNS1BbUzSAcYBQVVfeXFMT2RYWjBnbG5ES2JDOFVPTURlZ1V3S3ExVUtpbl9GV3k1eTdhNzVpbUR1RS16VERLcHk5VldpY1IzS1hxNExYZXp3cnFIeXhIN3VwOC11NFBkakVGOElXR3llTFEtWmlOMkoyaW1aaVR6YUhuNVZhZ2lzZnhQOEZVY1VrcHluNEpzLXNFYXpwb3BSZ2paODVMSkVCdkZMQmpPQ2luSG1mQ0MtS2VXdFJjYUd4Vkt3SGlfZ0FYMXl2TWUwXzlQNy1R?oc=5",
         "date": "2026-09-05T03:00:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Oportunidad para Vaca Muerta: el gas del Cono Sur permitiría sustituir el 100% de las importaciones de urea",
-        "description": "Oportunidad para Vaca Muerta: el gas del Cono Sur permitiría sustituir el 100% de las importaciones de urea econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoTmx1SExZQ2dNb0V3aTU1cUlVUE1iSWs5eHRLa0h4WFRvVDNYSGpjUFJ0SFJKb3R2WlYtcjRURmZxM1NQVS1yeXJlWTFiLUZjNXNMZG40YTlUc1oxcDVWaWlCQmYwQ3RIa1JsMlFRMA?oc=5",
-        "date": "2026-09-02T20:32:07+00:00",
-        "source": "econojournal.com.ar"
       }
     ]
   }
