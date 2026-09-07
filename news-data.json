@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-09-07T00:37:30Z",
+  "updated_at": "2026-09-07T05:35:53Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "La verdadera razón por la que Microsoft eliminó el Pinball 3D de Windows Vista",
+        "description": "La verdadera razón por la que Microsoft eliminó el Pinball 3D de Windows Vista Infobae",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDRZSVBZNUxVMzhRbU15aklCZXVROVRZQjVLa1h6X3JGbnJZWXNwTnctUmdUczg3VWZJV2hVblFCRFRrSVFlTHpiQUVNczJ0RWxwYXBJdnhNZnk0Y29jTGFUSXZZMzZHeng5eWJlcWVYUjRhYnRPdzMyNHBteVZGaFdHdDIteWQ1eXNQLVNxWkx3ZVhnYkRQUnFfWTFJSS03cDN6dERrUnh1N0RTNkhabFNSd0UtcDJvbHNBMdIB1wFBVV95cUxOTkduaUV2YXcxUnptMEtXLVdKQng5QVFIR2pzSTNyRWZZclJDVTIzSnZ6NWhvNV9hUGNHQU93MTEzMVhFVjZsZHpGbk1wYk9CbkZyYm5KVUhtOTh3LThRLXo4YU16V01KWERJd3U4cG5TUFRIMFdzc25WRmQyQUx2OEV5Slpyb09HN3NXMGNYTmtVaklVbFBjUEFjcU9pMC0zekdsWlEwZ2JqYmVtQmZfNEQybU1rbHE5aWJPY2lhS2hwY3JFY1VhVG92S0RXZ21yVXFJNFNiRQ?oc=5",
+        "date": "2026-09-07T02:53:00+00:00",
+        "source": "Infobae"
+      },
       {
         "title": "Claude llega a Microsoft 365: así funciona la integración con Office",
         "description": "Claude llega a Microsoft 365: así funciona la integración con Office Blogthinkbig.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkxNdjVjWnNBOTlicWFDRGVEZlBNeE94T1FpcVlpZTU5d1o5Z3FmNDNSR2pyaU9zZ2ZNemNGN21pT3VaX3pIdUNIVU5TLTM4blpSZks4NS1WMy1zbWxQTXBxZDdidTJFSC14eGtScWZSN3ZqTVpCYVBJeVhaejBNWmZwZHJwRWxJTFJCaHJvdDdBU2NJMEdR?oc=5",
         "date": "2026-09-03T17:42:42+00:00",
         "source": "Blogthinkbig.com"
-      },
-      {
-        "title": "Qué pasó con los juegos de Windows, por qué mataron al Pinball 3D y a dónde fue a parar el Buscaminas",
-        "description": "Qué pasó con los juegos de Windows, por qué mataron al Pinball 3D y a dónde fue a parar el Buscaminas Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSWgxSVlFXzB0aDcyRTY3eThXYTZXRkFaUzdyWV9rRWZVWWppNE1tQzJpb3pTeEUyVXVrRGhkY0JfZThaQnotZUxManUtWUY0N3ZDUkhLeWxRZVFiZERuVTFWUUljR1U0THFfSWJXa1AtZHJtdzZkamVBZ3ZyeTBiWndwbk9iTGRBc0ktdjVVX1NxTDV2Vl9lUlR5OEhadEp5dHI1SS1xdmVCa0nSAbABQVVfeXFMT3dCUDBfQTdqUDduZ1g0Q0FUR2VyNUNsNjBwOGtraUpXcEJxS0lrdW5zMlNldm5SWll3N0NBdTg1bEtyeTE0V0ZrRnpUdDN0cENJekpidHlLdTdWWUNKcjkwTWNjUGdyUktBX3FLcXFDZUdTQjZiZlJSSXRDUC1BTUdtSkhOSU5tVnplVjhMZG0tRHF5clZ2ZXhSYVdzZndSbGFyUEg1aVZKMGZzMzVSbVU?oc=5",
-        "date": "2026-09-06T09:01:13+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Microsoft apuesta por la IA para crear apps nativas de Windows 11 en 30 minutos",
-        "description": "Microsoft apuesta por la IA para crear apps nativas de Windows 11 en 30 minutos DiarioBitcoin",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSi1TZHpvcmcwZ3B0NTBwLUljeTFqOEMxTUZhWHIwa3JYY190TjRCaktiMTM4OENqc3ZSVTY0WTRld1MtamJDT2Z0T29hOG5YMVJ4X1U2alZYeVRBUVp6RU44c1ZNYW1vTl9tQjc3SHVxclZXbEFYSUt4WkhiTV9CaFVfYUtzVVJ0Ml9IVXZmM1VIZExiTllwNjQ5Vm90cld1R19mbnJ0LVM1VUt4UWpzc2ZXQ1IyVDcwZUhtczRn?oc=5",
-        "date": "2026-09-06T19:51:54+00:00",
-        "source": "DiarioBitcoin"
       },
       {
         "title": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo?",
@@ -31,11 +24,25 @@
         "source": "Bloomberg Línea"
       },
       {
-        "title": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares",
-        "description": "Satya Nadella, CEO de Microsoft, vende acciones de la compañía por un valor de 43 millones de dólares Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN3FlTjRJc3lUNVdqelMwQ3Y1djBYdGIzR1VULXFqODJzejlyeHkyaFMwNzcydm5sUDRWSjFsYzdhSzJZRDlzQ29PX2pCcGQ4a3hfZTdNTHhxMTBXbGItUUVNV04yVW1fZGlhTnJ3VWNBcVU4SmdjY2wybnNZY2dncWNKeGxrMGFvcFlwWV9NLWhacHZEMEdNbG5FaEdOSnQ1WHJzcWktQlB6WktHZkw2dEJ2VkVuUVhmdWNsMW1Wb0JKNEtPdGpXM0dvMkN1Ul9fTURVZGFXZWvSAfMBQVVfeXFMT1Jqa0tROEpFQktHeXFjcTRXUFZYeXljMG9iM2tBRkVfWmRBUXVKZG12azByZW10VFVJNUtNaE50cEZiREhiZHFIa0FIb01Xa08wMUI3UGFMOWZ3ZnlUTXFjdjZlbWhqUEZoZ1NfVjB6RnZwS29TY3RuQldmM3B4VWJIY0daVktxcTJHLXBFaENUdFpZNXhBeXZZc3JfVmVDV2xQRTF4aTlWSDVDZE0zb0xVdW51aHZPTDNac0JRTDdzT2s3UXluQTMyXzJFUk8xMzRtT0VGc0hnZ3Ezd3YzYl9Rek9tZjBrYnRNNjY0SWFHVzd3?oc=5",
-        "date": "2026-09-05T14:10:00+00:00",
-        "source": "Infobae"
+        "title": "Sony y Microsoft se niegan a devolver un solo dólar a quienes pagaron más por sus consolas, pero las demandas se amontonan",
+        "description": "Sony y Microsoft se niegan a devolver un solo dólar a quienes pagaron más por sus consolas, pero las demandas se amontonan 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXBDSU52M0xnVW5MQ0RNWi1VQVJQUE13ZXFMdkhKY3ZnZndwMHd0MkFnY0ZhZ1VwVHgzcTd5eGFONkJFcXVublJSeFpRR1VvUU1LNlNHQTNvNjg5c19IT1hyZ2RKbnFPZHdWRXZkTkU4RC10UFZWem9mZUp5QWFVMUpCUy1iMXhsd3c0U3Rac0lZSWM1anlTZHZ4NzJNaW5zYzc2NzBpNW90ZW5SQUhMYnkxdmJLUDc3aVJsbzZRS1N2RVhteC1zLXZtWm93SF9RM2Rr0gHYAUFVX3lxTE9SVXN3NEpHb3ZxWHlOdDMwcHo2eHJaNDRKSFFkVHUtbnV1dHVyalk2MU8zTi0zZFBpUEZ4S0ZvZVJBTGdmR1VLVHY3R01DcV9hU2tIVkQ3WTBteXZwbnlTMGRmMVBBT0lPclFNLVRCZ215cEV3Qk5JbzVDa0EyNXh1b3JXQTZTU1prMDN4SUZ3LWRBVnhWR2NZZUFVcnh0WjVwUUx6WFRWZXp2WnB3Vm1CdU0yQXIwZnRrQU01UEtkd1VaQmpQRmpDeTlFSHZXYVJ2SEVhMklKLQ?oc=5",
+        "date": "2026-09-03T11:31:49+00:00",
+        "source": "3DJuegos"
+      },
+      {
+        "title": "Microsoft apuesta por la IA para crear apps nativas de Windows 11 en 30 minutos",
+        "description": "Microsoft apuesta por la IA para crear apps nativas de Windows 11 en 30 minutos DiarioBitcoin",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSi1TZHpvcmcwZ3B0NTBwLUljeTFqOEMxTUZhWHIwa3JYY190TjRCaktiMTM4OENqc3ZSVTY0WTRld1MtamJDT2Z0T29hOG5YMVJ4X1U2alZYeVRBUVp6RU44c1ZNYW1vTl9tQjc3SHVxclZXbEFYSUt4WkhiTV9CaFVfYUtzVVJ0Ml9IVXZmM1VIZExiTllwNjQ5Vm90cld1R19mbnJ0LVM1VUt4UWpzc2ZXQ1IyVDcwZUhtczRn?oc=5",
+        "date": "2026-09-06T19:51:49+00:00",
+        "source": "DiarioBitcoin"
+      },
+      {
+        "title": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo?",
+        "description": "Acciones de Microsoft: ¿hasta dónde pueden subir y cuál es su precio objetivo? Rosario Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVZBd3NvS2VwbFBMR2NlcnpMdkNncEo3b3Uyb2wyQVl4SHdHTHBaWkF2RTNmZFZSSGs5aktETHFMWWYwZERNQjl4eFBoNmRhQms2VVlvajNrRnREMWtfRkl3ZmlSb1FnM3R0RkNoVUUwZUlTbFV5RFdlWUtLdGh2NWFQSWoxdHl1c0UyRmc0SklvZTc5VlFlOEtaLW91UlN0QW1xeE1Za0x0cXJMeHlEUw?oc=5",
+        "date": "2026-09-04T18:04:03+00:00",
+        "source": "Rosario Finanzas"
       },
       {
         "title": "Microsoft va a publicar los ingresos de Azure por primera vez: el número que el mercado lleva años intentando calcular",
@@ -43,13 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWh6MmlfNjFHdl9DdmhJeU5RMG1QV000S202Z0tzQmhIcmw3MTlmZ0lKMndyRU81enAtTXBvWFlHRXVoTGpBRUgwdHVWbTRxMVh1czlIQldYSW9zd1kyUnk3YnR4UF9XMkx3dkQwbjcxNjFiVzRRWllJY2lGV3pFb21xZy1HY3I1UHZrNWJLV3BZUERyYmFIMHZPS1g?oc=5",
         "date": "2026-09-06T19:00:17+00:00",
         "source": "WWWhat's new"
-      },
-      {
-        "title": "Sony y Microsoft se niegan a devolver un solo dólar a quienes pagaron más por sus consolas, pero las demandas se amontonan",
-        "description": "Sony y Microsoft se niegan a devolver un solo dólar a quienes pagaron más por sus consolas, pero las demandas se amontonan 3djuegos.com",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXBDSU52M0xnVW5MQ0RNWi1VQVJQUE13ZXFMdkhKY3ZnZndwMHd0MkFnY0ZhZ1VwVHgzcTd5eGFONkJFcXVublJSeFpRR1VvUU1LNlNHQTNvNjg5c19IT1hyZ2RKbnFPZHdWRXZkTkU4RC10UFZWem9mZUp5QWFVMUpCUy1iMXhsd3c0U3Rac0lZSWM1anlTZHZ4NzJNaW5zYzc2NzBpNW90ZW5SQUhMYnkxdmJLUDc3aVJsbzZRS1N2RVhteC1zLXZtWm93SF9RM2Rr0gHYAUFVX3lxTE9SVXN3NEpHb3ZxWHlOdDMwcHo2eHJaNDRKSFFkVHUtbnV1dHVyalk2MU8zTi0zZFBpUEZ4S0ZvZVJBTGdmR1VLVHY3R01DcV9hU2tIVkQ3WTBteXZwbnlTMGRmMVBBT0lPclFNLVRCZ215cEV3Qk5JbzVDa0EyNXh1b3JXQTZTU1prMDN4SUZ3LWRBVnhWR2NZZUFVcnh0WjVwUUx6WFRWZXp2WnB3Vm1CdU0yQXIwZnRrQU01UEtkd1VaQmpQRmpDeTlFSHZXYVJ2SEVhMklKLQ?oc=5",
-        "date": "2026-09-03T11:31:49+00:00",
-        "source": "3djuegos.com"
       }
     ],
     "Marketing": [
@@ -96,11 +96,11 @@
         "source": "quepasamedia.com"
       },
       {
-        "title": "MARKETING DIGITAL archivos : Página 2 de 3",
-        "description": "MARKETING DIGITAL archivos : Página 2 de 3 economis.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LcS1aZXFTOEo1MTlxZ0l3LUJKdVVnNXkwRjlkSDhCMXlLODZNNHFEQjJwUlM1Tm5NdVItazZsYjlsTzlXWDl1LUVReUcxc0VjXzgya2U1VDRIb0swd292bjlScw?oc=5",
-        "date": "2026-09-01T01:00:19+00:00",
-        "source": "economis.com.ar"
+        "title": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica",
+        "description": "La nueva frontera del marketing digital: Del clic transaccional a la presencia algorítmica TotalMedios",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeHFfMzdwelRScEdOX2l3cnpHMXpWU3hQRjJKZnEyc0wwMlNWazY1ZUVUYndGekc4UER5SEc3dnNnOWZxaDB0WnpobjhjY2RTVHkwRElnYmxGbEM0NHZSS2wwTzFkUnM0VmQ0cmlnZ2NPcVN3TXVCbkx6ZWtTOXIxQ2c2YXpPdDNmRGtuUkhjUW5sTm94R2FFcUNLSjhlcEJOZ1JldVB3YkE2cHZUYVUxMXZnaDM1MFhLcHpkQjAwNl9KRFczalI0?oc=5",
+        "date": "2026-08-28T03:00:00+00:00",
+        "source": "TotalMedios"
       }
     ],
     "IA": [
@@ -113,68 +113,75 @@
       },
       {
         "title": "Aseguran que hay 7 habilidades laborales que la inteligencia artificial no podrá reemplazar",
-        "description": "Aseguran que hay 7 habilidades laborales que la inteligencia artificial no podrá reemplazar lmneuquen.com",
+        "description": "Aseguran que hay 7 habilidades laborales que la inteligencia artificial no podrá reemplazar Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLWxkbGNlNzk4UHZFeWZObU55YmRQVjRuOTBZdVlLZHF4QV9qbUZhWXFmVTVvWVpJeTJwMy1HMjZiME1iUFVhbXVfXzUtQVgyX3JTVHoyMzBaT3hrazBlRUE3U2lpek5GS0Z4WTBaNUxQckJRZzhlOWJzNTBZNDh6dmdMbXpNdjdRX1BJUTVmVGZxX0E3aXZYTkdsRUN5S285R05GYzBDTlNzVE8yc3FBXzAyNVp0dlVRaWZkdll0ZkFYTXVCQ29tZnc4Z3d3Y2FDeG05LTR3SzXSAd4BQVVfeXFMUHNhWmx0MmhjTlVnZVJnN2pvNGs0U0oyQ2VONmlMaHpyUHpqdXJmclJyM3JjVHJsZThxRUFyUmIyLU1vT2pqUkVhVkNwU0MtMnEteldjallyQzZ0VHQ0R1dURjVzanBQT1hsTWMySm16Ui1KN1pyRlJGbTEwOVFvRW9CLXlMRTFSZHZ3RXhCallvQk5CSkZ4UkxKaDJrVTdBM3JDTjBPblRzUmFUOWhSbVNTUjBfRFdlSHctWXFYTDZnNDdVRV9xSzlLRlF1QS1LRU9GQlVfQXpRSTh4WHBR?oc=5",
         "date": "2026-09-05T17:06:00+00:00",
-        "source": "lmneuquen.com"
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Informe especial: las siete habilidades humanas que la inteligencia artificial no podrá reemplazar",
-        "description": "Informe especial: las siete habilidades humanas que la inteligencia artificial no podrá reemplazar El Esquiu",
+        "description": "Informe especial: las siete habilidades humanas que la inteligencia artificial no podrá reemplazar elesquiu.com",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaURFRnk2Z0pwMkdsbFEzeWprOXdwUVZzdDRWT0ZxZEZLcEZRNmhnMUsySDZseGNQX2EyV0diY2kwVldqWlh4V2tUMDdKU3ZIMjBEc053eU05bjdyWWR4NldhSHV2M19vMWVqYTk0SnlPZVZtdVpaYWNJQVp1R0hRMy1uMGtWZFE5cFlmTnRVdmN4UHJwWlZ5aTFqaDJ0NEFTdllsRjBhRktDZWZXRzZlYTRfTXllcjFuMmdFNDdaQ00zWWJqc0thWDNnYVhFMTBJSXVrWk9NOHpsak91cXQ4enhKUGkwTm9Lenc?oc=5",
         "date": "2026-09-06T15:27:00+00:00",
-        "source": "El Esquiu"
+        "source": "elesquiu.com"
       },
       {
-        "title": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando?",
-        "description": "Si la inteligencia artificial puede aprobar la universidad, ¿qué estamos enseñando? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUdISzl1RTZfcE9uc0JGTXFxNkN2Y3ptSkhfYW9maDJqMGF1SmdYRkRwVmk1aVVpeVVBaDZLNTU1cVpfM2V0NmRqb0JVRy1YR0tTNVMtS09ZcGFhWEJSaV9TV0tMUnRSTGJkQk1QRHZ2cDBBOGNJdFpYcGlvdklOel9KQ015VjBKazMyTUUtdDJPZlR3WGNzd2EyTWhvd3hzQWpvUFBiS2dCSnNHSURPWWNFMk5LMWxQM2lkV1lIVjFQd9IB3AFBVV95cUxQYXZCY3o4RGxaTDNFRjRLZ1M4VFl4cVRabmxBR1YwRHExQ2t6VmVKbXhvTURQR0E0dDhvbWo3bl95eFFkYkRVNVd2blFlSFBOeHR1OWprZnVmSWRYR0wyMmJ4RkVjTVRIZE9LMGhrUmNUZE1RSENNeGhad2lSdmhtSW0wNENKbVU4OTVicFhlejlfV2ZIZGVxV1c3dTFKOGZwMVpzSEgtQ0lkOW4yZmdPU2F1WnpleTNSeTBrQ3ZLdWtOVm9SQjV4VWRMUDZidFdXSHdOckJtMTQ0RGN2?oc=5",
-        "date": "2026-09-04T12:44:00+00:00",
+        "title": "Inteligencia artificial innegociable",
+        "description": "Inteligencia artificial innegociable Perfil",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmNNQUcwTkF4U1pRdDhGNHdocnF1bFFwLWgzd095YkhLTnB5T3NVNXJaN2djb0FkMk1uc0pOdEhHNmJkVTItaEF6QjU0Nlh1RFd4MG9FRGNKNlc1d05BRzQ3SWtBS1I4bkZUY2E1MUd5MkU4Sm9HMmo3eWpncGY4YnNpa25NNHA4STVJYWhxWdIBlAFBVV95cUxPNFNTWTRPMURaLUVNZUh6aUlaQURXYVg3ZUtBZ2psbElqelJSNE9xdUlvRDRsMUthLVAxRUdUdHdHVzNQLV9JdzdWWEg1S0xBVVlJU2RJSi1CRkd1UHUxcFpKeUNmdkpsY2FSZWpKelZ6NExRd2xmdk55c0JxZC1rQ2Y0M1R6ZGFzMlBBcFJVOHNVVzRC?oc=5",
+        "date": "2026-09-04T08:30:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Joaquín Morales Solá: “Las redes sociales y la inteligencia artificial no tienen compromiso con la verdad”",
+        "description": "Joaquín Morales Solá: “Las redes sociales y la inteligencia artificial no tienen compromiso con la verdad” La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbi1OdXFsNC0xQUkyNVdpOTZhUlNoNFdlRVlMakdlb0l0YUNwVHZ3VEJZMWhTTG1vbTVxakxWZGYwUUhfcjREcGtMSVpISDVRSFpucDRzQUtpN1lyc29Bem1IdGkxSWt2cjBwaXFxQWd6VFE5ek1reHZkR095QlB2bFJxZGJBaENkM2VEdVgyRWxiNFZSSXBVbGlSemZTekVpU01YOENId2Q4S2RqY1JURGFQZ3VieWRxRzhlclRwNjhOb1ZtMUo2U1ZiakZCQXVNNkIxSXNOSGQ?oc=5",
+        "date": "2026-09-07T03:09:32+00:00",
+        "source": "La Gaceta"
+      },
+      {
+        "title": "Semana del Aprendizaje Digital: la educación en tiempos de inteligencia artificial",
+        "description": "Semana del Aprendizaje Digital: la educación en tiempos de inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTNob2phOUFkZGlDNzdnS3RUSFVEaGlmYlpmNUxtbzBqWDRrYzZPX0Z3bVVnd21LNy1EOTdLeDZaUXhNNDlxLWdBZXAtTnc5d0pqcFhSMk1CeFZZVG9ONmZpVXphclJrLS1yUUtSSFdSMUZiaDcyZmp6bXZER29WbmtEWDN4SUJiR1l4MlVfeXlWbzdXaExCaERmQjR2OE90ZGE0T2NqRUpueE13WUJ5RWhSRUFSYkdZVzI1UWg0Nk96YUFSOWfSAeABQVVfeXFMTzMwSEIySGZwSTVMRGMwTTNGcWdEYmdzZWlKeXJQQnJfUjdJVzlPbjloRHlnX1l5UG93QTFkUHp0aU91ZW9FYjNUZktCZHU2U1YtZXVSQUhSWUxNYnJHY0pHNkdyRng3Nk5CNENTUXdwQm1leW1Pa1ozMzBPbU5CRGpRS2lZQ3ZjSHNmLV90N19xa2Q2MFJDNHN0MmM0MG84cWFfV0VCSlZLdEx1YVJqZGZBTG1xQjFRcDg1RXZyMG9BdDdPVjRKTElwczRaNzhHdWhxT0pEd1JfLTB1ZU9HbHI?oc=5",
+        "date": "2026-09-07T03:16:09+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Médicos cordobeses crean una aplicación para acelerar la entrega de informes radiológicos",
-        "description": "Médicos cordobeses crean una aplicación para acelerar la entrega de informes radiológicos La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWx3TjN1OGFKcV9rS2llVEVRZk5hWHA5SFdtV3VYX2xCMGFvRmluOW80RnV2NlVwYTdXNW1jR2V2UEtERVFpQjlZeUwwVU8zX19nNFJIWkFtUGhZNkZnWHhPZGRaMENpTGlxd3BkZVE0QUt6T1NLNUowUkNJbzhGTGV0YmJyNEM0SmJNc3RaOHNTZmp4MmV2aV8tNHRSZG4xbnFVckgxVU5EaXFia29xOGgzcXZBbjlJY0Uya1JfMlF0RW51VmZr?oc=5",
-        "date": "2026-09-06T22:14:52+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "¿Quién enseña a pensar la inteligencia artificial?",
-        "description": "¿Quién enseña a pensar la inteligencia artificial? Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeTcyNmJMb2lTakdUczZrRWRIY29SdkhGX3p2eUZMZ2VZWFl0VFNxSG9vaFlUcVFHNXJEWl84djRLT2lTVlE1XzVqY1htU2ozZGJ1bGo3M2pzZEpNbTdTTEx4Umo5NEhzc0JlZ3lyZkZRUlhVOG80cVhKUko5RDNhRUdsQi1vdk94cFNPMHlKbw?oc=5",
-        "date": "2026-09-05T23:01:07+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Catequistas de Mercedes-Luján se reunieron para pensar la fe en tiempos de inteligencia artificial",
-        "description": "Catequistas de Mercedes-Luján se reunieron para pensar la fe en tiempos de inteligencia artificial La Verdad Junín",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3pLQ25JYnBuVVB2OUROWTJJS3kxc1JHb0R4NW9fcWR5c2tNTW9VbTc5TGFlZXR6c0lBUFNrNTluZU1qYVJFVG9WdXJyVzdNZzFlZmFpUjRHUzB3bmVjX0Z2bmNiM044a0c0TXR6RnJGSElGWXp5ejZkOTc0WFZkVzdSQ19sZjE1Mno2NVZxOU1jX29OeE5YMlBSbHppNVcyMVhzN01QTEllOXFCcVhiaGFJNEFUUEFKaVNIdnpuQk9GYnl2?oc=5",
-        "date": "2026-09-05T23:29:59+00:00",
-        "source": "La Verdad Junín"
+        "title": "La fractura asimétrica de la IA y lo que significa para Europa",
+        "description": "La fractura asimétrica de la IA y lo que significa para Europa El Confidencial",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1hwdHc2V1o0S2lJdWhEeUo0LUJIWjE2S2lTMDBhc2dWODZvRG5tR1VDVzV6YTdMWHBSUlkycmNIN3N0dFh4SWUtTVgyaFNBcTZ3a2xJWWhYTDRjZzA2M0V2cFAzbUNIM25LRkdIS2ZMN0NqTzJpZm1ZNm9OWnJSS1dVVnJyS1FXM29NOVlWQ19QdFctOUtUemlTX3UwTmswS0dZaHM4WVVhSmpaYy1yVmtZa0doSnpkY3dZa29qUEVhMDA?oc=5",
+        "date": "2026-09-07T03:00:00+00:00",
+        "source": "El Confidencial"
       }
     ],
     "Vaca Muerta": [
       {
+        "title": "Vaca Muerta en perspectiva política",
+        "description": "Vaca Muerta en perspectiva política Página|12",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkVNWWxtUTluUHY4UUxhcEJMOTR2d3Zlc3NlYWxZN3dYa3psNWI4eUNWTmc0TUo3OXI2aXhZSHNqNTBzMDNVb1hyMUpRLTR3TkcwNEp6bWNWbV8yUjB2bDV0WXlGNUVmOE5kLVBhcGJmNnZBNThCdjNwS1E5LTNwUA?oc=5",
+        "date": "2026-09-04T23:01:00+00:00",
+        "source": "Página|12"
+      },
+      {
         "title": "Las tres empresas de servicios petroleros más grandes del mundo anunciaron que no harán negocios en Malvinas",
-        "description": "Las tres empresas de servicios petroleros más grandes del mundo anunciaron que no harán negocios en Malvinas Clarin.com Pablo Quirno, sobre sanciones para petroleras en Malvinas: \"Con Vaca Muerta, las petroleras tendrán que elegir dónde invertir\" ambito.com Más polémica por el…",
+        "description": "Las tres empresas de servicios petroleros más grandes del mundo anunciaron que no harán negocios en Malvinas Clarin.com Una de las empresas que opera en Vaca Muerta no participará en proyectos de Islas Malvinas Lmneuquen.com Más polémica por el petróleo de Malvinas: un proveedor…",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMndHaGlhbDRsb29wcnFFbThESzZ1M3M2V29jZUlfdFktTFZDaloyR1VmTFZzN1RVdXl4aXdLWFNfelE1cUQxWVpBRHhUYTV2QUpuVl9pOUY0OWg3UWZJQ05xT1BsaUZLSGYtd0hNaEY3SEZVWXZSQ1IwN2ljVjg0QmswdnktWmU1UFhxWTFKSk5LdzdlUlpGNHliR1ZXQ194bzh1WWFUM1ljRHdZWHktQThmaHVxSUd6cEdSLXJLOExwY205Y0prQnBRSW0wdDhjRnd3eEVzQVNvcUUw?oc=5",
         "date": "2026-09-05T14:11:19+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "Vaca Muerta en perspectiva política",
-        "description": "Vaca Muerta en perspectiva política pagina12.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkVNWWxtUTluUHY4UUxhcEJMOTR2d3Zlc3NlYWxZN3dYa3psNWI4eUNWTmc0TUo3OXI2aXhZSHNqNTBzMDNVb1hyMUpRLTR3TkcwNEp6bWNWbV8yUjB2bDV0WXlGNUVmOE5kLVBhcGJmNnZBNThCdjNwS1E5LTNwUA?oc=5",
-        "date": "2026-09-04T23:01:00+00:00",
-        "source": "pagina12.com.ar"
+        "title": "Las inversiones asociadas a la revolución energética",
+        "description": "Las inversiones asociadas a la revolución energética Infobae",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFo1THdQTWFLWDYxWlhaX0hJdXRXTDRONmZpR1pGZXdEZThmUzhCQzB6MkY2Wm90WV9QbTBTN3ZURTg4dzI4TGlDcldIZVZ4Mi1LTDlYLWc2dEJNZzI2VlhMYi10Zy1jXy1nLXo3RXhrUDc3OUFXeGphdGoxMjRuVFpkYXRHTmRMNnlSVVFYSkNLdzkzY3VuaHRqUE_SAbcBQVVfeXFMT1FIaEREaEszdlhGTTRHNWZLTmNSMllLNTg2T1lVenNoTE1SY3BYYmRwVzZsSlM1WWgzaEI2Um55M3NwM0JYalNTU2RQVUtaeXBXTGhmOWhIV3cyZUlwbTBuOHlzQ1ptc1BwVTdyOGtzSVBTYkszTXc4SzJDZVRQRm5VMVIydHlFYUN6elphUC1rOXAwM1lobkNSWWlBZ3NPQ0ZYd244LUhDYjZQNHpHTFp5bE0xR1hZ?oc=5",
+        "date": "2026-09-06T05:11:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "El efecto Vaca Muerta se extiende a los ríos, ¿es factible la conexión con Viedma vía fluvial?",
-        "description": "El efecto Vaca Muerta se extiende a los ríos, ¿es factible la conexión con Viedma vía fluvial? ambito.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMndWYUE1Q1pqTDNybF9YNEJqUXpWdm9zNWYydllSUW45ZXZuX2xiMWRWbThaZG43cDUyaXlqcUVCczZodGZFaGdFX3owQzBPYXdUcXJNajB3NWVfakhydDBreEpsb3JtSmZqY01RUVd0RWl4Y0RlSE1kM0ZyWU5KOU1ITHVadlZSMHZQeVJ3dHVTZERxdWw1bTk4UFd1SnliWmdIVDNsZXdqQk1tS2FWS0VkVFVpME83dXdDcDhiYWFibnZqNDhuRFU3OGjSAdIBQVVfeXFMT3BjM2xCM012eHZpbkx5UkF4MWg2WE1lQlp4ZVR0bi1TZ2NJOV9lQlBsSTk5eHpIeDdnMTE4R29NczFqV0tlckRUTUdSSFoyMXZ3WkQ5SkxXZk93dDduZDV3YTV1eVJMQWxzSVdHbV9QcnhjZGJqX0thcW5pTHhrMjZ2a2xkVjRQa3NoeXZvaHJ1dlFMWHNGb2gwMEw3c0NKR0EzLWtPcnZiSF9ITWhfSjNHcmJ3bjRXcVdDQU4tVzJfVmdURU5XSzZEVzNlZC1WSnh3?oc=5",
-        "date": "2026-09-06T03:00:00+00:00",
-        "source": "ambito.com"
+        "title": "Vaca Muerta rompe récords y VMOS entra en la recta final: ¿qué oportunidades abre para las petroleras?",
+        "description": "Vaca Muerta rompe récords y VMOS entra en la recta final: ¿qué oportunidades abre para las petroleras? Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYlVUZ3ExZ2Z3Y3R1LTFlR3Y3QU9DWE4xZkp3dnJOUTl5WXZFNE5USm9FSXNaa1dPNzRjbDRsVzdpMzVGdFBkWldaUUpSMzdVOWctZV9CUlNQRl9kX2stb3dPU3UxVURjeGYxZTFJRW1jcGJndzNreU1wTzJrZ3poQmcteEd3bldKZTBCZXhqN1VOOVJNcTMxbFNHUGxaSUJTQjMydFVRck9aN2ROSXdIRUNNZG1teHpJNUxZNS1BbUzSAcYBQVVfeXFMT2RYWjBnbG5ES2JDOFVPTURlZ1V3S3ExVUtpbl9GV3k1eTdhNzVpbUR1RS16VERLcHk5VldpY1IzS1hxNExYZXp3cnFIeXhIN3VwOC11NFBkakVGOElXR3llTFEtWmlOMkoyaW1aaVR6YUhuNVZhZ2lzZnhQOEZVY1VrcHluNEpzLXNFYXpwb3BSZ2paODVMSkVCdkZMQmpPQ2luSG1mQ0MtS2VXdFJjYUd4Vkt3SGlfZ0FYMXl2TWUwXzlQNy1R?oc=5",
+        "date": "2026-09-05T03:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "Estafa millonaria: usurpan y comercializan tierras fiscales en el corazón de Vaca Muerta",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDdId0NNQy0zVE1hWll0T2pzVjdqNXlBRlFBendhRjJkZHhua1ZTSXRXaV92aEdtajhySUpoWVpiNUw3aVVYZXExV1ZCOFlvSUVzMFNud25rOWZrby1TZ0tQVGZ0Rmk1WVUwTkV4RFFWaEkwd3NGcnFEei1CLXhKOXp3U1J2R09ZX18tOWpOZHJrZWZkZHo4YzRqSTZ5c3ctUHUxVHBTQTNqSkdo0gGyAUFVX3lxTE1JaHd5cklMSlRoQlJxOHlvSEg5WTEtdFA4YUsyNEZVdVlEWDRNNXlvSld6dW1xTDQyMFpHMmJPamhyQWdGMUprSGZRN1FYYTBvbllXSGtXbEhSaHpBeFYweGRsbmJsZWJBNEpQdGpWVzhyeFFvTEJYWWN2ekV4dmx1cXJPdG55cTB5aHZseWFpamJoTkZvLVR0QnJmQmFqYWwtRVN5MWs3M2xWXzBERVFPUmc?oc=5",
         "date": "2026-09-04T18:36:00+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Neuquén prepara nuevas rondas de licitaciones del Plan Exploratorio",
-        "description": "Neuquén prepara nuevas rondas de licitaciones del Plan Exploratorio Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakpUa3B1cUFjcmxtRjh3NFZsd0gwcG80RHQyN2pxOTNnRmxYd3hQamZLdzdxR2Z0d0otM2RqVy0wREhsejhBRnhaR2xjSjBnazYwTmNHWndLNXVTaGd1aDlydDJIMzkzbndIMFpWZW5mdk1sdlBxYklDV1JWRW9CUEJWLU1JNjlPMUs0akIzYjdDY2NoZ1Z1X0o1ZnllOUppVlk3eHFvckpNa1RvUWJyT3I3QzhDMm9obnNWMG5KcmFiVW5vV2pV0gHMAUFVX3lxTE8tZThHX2dXRkdGUFpYa29GVEY5VTdhVlRUNHdNYnV6RXdUZjkybWl5OWdIX18wR1JSY1J6dV8yUm4waHpxVGRSb1hvczQwNnBVNHFIaldWdVNjZ21Kb0IySXV3SFdjNWkyX3B3djBPUlFfZUhQRHAzQ3BRV3VKTm1GV0lMTWJ5b0g0NnB6Ul93NXZVTjAwRUxjS1VNZHZUQm56Z2JWbVFLelpzcmVQWmUyb0hlNFAxWGZET3N4Mk4yc1lDLUVKX0luN3hlMQ?oc=5",
-        "date": "2026-09-04T01:11:42+00:00",
-        "source": "Neuquen Informa"
       }
     ]
   }
