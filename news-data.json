@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:31:55Z",
+  "updated_at": "2026-09-08T16:59:54Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,18 +10,18 @@
         "source": "Eurogamer.es"
       },
       {
+        "title": "Microsoft promete tiempos de arranque más rápidos en Windows 11 y optimización para los 8 GB de RAM",
+        "description": "Microsoft promete tiempos de arranque más rápidos en Windows 11 y optimización para los 8 GB de RAM MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFgwTGtIVy1sd3FneU9mb0RSTlpvaFFTZ3BNMHFSN1NnbG95U29FUEZCYmdHYTlFMXliMkF5dEEzQmxhelBQWjlmMFZYcktkQjZoMUhzY3UxbzVyTnpKV1BoOFhCQkRGX3FKb19QWTJHMFJ3cVJ6LXItb21OT0FHNXRvLTdZWWpXOVN5SjNHRzk5MXhDU3lObHNsVjhNWllkY3hILXYteXRwbU5yTW9fSlg1S0trVUticmktQ3QxVXpsdmZZUTYxZlo5eGxyRWs1MERrbExR?oc=5",
+        "date": "2026-09-08T07:30:17+00:00",
+        "source": "MuyComputer"
+      },
+      {
         "title": "Microsoft presentó Project Zenith, una versión de Windows 11 para desarrolladores de software y de IA",
         "description": "Microsoft presentó Project Zenith, una versión de Windows 11 para desarrolladores de software y de IA La Nación",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZmZhRVNNOURhalVRRFFNQXZkRUtSSE9aZU9yMTJwdDAtY08tZWV6Y3Yycm5acG1IcHc2MEVtWC00NDBIYjlOMktCc2tKZ01fMXNlLWUtNUliV29IYnFLd3VYWjdKWldaV2VTYnRGR2loTG41SW80R2NsN1J6UENJYlREZmYyb294WHM3TmNza2wxbGc1TlFLTUVxVWlhX0R1dkoyQmc3NEpFRllsTWlQblF4Mi1EUjM1YnVGSmRmcW1pU2hrcl82TmVITDM3cnVVSGVRbVA3UmJRYVJZbkZFb2NvUDBLN28?oc=5",
         "date": "2026-09-07T18:10:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Microsoft confirma las mejoras más importantes que llegarán a Windows 11",
-        "description": "Microsoft confirma las mejoras más importantes que llegarán a Windows 11 Noticias 3D",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzdCeHNqd0JUZzRraGEzY1JfQ0xHUWtiMlVWejJxYUJ6QzgxZERobnBqV2lDWjlYZ0ROWDhMMF9Sa2Q4aTVkLTVGcDI4TncwSERaV0lwRmd6Zi1ZWnNlcDFmUEY4RlRYd1FJUmNLUnMzTHd3SDJmWmhDeV9MYktMVEpfZFFvazRoeWd4Ny1Kc0M?oc=5",
-        "date": "2026-09-07T12:19:47+00:00",
-        "source": "Noticias 3D"
       },
       {
         "title": "Microsoft Edge ya permite iniciar sesión con cuenta de Apple y despide para siempre su función Drop en la versión 152",
@@ -31,41 +31,48 @@
         "source": "Profesional Review"
       },
       {
-        "title": "Microsoft promete tiempos de arranque más rápidos en Windows 11 y optimización para los 8 GB de RAM",
-        "description": "Microsoft promete tiempos de arranque más rápidos en Windows 11 y optimización para los 8 GB de RAM MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFgwTGtIVy1sd3FneU9mb0RSTlpvaFFTZ3BNMHFSN1NnbG95U29FUEZCYmdHYTlFMXliMkF5dEEzQmxhelBQWjlmMFZYcktkQjZoMUhzY3UxbzVyTnpKV1BoOFhCQkRGX3FKb19QWTJHMFJ3cVJ6LXItb21OT0FHNXRvLTdZWWpXOVN5SjNHRzk5MXhDU3lObHNsVjhNWllkY3hILXYteXRwbU5yTW9fSlg1S0trVUticmktQ3QxVXpsdmZZUTYxZlo5eGxyRWs1MERrbExR?oc=5",
-        "date": "2026-09-08T07:28:41+00:00",
+        "title": "Microsoft confirma las mejoras más importantes que llegarán a Windows 11",
+        "description": "Microsoft confirma las mejoras más importantes que llegarán a Windows 11 Noticias 3D",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzdCeHNqd0JUZzRraGEzY1JfQ0xHUWtiMlVWejJxYUJ6QzgxZERobnBqV2lDWjlYZ0ROWDhMMF9Sa2Q4aTVkLTVGcDI4TncwSERaV0lwRmd6Zi1ZWnNlcDFmUEY4RlRYd1FJUmNLUnMzTHd3SDJmWmhDeV9MYktMVEpfZFFvazRoeWd4Ny1Kc0M?oc=5",
+        "date": "2026-09-07T12:19:47+00:00",
+        "source": "Noticias 3D"
+      },
+      {
+        "title": "Microsoft promete reducir los anuncios en Windows 11, y acto seguido mete un anuncio como fondo de pantalla",
+        "description": "Microsoft promete reducir los anuncios en Windows 11, y acto seguido mete un anuncio como fondo de pantalla MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSll5LWl0NzZqanhmLVNpUzdxeldjZnVRUW9jWndkQVluSlhGaDJ1RnN0UGRUWU83WnpEVlh0eEtheDRWUUxnSDBLZVdzd2t1Y2M1Y081VVNQWGt1SXpaQXZjM2JzckF0b0hoR1k1VDBqNTFMWFNuR3V2TDltajR6UnlraTJ2RDkzTk9rRUFLTUF5LURTaVlrNkxieTJqMkxLVXJRNHRHM2FHUGxYZDYzNDVJWmRhVl9nR1ZJeDhHZl9ESVozc2pMOWVvYi1KU25Qc2dTSGZELU00Z1VuMWV3?oc=5",
+        "date": "2026-09-08T12:36:43+00:00",
         "source": "MuyComputer"
       },
       {
-        "title": "Microsoft lanza un sistema con agentes de IA para crear y migrar aplicaciones nativas en Windows 11 en 30 minutos",
-        "description": "Microsoft lanza un sistema con agentes de IA para crear y migrar aplicaciones nativas en Windows 11 en 30 minutos Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdU9BTGViVEJNVnFFb1A0ZGtjSlVSdXJUczNiSllJemlVYVAxRnlyN0h2RUNlV1RHWGFOeDNFeHpfWmRUSFVsNEVkdGF5VlZWVzhZLWoyRlFzYjBHWTRJdGFMaFMwYmR2R083eVJBTjNfeEd6LXVyWmVqZTlYQjlncERDU2lNd2ZJV2RfSDZWWDZlMEV4NXpzd21tcGxfVUU1eE1vRkhrLVlXUmwwMWZ6OU1jdVNGVS1uU29hUklBaUh5TnpNMzB2cVBobGtPUktVZWVFaTEzLWNBaDNDazVERG1fQ2h4TldVQ0wzMlF3Vk7SAfYBQVVfeXFMTXN0X0hZOHQtVVAyNzBzU1h1QndJcUdBTDJTQldKSkwzTlc1Vmg3RHJMMkZlbnlQektJbXpCU1dtMmdmdkRzOTNHVEVDYnBOWEJCTmxjTzVWTmp2WGt0eTVReWdoTFVoeS0wTDBtVW5OY0J3S1p1aWI3TWpMZTJHZ2lVbnBZdWZYZjRWbXR6RTl4RWo3Z1NBN2ZMOUJSdHRMR0w4QTh3VlFKTGQwTEszZkxhVlQ1N25jbHBOQ0hidjV0ckZ6MmpVX1RMOVNiNUJtYnhOc3N0NDJ1ekVQWVZhVklJQm5ULUJaQlpyMkhsSW9kTFhMVnJn?oc=5",
-        "date": "2026-09-07T09:44:17+00:00",
-        "source": "Profesional Review"
-      },
-      {
-        "title": "Microsoft cambiará la IA en Windows 11: ejecutará modelos en local y prescindirá de los botones de Copilot",
-        "description": "Microsoft cambiará la IA en Windows 11: ejecutará modelos en local y prescindirá de los botones de Copilot Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMGlNcXYxX3N2U1hDSDlNeUw3c3lLNHJpOTVCeDBrb3VqREV0Y1BpX0ZfVHoxOVNiZHVCcHJLalh2LWk5NWtOd1hSQk9lUFVrYmVxaDdYN2NTaG5GY0FoaGtQazZiSjlNUjNhd1FIYVExeldYYnE2eU51N0cyTFFPVWFKWE1VamlyTno5MXJUVTFhZE8zeXhWend5TWNIRTM1N2t2NTRrU0ZIMzRFeTNZZ0tlWl9tSFBia2ZPREgxMTdDYVE1cUNUREtMMEtid0REYXZLcHBycVh6MlkxQ056c3BEVG10QQ?oc=5",
-        "date": "2026-09-07T15:44:29+00:00",
+        "title": "Todo lo que se sabe de Project Zenith: el plan de Microsoft para frenar la fuga de programadores al Mac",
+        "description": "Todo lo que se sabe de Project Zenith: el plan de Microsoft para frenar la fuga de programadores al Mac Profesional Review",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaWhOTG5GcEFnclltQlpsNk9KY0R4MkVxMzV5MjEzcXg1YXlXajYwT0I3U1VVRkE4WlBNRS10T3pESkdIN09xcFV4bHNqNkJLWFA4cVZwektRUzNiRjVBLXBtNGVkeEoyd19CZXdvQnNpNl9KRFVZZEllZXM3Q2F6b3FURU0wSTZLLUZ1bUlOT29NYl9ycjc1b09KTUhZU1RpZzZpTEs3eWJPbi1wcEJzWkl0d0RmZ0JKeC1VUTlsc0VJZDZpNUU4ckFSWGhBdzRoRXUwR2s5SFdRMWNseTFkanlB0gHnAUFVX3lxTFBnOE9ydld3a282Q1BRSDVRYXEzdmVqalR5QXZlYXJRM19uUzdJSjJnR3JzV2lzQ09Ka2xhVmoxbjhGOXhjUURGbENTTktmN0szYWRPSDFtTDNZWndIU1ZkUEF6WnZ0U1hGTWFMS2V5Vjd0dWIyY3JKX3ItVUg5cEFqRkR4bkQ2d0FLZ3FCWEtqZ0pxTDVqVlRKeEtJMDZQNEhiYkZORjlCekd3Mk0wZGRLX25vNHRhaDVaUVV6bktwZkdoRVhzcHYyRktYczBoZUhoUHVJaXZaYi13b1NwSUpqZUNFY1hESQ?oc=5",
+        "date": "2026-09-08T16:00:09+00:00",
         "source": "Profesional Review"
       }
     ],
     "Marketing": [
       {
-        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 21",
-        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 21 ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQY2dqSGJXUllJYzNwanREU3owRVVHWXhZMEdYVkwtVmU2WWJxT0NMSjVFM0ZUYVV6TVdLNklVWnJWNWo3UmhfOFhjb1RRX2twVkJqLW4xdzd6SmZLVVJ2VzFqZTY3eW1KMUo5bUNyT01Udk0xQkhzMmVwSHI4NE12T0lDUVpTV3Q0SUFNMkt3ZmYzbTZRU1drRFBPTE5Qa3NPVHhPQUotZkRla1NBWWUtSUlPeEp5YnFJZTEwRzFMT2pxMjBsaC13UFdrTXh5aEhkekVnWEpCaDZ5aVBFdVdTSWU2OXNuSk9PbzZYRWhPZTFNQ1o4aFNZTDRsVTExQ1hrbC1SYVNhdHJCbE53d2o2c2NUM1NGSnFWRFVTRndDaXRyZ3B1cHpNcjNJVEg?oc=5",
-        "date": "2026-09-08T02:36:23+00:00",
+        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 32",
+        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 32 ArchDaily",
+        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVnV6Rm5FSVVjRjE2UTE5dVkycmZwdVpZNk5Hck96NXpTb1hqMnJSd2NLMC1kTDFFOV94Z2pZblJPOG50a19HTnZkX1htT0F1alMwbExkdFJaNXRRcXM3UG9vNkZJbHA3WkdEUHZSRzVnTDFjd1ZXZGxkbXRmajd0bGxKYkxPSExTeUotQWNHZllEa0tSZE4wQlFuSC1rcVJMY2g1aUhwXzZ2VzBsdGsyUHJpY0hQVmpueVZiMGJDa0tXZzZkRUo3RFhSSzdUZ2ZEY2lMWHF4WWZGS3Y0QWREYTVEVmRVQVRaOFlJaWF3MjhTdFV5MV9salA0RVFkREU2YkY2ckVVY0l1cmFIRTJyWkE3TnJibXFOem1mVlBlUzRIM1g3Uk9leENkd2IwTGpFNEZGMA?oc=5",
+        "date": "2026-09-08T07:27:20+00:00",
         "source": "ArchDaily"
       },
       {
-        "title": "Notas de prensa: por qué siguen siendo una herramienta clave para el SEO y la visibilidad digital",
-        "description": "Notas de prensa: por qué siguen siendo una herramienta clave para el SEO y la visibilidad digital Nueva Rioja",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnNhTVpQU0I1VVF2MURtaHJPb3YyN3pEaGdGZDhNVUJ5MFFKdm1DNjFkSWRlLWlFT0ItNzBYcHZpMXhmeDItdWV0MTREendUNWxxc01LMV9ubUdzSE5wUDUyNXN0R0VSQU4xVHVlU19VV1FMRUU0cHhzbjgySF9iUTRaY1cwbV8zNkwtLVRWRkdQV2JGWVJ0VS16d3BSMmpoVDF3Umc3akVQbzlfLXhjbEh5c1ZOY0tDTkRrMkRfUUp0ZkRQTm5xc1ktcWw1Nmx3MzRN0gHKAUFVX3lxTE44YkNXbEFYMHlIRDQxQk9CX3lWX3JnN0FFZkdzaFlBWER3czFKSlJMSGpxMGtNTmd2S3I3TEVicnJKMTR1QnZmV1piOHp0R1VJNl9iVnI1b1hPQ2pyNEFOUGhna2ZLYkVyQWxvSkpiWnlFTUVlTllKRGl1LXljYVI1QjNqYzI0RTh5bENBaU9vWlllOVhuajBPZ29NaXlPT1RIZjBRa283SnYtaW50NUpZY2M0R2dFenFWaDZrQzA1N1Z5Y25Ka1llVGc?oc=5",
-        "date": "2026-09-08T09:26:49+00:00",
-        "source": "Nueva Rioja"
+        "title": "¿Necesitás capacitación en marketing digital para tu emprendimiento? Esta nota es para vos",
+        "description": "¿Necesitás capacitación en marketing digital para tu emprendimiento? Esta nota es para vos insalta.info",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXZlTnhsdURxS1JpLXVBc2p1Q3NFOWpfSjAxQ0V0eWJobzl3UlppaUtHRkY1eXA2VC0zc29Ma1Q0djlldkF2VDdkOXU1TGxtN2hoTllvOGpVMXJSMkcySHE4b2QxTE5WX1J6VzdzaFRCY0hZaEtQV0RaUTkyWmNKVE96WnR1c2FUQXVORndQRWhqWnE5ZmpFenFFLTZlN0dpUlJKNTJxSjVLYkVqd045c0hYNUlHbU5ZNnfSAboBQVVfeXFMT012ZU54bHVEcUtSaS11QXNqdUNzRTlqX0owMUNFdHliaG85d1JaaWlLR0ZGNXlwNlQtM3NvTGtUNHY5ZXZBdlQ3ZDl1NUxsbTdoaE5ZbzhqVTFyUjJHMkhxOG9kMUxOVl9Selc3c2hUQmNIWWhLUFdEWlE5MlpjSlRPelp0dXNhVEF1TkZ3UEVoalpxOWZqRXpxRS02ZTdHaVJSSjUycUo1S2JFandOOXNIWDVJR21OWTZ3?oc=5",
+        "date": "2026-09-08T05:43:20+00:00",
+        "source": "insalta.info"
+      },
+      {
+        "title": "La IA redefine la publicidad digital: del alcance masivo a la intención del consumidor",
+        "description": "La IA redefine la publicidad digital: del alcance masivo a la intención del consumidor TotalMedios",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkR4U19KazFRaDlSNFFKNnQtdXNwWUFKeUVwWDl3ZUluODl4YXZGS3ljd1RpRlNVYlNZbTdmVDhnMnVnTkhCNmNBY1liUndXQy04VWp3a0x2ejF1UjU0eE9Tcmgwd1ozRGl3T09DYmF1WkNza2RGYXRONEZpQnYxRWlaUEhKdFpvVjE4NWdvYVFENGFBbE9wZFNjekpZd1RrRVlTUk1jbjJMV3dwUno0Umd3ZE1xY3JkRVc5VGtlamMxdw?oc=5",
+        "date": "2026-09-08T03:00:00+00:00",
+        "source": "TotalMedios"
       },
       {
         "title": "La adquisición pierde peso en 2026: datos propios e IA ganan terreno frente al costo publicitario",
@@ -75,32 +82,25 @@
         "source": "inteligenciaargentina.ar"
       },
       {
+        "title": "Notas de prensa: por qué siguen siendo una herramienta clave para el SEO y la visibilidad digital",
+        "description": "Notas de prensa: por qué siguen siendo una herramienta clave para el SEO y la visibilidad digital nuevarioja.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnNhTVpQU0I1VVF2MURtaHJPb3YyN3pEaGdGZDhNVUJ5MFFKdm1DNjFkSWRlLWlFT0ItNzBYcHZpMXhmeDItdWV0MTREendUNWxxc01LMV9ubUdzSE5wUDUyNXN0R0VSQU4xVHVlU19VV1FMRUU0cHhzbjgySF9iUTRaY1cwbV8zNkwtLVRWRkdQV2JGWVJ0VS16d3BSMmpoVDF3Umc3akVQbzlfLXhjbEh5c1ZOY0tDTkRrMkRfUUp0ZkRQTm5xc1ktcWw1Nmx3MzRN0gHKAUFVX3lxTE44YkNXbEFYMHlIRDQxQk9CX3lWX3JnN0FFZkdzaFlBWER3czFKSlJMSGpxMGtNTmd2S3I3TEVicnJKMTR1QnZmV1piOHp0R1VJNl9iVnI1b1hPQ2pyNEFOUGhna2ZLYkVyQWxvSkpiWnlFTUVlTllKRGl1LXljYVI1QjNqYzI0RTh5bENBaU9vWlllOVhuajBPZ29NaXlPT1RIZjBRa283SnYtaW50NUpZY2M0R2dFenFWaDZrQzA1N1Z5Y25Ka1llVGc?oc=5",
+        "date": "2026-09-08T09:26:49+00:00",
+        "source": "nuevarioja.com.ar"
+      },
+      {
         "title": "Más de 100 emprendedores completaron la formación de Diseña Paraná y sumaron herramientas para crecer",
-        "description": "Más de 100 emprendedores completaron la formación de Diseña Paraná y sumaron herramientas para crecer Uno Entre Rios",
+        "description": "Más de 100 emprendedores completaron la formación de Diseña Paraná y sumaron herramientas para crecer unoentrerios.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1hyVjVlOXpxWktxUzBzZEItTEszclBPYmo5bXF4V19kOWdrZWRjV28wc096NDJYS1B5VFRveTRxYnZWaVpmVU1jNTZaaTMyenVLYmFzaHZ1WmtKZ1ctRUYyTGtnREZ1RkhFZFhyanlMN0tyQ1BCb2RCS182bWdXdW9hdV91X2tSMHR6V2RKOXQ5bG5OaFRLWXE3X1dERmEtQmtjN0xGTEVtTUhMSjlzNDBUUWw1czJYNlpWclRhNm1RSzZOZXBGdVB4T2g1V09jazBGLU9pdWJkRzRFM2RPTTZVdFPSAeoBQVVfeXFMTjVobWlQNTBiMVBJcURYTFZ2WXVoRVNia3lCMktTVTJQUFRWV196bkx2SHNWWklVX1BMREZjYURhY0NBNzhNc0hHRTlMVllMQTdBa1J3a3BoaUl6dGNGUHkyckZqaVdwVnJiMWNpeXY5U2dHdWUwM1dRNi1hTnFRcF9ZUHlaQ0pZWjc2bkNLb3BjelNjRzhnbEExZF9BMUtwV2JPZTZoUkg2QjNIN3U0dHJqTUVGUzBaT2VwaUJrS195Tlh1Sy1VenV0ZE42MTFfOEV0Zkk5T0tKc2tudWI1TnlndFhWYUwwVnp3?oc=5",
         "date": "2026-09-08T00:00:12+00:00",
-        "source": "Uno Entre Rios"
+        "source": "unoentrerios.com.ar"
       },
       {
-        "title": "Los expertos alertan a los dueños de perros: «Limitar el paseo a caminar rápido genera frustración»",
-        "description": "Los expertos alertan a los dueños de perros: «Limitar el paseo a caminar rápido genera frustración» okdiario.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdG1UdTZPNFVKVkpBeWZuYngwUDQwM3I2TmFLY2F1bUxWV2s4VnZ1eEgxME1HUUY3WnVkVWhPVjdPaTg2d1JTS3plemYtMkhMOGQxX3k3WG03WmIwZTNxTFRjODJTOGdUc2lSSGYwdWNKODUwOUlDWktMYVVkajRrUng5U2VQUUxQYmRHWkVJY0dVV0xIa3J2YTF2ONIBoAFBVV95cUxNdUYzbFUyUWhyVXJuWGhORWRZQ0Vlc0w2ZnRUM3l3S3g4Zlo5UlJjS3JnZkkyV2JYRy1pSmsxd25IS3JZRkdWaFAzenh6UWpMZmx5QmJnM3Q4NGZleHZiZmJpdjBsLWtCMHRSb1dFblR6MzlxQnRBei1SRGp4ekJBa2NDaTJTaXJ4THYySHlVeHN0TW9zMjV5MGFubC1JZGkw?oc=5",
-        "date": "2026-09-08T06:24:27+00:00",
-        "source": "okdiario.com"
-      },
-      {
-        "title": "Más de 100 emprendedores culminaron el ciclo de capacitaciones de Diseña Paraná",
-        "description": "Más de 100 emprendedores culminaron el ciclo de capacitaciones de Diseña Paraná APFDigital",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYVBNdTBSMEVGN3UtaHl6YVFsYUJlUktHVm1vSUVqSC0weU1GcmRPMDdkZ3BfRHRRT1E2V3NxMXV4dFpoQWxsQ0o1WnBCTHdkTGpqMWhCYjJlbDFsZUZFR3NOSnRqbC1pdFJ3YUlzOEdNTV9VTHpJdFExSy04dTlHQ2kxMGdRRWx3SS05UFN0T0FFdGVJQ3hCbUhWdFhidXI5NWFKekVRSzBMTW9IZkVnU19ScHhrcW51a1dLVjhWV255allWQVVsblpVdzJtc2o2WVHSAdcBQVVfeXFMTkZiMmhiVWJEVWluOXFidmJZQ2hfWXRXZGt3M0Z5MDNTQ3ZlYWQ2Q2FZU3JNUzU3WVRnWV9RdG8tX01RYlVCZnZpNFROZXBkWFIwZGkzOVpIVjhEWFN2LW0ycnFaY3ZyUHhvNk5xU0EzQU5wTGpmcGJ5QUJ5bUNBTlpaakxvSmR5LWMzdFB1TzBUMmU2aGliU1NaYjNVeXJFaXhBR3Nnei11V3VBZ0RzMUl3QU5DbXI1aEZEYld5cnZCdW02MDRyS3VFVXhienZlZmdkTlFvRnM?oc=5",
-        "date": "2026-09-07T21:22:00+00:00",
-        "source": "APFDigital"
-      },
-      {
-        "title": "Nueva diplomatura en Marketing Digital con modalidad bimodal",
-        "description": "Nueva diplomatura en Marketing Digital con modalidad bimodal Diario Democracia",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmdMLVp4UUhpemhfcGdOTHViWHNJOERYZl92d2dCLWN0MFZzSzI1c3czZDlQNmRIM0dhaXJXdEowNGZERVdCUFZmdlBTVEU0dmh2OHU3enZTaWduallwYzh4eTF3dG5YNXB0bmppWExNbWJtSVVMWXNaVGM0TkdQSWFQWFdHSzMxM1FnNGFLNUdWcEw0V25JLUloTFVhNzdBUG1NcUFpX29PM0VK?oc=5",
-        "date": "2026-09-02T12:12:08+00:00",
-        "source": "Diario Democracia"
+        "title": "Fray Bentos tendrá un curso gratuito de Marketing Digital Básico",
+        "description": "Fray Bentos tendrá un curso gratuito de Marketing Digital Básico rionegro.gub.uy",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd250SnM4TDJQUU12eXdHNGdjSkhETkhKSjBrbUh2S1ozdGQ5RXhxRDBUNmkwWG9YYTAzV2VUMVJFSDdsd0hyMWxhSEhsX2FLRG90MUt5cDE4NXhsenpZZ1F5T0ZXWFI3RGRWenBDTENOcTd3Q3BrR1ExNzZVRXlzbGkzeEMxVnM3VGhweU9kMTM2YkNyTlhSaA?oc=5",
+        "date": "2026-09-08T15:18:05+00:00",
+        "source": "rionegro.gub.uy"
       }
     ],
     "IA": [
@@ -108,73 +108,66 @@
         "title": "La foto con Inteligencia Artificial que subió Milei para mostrar que los shoppings están llenos",
         "description": "La foto con Inteligencia Artificial que subió Milei para mostrar que los shoppings están llenos Revista Noticias",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSzlVZ0g3UDFxb1VDSzc3dUJMMVJrN1VHQlRPYk9pN2pmQmRJd0dVVEJ2V3U5Vko0ZkJJZFdjR0cxeUpBdi1ENWlXQi1QcWg1SjNEUXNkYy1GQnpSalcxUnB2YkFDaFdJU3pLNWJMQ0FSVkNwQTZOWmRnTHZQamxOMlJPS1d6ZUFDQzR1TDY3QTZ4cDI3U01JSmI3UXRfX1h3a3dudWZUZDIwWkRYYWdaQUF0V0hkRU1DclRrZjlnM3VWQjItMHJQYlBtNTI4Z3BTdlQ2bm8zVXIzOFU?oc=5",
-        "date": "2026-09-07T06:06:38+00:00",
+        "date": "2026-09-07T17:04:10+00:00",
         "source": "Revista Noticias"
       },
       {
-        "title": "Cómo hacer el trend de los años 80 con IA y por qué las fotos retro se volvieron virales",
-        "description": "Cómo hacer el trend de los años 80 con IA y por qué las fotos retro se volvieron virales El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMk0tdWdQLWJZTjNfVElWR0J3NFRKOG56aHdYc0s5Ty1Vd3dqSE1OVTM2cFJ1S2VJM0RjZUNmQ1hFdkU5WUFQT2ZFM3loWW1VbDlSeTZtOGdHeWw1RnNhMk1nWTRGcjFBUEtCN2drRm1CVEo3MEhSNDdxT1dZU1dybEhtMnMyWnRlSXg3UGFxSmRXbDg4MDZhLVVabjFOZFNXWTE3VVVEaHV0UUNGRENKUlczOUZFYzhNcV9OZXJPYlBTQTY5dUdGbVJLRnhCME1MX09QencyUFlIbG92V1g2eVhNQkU?oc=5",
-        "date": "2026-09-08T11:49:34+00:00",
-        "source": "El Litoral"
+        "title": "Regular la inteligencia artificial: la ONU pide actuar “antes de que sea demasiado tarde”",
+        "description": "Regular la inteligencia artificial: la ONU pide actuar “antes de que sea demasiado tarde” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXQwTWMzbndpM0xyNlp5VngyOGg5dHdCM3dXOEZpcUZrWHMwVm1GaXlDak90ZWszcVdZRjNvQzB1ZjRFZFdSNl92ZUJpSU5RVzhrZERqN2NSdFN4b3A2ckl4NEQ0aUVhbkw0cVhickRnWFpubFJDbXF6YjRqZDVfTzlQdXBYeldqRTZ4WkVFN05VU1pSd0tPVkpBTVlDYWxlQ2habVRYRlI0T2c3dm4yZ2xfOEZ3ZVJsZjVnY21qTmplZWFZ?oc=5",
+        "date": "2026-09-07T23:01:00+00:00",
+        "source": "Página|12"
       },
       {
-        "title": "El furor por el trend de los '80: los famosos argentinos que volvieron al pasado con IA",
-        "description": "El furor por el trend de los '80: los famosos argentinos que volvieron al pasado con IA minutouno.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjcyNWJnekRaNWNQbndSQTIxUUozYlZ0YVNFM0FCa3VqWHhxQmItVTVzR3VRRWNPbERhdHU4dFdmR0FSa1hCOENlV2MwY2szMExTbEt5ZGFHeXV1Z3dGT0ZtZUJqelZQbXdkTERaZWVjYWhMMzUyTFVxSUxKeTkzVG1aZGw2dWNhZW1reFNMdlNRMVpXSHczZHpMenN1TE05blVsdW1GZE5aNUJRSnFkZFA0alJ6VFZKUC1WSXZZNNIBvwFBVV95cUxNbjcyNWJnekRaNWNQbndSQTIxUUozYlZ0YVNFM0FCa3VqWHhxQmItVTVzR3VRRWNPbERhdHU4dFdmR0FSa1hCOENlV2MwY2szMExTbEt5ZGFHeXV1Z3dGT0ZtZUJqelZQbXdkTERaZWVjYWhMMzUyTFVxSUxKeTkzVG1aZGw2dWNhZW1reFNMdlNRMVpXSHczZHpMenN1TE05blVsdW1GZE5aNUJRSnFkZFA0alJ6VFZKUC1WSXZZNA?oc=5",
-        "date": "2026-09-07T17:42:00+00:00",
-        "source": "minutouno.com"
+        "title": "De los algoritmos a los ingenieros: el cada vez más amplio perímetro de control tecnológico de Xi Jinping",
+        "description": "De los algoritmos a los ingenieros: el cada vez más amplio perímetro de control tecnológico de Xi Jinping Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3p6aG44OF9PcHZrWGszX1pSaWY3bjdaQ2g2QW9iT2FtMVZ6aDBhZnljaloyNkhLaExUX0h4U1c3eFVHeUc4eU1qcjBtbWhRejhsWGRHcmNYMWQzQ3JrQ0doNTdPOG1QNG5jLWkzU1habjVQTGtPV1pXenVaMFRBSUZndnA5SDNfRHV3UHdnenNHT0tkbkRzVUloTV9TdzhNVkFHSHdkTGMxZ0stZnJCN1NOQU1OaWZTSTdxQTByaXB1VmE3WGo3bnlhQk9yQmFtZ1BjVGFQOWQ4Tl9wbkNzanJYbFBiV040cXfSAYQCQVVfeXFMTi1TeUNoUkMtVlFXWGprU1BPYk9CYzhpb05hT3l6b0gtenZZNWhKbGIxdzByQmlfeENhcWZ2QnhlallDalo3OWk1WEdHY3M1LTl0M194bVMzQ0ZjLVh1Q04yWnpPVXZOOV9SSGFsdkp4TG5vT0tyRTctdHdmSC1hejB4d0MtRHV6SEtReWZpYXc4TndqSG5jSVBrNUVxN2lvNTVhRmZWZDV1Sm0xOGkzT1ZYSmpsamk0WlNOZmpoQVk1dG5yUW1oN1pwOEdnNEtnQ2R0aVhvb1c1TE9mWjVfWVMtWkNHbXo4c3VCWTFtUkdiajQyeHpWMnZGcTVIcG5XSEZIclk?oc=5",
+        "date": "2026-09-08T13:24:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "El trend de los ‘80 que es furor en redes: cómo transformar una foto con inteligencia artificial’",
-        "description": "El trend de los ‘80 que es furor en redes: cómo transformar una foto con inteligencia artificial’ Diario de Cuyo",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHBfMGJPVS1rQXAxZjR1aWdXNjYySEVNdFdsenhaU2dVN1Q5Z1BzMmR5Y1NZeXh6WmdJNmhETE90akQzU0ZwLTBuME5vRklqbV9BQm1PaEJCV0ZhdGNaX1NmS216VDdYcUtoMnF0RWhqQV93VnNoUlZ0SDJKR1haX3Fmam1fQWN4N1lOZHRJTHlyZHNuaUJWdnk4OUNVSVcxWFVaZFk0Y2VtXzAzM0NSQXZ1c2dfVG1OQ1A4cE45OGl0M1IzVjhFOHh3aThkVTNMVVVDdw?oc=5",
-        "date": "2026-09-07T13:29:00+00:00",
-        "source": "Diario de Cuyo"
+        "title": "Perros, sensores e inteligencia artificial: la innovadora búsqueda de señales tempranas de cáncer en el aliento",
+        "description": "Perros, sensores e inteligencia artificial: la innovadora búsqueda de señales tempranas de cáncer en el aliento La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdko5YXJrNXRLa0RrSEI1b1hJWmJfQVFDZ3NrRXdoTWJ5bzM3clluWnlGekFpRTdRQkRJTW5SSFlLSTJOeS1LMl9acC0yZ213V01IbmZkeWxYV0c3b1F3MVE1aEZyVFVxTGg5WEs2bXNZSjN6LVJJblZHNEY1TTA0TmtTcHl5YUdCLXZoLUNUV1pPYmh0MzA5ZUg3WnJTSU4xX3FGMUlRM3A1YU0zU1N0QVduMm1JbnRoSnczOF8wYlJ5QXVKU3lsVkZvNmpQSTZuVGctYkp3OUNqVmJONzd2Xzln?oc=5",
+        "date": "2026-09-08T13:10:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Video ¿La inteligencia artificial decide si conseguís trabajo?",
-        "description": "Video ¿La inteligencia artificial decide si conseguís trabajo? Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnNtUE83Ylg0VTk0T1Zfa1Q2UVJZNEp2c0o2MERfazR1b09XNXVfZnA1WUpDLWJTNGZpd0J1LWxVTUw5T1J2UDJabjVHY2p0TV93UFRkbXlRenlTQVZIMnJsNS0wSmNYSUptdTJET0JNeWtrQUZZSnE1RzNsV3hndWJGbXJUUXQ5TEdLVmNKWklzOE1VN09xSFluZXc?oc=5",
-        "date": "2026-09-08T12:05:52+00:00",
+        "title": "OpenAI lanzó un nuevo modelo y aseguran que “la IA general ya llegó”: qué puede hacer y por qué está en boca de todos",
+        "description": "OpenAI lanzó un nuevo modelo y aseguran que “la IA general ya llegó”: qué puede hacer y por qué está en boca de todos Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcU1mUzljbEhQWFJZWHUtRFNUQzhraDRaRl91QWdXUENJUTZQMnd4bF9MaGdvOG5OQ1N1Ny1IOEtUZzRSM1RJTXZ3NGxKdWdkMXlZNnJSY0RFdTR3T05OMms5R25fSDhicV85OHptNk9tdi1SaklERE0tRnlKcDRad0F2S0xYUTdGUFFnR0xWQkRRU0QtNHVsME80RkpjSGEyN0JkcG13bjh0UDhLLVlFRE5wOWpoTUFQb2xVM9IBwgFBVV95cUxNaWp4WWxXX3VERlpTTy04TTFaY2JOQTU3SHNPV244ZlZ1ZjQzV0tCNzZ1OGFDME8zc3V1a29GZ0ZFN0tpcGxfbnpSSGdqV0ZTTjZYZ2NhVlRBVWo2LU5wVDdCVXA1N0R3ckdrMFFVeE1GaXM2SUFXX2NxS043SUhRWU4xdWdEWmtzMXRNNVd2Q20wU1I4czlja1NBaHYzLTlCRDJTQm1WcEtRdE92QTVmbmphS0xJTUZJcWxEZGtybEdudw?oc=5",
+        "date": "2026-09-08T08:45:43+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "Día Internacional de la Alfabetización: la brecha que más preocupa a las empresas ya no es leer, es la inteligencia artificial",
-        "description": "Día Internacional de la Alfabetización: la brecha que más preocupa a las empresas ya no es leer, es la inteligencia artificial Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMU15cjVreUtWemhGTDJpYkdORnFnaV9jN1ZPWDhRaVdGVG4ydFpHVjhwSFN4WFdfTlBkc1FyQ1NMbGw4UDJJNlZXZkpQcXEzZ3lnRmFEVXhjbWFtVkdaWDhNRUMtZEp2M1pIS3M2NmIxMWY5UXY2R1RrR28zVnUzNVhXdU5aOUVMMk5uZ0hNQU1EN1ZhaGpVVDhjV1NEVFBNZEoxS1Nkd2ozTEJEelk1WUJITDE2UkloUW0zVVNLQ1Z0Zk1WMkxiQ3lQbmNsRzFFNGxyemhpNnBRSmpiUGtjTG5RbkEzbVVabmMwWFdUeFM1bmQ2aHhfRWVDWEhGSVVQaXZUYVptekJIeUtyTkc1TXphNA?oc=5",
-        "date": "2026-09-08T10:45:22+00:00",
-        "source": "Rosario3"
+        "title": "3° Jornada Pedagógica; “Diálogos necesarios para acompañar la escuela: Inteligencia Artificial (IA)”",
+        "description": "3° Jornada Pedagógica; “Diálogos necesarios para acompañar la escuela: Inteligencia Artificial (IA)” uepc.org.ar",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObTdNOG1DYy1IZjFwRm5GZnoyemIyWDFaekZwemVCSWk3NmlYZ2h1T3gwUXpUUDlvU0JGWTlpcEhZaGlCMU84UHptLTBOYVo1MUtfR1RXQkd2S1BHX2FqZjY1eVZwdkFKQmljTG1ZMlFHckJrc1ljc2diUE1JNHhVZExtdEM4bnNLckxXYkVHWktWQ3ZjODJFNzFYNTgzZ25Mc0JOSW80ek94VHFwbEpZQXN2MmY5aTBsWnN1a0hRUDBINW8?oc=5",
+        "date": "2026-09-07T15:26:56+00:00",
+        "source": "uepc.org.ar"
       },
       {
-        "title": "No pasan del ChatGPT: 8 de cada 10 empresas peruanas no están preparadas para usar inteligencia artificial, advierten expertos",
-        "description": "No pasan del ChatGPT: 8 de cada 10 empresas peruanas no están preparadas para usar inteligencia artificial, advierten expertos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbHZkcGFLa2dmWWhRMGdBWUdTTS1iVHZ2U0JJR1hEbmIzMXhUUHJrczNzNld3c25jRWlWMUpfdzVXMm4yUkV4Q2l4aG9QZzVkMEJFVWktWmJ1M09fRk5DS3J5MTF0OUE3SkxELXJvb045dGZlN3ZjQU9yMVhsN1ZmZ0tTY3lNZkNUcEZ3dmRyY2dvcDZzS3dIOFRaQ3hpTTlScGltNmJIaTd5RG9QWVlrUDRkYjBjRTJUbmxtemxOU1owenQtNk9HcmNscUNkZFk1RThrdkJmRjZZaGI2ZVFzdHd4RTZRazVvMmlHWHdHUkd4SjJ5T3JqZtIBkwJBVV95cUxQRWl5Y0RkX0lNMnpDNlRGcno3Q0tlUWpwb0dEVWd6M0lmTFo4d2ZZYlRMelNhX2NuTEROT0VOYlVnQ2VNYklFcWp5eEdScUo3dldDTi1IY3RCZkM5eVpzZHB3Qy02X0dmUkRQbDdWLXh2X0pFUmVvcHdjWVlFekp5eHBGNlhsR19KZFBRa3JyRW12Q3BLOHJmQUxDQ1pwazMyT0ZoTWhYcWtqRnI4VnVzenYwVTl5b0xuNVJoSUJXWUt6MVRoTGFyQzg0TFFFSXNGSmF4V1ZEWWtyaDRyVFl1U1JBc29uanBIVldpVlVWRzhYSEszRkJTeV9OWXd6V3Q4TmFDTlFIZzllQjdIemZDZlFrQQ?oc=5",
-        "date": "2026-09-08T12:01:55+00:00",
-        "source": "Infobae"
+        "title": "Invitan a un nuevo ciclo de formación en Inteligencia Artificial para emprendedores",
+        "description": "Invitan a un nuevo ciclo de formación en Inteligencia Artificial para emprendedores Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2MyVDFqRXQ0Z0ZGNjVYWGVWMDhWMUhIWF96YXVtUmZDVXU4TVg0dDFpT24teWNpSmt6aWRnMVJyQkkxQmxqQVA4WWl0MHk0YTRIdmFmY1c1X28tRDRHNlpvVW55VTg0NjJTcnp5cEotMXRjR3dIMDRCTk9vME1qbVF1SUl0M2NKekZadmhrRnQ0VXRndkJfWGRQaVpiNlppN2xHWHFxTWd4emVQVGdtcHJES1FCc3VHN21zY3UyLWpuSVdFaURMNDln?oc=5",
+        "date": "2026-09-07T12:59:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Ruta Nacional 5: el pedido de un ingeniero para el presidente de YPF, a partir del auge de Vaca Muerta",
+        "description": "Ruta Nacional 5: el pedido de un ingeniero para el presidente de YPF, a partir del auge de Vaca Muerta Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYko1MWwyZ0lBSFFzaW92Z2Q2N2ZXaWdvZFZORVpqdk1uVDQ0WHdSd2ZVdEZveWdOaGdmVEFuWGxCTFdGNnhYTUtTMUR2LWgyTTJJQVlyWkdOUWNCdm9Xay14WXo2TXFYRDJIczI4VjJmTzNJb2pBYUZpMTFfNGtYUFd6UEI1QkgwRVo1NWFtLU5lQ3hzUF9ld1VXWWdIZ1ZqemhnNXJGNm12MnRqTmZMTm1nWWhGdmRvR2c?oc=5",
+        "date": "2026-09-08T16:27:41+00:00",
+        "source": "Clarin.com"
+      },
       {
         "title": "Una compañía neuquina desarrolló cañerías flexibles que permiten sustituir tuberías de acero en Vaca Muerta",
         "description": "Una compañía neuquina desarrolló cañerías flexibles que permiten sustituir tuberías de acero en Vaca Muerta econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FaDBMSXk2bVhkTEtESUhibnowMzZORzRGUDQyRS1CeEtVNzlZNXZqeFdDM21JbjRCcEhTcFN3cURGT3cyQ1lBVmZ0a05nRVFMdy1hSkRkNkczOENnVW5GVkttM1l6c2VFclM5TFZWOFY3WkpPeVl6TVJQQQ?oc=5",
         "date": "2026-09-08T11:31:45+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Vaca Muerta Sur sale al mercado local para financiar la recta final del megaproyecto exportador",
-        "description": "Vaca Muerta Sur sale al mercado local para financiar la recta final del megaproyecto exportador Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeEliRE5jNEk3ZmpvTVJrTF9jOV9mQjdaVy03cjNhOXhpQ19UVW9maTNFeHNmY2RneUJmSnlNUGRPdFVXWm5pak5mZlZQNnlWNHk2UjZ3eVliQkxBVHRPdE9zU05CRG8zYXNXS2w1OTd0TGdoekVXaGdBRW5xdmREQ0t3eVNWbi1QbUI3TFFxcndtVjlIek5DclllU296TnQ4MUc5ZVctNWhZLWxtU1hlMWNacnNia0lrbldaYUdBY2ZLTU9MUEV1NzNvajdYbFVKeEZMRk1B?oc=5",
-        "date": "2026-09-07T12:59:31+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Vaca Muerta puede convertirse en la usina que alimente la inteligencia artificial del mundo",
-        "description": "Vaca Muerta puede convertirse en la usina que alimente la inteligencia artificial del mundo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHIzNmdjc0UtUU1lel8tbWx6TDhZSGpYWmlGWHkwRm9TQS02SEtEUlF4WndMMjNqR0ZiZ1JCcGJzZUNDR09zdUtucDF0UGEzbjVVcHNFTWJxYmtPZE04Z2x5dl9CZEJrZ0Zvck1rdkllNzRfbzYzV0RINEYtdkRzT2pETzdVSktmX1lib3dJbG4tMEtqRDlETE9jRWRUWnFnX2dDYVoyXzR5MTg2UER3eFNSS1h1ekJwNDlTU1Bpekc4X0lVQUR1WFRTZGlzdHJH0gHrAUFVX3lxTFBaeXhKMmd6U1dydGJubThRU3pXT3dGR0N6aS1QTFJrdzJhdFZDLTRyNU1mMWIwU1hua3FUSExMZmhyZlgzNV9wMFhLVnUwX2NIYXFiTEhxUzJWZUFsYUlhSjgyTWxKMzhRNVMtYy1hLU9aUEFMMkxFdUNHWWFZT0cyNlB6eVZwbEdQazZqTFBiNTlmU3VFRTJOTHROQ3NUXzVUNGJBNWlDM29ybzliVFc5QUM4aEhVZDRfT1B5MzY2bFlfYmpBck5WV0I2X09fS1JRcE0wWUl4a0VGbkIyQmVsQmYzR1oyVS1IOUE?oc=5",
-        "date": "2026-09-07T12:49:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Figueroa acuerda con empresas operadoras la ejecución de obras viales",
@@ -184,6 +177,13 @@
         "source": "Neuquen Informa"
       },
       {
+        "title": "Vaca Muerta puede convertirse en la usina que alimente la inteligencia artificial del mundo",
+        "description": "Vaca Muerta puede convertirse en la usina que alimente la inteligencia artificial del mundo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHIzNmdjc0UtUU1lel8tbWx6TDhZSGpYWmlGWHkwRm9TQS02SEtEUlF4WndMMjNqR0ZiZ1JCcGJzZUNDR09zdUtucDF0UGEzbjVVcHNFTWJxYmtPZE04Z2x5dl9CZEJrZ0Zvck1rdkllNzRfbzYzV0RINEYtdkRzT2pETzdVSktmX1lib3dJbG4tMEtqRDlETE9jRWRUWnFnX2dDYVoyXzR5MTg2UER3eFNSS1h1ekJwNDlTU1Bpekc4X0lVQUR1WFRTZGlzdHJH0gHrAUFVX3lxTFBaeXhKMmd6U1dydGJubThRU3pXT3dGR0N6aS1QTFJrdzJhdFZDLTRyNU1mMWIwU1hua3FUSExMZmhyZlgzNV9wMFhLVnUwX2NIYXFiTEhxUzJWZUFsYUlhSjgyTWxKMzhRNVMtYy1hLU9aUEFMMkxFdUNHWWFZT0cyNlB6eVZwbEdQazZqTFBiNTlmU3VFRTJOTHROQ3NUXzVUNGJBNWlDM29ybzliVFc5QUM4aEhVZDRfT1B5MzY2bFlfYmpBck5WV0I2X09fS1JRcE0wWUl4a0VGbkIyQmVsQmYzR1oyVS1IOUE?oc=5",
+        "date": "2026-09-07T12:49:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "La petrolera de Vaca Muerta que apuesta por Venezuela",
         "description": "La petrolera de Vaca Muerta que apuesta por Venezuela Ambito",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVBIQnBWeVI2S1A1VTlSMnlEeGRab3dES3pKZzJ3SWZDWHhwXy0tc3lZdXNyY1hDemRMT2FObEVsb21hN1VSN3JILWZkeXotWUxLUlBtWmlBeWJ0eklGWEFEejNybkpqQTFFMHY4LXIzVlJEeVJBdFVSM0tvaTE5bHcyRHdlT1BzX2g4bnNERG_SAZYBQVVfeXFMTUhBRHRtdkFYWUhoSzMwckc2emhnRUV5VmZ0VVhWcHl3ZlpsWWZJdVdtZU01VXIxeXRnTlhSSS1xM1UtQXdpN0JlQmJyZmtZU1lRMHl0YW5NVy01N0RMVUhuc2lGaVNqd2VfazM3blA2aTVLMnBGeDYtVzNMejBRRDBLLUVSTU5fMXplSHQybVBBUkNsTUNn?oc=5",
@@ -191,17 +191,17 @@
         "source": "Ambito"
       },
       {
-        "title": "Costos hasta 14 veces más altos que en Vaca Muerta, precios volátiles y proveedores remisos: los factores que echan dudas sobre la rentabilidad de Sea Lion en Malvinas",
-        "description": "Costos hasta 14 veces más altos que en Vaca Muerta, precios volátiles y proveedores remisos: los factores que echan dudas sobre la rentabilidad de Sea Lion en Malvinas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOdlNnM2RNLWcyaWFDc3Y0VExLbzJiOHZkRW90MkdQNUE5LTFqekFiWURPM3E3eEpzSHNNMTR5QTNqc21naWFWYmxvNGRtT2lyZUJ6R0J3UmVZQWoxRGNxNXFLY0JERk5kb0prMWpCQUtVVzFmTDI3RFFja0xhYjEzUEdtNmYxZGtyZHhzODdJM0NZYmZuLWNRRGpmcXlmNWR4bThDREhnM1F6cDFSekNPZW82Y1RqOUhKSXd4am5ZNE1GSkI0MWFXNnBPR1lmN1k4ZlBYVnBYQVRXdkxzMVh3bGhVT0p6QXg1VTVGR1R4UzQxVGVSN28zWTE2WEhnMlFzX2YtWlZ3emJYQVpMQzN6N0JqeGxhNlNKN0ZrS0R4M3RnTDdlRy1HTTQ3RGNhR01qTmM5LdIBzwJBVV95cUxQcXotUkpnbUZ0T05LdjlmQTdfQXcxWDNIaGtDZGt0QjlsU0dhZFZpQ0ZKbzE0eWVsdWlGQlpkd3hXeVpNMjJTblVuT0RjZzAxMWhfeGZITC1KN1RRTngzV2VncE54VmVJeUlPUnppR3hnWlYxakFTT1NWaTNDX3NUNERFZUFOU19iSXBwWGY5bFpXc2lwNWR3LWVrMzRZSk83UENFQjB4ZXNwQ09rT3dkSHM4b2NSWmYxdDMtMVVqTDlWWFZjU2s3VVRBa05SVmxHMzhhalZwbWNIc05UZklja3VoUllEeDBjMjBQSGF6Q29EZFpZRC1ZbzdPMGlGLS1JNXBrVDluNS03V3J2bDN6ZDhsY3drb1BfVDVycWRXM2paUjkzSTlZTUQxTG1UMVFvMF83SUgyREROWGpMaDM2ZUlaSFY1Y0hidER4SW01VQ?oc=5",
-        "date": "2026-09-07T06:51:00+00:00",
-        "source": "Infobae"
+        "title": "El paso clave que da Mendoza para desarrollar la zona de Vaca Muerta en la provincia",
+        "description": "El paso clave que da Mendoza para desarrollar la zona de Vaca Muerta en la provincia MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWxIRUtNT205Q2RSSUtiZ1BRX2RnaXRac2tDTjVJNVNMWTRHbXU2RDNQZzc5Yk4tM3ZHSlBnZ3Z0cU1XVDlXbGtlNFZNcTlubV9nLXJPVTE1ZUVZRnA3Z19ZdnRwLUI0Y1dMWFlvTm8tNHNIamUzd1o4R0lIOTYzQTZzalAyLVI0RTZOSFRHbnJfdUtYVjYtUzd0MEFTaW5xaWlFb2xrWk5uVlh1MlhNdlNoONIBuAFBVV95cUxNLUo4MUVzRjd4R0VPdjk1TzVocEw0XzROR0l4QVhxZ1NGLWJjR0JQdm5oSHZlb2RRalh0bDJXbV9Oc0ljV2kxTllQRHQ1Zm8yakZzNTl4VjNjaUI0NkR1bXdmcnprLUZkTV91cEt6NjRURmJZcGgxbFpQcFpQYjF5bmF3TlltOFdydHZBc2cwbzFwRzdaQXg5UmVNb0RrM1UyV0JYTDVXaU9UR21VSzlfTEtPSUZiRTUt?oc=5",
+        "date": "2026-09-08T12:34:00+00:00",
+        "source": "MDZ Online"
       },
       {
-        "title": "Malvinas: las principales empresas de servicios de Vaca Muerta se despegan del proyecto Sea Lion",
-        "description": "Malvinas: las principales empresas de servicios de Vaca Muerta se despegan del proyecto Sea Lion Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTldhdGpyQVVIQWQtNDRtMmE5cllGSUhZMUJPVm9vZGVxcmprMWk0WU8ycVJRSHdEeTNfM1VpaFVMSG80RUdSV1Yzdno5LVEtdU9sTk9UaGJIZGlTeUk0Q2lURlo3ZzZkOHdDWVlDcjFaR1JyLWxJTVNwdVVpdmg3SnhkMnVmTDMtUENEczFxUkI2SU9wcF9LQVNRUVdvUFB3VlNGSGJKU0lWYkpTLTR5ak9WbklwQ3dQelhVUTFZb3pKLV9CbUJSZGZuT1lCMjDSAdQBQVVfeXFMT242eDdoOExDYVNvMnM4RmppcnQxVWNXTHNMYXNoMURraWlPdjlTbkotSnBRNHJRaldXdHpubUd2Ui1KNXpwbTF0azZWX0MzSl9OS0pLSGRCOUFCYTFSZmdNNl9yQ0V6MmlFdE1qSnZ3bUFKVmEwZlc2UHQ1cUVHTzBqeVZhenZqZDVKSWlTZk9qTTFVdmFNQ1lkekVob3lrRnp4RlFXZGN6WGd4czJJamV4M3pWMWpZWlRHSFF1WU9TQ1B1Zm94UXpLa3cxRkh4eDMwMFc?oc=5",
-        "date": "2026-09-07T13:53:00+00:00",
+        "title": "El boom de la inteligencia artificial pone a Vaca Muerta en el radar de los centros de datos",
+        "description": "El boom de la inteligencia artificial pone a Vaca Muerta en el radar de los centros de datos Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjI0c2dlcnc2VXBKU2t4TkhzX1JjR3ItaEdxSGVLRHNHdllEQ3VmM3JtVFJqX2oyZXY0TlkxRkZETV9UWkwyUjFMTVdId2dzTWtiby1mVnlyRUNKZDk3NktKa1NCQUItWnJ5RWlZaFFVN01PbUxxOVkyWWFodVdUR0UxXzg4ekFQeFdUd2ZRcTQ3Uk9XRGd1T2VRTGg0TkVhQWFxa0xmcDc0X3dQVFc5c19QNDNUWEFtUE9aZWs0bXIxaDZX0gHKAUFVX3lxTE5nTjZTZG9wZi11ZHg5UEszX1lZZmRZeHU1Nmx6N1hiTFBTRXdPOXJzV0RuYlp0YlNxOTZhWHhxWC1wWDJhNlFwRmwycGY4SlppNTRxaDIzMlZDUW43RWxfcHFvOGZqeFJtY0w5YXh6TU10LU9RVlZFNzVWTnk5OG5HMUQ3V0FaeDFDc1FlYVdsTGFhanlaR25CYnJ4dkFaNERGS0QyTFVJaFlIUW1ndUgtSVhMLWQzM1Z6UjUzaExRS3FfOENsNGFFYUE?oc=5",
+        "date": "2026-09-07T17:48:00+00:00",
         "source": "Lmneuquen.com"
       }
     ]
