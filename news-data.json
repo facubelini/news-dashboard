@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-10T02:41:51Z",
+  "updated_at": "2026-09-10T07:47:23Z",
   "categories": {
     "Microsoft": [
       {
         "title": "Nueva actualización de Microsoft corrige casi 1.000 fallos de seguridad",
         "description": "Nueva actualización de Microsoft corrige casi 1.000 fallos de seguridad Infobae",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdy04Xy1vTHVKZFVuU0FmMGZERDdRR2pkd1ZvS3lxYWRJTzJ0RzEyZ0FlbEZpbHFYS1otYXJlSU5jZzNzWm9NSlBXM2QzWXAxTlQ1cm1UNUdGRC1QTmR2NFZ0XzF6OXgyWTZTQjhOelk2OW5CN2tHWFhucjN3cnlQdW1ZRUI2dGZocF9Qb0ZBMWRkQ2NxTjMwaXBrQ3VTM01RNlBRWTBvRHplOGZSTEh1clV30gHMAUFVX3lxTE9MbDVPcjJod2tzdXU1T1M0LVRkcENUZUd1TWhSLWNtd1ZrZGF1QU1tZGJqcWRRZ1dZek83TzlRNVR3SzJKMjVlaGp3bFpQZ240MVN6dUtXSUhmRlN2NnI3eF9QUHgwSENrcHVpSUNmSlFwUlhpLXJXa210VnJYZW1aVFU1UVprRDlFbE5wTHkwbEZ2MU9mMGNwcTd0QlFSNFl6aFBadnRMZUNWelU3TVZxQlU3c2JkR3FTTk1TTFQzeUw3aXI3YWJLTjdKMQ?oc=5",
-        "date": "2026-09-09T23:32:56+00:00",
+        "date": "2026-09-10T00:17:00+00:00",
         "source": "Infobae"
       },
       {
@@ -17,11 +17,25 @@
         "source": "Hipertextual"
       },
       {
+        "title": "Microsoft bate el récord de parches en la nueva actualización de seguridad para Windows 11",
+        "description": "Microsoft bate el récord de parches en la nueva actualización de seguridad para Windows 11 MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGJ0SnNIOXdfZ1VsUDZWa3pLcEQ2dlREbnF3VU9nRHZXTzBmUVcyQ1VYUXAtTDE4LW9WVnRLOFN0MElnWFQwYWpxZV9QNWQwSUdjblljakNQQkVBdmRyMXNKbklKQm9adkYtUFEyT0tDVlZKZzdmZkpjeHJtV1Fvajk3blpmWURtRVJBRW96MElLWTcyR2NzMmFtNUhLTGJabzRwTVdDcGFwek9mWVhvWC1hbFNGaVpUSUpPWEhoX0dSYUQ4d2pJVzlB?oc=5",
+        "date": "2026-09-09T07:26:58+00:00",
+        "source": "MuyComputer"
+      },
+      {
         "title": "Directivo de Microsoft revela la estrategia de IA que tiene el gigante tecnológico en Colombia",
         "description": "Directivo de Microsoft revela la estrategia de IA que tiene el gigante tecnológico en Colombia Bloomberg Línea",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcGpsWm9oTzczb05YLTRReWwtcVRMUml2amxnR2p3T2RYelhmWkFvRXBYaExldy1BTGFwYXpEQ0wtSEVobWNzcUFpYThiZmNQeTN6SkMwcG1VR1pGNlVodW54WTdubXE1Mzh2aFdzSzNKV3Vlbm1MNXdFVFFaX3AtWnE1QkxLSFFuQUh0c01YcFZtOXZ1anRPV3JHeTAtYWdDNEs4WkN4Ym9tdTVLUlo1MXJGb1NURV9UR2JYdmp1VEg4MmpsRFJzcExZZ2g5Q0RxSW94a05jckVHdW5Ca0o5OW4zd9IB9wFBVV95cUxNZmJwMHJ4ajgxbU5uekJtYU9WblRHRURucmRFYjdTYTllWE5fZ2s1WDNOTUxqUkxLVHRjOXZRSGtfTWh2MzE0UEhOeEdidS1MZDlkM3REOVhoS0RQdWxHeGY4ZU4yQzI1S0JaaV93WmY1TXgtTE1LUHgtbXVNaURMMlk3TmJSMEJyNXlTdERvcmdDbWJBWDhiY0kxbl96cXYwTHI4ZTNsTmUyZlRnYnRHVGNGWGx6RXhEaldIQldIV1hOYjQtOG1Vai1yVm1iWVlXZl9oc3ZYU3RpRUhwRWlLVDNwWHJyQTM5bnNYTEZEYnJjUzVKOHhv?oc=5",
         "date": "2026-09-07T10:00:00+00:00",
         "source": "Bloomberg Línea"
+      },
+      {
+        "title": "Microsoft confirma las mejoras más importantes que llegarán a Windows 11",
+        "description": "Microsoft confirma las mejoras más importantes que llegarán a Windows 11 noticias3d.com",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzdCeHNqd0JUZzRraGEzY1JfQ0xHUWtiMlVWejJxYUJ6QzgxZERobnBqV2lDWjlYZ0ROWDhMMF9Sa2Q4aTVkLTVGcDI4TncwSERaV0lwRmd6Zi1ZWnNlcDFmUEY4RlRYd1FJUmNLUnMzTHd3SDJmWmhDeV9MYktMVEpfZFFvazRoeWd4Ny1Kc0M?oc=5",
+        "date": "2026-09-07T12:19:47+00:00",
+        "source": "noticias3d.com"
       },
       {
         "title": "La actualización de seguridad de Microsoft de septiembre alcanza las 966 correcciones, incluidos dos fallos de día cero",
@@ -36,23 +50,16 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRkJDR0VZTWdMcWszOTUwYnBSZi1PdXNlVUlfbld6Y29hclhkcUpxVUZ3V0duMTZ1NmV6QTBiblNEcXAtNy1oemNlX0RxYUowdGlyQkdWWUk5Rmx2Z0IyRVFlWjFZVXBacVkzSkQ3NmlFNzkyejE4RmljZjVERUNneXZvNDdmLTEyajd2eUdqZzBpWFZJVVlWVVpCWHRtZ3E2eFVpRmRYbnAxZTVBUUlqRW9KNU5VbUNndGZGSHI0Tk41TC1lcnFDN2ZUTzJ1d2p6cGfSAewBQVVfeXFMTmgwS0xTSWwyRGNEY2pNYi1DOGJfYjNhZnNCWVhORUN5UTFSaUZVeGJTUFVIbnpqblBJblI5ZzdxVkxBYmRZeVdVbklXRjF4WXNyNHMxN1k1YUtidU1ydUZGb1NKZVdPem5BbnBYRzhKcDRocjlRMVdRc2R5dXRESEg2Ql9DajBpSzEzclgzd2JnX2xHbk1UU3pHVjMyeG5oOXAyN0dEOVVuYmp4aGhGMFR4bi1feFBJRFRlSWhoSC1KYzJwWlpZc0Rza0lBMnVWWDBZbWlzMlRjeWRGaGQzSUVYb2x1ekx6cFEwTWQ?oc=5",
         "date": "2026-09-09T13:33:54+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "La verdadera razón por la que Microsoft eliminó el Pinball 3D de Windows Vista",
-        "description": "La verdadera razón por la que Microsoft eliminó el Pinball 3D de Windows Vista Infobae",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDRZSVBZNUxVMzhRbU15aklCZXVROVRZQjVLa1h6X3JGbnJZWXNwTnctUmdUczg3VWZJV2hVblFCRFRrSVFlTHpiQUVNczJ0RWxwYXBJdnhNZnk0Y29jTGFUSXZZMzZHeng5eWJlcWVYUjRhYnRPdzMyNHBteVZGaFdHdDIteWQ1eXNQLVNxWkx3ZVhnYkRQUnFfWTFJSS03cDN6dERrUnh1N0RTNkhabFNSd0UtcDJvbHNBMdIB1wFBVV95cUxOTkduaUV2YXcxUnptMEtXLVdKQng5QVFIR2pzSTNyRWZZclJDVTIzSnZ6NWhvNV9hUGNHQU93MTEzMVhFVjZsZHpGbk1wYk9CbkZyYm5KVUhtOTh3LThRLXo4YU16V01KWERJd3U4cG5TUFRIMFdzc25WRmQyQUx2OEV5Slpyb09HN3NXMGNYTmtVaklVbFBjUEFjcU9pMC0zekdsWlEwZ2JqYmVtQmZfNEQybU1rbHE5aWJPY2lhS2hwY3JFY1VhVG92S0RXZ21yVXFJNFNiRQ?oc=5",
-        "date": "2026-09-07T02:53:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes",
-        "description": "Cuando Microsoft miró lo que gastaba cada empleado en IA descubrió algo: alguien había quemado 28.000 dólares en un mes Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYm5uNU4zT1Y5V1hNRkFTdkNzRTZMSG01ZnI3a2RScDdxR25HeVY1bms2SXhlMm5RenN6MlItd250TTRqVllkN0FQZ0dUZndiNkpGYTVuUV9UZ2dyRlcyTTl6NXFJeFlfM290a2c5a05ZMDFaLW0wVG5PUUk3N3FtM1BPNjZaNURlWGprSHNoODA5c0RHWUZ0dXlsYWlsSXRJRDhxbzNVTnRsdDFwZGpaOWNlcDVBc0QxNVZhTFY3cWVNcGpNZDZxZ2gwRlhrbTZSeVBMR2x3YmpwWkHSAeABQVVfeXFMT21sZllRUlNiMDFEQXRiRHg3R1hBMnB2S0REdDhIYnU1bWRSZWpUcnhINXhWdWVyTmZDSjYweHR5TmpRR0J4RWxDbDQxSEpZWGVLRzl6c21tUzA3dXkxeVlnR2NGYUMxSENjdzhIcUpOOTNhcmtqQm9OOEFqUWZVU1poUzdZVEhyblJRVWVnd3ZzS3c1amY4R0tjdjc5bE5sRHBkdGRJT3I5UlVUcFJ5dnpWYTZ6NVh0QjhJd1FfZUFBd0dfbUJkVkczRkh5d0JSNUt4UHdsOFc4Q21wczBMMjM?oc=5",
-        "date": "2026-08-31T07:00:00+00:00",
-        "source": "Xataka"
       }
     ],
     "Marketing": [
+      {
+        "title": "Llega el EMMS 2026 con un tema central: los agentes de IA ya ejecutan campañas de marketing de punta a punta",
+        "description": "Llega el EMMS 2026 con un tema central: los agentes de IA ya ejecutan campañas de marketing de punta a punta lacapitalmdp.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaGJWbUd0ZXNYc1gwajJtVkpoT2JzU2NQRGh0VmhlSmsxRDlXbzE3MERxQzU5UkNtVWEyMEFDNWZvVU9xOV9RSm9yM2dTY3ctQUpRcmlpZDlYR0ZTRXAyUGk0QXliTDR5TFh3SEQ3cnk4d2JQUVN2QlpndnF5YjlUNnprYVR3N1VDSjM0RFkwUnR3X1BXUE50OEU3V3phZmJpckJJSmx5N0lNWklwMHJQZ2IzS2xsQkp5bmxMdGFUU3gxNzFxTllPSXdvWVFtUmFJTkJ3?oc=5",
+        "date": "2026-09-09T21:30:38+00:00",
+        "source": "lacapitalmdp.com"
+      },
       {
         "title": "Brindarán un taller de marketing digital práctico para emprendimien...",
         "description": "Brindarán un taller de marketing digital práctico para emprendimien... Eldópolis",
@@ -76,17 +83,17 @@
       },
       {
         "title": "¿Necesitás capacitación en marketing digital para tu emprendimiento? Esta nota es para vos",
-        "description": "¿Necesitás capacitación en marketing digital para tu emprendimiento? Esta nota es para vos IN Salta",
+        "description": "¿Necesitás capacitación en marketing digital para tu emprendimiento? Esta nota es para vos insalta.info",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXZlTnhsdURxS1JpLXVBc2p1Q3NFOWpfSjAxQ0V0eWJobzl3UlppaUtHRkY1eXA2VC0zc29Ma1Q0djlldkF2VDdkOXU1TGxtN2hoTllvOGpVMXJSMkcySHE4b2QxTE5WX1J6VzdzaFRCY0hZaEtQV0RaUTkyWmNKVE96WnR1c2FUQXVORndQRWhqWnE5ZmpFenFFLTZlN0dpUlJKNTJxSjVLYkVqd045c0hYNUlHbU5ZNnfSAboBQVVfeXFMT012ZU54bHVEcUtSaS11QXNqdUNzRTlqX0owMUNFdHliaG85d1JaaWlLR0ZGNXlwNlQtM3NvTGtUNHY5ZXZBdlQ3ZDl1NUxsbTdoaE5ZbzhqVTFyUjJHMkhxOG9kMUxOVl9Selc3c2hUQmNIWWhLUFdEWlE5MlpjSlRPelp0dXNhVEF1TkZ3UEVoalpxOWZqRXpxRS02ZTdHaVJSSjUycUo1S2JFandOOXNIWDVJR21OWTZ3?oc=5",
         "date": "2026-09-08T05:43:20+00:00",
-        "source": "IN Salta"
+        "source": "insalta.info"
       },
       {
         "title": "Más de 100 emprendedores completaron la formación de Diseña Paraná y sumaron herramientas para crecer",
-        "description": "Más de 100 emprendedores completaron la formación de Diseña Paraná y sumaron herramientas para crecer Uno Entre Rios",
+        "description": "Más de 100 emprendedores completaron la formación de Diseña Paraná y sumaron herramientas para crecer unoentrerios.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1hyVjVlOXpxWktxUzBzZEItTEszclBPYmo5bXF4V19kOWdrZWRjV28wc096NDJYS1B5VFRveTRxYnZWaVpmVU1jNTZaaTMyenVLYmFzaHZ1WmtKZ1ctRUYyTGtnREZ1RkhFZFhyanlMN0tyQ1BCb2RCS182bWdXdW9hdV91X2tSMHR6V2RKOXQ5bG5OaFRLWXE3X1dERmEtQmtjN0xGTEVtTUhMSjlzNDBUUWw1czJYNlpWclRhNm1RSzZOZXBGdVB4T2g1V09jazBGLU9pdWJkRzRFM2RPTTZVdFPSAeoBQVVfeXFMTjVobWlQNTBiMVBJcURYTFZ2WXVoRVNia3lCMktTVTJQUFRWV196bkx2SHNWWklVX1BMREZjYURhY0NBNzhNc0hHRTlMVllMQTdBa1J3a3BoaUl6dGNGUHkyckZqaVdwVnJiMWNpeXY5U2dHdWUwM1dRNi1hTnFRcF9ZUHlaQ0pZWjc2bkNLb3BjelNjRzhnbEExZF9BMUtwV2JPZTZoUkg2QjNIN3U0dHJqTUVGUzBaT2VwaUJrS195Tlh1Sy1VenV0ZE42MTFfOEV0Zkk5T0tKc2tudWI1TnlndFhWYUwwVnp3?oc=5",
         "date": "2026-09-08T00:00:12+00:00",
-        "source": "Uno Entre Rios"
+        "source": "unoentrerios.com.ar"
       },
       {
         "title": "Más de 100 emprendedores culminaron el ciclo de capacitaciones de Diseña Paraná",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYVBNdTBSMEVGN3UtaHl6YVFsYUJlUktHVm1vSUVqSC0weU1GcmRPMDdkZ3BfRHRRT1E2V3NxMXV4dFpoQWxsQ0o1WnBCTHdkTGpqMWhCYjJlbDFsZUZFR3NOSnRqbC1pdFJ3YUlzOEdNTV9VTHpJdFExSy04dTlHQ2kxMGdRRWx3SS05UFN0T0FFdGVJQ3hCbUhWdFhidXI5NWFKekVRSzBMTW9IZkVnU19ScHhrcW51a1dLVjhWV255allWQVVsblpVdzJtc2o2WVHSAdcBQVVfeXFMTkZiMmhiVWJEVWluOXFidmJZQ2hfWXRXZGt3M0Z5MDNTQ3ZlYWQ2Q2FZU3JNUzU3WVRnWV9RdG8tX01RYlVCZnZpNFROZXBkWFIwZGkzOVpIVjhEWFN2LW0ycnFaY3ZyUHhvNk5xU0EzQU5wTGpmcGJ5QUJ5bUNBTlpaakxvSmR5LWMzdFB1TzBUMmU2aGliU1NaYjNVeXJFaXhBR3Nnei11V3VBZ0RzMUl3QU5DbXI1aEZEYld5cnZCdW02MDRyS3VFVXhienZlZmdkTlFvRnM?oc=5",
         "date": "2026-09-07T21:22:00+00:00",
         "source": "APFDigital"
-      },
-      {
-        "title": "Nueva diplomatura en Marketing Digital con modalidad bimodal",
-        "description": "Nueva diplomatura en Marketing Digital con modalidad bimodal Diario Democracia",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYmdMLVp4UUhpemhfcGdOTHViWHNJOERYZl92d2dCLWN0MFZzSzI1c3czZDlQNmRIM0dhaXJXdEowNGZERVdCUFZmdlBTVEU0dmh2OHU3enZTaWduallwYzh4eTF3dG5YNXB0bmppWExNbWJtSVVMWXNaVGM0TkdQSWFQWFdHSzMxM1FnNGFLNUdWcEw0V25JLUloTFVhNzdBUG1NcUFpX29PM0VK?oc=5",
-        "date": "2026-09-02T12:12:08+00:00",
-        "source": "Diario Democracia"
       }
     ],
     "IA": [
@@ -119,11 +119,11 @@
         "source": "Infobae"
       },
       {
-        "title": "“Podría matarnos a todos”: la advertencia de un exinvestigador de Anthropic y OpenAI sobre la IA",
-        "description": "“Podría matarnos a todos”: la advertencia de un exinvestigador de Anthropic y OpenAI sobre la IA Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZld5RVIxeTItVExOclVMX0lNbTVJSlNTdk5TOC1sald0eUNnTHZuU2dQMFlKM29lYWVvaV9tWUVIelVNMU9BRi1LWElYMm5ndTAteEhsUmNrSGtXbThrYWVPSUMzTFFBN2dIbnZ1ekJtc3FxOUFRaXRpZzZlSDltRDBJb25zT1ZXWkhZU3lhSC1ieHhSZjFXc0NNZmlreFhnWEJmUF9iQzNpY05PZUU2WFZleF9lZDlBRkFFVVZFUDF4b20yUGhIUF9VZVphMjJjRlRnRVF6dmZSR19FdnBuVzJSLVdZQ3FvX3o4cDBfTjdXdnBBdHlEQ2NhbFrSAYICQVVfeXFMUEFtWHNDdTV6TTlhdVU4alJBTWlicWpnWDBBeTlKWEFLbmJFU2c0cDB2TVRUUDUtLXM3cGtwcTc4N0JKYkY2TXhhZ2l0WnZjdW1NdEhWdGp4QWpFRXFVSnRZRndveV9TQjFKc2U4aXZEVFdxdlFXbXJEcmF6RXVOS05nSG5oRURRMXRXcUhxN25VN2JhX19rN0pNcmhqc0lTcU1MOWdTc0YwWm5nZ1dmenRhclpEZ0xMOTFIQXUydTh2Vl9yZWd0Sk1uRlV5V3hEY2cxem52OTFndmF6dE5QR1kxWEh2XzZ1X2gzM3EzNXBQMWtha1gzN2JORDBpeXVYUGp3?oc=5",
-        "date": "2026-09-09T12:54:07+00:00",
-        "source": "Perfil"
+        "title": "Facundo Díaz, experto en IA: “La IA no tiene propósito, pero tiene autonomía para hacer cosas que no esperamos” - TN",
+        "description": "Facundo Díaz, experto en IA: “La IA no tiene propósito, pero tiene autonomía para hacer cosas que no esperamos” TN",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQWpmd1k0ZXBSQm9haDRDR0hvWG1QbDdWVGQwQ0c4eGcxV1hTd2s0aWtLSHpPMmNMc1AtVzVkSDNRZTJXUVhud3cybXRoMFVjYUthRVJDcXRKYWdEYXIxRVFibXlWamc1c0Q2VEEtdW5ZalM5cWJpN0daRlNmZHIxOW4zRHZ3aG04cXdzRmh2QlJpY3YxNVB6UDFjMlBiNWVlREVpS1llaHJwY3cwai1RTjgyZU80M3NSRjBPWU1sR0w4c0toRHNtbHdacGZFaFctRnNmc1FBTlB0ZE1DQkHSAfIBQVVfeXFMT0ZYYnc4S0JuRVlCNllScDFJay0wNVB1VVgyMlFlNVB2NF81cWZ0QzRzaFdvcDVpb21rZUtWMjMwWlhhVlVyaGVRZkN6MzRpWS0zMmNkaHc1LWRJMDR3S2FlaVZSN0ttTTEwQmFENEFacEdacUxNY3N5ZWU4aFVrRDNyQ2M0bExUVlYzNE11UzhiQks0cGxQUHlja2hOWTRfd0dfMkc1NmtTLXZfcEZYdVAyMzBsNHdSd0xxYmZwY3I2SFl5TlRNRTUtMHVVNHpkVl90UHJweEd6azF6bmhQbXlmemROWFVXVm9TNHdOYy1ZV1E?oc=5",
+        "date": "2026-09-10T06:25:26+00:00",
+        "source": "TN"
       },
       {
         "title": "Inteligencia artificial. Qué dice el informe de Anthropic sobre los riesgos catastróficos: ¿Podría la IA matarnos a todos?",
@@ -133,25 +133,25 @@
         "source": "La Voz del Interior"
       },
       {
-        "title": "Los cinco candidatos a ganar el Balón de Oro según la Inteligencia Artificial",
-        "description": "Los cinco candidatos a ganar el Balón de Oro según la Inteligencia Artificial Diario Norte",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0NTWmExSDZDa1E1ZElsOXR2cHNMdGtBekZQdEZHU3pXOWxGRUhMMDNPUUFPZ3lpRTBRR1Z4UUlfdGpudlRPZXQ5UjIta0tvcWZTY2czekV3Ukc3LW16bm03UDlHQVlMUjNhaXhjLW1OWFRrbjA5bjJ3ekx3cTFUMFJrU3JmVml2YjRMMktNSE9nbUVybGMwa2MzTjVGZjJpc3NKZ2dsYjNwR1VaUF93R0xn?oc=5",
-        "date": "2026-09-09T21:10:55+00:00",
-        "source": "Diario Norte"
+        "title": "La IA, la robótica y las próximas revoluciones económica, militar y política",
+        "description": "La IA, la robótica y las próximas revoluciones económica, militar y política Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkVLZ091VmVSZ1ZsU1h6ams5Um1jbDloOWFoUDdtamxuTEd4X0N5VVM3bTJxWmE4T2FZamZuMWtWbl9GTkRCSzI5eFlYRTR1YTJTajZOVTNZYm1od2FycmRBTm1vMHVCQVUzWHd5aWpiWHhLemRyWGpwMHlzTGhiWVB4ZHpvczNIVHllUzhiUkJlSXEtRk1tend0S202TDhndGxISGdHOGE4OUh5S1laQm5JclR0QlU5TmE1Nm5kWEI1YWRL0gHfAUFVX3lxTE5pU2FkLXluSWpOTUpwbzhidVVPck5DeHlOLVhSZG9IdXU4TndJclNwS24tSXQ4RXItMDEzaHBJT1JDRjFraEN3Yi1HU0tFYXRTelhvaU1kYmJhNXJOZUR5ZGtIM0RWZERGSVhZbUhqWFJQVGRoNHYzZFYwY1FuU2llN3BjcTJ1Rm42MGU3YkZCU0syeld6UjB6OEpFaEYzS0I0T2RIamY2NGh4M2dMUUlvemdvdVhqeV9nWDkxX2I2cDZ1V1RzU0tsai00djNGakU3ajk0RGVSczNoZVQtSU0?oc=5",
+        "date": "2026-09-10T07:03:26+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Balón de Oro 2026: quiénes son los 5 favoritos de la IA y dónde quedaron Messi y Lautaro",
-        "description": "Balón de Oro 2026: quiénes son los 5 favoritos de la IA y dónde quedaron Messi y Lautaro iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTlYtUjdLLUM2eERoanZxRzNhWFZ0dDB3dk1KbHk4TE1lUmZvMmdtMFFOVV9rYjJMUGRVN2pOTXpMOFA4ZG53T3QxXzM5QWlVRTY3QU90a3dBVWZLcnF2WVJxNEpvSERLWms0YVctWEpsX2RzV3RicEZjdjRuMk1UcEpRVk9HdVJvcXluSkdnU2N5bFJlTktIWGNrSy1JemlqRlcwVGNXRTc1dXAzWEZUUk9MMUpHeWJwSHBHaENkOHpINm41ODVhTTF4WmlsSlXSAdQBQVVfeXFMT1pwa3lYVmQ5UUxudjZVcGkzRHFBVWozanNYSk1nV2hTQ0hkM1QwbUNiVS1wdE1BSWtYQkIxUFRTM1ZNNlBHUU5ZY01MOVJHT3drVjJQdnc3bXlFaGJIcC1SMzJkNEowTjlXVTduNG92MTRHWG1lbFZPRXpxSnR3cjQwYTFUTC0yZmN2YTdMR1Zod3pWX21VbUkxVWVGbEVEZ29SaEVlcTUyM1d0ampXeVVCWUs2MENjQmRMQnhMQmdkVS1VbHFJODdmNTR5WjE1aHdFaXg?oc=5",
-        "date": "2026-09-08T07:00:00+00:00",
-        "source": "iProfesional"
+        "title": "Lenovo desafía a Apple con sus nuevas computadoras: mucho color, inteligencia artificial y diseño renovado",
+        "description": "Lenovo desafía a Apple con sus nuevas computadoras: mucho color, inteligencia artificial y diseño renovado Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdGFOX09Oc1hTZ1lUc29PWHBJelZtbkU5d095QUprTHZ6Umt2V19fbnlKU2xmSVhxVUZCVVZPOC1uY0RiQWRwUW05RXAyR2o2aklfZFF6MUZ0Q3EtUW5pbkJYa05YWmFNR3YzTk9zeUJkbjljWm5NbDBJNlltdDFmUTZzdmRSbTZRQ1ktc21OczEzYjlpeVRSQ2k2VE9EVl8wRlA5bVhaa1UyeUNSR3RfUThFUEphdVBJOUF5SnNvdlcyNHRIdElpS09iVWoycjFlb21SONIB2gFBVV95cUxNYnV2bHVDLURRbmF4c29LSmlEbmp4UklqWGU0MjJwbVQwakE4N25zT1hkSF9HcU1NWDBZNjhIUmd4UU5GN3MzYXRRT2FqZjBHUHl1VS0yYzM1QTJtMTNTbnc0aEVVNjJXOU15R2xkTFYzbmF4V0JmVHR1cmhsZ25jeFhDa2xOZXhzby1tLVJTOHdHQ3FKUzlTYVJfMm9FZmo1NWJjZGdxMmI3aWFxa1M1NHJDaG01SWtCNEROZFVjWGxiRGxTZFIyaUp6UGNHOW1LaTBJaVNPSVZkUQ?oc=5",
+        "date": "2026-09-09T19:36:50+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Los cinco favoritos al Balón de Oro según la Inteligencia Artificial: Messi no está en la lista",
-        "description": "Los cinco favoritos al Balón de Oro según la Inteligencia Artificial: Messi no está en la lista Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWR6dlJqTHd1OXdJSzV2WC1OVGZQbVowRWxUcVFLMDdHd0JUcURCQzdFNHFVQjB0WWwtb1JQcnAtUlFGVWNqdU9LWUJ4ZXZBN0hTa3RaNTN4eVgtLTEwQnBoUmFGX21zUWQ0bms1eXVZbVlRUXJqbXN3SDVVbi1oT0ZXZFowX0d6Z0tRc0UxZ1ZUWWVGX2J5UnFhdGFNM0JENzkzNzRuTXQ3el9xOFQyUEJWbnZCaVhPU19TZFVSX0sweGlJbkJOQjFuWkFfSXVBbF9ZVVlGX2pud9IB3wFBVV95cUxPQ0E3TjFMV25lMFY1Ukl1UmNYYVNZNnY4NEJtMjVDZFJNbVp6RGx4U04tcGdJdHNnem1acUZoWHJOcnJIVndlX2JXUW5neXByY3AtQk5pemE3YWd6aXNEejJrX3FsbzJfWHNOT3U5MHRxOW1SZmFCT1NJWVVrUTZicGxQMFhjNXVJSERHM2MxZTFjNGZhRHMyQlNPelpweC03M29US2J2a2sxODVOLU9Jc2ZGZ0NzQVhjMk90c3htVW5BUzJVRkZOTlJ0OUE3MEtuZTVHVTRXSkJfVFlTNnVj?oc=5",
-        "date": "2026-09-09T14:50:26+00:00",
-        "source": "Cadena 3 Argentina"
+        "title": "Poggi y la ULP lanzaron una capacitación en Inteligencia Artificial para empleados públicos",
+        "description": "Poggi y la ULP lanzaron una capacitación en Inteligencia Artificial para empleados públicos Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVFV0ZHJGRXpWWm53SC1nS05JYmRjbzV6aXpCSUFHNVc3MHMwaUFqWi1NQ1V2N3JWMWZSTjBBdmwtX3VPTjV5RkNPckZHc29YeFVDdkUzdmQxSzhYd21TaXI5cjlQVEpuQ0ZFTkJtM3gxMktWOUdqeDduRXFGTkJUN05VcUFyZGZNaEF2MHZxRTZLWHprLUFPS09EemlTalhTQlU4SmpXSjFvUXl6RGdQbGc4LUZlTHh1NlphTTlwMFBtY0RNWWxKdGFlTkhzc011RldHVQ?oc=5",
+        "date": "2026-09-09T15:43:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       }
     ],
     "Vaca Muerta": [
@@ -177,20 +177,6 @@
         "source": "Minuto Neuquen"
       },
       {
-        "title": "Vaca Muerta: Neuquén firmó un acuerdo con petroleras para financiar rutas provinciales",
-        "description": "Vaca Muerta: Neuquén firmó un acuerdo con petroleras para financiar rutas provinciales La Nación Neuquén acuerda con las petroleras obras por US$154 millones para las rutas de Vaca Muerta Clarin.com Los ingresos de Neuquén superan la inflación por las regalías y un impuesto…",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWZyMWU5MlNxdGdtU2phd3RLUFMycG56QzZMcVlBbWZMdWU2bTgwa0tLeUthV3lJWjVkQnFuQnFaejVYQVBXeU9XQUhtNkg2UUJwRFZWZjh1ZGdhQUlIRlZOdW9VX1dKR3JzekJvakhQVC1WV2JBUUhzZjZkNFhyNmFXTzlFdDNwWTZ3NUJNTEdEc0Z4bHkydzNieEZMU1FqbHdIRXB6XzJOQlNjN3lVMFB4cFlQVEM3MWY3dlFaN095RVgtSDluWERzakNzcWl4?oc=5",
-        "date": "2026-09-08T21:57:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "La logística que sostiene a Vaca Muerta: cómo Peduzzi prepara la escala que viene",
-        "description": "La logística que sostiene a Vaca Muerta: cómo Peduzzi prepara la escala que viene econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmNfNTBPa05LTnFmcFFteWRLbnBud21fbmdESWRNX0VxSnk0MHNUUHd5bXJnN0EzQk1kNC1LRDhNUmJ1anBLYUNrdVNnSXE4cDFDNVBHWnRhai1RaHNIM3p1cC1TYVhaUnVPam9YTWNfU2RCQnE2VWZBakM5U2RBd19sVW5Bd1lVeTdwTUNHb0NkbUI4MTRnc2FYS1M0Y1lIMC1QY3VZRGIyX0VFMExsTzV3dTdnQmxxazZCOVY5cVBBRkkzWldNbEs1dF8taG9yR1E?oc=5",
-        "date": "2026-09-09T12:40:53+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
         "title": "El crudo de Vaca Muerta o el de Malvinas: Argentina obliga a las petroleras a elegir",
         "description": "El crudo de Vaca Muerta o el de Malvinas: Argentina obliga a las petroleras a elegir EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdUFCUGRFWGQxeGJ5SkdoVGUwNmdsaGNraml0ZWRsOGp2a2IyZ2w2aUlGQmNNcklNSEUtN3hpaFh2UVNoa2VjYmdvaFlOVnpzaHhEX0dNaDRjSUhlLURtZTRJTV9Wd2N0WkhtYXZadkl1Q1B0cXZnRVkyNHpiQmkwWU5LR2FhQmEzamRWTm9xNlNZcUx6WkwtYWlldWFFbXJnUy0yRUdJZGZrYXB4Y0x6TU1Hc1h2RFZTQnB3SE10bFI1T0g3ZXF30gHbAUFVX3lxTE5KOV9HYUhsWUV3aXduZHNqZjNveVdUM1FPWkMtejVqdXQ1dGQxS0FEbGlYbk5yS0FseDlRUW4xS2VuSHVMLXhtZmFJRzRFd2llazVrN1lrS1o1M1RhUGRRb3Z1QlJHdEtzamF5TlQyYTQ5eUZ1SFh4MHpldTNfV1lTcjM5cUZHM3FCWWRzczJpTW5QSkhLMnBYV0dTSXVpZWllVlV2aVJjanVyXzVOSFJwaURDZGR0REtaRFpwRU9UNEhVM3pidy1qeUNoaVdUSGVqLUFTQkVScnIyVQ?oc=5",
@@ -203,6 +189,20 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTnMtWlYyclYyZUJrTW5Qc0JBTTJQMnIwZzNjbWNYb19id21WM3dwemhicEZVN3huUFBQQ0dVTndvWlhydjI2MU9RcFpaVTdjR01CX0FPY3NobllpVEs4VHBJZmNpcEdna1pHYy0xVDV6UV9tQ1VRSnZWa3U5cWhnaWNCTjdNdVJuOTB6N3ByX25aLWxkRmQxTzlkOFVwRVZmNDB4eUtvU0EzOWYzSk1kMGw1SmQ2R0VMRnhtU1dTbVduTTFlbVhDS0R1MHlvak9ZZU9IcDE1cW44c3duNVVCeTNtR3lfMFJfcUVLclMwd3FFeGvSAY4CQVVfeXFMTnNmaU8yazZ5S25YTEJiQkpZa1AxcHhrYUp2ZWJkbWNHZE9lQkRCNW9pcTQtN3dqNXVoOER5NnQ5WGk2dm94VldlLWNRVW5fWWpLQzFGUjlkYVRmVE14eDlHYXZZckhCSnhZRHFoZ1cxejFSbGtzaE9YOWsxcV84aDRCbm5ZcGJjSjl5NzlILVFMSmRIdHF0YVN5am1iX0tvdnQwZUVfM0N6STl1ZmRubXh5Y2hMamV5N0ZoV2ZucHFhUG15OXViQ3VncElKSEdlcm9TUGdlMmwxNjFuMDZrc25JaUxhc0hGSjE1UWlxVVNkaWFsQW1sZDNicFdvTEtGZkxkSE5ISnpmVFFtWi1n?oc=5",
         "date": "2026-09-09T05:53:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "\"Billetera mata galán\": la jugada maestra de Argentina para que Vaca Muerta deje sin empresas de servicios a Malvinas",
+        "description": "\"Billetera mata galán\": la jugada maestra de Argentina para que Vaca Muerta deje sin empresas de servicios a Malvinas Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFFjZHRWdUpnZUdXczA1MnJkMlpCd040SklFZUxQeUphOUxhckg2ZUFCNC1Na1JrOW84OXY3WjdiSTdnUlpyQTl4M3lCMThVNFUxb0xEblZISTZ0cmRsTV9JaXBCMWlYdTQ0bjNfWHNneE9CQlRaUWM1UW50MnFDYWdMQWE1clZLSkRDZW1vbFhvVWExb0ROdW5ic0laNVlGZWtfZks2dkowSHAyc2xJOURzbGpSZm9HdC1uTEt3Q0t3V0dJVzZFcElrNWs3MUxfTFA3QkQ4bHZfc2dJUkFtYzVRRWxHQdIB7gFBVV95cUxQSkl2dTNuUW1jbnhNSnlTVEhEdTZzOVVYLXpreU9wdU1BRkpMT0w2My1Ya3FuS3NSUnBsUldSOXdCSDljR2FFY0VPRjJBbFBwWUJ2cGZQbndCZ1lnb0x1SC1td1VYcXVvdEtha0tYNVNRajRCcERZNnFnX2VQcS1zR0NuMXpqUU9DOFBueGVhMEJqRmFMX2hZUDRrM3FlZW9BRmNBNTU1TWtvOURNNHljZDNxUlJac2FJUkxaT0U5VHdTdHMtUnNnRkVPQVoyOTZhWllUWXRCSGpUcS1IMHREQ1labUdZc3p3bnVYeEdB?oc=5",
+        "date": "2026-09-08T12:00:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Vaca Muerta: Neuquén firmó un acuerdo con petroleras para financiar rutas provinciales",
+        "description": "Vaca Muerta: Neuquén firmó un acuerdo con petroleras para financiar rutas provinciales La Nación Neuquén acuerda con las petroleras obras por US$154 millones para las rutas de Vaca Muerta Clarin.com Los ingresos de Neuquén superan la inflación por las regalías y un impuesto…",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYWZyMWU5MlNxdGdtU2phd3RLUFMycG56QzZMcVlBbWZMdWU2bTgwa0tLeUthV3lJWjVkQnFuQnFaejVYQVBXeU9XQUhtNkg2UUJwRFZWZjh1ZGdhQUlIRlZOdW9VX1dKR3JzekJvakhQVC1WV2JBUUhzZjZkNFhyNmFXTzlFdDNwWTZ3NUJNTEdEc0Z4bHkydzNieEZMU1FqbHdIRXB6XzJOQlNjN3lVMFB4cFlQVEM3MWY3dlFaN095RVgtSDluWERzakNzcWl4?oc=5",
+        "date": "2026-09-08T21:57:00+00:00",
+        "source": "La Nación"
       }
     ]
   }
