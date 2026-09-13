@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-13T20:09:02Z",
+  "updated_at": "2026-09-13T22:47:10Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft incorpora los modelos de IA Grok a Copilot",
-        "description": "Microsoft incorpora los modelos de IA Grok a Copilot Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUF3TXlYdnY1cjc4VUVac09YNi1xV0VTVW5zZUcwQ1ZwVkFJYkFOZDk3RUN2akR3X1pNdG5VZU8zdmlyTU4tV2VZZDdQVjZjd19PRXpLTmZoRUdnVnJIVGZiMnNCYVpvbDlRc0thbFBUbFFDQjBKSzVVYlNTeVJBMnh1SDNIdTQxYnoyZFZFVkNmaWZDV211VWdLRVdxQ2ZTSjI3TkIwV3LSAcMBQVVfeXFMTU5qdHd5WWhMUmo4QXRsMUNlM3dKNHV6Y3hoRUlvbFNDeWo5S0lvcGxUSVNJZXl0MXFmcFo2WHNsbzViX0VuRGZxSUlYQjB1WERhSDNZYV9vOXlYUWw4b0o4V081NVd6TFVVTDFCalJzMGZpMGZ6a0ppZUFKRW5sSDNpSmJkMzVpcmdWWmg0RGs5eDQtQ19PVFNQaldyRHBSUWstWm0tNFhfa1BOQjcyeDFsV3Y4aC1OV3UxM3JIMEFoSVNV?oc=5",
-        "date": "2026-09-12T19:56:02+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "Perfil demandó a OpenAI y Microsoft por el uso de contenido periodístico sin autorización",
         "description": "Perfil demandó a OpenAI y Microsoft por el uso de contenido periodístico sin autorización Página|12",
@@ -17,25 +10,25 @@
         "source": "Página|12"
       },
       {
-        "title": "Los ‘data centers’ de Amazon, Microsoft y Google van al Consejo de Estado para frenar el golpe regulatorio",
-        "description": "Los ‘data centers’ de Amazon, Microsoft y Google van al Consejo de Estado para frenar el golpe regulatorio EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM2owQ3pxcmVwSGJ2OERneWstdWNyd084bWlCMVA2d2hReG5RWHAwbjJnTG1YUVJZQWIyVTBsdFlSMDFQZ0J6dEZQSmhIdGlMMDB0QmhkbWREaGJDN2hrQ3lTdlU1U1h4Vmgtay1NUEhaakNfSVZrLWNaZFBUOExfRk41ODR4TWdsODFMVG84UGZGMjBGZ05HeTVIbldhRFNTWVVWTDdQT3laUXRLdjlnN2lnZktrLTRWR28xSUJOMjJRTUhLVEdjR0N0WWFlYzBUdHFsUEZoYnRUcnlGRzZsTtIB9AFBVV95cUxQa0k3SlJjdm5RVng5cjNGSnpxZUhuZlpTQWdQSXk5NmlrUllIaFMzZjBNRzJfZVJ2Wng1TzdmNEtmOHFTZUc3RFQ4bnhYdjVHVmhkbWpibko0elpMYi16Q0x1ZXZ5TEgxdndqTWxWRENRSWkzMmItbXF2V3BET3pvV0tHTWc1ZVNDemI2a18tSzR0eHlJSFlEVll5NU1oUU9uYllZUGVrbTdWMGVWYnppdTVuYmJZTHQ5U244OWFRVklFakxMLXpTMVFTbEllZUdILXFhM3JvQWZOWk85U21RVGFCZjdhX0drLWNmeVVsQkdmSVVS?oc=5",
-        "date": "2026-09-12T03:15:00+00:00",
-        "source": "EL PAÍS"
+        "title": "Microsoft presenta Project Zenith, un Windows 11 pensado para crear software e inteligencia artificial",
+        "description": "Microsoft presenta Project Zenith, un Windows 11 pensado para crear software e inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdl9uUFpPal9qUlZiQ2pUMlhQLXFfb2dYSHVlMU9SOExibGIyUE9JX1J2X0VKV2RVbmU3Zl8zZjJhQVFkWENFcFlWUXo4OGg0cE42QmtCUURLTXRKNWx6ODVOUDZGbmxCckR3dE80djlYWGJhczV1cGgtaU83eWtLTERUcTVrOVZSd2VnNFhkaGhNN1ZGOURkVXkxQTFwOEF6d1FVZllhSlM1VkxxM1VuaEVjSGJHbC1IcG5iTU9IcXltZzJ6b05iRXlKc2NvQzRrVkVLclk2ZGMzajDSAfYBQVVfeXFMUGRLTU5TRERlY3hRWEoxZ19mSmtTUFBUcEoxdnZIMHBfbGtzdHdVNjBUZFJvN05yVmd5VExxb1JUN2tmbUxXd2lyYkpobjJSdWU3WjNGN2VmQkk4Z0wzZnlhZGRycE02VmRhcVU2cWNfcnBBUzE5aHBmdWNWOGEyXzJRVWY2Vjh1SERkMTV5Tl9GMmZYUHN0Y0s3SDZYNG1yLXJOUjBYaHVKM2xjcVpEaUJKMnQzTXFuRXMydU1MUS00czV4Rms1YW9tY1hqbmNUb2pKOGxQY3pUckd2QUx4S015cUg5Qy1zNmNmZlJ2WVRtOHBHY3RB?oc=5",
+        "date": "2026-09-08T18:06:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Meta, Amazon, Nvidia, Microsoft y dos oportunidades",
-        "description": "Meta, Amazon, Nvidia, Microsoft y dos oportunidades Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2d1bHR2bXYyNGw5VW4tN0Z5VXZRQV9vNTlYZXpEM29kbHhib1htaWY5NkZsTHQxTG9HeHBaOFVQLWlZclBoS3cydlVfcU1lZ2lpT1dNZmhoQ3V1eXJ0SXRVOVpDU3c3bGhyekVCQ2lBS2lDT3RQSk05eUx6OENqM3NiNllUQ2V2OXlleWhqY0RidWN4bndv?oc=5",
-        "date": "2026-09-11T10:16:00+00:00",
-        "source": "Investing.com España"
+        "title": "La guía de Microsoft para usar IA en el aula: qué pueden hacer los docentes y qué deberían evitar",
+        "description": "La guía de Microsoft para usar IA en el aula: qué pueden hacer los docentes y qué deberían evitar Forbes Argentina",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1U3Nmc3Z1otUVN0SEhCM3BabzV1QmFhbEtRNTYzWXlvNGV3bTFGUDhTOFdGai16RTVVSjNNZDlzQ2NWT1BMbXNaa2tiMU9KdWkxUFkzUFRuSXdVNGxrTHdTdlpBbGZxbEpOTzF2SlVZZzhjUG1mOXVxb002NUtxYklKYjRzUWN3Uk9uRzBMLVVsZkVGVWU1UUIzREdWZHotalJrSFFBT3djMmZzcUd0cm1UWU9lVTQz0gG-AUFVX3lxTE0zT2RmTU4xYVRFRGgwd3VrdDc0SlNsVkxwUzVNVGtXZXVRNnFpam1LQlNPNkc4ZTRiTzdKZW5pTTBDa1lTRDBiZFhGYVhyNTV2X1RQMFJEUVlrckRNNURXQ1doUUhIZFVqazZzenNMSU10c1VNaFRrZjJjWFZmbG1TQm9LRkNaQmlxNlJXaHBLc3hIWU1IdnNJRUs4bUhibkM4TG1oVFYzd1NyeC10LVBTTjJlZ0NfSklUZmlCUHc?oc=5",
+        "date": "2026-09-10T23:30:00+00:00",
+        "source": "Forbes Argentina"
       },
       {
-        "title": "Cómo sacar el máximo partido a Microsoft Rewards desde cero con la extensión de Chrome",
-        "description": "Cómo sacar el máximo partido a Microsoft Rewards desde cero con la extensión de Chrome lavanguardia.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUxhWUJqQXlnUlRxZUlUV1BPTHRWZkExQjZFZHEtMkliVTZ6M3N0aVpha0x6N2dKZTJENkNRUnpGbnlFV3lHVVdSbkNScEJ5Zk5sOExBdzJ4U0dxaWV4OFJBR1ROTE5NZXliVlZRY0ZRZDliV3piOTd0Yndma2VWdExYQ0dLTmpHczZYWDAtd0xOZ0stM21pa2p5WjNSeWl1S3F2LUpaRk9XZFhqMUNQb1dWT1BzQWtmRzViVVFjd2t2ZlHSAcgBQVVfeXFMTlNvanJiZFVpcHVaSzVDTnR3eTFzRVkwa2gxNlFRbVNFazRQUUxPbkV0WlBhRTk1aGRKVC1Gd1g4clF1R0lyMnY4a2t6d1dENUh0MEhoaUdhZzJzWmNTVk9pSUJlTUZibjhXWGhUWDU4dEdzcWVqV29ZT0oyZlRhUGpLZVNhd1VYTkd0Qkp2a3FHQ1pSWlg2MGxESVNhQ0V2QUpTTnEwWFdBeXR1NmxqVDctV1FJUjFJTVpjZVB4dUNZSmpVOGpqWDA?oc=5",
-        "date": "2026-09-12T03:50:00+00:00",
-        "source": "lavanguardia.com"
+        "title": "Desde la preparación de la IA hasta el impacto: Por qué una base sólida de datos determina el éxito en la sanidad",
+        "description": "Desde la preparación de la IA hasta el impacto: Por qué una base sólida de datos determina el éxito en la sanidad Microsoft Source",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1BTZ2lPcjVNQnJEMldzZ0MzUklUZDRCbzF4c2ZWVUpXcVJIMUp4dGl0a3hkX216VkxJbHdUWnU2eUJmLWFzbk5TSGVqZE84TVhubUF4eUZVajR0SE0zQVlBRlF6RWZYUTF5QzhPNFdPUkdaQTFEYWdURl9lYUFoWEVVY09TVG04RFE?oc=5",
+        "date": "2026-09-11T17:17:08+00:00",
+        "source": "Microsoft Source"
       },
       {
         "title": "David Fowler, ingeniero de Microsoft, sobre el impacto de la IA en la programación: \"Escribir código está totalmente obsoleto\"",
@@ -45,11 +38,18 @@
         "source": "El Confidencial"
       },
       {
-        "title": "Las acciones de Nvidia suben tras informe sobre expansión de centros de datos de Microsoft",
-        "description": "Las acciones de Nvidia suben tras informe sobre expansión de centros de datos de Microsoft Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOGxiN1BzMUkzclAyOVpfLTJITkxCcFNNb0NoeldzUTZOTWk4dzlKdVMzN0pTcXo0ODF4N1R2Ulc1VURLQXhlV08ySjlfM05KN2hBbGtJTzV4clFxNmQtaW9YVU90ZGVwRXl3Q09RXzNzZHY5d3dra1pHOThQMHNiMEthc19HX1QyRW9oWFdBUTdhamxQZC1HeHg3a2JsMGdKeGY2ZlZ4dXluRnpSb09vTmp2dld3Y2NWVHdtel96VV9KUVdybGVuSGg2STY4c2NvRnlHZ2c4VWctMGxmZVFr?oc=5",
-        "date": "2026-09-10T21:06:00+00:00",
-        "source": "Investing.com España"
+        "title": "Los ‘data centers’ de Amazon, Microsoft y Google van al Consejo de Estado para frenar el golpe regulatorio",
+        "description": "Los ‘data centers’ de Amazon, Microsoft y Google van al Consejo de Estado para frenar el golpe regulatorio EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM2owQ3pxcmVwSGJ2OERneWstdWNyd084bWlCMVA2d2hReG5RWHAwbjJnTG1YUVJZQWIyVTBsdFlSMDFQZ0J6dEZQSmhIdGlMMDB0QmhkbWREaGJDN2hrQ3lTdlU1U1h4Vmgtay1NUEhaakNfSVZrLWNaZFBUOExfRk41ODR4TWdsODFMVG84UGZGMjBGZ05HeTVIbldhRFNTWVVWTDdQT3laUXRLdjlnN2lnZktrLTRWR28xSUJOMjJRTUhLVEdjR0N0WWFlYzBUdHFsUEZoYnRUcnlGRzZsTtIB9AFBVV95cUxQa0k3SlJjdm5RVng5cjNGSnpxZUhuZlpTQWdQSXk5NmlrUllIaFMzZjBNRzJfZVJ2Wng1TzdmNEtmOHFTZUc3RFQ4bnhYdjVHVmhkbWpibko0elpMYi16Q0x1ZXZ5TEgxdndqTWxWRENRSWkzMmItbXF2V3BET3pvV0tHTWc1ZVNDemI2a18tSzR0eHlJSFlEVll5NU1oUU9uYllZUGVrbTdWMGVWYnppdTVuYmJZTHQ5U244OWFRVklFakxMLXpTMVFTbEllZUdILXFhM3JvQWZOWk85U21RVGFCZjdhX0drLWNmeVVsQkdmSVVS?oc=5",
+        "date": "2026-09-12T03:15:00+00:00",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "Alerta en Windows: una actualización de Microsoft está bloqueando el acceso remoto",
+        "description": "Alerta en Windows: una actualización de Microsoft está bloqueando el acceso remoto RedBoing",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3pDTmFIbGsyVHNtLVVGMnQzNGYxR0FyVjB2YXdRdWtFMW0ta3BaVi1NNFA5VkNuNE9ENFVSb3lpbVhZT3hYWjMwclgyTlMybHFuN0RQS2o1c2c2RmV1RmVGemwyX2lYX2R0SU5mRlJSNkFBNHdEYzF5eWhJejdnb0tzc2x1c0NQUVAxbGZueVpMaExaZUxyQUt5SzVOalljQlhXb2JRbEJwUms?oc=5",
+        "date": "2026-09-11T19:33:39+00:00",
+        "source": "RedBoing"
       }
     ],
     "Marketing": [
@@ -90,10 +90,10 @@
       },
       {
         "title": "Cerca de 50 emprendedores comenzaron una capacitación en redes sociales y marketing digital en Posadas",
-        "description": "Cerca de 50 emprendedores comenzaron una capacitación en redes sociales y marketing digital en Posadas Revista Códigos",
+        "description": "Cerca de 50 emprendedores comenzaron una capacitación en redes sociales y marketing digital en Posadas revistacodigos.com",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aSndhM1lDWEZ2UWE3TDdOclR3X24tUWxVWEstUVlkMS1UYjJlczdJZ1FMZXAxY0JuckpKOVBKQ2I2NU1QVTB1dG1MZEFMTTJkUTRYY1ctNDZaYUc2QmtzVzhWWEtTX2FEUHF6LTE2bkJKVEtYQjJz?oc=5",
         "date": "2026-09-11T21:06:07+00:00",
-        "source": "Revista Códigos"
+        "source": "revistacodigos.com"
       },
       {
         "title": "COMUNIDAD EMPRENDEDORA OFRECE UNA CAPACITACIÓN GRATUITA EN MARKETING DIGITAL",
@@ -119,25 +119,32 @@
         "source": "Página|12"
       },
       {
-        "title": "El MIT propone rediseñar la enseñanza ante el avance de la inteligencia artificial generativa",
-        "description": "El MIT propone rediseñar la enseñanza ante el avance de la inteligencia artificial generativa Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ01ybklzU2REYVpDSlJuLVp6M25QRWdJby0zZkF6WGc0RGpyQzlXWTJVVlZDZkVhbFh0UWItSFBGWTZxWEx4RkVISE5xdm1zOTRhQjI3aEthbW56LVdWc0M4MzZralRtUkt6M3p2M05lb3ZZN1pGajM3U2lkdV82Y3lVSGxfZDRVMDUyOFFLeGpFVHkzU1B2S2RJYk1zM2trTDRRY3FTYkdJc0hjNlFsUmM1emE4SmRKaW9RaEw4ZjJrVERDcng1alJiNDdLTGhf0gHrAUFVX3lxTE9PM0RkaUc3OHA3QURjdXhHcF95cTJfTUNVUzZpQWJ0MkxMQ2hTRHZKZ0ZXQ1lPbTdndWlHV2ZPZWZCM2YxRDFnMEpwSThVUU1oM1gtNFk5YVlDcHJSbDdrczBXT0toWXBWTUtRSGxMZzFqVVAxRnZiT3RQaHNFT1pELUhCZ1lERjhnUmhCelhCTDJKbGR4ckx1VmdzeERMcHZiZG14MUppZkJVQXlONzdzQ2Z6UUJobDJzMDdEckoya0dlUFphaVQ5Q1RWbEE4MmZ6a29vb0NERDR4MDNXWEtOb3poNlNTTGl0MGs?oc=5",
-        "date": "2026-09-13T13:39:00+00:00",
+        "title": "Leandro Zanoni, experto en tecnología: “Quien domine esta carrera por la IA va a controlar el mundo en los próximos 50 años; hay riesgos, pero no de aniquilamiento humano” - TN",
+        "description": "Leandro Zanoni, experto en tecnología: “Quien domine esta carrera por la IA va a controlar el mundo en los próximos 50 años; hay riesgos, pero no de aniquilamiento humano” TN",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcHp6eG82eXR3SHRVcmVPaERmUEhFZVZsM0lpdlJHVlVocG5KQlZlTC05UWVraEhVd2xRVFF6UlU3aC0tQzhIVnZxdDF3TEprU1FIbV9lVjJibmdvNnhEQmJFZm9PdzdMMDJZZ1E2VjhEa3pUeUNiQ1VMV3ZoVk1NZVRkeGJXVWkyNzluZGxPYmhEMFJZcldFLXphSFh1aWRkNTJKOXVOaEh3RmQ2ZEtHUHdLMmFmTFA4NWtfTEdPNU9NMFIyN1RqcXl3UnNCQTU1V1hnd2Q5cnZxY0szU2NNUHVaaWNIQl85ckg4NVd30gGCAkFVX3lxTE5QNE5YYWxSTUxOU1h1TDAwN3JPWTE4N2xoaXUybW5abllYTmpCemhuNGxuc0tpdXJKZ0NuR3Q4YjMzZm0wLWE4eUMxNE5ma092MXk5d1pfZlVsRlFyZmY0WmxUdVM2N0pZWGFJa25mdVRhZGh0dHZ2cExUdmtRQXIwQkV2VUZXZVl0OGxPWGdZT3c0alBiSzN1QThYZ3g5VFMwcGVtTHhzd3A5RlRRMmRXMGppR3dfVXZtVUVxa1J6YjkyX1MxdG1lSTZwRDc1dThvY0VMWlg2RWVhSnc2VEhJNERxM1VCZkdmaEJTNGJFT2trMTBFREtqbC02ZEc2MEY0Zw?oc=5",
+        "date": "2026-09-13T22:04:37+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "“Algo más que compromisos voluntarios”: OpenAI pide al Congreso de Estados Unidos regular la IA",
+        "description": "“Algo más que compromisos voluntarios”: OpenAI pide al Congreso de Estados Unidos regular la IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYk11dHBNMnBVQzhLRjYya2ZGdmltc3hkcEpXSm1WWW52bkF4XzZkdFNfekVZN0lZSzR2OFNEQXNNeFBsOFNXUV9Ybi1LX1hiemhoQlJtNFBlZjhJX1JDODRGQmFsMzZJdDVVSS1iR21pcVF6NEZWYzYtWnlfMzlBS0l2azNkTGplRl9WM3YyOGJITzdsMFdjOTFMVy0xcE8tM3pLdS1mZlBrVDVEdWFHS1dKNUg3T2xMZjFNMmZqRnZhcFpGT2dVQVQ2UV9oRVnSAeoBQVVfeXFMUFFJMGR0NDF1N1RfUFpiZnY4V2haTEY5U1BfWFBrWVY0S3BCR0k5WnV4c2JOM3kybHNyWWFrbUJMQW1zMnBESDF4T08wMmZRSmN5VkxQcTRybkk1aGkyNFBpNGQ3TlV3akRURmJWLXRtcW1hR213UkktNndhTU9jay1qOEc1WDAxQjJPNnpUcDdqcnFRM3drWmFwNHdxNzh3ZXYxQVRjc1lUQnh2bENvNG1mOEUtOWJ5U1pJRzFJS0ZBZHFyRlRZckxjWExoLWJ2R0ZfYi10dnlVdUUwVzU5UXc1cllxbXpRVXdB?oc=5",
+        "date": "2026-09-13T22:36:30+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "La élite de las matemáticas teme que se queden vacías de sentido ante los avances de la IA",
+        "description": "La élite de las matemáticas teme que se queden vacías de sentido ante los avances de la IA EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdTQ3Y3BDUFVBR3BpVHhtNDg4NlBKRkxvTEpaZkF2azRna1dtRTJYa19HVWpYSnFhYU1QSE1DbGV6Sl9SU3ZJbmN2NEdudGc2dXhBdTY3dDlwSzBXUTNiOUg1S2RXa0xBeHY1SnpGdm5fSGg1MmNTVFBxRk9fNlBoUVY1SmtHZE1GV3VTaVp2SC1uWGw4cWVkN2dSa080eUNkSjdGaDJSdEJXQlRWVXM5TFVSYXR6d0lIRE9FcTRaZEJRVzV5X2xOMUU5NlJyZTJrUldj0gHnAUFVX3lxTE1uN00tTlg4bmpESUQ3YnNIOXRFYTJLSWhFV2hTcDl5R3hoamtVNThRRkQtaVMzWFJ5cEdnNy1helJ1R3lZbGpUQ1V3MVNWR3I5dG42VWpoekt6MndOTEdpbG1pXzdnMDlJWGhrQllPQ2g1MWlEUjNkNll0OS1pN0YxSTlDVFZGV1pOSjhGT2MxVXhMY2NzZ0psNjk2OVp0XzdNTGdyYXMzS1l5Q1MxUWNKT3d3cm9HaFRhNDE2c1FWbW9vd2RaY1BhX0EtZXNoZmhUaXROclVoZDJyU29FNGtELXl2UExnWQ?oc=5",
+        "date": "2026-09-13T16:06:07+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "Donald Trump se metió en la polémica por la inteligencia artificial: dijo que los que intentan ralentizar su avance son \"fuerzas negativas\"",
-        "description": "Donald Trump se metió en la polémica por la inteligencia artificial: dijo que los que intentan ralentizar su avance son \"fuerzas negativas\" clarin.com",
+        "description": "Donald Trump se metió en la polémica por la inteligencia artificial: dijo que los que intentan ralentizar su avance son \"fuerzas negativas\" Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEhVaVFfSUtjZDNJU2pxZEt0UzRES0NralVoZnNHWWpiTm5ncVM0bExLV0hrTk1xc2pnUGRrSElZY2k1ZUVqZ2xtbmc2VUlBcnpvOE1ENkx0aDNvYXhrbnBPVDU3WkQtdzZ4eHZZWEM2T2VaQzRnc2FsMXRVcXBjWTk5eEE5RWZZdGJXOWdoZGZkRkxhT2MteElDTHRGdlBNYXlsTERXMnBUWXFDSy03ZDFWd3M0ZkpLTURYM0EwV3E2Y3JYMkJnc3NodkZOT2sxbmc?oc=5",
         "date": "2026-09-13T14:05:11+00:00",
-        "source": "clarin.com"
-      },
-      {
-        "title": "La urgencia de ralentizar la IA y perder contra China divide a EEUU tras alarma del sector",
-        "description": "La urgencia de ralentizar la IA y perder contra China divide a EEUU tras alarma del sector Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXBfb0FvaXd6WjJpWHNPN2tZOVRwS21tdFppT2R3OXZpazY1aGViTmxtY0ZvTDdBM3QxMzZFVkZod1U0Z1JXcXRpQ2dhaHQ3U3VmRHhxeGFEdjVJVUQ1OVJiVkJiWHkzTDFhU2lQTWExWXlQZ3RMY0paT3hVam1ndjBva0YzM1BsWmZVekVzUnlLRnlkVzlnSHVadU9hS3JaMEVKMjhTeDAxejF0NloyTWVfeWJxelhJQktvV1dnT1dDVUtyUVdsVHdETWFYT0pESnZ3ZEhXRDBkTEHSAfYBQVVfeXFMUDZxbUs5alZQUTNzMkVYUTBaSGdnNVUyUEtrbllaejRwX3VNbzlWcmdlQmJtV3loU0ppc1lDWUF6cTU4Q09MdFN5b0hYT2NPdmJYNG1hWnl6cmt6bTFqZWNLVGRHblJRX1BUeVY0eWxIbFZyNnZYQzQzNGFzaS13VlNEZmY0LUZqUHUxNzU1SXdaMDJNWms3TFNibHowWEZ1X0lZS2lXQlpoZjd0ajRkTkd4VFZuNXlfS2pLRzE2OUEtczhlcXhpbjZ6OW5PMjI1aldQaWFSN01vR2JOSjUtUWRfdVgyenlqSTRhcFh4cl94WGo1TGZR?oc=5",
-        "date": "2026-09-13T19:18:58+00:00",
-        "source": "Infobae"
+        "source": "Clarin.com"
       },
       {
         "title": "Trump critica las “fuerzas negativas” que quieren ralentizar la IA",
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFFPQ0QtQWpYbkk2NkdVSUJxQ2JnaFpuVzdhQUxnNUtCT0wxZ0hWUmFfTy10VUxMNWZ6Rm4tOXdSQ09FbFl6ZDNYVnNiY085Z0FSeXdnc2dqc0N5anlVZ3lQOWFXeVVvOW5yQ29fYzZlT1VnMFhnTjlHQTA3ajZKYTFxMHp4Q3ZSNF9CNjduUnZhdjh5TmZSSlMxY20tYXhpcE8tT1QxWEI0dUFnLUpfVWEtYy0?oc=5",
         "date": "2026-09-13T14:25:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa",
-        "description": "Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXhyZEN4SGl6cXJsaUFlSnd5ZTRkejNxTkI0SE9nam9GUld2SVNMeU1wVlhpNF82T3lrMC1vQWtiQVU3T1Y2WnRkNlczUUZBQ0RPY2twWWl2cUlaMnF1MDJ4X2lRZEJLekcxRzRqb0xJeFVDNHNkWnhGOC1LeHpTSGxvTHYzcGRPYVVOWFFWYnJqMVRYOTUtYWtVbXJGc3FpYjF3OHV2bVlQNDRnODlRR1BwQzdaT0NsX0NXdHNuVFlzSXBDLURXUzNLRW1QcDVPNVFGQndKMmrSAewBQVVfeXFMT01WeEVraEduMHY3eEhSa1V6YTk4TW9yYWZNMFplNURLRUxOUDhzNGNNRURuMzdVWVhkU3EyWEZzbG9ZM1g3OFdYWDJ5MHBDUzdmMFViVjVlcExfT0ZManFTb19FYkEwb2ZrMWQzZ3c3NHFVWDNlZVdUT3FsTmZQSEV1UHdGaWZnZDlOWWY2OWRvWVgxdlQzNkJnSzN1bXlOT05IUktOUzRtaGdRNUEzcEZrVmhLdV9DRHI2MjIwaVhVZVRsS2tEMHM3UzFlOXBNbUs1cGNTTzllMzZxWG1HaWw1UHpYZDFBRklmelQ?oc=5",
-        "date": "2026-09-13T17:52:09+00:00",
-        "source": "EL PAÍS"
       }
     ],
     "Vaca Muerta": [
