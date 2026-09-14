@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T17:27:32Z",
+  "updated_at": "2026-09-14T21:18:55Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,18 +10,32 @@
         "source": "Infobae"
       },
       {
-        "title": "Microsoft incorpora los modelos de inteligencia artificial Grok a Copilot",
-        "description": "Microsoft incorpora los modelos de inteligencia artificial Grok a Copilot Diario La Capital de Mar del Plata",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2VfQjRLNFplU1FpMjgzMkhBejBsc080cDlIT1RyOUZRaGNKTkc4cU5wbm1zRUFDQWROTnBvSzBPNWpyM05rSnRZeEU3N3l4bnFUVDd6dXA4NmVwRkxvZW5UeS13V3VJb09kRUFQX1FJN0phenZPc213V1ZfLUJoczJ2cFlxWVNoRG1JZmhuNWJwa1I5MlVuUHlUT3V0NjFKYVFTb3Bn?oc=5",
-        "date": "2026-09-13T14:23:15+00:00",
-        "source": "Diario La Capital de Mar del Plata"
-      },
-      {
         "title": "Microsoft presenta un nuevo código de conducta para sus modelos de inteligencia artificial",
         "description": "Microsoft presenta un nuevo código de conducta para sus modelos de inteligencia artificial cadena3.com",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOODQ2OGZwMGdLSGZpZUZVUXZNY0xnSUVGN2lwcjR3SDk3QkFHb0pWeXc5ZEVpTHBBRHE1Q2NMVHQ1WExyeWRaWHgtZ3JQNXRJQm9FbUpadXhXTmM4V2FfeV9rTXlUdFoyaDRBMnR4QUJVZnpEVTM2elRrcG5IM2RiRFdCRkpGYllJV2tvMHJheW5oLVBrNjBVZEF2bWhrTE1YdTFMejRDa0J6elJQWW45Y2FKc0tHNFRqdFNrSmpqT0JBbXNIRF84ejBsVllDTFgzUXV1SUIwY9IB3AFBVV95cUxNeHFuSGdBZVBMZTBKNzRTMlpYQWhyeG54UzY3MVdPU1ZCTklaVFlLSTh0SzVFUWhHOFp4eUVHV2VYaGpiSThzN1VtTWlkd21EQXhjMVIwSDVBSzJZaGVVeTQwaHZpQ3ByTXN6SEE5RnVrXzk0aWd4RFVrQlB3Q2x4alpkQUlYUUpJY1E0WnZYeHp3cGV4VHR4YmFzUlVHOGg1N2pTZG16ME5IY2Jxa0FXT3B6LXI3aG1sMkRpQmdOdTBkYzJ6YnAySFBjc01yaFRFQWV2ei0tYTE5aVFz?oc=5",
         "date": "2026-09-14T17:07:41+00:00",
         "source": "cadena3.com"
+      },
+      {
+        "title": "Microsoft presenta un código de conducta para que su IA no engañe ni hackee sistemas",
+        "description": "Microsoft presenta un código de conducta para que su IA no engañe ni hackee sistemas Digital Trends Español",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFNaekRYbGozUWNKTlVkT0cxVnNXM1BWdkFQaHVmTDlmV1pGdFVwVkg1WFpuMW55SEYzX25MMWJSSmo3Vlhmb2J2WG1POHB1WkhPLTBrbWFoTmVfQjJmdWo0Zy1hTnNCRVVBTmloVkd3QzRPUFZNcGV4S3RsNlJmYUxuLUh6NlNtZFI3M2FaN1V3RW1mWG9ISzdFMlFhUU5reG5hOGZwSFNLSUczQkthcjJWc0RreW4zMmhOaW1UWXIzTFE5b3c?oc=5",
+        "date": "2026-09-14T18:36:06+00:00",
+        "source": "Digital Trends Español"
+      },
+      {
+        "title": "Tesla, Microsoft y Amazon: las tecnológicas toman rumbos distintos",
+        "description": "Tesla, Microsoft y Amazon: las tecnológicas toman rumbos distintos Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUF9uTWE4amRBczViaFdFdHcxTGR6cEx1VkR4d3h3ZGtLQXpvcHBUbm9CVEU0UkFSV3JhX0U2eXBXdWV1d0hLZ0t2T3RMOHc5VTlveDJoZzl0MUo0Mk96QndRb0NRdnA4cmZXdHRvOVg3WTJVX2NncE1pRVRvUERYejliYUZweHpLa2RXV21ZZGJ5TXFkbDJobWpJVXBzSEgyelRoendB?oc=5",
+        "date": "2026-09-14T13:13:12+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Los datos de estudiantes no podrán usarse para entrenar IA, según un nuevo acuerdo de Microsoft",
+        "description": "Los datos de estudiantes no podrán usarse para entrenar IA, según un nuevo acuerdo de Microsoft La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMG5YRzU5OTZlNmcxS2EtRm9ZS2k4MG82WWNzOVA2bDBJVDBiLWtwYjZ6bUR3QWlseDF2R2ZrZEo5aDFVS29xLTFJYXppRVpxMlZvV2o4R3FfVzBobTgwNUNoVXowTU9XUUtHR2xWUVRZbjgtNjRteGlfdUF3U1hjY0FPdnlWaWF4djg4RndsTklaQUxwU29oUExmNGlTTE9Cb2xhUm1IOEFtSlVjVG1DOU5mV2QwUktUUEZJazFLYkdUV21PUEVxTDBST0gwNFltMXfSAdcBQVVfeXFMT295c1d3QU5BbFZsdkY5blhFR2oyYVZYS2JnT0o0OHdyWEpIaGRDaHZScWZwOE0yd3g4anpXblRldHFNTk1GMWV5ZURKRUhWY2hTbDA3RFlzaHB5aXBYaFNGQ2ZJRURVSU5rU2NEbkFsdTdsMHFxS1htYk1zVUdYZUs5RFpGSEdMQ0xuS05fN0RJckNnZG5heGhvallnYjlHWk9XQndiekstT1hwcHpGVjk4R0V3d3ZaYmtDNGtZcXYxZ1BWU0dRQ0hZRUVfaFlQUURtd1FFNEU?oc=5",
+        "date": "2026-09-14T17:26:49+00:00",
+        "source": "La Gaceta"
       },
       {
         "title": "Perfil demandó a OpenAI y Microsoft por el uso de contenido periodístico sin autorización",
@@ -31,25 +45,11 @@
         "source": "Página|12"
       },
       {
-        "title": "Los ‘data centers’ de Amazon, Microsoft y Google van al Consejo de Estado para frenar el golpe regulatorio",
-        "description": "Los ‘data centers’ de Amazon, Microsoft y Google van al Consejo de Estado para frenar el golpe regulatorio EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPM2owQ3pxcmVwSGJ2OERneWstdWNyd084bWlCMVA2d2hReG5RWHAwbjJnTG1YUVJZQWIyVTBsdFlSMDFQZ0J6dEZQSmhIdGlMMDB0QmhkbWREaGJDN2hrQ3lTdlU1U1h4Vmgtay1NUEhaakNfSVZrLWNaZFBUOExfRk41ODR4TWdsODFMVG84UGZGMjBGZ05HeTVIbldhRFNTWVVWTDdQT3laUXRLdjlnN2lnZktrLTRWR28xSUJOMjJRTUhLVEdjR0N0WWFlYzBUdHFsUEZoYnRUcnlGRzZsTtIB9AFBVV95cUxQa0k3SlJjdm5RVng5cjNGSnpxZUhuZlpTQWdQSXk5NmlrUllIaFMzZjBNRzJfZVJ2Wng1TzdmNEtmOHFTZUc3RFQ4bnhYdjVHVmhkbWpibko0elpMYi16Q0x1ZXZ5TEgxdndqTWxWRENRSWkzMmItbXF2V3BET3pvV0tHTWc1ZVNDemI2a18tSzR0eHlJSFlEVll5NU1oUU9uYllZUGVrbTdWMGVWYnppdTVuYmJZTHQ5U244OWFRVklFakxMLXpTMVFTbEllZUdILXFhM3JvQWZOWk85U21RVGFCZjdhX0drLWNmeVVsQkdmSVVS?oc=5",
-        "date": "2026-09-12T03:15:00+00:00",
-        "source": "EL PAÍS"
-      },
-      {
         "title": "Satya Nadella, CEO de Microsoft, lo tiene claro: «No veo la empatía como una habilidad blanda; es la capacidad más compleja de aprender»",
         "description": "Satya Nadella, CEO de Microsoft, lo tiene claro: «No veo la empatía como una habilidad blanda; es la capacidad más compleja de aprender» La Razón",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVWtDbExqdU9lVENXQVRsXzllbGRWendDb1oyTVc1TTJrRmpZQnV4THRvQzRZTDZZdlpscVYwT05mUWstdk1PMmNkZ0xCTGNrcXhlUTlQYXU0eEJFTEMyZWhTYU1LVTJwbV9NQzBSd0g2dm1mTHZrdXUzVFYtN2NhcXUxN0hGQ1RwbkhsQkMxX1lZU0gzUWxGSmM5YkFiY1RvUkJsUmpqN3VCZDVkQ1FWRzZHdDYxTXJNMXo5Vk5UVEdHcERaaU1LcFVNQ29fbEZ1TkdKTVNuMFNOYUxFMFpWR3NfZUVQSFdHRGZNVDFTLVFNTkZHVGVsVkpFNlNhbE85R1JlRVBxYWxwZTg3bjM3aUotQ0RNZw?oc=5",
         "date": "2026-09-12T08:00:00+00:00",
         "source": "La Razón"
-      },
-      {
-        "title": "Cómo sacar el máximo partido a Microsoft Rewards desde cero con la extensión de Chrome",
-        "description": "Cómo sacar el máximo partido a Microsoft Rewards desde cero con la extensión de Chrome lavanguardia.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUxhWUJqQXlnUlRxZUlUV1BPTHRWZkExQjZFZHEtMkliVTZ6M3N0aVpha0x6N2dKZTJENkNRUnpGbnlFV3lHVVdSbkNScEJ5Zk5sOExBdzJ4U0dxaWV4OFJBR1ROTE5NZXliVlZRY0ZRZDliV3piOTd0Yndma2VWdExYQ0dLTmpHczZYWDAtd0xOZ0stM21pa2p5WjNSeWl1S3F2LUpaRk9XZFhqMUNQb1dWT1BzQWtmRzViVVFjd2t2ZlHSAcgBQVVfeXFMTlNvanJiZFVpcHVaSzVDTnR3eTFzRVkwa2gxNlFRbVNFazRQUUxPbkV0WlBhRTk1aGRKVC1Gd1g4clF1R0lyMnY4a2t6d1dENUh0MEhoaUdhZzJzWmNTVk9pSUJlTUZibjhXWGhUWDU4dEdzcWVqV29ZT0oyZlRhUGpLZVNhd1VYTkd0Qkp2a3FHQ1pSWlg2MGxESVNhQ0V2QUpTTnEwWFdBeXR1NmxqVDctV1FJUjFJTVpjZVB4dUNZSmpVOGpqWDA?oc=5",
-        "date": "2026-09-12T03:50:00+00:00",
-        "source": "lavanguardia.com"
       }
     ],
     "Marketing": [
@@ -66,6 +66,13 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaFBUODdkZGpWRDNXY2dFSno0dEFTUW9LQWthWTVKTDVPNkxMOHBEUFprWnd4dHk2WF9VZ0g3RzdScFdSajRzSWNZMXJRWmNwOEJ0RnBCdkpFRVdiQm5tYTdzOWk1Qm9ieVBfczFmMFdsaFZoakJJYjJNVEhTZTk5RnFhUTM1ejFTeVVablFwM21fN3psME1xSDJSaGJNZE1PWGxtc01QOXRLM19UajFmdUlfTEFjWVFodzVMOW5QZm1JdFE?oc=5",
         "date": "2026-09-14T16:48:06+00:00",
         "source": "Córdoba Interior Informa"
+      },
+      {
+        "title": "Aleph impulsa y democratiza la formación digital con más de 60 cursos gratuitos",
+        "description": "Aleph impulsa y democratiza la formación digital con más de 60 cursos gratuitos Insider Latam",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNak1hcEl4VGt4dnhoUkp5Um9zRUU1WjZQRm9BOHZSMFpROFhpV1NMb0pIdEkwOEFaYjNoWXdEWVRHYlAzd1NCX2c5bS14R0hmOXNjZlNtNGRpbHp0SUQ0Q0tQWHMyM2lHeWVxN01BekRNUFBUdThwbjlQQXpac2hIeW5lZ3ZBYVJaWHlTUjNpckpRbHdPbFVxMXJTTmFBaUNlZGRld2V4Vk8?oc=5",
+        "date": "2026-09-14T21:03:55+00:00",
+        "source": "Insider Latam"
       },
       {
         "title": "Comenzaron las clases presenciales de la Diplomatura en Marketing Digital",
@@ -94,63 +101,56 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHdCbWJEMm9IZ2dzd0pxaTVDdllFd2VVcWtDT2Z2QjYyQnRva3lBQWN4UGN6cU5wTVhkdXpHZG4zajN3N3AtbVY2dUhOU1FTMnlldnR0NXM0cEtVT3B0UmhQanBEa3BvRHFHbnc5eGllODB5NkZQQXRWV3o4M0hRVVdEWG40bTBpMG5WNjhCVXJCdGtwcDFucWpHWHYtX2dzT3fSAYsBQVVfeXFMT1dXUjFzRm5ZRjk3djFUcEdnX19FQkhaQUZLNGs5cVlsWnBrVkI1Y1JkT2RrclFUOHdnU3FnNmtnNmVDVlhMU09SRFhkUG1DRkZvRWdHTW8yZXdqTVJmMXpJUDhUU3QtY0JaVW44NjAwMHF2bGpyTHpOdFJnNHVWV05jVDQzSGhodzdOYw?oc=5",
         "date": "2026-09-11T11:30:00+00:00",
         "source": "El Diario del centro del país"
-      },
-      {
-        "title": "Impulso emprendedor: Capacitarán gratuitamente en introducción al marketing digital en Venado Tuerto",
-        "description": "Impulso emprendedor: Capacitarán gratuitamente en introducción al marketing digital en Venado Tuerto diariolaguia.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0pDaHk5Q2pNUlZBR2hJYlR1blFINVZhQ2djd3FUSkFhTW5qM2VqYmcxRnNxWnJjZ0tvYW9wdXhYSVZnXzU2RXJLeUd0eFY2NEtWQlctQ1pTazIzRG1xMUpvREM0RkhtR0FJRkRIWnFXUDVOWGcxellCY0gyQlZNVUlDZG9YbzBSTEY2OThrVF9jQ0tGS3dQNmNhbktfRGdyUzRtQ25xSmg1WFR6VzdqV1AwU05CczJLRUdtVzk1QjhEZzgyMzVj?oc=5",
-        "date": "2026-09-10T12:02:13+00:00",
-        "source": "diariolaguia.com.ar"
       }
     ],
     "IA": [
       {
-        "title": "\"El alarmismo solo perturbará el proceso de gobernanza\": China cuestiona las alertas sobre Inteligencia Artificial y caen los mercados",
-        "description": "\"El alarmismo solo perturbará el proceso de gobernanza\": China cuestiona las alertas sobre Inteligencia Artificial y caen los mercados Clarin.com EEUU y China aceleran su Guerra Fría por el dominio de la inteligencia artificial La Gaceta China rechaza las alertas sobre la IA y…",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM2FITDNHR045Rk82UXhyTGluRE40V0xQU05NckxrelJiTm95NGRocktvbGN2cHhJLUlzWGgxZndZV3JaUTRjQlFjbmJ5V1dPVTU5RFJBNXFVUDNLUmctRGVoNUUzamJVd1dMMFktb3lFZC1XWHN4WXJQYWhOQklJZHhPRlk5TE04bHZvUko0aC1IcmZHdUx2RkZ3c3VpeS14aXlHYlV3SUN0UGNHVW5IM3R1bXNQZXJ0R3FKQUM1eG1NdzZtdnpKVkROck9kUk1fa3Q0bnh4SEtfLVhkZEJqUHUxcDNJM3RF?oc=5",
-        "date": "2026-09-14T13:18:41+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "La inquietante advertencia de la ONU por el avance de la Inteligencia Artificial - TN",
-        "description": "La inquietante advertencia de la ONU por el avance de la Inteligencia Artificial TN",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWms2ZnNLaWpOUmxKcmtLRlB4aUhyUnJDVk00akUwYTZhaU1rc1dUZ3lRYVR5X0QwRUlzYndGTEhGWGY5WnloQ3dHSEFkekFNSi1IT2RCM2JCX0dsUVpjVVZnQTd4TkJwTGkxWmRRTEp1UndraGR4OWhIM2Q5UWZVVnFLUy11RWk3Z0tub2R1RFhaT0VKaFo5Rk91dVNPOG11UWRNOXg2MzZBcGJPUmRNajlndl9TeGZtQUprRzdtazhGR2MwZ0drUVFHbUpjTVpJTHdleGFLUFRDbFJtVk9sUU5VMDYxQ1RJRkE1aNIBgAJBVV95cUxQaE8wUk1DaVU0RDc1cE1hcmNFWjJBU3AwYVpGX0U2OUxIdFFjM3U5Xzh3RnJkMHpYQlJmSVA1a2pKcFgycHJDTXB2VTkxSmI2Uy1FLXdCV09aV3h0TVk4Y0FlekxNeEtPM3NqQ2NMdUM5WFZDQ2FidVljWjBZOS1xeG4wVnVJT1l2Yk9VYk5KNHRCdnRXQ3BmTjd4Z1ZRWGtTNUhyVzBBU29FY0pyTjMyN0dLWmhuSFlZMTBfOG9vM3NUTS1BWmVLRVVKOVB6dE91b1AyMnA0S1Ewc18zcXNEdWpJMEttQnd5bDFTekJFeERsVktpWlJSaEtGamFnZG52?oc=5",
-        "date": "2026-09-14T12:57:32+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "La ONU alertó por los riesgos de la inteligencia artificial",
-        "description": "La ONU alertó por los riesgos de la inteligencia artificial Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV0JMOEZLRU4zWU5yU3o5RjZuLWFGVWp3aFVHZkhJTk0yQUhyZXRYcUpFcURfU1Q0eGQ4SVNiUXAxMnMyQ0R2VndLbnRHamZGUGlFSU8ySEdPVzZvaWlJcGxrWVpMeHZxdi0wdERVMTVMV2Y3aTBlMmE4NGktYldQZUVCdVNCOEFnUTBOdGFxckVaenVHbDBlRVM2RkFOQlUxVXdHRmtDOVJqUEdXSnNZY3l3WVZ6cmExeXg0bl83ZnJ5emVVbGJiakQ3VkNUeTFUUi15RnkzQUdnTWx5UDE1aFlwblBWQdIB6wFBVV95cUxQYUJ2bWdNVUJGeHBxNzFiQTJSNnBMRWtDUUVpWk40d1pidjZMclUwWmhjdXp5cE9MaHJ3NmtPeEpsX3ZGdG53cG40ZlU3SG9RdDY3dl9WRnFBQnZ4YXVOZXZhWGR6ekplellLN1lDR3VBX04yZGdUQWM4aVRqbTc1MEFrTlFMN0tqSEx2T3VPcVdsSUFZcnF5S001VjNlYm9waC1pdVBmUVpzM3JhbDhNTHlqMkFicDBHQllvYkxUcHJjMHM3MlFiWUY3cjdjbnhkaVBFclFpM0xnMXF1TXgxVHktekZiNlFsN0Nv?oc=5",
-        "date": "2026-09-14T12:12:05+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Los gigantes de la IA quieren someterse a sus propias reglas para hacer frente a los escenarios apocalípticos",
-        "description": "Los gigantes de la IA quieren someterse a sus propias reglas para hacer frente a los escenarios apocalípticos EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0gwSkdoQXViOHA4SWFZbHQtTnhiaWxkUTVtRUNBLUNfVGlURWE1YldrbkFWcFRUdWpNNEtIbHJhQVZaNkZ6QnQ1MV84dXJUXzQwaDByc013bVZVM3IxTlIxeG8wcFE2SW55azhUUkd0amJ4WU9NT2ljVmE0aWx1WU1TZDhGU3NnOHBQY1Z6MFNKMlEzbmJ6Q055dVFHaEN3QWZpaWtGdVRKcG95SGN4WkJUOUVyNTBqMlp5NzVBZ0l1LTZBaGgyWEwzVi1JdE9RQkRpU201Zi05T1o0d2VuZzRLZlB5S3Iyc1BV0gH_AUFVX3lxTFBJcUsyOGY5SFh0cXYtanBmaXBHMWV6SEViZEhpN2Fwa3hlNENQTHVQYkdRRmdDNHR5VlBKUHJXTlUxVHNaelVoVzc0ZjhRaG92T0Q5bzJKNFhESktBT2pBUEhoSzlJd0NKbXlERnpRSnEydzNtY1diOFg1SEtuQXJlUDAwTFlvd0VleVl0ZWMweDRoUTlpT2VzZ3J5WDNTSklzZXJCWmdEaFRaNXA3aVNCZlprT2I1YWNEZkFOTEpSNVBuSEQzcmlVQy1aeEtzTnZzd0VrRHFzX3Z3WGFqWms0bE5NRmRrTGFucy1KRS1aZktkaVd3ZnI3QkM4NThVQQ?oc=5",
-        "date": "2026-09-14T10:47:12+00:00",
-        "source": "EL PAÍS"
-      },
-      {
-        "title": "Logran de una forma inédita que la inteligencia artificial lea la mente humana y la muestre en imágenes",
-        "description": "Logran de una forma inédita que la inteligencia artificial lea la mente humana y la muestre en imágenes Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFJxT0s2emJUY3d4c1J4ejBtckJlRVhRYzJMZzM1MGlzZDZjcWNCV0hOeEJ1d2x3UUNWMHFyTXYxRU1TLWs1SDc2QVI4ak1JTTZDNDV2WlUtb1ZMSVBmemRPVEtMRXcxY19sM1Zmd2RLTnZiZUJMcEtYbEZzQnpZN0NFcHBLZm1DM2dNT3RteGNaVU82UmFXdm95Z3NnQjdBYkM5MlhXWkg0QVBxNnFleUw5d3lmRmh0YTJ6bFIzUXcwTW41Znln?oc=5",
-        "date": "2026-09-14T17:01:21+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Científicos alertan que la IA puede actuar como un “virus cognitivo”: los riesgos y las claves para un uso saludable",
-        "description": "Científicos alertan que la IA puede actuar como un “virus cognitivo”: los riesgos y las claves para un uso saludable Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNY3ZqbE0waHZhRkpPUzNhQTUzYTZydFo1eG43T3JGX2xnVXFVQjBPMlE0WHA1S0ZoS1JycXlPaXZKY01KeVpFR0JIUThKZU9CSHVJaHZYVGw3LXFzMFRKcG94RG1UOTgwR0ZyZnh3RGMydW4zTkFwbk9hcXJ2dFJXVV91UHdZVlphTWk2Y0JWYldtcmZhckNYTV82d25PRUZWT2FsSnRLc2FkVVJfZGlwMzI2d1BIc195MnQyZ2pUNXVtcnVKMWJ5M0xQRjhWQ3hyRGJoQkgtdEw0TlVQX0pXVWN3eFFuUXUyYnVvVjJKaWJjdEVHR29TUFVFMNIBlgJBVV95cUxOSjNJSzF6N29iUVlPdlNWNWpvTFZMcHg4OWE3blkxdFdXckVuYWY5WVpvcWE2S3ZaVklaLUhQd1ZkdHJDN3p4RGNVUy1yU3M5LW1CN3hDdTFocGxoZEtHRmVkYzhHY2xQelE2cFBNdDA2SlNpbU1JUTRRb0FCa2F1NE16ekV2VnlDb3k5Mzlwc3NRUEJGNW83S1RUQ3VfQXdCSjJhSVlJUXRkN1EweVk4QjV4WG1sLThqMGotSWhkMlY1MlN2ZkxzNjNTT2diWVc4NXhCTEtEUF9CakRtZFBXV2RtOS1CQ3RuSXhlWWNibjJFSE03R0UzYXlGV3VKMl9ZZ1k3dVQ5R0hlMTh1eWFRbjhOMHJsZw?oc=5",
-        "date": "2026-09-14T06:00:00+00:00",
+        "title": "Las tecnológicas se desploman en Wall Street tras el llamado a frenar el desarrollo de la IA",
+        "description": "Las tecnológicas se desploman en Wall Street tras el llamado a frenar el desarrollo de la IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZFdfaVZLeHQzTGx4clZ5SDYxVGhQTDdYcWZXazJnbE1tRW43bHhTM1BFQ01DbFA4SE1XMVRGRnozTU9KdzdFVGZrekEwaDU1cUVGOHd5M0FWLWNNVW9WMkkzZ0x4eGQ4VjAxSkFSWHZ6Z1FpTkZYckFLeVJUY1lEb2dhS1RNQjlyMG1Kd0hQdjRrMm5TUzlnODVCMEpWMG9XdGNlYktaQTVoNmNFQ3RwanFUc3YtWHhhR3JaeXBNb3NYOVNlSEpqbGRtRzZjTUFjQmVyeXhWZ3dmUdIB9AFBVV95cUxPTzBnOEs3ZW1fWVNpMnkzYmJZZDVjSlRRUGFEMW92NUNWRXlVZDFtTVdFMmRDbURXT0I0SHF0TVNLbTUyWFBZUW50Z2JVVndNRkhlUFk2Y2M2QUdjWWNUUlMxZFJnaWh5UVBLeTZiSXJnOE5aVW4xYjM5YXBLMFZncS12dFJMNS0zaDUzaVV1LTJSdmhEeUJoZndzV2xhZ0VGMHJSTUhjalBiQmpiRV9vd2JYNTl3VGtqTnVQd1pVcnV4RjZBN3BlY2psS21ObkVKQjNQQVVqalhVbm9mTUIwMHl6dHkydE1JZWQtaGVvbUUxMnB2?oc=5",
+        "date": "2026-09-14T15:36:24+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Sam Altman, CEO de OpenAI: “Podríamos perder el control del futuro ante la inteligencia artificial”",
-        "description": "Sam Altman, CEO de OpenAI: “Podríamos perder el control del futuro ante la inteligencia artificial” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWowQjdGdmNzbnNrS2U5cmpvbVpOeURwb3NIOFhja1o2dTk4Q0hIWXBMMElsbGJVUE9KWS12ZGV5MU9zWHZkU3Z1UDkzVTVqeWZ6VlJLVFk4Y2diRXVRRGRRR0p3M3ZnVTFxUzRSUG1YcDVtRHRhQk90UVZBS19KWHh5SFBBTEhVZnhSU3ZtOUVCVlZrMHUyaGdnQkNGZkJHWnQxNzd5clpqaVAzYzVrcVA0dzRaQU0wRFVISTJDY3pQSGkyT2FJYVN5eEpEMm5fTDVsNHZyMDNBY2dWdHc?oc=5",
-        "date": "2026-09-14T12:28:00+00:00",
+        "title": "Alarma por la inteligencia artificial: caen las tecnológicas y Wall Street siente el golpe",
+        "description": "Alarma por la inteligencia artificial: caen las tecnológicas y Wall Street siente el golpe Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDdabUwwdVVFWFgybENOeHQyNjh0X0tRQ2tKbHRMNERoRG1od3VtNTNtVUNibjBpd19Yc1RLalN4a2gyZUFjOEUtQXNoeUNtUWtmNm5EbzVocXdYaFhxR0l3aHZDNUtjZmdhZ1hGSm1ZeHVaRndfbmhCWEp1bUJ0OUtLZlV0T0t1Wk1CdmlkTDRVNHNOMEpsa1ZHRFBpUndoNkJ0bHZFMHBMZEdwME52V2N1SjZWV3Y0TDRHRTFWVDNmaFpQLUpwTDVFUUtfZzI0Q3fSAdcBQVVfeXFMTlNaZTFrbTdNNzhkYkxEVFVHSFJVRWIyUW1VdzVXbkFhN2FDaW1oWjZYYlRPcmdvS1BhT09nbjVFLUIyUktRLTJFRTdWSnZnRkpDRllEd09NNjEteXRyV3IyX2ZCQjlDdFM0cVA3VjZLcE00Ymxrc2Z4RjZqVW1LblNBckhXa19tYklyYjQyUm5MWlRPc3YzN1dQVHlldEpHbDEzM2NZWTBGTUFlVFkwNGtrNW1kMWRaWFFPRmd3YUg4UXA0UEcyWVBLdThBdkpXRWFoNGRJMDQ?oc=5",
+        "date": "2026-09-14T13:58:10+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "La IA enciende las alarmas en Wall Street: entre la paradoja de las tecnológicas, y los reclamos de Trump y China",
+        "description": "La IA enciende las alarmas en Wall Street: entre la paradoja de las tecnológicas, y los reclamos de Trump y China La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTm5WblNjZkROclRpc1pwaVYyV0ZOdGtIMjBoanhrRERlcmE3Mm5OeGpxcEhMQ1pmSmZxOWdMS043NE9ncjhrOWpJTWpvT0lwMW84dnZmdHBYN19JbEMyUWhSdXpPRmNvQ1E0eVhKLXdlc1NkUUIyeDRyQlFYNklwOUJkY05DRldYZk5neDJuVU12eVk0Q1FmS0dDZmVpVFduTWtYZjdlVmRSalhsanNvYmlZU05XMzFVN29VYmRZZ2NZX0NScW1F?oc=5",
+        "date": "2026-09-14T19:57:57+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "“Hay que nacionalizar la inteligencia artificial”",
+        "description": "“Hay que nacionalizar la inteligencia artificial” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPalo4empDak1XOFBTOGpQZGk1bW9zV1ZRWFphVXI2OEtRSjY3dGNTRngyLTBfNlVheDZmWGZzTU5yMEZOQ0x5TmZNN29oQlNycGt5YWJKWWlGajVYUExnMlZOTHN1N21tclJGdU0xemF0c1l2b3hrNHZmRGhHc21vWlcya3AwOEdLMVVkWTZDVjc?oc=5",
+        "date": "2026-09-12T00:45:20+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Trump denunció una “conspiración enfermiza” en contra de la inteligencia artificial y apuntó contra China",
+        "description": "Trump denunció una “conspiración enfermiza” en contra de la inteligencia artificial y apuntó contra China Página|12 RDC: Trump rechazó una mayor intervención del Gobierno en la inteligencia artificial para no perder ventaja fr... Perfil Trump denunció una “conspiración” contra…",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOC1JaUxMYUcwV2VmNXF1TkFLTGRHd3ZZOXRoVVlpbTU5VzA3NC0yT29EUXFqSzhsdi1ySHVrVmt2dmxWdXh0eHZQVUI3OXpQV3RYTy1YMHBJc2x3X3M4dG9ob1hYSHNUd3YtaFBrZDRUblp5M29yMzNuMlBidTVRT05lTzduZjU1N3g3b2pVU2U3eXF2X2lGVVV2Nk1EaDdKbEVlR1pDczRpdWdhU3Y5alVrR1ozVzlIbC1RdTdUR2oyZENSY2NickpLMzNncXFSN3lWaHVFU25vbms?oc=5",
+        "date": "2026-09-14T19:06:20+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Logran de una forma inédita que la inteligencia artificial lea la mente humana y la muestre en imágenes",
+        "description": "Logran de una forma inédita que la inteligencia artificial lea la mente humana y la muestre en imágenes Clarín",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUFJxT0s2emJUY3d4c1J4ejBtckJlRVhRYzJMZzM1MGlzZDZjcWNCV0hOeEJ1d2x3UUNWMHFyTXYxRU1TLWs1SDc2QVI4ak1JTTZDNDV2WlUtb1ZMSVBmemRPVEtMRXcxY19sM1Zmd2RLTnZiZUJMcEtYbEZzQnpZN0NFcHBLZm1DM2dNT3RteGNaVU82UmFXdm95Z3NnQjdBYkM5MlhXWkg0QVBxNnFleUw5d3lmRmh0YTJ6bFIzUXcwTW41Znln?oc=5",
+        "date": "2026-09-14T17:01:21+00:00",
+        "source": "Clarín"
+      },
+      {
+        "title": "¿Podremos hablar con los animales? La pregunta que la inteligencia artificial vuelve a poner sobre la mesa",
+        "description": "¿Podremos hablar con los animales? La pregunta que la inteligencia artificial vuelve a poner sobre la mesa La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOV93eEFsYnhHNDdubVpvVUhULW9ZNFE5ZlJhdWNkVk1QRTBtR1pvRERDajhRNkFkX0Y5Vl9PMlNHTmJyTmhxQkVaSEdDTEQ3SnltSWIwcVlDZF8xREVBM2VGdHVHR1FoNFgzak1OR1ZqVXdDSXJLVTd4bWJYOGtIWmxWdElZVnBDcE95aVZ5Smpnd3FoMEJldEhMcUJ5ekpCZnJXTlJkSlVfMUZBYVVxNmNHQ08zV3Fza2kxUzNWWk9BWGdwbzB3d2RxVXk5VXVpUlBzNXU1b3NHOEFCcnlxRjRqYw?oc=5",
+        "date": "2026-09-14T19:47:45+00:00",
         "source": "La Nación"
       }
     ],
@@ -163,11 +163,11 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Una por una, cuánto aportará cada petrolera para financiar las rutas de Vaca Muerta: Rolando Figueroa envió el acuerdo a la Legislatura",
-        "description": "Una por una, cuánto aportará cada petrolera para financiar las rutas de Vaca Muerta: Rolando Figueroa envió el acuerdo a la Legislatura econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUFBaUQ0NWloeUluemE5R2dBWHZ6bDVFR1N4dEg3RVdTWXAxSk5BUlVzYXdJSngySzVUTkR5Q1hsTnlYYkZ5LWxWcGxhNUJfdGJvT1BzTTRqVVhBMXVJc3VMUTNNcGtTY0hGNkVFN3gtQ2dkWmUzMldrWUFNbG5wZzgwbzRqX0Z6VDhlLTFmc3ZWYVJXMTkyUzdvM01HTXk5VUdNNkRCRUQzSC1PWTZ3dmlYZUw?oc=5",
-        "date": "2026-09-14T16:39:58+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Petróleo, maíz y litio: la Argentina está a punto de romper un récord que persigue desde hace 15 años",
+        "description": "Petróleo, maíz y litio: la Argentina está a punto de romper un récord que persigue desde hace 15 años La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONW82THNhWFFwclgtMjBESFNTRXlHWlRNbm9xOFJUYzh3UWl6Wm1pWUkzYWdPekxYLXVJUVVSODlMby1TSVdkUUN1X3ZuNllVWGdLbjVla2NvUDk4Mll1cl9VNkZYRzFhMHlNUDZLOU1TeUFid0N2OVdQOXhDRjVmSHlma0w3R0tSYmo5STZhaDVnUmtHNmsxbng0WEYtNVI3UmpZaFFkbEtQeHlsSGhUazVycnhpWDVYVmtpVWg1ZzlidnJfb21WM3BlZEYxT3ZiZ2hkdjF4eTE1Zl9mNHdZelpqNA?oc=5",
+        "date": "2026-09-14T16:02:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Megaplanta de YPF en Vaca Muerta: todos los detalles del complejo industrial de 525 hectáreas para Argentina LNG",
@@ -177,32 +177,32 @@
         "source": "Ambito"
       },
       {
-        "title": "San Antonio Este ya tiene los caños del gasoducto San Matías: así luce el acopio en las 18 hectáreas del Puerto",
-        "description": "San Antonio Este ya tiene los caños del gasoducto San Matías: así luce el acopio en las 18 hectáreas del Puerto Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM3F4VnVkYVpZajlKSllERG9fdmxCcDRjc3JtNjZ3YUdjTURUYUFVRDh6WUtGVlpNTm9fYW5xQnBpWjVNU0pwbEJjcWY0YlZqdTc4dklKNkpkeU1rdlZ6ZzJmOHpLaExVakJpQ1plU2FUVTZHRS1zTFRDQkZfZXZSa0laQ2ItUmxMUHhDMUtvQzdabEVNM0ltMTFnZG5EREkxay1sQ25ZQ2p0SnZoVDk3ZnhFYllSMlBUVjhnS1NacFB5MTJ3UWE1ckJ6RXdlcnlfNU1Ic3NDaGpNYzNIT2JUUThwd1VHSkdYSXhZ0gHwAUFVX3lxTE8tU2NGeXlwVXVNWEoxMnBNbENtdmozTm5BYXlFYW1uZEdsdE5SLW9pOGpSUW1aTW5nUkhJTnd3WUk3NnA4MXEyZGNwU2x0eGNzSGdFRG5TZU9xT184N3ZDcFhxWklEVTQ2UWR0RmpFY182NFhmTU1EeWgxOFlYUnBWcFI1VldPREQ2WWprUE5fR2hrblBzRFk4cUFIVHRXakIxRUlmSU9DeTJTRWZoQ2hnVGtBUnFzbXJsamkteUZKVm9oVlhTRGlYLVNBc1RFcVpLdnFYRURhQWplTmdjVlZYN2ROVnhUdmd4YmJmcUxRSg?oc=5",
-        "date": "2026-09-14T15:58:58+00:00",
-        "source": "Lmneuquen.com"
+        "title": "YPF sigue pisando fuerte en Vaca Muerta: cómo es, al detalle, la nueva planta de GNL a 50 km de Añelo",
+        "description": "YPF sigue pisando fuerte en Vaca Muerta: cómo es, al detalle, la nueva planta de GNL a 50 km de Añelo El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVZrOXFkQjdWQTJWUXFsTXg4U2VqT09HRkUwZkJucXdPYkdHSmw1cXdyYVJJekdtSXVWVWplVU9SeFdTTGRXZXpNVG1fbXpqcm5wRHNKVjJaRXFHeUxrdTBsTnpNdElSTllxZGltdEdHaTlrN3hnZkgxMjNoejJwMkt5QUVDeC1SRFQwS0hGUVZLbGw1a2lvcFNRSWZ6VnVPbzNNUzRJblFHNnEwbEw3M2Izc3E0U015S1BtWFY0MEhZbDlzeEJLeTVENmNaSXJvellBR1J1Um10Zw?oc=5",
+        "date": "2026-09-14T19:26:17+00:00",
+        "source": "El Cronista"
       },
       {
-        "title": "El gas de Vaca Muerta toma impulso: llegan 3.340 caños para el salto hacia la costa rionegrina",
-        "description": "El gas de Vaca Muerta toma impulso: llegan 3.340 caños para el salto hacia la costa rionegrina Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTJiVlJiaTd4VkhNZEJsa0JIOUxaSmE3ay1nemp5ZzNZQ0FUa1pmQnJ5OGVzUVFQZUR5NTNnOHhhMEpoakJBTjVkOFozbndESzZtTzV2Q29BQm1McFh0aFBHT1VJUmVfaVktenRDYXRlQnYzS054SnNPQWV6VWlZTjFoVmRIZkRoZllITVJlOVVVRUxEcHVaT1czblZuNTNqaUhSdUFDVEdWWmxQcUZ4eW1PNlpMa2I1cHlLRkxaQ0hlNThCYTVDN2FZRjVjMFNWNUZ4V3RiNjMwbzZLaXVaRGkxWmhZV2s?oc=5",
-        "date": "2026-09-14T16:04:47+00:00",
-        "source": "Minuto Neuquen"
+        "title": "YPF consiguió los primeros compradores para Argentina LNG",
+        "description": "YPF consiguió los primeros compradores para Argentina LNG diariodecuyo.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVZvUGZkSVNna1VfSVZtbURKMENzSXdMSVMwUHJaMWMzNV9YSTB0UzNZa2dTQ2U2S3JubDRKOHhjU0VJdF83UmhSTXBJcmRwT3IyLS1CX21ta05KRG55UVdUMlhOWHVOTUdnQ0JsRWNOMXQyeUxjQUs2MDIwcUdCWHhxNFRTUkt2cUtMYVpOWFM4SXB4UXlQaXkyd0ZvS25uUzhIbQ?oc=5",
+        "date": "2026-09-14T15:50:00+00:00",
+        "source": "diariodecuyo.com.ar"
       },
       {
-        "title": "Operadoras de Vaca Muerta avanzan con mediciones directas para evaluar la eficiencia de sus antorchas",
-        "description": "Operadoras de Vaca Muerta avanzan con mediciones directas para evaluar la eficiencia de sus antorchas Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRHBYaVZiVk5sVE1lQUtnUHFvb1NlRHpLQTNWbEtCVlVwUEZ3WmpoZHBGTFlLaWJMZVcxblpwQ2g5MjRpRllPNlhXZkRibjZMMG13UGV0amx2ODFBbVo1Y2JSRVNURV93c1dUekZRc2dKRXpibjgzaGJ6dkxDd3Vub0Z1dDgxR2dnSDFNNVdxNGxiWVpSNDRWM1hNRExYNDBKWjFfT2pVTnJySTVTQTJIeEhRelBPNlpOeEZRUTk4WGJ1QVVyN2d6cFd2UXFhUUNpYktBT3FRS0MzcXp6LThv0gHnAUFVX3lxTE1LWGNFZmh2SGNZaklKWUJCYXJIOUlXY2R3NExMTGJVSERjNS00dW4xRjU2cHFITmpHYlItb2J5NHZydzgwNmNKUVNxcklzLWVmaWgzcGhDNmpGR09MU1NkN2xRSWpBMTdoUVh5YzRid1JVMVB0MzBtOUVFdlNDYVRSQ3FLMkRlQlhhQVBSMk03V2tMaWI3cGdxdWJ1bkhjRlAzTHhnLXVJeV9SOWhZOXpSQjh0MFY5ZXBDM05STDBfeGpRaDBZeks4b2I2TnhEcmtRNXM4WFRnZEdZazlPRGo5VVV0U3N2MA?oc=5",
-        "date": "2026-09-14T15:44:20+00:00",
-        "source": "Diario Río Negro"
+        "title": "La inédita cantidad de dólares que entrarán por Vaca Muerta y minería",
+        "description": "La inédita cantidad de dólares que entrarán por Vaca Muerta y minería iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWI0MmNtaE95bzRFV1pQNzU2bXJYNWwwSmJsa1ZUcnAyTjBxTTRTSWw0SVM5Ti1JOTdoWkxRVnpQWTJ3dktiZ3gtVjl3ZDVGYlZVY3ZUb2ZhMmFLNWVzeFcwVVBrMEx3cXhhMmVRTmFmY01CN0pIWWVNeXdaenU2UnFveXpGcWhSRHZSR3lQYTBCWjEyTFQ5SlpvVkowWTAxYndUYXlFSzVpOHp4WDFnS0hyd9IBuAFBVV95cUxPU3BGVTBoTnlSVFREdWpSbWlmNDk2ekF1cG9kZDFBR2syTHZYTGw5Z3hBOFB4czZLeFhSblFMTGZlOHk4LUFRazh6Yy1sUHRkNFNZMG5Bd0g1Umg2bVBGUjRvMWtuaThMLXkxNjZMNmhOaVNzeElyNmMzbS1kbDZTQTRFcm9aOVNoZ0ZIVGZJZWJ0OUp5bENfZFM5Y1RJYjFJMHZkYk53R1dkZ3gzLXFkU2gzcTBsZXZu?oc=5",
+        "date": "2026-09-13T19:30:00+00:00",
+        "source": "iProfesional"
       },
       {
-        "title": "Otro negocio a partir de Vaca Muerta: proyectan que la Argentina exportará USD 2.000 millones anuales de líquidos del gas",
-        "description": "Otro negocio a partir de Vaca Muerta: proyectan que la Argentina exportará USD 2.000 millones anuales de líquidos del gas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0xYNFZWMTFtYklaR2hEZWJZNUU4czd1dVBQejAwbmkyWlNmRm5lV1ZoWkp4WElOaDNrak0yNnViNndfdnF4S25xQ3lqNzVmcnRHR1gzQmo5RmVzei1nYWU0cEhfQUhJUXFjNW1BRUZxVS1UNW9HNC14Y1pSSWY4bHdnaGpiczdvODV4UnNGSWZoTUxoSXRQQXMyQmJrcGdXcFZGMVduYW5DQmdZV2pibW9tN0pKNE5KLVRzUHRLVlVlNlk4U285QlVaWUI3UnZValpvR2hUbFNTUVB3Y3FpTWpiOVBVM0s5UkJDVWszZUF3OE5YNWZF0gGSAkFVX3lxTFBFckpYX1RLQkZpdXN3NlpMNDVLR0xKbnN4dGFaTkM3SmdrT0I0UnpLckZJVk1oNDI2QmRqOFVYeVQ0YVBtNVdna1VPNkF0YVozSFhIYVVVNzk2NGJCTkJJRmx3LUhMTFcyZEw2bE1wYXcwSHdjZEJLU2xnWGR3M0FyMG1KMExNWmZLdHNteEo1VzgyTVRVSXBtWFBTZUE3aUdOSS1JQ3ZWb2t1SDdCWTNqaDk0eHlWMnMzLXE5VWoxVTlua2RRbDM4emxyeHoybS02MVJYVHVaT3k5bkpxemd5R2RXMkxOQ1FmUG9HVVBUMkFjS0NEbE9JUWgzNVIzU0YwajMxbEt0aWJMV1d5d2haUlE?oc=5",
-        "date": "2026-09-12T22:44:00+00:00",
-        "source": "Infobae"
+        "title": "Cuánto cuesta vivir en Vaca Muerta y qué salarios se pagan en la zona petrolera",
+        "description": "Cuánto cuesta vivir en Vaca Muerta y qué salarios se pagan en la zona petrolera El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN3UxX21wU1FYQW9ndlpjNEpKUDU4VDlfOFNROVl6Uk5CcXpodUQ0a1AtOW1HeUs0YVdfTndlcjg3dlFua0t2ZHFVNXJoQ0stWHlfUmZLV2dXRjdYSW5MS2JFbEtRNFRVN2ViekNZV0g0a2ZSa1UtbDU5N2JidDVwWFJQZTZtLWdBZ21IY2FfOWo0X2FUeUJPNUZvQzIxaUEza3N5c0tieTdRNlhlaUVYcmVyak8?oc=5",
+        "date": "2026-09-14T14:16:57+00:00",
+        "source": "El Cronista"
       }
     ]
   }
