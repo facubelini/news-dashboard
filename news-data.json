@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T22:34:30Z",
+  "updated_at": "2026-09-17T01:01:42Z",
   "categories": {
     "Microsoft": [
       {
@@ -24,6 +24,13 @@
         "source": "GN Noticias"
       },
       {
+        "title": "Jefe de IA de Microsoft advierte sobre los riesgos de dar rasgos humanos a Claude",
+        "description": "Jefe de IA de Microsoft advierte sobre los riesgos de dar rasgos humanos a Claude Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVjhuZURnOTlvbGhiTlYzQWRTUHJOdTIxNmwtakd6Unk5UGtUZTVmUTdlR1ZKQnlOSk9hdjVNWklRNEl1V3Y4aG4xNUNYQnhzakJ6d1F0V1YwckpYZzhuekJWaFBQWFhNbVBlekJRSEM3RlRvb3VycWhaYTVmSEo1bkRZcmljY3ZjSUNKVjRBQV9FRTVURjFIM1AxTmt6TUpaekZ0cUk1NjVYVjRtU2gwVWNDTmhGdk10V3hfRzBQZ9IB0wFBVV95cUxOYzRSVG1kcF9LTU1OWmVHZ2p1REFBQ2wxUnJ2T0NtdXdXUEMwQllaNnk0dDlZN2dzOWI1QW1NbUNZdFZjR2FrdHZ1TTdvR3kzd2dFLVM4QlpycWJvVFhkb1UwRzd4Wm01NUdZc0M4ZFk1U0NoWWo3aFlmN3BlbWE4VXFDampQdjNJQlllY0tmVXF0ZDlnVlh1S0cxeVpRY3VfUXpXN1pGS0pMdXFMNGt5b0taZk9EdTMxdVUyV1h4d3gxRjJaRWo0R0g3TUp0aXhZdzV3?oc=5",
+        "date": "2026-09-16T19:35:10+00:00",
+        "source": "Bloomberg Línea"
+      },
+      {
         "title": "Microsoft lanza parche de emergencia en Windows 11 para solucionar problemas de su última actualización",
         "description": "Microsoft lanza parche de emergencia en Windows 11 para solucionar problemas de su última actualización Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmN0WkdiSEgyUDJYakJGVDIxR010eVZCZkczdmhCSHE0RnBZOVFYNUs5WlZmTF9FZmNULWNhMW9OOFFvaHBXeElsdlRSNDI5dDVPazlyWTB5UjB0MjYya0tlQ084Y0owMVNJV1JVc1pSRlVEUXh6VXpyOERpMXZjTUlyV3RXN2NGVzBQTTVMRjZ1VXNwSHdTRGFaNTZkVldHdlp5MEpja1AybElGcGZvcGw0aDJ3b0N5UFZxR0toSFZybTdvek9FazVvT1M1aEJHeEpTcXd6dmg4VUFTV0HSAfgBQVVfeXFMTm9ZLUJCemp3bjNqV1p6T0lFeWVPZ1hoLTF1WlBXbmVodTJ4NXBtbDQ2R0loSnctYmRVSWk3ckplZHgyTElCVE1kSER0ZUFWN1pKU0Q3QTdxQmdwd0JMdktPaDRJZXNfQk9zSFBaVWZEOHB1cW5WcXNtWGJmYTNyWGN4czIxYU5ZV1F3cmszRHFjRWZsdHVjbDNqY0Y2Z3NvVlRwMmNfUUprekV0Y25VMks2NDd1elF2dzhFN1pjbVBvVF9QSHRndWpKU3NaaFg1WVFmdVBWV3c3RXgtN3pveEtuYi1VTXZpeW5sMFJVQjllMmpTRHh4MEk?oc=5",
@@ -43,22 +50,15 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOek1ZRS1RZS1oZUM3c1Y2LWJyeldUeUZqeEtjU3RzajgwLWIyMmZQaFBxZzZNb0F1U3I1QlN1OU9mVlZBYTZxcFNLQXVLU004c3Fvd2NhZ3I3YlVVeEkwNkpuZTdXdnF3djRsaG1na0NIWUhPZnJUX0VKTUJVR2l4R3lzbWc1OEotYXNaZw?oc=5",
         "date": "2026-09-16T19:11:03+00:00",
         "source": "Diario El Norte - San Nicolás"
-      },
-      {
-        "title": "Jefe de IA de Microsoft advierte sobre los riesgos de dar rasgos humanos a Claude",
-        "description": "Jefe de IA de Microsoft advierte sobre los riesgos de dar rasgos humanos a Claude Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVjhuZURnOTlvbGhiTlYzQWRTUHJOdTIxNmwtakd6Unk5UGtUZTVmUTdlR1ZKQnlOSk9hdjVNWklRNEl1V3Y4aG4xNUNYQnhzakJ6d1F0V1YwckpYZzhuekJWaFBQWFhNbVBlekJRSEM3RlRvb3VycWhaYTVmSEo1bkRZcmljY3ZjSUNKVjRBQV9FRTVURjFIM1AxTmt6TUpaekZ0cUk1NjVYVjRtU2gwVWNDTmhGdk10V3hfRzBQZ9IB0wFBVV95cUxOYzRSVG1kcF9LTU1OWmVHZ2p1REFBQ2wxUnJ2T0NtdXdXUEMwQllaNnk0dDlZN2dzOWI1QW1NbUNZdFZjR2FrdHZ1TTdvR3kzd2dFLVM4QlpycWJvVFhkb1UwRzd4Wm01NUdZc0M4ZFk1U0NoWWo3aFlmN3BlbWE4VXFDampQdjNJQlllY0tmVXF0ZDlnVlh1S0cxeVpRY3VfUXpXN1pGS0pMdXFMNGt5b0taZk9EdTMxdVUyV1h4d3gxRjJaRWo0R0g3TUp0aXhZdzV3?oc=5",
-        "date": "2026-09-16T19:35:10+00:00",
-        "source": "Bloomberg Línea"
       }
     ],
     "Marketing": [
       {
         "title": "Se busca especialista en Marketing Digital para trabajar en Tandil",
-        "description": "Se busca especialista en Marketing Digital para trabajar en Tandil El Eco",
+        "description": "Se busca especialista en Marketing Digital para trabajar en Tandil eleco.com.ar",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmQ3ZlJSZ2JBb1pTc1hsOEV5LXZNVC05Wk5wNjhiWGdHdXNkTGZTTFBMSl96bW5OVUFwWWNsVk9vbC1sekpnZFRZemF1bExzbk53bHVxWmI3OUxpdExTMElXcmxFZ1VtWlhLU0gtVnFxeHdLTDlRWlp0OWdPODU0Q3Uybm1nRDZmY05zcENXSllTQTBkdzZjT2lyVGlfY3Vu?oc=5",
         "date": "2026-09-16T18:06:37+00:00",
-        "source": "El Eco"
+        "source": "eleco.com.ar"
       },
       {
         "title": "Llega el EMMS 2026: la inteligencia artificial ya ejecuta campañas de marketing de punta a punta - Mi 8 - Mar del Plata",
@@ -112,11 +112,25 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Trump y Xi llegan a una cumbre marcada por la disputa global sobre el futuro de la inteligencia artificial",
-        "description": "Trump y Xi llegan a una cumbre marcada por la disputa global sobre el futuro de la inteligencia artificial pagina12.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONktVTTNwTllKNnZQdXFocWRVcmlpVk9oZF9WNWh6MHRrTHF1ZDdQbUMzblJ0QWhVM2xtMU9Kc2pIU1N2eDFkdnFGVTRYTjdsdGlNYVFSOHJaR05PY0NXcE9lTVZUbFRjOGdHNnFCMlVRNVBLdEVqWXhsM0VsNWtSUXY1aEV6R1cxUFhCNEtZdW9BTU5KbkpmZTViczU2bXVvMlNmV0pyTGJ4ZTRtQ180dkhkeUZ6VjMwczB3MXJyS085NHVxVjY1VkM5aUdNM3A1Ri1yYmZaUTAwajFTWnY4?oc=5",
-        "date": "2026-09-16T20:52:19+00:00",
-        "source": "pagina12.com.ar"
+        "title": "La Academia Nacional de Educación creó un instituto para estudiar cómo la IA puede transformar el sistema educativo",
+        "description": "La Academia Nacional de Educación creó un instituto para estudiar cómo la IA puede transformar el sistema educativo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlAzVXdUUGlVSmEtXzg2VFdOM1N2bXRVNVFjUmFEWHFrOXJLNUhrV3hGYW1OOVVNVFdZN09HRjVSUFFTWTd2eHYzdGZwUG9EYWtUd1Z2YmFUNnFmc3RCLUhiajhhcVR2aDc4dmlTUzZaTllrWlNSVFctbE5CY1l6NWxqc0pHTGFrV1E4Z2VIcEhMcXBYRVBUWXFaamJEOG9Hd181cUg0cmhaUks3SnIySTlHTkNaU2dHZm0wbTJHRF84NXVTVFVpR1NhQ0t1d1htc2s4YkZ0Z3Jud1VHUVRMU1ViNjMzY0FnMUYtdUhxLVQ2anfSAY4CQVVfeXFMT2FFanhMWGlJbkt5bmg5WC1tTjljTS1HWld0dndnM3RTWDN0NE9mY2dvQXRQYlZfRVZ5UnoxQ1MwU2h4bkRTNXEzOGZxMTlmYjJFV3o0anJxRzdxWjhWR2tndzhyeWJFZ05Ya2o2a3o0dER2NURHc2RvVXNRVXhtWXgzYUxLR0dsWUZnTlNObl9Wem5jbzB4VVp3amVJQWhuRElwTlJldXcteUtsUEJ0NDdEZnBVZlktT21FZWpLeUJtcDE0RTAyN1hGb1d3SjJlWllPTkoyaGM5bmkxSkdNSFRSdnhMdFo0V1g1cnJtdzAtT0F3eVZ4ZkJOaDhENHZkSzdGS2NjanhjSjJrVXlB?oc=5",
+        "date": "2026-09-16T23:13:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Ya es demasiado tarde para detener la amenaza de la inteligencia artificial",
+        "description": "Ya es demasiado tarde para detener la amenaza de la inteligencia artificial Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUUlUQXB0SWhTVUc2N2Rlc2xxa01BUUdEQURiTlYzRk9sRUcteGRzN0RkLTc1SWtLLVJoOGZVcWVPY3Vtb1QwVmhXMy0wLVM3ZmZIUE93bGVYeUZGMHBseXBSaF9oeFVabXd5RHF4eDlFMHRvTWhuMWQ5RHhyOUtnRkgwTmI4aWduMk5KRmVLU2FiWWMwNUVaUFhBX2pvbURhbExCWjNMcGZnaVhDYVFFOW1UY3BKSnMtUC1zOHhiVHREZTMzRTRseGFkbmY?oc=5",
+        "date": "2026-09-16T11:40:36+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "“Es como poner 18 ingenieros”: una planta de biogás comenzó a controlar su producción con inteligencia artificial y es la primera del país",
+        "description": "“Es como poner 18 ingenieros”: una planta de biogás comenzó a controlar su producción con inteligencia artificial y es la primera del país La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWjRGNGRTOUYtR0RTMzliSllPcmZmdWR5SC14Yk8xa1RpUXp6ZFdXLWhfZF91aHhJTGpfYkdlUVFucU9naXI4bVE1SzMtaGxDbExqV1lvd2ZyX1BlekZYeTcwUG1Jaklxc1JuQXA3bUFxM09YVVN3V085U2lBeU1Bd2FWWDB0MVZQa0RHeTdicDhYMmdwUXBDRVVjUkM2Y1o5bXRxQVQ4ejlFTTF2bTdqOUotZEU0NDE0bzl0UnhOYThJTmZEV3VmMlpfdm4zcm5BeGlNbmJPSHo2dnQxS0FkZG5HLUxxMkVObW5B?oc=5",
+        "date": "2026-09-16T18:46:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "Sam Altman, CEO de OpenAI: “Podríamos perder el control del futuro ante la inteligencia artificial”",
@@ -126,32 +140,18 @@
         "source": "La Nación"
       },
       {
-        "title": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo “tiene razón en sentir miedo”",
-        "description": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo “tiene razón en sentir miedo” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUNMRFZzZTNoMzNoNG1wSGJwNmhRZldzaTkzeGJnMUlHVjR3bVREbzRZOHhOZlp3MV8zTEtBcWZBX3p1V3JHRFVZcHJlVnBRYld2V3pxX1A4bE1aRHN3TGRmTHR2ZUVZQW83dUtEWUpwXzE4YkJCczlQTXVOVjdyMDZJbGltNmtvSXExbUhqZkxFcmdJOGx6VHphZ2NxT0lZc0hhVEU5NS1wTU9rU056SHZBWm91X2pIbXZYUDFJZDFOQ0lxWkt2NE9RTkJfUXpkY1ZGaXpCZ1pjZjhXTFE?oc=5",
-        "date": "2026-09-16T20:45:00+00:00",
-        "source": "La Nación"
+        "title": "Sam Altman advirtió sobre los dos grandes riesgos de la inteligencia artificial - TN",
+        "description": "Sam Altman advirtió sobre los dos grandes riesgos de la inteligencia artificial TN",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdDh5M0FBME5vN2pVR2N6cTFLaFBsQ0w5a2ZfQVdxWkR6QzN4SWw1ZEU3ZjRQek1JcmdER3k4SERvTUFvQUxEajN1RTFGUlZ3ZVlCVjI4TnBUWUQwM1ZYZDB6b1cxNW9EQVllYU1WbE5Eb0phN0JnNjhFaHk5M1NFOWFWQVphTzFfb0RWZmR6dEZRb1dSZS1ZVFM4TjNYdTRicjR4QWppeGVUcWF5RlM2UDZFYzB6dV8tOUg0T0tWblhYSFlJcUFobWpzQW9JSWJmUTBZRkNXSERERW1IeU1EWUtXeXlDcGhFQ2fSAf4BQVVfeXFMTkEwUUQ3NW5ibHlQTG9aUEtaeThXS2ZHdF96MTRMcjN5T0NuU2NjRnQ4eWk3bnhlcG1nOXc4ZUxtdk9lRml5Yy1qLTh4MDVJS2ZYTFVtaU5mc2V6QWI1T25lWFRRQ3V0b1JkRDVya0hoX2EydEd4dnVyUGgtd3BWSjVzUy1OZVlINkd4eWd0aGl3a0FZRlB5RXM3SmwwRUFnUmlDaDB4a2g1YTBUcWo4UHREWDVyTUlPcER1bFVzU0JyQUxmZ0JTTE5FZEJ5eDFOdGRKaXozM2Fkb2RFTlZESjJFY01zenJ3NWw0d2RERWdlamlFS2EyaUctSHM4LXc?oc=5",
+        "date": "2026-09-14T11:34:20+00:00",
+        "source": "TN"
       },
       {
-        "title": "Sam Altman confirmó que la inteligencia artificial ya es más inteligente que las personas y lanzó una advertencia explosiva",
-        "description": "Sam Altman confirmó que la inteligencia artificial ya es más inteligente que las personas y lanzó una advertencia explosiva Big Bang! News",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRm5TRUlIMGJ1cUYycDF2YmFva0JZNjRVdFBGYUtaemlrN0l4TE9pTG9zOV90eVgtdC0zaThlOUd1OEhNLUFjUkdXdmVUVkpXRVVSNEx1UzlkOGJEdFVxWUc5Nkt5NFFrUkoyb250NGtnYjN0YTNGLXBvV0dnXzZNdHhzcmFJWm81ZVllcHV6S01FWlRGX3ZvdFBOd3dReGZzcmpzU1pNdHZnN05RZmNWNHk0M0wta05PTy1VbHJxN2lXQjB4ZkM0TW1IN3c0c2FZdGJ3bGhuMV9tdVYzeUUyOFdJXy0?oc=5",
-        "date": "2026-09-16T15:07:00+00:00",
-        "source": "Big Bang! News"
-      },
-      {
-        "title": "El oráculo: la IA analista",
-        "description": "El oráculo: la IA analista pagina12.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sdlZ0NFdrSVlhaUpYX0tkUHVBOThHdFdjWkhUR2ZyalFXNkgxRmNLRU92bXFmWDJwZ0Q5MktINmd6ckowYVdybGk2c3lvTjJaOS1pY2FWUFE0MUNiTFRDQmVNMk9yWURiNEFtVm02dGpBaTQ?oc=5",
-        "date": "2026-09-16T22:01:08+00:00",
-        "source": "pagina12.com.ar"
-      },
-      {
-        "title": "Ya es demasiado tarde para detener la amenaza de la inteligencia artificial",
-        "description": "Ya es demasiado tarde para detener la amenaza de la inteligencia artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUUlUQXB0SWhTVUc2N2Rlc2xxa01BUUdEQURiTlYzRk9sRUcteGRzN0RkLTc1SWtLLVJoOGZVcWVPY3Vtb1QwVmhXMy0wLVM3ZmZIUE93bGVYeUZGMHBseXBSaF9oeFVabXd5RHF4eDlFMHRvTWhuMWQ5RHhyOUtnRkgwTmI4aWduMk5KRmVLU2FiWWMwNUVaUFhBX2pvbURhbExCWjNMcGZnaVhDYVFFOW1UY3BKSnMtUC1zOHhiVHREZTMzRTRseGFkbmY?oc=5",
-        "date": "2026-09-16T11:40:36+00:00",
-        "source": "Clarin.com"
+        "title": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo \"tiene razón en sentir miedo\"",
+        "description": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo \"tiene razón en sentir miedo\" BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LUzJvVy1HU2xZRnRrdUgwZjBJaWl5dVpCaFJoQUZFQ3RYaThzd3RGU0FUX1NEOGRxbm9qaWg4RnhNT1pKcG5XcFFLelk0UnpDWkQ1RzNWd05aczEz0gFiQVVfeXFMTzhmb3F3TV9randhdWVyWUdlaHpNUE1TellLQWN4R28waTY1OEN3VDRNRUphZFNla3lYel9uWEZXT3lZWWlWdEJyMWdzbHY1QTNKOVlta1RycTliRXFrRlBoYWc?oc=5",
+        "date": "2026-09-16T13:45:28+00:00",
+        "source": "BBC"
       }
     ],
     "Vaca Muerta": [
@@ -184,25 +184,25 @@
         "source": "Diario Río Negro"
       },
       {
+        "title": "Con menores compras, el Banco Central apuesta a que los dólares de Vaca Muerta y el agro apuntalen las reservas",
+        "description": "Con menores compras, el Banco Central apuesta a que los dólares de Vaca Muerta y el agro apuntalen las reservas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNjRMbXhQU2QwVWc2TW51UUdXVU8xbEtGS2kwSkJoTzBpQWVYYjUwMTNFNUREbEd0ZnhqeEZreV9pQUU5Qm9PT3czNy1iX2VYblktbHpwaDVuV0E2SVFJMURRVFVhVXBWSjRMNVAwbG83dHczVmV2Nkc5bUFqUkw2dUxLbFlOM1F1aHpaSk84MEg0bWMta1UwOU13c1NPUXc1ZEpPcVd1cTJsWlFLSlZHeDZKQWtJLV9hMS1kOXRBb3JYUVp5TzMxMDJ6ZGRkRGZrdzJZWVgtQ19YcXY1clFQRHc0OWJITl9YRU040gGGAkFVX3lxTE1yaUN4QzlUVnFXU0o2eVRVajJTZWlWMllSdFllcjk4MnpfYUNDYXloXzA5VjhWQlJWRE92RkVJekJmYW5aNXl4Vi1YZzk4VEozUDJQcUpBVEd5R1ROX1BOR3ZPLWpleHdSN2NvNWZGZU81TkQxNWI4cGpLbU5yMTRBR3hFS3BWUXNGLUJDSVZrRzhsTy15WFBoN2F3VWR5VC1xaUtGYU1ORFdsMlFieHdYZFJOcFRMZ1JhV1JtbVZGYVhUY09vMmQzM3NnLXEyeGx5SGM2RE85eHpFQWdkck9LY2xNamwzSzM4VXhlb09KaEtQSFVEaUFweksyaE1DajN5bVJoaFE?oc=5",
+        "date": "2026-09-16T22:52:26+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Vaca Muerta busca un lugar en una carrera global por nuevas fuentes de gas",
+        "description": "Vaca Muerta busca un lugar en una carrera global por nuevas fuentes de gas Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmJlb19FX05XVUliaVRla0g2eVlvWk9NaDJuQmZMT0xoYmZ5YVRuTUNrdkY3UEtMUkVfNUFLZU5XWUdGdURWNG9fbG9NLWxKVDhraXpjRkpkYkxYLUdNSkdLQzZORFZxS1FOOHE2b0dkTVRHdUdkb3p1V1FOd21lWVZISDd0SHVLUEkxU2hwQkxNU2hOQTc3ZFZqX2xUSU9YVnpWSnZzQVN4UGVXSzBScHBNMHNoSDA?oc=5",
+        "date": "2026-09-15T20:58:20+00:00",
+        "source": "Clarin.com"
+      },
+      {
         "title": "Vaca Muerta puede triplicar la producción de GLP y posicionar a Argentina como un jugador de clase mundial",
         "description": "Vaca Muerta puede triplicar la producción de GLP y posicionar a Argentina como un jugador de clase mundial Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHFwa2U3Q0hwakdid2htYnZlUGZZbFB3VGNNcGE1eHB5a1lMZ213VE5qYkRfRzJKdmkwNG1sclJBd3lTeXlhN0dmZkoxR1dpdHl6NTBtT2J6TU52Y2tIc2xWZlNkcDR1dEEwaE9PTzZFSU9LMDBEOXRUakl1bUFLdWRWT2NoUnUtLWh2RmxhTE5lRDZTb3A2WHBfWk84ZEVIZWZPdFlLZzNDMnE3UWczQTIzNTBYeFN2SlQxOUk2YjRoNGdtekRhWk1EdGNzcmxlMjNEQ9IB2gFBVV95cUxQQ0JUSmNBS3UzMG9CYXRzcDYteU9MaVJWbU5pOFl4TTA5ZVlncVlSY2VIQjJjMkh6RkFpZ1hReXVWSzNNVS0zbGlWckRMbFAxc0FkZG90SlM1dFdzVTUxUEt1cWFuNUprUWcxOWo3RnlWN1VraGNfZi1jN0NXNld6dnhPSUxwdHAtMHYxUG14S01TVXg4VGVWNGdjb1A5V2VVV1l5bEI3WURTc29hUm1rSjBwODBOSldPRHZ1UkJlWHFPai1aam5YY0Z1WXhBdWhuX2p6SEpFejZSdw?oc=5",
         "date": "2026-09-16T14:27:49+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta y el GLP: por qué Asia-Pacífico puede convertirse en el principal destino de las exportaciones argentinas",
-        "description": "Vaca Muerta y el GLP: por qué Asia-Pacífico puede convertirse en el principal destino de las exportaciones argentinas El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnMwMnlnbnZ5UE5ITldMOU0wV21JWkh6cHZrMTF0cHJ2YmJzcFN6VU1MMndUV2h5d21odU5JLXBsNWhELXJyNzVhWng3dFJLRmtqNWJnaEtiSDl1bVR1YzU0bllqa3Y3WEZ0MG0wb1Q1MUQ0bThydGxLMWJoMWZFdlc3eVJnTUNzTkZZMWVzQ015d2J3d0tpUVFnS3d3ZDhaeWNOWV9KWjN6Q2xLQldET0FHYXZuTkNsWUhrWnlTRzhSMmpwVU1GMnAwSXlqM092YURUaTc5RjF3ZU9tOENXdW9FY21ZR2s?oc=5",
-        "date": "2026-09-14T22:00:00+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "El plan energético de US$3.650 millones que busca llevar el gas de Vaca Muerta hacia Chile",
-        "description": "El plan energético de US$3.650 millones que busca llevar el gas de Vaca Muerta hacia Chile Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLWN6aVI2S2lPZ1hDM01GU19acmZXU0pEZzRaVEExaXFRN25EbWFpRFNUcDBPeHZjTFJNWEpkUTBGQ2piNmcwaXJUSW5aaVdrdmh1WDh5bGZucjBBT1BncVNoQWVGT29wV3F5aUh4UGVlSC1uejNmMEphMXJMajNNYmotLU42aktHVWhEVmwyZ0lUMzZUYTV2NVgtQ2dQakpaYlhxSW1IREFvM0tJU252U0F2SEh0cVJEZFFxY0d1dE5Ycm1hLVNvWWVVNTEtMGdCYWxfb2czcWZpY3lBdC1WYjZB?oc=5",
-        "date": "2026-09-15T21:15:00+00:00",
-        "source": "Minuto Neuquen"
       }
     ]
   }
