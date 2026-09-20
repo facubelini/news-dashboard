@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:03:20Z",
+  "updated_at": "2026-09-20T00:34:03Z",
   "categories": {
     "Microsoft": [
       {
@@ -38,18 +38,18 @@
         "source": "Radio Mitre"
       },
       {
-        "title": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
-        "description": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNlU0NGRCUmJOSXhOQ1F6SjVnSTNKWU1Wbkl1dzNDNXBLZEx2QUw1ZTFQcmFPNUlOblVBdmJvcUx5MXpNNmllS05IVjZXakQ4YmdPcHd4ZmFsYWdKRHdpN3FYUkxNcnJXSVV5S25US05ZZ09qWjFWNU1sM1ZJMjNkY3RHbENFallKRGxKeTBUWTl5THpDQ3BVbUpYZmFkRm4wUmRPWnF3ZVI0ZUpxNm9VemhQclZ5ZDAyOXRfU1RDbE1OTnBKbFpxQ2xfb2lGdFpQV0gtaGNMMEJrLWRMRHpNaTFR0gHnAUFVX3lxTFBXMFZnQmhqb09IeTNpYXdZNWZpUmpKdjJmcUZYYV9LUHhYbF9sRzNmb1NBRTVESjJ0cTBSR0k4QlVoQ0s2SnprR0d0cjhsSDhzYTNRaDlMNlpDV0ZYb3pFcjhfaGZnWEdBa0VPYnVTU0V3Z1Fjb2MxUEpLd0RpaU1CQVIzcm1faXl5dVpJYXJhLU1oQzBKblpublg5Y0FNM05HZDQ0ekxoTk45Zk1Edmx6QVg1UmpUSExSbG9DSTRlekFmczhSOHpOcWRkZHEzVTNMNTNMYWRMU1VTbXRvaXlCcmt1TEczYw?oc=5",
-        "date": "2026-09-18T17:30:12+00:00",
-        "source": "Xataka"
-      },
-      {
         "title": "Microsoft publicó su código de conducta para la IA: sin personería jurídica, apagado obligatorio y control humano constante",
         "description": "Microsoft publicó su código de conducta para la IA: sin personería jurídica, apagado obligatorio y control humano constante Ambito",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMHlCRHVmQXZLOElMNVJIdTdfYlVHbk9fcEdBdDRZQ1g1VlJpWUZxMF9nb1hvMUUzblhfZUlqcERHTmV0SnVQM3duVU5NTjNvOTFMajZ0MGREYzlfcFNvNzBKaEc4V3dpN2dEam5aeFNRVHREeU5aT0M0Z0FhWm1RRUVNR3pmY2Q5WHdkUnZINVQ5RmFXTkpWTXVOaWY3cV9Hbjk2ODFLMUVlclpRWmZ5NmR6eHhnMk9EemNXc3RTa0hrc3hQWi1ZbmkzUURLZ2FQSGpVZ0Z6ajQycGptYVQwbHRLTUI5YnfSAewBQVVfeXFMTlVzbTlyaUR4QXpJU3FWSTJwUjNqM1MySzMwaUVvSUY0WWJBSU1NYldoTFdXZVVwY3dTaDBfcGp2ZHVvbldlZGxrSHpVRV9taXFVMDRSb1hHQnlzT3V4eklBQ1NRY28tZk15OVdfY1ZRMkljVWt1N0FmSWdnajFxU0MySzZ5MEkzQ0R4U0pwWmlvQ1ZaazlXOWs5V05tSEY5SWhGQVR3UGlTd2gxX2RRSFNac0stNTZ3d3hJclAzOWljeXpRQjdUN2tEOTBwakZzRE9Zcm11Zl9YVE8wb1lUcElnREZ0WmE3OEk4UWo?oc=5",
         "date": "2026-09-17T17:05:00+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA",
+        "description": "\"El mayor robo laboral de la historia\": así describían en Microsoft el uso de artículos de prensa para entrenar IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNlU0NGRCUmJOSXhOQ1F6SjVnSTNKWU1Wbkl1dzNDNXBLZEx2QUw1ZTFQcmFPNUlOblVBdmJvcUx5MXpNNmllS05IVjZXakQ4YmdPcHd4ZmFsYWdKRHdpN3FYUkxNcnJXSVV5S25US05ZZ09qWjFWNU1sM1ZJMjNkY3RHbENFallKRGxKeTBUWTl5THpDQ3BVbUpYZmFkRm4wUmRPWnF3ZVI0ZUpxNm9VemhQclZ5ZDAyOXRfU1RDbE1OTnBKbFpxQ2xfb2lGdFpQV0gtaGNMMEJrLWRMRHpNaTFR0gHnAUFVX3lxTFBXMFZnQmhqb09IeTNpYXdZNWZpUmpKdjJmcUZYYV9LUHhYbF9sRzNmb1NBRTVESjJ0cTBSR0k4QlVoQ0s2SnprR0d0cjhsSDhzYTNRaDlMNlpDV0ZYb3pFcjhfaGZnWEdBa0VPYnVTU0V3Z1Fjb2MxUEpLd0RpaU1CQVIzcm1faXl5dVpJYXJhLU1oQzBKblpublg5Y0FNM05HZDQ0ekxoTk45Zk1Edmx6QVg1UmpUSExSbG9DSTRlekFmczhSOHpOcWRkZHEzVTNMNTNMYWRMU1VTbXRvaXlCcmt1TEczYw?oc=5",
+        "date": "2026-09-18T17:30:12+00:00",
+        "source": "Xataka"
       }
     ],
     "Marketing": [
@@ -75,18 +75,18 @@
         "source": "mercado.com.ar"
       },
       {
-        "title": "Plataforma ofrece más de 60 cursos gratis en marketing digital e IA",
-        "description": "Plataforma ofrece más de 60 cursos gratis en marketing digital e IA iProUP",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzZDX2pKLUVKMmFYUm82ZU1VOTR1Y3d6Sm9HckdqRkIyQ0VuaHUyQzRrYUdFV1RqTktKbXRXTnBKWFJZYjdLRlpwMmM0WkRDaVZiSHhPb3ZMV3REQV9kcXhJM0dHcWhiMUM2Q1RtbWNWbEtvRG1STy04U1JoWldkWjZNRkhlZmxFTURMOEF5UDUtZHdpQTlOZ2Y1S0c2bTF5eFZ2dzJB0gGrAUFVX3lxTFBRWDNpdzNvYVJTME9Gb0oyVDB1YU11cWc4YnM0QllmdWhpUElpelJhYU5iS1VROGZaeGNiTFItdk8za1poOUZLeDZYZ3ZHWF9zeWRFTlBSZzNTSnBiYnFsVXQySXR4R1FldlNWc2dQVHdqbjlmd2VDSDEzSUZfN1ZsbzV5M0hFallpNWpyZ2h0RzN1Sk13T2JIYkNnLWQ1VXJ4WnVJZk5pMFU5Yw?oc=5",
-        "date": "2026-09-14T21:15:00+00:00",
-        "source": "iProUP"
-      },
-      {
         "title": "Eldorado apuesta al marketing digital para potenciar el turismo rural",
         "description": "Eldorado apuesta al marketing digital para potenciar el turismo rural economis.com.ar",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzVtY2ptVGt5WXF6WVFsUlZ5cTdtcUUtTmtTXzRvUnRETlpKYlJNTkI1V1VPa0RZSElNUmZoUm5ESWVVRTJ1VmJXNUR5bHByZWxiUVcwQTYtb1ZIeHluaGlNSGJxQnJjaXAwX3NIV1JOeWFJU0VLNWpkNDlYZjhqNVhQSXhsRWxjNDR6YjBJODE0Y0d0b1NyWmZn?oc=5",
         "date": "2026-09-17T17:41:59+00:00",
         "source": "economis.com.ar"
+      },
+      {
+        "title": "Plataforma ofrece más de 60 cursos gratis en marketing digital e IA",
+        "description": "Plataforma ofrece más de 60 cursos gratis en marketing digital e IA iProUP",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzZDX2pKLUVKMmFYUm82ZU1VOTR1Y3d6Sm9HckdqRkIyQ0VuaHUyQzRrYUdFV1RqTktKbXRXTnBKWFJZYjdLRlpwMmM0WkRDaVZiSHhPb3ZMV3REQV9kcXhJM0dHcWhiMUM2Q1RtbWNWbEtvRG1STy04U1JoWldkWjZNRkhlZmxFTURMOEF5UDUtZHdpQTlOZ2Y1S0c2bTF5eFZ2dzJB0gGrAUFVX3lxTFBRWDNpdzNvYVJTME9Gb0oyVDB1YU11cWc4YnM0QllmdWhpUElpelJhYU5iS1VROGZaeGNiTFItdk8za1poOUZLeDZYZ3ZHWF9zeWRFTlBSZzNTSnBiYnFsVXQySXR4R1FldlNWc2dQVHdqbjlmd2VDSDEzSUZfN1ZsbzV5M0hFallpNWpyZ2h0RzN1Sk13T2JIYkNnLWQ1VXJ4WnVJZk5pMFU5Yw?oc=5",
+        "date": "2026-09-14T21:15:00+00:00",
+        "source": "iProUP"
       },
       {
         "title": "Liderazgo femenino y marketing digital, los ejes de la próxima edición de Conocernos",
@@ -105,18 +105,18 @@
     ],
     "IA": [
       {
-        "title": "Inteligencia artificial: por qué las empresas discuten frenar su desarrollo y qué riesgos ya están documentados",
-        "description": "Inteligencia artificial: por qué las empresas discuten frenar su desarrollo y qué riesgos ya están documentados Chequeado “La inteligencia artificial está muerta” Página|12 Los peligros de una Inteligencia Artificial sin controles Los Andes",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVlk5X1cxRUNwLTJJSE9qdzV6SWNZdnFzOEVTQmNKZ2JnajQ4MlhBWklrQXRIZWpfRk1BTXVaMFJlNjlsSlFSdS1jUFAwUXVseHY1MWwwS0dPU09NREFPb2VVMWI0dEFpSFN0N2JxZjI2cU9DVTB0czViVWx2U2VXSVd6RWRndUtodzVjQkZjNmRVRDZlLVAtZERpMW9CYWpqNGpNOU9QLWV6blhwcFJ5Y3lmNUNrSDVmdFVkX2dVaV9GSGlzUFpoUDZrZEF6UlF5cnZ4WnI1MGo0RWtNSG1YVw?oc=5",
-        "date": "2026-09-19T11:00:14+00:00",
-        "source": "Chequeado"
+        "title": "Ranking de adopción de IA: según un banco de EE.UU., Argentina está en el último lugar sobre 28 países evaluados",
+        "description": "Ranking de adopción de IA: según un banco de EE.UU., Argentina está en el último lugar sobre 28 países evaluados Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZk5KMzczLWxfeVMzeEg2WnBEb3RfUFpyTGRPZmdzRERPRVJkU2RsVENtc1FFVTJFZWtWUHc0UWlMYlR3dGdVanZFZmdrVkdvdWtaXzc0NHBxd0Q2dHY3bkJoS1k1elMwRU1VYUlydTRMNEE1b1dIcjRvcWVFSDJZTnc0UndYRTFUWU50eDVmVXFHeEw4dkZxZ1poMzJld0M1ZzhkZnVCa0hiYkhONXFaU0lZcW80bGpiMVZNVUJOUDFJVzdORDJoU0JxZXdoZDNXamYzUldDbnV3MWJJODNTLWlETDFkVGRi0gGDAkFVX3lxTE5pNjEyQ09lLXRRLVB2UTlvZlpDWEJIcUt5OXB6NG9ycFlnak5DbVlDcnQ2Q21lUjJMYWlFdzBzMjV1VXNNVGV6UTR6NmxZeEJQTUhMUWd6SEZ5VFQ0MzZiX3d3WGpHVUl4QU1aN2JBdVpDWGxabXN5MTJyZHpDZ2FQNUpuX1NXbFYxRldCbEJNSG1rbG45QnBxRTNkV0JqYkQ3SlhaZ0pOSmJyc05sRGhTNTNxbXhwNVdYcTBQVkZVcFZvTGlfNFpEeUE0c1N2RnFmTkIyVllVR3R6NjJrYU1lemRJbERyclNkNmJwWTUtcmNRR0JjR0VrZWJmWTRrR2NyR28?oc=5",
+        "date": "2026-09-19T22:09:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Cómo los científicos entrenaron inteligencia artificial para descifrar el comportamiento nocturno de las ballenas",
-        "description": "Cómo los científicos entrenaron inteligencia artificial para descifrar el comportamiento nocturno de las ballenas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaUpFX2haYkN5djNqS1Q0dEFkYWwzM2tHRGNoUEpRTFlEcTBuVlZYLUJmNXFLM1IwTm9vTUoxV0dHYzlSZkJXZktubTBUMkVfdzRYbjU3N21XQTBtVmdSYy0zajJQbjlzRUs1ekt6Qm9oYkVtcF9XTXljMHpITlpwZzhWYnBNZHduVzhDZ01vc241MXNUdko0VDdFRDlQOHpMT253MnE5T0F5Mllwd2M3aUY5bVBONExsRGROS0dteXNzcUlCbTNrSkNWd2hkclk4UE43X2NibzNkUm9WRzN2aWlkNWJ6RkhBV2lub1hxSGxKZ3hDbGfSAZACQVVfeXFMUElnR2ZSTnpqMzM2Q3V0Yko3eU5EUGZtQTdTUkFUb3dSMHhUMnkta0RYUThqWFpvS2RNcGoyUHVzX05jUVZEQ1ZScnkzSmIyeXUzTWxjTUx3eXB4WXhhSGxHZDhGTTR2S05QcTNENUxWNHpIQ3BFRWdLWXh0SkxYNWJrNlZDWnRraFN4a090V2psb19iVnB1dlNvbG1Vb2s3cm4xT3ppU3JXMXpTd3VUSVJKR0pFSmtURW5IaGRlOC1FR2NESi13Tko5cmFyTlBLOUR3eGxpa3RBcjhsa0Z5bVlQcERnaUJRazR4ZGtpOVhRY1NWaTI1b0xlRTBYbE85Nml3RFNKRG9rbFVPajV6SW8?oc=5",
-        "date": "2026-09-19T20:51:54+00:00",
-        "source": "Infobae"
+        "title": "Geopolítica de la inteligencia artificial",
+        "description": "Geopolítica de la inteligencia artificial pagina12.com.ar Inteligencia artificial: por qué las empresas discuten frenar su desarrollo y qué riesgos ya están documentados Chequeado La inteligencia artificial se acerca a la automejora: ¿escaparán al control humano? Cadena 3…",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmVOSG9rQThIbkhfYkNqd2c4T0F3MHVDSzVxWGdxRUxwa0xjUnE0c3BDZHo4anQ1VWlZMFhUa2xneUpydXNaUVBfci1PNllPOEdEWTZVQXVXRmlzdWwxOUNUYkRMY0ZURHloOTVjSnV6YkU1a0xsSVVhT1pTc0VhT0tSV0tjUTlv?oc=5",
+        "date": "2026-09-19T21:41:00+00:00",
+        "source": "pagina12.com.ar"
       },
       {
         "title": "“Es todo un hito en la provincia avanzar en educación con inteligencia artificial”",
@@ -126,32 +126,32 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
+        "title": "Donald Trump ahora quiere cambiarle el nombre a la Inteligencia Artificial y lanza una encuesta para elegir uno nuevo",
+        "description": "Donald Trump ahora quiere cambiarle el nombre a la Inteligencia Artificial y lanza una encuesta para elegir uno nuevo Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeFVVRUpmdkk1VGJWVHVZVlNMc0E3QUJNdGJlZUdrUmduZnB4RWVSeFNIQzJOYm9YNTU1Qk9XZkJIeWlTV0J6TjFWVkhTMmFxNGl1UkIxZjc2Rk1ldmNra0ZUVHU3T0VXRXgtQmNOQkRGVWluT1lUbVZ3TmtqNzN4NVBhaHZSc2dfZm9SS2RSUE9oeUJfS3V5T2lERjV1cEx3WWpjdUpDZ0R3NTJjNVY5QmRqNk9TeEk2QXFjQnNNTVFfaUxXNGxJVWhBVVFFTFdVWXk2S21ZdTU?oc=5",
+        "date": "2026-09-19T18:15:20+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Donald Trump habló con John Thune sobre la ley frenada en el Senado que evitaría aumentos de luz por los centros de datos de IA",
+        "description": "Donald Trump habló con John Thune sobre la ley frenada en el Senado que evitaría aumentos de luz por los centros de datos de IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWXV4RnBrZVloM2FMd1lneXhrVUJCYWYzRXg0dGo3TGN4YUFpS1NvTEZndXRvaXpNQU5keEZQVzVIWDIyX3h3RjdZeWVwRUlDSTdub0ZVeDV6V0pDNjd0SU1ma2hrZVZHOEJYcGVKU2N1ZHNLaERKNlk0UU1tU0R5b1NaYkZEYXB4cDcxWWhFY0Z5cnJGdmgxQXU3VkVIX3JiUkR0MEhMT0xvMnVpSk52azdJTTlqSlBPdDZiRmdWMXdHMy1id2ROZnRSWXNzdkdLRExnNHhfbmhqdHpoUlZDSXAyQUfSAf8BQVVfeXFMUG9ORU1tOVhnZ3lMTkdqNkJFeEJlTFkzaUFIdUYyYVNqNDJjOVhNdkQ4SlNDUnMyNXNSV3FRLWlVb0xlU2JKMTNqdjJlTHlFVzRtXzRhcFNtc0FIUDRhWTh6QndWNUNpVjBzWjlULThJUHZyYndrQTRySWpDYmNmeUhKTXBCNEZUd1Z0enVxcGF2QzlvWHRIXzVrRjhyZUJhdGxsbk82dGthUUVXVFpGbWtVOWYyVFgzNHRkck50YWtSa2g2WHlfbDRjM2N6LThZZzY0LVJQeDFPNEp2QURpSGcyYTZ5YW9xNmhpUkV5blEtZGZheEkyNV9qVVJ4Mm1r?oc=5",
+        "date": "2026-09-19T15:04:42+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Trump dice que nombrará a un nuevo asesor en materia de inteligencia artificial",
+        "description": "Trump dice que nombrará a un nuevo asesor en materia de inteligencia artificial Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTU5R0ZiazliS05DQWFHamd2enZualA0UlpISTJUT2tYdUVGVmF0dGpONE54b3JINDFKRDVKOGo3VG5ZMzFiTUVlc29jVlJydVBZMW1GRzVKY0RlMDhYUGpsZUptTUdza2xWa3BLVUtLTXFfaVg3aFI2anp6d1V5aV9mUEJLTHFybVU5aVZxMkJMVklKcS1sN1BVT01uUHdFdnRadUxhbw?oc=5",
+        "date": "2026-09-19T19:23:44+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
         "title": "Eduardo Costantini: “La inteligencia artificial puede hacer al arte más necesario”",
-        "description": "Eduardo Costantini: “La inteligencia artificial puede hacer al arte más necesario” elpais.com",
+        "description": "Eduardo Costantini: “La inteligencia artificial puede hacer al arte más necesario” EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTZvdGlJWVF3Qlc0NFNmemc0TlVzaFlkM3RDZGRucl94VWZkRkk1V096THlFY0MyOWZiVExlRnFrM1BsWEZXZUpjU1huNlBqUHBpSGZfUlFGLWdYQ2l1QVllUDYzOGtpMmpVLVdld3Y5bXR3SnpJblQyUFdfQU4yQmxMQUQ4TVVDMzB3UjZSVUIxUW5PRmtnT2NrajE2c2pkNkZxTU9tWC02SzF6YU13R1hVRjItZFdaaUdRUF9NX2RoUdIB1gFBVV95cUxOdHIyTUp3cDVqWjM4cHFtWHlWalVMdmJDaGtsZzNTQWJqNE1XM2R4LWNPSFJRRW1WNE1NNXRPeWI0dzNNZlN0cjRHcWtpa3Q4aDJZUzRJWG95c3ExeDJyNjJ0WW1oLVkyRUo5Z3dNY1NwdWIxbWFlQzVwNm53MDJCOWlBNFZDMWdFWGQxYUQwV3VBVVQtWXNFTzRKVDFwaF9JMzJTSXhWRk5ZMTN1YUdLVWlNQXhaek9RZWh0UWVpYklINjN0a3hXVGNXcU16OU9qU0JzY3Nn?oc=5",
         "date": "2026-09-18T09:30:00+00:00",
-        "source": "elpais.com"
-      },
-      {
-        "title": "Agenda. Crea Córdoba Norte prepara un congreso sobre inteligencia artificial y liderazgo",
-        "description": "Agenda. Crea Córdoba Norte prepara un congreso sobre inteligencia artificial y liderazgo La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHN1Vjh3SkxrVllJaTRSOHBTelBSTkVjajQzY3lCZm04M1BDa2E3OE9WUWZURVpkWmM3cmtMTlZoVzRTWFl3ZGttVnJzRFJZN3U2OXlVeGFRWXpFbVJVd0pkbHFGTFdaSFJyR0RycVlGZkN0X0FoYXhjSjN1SHRLSTBnNzU3T3hDR00yUHBmVndBTHRmMTFwWjdnV29FbF9xQkdrQTAteWpFOVdtamI1Mm1JYlZlQzhC?oc=5",
-        "date": "2026-09-18T15:05:17+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "Warren Buffett encontró la forma más aburrida de apostar por la IA",
-        "description": "Warren Buffett encontró la forma más aburrida de apostar por la IA CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3dpWEJranFCb0s1YXluRzItMERZMGdyNnBqbm92TC1aRlgwdHJZWk02REJBNC13b2M2VGxlb1BjNHg3RzZPc3NsOERjZ0VsWjBvYzlMQnhfbElMMFJ1QjhScm12czJuLTZvYkxiNDhwc1Vzd2dMbjd0MVNKWTlXdDRsWUJkMFBJR2s1X25OWmtfeS1i?oc=5",
-        "date": "2026-09-19T16:17:00+00:00",
-        "source": "CNN en Español"
-      },
-      {
-        "title": "IA en dos ruedas: en bici, recorrerán 1200 km de la Costa Atlántica, con cámaras de 360° y software inteligente",
-        "description": "IA en dos ruedas: en bici, recorrerán 1200 km de la Costa Atlántica, con cámaras de 360° y software inteligente 0223.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVlBCYmRIUnE1WlNKNndHZUVPQnZ0S0ZFd3lGWUlKOU4yWUxFRTNvc1ptSGoybGRWS0ZnNXRBSkh0a1VXajVKRHU4Z3RGVndfMmtzcFpDandMM1hScGVjaGFLNFRRMHZyUWY4VVcxNDVaUXVlTVJlUmV2REQxX3B3X0VLaUNIMWoyMGJtM0lCM3JicW5ESWRjU3FQQzB3ejlvbl9iRzk3SGdITkQwSGNrRmJrQ1A1SjBfWWNRSWFmYUNHWlNVdHNSYzBwaGl5WVV1YmhOU0NWUTVMU3V5a0V1VFFqX1E1Y01u?oc=5",
-        "date": "2026-09-19T18:12:00+00:00",
-        "source": "0223.com.ar"
+        "source": "EL PAÍS"
       }
     ],
     "Vaca Muerta": [
@@ -170,18 +170,11 @@
         "source": "Economía Sustentable"
       },
       {
-        "title": "En medio del boom de Vaca Muerta, los sectores \"estrella\" perdieron 26.000 empleos en casi dos años",
-        "description": "En medio del boom de Vaca Muerta, los sectores \"estrella\" perdieron 26.000 empleos en casi dos años Clarin.com",
+        "title": "Los sectores \"estrella\" perdieron 26.000 empleos desde que asumió Javier Milei",
+        "description": "Los sectores \"estrella\" perdieron 26.000 empleos desde que asumió Javier Milei Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHp2UW5pMU5pOHNEdElmVHFvWkx2bVRlQXJTLUQ0eXVQNHZQM0MxUlVXWmVKcUxsQ2I2MGJKaEdMTDNKQlU3RXMyZ2Fma2FYQmJBSWk1OXpKZlFsSlpaSXRfaklyenA5WDMwWlNTSzZnMlVURXo5TTM5a0M0dldIR09XWGVqWU5yZl9uendjcXFIdGFNUUoxMmVFX0ZDY20xWkpicV92emtPaHNqLUpsMVo1Q3hHQVdVRHZr?oc=5",
         "date": "2026-09-18T09:00:18+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "El efecto mariposa: un drone en Arabia amenaza con subir el precio de la nafta en Argentina y potencia a Vaca Muerta",
-        "description": "El efecto mariposa: un drone en Arabia amenaza con subir el precio de la nafta en Argentina y potencia a Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHVMVHNfTzZLUVBXYXNsVkgtZ2dLM0djRFoyV2E3TVBNLWJ4a05LLWtOcnNDVUNJYlRRNWtJbmtha0J6Wkk5Y3Q2ZVBMUmtUcXdpcVhNdzJ2SXdUQ0NQbXZ2OTEwcHNPazFCNVlfVURpcHJ4RzVDendVakVTeEJWc0o1QWlUU2x3VWpIeno2Q2laSW5IZ3dkMHlMeWYxdTFNTmNLMkFxSWlibDJ0TENLenpuWFl5ekxkUllMQzM1R3VqQk1haEFEVGRlNjhXc3RlNGQwSW9ESWpNdnRGOXNQMnE1NkRLRHfSAe8BQVVfeXFMTXh1dzNac1dIQUVNWXlpb2p5S2tUaU5fVEN3QXNDMDF5aTF4YzNKVDhmUHpkQnVlb2FscjUzVXgtR2ZEbkt2MGI2U0ZQbjNDZ1RkM1ZMbzBoX0VDWTcxQkUtN2dRQ2dxWHJGbm51bGNabWo1aWV3anZUZ0lIYzBjUXBHcENralFzNTBkV0tWWkNUVHV6RVJOTmtNLW5veTZrNUpRWHF1TlVTTGhvUUZGWFlZMzFmdC1JX2E2X0t3b28xOXA1UDROQkdsbmJ4a3pMaXZiQlJPNFJsUmZVcHBhOXRzeHJSMXByazRpMS12RzQ?oc=5",
-        "date": "2026-09-19T03:30:00+00:00",
-        "source": "Diario Río Negro"
       },
       {
         "title": "El pueblo detrás de la Copa Davis: entre el petróleo de Vaca Muerta y las calles de tierra",
@@ -198,11 +191,18 @@
         "source": "Ambito"
       },
       {
-        "title": "Rocca y Eurnekian construyen un nuevo gasoducto desde Vaca Muerta para exportar a Brasil",
-        "description": "Rocca y Eurnekian construyen un nuevo gasoducto desde Vaca Muerta para exportar a Brasil Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1dQS2RDNy14aGZDLWhtazlSWTJkZnFzcUtwY2kzYnQtQUNLOThfbGtRZjVXOWNoelJsRTBUamswOTB0ekNIYzc3aUlpM2ZpVXlXaTllVG91V2lScFlLaE54V1FFQkh2dHp0Q3pibE9fbldDZm9iU0hRS3p3QkRha205cUhEOG9SbGh6clRveDhFMjlQZHpKaFNPY21lNEJ3cnUxRzR3MnFUTnp4by0zM0NnYWRuN0wwNm5vMg?oc=5",
-        "date": "2026-09-17T13:20:56+00:00",
-        "source": "Clarin.com"
+        "title": "El efecto mariposa: un drone en Arabia amenaza con subir el precio de la nafta en Argentina y potencia a Vaca Muerta",
+        "description": "El efecto mariposa: un drone en Arabia amenaza con subir el precio de la nafta en Argentina y potencia a Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHVMVHNfTzZLUVBXYXNsVkgtZ2dLM0djRFoyV2E3TVBNLWJ4a05LLWtOcnNDVUNJYlRRNWtJbmtha0J6Wkk5Y3Q2ZVBMUmtUcXdpcVhNdzJ2SXdUQ0NQbXZ2OTEwcHNPazFCNVlfVURpcHJ4RzVDendVakVTeEJWc0o1QWlUU2x3VWpIeno2Q2laSW5IZ3dkMHlMeWYxdTFNTmNLMkFxSWlibDJ0TENLenpuWFl5ekxkUllMQzM1R3VqQk1haEFEVGRlNjhXc3RlNGQwSW9ESWpNdnRGOXNQMnE1NkRLRHfSAe8BQVVfeXFMTXh1dzNac1dIQUVNWXlpb2p5S2tUaU5fVEN3QXNDMDF5aTF4YzNKVDhmUHpkQnVlb2FscjUzVXgtR2ZEbkt2MGI2U0ZQbjNDZ1RkM1ZMbzBoX0VDWTcxQkUtN2dRQ2dxWHJGbm51bGNabWo1aWV3anZUZ0lIYzBjUXBHcENralFzNTBkV0tWWkNUVHV6RVJOTmtNLW5veTZrNUpRWHF1TlVTTGhvUUZGWFlZMzFmdC1JX2E2X0t3b28xOXA1UDROQkdsbmJ4a3pMaXZiQlJPNFJsUmZVcHBhOXRzeHJSMXByazRpMS12RzQ?oc=5",
+        "date": "2026-09-19T03:30:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Doble récord en Vaca Muerta: el pozo más rápido y otro de 5.700 metros de una sola corrida",
+        "description": "Doble récord en Vaca Muerta: el pozo más rápido y otro de 5.700 metros de una sola corrida Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVXVTejZTcmVCUjVYWTE0Y2lBZUtrRUlmMV8zX3M3dnlzVF9zNENrbzdPTGgta2hqMEhTcVRsYnNRV19GQUFSLTFBR3NuNGFibUxNSmYtdFJRSDVzWjFzNF8zMXVTRDBwQUlJa3NmVm5TcXJGcHJrRlhjUHVBSHk2bmZ0WVJjVlBKbGlmTENSMXhNaExtcUwxQ2pkZXZsanp3VlAwdURFelFWVzhwOG82T2lWMG80WlpCektHXzlKUVU3V2RkZFHSAcsBQVVfeXFMUHQ2SGw0XzJpekxLVUJLVVBxNlRsbVJZaFJaLXEzNkVSOXd0UWstYlBRemNxR3I5TkNrajg5WlVrazVzLVVvMTgybjNvQWtna05YYmw4NW5DTlhTUUJySVJFMU1yeHdHcHVWRF9QblFsRzFYa05VazRBU2ZYSDhnWHJxZlZWaXJ1ZE1hNnZCaXpvLVFWMHp1dzlCNW9HZmg4dWZla09JbWRiTFVzQjI2MDJaUmxLNWM0TFhjTWQ2RXF4cmpFMVRKdnpLTTA?oc=5",
+        "date": "2026-09-18T17:55:00+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
