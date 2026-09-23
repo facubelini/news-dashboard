@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-09-23T18:09:52Z",
+  "updated_at": "2026-09-23T21:57:40Z",
   "categories": {
     "Microsoft": [
       {
+        "title": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar",
+        "description": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWJOU0thQUc0UlRWNXBwUXpEMnh0TUdoNHk1M2JhZUIwWS1fcENXdVR0SXEyczB3OHJrbmRtRmdIYnJCZlpseDV4c3MtYXZoU3JENmFqQjBId1ZPdWxlX2J5dm1SSFVrSF9aRXNIQUFzOXFnVHA1aXBtdXhqWXRVa0syVXJpaGxBRnFhSnlDOTB0UmxTcnlLODM3UFF1T3ZIeGpSS0RVZDRYTHFYc19uampnd2VzVHE5azFhSlQwQklIVmNVUVIwU3NzRdIB0AFBVV95cUxQUFZkWjF2YXVhbVpsVy1IRHp2dWl0N1REdm85b1dCa1ZSRlRPWlpxbUlPa0RHWUhkOHJhd09jWlotaWdTVFExd05FWkZLQlJ3Zmd5QW9DRGJISzJrQ2ZGSC1BN0pzU0NkNWFxVDFvTGp5T2s1dnRNWEcxcnJianBNQmtSRWp4Qk5sdllrbC10aXZ2d2EwQXVyX0tlbzU0a0JydG8xYXBieDBYU1hkZkNFeTViY0tKN2QzQXo3YkpGYndwbWswWExxZTZURXZJSHNo?oc=5",
+        "date": "2026-09-23T14:01:02+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Microsoft desmanteló EvilTokens, la red de fraude con IA que vulneró 12.000 cuentas corporativas",
+        "description": "Microsoft desmanteló EvilTokens, la red de fraude con IA que vulneró 12.000 cuentas corporativas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR25IUkhXTU9jVmk2M0lyaWVkckpOamtiemZvQklsOENGWFlFSkQ0MkNIOVVwYWNTVmRaWE1JRVJORWlpZDZ3SEN4NEdDdU5sX2tKUldOTWFHMUV2WmswdjFMUjh1TWxMWXh0R0MtWVRFeHRHVWl0cHZVWklJMHJOaU9ReWtySnd5UTYzUk0wSGNac1lDRlpmQjhaVmNHckVyRlFoN25kZUV6blBFSkxZMnp6Mk5zRUVQMlVQZ1ppZGVYMnJ3QzBhMjQwZmdjWGJkbGfSAewBQVVfeXFMTjRWU1JRek5CVXdmdTJpeXJLQjhSR0dIRUhXdElKS0hpMTI5WTQzTDloU1FhU0IwZ3YtZ3pUVU5NcXlzbFBTbTQzWWw0OW9oWDVRV2JFeTYtWVhQdlRGbjA4UDd1ak1CWVhqSmR5ak9xWnhZOVJLZXhIMm5VLVVRd1VXUGxwcU5LZmhPZGxxZUFEUjhJM09EZHJOeENNTHVENGV0TUNXNHlFMkZYRDQ4Q29JSFl0b19pQ1lVSHN2ZElGbkdrVl9ObEdkRlpHUElzNTNnVGYyMXdZb2NGRTk0M01DNWJLYTBxU0RiSnc?oc=5",
+        "date": "2026-09-23T21:04:20+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "¿Qué pasa con la Inteligencia Artificial? La advertencia de Microsoft en su nuevo informe global",
+        "description": "¿Qué pasa con la Inteligencia Artificial? La advertencia de Microsoft en su nuevo informe global El Destape",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUJsaUdYWmM1UXlIMGpmSXZzZUZrOEhtZHVPMGlvSXJGRTZsZTdOODV2UEQtdW1mdFZqYkZ2RDRDNXg3RWVSd1lIOW5Nb0NwZkdXT0NVcmlCOTJ5c2h4YTY4RkY2RFRRYVNWT3hDWkdwaGpuX2J4SlFhVjFHaHd3WEU4VkVXYXlackdJajN5TUZvSUYzVzNTSVR5VW5Vc0NrNzFEZi01OUg2dW1MZHpVQTdZNkhtTDVxWV82TEcwck13aDTSAdcBQVVfeXFMUG1yOXRnb1lZbUdrUldsLTBCOGZSTExRbmxnU3lzWVM3S0NDMDRGQmpiaWNrTXJJUkxqX19oaWlYNHlyeXR0cGNBd09zSldYVmlmTTFUckttN21MWnppX2Y1bC1PSGxtejREb2VSVy1xLWpubFEtaTJ6bWR4WlF3TURUR2lDVThxZTJ3U19jQXpxaC1jUEk4eko5ZWozWTJTMVN2VE5uWE56S1plclhlbE52cjZ1QTFCTi1VTkNPMUJmV0gwcWZUVXJmR3FQS2ZFa0pmOFJFNDg?oc=5",
+        "date": "2026-09-23T20:51:26+00:00",
+        "source": "El Destape"
+      },
+      {
         "title": "Xbox anuncia una reestructuración histórica: Activision hará el próximo Halo y Microsoft se desprende de vario",
-        "description": "Xbox anuncia una reestructuración histórica: Activision hará el próximo Halo y Microsoft se desprende de vario as.com",
+        "description": "Xbox anuncia una reestructuración histórica: Activision hará el próximo Halo y Microsoft se desprende de vario Diario AS",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWjFWbGZ0VThlWHRGMmM1R1pSVUpTVGZwSktZc2JETWNiR3B4MzhFaVVWd0U0ajFCMzlnSWx6OWlIQjhPdFoydmtFOHJPNjUyak04Ul90dGxpdUVqaVVGamJlUEd0cmNFZ2pwNkFwcEc1b2wxRWItZVFuMDQybkx6SHhTWFMzZThXU3dYeXJWVU1ZT1piVjAxcVFRUjRXZHBhMlJhbXBkcWxERGtDVnJ0MHJKVExnYnlFOVJIWUJ4SmVpdjZucVpVRlBRVjZ0a1hKQnUzOXBqczZJMVE3czhqMDZSaHAtcTVaYXZaa2VDVExHMnhwb0dEcTl30gGOAkFVX3lxTE1ldHJBS2oyZ29yOERPZGVWSWRZNnVxVHlaZzYteXFqalhTdkJoaHlxSzA3cFBwdlc5dU1VaWV1YV9la3M0d2tNNjBtVF83aXJXVlZYOVZBOWp2Mi1uQTZvdlVzQVdpdHFFMzFNTkd0OS1iVVhlSTJGbG1rMElON1lFWlhPTHczV2xQX2kxdFMxSGxiVFhsUGlSU29WdUJXdGlKbFZJTUhDcGZoOFlfN1RyVmNNU3dHRzNfTmwtbjVLbm5ocWV5WFIwSUg0LUlYZmtiMFU4WXR1cHRIdVNGUnlPWDhCdUc4TjRxVHhpRVJQVDh4VTFiMkpBbzBlWnJiV0Rua3RDMHhRQWdhSkJoUQ?oc=5",
         "date": "2026-09-22T14:16:41+00:00",
-        "source": "as.com"
+        "source": "Diario AS"
       },
       {
         "title": "Microsoft acerca a Xbox una recompensa por completar todos los logros de un juego",
@@ -24,32 +45,11 @@
         "source": "Xataka"
       },
       {
-        "title": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar",
-        "description": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWJOU0thQUc0UlRWNXBwUXpEMnh0TUdoNHk1M2JhZUIwWS1fcENXdVR0SXEyczB3OHJrbmRtRmdIYnJCZlpseDV4c3MtYXZoU3JENmFqQjBId1ZPdWxlX2J5dm1SSFVrSF9aRXNIQUFzOXFnVHA1aXBtdXhqWXRVa0syVXJpaGxBRnFhSnlDOTB0UmxTcnlLODM3UFF1T3ZIeGpSS0RVZDRYTHFYc19uampnd2VzVHE5azFhSlQwQklIVmNVUVIwU3NzRdIB0AFBVV95cUxQUFZkWjF2YXVhbVpsVy1IRHp2dWl0N1REdm85b1dCa1ZSRlRPWlpxbUlPa0RHWUhkOHJhd09jWlotaWdTVFExd05FWkZLQlJ3Zmd5QW9DRGJISzJrQ2ZGSC1BN0pzU0NkNWFxVDFvTGp5T2s1dnRNWEcxcnJianBNQmtSRWp4Qk5sdllrbC10aXZ2d2EwQXVyX0tlbzU0a0JydG8xYXBieDBYU1hkZkNFeTViY0tKN2QzQXo3YkpGYndwbWswWExxZTZURXZJSHNo?oc=5",
-        "date": "2026-09-23T14:01:02+00:00",
-        "source": "Xataka"
-      },
-      {
         "title": "Stifel sube Microsoft a Compra y dice que el gigante tech \"retoma el rumbo\"",
         "description": "Stifel sube Microsoft a Compra y dice que el gigante tech \"retoma el rumbo\" Yahoo Finanzas",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUl9SNEptY3dUenJ6YWU4RzA4MUh1cWp2OUdWZHZwNGZaV0N4aWd4OVFzQ2J0V1ZDaGcyc3VoRi03aDZza2xEcXJzNzJVTG5jaDA1b1N5YXBkVmRmYmp2ZG9tME5vSUp2dEdFYTRHTjRIRmd4d0JHRW1ScjhINGpfb29GX2x1bDUzTlgyTHl4V1FOU1NKaDlaag?oc=5",
         "date": "2026-09-23T10:49:08+00:00",
         "source": "Yahoo Finanzas"
-      },
-      {
-        "title": "Alto ejecutivo de Microsoft calificó al rastreo de los modelos de IA como “el mayor robo de mano de obra en la...",
-        "description": "Alto ejecutivo de Microsoft calificó al rastreo de los modelos de IA como “el mayor robo de mano de obra en la... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeV9CWTZfZ3F6M0R1ZmFaeEh2MVp5dmFvczNUdlFGUWpKTXBERkN6TV9WTHk2aDhyOG8xQ0I2RWNVdS1JcUszM0k2U3I4bERWdFZhZ005UDQxOXBXaGZMc2tYck5HYVAxNlI2RlExdlR0LWRmZFVhZkxUcWpaczBZa042WlBFQjVUbzIxbkNEZXdxeEpmSDdmRkxQMFlqbXNqYnU0eXhDaDZhOHgwc2lPRmVTSlJPSU1HUDVENDlGUDJma0l1YXpnTkRHaWsyWGRyUWVUdl9TRDFJNDRQUTNueExlY05qQzZNZVAxUW9paTlTb3BleURORFM1eno3UVdERVNiWEpTUF9QWHNQaVpTOE5lejXSAZoCQVVfeXFMTmVHMy1rbDNSbl9RM0FLMUNTQWtYRy1aY21BaVhDS2pLLXlCa1I4Wm5JOVlHSGNmazVtQ1QwLVdwdGxCbk44eFh5YmdtYmhuRmlDekFGdEc2dlV1UGdhRU1URjRmcE8zS1ZGdmRrRV9tMXEtMG4wZjMwX2t5aG9KclR6Wk52cnA4WG44cS1idTVmRERJR3dsQ2NFUDgzNmhpa0dkZmJONzVybWFXTDZGcU1RSDI0Wjl4UUZrdnhVX2didmp0OVp0VEc5YUZGYkpYTmw3bFJya0V6c1ZHYXZHd2x3MVIwMWpGLW9pMVVZU05Fc1NRNU9UQXNkaVpTUE1VS0lQVTBhYUtCSTVyNGQ3dkxTdGRrQnYtTmRB?oc=5",
-        "date": "2026-09-23T16:30:00+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Microsoft lanza actualización de Windows 11 sabiendo que da problemas con ciertos juegos",
-        "description": "Microsoft lanza actualización de Windows 11 sabiendo que da problemas con ciertos juegos MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSVNrRUZUWW8xVjY2VGlfNll1WFZjQkRyUmxYdDFRNG82bFFRbjdhUjVJZDVJXzBPVDRVUUpZbWRRYkVuWERRWjZUaEFEOVhFOUhVd0ZzdmY0UzU1anZDc25ZdVhkN0JyVlFZSDBQM2hpRHcwVGMzblFaRFkyYkNteW5CdklSRkV4aXB3NDNXX2IwVEZGUGFWekxfa2Y2Rk40ZV92cVNET3FkUkxiM2g2Z0pZTHFyQk1xRkJtbFFtYnQ0eFV5SzQ4?oc=5",
-        "date": "2026-09-23T12:06:28+00:00",
-        "source": "MuyComputer"
       }
     ],
     "Marketing": [
@@ -61,18 +61,25 @@
         "source": "PRENSA GOBIERNO DE MENDOZA"
       },
       {
+        "title": "Aleph ofrece más de 60 cursos gratis para aprender IA, marketing digital y nuevas habilidades",
+        "description": "Aleph ofrece más de 60 cursos gratis para aprender IA, marketing digital y nuevas habilidades Fortuna web",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWkdsZXVINkZMXzdOVmUyRVJ2T0J0VXFxNEMtejdLQWJPVEsyTFZoQ2FmRXQ4UmlJaXdhb29VWjREcXllNXRaVVlJQmZscF8xUG4taFJ6al9KTFdtUmREZml0TVdhNXFocHFURkZnY2d6Vk1YVUJRUmpEbjU3U3EzUlp4R054Sm5CeG1PTFNBeW41SzBVWHoxUGN3MERhVDBvQnc4N0ZvNzBZX3lfREF0S29sbkNIeVN6aTRJWm13bHgtdGRYN1NxVlpzQnpFWVNjU1pfbW5vcG9Id3Vy0gHiAUFVX3lxTE9jb2I3anBPbUZlZ2pib2hveDI0VXVBUHByNGtOQ0JmdnhZbUhuM0s2Tlg0UkxXOUZoSzRvVDdiTHY4Vnh5UlRmbGlLZ2YtRC1IYUlVQklJcHpYUFh0RlRTd0I5a3QyRklxaWU1TVB2Sk5FZ1NYUWR1V1ZqSzVGVzJhWVRjcy1fZVlfZ0swWXVNcWdWRXR6bGpLcFN1eHd0Y1pTNmpoVEMxalpJQkd2MU04RE9TcHNsZm1RcVZJZmx6a1F4OUk2SlROMmpqT29oa2w1NE5ueHZDUU1RLUs1bllHWmc?oc=5",
+        "date": "2026-09-23T19:08:51+00:00",
+        "source": "Fortuna web"
+      },
+      {
         "title": "Nueva capacitación gratuita para emprendedores sobre marketing digital y comercio electrónico",
-        "description": "Nueva capacitación gratuita para emprendedores sobre marketing digital y comercio electrónico Noticias Monte Hermoso",
+        "description": "Nueva capacitación gratuita para emprendedores sobre marketing digital y comercio electrónico noticiasmontehermoso.com.ar",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbGgtbkJwd1JXZEp3ZGRuWG5jWXNZcFZkN2hUejVhMU43U0ZLakRpNlBHLU1wTHpoQ3doUVlBY1BqblFZTmdWTG8tSjZJUjNWTTFwRnBjYUNMU1JGV0dCLVY1dkF1bDZkclpUdjhHSEx0Sk14dHktOG41bTRIUkFBT3RPdUtDZGpLOTA4WUUzMnhVYlp1WHhPSkczdkJpM29VZ3B6SU9rQm5zS2NBbWxTSDVndTFXdmpLMDRxUFZTa0w3YkFkOEJ0MHBJRFNtc0k?oc=5",
         "date": "2026-09-23T10:53:07+00:00",
-        "source": "Noticias Monte Hermoso"
+        "source": "noticiasmontehermoso.com.ar"
       },
       {
         "title": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital",
-        "description": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital El Ancasti",
+        "description": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital elancasti.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcGdKMFd4MnBMN1d2LUFYWHc0SXJJZ0ozSFR2MmZFdEhidXFfOV82TmtISDJ5cS00NHFib1EwY1h4M0t6ZVJiQ182OU5aMTNhLTA5dFZjWldBS0FDR05YNmNfOHRzODkydmQ0dFRfc3NSblVucHVhY2FOV04wTlBMWGVibDVkdHNOYXlZdVU3eFg4TDFSZzNOakMwU21PWDhWOVV2QmZQYUpTLWJQOFB6QmlGYzhiWWRqYV9QSm1VYy1LZTVjOUtiRFN0T204TUppUFRCOTlNQUZkX19CUVlQckJPOXRCbkVwRU1EdXZrVm1LcGlIMlHSAfsBQVVfeXFMT0tpUl9CWS1FdWRQUjREVzNjcko0RTFtNURXNUdLOUhlWU8wM3VOVlpvT05ta3k1VlNyaGFfMUxtU1dLaFdudjE5QU81azhNNjc5dkt0dWhzOG1MSWZpcHFZcFcteXlvT2JpNjZJb1I4MXZ4X0VHUHZFMFNhWHE0Sms0c2M4OFRWREYyZmswOEhDWEJWaGRWRThtYkFVclhMVkZ0TTFubkxhUXlMc3Rma25heHczRlhZNWgydWM1TWR4aWgtV2FNejBaZVJ4SFdnV0M2S0EtX2NFRmZFTnVzR2lMbXVIRXN4dmlpa2xDYjdyaHZFOTBZcDc0enc?oc=5",
         "date": "2026-09-23T13:36:36+00:00",
-        "source": "El Ancasti"
+        "source": "elancasti.com.ar"
       },
       {
         "title": "Impulsa reunió a 500 emprendedores para aprender sobre IA y ventas - Diario Inforama",
@@ -94,16 +101,30 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ1JJNzFlZ0dsbU5nQW55emp0VkVwSWJMSE1PSVJkZWNrdnE5cjFJRHBTVmVObmRvTFJoTmkwOGlUb19INGhpOVBBOE1QT0JFN2xUeVUzQUszTXpJUUpBX1JENW1QN0dJSENCdzNTcE1nR1FjY25QZU11YkRDVFJSNWYzVGtUaTlBME16WDNvdXZRMHZHWVFwOFViZVd0Z3FXS180MUFHaWVQTDRaLXhKUHpwb0Uzd0RsT1phWjdpWDJMUGJZOEtVTUVlRkg0eVBKWG1HWGVOS0pJMmp2ak5TNQ?oc=5",
         "date": "2026-09-22T14:46:25+00:00",
         "source": "El Esquiu"
-      },
-      {
-        "title": "Doppler presenta el EMMS 2026 con foco en los agentes de IA en el marketing digital",
-        "description": "Doppler presenta el EMMS 2026 con foco en los agentes de IA en el marketing digital TotalMedios",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjl5aEJ5QkFFV0dQdmdnR2trV05NNklfZGhJMUZtUDg4amZ5Ty1VZ3hSZU9xTmx0a0xWaENBRFFDNnZ6eUpzMDBNOGo1NUowYVhTWDAwWjh4bGRSOF8teUlCajhKTVNRckxVVF9mQzZCN2xjUEUyeE1XNXdPdENjSlNKckRURFh3OXRhQnh4Wll2NzFwQmltVDNiRGZVbXRCTVI4cDJRUmZIekpjSlR5Mi1UUVRHQnRfeXBVM1hEaw?oc=5",
-        "date": "2026-09-18T03:00:00+00:00",
-        "source": "TotalMedios"
       }
     ],
     "IA": [
+      {
+        "title": "La polémica en Francia por el escritor al que acusan de haber escrito con IA su premiada novela",
+        "description": "La polémica en Francia por el escritor al que acusan de haber escrito con IA su premiada novela BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZG9RdWlqZ1RNX0dCc1NLT0FDZkJEZ3ZEdDR2VUtTRjB1bndGRGFWV2I3MUtLYzd0NW9hWS01LWhoNnpMSjRFN3U3VkNaT29CbGtSS2JLT0piYUFj?oc=5",
+        "date": "2026-09-23T21:33:45+00:00",
+        "source": "BBC"
+      },
+      {
+        "title": "Mientras Trump y Milei se niegan a las regulaciones de la IA, los líderes tecnológicos advierten en la ONU: \"Podemos perder el control del futuro\"",
+        "description": "Mientras Trump y Milei se niegan a las regulaciones de la IA, los líderes tecnológicos advierten en la ONU: \"Podemos perder el control del futuro\" Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLUVkMldqbkdvUjRKZDlLSVNFQ255VGNGY1UzZTFybDZsTHF5eUtoQ3JubFBZS2Vuc3VsbEFVMzRja0ZKQnkyT0Y1QUs3b3J5VUJ2MWlsMTJmM2hJeTZISlBSc0NTbEJUc0lWaFFNV0ZsMlY1U2N3X05WeHp3WXZuZWxSdnhkMGQ0UHRkemZ1YUNNREZJWkNoTll5NVlzMTJ2SnNReXZVX0hNcTI3OFZfOFgtRzg0blVLU3NqdmhOYUZPcU1UNG4tcHZJdTRFSkZhUzhDSEFPalhjd2IzMUZKMUdsdw?oc=5",
+        "date": "2026-09-23T21:19:33+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Los líderes de OpenAI y Anthropic alertaron a la ONU por el riesgo de perder el control de la IA",
+        "description": "Los líderes de OpenAI y Anthropic alertaron a la ONU por el riesgo de perder el control de la IA La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzBhOUhPRE5uSk5qRjc4VkZQVHU4U2J1Yjg1a1NvOTFiR3BmYzJjTGt4TWpvazdnMmtDUU1RbDJzNGJtMlpDRVFWR1doV01hM2JZVWhXVkw5dU1Ndmx0UHBIcU0ybDIwY2dPLWx4T3F3aFZEM3gxbkZnamdrM0t5UkVfRW4tNzFzaW5ad0g2UG1idHhjS3JsQmJDYnFWYWVpOElBOFNzRHJwSFVCX29vS3BR?oc=5",
+        "date": "2026-09-23T21:40:12+00:00",
+        "source": "La Voz del Interior"
+      },
       {
         "title": "Malvinas, Trump, Israel e Inteligencia Artificial: las principales frases del discurso de Milei",
         "description": "Malvinas, Trump, Israel e Inteligencia Artificial: las principales frases del discurso de Milei Página|12",
@@ -112,39 +133,18 @@
         "source": "Página|12"
       },
       {
-        "title": "Las 15 frases más destacadas de Milei en la ONU: críticas a la organización, Malvinas, Occidente y la intelige...",
-        "description": "Las 15 frases más destacadas de Milei en la ONU: críticas a la organización, Malvinas, Occidente y la intelige... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONElDMl84a3F6UFotSlE0TFpmWkJBSHJ0aFBZTUI4eE1MeGdERHhyb29wSDBUNy1vT1RPZUE3bGF2c3k1a3Q0Wkh6TTVhVGt0cVRwY3NPUTEtTEsyWFppNl8xSFpxRHJLbHRFeGxqbm1lc09wRlQ3SkUyalJKTHg1ZTFJS1NLNEFZTndiaHF5MGxIblBLeHhkRTNTbUh4RUFuUU1EeDhtRjFlVjJGVmd6UUVkdFpGNFVFZWtxWGN1ZG9DdERPLXJNQ1c5WU40S2lQM09fc093YnJxSlF4bzFlYUwwb0VLY05lcnBXc1A2Q0ZoSENEMHJHbVp6NlNDd9IBgwJBVV95cUxPd2dqdTJtcUx0cmpGZkpISkxmYmQzRnRMN2lCV01ENGhlak1iWUxLaUVWRUNPblJSZlFkMUpRY3VHUWV4dFJQd05sY2dIaVZtUENXbzdvcXhlOTlFVi1aX0Z2MjFNbzlJLUNfYldXQUJETFh6RE5SSjh6cmVsMTRTTXhELVF3YlJhWkk4MUw0REI4UDY4OTVJa1djUWgzMDV6YVhrZnIzNEczeDBxOXZwUU4xalJuZHhNRDNnSXM1LTcxRzRtNWxDemJWWjh3ZEJYdldVbVdURm82N25wNUFFWWk3dUFRbnBxbnlkbU83VzhKc210dGNEd3VGclc2MEZSbnYw?oc=5",
-        "date": "2026-09-23T16:12:43+00:00",
+        "title": "Reclamo por Malvinas y defensa de la Inteligencia Artificial: los temas sobre los que Milei hablará en la Asamblea General de la ONU - TN",
+        "description": "Reclamo por Malvinas y defensa de la Inteligencia Artificial: los temas sobre los que Milei hablará en la Asamblea General de la ONU TN",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeHdMRE5zaS1WQUJSLUszc2VkQVJxTWlYMmxTYlp3dVhLUEpiWDVHWUI3TTlKWHNVdmh4VEZGdWcyNlpfTUR1Zlh2MGE4dm9xUlpvWC0yajFIeDVhSVBhalRHN215dmF0SU9zUGcwMHlMN1JXMUdUMDRCQ09faE5rTkoxSUFJbk5UZFRkQnhGelFvSWFwa1o3RlRVVlhwTzllUGZoNl9fOTJzYmVVWnliY2dwemFUeVUybFBfYzBnd2xYVWVSZGpPZHFKRUJpNjNSTjJ0Z25fQ3ZxWG1EWFp1cFpsbWZNLVhhbnpQMUk3MnrSAYQCQVVfeXFMUFlTOXEyeU9VdTdTdTdWbGgzcGlxd1NjeTBuZTVWc25BM1VnQk4xM2tJTUJfZVA5c0YzNHRUdmhqOTh5LVF4TldLbDk4X1FCd1hWd3FZOFFncXdNd3RxbXI3Q19yVnhtRmkxR0ktS3BNcGRod0pvREFiYUQyMTY1OTdBYVNfVEhaSHhEajhLTTVKQURfUjBvcDFoUjBiOUZVX1ZVQm1XRWtKTm5HYlZtbFFaTkVmNlIxUVBMTjRpUTdvMFc5bVVUT1pwZUVVS2lETkpuWDBWa242Y0dJdV84UG03Q1dzRG9NX2pfaktOcHBDMWhGN082TUxFN0RSdHBoVVFVWkQ?oc=5",
+        "date": "2026-09-22T09:12:00+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "Milei cuestionó los controles a la IA mientras la ONU debate cómo regular sus riesgos",
+        "description": "Milei cuestionó los controles a la IA mientras la ONU debate cómo regular sus riesgos Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVBrUDBjcC1xd3lYN05LVk5aUHktZlRhd3czVElTenNkMzdMLWZsOHhqQ1dZVWlpelR3UEpLR0VtNXNoS2xSVmE0YVl0Sjd3NEk2WHFVMDlvQklrRlZYUWRVeExqbTN5TF9zeVZINVE1Q1RwTGVOZTg3MHdMcEpMWGFtN0RZUFg0TU9iX3BKUkxSVnZ4OV9BSU1ZZGpYV1Zndm5ZcFBnMVVVVkxjejFfQmY1QmhIeHBMazZPTGZEQnkwQdIBxwFBVV95cUxNTk5zNGczZmtYZFpody1lZTNGSWFOU3JzdEd5UVoyamZtQlMtM2lwWWJwSElWQ253bEF5YVR0aVBtWW9pT09IX1NLOGZySEJFVjlMMmNTQVFPRUVEZU96MXJUN3FYMXhxc2IwZHpGZXVFMkF3YzlSWV9HbkNRcElXVk1va0hRRXJLZlJTU1puWEhha0tsc1ZCVXh3MnNzejZBTHVXUk9jVm9lZExQMFFPR3F1cUpSWHpfTWNyNG93bDJGQU9TWHZF?oc=5",
+        "date": "2026-09-23T20:40:50+00:00",
         "source": "Perfil"
-      },
-      {
-        "title": "Malvinas, Inteligencia Artificial y críticas a la ONU y la agenda 2030: el discurso completo de Javir Milei en las Naciones Unidas",
-        "description": "Malvinas, Inteligencia Artificial y críticas a la ONU y la agenda 2030: el discurso completo de Javir Milei en las Naciones Unidas Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQzJ1ZU5sZDh2U1RPVEJ3RTJSRFkyeVEwNDIza01ORndxR1M2YXRYUFkwenFBUExRM0JJbnY0NnRTRnl0N253NjItbVV1UG1BeTZwSENaRVhfY3FHMVRFcWRPY2FaRkx0ZzlMVV85Xy1MMVVyaHV2SkllYnVkbXRibE1KUG43ZWpQbHd1TURMVzFfeng1VXlzRjJMZ0dIbmFxY0oxSWNHWlJTemh4RXdpS2dEMlpaQlY0Tk5oenZxTUVGdUZIRzhLTFRyTExadlFOQ2xCWlZBTm1ydFVLZmgxNjByaWY5cXhr?oc=5",
-        "date": "2026-09-23T17:45:25+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "¿Qué piensa León XIV sobre la inteligencia artificial? Las definiciones del Papa sobre una tecnología que cambia el mundo",
-        "description": "¿Qué piensa León XIV sobre la inteligencia artificial? Las definiciones del Papa sobre una tecnología que cambia el mundo La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzlQODF3VWs0ZFBDSC1URzEzU3g5NkxBbV9IS1I4T3RSaktOMGpyMWo1aG9hZE9BMVpGVmFfWDZXYnVYb1ZhakloRE9pWVQ4UFhDbTUyS09Vck03R1Q5TjEyM2RITC1qWkJWS19xV2owd0xvdHVjWU1HWGEzVTdhM0R5c054ejI2Y1ZLZXRrRTkzMlBPYjFkLVlYRXRLdC14T2NqemRBNFV5WkEwLXpiUHpMYzRETzVtOV8xLWlYUVBmZkdhS1E1WTRn?oc=5",
-        "date": "2026-09-23T17:45:02+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "La inteligencia artificial la confundió en un video viral en Ceuta y sufrió amenazas de muerte: \"Arengaban a que me violen y tiren al mar\"",
-        "description": "La inteligencia artificial la confundió en un video viral en Ceuta y sufrió amenazas de muerte: \"Arengaban a que me violen y tiren al mar\" Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNa3ExRzNpa2UyNjR2RGNTRWtuVkI0TXRCRU5XZEl2Ql80a2FYWGNublpxcTBXNjR3Um1XcVE1N2g4RlN4MlM5SFp3b3F0WHlkWDllOElpaXRzZlFiNnJjSWlkMXk5S1N0RUU0aXNYMDk2bnpMNkd1dWhpNl9HVUtvNVlWZU4yelUtZWoxNnlYS0k2OWRybFo5Nk0wc3V4cEFvMllCUmJ1LTQ3T0JYelc2VlRxT3V5MFkybm9XaENCa0FiZGdRYmszbGprRlh0bXdsTU1hU0t5d1BkMzVWZjNlenNmSnlQdw?oc=5",
-        "date": "2026-09-22T09:01:12+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "“Lo escribí con las tripas y el corazón”: el autor que arrasa en Francia y enfrenta sospechas de haber creado su novela con inteligencia artificial",
-        "description": "“Lo escribí con las tripas y el corazón”: el autor que arrasa en Francia y enfrenta sospechas de haber creado su novela con inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZmhHTzkxZWxYcTZHcVNfcjdoQVhkOW1DZ05lNzVUajRXWXpvLXRRNlU3bE0wYmNnY0l6Y05yZHUxSjhBOGxhcE9lbm14SGVqTjJfelJrYllDT3JTRGNJYlZrd2d1YzVpSHdRZHEyR1pGQnhwVE5zbEJ2SlE4MjRTNzduenBoQnFHUERqY08tLUxTNWNwOEpDODdRWVByYmpVZnEwTkI0MFA5QmE5YzA5dlBRNlc5NkFmeEMwZzRZVVNpVXdBWGhFeDhWVjlUVjU1bi1sdk9GNDM0aGRkanlLdkpLaXpTeTNLR2JuMmsySTN2c0ZkeW16SGRBNUM1b1pIYXdnVmJKWlAyZlRKMEdyYnpVcjhpLVnSAbICQVVfeXFMTV80amluOVdYQ1B4V01TZEFyNXRlaHN1bTVUX3ZYRng2WXhvd2lVWW5vVXFRS1dxWHktMzZtdGtaeFExSVBycXZfcG1HTU9KSEdadThoQWFwLUFWY19yY052M2hvS2VndDZkTmdMWlZYb3NRdDd5VVFGREgxcTNLUUJnQjI0U2IzN2pzOE1EemtFYXdlRzZjeHVlQkFhODZ4U1ktY3l1SnVmNHJfMUM3QkN2U2xST3hQMVBKd1pfMlY1LVZxYVNVTjFaOHBrNXo2YVdkNmxRWXl6SkkxaUtLb3pwOFFCZk4yWTdEQ1d2Rm5Jd3pNeVN2dlRpWWRiS2FUV29tOVphR0p1ZHJoYm1ydXNhN3U0UVJFaEZOUTVxNGR1WnhMT0JnalFCWG4za2MyM2VR?oc=5",
-        "date": "2026-09-23T13:59:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Especialistas responden si conviene pagar una inteligencia artificial",
@@ -163,46 +163,46 @@
         "source": "El Economista - Últimas noticias económicas y financieras"
       },
       {
-        "title": "El dominio de Vaca Muerta: Neuquén superó los 685 mil barriles de petróleo",
-        "description": "El dominio de Vaca Muerta: Neuquén superó los 685 mil barriles de petróleo Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0wxa0NlNmhkMUlYRFlGczE3d3BwdUZjUlZCUmFZdmFaaWRJU3I5S0RMMF91VWxObEYyeHJvejkyUExRVFhBVmxIWmdyakpIS3FOdU56M095dDlwNXJYMmwtbUFZLTlXa0dCRXBZUWhVRmpUUlRGY3JhU01tbzlrRzZUQnhlRGgyZ1F5bXA1aFd3ckdCUjJBanYxaExNSXFyT2QybVpzaFFoV0ZaVlJDM1dsSW7SAboBQVVfeXFMT25ldFZyZG5KZUxfOTFHLWFyVEVNbC0wWWdFemdEMEVMZlg2b19rTnZKRjR4U3V4MnNCLVNscG95MXNDR19sNFUxdUNEdWZZdXNUN2xPakZ2Q25KRk1MSjVVbVBfVEFGYU9CMTVpbkRwaEJEOV9zNnBCa3hweXhGMm5pQmtFTkNKeWozQ2FGVXpXNVAyWG5rY01YNEpONGI4VEk3YlVXOTFPbUxwZ2tNbmc5QXVJdDZ0MDhR?oc=5",
-        "date": "2026-09-22T18:28:15+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Récord histórico de producción de petróleo: las cinco áreas de Vaca Muerta que explicaron el hito",
-        "description": "Récord histórico de producción de petróleo: las cinco áreas de Vaca Muerta que explicaron el hito Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0pVeDA3a2JGX2dWNlZnTWZzRWt1SklLWjlsRVFNT2ZobEw2ejFsRFVsMFgxc2luQ3hEdkpRY1pFc3paV2JGQ1VzMjFoWThvQkVXVV9RaGdZUTF2ZXhBeTY1eXBYaktaV2ZZQUVBaGlPVERIRGZGXzRWTVJIMGJkMU1ZMEZnci1NbVhrejR2Vzh1aWNRNmNaVnBpbUt6Um43d0hwanJQNk0tM2pSU3hZNmJWaUF5dEt2OUVwSU92YUszcG5zclc5c3AwYmZLOWl3V284cjdTYTHSAeABQVVfeXFMT1lVeE9NejlxR0lNUjYydHg0aS1OVlZwNjNEcThaY19lQjMxTjM3SFFVR3NNWHhTYUlER2hDVDFZMThhRWkyVmdhZGNvck11OS13Y0NjOURQMUtHeWlHb2R5ODZMVTBFaEoyWVVia1dnZndUV0JSanQzV1g5V0JBTEZleFJiWHBLcG5EVGlqaGpaU0NQMF96S0RSOEJjTGVvWUxrMnhmcE80QmZubU9nMEQzcWU2QnlxSXJVZVVpM2FaN2FXdzdJdVRKUWtCUlRpc3RRZkZoZGhmZERrSUxjX3U?oc=5",
-        "date": "2026-09-23T15:04:03+00:00",
+        "title": "Paula Iglesia Llanos, la geóloga roquense que descifró los secretos de Vaca Muerta",
+        "description": "Paula Iglesia Llanos, la geóloga roquense que descifró los secretos de Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2N0UWhLeDhWbExNeFR1NlFSa2Q2MGwzYjdWQ2VQQXZKQkRGWFh0aEpqcHd6bEFDSi1ObUlkSnFVQy1yeU0wYkw3ZWFqeE93dkllMkFjSWRMVnppSXNrcWRoNXJwWUtHR05ZczNWbW1rck9ZVjVyLV83TFJHa1Y1QlFZaFdZZm1LZ1ZTZlc2MEJUSU8tTC1VN2dhX0hsNnVtVVYzd2QyVEVrQndXaGFET25pcDI1UHVwNjNBLWln0gHGAUFVX3lxTE9Fb0hYNDJhbi1uTTVCNGIyZVp2TFo1LXY3UGRwaWtXTV9VVkhTbnJnZUNMRjJpMGhuYld5bHR2cm45Umx2R21ucmlsX2xJUDI4NDVwNkNYbjZSODR3eGlpdW02c1Vxdzd4Q1RWZFYyVW1TLWNpZl85S2xya2lfTkNOY0NZOWZuUmVPdGxlVHFnbHVlZkR4RENKM29zWmlEODFNd05HVFAtOVFHZTlIM2J0NXc1XzBmT1A0STdZbmhBanFMemFzdw?oc=5",
+        "date": "2026-09-22T03:02:00+00:00",
         "source": "Diario Río Negro"
       },
       {
-        "title": "Por Vaca Muerta, la producción total de petróleo alcanzó nuevo récord histórico",
-        "description": "Por Vaca Muerta, la producción total de petróleo alcanzó nuevo récord histórico iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjlEV1FLRHRYSE9ZcmxyRjlRWkNrZWJxUDZSTDVwY0pBeFRfajhJUmctSjAzRzdlQk1IYWNhSFM2ZGQ2T0NOVDRpVE1qcXo0NF9MM2ZiU3BqaUsyU1Z6a0FHWTRPd0VPLV9EZFlMLS1vZmwxQm9mNGdGcTNQUXNMQjNUOTY5SUpjS1JoR3VhbmhQSVM1Y0lRbFkwRFpqaW5WZU1vWTJyakxCUlItMFMtUndvOW81RVptbzNnMXNVMNIBxAFBVV95cUxPaXpqbXozUGhlbk10dnc2ZUZYQUlnakJFOHpHU0ZaUkFseU1zMFdwSDRueW5ZS21HUlM3dnk1YWktTEtNUFVveDd2QTBnendxS0g1TkxNRlBRZ21tWVUxQTJMdm9GNGlOcy1mUW1LSEM3U04waW1jNWRKaW5XR1lOWFpqeTRId0F1c21HTWlPLWV2VjE4VDdvLXNEVlNFcmZZU2R3RFZjVDJJZWZDdk94Um1wV3JYcVlKTWh6MjJ3aXBRc1JH?oc=5",
-        "date": "2026-09-22T13:56:00+00:00",
-        "source": "iProfesional"
+        "title": "Brasil realizará su primera subasta de gas natural para las industrias y mira a Vaca Muerta para suministros de largo plazo",
+        "description": "Brasil realizará su primera subasta de gas natural para las industrias y mira a Vaca Muerta para suministros de largo plazo econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeWpXc05RTFBmZV94OG85RWNyOGNPdDI5VUFQeDRUTUtIeFhweklnek5FcEJwcVlKcG1jTml6clRCdll1QlJBNUh1SHpINmtyOXZ1MFZCY0lfYXk1dWRLbkpTM3B6VkZPdG9vVFhUTHFpaDhtdXd4TG40aU9ENjBySjVUNWRUVjF3bU1WaUhmclhYbW5TNldqYmM1d0pPODdMcF92bzYyeEVPWHhrLTkwRXQ4SXRpUzc4dlRwT282Z2RDTWtmYzVDajBpbkY2aVBKaENXd0EyUUhSakM2VmpUeGtzS3R6cTlqNDBYT3lhR2M?oc=5",
+        "date": "2026-09-23T18:05:33+00:00",
+        "source": "econojournal.com.ar"
       },
       {
-        "title": "El instituto que entrena para trabajar en Vaca Muerta: cómo son las prácticas en un pozo escuela",
-        "description": "El instituto que entrena para trabajar en Vaca Muerta: cómo son las prácticas en un pozo escuela Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbkgyWE1TVjA5QWVmWkdTQmNEOW55TGo2VHd1U0g0bUU1V3d6QloxVUhGQ0ZZV0JoOWRJeG9kMVpiSXdlR2tHZEdaU2o4WW5qcnhIMWZDYVFMb2I2ZFZDYXN2MzdHN0NPYnpOZm96MUliaEZVazF3SUIwY19sUURKeG5zUVFEWUhlcHd0d3pqV0ZtRGxjcUw3bzBZd1ZKQm9rd1JyQU5xZ0xhdkc0c1RQRnZWS0lxYk5LV2E3MGxvcVJTb29lR194VnUyenTSAdIBQVVfeXFMTllXRXU5d09lUjZIWkZHWHdEejBVT1Q3VWRISHlBV2lNbGtXYl9OQjI3YmxZNzRCTFNuZ1BzRUdWeExBMjhrUWxEOXo2X0pEWFJKN0JZSVZjOWhMQTNuLVdGSzNucy1VVHJwQjI2VHViM3ZOcFRGN1BFNW5aUnJXTjlreUJaeXVPR3Q2UkZrUmV5UEQ1anhMbnk1RkZDdDR6bEpKVDI3RktkMzVyLURTR2h0RUkzUlI3OWhzOUd4U3dFdEswVktqT0lLZUROemlaTFhR?oc=5",
-        "date": "2026-09-23T16:01:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "El tren: la apuesta de escala para descomprimir la \"ruta de la arena\" de Vaca Muerta",
+        "description": "El tren: la apuesta de escala para descomprimir la \"ruta de la arena\" de Vaca Muerta mase.lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblNuVXNjbXNoZFhkcVh1LXNnTEZoclF2ZzF3UUVtYTlqM1FsQmtHUGlSUDBTUkl5RDdueVptNnRKb0g1b3otaXFKZkxiLTBGdklLRV9Yc0hGU0d6ZzJpQ0YzX1FVcHpNYkx0cXRsQXJ1QWNlSDBjYmFkYjB0SmliZ1B0dEVkRm00azRCLUdNaWtjVnNPVGE3WG1kVTE2WGZoZG85cmcxN0NvaTg3R3I2ekdwNUNid9IBuwFBVV95cUxQc3pMdlcxTzE0VVo3RnJxWS1ERjdvdWtxSThTVktGcFF6U0NoMjNEWk9OelY0Zy1SbThlQklaeHZPUXZXOGIyQTdibjFLNllYcXZ4b0g5aDJqTWF5YUZ5UWRRUW0wZ2RHS1FOSXZ3ZE0yc1VJUDVNRHJqV0pGWk1BOXJUQ2NDRFRKNUhWOGxQRDRVMFg0MlVwSnVHQ3ZHb0tiLUlrYkN4VUxHZU9KUE9UR0dwRTJINEhwNXlr?oc=5",
+        "date": "2026-09-23T14:26:00+00:00",
+        "source": "mase.lmneuquen.com"
       },
       {
-        "title": "Milei destacó el potencial de Vaca Muerta ante la ONU y les hizo un pedido a los empresarios: “Vengan, inviertan” - TN",
-        "description": "Milei destacó el potencial de Vaca Muerta ante la ONU y les hizo un pedido a los empresarios: “Vengan, inviertan” TN",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVlFJTkJMWWc1MW1uVi05ODltcHF2NWRKMTczM0VHX0huTVZvNld5TGZGNl9nQXBnQ0M5dUlpLUJoWkJGNVQ0ZTRpR3hHb3p0YUFWcXk2YnRzcFV1S3hnNDRQM2JZRGhyZDlwZnVYTXRRc1ZoSVRBRlREY05TM0JYLTNRRWFZVHV2LWtfb05WZ0hQLUdlSDRncWw4YkVjN0dKX0hzWjhkUC1sLUNfcUhyWXlwLXNNNEUtbWtGVk0xTmxYYU9zcWREZ0VzOGJLWmJWY3pwZnBfUG1lNWJOdEhBNnB30gH2AUFVX3lxTE15dk5uQV9oOFdHcWMyckl0ZkM3YjV0VDMzX1p4c05MOXg4dWtpcHpTUVZIZklXOXNzT2QxUFpNMG1UdjFNd0hWNHNMLWhxajVuZk5iTEVVUTdYNURQeVlpcUthb01zVTJZMG4zVjBMV1pfN1FLVEZYRDRfT014alpOS08tZ09wSzdMcDhULTNrem5FTkEydFVZTkRJRkFVZnhzaWtlUWw4dFdXU2ZjUU9STVJfbzdpQmZoTkxERnF2Smg1ZlpfcEJCd1c3U1l4cDVGamd6ZW9Ca094Z2N0b0VBS01xdmgxRy11eklJZFVCbEs3VUpQUQ?oc=5",
-        "date": "2026-09-23T17:00:36+00:00",
-        "source": "TN"
+        "title": "El Gobierno anunciará un acuerdo de inversiones con Estados Unidos para financiar la exportación de gas desde Vaca Muerta",
+        "description": "El Gobierno anunciará un acuerdo de inversiones con Estados Unidos para financiar la exportación de gas desde Vaca Muerta Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd2Q1MGhyNFBFSUJEMkR2WmFuaDVUMXBtYVhRQVM3Y29tSlM2WjZzX1phdE5vQVZLcGd3MlNwd09SZmx2LVBXcTg1WDFHS3l3V0xvXzZVVWJtbW91SHRNYXBPRHg3T1B1dWZSRzJwNi1BRGJMNEI0OWVxVWR5MThNT0RPWkRSMUlUclg3R1BHS2VRei14bDJZTS1ObEZtRV9Mck5qUndNSnRuR05MOHlMSkhSREpUYzBwaUFSelk1RUJZZG1BYnI4TU9DX1dQZGxaSlJ4aXBtSGM?oc=5",
+        "date": "2026-09-23T00:06:59+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Milei llamó a invertir en Vaca Muerta: “Vengan, inviertan, desarrollenla”",
-        "description": "Milei llamó a invertir en Vaca Muerta: “Vengan, inviertan, desarrollenla” Cadena 3 Argentina",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUJuTkZWQmU4SmZreTlNeWM0S0doUU5ZSXNQM1E4T2Y4VWUtMFhPSzNpUkt5Tm5iUFlyRndpREpWSER2bHVTMnZZSlMtcXRQVXlOWTQ0aVdWdk1vdE1tZnRtMXlBRWxwcGx4ZnFsOWNMTGt3US02WEtkTi1UZm8yWDVHRERjN09WRG5sRVQzWkYwMFpzOWtubGx6UElZQ295bGRLSkh5Y0RGQmd0dDRSajJHVW00bk5SQ3o4dFRzUkY4VFlraUHSAcsBQVVfeXFMT3BWSDJaUWgwVHpLUWFjNXh6M0ptcVI2dkZQc0hHYmh4TnBzQnNLWTdSbFhQWF9pNFBRTzlrUUdaQ3BkLWtLSzBCTzF4V1RMRXpmek9jN3p3dkNBcFAzdE1tZDBoYmhvVGhkd1NZRVQyWUtMc3N5VnJaaFA3U0FWaEtyZ3Y5U01ScHVVUkRVRVRaZGZuTjEybFhmZFRSdm56M0hNbmhZN3Y5MWNvZkJwWVgwaDVEV3BnZEZNby1Ib2piNVd1Sk1VdGNvRmM?oc=5",
-        "date": "2026-09-23T16:04:34+00:00",
-        "source": "Cadena 3 Argentina"
+        "title": "Argentina y EEUU firmarán acuerdo por más de u$s6.000 millones para el desarrollo de infraestructura y gas de Vaca Muerta",
+        "description": "Argentina y EEUU firmarán acuerdo por más de u$s6.000 millones para el desarrollo de infraestructura y gas de Vaca Muerta Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa2NDY3h5YktkVXM1WEhFTFVEdTIwdUVWbDRIQTd4REF5MDVnNHdYTG9OSDQyNG5ma2xEVDVOWUwzUzZsNmZ4TUtBVHdKbElyZTdUVk90MUVTVzFtNnhZQTFSRXFyZlBXZzBia0FjY0JJUDhacTl0UHczWjVFM1dfRTM2Ty0yakg5eE1SMmxUUF80X2FMSzFZdV84aXpVNTJjam1iR2V6WFNtS3BDRFhjNFhwZ3I4NFBHWE1oSUp1RUg5V0EtVGhfYXVjYkZja1A4WnZMTWFqb29kd9IB3wFBVV95cUxPRU5uOGUzQ3pnSTJySVp2NERqRGN4c3RkOS0yemNlcHpfbWJUMm16U3BZS3N6UVVtdDZ5cDgzQTRIXzBmZGtFcVd0eHZRY0RVdjR3R09Da3h2NlFnNUNMUWxncDdoMVZhalpIM09pcmxTSERwOG5tS3hEeDR3eU9tNVh5YktvWmZQQ19iLTZscmtuMG5qNldxWmVjVV9EWkVUcEYzX2NIYXB1MVAwRXB3TmxDY3VEV1l4eG1waFVVRUZHY2hqWFF2cFNMeDFTcktsQ2ZVQUdoX0M3cHF3cWVR?oc=5",
+        "date": "2026-09-23T01:45:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Argentina y Estados Unidos anunciarán un acuerdo de inversiones: prevé USD 6.000 millones para exportar gas de Vaca Muerta",
+        "description": "Argentina y Estados Unidos anunciarán un acuerdo de inversiones: prevé USD 6.000 millones para exportar gas de Vaca Muerta diariopinion.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdm9LeDU5ajVJMmxTemswSmI1UHVGSEFTTTNaNmxOX29NMXhPa1RRX2wwZE91cXdPQXVuajNEZE1PSnJXYnJXb2ZWYl9uUExtMFpsM05pYlgtT2cxWmhxY2xvblJkRVpmWVN1NTlQZjNXRm1VYzFtd2taSmtsdjVXOUVfRi1YYXRfV0M3Nll6ZHZaZzlNUnFYNXk0bjlrMzZoZWJ4M1lmOEx4bVVxOGdqcGNjUk85OC11U3VDNW05WV9CRmt2WmszWHFfSG5MZGdYU1k0YlNfSkN2aWxaWlQxVmNnbm5UWTFtNUVQNUQxdw?oc=5",
+        "date": "2026-09-23T01:30:47+00:00",
+        "source": "diariopinion.com.ar"
       }
     ]
   }
