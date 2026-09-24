@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-09-23T21:57:40Z",
+  "updated_at": "2026-09-24T00:16:26Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar",
-        "description": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWJOU0thQUc0UlRWNXBwUXpEMnh0TUdoNHk1M2JhZUIwWS1fcENXdVR0SXEyczB3OHJrbmRtRmdIYnJCZlpseDV4c3MtYXZoU3JENmFqQjBId1ZPdWxlX2J5dm1SSFVrSF9aRXNIQUFzOXFnVHA1aXBtdXhqWXRVa0syVXJpaGxBRnFhSnlDOTB0UmxTcnlLODM3UFF1T3ZIeGpSS0RVZDRYTHFYc19uampnd2VzVHE5azFhSlQwQklIVmNVUVIwU3NzRdIB0AFBVV95cUxQUFZkWjF2YXVhbVpsVy1IRHp2dWl0N1REdm85b1dCa1ZSRlRPWlpxbUlPa0RHWUhkOHJhd09jWlotaWdTVFExd05FWkZLQlJ3Zmd5QW9DRGJISzJrQ2ZGSC1BN0pzU0NkNWFxVDFvTGp5T2s1dnRNWEcxcnJianBNQmtSRWp4Qk5sdllrbC10aXZ2d2EwQXVyX0tlbzU0a0JydG8xYXBieDBYU1hkZkNFeTViY0tKN2QzQXo3YkpGYndwbWswWExxZTZURXZJSHNo?oc=5",
-        "date": "2026-09-23T14:01:02+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Microsoft desmanteló EvilTokens, la red de fraude con IA que vulneró 12.000 cuentas corporativas",
-        "description": "Microsoft desmanteló EvilTokens, la red de fraude con IA que vulneró 12.000 cuentas corporativas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR25IUkhXTU9jVmk2M0lyaWVkckpOamtiemZvQklsOENGWFlFSkQ0MkNIOVVwYWNTVmRaWE1JRVJORWlpZDZ3SEN4NEdDdU5sX2tKUldOTWFHMUV2WmswdjFMUjh1TWxMWXh0R0MtWVRFeHRHVWl0cHZVWklJMHJOaU9ReWtySnd5UTYzUk0wSGNac1lDRlpmQjhaVmNHckVyRlFoN25kZUV6blBFSkxZMnp6Mk5zRUVQMlVQZ1ppZGVYMnJ3QzBhMjQwZmdjWGJkbGfSAewBQVVfeXFMTjRWU1JRek5CVXdmdTJpeXJLQjhSR0dIRUhXdElKS0hpMTI5WTQzTDloU1FhU0IwZ3YtZ3pUVU5NcXlzbFBTbTQzWWw0OW9oWDVRV2JFeTYtWVhQdlRGbjA4UDd1ak1CWVhqSmR5ak9xWnhZOVJLZXhIMm5VLVVRd1VXUGxwcU5LZmhPZGxxZUFEUjhJM09EZHJOeENNTHVENGV0TUNXNHlFMkZYRDQ4Q29JSFl0b19pQ1lVSHN2ZElGbkdrVl9ObEdkRlpHUElzNTNnVGYyMXdZb2NGRTk0M01DNWJLYTBxU0RiSnc?oc=5",
-        "date": "2026-09-23T21:04:20+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "¿Qué pasa con la Inteligencia Artificial? La advertencia de Microsoft en su nuevo informe global",
-        "description": "¿Qué pasa con la Inteligencia Artificial? La advertencia de Microsoft en su nuevo informe global El Destape",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUJsaUdYWmM1UXlIMGpmSXZzZUZrOEhtZHVPMGlvSXJGRTZsZTdOODV2UEQtdW1mdFZqYkZ2RDRDNXg3RWVSd1lIOW5Nb0NwZkdXT0NVcmlCOTJ5c2h4YTY4RkY2RFRRYVNWT3hDWkdwaGpuX2J4SlFhVjFHaHd3WEU4VkVXYXlackdJajN5TUZvSUYzVzNTSVR5VW5Vc0NrNzFEZi01OUg2dW1MZHpVQTdZNkhtTDVxWV82TEcwck13aDTSAdcBQVVfeXFMUG1yOXRnb1lZbUdrUldsLTBCOGZSTExRbmxnU3lzWVM3S0NDMDRGQmpiaWNrTXJJUkxqX19oaWlYNHlyeXR0cGNBd09zSldYVmlmTTFUckttN21MWnppX2Y1bC1PSGxtejREb2VSVy1xLWpubFEtaTJ6bWR4WlF3TURUR2lDVThxZTJ3U19jQXpxaC1jUEk4eko5ZWozWTJTMVN2VE5uWE56S1plclhlbE52cjZ1QTFCTi1VTkNPMUJmV0gwcWZUVXJmR3FQS2ZFa0pmOFJFNDg?oc=5",
-        "date": "2026-09-23T20:51:26+00:00",
-        "source": "El Destape"
-      },
       {
         "title": "Xbox anuncia una reestructuración histórica: Activision hará el próximo Halo y Microsoft se desprende de vario",
         "description": "Xbox anuncia una reestructuración histórica: Activision hará el próximo Halo y Microsoft se desprende de vario Diario AS",
@@ -45,11 +24,32 @@
         "source": "Xataka"
       },
       {
-        "title": "Stifel sube Microsoft a Compra y dice que el gigante tech \"retoma el rumbo\"",
-        "description": "Stifel sube Microsoft a Compra y dice que el gigante tech \"retoma el rumbo\" Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUl9SNEptY3dUenJ6YWU4RzA4MUh1cWp2OUdWZHZwNGZaV0N4aWd4OVFzQ2J0V1ZDaGcyc3VoRi03aDZza2xEcXJzNzJVTG5jaDA1b1N5YXBkVmRmYmp2ZG9tME5vSUp2dEdFYTRHTjRIRmd4d0JHRW1ScjhINGpfb29GX2x1bDUzTlgyTHl4V1FOU1NKaDlaag?oc=5",
-        "date": "2026-09-23T10:49:08+00:00",
-        "source": "Yahoo Finanzas"
+        "title": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar",
+        "description": "Google, Apple y Microsoft han coincidido en la misma semana en algo que nadie esperaba: el ordenador vuelve a importar Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWJOU0thQUc0UlRWNXBwUXpEMnh0TUdoNHk1M2JhZUIwWS1fcENXdVR0SXEyczB3OHJrbmRtRmdIYnJCZlpseDV4c3MtYXZoU3JENmFqQjBId1ZPdWxlX2J5dm1SSFVrSF9aRXNIQUFzOXFnVHA1aXBtdXhqWXRVa0syVXJpaGxBRnFhSnlDOTB0UmxTcnlLODM3UFF1T3ZIeGpSS0RVZDRYTHFYc19uampnd2VzVHE5azFhSlQwQklIVmNVUVIwU3NzRdIB0AFBVV95cUxQUFZkWjF2YXVhbVpsVy1IRHp2dWl0N1REdm85b1dCa1ZSRlRPWlpxbUlPa0RHWUhkOHJhd09jWlotaWdTVFExd05FWkZLQlJ3Zmd5QW9DRGJISzJrQ2ZGSC1BN0pzU0NkNWFxVDFvTGp5T2s1dnRNWEcxcnJianBNQmtSRWp4Qk5sdllrbC10aXZ2d2EwQXVyX0tlbzU0a0JydG8xYXBieDBYU1hkZkNFeTViY0tKN2QzQXo3YkpGYndwbWswWExxZTZURXZJSHNo?oc=5",
+        "date": "2026-09-23T14:01:02+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Alto ejecutivo de Microsoft calificó al rastreo de los modelos de IA como “el mayor robo de mano de obra en la...",
+        "description": "Alto ejecutivo de Microsoft calificó al rastreo de los modelos de IA como “el mayor robo de mano de obra en la... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeV9CWTZfZ3F6M0R1ZmFaeEh2MVp5dmFvczNUdlFGUWpKTXBERkN6TV9WTHk2aDhyOG8xQ0I2RWNVdS1JcUszM0k2U3I4bERWdFZhZ005UDQxOXBXaGZMc2tYck5HYVAxNlI2RlExdlR0LWRmZFVhZkxUcWpaczBZa042WlBFQjVUbzIxbkNEZXdxeEpmSDdmRkxQMFlqbXNqYnU0eXhDaDZhOHgwc2lPRmVTSlJPSU1HUDVENDlGUDJma0l1YXpnTkRHaWsyWGRyUWVUdl9TRDFJNDRQUTNueExlY05qQzZNZVAxUW9paTlTb3BleURORFM1eno3UVdERVNiWEpTUF9QWHNQaVpTOE5lejXSAZoCQVVfeXFMTmVHMy1rbDNSbl9RM0FLMUNTQWtYRy1aY21BaVhDS2pLLXlCa1I4Wm5JOVlHSGNmazVtQ1QwLVdwdGxCbk44eFh5YmdtYmhuRmlDekFGdEc2dlV1UGdhRU1URjRmcE8zS1ZGdmRrRV9tMXEtMG4wZjMwX2t5aG9KclR6Wk52cnA4WG44cS1idTVmRERJR3dsQ2NFUDgzNmhpa0dkZmJONzVybWFXTDZGcU1RSDI0Wjl4UUZrdnhVX2didmp0OVp0VEc5YUZGYkpYTmw3bFJya0V6c1ZHYXZHd2x3MVIwMWpGLW9pMVVZU05Fc1NRNU9UQXNkaVpTUE1VS0lQVTBhYUtCSTVyNGQ3dkxTdGRrQnYtTmRB?oc=5",
+        "date": "2026-09-23T16:30:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Microsoft mantendrá el modo Internet Explorer en Edge para aplicaciones antiguas",
+        "description": "Microsoft mantendrá el modo Internet Explorer en Edge para aplicaciones antiguas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3lELUNuR2JiX3Rvb3NEV2cyTHhuVjdYemhNandENkptdE1SNDJaMmRfbjdJdmNmenRKVUJ0MXVFb1dicUdlYnNYTnZDOTVwam1hQ3hqLVBOSzExSjA4WUNNN0o2TEpISF95RElaSnRYWm9FS0paMXJtX284cWYxaU1PY2x2VXJMdnNNNVNCaURITkVfQU0wc3gydzZxWjUzb3FjWXltT01ZUFlCMXVfMlJLVVQxeU5HX3JPckhiMNIB2gFBVV95cUxQV2UxZF9OMWRFMGJjY0dpR2xIZUF6YTRvRUVlZTlrbFNZM0JLTWllRFBqSmI5aElVWGlySWlYT0g5UzdDNEZ5bG96bmRwLWRUOGZmc2FUdmZTS0c0RVpHODFMeE5LeWFLUW5XVlgzVlk4Q0l0UHdrNDFjLTJHUFk2aVNLdjN3Ql9jbXJqRE16dEVMbFpiRVVEXzBtZFVfTnNCeG9YV0t2Nmx3NTJQa1BLMmJ1X3VOSGlGcnVOeVhlTlhmbmJnSnlRMnJxVUVCSjBhRy1JbUZJYy1BZw?oc=5",
+        "date": "2026-09-23T23:52:20+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "¿Qué pasa con la Inteligencia Artificial? La advertencia de Microsoft en su nuevo informe global",
+        "description": "¿Qué pasa con la Inteligencia Artificial? La advertencia de Microsoft en su nuevo informe global El Destape",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQUJsaUdYWmM1UXlIMGpmSXZzZUZrOEhtZHVPMGlvSXJGRTZsZTdOODV2UEQtdW1mdFZqYkZ2RDRDNXg3RWVSd1lIOW5Nb0NwZkdXT0NVcmlCOTJ5c2h4YTY4RkY2RFRRYVNWT3hDWkdwaGpuX2J4SlFhVjFHaHd3WEU4VkVXYXlackdJajN5TUZvSUYzVzNTSVR5VW5Vc0NrNzFEZi01OUg2dW1MZHpVQTdZNkhtTDVxWV82TEcwck13aDTSAdcBQVVfeXFMUG1yOXRnb1lZbUdrUldsLTBCOGZSTExRbmxnU3lzWVM3S0NDMDRGQmpiaWNrTXJJUkxqX19oaWlYNHlyeXR0cGNBd09zSldYVmlmTTFUckttN21MWnppX2Y1bC1PSGxtejREb2VSVy1xLWpubFEtaTJ6bWR4WlF3TURUR2lDVThxZTJ3U19jQXpxaC1jUEk4eko5ZWozWTJTMVN2VE5uWE56S1plclhlbE52cjZ1QTFCTi1VTkNPMUJmV0gwcWZUVXJmR3FQS2ZFa0pmOFJFNDg?oc=5",
+        "date": "2026-09-23T20:51:26+00:00",
+        "source": "El Destape"
       }
     ],
     "Marketing": [
@@ -76,17 +76,17 @@
       },
       {
         "title": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital",
-        "description": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital elancasti.com.ar",
+        "description": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital El Ancasti",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcGdKMFd4MnBMN1d2LUFYWHc0SXJJZ0ozSFR2MmZFdEhidXFfOV82TmtISDJ5cS00NHFib1EwY1h4M0t6ZVJiQ182OU5aMTNhLTA5dFZjWldBS0FDR05YNmNfOHRzODkydmQ0dFRfc3NSblVucHVhY2FOV04wTlBMWGVibDVkdHNOYXlZdVU3eFg4TDFSZzNOakMwU21PWDhWOVV2QmZQYUpTLWJQOFB6QmlGYzhiWWRqYV9QSm1VYy1LZTVjOUtiRFN0T204TUppUFRCOTlNQUZkX19CUVlQckJPOXRCbkVwRU1EdXZrVm1LcGlIMlHSAfsBQVVfeXFMT0tpUl9CWS1FdWRQUjREVzNjcko0RTFtNURXNUdLOUhlWU8wM3VOVlpvT05ta3k1VlNyaGFfMUxtU1dLaFdudjE5QU81azhNNjc5dkt0dWhzOG1MSWZpcHFZcFcteXlvT2JpNjZJb1I4MXZ4X0VHUHZFMFNhWHE0Sms0c2M4OFRWREYyZmswOEhDWEJWaGRWRThtYkFVclhMVkZ0TTFubkxhUXlMc3Rma25heHczRlhZNWgydWM1TWR4aWgtV2FNejBaZVJ4SFdnV0M2S0EtX2NFRmZFTnVzR2lMbXVIRXN4dmlpa2xDYjdyaHZFOTBZcDc0enc?oc=5",
         "date": "2026-09-23T13:36:36+00:00",
-        "source": "elancasti.com.ar"
+        "source": "El Ancasti"
       },
       {
-        "title": "Impulsa reunió a 500 emprendedores para aprender sobre IA y ventas - Diario Inforama",
-        "description": "Impulsa reunió a 500 emprendedores para aprender sobre IA y ventas Diario Inforama - Catamarca",
+        "title": "Impulsa reunió a 500 emprendedores para aprender sobre IA y ventas",
+        "description": "Impulsa reunió a 500 emprendedores para aprender sobre IA y ventas inforama.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNkxvS3RCWnd6d2tiVWFlcXByVTdVQ1FCWEVuSmNxaWVGYTd6ODhRbDBsTWstc3FxSVM3bEZ1Tnl5TmU1Q0NDX05TelhULTIybEZyVEFITFpWZ2IwMERNS1pHakQ0LUhyUHEyQm9hSVhRMEVBRU94dk92dHdod0xJYVMxekdIRERQaEw2VFloTmdNanRadFZaaFFvSkEySEtyX1YxcWZkUXp4RFplUUxVeXpfZw?oc=5",
         "date": "2026-09-23T14:37:55+00:00",
-        "source": "Diario Inforama - Catamarca"
+        "source": "inforama.com.ar"
       },
       {
         "title": "Del Marketing Digital al Agentic Marketing",
@@ -105,27 +105,6 @@
     ],
     "IA": [
       {
-        "title": "La polémica en Francia por el escritor al que acusan de haber escrito con IA su premiada novela",
-        "description": "La polémica en Francia por el escritor al que acusan de haber escrito con IA su premiada novela BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZG9RdWlqZ1RNX0dCc1NLT0FDZkJEZ3ZEdDR2VUtTRjB1bndGRGFWV2I3MUtLYzd0NW9hWS01LWhoNnpMSjRFN3U3VkNaT29CbGtSS2JLT0piYUFj?oc=5",
-        "date": "2026-09-23T21:33:45+00:00",
-        "source": "BBC"
-      },
-      {
-        "title": "Mientras Trump y Milei se niegan a las regulaciones de la IA, los líderes tecnológicos advierten en la ONU: \"Podemos perder el control del futuro\"",
-        "description": "Mientras Trump y Milei se niegan a las regulaciones de la IA, los líderes tecnológicos advierten en la ONU: \"Podemos perder el control del futuro\" Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLUVkMldqbkdvUjRKZDlLSVNFQ255VGNGY1UzZTFybDZsTHF5eUtoQ3JubFBZS2Vuc3VsbEFVMzRja0ZKQnkyT0Y1QUs3b3J5VUJ2MWlsMTJmM2hJeTZISlBSc0NTbEJUc0lWaFFNV0ZsMlY1U2N3X05WeHp3WXZuZWxSdnhkMGQ0UHRkemZ1YUNNREZJWkNoTll5NVlzMTJ2SnNReXZVX0hNcTI3OFZfOFgtRzg0blVLU3NqdmhOYUZPcU1UNG4tcHZJdTRFSkZhUzhDSEFPalhjd2IzMUZKMUdsdw?oc=5",
-        "date": "2026-09-23T21:19:33+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Los líderes de OpenAI y Anthropic alertaron a la ONU por el riesgo de perder el control de la IA",
-        "description": "Los líderes de OpenAI y Anthropic alertaron a la ONU por el riesgo de perder el control de la IA La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQzBhOUhPRE5uSk5qRjc4VkZQVHU4U2J1Yjg1a1NvOTFiR3BmYzJjTGt4TWpvazdnMmtDUU1RbDJzNGJtMlpDRVFWR1doV01hM2JZVWhXVkw5dU1Ndmx0UHBIcU0ybDIwY2dPLWx4T3F3aFZEM3gxbkZnamdrM0t5UkVfRW4tNzFzaW5ad0g2UG1idHhjS3JsQmJDYnFWYWVpOElBOFNzRHJwSFVCX29vS3BR?oc=5",
-        "date": "2026-09-23T21:40:12+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
         "title": "Malvinas, Trump, Israel e Inteligencia Artificial: las principales frases del discurso de Milei",
         "description": "Malvinas, Trump, Israel e Inteligencia Artificial: las principales frases del discurso de Milei Página|12",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORkZ2QnlpRG90U1ZYSERyRi1nNmkyNUo4eGp3M1E1dV9lRFdVZ3cyOEhZZlVIbVp6UTFOajhsRHRYVkR3bWlMc19iWS12eG5oMzVZLTVzN3BvbXJCV3YwcjZRb2EwUWZHOHdvTkFONEtDRHY0Uzc0QkF2XzNYcF8xazJCT3ZLRl9UUzhyLXp2NW5Uc2tocVpFdXNXeWpGLXFhdVAxVlJtbllsYnlyRkpDdS1Kb0hCUkpUWWxXOFdqZ3F4emZHY0hGd1F5RE0?oc=5",
@@ -133,18 +112,18 @@
         "source": "Página|12"
       },
       {
-        "title": "Reclamo por Malvinas y defensa de la Inteligencia Artificial: los temas sobre los que Milei hablará en la Asamblea General de la ONU - TN",
-        "description": "Reclamo por Malvinas y defensa de la Inteligencia Artificial: los temas sobre los que Milei hablará en la Asamblea General de la ONU TN",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeHdMRE5zaS1WQUJSLUszc2VkQVJxTWlYMmxTYlp3dVhLUEpiWDVHWUI3TTlKWHNVdmh4VEZGdWcyNlpfTUR1Zlh2MGE4dm9xUlpvWC0yajFIeDVhSVBhalRHN215dmF0SU9zUGcwMHlMN1JXMUdUMDRCQ09faE5rTkoxSUFJbk5UZFRkQnhGelFvSWFwa1o3RlRVVlhwTzllUGZoNl9fOTJzYmVVWnliY2dwemFUeVUybFBfYzBnd2xYVWVSZGpPZHFKRUJpNjNSTjJ0Z25fQ3ZxWG1EWFp1cFpsbWZNLVhhbnpQMUk3MnrSAYQCQVVfeXFMUFlTOXEyeU9VdTdTdTdWbGgzcGlxd1NjeTBuZTVWc25BM1VnQk4xM2tJTUJfZVA5c0YzNHRUdmhqOTh5LVF4TldLbDk4X1FCd1hWd3FZOFFncXdNd3RxbXI3Q19yVnhtRmkxR0ktS3BNcGRod0pvREFiYUQyMTY1OTdBYVNfVEhaSHhEajhLTTVKQURfUjBvcDFoUjBiOUZVX1ZVQm1XRWtKTm5HYlZtbFFaTkVmNlIxUVBMTjRpUTdvMFc5bVVUT1pwZUVVS2lETkpuWDBWa242Y0dJdV84UG03Q1dzRG9NX2pfaktOcHBDMWhGN082TUxFN0RSdHBoVVFVWkQ?oc=5",
-        "date": "2026-09-22T09:12:00+00:00",
-        "source": "TN"
+        "title": "Terminator, Astroboy y Optimus: qué significan las referencias que usó Milei para hablar de Inteligencia Artificial",
+        "description": "Terminator, Astroboy y Optimus: qué significan las referencias que usó Milei para hablar de Inteligencia Artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbUltSlJxSkJ1WklvTmllQ2tFV3FYSjY2SHJmVm5ENEg3Um9CT3Z3WDdzeVU0Ty1Ya3cxTExXb01OTnRtcG9rU2RIUWpZYW8xUmU1QlNnNVFVSXJvbVU1Y05QdWpmTDk3NFY2dGlzeklwWk1pOGlJQkM4ajY3U3BWSERpcnZvSkhCMG1MWG9MVURBTno3OVM1Rk9SS2diWXFNajlfVjlaZjdaMmRyQUZJa05UTWJ6U3hyQVhTQ1lPcFRoNm9VUzRtczBfbmRzMC1SZWhHS21nUTlfX3NMaS1TSVR5WkRLTTFWcmVFNGtLZ9IBigJBVV95cUxNMWR1UktvN2NTWUNqRlVrLXVlZVhpWnBWbzFxdURpSWtWd0NPRkVYVU1OeXZqejVCTXdlZE4xVFRVYnMzMW8wcGVaNzc4NlM4eENDVUlPSU0yalo0QjB0QlRvd3VadFo2bnhSQ2hKTHY3UnNYNmRvUVZXaVZSN0o4ZW9IY0NTUEVldnEyYXBrcjJjSjFMT0RKNlVUWXR2RFVSOUJCUThfekpsLVRhT2ZqQUJIaWRJbUpvSF92bWVsUWNmSjJYeUluNl82bl9IN1N0Y1J1cnJfa1FVTkhQc3JPR3NIcmMtc25vNFBzZVRmUURsV3ZzUWw0UDVSRG4xbzJ4NmlSUWtWcTBGUQ?oc=5",
+        "date": "2026-09-23T22:36:56+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Milei cuestionó los controles a la IA mientras la ONU debate cómo regular sus riesgos",
-        "description": "Milei cuestionó los controles a la IA mientras la ONU debate cómo regular sus riesgos Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVBrUDBjcC1xd3lYN05LVk5aUHktZlRhd3czVElTenNkMzdMLWZsOHhqQ1dZVWlpelR3UEpLR0VtNXNoS2xSVmE0YVl0Sjd3NEk2WHFVMDlvQklrRlZYUWRVeExqbTN5TF9zeVZINVE1Q1RwTGVOZTg3MHdMcEpMWGFtN0RZUFg0TU9iX3BKUkxSVnZ4OV9BSU1ZZGpYV1Zndm5ZcFBnMVVVVkxjejFfQmY1QmhIeHBMazZPTGZEQnkwQdIBxwFBVV95cUxNTk5zNGczZmtYZFpody1lZTNGSWFOU3JzdEd5UVoyamZtQlMtM2lwWWJwSElWQ253bEF5YVR0aVBtWW9pT09IX1NLOGZySEJFVjlMMmNTQVFPRUVEZU96MXJUN3FYMXhxc2IwZHpGZXVFMkF3YzlSWV9HbkNRcElXVk1va0hRRXJLZlJTU1puWEhha0tsc1ZCVXh3MnNzejZBTHVXUk9jVm9lZExQMFFPR3F1cUpSWHpfTWNyNG93bDJGQU9TWHZF?oc=5",
-        "date": "2026-09-23T20:40:50+00:00",
-        "source": "Perfil"
+        "title": "Alejandro Galliano: “Nadie está pensando en una IA sin regulación, la discusión es qué regulación”",
+        "description": "Alejandro Galliano: “Nadie está pensando en una IA sin regulación, la discusión es qué regulación” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNV9idHhweUVRd1lhNWNGc0ZDZVpwM1prbk1hUGZhOE9tRXVZVkhUYnZjMHZUeXhpNHYxZXgtQ3Vwd3lxeXNsRFBGMDJOaldjTXJYNnVHd21XbWczOU1JMkFxSDRJZy1zWUMxazVVbzNJM1JJdjhVMll2RHBQdHo5QkRWODNtRnRQLXZQaHdBMjBVNDhLMlYtNU1wUHFsMkdFRWdaT045V3FvQkQ0UllsdmhaczRiZk80eFMtcmJYN0xxUWdyeklleVNmbnNybnQtWXfSAewBQVVfeXFMTjlKbWw0bjJFNHVoT1dRdmhaV1NGN0RBT2xXa2U1RkRYY1RGTnVDWFp5VnlGRFdiOGI1OTFQM3BYcUZNb2JvcUx0UFlldEJlQ1lxenJTbEx2a0UwaTdQaV9Jem8zOGZ4NWp3bDlhc1ZsN3JRZmZaRWY4ZFlydlhQZC1kV0cxOF9HeUktX3BhWkVZUk9ObkQwb2tfdXI2eEdBbC0wUXNkeVBpSE9WVkJsaHNtQzVIa2ZTRXpOTXhpZUdLSzV0bEtYejBDM1lEWlhEbG1VMFpQZFZrbmVqdjBpeFlGMFh1bzY2dGNHdno?oc=5",
+        "date": "2026-09-24T00:06:17+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Especialistas responden si conviene pagar una inteligencia artificial",
@@ -152,6 +131,27 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3Q5c2RmZTF0Y0t6VFFmSWdkUldfTlZ2QVZrQW9nTWdILUtUMVIwRFVuU3NUUXNhQm9pWlVyLXRMZHhqQXZDUmJEQTREMjJvSWZyODA4M2xaQjR0TkNKa1NrRElGb05ldjZlOWZKcW9Sb3ZOaE40TTZMbl85VzZ5MHRaZXMyeVM3VmpVY05LM3NsT3lMUjdBRzFCOFJ0MmlRLWdmZ0VTbXJBUHpkYmt6ZG95VlpsLTFIaXFpZHZn?oc=5",
         "date": "2026-09-23T15:23:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela",
+        "description": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela BBC",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EZG9RdWlqZ1RNX0dCc1NLT0FDZkJEZ3ZEdDR2VUtTRjB1bndGRGFWV2I3MUtLYzd0NW9hWS01LWhoNnpMSjRFN3U3VkNaT29CbGtSS2JLT0piYUFj0gFiQVVfeXFMTk9rTnhSdFc2MVRNcFhLQnByQVVUanM5OXdReE41NTZXbWNlYzMxRDk3NmYtdVM1Y2ItcWFvQ3NTTGg0Qm5BcFJIbGU4bkh1cFcyZDJSLUY3LXBrUGc2aDJnNkE?oc=5",
+        "date": "2026-09-23T21:33:45+00:00",
+        "source": "BBC"
+      },
+      {
+        "title": "Las guerras en Irán y Ucrania, Inteligencia Artificial y Venezuela: los temas clave de la segunda jornada de la Asamblea General de la ONU",
+        "description": "Las guerras en Irán y Ucrania, Inteligencia Artificial y Venezuela: los temas clave de la segunda jornada de la Asamblea General de la ONU Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS20xMVNFdzdTVVQzUTNSQnFvNkM3aXByT1h5bndLa0UyODNJdS1FakdHZkFWN0pjMGNSRnN2RFpfQmVFMlcxeUVqQ0RhZ2s2dXk0dU9YVFBwbU5TbDBZSVh6cndOdVMtQU9OSkJNVHlnUVJfeTBKSDBmMnp1TkNBaEhiSW5tb3YxdU02bVZUbzF6aWdQYlNjVUU2Yk1XYTVGbFp1ZEg4NUhzLVp4cWJfd0VKSjQySWI2ZUR3aThlUmtYZzVqdHptYmZ5LWpBZF96S1lRMFJOLVFYVmo2RkxvbUdmSlU?oc=5",
+        "date": "2026-09-23T13:16:25+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Más de 7 mil empleados públicos ya se inscribieron en la capacitación en Inteligencia Artificial",
+        "description": "Más de 7 mil empleados públicos ya se inscribieron en la capacitación en Inteligencia Artificial Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV2M2dGZ1ck5xR0ZOZHF1VUNoVGdBR192WEdRd3p3OUE2SXFwYTRoeTVaV25IZG96T3BzUVl0M3l3bUY2c0JCMmNzUjNQZDBJNjc1M3dLbmdqLXhJQkk2SmlGaG1EU2MtM0RfM1hwbDZvWWJEY0lqdzAyWDFYaDQzQmpXb0xyNVEydmpEN215VkdXMV80a1BibXpLMlMwR1pRM0Y4cExCenpLREFYektxQmc1QWV4TmkzaG5BRGFKWnBtRlNtTUFXYmNMU2M1bjVtWjN5bngzZjZyVUk?oc=5",
+        "date": "2026-09-23T18:23:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       }
     ],
     "Vaca Muerta": [
@@ -178,16 +178,16 @@
       },
       {
         "title": "El tren: la apuesta de escala para descomprimir la \"ruta de la arena\" de Vaca Muerta",
-        "description": "El tren: la apuesta de escala para descomprimir la \"ruta de la arena\" de Vaca Muerta mase.lmneuquen.com",
+        "description": "El tren: la apuesta de escala para descomprimir la \"ruta de la arena\" de Vaca Muerta Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblNuVXNjbXNoZFhkcVh1LXNnTEZoclF2ZzF3UUVtYTlqM1FsQmtHUGlSUDBTUkl5RDdueVptNnRKb0g1b3otaXFKZkxiLTBGdklLRV9Yc0hGU0d6ZzJpQ0YzX1FVcHpNYkx0cXRsQXJ1QWNlSDBjYmFkYjB0SmliZ1B0dEVkRm00azRCLUdNaWtjVnNPVGE3WG1kVTE2WGZoZG85cmcxN0NvaTg3R3I2ekdwNUNid9IBuwFBVV95cUxQc3pMdlcxTzE0VVo3RnJxWS1ERjdvdWtxSThTVktGcFF6U0NoMjNEWk9OelY0Zy1SbThlQklaeHZPUXZXOGIyQTdibjFLNllYcXZ4b0g5aDJqTWF5YUZ5UWRRUW0wZ2RHS1FOSXZ3ZE0yc1VJUDVNRHJqV0pGWk1BOXJUQ2NDRFRKNUhWOGxQRDRVMFg0MlVwSnVHQ3ZHb0tiLUlrYkN4VUxHZU9KUE9UR0dwRTJINEhwNXlr?oc=5",
         "date": "2026-09-23T14:26:00+00:00",
-        "source": "mase.lmneuquen.com"
+        "source": "Lmneuquen.com"
       },
       {
-        "title": "El Gobierno anunciará un acuerdo de inversiones con Estados Unidos para financiar la exportación de gas desde Vaca Muerta",
-        "description": "El Gobierno anunciará un acuerdo de inversiones con Estados Unidos para financiar la exportación de gas desde Vaca Muerta Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOd2Q1MGhyNFBFSUJEMkR2WmFuaDVUMXBtYVhRQVM3Y29tSlM2WjZzX1phdE5vQVZLcGd3MlNwd09SZmx2LVBXcTg1WDFHS3l3V0xvXzZVVWJtbW91SHRNYXBPRHg3T1B1dWZSRzJwNi1BRGJMNEI0OWVxVWR5MThNT0RPWkRSMUlUclg3R1BHS2VRei14bDJZTS1ObEZtRV9Mck5qUndNSnRuR05MOHlMSkhSREpUYzBwaUFSelk1RUJZZG1BYnI4TU9DX1dQZGxaSlJ4aXBtSGM?oc=5",
-        "date": "2026-09-23T00:06:59+00:00",
+        "title": "Cómo es el proyecto para exportar gas por barco que EE.UU. ayudaría a financiar y qué falta para ponerlo en marcha",
+        "description": "Cómo es el proyecto para exportar gas por barco que EE.UU. ayudaría a financiar y qué falta para ponerlo en marcha Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2s1LXNZSFEwZ3Ftb09qR21ObHNnZlAzQnBxd1RXdjZ1dW1NTjFvekJXWUhQUHNxQ1dvck9leF9MMU1kMUIzcEpjZm80d0dlNExqSGxxc0dfV09RbjBrU19qVVNuRm42Q1N5bGJJcHByTmhRd1M1SjczSkQwZDZXZTVpREd6cFRoX1pHSFNGS21rbXRtZF9rTklOaDJJWDZxWjZHN2lldGhwZVRGeHhUWmJsTU1CU0ZUNGdEVnNLaWhhZ0tNOVlPdlBGSQ?oc=5",
+        "date": "2026-09-23T17:47:30+00:00",
         "source": "Clarin.com"
       },
       {
@@ -198,11 +198,11 @@
         "source": "Ambito"
       },
       {
-        "title": "Argentina y Estados Unidos anunciarán un acuerdo de inversiones: prevé USD 6.000 millones para exportar gas de Vaca Muerta",
-        "description": "Argentina y Estados Unidos anunciarán un acuerdo de inversiones: prevé USD 6.000 millones para exportar gas de Vaca Muerta diariopinion.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdm9LeDU5ajVJMmxTemswSmI1UHVGSEFTTTNaNmxOX29NMXhPa1RRX2wwZE91cXdPQXVuajNEZE1PSnJXYnJXb2ZWYl9uUExtMFpsM05pYlgtT2cxWmhxY2xvblJkRVpmWVN1NTlQZjNXRm1VYzFtd2taSmtsdjVXOUVfRi1YYXRfV0M3Nll6ZHZaZzlNUnFYNXk0bjlrMzZoZWJ4M1lmOEx4bVVxOGdqcGNjUk85OC11U3VDNW05WV9CRmt2WmszWHFfSG5MZGdYU1k0YlNfSkN2aWxaWlQxVmNnbm5UWTFtNUVQNUQxdw?oc=5",
-        "date": "2026-09-23T01:30:47+00:00",
-        "source": "diariopinion.com.ar"
+        "title": "Argentina y EEUU sellarán un acuerdo por u$s6.000 millones para impulsar Vaca Muerta y el GNL",
+        "description": "Argentina y EEUU sellarán un acuerdo por u$s6.000 millones para impulsar Vaca Muerta y el GNL Política Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRjdRRXdSUzFRbk5xQ0NiZE9QZXUwS0RWR0lSN2NlSUh5OWRYTGRLd0V0YlVIYUZNMnhxeEVIU19lQjc0R3dla2pWbWk2OThONmJ6SThCTWtNV2RrV2J3aGNOYVpHcXlTeU5pZlB2bTNoTzVyY0htd3NVaGFvWHJXYzBfWHpSVHJvSTZaQWoyejI5ZjRjVnV5OXZNUTNsRHNoeENGYklRTW1SZ2ltMmVuMWg1NjRGQ0d1NnA3Qy1lTnl6bEFIVWZ2cXpRR3RkUERjVGE1b0F4Q0FHN0x4dkZsR2ln?oc=5",
+        "date": "2026-09-23T14:53:48+00:00",
+        "source": "Política Argentina"
       }
     ]
   }
