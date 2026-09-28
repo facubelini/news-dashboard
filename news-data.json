@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-28T18:20:47Z",
+  "updated_at": "2026-09-28T23:37:09Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo",
+        "description": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo perfil.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjB1X1pUd0E1QUFGN1p1Q2ItQUpKUWU0bWlJS2dsMHR2aG9acGMtVVRZUl8zTHBybVA4N0k1ekVUVmZ4OFJaRmx1LWxtR01DMzJwbnRjSThiS19uRkJKR3dOS1hEMzc5M1hZTzdtOWVpazJyX2pKXzlHUGs4elpKWDl6eHBQNzFudjBQV2pjSG9xY0RnXzFmVklwUDkwSXJrNW03dWp5Q2VqZ3ZHQ1B1ZEVTc9IBuAFBVV95cUxNNWt5X1Z3clBNdTY1UFRobk1iZ1FvVnhWQzNkNGRHVnFSd3poM3NKQ0FtdXJmQWRROENUdFhhM1dkN2hTdHJpcmh2a0tEei03ajZ1VDlGbnFGWFhJVEV4SU1qWm9DQmZKYXEtSFJiNTVINFhNUURnQjlMM0pmaW4zZjZNMjV3a01GMUl6UmFQWDN0UmZlaGNnbWoxTDZROVZ0Y19yRmQzdVpxVEdEd3F4bDBtdko1WTgw?oc=5",
+        "date": "2026-09-28T22:45:00+00:00",
+        "source": "perfil.com"
+      },
       {
         "title": "Microsoft presentó el nuevo Copilot: las herramientas clave de inteligencia artificial que buscan revolucionar el trabajo diario",
         "description": "Microsoft presentó el nuevo Copilot: las herramientas clave de inteligencia artificial que buscan revolucionar el trabajo diario El Destape",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZ2Vsay13N01tZGVjSEYwZE8wV2xBVU9MeWxLV25HOGM1dllZMHdTaDVxUWhMeE9OSm1VbXlkTURlVzZESHdaWjNSUmRzQjJ6X0lIOE5IUndYMnV1T0xVOEJfcGlDMDhhaVhzVjJxWENHWHFnc2E2QXdCUzRnbWpVN0doRFhlTEg0RkRVWDRiV3dGQ3Z3RVpSSnNKNS1VSVdpb3pEbE1NbUhwSlJBQ1p2VmtXRktLUXAya0ZaelpBX3lLX3lTOHNOY3YyT0E1TjR1VEN0T0RWcnByVER4eW5ycDBZLWt5eHRZTGdXZDdfRnZRbTY0dExr0gGLAkFVX3lxTFBJRHItU2R4RGFsZk1kYnE0aXpJYnR5MlVaS21UMktRWjR5R1Y1N0x5WF9sR0l4RF9KLVFSSlJTNVBzOTk3b2lzRUFqbkNPZ0YyQ0JQSWVWcWF6U3o4eFhFek5yNWNxb19pRlc5dzJLMUlKRklRUmFiRTJBQ3VfNTc4SFBiTk9IdzY3VEwzTGhRRWZjSEd4ZllUMlRkWjE3SUxkSFowYl9ybHJINzVRQ3pQYlZEU1hBc1Q5ZFRQX1I4VzNBbXZNejVjMnFTUkxuYlpHeWVETi1OdEZpX2EwNWFCR0Z6SjhJdmdYRDVuekY1akNnT1E4SjBMM1BxdDVoeTA0ZkhjQk83cDdFbw?oc=5",
         "date": "2026-09-28T15:19:45+00:00",
         "source": "El Destape"
-      },
-      {
-        "title": "Microsoft reinventa Copilot con Home, Code y Autopilot, las herramientas que buscan revolucionar el trabajo diario",
-        "description": "Microsoft reinventa Copilot con Home, Code y Autopilot, las herramientas que buscan revolucionar el trabajo diario La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTBnSmVWczRLa3ZCUDNJOXpFb1FlVkJvZVVpcjJKZzY2dzk4ZXJ5aExfYnVmZ2lpV3hVUjdNbWhWa2VFOTl3eTZCUG81WmJVanJudlpxdGpvTXpCSHJEMXdmOEY4ck1aYlRyQUdIUlBaQzZHOXJDS0lGT19Xc25CZkc0X0diRm5WMEIwbzVnUUpKV3pOTW42a0VlQTFTNl9xcW1mUlY1VGRjbUdTZmpoMUIwQnBUN2hzVzQtYl81ZmVBNVNrUmM1SVd6ZE1Sa3ZfNEtnYWs2bVJrMTZMZzRVbHlqcw?oc=5",
-        "date": "2026-09-25T18:00:00+00:00",
-        "source": "La Nación"
       },
       {
         "title": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
@@ -38,21 +38,28 @@
         "source": "Infobae"
       },
       {
+        "title": "Satya Nadella, CEO de Microsoft, sobre los despidos masivos, la venta de estudios y el nuevo rumbo de XBOX: \"Me siento fantástico\"",
+        "description": "Satya Nadella, CEO de Microsoft, sobre los despidos masivos, la venta de estudios y el nuevo rumbo de XBOX: \"Me siento fantástico\" 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUR0WkRhM0I2a0RPQUhrV3ctUXotV180eHk2cHJjUmRXX1oxSlpHVUZyRmVxNkM5YTJGQ1lOdWpKMGdNY1k1WnVmWHdqcWQzOC1iMGV6YXB2MDdHRTl0ZE1qQTQ3bEViay1idXBEaUFxZnRrREVicmlHVWFlLTJ1VXdJOUh4WVdsTkdLcHN3SHctYmE3ZG5iVUZXZEZLSHNsVDRhZmcxNkt3a05OLXRHSTV0Zm5nbHRlYTZac2lnMU00aWk2RVpzZzJnZ0otVmV0YXNlTFR5NGxEQ0IzZ1Fv0gHkAUFVX3lxTE5Mdm1KR3h4Um5yTTg3VjY4OUtCZDZTckloRXBzcXRiVTNfQ2JLTkI1WTBDX0Vfc2dXY195ak82ckFWLTV1T2FFYkxYa3p1V0JmTFVzWWozUEItaF83ZVlraFg4eDljNV9RWTFoY29EVEdjeVFWNWhjU25vektOZlZCVWRtVGhiUkZtcDcwYTRKN09janFNTVJBY1ltV2JhVkhLaFdjNVg3emxYUWxhRXJyYy05T2dCTG11ZlEwN1h5bXZMTWNXbXg1U2Y1ajUyaGxlUEFqMy0wekNackdmd01fdXk4cg?oc=5",
+        "date": "2026-09-26T17:30:50+00:00",
+        "source": "3DJuegos"
+      },
+      {
         "title": "El jefe de Microsoft es claro sobre la transformación de XBOX, pero alerta sobre los cambios que todavía necesitan hacer",
         "description": "El jefe de Microsoft es claro sobre la transformación de XBOX, pero alerta sobre los cambios que todavía necesitan hacer Vandal",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMGVQNXhPb3JpQTFzQ0lEUTdZXzhjM1FFSEhDYXhvdEpESlBxMEpQZldoTEd4ZmZmVGdGZGRqM1M1akJtZ1R2dEdGYTlHVlY3blBaM1dOdDlGd192N3ZpX3ZCLUFCdHczZmNNU3ExSHFNOGRPOTgwelR6Yl9xRXZZMUFHcWRxTzFEUXRoemVRMjk4R0N5eHpFNG03bzZSRGV5OG11Q3NldkIzbmdJdG5nNnVUcFlmcXE5X24zWmlEb3d0TlVLaG5udC1xYmRmUDl5eVNNbF8yUldzUEhyUm1FVHhEdnlKZ2JvaktGQWpoY0lBVWvSAfgBQVVfeXFMTUNKNHVTZVdxcUExZlZTY2pTRXBBUnZ1Vi1VdlQwVkZsZkowV2ZLUTl5eWRCYVdKVDA5QjFIWGZpQVJQSTFrTExiQVJkVDFaZVJOUmJ6cWpTbGJody1KNHJWQ3VfWWk0Ujk3YTNHV1I2Vnh6RVpKcWxRYk80YmhyZmpTSWJrOGwwRTR6Q2JLY0NJQWxaQ2NsTUtDOFB6V0VqQ3NPZlRqZmZ2MHpaLUk1dTFhTFhFdnBMUzV0UTZGRkpYTkRCaU9TNGh5ME1abFppTzhVbnhTa29hNG1OSzhQVlplcXkyTW1SZE5KRnVhV3pYck1jdzV0MzA?oc=5",
         "date": "2026-09-28T09:52:00+00:00",
         "source": "Vandal"
-      },
-      {
-        "title": "Microsoft Excel ahora puede poner varios valores en una sola celda",
-        "description": "Microsoft Excel ahora puede poner varios valores en una sola celda Digital Trends Español",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTktSDZwUzhBZ3YzMXBTOGcwSkx6NEVZcDNqbzVnRTc4LWVzZFgyM3pQc2pLWE9zTkI1NTh6OXpnaTQycjVqYVpSXzhCanJWb09JOERGUVlqaTFuWWl6LTBURFU5aUlmQTQ3aGhDSU01V2dqamFCTFdycnVsSll5Z05tT3VZdUludVpvSXpzT3pFQXp2M2M2MUdpV1gzRXB0LTdwbTRBQ3dveXU0TVE?oc=5",
-        "date": "2026-09-28T13:55:35+00:00",
-        "source": "Digital Trends Español"
       }
     ],
     "Marketing": [
+      {
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T18:29:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
       {
         "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
         "description": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital UNNE Medios",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFZmLWljdTNjUmVJNkd5cGhadVo1UEZvSGk2SUVNUEZ2TE5xSTJqcFAzcVlNcnBSbHFjYkVhNjYybUY1cVBLemJnUkVYYW5mX29rcDNtUnRoX3IwZjdfanhTdlBYOEFpNENIVlBFcm10OUExblhPemQtWVZIZkRVT1BNWmFMcWhPYzFBZl9Hbw?oc=5",
         "date": "2026-09-28T16:06:57+00:00",
         "source": "El Ecosistema Startup"
-      },
-      {
-        "title": "Apuestas ilegales: bloquear no basta",
-        "description": "Apuestas ilegales: bloquear no basta diarioestrategia.cl",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkNnRThlbE9Fcy0wbEo2RDZ5RGkyOVR0Rmt4UmZnQnNxbGhzdFRkZnlmeTdndG1YRFlkQVFkcV95QkNRWlhZUzMwcF8xaDNheHlMQUtBdTVETVRQNXFRTEhXZEZUaU5Cb19zS2VLNl9veG5Cc1d2RWd2RGQyTzlNNFU4bWpPSDZCZG5QZVMyLWlmMTYzSWYybU9EcC0?oc=5",
-        "date": "2026-09-28T12:24:05+00:00",
-        "source": "diarioestrategia.cl"
       }
     ],
     "IA": [
@@ -119,39 +119,39 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "La Inteligencia Artificial centrará la III Convención de lenguaje claro, en La Plata",
-        "description": "La Inteligencia Artificial centrará la III Convención de lenguaje claro, en La Plata Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0lkb1BDdFNaZGQ3dFB0SGVMMVpZdHpVcnMtc0h3Yjd0akJhUFlVc3p1WGJyRVh3cmpWYms2SlFTYmtWbTcwUjQtc3pCVF8tNE1lNGI0T0ZaYkRaLUluNU9nVGhoWnd6SEpMMmdGZS1kczBDX2tLTW5tT1Vqa21wNml4aGpHYWF4T0hZTW14TVQ1Rk5BMlVFbkVGQWFlUlBqTnVSeDYtRTlDNWFxTU5PSmhoTTNRaGRxeGJ5YjFfR3EwQmJ2bjgwVDVjNnFjLUYzakHSAewBQVVfeXFMUC1NN1h4VHhrU0MzZ3dGUlZqU1JhWE9EY2FtUVBuQTVoQ0xoajBsb2JQaTFnV3lEekxSaXEtUDcwczJRV3BQMHRwMkZQQndoMzJVXzEzUEJ4LWs2eDJnNFczanFYd2w3bkFMcUhsZ2JFTHhVTkFoT3RyYVFzb0llYWdWdGo1VU41aUwtQnpBclozamhBYWR4OUFfdDFrRTNIb2tTaTg2NWM0cjYyT0VjREJoeXNIWksxV2tJZEdsUlJwTmtPTHBhU0xuNlJqQkJ3azVKT29SRTBBU21aWnA1dmNLdUwwcFhRU2JYcy0?oc=5",
-        "date": "2026-09-28T17:56:27+00:00",
+        "title": "El CONICET puso en marcha su Comisión Asesora de Inteligencia Artificial para la mejora de la gestión institucional",
+        "description": "El CONICET puso en marcha su Comisión Asesora de Inteligencia Artificial para la mejora de la gestión institucional CONICET",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2ZiWG52X2Jlei12ZnFUUDRDVVJDdjVkZnZETENuaTYyS1VyUHAtN1ZhaGRlajJ2UG5RbDlPcEJFRVpPU1RYM2NTdzJ1bXl1S2xYSGpaal9Eek14ZThzYXFfWXJJWE8zMTZSdWVDdWlGcWY3NnBaYnZFdkJUZk1xRUxHa2o0YmdQczN0dHB4YzN6ME1DVlhaRkJZU3FOMXRnM1haMEhwU3ZzNmxHQ3p6Z0ZiektRYWc5eUtZa3hhdGpFNEFJX1A3MkNZOXl0R1NMZHRwZTdBRm4wb3c?oc=5",
+        "date": "2026-09-28T13:30:47+00:00",
+        "source": "CONICET"
+      },
+      {
+        "title": "El fraude con inteligencia artificial ya automatiza ataques que antes requerían equipos, humanos y repetidos intentos",
+        "description": "El fraude con inteligencia artificial ya automatiza ataques que antes requerían equipos, humanos y repetidos intentos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ05pTk1FSndWZFhpZmZiQ2dzN2UxMDE2aUszZ0tVYW1MaDFMZ0xqbXJmcmdDS2wtWnRfc3hadlZyTmxCVVo0aVhpc2F0cjBCM2ZEclFKcmIwY2xYeGFvOU9Id0wyZFRfNGFHNFlzZzQzWXl6RUNhVUxlQ0VhVm4zMm1MOUlidHpJNXpKcUpNcEhwV2x1SGpWbHR0cUhnTXhMZlNSVno4VXpHZjNXTzNxRVNFWkFEVXB3M3lVUm9qWEJOb1lzLTFQOERBYTRKdjZUcS1ySG40b0JiZ2RKeHd5cHUxbG5VX19TRWRzbzlvb9IBigJBVV95cUxOTWNUaS02RmlQTE53U2tSNTJoVGhZMVJIT2FmRXFmOXJfd294LWk4VVpfdXBLYzJJZ1JycXZIUTVVdmF3MHlCd2EtMEt3aXJYN21RWUxoMndreXdYUUx3a1VZT0ZtOHNWNERzYVRwN3hUakVfTVVESjl0UmwzSnowT1JsU1BTV1hPM052RE90eDNpYjFIdXBXRVZBZlF6TjZCaFphWHBwdkdWZEZmUE9tWnY0TjVQUHpiZ2tkSEgzczNzTDVIbTVMbmNLRWNsY2dPV2tWUHluMVBNcVA4QnFxNEFHdURHN2NvZlcxeGxIakYxYWowMkViRzVoUFdRWkhwZHJTdmVWdHVfZw?oc=5",
+        "date": "2026-09-28T19:52:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Educación invita a una masterclass sobre el aula como espacio de diálogo en tiempos de inteligencia artificial",
-        "description": "Educación invita a una masterclass sobre el aula como espacio de diálogo en tiempos de inteligencia artificial · Gobierno de Córdoba",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOEVnLS1kX0prQm1INnZNRE1VZXZ3dTBqc2F5V1lrYnlaTDRWQm4yeW1zbW12eDRTVzczSG5xdnNsT29jeUxuRjY1Q05KcWh4R01uUEF4YmhPcmszWTlFLU9OeDZuRnBmX3dzb1FhNFVjYU5NNFJ1YU1SRjBJZDY0Z25rS3Z5bUl6QUIxWXowYjkzS0ZMSlp4QkFiVFFIT3lnNVFDb21tYUpaTUJwMDFnZzA3TnhPWEVhd3VaVTJMX3J1UVduRmU4M2VSM05DajE5M2NWUkxXd0hsQlF5SlZDZFNWbGJEbnJYYkxwTW1R?oc=5",
-        "date": "2026-09-28T15:04:00+00:00",
-        "source": "· Gobierno de Córdoba"
+        "title": "Hackeos autónomos a webs del gobierno de EE.UU. llevan a OpenAI a suspender el entrenamiento de sus agentes de Inteligencia Artificial",
+        "description": "Hackeos autónomos a webs del gobierno de EE.UU. llevan a OpenAI a suspender el entrenamiento de sus agentes de Inteligencia Artificial Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVU1rbjFCaW1zR2FtRWNNcm14NER2QXVHZWZBeUNfbXNGUzJsdEZHQVdSUlZsNGF5YVk3czVhYXlIQzFqM19ibG51TXRWcDlmRjl3NlpCYnZ2cW5KdXNON3B4MnRmQXhFUmg4VlhOMnZScUlqbkY0dzJpLU1ORnhvZXBpUDRjd1Y2a1RDdE00MmRPRko0Yi1OYnYzeTlRVW5aRER1WG42UUVwUjFoQzRkWVV1eEpUVTYycURsV3BKb3l3a1JzMi1GZEY1anJ4YV9pZWtIRW83Zzk1bzY2U0dIQ18tMVJFNmNEVFA5VFhwaw?oc=5",
+        "date": "2026-09-27T20:28:13+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "“El rol del docente seguirá siendo clave como intermediario entre la IA y los alumnos”",
-        "description": "“El rol del docente seguirá siendo clave como intermediario entre la IA y los alumnos” Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1VJSHJhY1JsS0wwci1Gd0NjaFk4WjNxQmNienlQbUxzMFJ1dkltcmRJdjhHYUppZDlNbVBEeUFXRzhvRWhqUUVOMkRQaDZLaVBFbnhITXdyb2hsMm1SbklrS2ZsMEtvck5IbE9adjJZczZJVHk5bFpaZW5wSWFMY25jelpRVEpKLVRFYldjZkR6dU5FM3RZNzNIbExOSmVSU1FYSXhCUHZidldPZjFONFRXZm4xUzVPXzI4MG9faXBlb3pzdXliTjJvUQ?oc=5",
-        "date": "2026-09-28T18:02:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Agentes de inteligencia artificial de OpenAI publicaron fotos de usuarios sin autorización - TN",
+        "description": "Agentes de inteligencia artificial de OpenAI publicaron fotos de usuarios sin autorización TN",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOThYbVp1OEg3N2M3VmNYV191Mi0talc4aG9SbjYzYjVmZTQ5VGw5SGU3VFpCeEpJR0ExN1ZDMllaWXpFamUyQVZKLXRxOWxtSlBidi11elExemtyY0lDbGY3UkE3TVg5RUtndjY2S1ZTM2pwR2RBSHI4WktpQ2V1MG9ZWXJhTzIzcFA5d0VjUXB0NnNzSE5qV2RITjBCUmJoM29IUlV5dk52ek1PREJBaS1MTk1NVk9Yanp0ZG14QnhRdWItQkJUQXFKMjFSLXNidEHSAeYBQVVfeXFMTVh1RHpDS3ZuT2lQZnRCSlg4SE9NY3ZsOFVLc0JGeThsYnRaRDA1OEV6cFR3ZkNuMTFqb3htWTI4a0VnV3Q3MUNVc2xlREJ2aTMzcDVnWTF1QVZkMENxSi1tTUloQlRSaENxVzVqaTBjQmJ4bjFBNmxYYldzc2VTaGZIV2k4Vm5fV2l6NDFkWVBLdUNvTFJRWEozTV9rTVJOTW9OU21zSXJIc0xBZllqZlFEZ181QkNid0FvQnVBemU4bk0zaU12YnlQaFktSGwzamF0QmdDUmY0RDlkLXVUQlZia1RmcHc?oc=5",
+        "date": "2026-09-26T18:30:39+00:00",
+        "source": "TN"
       },
       {
-        "title": "IA en las escuelas",
-        "description": "IA en las escuelas Cba24n",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVldWQzdXcWUwZUFuRE50N2JPUUg3YUEzLWZ3aUp6TWh5SEdaN3FsNXl0TUdzZy1ITjJBZFFycndoTlJhWFdLSnhwaktYS2o1c3dTbzZLNkVKaGVydEpzV21UTmlmekpfbmd5MW5oQkhYQmtteE5IYk1vdVkxcFJCR19sOVE?oc=5",
-        "date": "2026-09-28T15:55:30+00:00",
-        "source": "Cba24n"
-      },
-      {
-        "title": "El CONICET puso en marcha su Comisión Asesora de Inteligencia Artificial para la mejora de la gestión institucional",
-        "description": "El CONICET puso en marcha su Comisión Asesora de Inteligencia Artificial para la mejora de la gestión institucional conicet.gov.ar",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2ZiWG52X2Jlei12ZnFUUDRDVVJDdjVkZnZETENuaTYyS1VyUHAtN1ZhaGRlajJ2UG5RbDlPcEJFRVpPU1RYM2NTdzJ1bXl1S2xYSGpaal9Eek14ZThzYXFfWXJJWE8zMTZSdWVDdWlGcWY3NnBaYnZFdkJUZk1xRUxHa2o0YmdQczN0dHB4YzN6ME1DVlhaRkJZU3FOMXRnM1haMEhwU3ZzNmxHQ3p6Z0ZiektRYWc5eUtZa3hhdGpFNEFJX1A3MkNZOXl0R1NMZHRwZTdBRm4wb3c?oc=5",
-        "date": "2026-09-28T13:30:47+00:00",
-        "source": "conicet.gov.ar"
+        "title": "Inteligencia Artificial y nuevos modelos de atención: cómo se prepara la enfermería para los cambios que vienen",
+        "description": "Inteligencia Artificial y nuevos modelos de atención: cómo se prepara la enfermería para los cambios que vienen Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZE5yb0FTa2Jna09QcUtNaG1Hb0tXajliaV9oM25tTlVESkxDcl9qdVc2Qnl5b29hRGxnZTdTNkpLZ0k3UUxLMER2Tm1FVWRjaG5NSHpBbWlyZXk4MDZWeE1qaE9FUmtvYVlyS3JQUEc5Y3RxVnc3S3VHaTlqcHVJdllNQlhSWjM3aEF3LVFSdFdxVkd0TDdoZ0c4TGotS0NreFE0UmE3dkVOTkhkZFJWSWpuLVUtM1lqR29mTEVPaWVGMENZOWY5SnhHNA?oc=5",
+        "date": "2026-09-28T19:48:53+00:00",
+        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
@@ -163,6 +163,13 @@
         "source": "Clarin.com"
       },
       {
+        "title": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta",
+        "description": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2g0WWZCemV0bFdnTmtwamp1REREc0xfUEhPalVncmZfMGJTYzJob3h4QU0wZHkyNlBRVVd1d2RtYkgxbGhBSmN6STVERUt6QXNYcGNiTk1KUVBiTTVRN2JjOEROZmhBeVVIU2lsSnRuWnAtZl9ncWVyZEZmWUJtQ05jZ2pUV1NlelVHcVBHbmFnVjdKck14SVdGeGJ3dTZhWFVxZExzR0FaT1FxeVJR?oc=5",
+        "date": "2026-09-27T10:54:24+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
         "title": "Llegan 82 personas por día y las marcas quieren estar: cómo cambia Neuquén al ritmo de Vaca Muerta",
         "description": "Llegan 82 personas por día y las marcas quieren estar: cómo cambia Neuquén al ritmo de Vaca Muerta La Nación",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGNPUWQzblpYeVlfM2J2X0EtZzJUOU44cGoxNXE5VW5tNjRtXy1QT0MxeXloaDZmVmRtUlotNF9JdDdpODROZTUwT21ZV0lraG5vcnlXdkF4b0xOZTVjQ05KcHJWMEZ5Ty1Xdk02VmMtYWxtdklxRW9vdXBDSHZqbkhGN2lqMC1XdjRuMTlGVXZMUU8wdkd1MUtMWnFpelhEUjBMREFMYUJJclRwRW5YRWczaHBaNVFhbnZ3V1l6U2FMR091RUJNQm05ZlB6XzhPbjZFbVhoOFZFdmJYOVp3eQ?oc=5",
@@ -170,39 +177,32 @@
         "source": "La Nación"
       },
       {
-        "title": "Tour petrolero en Vaca Muerta: Chevron abrió El Trapial, mostró operaciones y prometió triplicar producción de petróleo y gas no convencional",
-        "description": "Tour petrolero en Vaca Muerta: Chevron abrió El Trapial, mostró operaciones y prometió triplicar producción de petróleo y gas no convencional Ambito",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcC1zVzdXVmJzMjNteWZQb0dpTUMyNVNSWkZlYUQ0OVdQY2YyVURoaUhsWHhxM1JQcmRYamRFZXhWYlRURzFTQmF0b2I2TUFqSTNwMkQ1SWs2cjh4V1ctNjAtVWtBR2RWZlhic1pSc0xRTFBQUTA0aUlrZk1PeE1aWGRrWlJreEk5UFVydnFGTmVrU0JhQmtZb05fWVpPaTNlM25nb2p2cXJZVW9vZjFiUEpnX0pPaEozekNYRS1JTkxVcmpWR2NwV1pRYnZyNnhhSnByUjZ1ckdxZHFzNU4xYlcwczFvM05QVlJjZkxleUE5SFY5czZJZHVISlQ1alg0Q1Bj?oc=5",
-        "date": "2026-09-27T17:05:00+00:00",
-        "source": "Ambito"
+        "title": "El boom petrolero de Vaca Muerta: crecimiento para Añelo, desafío para Argentina",
+        "description": "El boom petrolero de Vaca Muerta: crecimiento para Añelo, desafío para Argentina CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVdVQ3ZtVFdlcEZNQm9sNkR0ZTdPY3lLT3BBQXhVYW1mVThlWHhLMl9LS0tfeDFQR01tbXczWWhucWFGcFREejZwbUYtdGU2bHNDX2FUR2hXUlpBLW1JNjI2N3J1eUt4cFluQXY0U21EUmNTaFd4R0hlQS1VS3V2Q0J6S25GN3o3Q3dNdHdJODhoZGZw?oc=5",
+        "date": "2026-09-28T17:49:41+00:00",
+        "source": "CNN en Español"
       },
       {
-        "title": "Cómo repartir la guita de Vaca Muerta",
-        "description": "Cómo repartir la guita de Vaca Muerta Revista Seúl",
-        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBYekRielN1MEp5Y3ZzUmhWUk9ZTFRQMnJhZlUxbEdWUGFxRzI2UVNqU2lmWGs4R1YtZVNraQ?oc=5",
-        "date": "2026-09-27T07:45:16+00:00",
-        "source": "Revista Seúl"
-      },
-      {
-        "title": "Que la faena de Vaca Muerta llegue a Santa Fe",
-        "description": "Que la faena de Vaca Muerta llegue a Santa Fe Página|12",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVXMUxYOGhGbVNoWmhRMjdFb05TZ2xMd1BLSFRwTGRYVGZzcUNVMmZwMk5rMGRGUXR5Tm5SWWs4LVV6YXZQOEhSZTNiNGNtRFA0RXZrNWNfRW5SR21ZQVVieTNfRGJicDBfZXpxc3VpczRBS0xCek01UlN4bEp1WDVrSXpaQkVIdzZvdUx3?oc=5",
-        "date": "2026-09-27T13:38:36+00:00",
+        "title": "Máximo Kirchner: “Los argentinos y argentinas tienen que participar del crecimiento de Vaca Muerta”",
+        "description": "Máximo Kirchner: “Los argentinos y argentinas tienen que participar del crecimiento de Vaca Muerta” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdW9KMHU3YThVM1h5MDJYb0pJeTI3WlFDYnR0U0pra3JiNFZMSUd2WEZ6MGN0VU9KTVFHeTBQWFFPeGRIX1I3TTA5YTZJVHc2bGx5bU41U2tYekh1YTcyZnhHckR1V1R6YVpITEFHVmt1U042dWJFMXRON0hxMk1mMDZJVmphcWRKcXh5Q0Rod0h6c1ZvNk55eW5JcnF6bVk5SWlwWklyaFVMNUs1MnhkWEZib21wbWdVZFJFS0FiYVU4WTVsVWF6N1VCWFlzbEZXekE?oc=5",
+        "date": "2026-09-26T23:42:20+00:00",
         "source": "Página|12"
       },
       {
-        "title": "Canon de agua en Vaca Muerta: Neuquén negocia el beneficio para las operadoras con áreas bajo riego",
-        "description": "Canon de agua en Vaca Muerta: Neuquén negocia el beneficio para las operadoras con áreas bajo riego Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWNnU0hMU0s4dngta3ZmMU02MFZCU3V4SE50WmlXeFhXYnBIRndIQTBnS2NqeFA0RG4tRnpnZGE2WnJ5dGU5NzR4Y1AzYURVMVNjMVp2c19OdERXb0xHVDdJSnhtSjFuVThxUkhlazdYXzBtOXYtY1NyLVBwSEtFaG9Ya0ZNNGhoMzNzMk1WVXZEVV94alpqcWRpTC1vZzhrd0tzc1FxWXE1TndYRzVQMlRjOTJzcGJmVzkzOV9YVVM4RnIyUXJQS28tWElQYzYwdlHSAdoBQVVfeXFMTnFvcFNhVHBiSnc1Q25mc1NMNzdLSlRWWUVlSjdQM042NHp1Z0dGejlPdUdVYlJNM3hrRUR0VVJlSU40bFFMUUdyUW83ZGdsSm1vUWdmdlFuQmRTRmtHOHhnSU1PT3IzVmlOdkVlbWRVWnVFckxYQW1xbk5WUHZDUDRQa09VNVNRNUh6RDB2MjZqVk95QTI0bng0U0wxZ3QxcUJ5c3VrT1JyNktNVUI1bVVuU3lXRUViMVJpMFRZSUR1SmJQOEF3dzM0WThOOXJSSk9PX3BPNHI2UFE?oc=5",
-        "date": "2026-09-28T03:30:00+00:00",
-        "source": "Diario Río Negro"
+        "title": "Horacio Marín, CEO de YPF: “La producción de petróleo va a llegar a un millón de barriles por primera vez en la historia”",
+        "description": "Horacio Marín, CEO de YPF: “La producción de petróleo va a llegar a un millón de barriles por primera vez en la historia” La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3Qzc3RYalhEeGYzQ1hkazZVU1huOVFtYjhTb0h3c01aY1NoNWlYMEFrMW9neTU0S2FTbm1WbzZvSjlROWYyLU91d1J3S3Y5Ukp3cjYyTEZ1eU11MlJ6c1BmTGJJWThKQWpGZ3JuQzhqalFWWURHOEE1aEVrS0Nzejl0RmJsY2lWU3V4bGYyMXlyLVgzNklsOE44TXV5bjdORlhnMzdDQmVLMFRYUER2Zi10YmhkOXh5MEEySzlBZ0ZhSUZyUW1CbVdEVnk1V2N2aWpIcTczUm1TVzdidFE?oc=5",
+        "date": "2026-09-28T09:40:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Café Martínez suma franquicia en Vaca Muerta y mira las estaciones de servicio",
-        "description": "Café Martínez suma franquicia en Vaca Muerta y mira las estaciones de servicio iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSk9xbkI3VHhKblAyT3N3SU9xSDE4cFlqVTlfUkhoV1B3aVpqRGZaZ0FTS0gxd01tVXRDZEJYU2lmY2l0dUQ2VGRqZTI0QjB4VmhpMGZaeVNtbmxKZm14dzBwUUtXOHRyWmRWd1daMy1IVC1QTjIzdDJWMGQxOUhwNUpYb0VhWmN0dS1BVklsbHdKRjJEcS1TeUdTNTYxQjduY2M0TTd3V2FzWUs3MHhoNnp5NzBXWlR6YWRBQ2I2ONIBxAFBVV95cUxNaGRITEdLRjIxdFoyal9PakJES3c5SFd4LXVNS094UEFUb1d6V01yTEk1Q3pLYkg2QUJJSzM2Z0lKM19JaTRtQUhwS2JSVURHWWlZMEg3WElZSEZXNVVxcG5jZWtreGNncFc4NUxIY0ZUdU9HRnd0cV9LTVg1dWVYZkN4ZUZZdDU1Ml9jYW1NZHBTLXhiQ0M3QXVReEV1M1dRNWJTYmp5ZC1NZjNHMWoxMTdqZ0s5WUpXaEtUQ2pPV1RuV3Fj?oc=5",
-        "date": "2026-09-28T10:31:00+00:00",
-        "source": "iProfesional"
+        "title": "Argentina: YPF proyecta alcanzar por primera vez una producción de un millón de barriles diarios",
+        "description": "Argentina: YPF proyecta alcanzar por primera vez una producción de un millón de barriles diarios Rumbo Minero",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWtHZG9CckVpRlpMbFpFb05Bc2pXUldxOGNkRU5lTXFqRUo4RF9rTTRDWUR2ZTdEUGhtcFRVbW1WZXVEbXFwMzZIYWwwSWwxQ0hWekFOVnpFYmR5cXY3eFNCckhEZTc2c2hJYW96Rk80eF9zelVocTdFUC1xeVRyMjlGLVBhVzI3U0xOS2FBeVdpNmNHSmhickZqSVUzSWFWSWxDcjJDcjZaNE5XLW9YWjdyZFBwcHlhMGVWZnBDa05Ydw?oc=5",
+        "date": "2026-09-28T15:42:25+00:00",
+        "source": "Rumbo Minero"
       }
     ]
   }
