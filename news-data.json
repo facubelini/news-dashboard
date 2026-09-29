@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-09-29T03:47:26Z",
+  "updated_at": "2026-09-29T10:19:16Z",
   "categories": {
     "Microsoft": [
+      {
+        "title": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
+        "description": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVM3NUlFTFpUSEthaF9JRU1seWJCMk5DR1pIaTRnMTZwZ0lia0F2bGpZUFlaVWNacVd6TV9yX3I3Z0tRSDBCX3FFNFJOOElJc3lVS1pyTGdsVXhoX0VRVU1ROVluSjNKTFIwUnpCRnlTTi1VSXhFUmZFanNpbWlTSENncW1LVndpY0NTNmUxaDZoSTd3b3l0NW9fWTZMbFpoaUNBZnlmY1NIeXVtSGdWXzhKTjZqa0ozRE01OFRmdlJGVVg2dXdJM3RSN1dPRVNYZnfSAdcBQVVfeXFMTVVmQzZoRUU0bk5vVkpPTEpnS3FVRkVRN3RvRjVQTHRTRGtsbkU5akFtQVBkckNDam9wMXZTclB6MFJUVTlLOVRCQXdvUktoVlMwMjVOTHdpY0JrNzBjNC0yUWRlSmxMXzZSTjVIUzJWQkJueVN2eUdOUHJNaVNGUVJPVmloRUlaUl8xTGdUdHREY29VZXhZVXcwMlpOTF9jUmlRTWpMVnZQUVlGXy1wLTE5S1pyQ3FtMWNsQ2JCT2FPNDRlVjNiQjBwdXprbENMZUVfbDdRTzQ?oc=5",
+        "date": "2026-09-26T07:00:17+00:00",
+        "source": "Xataka"
+      },
       {
         "title": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo",
         "description": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo Perfil",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjB1X1pUd0E1QUFGN1p1Q2ItQUpKUWU0bWlJS2dsMHR2aG9acGMtVVRZUl8zTHBybVA4N0k1ekVUVmZ4OFJaRmx1LWxtR01DMzJwbnRjSThiS19uRkJKR3dOS1hEMzc5M1hZTzdtOWVpazJyX2pKXzlHUGs4elpKWDl6eHBQNzFudjBQV2pjSG9xY0RnXzFmVklwUDkwSXJrNW03dWp5Q2VqZ3ZHQ1B1ZEVTc9IBuAFBVV95cUxNNWt5X1Z3clBNdTY1UFRobk1iZ1FvVnhWQzNkNGRHVnFSd3poM3NKQ0FtdXJmQWRROENUdFhhM1dkN2hTdHJpcmh2a0tEei03ajZ1VDlGbnFGWFhJVEV4SU1qWm9DQmZKYXEtSFJiNTVINFhNUURnQjlMM0pmaW4zZjZNMjV3a01GMUl6UmFQWDN0UmZlaGNnbWoxTDZROVZ0Y19yRmQzdVpxVEdEd3F4bDBtdko1WTgw?oc=5",
         "date": "2026-09-28T22:45:00+00:00",
         "source": "Perfil"
-      },
-      {
-        "title": "Microsoft presentó el nuevo Copilot: las herramientas clave de inteligencia artificial que buscan revolucionar el trabajo diario",
-        "description": "Microsoft presentó el nuevo Copilot: las herramientas clave de inteligencia artificial que buscan revolucionar el trabajo diario El Destape",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZ2Vsay13N01tZGVjSEYwZE8wV2xBVU9MeWxLV25HOGM1dllZMHdTaDVxUWhMeE9OSm1VbXlkTURlVzZESHdaWjNSUmRzQjJ6X0lIOE5IUndYMnV1T0xVOEJfcGlDMDhhaVhzVjJxWENHWHFnc2E2QXdCUzRnbWpVN0doRFhlTEg0RkRVWDRiV3dGQ3Z3RVpSSnNKNS1VSVdpb3pEbE1NbUhwSlJBQ1p2VmtXRktLUXAya0ZaelpBX3lLX3lTOHNOY3YyT0E1TjR1VEN0T0RWcnByVER4eW5ycDBZLWt5eHRZTGdXZDdfRnZRbTY0dExr0gGLAkFVX3lxTFBJRHItU2R4RGFsZk1kYnE0aXpJYnR5MlVaS21UMktRWjR5R1Y1N0x5WF9sR0l4RF9KLVFSSlJTNVBzOTk3b2lzRUFqbkNPZ0YyQ0JQSWVWcWF6U3o4eFhFek5yNWNxb19pRlc5dzJLMUlKRklRUmFiRTJBQ3VfNTc4SFBiTk9IdzY3VEwzTGhRRWZjSEd4ZllUMlRkWjE3SUxkSFowYl9ybHJINzVRQ3pQYlZEU1hBc1Q5ZFRQX1I4VzNBbXZNejVjMnFTUkxuYlpHeWVETi1OdEZpX2EwNWFCR0Z6SjhJdmdYRDVuekY1akNnT1E4SjBMM1BxdDVoeTA0ZkhjQk83cDdFbw?oc=5",
-        "date": "2026-09-28T15:19:45+00:00",
-        "source": "El Destape"
-      },
-      {
-        "title": "Microsoft reinventa Copilot con Home, Code y Autopilot, las herramientas que buscan revolucionar el trabajo diario",
-        "description": "Microsoft reinventa Copilot con Home, Code y Autopilot, las herramientas que buscan revolucionar el trabajo diario La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTBnSmVWczRLa3ZCUDNJOXpFb1FlVkJvZVVpcjJKZzY2dzk4ZXJ5aExfYnVmZ2lpV3hVUjdNbWhWa2VFOTl3eTZCUG81WmJVanJudlpxdGpvTXpCSHJEMXdmOEY4ck1aYlRyQUdIUlBaQzZHOXJDS0lGT19Xc25CZkc0X0diRm5WMEIwbzVnUUpKV3pOTW42a0VlQTFTNl9xcW1mUlY1VGRjbUdTZmpoMUIwQnBUN2hzVzQtYl81ZmVBNVNrUmM1SVd6ZE1Sa3ZfNEtnYWs2bVJrMTZMZzRVbHlqcw?oc=5",
-        "date": "2026-09-25T18:00:00+00:00",
-        "source": "La Nación"
       },
       {
         "title": "No pienso pagar por Microsoft Office: este software gratis es el sustituto perfecto y lo tengo en iPhone y Mac",
@@ -31,25 +24,32 @@
         "source": "Applesfera"
       },
       {
-        "title": "Estafas con código QR suben un 146% en el mundo: Microsoft alerta pérdidas de dinero y datos",
-        "description": "Estafas con código QR suben un 146% en el mundo: Microsoft alerta pérdidas de dinero y datos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSzNBajJWc0NoYUh1RWlvbEtMU2JKaC05U0VlNDhBSGVycGtkUUhhWDJUdzJMZ0FSQ29DRWFBcVNCMTZBVXRKbFNkazZxY1BDNFlLdU55VXAwRUQzSHVGUXY5XzczcEtJalZXX1NWWnBza2pvSVZmcm9ySlU4RkJSbU5wWmpWSWItUndDemtXQTRsNGs2RGlsaGpFODBweWpjOXd2bEM4X1hpRmhiMk5WRUxSNzdtY0FGVWpPaTBsZXpEazg4eHN2b3lnTWvSAecBQVVfeXFMT1FaVFNuQUttRFk2VmttMVctRnNRa3FkeXZ6bGNwVnMtbXVDRURLVVNMSE5nRkt6X3Q5b1NFYktVVXNMRGR5ZkJ1WU9IQVNhSlBxWTBaX0RFTUFFdDQ5d3cxcDdPTk5OeHEwQWF4cVdja2xjckM2clJQTmIzT3BSbEFsSFVOTk0tWE16Ql9pTHp1SnJ0NFY5U2FvMUpRa1FPTmFkVFpGeHVSdnNkN3F2UnlnMlEtQ085a25nUlFaSm1NeTFCLU40T2k5M0NvbHg5U3FzdXk0cHBIOEwxTjVZZTVoWUVHbDdn?oc=5",
-        "date": "2026-09-27T18:31:00+00:00",
+        "title": "Microsoft reconoce que las actualizaciones de Windows están generando pantallas negras: cómo solucionarlo",
+        "description": "Microsoft reconoce que las actualizaciones de Windows están generando pantallas negras: cómo solucionarlo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMWJNeUV5NjU0YnZTdlNUX1FSbUFzSEhsb0lKcFpJa29DRF9uSWl3U01xbTgyR3JEQVBjRGY5S2k5X3JrSHp1cmhRTk05M0hidm1ydWFMVk81S09fWWhWQ3RwR2huczQ2eXNVNEtOdGFmbWRlUUF6Z3dqR2lCaTYtQUI0blU4ZkVvYlNraVRreHB1VHQ5eVZUMlpSMzZiVG9hRkRTTHRQLVZUbTd5T09tRWJ6Nzl0VzBBR0l0ZTJOdjRfN3FfbUZUek50LW05blUzUkc1YW5WU01zOWg4Mklz0gH6AUFVX3lxTE53SkNLUHRtTVpMNnUwcGI4RkNtakd5LWhoUW54VW5ITm5rOEp2VW5lOGREVGMxZlFkV0ZEN25WRk9mdVM0OGVkdWpJYWx2U0RqRWVnQU9kVXNkNmdSREZOb3FKaUJGTUMzcjl0dFVGZHRKb3F5R2d2THNOblRVTFZYRWNESGo1XzVfN0FBc1BGY1FZR2ZLR2lDTXpYOUk3d2QyZGpIbFZxUXpVSmthUnhqQVdoQkd5RGFpWFV4THRwSk9Xa3luMEdBcEkwc2NXVGk3WFlSU1pudDBRWDBsUGoyRGhuNi01WUdHR1BSV3ZXcUszd3RuUHl2bWc?oc=5",
+        "date": "2026-09-27T17:27:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Satya Nadella, CEO de Microsoft, sobre los despidos masivos, la venta de estudios y el nuevo rumbo de XBOX: \"Me siento fantástico\"",
-        "description": "Satya Nadella, CEO de Microsoft, sobre los despidos masivos, la venta de estudios y el nuevo rumbo de XBOX: \"Me siento fantástico\" 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdUR0WkRhM0I2a0RPQUhrV3ctUXotV180eHk2cHJjUmRXX1oxSlpHVUZyRmVxNkM5YTJGQ1lOdWpKMGdNY1k1WnVmWHdqcWQzOC1iMGV6YXB2MDdHRTl0ZE1qQTQ3bEViay1idXBEaUFxZnRrREVicmlHVWFlLTJ1VXdJOUh4WVdsTkdLcHN3SHctYmE3ZG5iVUZXZEZLSHNsVDRhZmcxNkt3a05OLXRHSTV0Zm5nbHRlYTZac2lnMU00aWk2RVpzZzJnZ0otVmV0YXNlTFR5NGxEQ0IzZ1Fv0gHkAUFVX3lxTE5Mdm1KR3h4Um5yTTg3VjY4OUtCZDZTckloRXBzcXRiVTNfQ2JLTkI1WTBDX0Vfc2dXY195ak82ckFWLTV1T2FFYkxYa3p1V0JmTFVzWWozUEItaF83ZVlraFg4eDljNV9RWTFoY29EVEdjeVFWNWhjU25vektOZlZCVWRtVGhiUkZtcDcwYTRKN09janFNTVJBY1ltV2JhVkhLaFdjNVg3emxYUWxhRXJyYy05T2dCTG11ZlEwN1h5bXZMTWNXbXg1U2Y1ajUyaGxlUEFqMy0wekNackdmd01fdXk4cg?oc=5",
-        "date": "2026-09-26T17:30:50+00:00",
-        "source": "3DJuegos"
+        "title": "Putin apareció usando un Windows sin activar. Es el recordatorio de que Microsoft lleva años dejándonos usar Windows prácticamente gratis",
+        "description": "Putin apareció usando un Windows sin activar. Es el recordatorio de que Microsoft lleva años dejándonos usar Windows prácticamente gratis Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUVVOVXdKM3JyR0RWVzRoMHo2Y3ZDX2dTSFpDWTZ2TXNRN2JRWTRaMGxydkMxLTNPOXJvMURxSGJFN0s0VVdSUV9ScURRVE5vVjZvLWxUaks5T2R0TkVaRG9YXzBJR1JUWElxb1BMSEFWRmhKYllPY3dqbW1EUGE5SjdRTmVuenN4YkU2RUw1cXp5NU5zNHFjS0I0MGFoM0dwOS1XQVZmRnFfRnZaLUxFSU1md2JPY3IzQWRvQ2tydWVjRUJiM3Bqb1BVODRhdTE2STVxd08wTThlbHJYQ253YWQ4UHJvaVF4dnlWONIB8gFBVV95cUxNUnFud3RNTlBmZG5jTG1DbHYzeEtyU1dBV3dEdUFuNUNxWllhNUpZM2pDT3p2dlpnSVVGYlljQXJEQWFTajU4ZGZuZkFtSzgwc3Y4VlZDa3hPRUZQVlp5eEloVnhla1NKcVppT2hrTnNGNEQtYWRUWm80dUhEVTdTSW5EanM2TGQzbXpaRVdIQWJraV9xRUJGX2xEdHhnNnBqX2I5SFFqdWlwYU1uVzRUX0t1TGltb1RPcVlwWEhUTWtVUkM0OWtieENGaDFpaThrMUxaWHU1bTNIN2Rsbnp4SE1JR3RnTFFQaDFTNUFXOV9pdw?oc=5",
+        "date": "2026-09-26T12:00:17+00:00",
+        "source": "Xataka"
       },
       {
-        "title": "Microsoft Excel ahora puede poner varios valores en una sola celda",
-        "description": "Microsoft Excel ahora puede poner varios valores en una sola celda Digital Trends Español",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTktSDZwUzhBZ3YzMXBTOGcwSkx6NEVZcDNqbzVnRTc4LWVzZFgyM3pQc2pLWE9zTkI1NTh6OXpnaTQycjVqYVpSXzhCanJWb09JOERGUVlqaTFuWWl6LTBURFU5aUlmQTQ3aGhDSU01V2dqamFCTFdycnVsSll5Z05tT3VZdUludVpvSXpzT3pFQXp2M2M2MUdpV1gzRXB0LTdwbTRBQ3dveXU0TVE?oc=5",
-        "date": "2026-09-28T13:55:35+00:00",
-        "source": "Digital Trends Español"
+        "title": "Microsoft presentó el nuevo Copilot: las herramientas clave de inteligencia artificial que buscan revolucionar el trabajo diario",
+        "description": "Microsoft presentó el nuevo Copilot: las herramientas clave de inteligencia artificial que buscan revolucionar el trabajo diario eldestapeweb.com",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZ2Vsay13N01tZGVjSEYwZE8wV2xBVU9MeWxLV25HOGM1dllZMHdTaDVxUWhMeE9OSm1VbXlkTURlVzZESHdaWjNSUmRzQjJ6X0lIOE5IUndYMnV1T0xVOEJfcGlDMDhhaVhzVjJxWENHWHFnc2E2QXdCUzRnbWpVN0doRFhlTEg0RkRVWDRiV3dGQ3Z3RVpSSnNKNS1VSVdpb3pEbE1NbUhwSlJBQ1p2VmtXRktLUXAya0ZaelpBX3lLX3lTOHNOY3YyT0E1TjR1VEN0T0RWcnByVER4eW5ycDBZLWt5eHRZTGdXZDdfRnZRbTY0dExr0gGLAkFVX3lxTFBJRHItU2R4RGFsZk1kYnE0aXpJYnR5MlVaS21UMktRWjR5R1Y1N0x5WF9sR0l4RF9KLVFSSlJTNVBzOTk3b2lzRUFqbkNPZ0YyQ0JQSWVWcWF6U3o4eFhFek5yNWNxb19pRlc5dzJLMUlKRklRUmFiRTJBQ3VfNTc4SFBiTk9IdzY3VEwzTGhRRWZjSEd4ZllUMlRkWjE3SUxkSFowYl9ybHJINzVRQ3pQYlZEU1hBc1Q5ZFRQX1I4VzNBbXZNejVjMnFTUkxuYlpHeWVETi1OdEZpX2EwNWFCR0Z6SjhJdmdYRDVuekY1akNnT1E4SjBMM1BxdDVoeTA0ZkhjQk83cDdFbw?oc=5",
+        "date": "2026-09-28T15:19:45+00:00",
+        "source": "eldestapeweb.com"
+      },
+      {
+        "title": "Microsoft dice que Copilot es un nuevo sistema operativo para trabajar, ¿dónde queda Windows 12?",
+        "description": "Microsoft dice que Copilot es un nuevo sistema operativo para trabajar, ¿dónde queda Windows 12? MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1h0QUU0M0pLY0VnTWR6eFg4VHNwbDlXTG8waUNYNkNBaUgtUGxCOHJKMlNXSDZMY0kxMmdWcEk3ZkpWZXBuYWxaVlo5N0hrNkpSS1hMdU95dEVlQ0d3UWpYcnptTGV3Z0pQQTdOdk13bjdILWZKZWhvR3RXWG91RFU5WWsyM0RqbkxxdXZTNEY3NHhNR1RKZUp1ajZCbDVjVnA4OF9kVjlCNW50NUJN?oc=5",
+        "date": "2026-09-28T11:17:15+00:00",
+        "source": "MuyComputer"
       }
     ],
     "Marketing": [
@@ -96,11 +96,11 @@
         "source": "Fortuna web"
       },
       {
-        "title": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital",
-        "description": "La 4° edición de Impulsa reunió a 500 emprendedores en una capacitación sobre inteligencia artificial y marketing digital El Ancasti",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcGdKMFd4MnBMN1d2LUFYWHc0SXJJZ0ozSFR2MmZFdEhidXFfOV82TmtISDJ5cS00NHFib1EwY1h4M0t6ZVJiQ182OU5aMTNhLTA5dFZjWldBS0FDR05YNmNfOHRzODkydmQ0dFRfc3NSblVucHVhY2FOV04wTlBMWGVibDVkdHNOYXlZdVU3eFg4TDFSZzNOakMwU21PWDhWOVV2QmZQYUpTLWJQOFB6QmlGYzhiWWRqYV9QSm1VYy1LZTVjOUtiRFN0T204TUppUFRCOTlNQUZkX19CUVlQckJPOXRCbkVwRU1EdXZrVm1LcGlIMlHSAfsBQVVfeXFMT0tpUl9CWS1FdWRQUjREVzNjcko0RTFtNURXNUdLOUhlWU8wM3VOVlpvT05ta3k1VlNyaGFfMUxtU1dLaFdudjE5QU81azhNNjc5dkt0dWhzOG1MSWZpcHFZcFcteXlvT2JpNjZJb1I4MXZ4X0VHUHZFMFNhWHE0Sms0c2M4OFRWREYyZmswOEhDWEJWaGRWRThtYkFVclhMVkZ0TTFubkxhUXlMc3Rma25heHczRlhZNWgydWM1TWR4aWgtV2FNejBaZVJ4SFdnV0M2S0EtX2NFRmZFTnVzR2lMbXVIRXN4dmlpa2xDYjdyaHZFOTBZcDc0enc?oc=5",
-        "date": "2026-09-23T13:36:36+00:00",
-        "source": "El Ancasti"
+        "title": "Dailymotion integra en una misma estructura publicidad, tecnología y creadores",
+        "description": "Dailymotion integra en una misma estructura publicidad, tecnología y creadores IPMARK",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSkxyOWpnSEdxendZWFdnVmtkRzFXM3l2VGNOOW5ucWZPRFg3ZGNwR0FEZ1pJOXcwZXp5VUJ4cW9CbDlFcHNCRDA1N0R6enhrSEdDX0pfMWJlaHppajU4RUpjQnlwNzI1UC1ZVElHbXFUeDZ2Tm5VdVBsb2JXVnVSZExNZ1cwT1dnYTdrZWdnd3A4Nk1JMGNWdExlOEc3QQ?oc=5",
+        "date": "2026-09-29T09:52:31+00:00",
+        "source": "IPMARK"
       }
     ],
     "IA": [
@@ -119,18 +119,11 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Anthropic prepara su salida a Bolsa: ingresos por US$4.600 millones, pérdidas millonarias y obligaciones por US$518.000 millones",
-        "description": "Anthropic prepara su salida a Bolsa: ingresos por US$4.600 millones, pérdidas millonarias y obligaciones por US$518.000 millones Perfil",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNU5kNDRBT2hnVzJuWkc3LV93NHAwSF90NC1tWjdsTmR0UFhOZF9tUXhFQ09CRTdoLXBua3BNbVFpRWo2dGNYUWVwZVUxRG5lbnJXdS1fNUJMZTV4R19JSzVzVFBKUUhGOUJ6VDNET3dYV3lGWkpWRUFIZzRzMEU0SGtKTnJfMGtUUUpRZHBEWmtCLXNRRzZEYmdERDZhMGw0VjlfeGwwNi1jcW1BaXM1RGtzRXZveWQtMmd6cjlEbDFZWTgxYVZlblFJUmNSMS1BM1B6NkhVQWtmXzRob2NGRkFxOW0xbVFGUER4WktWc05fMjdZeENKVkhLNktScEotNGtoYg?oc=5",
-        "date": "2026-09-29T02:06:52+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "La escuela frente a un cambio de época: enseñar más allá de los algoritmos",
-        "description": "La escuela frente a un cambio de época: enseñar más allá de los algoritmos La Nación",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeG1JRndPemlNcWZzdUpVZjZCTjhwTnl4ZF95WndUTFVYVjB4UGNRSENBb2lzdFVpMWF2RXRBLVUyODc3WkFOdGt6SzQ5eWktcTQ0M2prdnNSa1pFVExub3hyNTZ4WGtqYjZpWlpfUENTZkc1a1k3WFh6NGtEMFdCc2dfMGE5cHc1RzZiS1pLbTJXdXpKczN3M3h2R3BROE9DcnU4VGVocjduRmtEZUpuMHZYazVfTlZ5bXdscVRQTQ?oc=5",
-        "date": "2026-09-29T03:05:00+00:00",
-        "source": "La Nación"
+        "title": "El fraude con inteligencia artificial ya automatiza ataques que antes requerían equipos, humanos y repetidos intentos",
+        "description": "El fraude con inteligencia artificial ya automatiza ataques que antes requerían equipos, humanos y repetidos intentos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ05pTk1FSndWZFhpZmZiQ2dzN2UxMDE2aUszZ0tVYW1MaDFMZ0xqbXJmcmdDS2wtWnRfc3hadlZyTmxCVVo0aVhpc2F0cjBCM2ZEclFKcmIwY2xYeGFvOU9Id0wyZFRfNGFHNFlzZzQzWXl6RUNhVUxlQ0VhVm4zMm1MOUlidHpJNXpKcUpNcEhwV2x1SGpWbHR0cUhnTXhMZlNSVno4VXpHZjNXTzNxRVNFWkFEVXB3M3lVUm9qWEJOb1lzLTFQOERBYTRKdjZUcS1ySG40b0JiZ2RKeHd5cHUxbG5VX19TRWRzbzlvbw?oc=5",
+        "date": "2026-09-28T19:52:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "OpenAI no lanzará su nuevo modelo de inteligencia artificial: detectaron problemas de seguridad en la fase de prueba",
@@ -140,21 +133,35 @@
         "source": "Clarin.com"
       },
       {
-        "title": "El fraude con inteligencia artificial ya automatiza ataques que antes requerían equipos, humanos y repetidos intentos",
-        "description": "El fraude con inteligencia artificial ya automatiza ataques que antes requerían equipos, humanos y repetidos intentos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ05pTk1FSndWZFhpZmZiQ2dzN2UxMDE2aUszZ0tVYW1MaDFMZ0xqbXJmcmdDS2wtWnRfc3hadlZyTmxCVVo0aVhpc2F0cjBCM2ZEclFKcmIwY2xYeGFvOU9Id0wyZFRfNGFHNFlzZzQzWXl6RUNhVUxlQ0VhVm4zMm1MOUlidHpJNXpKcUpNcEhwV2x1SGpWbHR0cUhnTXhMZlNSVno4VXpHZjNXTzNxRVNFWkFEVXB3M3lVUm9qWEJOb1lzLTFQOERBYTRKdjZUcS1ySG40b0JiZ2RKeHd5cHUxbG5VX19TRWRzbzlvb9IBigJBVV95cUxOTWNUaS02RmlQTE53U2tSNTJoVGhZMVJIT2FmRXFmOXJfd294LWk4VVpfdXBLYzJJZ1JycXZIUTVVdmF3MHlCd2EtMEt3aXJYN21RWUxoMndreXdYUUx3a1VZT0ZtOHNWNERzYVRwN3hUakVfTVVESjl0UmwzSnowT1JsU1BTV1hPM052RE90eDNpYjFIdXBXRVZBZlF6TjZCaFphWHBwdkdWZEZmUE9tWnY0TjVQUHpiZ2tkSEgzczNzTDVIbTVMbmNLRWNsY2dPV2tWUHluMVBNcVA4QnFxNEFHdURHN2NvZlcxeGxIakYxYWowMkViRzVoUFdRWkhwZHJTdmVWdHVfZw?oc=5",
-        "date": "2026-09-28T19:52:00+00:00",
+        "title": "OpenAI cancela el lanzamiento de su próximo modelo de vanguardia GPT-6.1 Astra por problemas de seguridad",
+        "description": "OpenAI cancela el lanzamiento de su próximo modelo de vanguardia GPT-6.1 Astra por problemas de seguridad Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVzFRcFY5OHJwX1Z1U3VvQV9lUHBtUFFlbV9KMmVSV2FqaFBxQXZCRXVObTRoQlFzWXFnUnk4Tzd0ZWxTM1J4RUhGUktWOEFzTXJycFFfZnF3NXdMb1QxbjRxN0ozWDlYSWpEUVNEc3o0RDQzUVBpcTJENDJWY3l5T0g3Y18zekJFcDF0T2V1ZUpHNGxGUnR0c2N2OWsxaHZHb3ZJS1Njem9KbmNGLU81V0FIaE5YVVVuVnhYTElLRGx3MGtuZTRCMDNiNTkzNmQ5M1ZTajFESXAtTU1mU2hLS3lacF9VSHNiSXFFQjdR0gGIAkFVX3lxTE9sTGFVZllRcC1FdlcxMmdRczY2WTZRSlc5anhSd0JGbW96SV9KdWpEQ0ljLXZDVWlGazgySVNtMjFhNWhLVGNfMmFnVmlJVUxuX2s4eG9qN1pQZHlFX1B4bVo3WGY3cm5fT0NqSHJCbVBzRnQ0dHZZR2p4MHdDYjFIeWpoYzFGRGR5VkREM21kQUZSczR6RGZkSHB5WVNHOE5Kdkk4TkU2alZOMTk5N3U5Z1QtclRhMXMzSVZ4WFRaaHcxZzZmbTVuaUNKS2FqYkE2S0xpblJJRTRGZ0NXZExnR3hPTlZaRllTS2pfTC1hcnBzUS04WDkzZktsQmQwcE1WYV9HTUk3MA?oc=5",
+        "date": "2026-09-29T09:46:35+00:00",
         "source": "Infobae"
       },
       {
-        "title": "OpenAI se disculpa por incidente de seguridad en Australia",
-        "description": "OpenAI se disculpa por incidente de seguridad en Australia La Nación",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOXZxbG1tNFVpV1o2T1hqdzNUZVUtTC1lXzdlVE0wWGZQZFdzZGZTOEYwbHE0OFo0WjA4MHlSMEJLR0lid3ducnhncGRwRTNOaU8zUFhuZjZETGthaG1VeEgxTi1YTktEeFkzZXVwdWF2Mlhod3JEMVZsZjBpU21jcGRvRXBRZm4zZzlCcWVIWWxIc0xVWElJMlkzS2M0U05hZkVMTmdlS1F3emhac1dYSEpTRTM?oc=5",
-        "date": "2026-09-29T02:15:00+00:00",
-        "source": "La Nación"
+        "title": "Bepo, Leif y la Inteligencia Artificial",
+        "description": "Bepo, Leif y la Inteligencia Artificial La Nueva Provincia",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUZ5cEdjdVFPOWlLQWFJRmtPaU9LeEZweGJVbFNTWHlOSllLVXN2MG9MWDd4cnktY2tyeHdrWmRyMy0ta0s5OEVOa0xxYnpoWGFnS1g3OEg0UHRfOExfZ0ZVekNzalFrQmhMMnJQbmMtOHhQUnNaSGF6Smx0UC1iVDExd0tNWi1GOVBLVQ?oc=5",
+        "date": "2026-09-29T08:01:31+00:00",
+        "source": "La Nueva Provincia"
+      },
+      {
+        "title": "El CONICET puso en marcha su Comisión Asesora de Inteligencia Artificial para la mejora de la gestión institucional",
+        "description": "El CONICET puso en marcha su Comisión Asesora de Inteligencia Artificial para la mejora de la gestión institucional CONICET",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2ZiWG52X2Jlei12ZnFUUDRDVVJDdjVkZnZETENuaTYyS1VyUHAtN1ZhaGRlajJ2UG5RbDlPcEJFRVpPU1RYM2NTdzJ1bXl1S2xYSGpaal9Eek14ZThzYXFfWXJJWE8zMTZSdWVDdWlGcWY3NnBaYnZFdkJUZk1xRUxHa2o0YmdQczN0dHB4YzN6ME1DVlhaRkJZU3FOMXRnM1haMEhwU3ZzNmxHQ3p6Z0ZiektRYWc5eUtZa3hhdGpFNEFJX1A3MkNZOXl0R1NMZHRwZTdBRm4wb3c?oc=5",
+        "date": "2026-09-28T13:30:47+00:00",
+        "source": "CONICET"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Cómo repartir la guita de Vaca Muerta",
+        "description": "Cómo repartir la guita de Vaca Muerta Revista Seúl",
+        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBYekRielN1MEp5Y3ZzUmhWUk9ZTFRQMnJhZlUxbEdWUGFxRzI2UVNqU2lmWGs4R1YtZVNraQ?oc=5",
+        "date": "2026-09-27T07:45:16+00:00",
+        "source": "Revista Seúl"
+      },
       {
         "title": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta",
         "description": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta econojournal.com.ar",
@@ -177,32 +184,25 @@
         "source": "La Nación"
       },
       {
-        "title": "Repavimentan la ruta olvidada y fundamental de Vaca Muerta hacia Río Negro",
-        "description": "Repavimentan la ruta olvidada y fundamental de Vaca Muerta hacia Río Negro Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXltcUt0RjE3MjZ3bHFPMmJEbTRuQW0yXy1aS0NIa0R3TkN2cFdXSEZpYlplblhkTWlPc2g4YXYwRHQ5WmZhWkZIMkJlZlljdGlKUEc3aDQ0STBGUDJKUFE4YzNCN0dDdGU4ZHNJY19LdU1RS3hfbzVwWFZqYmpCMUJsZjA4NTlwRF94OWphdlZwdENUdzN5STR6enZPamh1aXE2TTBXOFAyUG4z0gGyAUFVX3lxTE56TWF4Wm8yM2Z2azZKTjZhOWgwM0NfdWlmeklQcHRWX3pmNXk4OUtTdXdYSGRNRDRFV1NFdUFwOVdHN19ZbjJtemhTVGdmTmh5Vkgzb1lFR3BHZ0dHUG82QkVGS0hQV0xJYXRoWjB5VDlxWk0xUXh0cXVUQ0hPRmdDaXZQNEtsN1h2VmhsTF9WQWN6d0lNVXRvOXBkcGtheDdrMUZ6aHJhaF8zLXBWN04zZFE?oc=5",
-        "date": "2026-09-27T15:38:48+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Máximo Kirchner: “Los argentinos y argentinas tienen que participar del crecimiento de Vaca Muerta”",
-        "description": "Máximo Kirchner: “Los argentinos y argentinas tienen que participar del crecimiento de Vaca Muerta” Página|12",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdW9KMHU3YThVM1h5MDJYb0pJeTI3WlFDYnR0U0pra3JiNFZMSUd2WEZ6MGN0VU9KTVFHeTBQWFFPeGRIX1I3TTA5YTZJVHc2bGx5bU41U2tYekh1YTcyZnhHckR1V1R6YVpITEFHVmt1U042dWJFMXRON0hxMk1mMDZJVmphcWRKcXh5Q0Rod0h6c1ZvNk55eW5JcnF6bVk5SWlwWklyaFVMNUs1MnhkWEZib21wbWdVZFJFS0FiYVU4WTVsVWF6N1VCWFlzbEZXekE?oc=5",
-        "date": "2026-09-26T23:42:20+00:00",
-        "source": "Página|12"
-      },
-      {
         "title": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta",
-        "description": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta Infobae",
+        "description": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta Infobae Horacio Marín, CEO de YPF: “La producción de petróleo va a llegar a un millón de barriles por primera vez en la historia” La Nación “No jodamos con Vaca Muerta”: la…",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjhwNWRBbDh1cFNzM2hnS0wwX1FVUllfc3BEeWhjWHJnbzNPV3lKZ2syZHlTWnROYXNaZjNmY2NaLXlVMnZncXhwWGVCaFlucGEzRndFQTFPQkp6cjlSQS1UQ3FfMzVyR3QzT3liVlpWSDVGM01KY1U1dm4zdWhpZF9HaHVqSmE1WUZIX2NnVVhPSVR6RjgyaTcxYkd6cVExNy14Rm52SkpMeHdUdHFpZExlSEwzOUVKYmVJdExHRVdoNGxUaTV2WnVxMnYtWWZGWGx3bWdYY1A0Z9IB9AFBVV95cUxPcm5IWU1ZSEZNYjNoZ2FSejRDMnBKOGt4YlFVOE51SU5XME5JWWZXYUVMT3ZlRkhSWF9tNm5mV1J1V1NCMmhucXJ4Yl8wTmp6ZGdxUTA2TmJXUkZVOUl3azhrVjZBZ19pcVhDSUpqeEY0dDlzem5KVDJNcmtkLWVXRE1wRm40dXpCd25CTWEwZW5RRWt4b281Z1R6TkJEMm1VcTdPZnQxbHl4dnhRdEtKM2NwcjNFMXhnNC1ta0Vjb3BYSUM4OWMzb2lpMjdLSzY3YjhXNVRCS18yT3JwTllzMlIzN01BTWVMbktQSE1xWDdyeVoz?oc=5",
-        "date": "2026-09-29T00:24:01+00:00",
+        "date": "2026-09-29T01:20:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Horacio Marín, CEO de YPF: “La producción de petróleo va a llegar a un millón de barriles por primera vez en la historia”",
-        "description": "Horacio Marín, CEO de YPF: “La producción de petróleo va a llegar a un millón de barriles por primera vez en la historia” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3Qzc3RYalhEeGYzQ1hkazZVU1huOVFtYjhTb0h3c01aY1NoNWlYMEFrMW9neTU0S2FTbm1WbzZvSjlROWYyLU91d1J3S3Y5Ukp3cjYyTEZ1eU11MlJ6c1BmTGJJWThKQWpGZ3JuQzhqalFWWURHOEE1aEVrS0Nzejl0RmJsY2lWU3V4bGYyMXlyLVgzNklsOE44TXV5bjdORlhnMzdDQmVLMFRYUER2Zi10YmhkOXh5MEEySzlBZ0ZhSUZyUW1CbVdEVnk1V2N2aWpIcTczUm1TVzdidFE?oc=5",
-        "date": "2026-09-28T09:40:00+00:00",
-        "source": "La Nación"
+        "title": "El boom petrolero de Vaca Muerta: crecimiento para Añelo, desafío para Argentina",
+        "description": "El boom petrolero de Vaca Muerta: crecimiento para Añelo, desafío para Argentina CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVdVQ3ZtVFdlcEZNQm9sNkR0ZTdPY3lLT3BBQXhVYW1mVThlWHhLMl9LS0tfeDFQR01tbXczWWhucWFGcFREejZwbUYtdGU2bHNDX2FUR2hXUlpBLW1JNjI2N3J1eUt4cFluQXY0U21EUmNTaFd4R0hlQS1VS3V2Q0J6S25GN3o3Q3dNdHdJODhoZGZw?oc=5",
+        "date": "2026-09-28T17:49:41+00:00",
+        "source": "CNN en Español"
+      },
+      {
+        "title": "Que la faena de Vaca Muerta llegue a Santa Fe",
+        "description": "Que la faena de Vaca Muerta llegue a Santa Fe Página|12",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVXMUxYOGhGbVNoWmhRMjdFb05TZ2xMd1BLSFRwTGRYVGZzcUNVMmZwMk5rMGRGUXR5Tm5SWWs4LVV6YXZQOEhSZTNiNGNtRFA0RXZrNWNfRW5SR21ZQVVieTNfRGJicDBfZXpxc3VpczRBS0xCek01UlN4bEp1WDVrSXpaQkVIdzZvdUx3?oc=5",
+        "date": "2026-09-27T13:39:07+00:00",
+        "source": "Página|12"
       }
     ]
   }
