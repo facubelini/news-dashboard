@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:45:37Z",
+  "updated_at": "2026-09-30T22:46:10Z",
   "categories": {
     "Microsoft": [
       {
@@ -11,10 +11,10 @@
       },
       {
         "title": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo",
-        "description": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo perfil.com",
+        "description": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo Perfil",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjB1X1pUd0E1QUFGN1p1Q2ItQUpKUWU0bWlJS2dsMHR2aG9acGMtVVRZUl8zTHBybVA4N0k1ekVUVmZ4OFJaRmx1LWxtR01DMzJwbnRjSThiS19uRkJKR3dOS1hEMzc5M1hZTzdtOWVpazJyX2pKXzlHUGs4elpKWDl6eHBQNzFudjBQV2pjSG9xY0RnXzFmVklwUDkwSXJrNW03dWp5Q2VqZ3ZHQ1B1ZEVTc9IBuAFBVV95cUxNNWt5X1Z3clBNdTY1UFRobk1iZ1FvVnhWQzNkNGRHVnFSd3poM3NKQ0FtdXJmQWRROENUdFhhM1dkN2hTdHJpcmh2a0tEei03ajZ1VDlGbnFGWFhJVEV4SU1qWm9DQmZKYXEtSFJiNTVINFhNUURnQjlMM0pmaW4zZjZNMjV3a01GMUl6UmFQWDN0UmZlaGNnbWoxTDZROVZ0Y19yRmQzdVpxVEdEd3F4bDBtdko1WTgw?oc=5",
         "date": "2026-09-28T22:45:00+00:00",
-        "source": "perfil.com"
+        "source": "Perfil"
       },
       {
         "title": "Microsoft confirmó un fallo en las actualizaciones de Windows 11 que deja la pantalla negra",
@@ -45,14 +45,21 @@
         "source": "Vandal"
       },
       {
-        "title": "Microsoft dice que Copilot es un nuevo sistema operativo para trabajar, ¿dónde queda Windows 12?",
-        "description": "Microsoft dice que Copilot es un nuevo sistema operativo para trabajar, ¿dónde queda Windows 12? MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1h0QUU0M0pLY0VnTWR6eFg4VHNwbDlXTG8waUNYNkNBaUgtUGxCOHJKMlNXSDZMY0kxMmdWcEk3ZkpWZXBuYWxaVlo5N0hrNkpSS1hMdU95dEVlQ0d3UWpYcnptTGV3Z0pQQTdOdk13bjdILWZKZWhvR3RXWG91RFU5WWsyM0RqbkxxdXZTNEY3NHhNR1RKZUp1ajZCbDVjVnA4OF9kVjlCNW50NUJN?oc=5",
-        "date": "2026-09-28T11:17:15+00:00",
-        "source": "MuyComputer"
+        "title": "Microsoft despliega Windows 11 26H2: amplía el soporte de su SO y activa funciones que mantenía dormidas",
+        "description": "Microsoft despliega Windows 11 26H2: amplía el soporte de su SO y activa funciones que mantenía dormidas El Chapuzas Informático",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3ZpNENJTTA3a0d2a0hGNWNXN2RING5JZl9sZVc2X0xBV0lRQlNPRXMzS3ljZDZ1YnRxOTZUSHk1dVVnZE83anVYNFZsenN2Wm9DYU1JYWoxdDlsUm9Pb04wa2ppelZ1eDVMWHZwM016UW5XaGYtQ0lGdmVfZXVsaHNVNW1UTUpPNU1OMm9udDktUDAtR3VMai1yM2Z3dVktZ2JHYQ?oc=5",
+        "date": "2026-09-30T10:08:12+00:00",
+        "source": "El Chapuzas Informático"
       }
     ],
     "Marketing": [
+      {
+        "title": "Trending Topic Streaming analizará la evolución del marketing digital: de las primeras webs a la inteligencia artificial",
+        "description": "Trending Topic Streaming analizará la evolución del marketing digital: de las primeras webs a la inteligencia artificial MisionesOnline",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TazdORWNNWDBLMmdJczlXX3ZmOG9RRXJBSnpyZWdpMkdkYjNkVXJJTzVOdEpsVDlUeHl2XzBnRGROSjdiRlQxdk0zNGJBeHI4QTFIVFdjU2FNLTNIV3p2Q3I5Q1FWcEY1LW9VVzJvalU?oc=5",
+        "date": "2026-09-30T19:00:55+00:00",
+        "source": "MisionesOnline"
+      },
       {
         "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
         "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
@@ -75,13 +82,6 @@
         "source": "UNNE Medios"
       },
       {
-        "title": "Capacitación sobre herramientas de IA y marketing digital para pymes",
-        "description": "Capacitación sobre herramientas de IA y marketing digital para pymes PRENSA GOBIERNO DE MENDOZA",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnVaYjZWWFFRbWJGVlR2QVdIMHo2SDU1OVpmUWlBTW1kby0tZ1B0Z09wLUVZaWJXcElRUUFRWXRJVXdfOHQ1WldfNXlwN2RQaFc1dTg3RUs0LUo5dWJKRTYwanJNTERIMnhlT0ZudHN5ckhPb19tNnl3RWo4cHpyTXZPR3FMVkRDNWZ0ZE5jS0VaOGx1QmZ0M1U4Mi1fR0ZK?oc=5",
-        "date": "2026-09-23T11:33:49+00:00",
-        "source": "PRENSA GOBIERNO DE MENDOZA"
-      },
-      {
         "title": "Galería de 7 consejos poco comunes de marketing digital para atraer al talento adecuado a tu firma AEC - 2",
         "description": "Galería de 7 consejos poco comunes de marketing digital para atraer al talento adecuado a tu firma AEC - 2 ArchDaily",
         "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQaW1nWDlsWWFJWC1aU0ZWMEtoaF9XbndzN3BUYzlYMWxuVHhPeE9rdC1XUnZWcTJQYThHOGxEZVdzd1VDRHllbFlrZlJhZHRrU3AxRDd0SDZmWWY5TmpuLV9RNXJ1azZqa3YtMXBJVWljQUFYM1hDV2I0NmpWazlPRFRBdXkxRWJjZ3lfSGtXemVjekdCeWJFNnYwQkNyWmxRYThpWFNtd0lkbDY2MG9qV3RxRDctc1ZoV0ZtRGwtakRwTmlZcHM1MDgwRnFFVHB3bzNJUE1oazJRRlNZMF9Ga24zVUQwUnNrSEE5SW9SQVR0ZG1fQzY5WVlvVFZKZ2lTbUtJaFZ3R0NFOFpKUlhOa0syZ1dqZEJHMVB4QkU4ZXlLMEtkamtlc3JRSXRNMmVqcGxzbUtUTXVOMEZmRndsRXgyVFFZZFlrVVRRSkt1ZzdibUJQ?oc=5",
@@ -89,27 +89,41 @@
         "source": "ArchDaily"
       },
       {
+        "title": "Capacitación sobre herramientas de IA y marketing digital para pymes",
+        "description": "Capacitación sobre herramientas de IA y marketing digital para pymes PRENSA GOBIERNO DE MENDOZA",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnVaYjZWWFFRbWJGVlR2QVdIMHo2SDU1OVpmUWlBTW1kby0tZ1B0Z09wLUVZaWJXcElRUUFRWXRJVXdfOHQ1WldfNXlwN2RQaFc1dTg3RUs0LUo5dWJKRTYwanJNTERIMnhlT0ZudHN5ckhPb19tNnl3RWo4cHpyTXZPR3FMVkRDNWZ0ZE5jS0VaOGx1QmZ0M1U4Mi1fR0ZK?oc=5",
+        "date": "2026-09-23T11:33:49+00:00",
+        "source": "PRENSA GOBIERNO DE MENDOZA"
+      },
+      {
         "title": "CRESTA-UPSO: llamado a inscripción para cubrir cargos docentes del primer cuatrimestre de 2027",
         "description": "CRESTA-UPSO: llamado a inscripción para cubrir cargos docentes del primer cuatrimestre de 2027 LU24 – Radio Tres Arroyos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzUwb2Q1MGFlN25xY2FLVGEzNEhFbmdydmlKdGRBeHJGZnlwV1AzU2U1Y3kzWXVjdkJNVWc5Ymx6V3owYUpSNkV5Q20wVzJucWlGRzhiS0UyanFPSHRIMGRrejkzVTFnN1ZWVnl6R1IxUEYtMEUyWW5RSXFrbS1KWDlMckVFY0Q1NlB6SDF2RG5Uc2lVa0pYX2oydUtMcUhjdHVZRG85bTN1R2I0cmlZYTh3?oc=5",
         "date": "2026-09-29T20:37:19+00:00",
         "source": "LU24 – Radio Tres Arroyos"
-      },
-      {
-        "title": "Inversión en publicidad digital llegó a USD 327 millones en Perú",
-        "description": "Inversión en publicidad digital llegó a USD 327 millones en Perú Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGRmeHctTFNtWTRMYUVmYlJnQVJ2S2pQMGV5cWxGMFZTMzN5cEJYQzNkWEdJb203cVhSTk9Pc3o5QW1lNGZkOXFBT0k1ZFQ1b08yZFRvX3hpRm9XVFpfUW9pT05mYUhKSHVNVlE5Q0ZBUHhVR2NnUVFWMlJkZjg3Z2sxTjVRY3JxcjFlUnludWdhYzZ1V3FaYjhDeW9tVFJxbTdkendLZjXSAcMBQVVfeXFMTWRLazRuYVROWDZDQl9UNnNFUTgxRmVNOFJ6VEVWX1dYWEptSF9FOFBkZVRPYnBVM1c5VlplcG4yZGtuTVNxUWZXTDhrRndScG9GU2JySlJTb05ZdVE3QTBaVmgzRnZJTHl2TEJDeHpsR3VPRVEyX2JndUVONTFRRGdLVk9MaERlVVp4eDRMUXdJeWotVDNUVmRHUWI2NURybGdMNVFCY3VVRVRuc3VyQWJkLW5qTVpFLWxDV0pCMDQ4cEtr?oc=5",
-        "date": "2026-09-26T21:04:00+00:00",
-        "source": "Infobae"
       }
     ],
     "IA": [
       {
-        "title": "Inteligencia Artificial. La firma que falta",
-        "description": "Inteligencia Artificial. La firma que falta La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfYXVaSFhpQ0twZVNoVnFNN2Y1dzhCYkFGdnlyTlVrMWlGQkJFTFVDVzlDY3RMQWpSNVRCSEJzNGVNQ25OLTc0WFpTZlZOM1AyWlh2U0VKRmNpMWE0bzRSZHlZeHJqU2VfMV9yRVJudw?oc=5",
-        "date": "2026-09-30T18:21:19+00:00",
-        "source": "La Voz del Interior"
+        "title": "Por qué el futuro de la IA también se juega en Vaca Muerta: la mirada de dos expertos internacionales sobre la Argentina",
+        "description": "Por qué el futuro de la IA también se juega en Vaca Muerta: la mirada de dos expertos internacionales sobre la Argentina Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM1V1Y0hjVUM2UEkxdnNDMGstRmxhMUhvUlY1ZXVQVXJMMFBxUXAwbGlwbmNKUkRoTjE0b181alhIVnJuNmVUV0llRXRKMDhkVE1iSFpFNUtuZloyTVdDVEY4bVRYQjRmX1ZaS1doNjQzRDRydW1LbVRLQ1NMTFExQ09MODNkdGpZT0dCOEcyZGk5NDhNcldPYTMxLWEwYzIxWkdzdWZtbDhvcHBQSG1DV2Y1NDl3b3FSWXNRSFdSU3JxYmw0a3p5M3VRTGlLakp1ZTBxNGlHOEhyNEduN1BEZ0dkNkNwRW1GYU03OThhVk94NHpneElV0gGSAkFVX3lxTE04cy1MWGN6LXgyVndVbEN2TXpjNGwyOWNmQTdEcTlDb19tNnZzajVtdTkySXpta0Q1T0NuYkMzM0RHTXRjRnliNnNDeEhhdjIxd09oUVVPM1ROUG5VUVExTzNHSkdZZTdaYk43NU5tZTl6Z3VKZ3k3bXo3R3VsLWdfc2JZeWJHc2M5bnJSUVZWbEJBMXM4Q1pIZnI5a283b18teXJfSnBFWjRDSE5CT1NUd09EazNJek9NRUZBdlZPN1dSUW83OWdXLU42dFBtNUtqQkZETVI4TEZFeW1aUUhxR0xYSXZSWGM5YWZWbThZZVVwdjNEVmZSQ1lxcjZVc2xZOFBMMW9CRWpEY3NiTWptbkE?oc=5",
+        "date": "2026-09-30T22:08:33+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Jensen Huang, millonario con 199.000.000.000 en el banco: “Si yo fuera estudiante, lo primero que estudiaría sería inteligencia artificial” - TN",
+        "description": "Jensen Huang, millonario con 199.000.000.000 en el banco: “Si yo fuera estudiante, lo primero que estudiaría sería inteligencia artificial” TN",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZE44bE1LeDBWRWh4QVFxanBYZ1dUQ1JDNjJzMVBNWm1HZlEzTGtaOThydUJhN0E0eWNQcUJXamJOZzlQQ1pERlN2OFlEekV3R1I5S0tlQmVkZ0Y1RkxhTkJ0UkVlUkl2MlpNMVplbzdrOFZMUWlfNzJwT0tEYlYzZHJnVkZCeUdodVBZbkRuME40M25xU29nRl9WQ1h3NTlaZkZsR2tJVWgwVlFrN0NXOUt4cHNENUI4Z0lFZmNQM1puTXA3QmV6b0plcTZzYUVtQkRNZ2R5M3XSAewBQVVfeXFMUFM5cnRIM2dqejRrbHdHU3pGd08yY3Z3bFZQWUhjeEFlU2xrNlM2Z1JWQVdwT3otS3BtalJFb2k1VUJVOUNuVEFaWjNMa0h4T1JiTzRvSkswQWJWbXhKOEhRN2NjZkQzRUhWZUxwWmMyR19yM3VJMjJYcEp0cXA4NGdNaHFGdGozaGFiVXdZX2xtUmM3ODBwZ1hudXJMcEItUEoyREZxUS1wOUdKMDRPZ0RJY0R6aFJCb2h0RFpfel82NGY5N0xNVVhTaFlkc0FsSmZSMzN5YTlKanlDaTJNbkQ3VDlrOWJUVDhINjc?oc=5",
+        "date": "2026-09-30T21:33:37+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "Google restringe el acceso a un nuevo modelo de IA por preocupaciones de seguridad",
+        "description": "Google restringe el acceso a un nuevo modelo de IA por preocupaciones de seguridad La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVUpYWGpuVkIyOE9lU1VNd0htaktCZmRDbVdXUFdobjVRRHF2bXlPZGtfQjJmbVFFMVlJbFFZM1BZaXo1RGYySnNta01hVGNJTHFDcjZ1QVVMREJ3TzN3clVENXE2RzVmdGZfM21ZMVRHNU9PQmRmazViS3ZUMkFua2FtYWx0NS1CMUpFQUNJOW01WGhTRHRRRTVhTHZzcnNvM0ZybmRtYmpsWnMzcW02YXo4eGhROGtUcjhjNmNzX2diaDZ3LUk4Umg0M0c4NFRkNXNDYQ?oc=5",
+        "date": "2026-09-30T21:55:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "¿La inteligencia artificial nos va a matar a todos? Esto dicen los especialistas",
@@ -119,48 +133,41 @@
         "source": "Página|12"
       },
       {
-        "title": "El impacto de la revolución de la inteligencia artificial y la robótica en el resto del mundo",
-        "description": "El impacto de la revolución de la inteligencia artificial y la robótica en el resto del mundo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2dEYlpqSm1kOTZIc0xzTEpiZDN1SUc1QlF3VG1kRTVZYTRXQUxQSkQyeF9JWE1Kc0ZIYmtpVUpfdGRybWZsbUJlZktsb1VlMVlsODJHXzBLVHcyS0JQU1lsMWVxVGotbFFZUFhnczFRZEtkQVNfcE9KczZ0SjhFN01uNG8yN0h3VDA3N2NUV3BHSEMzRnBjWTJCX2QzRWlXUWl2QmZsTUx3V2phNXJaZ3JWazhmVWdMT05PdU83OEI0X3J1OUtsLUk0Z09sNGZyVWg1eHY2SmE3am0xQkHSAfgBQVVfeXFMUGpaelg4clNiY0pFem1SbzA0T0NObThZQkRjVW9HQ1FmVS1jdHhMQ2lCb1AwVEdhaFFNeEJiMWJBQmtYTDFwQzItZEt1WUNNeUU0bTc1WFd2cnhrLXNSMkxJeTF6TGFLZE9zbVEwTEFqaDFMbG81OWhYNGNXX2s5Y1RXbXZXYUxQbmtJb0tYM0NHdV8zbDlwNG9OckxuTU43a1JEc1ZOTmk1cWQ4bDljdkprZkx0WWF3WnBjcHY5YTZSUllVZzlMd1ZWeWJNMXRXYklzcTZfdlBtbHBBR3NxVmgzWE1OQXFWZy02RHVVVVZLY3lzZUJKclc?oc=5",
-        "date": "2026-09-30T08:00:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Los gigantes de la inteligencia artificial acordaron autorregularse tras reunirse con Donald Trump",
-        "description": "Los gigantes de la inteligencia artificial acordaron autorregularse tras reunirse con Donald Trump Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNlFWSXdqeTk3TmZKOEtyM3hVVzhCaDNkc0JFcDNtZ3FlNll5SGtLS1FlWGQxRG5hQ1dyNzh4a2NXcHE3VzU3enM2YU04VHVkdEtVNk90UExkUWdSOWRCd09OVjZaTWJhNTYwS1BBVWx2RTUwWXFLVVY3YTk0VUFBUURyZWpKUkpaUDk1TXlNRFRua0dSTnRTWVNsZ0NlalVveWIyNm1GLWphNzlEbHZqeUU0a2tiR0xRVDZYR3p3MUUxTWNVczhaMzJZaUZEa3p2VG8xb0gxeThPTzF2djNyZ2IxONIB_gFBVV95cUxNVHZuUHliXy0tUDJTWEhDOTliT0g0WVZGSlJ5Z19WbTd6anp0dWRUT01GUTlMLWY5b01WVm1fdG55NUVnVXJveHhPemx5cGlWNUpjb2hhbnNIZVM5Vjl6LXNrMnJUMTB5VGV2QW45UkhGUXY0NDUwSUpoNVU2T3BsWlVLS2JORFd4MmtxVFZlem90ckVwcXhCSS1FcnVMSklrTm1SZ29mX3JlZWQwZk5FbzNvcjNIV2tNMk5uMVN1NkxFSnVEeTZZcEtsWWhmTG9HTDYxdHp5SVVOX1k2d2ZVMG52QTBEdDBpbS12MHRUbDFadVNKUFAxZmlnOGxsdw?oc=5",
-        "date": "2026-09-30T00:18:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Trump defendió la autorregulación de la inteligencia artificial, pero dijo que actuará ante posibles abusos",
-        "description": "Trump defendió la autorregulación de la inteligencia artificial, pero dijo que actuará ante posibles abusos perfil.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXdyVWxSZXBUT1ZtRGR0cDFDQzhKUWw2akxJRnN5X1NvdnE0Y0NDQmlYY2xVNEIxb1ZXdVZOTmh6X1I3S0poYThDdVdkNXZKUkJMb0VPa0RadU03WXlvTkpvX2VRYk5mWm9tQ3VPVnJTeVV5TFQzNEpVT3dZbjhkejYwVFlYb2RvTUFhUFNsX1Rva3BBQkFMYmVydDBFZGhSUXVkUGZKTGhrQU9VWVRWa0NlX0tqbXVhUkJNN1FKc3U3R3BBamZzSmdSaWw3TmRHRlFlX1FHUmZMMVdBdXZVMDBZOWk2WHliSGxOVVl2eW9wX3B6ZlpXcFdkV0QwaHNE?oc=5",
-        "date": "2026-09-29T23:52:00+00:00",
-        "source": "perfil.com"
-      },
-      {
-        "title": "Qué se sabe del código de buenas prácticas firmado por Donald Trump y los gigantes de la Inteligencia Artificial",
-        "description": "Qué se sabe del código de buenas prácticas firmado por Donald Trump y los gigantes de la Inteligencia Artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzdjTmNJdWRGVHNqOFV5dkQ4ckszOE1ZbXNmZXEwUzNYSHhqQlVHWlFuT3g4a2Y2WHRUYUFrMzFpSUVkWDUxNTUyRjB2U2RZdHBENjFSc2l4S1VDNFVEUDJoOTlwNEVxUk9uaGI2el92cF9qckxWNmZaZVR3OW9pWS1sN2pwX0RlZjBNVWNQaUtYal8wRkRZX2J0YWJOV0FzWkp5c3VRdWdWbHJIWmRkcXRzVFc0WGoxeEFmaW5LQTBwaHY0X1dFWA?oc=5",
-        "date": "2026-09-30T15:01:17+00:00",
+        "title": "Lenguaje claro e inteligencia artificial: el debate que llega a La Plata",
+        "description": "Lenguaje claro e inteligencia artificial: el debate que llega a La Plata Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUk0xU1A3aFQ5RGpZUERSNnAxR0lUUWM5ZzFIXzRzRUNDeXlvVFpzRnhhRGdzMFJIX0MxVW9ETVVLdjlmejdVeGVxQVdnV0d4QWxEVGtVTU95LWt4ajZlMjVvaDY4ZGJTaE1xeENTZGJ1eUZVTldGMHB5aGEyWVZPd1p5aU1TVlBiUkNxVVlsRHBZeVRsZ2FrbUgyeVRDYmlZc2JXY012WDYtQQ?oc=5",
+        "date": "2026-09-30T18:59:40+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "OpenAI presentó Dots, los agentes de inteligencia artificial personal que nunca descansan",
-        "description": "OpenAI presentó Dots, los agentes de inteligencia artificial personal que nunca descansan La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT25FRGlQY1RTU2VUdkZVTTRXSEV0MmF1bjhqdmRBa1FGNlcyUUZ6SFF0V0ZpRVgxamJVclprQ1hsM2E2bFBSX2xYTHZPczhFN2toQ0tHQU0ySndlZGZ5T21MNVpwQjMta2JWRGNxYXUxWF9ERUlMVTdxdHBUQzBZS1dCQldQTzRlcmdkekxoQ0pNUU9MNVpJby1WZFBkVkRoMXZMVnItRGhxNzB2azNnSFUwaml6YTlwVFI1eW5BOWE4a3ZELW1FeU1qZjNkS1ZLOTJMZ3dFYw?oc=5",
-        "date": "2026-09-29T19:14:00+00:00",
-        "source": "La Nación"
+        "title": "Cómo el auge de la inteligencia artificial podría agravar la crisis fiscal del mundo rico",
+        "description": "Cómo el auge de la inteligencia artificial podría agravar la crisis fiscal del mundo rico Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2N1b2NEVjlSRXRPLTBDSVVBMmRsd282MjE1bVdETlczODFnUFdTVk90U21zWlVKcDZfaHljemVSWFNFenI4NkpOSmdiVW9FMXJWQlM0dDMxTksyamZORzFaMjB2cWVUZnEwMGJBSms4WWJLa0tfV0tweDVaRHhrajRvUEQtZGN4S25NRzVEREE1NkVXeTZHZnd2WTB1eHo3Ylg0OFU4bmI1ckdIa0lib0dtcW5OZVRIcVHSAb8BQVVfeXFMUEhnQlNVLWprM3hoeno4X2Zrc2NmOGhuNGJ3QjA4bHpHeF9Ra1hDLXhFczdxd2dEazlocTNNUzBhYzNad3FYSWJVNldDUFRIWGVWSldQT3k5RGNKMHh5R1kxZXFhUlN6am5Qa2Fsdm5YRGRjYzlJUFYzY2JoeDFKc1JMRDRKMlZGblVkcWZyZlNZMnZvVllqQnZ6Q1FrRWNzcWNGUmlGRi1jX0VXNThJSmNheXZ5VGpsTGZET0dsM1k?oc=5",
+        "date": "2026-09-29T20:00:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Cómo la inteligencia artificial potencia la desinformación sobre la guerra en Ucrania",
+        "description": "Cómo la inteligencia artificial potencia la desinformación sobre la guerra en Ucrania Chequeado",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnJneC1LQ29NVnF5YlZNZDFvRF9QS0JDeEpVRWtyNnhoZmxwMFRxY24zVUZCVF9MUEs4MnBYRGc1RXpVeFlwRGNuek1HMVpINi03SzNCX2JhVkNtMU96dHNYQVgtMVVaY2l2b2dxdzZoY1ZHSlRUaGhSQmd1R2haclgySHJxVjBqeGx0Q2N3Ym1NMl9iR1lhVDhPYTZvU0xZNHljenpoRnlzNjdDYklBeUJ6b1JBS0VGNzNCMGRDYw?oc=5",
+        "date": "2026-09-30T11:04:30+00:00",
+        "source": "Chequeado"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta",
-        "description": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2g0WWZCemV0bFdnTmtwamp1REREc0xfUEhPalVncmZfMGJTYzJob3h4QU0wZHkyNlBRVVd1d2RtYkgxbGhBSmN6STVERUt6QXNYcGNiTk1KUVBiTTVRN2JjOEROZmhBeVVIU2lsSnRuWnAtZl9ncWVyZEZmWUJtQ05jZ2pUV1NlelVHcVBHbmFnVjdKck14SVdGeGJ3dTZhWFVxZExzR0FaT1FxeVJR?oc=5",
-        "date": "2026-09-27T10:54:24+00:00",
-        "source": "econojournal.com.ar"
+        "title": "De Vaca Muerta al océano Atlántico: VMOS, una ilusión corriendo hacia el mar",
+        "description": "De Vaca Muerta al océano Atlántico: VMOS, una ilusión corriendo hacia el mar Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGExVm8yekJwbTUwSXZWZEdzcXpZS3VMalNuTW8tTHFnN1dGYU1YT0J4aHhDaGZNckRaMm1JMDl0bzdsME9PYUUzTmJabjRNMGpQMUNYSmxvcGNkZU1CMWdvaDA3UTFueV9mNnlUR2dFVWlEcEZhMVdlaUg5WGw4U2NBSElvTG9HVkRVcW1ldXFPNFJKYktnWTh1YjdOWU1yeHJVZlhIdnR2UUFV0gGyAUFVX3lxTE5veldXWURUZU9mclJlbE01RlBOTXkzV3VhVGhoNTBuZXZNV0FJaU55U3c2X3dzQ1JEdjhJYUxDbUNEM1ZRNUg2bGhHRFdaaGprcGhQZjd2U2pwRGVtUE9kaDF1S3lyMG1WN05mVjBtaE0zZTdBTk5Ba1FNMTFUY2tpSEtLUVdhbktZQ09laTRQS0JzZGlBQ3lGRUtoSVBMSm52VERFUzJXY2dielM1ODRUOEE?oc=5",
+        "date": "2026-09-30T14:01:16+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Vaca Muerta: DLS Archer activó dos equipos de alta especificación para YPF",
+        "description": "Vaca Muerta: DLS Archer activó dos equipos de alta especificación para YPF Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUEZvWEZIckNzVW96bE1LREQwNzFlTXh4WUtYVlpFTUdpbkFrTFNPY1ZiUmdwSkZ0dFY0RkpkNkl4d291dUl4MGxTTlV6aDc0bmVBdDdjZ2taMEZmU0QwWGRYTHpLMWhHbkU2ZE5jTllVT2NfdG0yNTQ3QVBUTGNpcl9WNGw1UTN5U3kxMXFja3I3UEhxRGltN3pzeGRYeWZnNzJReC01Z0FjejhYRC1fU21Ic9IBuAFBVV95cUxQaTNzSGN5OU45aWdXdWpRazl1VGJ5bDFPNVlfODM0LWJFNHpkaTV4OHVWR1FWNG9ickJMb0IwdU8xYmJDXzl4cHZIa1BtUnAyWGRkbkpJc2NPZjlXRXh5WHhtc2tFSk9kY2R5YjdoMVFxT1RDLVZkMjItQUs4Y2pHYjR2ZlBBRE5DSEl3NEZOanRPTFlsNS1zRlh5eFdxNDRWNEU4ZDlBUlRkbEY2RV96WTJiNDFNSW94?oc=5",
+        "date": "2026-09-30T11:06:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta",
@@ -170,39 +177,32 @@
         "source": "Infobae"
       },
       {
-        "title": "YPF y Entre Ríos firman acuerdo para potenciar Vaca Muerta",
-        "description": "YPF y Entre Ríos firman acuerdo para potenciar Vaca Muerta LA17",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnMwcFZDMlJ1VjdMZm9LWDFJVjhockpLZVpQLTIwVXM0UnVyRlphVS1COEotRF9pbGR6c0t0amxXRVU1ZUJuVEpya2FHY3Q2Ymw5OHl6V2dObEhaSXVNYlBCRUVLYkN2ZkpFZE9aXzltUmYtTV9seThMZENzNTNXR212aFI5aWFSRG82X2xhMVhEV1NNNFlXZkYwamw2SHNtTVBQT1VNOGVLWnJJcEhMVEF1QW1JYUFVVFdzb1h3NzdzX2g3RUg3T0pSMUQ?oc=5",
-        "date": "2026-09-29T23:27:00+00:00",
-        "source": "LA17"
+        "title": "“Vaca Muerta no es la salvación, es un cambio de paradigma para pasar de un país agropecuario a uno energético”, aseguró Emilio Apud",
+        "description": "“Vaca Muerta no es la salvación, es un cambio de paradigma para pasar de un país agropecuario a uno energético”, aseguró Emilio Apud Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONzlEenFrS0VjaUxpa09lNWR3bmhDbE5PdWd3N0dYYUJLT1hJNXVyT3BVNkdLbVVvcm5MMmE4ajV1di14QXdqWTB0SVJ3VzAtTXhjdlctQWJQcGZkeGVOU3lfN2ZTTlJtVG5zZVNjbU5ZbFc4NkswV0M5aGhOZjNNNzN5TTlaVnczcnZOLU5hQjdzX243eDd5UE0zQmU4YzR4cXU4QjJVU3VZVFhqdmg0VkpmcGtDR0RINmhJbWFoNnZVZnNXVEZCS1dlaTR2c0ZXMmNkb2FJX3VCeU9LVWYwR2UtV0hnamFsVVZEamptOHk4enNPYWZDUjFkZTMtWEoxb2g00gGLAkFVX3lxTFBUUWFJUWdYVXcxY0pMYkhRT3lFMUNFVmVmbFVpZ3hFbmlDRUtucHptVUEyLWRtcVBkOFZxWG5MWjZ1ZHlxYlU2OWo3WnBBcEd2M3pWY01XVlVyc0sxU216VERFbFFCZVQwc1FLTXlTS2NqelZaMkV1cUgyVkFIcjNkSWlfcWRSSHd2MUdEajdGTmdFVkdua3NXVHVoX0k0TDEzalF0S183SzcxLVd6VXdFOXUzNDNCRDlpRGRlazIzOGJudGRiRzZGUXRfUk1DLXVUWDNDdWpIR2FrZmQ0LVdvNElfNVltampYRkhtTlI4dUdlYmplMW5DdnQ1YzhFazNnOVQ3QlBUaC1TMA?oc=5",
+        "date": "2026-09-30T15:37:07+00:00",
+        "source": "Diario Río Negro"
       },
       {
-        "title": "Entre Ríos firma un acuerdo para vincular la provincia con Vaca Muerta tras un acuerdo con YPF",
-        "description": "Entre Ríos firma un acuerdo para vincular la provincia con Vaca Muerta tras un acuerdo con YPF La Nueva Provincia",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2kxc2FIckZxTHBkOHV6ZGRMX3BwRE0zdTdqZGc1MG4xUl9kU3dHWE44Y0lmbU5OYll0U0d1UlFBM1dLVnVwU2l4ZTNjMDdfUldpTE12TWVlMFN4WE9OaWNlN3BjOWJWc1dIZ2JaNFBjNkRrZkZwRktSb2htaEVjbFlJN2o3Tml0Tk9BMHFodHJ3d3dORE1nRU5RQUFEa2lMS3dqaW5faWRZSS1vVGFkT3pXUFJDcVI4ckVUNkt5aWlpX0duSG5LVkRiS1ZyS1VwLUMwOUd3?oc=5",
-        "date": "2026-09-29T10:05:49+00:00",
-        "source": "La Nueva Provincia"
+        "title": "Por qué el futuro de la IA también se juega en Vaca Muerta: la mirada de dos expertos internacionales sobre la Argentina",
+        "description": "Por qué el futuro de la IA también se juega en Vaca Muerta: la mirada de dos expertos internacionales sobre la Argentina Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM1V1Y0hjVUM2UEkxdnNDMGstRmxhMUhvUlY1ZXVQVXJMMFBxUXAwbGlwbmNKUkRoTjE0b181alhIVnJuNmVUV0llRXRKMDhkVE1iSFpFNUtuZloyTVdDVEY4bVRYQjRmX1ZaS1doNjQzRDRydW1LbVRLQ1NMTFExQ09MODNkdGpZT0dCOEcyZGk5NDhNcldPYTMxLWEwYzIxWkdzdWZtbDhvcHBQSG1DV2Y1NDl3b3FSWXNRSFdSU3JxYmw0a3p5M3VRTGlLakp1ZTBxNGlHOEhyNEduN1BEZ0dkNkNwRW1GYU03OThhVk94NHpneElV0gGSAkFVX3lxTE04cy1MWGN6LXgyVndVbEN2TXpjNGwyOWNmQTdEcTlDb19tNnZzajVtdTkySXpta0Q1T0NuYkMzM0RHTXRjRnliNnNDeEhhdjIxd09oUVVPM1ROUG5VUVExTzNHSkdZZTdaYk43NU5tZTl6Z3VKZ3k3bXo3R3VsLWdfc2JZeWJHc2M5bnJSUVZWbEJBMXM4Q1pIZnI5a283b18teXJfSnBFWjRDSE5CT1NUd09EazNJek9NRUZBdlZPN1dSUW83OWdXLU42dFBtNUtqQkZETVI4TEZFeW1aUUhxR0xYSXZSWGM5YWZWbThZZVVwdjNEVmZSQ1lxcjZVc2xZOFBMMW9CRWpEY3NiTWptbkE?oc=5",
+        "date": "2026-09-30T22:08:33+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "De Vaca Muerta al océano Atlántico: VMOS, una ilusión corriendo hacia el mar",
-        "description": "De Vaca Muerta al océano Atlántico: VMOS, una ilusión corriendo hacia el mar Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGExVm8yekJwbTUwSXZWZEdzcXpZS3VMalNuTW8tTHFnN1dGYU1YT0J4aHhDaGZNckRaMm1JMDl0bzdsME9PYUUzTmJabjRNMGpQMUNYSmxvcGNkZU1CMWdvaDA3UTFueV9mNnlUR2dFVWlEcEZhMVdlaUg5WGw4U2NBSElvTG9HVkRVcW1ldXFPNFJKYktnWTh1YjdOWU1yeHJVZlhIdnR2UUFV0gGyAUFVX3lxTE5veldXWURUZU9mclJlbE01RlBOTXkzV3VhVGhoNTBuZXZNV0FJaU55U3c2X3dzQ1JEdjhJYUxDbUNEM1ZRNUg2bGhHRFdaaGprcGhQZjd2U2pwRGVtUE9kaDF1S3lyMG1WN05mVjBtaE0zZTdBTk5Ba1FNMTFUY2tpSEtLUVdhbktZQ09laTRQS0JzZGlBQ3lGRUtoSVBMSm52VERFUzJXY2dielM1ODRUOEE?oc=5",
-        "date": "2026-09-30T14:01:16+00:00",
-        "source": "Clarin.com"
+        "title": "Petróleo abajo, cultivos arriba: Neuquén tiene todo listo para poner bajo riego 5 mil hectáreas en plena zona de Vaca Muerta",
+        "description": "Petróleo abajo, cultivos arriba: Neuquén tiene todo listo para poner bajo riego 5 mil hectáreas en plena zona de Vaca Muerta Bichos de Campo",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDRtby12dGc2dU5aWXZHQUFmTWJKbEVWVVZfa1VjRjFFclprMmVNS1ZuVVBFMUFxaGx4RmhtelhFZHU5RVpWNXhfVXgyemlDVlpPXzRkRzFES0NlOVdBQlJkT3R3bmJXTHJFVXppc3pjVXY0Tkl2TnB1cnJTODd6ZllhYUlxWDNkOVBzUWdSYUlsR1I3RUV5aEJ4QUFBTGFHcjRlOWdnUVZmdk5zMWtsOXZUa1pWTWU0cmFnYnFLWEJRanNuLTQ1d3NLRUJMOTF2cThZWXhZNHhxZ21rQ284QzNabw?oc=5",
+        "date": "2026-09-29T18:36:26+00:00",
+        "source": "Bichos de Campo"
       },
       {
-        "title": "Tokenización en Argentina: mercado de u$s90.000 M en la blockchain",
-        "description": "Tokenización en Argentina: mercado de u$s90.000 M en la blockchain iProUP",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWU0QlJDZko2RHdQN2d0T3hCSjJvYmNjeEtwYmwxaU9uaXhlcVAwckxiSWtLRGkzb3hwekYzZm0zeW91dU1HSXM4cW5WVkVnUjRVQlkzRzk3Q0otVFBKLV9RRVBwTEVrQlBlOFFFV0VPUU5rVFBUa1dxUjdOamotS25YUmxwZHZzUVFoZDNrMTNhV3lKN1Q2eFpDZ1lRWWoyQmRpVnd5ejd5c20xaEVn0gG0AUFVX3lxTE9BYk90YWZtaGZkUnZPRnJnNnZpQ3lnUmxvTXRfS3l5TkhMU0dlUExjVVVrTGRlNEVVTGx4Z0EtVUo1YXhIMEFtbkpQSlZ3ZmJ3eGhTM1ZUYTFrRGhrOVhBR2sybFFkTVdkbThsMzBXb1E3am0zb2lGVVNwOGFIMVpyVDU2QkdCSEZrdmxPVEJISW5IXy1DWFJQWVJpLXZPNFYybjB6S0Ffams3OEFyUzhYTTROTg?oc=5",
-        "date": "2026-09-30T09:07:00+00:00",
-        "source": "iProUP"
-      },
-      {
-        "title": "El desempleo avanza en el país de Vaca Muerta y la supercosecha",
-        "description": "El desempleo avanza en el país de Vaca Muerta y la supercosecha Letra P",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamI3Ulh5cnlma0pPVmZDcmlMSVRIZXpjN0ZDM09ULV9xNkdUTWQ4QzM2WHE2amVibGYwWmw5U2IyX2NZTmc1bXZNNXczZ25yM2NZTW55M3oyeGFuUDhueGh5dlViT3c1enJOTEdoMjh4aEZfZjdzNHZ4UDNtVWJXUFNScFRNTnBTaWtrT3E3QWVwUUpPbTQw0gGcAUFVX3lxTE56LXJCVXRpYmRxbWJyaGxJRkJkUGxYbGdselp5c3NYcndxMmNqLUZXSFNxYkhpYjA0NlRfTXNNV01JWnIxZDJGTmpxaDBtbnVURU45eHZ3Y3NXdDgyVjVMYWdObGh5UmlCTDdsZG9obnB2amt4c08tQl83ZmIxVGI4MWxJejdINjdOTVJYQ0lVUGJpTjA3NTRnUHowdA?oc=5",
-        "date": "2026-09-29T09:30:00+00:00",
-        "source": "Letra P"
+        "title": "Café Martínez va por Vaca Muerta, negocia con estaciones de servicio y busca producir granos en Tucumán",
+        "description": "Café Martínez va por Vaca Muerta, negocia con estaciones de servicio y busca producir granos en Tucumán El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQODhFSUpSaGNZLXVQQjhTRGoybzJBMDJrMnpJZHpyT3p6UUxyY2tpQVlyZ1hPMFNOeWt0UVpQSUYwMU1oMjNDWnd3eThnOTh2Vy0xZGpkdW5PT0tPMTFuNDhPTVNySHNNMUVEX214TERnb3RyNFRad1hJNWFiOFZlZU1qcGEzSXFISXhrZVN6bjB6NHpJNHNfRFYzMnctT2VlUUx3RjFzQWR6WlNhaHlqWWpWY1FUeFBFTjlPVHYzUnFfVllRSnpsa3J2WlZZd0pDdlBDTnN6WVkyei1OX1E?oc=5",
+        "date": "2026-09-30T17:25:37+00:00",
+        "source": "El Cronista"
       }
     ]
   }
