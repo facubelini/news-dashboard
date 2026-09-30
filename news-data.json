@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-09-30T13:15:02Z",
+  "updated_at": "2026-09-30T18:45:37Z",
   "categories": {
     "Microsoft": [
       {
         "title": "Microsoft lanza Windows 11 26H2, una actualización ligera que incorpora nuevas funciones de IA y seguridad",
         "description": "Microsoft lanza Windows 11 26H2, una actualización ligera que incorpora nuevas funciones de IA y seguridad Infobae",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcVFPdXlJRlBqdklOekdIU3lHQzZ6VFhuVllvQlRpZmxqZVFrSDN1ZS1MellpdFpQQnpxS3d5WEpXZ296bGpjam1TbVpodnlFQXFwMTJkWUlOaXFFdTRDd1ptbW9hOURPaUVDb3JGbnJ0Wm8wVG1fZTJhaE1SYjRGTjhEejZiSFJhUUVoRmJxQ1hDRFN3MmJNME1KQWZnV05JTDRhbXkyaWVxSUNhSjVxUjhibS02TTFGY1hCbFNSVVJkXzZkRHhsVUZwUGExNmFNbHNzYkxXR0VRODAwTklRTFpCWDRoazBzRmM4bDRSb9IBigJBVV95cUxPeHdWWXVGbTB6a09wSkw1WXFxcDA4d0EzaV9RZktpbDlyTjBYaGxmdEY3VkQ2X0JXRE5VX241M3JNRHA0NmIyTW5JQldxaW9ILVd0aEdTTzFwTUttdmU1TWpURlhvOVJNUFlMTmxrS0N3RXB1dk1IZHRNZVNZSU1mV29aQnlEOFlhUExQOFdNMnIwcVRoZjNyV0w4ZmtvZnNIRVd4QVhIUFRwOGtxM24yYXhRcTBidTVvYkdURmRPMWxrdmNpbkliYjhfbU9lcTBFSFhXOHdBdExFWE9WYXlNYTNRRlA5d1g2Q3Rmak1Uc3VZcE1pd2xaM2tCRHlyWHh5N2lKS1V6d1laUQ?oc=5",
-        "date": "2026-09-30T09:00:06+00:00",
+        "date": "2026-09-30T09:45:00+00:00",
         "source": "Infobae"
       },
       {
         "title": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo",
-        "description": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo Perfil",
+        "description": "Microsoft cambia el rumbo de Copilot y se enfoca en el trabajo perfil.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjB1X1pUd0E1QUFGN1p1Q2ItQUpKUWU0bWlJS2dsMHR2aG9acGMtVVRZUl8zTHBybVA4N0k1ekVUVmZ4OFJaRmx1LWxtR01DMzJwbnRjSThiS19uRkJKR3dOS1hEMzc5M1hZTzdtOWVpazJyX2pKXzlHUGs4elpKWDl6eHBQNzFudjBQV2pjSG9xY0RnXzFmVklwUDkwSXJrNW03dWp5Q2VqZ3ZHQ1B1ZEVTc9IBuAFBVV95cUxNNWt5X1Z3clBNdTY1UFRobk1iZ1FvVnhWQzNkNGRHVnFSd3poM3NKQ0FtdXJmQWRROENUdFhhM1dkN2hTdHJpcmh2a0tEei03ajZ1VDlGbnFGWFhJVEV4SU1qWm9DQmZKYXEtSFJiNTVINFhNUURnQjlMM0pmaW4zZjZNMjV3a01GMUl6UmFQWDN0UmZlaGNnbWoxTDZROVZ0Y19yRmQzdVpxVEdEd3F4bDBtdko1WTgw?oc=5",
         "date": "2026-09-28T22:45:00+00:00",
-        "source": "Perfil"
+        "source": "perfil.com"
+      },
+      {
+        "title": "Microsoft confirmó un fallo en las actualizaciones de Windows 11 que deja la pantalla negra",
+        "description": "Microsoft confirmó un fallo en las actualizaciones de Windows 11 que deja la pantalla negra MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTI5TFBLQXFsWWJlRXJTUk84X2dBdDZnS0Y4MVlRS0lOWWFIdjlxdnJyWno2ZFJkNTVqRWY3S0VCdFd2MlJ3eU5fT19HaTI0X3pnaEwxNXB4dWlfSllxU1JsRXVaT1RRbU5TZm01ZWdrX2pyTGdER2FMYmZPUkQ2dDRMNENkcjdzVVlPNHNPbHMxTG9YR3A0b3k3VkdlWllIMDFqaWVPbkg3VWR6d28xUk9SSGx1UzY1MmRkU0w1ekVGVnprUWxJNFBhVnNnS3U0NEJVMUxmWkk?oc=5",
+        "date": "2026-09-30T18:00:00+00:00",
+        "source": "MDZ Online"
       },
       {
         "title": "Bill Gates, creador de Microsoft: “La inteligencia artificial puede causar mil millones de muertes”",
@@ -43,22 +50,22 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1h0QUU0M0pLY0VnTWR6eFg4VHNwbDlXTG8waUNYNkNBaUgtUGxCOHJKMlNXSDZMY0kxMmdWcEk3ZkpWZXBuYWxaVlo5N0hrNkpSS1hMdU95dEVlQ0d3UWpYcnptTGV3Z0pQQTdOdk13bjdILWZKZWhvR3RXWG91RFU5WWsyM0RqbkxxdXZTNEY3NHhNR1RKZUp1ajZCbDVjVnA4OF9kVjlCNW50NUJN?oc=5",
         "date": "2026-09-28T11:17:15+00:00",
         "source": "MuyComputer"
-      },
-      {
-        "title": "Microsoft actualiza Windows 11 con un menú de inicio personalizable, más funciones de IA y de seguridad",
-        "description": "Microsoft actualiza Windows 11 con un menú de inicio personalizable, más funciones de IA y de seguridad Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZEZ4WV9iWm5xYjl3WTlTdnF1MVBqLVhfc3FiOFFuajRKd2x0V05Ia29TRzltanI3SGkxRUpDdjlSaHRPdmIyX1BmaEswMnRYa1l2bng2RXRhWVh0VW1uUkY0TUpwbnFvWEVMcURkX3pVTkQyYkstUGlLQjdVVzl2ZUJqQmJuNG1jN1pPVlVkeS16bnFGRHo1STh2S3hiX2VzRjNfWmlaQ1kwQ2NNZXpYTlBzWjdfWXhGcDZFUGdpeWxKM0t2UkVMNHNVT1R0NFpkRU5Ma0F2WHZOMkFX0gH3AUFVX3lxTFBQZmpjSXRPQXo0QV9kX1lzTUJ3S1BHRHlxc3doQUJzazE4Wl9wRnFMdWs1ay1wVDYtdndvVDluRmhJZmtzTnN6dmZodUFOMUd4aktha3EtcFVRV0ZFOHJJR25uNkZOZXJkRkhkZHNoaG1kWlJuWlpjbTlMOEhESzg1NUIxZlI2aEo3b1NCZVR5a09lOHhBSnJUQTNQTFNZRHRSU24zbk9OMkZraGozTDhwX2FBU3dHaFlMQWxQcUpjM2RMWjRPT0dNMmI0d1JjZ0hYSGdNN05xWkJYUU9pc1M5TGVRUGRfNUtaQ0Vnb1hzXzY2ZXR5U2c?oc=5",
-        "date": "2026-09-30T12:17:33+00:00",
-        "source": "Infobae"
       }
     ],
     "Marketing": [
       {
         "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente agenciasanluis.com",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
         "date": "2026-09-28T18:29:00+00:00",
-        "source": "agenciasanluis.com"
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
+        "title": "La importancia del marketing digital en tiempos de recesión económica",
+        "description": "La importancia del marketing digital en tiempos de recesión económica diariopopular.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVJ2cGMyNmx5SDJvM2M5UmFSWXMxU0Q2VlMtaVJVRkZNTzdpTUlsMVZkeElJY3RyVmdKTExDYTdMNlJnQmNzN2dieUVUbi16SEU1cEg2NVkyVmloZTVTejg4QmpJZUlURVRCSWl5TDZyZThDQmNZOWtkSURwLWNTMXFkbWUwNHNScnlVV0ZLMmNWMjlFemlkYzhXTzNVaFd6aEFsX3BuX1VJWkJQY1BfUi1NM2N1Z9IBtgFBVV95cUxNZVJ2cGMyNmx5SDJvM2M5UmFSWXMxU0Q2VlMtaVJVRkZNTzdpTUlsMVZkeElJY3RyVmdKTExDYTdMNlJnQmNzN2dieUVUbi16SEU1cEg2NVkyVmloZTVTejg4QmpJZUlURVRCSWl5TDZyZThDQmNZOWtkSURwLWNTMXFkbWUwNHNScnlVV0ZLMmNWMjlFemlkYzhXTzNVaFd6aEFsX3BuX1VJWkJQY1BfUi1NM2N1Zw?oc=5",
+        "date": "2026-09-30T17:53:00+00:00",
+        "source": "diariopopular.com.ar"
       },
       {
         "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
@@ -66,13 +73,6 @@
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0td3AzS292aFdYU3BJa0V4dkRudHNZaWlIa2dNQmFfUk15c2w0Y1JIdmU1bkpCTHNfTmxNS1hKSUZjYXc0SkhFdGxDV2p5M0lNd0g0WWFVUUFVLUVBd0VvXw?oc=5",
         "date": "2026-09-24T10:00:20+00:00",
         "source": "UNNE Medios"
-      },
-      {
-        "title": "CRESTA-UPSO: llamado a inscripción para cubrir cargos docentes del primer cuatrimestre de 2027",
-        "description": "CRESTA-UPSO: llamado a inscripción para cubrir cargos docentes del primer cuatrimestre de 2027 lu24.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzUwb2Q1MGFlN25xY2FLVGEzNEhFbmdydmlKdGRBeHJGZnlwV1AzU2U1Y3kzWXVjdkJNVWc5Ymx6V3owYUpSNkV5Q20wVzJucWlGRzhiS0UyanFPSHRIMGRrejkzVTFnN1ZWVnl6R1IxUEYtMEUyWW5RSXFrbS1KWDlMckVFY0Q1NlB6SDF2RG5Uc2lVa0pYX2oydUtMcUhjdHVZRG85bTN1R2I0cmlZYTh3?oc=5",
-        "date": "2026-09-29T20:37:19+00:00",
-        "source": "lu24.com.ar"
       },
       {
         "title": "Capacitación sobre herramientas de IA y marketing digital para pymes",
@@ -89,48 +89,41 @@
         "source": "ArchDaily"
       },
       {
+        "title": "CRESTA-UPSO: llamado a inscripción para cubrir cargos docentes del primer cuatrimestre de 2027",
+        "description": "CRESTA-UPSO: llamado a inscripción para cubrir cargos docentes del primer cuatrimestre de 2027 LU24 – Radio Tres Arroyos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzUwb2Q1MGFlN25xY2FLVGEzNEhFbmdydmlKdGRBeHJGZnlwV1AzU2U1Y3kzWXVjdkJNVWc5Ymx6V3owYUpSNkV5Q20wVzJucWlGRzhiS0UyanFPSHRIMGRrejkzVTFnN1ZWVnl6R1IxUEYtMEUyWW5RSXFrbS1KWDlMckVFY0Q1NlB6SDF2RG5Uc2lVa0pYX2oydUtMcUhjdHVZRG85bTN1R2I0cmlZYTh3?oc=5",
+        "date": "2026-09-29T20:37:19+00:00",
+        "source": "LU24 – Radio Tres Arroyos"
+      },
+      {
         "title": "Inversión en publicidad digital llegó a USD 327 millones en Perú",
         "description": "Inversión en publicidad digital llegó a USD 327 millones en Perú Infobae",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGRmeHctTFNtWTRMYUVmYlJnQVJ2S2pQMGV5cWxGMFZTMzN5cEJYQzNkWEdJb203cVhSTk9Pc3o5QW1lNGZkOXFBT0k1ZFQ1b08yZFRvX3hpRm9XVFpfUW9pT05mYUhKSHVNVlE5Q0ZBUHhVR2NnUVFWMlJkZjg3Z2sxTjVRY3JxcjFlUnludWdhYzZ1V3FaYjhDeW9tVFJxbTdkendLZjXSAcMBQVVfeXFMTWRLazRuYVROWDZDQl9UNnNFUTgxRmVNOFJ6VEVWX1dYWEptSF9FOFBkZVRPYnBVM1c5VlplcG4yZGtuTVNxUWZXTDhrRndScG9GU2JySlJTb05ZdVE3QTBaVmgzRnZJTHl2TEJDeHpsR3VPRVEyX2JndUVONTFRRGdLVk9MaERlVVp4eDRMUXdJeWotVDNUVmRHUWI2NURybGdMNVFCY3VVRVRuc3VyQWJkLW5qTVpFLWxDV0pCMDQ4cEtr?oc=5",
         "date": "2026-09-26T21:04:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Plataforma ofrece más de 60 cursos gratis en marketing digital e IA",
-        "description": "Plataforma ofrece más de 60 cursos gratis en marketing digital e IA iProUP",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzZDX2pKLUVKMmFYUm82ZU1VOTR1Y3d6Sm9HckdqRkIyQ0VuaHUyQzRrYUdFV1RqTktKbXRXTnBKWFJZYjdLRlpwMmM0WkRDaVZiSHhPb3ZMV3REQV9kcXhJM0dHcWhiMUM2Q1RtbWNWbEtvRG1STy04U1JoWldkWjZNRkhlZmxFTURMOEF5UDUtZHdpQTlOZ2Y1S0c2bTF5eFZ2dzJB0gGrAUFVX3lxTFBRWDNpdzNvYVJTME9Gb0oyVDB1YU11cWc4YnM0QllmdWhpUElpelJhYU5iS1VROGZaeGNiTFItdk8za1poOUZLeDZYZ3ZHWF9zeWRFTlBSZzNTSnBiYnFsVXQySXR4R1FldlNWc2dQVHdqbjlmd2VDSDEzSUZfN1ZsbzV5M0hFallpNWpyZ2h0RzN1Sk13T2JIYkNnLWQ1VXJ4WnVJZk5pMFU5Yw?oc=5",
-        "date": "2026-09-14T07:00:00+00:00",
-        "source": "iProUP"
       }
     ],
     "IA": [
       {
-        "title": "Dialogar con Roca gracias a la IA: historiadores y descendientes le hicieron preguntas al general",
-        "description": "Dialogar con Roca gracias a la IA: historiadores y descendientes le hicieron preguntas al general Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSFhVZy0tWXBlTTNaNFN3NGNjX3kwZEUyTVcyMG9mQTR3RkdfRjhsdVgxMkVHd0wwdHhPZG5iVnU0eUhTQTV5RmlQbHRUU0Z3Q3J4YnlaeVJrNFVmTTNtRzJSRzBzVHgzMmJxSFZodFF0RWFrRDREQmRGOXp1M19ENTlTNkxzaHlCelE0dzQxdUtpTHl1UTdDSzBsTHVBdzVjSnluZVRwZUlkQTZSeXNMNGxHRXFtUVYzQWdwbUhKZkVYamZqWTFmam02TG8zbm9SUzhZUkw4OWPSAfMBQVVfeXFMTThOWDAwMnI3N1VWU0VCM3p0dFhXSUhubzJmOE95dGFTVy1WZTU3cXIzR0E4MF8wTHQ5dHR1SE5LT1BrZjRuanUzZExUVHd4c3NRVmg0bUNxX1ZUMFY2TTZmX280QlZ6NWkwalRHa2ZtX2daOUdobFFQdHNobVhnR1V1M0huRnlNNXpRLTNJcjlmSkE3WXBOUWlVS19WZFlvRDdBNWNzZFZRZkthQ2hPNFFiT19lYi04QTNoVDFhekdBcU9NMm1QYXRxWGVjaTBPVWlJdGJLSGc4Q3JkakNRN3dyRnlsbTFLTk8wbmtYdkVYNE9F?oc=5",
-        "date": "2026-09-30T07:17:00+00:00",
+        "title": "Inteligencia Artificial. La firma que falta",
+        "description": "Inteligencia Artificial. La firma que falta La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfYXVaSFhpQ0twZVNoVnFNN2Y1dzhCYkFGdnlyTlVrMWlGQkJFTFVDVzlDY3RMQWpSNVRCSEJzNGVNQ25OLTc0WFpTZlZOM1AyWlh2U0VKRmNpMWE0bzRSZHlZeHJqU2VfMV9yRVJudw?oc=5",
+        "date": "2026-09-30T18:21:19+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
+        "title": "¿La inteligencia artificial nos va a matar a todos? Esto dicen los especialistas",
+        "description": "¿La inteligencia artificial nos va a matar a todos? Esto dicen los especialistas Página|12",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT3FpeDVhc09ZSHdibVBjamY5RldnN3VTT0RjZ0wzTnFrVDktTHg3NHRldms4TDM4cmZtbHVpbGJ4VUh1Y3hDajgzSnROUk40bl9GUGZtR0trQjN4WW93cUJFa3h5Tmg1UmNVZU1ScEN4Yklsd1B2Z2JvaXVjZ256eHV2M0JaOVFTQXBWYXRubEN6a0I4RGlhR3NlNmhzX2hoSUpMVl9qdEgxTWJlZUZNX1FhRndhLUVjcVE?oc=5",
+        "date": "2026-09-30T16:40:24+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "El impacto de la revolución de la inteligencia artificial y la robótica en el resto del mundo",
+        "description": "El impacto de la revolución de la inteligencia artificial y la robótica en el resto del mundo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY2dEYlpqSm1kOTZIc0xzTEpiZDN1SUc1QlF3VG1kRTVZYTRXQUxQSkQyeF9JWE1Kc0ZIYmtpVUpfdGRybWZsbUJlZktsb1VlMVlsODJHXzBLVHcyS0JQU1lsMWVxVGotbFFZUFhnczFRZEtkQVNfcE9KczZ0SjhFN01uNG8yN0h3VDA3N2NUV3BHSEMzRnBjWTJCX2QzRWlXUWl2QmZsTUx3V2phNXJaZ3JWazhmVWdMT05PdU83OEI0X3J1OUtsLUk0Z09sNGZyVWg1eHY2SmE3am0xQkHSAfgBQVVfeXFMUGpaelg4clNiY0pFem1SbzA0T0NObThZQkRjVW9HQ1FmVS1jdHhMQ2lCb1AwVEdhaFFNeEJiMWJBQmtYTDFwQzItZEt1WUNNeUU0bTc1WFd2cnhrLXNSMkxJeTF6TGFLZE9zbVEwTEFqaDFMbG81OWhYNGNXX2s5Y1RXbXZXYUxQbmtJb0tYM0NHdV8zbDlwNG9OckxuTU43a1JEc1ZOTmk1cWQ4bDljdkprZkx0WWF3WnBjcHY5YTZSUllVZzlMd1ZWeWJNMXRXYklzcTZfdlBtbHBBR3NxVmgzWE1OQXFWZy02RHVVVVZLY3lzZUJKclc?oc=5",
+        "date": "2026-09-30T08:00:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "La inteligencia artificial abre una nueva era para profesionales y emprendedores",
-        "description": "La inteligencia artificial abre una nueva era para profesionales y emprendedores Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUm15bXdXRkVYTEU1eXBXbVIyQWMxWlBLaTFQUmNOSHVzZWYyaC03a0JYNDZ4V0NWM2kyVmNPTVgteFhVTjFjSVlNTmpybndDWm5xM2pONVFhajRSMHZCVVhFSHkyakNMTWRZSktoSkVtelVfNS1xNVh6Q19tUmFvOWp0ZjdBQ3hyeGMtbjNUeGNPOGxrR1FmbFlRWGpERm45VjlZMkpIeHRUR2hncVI2a2dXbTl6d9IBuwFBVV95cUxPVmVSMzZ4eVpLNFpycGNqX09CSjBhQUxveUw1N1lxZFd2a1FsTWxFY0RQQ05Ma2RsQlUxa3U2eVVwazl4UFNlM0pySkp4Zy04Y05wMXhFV2ZHWGZQRk03Qm9pajMyR2R4R1Uzc0Z1N2p5U25iQWR2QjdQaW9HSjhZQ1BSRUtfYXhoZGFWM3ZYclFSbkpXZ1NLN1c5U2ZDQ2tvRXRBXzlZQmVVX3pnempNSGh4OElvek1Dai1B?oc=5",
-        "date": "2026-09-29T13:42:04+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "FORMACIÓN DOCENTE: MÁS DE 29.000 PROFESIONALES PARTICIPARON DE CAPACITACIONES EN ALFABETIZACIÓN, LECTURA E INTELIGENCIA ARTIFICIAL",
-        "description": "FORMACIÓN DOCENTE: MÁS DE 29.000 PROFESIONALES PARTICIPARON DE CAPACITACIONES EN ALFABETIZACIÓN, LECTURA E INTELIGENCIA ARTIFICIAL Gobierno del Chaco",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNLVJTZmZWaDNHbFF6VGZjaGxaZzFGVjBlY1YwOG9IbG1IcW5paXFfZmZ4cEhvWmtSRlVEWk5jYVoxSElxSkFhc1BkNDNEWmZjc3p2el9xMEhIQ3VURlpmeHBDTVFiMFRSdV9qQU85RnZnMzMwVDJfYndPTDZLRnp4TEo1UGNFY1JKQ0hHU042Y0JiNkRpMG1penlZSWlpc2JiLTBhRDNFLVV6S19sWlhfN3d5UG9fNm5xN2FPMzNfR3NVTXZrdlFVa3J2XzR6YTJmQ0RxMU5XUWVUaUNjbGFaYWxiYy1PaG5hcmhrbThJSGFtR0ZYd21WeWpkRWZjeWVyNFhvQw?oc=5",
-        "date": "2026-09-29T18:38:07+00:00",
-        "source": "Gobierno del Chaco"
-      },
-      {
-        "title": "Cómo la inteligencia artificial potencia la desinformación sobre la guerra en Ucrania",
-        "description": "Cómo la inteligencia artificial potencia la desinformación sobre la guerra en Ucrania Chequeado",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnJneC1LQ29NVnF5YlZNZDFvRF9QS0JDeEpVRWtyNnhoZmxwMFRxY24zVUZCVF9MUEs4MnBYRGc1RXpVeFlwRGNuek1HMVpINi03SzNCX2JhVkNtMU96dHNYQVgtMVVaY2l2b2dxdzZoY1ZHSlRUaGhSQmd1R2haclgySHJxVjBqeGx0Q2N3Ym1NMl9iR1lhVDhPYTZvU0xZNHljenpoRnlzNjdDYklBeUJ6b1JBS0VGNzNCMGRDYw?oc=5",
-        "date": "2026-09-30T11:04:30+00:00",
-        "source": "Chequeado"
       },
       {
         "title": "Los gigantes de la inteligencia artificial acordaron autorregularse tras reunirse con Donald Trump",
@@ -141,20 +134,34 @@
       },
       {
         "title": "Trump defendió la autorregulación de la inteligencia artificial, pero dijo que actuará ante posibles abusos",
-        "description": "Trump defendió la autorregulación de la inteligencia artificial, pero dijo que actuará ante posibles abusos Perfil",
+        "description": "Trump defendió la autorregulación de la inteligencia artificial, pero dijo que actuará ante posibles abusos perfil.com",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXdyVWxSZXBUT1ZtRGR0cDFDQzhKUWw2akxJRnN5X1NvdnE0Y0NDQmlYY2xVNEIxb1ZXdVZOTmh6X1I3S0poYThDdVdkNXZKUkJMb0VPa0RadU03WXlvTkpvX2VRYk5mWm9tQ3VPVnJTeVV5TFQzNEpVT3dZbjhkejYwVFlYb2RvTUFhUFNsX1Rva3BBQkFMYmVydDBFZGhSUXVkUGZKTGhrQU9VWVRWa0NlX0tqbXVhUkJNN1FKc3U3R3BBamZzSmdSaWw3TmRHRlFlX1FHUmZMMVdBdXZVMDBZOWk2WHliSGxOVVl2eW9wX3B6ZlpXcFdkV0QwaHNE?oc=5",
         "date": "2026-09-29T23:52:00+00:00",
-        "source": "Perfil"
+        "source": "perfil.com"
       },
       {
-        "title": "Inteligencia Artificial | Qué se sabe del código de buenas prácticas firmado por gigantes estadounidenses",
-        "description": "Inteligencia Artificial | Qué se sabe del código de buenas prácticas firmado por gigantes estadounidenses Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY2w2aWhobTVVYUplVFdIWFlsOXhJb3RTZUNOSHUtcEN1aTNIZUNJaHlNWkczczB5ZnBOZ2ZYNHlFS1pEU0s1TmNRRkU3ZG9nNEV3WFB2MGZzWk5WWGE2d3JJLXRLSThMdXVZRlZ5by1RcWNxcGNJdzN3OFhJcmpISVFpRF9MNDlnckZkak9YMHBJUGk5OWV6a0VCZ3dsSkJOdTBPZE11Zm9RZFBMSy1aN2U4WE1ZVk9LNXhkU3ZPczVCVThfYnpyRzFoUVlOUnZ4STJmbWk2cjhjVjFUNk5mblBGSzc4V2U3UEl1VWZKTGpEZkU?oc=5",
-        "date": "2026-09-30T11:25:00+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "Qué se sabe del código de buenas prácticas firmado por Donald Trump y los gigantes de la Inteligencia Artificial",
+        "description": "Qué se sabe del código de buenas prácticas firmado por Donald Trump y los gigantes de la Inteligencia Artificial Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzdjTmNJdWRGVHNqOFV5dkQ4ckszOE1ZbXNmZXEwUzNYSHhqQlVHWlFuT3g4a2Y2WHRUYUFrMzFpSUVkWDUxNTUyRjB2U2RZdHBENjFSc2l4S1VDNFVEUDJoOTlwNEVxUk9uaGI2el92cF9qckxWNmZaZVR3OW9pWS1sN2pwX0RlZjBNVWNQaUtYal8wRkRZX2J0YWJOV0FzWkp5c3VRdWdWbHJIWmRkcXRzVFc0WGoxeEFmaW5LQTBwaHY0X1dFWA?oc=5",
+        "date": "2026-09-30T15:01:17+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "OpenAI presentó Dots, los agentes de inteligencia artificial personal que nunca descansan",
+        "description": "OpenAI presentó Dots, los agentes de inteligencia artificial personal que nunca descansan La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT25FRGlQY1RTU2VUdkZVTTRXSEV0MmF1bjhqdmRBa1FGNlcyUUZ6SFF0V0ZpRVgxamJVclprQ1hsM2E2bFBSX2xYTHZPczhFN2toQ0tHQU0ySndlZGZ5T21MNVpwQjMta2JWRGNxYXUxWF9ERUlMVTdxdHBUQzBZS1dCQldQTzRlcmdkekxoQ0pNUU9MNVpJby1WZFBkVkRoMXZMVnItRGhxNzB2azNnSFUwaml6YTlwVFI1eW5BOWE4a3ZELW1FeU1qZjNkS1ZLOTJMZ3dFYw?oc=5",
+        "date": "2026-09-29T19:14:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta",
+        "description": "Chevron apuesta por El Trapial para triplicar su producción en Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2g0WWZCemV0bFdnTmtwamp1REREc0xfUEhPalVncmZfMGJTYzJob3h4QU0wZHkyNlBRVVd1d2RtYkgxbGhBSmN6STVERUt6QXNYcGNiTk1KUVBiTTVRN2JjOEROZmhBeVVIU2lsSnRuWnAtZl9ncWVyZEZmWUJtQ05jZ2pUV1NlelVHcVBHbmFnVjdKck14SVdGeGJ3dTZhWFVxZExzR0FaT1FxeVJR?oc=5",
+        "date": "2026-09-27T10:54:24+00:00",
+        "source": "econojournal.com.ar"
+      },
       {
         "title": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta",
         "description": "YPF y Entre Ríos firmaron un acuerdo para mejorar la logística y reducir costos hacia Vaca Muerta Infobae",
@@ -163,46 +170,39 @@
         "source": "Infobae"
       },
       {
-        "title": "Vía YPF, Entre Ríos se sube a Vaca Muerta",
-        "description": "Vía YPF, Entre Ríos se sube a Vaca Muerta Urgente24",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUHVpRWhuQmVzM1JnSjlDV21fLXNCek1OQzgtWkhZcnBaMVBvZXRZbmN0YnVhcE1KMVd5Wk8tczk2MTBMcVZSNFFEaU04ZU01RXcyRjhwbkNFTmx3SXdhT2dBaWhLZGNORzE5Q1VlV1dmZWptc3Nkb19lTmRuUdIBgwFBVV95cUxNa0gyS0t2NlVIR3FiOTFsYmhDazJOVU51M3c3azJGcVVNM0FZTlZvRHVmZUJGZS1qUU10M1RteDRyWGpVdlZGekFnWXAzcEhSeWtkalpwd2MtV1VILWoydktrQi0zb1k5bWhVUE1ic1Mzc1ozdjdGM05rY1J1dWpSODh4SQ?oc=5",
-        "date": "2026-09-29T12:12:17+00:00",
-        "source": "Urgente24"
+        "title": "YPF y Entre Ríos firman acuerdo para potenciar Vaca Muerta",
+        "description": "YPF y Entre Ríos firman acuerdo para potenciar Vaca Muerta LA17",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnMwcFZDMlJ1VjdMZm9LWDFJVjhockpLZVpQLTIwVXM0UnVyRlphVS1COEotRF9pbGR6c0t0amxXRVU1ZUJuVEpya2FHY3Q2Ymw5OHl6V2dObEhaSXVNYlBCRUVLYkN2ZkpFZE9aXzltUmYtTV9seThMZENzNTNXR212aFI5aWFSRG82X2xhMVhEV1NNNFlXZkYwamw2SHNtTVBQT1VNOGVLWnJJcEhMVEF1QW1JYUFVVFdzb1h3NzdzX2g3RUg3T0pSMUQ?oc=5",
+        "date": "2026-09-29T23:27:00+00:00",
+        "source": "LA17"
       },
       {
-        "title": "Acuerdo histórico entre YPF y Entre Ríos para mejorar la logística, bajar costos e impulsar nuevas inversiones",
-        "description": "Acuerdo histórico entre YPF y Entre Ríos para mejorar la logística, bajar costos e impulsar nuevas inversiones Gobierno de Entre Ríos",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFWE9EcFRmb3ZUYkVPa1ozcXpYaHhpakQ5cDNJejVGWkVranZLV216SDhRRmRCM0pGa1RXdXhzbzc1bmFJSXBPNnJxQ3BrLWFDU29oOWlONjFGQQ?oc=5",
-        "date": "2026-09-28T20:53:24+00:00",
-        "source": "Gobierno de Entre Ríos"
+        "title": "Entre Ríos firma un acuerdo para vincular la provincia con Vaca Muerta tras un acuerdo con YPF",
+        "description": "Entre Ríos firma un acuerdo para vincular la provincia con Vaca Muerta tras un acuerdo con YPF La Nueva Provincia",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT2kxc2FIckZxTHBkOHV6ZGRMX3BwRE0zdTdqZGc1MG4xUl9kU3dHWE44Y0lmbU5OYll0U0d1UlFBM1dLVnVwU2l4ZTNjMDdfUldpTE12TWVlMFN4WE9OaWNlN3BjOWJWc1dIZ2JaNFBjNkRrZkZwRktSb2htaEVjbFlJN2o3Tml0Tk9BMHFodHJ3d3dORE1nRU5RQUFEa2lMS3dqaW5faWRZSS1vVGFkT3pXUFJDcVI4ckVUNkt5aWlpX0duSG5LVkRiS1ZyS1VwLUMwOUd3?oc=5",
+        "date": "2026-09-29T10:05:49+00:00",
+        "source": "La Nueva Provincia"
       },
       {
-        "title": "Video De Vaca Muerta al océano Atlántico",
-        "description": "Video De Vaca Muerta al océano Atlántico Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWU1NbFNZdkhScXJSZmQwcUJzb3NITDB6VkVkLXlpLUk5aUJqc2I2QXl3SHhTTXptUHJCYzR5V1NvcXRUcHpxY1NFb3A0TXl5M3E1aU96emlXUzQ5ZWlwdExKdnJMcHVvRmJSbUlYN2tyNVRDNEZkOUlKN3k3UXF3M0hxTWhFTC1L?oc=5",
-        "date": "2026-09-30T12:21:39+00:00",
+        "title": "De Vaca Muerta al océano Atlántico: VMOS, una ilusión corriendo hacia el mar",
+        "description": "De Vaca Muerta al océano Atlántico: VMOS, una ilusión corriendo hacia el mar Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGExVm8yekJwbTUwSXZWZEdzcXpZS3VMalNuTW8tTHFnN1dGYU1YT0J4aHhDaGZNckRaMm1JMDl0bzdsME9PYUUzTmJabjRNMGpQMUNYSmxvcGNkZU1CMWdvaDA3UTFueV9mNnlUR2dFVWlEcEZhMVdlaUg5WGw4U2NBSElvTG9HVkRVcW1ldXFPNFJKYktnWTh1YjdOWU1yeHJVZlhIdnR2UUFV0gGyAUFVX3lxTE5veldXWURUZU9mclJlbE01RlBOTXkzV3VhVGhoNTBuZXZNV0FJaU55U3c2X3dzQ1JEdjhJYUxDbUNEM1ZRNUg2bGhHRFdaaGprcGhQZjd2U2pwRGVtUE9kaDF1S3lyMG1WN05mVjBtaE0zZTdBTk5Ba1FNMTFUY2tpSEtLUVdhbktZQ09laTRQS0JzZGlBQ3lGRUtoSVBMSm52VERFUzJXY2dielM1ODRUOEE?oc=5",
+        "date": "2026-09-30T14:01:16+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "El impacto multiplicador de Vaca Muerta, en debate",
-        "description": "El impacto multiplicador de Vaca Muerta, en debate Página|12",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0ljbXpTWnB4UDFSdjcydnBOS0lVWi03UHJMa2cxOFlXYnVDNTllZzc0M3plOVZfZVd1czdnZVJsNmM1bElPRjMyVW9rTGNjSXNZZ2pFZVB6ZTA4VWxFeFlUMVZ4bWIyOW1qZHNHdlA1SFExSHp3clFINmJqNDE2TTZZclJrVDdRX1p6bTBVZ1BSMjg?oc=5",
-        "date": "2026-09-29T23:01:00+00:00",
-        "source": "Página|12"
+        "title": "Tokenización en Argentina: mercado de u$s90.000 M en la blockchain",
+        "description": "Tokenización en Argentina: mercado de u$s90.000 M en la blockchain iProUP",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWU0QlJDZko2RHdQN2d0T3hCSjJvYmNjeEtwYmwxaU9uaXhlcVAwckxiSWtLRGkzb3hwekYzZm0zeW91dU1HSXM4cW5WVkVnUjRVQlkzRzk3Q0otVFBKLV9RRVBwTEVrQlBlOFFFV0VPUU5rVFBUa1dxUjdOamotS25YUmxwZHZzUVFoZDNrMTNhV3lKN1Q2eFpDZ1lRWWoyQmRpVnd5ejd5c20xaEVn0gG0AUFVX3lxTE9BYk90YWZtaGZkUnZPRnJnNnZpQ3lnUmxvTXRfS3l5TkhMU0dlUExjVVVrTGRlNEVVTGx4Z0EtVUo1YXhIMEFtbkpQSlZ3ZmJ3eGhTM1ZUYTFrRGhrOVhBR2sybFFkTVdkbThsMzBXb1E3am0zb2lGVVNwOGFIMVpyVDU2QkdCSEZrdmxPVEJISW5IXy1DWFJQWVJpLXZPNFYybjB6S0Ffams3OEFyUzhYTTROTg?oc=5",
+        "date": "2026-09-30T09:07:00+00:00",
+        "source": "iProUP"
       },
       {
-        "title": "Vaca Muerta cambia la escala: la desarrolladora que se mete en infraestructura, energía y servicios para acompañar el boom",
-        "description": "Vaca Muerta cambia la escala: la desarrolladora que se mete en infraestructura, energía y servicios para acompañar el boom La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQakRsNFRzZ3NJNTNvUFFyTWktQkliTXZvZGVFWks3UkJtYmZRdjJXOHhVRHpWeHhYOUp5MkRDdUt5ZTIwMmFZX1BZaU92SVJ5X1B5blA1eWtMMmV3RWE2eXhCdmZqN1VKdGFsRTJoNDZadmVUcUlKMlhXdWxPS2RUWVRQeU5id0tlTVRuM091bzBqQ3ZEYWk0RHBFMzJSdm9IME1hSTY1aUNFOFVfR3ZLbnJjY0xUdWdDdFRWUHA0bmlMTDRxaDBXcGhlOEEzbFB4Y2M2eHZiV2FhTGItNEM5cExmQVdkQ0lmX3FIYg?oc=5",
-        "date": "2026-09-29T13:59:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Entrevista. Víctor Ramos, geólogo: la carrera por los minerales del futuro y el potencial de Córdoba",
-        "description": "Entrevista. Víctor Ramos, geólogo: la carrera por los minerales del futuro y el potencial de Córdoba lavoz.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenFtR2c0VUNTb2RTb1paazhLbmhEM2lydExhRUs5MmhHTnlHVlFPYW9DZVpCdXN3YnRlQmYyNFFiWDdXNDZpdXFYZFJVUlg2eklaZUw1c2ktOXJJbGw3QUtpLVVDSXJBUUk4S0xaTklnZmdpcWNvWFhlajMwZm5Hc3Z6QWM1N29fd1dGN2FxNExHMmgybGJCSERMNUF1YjVmWXJnN1VXVnN5ellLMGI1NTU2RURYbFZiaFpJ?oc=5",
-        "date": "2026-09-29T19:47:13+00:00",
-        "source": "lavoz.com.ar"
+        "title": "El desempleo avanza en el país de Vaca Muerta y la supercosecha",
+        "description": "El desempleo avanza en el país de Vaca Muerta y la supercosecha Letra P",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamI3Ulh5cnlma0pPVmZDcmlMSVRIZXpjN0ZDM09ULV9xNkdUTWQ4QzM2WHE2amVibGYwWmw5U2IyX2NZTmc1bXZNNXczZ25yM2NZTW55M3oyeGFuUDhueGh5dlViT3c1enJOTEdoMjh4aEZfZjdzNHZ4UDNtVWJXUFNScFRNTnBTaWtrT3E3QWVwUUpPbTQw0gGcAUFVX3lxTE56LXJCVXRpYmRxbWJyaGxJRkJkUGxYbGdselp5c3NYcndxMmNqLUZXSFNxYkhpYjA0NlRfTXNNV01JWnIxZDJGTmpxaDBtbnVURU45eHZ3Y3NXdDgyVjVMYWdObGh5UmlCTDdsZG9obnB2amt4c08tQl83ZmIxVGI4MWxJejdINjdOTVJYQ0lVUGJpTjA3NTRnUHowdA?oc=5",
+        "date": "2026-09-29T09:30:00+00:00",
+        "source": "Letra P"
       }
     ]
   }
