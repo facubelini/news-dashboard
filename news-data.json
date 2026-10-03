@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:45:59Z",
+  "updated_at": "2026-10-03T01:39:18Z",
   "categories": {
     "Microsoft": [
       {
@@ -68,11 +68,11 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "De cara al ciclo 2027: CRESTA y la UPSO abrieron la inscripción para nuevas carreras orientadas al diseño y el marketing digital – Diario 3 – El portal de noticias de Tres Arroyos",
-        "description": "De cara al ciclo 2027: CRESTA y la UPSO abrieron la inscripción para nuevas carreras orientadas al diseño y el marketing digital – Diario 3 – El portal de noticias de Tres Arroyos Diario 3",
+        "title": "De cara al ciclo 2027: CRESTA y la UPSO abrieron la inscripción para nuevas carreras orientadas al diseño y el marketing digital",
+        "description": "De cara al ciclo 2027: CRESTA y la UPSO abrieron la inscripción para nuevas carreras orientadas al diseño y el marketing digital diario3.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNazBJLVUwNVpvS1QzOUNKbDJyaWhNTWV5Z3ppTlNiU2lVSTYxdUh6Vk04RlhraC1zTUU4bnk0emJJaXI2SFo1UnpxV2lGM25qYjFMV3I1NndjZDNtcFB2aFFhT0l2djY1TlF5a0JmLWZoTzZJSk01WjdWMXo0NThBZGdZTUR0WXJPbk9id1ZHaHNGakJQbW5pdWZmaDZ0MXpzREVDZUhOTDFzU0tLdmhUYVVnNWtjdjdpRHZ6X0xJbHFhTzAwLUpVNDRiSzF1eFMzeUNSOHR0eVAzR3liUW1UR2NBMjdUNHROaXZZ?oc=5",
         "date": "2026-10-02T18:53:40+00:00",
-        "source": "Diario 3"
+        "source": "diario3.com.ar"
       },
       {
         "title": "Cursos gratuitos en Avellaneda: el CFL 408 abrió la inscripción para capacitarse en emprendimientos y marketing digital",
@@ -82,18 +82,18 @@
         "source": "La Ciudad Avellaneda"
       },
       {
-        "title": "Encuesta de Evercore: Meta y Google lideran publicidad digital",
-        "description": "Encuesta de Evercore: Meta y Google lideran publicidad digital Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlZSLUcxSlhJN2oxNGlXdGFaeWxlTTBQWjdPMVVISXdIYXdWaDR6S1Nvekx0TklHdHhVTjNIVmRCN0hkZFp2c2VpNE0weS1tekZqNGVmOU1IX25LUDY1T3htNXZwaEFsSV91NVh6R1ZybW8yUDk0NXVkb0U3RGhOWi1zWlotbmI2Ry1SY3p2VWJrMFJ1UVJsSmRPelk0VXpwTDhabTYxSlplSFpRMVBTd2ZjbWFMMnBxWTFzSW9vZw?oc=5",
-        "date": "2026-10-02T13:27:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
         "title": "Trending Topic Streaming analizará la evolución del marketing digital: de las primeras webs a la inteligencia artificial",
         "description": "Trending Topic Streaming analizará la evolución del marketing digital: de las primeras webs a la inteligencia artificial MisionesOnline",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TazdORWNNWDBLMmdJczlXX3ZmOG9RRXJBSnpyZWdpMkdkYjNkVXJJTzVOdEpsVDlUeHl2XzBnRGROSjdiRlQxdk0zNGJBeHI4QTFIVFdjU2FNLTNIV3p2Q3I5Q1FWcEY1LW9VVzJvalU?oc=5",
         "date": "2026-09-30T19:00:55+00:00",
         "source": "MisionesOnline"
+      },
+      {
+        "title": "Encuesta de Evercore: Meta y Google lideran publicidad digital",
+        "description": "Encuesta de Evercore: Meta y Google lideran publicidad digital es.investing.com",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlZSLUcxSlhJN2oxNGlXdGFaeWxlTTBQWjdPMVVISXdIYXdWaDR6S1Nvekx0TklHdHhVTjNIVmRCN0hkZFp2c2VpNE0weS1tekZqNGVmOU1IX25LUDY1T3htNXZwaEFsSV91NVh6R1ZybW8yUDk0NXVkb0U3RGhOWi1zWlotbmI2Ry1SY3p2VWJrMFJ1UVJsSmRPelk0VXpwTDhabTYxSlplSFpRMVBTd2ZjbWFMMnBxWTFzSW9vZw?oc=5",
+        "date": "2026-10-02T13:27:00+00:00",
+        "source": "es.investing.com"
       },
       {
         "title": "La importancia del marketing digital en tiempos de recesión económica",
@@ -104,6 +104,13 @@
       }
     ],
     "IA": [
+      {
+        "title": "Así cambiará el trabajo de los desarrolladores de videojuegos con la inteligencia artificial - TN",
+        "description": "Así cambiará el trabajo de los desarrolladores de videojuegos con la inteligencia artificial TN",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWMzaEJqdl9QdjV3ckp4amZqY1NjV2lXLTIxZUdDUEJ1bVRqR2ctQmE3QVlwTTVLT0FRcjYyMzhxMXlSd3hVNGt2TmxxQmVoS2JBaF9URVltclNseFcwUEM0dmtEWERLMzhfNVJucW16VVJrd2xFVkk1MEIxc2JzeHJURWc3MjUtOFBKU1RKXzBya3diVHJjc2xmUnRtVWxqbXBVMElnVV85V09rUUFnaGdiQ0owaXpnSzVlaTllMGVMTkFab0JNNUl5X1RycldVWFJzMtIB6AFBVV95cUxNaTJJb2lOM09pTVRxZF9VZ3VHemNkeVBBcFdXYl84NGZVeWJmSWR1SURlQWJ1U1dyQU9pV2VSek1DLUpRSUV5LU0weVBsSmhXUTBvXzFXMjZNOXMyMU9ZalpaODNVcE1oaE9oZjJDejJxX1NVZWhaaGJyS3RDVm12X2JkZG9DWnZnLXNsNHBrZEdJZFpGaUNPVWdRX2ZRbmd2aXJ3dEtJclhPVFRzRXNoOGM1V1BIR3UtN0h3MFZac0k3NDQ3bUJ2bTlfTXlaRjEtY3h2NjBVTFV5REJRZ2EwbTdaSzdXMXMx?oc=5",
+        "date": "2026-10-03T00:14:00+00:00",
+        "source": "TN"
+      },
       {
         "title": "De la planta de urea a la inteligencia artificial: Pampa Energía destacó nuevas oportunidades para el gas de Vaca Muerta",
         "description": "De la planta de urea a la inteligencia artificial: Pampa Energía destacó nuevas oportunidades para el gas de Vaca Muerta Página|12",
@@ -119,25 +126,25 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Pampa Energía tiene 800 MW disponibles en Vaca Muerta para un centro de datos de IA",
-        "description": "Pampa Energía tiene 800 MW disponibles en Vaca Muerta para un centro de datos de IA Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMEVlWUxJZ0lrZ0N6MWRtQkJCLUx0QUpQZTJzYjhRT2NOYnM3eWlPR1hCMlVRVVdZVkdQVVFVU3lfazRDTGw1RGV4bmR6Y3VYT2U2WTRqUm92bkFDc2VVM1V6dWJid19taWUwcm8xQzNacUxLMHphOGVNeFV6WnpRX0xhb2xDeTdjemlKSU9NRlhtdXBOdlZ4aTNiQng2bnN4djBFZS1YenE5eV9PWDJvSmxwbm1xSnll0gG-AUFVX3lxTE5ROF9salBzMEdzcGhES0NVVTk1RlcweEYwUEx5alJHLTU1Vjg4ajJnU0VBdE42SkhaWUY0VTNqcmcyb2tTWTF3OWJla0Q5Zk1xRm5kQzc3ZlVlQzlXYW9tVDlkb3BlZWJGMlpfX21uWW93V3U5NWRnNE5rZ1RSQ3BWTThQUGNNMUJJdEVsZ1JIS0RSOFBlWVE2a0JwXzZTbF9qYjRkOEtMQVZSY2lfeVR6dlNoZjl4bXAxbnhBM3c?oc=5",
-        "date": "2026-10-02T14:59:26+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Pampa Energía apuesta por la inteligencia artificial y propone usar el gas de Vaca Muerta para desarrollar cen...",
+        "description": "Pampa Energía apuesta por la inteligencia artificial y propone usar el gas de Vaca Muerta para desarrollar cen... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTGVQa1dSTmttemxCdDFvekJPOS05dlNKeU9ZaWtZMUxPSERydExTNTRpRldVbk1vdXBBQ2lLZE9KX1FNc2xpaE1tZ1EyWnJUS0Y5TGZmUHh1S3hweWQ2R0h2M0haelpVUjJuSDE2eU5VTVFrMXlvWlBKbU8zT05BWjBnRkRveFJvYjk3Mm41TldfSzE3ajNWMW5LLU13VDdzZ0VvMGhYN2hOVnl6Z1dvcTJrYlI2T1VEZWo0VVV5Y29mWUR3cm55MVVnUm1mZWtya29PZzJzR0J2V0lXdUZRd0dUbW5SZ9IB6wFBVV95cUxPTjRob3A0cG8yanVrMFR2WXVDU1NCUjMteHVBQS1sQVNVVC1BQzd6czY5Xzl2TXJBdkx0ZnpzU0hZd0tIQU1PanBhN0laWHNNQ2E3WldZVUJaeC10T1p0MHJiRGhtcF83RUIyWFhIbUh2TkZRRnZHcmpjeFVMaV94RDQ0QjVjLWZfM0VOVzhnUzJZNDdWeXZRYWNGaVRwNnoxM09IUWFoMkpQTEhTNVBQZEoySFpUV1lsVFhtTHNkUkNkcVBaUm16VWI1eHhBdDQwcUw0SVJNbXVJdWkyM3dUSzRtaDlRSTl5MXow?oc=5",
+        "date": "2026-10-02T15:10:48+00:00",
+        "source": "Perfil"
       },
       {
-        "title": "Una IA convenció a la mitad de quienes hablaron con ella por video: a ninguno le avisaron que podía ser una máquina",
-        "description": "Una IA convenció a la mitad de quienes hablaron con ella por video: a ninguno le avisaron que podía ser una máquina Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRnFpNGRuV0JpcDZKeDA0OUFVTTRPUV9BMU9mUkNlRzY5YUt3TEItRU14RUV2SDlZSUFzMkdCYnhBY21yOVNBY29INHRTeEYtUUlBb0RRRkpDa3RzamFZTlotNHVrNHg3Yk1CdFlIeEJJYVdMMzgwa0N2SFRFN1o0ZXFSRThTT0cybXZ3Sl80aC1RYzhEMUFTdTRiZFYwWVlrYTZwd1dPd2NNNUJ4bDhPYk9LUXdnSDJoeEptTTY5a2Zkb1ZKZDFHUG5PLS1ZbGQwSkFtdGh4MVpIa3p3Vmc0bFZ3cHdKeDR1OGdaddIBhwJBVV95cUxOQzV5RVl0bTVubS1wMmd0TU9QcUVzMEphcmllX01BeXBpOXhuRVlhOTNROGN0ZjdJOEFFUGI0TnBCU3VvMmowWEpab3kyODduRDFORC1kUElQOFlsNWhrUUxXMng3U1JJeE5kM0ptSTBXdkV3Y0Y0TDlOMmtfaWhXUjhYRW9OVzJ2SWNHSVdqWERGTUJvZ0lFOHU1X1JKaVhpcTMwWUR5S2Z1VkJHa2NTUUJNemxyYTBfYWxDd1djdjc3Q3NDNXVYRVZiWmphTHAtdEFmZksyWW5HRjlDbDlVR1hqODNvMU0yS1Jtek9ET0ZMWUxaaFRxbFBjcENyODFUd0duUV82UQ?oc=5",
-        "date": "2026-10-02T14:41:07+00:00",
-        "source": "Infobae"
+        "title": "El miércoles 7 comenzará la capacitación en Inteligencia Artificial para empleados públicos",
+        "description": "El miércoles 7 comenzará la capacitación en Inteligencia Artificial para empleados públicos Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTU5cmtHYzdRellmYnNLekdWMUtRd3RVMDAyRHB5MTVodDA2ckhvYzJTN0xEYUhRblVVdkE3RXBjbjFDYkp2bFFmajR5RFJMOG94azNKLWFEUkQ2RnRVUTE2cm41M1d0WTk2VGdpUTR1c3d2WFFBMDVfWXplQlRfc2ZKSklmX2ZRUEp6SlJmSngxRlB4M0c3ZkRCNldoQUdzQzBXMkZad0R1anBQR1ZtUmpueVJTVmZMYm1KeUl6a3R1aFpoTnZQQnVTZ0JfaEJJVGhPeA?oc=5",
+        "date": "2026-10-02T14:55:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       },
       {
         "title": "Cómo la inteligencia artificial está influyendo en la desinformación electoral en Brasil",
-        "description": "Cómo la inteligencia artificial está influyendo en la desinformación electoral en Brasil chequeado.com",
+        "description": "Cómo la inteligencia artificial está influyendo en la desinformación electoral en Brasil Chequeado",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGIzTWZqd1BIaS1UaDA4WnBiUDA0TjViOERjOEdHRVRCbDR2cFVhX2pocmlmUzZxdmJUbXpxNEJ6dVhHWU5GZW9Ld2tKTWI0MWxMLVVDSkd0cmtuOWtfLVBkZUxMazNYR2NrNDBjRGNFMld0OHJwRDExV0dpRmV2NzZqZ1hQQVhuZEs2RFhfTDFVWjIzZkhZQ2tCSV83eFdHRXNtTmwxQlIzRzhQZWZremJRU29YRy1EcU9samZxQlZyMlNjM0xr?oc=5",
         "date": "2026-10-01T16:42:34+00:00",
-        "source": "chequeado.com"
+        "source": "Chequeado"
       },
       {
         "title": "Mondrian contra la Inteligencia Artificial: un duelo artístico que empezó hace 60 años",
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWVKZ1ZsU0lxTE5PZ0lGSjFGUFVITjhOaGRseVRXVzYybUJaZ2NPQXIwMlpuaklROHluSjVraTk4SzdfaG1hUng3R3Z2eUdhWDFRNmhBOFRPTVVxd3NreGtyVC1UTE04ZzZnUFF0dmJWNG9QTUR6RlVWZUdiWVlleHdINlFVc2ZtXzByRk9uMmlaeTZQd0tLMk9ScGpzV1dGb003R2ViV2NKNnpqNnl4TmpUOWRyR29ISFN30gHAAUFVX3lxTFBHTDktY2tMQ2R2X1B5YWc2TWFrZVRxU1A2RFBFY3Y5Y05oSTQtYTRZOGR1cWEwMFNMZ1BSbDZudmlOOFpPVThjQzFrbjRFdEJsTnFhRjE3anpDYUlWZzNRQ0w0NExkcXZnNG9IVUJwcWxKZkNIdjYyeExnZnRwaElBc2YzOWprMnR1RkY5Tk9YVkxVMnFadjVhdDhVbC1ja3dnUVRZNS1TajB4ZGw0RWF6VWpVTXEzUXAxOTNraUF5dg?oc=5",
         "date": "2026-10-02T04:32:43+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Inicia un ciclo de conversatorios sobre Inteligencia Artificial Generativa en educación",
-        "description": "Inicia un ciclo de conversatorios sobre Inteligencia Artificial Generativa en educación Gobierno de Entre Ríos",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGRoV1VHTVh6ZVhxd1lQVDJ4Vk1vSmxKbjJQZ1BkWjdtbFdleEhhM0VZUk93RjZjYThUQVlManNxSlhURXhhbENXd3Bva21LSmtXakZXd2ItSmJBN1RzTngycnVqWTM0bTBmQ2pqRlNQM0djYWFLMDkyUXBvOEljODd6VGlsSTB3azhLSkVuWG9Pekh0WUFfVDR5TWU3UlZJdVlLR2hEcmtCMlpMdFNSRVlzcFI3OFN5aVNvNHJRa1dHbEk?oc=5",
-        "date": "2026-10-01T17:33:43+00:00",
-        "source": "Gobierno de Entre Ríos"
       }
     ],
     "Vaca Muerta": [
@@ -178,10 +178,10 @@
       },
       {
         "title": "Pluspetrol y GyP obtuvieron el RIGI para un proyecto de US$12.400 millones en Vaca Muerta",
-        "description": "Pluspetrol y GyP obtuvieron el RIGI para un proyecto de US$12.400 millones en Vaca Muerta La Nación",
+        "description": "Pluspetrol y GyP obtuvieron el RIGI para un proyecto de US$12.400 millones en Vaca Muerta lanacion.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGgyakU2N3kweDFuOTN6azdKZHczcW42dUlud2NCNXhPc0VUV0piaU9JV19NS3JKVlgxaVlRQVdQS3ljVVhKUDRzYURxTk9GOWNZX29WY0pvQ2VDWl9YRTA5OUYtYXJWOThpWGVTU0JFVzVDcmloYnV0ZUVYaXM0dml3RWFyTGQ1eXd2NzhfMGNkeHZxNUFHV1F6bjg2cURQUDl5dUo5RWVVaERZSEhHcFFTeS1fMmc1dG5HbXNzRzU0b2tRUWhRZmxXUDRsYVluSFg4?oc=5",
         "date": "2026-10-02T09:29:00+00:00",
-        "source": "La Nación"
+        "source": "lanacion.com.ar"
       },
       {
         "title": "Vaca Muerta: aprobaron un RIGI a Pluspetrol y GyP con una inversión de USD 12.400 millones",
@@ -199,10 +199,10 @@
       },
       {
         "title": "Transporte de arenas para Vaca Muerta: harán una prueba piloto con bitrenes en una ruta de Neuquén",
-        "description": "Transporte de arenas para Vaca Muerta: harán una prueba piloto con bitrenes en una ruta de Neuquén Diario Río Negro",
+        "description": "Transporte de arenas para Vaca Muerta: harán una prueba piloto con bitrenes en una ruta de Neuquén rionegro.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTZhU2cxcllYY0ZfU1gyRWxBYm13c1pzM0dzOEh2Zk1fdnM5YmtMU1p1V3VGLUsxQ2hFdm1ubnBSRVJRakloaU5VSU13ZmxMdk9pMUtRdU4yeUtidjRmbzlpX09uUTZlZG9nanBFQUtiUkRaLVVjSWEzRzF1U2lHWld6dVlpNFNLWHZpSnF6U3RXMEJDaGp2aDRURzBIVzlPQlpBYzVMTkNQeDd2UGw5M2lpNHVlRFBzYVNxdVpxcnpUcVRUVEt6UkN6QV9YTGht0gHYAUFVX3lxTE9MdnRpbnZhTkZPc2NjQmpiZ3ZnaXB4TmxOTzRBcXcxYmhIdGxuTXVob01Ic25aZ3FWX1dTbHh1X1huZWlnSVdCeDV1V3RqQ2VNUWdNTUJvblRxb3FLLVlkUnU1RmFPWUV0cHhhVHJQb2dUU2VFeE1RT2F0YjhweHR0RGs1d1AyMTE1REVzN2RUaHBsc0dubGtubjZnYWRhNWl1TUE1NVBNdkxfTFVKSkp2YVJuczl6TDBHMGRCMHVXVEd0dzJHSlFKbXAwY052Rk5tVTBveS1uWg?oc=5",
         "date": "2026-10-02T03:30:00+00:00",
-        "source": "Diario Río Negro"
+        "source": "rionegro.com.ar"
       }
     ]
   }
