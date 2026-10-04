@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-04T10:21:25Z",
+  "updated_at": "2026-10-04T15:36:20Z",
   "categories": {
     "Microsoft": [
       {
         "title": "Un chaval de 16 años saca los colores a Microsoft: 17,3 billones de filas de datos a las que accedió con el usuario \"admin\"",
         "description": "Un chaval de 16 años saca los colores a Microsoft: 17,3 billones de filas de datos a las que accedió con el usuario \"admin\" Xataka",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUx5cWlxZFBBUHY4SW5aWC15VHR6MHo2UzRsMEk1d3M4RmhXV0NSS0NpNWlqaENPN1JJdHctUkZzSnl3WW1oU01RVE1zN0duUENSLVZlZTVkWE5YZjRnTy1kQUZKVGdRMWd0YTlpcG1sbEtfQVg0QlZkcjJqMVc1NVhIc1NoVHJ6VkRNZU9BeG5OajUxQnluYzEzX29BTXl5a2pDSEdpa2h0ZnNua0haVmloallXWU1iQUU4UUFxQ1fSAcYBQVVfeXFMT2Npd0NFbWk4VHhFV0k1bEwwcXFaWW9NY3BuVVpkN1Z0WVBaemxONzhNMjZ0U3NVYWpzNjBkSmIybElrTzkzbFRxOV93R1g1YjZTWTc3elFiaTV3eVkwdlh0U2E4MXl5VHBvdnVpX1ZWNVlvWmg5THBTbUpjU1dZbE5jYTRrcW5NRmNHQ1B0eVU5XzFWWm5XcFBwQmgyWTZucDFhZ3ptN2tuY29STjBxWjYzQmNSOEtpWXhmd3BHSVV4YXBBVHl3?oc=5",
-        "date": "2026-10-03T10:01:23+00:00",
+        "date": "2026-10-03T10:00:00+00:00",
         "source": "Xataka"
       },
       {
@@ -24,6 +24,20 @@
         "source": "MDZ Online"
       },
       {
+        "title": "Jugar en Windows 11 está mejorando gracias a Microsoft, y a los desarrolladores",
+        "description": "Jugar en Windows 11 está mejorando gracias a Microsoft, y a los desarrolladores MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFRCTkNLU0lURV9uZE5aOVZQRnNER29sTGhYZmpPSkRXMlZvUWxmdXJtSW9Wck1WcEdyRXhpNTlpNHNOSEhfWkdzSFZ2amlaZFp4NjZabm96Sm9CYkRWOVljbDhrZDhiekdhMkdtMGEyVmdTaDVGS1ZhU0pEOE9ILVRDb0VDNW93OHNUUjd3cm1mYkRUM0dlbHdKb091bjFDSlUxUDI4T0N1c3JCZXJsUFVBU1g4RnR0akE?oc=5",
+        "date": "2026-10-04T11:45:48+00:00",
+        "source": "MuyComputer"
+      },
+      {
+        "title": "Hay miembros del personal de la Comisión Europea que dicen que la alternativa “soberana” a Microsoft Teams no les agrada en absoluto",
+        "description": "Hay miembros del personal de la Comisión Europea que dicen que la alternativa “soberana” a Microsoft Teams no les agrada en absoluto Gizmodo en Español",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbTY3cm9OYWZOYnF3bVQ1bmI0Z0tWQ2RGaUgtNjVSQU4tTzRJSGx4WlYwQWEtN3B4YnoyNlVyMnRpQURvdkdtbWNwNjBUM1Q4ZXFieWNZblE1TWxEMVlEbEZjZzhWMlNXbTdwclRib3lIRGF3QURBeTBEWm1KNzZqb0dUaHZsdWxYQTB6NzZSU09XVlZYVEFKcWRNeEhiT2dleG0tUlBBYkpsQXJrRjZBd19xYlRkR3hza2cxV0Nob3ItNVRWTTF4cjFlMVIxUGoxZnB0MFU4SnlHa1l4RGRJSXdjRGM2OHZoQWNRNTh5LUVlc2xIQi00?oc=5",
+        "date": "2026-10-04T15:10:56+00:00",
+        "source": "Gizmodo en Español"
+      },
+      {
         "title": "Microsoft se gana la confianza de más de 70 analistas de Wall Street: el motivo",
         "description": "Microsoft se gana la confianza de más de 70 analistas de Wall Street: el motivo Ambito",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS2V2MFVZRWR1OXV3VGk5QTQwQ0RkZHJVd19tdzBWclJpRzdrR2JaM3A5VjJLcDNmdmZNWlpWa3l2OURRQlptQWhpOUhiUTB6MWQtb3AwaUl0bkVEMlgtdnhnZW0tS1YwaG1fSllfbFY4b2ZKci0zbWdHVlNYSmZXVFhSSkg2bkFrSkQxa2ZMLVlxNXl6MkNNY2ozTEQ0YlYwbEE2c3gxbG1uQl9kVzdv0gG0AUFVX3lxTFBVaEdUb2E4T0QtbXpzYW9PaGRacnlFdHVoVkhLMjJZYlV6MzY5ZkRBNnBhNGJsWkNWNU9lTjVYOHJNNlJITDNPOVdCeENKdzNQdENYbGp1R3cxZjdFT2NYTjQ3OXljdzF0Z0NDdnlGM0V2bUNLeUhUZXB0YmQ4d2FyY1JMSHhwNzd2dlNhWU1tOFdVN0lCbUdiM0lreDF4UGt3U0V3TnlfMUtaVE1hSzU0QTdoVw?oc=5",
@@ -35,20 +49,6 @@
         "description": "Microsoft quería que el CEO de LinkedIn fuera a la oficina cada día: ha preferido dejar la empresa antes que mudarse Xataka",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEZsX2xNdm1PajNaU2hpZUN0X0tHWGhZZGxPUGlwZG9EQkstbzdwQ3c4QkdoaFhqZk9EeHY1dlh2bVp4R24zZDZIWFE3b20xT21DZzFiWTV1TU05dkMweElLQU5XUnVsS2R5Q1d1OURXT2NGOFJCdFF4WWk4UGFkZTFCazVuYmptUVNTdWhJOWN5WmhKUk51eVg0MTFnUmxXY2xLTUEtMFR1eWhnc2JMMG45RHRoSlpYVWVqRF8wOHdOVmI4VkI0MktCM1BoX0FSWFHSAdcBQVVfeXFMT0NDMW85OTR1bnBFMXdfSGxRTzIwT0ZhN1MxUTEtRUw2Unc3RkF2YmdNYlp4dVVYOXIwckZzbEtjd3dNUURBbFI4X1p4WnBwNWNmaEJFMXpMU1psMEJXUVlZX01EZGRQTTQzRWxxMGFoQUdDeTMybkpEUUw5SHJhOERjLTNDLS1JSmx0VGd3aDVQdGtqamZDM1hRcHFqc3FGWnJWUGh2RGFrUHZ3Z2ZEbnBSWm1DLXNyZUVSU3c4MGJaOG1TbElSdW1VcENBbHJGbkZMYnhXOHc?oc=5",
         "date": "2026-10-03T09:01:22+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Microsoft recortará una de las funciones de XBOX más importantes. La promesa de jugar en cualquier pantalla no se cumplirá del todo",
-        "description": "Microsoft recortará una de las funciones de XBOX más importantes. La promesa de jugar en cualquier pantalla no se cumplirá del todo 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjNkZEFHd0NxUTNYQkVkNzFaRzhoUEFWaGsxdWc0Zk1vdHBxMHVEd1g2T0s0NUZ3MS0xMjF5MndnT0o1Rm5BbFl3cGRvWGZTbXRzY2p0cmQ5SnlwbVZzWk95VnNwRFl5WEJWU0FROXlEblNmdGVPM0NmSUx5a1l6bnBPWjBRT0txYVZRaGV1SnptY1pNNDhqMUh2UnE5b1dhenVxb1pjQ1pzVWNEVHFubjRvZzEzektySE9qdVZHNXNicFRPRktNVXo3b2M1SWZWZlHSAdcBQVVfeXFMTVVQeXI2TzlDSFp0cHV4Ukh5bElDMlIyRU5HTnZucGdaR1dVQ1RESjAwdmYtT3Y1cXY2Zk1SbHF4UENPT2Z2WFJsbnJJa1ZYdWY5N2sxamliT0J5YVljUTBrT3ctUGZ3TVBjOXc0bkFwZWRiUkZQUy1OS01jdEpZV2NWZFZEeTdIdWx4b0lBdGtiUjdHUUNfLVdMTXZwXzI5OGRhVWxrQ2lSYVhqRml5WXJ0WDRQY0dUbzBFTkJTS094R3QzekpaeU11ME9uZDNEQWdYVWNzNVE?oc=5",
-        "date": "2026-10-01T05:39:48+00:00",
-        "source": "3DJuegos"
-      },
-      {
-        "title": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI",
-        "description": "Microsoft cree que ha inventado el nuevo Office: una superapp de IA que quiere sentarse a la mesa de Anthropic y OpenAI Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSVM3NUlFTFpUSEthaF9JRU1seWJCMk5DR1pIaTRnMTZwZ0lia0F2bGpZUFlaVWNacVd6TV9yX3I3Z0tRSDBCX3FFNFJOOElJc3lVS1pyTGdsVXhoX0VRVU1ROVluSjNKTFIwUnpCRnlTTi1VSXhFUmZFanNpbWlTSENncW1LVndpY0NTNmUxaDZoSTd3b3l0NW9fWTZMbFpoaUNBZnlmY1NIeXVtSGdWXzhKTjZqa0ozRE01OFRmdlJGVVg2dXdJM3RSN1dPRVNYZnfSAdcBQVVfeXFMTVVmQzZoRUU0bk5vVkpPTEpnS3FVRkVRN3RvRjVQTHRTRGtsbkU5akFtQVBkckNDam9wMXZTclB6MFJUVTlLOVRCQXdvUktoVlMwMjVOTHdpY0JrNzBjNC0yUWRlSmxMXzZSTjVIUzJWQkJueVN2eUdOUHJNaVNGUVJPVmloRUlaUl8xTGdUdHREY29VZXhZVXcwMlpOTF9jUmlRTWpMVnZQUVlGXy1wLTE5S1pyQ3FtMWNsQ2JCT2FPNDRlVjNiQjBwdXprbENMZUVfbDdRTzQ?oc=5",
-        "date": "2026-09-26T07:00:17+00:00",
         "source": "Xataka"
       }
     ],
@@ -75,18 +75,18 @@
         "source": "ArchDaily"
       },
       {
-        "title": "Los Affiliate Leaders Awards 2026 premiaron la excelencia en el marketing de afiliados",
-        "description": "Los Affiliate Leaders Awards 2026 premiaron la excelencia en el marketing de afiliados Yogonet",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZFFzSGJPOVFmLXFRcmxZRzBUOGRSS0FuZElpWGZUWWNYZ1Z6WDVmaG9NT09yaTh3a0xIdW1GaVZwdnBVWncyZHM4UkhpejNvMmFhTllaemhQcmp5akVzQjdFOEJQUC1Rek1GSldXVFBGQ3J4SGl0QW5OMUhtZzNsWjNxdGRsRjVjeVhrd0Fuckl0LV9HblQ5RVpRX2VoanBzZ1F5eHB1Y3VjQzFmT0JKUjNINkI2U3h3SlZDMmlsRE1GaklQQzh1TlpBbG1vYkJwcXFFUnNkaHd5R3dxaEx2NmU0cW9Ydw?oc=5",
-        "date": "2026-10-04T08:17:58+00:00",
-        "source": "Yogonet"
-      },
-      {
         "title": "Trending Topic Streaming analizará la evolución del marketing digital: de las primeras webs a la inteligencia artificial",
         "description": "Trending Topic Streaming analizará la evolución del marketing digital: de las primeras webs a la inteligencia artificial MisionesOnline",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TazdORWNNWDBLMmdJczlXX3ZmOG9RRXJBSnpyZWdpMkdkYjNkVXJJTzVOdEpsVDlUeHl2XzBnRGROSjdiRlQxdk0zNGJBeHI4QTFIVFdjU2FNLTNIV3p2Q3I5Q1FWcEY1LW9VVzJvalU?oc=5",
         "date": "2026-09-30T19:00:55+00:00",
         "source": "MisionesOnline"
+      },
+      {
+        "title": "Los Affiliate Leaders Awards 2026 premiaron la excelencia en el marketing de afiliados",
+        "description": "Los Affiliate Leaders Awards 2026 premiaron la excelencia en el marketing de afiliados Yogonet",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZFFzSGJPOVFmLXFRcmxZRzBUOGRSS0FuZElpWGZUWWNYZ1Z6WDVmaG9NT09yaTh3a0xIdW1GaVZwdnBVWncyZHM4UkhpejNvMmFhTllaemhQcmp5akVzQjdFOEJQUC1Rek1GSldXVFBGQ3J4SGl0QW5OMUhtZzNsWjNxdGRsRjVjeVhrd0Fuckl0LV9HblQ5RVpRX2VoanBzZ1F5eHB1Y3VjQzFmT0JKUjNINkI2U3h3SlZDMmlsRE1GaklQQzh1TlpBbG1vYkJwcXFFUnNkaHd5R3dxaEx2NmU0cW9Ydw?oc=5",
+        "date": "2026-10-04T08:17:58+00:00",
+        "source": "Yogonet"
       },
       {
         "title": "De cara al ciclo 2027: CRESTA y la UPSO abrieron la inscripción para nuevas carreras orientadas al diseño y el marketing digital",
@@ -112,11 +112,25 @@
         "source": "Infobae"
       },
       {
-        "title": "Crearon una inteligencia artificial que anticipa hasta cuatro años el deterioro en adultos mayores: cómo funciona",
-        "description": "Crearon una inteligencia artificial que anticipa hasta cuatro años el deterioro en adultos mayores: cómo funciona Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamxnMXNOaHp0T0RVb0dzTVhiaGdjMXRkX1owMWJIV0dNX1dPaFMxUnNpbXZlV0FkX0x4TnJrcjlxcnFTakVtdDRLYXZ3Y3ktdmNKU2lncnBIWG1MOGRWS0ZjaXNiSjlybDUzVU5Xak5YSHNuYnRwSFQ3YVVRLW9lUU13Y2JzWmJ1c2VETnNLVWpwZWxaZHJSejlBbnNGU2kzV3pVdHg0VHFpeElUMnhpejk0MTlwSldQYjZ6THBwVXJMUU9xRGxPQ2tKaTfSAdIBQVVfeXFMTm1IRlQxNGdzN3dCUldUMEJrdlg1azRDWFR3WkJoMi1lYWFXdUNPb3M2UHAtWjFta1U0aWFKZTdJOVB2YW14Y016V05qOGtxdjBCSFV1czl1LVFJOWdJSzlMR2hKQzJjd2ZKUDRBTm9WOVZwaU84Tlo1RmNHUVdXSmVqdmZzQXE2bFNXZzk4dk16bF93LWpEdElMM2UzMmRfb0dkTXdLVm5abkVHbHVpT0VZbU82R09FZG1rUnNnOEY0VUUycXdmUUkzRkNreXM0aURn?oc=5",
-        "date": "2026-10-03T09:00:05+00:00",
+        "title": "¿Hay que pausar la inteligencia artificial? Un debate entre especialistas para la pregunta de momento",
+        "description": "¿Hay que pausar la inteligencia artificial? Un debate entre especialistas para la pregunta de momento Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmRWWV9zUnRfRU9aZl9sRVh1TmlQNUVZVEhZaGFNakV6QWVwQmI5eFFyV2hOcTY2bk1weWdIWVNvM19vdDJlVmVXMkFkLURPNHFuREx2VXRfQk03cE1DcnR4eVplSTNHZ2NfTTV3SDJELUUtb0N2a19zVUtScXJrc2k3VmpoNk4zVGN1VnVJOVkyRHRXMFFVejFCbnRWaGRHb215ZXc0b2syYU5lWUVUbG1QSEFsb24w?oc=5",
+        "date": "2026-10-04T15:31:32+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Trump nombra a director de inteligencia nacional para liderar comisión sobre IA",
+        "description": "Trump nombra a director de inteligencia nacional para liderar comisión sobre IA La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSy1LakRNS1BrYU5qblp0LWc5RU4wWV9zTFF3aTExYzk1T2k1TndwWFljZllveGx6bDBrME9lWFFlWE05OGpMSDdyOWFRUi1kMWYtY1E0RS1Qbk5jS2ozUHJYY2VaZ0xZaDNsVHdmNVlKVlBSYUFOekdNbUxHLVJCcnRaNkhld0doSW5WZFhSb2k4SGRtZGV4VVZ3RTVnLUNFblk1QnFyUFhFNXFmaC13NmVwdlR6aGxyaUZIRWZPYm1NV0lfam1pM0RBcHFzZ2RR?oc=5",
+        "date": "2026-10-04T14:15:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Tecnología. Trump creó la \"Fuerza de la Superinteligencia\" para liderar el desarrollo global de IA",
+        "description": "Tecnología. Trump creó la \"Fuerza de la Superinteligencia\" para liderar el desarrollo global de IA La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHpsSHJYZlNHVFRRcTBSaUtnNmR0ZEx1V0JobVRONHBzUWRFUVhTV0ZlUDlrY29LcHo2RldIUzBZVlByWTBXZ3phOEtRT3FITEY2UWx2WC0yd0o3NG12QVRiZWYybGNXMmJlRDM2UmhLa0JhTjFtQnNzbWQwVG5sOVJTV3RWQ3RSWHRRQktuVlN4a2NzNVNLT2ktMzlSNGUyUzcxQUlJNXAwVGNSRXZ3WmVPaw?oc=5",
+        "date": "2026-10-04T14:34:43+00:00",
+        "source": "La Voz del Interior"
       },
       {
         "title": "Investigadores del MIT crearon una inteligencia artificial que “lee entre líneas” para estimar el riesgo de suicidio - TN",
@@ -126,20 +140,6 @@
         "source": "TN"
       },
       {
-        "title": "Las tres carreras universitarias que podrían perder salida laboral con el avance de la inteligencia artificial",
-        "description": "Las tres carreras universitarias que podrían perder salida laboral con el avance de la inteligencia artificial lagaceta.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVXBfUnI1Y3hyNGhGLWlXOU9SR3U2S3hYWV9ZVVNuOUN3NFJJWVlUNlBKXzREb1R4Y1pRSmRlbUlxbDBzUUJ4VTVFQnc5clo5YTFqWi1nbU9NcDkwcVZRNWk0QV9YMjNCbDNpMFBYaHN0bUNuTjVEaTVlZmZ2eHBFNWRmWTRJRGRMVmxPbkVaOGJWNGpJdmFWMk1Xak11b1pTM0RDWVQ0bk5qNm02SkdaVlhNLUFWVl96cXk1TFFzZElSSTBQeHBtb3d2YlNVSF9RSFBEbkpHWjFhVk1M0gHiAUFVX3lxTE0tSm83ODBUaFJydlBFX052TEJ5bnItX190VWdzZEpKaGVQWTFrR3JLb1BVSzhrSWo0aUk0VTBob0pxal8weHBYbFRiZDVhYXd4bG9GNnNNdnFuVzFHQzBucVk0ajlvQk9QSDNhbjVuYXdkU2d4SG5reWdpNGxJSDlhWjJsZ0IxVlRuVnMwZndra0NQZHZzUjIxRnR1S0p6X2pIdGYtWE9RYkRtUlJja3JVWVhGV1Jjd3h4WTFxcFBEV2JPaGJtazhZLU5QTVo0cHV5bGdwYjNtRXdZWVFWQXU3cUE?oc=5",
-        "date": "2026-10-03T21:56:37+00:00",
-        "source": "lagaceta.com.ar"
-      },
-      {
-        "title": "El miércoles 7 comenzará la capacitación en Inteligencia Artificial para empleados públicos",
-        "description": "El miércoles 7 comenzará la capacitación en Inteligencia Artificial para empleados públicos Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTU5cmtHYzdRellmYnNLekdWMUtRd3RVMDAyRHB5MTVodDA2ckhvYzJTN0xEYUhRblVVdkE3RXBjbjFDYkp2bFFmajR5RFJMOG94azNKLWFEUkQ2RnRVUTE2cm41M1d0WTk2VGdpUTR1c3d2WFFBMDVfWXplQlRfc2ZKSklmX2ZRUEp6SlJmSngxRlB4M0c3ZkRCNldoQUdzQzBXMkZad0R1anBQR1ZtUmpueVJTVmZMYm1KeUl6a3R1aFpoTnZQQnVTZ0JfaEJJVGhPeA?oc=5",
-        "date": "2026-10-02T14:55:00+00:00",
-        "source": "Agencia de Noticias San Luis"
-      },
-      {
         "title": "Muchos jugadores no están de acuerdo, pero Capcom está dispuesto a que RE Engine, su motor gráfico, se renueve con inteligencia artificial",
         "description": "Muchos jugadores no están de acuerdo, pero Capcom está dispuesto a que RE Engine, su motor gráfico, se renueve con inteligencia artificial 3DJuegos",
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSUprTm5QdkRHdVRHN1pfN3E2ZEttRDA4LXAtQ0l2c1dfX3g4SmNjY1ZpUEVZc2lRWU52OFNuNEpzSzlnVzRESFFEV3Fuc0hsOXZKNmRIb2VZcDFkQVNpaWw5U3BHR2ZEUkJDYUpGUDJBdDM3aHUtamM5Y1luMjZlZ2ljVWRjUUdES2lXYnFYSVpsU0M2VlIwSl9fTkdhN0pYVTdxU01pbmV3QjJSY3NpUnZnUXFENGU5OUs5cDdQMkp6am9OS3hvZXFjWWFCQ2NaMW02Q3ltLTlFcDRGSk1SY0pDZXhabTBfOTVNLW5UbjJXTmJaeFpteExValY0ZlZha1pDc9IBigJBVV95cUxNNXJ3emJVVlRaZ1E4SzZqLXhLRjJDVXJlc2wtT1hwY3didGhRa3VPaG5DN3lCNXhUQ2pLb1V4QXVzVUdQVFA1Z2FHNm02RERDM1J4N25xeDZHSmVBa1R6MjFaZmFrQjdjVjBUaGFRcHlmeC1kX09tcWRXUmtZd19Rb20yenhLSTdXV3hjMjRKbVZ0bjVTSU9wYlB4XzZnNENwTU5OemQ2UDVlTDBxUXpIR2tvOHpzbTYwSUFtZ3o0QjZUX1l4MkhOOEFDTnlZUFRGQUtBeE5Bc1dzcWt4cGtrTFRfcmhZQ1pTUVFxVUQ3MjZ2LTdNNkNMeUlZWTdiWUtJRElmTUR1dlVUQQ?oc=5",
@@ -147,11 +147,11 @@
         "source": "3DJuegos"
       },
       {
-        "title": "Los peligros de que la IA sea la consejera de los jóvenes",
-        "description": "Los peligros de que la IA sea la consejera de los jóvenes Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjlJTWFsSnNmclZHSDRxSTg3aDl1LVhsVV9yN2pkLUctYllOWFRMcWNQWjNTS3RHM2ZOcDJOa3VQcVE4aEFuQzlzbFpCSElEaHhnVU5CaW5fZEFfeE5LN0tqMkNhM0NnMWppaENkTTFlby1fWjBYdVltLW1tVTNySlp6OFc2ZndDVDNUZ3M0cFFGUWprN1ItVllCeUpMLXowaVNIUA?oc=5",
-        "date": "2026-10-04T07:52:13+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "Las tres carreras universitarias que podrían perder salida laboral con el avance de la inteligencia artificial",
+        "description": "Las tres carreras universitarias que podrían perder salida laboral con el avance de la inteligencia artificial La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVXBfUnI1Y3hyNGhGLWlXOU9SR3U2S3hYWV9ZVVNuOUN3NFJJWVlUNlBKXzREb1R4Y1pRSmRlbUlxbDBzUUJ4VTVFQnc5clo5YTFqWi1nbU9NcDkwcVZRNWk0QV9YMjNCbDNpMFBYaHN0bUNuTjVEaTVlZmZ2eHBFNWRmWTRJRGRMVmxPbkVaOGJWNGpJdmFWMk1Xak11b1pTM0RDWVQ0bk5qNm02SkdaVlhNLUFWVl96cXk1TFFzZElSSTBQeHBtb3d2YlNVSF9RSFBEbkpHWjFhVk1M0gHiAUFVX3lxTE0tSm83ODBUaFJydlBFX052TEJ5bnItX190VWdzZEpKaGVQWTFrR3JLb1BVSzhrSWo0aUk0VTBob0pxal8weHBYbFRiZDVhYXd4bG9GNnNNdnFuVzFHQzBucVk0ajlvQk9QSDNhbjVuYXdkU2d4SG5reWdpNGxJSDlhWjJsZ0IxVlRuVnMwZndra0NQZHZzUjIxRnR1S0p6X2pIdGYtWE9RYkRtUlJja3JVWVhGV1Jjd3h4WTFxcFBEV2JPaGJtazhZLU5QTVo0cHV5bGdwYjNtRXdZWVFWQXU3cUE?oc=5",
+        "date": "2026-10-03T15:50:32+00:00",
+        "source": "La Gaceta"
       }
     ],
     "Vaca Muerta": [
@@ -170,6 +170,27 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "Los bitrenes comenzarán a transitar las rutas de Vaca Muerta: Neuquén prepara una prueba de seis meses",
+        "description": "Los bitrenes comenzarán a transitar las rutas de Vaca Muerta: Neuquén prepara una prueba de seis meses Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFE3NkxmZ3pQTTdEaG1nSHBXVnhKNnNNdnhhWU5jam4yYkQwRENKMjBfZ3pXU2xyZVRIZVdSUFpVeU9lZnpDRUxvd0p5RHVBRklXMHNyNlpLSkdMNDJRR3lYN2NYaWhNb3FWeFJ4bnJieU1IamNXcTNIMDNYa2pIb3VDcmtoWEdUay1OVERLZHoxU19YbXJyOFBTdHBfNHh3NkFkd1Y0aW9kamdtQ0poRG43aHlyQmljbUxMSWlvaWFEUUhsWVpUQW1VYmNfcUlMRWfSAdcBQVVfeXFMTlEyTmRDNmtDTXkxd3NZZTBhckpHVEgtQ3F1UGs2MWw2bFJFMjVaaXpQWkNEYk1IcDRTbGpvc2RETHpRSUVxY3NpWGdScFB6WU43blJKR2lMV1ZWQUhaaWNaR05uanA1bUdJNjFZSEVNU0c1dTVJNDlGVkZsWnVvZHdBNHA1YU14bThyUVlBU0xPM1VKUjNTZzhIWUMxVXF0SnBpMm8yNEtRTzJtem1pSW8xbTRDa1J0SnZ4dm9MX25lWkQ0U3cyeExjaEI4Y1UtQWsydGFoQTg?oc=5",
+        "date": "2026-10-03T22:00:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta suma un nuevo plan vial para ampliar sus corredores logísticos",
+        "description": "Vaca Muerta suma un nuevo plan vial para ampliar sus corredores logísticos elheraldo.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc1IzZTFRMjRjdWIxZHVKSXFaaW1PT1d3Q3VWc3NNUzhYNWFmdG40emlOWXl2elc0c2I0UnoyaDlYNGE0UEtlaFJ6UjBPeW5ZbW5XVEpNREhNUHBIdVJzQmdtdmxrQ0ZBZ0RVa3RNV0l4akRYWE9WTzA0RldCQXdkVWJqZzE0X2tWSDJWbHFKaXphLVV2YlVJc1EtNktXZmFVakZqcjcyRm4yOGhucFN1cVJmUmNrYUMxbTlwYjB3MWZicnBrQ3pV?oc=5",
+        "date": "2026-10-04T09:00:00+00:00",
+        "source": "elheraldo.com.ar"
+      },
+      {
+        "title": "Transporte de arenas para Vaca Muerta: harán una prueba piloto con bitrenes en una ruta de Neuquén",
+        "description": "Transporte de arenas para Vaca Muerta: harán una prueba piloto con bitrenes en una ruta de Neuquén Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTZhU2cxcllYY0ZfU1gyRWxBYm13c1pzM0dzOEh2Zk1fdnM5YmtMU1p1V3VGLUsxQ2hFdm1ubnBSRVJRakloaU5VSU13ZmxMdk9pMUtRdU4yeUtidjRmbzlpX09uUTZlZG9nanBFQUtiUkRaLVVjSWEzRzF1U2lHWld6dVlpNFNLWHZpSnF6U3RXMEJDaGp2aDRURzBIVzlPQlpBYzVMTkNQeDd2UGw5M2lpNHVlRFBzYVNxdVpxcnpUcVRUVEt6UkN6QV9YTGht0gHYAUFVX3lxTE9MdnRpbnZhTkZPc2NjQmpiZ3ZnaXB4TmxOTzRBcXcxYmhIdGxuTXVob01Ic25aZ3FWX1dTbHh1X1huZWlnSVdCeDV1V3RqQ2VNUWdNTUJvblRxb3FLLVlkUnU1RmFPWUV0cHhhVHJQb2dUU2VFeE1RT2F0YjhweHR0RGs1d1AyMTE1REVzN2RUaHBsc0dubGtubjZnYWRhNWl1TUE1NVBNdkxfTFVKSkp2YVJuczl6TDBHMGRCMHVXVEd0dzJHSlFKbXAwY052Rk5tVTBveS1uWg?oc=5",
+        "date": "2026-10-02T03:30:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
         "title": "Gracias a Vaca Muerta: entre 2031 y 2032 Neuquén superaría a Buenos Aires, para ser la principal provincia exportadora de la Argentina",
         "description": "Gracias a Vaca Muerta: entre 2031 y 2032 Neuquén superaría a Buenos Aires, para ser la principal provincia exportadora de la Argentina Infobae",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVDB1YVdJMWxKQUF6YWUwTzdVZzJVRUJNamtGM2Z1UU1vcjZ5STVTSlBJd093enRWdU5EaGRKTzJqRlVWSmdHWVQtdG1xRnVIM1oxU0pWdjdnQndSWGZJVVRuaGNSOFA1d1gwVUxqdDg5cmNId2duTjZHSVNJelg5ZHpBVmV2UV9wTTN2SGtWMFJaRlJ5YlVQTGpyVzNUd3NRSHNoeG9naTZWM1MzVGEzb0w4ZUxmTmhJUXpiY2IzVVIwVENGeDhXUXF0eTVzR1J4NEZoWnVCZzJrV1p1LTd6T0ZXbGJ6X0dNbFZadlBuT0JCckM5YUZSbW05djJrVW83ejVzai1tWG_SAaMCQVVfeXFMTm9JWWs1REEtTDdVcG92Q2pHTFkzdVVDeGZKWmp4bkxFLUNpWEpGeHR2anFvelJLM01TbGlkaGZESEZTZzd5UWFXbVZ1MWxtRHYtTmplNDQ5NVN3M19Cbm1sby1ZQmJ0RXRiVUVzU3hNNDRKZVAtaGdWS0ZNQmFkak14bU5pT3RTS2lFTzdfNHlpMWp2SUlMclh0bjNUWVZNUFRZYklOaWxRbzZEUjFZYTVDdVdVMEREVEJWd3hjT0ZWb0FfdjlGbks5Zkp3cGJhNTVDSF8wUURpOS1Fci1tNWM3ZURKaWNMNXd2SlNuWGltNlQ3YjJZUmdVYVBlYml5aTh0T013ano4cllYZ2FmLTlPSDEtQ1JuT1o5ZjZyT1hLRlBr?oc=5",
@@ -182,27 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GRkpMU0VCd09OOExSMEN5QjIzMlE5YWMwSHhVNG1OVV9oOG45OVNQOHlpOU4yWDdJMWJyX1o4MWxDUFQxTjlQcUYwUDNHb1V1ay1nTGRLMlpzb2wzcl8tNzdYRXFfYjhCNlBQMkNWZHRwNERkY1lV?oc=5",
         "date": "2026-10-03T08:10:03+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Pluspetrol y GyP obtuvieron el RIGI para un proyecto de US$12.400 millones en Vaca Muerta",
-        "description": "Pluspetrol y GyP obtuvieron el RIGI para un proyecto de US$12.400 millones en Vaca Muerta La Nación Vaca Muerta: aprobaron un RIGI a Pluspetrol y GyP con una inversión de USD 12.400 millones Lmneuquen.com Dos nuevos proyectos aprobados en el RIGI Página|12",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaGgyakU2N3kweDFuOTN6azdKZHczcW42dUlud2NCNXhPc0VUV0piaU9JV19NS3JKVlgxaVlRQVdQS3ljVVhKUDRzYURxTk9GOWNZX29WY0pvQ2VDWl9YRTA5OUYtYXJWOThpWGVTU0JFVzVDcmloYnV0ZUVYaXM0dml3RWFyTGQ1eXd2NzhfMGNkeHZxNUFHV1F6bjg2cURQUDl5dUo5RWVVaERZSEhHcFFTeS1fMmc1dG5HbXNzRzU0b2tRUWhRZmxXUDRsYVluSFg4?oc=5",
-        "date": "2026-10-02T09:29:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Los bitrenes comenzarán a transitar las rutas de Vaca Muerta: Neuquén prepara una prueba de seis meses",
-        "description": "Los bitrenes comenzarán a transitar las rutas de Vaca Muerta: Neuquén prepara una prueba de seis meses Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWFE3NkxmZ3pQTTdEaG1nSHBXVnhKNnNNdnhhWU5jam4yYkQwRENKMjBfZ3pXU2xyZVRIZVdSUFpVeU9lZnpDRUxvd0p5RHVBRklXMHNyNlpLSkdMNDJRR3lYN2NYaWhNb3FWeFJ4bnJieU1IamNXcTNIMDNYa2pIb3VDcmtoWEdUay1OVERLZHoxU19YbXJyOFBTdHBfNHh3NkFkd1Y0aW9kamdtQ0poRG43aHlyQmljbUxMSWlvaWFEUUhsWVpUQW1VYmNfcUlMRWfSAdcBQVVfeXFMTlEyTmRDNmtDTXkxd3NZZTBhckpHVEgtQ3F1UGs2MWw2bFJFMjVaaXpQWkNEYk1IcDRTbGpvc2RETHpRSUVxY3NpWGdScFB6WU43blJKR2lMV1ZWQUhaaWNaR05uanA1bUdJNjFZSEVNU0c1dTVJNDlGVkZsWnVvZHdBNHA1YU14bThyUVlBU0xPM1VKUjNTZzhIWUMxVXF0SnBpMm8yNEtRTzJtem1pSW8xbTRDa1J0SnZ4dm9MX25lWkQ0U3cyeExjaEI4Y1UtQWsydGFoQTg?oc=5",
-        "date": "2026-10-03T22:00:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "La logística de los hermanos Rossi perdió con Vaca Muerta y entró en concurso",
-        "description": "La logística de los hermanos Rossi perdió con Vaca Muerta y entró en concurso Punto Biz",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkVZZ2tPUjhzSXVNQU1xT3k5NkFfYnVBYVlqcWFkU0dJUUpYZTFaUlJiTHhDNnBSQkRSTklndXF1UG9jRHQxN2hXcXZDenpZMVVLRGYwenJ3RVBtTHMyRHBwMmktVGlzZUFleTF0OWNqTnNjcUNsN25ETE85ODQyclc3S21iQ2t5S1Q2VmVKX2NkQnRGMUJPVWVlTFYtVHlRM2wyQXRBZWU0akxOYWZUb2FNX2JiYVNsMEIwMEhn?oc=5",
-        "date": "2026-10-02T09:06:23+00:00",
-        "source": "Punto Biz"
       }
     ]
   }
