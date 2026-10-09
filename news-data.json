@@ -1,9 +1,209 @@
 {
-  "updated_at": "2026-10-09T08:20:44Z",
+  "updated_at": "2026-10-09T15:45:07Z",
   "categories": {
-    "Microsoft": [],
-    "Marketing": [],
-    "IA": [],
-    "Vaca Muerta": []
+    "Microsoft": [
+      {
+        "title": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC",
+        "description": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDRieTRTY3NpVnk5Y1JhM01GeDIyQWJheEF3TGZpdFBsWGh5MVZrWnF2RWwzd3ZUdzFzbHNHR0tQR0M0eFNrX2U0aWNHVFVDU2pBc3lfM05vX2xTVWNrUHZfdGtXXzVfemVyUUF2WXllSU1wTTY1R2N1Njk1Z1JqczZZczZHNXh6TkhyblA5Ti1WM19wWlFOQTJadlI1eUxtcV95ekV5S2FTS1J6RDdzWnYxZk9DbTQzeDhYX2ZJUnFkNVJJNzlWeWpR0gHPAUFVX3lxTE5DTy16dU12Q2luaDloZlkzQWlETUpZUTl4R3ptcFVMWkZHNW0zSElPbkJoUEEwWUtCeFFnVlgtTk9ablJISXVBZTlDRTRkeUEtc3hqUnRuLXNMS2p4bEJhaHZBTGhJZmIxWjdzczhqRjRhakVsSWw1bW9HYkJfQlBUV084TTB4a3ZGNWdaR01BaUN0N3d3Y0FVQmYtMktyTWE3X19jenR4b0lBQ0Y1cS1VcnNzYzljckxVVEVBQzZ0ZXF4Q3pGT1JaS3dlZzdQdw?oc=5",
+        "date": "2026-10-09T07:30:27+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Microsoft presentó la nueva \"inteligencia híbrida\" para Windows: cómo funcionará Copilot en las PC y qué podrá hacer",
+        "description": "Microsoft presentó la nueva \"inteligencia híbrida\" para Windows: cómo funcionará Copilot en las PC y qué podrá hacer El Destape",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFEwemtNY1huS24wLWNVTlFRcnZNWF9tV2RfODhvMnk4U0FBVENsSXJxV1R4Y3FxVEtJMGtkbU41a1lTazVoeVhMWEx4al82R3VIQmRpUXJSaTdPdHJCdlZRZDJSdlFhSTZGNmFNNHNsVkZXZGpnTDVMMWtOV2lSLV9ZdkxyYXNuVnZ2bGo4bHZtVnlTdmN1eXAtcENRazVPcGVETkJVcEdVMkdGSjM3SjlRSE9TSW1OaFdHQXRSSkFidm9naERyNGctU09sYlNEWWlBOVJ5Z0LSAewBQVVfeXFMTzd3R0s1TUQxNW5mNzJLTUE4X3BxUW1vYVlUQjlaUkxESHRhNjNaejVaWWFPbndxY0NaZWZheU9Cb0NPRThZUUtTWWVyTi1KZ0pma3NNNHI5b2xOeFp1OTk4RU9nV1NoLTJ3VXBadnYwcDIxWlI4eVZSLW9ialZ1OWlqNEEtSDVuTjhkdWxRSkRXajlGNUVzUzJFSlJ5ejRkZ1lsdm5IWThodnVrLXVmSklWY1dpSmJQbUM5TkVIekVZbnktMnN4Z0RSX0IxMjFjQlhPeW9MZWpyTmZiZ0dDa1VkcXJUYWpTb2RuNUY?oc=5",
+        "date": "2026-10-09T15:23:53+00:00",
+        "source": "El Destape"
+      },
+      {
+        "title": "Microsoft anuncia mejora de la función de búsqueda en Windows 11: más rápida y menos consumo de RAM",
+        "description": "Microsoft anuncia mejora de la función de búsqueda en Windows 11: más rápida y menos consumo de RAM Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGZLOS05cmUxWDlRNFhzVkNXRmdhU1ZhdW9QOWtVcldTVHpIX1pBWlRYTVJrTGNFdzhocnFsUEItODIzZDA5b1M1Uy1kWjFqWE9ESEhoMkFrX19fRHhXZFh0cmtIT1FkMzRxZWF3bTVPSHdlTlFFcVlnZTFxX3F2TExveE1KX1FNcXBvRE1fbW81U2FwQTVKTWlWZXcyV0xmaEpDam5GUUNrWGk1Q3RoRFg3TTZTSXcxQkRla0c0QTBhTVNtUGp1T2MwRFllRGpSVTc0Q1ZlSdIB8gFBVV95cUxQZzdIOGdMUGJidXpjWW1VUUZtMVloWHh4TGZKNWU5cUh1LU84QWRRQy1oelE4RkRhVFNhZEVqbjd4bVppS2J5THplX2MtY0d2dldZdm13LU05NEluMW1mdDllMVhMcEpFb2xMWE5tUFFBZTRBUFNZbnM3a042bHZnVGM0NjB2MDNrVzEyNVNyMk9iSHpHdWJqR1VXSm1TSFhuQkltcFM1bXRjN1lwSlBvSTRsU3BxZDJER3ZtejBTTXByTGhQekQxcHluTk5kbVBDOEowWmN0dXk0bHA3MnJoWTV1SkZMNWdGRHNpVEFhZXRkdw?oc=5",
+        "date": "2026-10-08T23:15:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
+        "description": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros BBC EEUU excluye a Microsoft de programa para dar residencia a trabajadores extranjeros Clarin.com El Gobierno de Trump prohíbe a Microsoft y a otras tecnológicas…",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lRldsZms0SHdrdVF3UTZDd1dBa0FyODVZT2pGenNmanF6SWF2aE84T29iN2p2Ukh2TlNYcGZfUWRnRVMyaXZXc3N4VkpCdHY1cDJyYmd2TDZBeG040gFiQVVfeXFMTlhYb294aHRpdXFGY0lwZ2FTczAxMUxubVJEc3ZWRzFjNGlGSVF6M1JNMFFhZUJfbUgxTDJqOUtGa3pLTkU3cTU0bXI5c1JGb2IwWUdyYTZSMzJsc20yTVlVbVE?oc=5",
+        "date": "2026-10-09T00:30:38+00:00",
+        "source": "BBC"
+      },
+      {
+        "title": "De los manuscritos de Miguel Ángel a Microsoft : el Vaticano lanza 'Michelangelus', una nueva tipografía digital",
+        "description": "De los manuscritos de Miguel Ángel a Microsoft : el Vaticano lanza 'Michelangelus', una nueva tipografía digital El Debate",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORjlVVjlvd1hUN3hWczI1YnZRMDdYV25JclY4YjJRUU9tM3FEVWt0TzROWDlGcGlzSU9OUkdRaDMwRjZfOUUwY1JqVEtmNnh3OWd4S09zMjlURE5nNGpIa1p6amxfTVlrbmdfUjhMV0NmSEpwQ0JQdWpuYlhMUUp3cndFeU5mQ1B2bzUtZnZ4bHAtckxjazBBWm43NEIzMFBxdGowZVk4RDd5d3NCSU9Ib1Nmc1JqcGRlRmpwRERydHIyNkVFdGdJbTZRaXFzRmtrempKazFic3lrVFhxOXNwTGN2ekJXcmfSAewBQVVfeXFMT3JNTXZ1b3c4Y2phMU1PR19ZX3FhVG4yNXk0ejN2eE43R1laUW1McEVMOXFWWHhLLU1KWmRIdlRBQWFwc2xoRGNVNk9sTlVNNWlXRFFOT1RUTWpWYUNvejJ3WHJ6SWNqYTlUVG94ZmxEVVVjVEl2MGVrX01jaFdySUdjVUlYTTUxWm54V05MOFVpRjVwaUcxU2tybms5TlVjLXRwYktfdVZsSmdjQk1VX0JubmhIZWJjeUZQUmNUOWdfbEhRLW9sUjNuTWxIRThLelhXX3I3emoxelg1WE14WUdCeG5wTkRSZFp0UDg?oc=5",
+        "date": "2026-10-08T14:14:42+00:00",
+        "source": "El Debate"
+      },
+      {
+        "title": "Microsoft 365 cambia a peor y reduce el almacenamiento disponible: fechas y claves del anuncio",
+        "description": "Microsoft 365 cambia a peor y reduce el almacenamiento disponible: fechas y claves del anuncio SoftZone",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDdjdm4welBsOFhWVTJ4QjE2QWxhSy1hTVZWNTdBZlRBVFdMUHBTUDRoZGp3YWItVEFxd2l5YzMwWk9XRGFybFZWNDlycW9OdzVPczZCZFJ5STdicE45Z2V6UUNsRjBCSXluSmFyM2ZLWFAyUmhHemtnT3FIYjAxLXltS2Q1ejc2Q1Iw?oc=5",
+        "date": "2026-10-09T08:32:05+00:00",
+        "source": "SoftZone"
+      },
+      {
+        "title": "[Actualizado] XBOX se guarda un as bajo la manga para GTA 6: Microsoft ha llegado a un gran acuerdo con Rockstar Games",
+        "description": "[Actualizado] XBOX se guarda un as bajo la manga para GTA 6: Microsoft ha llegado a un gran acuerdo con Rockstar Games 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnc0SGVJLWx3bk1HVUY0NmZjb05iYjRrdHB1R0FmcUNla2dpekpTa0tDemxfT3Z3U0t4aU9kOVkxT3N5UlppYmpHVE0zTF9NSndTM1Z0WWIweUV6RElYME9BaU5KSjNzOU45Rjc2LXI0cVY3LUExTGtkalo5Z2I5Z2hJQl82N3RhSlR4Zk1FRlpHY3BROXJWVmMyWWZFakVqSWVoUFJ1dXVRSzB0VXJYeWp6QlhfcGo2VVlLWWRocFlTa29RcUFFNFJicWY5WmpKOTRnNy12NnFic0wxS19N0gHkAUFVX3lxTE9hNmkxZV9sY2ZGOFlhWG9IaVdtdlAwMkV6OEhYNjRRcU5BWHJBakYwR1dkdDhkUDJ3a1VMUWpkMHdIcjJIZ2pJWE4yOVU1WmZDWHNGUEZsck9TR2N6QWFsVG14cVZfdE0zckZwWlY0Rk1tRklKaXRXRC03TV9TZkswNlF3TnhGUlB4ZDBkV0tOVmlEeGg0bjJmVWFCMUVLVmJDcUNfclBaaXBVSHlXTjAzRHhMVUdpTUswblNyVlItTmFNQS1GN3NLd0gxVGNIQTFMU0FQUTNwUTA4b295alBVd0loNw?oc=5",
+        "date": "2026-10-06T23:50:00+00:00",
+        "source": "3DJuegos"
+      }
+    ],
+    "Marketing": [
+      {
+        "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
+        "description": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón generallavalle.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVml0NG9oMzRFd3NSNU5BRDU5eVFfWjZyekJUZjNvQzBYa1puVmFaWmdVYklZSGZ1UlV4MHoxMGRwZTd2VDlwVkQ3X1lfX19fd1FhdTc1bVFxRzRsMEROUWtia0d3bGZwNC1mY0pRR1NQVExubjdzcWdoR05rLTZzNUVwc25wRjBYdzBtaE1heEs5UGJhdi11OXRUeUJlX1czd0doX1hPWl85cjBhX1RfU2hTR19EUFd5aUo2V0txblRyaXN1YTViY3lqd0lGZENWZ2ZHQ25vX3dQNURaQXc1OQ?oc=5",
+        "date": "2026-10-09T13:44:35+00:00",
+        "source": "generallavalle.gob.ar"
+      },
+      {
+        "title": "21 estudiantes cursan la Diplomatura en Marketing Digital",
+        "description": "21 estudiantes cursan la Diplomatura en Marketing Digital Sur Multimedios",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTTI0bVlod0YtVjc5LUVBYUZqcWlCOWJ0bGluUE9DX0RybXg3eEpiWEJ0bFNrVzFDcHNHSnQ0MnZUbkx6SXhScTF1TGNnaDA2ZFdGNzE0MFBQLXp4dWxPdkY0OFM1U2dGbDMwZk5RVGRSTnNEbGs0NnBFR3VBZ1NVc1hsU2pJQnEweEd6UlRaclAxLTVmeDVCbjNBTXl5dw?oc=5",
+        "date": "2026-10-08T21:34:06+00:00",
+        "source": "Sur Multimedios"
+      },
+      {
+        "title": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL",
+        "description": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL misiones.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVOVEtKeDQ2NUhHNXhxdlFYd0U1NmczTmo5ai0tN2lRYWdlXzByTUZLWlJyMWdDc0UwSnhlbkotZExjblhlWDZZNGR6eC1wRU1CaGJGWEM4MFNuQ2FKbldVcDExRUZnRnpYMUFRS2tfU0FQN1NDQ2hHQUNvcUFhVmlFSTZtVTI5YzVWa1hWdm9sUm9GelpfUHFfeWhnQTlwTXQ2bg?oc=5",
+        "date": "2026-10-06T07:00:00+00:00",
+        "source": "misiones.gob.ar"
+      },
+      {
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T07:00:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
+        "title": "Mario Baquerizo es el nuevo director de marketing de Automotores Anexo",
+        "description": "Mario Baquerizo es el nuevo director de marketing de Automotores Anexo Marketers by Adlatina",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmRIMkFLTFkwbzF0cDlaNFZwdmJfVW1oWGtIcGdfaGJJVnNwU1I0UTJBMjlNZUxxcUtLaFNQTW9JdjBuc2E3a21qY05VWVVEVkpGTnIxNjJTd3pDYWE4WmJIa0tLTUNvV3dsb3dKRW9lclVMWVJDbEhVZndRbW1xa1c4bkp1V1p4enNmVkowZjRhOENQaWU3VVZLck5aSHFMeTdaYXRDeFJNNHFNSUZTM3Vxc0Nkbncyam5kNkJ3?oc=5",
+        "date": "2026-10-08T15:11:15+00:00",
+        "source": "Marketers by Adlatina"
+      },
+      {
+        "title": "Iker Mengibar ante el avance de la IA, las tareas que se están transformando y los errores que las empresas cometen en marketing digital Por Emprendedores de Hoy",
+        "description": "Iker Mengibar ante el avance de la IA, las tareas que se están transformando y los errores que las empresas cometen en marketing digital Por Emprendedores de Hoy Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc29iSy1KQW0zcnpyVVdJaUxkV0RjOUIxdWZYbDFrX2tmZ0RYWWladjFYNHBycVc5UDVwakhod09JZkdCOGJaUkEwSXJfT1ViellvNG40ZzdhbEtxemRUenRuTk44TTlucTZ5alkwWV91OF9lMldHLXg0UTVabGNWU3NBYlRyOVcwa2xKem1JcFYwSk1XMGlJSFNneTJOcEhHT1JnSDRpQlNua29reUpwZUc5VXNhTmxMRnZGbUpnc0dUdllhbFBLcHdYNGZXT2pOcy1yMV9zbUhPNDY1RG1OZ29lN1B0akFtTlVJQmw4V0NrczJOS2dYNGJDZU1mbHg5LTZRNFNhNDhTWk80Z0dXbXozTmZJbVFia3NN?oc=5",
+        "date": "2026-10-08T09:05:00+00:00",
+        "source": "Investing.com España"
+      },
+      {
+        "title": "Capacitación sobre herramientas de IA y marketing digital para pymes",
+        "description": "Capacitación sobre herramientas de IA y marketing digital para pymes PRENSA GOBIERNO DE MENDOZA",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnVaYjZWWFFRbWJGVlR2QVdIMHo2SDU1OVpmUWlBTW1kby0tZ1B0Z09wLUVZaWJXcElRUUFRWXRJVXdfOHQ1WldfNXlwN2RQaFc1dTg3RUs0LUo5dWJKRTYwanJNTERIMnhlT0ZudHN5ckhPb19tNnl3RWo4cHpyTXZPR3FMVkRDNWZ0ZE5jS0VaOGx1QmZ0M1U4Mi1fR0ZK?oc=5",
+        "date": "2026-09-23T11:33:49+00:00",
+        "source": "PRENSA GOBIERNO DE MENDOZA"
+      }
+    ],
+    "IA": [
+      {
+        "title": "Trump tilda de «enemigo» a quien diga ‘inteligencia artificial’ en vez ‘superinteligencia’ - EFE",
+        "description": "Trump tilda de «enemigo» a quien diga ‘inteligencia artificial’ en vez ‘superinteligencia’ EFE - Agencia de noticias",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXh3a2ExTFBGT19Xcl9KY1dVTFRmd2ZzNmFqUXVVMk5oZHI4UEZqMDc1SGRKTTlJb2E2UDlyX255U19oWmdCVlE0cnJCT0tmTzZHc0ZNWDAybndUZmNHQ09pQ01kcWhMM3NFeUZEM3l2VWZMNUpxc09sa2tKNl9NWmk3MGJKWmdYR2ZoX3BhVmp5LUNWOTVzVUpQYmJEX0dX?oc=5",
+        "date": "2026-10-08T17:27:13+00:00",
+        "source": "EFE - Agencia de noticias"
+      },
+      {
+        "title": "Trump redobla la apuesta, y considerará “enemigo” a quien no diga “superinteligencia” en vez de IA",
+        "description": "Trump redobla la apuesta, y considerará “enemigo” a quien no diga “superinteligencia” en vez de IA La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbXg3Nmd3N1JlNUsyODRMb2cwZFpqTE1EQkZhc0dRVFZKNWdWNWx6SFVobFFTYjhOVUtuTzFJMVg3Ni11c25OX3RzTThFbDVnVzBtVF8yVmpfa2hlclhORG9sVHBVeXVkdERWcWpveDFPNHlFVVU4WkhHQ1Y4eFF5cE1UQ2wyU1ppM3M5Q2pVajNJN24tR3FiX041S1NVR1NaNXJpRGRrOG9DU2pZdzVnSHRuSGVmeXBZSXd5bFJxaVVCeHZuTlRnUWtlQTY2S0RkeUdXWDRtUzVzX2F4bWc?oc=5",
+        "date": "2026-10-09T14:39:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Trump considerará “enemigos” a quienes digan “inteligencia artificial” en vez de “super inteligencia”",
+        "description": "Trump considerará “enemigos” a quienes digan “inteligencia artificial” en vez de “super inteligencia” Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaWdnUE0wQWxvanItU2dDcUF5OUNHZVUwSWRTSjhOeTBVd0VhYzNRdW84RUhMR0NuS1dKVllJZTNFaXdzX3hGMkplV3ZKYXZ3dy1WUUg4U3QyN2dJck5iNXhJYm9lSHJWUjBWanVvaVg3b0NRRlV2TFFiY0dkazhzanFleUhfUERHRWdCSU5aN0RVcF9tMm1ITlUybTRXMVhSY3ZIRG1CRWFHZXRTUnRHT2x5Wkp4ZDQ5LUhaNU5yb2pHRThBdzBnY092alY3M2kt?oc=5",
+        "date": "2026-10-09T15:04:41+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Shakira impulsa iniciativa para capacitar a mujeres latinas en tecnología e inteligencia artificial",
+        "description": "Shakira impulsa iniciativa para capacitar a mujeres latinas en tecnología e inteligencia artificial CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnZHQV95VWlfSWYxQ180X3NLSjR1alNMTXNwcHZENHJ0RHFIbkhsWXRVV0x0dUNwZl94d0pYUDRiVGYwRnR0djM2cGJtdVZiUkUxcEVsaGNoOE1rQjhHM3ltY1kzcnAtem8yakFUNGk2b0F2LXpPTzVKVl9mZ19qY0hrTjQxTzdjZFBQOHRDNzRQdmxYd3NTSTd1X240WnBTRTVHOFFuRXMxQWZIVW5xMV9mQUNHbzJjYWRjeA?oc=5",
+        "date": "2026-10-06T23:40:00+00:00",
+        "source": "CNN en Español"
+      },
+      {
+        "title": "Inteligencia Artificial: nos ahorra tiempo, pero hay algo que ninguna máquina puede hacer por nosotros",
+        "description": "Inteligencia Artificial: nos ahorra tiempo, pero hay algo que ninguna máquina puede hacer por nosotros Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT3ViUFpNdEZtaGg3TlNYU0MtcF80NWhaVUE2MmpOZDZrWl9hX0x6b0J4YkJ1R1ZqVFFGNEdkcFlEenUtUHFkZjNVUFljR3hrUm81akRMUEZGTGl0VWd6VzZtZUNPd1ZpSXFzcVp6YkxNRUoxdktpQUpVQWh4bF9xQ3RqaWdZSTV3Y3BuLXRicjhOb3AtYWhpWnhVWlFPSXRDVEVDRnkyMWhHdWdwM09OSjZnaXZLSy1TNUHSAb8BQVVfeXFMTVdRaGlUSHk3TUl2UlFRUnhta2ZEZXR4djZGTnEwY1l6WTE5Y09jR3l6MmpIRHczc1g2OElZY1dFOENaX1gxMGdzRVdLRkw1bWh3blNKWXNKUGdjUldfZjZuaEJyRHlDZU9BQ0hsV3I1RVc1OUJyYVF5YklTRHFNczBFRGVDd2IwNDN3UDdfdU1PR19vSm9tZjNFc29lMThJem9sLUVFLUQ4TXY2R0VNbHdGdzFNWUFma1ZpOVd6WjQ?oc=5",
+        "date": "2026-10-09T15:34:11+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Ben Affleck se revela como programador y experto en inteligencia artificial",
+        "description": "Ben Affleck se revela como programador y experto en inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3VWQXFxM2hhMFU3TG5fWmVaX1dZaWplM3FjT2xxekFVbXFsMFBDaXJ1emVoN1dWQU5mV0VMY1BpYTFydWpkNmx0UldXOXRXdTdkZnBWRW85S2lnNVZGR09Ob0RCR2pwQkV6cVBBdHVqQjBaMGx2YzBRdHh4UW9sc0FwSE5DUzJhWjhENFAxMGVJWU9uN1BtamFSOE0wSWlhZjF2ZDl5RlVpXzNtVFN3cWdITnZrZ1NjbzA0WDFZSUVxTlF2Tnc?oc=5",
+        "date": "2026-10-09T15:06:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "De WhatsApp a las compras públicas: un municipio del conurbano fue premiado en Seúl por aplicar IA en la gestión pública",
+        "description": "De WhatsApp a las compras públicas: un municipio del conurbano fue premiado en Seúl por aplicar IA en la gestión pública La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDBnYVpFdDRmMWx0cGRDTVlXaEJOTjM1cmJBWGVwV2lhcWxwNkctU25ydTc1YUh2aTcwaFFsMXliTTdSRURxQk13QkpPUkdLRjhXaWt0eXd1WjVnSTJBd09oZlpJcDctbXE3M0VnUjhMVVJpLVd3M2ZLR2ZzbXlKT01BUlg2VGxuTm84U3MweVBid0FrbGVtVEZhblBoSWR4Wl9yTUxCZFl6WkxPakVndXlDV0pIRG1QT0JTeWprYmMzbnpza2tpWFRNcUl3OTlMNW5YdXRCY0c1X1E3Vy05T0xzQjU?oc=5",
+        "date": "2026-10-09T14:29:00+00:00",
+        "source": "La Nación"
+      }
+    ],
+    "Vaca Muerta": [
+      {
+        "title": "Vaca Muerta bajo presión: faltarán 43.000 trabajadores y buscan repatriar expertos",
+        "description": "Vaca Muerta bajo presión: faltarán 43.000 trabajadores y buscan repatriar expertos Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0JhY0haWnZydl9yYVRwUTk1X3lHQVBxdjMtZXBnYkdXZzFqMUNqNTJFSlhpRDIwUFFoTUFqUVhRQmxhQWM0WVN0OEItd1MwbVpwUW5LUW5VYm1kXzVmRGY5U1h0dWdHeV84U3VvN1pqcnN6anhwRlBPWnY2enVqVWJ5ZEtKTlh1a3ptdGwtSzY2eEJBUDhoWW1jVEd0WmtNWnZjMFdQMVJiN09DNGQ3NnVQRUJ4WmtYNTdCOVVCOGw?oc=5",
+        "date": "2026-10-07T10:44:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta y el cuello de botella del talento: el sector necesitará hasta 43.000 profesionales y busca repatriar ejecutivos en el exterior",
+        "description": "Vaca Muerta y el cuello de botella del talento: el sector necesitará hasta 43.000 profesionales y busca repatriar ejecutivos en el exterior Forbes Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTHdzTVVGUmgtQmJmdGtjcHd5d1JWZEJ5bTZvSFE3ay1mV0ljbmU1QV9XUzVBSjI0dFpXVHk3OHBEMmpWTi12aFpyM3A2VG9FcTVyUHBzSnpCODNwLVU3QjNlZldVZU9wWVBXYk9hRmR0bkVwX0h0aG10akFxVGRRRmVhUXlXMmhGM0pYQlFUbE4tZ283akRJbGNtT0RZMUxPYXFoUU5lMUxmOVgwMktlNUFySThaZW9XbkdBdVhmYWtyMWlMUGptNF9jUzRPYWlmMEZPLXlmLWhaLXpnUGJiSl84NmFqeFRKMHRtSE130gHzAUFVX3lxTE00MHZkVnoxSXJIdjRNdjZxMWNTZktodDZsa0hXeFpTSnZ3RXNCQ2hZZ3ZBMHZ0QWJ6U3V5S1ZTNG1EeUFoa3pqLVRfMDRYUXRHSUVGR1VUQV9PUDgxSFJPY3QyTnlFMWNtU01PMDY2UVQtelp5aTlhQnBtdEZlQkZLSlROem0xN3A4dXRZVllsWU1yd0xWcEpwRkdXclNxMG81R1UzSTBHa0k4aEROcTdjSHZmZndwNTdaaFVreXFRTE9DbFh4RXN4NkMyOUg4NnpoeXcyNTNpNENOUWtJNEtQT29FQm4xdG1sOFBzTXljclh1WQ?oc=5",
+        "date": "2026-10-06T21:00:00+00:00",
+        "source": "Forbes Argentina"
+      },
+      {
+        "title": "El Gobierno oficializó la aprobación en el RIGI de un proyecto petrolero en Vaca Muerta por USD 6.400 millones",
+        "description": "El Gobierno oficializó la aprobación en el RIGI de un proyecto petrolero en Vaca Muerta por USD 6.400 millones Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeVg0cVdpN0oxZmVfUF9MNEN5aFRlOGFhXzd6eGk5b0JiaHpiN2pURUJsOW5LOUJ6cWFQV0JsTm9DZURwMEpUUm9KaEp6S3p6d0U3MmtJakFlb2Jsb3FIam5hRUlPVXM5cGF0Z0pNdlpmc01XSEY5LTJoUkloQUZwQm9TMEhxTDZVbVFNWGFkTzNBUW9LOU5iN1luNF8xZ1JSQXdvNHM2dlVKTmFhT253OGY2aHBaeGpZLUludm9rd1Yxc0RrOGZLTzVVSHpxZlpjVkw0Q3lpZ2JaVl81X3JWMGZxRzl5WTNBM0HSAYQCQVVfeXFMTkh1Qkd2T01XZENiYWhkNVlDQmRBcUJ2bWFEX2Voc01NSFpCWVhCUU9EQTRRQldSa01wQmhkNTVsVy1xZzVGeDFxU2kxX2NHNUQ0WUZ2Q2JOeDBjWGdXMlNJRHdqYzZXdUM5ZU1MMFc1bFktRXhRRU5uQjdkTXZZa2dzc1JwVW9UV1YwRVRzYXFfeUhsX040TGFlSjA3SHM1VDdGQlo2cks1Z0FYbUx2VmU1T2hpTF9wTUprVDhYM28xemd6OEh3M1dQWGpldy12V2NsZ0FWX3hPNm5TNHV4SXBLeng4UC1xTTJoNDFSQWZjYTA0M3F5YUNuaWFvRGNRd3lzQWw?oc=5",
+        "date": "2026-10-09T12:08:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "El Gobierno aprobó un nuevo RIGI en Vaca Muerta: Tecpetrol invertirá más de US$6400 millones",
+        "description": "El Gobierno aprobó un nuevo RIGI en Vaca Muerta: Tecpetrol invertirá más de US$6400 millones La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUk1SZ3NkZmp3bDF0cDFHbS1CUDM3NTRTbXE1cUpPQVBOd3JEWmhwTHNOaFlxWWtSdGNPS0xFR3dhazl0WnNRNXNYZTZabFNKTjBRZVJHMlBieTBpaGNkVTZTblBDZUNURzQ0c2tMU0s2T1RsUHdPRDZtVVhKQ2FfM1gyaFFVX196VFprRDJsV2tKMDJNRHNRTnNpSWxEcGNfYzlOSXJLWno5QVBVSEtkamcza3p4UnhxbjdBSzlPb3RlOXplTWxUYld3ZVBFYVFjSGlranhmRQ?oc=5",
+        "date": "2026-10-09T12:42:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Tecpetrol proyecta US$40.000 millones de superávit energético y advierte por el precio futuro del petróleo",
+        "description": "Tecpetrol proyecta US$40.000 millones de superávit energético y advierte por el precio futuro del petróleo Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeEdMNVEzNHl3MC14amI4Q2tfamhsNkhMVktTc1h5RjBpSDBORnZDRTRVOWI5S2hkWWxwWENpWjZsYUlZQV9nQjVObUpqNUlFbWtxQlQ3ZHJaVXNDZm1taUM2c3oxS0d0QWxqRmdrSlBXSk9YZ3dwb1RTWVdCdmRsY0ZBM2M2OFRHcXpTUzJEa0tUVWN1c1VHUExmR3hLS2xiT2RQMmdMS0o5TnVOblE3QjUxbndEcDdYUE91MVEzcmtpTUlaOGFsVGt4QnJmZFZsWHYwOFh1VXhEMDR0ZXfSAeMBQVVfeXFMTXhybDBnMmtTODM4YjhUeng0Q3AxRE1SNDFjYTlTVEFqUGdYUWd5Ni0yWkV2VFpWZmdkSFlLR1BOQ1FrSXFibFIzYmtxd1UtbGVNYTZaUlpuZW5EUEQwcXNOZDdTLUdCQUpqTUNFSS1ESGNnY0NJUXVPal9hSDRPSjhQcVFUVHRqYVJ2YlBjUlk3SDFnMzh3ZDlFd3IwZ3IydGZHZ0ZWRGNORVkyNjdTdzZMWVp4TUk4Y1R3ODN1T3JPdVItMlgzVDlEd1hhTjhuRmk2VUNtbTBtWHNHanhSTWxudFU?oc=5",
+        "date": "2026-10-08T19:58:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "El boom de Vaca Muerta: Neuquén ya recauda un millón de pesos por habitante y quintuplica a Córdoba",
+        "description": "El boom de Vaca Muerta: Neuquén ya recauda un millón de pesos por habitante y quintuplica a Córdoba Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmRXMjRtenp2ZWVNNFJhZlJvRlpfTlhlZjZMaXc3Rkxsd0pHaDUwMXRXTjdySWhSUEd6MnVkNi11TTRMcjAwdVhYbTZBR01WTVNIVmRZWnhzQmRwR1hqYTh5NWZTcHdlV2JoVC1oVjdZX2FCenM5ZWNTQ0JZM3NMb21pbkJVSTN4M09xb2xaMlB5SFd3ZGZWcDBHc0pCQjFmbHQzZldWd1NjUmNFMlhIUXNmeXlSVV85UjZiel9TSjBiOUdsV1c1NjBR0gHSAUFVX3lxTE9BWmp4eDZLWlk4TUMzd2JNUWFMX0liUjUzR2pUdm11S1ZybXFjTEpOMlpMbDF6c2puZllpTG4zRTNPZXJsYjd6b09tdlo0NktyMUJhVEpFNVRiSGhHU3M3RlJjWGZLVTctZHhhVDNyaGpvVW5qTlF6V0plSkdMMllyUEk3NWF1ZmhaWjVGWVJmb0Z1anFlazEwRmE3VHFWbDdocVZGcXdIY2p1MTNwUzBfeHZETkgtX3RFcmdIMUR3Z2lBd0FQTlc3SHd6OXhXY3RRUQ?oc=5",
+        "date": "2026-10-09T03:30:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Río Negro otorgó una nueva concesión no convencional en Vaca Muerta",
+        "description": "Río Negro otorgó una nueva concesión no convencional en Vaca Muerta Gobierno de Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXRDSFd0ZG1LYk13STQ2M2FfX0dDSmdwcnRtcHpKT3hZbXo2Z1R1V3h1eDVOdU1ZVUloSUxYNTZRZ2hubXZKaGYwek9mUlhFZzFyRU16cTNBblBmclBISmVBcVBZeG9ZcVJxUTVUNVRMajBrUEdXaEtjVlRKZGNXY1VsZXlJVHk1VnZRTHFHUTlUX0U4LUU4YVVCM0loaHNPeWxjb3NROS11aUxYOHRSZFc3VGM4dlU2Sl9z?oc=5",
+        "date": "2026-10-09T12:56:15+00:00",
+        "source": "Gobierno de Río Negro"
+      }
+    ]
   }
 }
