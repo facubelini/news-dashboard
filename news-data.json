@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-10-11T01:29:21Z",
+  "updated_at": "2026-10-11T08:10:12Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC",
-        "description": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDRieTRTY3NpVnk5Y1JhM01GeDIyQWJheEF3TGZpdFBsWGh5MVZrWnF2RWwzd3ZUdzFzbHNHR0tQR0M0eFNrX2U0aWNHVFVDU2pBc3lfM05vX2xTVWNrUHZfdGtXXzVfemVyUUF2WXllSU1wTTY1R2N1Njk1Z1JqczZZczZHNXh6TkhyblA5Ti1WM19wWlFOQTJadlI1eUxtcV95ekV5S2FTS1J6RDdzWnYxZk9DbTQzeDhYX2ZJUnFkNVJJNzlWeWpR0gHPAUFVX3lxTE5DTy16dU12Q2luaDloZlkzQWlETUpZUTl4R3ptcFVMWkZHNW0zSElPbkJoUEEwWUtCeFFnVlgtTk9ablJISXVBZTlDRTRkeUEtc3hqUnRuLXNMS2p4bEJhaHZBTGhJZmIxWjdzczhqRjRhakVsSWw1bW9HYkJfQlBUV084TTB4a3ZGNWdaR01BaUN0N3d3Y0FVQmYtMktyTWE3X19jenR4b0lBQ0Y1cS1VcnNzYzljckxVVEVBQzZ0ZXF4Q3pGT1JaS3dlZzdQdw?oc=5",
-        "date": "2026-10-09T07:30:27+00:00",
+        "title": "Microsoft tiene noticias muy poco halagüeñas para los usuarios de Windows 10: subida de precio en actualizaciones",
+        "description": "Microsoft tiene noticias muy poco halagüeñas para los usuarios de Windows 10: subida de precio en actualizaciones Xataka",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlhfV2hpRnJqOWFVcjcwVTcwWWZZWEQ5eDVRQ0xIQ25IWkFsczJxdTlwRGhQZGlpRnpTeEpUU0o5Tkh1T2dyWldwLTFMYXpjTFowTW1rUFlmR1QzQUQ5ek5XaWlyck0yeXZ2TVctN2VOMElOaFNTQ2JkbkhpSVFOeVpLNlZfS2hnZWZ0WjVMRDlabEEzZEtuNEhlcm1oYkNtX05zMUE1Wk4taExObWpCdNIBtgFBVV95cUxNNjlmeHFKcmo1SjFERkM4M2JQY2x0eFJBS3dsakNTUkJTSEdmS05MRUhGeUVNWE11QnEwRFdqb0Z4LTZrWkhIMDlmUzM1U1RfcGx1dGRlSmhEb19BRHg5cGJ1TXFVWUVVa2czSnRSbWFXekkyZHNIRHFyY3BBd0ExVHhYa2VpYS02SE1mLXl3NHNNTDBMZjlCUG1uSDdDdlgzR280WE9BcU04TkI3VXdZcl9vTnhjdw?oc=5",
+        "date": "2026-10-08T04:09:07+00:00",
         "source": "Xataka"
       },
       {
-        "title": "Microsoft presentó la Surface Laptop Ultra y la Surface RTX Spark Dev Box, con el superchip Nvidia RTX Spark",
-        "description": "Microsoft presentó la Surface Laptop Ultra y la Surface RTX Spark Dev Box, con el superchip Nvidia RTX Spark La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSWtSOHFiSUdiQ0w2VGo1bWhmYmZzYXdrdXZoZTJSWXFwRkZWSHFOaFNXTjQwZV9CQlBFMllsWnV3aXo5dHRLNDBlTG1QeHktTFd5c2xzSWVPTFkxOFItSGdVVlpqUHZEWXlpbmhYVE04RFdTZUlhQ1hfNm5sVXN6LXlob2dwUG00YS01dUhWUHB2M0UwclNKejk1WTFsb3V5MUpoRXJfVzlBQmFtVUhIeFhjSzVjV3VOQXIwRmNuS3NSNDh2UVAwN2thZjBJaEhCSHNTVU5ZTFYyYjBibG5kam1QSQ?oc=5",
-        "date": "2026-10-08T20:26:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Microsoft anunció que su Inteligencia Artificial podrá gestionar y editar archivos directamente en Windows",
-        "description": "Microsoft anunció que su Inteligencia Artificial podrá gestionar y editar archivos directamente en Windows Rosario3",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzFMb2lyRExqVVpzUEp0VGNIcnVDYTZaYk1HZjdUZDNDcjNXc2Q0Y3dNUUMtSFctR0JXT3AtY01iNkxkX0pxOEg5VzNZbE42eUFyT0lEb1NCbzFiUTBJaDh4TFFYRm5Qb3lTOVZ2ZEhHdzMzT25XSDR3MkFwTGNQNFlTZFR0a2I2eEpCcHlOd2VEWUZDVmxjZjFPSVNPNTRCRVRodmp3bWw2a3ppVHdJRHY2VTFFU2wyd1h4bExtSm45YWtEWWwxREZCbFBhUm5UUlFiU0o2Wi1felB6bjAtb1AyNG9XcmoxdzVIZDhMUV9xaFnSAfMBQVVfeXFMTncxTG9pckRMalVac1BKdFRjSHJ1Q2E2WmJNR2Y3VGQzQ3IzV3NkNGN3TVFDLUhXLUdCV09wLWNNYjZMZF9KcThIOVczWWxONnlBck9JRG9TQm8xYlEwSWg4eExRWEZuUG95UzlWdmRIR3czM09uV0g0dzJBcExjUDRZU2RUdGtiNnhKQnB5TndlRFlGQ1ZsY2YxT0lTTzU0QkVUaHZqd21sNmt6aVR3SUR2NlUxRVNsMndYeGxMbUpuOWFrRFlsMURGQmxQYVJuVFJRYlNKNlotX3pQem4wLW9QMjRvV3JqMXc1SGQ4TFFfcWhZ?oc=5",
-        "date": "2026-10-08T13:26:00+00:00",
-        "source": "Rosario3"
+        "title": "Nueva actualización de Microsoft Teams identificará videos, audios e imágenes falsas o alteradas",
+        "description": "Nueva actualización de Microsoft Teams identificará videos, audios e imágenes falsas o alteradas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbU1LaTJNTlIzVDhPaTdXaGpsM25LOXFvdUR2M2FVMkNtam1sQzNKMXh5Q3k0M2lFYUJteHpfWE1ZWFU2V1NJbDFkSS1EN0J1ZllZbU1FNFhiWGdEUUkzbEZENHRubXVrZHdGR0FacWpLZk9abUdNNElua3lzS3dFem5BemE2UXBBS0VzU0tSbU5RQ1duWHdTa1B5aWNFb0dtalA3SS1McHEzQjBHOFhiS1ctODFPNW5Ta2RXXzlnVmQ1SmdsYmJEbVdhcnhpY0NJTFBj0gHuAUFVX3lxTE50NnpTYUVjVnFwRWtFTW1lNU9jdk1tQU1aVlRPTGZyR1RqYk84MDQzdjVMdjJTckZ1c1F1V2dkQU45eEFZSHZ6cUNCUkFtQkV1cktmTWd4SDdYWjJnUWtrUm5ZblZLZkVqcDdiWW11dk9JUlFGT1lDQ1B3dGJkZWpfRktiSzNIRzE2Q2RGY0FoZXNtWFNjUHFyTTlCVXo0X1RmMVFqOFF4WnNiRnNXZmFFLWlXVDJHZTFkZE1ULTFMMWFZb3JudXBuaVNRRmFqSTBzRXlPWFFnbnNYS2Y0QUlYODN1cG9oLW5Kc1QzOXc?oc=5",
+        "date": "2026-10-11T03:52:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
@@ -31,11 +24,11 @@
         "source": "BBC"
       },
       {
-        "title": "El Gobierno de Trump prohíbe a Microsoft y a otras tecnológicas solicitar residencia permanente para trabajadores extranjeros",
-        "description": "El Gobierno de Trump prohíbe a Microsoft y a otras tecnológicas solicitar residencia permanente para trabajadores extranjeros CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTldOc25VanRGTU1oVHhEcDlGYlRUanlXQU9ac1NnSkdCaGQ0a0YySUloZnl4SlZVd2poY3JzTlZja0FxY1QyWHQ1TkZHVExFRWZRczRQQk5BcTNVdWRDLUxJZDBKa0ZHSExlYjlxRnlIVThXVHU0MHdNNHRwUlgyMTNfdWZzVHVnVmxzRS0xNlRvMGNIdGpFc21zLWVHZw?oc=5",
-        "date": "2026-10-08T17:03:00+00:00",
-        "source": "CNN en Español"
+        "title": "EEUU suspenderá a Microsoft de un programa de visados, afirma Vance",
+        "description": "EEUU suspenderá a Microsoft de un programa de visados, afirma Vance Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZTWlVXTXc4MTdha0swb2FTZ25pZV9JVUJaWU5ENXpNMEhNR2pQVjY1Q2Z3THZud1JQY3JrUE9HNzA0ZDMxckxlNjdwNnVXekdiT2RjVTF0ZWlYR1htUUFuc1RpOTRvVS0xWWpJNTJmaVBqQzVOZzcyWGxFN05CVy1kLUtOYkMtdE9TZDBycWsxcV9KaHJQbk1vTlYyYmJDTE9Mb1pERQ?oc=5",
+        "date": "2026-10-09T10:19:49+00:00",
+        "source": "Yahoo Finanzas"
       },
       {
         "title": "EEUU excluye a Microsoft y más empresas del programa para dar residencia a trabajadores extranjeros",
@@ -45,11 +38,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Planes de Microsoft 365 ahora tendrán solo la tercera parte de almacenamiento en la nube",
-        "description": "Planes de Microsoft 365 ahora tendrán solo la tercera parte de almacenamiento en la nube Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3VodWVQamFwZmNVaDJ2SnpKSERySDQ2WEpfakdibjNWTUM2ZW9sbGlyTlBvN1RwLTU2NF9OaGJLT0poaE5jVVVhclBNcnpSOFVQWUVRR1hMRkdFeVBaWDdIZzNCQjBicWNjMmp1VUF2Y01EbkJNblFlWjAxaS1HZVNNd0ItdDZvNFB3R0RMQVF0UjdRcmloejIxeUVoXzhiQ0JiNzU3OTNBalRjOHVrbzA3UVM0eWZFTE1mZ3BQZ28yRGJJS3lpeElR0gHkAUFVX3lxTFA4QlBiZTNlVWFLSUhwQWg2eUM0MnduZGd1WFNXRHI3bEFoQTROd2k0R3g1UWZxLW9yQ2VnNnF4bURFUUVYUWxtZVB4bGQ4QTZmRzNJd3NwRHd2OGhKaFBWMF8tcWdiVlF2MFhwanFKQXpndTBMVlF4cUoxODJtNE5CeFRKMUprdkJSenJCa0pYazgxamhhQmFROVE4S0loc1pobHJVbDNZSzhQd0l5ZDVEd2dRR0NJQXRVdTBXVkoybmF3cWFKOUpVWGdJZmYyQlhYYWxKeDJIQU1sMURCMmpGX3pLcw?oc=5",
-        "date": "2026-10-10T02:34:00+00:00",
-        "source": "Infobae"
+        "title": "Microsoft presentó la Surface Laptop Ultra y la Surface RTX Spark Dev Box, con el superchip Nvidia RTX Spark",
+        "description": "Microsoft presentó la Surface Laptop Ultra y la Surface RTX Spark Dev Box, con el superchip Nvidia RTX Spark La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSWtSOHFiSUdiQ0w2VGo1bWhmYmZzYXdrdXZoZTJSWXFwRkZWSHFOaFNXTjQwZV9CQlBFMllsWnV3aXo5dHRLNDBlTG1QeHktTFd5c2xzSWVPTFkxOFItSGdVVlpqUHZEWXlpbmhYVE04RFdTZUlhQ1hfNm5sVXN6LXlob2dwUG00YS01dUhWUHB2M0UwclNKejk1WTFsb3V5MUpoRXJfVzlBQmFtVUhIeFhjSzVjV3VOQXIwRmNuS3NSNDh2UVAwN2thZjBJaEhCSHNTVU5ZTFYyYjBibG5kam1QSQ?oc=5",
+        "date": "2026-10-08T20:26:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "CEO de LinkedIn renuncia a causa de la presencialidad que exige Microsoft",
+        "description": "CEO de LinkedIn renuncia a causa de la presencialidad que exige Microsoft iProUP",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWVqaHdtSGVYYTF3MzBsdWpjMzJseEQ1NTNiZDQ3MlpMbHBWZDRiMFZLbXdQMjdKWGhJVEFtX2dPWFczcTQ1b1pRSFotdDJReVZkSDZjanMxckx4WnV1ejRkZ2ZmaWJLcTM3cmxYd2hJSmJPZFpsWFhmNE9SZzJDOWd2cUZxWXFZeDd3djNYWEI2WkdKcjNvRHZxTWVBcjJBclhxelNMVGoyS3R2NkHSAbMBQVVfeXFMTS01Zm95TDVqVUtCaENmMlQ2NnE0dldIVjEwSloza1cyeUMxZFl1SVZhalVySU1xTzR6M1FHVVB4VWNma1dRN09TWUNCV0trYzhDSkF4cXdQRk5MSFpRRTlhYnhLNi1McmU2RGNXVkNTVkd0QzBKaEk4TEc5T3BIY3JMeVNMOUp0em11ZW15endQdlNhLXF5d3o5cm1qcjY5VTJDd2NZWTgtV2pjdmJQMGZZTjg?oc=5",
+        "date": "2026-10-08T13:14:35+00:00",
+        "source": "iProUP"
       }
     ],
     "Marketing": [
@@ -105,18 +105,25 @@
     ],
     "IA": [
       {
-        "title": "Trump tilda de \"enemigo\" a quien diga 'inteligencia artificial' y no 'superinteligencia'",
-        "description": "Trump tilda de \"enemigo\" a quien diga 'inteligencia artificial' y no 'superinteligencia' El Confidencial",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXVSU1pnOXZKUlF4Y2VDcnh5ZGhlSENSajllNkcyZWo2MXRzdlh4emhOWlU1YjVhY09nNzl5T1l6a0N4VXItU1NzMnR3QjB0UnZJTzYyMEFZVC1oeDI4WHUzMUNicDVWajNnUDNDdkxvLWctRHVGY0NZd0wyUUFjblpvZkxiemNNTWJxb2U4eWNLMnhNS0JmbF94UWVoQjdya1BqVQ?oc=5",
-        "date": "2026-10-09T06:13:00+00:00",
-        "source": "El Confidencial"
+        "title": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
+        "description": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\" Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGk0anJDNDhidEVjeWVXWlVPT1VSbngyOUFhZ01razBJeXE1bHhMeU8tUmZibHJEVUpLYkx0dFdZay1jZHdCRUR1QlB5WG1HRndpYzFKTXduUU03S0dZSFV1WWMtYkVoQ1BmVzBEeGxGT2lCTFRiZ1M2STFkRkprci1LTnE2QVNxczE5LWMxX0NSalM3RjFnbWFvdmYzOHlMX3kwaDZMdzlMYmtTQVpSYUxrY0pudmVxcmNTSnJOS0JXUzRIYk12N3g5R096RlRWaFU4NdIB2gFBVV95cUxQLURWOE1IZ19LR3hyWGJ1SVUtejNGc2d0bU5Db2RWTE83WTZSSktQYjFwc3YtQzlER0FKbm1MRmpoa3Zkc292d3RqYjRhTU82dWxNNVctQ01yb1R3U2d6X1Q1LTQ5NUZBT2s5X2hZb1otc2ZEYTlHVVd4TjFUVzVLQWJuZzJIaTBHWDI4bUVkVHp5RW1FMkJ6NU1qbHFyMVFzT1M2UXhsUGU1Z01RSUNPUnhLWGxlRE8wbDliVGtuTnVDenBoREdJVzBHNkhMeVZJZS1XYWZvTURZZw?oc=5",
+        "date": "2026-10-11T07:30:26+00:00",
+        "source": "Xataka"
       },
       {
-        "title": "Anthropic acusa a empresas chinas de utilizar Claude en secreto “para imitar sus capacidades en modelos IA”",
-        "description": "Anthropic acusa a empresas chinas de utilizar Claude en secreto “para imitar sus capacidades en modelos IA” Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZjZ2Zjd1dHhwakpYaUdfZnVvdnkwbDhWUGJ6RGYzSy1SWDBxVW1KUlZTTjFBZzdoNXU3THRkNHN1VEVQVHRpbGt4Q2p0WXc0dkdfRjF2RDhJRXQyVjl4X2l3OGZGMjUwaTd1UjlqQWMxZlNlV0U2RzdFMzhMSDhYLUtlYkFiTjNLLUdTWEh1VGk0UHF2dTE3cmU0bWdidjRHWThLRE5LNDhqcks1UFNsSmFwRlFWOWYxbmtjLW02TVE0YVFsOWIxVDBGUnhJTFZESFUzcFBzMWN3LW5RVTVLY9IB-wFBVV95cUxNZnFNUGdERDVuU05nY3VVMjB5bXpwZTVIUXNmOGhUbldRM0dPT0xnZXlaT2NLc1NDSXdYbWdyeXJiYUNfVkVCakpkNk00LUlvMFZOMVV5TkI0NWNBUmowZXFJVTlacGoyS0VPVURyQzdBNkNPWWM5UnMzWEVuVzFFTy1QTFlrMEF4V082ODVmT1A3YW1OYlo5dUtSMDE2VVdXa3FIZGp0aHUzcXpYVGV0YzVUenYtbTZhSUxWaVMyb2JETnRmdjB0bDNzMU05b1BEMW43NF84TnhyYmJObjZTX3R5cGc3T2NxMUhtR2RWcUpfMlVnRzVDcFRTSQ?oc=5",
-        "date": "2026-10-11T00:27:22+00:00",
-        "source": "Infobae"
+        "title": "Las advertencias sobre la inteligencia artificial llegan desde adentro de la industria",
+        "description": "Las advertencias sobre la inteligencia artificial llegan desde adentro de la industria Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSG9YTmo0Qkh1T0VxenFCR0w5U3ZvcFYwOFdDbGVUdW9xREQ5UGJxWGlfamdvNWtIQVk1bkt3dDdNTWlwVktpOTZPZENPaEM2aFBGWHpJMUthTEY2eVFXZDRPQVpYTGlwcDliMlNnODFnWXZFbXNWOTViamN6dV9oQ1dqTHNXYkNaOEYzdUduaGlEVUhKOFBPV09BU2xaMGpDa2NMLWluYzZSN2VBTWNucmxMbDJWZ3RkaEN1R0RzTjNJY0hlMkNHaHZRM2oyTEVYNWg1aFFQaG00QUZUUUJXbHVzaXdsWWEwRW5Rcm90MUQ?oc=5",
+        "date": "2026-10-11T07:03:41+00:00",
+        "source": "Diario El Día de La Plata"
+      },
+      {
+        "title": "Producir respuestas",
+        "description": "Producir respuestas Perfil",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWEstc3BhRm8zUnBlbjIyNlRDa3Z0ZTRmVzE1VlZWUWNPWXFpT0FSYnRpN0RhM1d4UWtFS1FMelJtc1Q1U3czRmNhSVFJREJPbF9zX01heFZJUno1Y0dVUlR1QjF0Nm9hUkllRHhqcHdnNVXSAXhBVV95cUxQNlRkY0d4RV9TYWtXN2Q1YWdtcFFpbTVqZDBUam5LeVBFcjJ0VkJidkVHamVaOWMtTEV2T24temVKLWZyLVZLejllUEV2X1UydjVJWFRyRTdOOG9CWi1SR2gyM25fNno5Vm5tRTl4Y2VFOFVWRjctWlM?oc=5",
+        "date": "2026-10-11T07:36:32+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Catrin Misselhorn: “La IA solamente puede crear arte fake”",
@@ -133,25 +140,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Tiene tres empresas de tecnología y apuesta a los robots humanoides y la inteligencia artificial - TN",
-        "description": "Tiene tres empresas de tecnología y apuesta a los robots humanoides y la inteligencia artificial TN",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSE1vWFpxVW5Yemc5RVBESTJLQnhtUWlPMVBpMHM5V3ZEYllTeWpqcXVxMTYtVzBiT0drQU12NW9sbGJyUlRCRlJkaG55aVhXbGM2MGdxVFZVOW8tbm04NU9zNmZfSnFNMU5yQm1xMURfWm4wZ2NLSTB2ZWRqWHppcTVEZWhNTVY0cXptZ050WFJucjBNN09JcUlaSHAxVy1HUnhYVTVjQ05ZeTBvNjg2Mnp1VDMyOUt4OUFlYUI0dmNxTUR3bTBfX2RweHpOVXl4TjNqSVJnS3RpYXRfM3lGTnNfWlHSAfgBQVVfeXFMT1RZN2xCZTJaSUhoeDAxV0Z2RWxWUXhIeWtzN2hHTU4xSjdXOHk3R093a1pyWk1MZ0paZVJ3N19KSldWazZ3d0dRZWpsM21hZk11SUZRcjVaWGJxRmpiQzhPZVB2Q1Y1aUxJaDRNVWJ4bi01NjBoaHh2U2p5VF83R0s0YThMNGdyVGl6VXNrRHNPRXl5OVJYY2RhdGxvQ25HVGdpal9SdTdvbDIyNkdhcjA4UTdzZzhkS2lMTkNPSlZ5NmNBMS1SLUpONC12ZEt0SGNMOG9NanNQVXBURHMwS0FuY1RPUjJCVl8tSE81bVhWZmp1S2pjaGk?oc=5",
-        "date": "2026-10-10T12:04:00+00:00",
+        "title": "Inteligencia artificial y empleo: qué habilidades hay que aprender hoy para conseguir trabajo en los próximos años - TN",
+        "description": "Inteligencia artificial y empleo: qué habilidades hay que aprender hoy para conseguir trabajo en los próximos años TN",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUJuMUdEdWstNkotNENUdkp3cXk0QXFEVHNSODBRTVpMYUs0Wk5CdEF1eWpRdWNIeWRKZmI2bDJZeXB4R19YV2xFUzAyZGxuMTlvT1VYWDhycDV1TWd2T0lMRHFYTGM3NWhqbXpSVVJaQ0VxMEk0SS1yQ1EtM29RaE5scndTOTBrVWVRWUp1aW1IQUZ0b2x1WVJnUXhMRTF1VV9fUVRER1o1c2E1Z0dqUWFDZFhkYko3TjRmd3dkcnZ4VFBTdEdscU5IYkYwRDJWMDlKcXNpU0JNSzZnOGZ0VS1COEczaVF3NzJENk1zaTTSAYQCQVVfeXFMT3BGcV81X0wybW42Um1zWFRHMkZzbVVhVktqd0tkOGdpTUpLdFJ3OTBoaEpiZWxETGhqb28wS2JqcTFNZHJpakJPajBkNlB1Sms3ZmRZUnVMdzVDWWoyZDY4aWlRRGN1VGZHSHE5TGZnNExJRzd6Z1pCanp6NTNkOXo5R28tNXNJY2NWdlN5d1cwdWl5WGZCR3RmZXVwRERhU3d5M09IeXlOQjZHbnQxWTJPZk5CQjhJSEdpZ3pMVUktd3JkUDFoWHZUdmdGQl8ya2lrcDZHcC1oM3VNelFUdThCQzg3cTZGTHdDOGxxNG9yZW40VGVnWnNEcWlUNkRGZkZzWVc?oc=5",
+        "date": "2026-10-10T23:05:56+00:00",
         "source": "TN"
       },
       {
-        "title": "Julio IA Roca: cómo la inteligencia artificial le dio voz a un presidente fallecido hace más de un siglo",
-        "description": "Julio IA Roca: cómo la inteligencia artificial le dio voz a un presidente fallecido hace más de un siglo La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU2Jxbk9qNnlVdEhzODVVWm9CZTg2cHFpSk1rNTZFUnVERDE4RWFtZ3hDVDVZZVZNU3pLQWQ5ZmxZZGJ5RVJ0b0VNWjlaMmpPQVpEdWFSalFBVUV6Z0VkUEg4MUJOYVRpdWdMLVBFR0Nhc2xGZE1kM21CNjhEb1NuLVdXTlIxaExjX0oxVzNpS1liMkJQY2o3bWFwVk5oVnJ6di1KVHdpdnVWZUdyeHdLaU1XLTJkcXc5QnVJcTBQa1V6VXFJeEJ1NzV2TnlmYVFsaW1aQmtNRTJobTdfWUtiQVhONA?oc=5",
-        "date": "2026-10-08T17:57:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "El Lobo homenajeó a Diego, pero los hinchas explotaron por el uso de la Inteligencia Artificial",
-        "description": "El Lobo homenajeó a Diego, pero los hinchas explotaron por el uso de la Inteligencia Artificial Infocielo",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRXdTOXRBbElDVm5ueTEwWEZoT3FaRXhndjlQV2g5azA2eTFnVmMtdXY3X1dGQ0ZVNGhYTDdQTVg4UXZhNDZhZ0xsSGtVNnB4SWd5bHdsYjJZYUlIUzJRem0xRVU1VHBOSTZyaGUzckx4M3BTbDF3UldybWhTeFpveHpkdzlVYlhMVV9seXhOS2NpaTYwUHpkVXJndkdNU2xkTUxuNVdqYWEzLU4yUjU0YW5GN1VLYjdwMlFWNTU2Y3lHbTd4ODZFMA?oc=5",
-        "date": "2026-10-10T17:15:42+00:00",
-        "source": "Infocielo"
+        "title": "Un conflicto nuclear y el uso malicioso de la inteligencia artificial se cuelan entre las amenazas para la salud mundial: “Sería un apocalipsis”",
+        "description": "Un conflicto nuclear y el uso malicioso de la inteligencia artificial se cuelan entre las amenazas para la salud mundial: “Sería un apocalipsis” EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQLUlBcGhXYk8zMzgxbHBWX3lvLTZYR3NrQkI3bUpPMHhlRmY3VnpwV2RNQXlSa3FfeGJTY2thaWxrQ1VpUjRBdnQ4NVlrbmxUVGdobE5BbHZjT2JYenZua1pac0FVMHFIdzlWQUE1T3VadXNtY0dhdzhQOWJod2Z0SmZFekhrdzcxR2JZeEU1S2hLVE9NU0xTNkxQb242RlZrU2x6TlF2N3hwRGJ2UEo5LUNGU2gxTGR6X19NMHIyRk5wcEQ1SmRQRnJuRzN5OFVPYzhMSEZqRTZObS1iZFF3bmtsTkF2R2RabmV3em9YM0RLemJiNEMwdExGUU90Tnc4X3VGR0FlWFpXeVIxX1hlVU1iV3lTSXNMU3ZEQkc4QdIBswJBVV95cUxQSHlST2JEekJRVmdHWlJyb1lxWExRSFdJMDZzcGMxeXJXeHRVY3Q1d18wY0hiZzdHbzc2ZENPZjdXSkpUQWZKUngwLUZCNmYxUWdtQzFPOGVXV3RHbENxVHhtOUhURUhqOTlmVDhJUDF5cFpmOXlEUC0ybHB0aE5pNGZkU1VQbWY5Y3NvTnYzSVRMTDM1T2UtbWt2SkZORERkQ1pPdHdqajgxb3VNTWliODRHOS1aUkVfVUVkU2VVNFBpUzF3WVROcVd6M1JZejUzZG9uLUc5NmliWGNsTnNlR1NKX2VhbFMzYjJfdFJDOUlUbU9aZS1rZWJPNDd3bngtM3I5WUNEYU90VU80Y0F0R05xaDhON2VBWFk2eHdlVVU3TWF0T1JNSGFQR05Jc1hINTZJ?oc=5",
+        "date": "2026-10-11T03:30:01+00:00",
+        "source": "EL PAÍS"
       }
     ],
     "Vaca Muerta": [
@@ -191,18 +191,18 @@
         "source": "Infobae"
       },
       {
+        "title": "Vaca Muerta millonaria, escuelas precarias",
+        "description": "Vaca Muerta millonaria, escuelas precarias La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlNINDVPX1F5TGpTdGIwZllwMnpmLXpKdEdWMFFLaFliTXR3bjRBbTFnQ0V5T3NKM3BSU0Nhajl4Mmp1RWNYOGMwSjRXcmQzNEtTWDlKS1JZMnRpWGsySDRPc2ZiUzQ5XzIyb0NVOXpYaEhtNFdHZWFhUjY1dWxyVdIBiAFBVV95cUxPS2NVaUxteHhfcmNVdS12OU9aMkNuQXEtTENOYl9qc2ctU25sMTBkX3RrenN0ZmgwR3lHeV9NRXFSenpiZ0FBeENDcnZPVlVhMWQxaUUzczlmR01HMjk1akRQN3dTLWg0cVlNZEhIMzV1TzNudkxkSG93YkNlc1Z1czlHcEdybVU0?oc=5",
+        "date": "2026-10-10T21:30:30+00:00",
+        "source": "La Izquierda Diario"
+      },
+      {
         "title": "Nuevo RIGI petrolero para Vaca Muerta",
         "description": "Nuevo RIGI petrolero para Vaca Muerta Página|12",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOGc4djhSeTNqT01XcUpxYlVaN0JmVFVPSVNfY0RZZHBSOERvOGdDNWFQRXhzbzM3SHlid056NjJFX210RWp5UUNmcFg0ZGtqekNQTnhYcmFWR0l6eURXeXhybHl4cXBybjlFU0NZekwxMC04YmtNaGZZdVNUWURzZVBxaw?oc=5",
         "date": "2026-10-09T21:49:08+00:00",
         "source": "Página|12"
-      },
-      {
-        "title": "Vaca Muerta: se oficializó el ingreso al RIGI del proyecto de GyP y Tecpetrol",
-        "description": "Vaca Muerta: se oficializó el ingreso al RIGI del proyecto de GyP y Tecpetrol Cutral Co al Instante",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNXZF82c0dMb1VHR001bE5fTzZ3a2poS0hZZk9mcHdmNl9CNkV1bklRZVk1UGpuRlhOYjk2UXIxdnhDdngzQUUxekdnTDdKYV9TMDVqRXR1NF9CZGdVLXBVTUdNZXJneU40cVZFeVU2QUxKRWlJRWFGeWt2eURWSXJkT21XaXAzaGRxSlZXMWVmVGlJRFpoTWR3MEpKNUZIX3lIWjQyLXRmVG5CX3lTQjZHVXEyRHVrUmZRZF9iNG8?oc=5",
-        "date": "2026-10-11T00:02:44+00:00",
-        "source": "Cutral Co al Instante"
       }
     ]
   }
