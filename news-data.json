@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-11T08:10:12Z",
+  "updated_at": "2026-10-11T15:16:18Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft tiene noticias muy poco halagüeñas para los usuarios de Windows 10: subida de precio en actualizaciones",
-        "description": "Microsoft tiene noticias muy poco halagüeñas para los usuarios de Windows 10: subida de precio en actualizaciones Xataka",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQlhfV2hpRnJqOWFVcjcwVTcwWWZZWEQ5eDVRQ0xIQ25IWkFsczJxdTlwRGhQZGlpRnpTeEpUU0o5Tkh1T2dyWldwLTFMYXpjTFowTW1rUFlmR1QzQUQ5ek5XaWlyck0yeXZ2TVctN2VOMElOaFNTQ2JkbkhpSVFOeVpLNlZfS2hnZWZ0WjVMRDlabEEzZEtuNEhlcm1oYkNtX05zMUE1Wk4taExObWpCdNIBtgFBVV95cUxNNjlmeHFKcmo1SjFERkM4M2JQY2x0eFJBS3dsakNTUkJTSEdmS05MRUhGeUVNWE11QnEwRFdqb0Z4LTZrWkhIMDlmUzM1U1RfcGx1dGRlSmhEb19BRHg5cGJ1TXFVWUVVa2czSnRSbWFXekkyZHNIRHFyY3BBd0ExVHhYa2VpYS02SE1mLXl3NHNNTDBMZjlCUG1uSDdDdlgzR280WE9BcU04TkI3VXdZcl9vTnhjdw?oc=5",
-        "date": "2026-10-08T04:09:07+00:00",
-        "source": "Xataka"
-      },
       {
         "title": "Nueva actualización de Microsoft Teams identificará videos, audios e imágenes falsas o alteradas",
         "description": "Nueva actualización de Microsoft Teams identificará videos, audios e imágenes falsas o alteradas Infobae",
@@ -24,18 +17,11 @@
         "source": "BBC"
       },
       {
-        "title": "EEUU suspenderá a Microsoft de un programa de visados, afirma Vance",
-        "description": "EEUU suspenderá a Microsoft de un programa de visados, afirma Vance Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZTWlVXTXc4MTdha0swb2FTZ25pZV9JVUJaWU5ENXpNMEhNR2pQVjY1Q2Z3THZud1JQY3JrUE9HNzA0ZDMxckxlNjdwNnVXekdiT2RjVTF0ZWlYR1htUUFuc1RpOTRvVS0xWWpJNTJmaVBqQzVOZzcyWGxFN05CVy1kLUtOYkMtdE9TZDBycWsxcV9KaHJQbk1vTlYyYmJDTE9Mb1pERQ?oc=5",
-        "date": "2026-10-09T10:19:49+00:00",
-        "source": "Yahoo Finanzas"
-      },
-      {
-        "title": "EEUU excluye a Microsoft y más empresas del programa para dar residencia a trabajadores extranjeros",
-        "description": "EEUU excluye a Microsoft y más empresas del programa para dar residencia a trabajadores extranjeros Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQkxDOEdVY25jYXAyRTVYS0ZuMXI2ZGE1X294NEl6SHVtNXQycXB2M1ZwRTJTUUZuTEhFdVRNR3pQOUJXU2RET1ltNlNfWHNfUkNfQ1l2YWJFVXVDNHhwVkNHLUlrV2JETVNkYjVnTEJWSVJiTGxhM0NxMzF3a2RIblNUWlhjZU9OejZoV0J2YXFhZlVBT0MwZjJZbjNsSWlIWkFoUmlrQ0RGZVM4U05ya3I3UDloRFV1d1ctUjR2ellMZFdKa1VJRldLLXIwVERtLW9UR1Y2NEN2X0UzTGlFZUh2YWvSAf8BQVVfeXFMTmNvLVJUb2MxTlpyRFI4VWsxY3hiYkZOX0gyOGVjRHp6b2ljelJHa1I3NmhBaWlHcGNXLVlRS2REcTNnUXViTmdUYXlGNHoxWlFVcDI0VVVCVEFHSHhlVURoNmN0c0NIZG5hZ3pyRm02NVBxaDhpaE4tODU4Mm5NZ280RVBvMG0wQl80V1I5cUNsbzk4bktLaUVmVldrSHNuX2NDQ2RSa0oxRzhPYnI5VmU0eHJYazUxR00yVGQwUGpzRlEzd1hWRUxDTG4zN2gtSDBtU2tvOGdoODYzTTdOUXpuQ1FyN3pXYl8zY0JBVFpDanFiXzBPRk1mSE9SQ184?oc=5",
-        "date": "2026-10-08T20:42:00+00:00",
-        "source": "Infobae"
+        "title": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC",
+        "description": "Microsoft tiene su propio CCleaner para Windows desde hace años. Ahora quiere que haga mucho más que limpiar el PC Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDRieTRTY3NpVnk5Y1JhM01GeDIyQWJheEF3TGZpdFBsWGh5MVZrWnF2RWwzd3ZUdzFzbHNHR0tQR0M0eFNrX2U0aWNHVFVDU2pBc3lfM05vX2xTVWNrUHZfdGtXXzVfemVyUUF2WXllSU1wTTY1R2N1Njk1Z1JqczZZczZHNXh6TkhyblA5Ti1WM19wWlFOQTJadlI1eUxtcV95ekV5S2FTS1J6RDdzWnYxZk9DbTQzeDhYX2ZJUnFkNVJJNzlWeWpR0gHPAUFVX3lxTE5DTy16dU12Q2luaDloZlkzQWlETUpZUTl4R3ptcFVMWkZHNW0zSElPbkJoUEEwWUtCeFFnVlgtTk9ablJISXVBZTlDRTRkeUEtc3hqUnRuLXNMS2p4bEJhaHZBTGhJZmIxWjdzczhqRjRhakVsSWw1bW9HYkJfQlBUV084TTB4a3ZGNWdaR01BaUN0N3d3Y0FVQmYtMktyTWE3X19jenR4b0lBQ0Y1cS1VcnNzYzljckxVVEVBQzZ0ZXF4Q3pGT1JaS3dlZzdQdw?oc=5",
+        "date": "2026-10-09T07:30:27+00:00",
+        "source": "Xataka"
       },
       {
         "title": "Microsoft presentó la Surface Laptop Ultra y la Surface RTX Spark Dev Box, con el superchip Nvidia RTX Spark",
@@ -43,6 +29,20 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSWtSOHFiSUdiQ0w2VGo1bWhmYmZzYXdrdXZoZTJSWXFwRkZWSHFOaFNXTjQwZV9CQlBFMllsWnV3aXo5dHRLNDBlTG1QeHktTFd5c2xzSWVPTFkxOFItSGdVVlpqUHZEWXlpbmhYVE04RFdTZUlhQ1hfNm5sVXN6LXlob2dwUG00YS01dUhWUHB2M0UwclNKejk1WTFsb3V5MUpoRXJfVzlBQmFtVUhIeFhjSzVjV3VOQXIwRmNuS3NSNDh2UVAwN2thZjBJaEhCSHNTVU5ZTFYyYjBibG5kam1QSQ?oc=5",
         "date": "2026-10-08T20:26:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Microsoft bloquea el último truco para instalar Windows 11 sin una cuenta en línea",
+        "description": "Microsoft bloquea el último truco para instalar Windows 11 sin una cuenta en línea Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlphd1lYNEkzdXJCUkVBUldhMmJJNzFqeGpoOE9vNHJqRm9YTlBJVUNIeWhxdW9qbERwbDFRWU5JeHlsSVUtQWRQdW52MUljMGtURE9oaGh1Q19yTWM3NGN5dnNLVWIwaVJ2cm9pRHBwNGFGaGswWC1JWFZEVk5xLVgwclYtN2kyYnljZU9CbENQandNdUpUY0thcEFZeU1nSkh6RWpXRGZwbVVIYlNCZjl0YjBzNFFS?oc=5",
+        "date": "2026-10-09T17:26:43+00:00",
+        "source": "Hipertextual"
+      },
+      {
+        "title": "Microsoft 365 cambia a peor y reduce el almacenamiento disponible: fechas y claves del anuncio",
+        "description": "Microsoft 365 cambia a peor y reduce el almacenamiento disponible: fechas y claves del anuncio SoftZone",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDdjdm4welBsOFhWVTJ4QjE2QWxhSy1hTVZWNTdBZlRBVFdMUHBTUDRoZGp3YWItVEFxd2l5YzMwWk9XRGFybFZWNDlycW9OdzVPczZCZFJ5STdicE45Z2V6UUNsRjBCSXluSmFyM2ZLWFAyUmhHemtnT3FIYjAxLXltS2Q1ejc2Q1Iw?oc=5",
+        "date": "2026-10-09T08:32:05+00:00",
+        "source": "SoftZone"
       },
       {
         "title": "CEO de LinkedIn renuncia a causa de la presencialidad que exige Microsoft",
@@ -82,6 +82,13 @@
         "source": "misiones.gob.ar"
       },
       {
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T07:00:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
         "title": "Colón fortalece su promoción turística con más de 1,7 millones de personas alcanzadas y suma Google Ads y YouTube de cara al verano",
         "description": "Colón fortalece su promoción turística con más de 1,7 millones de personas alcanzadas y suma Google Ads y YouTube de cara al verano Municipalidad de Colón",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS0FkMHVCZm1IOHAzR2w2WDZLZzNkX1IzM0VjeGU3WnBfWlh6STFrLXp2TW15a29rbGNwU1BzYkpNaExkSFQ5dEhONGR3VUVHbXVVcjJDTFotRlNEWVlWaEhCd0NobVExYWs0bU84OHNLWFRTWm4tYnlzN2dsVDBVTTh2YklmNm51ZjF0Qm5SeWtOS3otMEhTZGhTbW9zOFhGV2FjT0NJaUkyZnY5ZUVCb3labHhDZHNlRGsxQkNqTElQVTlxWVB1bVdNZll2dHRVM0sxR2RkX2V2RmtSb21XdzN4ZzlFSjA?oc=5",
@@ -94,22 +101,43 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnVaYjZWWFFRbWJGVlR2QVdIMHo2SDU1OVpmUWlBTW1kby0tZ1B0Z09wLUVZaWJXcElRUUFRWXRJVXdfOHQ1WldfNXlwN2RQaFc1dTg3RUs0LUo5dWJKRTYwanJNTERIMnhlT0ZudHN5ckhPb19tNnl3RWo4cHpyTXZPR3FMVkRDNWZ0ZE5jS0VaOGx1QmZ0M1U4Mi1fR0ZK?oc=5",
         "date": "2026-09-23T11:33:49+00:00",
         "source": "PRENSA GOBIERNO DE MENDOZA"
-      },
-      {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Noticias ULP",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTRTY09ia29YV1Vlb3dwUEZsaE9QMEJ4aWRqSHVoV0RmZVhLLUQxLV9zSFU1RUpLQk9kRjVIRVA0SWdvWHhGX1RHRVNRLXlnb013ZnBvbjJwY1VNQUhjYk43cGpCdUc5TjRJRkpKTHNRWjJZaE9vZVZTM1NUWTVYb013VU9uZGF6VGd5d2lLeUtSMHhJVy1pd21STExERmdqNzhaRkFsRVJrYUVJWHBrQWdwNA?oc=5",
-        "date": "2026-09-28T18:54:58+00:00",
-        "source": "Noticias ULP"
       }
     ],
     "IA": [
       {
-        "title": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\"",
-        "description": "Satya Nadella, CEO de Microsoft: \"Debemos asumir que todos los modelos de IA están comprometidos y contenerlos desde el principio\" Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGk0anJDNDhidEVjeWVXWlVPT1VSbngyOUFhZ01razBJeXE1bHhMeU8tUmZibHJEVUpLYkx0dFdZay1jZHdCRUR1QlB5WG1HRndpYzFKTXduUU03S0dZSFV1WWMtYkVoQ1BmVzBEeGxGT2lCTFRiZ1M2STFkRkprci1LTnE2QVNxczE5LWMxX0NSalM3RjFnbWFvdmYzOHlMX3kwaDZMdzlMYmtTQVpSYUxrY0pudmVxcmNTSnJOS0JXUzRIYk12N3g5R096RlRWaFU4NdIB2gFBVV95cUxQLURWOE1IZ19LR3hyWGJ1SVUtejNGc2d0bU5Db2RWTE83WTZSSktQYjFwc3YtQzlER0FKbm1MRmpoa3Zkc292d3RqYjRhTU82dWxNNVctQ01yb1R3U2d6X1Q1LTQ5NUZBT2s5X2hZb1otc2ZEYTlHVVd4TjFUVzVLQWJuZzJIaTBHWDI4bUVkVHp5RW1FMkJ6NU1qbHFyMVFzT1M2UXhsUGU1Z01RSUNPUnhLWGxlRE8wbDliVGtuTnVDenBoREdJVzBHNkhMeVZJZS1XYWZvTURZZw?oc=5",
-        "date": "2026-10-11T07:30:26+00:00",
-        "source": "Xataka"
+        "title": "Desnudos falsos creados con IA: cómo denunciar y pedir que retiren las imágenes de Internet",
+        "description": "Desnudos falsos creados con IA: cómo denunciar y pedir que retiren las imágenes de Internet El Liberal",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWl5NFNWd1dqYmhRSnVEYXdlNXcyTV85aFZMYldKRUxkd2tHVVJNN2dvOWJSejZ4N3lxQzJJNTNibnVKekhrYjhqZW5KaVJWUVkzLXUwU0xZc1Ytakx1VXhUNEQ4c3ZZTGZsMGs0UTFxQWJLcDRpbUE5M29Takl4NGlNcmdaT0xSX1dlZnc2Z3RxbmFkYkFFanlzczVDb3V6elhSaFVteEtkTWFyLW5qUkRHVVU0b1RZNExHekxlRXl3SkxMWXoya0tGM3N5Q2ZqcmdWSEl30gHfAUFVX3lxTE9pWnJDc1owQXFsY01OUzZvM2QyWGszQnF2SUdySEp1bTJTRThRYU1vRE54RkltaGJGWVVyRlE3dGlmdDJkQ2Z1Q04xQXNnQVdPb0pleVZxZmRFR2tYQ0UzeGJPd3pNaV9CZTRoWUJfSTZ0WG41ZUQwbXN3UnFOcnA5UzhwZ1NDSFFnRU4wYmxxelpsa1BPYXRvSnFoVnNnOTdMMVdxenhUQ1ZnWDkyOVpqMVdfT2Y4T0l3d0JHWlhJNjhUWGdWd1E4SjJYQldxWmUzY3VvRE9FM3k1cXFudEU?oc=5",
+        "date": "2026-10-10T22:15:00+00:00",
+        "source": "El Liberal"
+      },
+      {
+        "title": "Aumenta la preocupación en las escuelas por los alumnos que trucan con IA fotos de sus compañeras",
+        "description": "Aumenta la preocupación en las escuelas por los alumnos que trucan con IA fotos de sus compañeras Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmtnNUJ1WThLZkhBZnNlSUhnVThBVmJ0MmFxRlV5S0RnejZRcFc2bjVFODQzT0RSXzJ5ZlBTeGtGLWtpX0NSR0pJamVnYVB2YVBabWJYTFY4T1V0NDdQMGZVNWRURXF4YmVta3Z0SGduY1hOUnVFdHVxejdLU0VQYnZ3dnNkczNUcmd4QURKX01FbWlLallENEE0R0M5SHJMYnN6b0t6dF9FdXpDZkhBQURfRGo?oc=5",
+        "date": "2026-10-11T04:00:07+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Investigan a cuatro estudiantes de Ituzaingó por crear imágenes falsas de compañeras desnudas con IA",
+        "description": "Investigan a cuatro estudiantes de Ituzaingó por crear imágenes falsas de compañeras desnudas con IA El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOV9uNk90VU11VHptX21GaU1YdkJlQUU4UERUaU82WENpUWNnU2trSnRFN3JhSEVaOWp2SkU0b05lU3VTY0Q1YU9laGpSOG9ZOVRZaWpqcXNEdVpWV0FrZm1xbzZrRm1jZHhKaUh0OUwyV1lib3IzcE9PSmx5clFSY0xKZ0UzVFJGamtkdGxDSW1hRzVmUGlSWWFJUWU5OGZtTUhFNktxYnc0QTB6VFh0M3JfVldMeUZsZl81a21kT2NQdi16U0hvWHBMRGFMTm1Kbzk5YnJBNE9JTmhGYUNWay0tOWdOWGwtcURsUm5BZw?oc=5",
+        "date": "2026-10-11T11:52:41+00:00",
+        "source": "El Litoral"
+      },
+      {
+        "title": "Consecuencias del modelo económico de la inteligencia artificial general",
+        "description": "Consecuencias del modelo económico de la inteligencia artificial general Página|12",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBSa3cteHp6X1dPN1hGY3lBM1VXckRZVHVhRERKaHU3QmhCU3FfQVBoNTNXWnVSZkF6bE9nQjh4LUVYUXhQbXVhdTRoSTJzWGxfQnZTWmk2bk5zWnBPUHgtR1kwVGxya09qVGtIQ2FkWWd0dXZuZm00dWdQSGRVUWlEMmhuZ2ZGazE5Q1g1WGxJRHAydkJIR25jbll6ZUkwbGxfenBmT2E0R1BOY0FoYWxB?oc=5",
+        "date": "2026-10-11T09:59:00+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Cómo será la revolución del “comercio agéntico”: la IA ya dejó de sugerir productos y empezó a decidir las compras",
+        "description": "Cómo será la revolución del “comercio agéntico”: la IA ya dejó de sugerir productos y empezó a decidir las compras Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTHdEd1VuVWhpd2hKZE81b1h3Zjd4Wm5qOXdMNTZMMXFzZFdWQU1GOGk2WnBja2xkVU1QNWNkd2pzdUF4dzZTQXFSWXFfYjZTM3FLVkVyTWpiMlRhNWtsSHF4X21iWWdHTE5KXzV6Y0xRMUpKbWVVbEdYOWpXRnNQQ1dZLTJZX1luU212NWFPZFNrZHRpaHBQZGQxdHRZdmgySXk0aDFnd3FLMmRxZVYzMzUteVhkdWRQeDRkdjdXdmxjVFlaWGE3MUtFN3BXbG4ycGRMeVpmUzFqQTRzd0lmUzNpZktGOU1XcTJkQdIBhwJBVV95cUxQakI3TjJocXNLcVJGeWFQMjdQS2hzVWhMWXJxYkFGRUExZEEwdmVlSUdValIweUFEenJuTjFWU2k3T2VYTlV3bmJvelBacTVWU1Y4NExoQWxOX19EdjdlcHk1V3hLTEVaRjAtYTVTYW1nMGIxTXZmLXE3NzdaRnhtSnVUZ2NJMlBJc3dMNmlVN1R4MWw3SGhPbmdPZFFwMmFySV9SSVhSVGlpUEd0cnNXQ1JNZTc5MHZtcl9Zb2dNeF9BU194Y0VwNkNURDJVUG41N0hhb3p4UUdJU2twYUZpSWltSm9kcUhSSFFvZHpERE90TFZnZlJhMmVBbmlyTkRZVTJnc21yYw?oc=5",
+        "date": "2026-10-11T06:34:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Las advertencias sobre la inteligencia artificial llegan desde adentro de la industria",
@@ -119,39 +147,11 @@
         "source": "Diario El Día de La Plata"
       },
       {
-        "title": "Producir respuestas",
-        "description": "Producir respuestas Perfil",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWEstc3BhRm8zUnBlbjIyNlRDa3Z0ZTRmVzE1VlZWUWNPWXFpT0FSYnRpN0RhM1d4UWtFS1FMelJtc1Q1U3czRmNhSVFJREJPbF9zX01heFZJUno1Y0dVUlR1QjF0Nm9hUkllRHhqcHdnNVXSAXhBVV95cUxQNlRkY0d4RV9TYWtXN2Q1YWdtcFFpbTVqZDBUam5LeVBFcjJ0VkJidkVHamVaOWMtTEV2T24temVKLWZyLVZLejllUEV2X1UydjVJWFRyRTdOOG9CWi1SR2gyM25fNno5Vm5tRTl4Y2VFOFVWRjctWlM?oc=5",
-        "date": "2026-10-11T07:36:32+00:00",
+        "title": "Catrin Misselhorn:“Las máquinas solo deberían usarse para fortalecer la autodeterminación humana”",
+        "description": "Catrin Misselhorn:“Las máquinas solo deberían usarse para fortalecer la autodeterminación humana” Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTjd1S2R3bmhBNDNOdmRXUkJyelhGUWZMTWxIdnpEbTJPZGZpLWxORTJzdjN5UDdNeGF3MlpwQU94NFI2Skk4bHFmeUFsaXBIMzdFNjlGdkNQZUFPWk55N0FtYVJrdTVmLWFsSWtPUjdaWU1pRDlCUjc0bGZFS1Z1czlLZVhncU52R2FPMUtQUGQtbUNSWXY4OFdmb1pET2g2bFd2UkNmQmU2VU1tRVJaVC1sajBfSXQtRnhiY0ZrZ0tQZWFnc3docE1TUkNVcjk1QjdnQ1hQeDJCQlUtcWFuRXhNS1NpNW5XVlVlSmQ5TGMwdUhBTFU5VjVKc1RSR3fSAYQCQVVfeXFMTkZNRkRuMWVtOUVoV2FTYTFNWGJYZGRadlpUOWN1cGxwTTRTMDMwdXR6RUQ1bXFOaGsxSzlBVlBZWkxlMnZYU0dlT0tTWjNBN2JIMzY5Q25ZVGV3X2Myak9UYjhBT291Uy1WVFEyNFpOQkhLczhjUDhqSlZJSkg1RVdGNlh0OXpuVS1jSzBoRHhHOVF3dWFrU3lORm1mSnFpbEZjZmtYb2NCLTNIeHdUODRFYU9wSERNbmdlSml3dHZ1WmhFd0JENzV5TmFLQzNtZDRiYWt0Smg1SV9tRVRORFpEeEFsSXhMNWhFOFNoUWs3SngyS3RIOTdieUpxaXNPb0EwMVk?oc=5",
+        "date": "2026-10-11T03:15:05+00:00",
         "source": "Perfil"
-      },
-      {
-        "title": "Catrin Misselhorn: “La IA solamente puede crear arte fake”",
-        "description": "Catrin Misselhorn: “La IA solamente puede crear arte fake” Página|12",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2NJU09uTzhrYXk2MG54VkFLZmJVdmwzTzJMMEo2UlJoSmgxZ0RJNGRfM2tJQnk2dEItU3VoZlVLX0VtclExSUEtOUFoTVltNThKa3B2YnNlUzctY2pIcVc1YzYwWWwtNThjQnpfdlN3b1RaM3BLNFdhaHNSZHFPTmNWSjVxVVduRHN4N0lTYUVXRVpPdmJYT2xB?oc=5",
-        "date": "2026-10-09T23:01:00+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "La película hecha con inteligencia artificial que llegará a los cines y buscará un Oscar",
-        "description": "La película hecha con inteligencia artificial que llegará a los cines y buscará un Oscar Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaF9JNnFDUVlLdGUwM2ItcW9ZdWhwakxILS1zUFBNZ1M2SUtyWVJ4UWoyd3psZy12dS0xdWQwWjR1ZFJuUTcxSnR0X0JQNjVSdmFycVZtTjVfY1pkSjRWT1c0ckFzcW5qS1dqSUNUNXdpYmdNMWF4MDhnOFIxcllGY1dGak9BOXQxdFZSLTg5N24zU1E0TjJBMF9JUFFtQmRHRF80amNyQjBKUnF6Wmt4bjVOSlh1RmcyTGw4aNIBwgFBVV95cUxOYW5DQ08tbWRLN3k2azBJY3ZINmtIRXd6VTVGNTRzNmlDMVNidG55TGliLUE5S2x4QlZud3IxMFBTQk9MbHNqekd0ckhTUWRXZEtXRy00c2xfQ29FOGZtUTZCVHFMc0ZYZlRWUmhuUmtxXzRFdVJHd2dOVGdlVDVsUnVmMDd5VUdzVHJJSmVpa05XQ21ySU51SGh4Y3dEOGRuWFdNYlRKMTFkZjBpakYzMl9fc0JrTXotYjVxYmdVMTdMUQ?oc=5",
-        "date": "2026-10-10T18:52:11+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Inteligencia artificial y empleo: qué habilidades hay que aprender hoy para conseguir trabajo en los próximos años - TN",
-        "description": "Inteligencia artificial y empleo: qué habilidades hay que aprender hoy para conseguir trabajo en los próximos años TN",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaUJuMUdEdWstNkotNENUdkp3cXk0QXFEVHNSODBRTVpMYUs0Wk5CdEF1eWpRdWNIeWRKZmI2bDJZeXB4R19YV2xFUzAyZGxuMTlvT1VYWDhycDV1TWd2T0lMRHFYTGM3NWhqbXpSVVJaQ0VxMEk0SS1yQ1EtM29RaE5scndTOTBrVWVRWUp1aW1IQUZ0b2x1WVJnUXhMRTF1VV9fUVRER1o1c2E1Z0dqUWFDZFhkYko3TjRmd3dkcnZ4VFBTdEdscU5IYkYwRDJWMDlKcXNpU0JNSzZnOGZ0VS1COEczaVF3NzJENk1zaTTSAYQCQVVfeXFMT3BGcV81X0wybW42Um1zWFRHMkZzbVVhVktqd0tkOGdpTUpLdFJ3OTBoaEpiZWxETGhqb28wS2JqcTFNZHJpakJPajBkNlB1Sms3ZmRZUnVMdzVDWWoyZDY4aWlRRGN1VGZHSHE5TGZnNExJRzd6Z1pCanp6NTNkOXo5R28tNXNJY2NWdlN5d1cwdWl5WGZCR3RmZXVwRERhU3d5M09IeXlOQjZHbnQxWTJPZk5CQjhJSEdpZ3pMVUktd3JkUDFoWHZUdmdGQl8ya2lrcDZHcC1oM3VNelFUdThCQzg3cTZGTHdDOGxxNG9yZW40VGVnWnNEcWlUNkRGZkZzWVc?oc=5",
-        "date": "2026-10-10T23:05:56+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Un conflicto nuclear y el uso malicioso de la inteligencia artificial se cuelan entre las amenazas para la salud mundial: “Sería un apocalipsis”",
-        "description": "Un conflicto nuclear y el uso malicioso de la inteligencia artificial se cuelan entre las amenazas para la salud mundial: “Sería un apocalipsis” EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQLUlBcGhXYk8zMzgxbHBWX3lvLTZYR3NrQkI3bUpPMHhlRmY3VnpwV2RNQXlSa3FfeGJTY2thaWxrQ1VpUjRBdnQ4NVlrbmxUVGdobE5BbHZjT2JYenZua1pac0FVMHFIdzlWQUE1T3VadXNtY0dhdzhQOWJod2Z0SmZFekhrdzcxR2JZeEU1S2hLVE9NU0xTNkxQb242RlZrU2x6TlF2N3hwRGJ2UEo5LUNGU2gxTGR6X19NMHIyRk5wcEQ1SmRQRnJuRzN5OFVPYzhMSEZqRTZObS1iZFF3bmtsTkF2R2RabmV3em9YM0RLemJiNEMwdExGUU90Tnc4X3VGR0FlWFpXeVIxX1hlVU1iV3lTSXNMU3ZEQkc4QdIBswJBVV95cUxQSHlST2JEekJRVmdHWlJyb1lxWExRSFdJMDZzcGMxeXJXeHRVY3Q1d18wY0hiZzdHbzc2ZENPZjdXSkpUQWZKUngwLUZCNmYxUWdtQzFPOGVXV3RHbENxVHhtOUhURUhqOTlmVDhJUDF5cFpmOXlEUC0ybHB0aE5pNGZkU1VQbWY5Y3NvTnYzSVRMTDM1T2UtbWt2SkZORERkQ1pPdHdqajgxb3VNTWliODRHOS1aUkVfVUVkU2VVNFBpUzF3WVROcVd6M1JZejUzZG9uLUc5NmliWGNsTnNlR1NKX2VhbFMzYjJfdFJDOUlUbU9aZS1rZWJPNDd3bngtM3I5WUNEYU90VU80Y0F0R05xaDhON2VBWFk2eHdlVVU3TWF0T1JNSGFQR05Jc1hINTZJ?oc=5",
-        "date": "2026-10-11T03:30:01+00:00",
-        "source": "EL PAÍS"
       }
     ],
     "Vaca Muerta": [
@@ -170,10 +170,10 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Vaca Muerta: por qué la arena de Ibicuy pasa de USD 22 en cantera a USD 145 en el pozo",
-        "description": "Vaca Muerta: por qué la arena de Ibicuy pasa de USD 22 en cantera a USD 145 en el pozo Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUlKZlBSNTJoN3BuZ0U4amlScExHT1lpSkkwbDNRVDMyeFUzeHd4Mnc5SUNHbjVPZlRlR292cTRHTnBYMTBDbWc3YXJUdGVWMEx2UnNDX2hJakFXWmQ5ZjZOa043OVRjWWR4OVRkb1k4VlJUcVNsVi1ydEhWblA1blJzVE00MmtfOV9yY01IVUZGVG1MdXM4blkwQ3ZyX0p1al9wM1dQQldpUVpaU3BpX0VFU1d3UdIBuwFBVV95cUxNenZ6dTQxZndyUldqZ1Y0LUoxUDdOZWY1TmhrLVViZ3I5MFpJN3FuaTVtVTFVWllaLVlGLXg2eUx6dWZoM1IyZEJjaFppTHhtZHR6c1pZeEJrQXJmU3FQU3VkUng3TWtPX1VyVXRKYmRrMXYyU3Jmdm1sTUhnbFljNEFfbTc3S0hCaV9KQ3lJc29zdG1zSEpIazgtQ3hreE1zMXNrX2dsU1g4c0NQblJhbl9jVnJ6NUphRjhV?oc=5",
-        "date": "2026-10-08T12:33:00+00:00",
+        "title": "¿Caben los camiones bitrenes en las rotondas de Vaca Muerta? Lo que muestra la medición",
+        "description": "¿Caben los camiones bitrenes en las rotondas de Vaca Muerta? Lo que muestra la medición Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEY2cWdmc3psMXlhd0xrZGpXS29scWlxMzc0MmNoV1lWTFBKSjZnMWowdXEyT0d4cHhMRHZBNXdmRmtQX3hsbkotcTh5S3pXMkhoaUVJMklQcDROdDI5VVp3WFoyNkFrVnFEMlZCUzJHR2h2ZzdVQ1Q1RDhMZTVleUxpLUVyZWFxRTREcm54OEtLNG1jX0s5eEZfWkFxTzk4MXA1bW1RU3lLQnpBWVZHTGY4TnExUTl6ekpJY2dLY9IBxAFBVV95cUxNNUo5Z3lGY3hkeXR6MVN2MlZiT29TX0t4bVZNQUJ2ZUZtNEtJMnZiS0cxYl9JekpjSTJpWVJSaTdBRVcwQWFFbUtYZlY0TzU2MmJLbk5SRmFHOU12Ql9WcUtHQkVGUkZrNlRLN3hIU2hsamdIc3dsZjZUTTJlcHZDVXRLR0dWLWF2dWo1VllxM0RlWFE1WmhrMlVHQlFheUtmN3YzQjFSQUNGZTFpSmtkQjc5bDlGTERLaThpSmw0eHBkaEJX?oc=5",
+        "date": "2026-10-11T12:52:51+00:00",
         "source": "Lmneuquen.com"
       },
       {
@@ -182,6 +182,13 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSURFbVp2c2hJTFhpY3EwS1dVSS1FczZqM3lkT1VFQ2t4T283NjFGRlZKZDc5QWxOQlROcjh3alpDaV9QSWFYTUpVdWU0WVNOcURDNFJPVU5xb3dmNDZsX2dmVTBHMGZKMGZYQzdVOWRBY2w1NklDNEMyNzFCZC1kVXBKOG5FTEtsQWZ0XzAxaDEySVd3SDdfRDFjT05uaHVKLVNtRTNNZWdPa1c0bWZaMDVCeUFrQQ?oc=5",
         "date": "2026-10-10T11:07:59+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "Arenas movedizas",
+        "description": "Arenas movedizas El Cohete a la Luna",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1odTdBV0dMVGpyeV81a2hMVUF5Sks2czBMRXRjc2JTN2dLa0NxSHNMWnhTOThoVUdMdDJORUl3dmljWWtsQmJGT0FoUTQ1c1RCTkJtcGZMRURXRWlEaEVfSw?oc=5",
+        "date": "2026-10-11T03:55:04+00:00",
+        "source": "El Cohete a la Luna"
       },
       {
         "title": "Neuquén alcanzó un nuevo hito de recaudación por el boom de Vaca Muerta",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlNINDVPX1F5TGpTdGIwZllwMnpmLXpKdEdWMFFLaFliTXR3bjRBbTFnQ0V5T3NKM3BSU0Nhajl4Mmp1RWNYOGMwSjRXcmQzNEtTWDlKS1JZMnRpWGsySDRPc2ZiUzQ5XzIyb0NVOXpYaEhtNFdHZWFhUjY1dWxyVdIBiAFBVV95cUxPS2NVaUxteHhfcmNVdS12OU9aMkNuQXEtTENOYl9qc2ctU25sMTBkX3RrenN0ZmgwR3lHeV9NRXFSenpiZ0FBeENDcnZPVlVhMWQxaUUzczlmR01HMjk1akRQN3dTLWg0cVlNZEhIMzV1TzNudkxkSG93YkNlc1Z1czlHcEdybVU0?oc=5",
         "date": "2026-10-10T21:30:30+00:00",
         "source": "La Izquierda Diario"
-      },
-      {
-        "title": "Nuevo RIGI petrolero para Vaca Muerta",
-        "description": "Nuevo RIGI petrolero para Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOGc4djhSeTNqT01XcUpxYlVaN0JmVFVPSVNfY0RZZHBSOERvOGdDNWFQRXhzbzM3SHlid056NjJFX210RWp5UUNmcFg0ZGtqekNQTnhYcmFWR0l6eURXeXhybHl4cXBybjlFU0NZekwxMC04YmtNaGZZdVNUWURzZVBxaw?oc=5",
-        "date": "2026-10-09T21:49:08+00:00",
-        "source": "Página|12"
       }
     ]
   }
