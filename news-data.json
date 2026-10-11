@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T22:09:45Z",
+  "updated_at": "2026-10-11T01:29:21Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,18 +10,18 @@
         "source": "Xataka"
       },
       {
-        "title": "Microsoft presentó la nueva \"inteligencia híbrida\" para Windows: cómo funcionará Copilot en las PC y qué podrá hacer",
-        "description": "Microsoft presentó la nueva \"inteligencia híbrida\" para Windows: cómo funcionará Copilot en las PC y qué podrá hacer El Destape",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMFEwemtNY1huS24wLWNVTlFRcnZNWF9tV2RfODhvMnk4U0FBVENsSXJxV1R4Y3FxVEtJMGtkbU41a1lTazVoeVhMWEx4al82R3VIQmRpUXJSaTdPdHJCdlZRZDJSdlFhSTZGNmFNNHNsVkZXZGpnTDVMMWtOV2lSLV9ZdkxyYXNuVnZ2bGo4bHZtVnlTdmN1eXAtcENRazVPcGVETkJVcEdVMkdGSjM3SjlRSE9TSW1OaFdHQXRSSkFidm9naERyNGctU09sYlNEWWlBOVJ5Z0LSAewBQVVfeXFMTzd3R0s1TUQxNW5mNzJLTUE4X3BxUW1vYVlUQjlaUkxESHRhNjNaejVaWWFPbndxY0NaZWZheU9Cb0NPRThZUUtTWWVyTi1KZ0pma3NNNHI5b2xOeFp1OTk4RU9nV1NoLTJ3VXBadnYwcDIxWlI4eVZSLW9ialZ1OWlqNEEtSDVuTjhkdWxRSkRXajlGNUVzUzJFSlJ5ejRkZ1lsdm5IWThodnVrLXVmSklWY1dpSmJQbUM5TkVIekVZbnktMnN4Z0RSX0IxMjFjQlhPeW9MZWpyTmZiZ0dDa1VkcXJUYWpTb2RuNUY?oc=5",
-        "date": "2026-10-09T15:23:53+00:00",
-        "source": "El Destape"
-      },
-      {
         "title": "Microsoft presentó la Surface Laptop Ultra y la Surface RTX Spark Dev Box, con el superchip Nvidia RTX Spark",
         "description": "Microsoft presentó la Surface Laptop Ultra y la Surface RTX Spark Dev Box, con el superchip Nvidia RTX Spark La Nación",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSWtSOHFiSUdiQ0w2VGo1bWhmYmZzYXdrdXZoZTJSWXFwRkZWSHFOaFNXTjQwZV9CQlBFMllsWnV3aXo5dHRLNDBlTG1QeHktTFd5c2xzSWVPTFkxOFItSGdVVlpqUHZEWXlpbmhYVE04RFdTZUlhQ1hfNm5sVXN6LXlob2dwUG00YS01dUhWUHB2M0UwclNKejk1WTFsb3V5MUpoRXJfVzlBQmFtVUhIeFhjSzVjV3VOQXIwRmNuS3NSNDh2UVAwN2thZjBJaEhCSHNTVU5ZTFYyYjBibG5kam1QSQ?oc=5",
         "date": "2026-10-08T20:26:00+00:00",
         "source": "La Nación"
+      },
+      {
+        "title": "Microsoft anunció que su Inteligencia Artificial podrá gestionar y editar archivos directamente en Windows",
+        "description": "Microsoft anunció que su Inteligencia Artificial podrá gestionar y editar archivos directamente en Windows Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzFMb2lyRExqVVpzUEp0VGNIcnVDYTZaYk1HZjdUZDNDcjNXc2Q0Y3dNUUMtSFctR0JXT3AtY01iNkxkX0pxOEg5VzNZbE42eUFyT0lEb1NCbzFiUTBJaDh4TFFYRm5Qb3lTOVZ2ZEhHdzMzT25XSDR3MkFwTGNQNFlTZFR0a2I2eEpCcHlOd2VEWUZDVmxjZjFPSVNPNTRCRVRodmp3bWw2a3ppVHdJRHY2VTFFU2wyd1h4bExtSm45YWtEWWwxREZCbFBhUm5UUlFiU0o2Wi1felB6bjAtb1AyNG9XcmoxdzVIZDhMUV9xaFnSAfMBQVVfeXFMTncxTG9pckRMalVac1BKdFRjSHJ1Q2E2WmJNR2Y3VGQzQ3IzV3NkNGN3TVFDLUhXLUdCV09wLWNNYjZMZF9KcThIOVczWWxONnlBck9JRG9TQm8xYlEwSWg4eExRWEZuUG95UzlWdmRIR3czM09uV0g0dzJBcExjUDRZU2RUdGtiNnhKQnB5TndlRFlGQ1ZsY2YxT0lTTzU0QkVUaHZqd21sNmt6aVR3SUR2NlUxRVNsMndYeGxMbUpuOWFrRFlsMURGQmxQYVJuVFJRYlNKNlotX3pQem4wLW9QMjRvV3JqMXc1SGQ4TFFfcWhZ?oc=5",
+        "date": "2026-10-08T13:26:00+00:00",
+        "source": "Rosario3"
       },
       {
         "title": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
@@ -45,14 +45,21 @@
         "source": "Infobae"
       },
       {
-        "title": "¿Cuál es el futuro de Xbox y de Microsoft en el gaming?",
-        "description": "¿Cuál es el futuro de Xbox y de Microsoft en el gaming? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzdGWnVVSFhIUDVQWm9DV3NQSjJFYVo5TkdlSFNXTUZTdXFHT0ZEbmo4VVdlSFdobUlyMlg4ajBTMU9VLTFRRHdERk1MWkpSWnNBZEdBa0tzY0Rob0psVlhoUkNZTWJoSkhWLTZ4YlBJQTY2b1UycjA5eWhnX1VkdlkxanZtekZKMmNGd2phZkE0YV9KRmpSX0pjZ08zQ0ttZ1d5YVFQVdIBwgFBVV95cUxPQ01wZmxMNTctN1J0VFMtUTlubHFrejJILUE5NWN1d3RYZWRySlgwZ0E2b25Zc2RYTFF0a0JtY2N3QUpnRzIxMFY4bVNkMmQzQWRMZ0E5ckRhVnJKc2JaVDN4VzFKankza3UxaExxSHc1WXFyQm01UHVXbFd2QmYxQlFlVUVzQklqbm1RZDZZaERsWWlqUDFMcUVmaU5CbjF4VWxmdGhGcmZFUllMVHFPVjJ2UWxBSE1mcGU1OEtFZzkzZw?oc=5",
-        "date": "2026-10-09T19:47:27+00:00",
+        "title": "Planes de Microsoft 365 ahora tendrán solo la tercera parte de almacenamiento en la nube",
+        "description": "Planes de Microsoft 365 ahora tendrán solo la tercera parte de almacenamiento en la nube Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3VodWVQamFwZmNVaDJ2SnpKSERySDQ2WEpfakdibjNWTUM2ZW9sbGlyTlBvN1RwLTU2NF9OaGJLT0poaE5jVVVhclBNcnpSOFVQWUVRR1hMRkdFeVBaWDdIZzNCQjBicWNjMmp1VUF2Y01EbkJNblFlWjAxaS1HZVNNd0ItdDZvNFB3R0RMQVF0UjdRcmloejIxeUVoXzhiQ0JiNzU3OTNBalRjOHVrbzA3UVM0eWZFTE1mZ3BQZ28yRGJJS3lpeElR0gHkAUFVX3lxTFA4QlBiZTNlVWFLSUhwQWg2eUM0MnduZGd1WFNXRHI3bEFoQTROd2k0R3g1UWZxLW9yQ2VnNnF4bURFUUVYUWxtZVB4bGQ4QTZmRzNJd3NwRHd2OGhKaFBWMF8tcWdiVlF2MFhwanFKQXpndTBMVlF4cUoxODJtNE5CeFRKMUprdkJSenJCa0pYazgxamhhQmFROVE4S0loc1pobHJVbDNZSzhQd0l5ZDVEd2dRR0NJQXRVdTBXVkoybmF3cWFKOUpVWGdJZmYyQlhYYWxKeDJIQU1sMURCMmpGX3pLcw?oc=5",
+        "date": "2026-10-10T02:34:00+00:00",
         "source": "Infobae"
       }
     ],
     "Marketing": [
+      {
+        "title": "Taller de marketing digital para potenciar las ventas de las emprendedoras",
+        "description": "Taller de marketing digital para potenciar las ventas de las emprendedoras El Ciudadano de Mar Chiquita",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTZ1Qk5vOXhnQ192N29JUktHcU9Pbmp2ejl6WWFLUHJQckRRLTdnZDFpNU1tS28yRjkyV2ZfM2tnNzd0MGowQUR2VmJzSVJ4QWtadmMydWlKMV9FSlVlRGpxNTFwSFRxU2FvVlRMY01yS0t0WWNHc1BKX3F6MlllUVI4dEUwdHR3SVRjSEZ4ajg0eEhHYVRhZ3c1bXdnRWZPaWpRVEJUSFlUZ3d6RFBZQzB3al9Ic0pLalV4emZ4UQ?oc=5",
+        "date": "2026-10-10T22:58:58+00:00",
+        "source": "El Ciudadano de Mar Chiquita"
+      },
       {
         "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
         "description": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón generallavalle.gob.ar",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTRTY09ia29YV1Vlb3dwUEZsaE9QMEJ4aWRqSHVoV0RmZVhLLUQxLV9zSFU1RUpLQk9kRjVIRVA0SWdvWHhGX1RHRVNRLXlnb013ZnBvbjJwY1VNQUhjYk43cGpCdUc5TjRJRkpKTHNRWjJZaE9vZVZTM1NUWTVYb013VU9uZGF6VGd5d2lLeUtSMHhJVy1pd21STExERmdqNzhaRkFsRVJrYUVJWHBrQWdwNA?oc=5",
         "date": "2026-09-28T18:54:58+00:00",
         "source": "Noticias ULP"
-      },
-      {
-        "title": "Ibiza20: Google, Canva y la agencia de Rosalía debaten IA",
-        "description": "Ibiza20: Google, Canva y la agencia de Rosalía debaten IA El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQUR0cmxhNE05NFpobElfODNxT2kzQWFaVE1xWnUtOWNJOHd3UjN2VGFzWGlOempfWlJIQW1QRURnd19Yd2pxbHJGblRUSXFIYU5ObXI5V2pUdHJmZjJ0X0Vkdko4c0xxVFVYSnJRVU5xNVRvV28yZmtaQVJuRVNJdlNScHVpOWhqb09NVTQzMA?oc=5",
-        "date": "2026-10-10T14:18:53+00:00",
-        "source": "El Ecosistema Startup"
       }
     ],
     "IA": [
@@ -112,18 +112,11 @@
         "source": "El Confidencial"
       },
       {
-        "title": "Un agente de inteligencia artificial se rebeló y envió a la policía estadounidense una pista falsa sobre un asesinato sin resolver - TN",
-        "description": "Un agente de inteligencia artificial se rebeló y envió a la policía estadounidense una pista falsa sobre un asesinato sin resolver TN",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbGM1c3hWdjZWbkV5N1pFdHNoT19sYVJwNGpYWUdRXzA0V296aVNWZ1I4UW5HdnBlQlBHV0tieTE1TlI2OFNhYUM1ZGtsbnRzTmF4bnJLeWZ5Wk5XRVRoSG9tdEJmN2Y3MWVkRnYtbjVzc2lZWnBiRGMxSWVUV1lJdEphWHdYUUhsaW4wYklQLUxPWGpobGMwcGhCeF94RnZ3VktpYXJFX1ZIQVh1MXpMNzh0b2dOLThhcGlFNlptdlhuWmlHNFBhT1VBblpuMnJadlR3bHFoa1hmTmpGSWhSVnVGUk5ocVpwcDV3T3FvTjVCNW00MHNjUHJGa3FzekNjbkNHc2JvSdIBmwJBVV95cUxQeVBZNVpRc1gydWxhM091dFlTQ0NFdnRJakJBQzd4dmZVT25xczBPaENIc0Fsd0ZCa3ZUZUNiUlAyaVpfTWQzdjRELThSdXNkNmotVWFibEptb24ta2k2MmREWE1SQV95c3ZsbW5ldVB6S2I0Ql9LY2lnNks0UzhZakxzdS16N0FqXzd5R3NQQWdLblVCNWxoSGJQRlFXaDBFTDlrZ3JlTTVMMGpBLWxyalJEWS1QVjNRRm9XUGsySmVabGNNbkRFOWxkb05wWXRDRkhtM1dUOFZScXZlNU9sVkdQVmZ2dzJ4cDRuMm9pSF96dWp6TmtkaV9Ob215VjBLZ1VxWV8zYUI2YllKWUpwVy00aXJqWWV6ZXRB?oc=5",
-        "date": "2026-10-10T20:50:18+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "En Netflix, cómo es Animales, la película en la que Ben Affleck reveló que usó Inteligencia Artificial",
-        "description": "En Netflix, cómo es Animales, la película en la que Ben Affleck reveló que usó Inteligencia Artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3Y4ZGpiaGxBWFJKcXFtazNIbi1hT3N5VjVhZnRuemt0UWFkVndQMEJXY3lNcG0wS091NnFxZ2pBdHdYMjdsUGpGZnJNcVk4V2hMaFdYYUF2Q0FJNEpPcnRITmZVZXJvMks2bjNmbnVLZUpxei0zOTdmYm5RWUxWY0g0cURXV21nczd3R3ZSNXVHdHprZzNLSEpUTncxSFZPcmlWbjY4WjgxdzJKb3VheWVlYUtwOFZEWlVtZGNrMHRWSzZW0gHKAUFVX3lxTE9oMlRLdTVLWjQ4MFJSZkVDNkZwV3NuSWVHZ3BReXJlZl9jNUlwRGdBU3dYdXV3V2lUWnZFTFc5M3RNN1FNWkFHaG1rakJmQ2NNZFl0NzdMMFVwNDMwOFdiSVhZTmlROVpyUzRGTkRNai1nbEdBQ0k0QklxLWxCVHBEeDQ4MlpjQUVVMHU5V09HT0trdmEyNlkxRTNoZWU0cUI4U3lXUFJoRGRFaE1ZQUhwR1MzM0E0YnRGWUZsZDFGN1NiT2FSTExuTXc?oc=5",
-        "date": "2026-10-10T21:03:29+00:00",
-        "source": "Clarin.com"
+        "title": "Anthropic acusa a empresas chinas de utilizar Claude en secreto “para imitar sus capacidades en modelos IA”",
+        "description": "Anthropic acusa a empresas chinas de utilizar Claude en secreto “para imitar sus capacidades en modelos IA” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZjZ2Zjd1dHhwakpYaUdfZnVvdnkwbDhWUGJ6RGYzSy1SWDBxVW1KUlZTTjFBZzdoNXU3THRkNHN1VEVQVHRpbGt4Q2p0WXc0dkdfRjF2RDhJRXQyVjl4X2l3OGZGMjUwaTd1UjlqQWMxZlNlV0U2RzdFMzhMSDhYLUtlYkFiTjNLLUdTWEh1VGk0UHF2dTE3cmU0bWdidjRHWThLRE5LNDhqcks1UFNsSmFwRlFWOWYxbmtjLW02TVE0YVFsOWIxVDBGUnhJTFZESFUzcFBzMWN3LW5RVTVLY9IB-wFBVV95cUxNZnFNUGdERDVuU05nY3VVMjB5bXpwZTVIUXNmOGhUbldRM0dPT0xnZXlaT2NLc1NDSXdYbWdyeXJiYUNfVkVCakpkNk00LUlvMFZOMVV5TkI0NWNBUmowZXFJVTlacGoyS0VPVURyQzdBNkNPWWM5UnMzWEVuVzFFTy1QTFlrMEF4V082ODVmT1A3YW1OYlo5dUtSMDE2VVdXa3FIZGp0aHUzcXpYVGV0YzVUenYtbTZhSUxWaVMyb2JETnRmdjB0bDNzMU05b1BEMW43NF84TnhyYmJObjZTX3R5cGc3T2NxMUhtR2RWcUpfMlVnRzVDcFRTSQ?oc=5",
+        "date": "2026-10-11T00:27:22+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Catrin Misselhorn: “La IA solamente puede crear arte fake”",
@@ -133,11 +126,18 @@
         "source": "Página|12"
       },
       {
-        "title": "Yuval Noah Harari: Inteligencia artificial, ¿quién va a tener el poder y quién va a depender de él?",
-        "description": "Yuval Noah Harari: Inteligencia artificial, ¿quién va a tener el poder y quién va a depender de él? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWFNTldaUndSRFBRejlfUGFCMVp3cjNUd0poVFpEZ3lHRjRPZFFRQlhKNzJjek9xRFl6RXJaaldDcTdEN2pNT1dHZ2dMV1VwazRlYUtWUGE3TmI1ZWFwb2VXWnFVb21mcWhzcVNTOU5Edl9fVF92NHlmbmpUZzVqUXBmWW1rSXlvS3J0djItSHAtcm5JaE5WdmlKcWNqLUdnOW1lSEJEV0dxNmN5bENvUnpDSGNCcUhTVjBVNU11WW1IMnVnMGFMXzR3X0hzNGN3dU0zTm5n0gHwAUFVX3lxTE5fTkRhQVFuOWxnTGlXZ1F0UUt2cW9HZDlNQUVHTzVYV1NJLTB6Y2kwaThSbWhacHl3TmlHX3dBbHJLVW9SQUNmQXBFcHJ4eV9uMVJ2d0M1bl9fWDlOZG5neGh2cl9KNTY4ZEdUUGtSeUsxeDlqaWtKZ2JZNk1JUHQ3LWY3N2d6d1V4WnZtRDNPcFV3WVZNQ2gxU2lPT1RwTU5tMGdTdU5MdnllOVZZRUZqVTAzWHZ4VFRrZk1PdktNTGpRWTBfNFlzZUx0UkR3LVZ2ZGg1LWJQRXkycEJGdDJJaE5WQXY0eXRZR2FMd2JJTg?oc=5",
-        "date": "2026-10-10T13:16:00+00:00",
-        "source": "Infobae"
+        "title": "La película hecha con inteligencia artificial que llegará a los cines y buscará un Oscar",
+        "description": "La película hecha con inteligencia artificial que llegará a los cines y buscará un Oscar Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaF9JNnFDUVlLdGUwM2ItcW9ZdWhwakxILS1zUFBNZ1M2SUtyWVJ4UWoyd3psZy12dS0xdWQwWjR1ZFJuUTcxSnR0X0JQNjVSdmFycVZtTjVfY1pkSjRWT1c0ckFzcW5qS1dqSUNUNXdpYmdNMWF4MDhnOFIxcllGY1dGak9BOXQxdFZSLTg5N24zU1E0TjJBMF9JUFFtQmRHRF80amNyQjBKUnF6Wmt4bjVOSlh1RmcyTGw4aNIBwgFBVV95cUxOYW5DQ08tbWRLN3k2azBJY3ZINmtIRXd6VTVGNTRzNmlDMVNidG55TGliLUE5S2x4QlZud3IxMFBTQk9MbHNqekd0ckhTUWRXZEtXRy00c2xfQ29FOGZtUTZCVHFMc0ZYZlRWUmhuUmtxXzRFdVJHd2dOVGdlVDVsUnVmMDd5VUdzVHJJSmVpa05XQ21ySU51SGh4Y3dEOGRuWFdNYlRKMTFkZjBpakYzMl9fc0JrTXotYjVxYmdVMTdMUQ?oc=5",
+        "date": "2026-10-10T18:52:11+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "Tiene tres empresas de tecnología y apuesta a los robots humanoides y la inteligencia artificial - TN",
+        "description": "Tiene tres empresas de tecnología y apuesta a los robots humanoides y la inteligencia artificial TN",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSE1vWFpxVW5Yemc5RVBESTJLQnhtUWlPMVBpMHM5V3ZEYllTeWpqcXVxMTYtVzBiT0drQU12NW9sbGJyUlRCRlJkaG55aVhXbGM2MGdxVFZVOW8tbm04NU9zNmZfSnFNMU5yQm1xMURfWm4wZ2NLSTB2ZWRqWHppcTVEZWhNTVY0cXptZ050WFJucjBNN09JcUlaSHAxVy1HUnhYVTVjQ05ZeTBvNjg2Mnp1VDMyOUt4OUFlYUI0dmNxTUR3bTBfX2RweHpOVXl4TjNqSVJnS3RpYXRfM3lGTnNfWlHSAfgBQVVfeXFMT1RZN2xCZTJaSUhoeDAxV0Z2RWxWUXhIeWtzN2hHTU4xSjdXOHk3R093a1pyWk1MZ0paZVJ3N19KSldWazZ3d0dRZWpsM21hZk11SUZRcjVaWGJxRmpiQzhPZVB2Q1Y1aUxJaDRNVWJ4bi01NjBoaHh2U2p5VF83R0s0YThMNGdyVGl6VXNrRHNPRXl5OVJYY2RhdGxvQ25HVGdpal9SdTdvbDIyNkdhcjA4UTdzZzhkS2lMTkNPSlZ5NmNBMS1SLUpONC12ZEt0SGNMOG9NanNQVXBURHMwS0FuY1RPUjJCVl8tSE81bVhWZmp1S2pjaGk?oc=5",
+        "date": "2026-10-10T12:04:00+00:00",
+        "source": "TN"
       },
       {
         "title": "Julio IA Roca: cómo la inteligencia artificial le dio voz a un presidente fallecido hace más de un siglo",
@@ -163,18 +163,18 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "El boom petrolero en Argentina transformó este pequeño pueblo. Ahora todo el país espera lo mismo",
-        "description": "El boom petrolero en Argentina transformó este pequeño pueblo. Ahora todo el país espera lo mismo CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUE1UZ2hCNm5LdjI4ZWxJbW9uVmNzcGw2Slpxc1pHaVQ5Z0o4R00zdEMtZnNhVXpsYjFMZ1dmSG4tQkVkSDdHbzFfZ2M5Ym5wOWp5Y1daclh3UGRERkRjajdMd0NkYk01aFNSQ2RGMjNFR2VKTUIwVy1RZEFoc08tU01tOUdWWGFFcXhzMXVEVy1zM0dkVENLSTFyWTBhQQ?oc=5",
-        "date": "2026-10-07T13:53:00+00:00",
-        "source": "CNN en Español"
-      },
-      {
         "title": "Galuccio: “A través del gas de Vaca Muerta, la Argentina puede contribuir a la resiliencia global de la infraestructura digital”",
         "description": "Galuccio: “A través del gas de Vaca Muerta, la Argentina puede contribuir a la resiliencia global de la infraestructura digital” econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94OFpUcDZkY0V4Y3pZcUxYRDVUdHd2djVWWHJhaUg4NmotajlWTWxUTTZ4LVBiUHhKWUJ3UklNOEtDSldNcGtrYVNvNmZneVd1SmpmejMwVVl6amxTLWlGTmdXeWdCNXFUYV8yYk5oUnV2Sll4?oc=5",
         "date": "2026-10-10T19:59:56+00:00",
         "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Vaca Muerta: por qué la arena de Ibicuy pasa de USD 22 en cantera a USD 145 en el pozo",
+        "description": "Vaca Muerta: por qué la arena de Ibicuy pasa de USD 22 en cantera a USD 145 en el pozo Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUlKZlBSNTJoN3BuZ0U4amlScExHT1lpSkkwbDNRVDMyeFUzeHd4Mnc5SUNHbjVPZlRlR292cTRHTnBYMTBDbWc3YXJUdGVWMEx2UnNDX2hJakFXWmQ5ZjZOa043OVRjWWR4OVRkb1k4VlJUcVNsVi1ydEhWblA1blJzVE00MmtfOV9yY01IVUZGVG1MdXM4blkwQ3ZyX0p1al9wM1dQQldpUVpaU3BpX0VFU1d3UdIBuwFBVV95cUxNenZ6dTQxZndyUldqZ1Y0LUoxUDdOZWY1TmhrLVViZ3I5MFpJN3FuaTVtVTFVWllaLVlGLXg2eUx6dWZoM1IyZEJjaFppTHhtZHR6c1pZeEJrQXJmU3FQU3VkUng3TWtPX1VyVXRKYmRrMXYyU3Jmdm1sTUhnbFljNEFfbTc3S0hCaV9KQ3lJc29zdG1zSEpIazgtQ3hreE1zMXNrX2dsU1g4c0NQblJhbl9jVnJ6NUphRjhV?oc=5",
+        "date": "2026-10-08T12:33:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Las definiciones más recientes de Roberto Lavagna: no será candidato y sin vaca muerta, estaríamos peor",
@@ -184,11 +184,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "YPF puso en marcha una planta para acelerar el desarrollo del Hub Sur de Vaca Muerta",
-        "description": "YPF puso en marcha una planta para acelerar el desarrollo del Hub Sur de Vaca Muerta Lmneuquen.com YPF ya comenzó con nuevas perforaciones exploratorias en Vaca Muerta, Mendoza La Nación Vaca Muerta en Mendoza: Alfredo Cornejo y Horacio Marín anunciaron nuevas perforaciones de…",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamtaREpPMTdLaXpiYmM2dGpFWjVmZFg4bC04aVJmTHJabjJnbHlLcFFWMWhoUGdWX09fREZQV3h2T05SUEJsdDFxTGgtem1UQUNOQXdoRVBIcHlwYkJVYjlDWDBmVWtHVkladG5iZ2pnTFFDYTY4SEdlV01Gek96cmZzY09fV1h2aXBqWmdZUkJ1cXFMaGQtbUhuN0M3OGdRV2pQdTZxUERQUWlISzJjZUhmUG5aaHYyRmlPclRn0gHDAUFVX3lxTE9QOXNOVHJMZ0ZPYXA5Vkh1a0JlaHJpTUF3dWVUNjRjbTFPMURXdC0tMllFVjA4NGQxMFVBcnVnaGtMMHRiZ2FnWW50QWJwUVZ6QjdJb1Fxanl5ZG9XdnZkT1lkZEItN2Q2Z3pzaFY3SDJ4QUxmNkdDOUN2Qy1yUUFheFlEZ1h1aWt3b0dldVFlam5pWEhuTFRRREFraHRIc1RYRF93MWZmbHdNdnZYY2c5MktEVFJiVm1RV01sWFRVR0tOUQ?oc=5",
-        "date": "2026-10-09T15:40:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Neuquén alcanzó un nuevo hito de recaudación por el boom de Vaca Muerta",
+        "description": "Neuquén alcanzó un nuevo hito de recaudación por el boom de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2RnVmJsa1pnbkJ3ODFxN3N5M3lzODdYWmZvMTNualRVVWpCeG16Q3VyN2JFRlVMTTc2clluNzJWMERzbGJZU251N1M4Mk15MFdRRlNxTVI5dkYzNmliaTJ2WmQ3MkZWQ0RVbXRsbThnNzFnQ1BJeEZ3eEItcFJLQUhwWmNUZTNNdXhDUHdGSG5OLUVnUUgtUm5OYlhrclhUYXlGVHRrdHRDd0FLOUloNFJ1ZVI4aUXSAdIBQVVfeXFMTjd4SlFGWU5BYTY0QlNUWDVPZ28yMVlSal9YcDg4ZURqbFhFV3Z5NmkyX09tMVQwMEFmRjJXOVB6dlF4aTlHR2VNODFpd1VnUVZ5cTFrY2F2ZjZYRmZrSHl3eTZaUUpvTTlQMUIwMVVzTlJqcGNCNlVqQ2NETUdqRXF0ODlucTNDc3BEODZjZEJFdTctNy1kMENTQU5paWNhbjJLLVZJazJVZXdJZEdzQ2Q3SVRBUFI4WDNoVngxclNLSmZEZEUtTGdFeG5uQmVhZDl3?oc=5",
+        "date": "2026-10-09T17:01:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Nuevo RIGI petrolero para Vaca Muerta",
@@ -198,11 +198,11 @@
         "source": "Página|12"
       },
       {
-        "title": "Nuevo RIGI para Vaca Muerta: Tecpetrol invertirá más de US$ 6.400 millones y proyecta crear casi 8.000 empleos",
-        "description": "Nuevo RIGI para Vaca Muerta: Tecpetrol invertirá más de US$ 6.400 millones y proyecta crear casi 8.000 empleos Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRWlyenA3MWUtVVczUEE5WFd0aEtNcVNYYUxQUFFhbmhjSHdpZFhUeUNsd1BNRldHU1h6dU9LU2NYbFMzRHdrMEt0eFZHUE1IS2hFWGYycDNHMUFfMXMwNXBhX1lSSDVqM2hvUmZ4ZUp5VThpVFc1dnllaF9TSHp2MVMyMVhLY04xMlYySllmUktfVlJIYVBTdVRXYTA0MWhHZkQtRDdTNGxpWEMyZWczbW1qRXNfOWNoUE1NOGs3VTY5NWdOX3FrNzMxcC1zbzZlRU1fWE5hMHFpVFZ3VDdZcUROMUo0VmhI0gHuAUFVX3lxTE9qTnRIdXNWLUpnNXhvcWN1dktKLUhGcW9SSC1Lbm0wUElTczhhWUJ4SFlBcXM1T0pOajFNN2JWYmxoRERzanJvNjZIM3p2aGVkai1LZm1nQ0E3NFFsNVZjQjQzZFFlS21lcERwaVJvRnd2MVlRcmdYcjZ5d2pHSUQtUTJseFBGM0lndVAxckNMVk5PRzVCNTVMQnFxV1lhN2VZVnFGdVVfWXBiZlczbnZHM21GRklCQXNuNWF4Mm5CSnVBSEp2MUtlOThTcVVha1lsUEpyLVpVMl9mLTdDU0tfNFRrWVMzM21OX1JKMUE?oc=5",
-        "date": "2026-10-09T11:08:44+00:00",
-        "source": "Perfil"
+        "title": "Vaca Muerta: se oficializó el ingreso al RIGI del proyecto de GyP y Tecpetrol",
+        "description": "Vaca Muerta: se oficializó el ingreso al RIGI del proyecto de GyP y Tecpetrol Cutral Co al Instante",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXNXZF82c0dMb1VHR001bE5fTzZ3a2poS0hZZk9mcHdmNl9CNkV1bklRZVk1UGpuRlhOYjk2UXIxdnhDdngzQUUxekdnTDdKYV9TMDVqRXR1NF9CZGdVLXBVTUdNZXJneU40cVZFeVU2QUxKRWlJRWFGeWt2eURWSXJkT21XaXAzaGRxSlZXMWVmVGlJRFpoTWR3MEpKNUZIX3lIWjQyLXRmVG5CX3lTQjZHVXEyRHVrUmZRZF9iNG8?oc=5",
+        "date": "2026-10-11T00:02:44+00:00",
+        "source": "Cutral Co al Instante"
       }
     ]
   }
