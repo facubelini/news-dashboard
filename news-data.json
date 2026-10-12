@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T11:35:04Z",
+  "updated_at": "2026-10-12T20:46:26Z",
   "categories": {
     "Microsoft": [
       {
@@ -17,6 +17,27 @@
         "source": "3DJuegos"
       },
       {
+        "title": "Microsoft lanza Microsoft-Decision-1, un modelo basado en Qwen que toma decisiones 35 veces más rápido que GPT-6 Sol",
+        "description": "Microsoft lanza Microsoft-Decision-1, un modelo basado en Qwen que toma decisiones 35 veces más rápido que GPT-6 Sol Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYzI1SGFtazFnQmhNdk52cnNOd3RuYmtPMTFOWklFNHlnVDBhUmxsdFBUdlNsMm1reUdxd05tSWVNWmhld0J3NWpVeEptMy1iY051akw0Z2NzLXNFcmpLYU0yTGZwM1RkWnpQb09JVXAweWZlRzk3SWNwS3FxTzRVMFJzOHRVNngtQllDTTZzYUJuYll5MUZzRHFBaDRpTWNGdVR5ckxBdnljOGpLU1gwV2h3REp4UjlEbm5TS3gtYmZPNEd1YkliRTZPMi1abEFzaVpQSVBwTi1lVHNfcU1LQXVkazI4Nzk2LWpUQ3R5cHFDZW9iYzF3cXJPRFPSAZcCQVVfeXFMTm5TLVRXc1pDSk9sN0hXbEtobGpYczVRQkhlWWZ4U1ZkQXhjRWZFVk13alpueWpiazliaGNBWi1MLThVb2xmVGRaN0xPaDhmYWFFeUU5SmtxRjd2MzItUDMtZGZlZUpkeTQxQkFHVWZ1U21kQUh0akZDWlNSSjh2VFFUdzdOYmN5ZldxODN3OHAxc0RHZ2MzSjMzTlJ2VE11RV9rMk9CS1Npb1VkbHNmV0VfSzJBcnYyQkthT1NUWjJYbHRzUXp4TElzV3o1QmlkUWpVX2QzUmRpSDRkamR4YjUtd2pFLUQ3X3A1bE1iVGZJWk1BZE9IM0tkS0N5RkZQQUN6ck1IcFZCOHp2SFJkTlNNQk1xMDk4?oc=5",
+        "date": "2026-10-12T11:57:39+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Microsoft escalará chips de IA personalizados para reducir costos",
+        "description": "Microsoft escalará chips de IA personalizados para reducir costos Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaloxWDE1ekU5dm1CaTVsTi1Tam50cG4xSXVLT2dkWjV4cW15eWdDMUNyYnBOVDlRckF3NVFuQ3F5VTlMTW0xY1h1R25oNE5hWmRBbTFfMFpWUTBlS25PQjhkeXBERGowVC1QUnQyWkxJV3d4WEZnRlhXcm5CYlo2WTF1cURGd2JtVnNVRmlPWUZibHl4VjRTZVIwRDVRWE1RVHd6bmNObw?oc=5",
+        "date": "2026-10-12T14:33:20+00:00",
+        "source": "Yahoo Finanzas"
+      },
+      {
+        "title": "Microsoft sube y se encamina a una valoración de mercado de u$s4 billones por primera vez en un año",
+        "description": "Microsoft sube y se encamina a una valoración de mercado de u$s4 billones por primera vez en un año Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcUg1dEI0STFDQ0F2cVNidlRfQlQ5d2R2QWVvZ2lGak9KWTlIcFprSFdJY2RpS04yazNUc2RHb3p4dERXbkZ0dWpDZ2tnNXRZbnZUQVh2dVNhOUhSMU5YLXJEbmF0Z0hpR1NELWlqcGsyTjNZZkVCbk5TMjNTQlpHT1NtUXh0V3NjemNVNTZ4UWdRd29NMU9oRHAtX3VJZUgtaVc2V2F3RGwyMl9mSGlSbHNyU3Eya19LOTlRRnhpVDE4QdIBxwFBVV95cUxQYlp5SVo5TUh2ZE54d085T2dlQ2l6Q2htTmNuNzRPNTAyTlRFOW9BMDU4dEJKN1dLaGRFRkV2VENoNEl6VjFHQmMyTnk1Nm5VSWJ1OHRZeGxjRWUya2oxY252d214SW93WFo4dXFxQm9uVHVOVTdqUlFueERndGdFZE5yZHNzNzA0LWpZNDR3cnJCMVdVQ0VJUTJ5Si1VaktjaktjVWE5cExEeTV1M1dJZzZabmozRi1yZ0RyTVhXUkk3dEUwaktN?oc=5",
+        "date": "2026-10-12T16:40:26+00:00",
+        "source": "Ambito"
+      },
+      {
         "title": "Nueva actualización de Microsoft Teams identificará videos, audios e imágenes falsas o alteradas",
         "description": "Nueva actualización de Microsoft Teams identificará videos, audios e imágenes falsas o alteradas Infobae",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbU1LaTJNTlIzVDhPaTdXaGpsM25LOXFvdUR2M2FVMkNtam1sQzNKMXh5Q3k0M2lFYUJteHpfWE1ZWFU2V1NJbDFkSS1EN0J1ZllZbU1FNFhiWGdEUUkzbEZENHRubXVrZHdGR0FacWpLZk9abUdNNElua3lzS3dFem5BemE2UXBBS0VzU0tSbU5RQ1duWHdTa1B5aWNFb0dtalA3SS1McHEzQjBHOFhiS1ctODFPNW5Ta2RXXzlnVmQ1SmdsYmJEbVdhcnhpY0NJTFBj0gHuAUFVX3lxTE50NnpTYUVjVnFwRWtFTW1lNU9jdk1tQU1aVlRPTGZyR1RqYk84MDQzdjVMdjJTckZ1c1F1V2dkQU45eEFZSHZ6cUNCUkFtQkV1cktmTWd4SDdYWjJnUWtrUm5ZblZLZkVqcDdiWW11dk9JUlFGT1lDQ1B3dGJkZWpfRktiSzNIRzE2Q2RGY0FoZXNtWFNjUHFyTTlCVXo0X1RmMVFqOFF4WnNiRnNXZmFFLWlXVDJHZTFkZE1ULTFMMWFZb3JudXBuaVNRRmFqSTBzRXlPWFFnbnNYS2Y0QUlYODN1cG9oLW5Kc1QzOXc?oc=5",
@@ -24,62 +45,27 @@
         "source": "Infobae"
       },
       {
-        "title": "Microsoft lanza Microsoft-Decision-1, un modelo basado en Qwen que toma decisiones 35 veces más rápido que GPT-6 Sol",
-        "description": "Microsoft lanza Microsoft-Decision-1, un modelo basado en Qwen que toma decisiones 35 veces más rápido que GPT-6 Sol Notimérica",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcUtaQnRFSE5yZEVuWVZxbnBZUGxHYk9EUzVqYURzTDdnZGRsYXBTS2VRZS1ONmRnSC1DMnpoSW1oODlXaUF2YU1TcEdoWVU5djZmeGtqYXFVTjBqRWlyWV91UlVocFl0ZlpuMEJZRHdkaHFMUnJtcENzZGlFWk5yeXNOZkZHLU1LR2lDLUNvVEJnQ1BodklwbW5BcEdQb0xlWVdaRU9CUVBvS0N3NlYtM1JwSW5QTkdMbS1xRUo5Y1c0a2d0LThWWWV6UUhCb3hpdlRyNmxXNjg3RzF4N2FxbUxDVmpzcjcza2JrazN1NVpOcVFkQWVWazR1ZXI5eWlE?oc=5",
-        "date": "2026-10-12T11:22:56+00:00",
-        "source": "Notimérica"
-      },
-      {
-        "title": "Microsoft 365 cambia a peor y reduce el almacenamiento disponible: fechas y claves del anuncio",
-        "description": "Microsoft 365 cambia a peor y reduce el almacenamiento disponible: fechas y claves del anuncio SoftZone",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDdjdm4welBsOFhWVTJ4QjE2QWxhSy1hTVZWNTdBZlRBVFdMUHBTUDRoZGp3YWItVEFxd2l5YzMwWk9XRGFybFZWNDlycW9OdzVPczZCZFJ5STdicE45Z2V6UUNsRjBCSXluSmFyM2ZLWFAyUmhHemtnT3FIYjAxLXltS2Q1ejc2Q1Iw?oc=5",
-        "date": "2026-10-09T08:32:05+00:00",
-        "source": "SoftZone"
-      },
-      {
         "title": "Satya Nadella, CEO de Microsoft, impone la regla de oro en IA para las empresas: “Si no se puede observar, no se puede confiar”",
         "description": "Satya Nadella, CEO de Microsoft, impone la regla de oro en IA para las empresas: “Si no se puede observar, no se puede confiar” Infobae",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTUtuVmExYWRxS3lkRXUwc20tYWRiamhLWmFhQV9CWHJlNmYtbjBiS0V0MVRTbExsN0xmVnRodmduVjVUNUM4aER1QmQ5cXZEVTNCeEttTTEtYnJFY01taUJFdl9LR3ZfcThDVUl3Wk1iZGJfYTVrVGVLaUVDSG56OXhMWWh0MlhJMFJLdGFlTXZNSHMxNUNTaFlDbWp2RzQ1YmZPZktPSkE0NlVzd2lsYU92QjZUUm5odlFVY1NqTk9DYzc4V1VfV2FKUHlXWG5WOS14MHhTN0NBZ09kcThsUnltN1J5b1doSFJYRVZmbUJIam10WlHSAZACQVVfeXFMTjBUQVZlZzFjRUpoNWZWUzU2MFBNenR6UndkZjFQenpUVWRVR1VSXzdnanZLVTg0aE92WTE0ZW11bk9CR2hGaUltSEZNNFZaMlI1bG00bzVrQkl0UGJZZGpMYjY5NXRFVlhuajdYaE1WdGlhVDY5a1pkQlZkZGY2Q1A3bGctWVg4ZWZBQVo3Mk9CdGJIcm5JWGw3Y0FlY0R5b28zeF8ySFV3TktrZDhGb3VXcm94RUxHTnR6dHVoNXhud1hGTzdoZEJGVEQ0RmVPcklfaWh1dkd5ekF4aTI3T3dpYjFxa2JJeXZZTlVvUlJmeXRJYXFORTFaZm9nWEhuY2FDUHlLVlhMWGdwLU1QeXM?oc=5",
         "date": "2026-10-11T22:39:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "CEO de Microsoft pidió crear un “freno de emergencia” para detener a la IA en pleno funcionamiento",
-        "description": "CEO de Microsoft pidió crear un “freno de emergencia” para detener a la IA en pleno funcionamiento Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUcxcHdaNlFNOXI3Z3dUeHZVLV9LenYwc1d4cC1mUktuNG9OVEQtR1JWUC1NTGhCYlVRaGxLcHpDUTI4OEdiUlZrYVhPZXhub3JQdmxCLW5LM1FwUFMwcWxWalM4Ty1PWkI4M0JFa21ZTmNFSmtXcmtRZHo0T2gwbzlrQVlOdjdLZS1XM05zN3RTUnVNT0dBYVJKRHVJemNVYkNINm9hNVYwNFpRZXNtLXV4T1ZVb2tYVl9qc2FoNEpqZXRyUnBIRG5RZ1I3LVNhUEppT9IB7wFBVV95cUxQUndoenBnQWJjelRsU1FieHVkdFdiT2Y4Ykl0S0s0a01HM1dGbS1iX3FXWEdSY1ZwSnFxNlFkcWM5ZVR0VkN6SW1GU3hVanI0VmNJZ2gtN2d1U2tJaVFnTnJ0djRuUlJQQWRtV05uTzZET2RKeXVWMElKYi11b2FBSVljQ1QxbEI0X2k0MFBTbmE2VHgxQ2FNeWpnUFgzZUNFYnFpNjIyQXpvS040eUo2LVdpMjcxYVl1TmtFc2RsVjlQVFphUWVEVGt4emF4aDRiR3BaQ3J2MXE0WUFJT1A5QTJ0X3hEZXk1bnR2SFFMYw?oc=5",
-        "date": "2026-10-11T02:28:00+00:00",
-        "source": "Infobae"
       }
     ],
     "Marketing": [
+      {
+        "title": "Bahía Hub lanzó su último ciclo de cursos para adultos del año",
+        "description": "Bahía Hub lanzó su último ciclo de cursos para adultos del año IngenieroWhite.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3FOa2xUbTdSNUpCOWxkQWRlNk1NUVlnSVliajhVT1ZjLU5UdFM1eDJRaEhQOHo1MjU1SGVBMzBvUW9YaVJWbVhpNmhaN3Q1WGR2ZkZTWGJaODhJQVNSN0tJZ3dWYTZGUTdCN21WXzNJc1lNRE92Tmpsb1hsTFZCMTVxR0dTeTRuamVibWE4TVNBS3Q2cDE0b1RjUWE3ODhlRVFWTWhudXI?oc=5",
+        "date": "2026-10-12T20:06:40+00:00",
+        "source": "IngenieroWhite.com"
+      },
       {
         "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
         "description": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón generallavalle.gob.ar",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVml0NG9oMzRFd3NSNU5BRDU5eVFfWjZyekJUZjNvQzBYa1puVmFaWmdVYklZSGZ1UlV4MHoxMGRwZTd2VDlwVkQ3X1lfX19fd1FhdTc1bVFxRzRsMEROUWtia0d3bGZwNC1mY0pRR1NQVExubjdzcWdoR05rLTZzNUVwc25wRjBYdzBtaE1heEs5UGJhdi11OXRUeUJlX1czd0doX1hPWl85cjBhX1RfU2hTR19EUFd5aUo2V0txblRyaXN1YTViY3lqd0lGZENWZ2ZHQ25vX3dQNURaQXc1OQ?oc=5",
         "date": "2026-10-09T13:44:35+00:00",
         "source": "generallavalle.gob.ar"
-      },
-      {
-        "title": "Tower Travel: 90 agencias de viajes se capacitan en IA",
-        "description": "Tower Travel: 90 agencias de viajes se capacitan en IA El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeGVpM0dWaE96WTEwRzdzajJ0cHRIOGg3VzVxUGlkMElyeG9WNENVaGVuM0E3RVpueW9rOUtBRTQzeFczX29hRXktTTR0OEZ1T0hQR0x2Ry00NXMyLWZzNkstWE51ZGVpZnN1SjhIR3ZVZEx2MGozQmlQUTBXWWxyREstbVhKXzlSdjJRYQ?oc=5",
-        "date": "2026-10-12T05:21:48+00:00",
-        "source": "El Ecosistema Startup"
-      },
-      {
-        "title": "PotencIA by Tower Experience, una herramienta para revolucionar las ventas",
-        "description": "PotencIA by Tower Experience, una herramienta para revolucionar las ventas Report News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaml5NTB2ZzJQM1NMZ1dQcjBBaFNqVEZSMlVCdEpnNUJwNlFncUtJOUFaVnpoZEJ1YnBaSUxxREE4T1BsWkZBR1JvODJGU2l5bnl1aEZpTTJOeGJIbjVad2dmcmF2eVB3TjBDdE1mYS1hVDN1Z09DMFZZc1IxMTVxek9qUURxMGdVM2VmVXo4MGdXa0xmR0JfaFNGbFZkVDNxS29ucElVX0NPbElpMEJhMXJB?oc=5",
-        "date": "2026-10-12T03:00:20+00:00",
-        "source": "Report News"
-      },
-      {
-        "title": "21 estudiantes cursan la Diplomatura en Marketing Digital",
-        "description": "21 estudiantes cursan la Diplomatura en Marketing Digital Sur Multimedios",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUFCVjYxWm9OdjBpS3dnX2hsY2xIVndQOE5nUkxiMVEydG9IX2hBY01FUmFwSU9PV2VhS1FuUXRaOU9PRFFYRzljVkR2bzZsNDUtWGxIRF9oN3hCc1dxY1Z5eGthMHVNRVNKd0VMRUdwTmdmX0lUMFlfM2hDQzJJTloxY3owU2NBc3pJdFdJY1ZEbExMQVdNLXVKWlRELTFyU1BF?oc=5",
-        "date": "2026-10-08T21:34:06+00:00",
-        "source": "Sur Multimedios"
       },
       {
         "title": "Taller de marketing digital para potenciar las ventas de las emprendedoras",
@@ -89,48 +75,41 @@
         "source": "El Ciudadano de Mar Chiquita"
       },
       {
-        "title": "Colón fortalece su promoción turística con más de 1,7 millones de personas alcanzadas y suma Google Ads y YouTube de cara al verano",
-        "description": "Colón fortalece su promoción turística con más de 1,7 millones de personas alcanzadas y suma Google Ads y YouTube de cara al verano Municipalidad de Colón",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS0FkMHVCZm1IOHAzR2w2WDZLZzNkX1IzM0VjeGU3WnBfWlh6STFrLXp2TW15a29rbGNwU1BzYkpNaExkSFQ5dEhONGR3VUVHbXVVcjJDTFotRlNEWVlWaEhCd0NobVExYWs0bU84OHNLWFRTWm4tYnlzN2dsVDBVTTh2YklmNm51ZjF0Qm5SeWtOS3otMEhTZGhTbW9zOFhGV2FjT0NJaUkyZnY5ZUVCb3labHhDZHNlRGsxQkNqTElQVTlxWVB1bVdNZll2dHRVM0sxR2RkX2V2RmtSb21XdzN4ZzlFSjA?oc=5",
-        "date": "2026-10-09T22:59:24+00:00",
-        "source": "Municipalidad de Colón"
+        "title": "21 estudiantes cursan la Diplomatura en Marketing Digital",
+        "description": "21 estudiantes cursan la Diplomatura en Marketing Digital Sur Multimedios",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUFCVjYxWm9OdjBpS3dnX2hsY2xIVndQOE5nUkxiMVEydG9IX2hBY01FUmFwSU9PV2VhS1FuUXRaOU9PRFFYRzljVkR2bzZsNDUtWGxIRF9oN3hCc1dxY1Z5eGthMHVNRVNKd0VMRUdwTmdmX0lUMFlfM2hDQzJJTloxY3owU2NBc3pJdFdJY1ZEbExMQVdNLXVKWlRELTFyU1BF?oc=5",
+        "date": "2026-10-08T21:34:06+00:00",
+        "source": "Sur Multimedios"
       },
       {
-        "title": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL",
-        "description": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL misiones.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVOVEtKeDQ2NUhHNXhxdlFYd0U1NmczTmo5ai0tN2lRYWdlXzByTUZLWlJyMWdDc0UwSnhlbkotZExjblhlWDZZNGR6eC1wRU1CaGJGWEM4MFNuQ2FKbldVcDExRUZnRnpYMUFRS2tfU0FQN1NDQ2hHQUNvcUFhVmlFSTZtVTI5YzVWa1hWdm9sUm9GelpfUHFfeWhnQTlwTXQ2bg?oc=5",
-        "date": "2026-10-06T07:00:00+00:00",
-        "source": "misiones.gob.ar"
+        "title": "Tower Travel: 90 agencias de viajes se capacitan en IA",
+        "description": "Tower Travel: 90 agencias de viajes se capacitan en IA El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeGVpM0dWaE96WTEwRzdzajJ0cHRIOGg3VzVxUGlkMElyeG9WNENVaGVuM0E3RVpueW9rOUtBRTQzeFczX29hRXktTTR0OEZ1T0hQR0x2Ry00NXMyLWZzNkstWE51ZGVpZnN1SjhIR3ZVZEx2MGozQmlQUTBXWWxyREstbVhKXzlSdjJRYQ?oc=5",
+        "date": "2026-10-12T05:21:48+00:00",
+        "source": "El Ecosistema Startup"
+      },
+      {
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T07:00:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
+        "title": "PotencIA by Tower Experience, una herramienta para revolucionar las ventas",
+        "description": "PotencIA by Tower Experience, una herramienta para revolucionar las ventas Report News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaml5NTB2ZzJQM1NMZ1dQcjBBaFNqVEZSMlVCdEpnNUJwNlFncUtJOUFaVnpoZEJ1YnBaSUxxREE4T1BsWkZBR1JvODJGU2l5bnl1aEZpTTJOeGJIbjVad2dmcmF2eVB3TjBDdE1mYS1hVDN1Z09DMFZZc1IxMTVxek9qUURxMGdVM2VmVXo4MGdXa0xmR0JfaFNGbFZkVDNxS29ucElVX0NPbElpMEJhMXJB?oc=5",
+        "date": "2026-10-12T03:00:20+00:00",
+        "source": "Report News"
       }
     ],
     "IA": [
       {
-        "title": "Expensas bajo la lupa: cómo se usa la inteligencia artificial para detectar errores y controlar gastos en los edificios",
-        "description": "Expensas bajo la lupa: cómo se usa la inteligencia artificial para detectar errores y controlar gastos en los edificios Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYU5rQ2FPZkw5OGdZRW1UR1FTd3diNWEwWk9RajdKVE5VRC1zTTdEVl9SNFVoZ3Y1NUx0b1dPOWVZczJ2b0lJZ296dGJuYS04MzJkSVN3TFNmOEl1UmlqTDBrZXNkWTNUVHBSTkFjSnNNVmg1N2lCVWZmUkt0TUpfNTNLT3ROSHhwQkNIV1RFTm80NHpVbXhRV2VTREFkaEU2OUNzSVlua0hVWUVER05qampibjRHVW5DdmVlVEU1RWFjWkpLcFBpTjZJcHd1SElrbmxHeg?oc=5",
-        "date": "2026-10-12T09:00:24+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "¿Por qué Estados Unidos puede y debe ganar la carrera de la inteligencia artificial?",
-        "description": "¿Por qué Estados Unidos puede y debe ganar la carrera de la inteligencia artificial? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3FobHF6RGRPWFJHN3Z1TWJGS1FlRF9pMnloaDlKUUE5aE9mRHplMTQ2WjQ3anVUZ01DeE9IaDRzU0VVYjBlcGdvWUc5dFFjSWVwMlMxdEs1UHlfdkNpazVoaHVDbE1vQTg4SDI4dUt5MGtSdDZZOURxWXk4ZnRKWWpuMjRrWEFCRGFBQ3pZSlE1ck1hOUFfb1RXYTNpeUZFX3NJMVpuNnVKWEpIcUZnczI2MmpsTGVXdXlUWE9ya25Sd25kdGluQllzSFFvYTjSAeoBQVVfeXFMT0xFSHVFNUZxU0s4dl90OUdSc1paUHgycWJUbVFyY0JKWlBVejZ0WHVjcDQya0hCYndVR0tXV3hDMzJIS1EtMHZmdUlRbEJBWDM2cUljOV9zU1M3cEprUEhXOTFwdFMtTmh3a1hLWEVZQkx1MldxTG1IWWZFMEt0QnZ2UDFsU1VFbWlBbFVFRzZERkxYRHc0M1BRdnZhRDJhUnVWbVUtWFlpLTA2ZGZCZEQzcEpVSjlIVzE5WXVsRmZwOGZuT1ZrNEhzUHZTd2liQVZHU3hDeEVjRHFNRk0wMFFSWFdmUHQwenJ3?oc=5",
-        "date": "2026-10-12T08:07:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Consecuencias del modelo económico de la inteligencia artificial general",
-        "description": "Consecuencias del modelo económico de la inteligencia artificial general Página|12",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHBSa3cteHp6X1dPN1hGY3lBM1VXckRZVHVhRERKaHU3QmhCU3FfQVBoNTNXWnVSZkF6bE9nQjh4LUVYUXhQbXVhdTRoSTJzWGxfQnZTWmk2bk5zWnBPUHgtR1kwVGxya09qVGtIQ2FkWWd0dXZuZm00dWdQSGRVUWlEMmhuZ2ZGazE5Q1g1WGxJRHAydkJIR25jbll6ZUkwbGxfenBmT2E0R1BOY0FoYWxB?oc=5",
-        "date": "2026-10-11T09:59:00+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "Qué estudiar cuando la inteligencia artificial redibuja el mapa del trabajo - TN",
-        "description": "Qué estudiar cuando la inteligencia artificial redibuja el mapa del trabajo TN",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPampreDNGNDlkVGExVWp5QkNjUTNldW16TUVMNHhIUnFDX2txcG5sc3ViZmo5TWlZQXg0N0ZhS0lhTVNhUGhEYmstSU1qOWlBaEY1UWhYanYyeGlnLTJOZUMzbGdfS1JuSVp6MnpaNFJvX2g4cWpTR3AzMDEzYXUzZjVWWFEtR21mWVlkX3dYVFlXMmRyUXRMdzBfTmhXY3E4R3VGOGZTWm5oTTVHeGtYWFBfSDhNQWtLZVdN0gHPAUFVX3lxTFBSdHpqRmtoeFFXdHJpY1pic2liYzVwS25jSlctNDlKTHVBa3QtU1dLeGtxMDJLSXZfX3d6dW9EVGVHREY2UlRlRFNFUVJpbHRHbUZuYXZadDFYMmZWZGlyX2VlR2kzT2dtOEFJb1ZiNW1fTXhCNE14RkxNOFNzTEI5SGt3WWE3QlRDTDZYVXpzdXZUNTJENm1rTUJOVUViZ0lydmV6S3hyVXF0bE4wRXkwWEdUVFBiZTZwcU5pUExnMXg0Tjl4UmZWSHdjMjk4SQ?oc=5",
-        "date": "2026-10-11T08:48:00+00:00",
-        "source": "TN"
+        "title": "¿Por qué Trump quiere reemplazar “inteligencia artificial” por “superinteligencia”?",
+        "description": "¿Por qué Trump quiere reemplazar “inteligencia artificial” por “superinteligencia”? CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXhWTVh4cGU5bnJpUjViTG0wM2kzQW9KQzBrbG5rWTNaXzY5Ym4xcG10Q3E4NXpaTXh2Mk9UZEtTMF9iQnp3eEFKbXEyeUFGbzIxV1Z1bWl1WUpiNUtXVDl6bWphQkdrX1ZCdTRYc0hfYVhtRVVtc01FcnhpZFNuZVVxXzVYaWRubEN2ZUdsYkcxbDNoVnV2Sw?oc=5",
+        "date": "2026-10-12T02:08:00+00:00",
+        "source": "CNN en Español"
       },
       {
         "title": "Un conflicto nuclear y el uso malicioso de la inteligencia artificial se cuelan entre las amenazas para la salud mundial: “Sería un apocalipsis”",
@@ -140,33 +119,54 @@
         "source": "EL PAÍS"
       },
       {
-        "title": "Las advertencias sobre la inteligencia artificial llegan desde adentro de la industria",
-        "description": "Las advertencias sobre la inteligencia artificial llegan desde adentro de la industria Diario El Día de La Plata",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSG9YTmo0Qkh1T0VxenFCR0w5U3ZvcFYwOFdDbGVUdW9xREQ5UGJxWGlfamdvNWtIQVk1bkt3dDdNTWlwVktpOTZPZENPaEM2aFBGWHpJMUthTEY2eVFXZDRPQVpYTGlwcDliMlNnODFnWXZFbXNWOTViamN6dV9oQ1dqTHNXYkNaOEYzdUduaGlEVUhKOFBPV09BU2xaMGpDa2NMLWluYzZSN2VBTWNucmxMbDJWZ3RkaEN1R0RzTjNJY0hlMkNHaHZRM2oyTEVYNWg1aFFQaG00QUZUUUJXbHVzaXdsWWEwRW5Rcm90MUQ?oc=5",
-        "date": "2026-10-11T07:03:41+00:00",
-        "source": "Diario El Día de La Plata"
+        "title": "Los metros llevan décadas automatizando la conducción. China acaba de enseñar uno que quiere dar el siguiente paso con IA",
+        "description": "Los metros llevan décadas automatizando la conducción. China acaba de enseñar uno que quiere dar el siguiente paso con IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRzVkZEl3aGhacGpzMkFFbTl1SVlyZU9xUVBTcWZrSDVxMlVTQ211LUNMR0JqSmVZZjkxclNmdndLRmN0QXN5R1lVSGpJMnhEcHZYclhJZ1kwM01zZmZjU2hxN00xcW0xMFBXLWpVSE5tTjRzcjNwMEI2T1BsY0djMjI1em5LTG5weXpRSTJINEszN3JLM3hsYklXUk15bWhFdXZFMlI0cG1Za3FXTGVLUVN1WS1GYkhtSm5ZLTlfWEhHVjJ4S2xrLUZLLUcwc3o5bHfSAdcBQVVfeXFMTXYyY2NvQjE0cGhtVEhlcVhab3VtOUlBb2RKLUNoSnJVQjQwcDZEUnF4T0tQREwwRFpqdWh5R1lHZ3FMRmlqelJQUG5zV25SaGJsMjJ3aTUwMU4wZmJ5VXI3cnRCYWdVUTNIOU5ZZXRvRzI1UFlvdjg0QjRQN3JsaV9wUUNZVXRoRVZwMk8ycU45em9welprRVl5N2lKWFY1N2Q5QnluOWtPdkdTb3NhaGtFRTdqeHBTOG4yb1I2dldJNDZPVFptR1E1bmhKLTNRNnVUNWZfX1E?oc=5",
+        "date": "2026-10-12T19:32:53+00:00",
+        "source": "Xataka"
       },
       {
-        "title": "Inteligencia artificial en el Concejo: el nuevo \"botón ciudadano\" que resume las ordenanzas en segundos",
-        "description": "Inteligencia artificial en el Concejo: el nuevo \"botón ciudadano\" que resume las ordenanzas en segundos Villa María VIVO",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNndLZzlod1ZjVElGZTlvSS1ITTF3aHRJakdkUmNrT1dyTFJNSXo5SmdBTWZ3QnFxYW5UNndGU3kwY3kyazMxc0I4WHY4c0dKY1dkdmpCQzFZQkRic1N3LVVKOXpTNWhjZWxlY2hCazl1RzJoc0JFSElhbEFYLUhRQ1VsRkZHcFhZZDJzQlk4bVNCRTdVTmc?oc=5",
-        "date": "2026-10-11T12:21:20+00:00",
-        "source": "Villa María VIVO"
+        "title": "Meta presenta nuevo modelo de IA y afirma que está al nivel de OpenAI y Anthropic",
+        "description": "Meta presenta nuevo modelo de IA y afirma que está al nivel de OpenAI y Anthropic La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUC1IakpqSFZWNTBVNU9UdjEwdlpvc1hUZDBjVVgybTA4RXphZDFLWU43emhqYmZieGRQdzFldU9OVnZhTmR6ZTEzNko0dThMa1p3VHBNTnZtZDZ6M0JjOEZLZUthdk1jZGdMU0dZR2lla3llV1VieDBjWnRGUzVFczhLTnJBXzdLMWxkT0dPX0dWVE54MnFVc1JvOUM3OHJIY2Fmd2xVTlI2a0ppc2p4UWVVdDdIeGVsenFXTjhKNl9Qal9sZ09DdHJ0b0NfeDBrSmN3?oc=5",
+        "date": "2026-10-12T19:35:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Expensas bajo la lupa: cómo se usa la inteligencia artificial para detectar errores y controlar gastos en los edificios",
+        "description": "Expensas bajo la lupa: cómo se usa la inteligencia artificial para detectar errores y controlar gastos en los edificios Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYU5rQ2FPZkw5OGdZRW1UR1FTd3diNWEwWk9RajdKVE5VRC1zTTdEVl9SNFVoZ3Y1NUx0b1dPOWVZczJ2b0lJZ296dGJuYS04MzJkSVN3TFNmOEl1UmlqTDBrZXNkWTNUVHBSTkFjSnNNVmg1N2lCVWZmUkt0TUpfNTNLT3ROSHhwQkNIV1RFTm80NHpVbXhRV2VTREFkaEU2OUNzSVlua0hVWUVER05qampibjRHVW5DdmVlVEU1RWFjWkpLcFBpTjZJcHd1SElrbmxHetIB2gFBVV95cUxPWU5Dc3Q4TTBHeWJWM0VMdUd5U2twVXNDZHZPZGs2Q2dqa2tpdm9tSjlzcU9sZzY4b1pLYmdNVlNmbWI2QXc5bDA1bjFieDhseEpLRlU0QzVmamxWWTIzRG5jbFJXNm81eUNTVGJJN3VEN1RTY3VhRmltUkVIT0dST0x6R1cwMFpUOVliZjNjYmZyRHBlTUFma205QWg5QzJubC1MSzYzUWpvMHMxeXlnUjVXY01jWENyUUR2MzI1c0E5RzgzN3VzT191VjNhWnlwWmhzd3Z6WDFIQQ?oc=5",
+        "date": "2026-10-12T09:00:24+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "¿Por qué Estados Unidos puede y debe ganar la carrera de la inteligencia artificial?",
+        "description": "¿Por qué Estados Unidos puede y debe ganar la carrera de la inteligencia artificial? Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3FobHF6RGRPWFJHN3Z1TWJGS1FlRF9pMnloaDlKUUE5aE9mRHplMTQ2WjQ3anVUZ01DeE9IaDRzU0VVYjBlcGdvWUc5dFFjSWVwMlMxdEs1UHlfdkNpazVoaHVDbE1vQTg4SDI4dUt5MGtSdDZZOURxWXk4ZnRKWWpuMjRrWEFCRGFBQ3pZSlE1ck1hOUFfb1RXYTNpeUZFX3NJMVpuNnVKWEpIcUZnczI2MmpsTGVXdXlUWE9ya25Sd25kdGluQllzSFFvYTjSAeoBQVVfeXFMT0xFSHVFNUZxU0s4dl90OUdSc1paUHgycWJUbVFyY0JKWlBVejZ0WHVjcDQya0hCYndVR0tXV3hDMzJIS1EtMHZmdUlRbEJBWDM2cUljOV9zU1M3cEprUEhXOTFwdFMtTmh3a1hLWEVZQkx1MldxTG1IWWZFMEt0QnZ2UDFsU1VFbWlBbFVFRzZERkxYRHc0M1BRdnZhRDJhUnVWbVUtWFlpLTA2ZGZCZEQzcEpVSjlIVzE5WXVsRmZwOGZuT1ZrNEhzUHZTd2liQVZHU3hDeEVjRHFNRk0wMFFSWFdmUHQwenJ3?oc=5",
+        "date": "2026-10-12T13:07:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Una inteligencia artificial de Anthropic se escapó de control y reportó un crimen falso a la policía - TN",
+        "description": "Una inteligencia artificial de Anthropic se escapó de control y reportó un crimen falso a la policía TN",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcU5HZ21WRWZxN0dya1NLQ0h3NUc4TllMVWtnNjZjQ3dhNzFlNVdmSWQyTV90NFFyVGw0SVltNWk2S3c2UGtIeHlIRDNrRlJNSFpJdlVLZENIaVFMUF8yV1FnZzNrMF95VUhkTVJvZ29OUmp6V3JDNEc1Ukg4X2ZWb0dxOVVJcV9oTl9VM3BIaGFXbUpNU3k2bXBsVHVoXzZ0TlRCR2ozaGdHVFQzaXJ1LU85Y0NObXBMaUx2ay1CYkdjOGdfYlItYXdOcFRXQdIB4gFBVV95cUxQamtoNjg1cVNjblFwSTFieS00TTR2Qnh2anpXbnNnWUxpbGZnVTV5S2YzbGExVlh6bXZsdWhZYlhXakU2ZWtqRkxnVGV4Q2swM0FqWmFIQ3ZWbTVJWkhreE5MbFpZOW5WZ0pSX2J2Rlg1WXdIellMaS1sRFNBQzExc1MtckwwaGwzTzQyaXR3bGFPNWhhZ2ZncmZISUtqNW5zdUxyMDhQN19VZnZBTnZ3WmdWQUhuQTVtdDBYQlp2aF95bm1VSEQ4bnFxNk10TVFVYmJYb2ZvcjZUcWZQQUhZZ1pR?oc=5",
+        "date": "2026-10-12T11:43:25+00:00",
+        "source": "TN"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Tras años trabajando en Vaca Muerta, se radicó en General Roca y creó una torre que provee de luz renovable a la industria",
-        "description": "Tras años trabajando en Vaca Muerta, se radicó en General Roca y creó una torre que provee de luz renovable a la industria Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZjB1dG9pdUlLZzgyMnJQdEhaSWVQZ04yck1jVk9tdjZkMzVTYlJKYUl2ODFXeUdYeEZvUmc3dGZmeDY2UnlBRXlGU2FLMTF4QlJ3LTNZUVBmMWcwZnphZzllMFpvbVNXdmFtMXloQ3pROTdKaWx1ZWVfay10WFlYZ1F4ZWJZcTVsSjVvU2FiUDlIel8zRURZajl5X1NJZVp6TmZIRkJlbHFMa1dQMUlCQVFvaTRqN21PS0dmNlRjVnIzUEFMckZrRjBNWnpERTZULTZTRDJkaERFdDl3WVlET0xtdG5uRmNXYkc00gHzAUFVX3lxTFA3clhmVEZIX1dQMjR3TXhTQlVxT3N6M2YwaWl1RHJTM2xUWklJUDk1X19PTzg3Y3VvUlJ6Nm51d1lYYkdGRUF0X19tWHRBREVCblpuNmdWTnE4azY1anAzNEViMVpYa1JZTUdHNW1vRVJXN2o2dzBQU1NfTWItUUs4Ul9QMTY4Z3lUVVJabE1UU3hDOGc5SVhyd3Z5TEhhMFI5bUcxdjBFQ21Qbng2SU0yenpXa2MwWFlfeG4zQ2d2NTBDUklHMGpRWEc3N3lLRjQxLWd0SXl1WXpvczY1M3hsaC1wN25qMkRUcGxBcEY0NjBTaw?oc=5",
-        "date": "2026-10-10T04:14:00+00:00",
+        "title": "Recta final para la prueba con bitrenes en Vaca Muerta: habrá dos modelos y podrán circular de noche",
+        "description": "Recta final para la prueba con bitrenes en Vaca Muerta: habrá dos modelos y podrán circular de noche Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTBIdHZ2N211anM0eDFURXNkekV0MVNHakZyUm1tTmRpck45a29kcUxiZTFobWNrbEhBS2ljSGthUHNYLUxCcnhadEhmVmtsVVF3Zml3b2tveEhFQmZWQ1Z3MHNLMzRmdXdoWTdDVlBodnpGYmotYVluYWhGaUFWdElGc21CNUY0VEhBTWxMQXZxejJ2Q3VyQ0Z0OThPMFBsZHlLWWkwbGNlb0lVQVFTX2s5UGtGdWExLWIzbnFHZE43bEgwWWlTVlBJN0JDQ2JVYlRZ0gHbAUFVX3lxTE5iYjRBaEQ4dGR4aUFOVlBnM2F6LWc4UXMxYXF1VzVVZ2lweDVReDZCVHVwN1h0dlRMUmVvelVjTHhnRGhtcmZyYjk4S21OR2JRRlVUV0lkT2lNOVBHLWZKeFZjeV9oOFNhdHFnTWlUdFpRYVREWVgzWC1xQkNlMER4TzNiVl80QV8wZVN5VU9ZLTJ4NGRLTDJZamR4aWs4M0R5TVFPWTJvNVZZdUlsMTJTTjBUSHpSeUQxeXRiRjRxUTBIX01uRS1LQU8ydFdXYXhRaEdXR1dCbUliTQ?oc=5",
+        "date": "2026-10-12T03:30:00+00:00",
         "source": "Diario Río Negro"
       },
       {
-        "title": "Galuccio: “A través del gas de Vaca Muerta, la Argentina puede contribuir a la resiliencia global de la infraestructura digital”",
-        "description": "Galuccio: “A través del gas de Vaca Muerta, la Argentina puede contribuir a la resiliencia global de la infraestructura digital” econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94OFpUcDZkY0V4Y3pZcUxYRDVUdHd2djVWWHJhaUg4NmotajlWTWxUTTZ4LVBiUHhKWUJ3UklNOEtDSldNcGtrYVNvNmZneVd1SmpmejMwVVl6amxTLWlGTmdXeWdCNXFUYV8yYk5oUnV2Sll4?oc=5",
-        "date": "2026-10-10T19:59:56+00:00",
+        "title": "Canon al agua: cuáles son los proyectos de cultivos que presentaron las petroleras en Vaca Muerta",
+        "description": "Canon al agua: cuáles son los proyectos de cultivos que presentaron las petroleras en Vaca Muerta econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM29UZTJyQ0dQT0M2N01oN0JmYThaWTlXZlg4WE8zLTBpeXpTS1dvMzFpLUxBaHk2cXI1RUltaWktRDhsLW5zdl9DcGhvMlFNajRPN2pGcXNLa3VKQ2dCbmpGQk0xM0ZiV0lWMHp1TUMzM3VrMmdNN1ZWVElLcGxWNkI3WG9XOTM0bnNwOS1Wa2RNTDRpNjlwNFFfUGZJZkItMkl4c0h6Mk5qTHF6SWFJQ2hkVnl2cF9UWkl3MEZ1bE9ieGJuOF9GaWd6Zng?oc=5",
+        "date": "2026-10-11T23:00:48+00:00",
         "source": "econojournal.com.ar"
       },
       {
@@ -177,6 +177,13 @@
         "source": "Lmneuquen.com"
       },
       {
+        "title": "De Texas a Neuquén: por qué Vaca Muerta es atractivo para las empresas de la cuenca petrolera más grande de EEUU",
+        "description": "De Texas a Neuquén: por qué Vaca Muerta es atractivo para las empresas de la cuenca petrolera más grande de EEUU Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZnZPNWdKQlFQMUw1NnZQS2toR1hCZ1ZJUzJiRXo2RDMzYUkxOVZ4LUFBWkpnb2NyQjZqcGVIWm9xS0xpRl94dGxmY1luUnFFRGJzTDJMZm9OR05SY3phRGFUODNhb1VxMWxvWDBOeGRYMnhYMUZ6RDFPa01WNlBMWWhCbkFva29ORkwwUWZGM2pCYlhYRWNJd3dDZUtlMEZCN1BDMW9oNENxTWp5dmd5M2RMeEhqNHlyVGxhQlB2VlM5OGhlODFPSWxYVzRFblNkMjlJbGdscV9zcWw4QjdKM01BT1NRZWRuZnVVT9IBhwJBVV95cUxPUTZYOXBubkZSZk5MWmZ3ZldVbXJSQlBDTmh2LWdpNnBacWI0ZVFhc1p0V0t1cmszalROQXhrWUh0aVU1QlM5VHZjNm9aMlUwazRrdUtMY29oVWNFS0tYRU9qVnlXam1aUXNIclRlbGZpbkJyS0Z6b2pBNktxWHVwWGFRd1JqWllUYk9vb1gyTl9aTmtxZFhobGM4dklQNVpmLXBwalhpVEFuMGtwU1pySXZzV1N2NGZvYUFxNkx0Y0RuaG84Z0RjWEhfUmh5aHZMN0RZb0RWbDdNUG1pVXBrTk1oRHQxcVZycWF3YTgxNllNbjA2ZmFrYWdyOWVPdDd4TFBOQjFfQQ?oc=5",
+        "date": "2026-10-12T12:42:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
         "description": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina Ambito",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ20zTGgyNzhON3RJamFpMHZjVUtpd2dJdGljQnkxdVZ0UVBuVXNnVVRQUG1ZZkFPWXJyUmhLZG1nSktRRWs3NG94N2hWUjF3T21GQ3VhS3VmdG1rZzhaYWFZZEVGbUppYngxUEZiSEdsZUloaklsVW45RXJnZm5oZUVkTVNIQ2I5cU5jcmRiZjBHa2J2aE85SHE3Z1A5T1VabXdXZ0U5SnczZ1FTSFQ4QjBGUms3UFBtaFduTDlHejLSAcYBQVVfeXFMTkY0SnRGVjlhVllwR29ESy1Kc1NrWGNteGg4U3lkSllIUU1ZT2RXb3ZJZUhEQnBUbUROM19OM1Bra3FRS0hJbUM1T2Fyc0VoYzI5VC1raWRETkNUMndiZGwyUmFPbkJxZl9QWlUzTGYzV3RXVy03US16bzI5bEJVeXZUMzF6RENfT2I4LS0wY3FJa01JZDBTNlhkSFdfdUdtWFJ1czRkTmVKN2U2Mk1OLXNKeWQzQnF5TnJKRW9LQjdRcDF0MU9R?oc=5",
@@ -184,25 +191,18 @@
         "source": "Ambito"
       },
       {
-        "title": "Vaca Muerta-Bahía Blanca: el Gobierno impulsa el proyecto ferroviario para potenciar inversiones energéticas",
-        "description": "Vaca Muerta-Bahía Blanca: el Gobierno impulsa el proyecto ferroviario para potenciar inversiones energéticas La Nueva Provincia",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUnVXbTNnM0RxRnk5S3RlMldtQmxNbkJURV9neldaZjFDcWllTTladmYtRVNvaE9Neng4VmI1Y3lLUTcxMXhaazVoSVVIQ0JwQmpYeU0wUEZJblFuUkt6WG15YUN1amVja25EOGNWellnaWhGbmRZTzkyQ1lOS3hOcVdKLUJaZy1EUHhmLTlKRHktNV82a2JJTWJKX3B5THM4MHdqTUZlU01fQlBUQ2dYS2VfemlmZFYtYXhwaUpqampnNUFqOU04WGxFVW5tc2lMQUdiUnp1a2tZaW5qNnR4SnpfbUZ1cFhpSzdN?oc=5",
-        "date": "2026-10-11T23:29:12+00:00",
+        "title": "Gas de Vaca Muerta: Bulgheroni busca clientes en Europa y alista un viejo caño fueguino para exportar GNL",
+        "description": "Gas de Vaca Muerta: Bulgheroni busca clientes en Europa y alista un viejo caño fueguino para exportar GNL Letra P",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZC0tcnotb0NzZFFVUkVCUjYxVy01MEVnNTl3LTRBSU5OY1BwcGZBaFdaM0pUUjhIVDlBQS1GNU1CQVVXZ3ZsTWJtRUc1djJfdUJUODc4dWt6RU1zbXNfczRCeHhhN3ppZG1UUXN3eTdnTGFGOWk1T3BWaDRLUWVOTXpZUnVRVTdyUi1lN0lUTDI2dDVOdUpkeTVELXkyUEozNFRidzQ3VVdJZm94QndyYXlzNWEybE85R3l5RkpPQ0s5MVhVaHZZbFZjeWdfRXdMZy1sbC1JX3lMOHdZZFdHTWQ0ZDl2dw?oc=5",
+        "date": "2026-10-11T13:02:00+00:00",
+        "source": "Letra P"
+      },
+      {
+        "title": "Cambio energético: Vaca Muerta podría convertir a Bolivia en comprador de gas en 2031",
+        "description": "Cambio energético: Vaca Muerta podría convertir a Bolivia en comprador de gas en 2031 La Nueva Provincia",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaV9JbEdMeWRDaXdKSFpWMHYtVjdEQ0tMWC1FMjgtRWdiMkNtZHB3ZlR5RldOLVZQdlN3ZWxRTlJ3cWtMX2dOZVZCaUZTTjNmZGpKdTZvYTRkN2lKalFmcDV2MnNlNG9rblRqOXR2a0lwU092bUFxQUVCMzNRU3lDQ3dXOGFLT1pVSGdDbzY2akRaeXE4SHU1bjdiYktSRVRFcE0wbXZzaEhIc0pmb1ROQmpSVnpxd2s3Nlp5VjF6RU1rU1VtaERILTlocU9fanppSjVCZkNTNGc?oc=5",
+        "date": "2026-10-12T08:05:14+00:00",
         "source": "La Nueva Provincia"
-      },
-      {
-        "title": "El Gobierno proyecta un tren entre Vaca Muerta y Bahía Blanca para mejorar el transporte de insumos y cargas",
-        "description": "El Gobierno proyecta un tren entre Vaca Muerta y Bahía Blanca para mejorar el transporte de insumos y cargas NoticiasNet",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY0o1SEhULWFEQnhJQlFHdThNYnFmVklMblBHUXNLV04xNHF0X3lVdHZreWFKcjhOdW5kb2FFWWJ1aTRSZWktZGQ5MURHUk1ZRllMMUp2UnNUN1FQYUR4Sl9xclVpSURyT1YtMHpQWVZDUjgwVFJJNUU4S291N3IxM052clBsbGhDUi1qZWhqWUZMa1dFZnBNbVJNbXoteklsSVRJTnl0YmEtQnE4OWk0UVFEb2V0c1BzbHZUc3ppNE95VVJlUHBZaXYwUUQwd1NHTm9FQ1hzZHhDdC1NcmFFdE5wR3hTVXpjRS13NDg3VFJsWkROQzdRMW9R0gH_AUFVX3lxTE14NHpwUmJDOWxVNFdsWEZwM21zWk9hRC1qTXZWVVBEc2VwVG96R0paWXBZN0lIbHJyb0pkdldqNi1WTWpycmx2X2pTeUtyTElOaGloN3VaSEwtbk9oQ3hCNEQzRWp4bU9mSUFIOG44VDBUZkJTZlEyWmg1ay1USVF1TEs2Zmc0UXRRWDdFaks5TC1zQnR1TFEtNnNnd2xVU1pSOGxUVmtBSXhkUDFLR29UUFBpVWVuUUxiU0RKNFZ3SjQ2bXExWFFRRjU5ajVQaU9HTlkxLTh1VDBSUmZHWGFwWTB5REk0X1g2QV9RYVhvSTFhX0lOX0lGOHpBZWU0Zw?oc=5",
-        "date": "2026-10-12T01:47:18+00:00",
-        "source": "NoticiasNet"
-      },
-      {
-        "title": "El Gobierno proyecta un tren entre Vaca Muerta y Bahía Blanca para mejorar el transporte de cargas",
-        "description": "El Gobierno proyecta un tren entre Vaca Muerta y Bahía Blanca para mejorar el transporte de cargas La 100",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUXdjWmpBaDZ4X3VCMmhyZnpKd0tvTmV2Z3htZjE2ZV8tUHBYb1NLbW5mZGNqZWxPd1RRalFoM0lWMVNwRzJWcmFOc0NIVGFpVkZaZHZvLW9nb2dKMTVHUktLblZkTmdZQWl2WkhWS0NfZkxTcTRxb0ZvX3V3eGlwQ1l6cFlBaktlZGlqeEdPLVBEM3hrY0pxOFY4WDFUQ2RueHFGUm4xZnNrWWRGeTB2T1NQT09nMHdWeFpHWlFobTk2aGRPYVAzeXpOQlNCZkNwdVc0?oc=5",
-        "date": "2026-10-12T01:01:26+00:00",
-        "source": "La 100"
       }
     ]
   }
