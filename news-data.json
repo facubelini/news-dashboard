@@ -1,41 +1,27 @@
 {
-  "updated_at": "2026-10-13T17:29:39Z",
+  "updated_at": "2026-10-13T22:11:55Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA",
-        "description": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1Q4R054OW10UG9Tbnlid3VKZ2JFVk1BSTRCMnA1Q2RXaUthZW9WX3FOQWZnQ1ljRWlOZ2I4aEpNam0xOGQwNUV3bmFUbl84Y0piSlYtbkhZbEdtelFsaEd5YU9YeWNmM3RZNV9IZVNoZ2dER0hzRzlrVmgwZmZ5eUl6QkEzanJGTHNYbTRfWEhpQjRsbDZSUE1HVUdqV09NaExkOW9BR18zRU1tLWNWdlJ3LWpxQm5NVFV4eWV3d0JPSUh4MWU2dWRjNDBEYUhWY1RZRF84ZTE0dFnSAeABQVVfeXFMUFlNZ2l3QjVweTdfTHhqdzdLcndWRFExVWhzQ3J5dVdFTEhJcjFDRzJBWDhtbUxuUGs3NXlUb0pUMk8xcGlHb1FBM1JNV0k3bHVLM1hUZlQ3enJOZGtqYV9qODJRbjZJS09aTmhyc3BHRGFmZU9PeDB2U3pRVlJ5dGlEWGJnSDM0YkhrejZ6VjcyRjJmeGZZcC1Ya2VJRE43RmtsQjV0d1liSGVieVUzUHQ3ODFqZkJpMmQ5Z1RPRDB0MWxIeGNJbXA2dEtCQ3pab0RtN0VlSmNVN1dLdzZzOGY?oc=5",
-        "date": "2026-10-12T21:51:01+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Microsoft escalará chips de IA personalizados para reducir costos",
-        "description": "Microsoft escalará chips de IA personalizados para reducir costos Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaloxWDE1ekU5dm1CaTVsTi1Tam50cG4xSXVLT2dkWjV4cW15eWdDMUNyYnBOVDlRckF3NVFuQ3F5VTlMTW0xY1h1R25oNE5hWmRBbTFfMFpWUTBlS25PQjhkeXBERGowVC1QUnQyWkxJV3d4WEZnRlhXcm5CYlo2WTF1cURGd2JtVnNVRmlPWUZibHl4VjRTZVIwRDVRWE1RVHd6bmNObw?oc=5",
-        "date": "2026-10-12T14:33:20+00:00",
-        "source": "Yahoo Finanzas"
-      },
-      {
-        "title": "Microsoft desplegará su chip Maia 300 para sumar potencia propia en sus centros de datos",
-        "description": "Microsoft desplegará su chip Maia 300 para sumar potencia propia en sus centros de datos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa2xpdWd5Q3RmczRLVjV2dHd2RzNnU1BnbjQ3MnduNFJQc2VINTVGN2JCb184am1GbEVhNm5CSU0yY1FfUHdDX1IwWGhUZ09NbXA3VzBiWk1pdVljWEJra2t2VWdFc2pFUDk0ektKNC1Ec0ZuZDJGcnpVS0xNbE1ncnQySDNqcWVRZXlkcm1GR1g0emZ1MWx6VFdkakJWNDVtYWVBcFpmYVl3VDhydjFaY2VYaFpfZkpFOXVQRlJqZFBweXVoRVd1bTBn0gHkAUFVX3lxTE5ITS14d3U2SnhCTFYyemhHSUlfQ2psY2hsX0tERTdZeGZ2S0kyWERXS1hqRkhUZFJYaFFZNTR4enVVY3RqSndCSXAtdHlycXg3alRQX2F3NWI2dWF6LUpPdzlJT0xzcUxaWkkwbFNjZnR3d1NjQnFuQmdZR09UZnFuQVl0aTJwYjFFdDNRRFJ4a05uQjJ3bXhSN3YzRUtBVmYwU1JkZmFOWEp2QXQxUEozRThKSkloc0VrWDNxS2FsSjdUY2RQaGZKZTl5UXpENzdqTE10UDBOQktTSnZpRklzU1ZkUg?oc=5",
-        "date": "2026-10-13T03:54:00+00:00",
+        "title": "Microsoft presenta Maia 300, su nuevo chip optimizado para escalar su infraestructura de IA que llegará en 2027",
+        "description": "Microsoft presenta Maia 300, su nuevo chip optimizado para escalar su infraestructura de IA que llegará en 2027 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZjAyTmQ4WDE1WVpONnFIRzQ4VlZJZ1dkS2VrTDFkNF81cXRRZFZRX3FRQUNGaTlLWVJ1SXQyWWNJbGhpbUdwTnVreDFCdGlpbEhyWFdpZ2d1Z0h1YUlIUkxoS1U3QXRjZXBLdGVYTGltYUpxdzJUQXAxTDUxdGNOWjBUSkgwSGx5aEdXUUw2MHkzRTdXaUozcGlITm1Jd09WVXhDcm5PWHlsNUtVaUlTSnFoWFZKQ2hDN0RJY1ZSQ29xMjBXT0lEWTVTRGFsUUFhRVFIUVd4QW9Sa3E5MWVEY0w2bm1vaENaUWFkWnh4bWxTWlZHQkHSAZACQVVfeXFMTWhQZ3ptS1A1TXE5MGxOWnZxRlVyMW9Tb01vTUR2MjNmdWozeTNuNlRqcUoxazJPV0hZZl9mRzNlX05aa0JZdi04Qnl3YURUZTd3NjJmeVFkZ1VoYS0ybWozd2NxRkZWbEJHLVFZV3NUWnVtSGxwQVdKSVdPMUVjWjdRdTFDZVBUSngyRlZkdk1Mc3pwOEpYd2NkaGhlb19vdWJwYmtiZ1dKdC15QnhJRUEtV2tjNHRuR053R2ZVTVNLd2s5R1A0SXc0UFUyTU4wcEFLTFBmc0ZqRVhaNUhMWFA3SGJoaV9iRVM0QUcwZUpsbkVqa21RT25YbzRsQnhZRVlDUFREeGFSenBDbUxnd0o?oc=5",
+        "date": "2026-10-13T09:22:20+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "El presidente de Microsoft pide estándares de seguridad de IA \"reales y eficaces\"",
+        "description": "El presidente de Microsoft pide estándares de seguridad de IA \"reales y eficaces\" Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUGQyYnlwY3RNQlRNclYwMHJjcEs2azlOMEx5Q29kVi1XcEdMcWJfUjY3cDFWNnRJLWNFUWRJazBodXF6X2hqbHdHR2o4Y01jSHZxTnJoeHUwaGJJUTVhdmd2ZVE2cDRPNjhoa3lMWUMzWnNEeThKR1kySk5RUHNGakZLOTc4VmpCWE1lX09lZWRaZUhWQlkydlR6b0ViWEI5dWYydldSR0NNVHUy?oc=5",
+        "date": "2026-10-13T18:14:25+00:00",
+        "source": "Yahoo Finanzas"
       },
       {
         "title": "La dependencia de Wall Street crece: Nvidia, Apple y Microsoft concentran 21% del S&P 500",
         "description": "La dependencia de Wall Street crece: Nvidia, Apple y Microsoft concentran 21% del S&P 500 iProfesional",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONnNCWmZ6QlhSb0ZmbHBOTExjamItUVplbVNwZUpJMktKeDhhdzdtS29Vblk0N1lTUk5BcXRjUGVrQU1uaDZqbE5Yd0VmeFc5aEVaVnFYQ2xCa0tnUzQ3bnVEX3BaQlJPZ0xOT0N2czF6UlM4cm9pSUV4bHU5dXVkSW81VWUybklndDByaThiNEVWc2FIZ09raGRoREViQUVKcHZWYURqLVpiTVByVVZKeVFtOFFkcWRlY3JnRU9vekJ1cUxyaWFMVXVwdnRXNFZaaWdyQzE0ZVDSAd4BQVVfeXFMTWgxbnUyUEt0SmVIMmMwQXZLZHRZMENIQ0FIOG1jS2pZOG4xUzJWRUk4ZGpnV1dOLVZ5ZE52aDBRYjNMMUJKTVNZVlJYbEJRRWxWaHZYZHJOQ1ZYVno1Ym1KZm9WU25fdVowdXNWcE5ZYzZWY3Z3Wi0xeWV6MVFMZURNQlRzWVN0bHFkVmJGZTVCdnk3bWVzSUU3UkR1d0x1ZW9BM2RDMGdWQVNoenFzSjMwSlI1bkxoWURnaHJ5SllCWXMxVU5NbVZuRjJrYV84TzhrcjJuQWJHQ3UzLU1n?oc=5",
-        "date": "2026-10-13T11:09:00+00:00",
+        "date": "2026-10-12T07:00:00+00:00",
         "source": "iProfesional"
-      },
-      {
-        "title": "Microsoft alerta a usuarios de Windows 11: algunos equipos dejarán de recibir actualizaciones de seguridad en 2027",
-        "description": "Microsoft alerta a usuarios de Windows 11: algunos equipos dejarán de recibir actualizaciones de seguridad en 2027 Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRm51SUYzRTNKbzRKMFhlRDBTM3YteDRvMXdPZXZfWWlxQk5adkd0WEt5RTBsQ0h2M1R6TjhuUElpTkNTcWZDdGViMTV6R1lqNThyV0NSdFFSUmpVcEZZSHM4UnYwZnhwVEJTU3dNVXZJYlhNXzF2dkdKMGZEMUNDcjRzYmFXVUdhcmMyVG9sbUFNSllHQy1KT19oZGpBNUpBOVRsemYtVVlwUkcxVzk4SS1aUjFpeVBXMHFzQUlodE5vVXNkV1Jta0RZMUw5eUd2bWtUa0kwMWFINS15VTR6M1NlMlNIN2haallZ0gGGAkFVX3lxTE9SOFhkQkp3S2lnYVRvQTd6OFJLM2VvXzBHcmp6dEpNUUY5NWt2VWZhWE9LZkU1WUZxbW8zQjV2MkZRT01uX01aNUluV3hTZkdhUnN4R192S05kR0dyV0w2cFdGYW51S2psRmY5b21jU2VXcG5oVlJhYjMzZWduSDdPdW1JN2wwQkJFcnA2Wnpmcmt1dkhQR1h1SEdJQ1ltN3RCQlh5UzZZVTA2cURBM1dIYnNybHl6TDczV0cyVXdQTjRrNkZHZjBScVBLSlZFSmlVbmdRWmxuM0R3X3hVMGdjbUNvUHVITlVQczV3Z3FGTEFCeXlmV2drTnhXYXhucTdoZW4wUXc?oc=5",
-        "date": "2026-10-13T13:47:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Microsoft quiere arreglar una de las mayores quejas de XBOX en PC. Se avecinan mejoras importantes",
@@ -45,20 +31,34 @@
         "source": "3DJuegos"
       },
       {
-        "title": "Microsoft sube y se encamina a una valoración de mercado de u$s4 billones por primera vez en un año",
-        "description": "Microsoft sube y se encamina a una valoración de mercado de u$s4 billones por primera vez en un año Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcUg1dEI0STFDQ0F2cVNidlRfQlQ5d2R2QWVvZ2lGak9KWTlIcFprSFdJY2RpS04yazNUc2RHb3p4dERXbkZ0dWpDZ2tnNXRZbnZUQVh2dVNhOUhSMU5YLXJEbmF0Z0hpR1NELWlqcGsyTjNZZkVCbk5TMjNTQlpHT1NtUXh0V3NjemNVNTZ4UWdRd29NMU9oRHAtX3VJZUgtaVc2V2F3RGwyMl9mSGlSbHNyU3Eya19LOTlRRnhpVDE4QdIBxwFBVV95cUxQYlp5SVo5TUh2ZE54d085T2dlQ2l6Q2htTmNuNzRPNTAyTlRFOW9BMDU4dEJKN1dLaGRFRkV2VENoNEl6VjFHQmMyTnk1Nm5VSWJ1OHRZeGxjRWUya2oxY252d214SW93WFo4dXFxQm9uVHVOVTdqUlFueERndGdFZE5yZHNzNzA0LWpZNDR3cnJCMVdVQ0VJUTJ5Si1VaktjaktjVWE5cExEeTV1M1dJZzZabmozRi1yZ0RyTVhXUkk3dEUwaktN?oc=5",
-        "date": "2026-10-12T16:40:26+00:00",
-        "source": "Ambito"
+        "title": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA",
+        "description": "NVIDIA tiene motivos para preocuparse. Microsoft apuesta por su propio chip Maia 300 para su infraestructura de IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT1Q4R054OW10UG9Tbnlid3VKZ2JFVk1BSTRCMnA1Q2RXaUthZW9WX3FOQWZnQ1ljRWlOZ2I4aEpNam0xOGQwNUV3bmFUbl84Y0piSlYtbkhZbEdtelFsaEd5YU9YeWNmM3RZNV9IZVNoZ2dER0hzRzlrVmgwZmZ5eUl6QkEzanJGTHNYbTRfWEhpQjRsbDZSUE1HVUdqV09NaExkOW9BR18zRU1tLWNWdlJ3LWpxQm5NVFV4eWV3d0JPSUh4MWU2dWRjNDBEYUhWY1RZRF84ZTE0dFnSAeABQVVfeXFMUFlNZ2l3QjVweTdfTHhqdzdLcndWRFExVWhzQ3J5dVdFTEhJcjFDRzJBWDhtbUxuUGs3NXlUb0pUMk8xcGlHb1FBM1JNV0k3bHVLM1hUZlQ3enJOZGtqYV9qODJRbjZJS09aTmhyc3BHRGFmZU9PeDB2U3pRVlJ5dGlEWGJnSDM0YkhrejZ6VjcyRjJmeGZZcC1Ya2VJRE43RmtsQjV0d1liSGVieVUzUHQ3ODFqZkJpMmQ5Z1RPRDB0MWxIeGNJbXA2dEtCQ3pab0RtN0VlSmNVN1dLdzZzOGY?oc=5",
+        "date": "2026-10-12T21:51:01+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Tras clonar Adobe, este desarrollador crea alternativas gratuitas y de código abierto a Microsoft Office",
+        "description": "Tras clonar Adobe, este desarrollador crea alternativas gratuitas y de código abierto a Microsoft Office Computer Hoy",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUWhwdG9uTEZld0JTT2xoZVdFLXR5cUF2aGZLTDZ3OGxkT052dkcyT2VybUNZQ3hDUm5PSVJTcXo0cXFTTFNublY0UjlnLUpha3hFeFVUaWRnSjlJd0xpZUVLcVByempHY1NtTkFGTF9xcWVkaGk2VlNDUVZIV1lPdWZtYVVZZlY5REEtYjg5T2J6aDE5WU9waUdLbmJpa1VVMmZteElLRUkzM1pGQnowMG9PbFQ0M21xd3FzSFBhTHFoYm9pT0Mxc3FhczBmUEtXUmtlcFVreEIxWjFwMENZT3VMaFBiWW1DMVY4?oc=5",
+        "date": "2026-10-12T20:02:05+00:00",
+        "source": "Computer Hoy"
+      },
+      {
+        "title": "Microsoft alerta a usuarios de Windows 11: algunos equipos dejarán de recibir actualizaciones de seguridad en 2027",
+        "description": "Microsoft alerta a usuarios de Windows 11: algunos equipos dejarán de recibir actualizaciones de seguridad en 2027 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRm51SUYzRTNKbzRKMFhlRDBTM3YteDRvMXdPZXZfWWlxQk5adkd0WEt5RTBsQ0h2M1R6TjhuUElpTkNTcWZDdGViMTV6R1lqNThyV0NSdFFSUmpVcEZZSHM4UnYwZnhwVEJTU3dNVXZJYlhNXzF2dkdKMGZEMUNDcjRzYmFXVUdhcmMyVG9sbUFNSllHQy1KT19oZGpBNUpBOVRsemYtVVlwUkcxVzk4SS1aUjFpeVBXMHFzQUlodE5vVXNkV1Jta0RZMUw5eUd2bWtUa0kwMWFINS15VTR6M1NlMlNIN2haallZ0gGGAkFVX3lxTE9SOFhkQkp3S2lnYVRvQTd6OFJLM2VvXzBHcmp6dEpNUUY5NWt2VWZhWE9LZkU1WUZxbW8zQjV2MkZRT01uX01aNUluV3hTZkdhUnN4R192S05kR0dyV0w2cFdGYW51S2psRmY5b21jU2VXcG5oVlJhYjMzZWduSDdPdW1JN2wwQkJFcnA2Wnpmcmt1dkhQR1h1SEdJQ1ltN3RCQlh5UzZZVTA2cURBM1dIYnNybHl6TDczV0cyVXdQTjRrNkZHZjBScVBLSlZFSmlVbmdRWmxuM0R3X3hVMGdjbUNvUHVITlVQczV3Z3FGTEFCeXlmV2drTnhXYXhucTdoZW4wUXc?oc=5",
+        "date": "2026-10-13T13:47:00+00:00",
+        "source": "Infobae"
       }
     ],
     "Marketing": [
       {
-        "title": "El fin de la marca como discurso: comenzó la era de la autoridad verificable",
-        "description": "El fin de la marca como discurso: comenzó la era de la autoridad verificable CanalAR",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHYwTlZRTV9MN2tnWXFaY2FZYmZadHcwT2ZfQklITVZOOFA3ZkpJUk1wNHZkaDU2VHM2RzRTNWZFbUlBSVRheHFRRkNlOVhBaUtDWnlzaEZKYW5MZkdwcmdwV1NGUzVFRm9fb3FpSUY3YU9mZ3JCT3BLM3oybVAxMExENzhGa0RSaDdQM3FrZzBUbkJER0E4dW1BSVVXbWw1WHVFOUQ1c1gwd19OM3ZRNmRvRjQ?oc=5",
-        "date": "2026-10-13T13:44:12+00:00",
-        "source": "CanalAR"
+        "title": "Ikan Agency: el marketing digital ya no es secundario",
+        "description": "Ikan Agency: el marketing digital ya no es secundario El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHp0dms1Z1FFVFBFdWFodExacU1HbU9Yd2wyYmVRQ2d2c2lnRVk5YlJfM1ZtYzc3NmNkUUtqMmtwaHRtbHNIaktGaHNGMFN1b1Y5WnlndGhjX3B5eFRZWC03bGw2SW5Ub3JOUmFnbERhNUxEd3dXY2FVQWZXanZYckVGUE85Z2R5Qmdn?oc=5",
+        "date": "2026-10-13T17:24:54+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
         "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
@@ -68,11 +68,11 @@
         "source": "generallavalle.gob.ar"
       },
       {
-        "title": "Bahía Hub lanzó su último ciclo de cursos para adultos del año",
-        "description": "Bahía Hub lanzó su último ciclo de cursos para adultos del año IngenieroWhite.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3FOa2xUbTdSNUpCOWxkQWRlNk1NUVlnSVliajhVT1ZjLU5UdFM1eDJRaEhQOHo1MjU1SGVBMzBvUW9YaVJWbVhpNmhaN3Q1WGR2ZkZTWGJaODhJQVNSN0tJZ3dWYTZGUTdCN21WXzNJc1lNRE92Tmpsb1hsTFZCMTVxR0dTeTRuamVibWE4TVNBS3Q2cDE0b1RjUWE3ODhlRVFWTWhudXI?oc=5",
-        "date": "2026-10-12T20:09:35+00:00",
-        "source": "IngenieroWhite.com"
+        "title": "El fin de la marca como discurso: comenzó la era de la autoridad verificable",
+        "description": "El fin de la marca como discurso: comenzó la era de la autoridad verificable CanalAR",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHYwTlZRTV9MN2tnWXFaY2FZYmZadHcwT2ZfQklITVZOOFA3ZkpJUk1wNHZkaDU2VHM2RzRTNWZFbUlBSVRheHFRRkNlOVhBaUtDWnlzaEZKYW5MZkdwcmdwV1NGUzVFRm9fb3FpSUY3YU9mZ3JCT3BLM3oybVAxMExENzhGa0RSaDdQM3FrZzBUbkJER0E4dW1BSVVXbWw1WHVFOUQ1c1gwd19OM3ZRNmRvRjQ?oc=5",
+        "date": "2026-10-13T13:44:51+00:00",
+        "source": "CanalAR"
       },
       {
         "title": "Taller de marketing digital para potenciar las ventas de las emprendedoras",
@@ -89,18 +89,18 @@
         "source": "Sur Multimedios"
       },
       {
-        "title": "monday.com lleva sus agentes de IA al CNMD 2026",
-        "description": "monday.com lleva sus agentes de IA al CNMD 2026 El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0JqcHJPaUtNdlRTWldSanh5QVJjX2NfS2NQMDBrSTBzRWRUTkhTcnNGZ3p1aXA5YUhjeTNKSjVyRENBSmJtN0ZuNUJHS0o5N1ZEeEZ3T1hNTTBfenlRR2pDV0c3Sl9JNl9yZEktQnlMUTZSV0hTVlczek85QWhMaXlpVTM?oc=5",
-        "date": "2026-10-13T15:06:51+00:00",
-        "source": "El Ecosistema Startup"
+        "title": "Bahía Hub lanzó su último ciclo de cursos para adultos del año",
+        "description": "Bahía Hub lanzó su último ciclo de cursos para adultos del año IngenieroWhite.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3FOa2xUbTdSNUpCOWxkQWRlNk1NUVlnSVliajhVT1ZjLU5UdFM1eDJRaEhQOHo1MjU1SGVBMzBvUW9YaVJWbVhpNmhaN3Q1WGR2ZkZTWGJaODhJQVNSN0tJZ3dWYTZGUTdCN21WXzNJc1lNRE92Tmpsb1hsTFZCMTVxR0dTeTRuamVibWE4TVNBS3Q2cDE0b1RjUWE3ODhlRVFWTWhudXI?oc=5",
+        "date": "2026-10-12T20:09:35+00:00",
+        "source": "IngenieroWhite.com"
       },
       {
-        "title": "Jiménez Carbó Digital cambia su identidad corporativa y lanza nueva página web",
-        "description": "Jiménez Carbó Digital cambia su identidad corporativa y lanza nueva página web Atalayar",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZFMyMkJyT2pGcU9qczRXZ01ZNjM0amxXQ01CODNHd1hMUllTVHpSXzcwdXdWamlGSUpmUGRYX1IyemtYWWtSZlBnekk2U3BqYkVVVHBJb0Jfd3loZ2JxNF9LZmdHbFlua2dlbmRRczNicU9FcXN4VkNWOXQ1elJxZ1VKbFNDNFlJbWVTLVZzMFFrcDdFeDI5TENkWGx1UVRkd0VRZVppdEdCZFBCeVh3TnBpSFREeVZFTHZvdnp6RlZwT09ZRlg1anNwLUpCeGVQUUhzQjdodnVmdkJhLUdleV9ERExTVW8y?oc=5",
-        "date": "2026-10-13T13:02:00+00:00",
-        "source": "Atalayar"
+        "title": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL",
+        "description": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL misiones.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVOVEtKeDQ2NUhHNXhxdlFYd0U1NmczTmo5ai0tN2lRYWdlXzByTUZLWlJyMWdDc0UwSnhlbkotZExjblhlWDZZNGR6eC1wRU1CaGJGWEM4MFNuQ2FKbldVcDExRUZnRnpYMUFRS2tfU0FQN1NDQ2hHQUNvcUFhVmlFSTZtVTI5YzVWa1hWdm9sUm9GelpfUHFfeWhnQTlwTXQ2bg?oc=5",
+        "date": "2026-10-06T07:00:00+00:00",
+        "source": "misiones.gob.ar"
       }
     ],
     "IA": [
@@ -119,17 +119,10 @@
         "source": "National Geographic España"
       },
       {
-        "title": "Gusanos de IA que viven en electrodomésticos: Anthropic avisa que hoy solo los modelos chinos pueden hacerlo",
-        "description": "Gusanos de IA que viven en electrodomésticos: Anthropic avisa que hoy solo los modelos chinos pueden hacerlo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNFlpa0JUallrenpzdzlNZ2tGTVdXNnpUTFlMM1YwSGRURXBzcDZVbnFnU1E0dXlaN09Td284cVVFY2tSX1NFakNfWW5vQlYwUlluSkZ5WXJkb2g5SXVjbnRDYmV3ZmZvaHR1YjI1cUFraF8zRW5vR0RJSUx4U2xTeXNOSDBQeU93Um5GUi03bFJuTEg3VmM5WUpZbnlRamtNanRtQjJmVUNQZXlocFc5UlR1eVNLY2hTSDEzejF6WGJFaVh2V2U3bThBMkFkalQwcWdQV0xGVmUyQy1naHRINVVLONIB_gFBVV95cUxQSnBYaXJ0M09NUDEySEZRMWxmM3ZNakQzRnp3bDFtRkVDd0NSa1pRMnVCWUhjOVpFVFdrS1VBRWxTSGhtMTZVd3lkRWVXU1Z6WENfV1ZQNzJZWV9aZ1dBX25QWDQyY0ZNVGwwbVk3cE1rQTVhY1p1bHlNdS1JWlNoSmg2alVHc09RZzdiZ1FRT25NNDFFaW1rUjl6aHZPc29HbV9ucjFTNy1ja1ktdk9lbzE1U0lHR1dEVVRRdzdoOU94XzI0RmVJR2NZS1diRWZIdHF2WVZaeWlzWFNlZ3EwQ1ZGZENnOHh0S215NmZGaldaUU43UmdVQXN3UDhEQQ?oc=5",
-        "date": "2026-10-13T13:36:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Antonio Banderas será Hernán Cortés en una película que usará inteligencia artificial",
-        "description": "Antonio Banderas será Hernán Cortés en una película que usará inteligencia artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmg2bkVjaFJEdTFqMFVmQTk1NnYtcjRrWnVHakwtdWV3NmEybjNsN01PUHhfWFdNZ0U2TmdoWFBoQWNmejk0eWpwNzJNSkdCb1ZuQ3hmei1KXzVkb0tBMVhfRFBieW9iWkY4NThQb2ExbzNranU1TWRXMkc4dkVDWDJkemxIUHpIQUkxU0JIMGxKRHltTllLb1JkaFJ5bmNtSXc2Z0d5YzhYczNJZWJURmRtMTkwVEEwR05ZZ2RMT3E?oc=5",
-        "date": "2026-10-13T15:16:43+00:00",
+        "title": "Detuvieron a un ingeniero de OpenAI por instalar un dispositivo para espiar reuniones: lo descubrieron con inteligencia artificial",
+        "description": "Detuvieron a un ingeniero de OpenAI por instalar un dispositivo para espiar reuniones: lo descubrieron con inteligencia artificial Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTNGcDJBOFhQNDloLWp2dnp4NkhLWDJieEJSeUNoTGNmZzRFTmpQb1VWaS1kQk96V1dheDJTU0lyZ3ByOVFVMzhWcnV5OVZhMEdsOUVib0pZb2hwYUFIb0VfM05PTkttazZKdXNWT2ptU1dZMzZvSnlkNm1CVHdoNkZyeUh3Z3NIbEMtLUJBb3ZaSk9nbGVYQlpMNGVqUkdRY2dRSktLSG55czdEUzh1UVpCdk9oM1BtaHRreHpkenk2TGpkck5nVGRNZmlDT051TFh6UHpMTFFCNEYxRjZHMEU0bjdKQ2pocEHSAe8BQVVfeXFMT2ZRc3htWFEwYU5YVU4xTkdIR2Y2V3UyUzlWZHpoZTBZV2lmTERySHdvc3FYcnROdHdSeVBYbUpOc2Vza2RETHNyanBkYXRVM2hKTkpFTzZweHVndzAzSk1BLVMxUUg5bVlQOXlLdnA3N0pranRIZ1hTZlRwaXlaX3ZFcVBhV3J1a1FvQUxhdzFsSFZrRWFTa3pWR0pvbDlZd0dkQnVZNjBoYzVRcHM2cW1Pc1hJOS14OFZ1dTlBbHpyMFIweUZrc3FSbkdkZm5KbnpldVEtTF9FbWU3WEs1X2lELUlaNWJRcl9naHd6aUU?oc=5",
+        "date": "2026-10-13T21:11:20+00:00",
         "source": "Clarin.com"
       },
       {
@@ -140,21 +133,42 @@
         "source": "Argentina.gob.ar"
       },
       {
-        "title": "Polémica literaria: cuánto de inteligencia artificial hay en los libros más vendidos",
-        "description": "Polémica literaria: cuánto de inteligencia artificial hay en los libros más vendidos La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVDRBZ1pLNmE2YkppWHB4OVlYeWRTMGNydFBxbEFRVDVBaGhzZl9QbGFYN291cnVjN3pSTmFXQktNQXhZUHNtbnQwVnpQN2kwZ21OOWtkTjc2dkdUREVQRmV4NXFPdGJ2VDktXy03LTdJTWd4QlpPSlVSUDVENF9GUDZOdnJYdmNDRjVCOGpyRHNMNWlFRzJkQVNRRi1VUjF6S194WXFlS0VLVF92dkxHd2ZDTi1uckhWMmtUX1FHTndES05DXzAxTktNY2ZyVXJBSmc?oc=5",
-        "date": "2026-10-13T15:15:00+00:00",
-        "source": "La Nación"
+        "title": "Chaco: detienen a dos acusados de planificar un tiroteo universitario con inteligencia artificial",
+        "description": "Chaco: detienen a dos acusados de planificar un tiroteo universitario con inteligencia artificial Filo News",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbUxKbUY3OUIyTWtKTlpMbXRlSTBEdUZvTnpZYmlyOE55b20wRFZHRmhyX0RqQkZpc1RERUttTTRHSlJVcm9KQlRUZWQ1dmpVN19xZkNMMzBjc0s3akI3NFgzMTRTazZhMWhHVkdHQVBiX1RsTW44ZTRqQVpCZnFzZlJjWUE0ZGhSaVI2SWYyUldHT05jNmM5bDBTaGdSM0g1aHoweEFKSGRkdE4xbFFleWJMb244Z181QUV5bUVTS0J5dFpudmxjT3pFRFlNNXJzRVdF?oc=5",
+        "date": "2026-10-13T18:05:00+00:00",
+        "source": "Filo News"
       },
       {
-        "title": "Ferreyra participó del VII Congreso de Educación de Cintra, centrado en la inteligencia artificial y los desafíos de la enseñanza",
-        "description": "Ferreyra participó del VII Congreso de Educación de Cintra, centrado en la inteligencia artificial y los desafíos de la enseñanza · Gobierno de Córdoba",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQM0Jyc1o1NmFGN01raUtOZkFvbGdNZWFPcmRObnk5eVVWRUotSlljTUtTekJ3b3Q3cmNGd2F2b3ByYnBVZWlxbHNnVVF1ay1yY0NydktQWHIteE9yQnAyajQ0WnktcDBSZmFZbUNZWlZhMEdjRkZDNGdDYkpzLUtNWlFRV042aV80ZkpHOHBPRVFOMmd2VGp2N2t2R0pUUnVQUkYtempzMzgzeUxja0dudmhlMFVPa3RlV19QTFZZUUJPa0hkQnptb1pJSGV1Z0JubVpPSmI1R1BNZVdHOWdGOE03clgzUktLX2ZkUzV3aG8tYUpERFFiYmtRVQ?oc=5",
-        "date": "2026-10-13T15:35:00+00:00",
-        "source": "· Gobierno de Córdoba"
+        "title": "Chaco: cayeron dos jóvenes acusados de planificar con Inteligencia Artificial un tiroteo masivo en una univers...",
+        "description": "Chaco: cayeron dos jóvenes acusados de planificar con Inteligencia Artificial un tiroteo masivo en una univers... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORTM5Ml9aX3I4dHNUdnl3N01kZF9DNzhUQXViSHFRZWdkVlFNLUxRUi1rTVBERENzUXFDdm9IQ284cFdEdko5NnZRX2hYRy1kVDN0T0hKZF84UnItbG10bGNqZVpaczlRajd1d0RlLTZiQllpZUtQd3RVS3F2QjlaRzVtNmtkeUpla3ctaVBiUU1OVEk4dXFYN2pNNjQzVjU5TjRfV1FYYmR0MlZmcDJWYVkwNnNvLXQ2eHJnazBteTBzWnVxVl82aU1ab1FLMGZrRnVKRHRLTGNjV1BGekNxQXp4Y0RseXJxb0ZN0gHwAUFVX3lxTE1rcE9nMWJCdTV6UGU1VW5FY09mc2swTnd3Tl9YVXE2cTVYNS1PaWotOUNrU0ZuS1dlMnVXaWpfMGdyeTJmQU9jVDloMWVMdGtEVkhoYTNMaU5sdmsxU2VycjdILWVnbXU3VTdscm9XZ2ZESmFvaG9jcUQwejFnZEJiTGg3andzWUxCOUhQUC1DSGVqa1I3LVdfRzVEU196UXRkbXVPejNqV3lvQzRCa3N4WFVlS2VtUVpaZW5nRk9HVkVPb2RIMDBBa0xTa1cxelpNTmNTaFgzdVdKYWtXUG9pTmJEQWFtbXROUVVDdWRDdQ?oc=5",
+        "date": "2026-10-13T20:11:27+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "» Redacción académica asistida por inteligencia artificial: recomendaciones para un uso ético",
+        "description": "» Redacción académica asistida por inteligencia artificial: recomendaciones para un uso ético unsam",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHBhckNyN0Z2LW9iSkdIV0FISUR6SWw5eklJMnRfcHVwWEdvaUVwNHNOWXI5c1VXZnRUWU1qSWxMaDdoMGxITFJSdy1XY2ZWem5weC1mSlRoS2Z6dHgtNkpPeUg3U2tYeTRnamxod0FjMkJxR25OTjI1dnIza0F5T01vVElzZ2I1U0ttbnFIaEowSUpDdmo5bG1LZTZiVGRNR3EzRXZpWkNLa0Vybi14ckFKTTNhSFRfZ1A1blAzX3ZLVThsVjdUUFp0M0E?oc=5",
+        "date": "2026-10-13T20:03:56+00:00",
+        "source": "unsam"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "Fuerte temporal en Neuquén afectó los caminos de Vaca Muerta",
+        "description": "Fuerte temporal en Neuquén afectó los caminos de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcTBjRmNBWk1ESTVQZVp6Mm1BcUZZaXlKcXl3U3huUVNRLUpsaHFVN2FKT2NxNjE3eXljSGpqaXh4S0VKTDJGWFBtOElQQ2d2YXpMMlMzMjlnWEVZODJWTVFaaFBocE04SjFRSm14d1lERFExdmRHZlB2bFJoeVlYODlkcTU4bFBHcGZtOWxPclRzUGlGeEtOV1hKSjRxQ2FtLXk3eDlJbktpY2hucGc?oc=5",
+        "date": "2026-10-13T20:34:35+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras y la Ruta 5 quedó intransitable - TN",
+        "description": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras y la Ruta 5 quedó intransitable TN Temporal en Vaca Muerta: un alud arrastró camionetas petroleras en la Ruta 5 Perfil Temporal en Neuquén: en pleno Vaca Muerta, creció un arroyo y arrastró una camioneta con dos…",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTlmVm0zRWt0NTF4V2hHblhCMGNmbDNoTkFiYkVJbUpBbHJMSjV2VVBpWmNWQmhJZFE4RTQtc09tQ083QnhyWkZIcWVOMmZ5R1BUUS1sMEZuaTRQQUFFSW9zMjlZYldTUS1VdERKem5iOW1oWXNXTTYtVFh2VWFQWkctei1yQm5IU0pLRHZpNENPUEVQenpNWUVXQ2tMcXp6RjE0VjVNbW1VZ2lsYmpxSGl6Z01xSnoy0gHMAUFVX3lxTFByZ1JfbWtuODk2NUVMX0dsTEt1a3FrbU54dGJRdVFXc1FOYVRlNWVzSVJSczlCTE5lbXdfOWh1RVJwalZQZHlONHpLY1VXVHIyLUdhM0RMMF9CeWdSZmtiZWgtWmxPZTRBOUExbnF3UV9VcVlsMmdEeVlHTEFkdUdFUWNKOWFPam1uRHdEN2ptM2NxMkw1NGYwN0FDeWM2VVpGdEdwNUllQTdKLVFfSGdsd1NBOUhkQ3NwMUtubTQ2bUJsUDZuaWp6RWZfRQ?oc=5",
+        "date": "2026-10-13T15:23:43+00:00",
+        "source": "TN"
+      },
       {
         "title": "Pronostican un boom de exportaciones por Vaca Muerta y el RIGI: llegarían a US$ 180.000 millones en 2035",
         "description": "Pronostican un boom de exportaciones por Vaca Muerta y el RIGI: llegarían a US$ 180.000 millones en 2035 Clarin.com",
@@ -163,25 +177,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras en plena Ruta 5 - TN",
-        "description": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras en plena Ruta 5 TN",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTlmVm0zRWt0NTF4V2hHblhCMGNmbDNoTkFiYkVJbUpBbHJMSjV2VVBpWmNWQmhJZFE4RTQtc09tQ083QnhyWkZIcWVOMmZ5R1BUUS1sMEZuaTRQQUFFSW9zMjlZYldTUS1VdERKem5iOW1oWXNXTTYtVFh2VWFQWkctei1yQm5IU0pLRHZpNENPUEVQenpNWUVXQ2tMcXp6RjE0VjVNbW1VZ2lsYmpxSGl6Z01xSnoy0gHMAUFVX3lxTFByZ1JfbWtuODk2NUVMX0dsTEt1a3FrbU54dGJRdVFXc1FOYVRlNWVzSVJSczlCTE5lbXdfOWh1RVJwalZQZHlONHpLY1VXVHIyLUdhM0RMMF9CeWdSZmtiZWgtWmxPZTRBOUExbnF3UV9VcVlsMmdEeVlHTEFkdUdFUWNKOWFPam1uRHdEN2ptM2NxMkw1NGYwN0FDeWM2VVpGdEdwNUllQTdKLVFfSGdsd1NBOUhkQ3NwMUtubTQ2bUJsUDZuaWp6RWZfRQ?oc=5",
-        "date": "2026-10-13T15:23:43+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Video | Las lluvias complican Vaca Muerta: un arroyo se desbordó, el agua arrastró una camioneta y restringieron el tránsito en la Ruta 5",
-        "description": "Video | Las lluvias complican Vaca Muerta: un arroyo se desbordó, el agua arrastró una camioneta y restringieron el tránsito en la Ruta 5 Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdV9hTzNPUW44VGNsRVNOSXFZU0Fjbk9MbUdjUlNldUcyQ0lURWdpRkpqRXg1RFMwbE9jNnpuMWQ1NmtzNV9ZM0d1b3RZcXMzNWJNN1B1eVNIdXhFWWcyZTBGTkdZU2N1M1dTb3lOZ0M4TUVWeFZ1SURRWDRabUQzak9mSUVKZGhtTW11Y0JObjJENDNLUl9JaEgtRmQ5VDFzQXRITjhPT2tkcGtCdVJKR1drSlN3aUFyUmVmZy1FWmxkUE44ZXd2M2gxYXBNT0kyUk1PV081b0phRmxubHRlbnVUQ1pqb3A1TWxyRUFKVTRpTDJCeVZGMTFDd1ZMZ3Jub3NDaVJ4ZDhZN2vSAZMCQVVfeXFMTy1tWElfNk1yREtqNEVjektpTUdCOXdNa2JOSENnVEtQTFVGYUxjUUVJWUtvaFp5SUU3SGNCb1RrV1g5aDFvVjZEOEs3YXZ4YmdzY1pTOS1WX2VjaFRpdlVCa0ZjT2NzLUhwUjZtbWdxYjJIRS1sOUlUbGVuOXJEME9PeGJPYlBTeFgxb202dmV1MmRJdFo2STBTRDBwVjl4V1ZJRUw3emc2QmVSZV9UTDBPM2l3eUNpSTlqZkk0QXJfVUh3SGxCRG90WXN0d2NPWEZTaXZ0S3JFc0JYZVlKWjZZMlJZd3djQjFDS3BPcnVTTy10SnZueE11WEdtVmE0azg4V0VVS2ZOdlNxU1RzOENFQjA?oc=5",
-        "date": "2026-10-13T12:46:20+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Temporal en Vaca Muerta: así fue el momento en el que el agua arrastró camionetas petroleras",
-        "description": "Temporal en Vaca Muerta: así fue el momento en el que el agua arrastró camionetas petroleras Radio Mitre",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYW1kVkxJREdFdl9vZjJQSWxVNGk3dzlpWDVtdmM3SUw3SkUtZFpKM2pTcjlBMGwwVnBoU2VVX3kwRUl2Z25GNURxeGF0c2pWTXJLSE9yX0I2R3JpUEt6U1hIRjFYaWNTd19UeTJVcEdESEJJQWRZMGJjR3FFQ0JoWlMyQWp3R28tLUlaNHpDMGNNb2o1SGVxZ1l5SGItaXBJeXk4dC1iOEs4V0s2YXFLNGhleVBad3lGYlI4emhzSmtWMUt1V1E4Mzk4RmJ2MEtz?oc=5",
-        "date": "2026-10-13T15:56:10+00:00",
-        "source": "Radio Mitre"
+        "title": "Vaca Muerta: Impronta IT suma IA conversacional a su software de diseño de desarrollos no convencionales",
+        "description": "Vaca Muerta: Impronta IT suma IA conversacional a su software de diseño de desarrollos no convencionales econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3B1NElXUjZoZ3ZRYjROR3BlQXpjaTlKejdjOG5zd3FPTlFxT0VLQmxFYWFmb0F2WHpTUXdwX2kweFRpNjJXUV9mS09aR3VVWDVESFBUb29sWVNiRm9UcGhmenY4WnQ5Um5PQXFzTndFeFdoT0w4YmpRbXJwZG4teGVnWFp6QnBHVkMxM1oweGZEZHBDb3RKc181SDBnczRpUlM0cWFzWmtRVnhwTDBkRzNpUVZGdWZZbXZQdURSWndjeEd4ajByenhiS1QzQlNjMjdULVRn?oc=5",
+        "date": "2026-10-13T15:29:38+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Del pozo al mar: cómo Vaca Muerta transforma empleos y salarios en Río Negro y Neuquén",
