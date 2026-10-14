@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T18:15:19Z",
+  "updated_at": "2026-10-14T22:00:00Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,10 +10,10 @@
         "source": "Bloomberg Línea"
       },
       {
-        "title": "Microsoft lanza Xbox Labs: cualquier persona podrá crear su propio videojuego usando IA",
-        "description": "Microsoft lanza Xbox Labs: cualquier persona podrá crear su propio videojuego usando IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3AwOGpFWFNuRzVNb1YtTUFPLU5ZTW1yLTRvNWgzSU03WmRQOUZ0UXZEZms2T2NFTG5zMnZ3aHdvZ0MzRlNjYVdXMnA4aDlqVWVlMXV3Z1AwQTVtWExmdE45V1dwZVN2X2xwNWdWNVJxNGFsODNGVUQwdFVGR0N5SUpVZlVYV1ZWaEE0R21sY1B5WmsyTkUyX3Bnd1B1LXVOWU1DelYtcGRPTWpFMEtlS1ZlRFRscTk2UFhsODRPSmdnM0VfX1dr0gHiAUFVX3lxTFBEdkhMLUs1OEdFZkJ6ZGhnSFROakJYVFJqOXRjUENCR2lxWTYtSThGaWllX3BxUHUzVWRLWnc1M2ZzRHAzblZZZEk5MHQ3bnBmVGhxaUZJbXNUbGxMMXZyU0ZkaHlkVVJPV3pScmVQckhBUWQ4T0daZEgzTTFvWXItUC0yeURveDVNNjdtdWlBMnRoa2Nqc3FZOHgzY0ZxRDdJQU5nQWhRV3FVNjVkT1dYekg1bWphOFlnQnhCNzlhLUZHdXlBaDRHWGwwbVBHc1Q4TFZIQXlZbnJ5SUxxT0tXQUE?oc=5",
-        "date": "2026-10-14T12:28:07+00:00",
+        "title": "Microsoft crea Xbox Labs para investigar mods y videojuegos generados con IA",
+        "description": "Microsoft crea Xbox Labs para investigar mods y videojuegos generados con IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjVmUkhmRWMxdUNsc0RvT3V0ZUpOV3Y5c1lmdlQ1TWpXTkVpSXRoMjREMmNnT0QwTnQ3QV8zcl8yWC0zdHlTWjFpM0ppMW91djRNdjFQby14SGYtRXYzTTFwQ2RwSlg0WEZyREtZRkp5eG15ZS1RM3VhN1ZTSFJLeUszVTdqMW9mZXVMRnNxbDU0YVBHampkTFF3OGc5cmVTbzlsdWtqSXp1bkxEaktmUXRmelVfS1JfVWcxdDktQnRnVkM1VGfSAeABQVVfeXFMT2ZkTGQwLVYwTzRQbjBEampnV0hYSGJMVnJWRmFRUjdkVkxYaG80cmloVzhxaFhQbHM3REdCVTNvVFlvYVBYNVdaOHJKNnBEMlMtVG84R0pNcDhXZWdwQWZyay1ueEdNVE5aRjNXX01mSWxRcVZhOGNMbFpodnRYb29mOWpJaG9CdEJ1Y2R5MWVFV1R6YUlwOEFvTlhBRVM4aThhaGNBNUFPSHpDWW96Y0Zib3YxQVM1SGJ3Z292blVwa0Rad1ljMl91RGNzUlFOem9aM295NzNsMVhhNEwwbUQ?oc=5",
+        "date": "2026-10-14T20:26:08+00:00",
         "source": "Infobae"
       },
       {
@@ -45,14 +45,28 @@
         "source": "3DJuegos"
       },
       {
-        "title": "Microsoft anuncia Xbox Labs",
-        "description": "Microsoft anuncia Xbox Labs Eurogamer.es",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GRU9sajk2MkJwbTFWZUNpV3hrN3ViblU3NXFhRjlaUFZKNU9KMGFGakU2T0p2RUw2YUtuODBHY0hJdmNYT3pQU3pBQmhmaVhUa3c0T01hMkV6Sjl0ZkhxU3JB?oc=5",
-        "date": "2026-10-13T22:54:11+00:00",
-        "source": "Eurogamer.es"
+        "title": "El Windows 11 que Microsoft no quiere que conozcas: solo consume 2,5 GB de RAM",
+        "description": "El Windows 11 que Microsoft no quiere que conozcas: solo consume 2,5 GB de RAM Computer Hoy",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHpfQUN5cEhyZzc0amlrNkZYQ1dCRGVyNTN0bUZKVGU0cmxnb0M0dWNLbmk2WnNZWnhWNS1ySGtsYlZwYTBmbUZlTGlWUVhxUlI1VlJ6VEhPSzhBV20tbGxBZlRZM2tUY1lWOUhVYzZta245TTQzM1hTOE5zZ0ZKa0hKNVg4Mm96bFZCaVlvck1RV0tBU3pBX2g1VDlIZUhGU05YUlpQSzBmVXBZcmkydFA5UGgyS1pYZ0NrQnQ1QnZDU0tEU01V?oc=5",
+        "date": "2026-10-12T18:00:00+00:00",
+        "source": "Computer Hoy"
       }
     ],
     "Marketing": [
+      {
+        "title": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital",
+        "description": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital DossierNet",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5yWnRMME43TUFrME5ZZjk2ZFlBNVAwcmdrZzFJREd0QXI5a2JjNThOcWw3SEF4TDNMRUxaTXFsV2NfUnJXV0s1cmNDenhtWkhLOVBxOWZjZVFPWmIyenIxYldDSFRmODZvUjFFaTRQcVdxUWZROTBEaXVqMXVCQmtZR2RzTWRVc0xIMlhnX292MUQ2RGhSY0xFWGo2ZjBTZkprMjIxVQ?oc=5",
+        "date": "2026-10-14T20:25:01+00:00",
+        "source": "DossierNet"
+      },
+      {
+        "title": "Las 4 mentiras del marketing digital que hunden tu tienda",
+        "description": "Las 4 mentiras del marketing digital que hunden tu tienda El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRU5qZ0FGTTdmUFY2Qll4WHNmMjA5YnB4a3NYM2VSQXBHeVQzdlI5YUZYM1lMMWNEQ195Ni1iT2hQLTRxZVI1a1lMU3QtcEVWREpxeU1Qd1dOU0NBd2VLQWVRSTQ3NnlmZzZZLUNQaXJoa1BFeEkwR21kbnZuN05YNXBBS19kNXN5YW4zUkt1bzV4UQ?oc=5",
+        "date": "2026-10-14T21:06:43+00:00",
+        "source": "El Ecosistema Startup"
+      },
       {
         "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
         "description": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón generallavalle.gob.ar",
@@ -61,18 +75,18 @@
         "source": "generallavalle.gob.ar"
       },
       {
+        "title": "Utilizar la IA para vender más: Una interesante propuesta del Centro Comercial de Carlos Paz",
+        "description": "Utilizar la IA para vender más: Una interesante propuesta del Centro Comercial de Carlos Paz Carlos Paz Vivo",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTlZSVpRelU3UmdnTEZUTmZjLVhwU3NXM18wdktqd2RNMkstVl94aXNBWHRBNEtRbURlSklGeUI4Rkl2MFlJTGdUcVRrNVdUZFRncmtrb2piZzRUUGIxSjVYNTVVcmc0QkN4c21VNEhiQXl4YnE4R2s1T2xhZzRnMGJTYncyeTNfTk56OVhlcUNvX3RTUTJEWE8yRW12cVVJUGh1NGZFVmp1cHY5Q000QUhSblZpUzM0SkotUnpPVQ?oc=5",
+        "date": "2026-10-14T18:20:55+00:00",
+        "source": "Carlos Paz Vivo"
+      },
+      {
         "title": "Taller de marketing digital para potenciar las ventas de las emprendedoras",
         "description": "Taller de marketing digital para potenciar las ventas de las emprendedoras El Ciudadano de Mar Chiquita",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTZ1Qk5vOXhnQ192N29JUktHcU9Pbmp2ejl6WWFLUHJQckRRLTdnZDFpNU1tS28yRjkyV2ZfM2tnNzd0MGowQUR2VmJzSVJ4QWtadmMydWlKMV9FSlVlRGpxNTFwSFRxU2FvVlRMY01yS0t0WWNHc1BKX3F6MlllUVI4dEUwdHR3SVRjSEZ4ajg0eEhHYVRhZ3c1bXdnRWZPaWpRVEJUSFlUZ3d6RFBZQzB3al9Ic0pLalV4emZ4UQ?oc=5",
         "date": "2026-10-10T22:58:58+00:00",
         "source": "El Ciudadano de Mar Chiquita"
-      },
-      {
-        "title": "State of Digital 2026: IA y marketing llegan a El Salvador",
-        "description": "State of Digital 2026: IA y marketing llegan a El Salvador El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWRkR3dOLUZ4UDNxSWd0dU9NbmRVaURzVDlCeXN2SUo5ajloRVJwekwxUzhISTItUm1hb0FSb3FBTzAwalhyRm5RTkVPVlZLUmQzZldNd2xqLVZpM2plTm1CSkx4dmRlb3U4NGw1YXZkdUdIbG14MkxtYWZkR2lPOG9QVWVFakVVRkpkVEhCWnpLdw?oc=5",
-        "date": "2026-10-14T11:21:42+00:00",
-        "source": "El Ecosistema Startup"
       },
       {
         "title": "21 estudiantes cursan la Diplomatura en Marketing Digital",
@@ -87,20 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42M2F1elE1c2lMMFp4c1pKMjdoQS00ZnVuaEE0eGFtd0pWb1lGWWd1b09STjBJckVvVHdpUGxqY09BS09KVEllTFlseGJqeE5WeUNvNS1CamxXQ1NhVXAzeTVRVTFaVUdtelJCclZ2Tk5Jc1FoQXJyUw?oc=5",
         "date": "2026-10-14T13:27:00+00:00",
         "source": "Forbes México"
-      },
-      {
-        "title": "El fin de la marca como discurso: comenzó la era de la autoridad verificable",
-        "description": "El fin de la marca como discurso: comenzó la era de la autoridad verificable CanalAR",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHYwTlZRTV9MN2tnWXFaY2FZYmZadHcwT2ZfQklITVZOOFA3ZkpJUk1wNHZkaDU2VHM2RzRTNWZFbUlBSVRheHFRRkNlOVhBaUtDWnlzaEZKYW5MZkdwcmdwV1NGUzVFRm9fb3FpSUY3YU9mZ3JCT3BLM3oybVAxMExENzhGa0RSaDdQM3FrZzBUbkJER0E4dW1BSVVXbWw1WHVFOUQ1c1gwd19OM3ZRNmRvRjQ?oc=5",
-        "date": "2026-10-13T13:44:51+00:00",
-        "source": "CanalAR"
-      },
-      {
-        "title": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL",
-        "description": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL misiones.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVOVEtKeDQ2NUhHNXhxdlFYd0U1NmczTmo5ai0tN2lRYWdlXzByTUZLWlJyMWdDc0UwSnhlbkotZExjblhlWDZZNGR6eC1wRU1CaGJGWEM4MFNuQ2FKbldVcDExRUZnRnpYMUFRS2tfU0FQN1NDQ2hHQUNvcUFhVmlFSTZtVTI5YzVWa1hWdm9sUm9GelpfUHFfeWhnQTlwTXQ2bg?oc=5",
-        "date": "2026-10-06T07:00:00+00:00",
-        "source": "misiones.gob.ar"
       }
     ],
     "IA": [
@@ -119,18 +119,18 @@
         "source": "National Geographic España"
       },
       {
-        "title": "La inteligencia artificial se incorpora al monitoreo de fauna en un área indígena del norte de Australia",
-        "description": "La inteligencia artificial se incorpora al monitoreo de fauna en un área indígena del norte de Australia Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR2xQRHBndFd6aEVlOTlmX3NHRDdqazUyOEJXMzdCR1BhX0x5czV1S3BtWmprNDYtbGxISVlaTjRRVEhKdmp4Ym9lUFA1WXFobVQ3RUxxOEZtRWJ6MDRvcFBYaFYyV1FLSG5UTzc4eC05N01VRHE3bHdqcklGN3dPeTA3S04tN2JnVlV0QjdYX1pXN3hlUFZmeUJyRFdBSkhsd0Jma09EN2NIb2Q5QmNHYnd1UVhMMHdGc196WVJObm9zaWhsbF9rdEROZXlWWTlxVWk0eVJrWENjbENyb3VWQVFpQWRVbUROckHSAYQCQVVfeXFMTUlldWFkNWlvMnNZQTdZNWdVLUxlc3dINVVXUGJpaFlTT3dIejdZaXRTamFCdmc0U1FMTHgzdEJ3bnYtOGxhMFlpMGxxenlaUkNqeTJVYVFpcGw2OExOa1J4VEExcFNuczZ5cmQ5VnZNendHZ3FuV0pqRVhhUmlla1NBbmNzN2tDNHVJQUJhRGF5MEhkNlQzc3NiVEJGa1EwdUotaUxoSmVPb3JFRlR1VXY0OHlFVmw4N25tUFBJbGpwLXZnbVNoaU1BQ3Z1U0UtT3NLdEIwR1Y1dnFTZFlxV0hOZ2tWelM3S0hhREg0LUpQYTFmZ29EN3FMazNWUGhSVW16ckk?oc=5",
-        "date": "2026-10-14T17:13:50+00:00",
-        "source": "Infobae"
+        "title": "RDC: una prueba con inteligencia artificial de Meta expuso diferencias al generar imágenes de Lula da Silva y...",
+        "description": "RDC: una prueba con inteligencia artificial de Meta expuso diferencias al generar imágenes de Lula da Silva y... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNDFOajZZdE0zMFp0b18wVkRXbWE1LWdzNFZ3MldGWTA1Sk1ySkZ5N3FPSUE5T09ueVVVSVFUUlE4b3NrYkFndGVERXN3bERjMm5rRW51S3BURDZlODdJR09TQXNTZzVrX2pvSFQySENVM1NFZU4yWVJySjI1ZVNPWEc5Nm9xMzR4ekZ4d24tUlQxRDh3YmRVWG9oNW5PSmpSc09XOWkwYk5JS1U4b1QwV0pmSGltWm9UOWhvZzlJbjNtZzE5LXkwQlYzVDB0UdIB0wFBVV95cUxPdTUwNEZFUFgxS2xEUmh2Z3NjSmUyOVFhZTB6Q01yU2FiVnRBdkduM1NkaS0taTBlY3RvdzNWSmNPamhJZ0NwYUdET0Fra3N4bFBNOHdheVdpMGduOWZONlBTVlJ3VVJpSGpQbFJEUGh6X3RvUDF5dW02MU5oMmFPZDF5bGpyUmZacE51NVpCZm9oM2xtRVVtTGVVVEtKYWk0TGI1QWpxMWFzYUpLVzExaFZRZnFINlJuNWl3LVhVZ2prb1ZfeDlYSHBIcFZha1JMcXYw?oc=5",
+        "date": "2026-10-14T20:23:47+00:00",
+        "source": "Perfil"
       },
       {
-        "title": "¿Cuándo conviene pagar por una inteligencia artificial? Las profesiones que pueden sacar más provecho de los planes premium",
-        "description": "¿Cuándo conviene pagar por una inteligencia artificial? Las profesiones que pueden sacar más provecho de los planes premium Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDhTS3R0aExvN1pwQzByNXhSN3drY1U1VW9RRHFPMlBDTzV3NHI1SEotT2xWT1V5TnVuNjlMZUNfUVdwUmZId0V5eUpNZjllLS0wa2NjLTN6SnJxSTkxTmRyYnMwWjBSUFFWcVctVmJxdWdVeTBvaFNYTGpFWUFvaENRUENuNlMyelhHT2xOMk8yekhHOVZyUzFXclgwTHRadzEta2QxVndvd0pZVWpndTJBX3dsNXFxUUFmZTNfM1AzU1hSREg3ZlVsbUZLczBnZ2ZUOEFR0gHbAUFVX3lxTE5jckkwMUE4T0pJSDhzLVJfM3ItX3pieS1peGNaY1BRMHN5SXRvRUo5UzRQVXR2WkJpWmdxb1BoNlJHNnQydFVlQmRqZm5HanVsX3N3SXdPRUM3Q2JsanpIc2RuRWUxZFE1RVRFc3RiVVhmM3NfRlUtRXFKd3c1QWJrTzFQOVBlblkzeUNVcVptNnVWMzdLM1VhcXpGeWtEZTc0RWJDT05jNXVVc19CYkdqazI2MVZHMzcwYnhxV1FNWVdEc3F1TGQtREM2Vl9QaHNtRXIyUWxGRWc1aw?oc=5",
-        "date": "2026-10-14T08:46:53+00:00",
-        "source": "Clarin.com"
+        "title": "Antes de tocar “Permitir”: las preguntas que hay que hacerse antes de delegar en la inteligencia artificial",
+        "description": "Antes de tocar “Permitir”: las preguntas que hay que hacerse antes de delegar en la inteligencia artificial Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQUhQZjV6dGdzblAtYm1qcUhhNERZay14Q213amZ5MGNONmIyMFkzVmhYOW5fbVp3cGFIUHMtTjRzUmF5czE5VXJ5a0NZcDZ3MF9GbFc4SkdxbmxsMWlsS3Q2bkdnWGRiOGsyTjZ0MklyUGNYa1luR3FzazZfTnFvSUtkOVV2M2VLX2ZZSl9mOVNCRFNNU3ZjX1N0QUUtUl9PdkF4eGx4a0Y1bDJpQklQMTgwbHZLOVdTVlNUa2hWMlJqaUMta2RmOGxQX3dXcEp0M2R6LWxubWw5R2l4Ym5JUzFhaEfSAeoBQVVfeXFMTnJmOXVZeUFTNnVDOG83VlI2RGxFWlNZZm92MEV3U2Z5U1FuQzVxS1pGb1pvN2d4X1BIVmZNSEtEMFdoNUZpTl9odHJzNTZOZHQtbGcwUXpOWXBpcG5mYlhuSFBlY1YteTZEcHl6N09RajZFNlJ4TzRRYkJ6UERCUnl6bnZqd0hjd21GLTlwMFFFbS1UWFZoWHExWmM4V3pyZU1sU2tqVE9Wdzg4SnNvY0t2d1o5a3Q2ZG0zWDN2cWU5VW5UZUNabEFxenR0RXMwdFh4Z0JCVkloS0VzWUY2ZFNIR1lJbWV0OGd3?oc=5",
+        "date": "2026-10-14T21:13:23+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Chaco: Gendarmes detuvieron a dos hombres que mediante Inteligencia Artificial planificaban un tiroteo masivo en establecimientos educativos",
@@ -140,34 +140,48 @@
         "source": "Argentina.gob.ar"
       },
       {
-        "title": "Chaco: dos detenidos acusados de planificar con Inteligencia Artificial un tiroteo masivo en una universidad d...",
-        "description": "Chaco: dos detenidos acusados de planificar con Inteligencia Artificial un tiroteo masivo en una universidad d... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORTM5Ml9aX3I4dHNUdnl3N01kZF9DNzhUQXViSHFRZWdkVlFNLUxRUi1rTVBERENzUXFDdm9IQ284cFdEdko5NnZRX2hYRy1kVDN0T0hKZF84UnItbG10bGNqZVpaczlRajd1d0RlLTZiQllpZUtQd3RVS3F2QjlaRzVtNmtkeUpla3ctaVBiUU1OVEk4dXFYN2pNNjQzVjU5TjRfV1FYYmR0MlZmcDJWYVkwNnNvLXQ2eHJnazBteTBzWnVxVl82aU1ab1FLMGZrRnVKRHRLTGNjV1BGekNxQXp4Y0RseXJxb0ZN0gHwAUFVX3lxTE1rcE9nMWJCdTV6UGU1VW5FY09mc2swTnd3Tl9YVXE2cTVYNS1PaWotOUNrU0ZuS1dlMnVXaWpfMGdyeTJmQU9jVDloMWVMdGtEVkhoYTNMaU5sdmsxU2VycjdILWVnbXU3VTdscm9XZ2ZESmFvaG9jcUQwejFnZEJiTGg3andzWUxCOUhQUC1DSGVqa1I3LVdfRzVEU196UXRkbXVPejNqV3lvQzRCa3N4WFVlS2VtUVpaZW5nRk9HVkVPb2RIMDBBa0xTa1cxelpNTmNTaFgzdVdKYWtXUG9pTmJEQWFtbXROUVVDdWRDdQ?oc=5",
-        "date": "2026-10-13T21:42:00+00:00",
-        "source": "Perfil"
+        "title": "Alertan que la IA podría generar “incidentes graves” en poco tiempo más",
+        "description": "Alertan que la IA podría generar “incidentes graves” en poco tiempo más Página|12",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3MtM0I1c1JELUJQLWhyQ2NPUXZVWHYxYktZSml5YjNDNnVEVEVCQmpfRjE2RjhGTzA5bG9MWjJ4VHpUQ00wcWpXNTJLTk1ncEw3RjU5Z1V5WWNMdHRBQWltRkpDMDFuSUZpbThuSDhKZi0tMnFVSE1KWmhTODJSWmdGb3JvenVqT2I0ZkplYTlVMjltU2U5dzlWWGdIcFdrQVhFWVpPaVFqQnJIZFE?oc=5",
+        "date": "2026-10-14T19:33:32+00:00",
+        "source": "Página|12"
       },
       {
-        "title": "Alerta del FBI en Chaco: detienen a dos hombres que planeaban un ataque armado en escuelas usando Inteligencia Artificial",
-        "description": "Alerta del FBI en Chaco: detienen a dos hombres que planeaban un ataque armado en escuelas usando Inteligencia Artificial El Liberal",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSEVSdVRhLXFNWkJvajVtdjNVQnpjTzJvVlpYV0hnOXV3WGFMNkgxd2RUWHRkRWtBTXVBYUpVNkJtNW9STFlFVkpjR1dNM2NELURZNDFiaV9JM3BLcGpZemQtSzNvRWZjYnNoOHRLSGtTV3BTTFJZSWgzYnFGdThITVFrRlZpU2RjWUF5RlBWWGFJTjBhZU9KZzlvaEtRdDJSb290WVM3R19wNENWRm9tTkhuQXhZZ2Izek5fUlJoM0R0c3JRU1UyYWx5dFlWeHJmQ2Fyb1pjUUU4dVVXM0FKVS01Q3FzLUU5YTlQdWs2dUlETUFXVUhRb2YtcU1QUdIBhwJBVV95cUxNbExnNmVpTlBpcEh5aFpidFNDZzhMREZoMkc4cENQWmFWaVBpbkRxU0dfMVNyVExmX3RESzM4N1U0cWlkenc4UW9jVlhaY0RERThNMkZWQmJoMDFqenAwX1NUQUNOTzhVVVU3NzFGdGo0WVVwY0Z3YlBzUERIcmJody1KVjhYNUxKZEwtdkNpRzFOOHZ4ejNEbm13dHRWSldiV2UwZmE0eTVEMGtMNnRPWWtfMHdzMV9DVklZZXBxOUdvd3d6bFMxTXdrV3FlRTN4N3R1ZjhqUHNLbkhHTDFlM3VyWU1ZdmFJRzhOUVNTQlpCVGlSa1RIS2dlejRySWptWHhuMXNXVQ?oc=5",
-        "date": "2026-10-13T17:26:00+00:00",
-        "source": "El Liberal"
+        "title": "¿Cuándo conviene pagar por una inteligencia artificial? Las profesiones que pueden sacar más provecho de los planes premium",
+        "description": "¿Cuándo conviene pagar por una inteligencia artificial? Las profesiones que pueden sacar más provecho de los planes premium Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDhTS3R0aExvN1pwQzByNXhSN3drY1U1VW9RRHFPMlBDTzV3NHI1SEotT2xWT1V5TnVuNjlMZUNfUVdwUmZId0V5eUpNZjllLS0wa2NjLTN6SnJxSTkxTmRyYnMwWjBSUFFWcVctVmJxdWdVeTBvaFNYTGpFWUFvaENRUENuNlMyelhHT2xOMk8yekhHOVZyUzFXclgwTHRadzEta2QxVndvd0pZVWpndTJBX3dsNXFxUUFmZTNfM1AzU1hSREg3ZlVsbUZLczBnZ2ZUOEFR0gHbAUFVX3lxTE5jckkwMUE4T0pJSDhzLVJfM3ItX3pieS1peGNaY1BRMHN5SXRvRUo5UzRQVXR2WkJpWmdxb1BoNlJHNnQydFVlQmRqZm5HanVsX3N3SXdPRUM3Q2JsanpIc2RuRWUxZFE1RVRFc3RiVVhmM3NfRlUtRXFKd3c1QWJrTzFQOVBlblkzeUNVcVptNnVWMzdLM1VhcXpGeWtEZTc0RWJDT05jNXVVc19CYkdqazI2MVZHMzcwYnhxV1FNWVdEc3F1TGQtREM2Vl9QaHNtRXIyUWxGRWc1aw?oc=5",
+        "date": "2026-10-14T08:46:53+00:00",
+        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "TGS, cerca de cerrar un préstamo de US$1400 millones para su megaproyecto en Vaca Muerta",
+        "description": "TGS, cerca de cerrar un préstamo de US$1400 millones para su megaproyecto en Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaFFZeUl3Nmk5LUthclhwX0FGTTFmVmY1dmxfTF9JVnlkMTJ4NzM1V0JjRUp4LTZvOGpnSjRUdG5kZFV6eHJqajlVR1lLa1UtUHpKdW5STFFnRklkaGNadVBCeFFmWEFINV9tRUpVREhQVzM2WndIRmFwVU1yMzZUaEdyMm1HUDgydldGejluTmQtdzMwQno0b3Y4Z25PWXI1aTZ6RzBzLW5KMC1RbDZWZVN5QjFQd1RRT2cyeS1NNXdMWkl6MTVyMTBUMi1rZ0FwR2c?oc=5",
+        "date": "2026-10-14T19:22:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Dante Sica alertó por la caída del empleo formal y advirtió que Vaca Muerta y la minería no alcanzan para comp...",
+        "description": "Dante Sica alertó por la caída del empleo formal y advirtió que Vaca Muerta y la minería no alcanzan para comp... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVTBqNHRxZmYwdWdQQUtPSm5PaWJaN0xOVzA2Rkt4bmZESEdxTU1aVkIxWlViUmM2TDdPX29uZV9CcE1RMzdZZ2o5RWZ6b19ZSkJ1dGdBZWM5c3h0amNoX0phcndvLWRtT1BVVl9ZZGkzVU4yaTBDMkNhZDZ3MU5Kbzd1YnNpa3M4ZHJVb0VoY1VJNTU0aExTaThXaUl4ZUtBUnppZFpwb3p1RWVHNm9TZkVWU09GNDltWUxTWnVGNGx4ZjRXZ25wY0tMdTRyTEpvOWNYamtSNlgwSU8zRHBoS0EzLTM5eGdWY3NiQ3ZabUxyMEh6ZV8xMFptcUVUT0FZR1VFc0dR0gGLAkFVX3lxTE1EaUpxaHlDRUVneUFKc0pKVzdfZ1pZVkFSYnRFMWFiWloxQWVLaVg0WVBCakF3N2RkZzJQZkM4M2dqSEtEc3NrZWRRajNKZGhiODdVak9KYlUzWFYwZGlfS0ZNd0xxT1lkOVVjNDFtdDVPUnU3TEN4aGJOY1ZiMFFCMWNuR3FZWWpjWWd2NWRBQTJGRXhpOUx3ZHNaR01fcWdhOXhWRTN2ZFpPd0t6Q1dqQjZVU2JoSXlXbFB6dkI1NXdiQW1pVWFoX09YNmZOZzF5aUMwSmlhenRfVFF6VEZNcHFCZno2Q0tteEdwSGJuTmJqSVpIVkp3ckI2WGpsXy0tcmpYRFJSalVMMA?oc=5",
+        "date": "2026-10-14T21:00:00+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Del pozo al mar: cómo Vaca Muerta transforma empleos y salarios en Río Negro y Neuquén",
+        "description": "Del pozo al mar: cómo Vaca Muerta transforma empleos y salarios en Río Negro y Neuquén Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2pjTjVicE8zLXc3YWtTMXFJNUZKOXBUcTF4WXJua21KeTJYRzBLY2J6RHUtdExfNzhYT3kyLXFSVUNrR0VnTkNfZEpoekI2ajV0dy15b1ZkSUZsOEJlQjBtY2lwRklFRW5WQ1J1UlpYRmZtTG0zaEhsOHlOSGVSVXkzYnBZemlWbEVPRFNUNTFwTW9sUEZhSzc5R29EX2ZsMmV0N2xmQ251REF0MHE3dkwtb0l5RFpORE9zeEZHcUN0aThMRkFxQ2tR0gHPAUFVX3lxTE9kVHhJUlBpOUpSeGd3cUItdGRNU3NjX2J6RUlIRGF6Q2hjZXI5Q0t0YWtoT2prOHpLOHhHUmdIejRBQlJfeGU3emF5MW9vbi1DSE5kQmp5OUEyekJnQXBaV3R5eXE5T1NZSTFQUVdtdzB4SGVjUGwtUjg0NWxSLW41eE9tWTljWE9kRi1GZnFaNlVicmUzNTRGRDh1cjltSS01RjEzWlZiM2Y5bDV4b1JxZl9qa3hUbGNqTHEtcHFRYjBtRFQtdzFTZlQ3aTZ3MA?oc=5",
+        "date": "2026-10-13T14:21:00+00:00",
+        "source": "Lmneuquen.com"
+      },
       {
         "title": "Vaca Muerta podría invertir el flujo y convertir a Bolivia en comprador de gas argentino",
         "description": "Vaca Muerta podría invertir el flujo y convertir a Bolivia en comprador de gas argentino El Litoral",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblpTZ19QUUdOUVBhQW5PTVpIdFZVQUVsZVlGd0s1M2Y5VVFBdUJxMktZV2VLdm9naEN0MVJFUEdsNjVRekkzRllYY3VLdUlYd1VpQ0NQeC0xM2RvTmFNdC1hZXRZYUlDcXdUcGdQUzRIOUJic1J5VDJtLUh4NGRueGxseGJDeGZFWGRqQWhnUzNuT0Vlb1BLZUVaMTNxeG5CbmZkdzlGSGY0VFE3MXhzRmRCemFJakhIbk5nR21NdklRay1Zd2V1NGdGcUVQQ3ZqRzJkSTlxTQ?oc=5",
         "date": "2026-10-14T17:48:06+00:00",
         "source": "El Litoral"
-      },
-      {
-        "title": "Vaca Muerta avanza hacia la exportación de GNL mientras el BG Warrior estudia el fondo marino en Río Negro",
-        "description": "Vaca Muerta avanza hacia la exportación de GNL mientras el BG Warrior estudia el fondo marino en Río Negro Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZGF6aGhEdVJfeml2WFZxZ0NvNDlkZlIwNzg0MnBWeWk4MWFyT1RBOWhKMVhfODlfTzZuWWJheUhjTUMySzF6dm5KZmh1ZmZRSFNVc2ttNW5uRFkxYm8tRWNVM2twRTlpOEpRNk1IQWhmNk1vRGdFeExmWnVQNThnOHVuMF82QW1nT1lqRTczWXZHRkc1T0pwMy1QTW9BYXVseHlZbmpjSGlFSjllRmpVcU0tSEM3ZnZ2TzNUZ29FZDF6dnlGRjIxaWJJcTJKejUzdloyNWdPQUIwY3hUSlZNeFhiZFhkWVFLcm83MWFlb280MEE?oc=5",
-        "date": "2026-10-14T16:14:26+00:00",
-        "source": "Minuto Neuquen"
       },
       {
         "title": "Argentina podría volver a exportar gas a Bolivia en 2031 por el crecimiento de Vaca Muerta",
@@ -177,32 +191,18 @@
         "source": "Los Andes"
       },
       {
-        "title": "¿Pueden volver a sus provincias los que no consiguen trabajo en Vaca Muerta?: la situación de los \"varados\"",
-        "description": "¿Pueden volver a sus provincias los que no consiguen trabajo en Vaca Muerta?: la situación de los \"varados\" Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakdvX1h6MjA4dTJpR2VjREZ4TnFlQ2F5V082bTJFcEV2eE9QbmprM2Nhc0lNcGc2YW1OT2ZjczMtNVRJYmhQZENLRXJRQWYtS3lBTkhycmVGYmdTT3J2ZURMRHNZM00wY2JLUnlRUG9jNUNMc0tnZFplMWxibWx6di1sclVWODd4ZExnUGJzMFlhOXBXNFcyUlFEN2o0M1h1V25vWnhoUnliVlpvYURMSXp5cHNJS283cVNFN2tmNlFjOXJBaGJ6TWlYQXRPMU5qZF8w0gHYAUFVX3lxTE1EazB5OUR4TUlGd3BWSDc2NjBZa0RFMFhuUFdmMlowMV82YTJ4OEtTbl9vYTJRNWdFY3hOaklDSzJvNmY1aE4tN1pWbXJnQ3BqeUdlVTJtSmxlOExycmdJUjBaT2Z2Z0tZTXBGckNQQ0JiU2tfellTX1kwQkhwNTdnNE9tN1JQWHNsSFRjMFBXN0xhUWFhdnhnQzYtdHFkSks0Q2RMcG5uV3FLSXNMVUthSUI0ZnlmNkpNeHpHMU1HSzduQnhRWno2b1hNeXdwVHJPUGlBY04wMg?oc=5",
-        "date": "2026-10-14T11:41:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Vaca Muerta avanza hacia la exportación de GNL mientras el BG Warrior estudia el fondo marino en Río Negro",
+        "description": "Vaca Muerta avanza hacia la exportación de GNL mientras el BG Warrior estudia el fondo marino en Río Negro Minuto Neuquen",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZGF6aGhEdVJfeml2WFZxZ0NvNDlkZlIwNzg0MnBWeWk4MWFyT1RBOWhKMVhfODlfTzZuWWJheUhjTUMySzF6dm5KZmh1ZmZRSFNVc2ttNW5uRFkxYm8tRWNVM2twRTlpOEpRNk1IQWhmNk1vRGdFeExmWnVQNThnOHVuMF82QW1nT1lqRTczWXZHRkc1T0pwMy1QTW9BYXVseHlZbmpjSGlFSjllRmpVcU0tSEM3ZnZ2TzNUZ29FZDF6dnlGRjIxaWJJcTJKejUzdloyNWdPQUIwY3hUSlZNeFhiZFhkWVFLcm83MWFlb280MEE?oc=5",
+        "date": "2026-10-14T16:14:26+00:00",
+        "source": "Minuto Neuquen"
       },
       {
-        "title": "Golf, río y nuevas viviendas: cómo es Los Canales de Plottier, el barrio que crece cerca de Vaca Muerta",
-        "description": "Golf, río y nuevas viviendas: cómo es Los Canales de Plottier, el barrio que crece cerca de Vaca Muerta Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVcwOG1qTXZlaWFMS3BjSlNPYlhjRUlxREMxUHF2RlhLVWtyOXQzYTNONVk0M3RqSk81RFVIMEVVbGp0YjFjTVUxeUl6TUMyUHJmOWZPazVjZDVNSGFXUUFWa3hPZmRYaENFcWMxczJjeC1uWVhtbWNsWWlCX3Z3MXgwaHI3OEpmdy16U2JIY2FIVzNQWDhXNklEMHVKUkd2ekx1cEFKc2F1OGEybTFDX1dZdWxEYWxESmtzNGN4amUtSUtuMUFFN1g3TDZfaldJZEJHYdIB2gFBVV95cUxOZEYyc0hUVHdEOTJYSGdIMW9rb19YXzUyWkhVNEZyVE8tMkx6THR2ZDAxTnZXX2pkbm5ta1VsRThuLVhjZldIWmc5M2RWS29ldURaYWRnUjhIZWdmc1U4N0gxV0tBdmlTeUhuZHFFdmRIZ1JmbzAyRlJJYk1VQ0dHYlQwa1FESXhGdDBUdkt4dE41cFp3LTZOVzRvM0xad0stZVdNdE00ZEkxR25JUnBrenAtU0pxaUFFYk5nRExfenNvQkh5VzBwWGF5MzFwMFQtYVRkcDJPTmZiQQ?oc=5",
-        "date": "2026-10-14T10:00:00+00:00",
+        "title": "YPF puso en marcha una obra clave para acelerar el desarrollo del Hub Sur de Vaca Muerta",
+        "description": "YPF puso en marcha una obra clave para acelerar el desarrollo del Hub Sur de Vaca Muerta Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1d2Xy16MWJDTVVvZ0ptUFJKbmNzRmtHLUxBdjhUUXF1ZlJ6NWFvdEZZMk0yVkJNcFBGN2huN280NTk2NE1KLWVZdFdMUUp2TjhfT0diTVB1dC1tYWVYblBieDJELTJDSlRRcnh3LW14WmFsYWVvQ2Nyd1BZb3Z3d2s0R3V2bC1SRVoyUzJzMDgxcFJpckgxaTdzbjhUcW9fdDdvNUlYNmNfZHduZVdIODAzcjVhTzVxN2fSAb8BQVVfeXFMTmJTb290VlFmcUdTTjZhZXBxcDRsYU9yaXB5bHBYZlBOSC1ReVNRdTczczFsX0gzOGVJOFJWbHlMUk1JcDUtbGJWUlFpNjZmZ2xIaXJjWjVPZ3g4cnpRdWJ1S0pyVU1lbnVlQVRhQ3AteGdwbGRnLVg4eFU4TUhuRDBKWUlEallLRjgyOGNsLTBBQnRfcnRNaElHSTF1YzdzZFFVY0VZUVJDdFBHRHNsN1ZSSThRY3J1TFN0TVN5SzA?oc=5",
+        "date": "2026-10-14T16:19:08+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "Agua de producción en Vaca Muerta: el camino que ya recorrió el Permian",
-        "description": "Agua de producción en Vaca Muerta: el camino que ya recorrió el Permian Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVAybW9oZFJ1eWdhYjkzSUxBS2lzTWNQRVM3UExrMGhvZUYtNnE2TUJ2QXlTaTdGNmoyNGlZLUIyYzdiYjVHSlFodnEzWWRuekF1SWRCYzZjMTczZGlDWkpkclVHUm4xcURFSE96dkFGYXoydGlzdGozRDEzN2ZoQkhqOG9hOUVnQkdLdFYzcURCQ1YxN0t2dUhzV2pJekVQVURvbFFOMmxTbWPSAbMBQVVfeXFMTktZdW42RXVLVTVlWnNDTi1uMXZfaE01R2h6M2FYdThpSGhiUkxRelV5TVB5cEhCTFFkdkNDN21JZFBpNlN0SDI4UzhLZFRlODdHUV9xUFBmeTZQY2w1QUZTamZNZG82cF9vdmxndUkxV0NoOS1MLVc0ZW9CbEh0MzFKckpUX1FPWEFUMUlQSFZLN1FwNzZpNFhHUmFYMVI4Q1djR1kyM19ad291TkE1Yy1WS28?oc=5",
-        "date": "2026-10-14T03:14:00+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "López Anadón explicó el impacto de Vaca Muerta en u$s35.000 millones",
-        "description": "López Anadón explicó el impacto de Vaca Muerta en u$s35.000 millones iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcU5wM1BXSUVQMERndUtpMkFaQkNiOVB6S2lfQXB4Z19WSldia2VVX2ZKTlNTLUM0cmpOZUxrX2VsNDJhSGpvRWtfN2VHeGpiVVFxclBqUTNHb2xGQXdrUDFKWmJpdEhZa2w4MjY4QUNJczlQOGFEN1AwTjdsU2ZuRUVLcnoxNkVEMnhYdWVtcmZwNnpjWkhvSGFUQzVjLVhFcEVRbEw5MUJaZm1vQkVpVdIBtgFBVV95cUxPWmFybG1lRlpOaU5wNTJhWXBTSDM4LXZtZ1R4R3prS2lyelRFdmJscFlONTB5TjBJQzNoWWMwdmZNbWk3WERxRHhEMDIxUEI5R0I1Slc1Y2VKblMzU1lJV2hhekdEdlRuWkRzS1lNZFViV2IwQkhnWjVLTDNyaGM2SG9PRE85R0FqdHZILWF6Z2M2V1d4WFYwZHBJeThXbGU4UEx1d3lYUTBCU2VGLThmZ1F4YUpJdw?oc=5",
-        "date": "2026-10-12T07:00:00+00:00",
-        "source": "iProfesional"
       }
     ]
   }
