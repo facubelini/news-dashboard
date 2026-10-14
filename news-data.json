@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T22:11:55Z",
+  "updated_at": "2026-10-14T01:32:19Z",
   "categories": {
     "Microsoft": [
       {
@@ -54,18 +54,18 @@
     ],
     "Marketing": [
       {
-        "title": "Ikan Agency: el marketing digital ya no es secundario",
-        "description": "Ikan Agency: el marketing digital ya no es secundario El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHp0dms1Z1FFVFBFdWFodExacU1HbU9Yd2wyYmVRQ2d2c2lnRVk5YlJfM1ZtYzc3NmNkUUtqMmtwaHRtbHNIaktGaHNGMFN1b1Y5WnlndGhjX3B5eFRZWC03bGw2SW5Ub3JOUmFnbERhNUxEd3dXY2FVQWZXanZYckVGUE85Z2R5Qmdn?oc=5",
-        "date": "2026-10-13T17:24:54+00:00",
-        "source": "El Ecosistema Startup"
-      },
-      {
         "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
         "description": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón generallavalle.gob.ar",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVml0NG9oMzRFd3NSNU5BRDU5eVFfWjZyekJUZjNvQzBYa1puVmFaWmdVYklZSGZ1UlV4MHoxMGRwZTd2VDlwVkQ3X1lfX19fd1FhdTc1bVFxRzRsMEROUWtia0d3bGZwNC1mY0pRR1NQVExubjdzcWdoR05rLTZzNUVwc25wRjBYdzBtaE1heEs5UGJhdi11OXRUeUJlX1czd0doX1hPWl85cjBhX1RfU2hTR19EUFd5aUo2V0txblRyaXN1YTViY3lqd0lGZENWZ2ZHQ25vX3dQNURaQXc1OQ?oc=5",
         "date": "2026-10-09T13:44:35+00:00",
         "source": "generallavalle.gob.ar"
+      },
+      {
+        "title": "Ikan Agency: el marketing digital ya no es secundario",
+        "description": "Ikan Agency: el marketing digital ya no es secundario El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHp0dms1Z1FFVFBFdWFodExacU1HbU9Yd2wyYmVRQ2d2c2lnRVk5YlJfM1ZtYzc3NmNkUUtqMmtwaHRtbHNIaktGaHNGMFN1b1Y5WnlndGhjX3B5eFRZWC03bGw2SW5Ub3JOUmFnbERhNUxEd3dXY2FVQWZXanZYckVGUE85Z2R5Qmdn?oc=5",
+        "date": "2026-10-13T17:24:54+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
         "title": "El fin de la marca como discurso: comenzó la era de la autoridad verificable",
@@ -82,13 +82,6 @@
         "source": "El Ciudadano de Mar Chiquita"
       },
       {
-        "title": "21 estudiantes cursan la Diplomatura en Marketing Digital",
-        "description": "21 estudiantes cursan la Diplomatura en Marketing Digital Sur Multimedios",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUFCVjYxWm9OdjBpS3dnX2hsY2xIVndQOE5nUkxiMVEydG9IX2hBY01FUmFwSU9PV2VhS1FuUXRaOU9PRFFYRzljVkR2bzZsNDUtWGxIRF9oN3hCc1dxY1Z5eGthMHVNRVNKd0VMRUdwTmdmX0lUMFlfM2hDQzJJTloxY3owU2NBc3pJdFdJY1ZEbExMQVdNLXVKWlRELTFyU1BF?oc=5",
-        "date": "2026-10-08T21:34:06+00:00",
-        "source": "Sur Multimedios"
-      },
-      {
         "title": "Bahía Hub lanzó su último ciclo de cursos para adultos del año",
         "description": "Bahía Hub lanzó su último ciclo de cursos para adultos del año IngenieroWhite.com",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3FOa2xUbTdSNUpCOWxkQWRlNk1NUVlnSVliajhVT1ZjLU5UdFM1eDJRaEhQOHo1MjU1SGVBMzBvUW9YaVJWbVhpNmhaN3Q1WGR2ZkZTWGJaODhJQVNSN0tJZ3dWYTZGUTdCN21WXzNJc1lNRE92Tmpsb1hsTFZCMTVxR0dTeTRuamVibWE4TVNBS3Q2cDE0b1RjUWE3ODhlRVFWTWhudXI?oc=5",
@@ -96,11 +89,18 @@
         "source": "IngenieroWhite.com"
       },
       {
-        "title": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL",
-        "description": "MUNICIPALIDAD DE WANDA INVITA A UNA CAPACITACIÓN SOBRE IA Y MARKETING DIGITAL misiones.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFVOVEtKeDQ2NUhHNXhxdlFYd0U1NmczTmo5ai0tN2lRYWdlXzByTUZLWlJyMWdDc0UwSnhlbkotZExjblhlWDZZNGR6eC1wRU1CaGJGWEM4MFNuQ2FKbldVcDExRUZnRnpYMUFRS2tfU0FQN1NDQ2hHQUNvcUFhVmlFSTZtVTI5YzVWa1hWdm9sUm9GelpfUHFfeWhnQTlwTXQ2bg?oc=5",
-        "date": "2026-10-06T07:00:00+00:00",
-        "source": "misiones.gob.ar"
+        "title": "21 estudiantes cursan la Diplomatura en Marketing Digital",
+        "description": "21 estudiantes cursan la Diplomatura en Marketing Digital Sur Multimedios",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUFCVjYxWm9OdjBpS3dnX2hsY2xIVndQOE5nUkxiMVEydG9IX2hBY01FUmFwSU9PV2VhS1FuUXRaOU9PRFFYRzljVkR2bzZsNDUtWGxIRF9oN3hCc1dxY1Z5eGthMHVNRVNKd0VMRUdwTmdmX0lUMFlfM2hDQzJJTloxY3owU2NBc3pJdFdJY1ZEbExMQVdNLXVKWlRELTFyU1BF?oc=5",
+        "date": "2026-10-08T21:34:06+00:00",
+        "source": "Sur Multimedios"
+      },
+      {
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T07:00:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       }
     ],
     "IA": [
@@ -119,11 +119,11 @@
         "source": "National Geographic España"
       },
       {
-        "title": "Detuvieron a un ingeniero de OpenAI por instalar un dispositivo para espiar reuniones: lo descubrieron con inteligencia artificial",
-        "description": "Detuvieron a un ingeniero de OpenAI por instalar un dispositivo para espiar reuniones: lo descubrieron con inteligencia artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTNGcDJBOFhQNDloLWp2dnp4NkhLWDJieEJSeUNoTGNmZzRFTmpQb1VWaS1kQk96V1dheDJTU0lyZ3ByOVFVMzhWcnV5OVZhMEdsOUVib0pZb2hwYUFIb0VfM05PTkttazZKdXNWT2ptU1dZMzZvSnlkNm1CVHdoNkZyeUh3Z3NIbEMtLUJBb3ZaSk9nbGVYQlpMNGVqUkdRY2dRSktLSG55czdEUzh1UVpCdk9oM1BtaHRreHpkenk2TGpkck5nVGRNZmlDT051TFh6UHpMTFFCNEYxRjZHMEU0bjdKQ2pocEHSAe8BQVVfeXFMT2ZRc3htWFEwYU5YVU4xTkdIR2Y2V3UyUzlWZHpoZTBZV2lmTERySHdvc3FYcnROdHdSeVBYbUpOc2Vza2RETHNyanBkYXRVM2hKTkpFTzZweHVndzAzSk1BLVMxUUg5bVlQOXlLdnA3N0pranRIZ1hTZlRwaXlaX3ZFcVBhV3J1a1FvQUxhdzFsSFZrRWFTa3pWR0pvbDlZd0dkQnVZNjBoYzVRcHM2cW1Pc1hJOS14OFZ1dTlBbHpyMFIweUZrc3FSbkdkZm5KbnpldVEtTF9FbWU3WEs1X2lELUlaNWJRcl9naHd6aUU?oc=5",
-        "date": "2026-10-13T21:11:20+00:00",
-        "source": "Clarin.com"
+        "title": "China advierte sobre una burbuja de la IA",
+        "description": "China advierte sobre una burbuja de la IA Página|12",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0N2dVZ5eUpvdjRveE1YU3BWOFViWlMtSnlTdTVaNG5IMjZxNVNUNmJpWWdEVWczd25JMWd2QTRwSmh1N2JjSEFBTElVZU1GaThPajlKV2dWS195MFZ6SU9SQ2IyRUhNZGR3dkZnem5XdVZ3U0IzdUFpS3NXR0tLZmxsaTNWaWlu?oc=5",
+        "date": "2026-10-13T23:56:30+00:00",
+        "source": "Página|12"
       },
       {
         "title": "Chaco: Gendarmes detuvieron a dos hombres que mediante Inteligencia Artificial planificaban un tiroteo masivo en establecimientos educativos",
@@ -140,35 +140,21 @@
         "source": "Filo News"
       },
       {
-        "title": "Chaco: cayeron dos jóvenes acusados de planificar con Inteligencia Artificial un tiroteo masivo en una univers...",
-        "description": "Chaco: cayeron dos jóvenes acusados de planificar con Inteligencia Artificial un tiroteo masivo en una univers... Perfil",
+        "title": "Chaco: dos detenidos acusados de planificar con Inteligencia Artificial un tiroteo masivo en una universidad d...",
+        "description": "Chaco: dos detenidos acusados de planificar con Inteligencia Artificial un tiroteo masivo en una universidad d... Perfil",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORTM5Ml9aX3I4dHNUdnl3N01kZF9DNzhUQXViSHFRZWdkVlFNLUxRUi1rTVBERENzUXFDdm9IQ284cFdEdko5NnZRX2hYRy1kVDN0T0hKZF84UnItbG10bGNqZVpaczlRajd1d0RlLTZiQllpZUtQd3RVS3F2QjlaRzVtNmtkeUpla3ctaVBiUU1OVEk4dXFYN2pNNjQzVjU5TjRfV1FYYmR0MlZmcDJWYVkwNnNvLXQ2eHJnazBteTBzWnVxVl82aU1ab1FLMGZrRnVKRHRLTGNjV1BGekNxQXp4Y0RseXJxb0ZN0gHwAUFVX3lxTE1rcE9nMWJCdTV6UGU1VW5FY09mc2swTnd3Tl9YVXE2cTVYNS1PaWotOUNrU0ZuS1dlMnVXaWpfMGdyeTJmQU9jVDloMWVMdGtEVkhoYTNMaU5sdmsxU2VycjdILWVnbXU3VTdscm9XZ2ZESmFvaG9jcUQwejFnZEJiTGg3andzWUxCOUhQUC1DSGVqa1I3LVdfRzVEU196UXRkbXVPejNqV3lvQzRCa3N4WFVlS2VtUVpaZW5nRk9HVkVPb2RIMDBBa0xTa1cxelpNTmNTaFgzdVdKYWtXUG9pTmJEQWFtbXROUVVDdWRDdQ?oc=5",
-        "date": "2026-10-13T20:11:27+00:00",
+        "date": "2026-10-13T21:42:00+00:00",
         "source": "Perfil"
       },
       {
-        "title": "» Redacción académica asistida por inteligencia artificial: recomendaciones para un uso ético",
-        "description": "» Redacción académica asistida por inteligencia artificial: recomendaciones para un uso ético unsam",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHBhckNyN0Z2LW9iSkdIV0FISUR6SWw5eklJMnRfcHVwWEdvaUVwNHNOWXI5c1VXZnRUWU1qSWxMaDdoMGxITFJSdy1XY2ZWem5weC1mSlRoS2Z6dHgtNkpPeUg3U2tYeTRnamxod0FjMkJxR25OTjI1dnIza0F5T01vVElzZ2I1U0ttbnFIaEowSUpDdmo5bG1LZTZiVGRNR3EzRXZpWkNLa0Vybi14ckFKTTNhSFRfZ1A1blAzX3ZLVThsVjdUUFp0M0E?oc=5",
-        "date": "2026-10-13T20:03:56+00:00",
-        "source": "unsam"
+        "title": "Inteligencia artificial en el Estado: entre la paradoja y la responsabilidad pública",
+        "description": "Inteligencia artificial en el Estado: entre la paradoja y la responsabilidad pública Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0t5S0g5VDJfMWNrTTNvNG9ieXZhNU1ablB0TFUyTXZQVWpSUFppTjk1a3ExeExQRkNEbDdCOGFuM0ljWDVuQWp2dUFEaFVIbEhUMGhmT2hXczAwSzRYVVI0S3c3WUZJWVMzWlBNRVNYNVpCYi1ubVEycklZa1oycmZmdFB5STJMUVA1N3pnbDFmbjdpUVBfYTU5d3lWdUxZOTFxWnNKUUM3SUxrS1NKOGd3?oc=5",
+        "date": "2026-10-13T14:55:08+00:00",
+        "source": "Clarin.com"
       }
     ],
     "Vaca Muerta": [
-      {
-        "title": "Fuerte temporal en Neuquén afectó los caminos de Vaca Muerta",
-        "description": "Fuerte temporal en Neuquén afectó los caminos de Vaca Muerta Infobae",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcTBjRmNBWk1ESTVQZVp6Mm1BcUZZaXlKcXl3U3huUVNRLUpsaHFVN2FKT2NxNjE3eXljSGpqaXh4S0VKTDJGWFBtOElQQ2d2YXpMMlMzMjlnWEVZODJWTVFaaFBocE04SjFRSm14d1lERFExdmRHZlB2bFJoeVlYODlkcTU4bFBHcGZtOWxPclRzUGlGeEtOV1hKSjRxQ2FtLXk3eDlJbktpY2hucGc?oc=5",
-        "date": "2026-10-13T20:34:35+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras y la Ruta 5 quedó intransitable - TN",
-        "description": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras y la Ruta 5 quedó intransitable TN Temporal en Vaca Muerta: un alud arrastró camionetas petroleras en la Ruta 5 Perfil Temporal en Neuquén: en pleno Vaca Muerta, creció un arroyo y arrastró una camioneta con dos…",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTlmVm0zRWt0NTF4V2hHblhCMGNmbDNoTkFiYkVJbUpBbHJMSjV2VVBpWmNWQmhJZFE4RTQtc09tQ083QnhyWkZIcWVOMmZ5R1BUUS1sMEZuaTRQQUFFSW9zMjlZYldTUS1VdERKem5iOW1oWXNXTTYtVFh2VWFQWkctei1yQm5IU0pLRHZpNENPUEVQenpNWUVXQ2tMcXp6RjE0VjVNbW1VZ2lsYmpxSGl6Z01xSnoy0gHMAUFVX3lxTFByZ1JfbWtuODk2NUVMX0dsTEt1a3FrbU54dGJRdVFXc1FOYVRlNWVzSVJSczlCTE5lbXdfOWh1RVJwalZQZHlONHpLY1VXVHIyLUdhM0RMMF9CeWdSZmtiZWgtWmxPZTRBOUExbnF3UV9VcVlsMmdEeVlHTEFkdUdFUWNKOWFPam1uRHdEN2ptM2NxMkw1NGYwN0FDeWM2VVpGdEdwNUllQTdKLVFfSGdsd1NBOUhkQ3NwMUtubTQ2bUJsUDZuaWp6RWZfRQ?oc=5",
-        "date": "2026-10-13T15:23:43+00:00",
-        "source": "TN"
-      },
       {
         "title": "Pronostican un boom de exportaciones por Vaca Muerta y el RIGI: llegarían a US$ 180.000 millones en 2035",
         "description": "Pronostican un boom de exportaciones por Vaca Muerta y el RIGI: llegarían a US$ 180.000 millones en 2035 Clarin.com",
@@ -184,6 +170,27 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras y la Ruta 5 quedó intransitable - TN",
+        "description": "Temporal en Vaca Muerta: el agua arrastró camionetas petroleras y la Ruta 5 quedó intransitable TN",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLTlmVm0zRWt0NTF4V2hHblhCMGNmbDNoTkFiYkVJbUpBbHJMSjV2VVBpWmNWQmhJZFE4RTQtc09tQ083QnhyWkZIcWVOMmZ5R1BUUS1sMEZuaTRQQUFFSW9zMjlZYldTUS1VdERKem5iOW1oWXNXTTYtVFh2VWFQWkctei1yQm5IU0pLRHZpNENPUEVQenpNWUVXQ2tMcXp6RjE0VjVNbW1VZ2lsYmpxSGl6Z01xSnoy0gHMAUFVX3lxTFByZ1JfbWtuODk2NUVMX0dsTEt1a3FrbU54dGJRdVFXc1FOYVRlNWVzSVJSczlCTE5lbXdfOWh1RVJwalZQZHlONHpLY1VXVHIyLUdhM0RMMF9CeWdSZmtiZWgtWmxPZTRBOUExbnF3UV9VcVlsMmdEeVlHTEFkdUdFUWNKOWFPam1uRHdEN2ptM2NxMkw1NGYwN0FDeWM2VVpGdEdwNUllQTdKLVFfSGdsd1NBOUhkQ3NwMUtubTQ2bUJsUDZuaWp6RWZfRQ?oc=5",
+        "date": "2026-10-13T15:23:43+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "Temporal en Vaca Muerta: un alud arrastró camionetas petroleras en la Ruta 5",
+        "description": "Temporal en Vaca Muerta: un alud arrastró camionetas petroleras en la Ruta 5 Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmxBaVhSZUpvZTZBaEp4QXlVMVlGQnNuN1M0SnQ5Smllb3ZUd2lsdWJFeUFRV0RCeUs2WjRVWUJUeTdXV0QzT2lIOXVtRER6akhEYmdILTVuNFZ0cXFzZkVXZVI2YkV6MzdjQkx4T2RqalhhQ1dXU05PVUxzNVg0NXh3TkpsZUxzeVYtemhwdEx3alVwdm9TZTBKQmRDS0NTS0RMd0wtdGFiQldCX21iXzZ3ZzAtRV90WEt30gHAAUFVX3lxTE9CODlLc255N0dfWnFuU3pPbHlJc2UtOUJyRm5GN2ZiV0V5NnZPZUtfbFhLTUlWSEFhcGFYQnJzTHRfc2lKQ1pJSGVuWHNra091NkNNaFl1SWd2MmoyVFNrTkFwM1RVUzVUTVh0Ry11ZFgtZXEtRGhDZXdJajhIRVRwS0tPODF1cXpubEpqMjZYYk9DcGM0eHpvR2JOd0Qzc2FGUE9CcHp5a0hkRUxIQm5hWVNoTExycWtqUUhpV2lkQQ?oc=5",
+        "date": "2026-10-13T18:30:47+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Neuquén. Vaca Muerta: un fuerte temporal arrasó y la Ruta 5 quedó intransitable",
+        "description": "Neuquén. Vaca Muerta: un fuerte temporal arrasó y la Ruta 5 quedó intransitable La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORktvd01jOTZEWUtnWkpseUpTSVpfVmI5R1ppLW94YWVuOHdvUlVOUVpjZnUzNVhzSk8zaDhrRkdLczZGSHdLbFhmVTdLS3haeE5IMFpTVWtJNmU4aExJZU9UaGZ0cTRfc21jNmZDTnJ2RlQ0RzVIT0RNM25KUVpyZFk3RHlrZ0I5cWtJWThNc19BUEhsR25uclYyc2duYy04RlNNdExFb0xvdjZPRGc3elZZSVctQQ?oc=5",
+        "date": "2026-10-13T18:48:43+00:00",
+        "source": "La Voz del Interior"
+      },
+      {
         "title": "Del pozo al mar: cómo Vaca Muerta transforma empleos y salarios en Río Negro y Neuquén",
         "description": "Del pozo al mar: cómo Vaca Muerta transforma empleos y salarios en Río Negro y Neuquén Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX2pjTjVicE8zLXc3YWtTMXFJNUZKOXBUcTF4WXJua21KeTJYRzBLY2J6RHUtdExfNzhYT3kyLXFSVUNrR0VnTkNfZEpoekI2ajV0dy15b1ZkSUZsOEJlQjBtY2lwRklFRW5WQ1J1UlpYRmZtTG0zaEhsOHlOSGVSVXkzYnBZemlWbEVPRFNUNTFwTW9sUEZhSzc5R29EX2ZsMmV0N2xmQ251REF0MHE3dkwtb0l5RFpORE9zeEZHcUN0aThMRkFxQ2tR0gHPAUFVX3lxTE9kVHhJUlBpOUpSeGd3cUItdGRNU3NjX2J6RUlIRGF6Q2hjZXI5Q0t0YWtoT2prOHpLOHhHUmdIejRBQlJfeGU3emF5MW9vbi1DSE5kQmp5OUEyekJnQXBaV3R5eXE5T1NZSTFQUVdtdzB4SGVjUGwtUjg0NWxSLW41eE9tWTljWE9kRi1GZnFaNlVicmUzNTRGRDh1cjltSS01RjEzWlZiM2Y5bDV4b1JxZl9qa3hUbGNqTHEtcHFRYjBtRFQtdzFTZlQ3aTZ3MA?oc=5",
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZmx2NVJ3MlNvLUx6c2gwdEZ3c1R2bkVfckE4c01xZnNaRFVGV2hCSmNjWjUzNEFqa2c5MnhfLUh2bk04ZjRDM28xejdoU2NGT25VMnhHRnU0OVpNRE5ORW5WREVVM1UweEZ2RkoxMmprdjgtSEhrbjE2aXNMakZLUzFDaFI3YkFxT2VZUVo5WVQ3WV9JeXUyVzJvTG1iVlV5NVZ3MVVZc2tJZVF2T3dOOXRtVllTVTZqWDd2TEZseGVHOUZOTE9ncTVEUnh5MTBKQ0HSAdcBQVVfeXFMTmdwcXY3TkxsUndobnFrSHhxWUhjakhBQ182ME9fVDFVVU16c25TMTN4MnRzYUdnQkM0SU1Qb0ZONkxxanZCZS1HSExtd18xWXBiWTRhV0ZwTzdGLXE1N0NQSm5BcUl4Ym0xMFFsNW90TndMdnFCaXNHbm5BYllQR3FQUkNKcEgwaFN4dWtsYU5IUlNTREdPVmMwNzgwT3E1MThreWVHYWgwR3pvRHRjSEtNdUZibm5aNGxKbWFiajY5MHZaRlNjaFFEQUl2RHFiaHhCV0VEelE?oc=5",
         "date": "2026-10-12T20:59:00+00:00",
         "source": "La Capital"
-      },
-      {
-        "title": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina",
-        "description": "Indonesia busca socios energéticos en Vaca Muerta y abre la puerta a la carne argentina Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ20zTGgyNzhON3RJamFpMHZjVUtpd2dJdGljQnkxdVZ0UVBuVXNnVVRQUG1ZZkFPWXJyUmhLZG1nSktRRWs3NG94N2hWUjF3T21GQ3VhS3VmdG1rZzhaYWFZZEVGbUppYngxUEZiSEdsZUloaklsVW45RXJnZm5oZUVkTVNIQ2I5cU5jcmRiZjBHa2J2aE85SHE3Z1A5T1VabXdXZ0U5SnczZ1FTSFQ4QjBGUms3UFBtaFduTDlHejLSAcYBQVVfeXFMTkY0SnRGVjlhVllwR29ESy1Kc1NrWGNteGg4U3lkSllIUU1ZT2RXb3ZJZUhEQnBUbUROM19OM1Bra3FRS0hJbUM1T2Fyc0VoYzI5VC1raWRETkNUMndiZGwyUmFPbkJxZl9QWlUzTGYzV3RXVy03US16bzI5bEJVeXZUMzF6RENfT2I4LS0wY3FJa01JZDBTNlhkSFdfdUdtWFJ1czRkTmVKN2U2Mk1OLXNKeWQzQnF5TnJKRW9LQjdRcDF0MU9R?oc=5",
-        "date": "2026-10-12T03:00:00+00:00",
-        "source": "Ambito"
       }
     ]
   }
