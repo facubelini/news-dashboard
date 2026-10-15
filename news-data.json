@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-10-15T10:43:44Z",
+  "updated_at": "2026-10-15T15:27:29Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "La justicia convalidó la demanda de PERFIL en la Justicia contra OpenAI y Microsoft",
-        "description": "La justicia convalidó la demanda de PERFIL en la Justicia contra OpenAI y Microsoft Perfil",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1ZlcG14ZjlHYjFCWVVHYmRzX0pOaFNrVjE0X1RpUWZ0WExuc2xSaUp5QUNoTUQ5N3pCQkd5LWNmUjNaclFFcjMzR1FMRnVDTVZ4c0diSFIxdV9EWUktc29Wd0hpN29YR2NWMU5vTnpHX0JzbmFXcnFyUzhRVjBsZWswcUcta3MyRVVCaXZHQVNSSUFSb0NBTmYwWWtoTFlQS3pJYmJzMHVwTlpZbmMzRVc0ay0za3liRVVEd2ttQnRaZXVMSjRjdzBJYljSAdIBQVVfeXFMUEZsNHd5U3Z6dEt4S2RSQkhKajdmdGRwZ1d2dEZoWlNZcjVzeDNBUUVsNjl1TTg4eGd0QTB0OHhRLWJfelVIM0piOFJSTmNBcnRQbDJnZlJ2NzZhZEIzdVRXZGExeFdxNUp5YUhpcDR1SnJrSC1vUUtpbVduLUdPcGtNLVZrWXAwRFl4ZW84YjJDV3BKMVBUSHRTTnEzOUU4RmloUHI1OW5wX1BnMnB1dUFnekU5STRJRW9CSDVGN3RLbFlhckxFV1FwMllzbldJMmpB?oc=5",
-        "date": "2026-10-15T02:05:47+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Microsoft crea Xbox Labs para investigar mods y videojuegos generados con IA",
-        "description": "Microsoft crea Xbox Labs para investigar mods y videojuegos generados con IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjVmUkhmRWMxdUNsc0RvT3V0ZUpOV3Y5c1lmdlQ1TWpXTkVpSXRoMjREMmNnT0QwTnQ3QV8zcl8yWC0zdHlTWjFpM0ppMW91djRNdjFQby14SGYtRXYzTTFwQ2RwSlg0WEZyREtZRkp5eG15ZS1RM3VhN1ZTSFJLeUszVTdqMW9mZXVMRnNxbDU0YVBHampkTFF3OGc5cmVTbzlsdWtqSXp1bkxEaktmUXRmelVfS1JfVWcxdDktQnRnVkM1VGfSAeABQVVfeXFMT2ZkTGQwLVYwTzRQbjBEampnV0hYSGJMVnJWRmFRUjdkVkxYaG80cmloVzhxaFhQbHM3REdCVTNvVFlvYVBYNVdaOHJKNnBEMlMtVG84R0pNcDhXZWdwQWZyay1ueEdNVE5aRjNXX01mSWxRcVZhOGNMbFpodnRYb29mOWpJaG9CdEJ1Y2R5MWVFV1R6YUlwOEFvTlhBRVM4aThhaGNBNUFPSHpDWW96Y0Zib3YxQVM1SGJ3Z292blVwa0Rad1ljMl91RGNzUlFOem9aM295NzNsMVhhNEwwbUQ?oc=5",
-        "date": "2026-10-14T20:26:08+00:00",
+        "title": "Microsoft desarticula tres servicios clave de una red cibercriminal tras más de 1.000 millones de mensajes fraudulentos",
+        "description": "Microsoft desarticula tres servicios clave de una red cibercriminal tras más de 1.000 millones de mensajes fraudulentos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTVpObnFCZU1aRjlBMV9rb3lBdnZuZm1KZEI0b0NmT2owNmtJVkNIQXdRN2w0dWNyU3BXdGVZRG5aTERrR2UxM0ZOZ3FrZV9LSEZ6cDg1OTQzM1VkMkItV3pPWHhIdHVWWWhqVDBycnlMVlUxZEl2azFxM3F3Q1I1dEVpRWJHTXByLWIwaThMWThjQUtYVjhMelZyTkIwc1hzSzVTQW9fc3J0VXR5VUxIZC1ZQm9FVUNWRTRYNXl1LVJJSUlYQ1F6ODNseHBwZ3FrRnRXWTRfaWtNeDdNY0dPMnFoNkFYS0FSbm9GTmVrZzdiUlNiMk81RDVJZTItVXg10gGbAkFVX3lxTFBOWmVKNXZabmlxQ1loYmlWaktHOEl4NzlmZVpZaXNodzNYbGRBaG5oSmdvWGJob2dUeHNSbGt0SlRjN2F3TmpSQWFMX0s4WmRSb3hKcFpkeVVSY1paNlgtY1BISkN3RjVPYnl5a1pSZUxoRmZfdmV4T3ByY0U0c0ZtT01JNVNQNnFYbXZyTXpVVThvU0IyN042eDhMSktmeGgwMURheUdPYkY1Y0JrQ3lQLTIzUXlwZzFobEk3ZjdMRXVEMjFxWFBrUjJHRmQwaHB5SDQxUFVqbHVPYk5ERXpwemRFdU90TWRfV0J1ZVhfNGMwQ3dnSWdmU3VIdDRnQ2V6Z0t5clI1Q2JXZ29PNUxOOTRGS21OUHpCNTg?oc=5",
+        "date": "2026-10-15T13:58:37+00:00",
         "source": "Infobae"
       },
       {
@@ -22,6 +15,13 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2tNNGRqSGJJRGJSbWN2bWlvQnlrUmFJNkdPa1hQRXJaOF9xTmRjcEY1N21yNFNTNHdJc2l2V0NCYW9JU05xbHBvZnBGRTZSVTNETmpEYTM1YW1xMmVhc201MU1DRW4zMWRCMnh3V0JGbzZ0aEpxQkJUU2g5eml0MXloY2dkX2hSbmdYV3d6NnVUOFNLT1ltQUNGZk5GUGZLd3ktUGM1Z1hiZnZPSjU3bTREaUNERS16emZQQTZhOFBkdjdlMXBITk5kY1doNHlQTy1ubFd30gHbAUFVX3lxTFBMV3ZZZWlvMk9LQ3RLX0p2a3JSaS1MUExGVXA0a2w1OU1nSFJMZUo1eVpCbWJQam43cTBnQlpjc1duMnpxN0xuQ2FyTW9DRkMxOUxlY2tzZjk0TzNIbWt5NlRuVElqQzRYVEJlYUNQUWdEeGFsOGpIT1JWemNEZV80THJTcU9kQlRfNy00dkw5WFBjc2hRS0thcWdpVWNlODNqaE1hcWg4OUVQeWR6anRTQm5nek50NnRiN1FEeDFtZWEyZFdwNmVNcjBOMkFUR2hIMEMwcXU1U2t1Zw?oc=5",
         "date": "2026-10-15T01:03:14+00:00",
         "source": "3DJuegos"
+      },
+      {
+        "title": "Microsoft crea Xbox Labs para investigar mods y videojuegos generados con IA",
+        "description": "Microsoft crea Xbox Labs para investigar mods y videojuegos generados con IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjVmUkhmRWMxdUNsc0RvT3V0ZUpOV3Y5c1lmdlQ1TWpXTkVpSXRoMjREMmNnT0QwTnQ3QV8zcl8yWC0zdHlTWjFpM0ppMW91djRNdjFQby14SGYtRXYzTTFwQ2RwSlg0WEZyREtZRkp5eG15ZS1RM3VhN1ZTSFJLeUszVTdqMW9mZXVMRnNxbDU0YVBHampkTFF3OGc5cmVTbzlsdWtqSXp1bkxEaktmUXRmelVfS1JfVWcxdDktQnRnVkM1VGfSAeABQVVfeXFMT2ZkTGQwLVYwTzRQbjBEampnV0hYSGJMVnJWRmFRUjdkVkxYaG80cmloVzhxaFhQbHM3REdCVTNvVFlvYVBYNVdaOHJKNnBEMlMtVG84R0pNcDhXZWdwQWZyay1ueEdNVE5aRjNXX01mSWxRcVZhOGNMbFpodnRYb29mOWpJaG9CdEJ1Y2R5MWVFV1R6YUlwOEFvTlhBRVM4aThhaGNBNUFPSHpDWW96Y0Zib3YxQVM1SGJ3Z292blVwa0Rad1ljMl91RGNzUlFOem9aM295NzNsMVhhNEwwbUQ?oc=5",
+        "date": "2026-10-14T20:52:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "¿Vuelve XBOX a los exclusivos? Microsoft pregunta si Fallout, The Elder Scrolls y hasta Minecraft deberían serlo",
@@ -54,6 +54,20 @@
     ],
     "Marketing": [
       {
+        "title": "“Impulso Emprendedor”: capacitarán a emprendedores en Introducción al Marketing Digital",
+        "description": "“Impulso Emprendedor”: capacitarán a emprendedores en Introducción al Marketing Digital Gobierno de Venado Tuerto",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1FEZjJzbU12amNkVnpXblI5OF9sYm00ZGFJRWNhSXdjazJadHNmNlBOaFNiTktFa2JMaUxHd0VRVWozZzhSRW8xQTBzdWZISGhOWWdzRnRLX0JpZE9HRS1IMUxBS1FHSERKdUhXZkNGaTZLdUt3VWFyS01OS3lXUHZsOEd4djBZMTgzOVRTT2hhcGhwN0NLOU1VemFvcnlwN2FfNWRRazZYUWl1bmRETEphMkFtVVI0NXdIaUlqVkROZw?oc=5",
+        "date": "2026-10-15T13:18:31+00:00",
+        "source": "Gobierno de Venado Tuerto"
+      },
+      {
+        "title": "“Impulso Emprendedor”: brindarán una capacitación gratuita sobre marketing digital para emprendedores",
+        "description": "“Impulso Emprendedor”: brindarán una capacitación gratuita sobre marketing digital para emprendedores Sur 24 Noticias",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejdVOGFnOHlZSjhJRjZKeGJELTQyeFh5WWxqQzRBMFUxR3NiMFlmRGZtdW80WmxIZlJTZHN5TG0yS19CQnpLTDNhQ1JMdmxwZk5peEJqWUFDMlhyWDFEd0lRQ1hENFlSNkxXOTYyZkR4WEFycjdockJWbDdGRWJXcVVoVno5dUhuRXl0YW9JYmt1ajZpR0t2c1lhZWplVmtOQUhLRzV2WVR3ZlR2VWM4bWxfSzJJN3BwX3lXSmVkNlVQM3l6OGlGcDVackI?oc=5",
+        "date": "2026-10-15T14:45:52+00:00",
+        "source": "Sur 24 Noticias"
+      },
+      {
         "title": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital",
         "description": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital DossierNet",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5yWnRMME43TUFrME5ZZjk2ZFlBNVAwcmdrZzFJREd0QXI5a2JjNThOcWw3SEF4TDNMRUxaTXFsV2NfUnJXV0s1cmNDenhtWkhLOVBxOWZjZVFPWmIyenIxYldDSFRmODZvUjFFaTRQcVdxUWZROTBEaXVqMXVCQmtZR2RzTWRVc0xIMlhnX292MUQ2RGhSY0xFWGo2ZjBTZkprMjIxVQ?oc=5",
@@ -68,20 +82,6 @@
         "source": "generallavalle.gob.ar"
       },
       {
-        "title": "Las 4 mentiras del marketing digital que hunden tu tienda",
-        "description": "Las 4 mentiras del marketing digital que hunden tu tienda El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRU5qZ0FGTTdmUFY2Qll4WHNmMjA5YnB4a3NYM2VSQXBHeVQzdlI5YUZYM1lMMWNEQ195Ni1iT2hQLTRxZVI1a1lMU3QtcEVWREpxeU1Qd1dOU0NBd2VLQWVRSTQ3NnlmZzZZLUNQaXJoa1BFeEkwR21kbnZuN05YNXBBS19kNXN5YW4zUkt1bzV4UQ?oc=5",
-        "date": "2026-10-14T21:06:43+00:00",
-        "source": "El Ecosistema Startup"
-      },
-      {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
-      },
-      {
         "title": "Taller de marketing digital para potenciar las ventas de las emprendedoras",
         "description": "Taller de marketing digital para potenciar las ventas de las emprendedoras El Ciudadano de Mar Chiquita",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTZ1Qk5vOXhnQ192N29JUktHcU9Pbmp2ejl6WWFLUHJQckRRLTdnZDFpNU1tS28yRjkyV2ZfM2tnNzd0MGowQUR2VmJzSVJ4QWtadmMydWlKMV9FSlVlRGpxNTFwSFRxU2FvVlRMY01yS0t0WWNHc1BKX3F6MlllUVI4dEUwdHR3SVRjSEZ4ajg0eEhHYVRhZ3c1bXdnRWZPaWpRVEJUSFlUZ3d6RFBZQzB3al9Ic0pLalV4emZ4UQ?oc=5",
@@ -89,27 +89,34 @@
         "source": "El Ciudadano de Mar Chiquita"
       },
       {
-        "title": "Paco Rubén, la Agencia SEO en Valencia para posicionar negocios locales",
-        "description": "Paco Rubén, la Agencia SEO en Valencia para posicionar negocios locales EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaW1kd21Hd2FBOHFMZDMydlhtbXdZNkFzVlc3SWdmdzA3ZHV5VVI2aDJ6amVBR0t0WHZGUHIzcHplUVlOY2xraUxsQ3NVNWZnLWMwT2RrV2h3SXBZU0t6N1NaM3lILWtPUkYybTNYb2wzT0RWRHVxbkJHbWdNQWM2a2dhbWpvS2dXWE5zNFpnY0FqSjRLeXVaRHg0eWdOLVdzR2wtMXNqTkxVYUdwVHkyR3VVdTNoZFh3OWJNOUJfM29BNEdaODJ3ZjFnVdIB3wFBVV95cUxNam5LSWtVWWlYNW5JUEJqQ0VqVnUtdGw3dkNNa1JoZ2RFalhkY1RKc2RIRENnekRubFp3SUtnVUlNUGlENVVNbU9JZmlCMTY4TkQwRWNyenhPSWJoS1ZQSG1NSlhCUFZpa1hmZmstQnlwSlV5bGNhaXJBS3lUVExwNlpYUWRmZ282NWZyVTVfYVRFOVlwT0FtY3oybVlXNTlURm9PUnl6MERsYWtVVkg5WndlSlNkRlNSallBRkpfR2JhVktPTERCeVlJR0ZReS1ZV0pFNE9oR1lhQ2tha3hJ?oc=5",
-        "date": "2026-10-15T09:26:10+00:00",
-        "source": "EL PAÍS"
+        "title": "Las 4 mentiras del marketing digital que hunden tu tienda",
+        "description": "Las 4 mentiras del marketing digital que hunden tu tienda El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRU5qZ0FGTTdmUFY2Qll4WHNmMjA5YnB4a3NYM2VSQXBHeVQzdlI5YUZYM1lMMWNEQ195Ni1iT2hQLTRxZVI1a1lMU3QtcEVWREpxeU1Qd1dOU0NBd2VLQWVRSTQ3NnlmZzZZLUNQaXJoa1BFeEkwR21kbnZuN05YNXBBS19kNXN5YW4zUkt1bzV4UQ?oc=5",
+        "date": "2026-10-14T21:06:43+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
-        "title": "21 estudiantes cursan la Diplomatura en Marketing Digital",
-        "description": "21 estudiantes cursan la Diplomatura en Marketing Digital Sur Multimedios",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUFCVjYxWm9OdjBpS3dnX2hsY2xIVndQOE5nUkxiMVEydG9IX2hBY01FUmFwSU9PV2VhS1FuUXRaOU9PRFFYRzljVkR2bzZsNDUtWGxIRF9oN3hCc1dxY1Z5eGthMHVNRVNKd0VMRUdwTmdmX0lUMFlfM2hDQzJJTloxY3owU2NBc3pJdFdJY1ZEbExMQVdNLXVKWlRELTFyU1BF?oc=5",
-        "date": "2026-10-08T21:34:06+00:00",
-        "source": "Sur Multimedios"
+        "title": "Utilizar la IA para vender más: Una interesante propuesta del Centro Comercial de Carlos Paz",
+        "description": "Utilizar la IA para vender más: Una interesante propuesta del Centro Comercial de Carlos Paz Carlos Paz Vivo",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaTlZSVpRelU3UmdnTEZUTmZjLVhwU3NXM18wdktqd2RNMkstVl94aXNBWHRBNEtRbURlSklGeUI4Rkl2MFlJTGdUcVRrNVdUZFRncmtrb2piZzRUUGIxSjVYNTVVcmc0QkN4c21VNEhiQXl4YnE4R2s1T2xhZzRnMGJTYncyeTNfTk56OVhlcUNvX3RTUTJEWE8yRW12cVVJUGh1NGZFVmp1cHY5Q000QUhSblZpUzM0SkotUnpPVQ?oc=5",
+        "date": "2026-10-14T18:20:55+00:00",
+        "source": "Carlos Paz Vivo"
       }
     ],
     "IA": [
       {
-        "title": "¿Por qué Trump quiere reemplazar “inteligencia artificial” por “superinteligencia”?",
-        "description": "¿Por qué Trump quiere reemplazar “inteligencia artificial” por “superinteligencia”? CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXhWTVh4cGU5bnJpUjViTG0wM2kzQW9KQzBrbG5rWTNaXzY5Ym4xcG10Q3E4NXpaTXh2Mk9UZEtTMF9iQnp3eEFKbXEyeUFGbzIxV1Z1bWl1WUpiNUtXVDl6bWphQkdrX1ZCdTRYc0hfYVhtRVVtc01FcnhpZFNuZVVxXzVYaWRubEN2ZUdsYkcxbDNoVnV2Sw?oc=5",
-        "date": "2026-10-12T02:08:00+00:00",
-        "source": "CNN en Español"
+        "title": "Diputado Roberto Zataráin utiliza inteligencia artificial y temáticas espaciales en video sobre sus propuestas",
+        "description": "Diputado Roberto Zataráin utiliza inteligencia artificial y temáticas espaciales en video sobre sus propuestas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMzZiTmZiV0g0SEw5ZVhfT0R4TldNS2hpb3hZT0ZuLUM5Y0xiVE9OQ3dhOEIwN1l4SEJhaXVMelN5WnFrcTUtNGtWUjFEVlNBZ0dJakFJbFdna3IwamZJWWF4UU1GSkdUYWJwNXFicS1KWDNyQTdhV09VVUlqOExhb1lqZ1dVZkpvLUFuOXdJQVpuSDlyMEdDNjZoOXJhMlR6andKaDBfN0xFaEFDLUxnOElzMU9mUmE5eWY3dFdPWFotRU5ja0FOaWpXUDdLNHlVSVNHMnV3dUJyb1JqSGppVWFJdDY1eF9rN2s2Y2dGYVMxd1hTcFI0VERfYUU?oc=5",
+        "date": "2026-10-15T13:12:20+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Cómo utilizar la inteligencia artificial para convertir los datos del campo en decisiones de negocio",
+        "description": "Cómo utilizar la inteligencia artificial para convertir los datos del campo en decisiones de negocio La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUhMN2kxaG50NG9XRzBqRElveEY3V0x2OTRqaUhPUkVKSUh1eTRZVV8tM1QzencwUFBqd3J0SHVsdjhBNkhZR3Mxa3hseHZRM1laVFJMNk9VNHpBaDdwU3E2OXgwTHFFbGtaR2xUQnVyRUdyaDc0bXd1eXEyT2dvWHFuQ3c2TXBKNzUyLUlLWmY3YnJ2YzRRZ3N4bEJPMDVESlhkaDhNT3EtU3I2YWM2MlJNeDVGRmF4YS1ia25B?oc=5",
+        "date": "2026-10-15T14:28:57+00:00",
+        "source": "La Voz del Interior"
       },
       {
         "title": "Inteligencia artificial en la educación, ¿puede reemplazar a los docentes?",
@@ -119,11 +126,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Reclutamiento con inteligencia artificial: hasta dónde llega la automatización en la selección de personal",
-        "description": "Reclutamiento con inteligencia artificial: hasta dónde llega la automatización en la selección de personal Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNWlEZURJa0RGLXh5NmNVbEdpaWotT3dIUU5tUEJWMFVWdWY0NWdGMDVlYmNvNU5DY1B0WTNETGwzaDA4cVMwQXl0cVZwNGF0dldpUm5SQl9PcEd5WEd2ZDQ4UWF3N1lQeUZGN1R5S0pUSGZuRTFxR0t1dXFkR2NFSmUxU1BXbVRvNmJ5dEZVb21PUWNfVXd3aTNUcWY2VGJ2bFNrc1RKNVNFRWR0T1Job2phVkJRckhodFhNcU40aURoRXRmTllMRHlUZUQ1UGZVODgwZDRLaEJ1cmlXdnFwOTVGONIB_gFBVV95cUxNZWc4RFlDVnlvSHEyX0xkeGc3RXVKRF9rZ0NCWkYxTUg1allCbWpSZ2VVTDQ1LWcxc2dtQ1ZqdTlHT3p3c2VRNlRjUVoxd1llLXVYX256N2hJenVwaFo0YTRCRFBaMkRfSlJjNXhwaGVodmVQY0hucjhvNV95NnV0Nm9xdXBnVVRUamFKYW40MFJBZ2Z4SUQ2NGhfdlA4OHUtSmNuamV1VGZTQWZEeEw2czBvU1hrbkRiYVpPSUpaaHZCaXVTSUdfRHlkQ2g3by1odGk0T09XdklEdVJqQWpYR2NGY0hDM2wzYUhtZnZFOGJVbm1HN1ZWNkJ6d3d0UQ?oc=5",
-        "date": "2026-10-15T03:23:22+00:00",
-        "source": "Infobae"
+        "title": "Pereza intelectual: La Inteligencia Artificial degrada el saber",
+        "description": "Pereza intelectual: La Inteligencia Artificial degrada el saber Página|12",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRVJaX3lTcHFtTmlyQ3FwX2tBT3lYR0hwQTlaT2ZvLVJCTk5HeEZmSVpWZ3hBX21iaWFJZ2hVWGdMUE53X3pvR1ljMlkxNi1kQUpvVVRwb0hFTXQ5U2o2WVd6M1V2Q014a2lIVldmQXl1NUdjNEs4dWZtdk9ZcDBSRkxEVkZFSjFJaFZYVnNUUm41REF4Mmh2cUZGbXZxUEU0aVhRUA?oc=5",
+        "date": "2026-10-14T23:04:00+00:00",
+        "source": "Página|12"
       },
       {
         "title": "INTELIGENCIA ARTIFICIAL: CHACO CAPACITA A SUS AGENTES PARA TRANSFORMAR LA GESTIÓN PÚBLICA",
@@ -133,41 +140,48 @@
         "source": "Gobierno del Chaco"
       },
       {
-        "title": "Un estudio revela el porcentaje de contenido generado por IA en libros de gran éxito comercial",
-        "description": "Un estudio revela el porcentaje de contenido generado por IA en libros de gran éxito comercial Página|12",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSWx5NlItaDdRcVdDRjBZajA5WjEwSnRwTXJjNVlBUXZXREhuNU5nTXhnZ3hXQ3pNUElVR0l3M3JrYm1aVi1JYzRqSjIwdVowU2t1QzlCUUlEM3pvalplcUt5ajdLSF93cHNGVjdMck1QWUNhQkhqaGF6RHp2NFprUTl5V3FyOWppbjk3N1p0dVNHUnV6OTdvcXZBV1N1T2stdWF5Y0RON2dibm1iaE9lbjlMWTRSaUNNbm9aTW9PMG8tNFNFNUhMMmxRMnhNSzQ?oc=5",
-        "date": "2026-10-13T23:01:00+00:00",
-        "source": "Página|12"
+        "title": "VisionQuest, entre los traumas familiares, la inteligencia artificial y las preguntas que nos hacen humanos",
+        "description": "VisionQuest, entre los traumas familiares, la inteligencia artificial y las preguntas que nos hacen humanos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdHV0RGhCb0FPWXlBeGxGUEh6TjZXanJBd2F3blNmX3MzOVh1azBIQm9UeVcwWWJsTllxakZSc2hOdHVQbW02LVZjSkRoeEp0Vzlkbzd5OWRYdjl3UFB3T04tc29SRFkzUVRQVEpoV2VIV1ZOeHFuOGhzc09tUHdJWDNOa1dOdmlzczkyVkYyalkybEtoMWwyMElDaDdwNW1nT3VVcXhHbUp2SWdRbmEzUFNHVFQtMTdqcGxfcjZNUXdBMld2YU51SUFoRmR2eG9wRmpNSWFQYUJFR2ZsQndrRW4wNE43a1JVRm9oRS1VTFlJeE8ySGpN?oc=5",
+        "date": "2026-10-14T09:00:01+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Chaco: Gendarmes detuvieron a dos hombres que mediante Inteligencia Artificial planificaban un tiroteo masivo en establecimientos educativos",
-        "description": "Chaco: Gendarmes detuvieron a dos hombres que mediante Inteligencia Artificial planificaban un tiroteo masivo en establecimientos educativos Argentina.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkgtdVZoU3R2OGo5ak9id1dkdXBNdTZDb25rQXhsY1JJWVVFa1pWWlY2ZzZjU1pBZFlKc2FnTWtJN1F4TS1TaVNNLVFrSHBEUE9ZRDhCWUNIR2g2T013aVktWU1fVmRQS0hQcXRzQnE5cmUtVmw0TlBRcXNhcl96eF9aOWJUTXlKVDVXdFdpNW53QndQMkxjbXdhcnozdUJ2SEQ0R3M4YUVYUFVYV2lSNWxwZF9wWUdLQlBBcU5iX3pjT3VSQ1QxMA?oc=5",
-        "date": "2026-10-13T14:11:15+00:00",
-        "source": "Argentina.gob.ar"
-      },
-      {
-        "title": "Chaco: cayeron dos jóvenes acusados de planificar con Inteligencia Artificial un tiroteo masivo en una Universidad",
-        "description": "Chaco: cayeron dos jóvenes acusados de planificar con Inteligencia Artificial un tiroteo masivo en una Universidad La Prensa Digital",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZlR3dEdoeVNQeDV0eTAwV19LelNhUWh2aHFnNWFodDZub3NWVGh6eDlzNjRLRWF0Rm83N244ODNXU0ZpLVFzeXA1azA5eE45LURSLWwwX2lnRElMMUw2WVBFMEdBN1dfcHJwYW1RaXVzNlc3NFE0VzJjaFZtSXR6U2MxbTJNck13bEk1QndSUFpOOENSdy1BdnhYR1BlbU9vR0hLUjdtbWNRZl8zZ0loZEh4VEc3ZG45b0o3bmlrMmY3bHVKLWRrOTRieGpQTWd6bTFPZDJIUHlsYWhJbXVBWWhCazUzNTN4dktvbUJkRQ?oc=5",
-        "date": "2026-10-13T19:08:08+00:00",
-        "source": "La Prensa Digital"
+        "title": "La inflación de Estados Unidos y el temor por la inteligencia artificial desataron otra ola de ventas: cómo impacta en el país",
+        "description": "La inflación de Estados Unidos y el temor por la inteligencia artificial desataron otra ola de ventas: cómo impacta en el país Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNXlkdnFhTVdhMTlaOTAyeEx6aFhEVXBfWXIwcTVHOFRUM1Q2cGVEdUM4NTJVcWNYemhYb0hRaUMwNGN3YzFDd3hUdThlZmJkaHI5NnRPUUdUckhocmpaZ09IOFgySEJHMGRzNDg0NkdZU1J3bEZRN2wyaHJSQ3FVbG5xOC03b2VJakxJRjlMNkF4Qjd0clIySXJGUW96LVZFeEVuRF95ekVEY3pwYW15NG15ODA2eDh2dmVQUWRNMWlUbXFOVFNtYWRrYTBqVFNkRDM2LWxYWWRpU24zaVdCbWx0ZVphZUtqem1JZUNiZTFmb2JwR0RYaTRNUDZRRXhQZTlnLUN3Q3RZNmpXWUR2OVpYeGxtNmExNE1OZ2tHSWFZaHFs?oc=5",
+        "date": "2026-10-15T12:20:44+00:00",
+        "source": "Diario El Día de La Plata"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "YPF puso en marcha una obra clave para acelerar el desarrollo del Hub Sur de Vaca Muerta",
+        "description": "YPF puso en marcha una obra clave para acelerar el desarrollo del Hub Sur de Vaca Muerta Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1d2Xy16MWJDTVVvZ0ptUFJKbmNzRmtHLUxBdjhUUXF1ZlJ6NWFvdEZZMk0yVkJNcFBGN2huN280NTk2NE1KLWVZdFdMUUp2TjhfT0diTVB1dC1tYWVYblBieDJELTJDSlRRcnh3LW14WmFsYWVvQ2Nyd1BZb3Z3d2s0R3V2bC1SRVoyUzJzMDgxcFJpckgxaTdzbjhUcW9fdDdvNUlYNmNfZHduZVdIODAzcjVhTzVxN2fSAb8BQVVfeXFMTmJTb290VlFmcUdTTjZhZXBxcDRsYU9yaXB5bHBYZlBOSC1ReVNRdTczczFsX0gzOGVJOFJWbHlMUk1JcDUtbGJWUlFpNjZmZ2xIaXJjWjVPZ3g4cnpRdWJ1S0pyVU1lbnVlQVRhQ3AteGdwbGRnLVg4eFU4TUhuRDBKWUlEallLRjgyOGNsLTBBQnRfcnRNaElHSTF1YzdzZFFVY0VZUVJDdFBHRHNsN1ZSSThRY3J1TFN0TVN5SzA?oc=5",
+        "date": "2026-10-14T16:19:08+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Horacio Marín expuso ante el CICyP sobre el futuro de YPF y las inversiones en Vaca Muerta",
+        "description": "Horacio Marín expuso ante el CICyP sobre el futuro de YPF y las inversiones en Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSHhkVDB5dlp0WGplaDVlVy1IbUtqdjh6V3dnTkRJbk43RV8xY3o2bERwS2tqVzl0VzVnanJ6RGtwQmY1Z1g4RkQ3V2o0X2FkUzdlQUtnV0VsN3NtUmFXdi1nYWpXZ1dxMzdLY2JnMmVSU1Q1ZEt6NFFtSXItYzVtVHZaSWlTSDlHNURFZWZ3eXpxMHdaSW5NWGxIRG5MT3hrenhaN3ExN0UxemdjZER4am5wbHQxMXpRLVFpUER2NmlHYVF6Y1R2ZlZWbkpuRjlVTXRmUFhpWQ?oc=5",
+        "date": "2026-10-15T13:32:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Horacio Marín, de YPF, en el Cicyp: la inspiración de Messi y cómo Argentina pasó de ser un país con petróleo a uno petrolero",
+        "description": "Horacio Marín, de YPF, en el Cicyp: la inspiración de Messi y cómo Argentina pasó de ser un país con petróleo a uno petrolero Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOVRvdl91Y3NMSkhobHZRZExvM2RHZTdsdFBGdXVhT1VGb1FJYUhWQ2xOQ1I2dVIzbXZNUU5PRDRQTWdQZmtDc3I2RUFxTUpJeEdJQl84cWZOUVRxSXE4dkNNakJLRmxNMS1OS0l6ZE5xN1dFZm0yUVZaT1UxeGQ2NC1UcWY4MGR0c05iZ1RQWUhCdnBhaFZvQVFONkExYnNFWkVfU3lXX2RabjFnU0J2czdoRjIyN2dRM1A0VWdIdndpRTZOOGNTX29IWkh0RFRJOUJfZGFBc01yZEZ2S21OQVFqeklYLXhyZUVLaTViWUk2UlE3Y0ZCTFdOMNIBlgJBVV95cUxQb1pzWkhVRkhkMGlDOFZfbGExZEVwbTdncjloOW5UbS1JOE5kc1NDT2k5bkN0SnVGTDVLSHlUOTNsaW9EN3k3ZS1LSU1JZURwVFdYaVRJTjNPWE1PaDUxbTZzU1hyQkF0ZU1CNlZ3ZG1DU1RPZXkydXd2ZzZ2TVo4ZXp6Mm5JMDJvTm5kUEw3SkNSM2o2Z2RrQ19RQ01fQUwxRFBpNHhweUVzSWJ5MmlWTmlHXzQyNnh4eG5LcHhGQnNaNUFMQkp3aEUxT05tVEI0Zlc1Wm1OeE5uNXExY2pYVFotaDNXdmpWOEdQWDJVZXJXaGttaUktSmRDYXpaaTNSQ3dpclB1UFVxSlNJY1pYdU9scnJKZw?oc=5",
+        "date": "2026-10-14T21:10:15+00:00",
+        "source": "Infobae"
+      },
       {
         "title": "Empresas alemanas apuestan por Vaca Muerta, aunque advierten por el riesgo país",
         "description": "Empresas alemanas apuestan por Vaca Muerta, aunque advierten por el riesgo país La Nación",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZmJ2M083bjJqdDlNdUR1djRoaVJFRkkwU2dOMFhCb2l0SnhtMGRyV3Zha1l0V2dOY0xiV2V5cEt3Q1ZfdndsV3F5VjJwTlV5cXF0VFB1NDJXQzFQdEhFLXU3dXk3ektqdjFOOHUyOXhVYWlQVmtrRVdRRDhxdTQ4azN1ZnlZT3lXcmRnWnFIdjZncXBOM203VTRHYXNueWpTMVVIbnB4SmJobHp6dndmUnhDRzJRTjQ2SVdYQXJFaEZvc1d3aG40?oc=5",
         "date": "2026-10-14T22:33:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Gallego & Fernández: Los garantes de Vaca Muerta",
-        "description": "Gallego & Fernández: Los garantes de Vaca Muerta Revista Noticias",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jb1lNTlgxNVY5VC1NWTA0YWlNYjVqMWpabnpSQ2dib1RVMlhKTTBBT0lmbXRJaXR3UjRPU3RfTzFMTXRnV3ltRjVsQXEzby1XMU1JNFRJdV9xQ3IyVTJvNkt5M1FZVVczUDRB0gFwQVVfeXFMUE53NWV3RWFWbXBCTW9BaVFkYkJPamNjNkJLYzZoZlU0OGpfdTZSR1daYmhfb1ZuaUFkNlJvbXF4X3hOMHYybVpCUjVCQ1AtN2tBSU9IcENsaWh2Qjl0WEY2VGpuUlg5U0otNk1qZUdneg?oc=5",
-        "date": "2026-10-14T08:52:00+00:00",
-        "source": "Revista Noticias"
       },
       {
         "title": "Neuquén avanza con el proyecto de un canal aliviador para afrontar crecidas extraordinarias en el Alto Valle y Vaca Muerta",
@@ -177,32 +191,18 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Vaca Muerta: Impronta IT suma IA conversacional a su software de diseño de desarrollos no convencionales",
-        "description": "Vaca Muerta: Impronta IT suma IA conversacional a su software de diseño de desarrollos no convencionales econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3B1NElXUjZoZ3ZRYjROR3BlQXpjaTlKejdjOG5zd3FPTlFxT0VLQmxFYWFmb0F2WHpTUXdwX2kweFRpNjJXUV9mS09aR3VVWDVESFBUb29sWVNiRm9UcGhmenY4WnQ5Um5PQXFzTndFeFdoT0w4YmpRbXJwZG4teGVnWFp6QnBHVkMxM1oweGZEZHBDb3RKc181SDBnczRpUlM0cWFzWmtRVnhwTDBkRzNpUVZGdWZZbXZQdURSWndjeEd4ajByenhiS1QzQlNjMjdULVRn?oc=5",
-        "date": "2026-10-13T15:29:38+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Gallego & Fernández: Los garantes de Vaca Muerta",
+        "description": "Gallego & Fernández: Los garantes de Vaca Muerta Revista Noticias",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jb1lNTlgxNVY5VC1NWTA0YWlNYjVqMWpabnpSQ2dib1RVMlhKTTBBT0lmbXRJaXR3UjRPU3RfTzFMTXRnV3ltRjVsQXEzby1XMU1JNFRJdV9xQ3IyVTJvNkt5M1FZVVczUDRB0gFwQVVfeXFMUE53NWV3RWFWbXBCTW9BaVFkYkJPamNjNkJLYzZoZlU0OGpfdTZSR1daYmhfb1ZuaUFkNlJvbXF4X3hOMHYybVpCUjVCQ1AtN2tBSU9IcENsaWh2Qjl0WEY2VGpuUlg5U0otNk1qZUdneg?oc=5",
+        "date": "2026-10-14T08:52:00+00:00",
+        "source": "Revista Noticias"
       },
       {
-        "title": "Vaca Muerta: Miguel Galuccio explicó por qué es clave para instalar data centers",
-        "description": "Vaca Muerta: Miguel Galuccio explicó por qué es clave para instalar data centers Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZWlHc0o1S0UtblNEQ290d2dfVjNzWnR0cnRZZTRnWW5hdEl0TTVqbldieGxIazhrN21VWEFZdnBqTDZKeXZ2bkNwWlJJckY1ODBScnlaUTFGa1RoaDBMOEsyVzR1RHB0NlNUTFI4bW4wb28yM2hNeDZDSGNoZ0U4TUV6RlV3b2FSRFE0WEJaOHE2WW93dnJLTXRRSGRjY2YxZTJXd3lUNlVGM3hyWXBaZGhaVlZrbjA2YVhhZEFQaUdJbGU5VTBVWTVNdFVfbDA10gHkAUFVX3lxTFBuTG5yZF9ySTd4d3dnQjZveTU1Y05ZcWJRQnAydkp6UHJiUzVXeWJoeWNfSGJXWkVmWkx0SkRzSktKd01ob21WSW9mbzNzYzRYWE5IU085VE9fbmdBdzVUYWpoNHh4b1R3bWZXRHRUSDhQVkpUMzNzOFVocDR4eVdJSGV4T3JfLVQ4Y0dmTHlVTWpqQ1VMSUNScTZscjJiRDVnWTRmdEhULTJZTllKZXNZS0h1bnpHeVVhelRnUkVMLUJRQlJnZzZfZ0xzalJtazUxdkNqeEFWTDB2SDEzX2F3RGZVaQ?oc=5",
-        "date": "2026-10-14T08:00:00+00:00",
+        "title": "Vaca Muerta: inversores de Texas revelan dónde ven el negocio más rentable en Argentina",
+        "description": "Vaca Muerta: inversores de Texas revelan dónde ven el negocio más rentable en Argentina Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSHhsUVlpdE9VZ3FlQmoyUDVLbktVTE0xYUFXbm1FNTBoV2J3QVhxS01iSG9oWnpVMVZYWG9IRFp0bFdCdW5raWVwZ1VvdXFRaVJDbXdvYVNva0xCbmxPYl9FWWNZLVRaMkpvNnpSbTAwRTlteFhNRDFQckZsdTlEaWhYSVdETzhWai1MRjF2RlFjTG5qdTBPdnd4enFFWEtnelB6WXlYQ0tBS1Jia3pXRE9qNzJHRXpObjZqcWtFOHYwVWVnMDg2MFZCcUF0TFV5RHU4S2loMzRxQdIB7gFBVV95cUxPMzJ4MEE3cUdfc3BLTk8xaG5XbDJBWVhMMVI1XzNDWk1jRzVCMUZQTEpwRzQzTjRERnN3eTBtejB2eW5HSTdueHVSWENSR29qbVVZZy1mdkk2WExxWDQ5WEdTcmpkaXF0WXdyQTgzSTBuRVNIRWs4UzJvakpRbjlfRVFtLV9VNUdKZV93R3BCd1A5QW54WEsxcnlaaFEwV0owakRYOFoyZnhtSWFBYk9NblZ3OWN3WDVmZkhzV2h1VG96MmtQaEl0cHVXNU54VmNjcS11NmtuS1lzR0E0eVFmS1hwYzdGdGVNU0xrT2R3?oc=5",
+        "date": "2026-10-15T08:10:00+00:00",
         "source": "Bloomberg Línea"
-      },
-      {
-        "title": "Vaca Muerta apuesta por la inteligencia artificial para acelerar obras y optimizar el desarrollo energético",
-        "description": "Vaca Muerta apuesta por la inteligencia artificial para acelerar obras y optimizar el desarrollo energético Minuto Neuquen",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPU3h6bmtGcm82dnVFcW5KOTJrbkhDV0xyWld0VTZodGJxX09CUGx3OGxScFFTS2FOUDBHYkxSb0Fhc0JGUFd3cE5hWHlXdTJmYkYyMDNqN3VWdmFvc0tWaHdiaVJuS1VKTU83UFZ5ZHJCWXA0WjA5TVp4UUZfdHktXzFMbUt5Y2xUZXg3Uy1aWF82bWZTeWZ2NmpDbnJBQk5JdkgxLTdxZUs5em1seHZLcDdXbUhJV0Zzem11LXE4TEVSaUdib3FVVEg2bDRoYW9MN1l4eU9LTktXWHh0U2QyMXk4cngxOWxZUXNXbTZlUU5COGc?oc=5",
-        "date": "2026-10-14T14:55:29+00:00",
-        "source": "Minuto Neuquen"
-      },
-      {
-        "title": "Vaca Muerta podría invertir el flujo y convertir a Bolivia en comprador de gas argentino",
-        "description": "Vaca Muerta podría invertir el flujo y convertir a Bolivia en comprador de gas argentino El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblpTZ19QUUdOUVBhQW5PTVpIdFZVQUVsZVlGd0s1M2Y5VVFBdUJxMktZV2VLdm9naEN0MVJFUEdsNjVRekkzRllYY3VLdUlYd1VpQ0NQeC0xM2RvTmFNdC1hZXRZYUlDcXdUcGdQUzRIOUJic1J5VDJtLUh4NGRueGxseGJDeGZFWGRqQWhnUzNuT0Vlb1BLZUVaMTNxeG5CbmZkdzlGSGY0VFE3MXhzRmRCemFJakhIbk5nR21NdklRay1Zd2V1NGdGcUVQQ3ZqRzJkSTlxTQ?oc=5",
-        "date": "2026-10-14T17:48:06+00:00",
-        "source": "El Litoral"
       }
     ]
   }
