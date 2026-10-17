@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:00:49Z",
+  "updated_at": "2026-10-17T17:42:05Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,25 +10,18 @@
         "source": "La Nación"
       },
       {
-        "title": "“Windows 11 será más rápido y menos molesto”: Microsoft cambia su mensaje para vender ordenadores",
-        "description": "“Windows 11 será más rápido y menos molesto”: Microsoft cambia su mensaje para vender ordenadores SoftZone",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZG5xUmJzV1JGaDF3U25IWjROYlp6WEdrcWVxYmE0UUhzV3lIc1lJTzdyQzhNeVRiaUk5TWI5M2h0dUZyUml0UzhSYl9HWDFPZDI2TVk5TUNXYzloT2tBUTY3dFBtSEVzdVRqbTBxZXVXcmZJam1RY21qSjRldGhjNFJuMXE5Uk5yTHVNM3lB?oc=5",
-        "date": "2026-10-16T13:16:10+00:00",
-        "source": "SoftZone"
-      },
-      {
-        "title": "Microsoft reduce el consumo de Windows 11 en equipos con 8 GB de RAM, por fin",
-        "description": "Microsoft reduce el consumo de Windows 11 en equipos con 8 GB de RAM, por fin Noticias 3D",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUVfbFB6YUVQaE9oMVBVVklOV3EwZXdReUtJZG1NbW9WSm9iai1wLWJMRHQtLWN1TzZTVlpJQS1oaktWZHhITjhXQWFFeEp5UUFmM1llaWJTN0F1MUFEQWhRVkI4Z0NpanZUR05reHRNQ3ZrSDhlbTE1MlpnMkZYNm9tRndOSFkxRUNQOXVyRGlycWJadkE?oc=5",
-        "date": "2026-10-16T16:04:42+00:00",
-        "source": "Noticias 3D"
-      },
-      {
         "title": "Microsoft trabaja en Project Odeon, una 'app' de configuración para Windows 11 que podrá actualizarse desde la tienda",
         "description": "Microsoft trabaja en Project Odeon, una 'app' de configuración para Windows 11 que podrá actualizarse desde la tienda Infobae",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPajAxU1VyaEVNRGE2aE5kSklhaTZHNlFaYlpWRGRWM1pJOWRVZWdjbWxHM2RmN1EtMHFrZXI1bExPYlJzajBrZGFydzlpZFVMZEpWU2R4Vnc1ZWpDSVQwOVNrb0FtQ1RKMWtvRG9LUi04MmtXYkNHUGxRQTZSTWw5bGpxMTNxb25EOXRDOVVpRFFXajNKMGlCWF82ZHJOejNzb2xTLWZsRmFGc2o2R1hyUThBMkItcUI3Tmt0Sm1ISldPSVBpdHd4S1preWJuS2RDZVlaMDdyVlZPVEZqSDkxWmw3aGhnbEViOXZlR2dibjVlb3pHclFVVHhsb9IBlgJBVV95cUxNUkw4c0ZEUEljelZJRm5CekJKX0xCaE5oMGlFT1I2WEhKUzJ6cGxkSVhrWjQwM0lKdmxRdDRTRm1TUUlHNnhtbnNDQ2RBcjFoSG9ZQ2tSNjdoS1RXcC1jMjU5bW1vbDJPY0F3THVOaE14UXhtWGFIVXNwb3NRcXprVzJTWU5FT1lXTXctSVF6N0x2Skl5bDNuclBsQ1U3d3g5Q1ZsRC1sOFJsajllMERRNE9RZUJQU01melI2VWxLa05MWjVrNlJuT3M2ejU3RWJ3aHZGR3h0R2IzbllEWC1ra0Z5YU9UNXVGVklhZ3FnWWRaWmxrT2djbkhBRjJNYmhuRGpydFNvdFpHeFBaai0yOWZZR2JJUQ?oc=5",
         "date": "2026-10-16T12:45:24+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Project Odeon: Microsoft prueba una app idéntica a Configuración en la Store de Windows para acabar con el Panel de Control",
+        "description": "Project Odeon: Microsoft prueba una app idéntica a Configuración en la Store de Windows para acabar con el Panel de Control SoftZone",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWVpUllHeEVMdFl4LXRjdGx2TGdKeU9YcW5kRzB2dzd4UlNUdGxHQ0d4cHJXRm96TkNJQXNCS2d3bkg0OVFoMHZIZVc1bVlGTGZ3d0xraEItblpsX1NMRVhVZ2FNNmlPNFQ2Rk9QQ1ZRMmxiSlpqY0xQWHB1TVNJeF9aZnBIRUtlNWt3?oc=5",
+        "date": "2026-10-16T14:54:25+00:00",
+        "source": "SoftZone"
       },
       {
         "title": "La justicia convalidó la demanda de PERFIL contra OpenAI y Microsoft",
@@ -43,6 +36,13 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVXFRZlFWblhLSVNUbXlTVzYybkFDS2l5Qzk0a3Vnc2J4LWdHUGxSb3NvNHU2WldaQlZrODMya2F2VjZDb2NTckEzcnlZNnFYOVl4aHRDc1NmY3F3VGFwV3NNbXNFX05DUlgtby1sLXZfOE9kUUpOYmtoVDR1RHdzdnRmaEhXV3BJYlRGVTZCVGMyU0d3RXNVUVZpLVp0ZkVBRUhGXy01eXBEdWtUbFp0UGdheDFENFlKaEVIUXhOMUJCUUZXd0VXa0s3WTNyVjBRMllaQlRwME1rVmEwa3RpSC1aencyVXNaWjRycdIBgAJBVV95cUxQckVxYmlvYWZ1UXg2UjdNaE9xYm14TV9ObDBJU1JOT2ZuMW9pM3M1Rmd0MVJrZl95UGl2QnA5UUlON3VjZFpnRmo4TjljcjdiNV9fUFZlbkhUYWFyYmtxR0h1TTJNenNoYkF1amR5dWdDd2ZuRjUtWjctejlweWFnbmpTRm1xek9WTDY5ZnB5WnNDUm1VSGd5VDkwRUw3alFmd3I5Q1E1Z0JuYVZZN2ZiWWFtQjFWMzg5QTdfTER6U21pZnAtS3lxWG1IbUtfSXdTRWRXbE51TzlYUWN6N3QxQUVBLTF5ZEFjZWJuVmVkRkZEOW5Wc1l3Wk9NS0lCQkRn?oc=5",
         "date": "2026-10-17T03:15:00+00:00",
         "source": "EL PAÍS"
+      },
+      {
+        "title": "‘Acts of Blood’ fija su lanzamiento en Steam y Microsoft Store para diciembre",
+        "description": "‘Acts of Blood’ fija su lanzamiento en Steam y Microsoft Store para diciembre Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUxhcUJTX0l4bmdRd0w0ZEY2SDZIT3hzMmFFTmhQRnBRVTB2aWY1anFIUFpHcnpOVk5ocUx6Q3JQNW9UeTdDT1FVRnRJbDdwZWJqM3J4SFhHTlp3bmplUk5QeENhNjhMVVhWQlhWYmxjN1cyUEZQN0liRzV6Rk5aMWVnWVlNRno5WTk0MHNTdFdHRndzOXRoRHBadjNjR2NCdS1wejFQWVRyRG1hMlViZU81Mk5tUVBOa05MX2RMczZDY3hr0gHfAUFVX3lxTFBlUW0waVFFckpYRkZRNE9TMHp0V3pUTmdLa2JXM3BrTEdyQ3ZWbjI4X28wbWlmcU1kRkhRTVZpUld2XzExWGhhNzRMa0ZLekRDT0o2NVdlcXdfdm1mYnBDdFZhcERZNkNtdWVPTEdmMDVTQnhDazA5QUd6RUV5LVQ4NllhOU1tTE4tMThjTzBvMlQzV09aUzFPT3htWmtzaWR2QzdDVUo0dC15VEZ3ZktUMmtLbFpuTDM3NE1ZZGYxbVZObWJQdS14eDRfb29fTTBmX09xeUt6Mm52czlBZVk?oc=5",
+        "date": "2026-10-15T19:25:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Shrek 2 Remastered es filtrado por la tienda de Microsoft – Detalles y Trailer de Gameplay",
@@ -61,13 +61,6 @@
         "source": "Gobierno de Venado Tuerto"
       },
       {
-        "title": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000",
-        "description": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000 Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjI2bkVKem51Wm1JRXBNS1hhNG5zbEZHWmpWM3RxSWEwdllYZzZXNDNueUhkZklXQjVnbFo1d3BSTllfWFRRcWEtajFZMm9RRi11NWNYWERiLXlOajJsZndZYXhEUm5DUkVkd3U3Ui03T2t4LURMYjRidFZaS3RWTE9OWnVuR2lCNVlTUDA3WWFxUXRrenZndjBHTXl6TGxGM2FXNFJoMGRKTFB0eWpHODQxUk5oekdUSklr?oc=5",
-        "date": "2026-10-17T09:01:45+00:00",
-        "source": "Clarin.com"
-      },
-      {
         "title": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital",
         "description": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital DossierNet",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5yWnRMME43TUFrME5ZZjk2ZFlBNVAwcmdrZzFJREd0QXI5a2JjNThOcWw3SEF4TDNMRUxaTXFsV2NfUnJXV0s1cmNDenhtWkhLOVBxOWZjZVFPWmIyenIxYldDSFRmODZvUjFFaTRQcVdxUWZROTBEaXVqMXVCQmtZR2RzTWRVc0xIMlhnX292MUQ2RGhSY0xFWGo2ZjBTZkprMjIxVQ?oc=5",
@@ -75,11 +68,25 @@
         "source": "DossierNet"
       },
       {
+        "title": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000",
+        "description": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000 Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjI2bkVKem51Wm1JRXBNS1hhNG5zbEZHWmpWM3RxSWEwdllYZzZXNDNueUhkZklXQjVnbFo1d3BSTllfWFRRcWEtajFZMm9RRi11NWNYWERiLXlOajJsZndZYXhEUm5DUkVkd3U3Ui03T2t4LURMYjRidFZaS3RWTE9OWnVuR2lCNVlTUDA3WWFxUXRrenZndjBHTXl6TGxGM2FXNFJoMGRKTFB0eWpHODQxUk5oekdUSklr?oc=5",
+        "date": "2026-10-17T09:01:45+00:00",
+        "source": "Clarin.com"
+      },
+      {
         "title": "“Impulso Emprendedor”: brindarán una capacitación gratuita sobre marketing digital para emprendedores",
         "description": "“Impulso Emprendedor”: brindarán una capacitación gratuita sobre marketing digital para emprendedores Sur 24 Noticias",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejdVOGFnOHlZSjhJRjZKeGJELTQyeFh5WWxqQzRBMFUxR3NiMFlmRGZtdW80WmxIZlJTZHN5TG0yS19CQnpLTDNhQ1JMdmxwZk5peEJqWUFDMlhyWDFEd0lRQ1hENFlSNkxXOTYyZkR4WEFycjdockJWbDdGRWJXcVVoVno5dUhuRXl0YW9JYmt1ajZpR0t2c1lhZWplVmtOQUhLRzV2WVR3ZlR2VWM4bWxfSzJJN3BwX3lXSmVkNlVQM3l6OGlGcDVackI?oc=5",
         "date": "2026-10-15T14:45:52+00:00",
         "source": "Sur 24 Noticias"
+      },
+      {
+        "title": "Digital Day Manizales: 3 claves de marketing digital",
+        "description": "Digital Day Manizales: 3 claves de marketing digital El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaGVrSU5uZC1Mbm50LWJqTG5CY1dET21rNy02OXJXX3NyZzdoSWxmY3pRTVFMV092eG1TTEFOUUJ0UVhVVmVzTkVQdzIxOWJsV2JMSE5iZWVENVBoQVBVNnlqZ0FyejA2Y1hsU1ZwZ0VVMzk2WXhPVjQxS0poQmZNRVRYbWRpQkxRYmc?oc=5",
+        "date": "2026-10-17T15:21:38+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
         "title": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,...",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0td3AzS292aFdYU3BJa0V4dkRudHNZaWlIa2dNQmFfUk15c2w0Y1JIdmU1bkpCTHNfTmxNS1hKSUZjYXc0SkhFdGxDV2p5M0lNd0g0WWFVUUFVLUVBd0VvXw?oc=5",
         "date": "2026-09-24T07:00:00+00:00",
         "source": "UNNE Medios"
-      },
-      {
-        "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
-        "description": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón generallavalle.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVml0NG9oMzRFd3NSNU5BRDU5eVFfWjZyekJUZjNvQzBYa1puVmFaWmdVYklZSGZ1UlV4MHoxMGRwZTd2VDlwVkQ3X1lfX19fd1FhdTc1bVFxRzRsMEROUWtia0d3bGZwNC1mY0pRR1NQVExubjdzcWdoR05rLTZzNUVwc25wRjBYdzBtaE1heEs5UGJhdi11OXRUeUJlX1czd0doX1hPWl85cjBhX1RfU2hTR19EUFd5aUo2V0txblRyaXN1YTViY3lqd0lGZENWZ2ZHQ25vX3dQNURaQXc1OQ?oc=5",
-        "date": "2026-10-09T13:44:35+00:00",
-        "source": "generallavalle.gob.ar"
       }
     ],
     "IA": [
@@ -112,11 +112,11 @@
         "source": "3DJuegos"
       },
       {
-        "title": "“El maestro es el puente entre la inteligencia artificial y los alumnos”",
-        "description": "“El maestro es el puente entre la inteligencia artificial y los alumnos” Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFo1Z3hmUXRjNWpmS3A2Yi0yT25ZbWg3TVpzVXFZdThEOWNmTWpIX0libTRBdkFyc1NoQUdfV1hObl95NXBEMXcwWFVocGFmd2xIZWNsdXVRVGM5X0xneGZycEZnQmExNEVUUVJnVGZDSzVwcFRqZ2NwUzVUa3JKdVMyR3NZeUM0RGJ0aS0za2ozMGFYYk5OaFBubVJ2S2p1bEttOU12ZjVrWDdXeUw4QmpBZ25MbWJh?oc=5",
-        "date": "2026-10-17T12:16:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Investigadores desarrollaron una inteligencia artificial capaz de reconstruir textos del griego antiguo - TN",
+        "description": "Investigadores desarrollaron una inteligencia artificial capaz de reconstruir textos del griego antiguo TN",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmFlaEJ0QUFDNnZvckxuNGk4TVlWcW1QRWU3STBlejJqRE84LWh2VHJpVmtkay1MOS01RnZjTHg3d2o2ZG85RVBfVzhyRkdMS0RJVUtmZ1VhMy1LSzVCN0hCcGZKNlluLTNHeXQwSWk2UWptbGRiNE9ERWdMQWdMallURHZNSVg4OVVsaTlIY2NyNU5mUU5DbHJkWmNrZmhyVzAzTEwtcW14MjR4NXlfZ3RZRjRLSzlrNVlEX3E3R2dxSmpEZ1JNeDB5ZzFzbDJiVmNfQl82RnNFQdIB7gFBVV95cUxQT09RWjZDMVRwS0llQklsQnRFYS1xeWJnVlhkS1p2aGNaSGY3S25iT29fU3M3c3FZYnRzVDFsZHB0a1ZmdjAtWUx2Yk5PamlWNU5lWTE3NkhlM056cVM4ODZ6RzFYTmFKaDZqenVKMHlOVVNDU09zeWdpa0JPNlhFcjBMOEVvYjMtRHRnU0w2WWxhY1dtUU1Hd3R5M21qQlBCV0VyTURKcFNlaVRnMWNzem5ZVDhhQnJmNllCQlJYSEh2UkdSVVBRbTd3OXRYQkY5SGNwV3pjUEhMTU1TaENTbjNuVHpMT0FsQ1hFYXJn?oc=5",
+        "date": "2026-10-17T16:36:26+00:00",
+        "source": "TN"
       },
       {
         "title": "Inteligencia artificial, narcos, venganza y literatura: las ocho novelas que compiten por el Premio Clarín Novela",
@@ -133,11 +133,11 @@
         "source": "Infobae"
       },
       {
-        "title": "Los empleados usan IA sin autorización y exponen datos de sus empresas: qué es el Shadow AI - TN",
-        "description": "Los empleados usan IA sin autorización y exponen datos de sus empresas: qué es el Shadow AI TN",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNm4wRWRReEcyZE9zSEV6dGNtdTNpZ0tHU3BRcFVRa0F2TEU2d1RsTjVwbzFHVEJuYnFlTnVvOTNDYjYtRVF0NWVFZzItamtKa1JXUzQ1VTVqbUlkZm8yWEdlWVlySjEwbkdQNXg3NWY1dmFrQzA2THUzYTc5TTY1Z25oNUdDNl9sTE00d3hOanRDOTEwbURWR3JpR3N3MEpzWHhxaVpKc09qclh3YWJ6RmZSM1Vvb1FVd2NBZ1JITmlDX1ZVR1M0Qm5wbHRmb3B6aGVxcEdhN2xrZS1n0gHwAUFVX3lxTE9LN09BZGV3amdQS2IwLUxiTF9NQlFsTHBCMUFHTWU1UkliY3ZwSVhpWEVXQXhFTkEtRUJVVUVGQ0ZKWWQtQkUwTUVrbi1rTDRWNldNX0RIckkzZ3NYXzVualhqNURHazl6dWxWeHZSNmtZeno1aGhyWnI4Z0RsZlNraXhUdUZLS0o4SkM1WF9zRGl5RUVuUmhuWFoyX1ZuM2Y3d25DQlQ1aWw1YnUzZUh3WE5YWU94bHF3STJ6YWJJbHhXc0toNV9FOWJEanVxOW5KWG5qYkJuQ3lZMUVyRHRvVVp3d3F3R1ViVDIyM21aWg?oc=5",
-        "date": "2026-10-17T10:44:00+00:00",
-        "source": "TN"
+        "title": "“El maestro es el puente entre la inteligencia artificial y los alumnos”",
+        "description": "“El maestro es el puente entre la inteligencia artificial y los alumnos” Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFo1Z3hmUXRjNWpmS3A2Yi0yT25ZbWg3TVpzVXFZdThEOWNmTWpIX0libTRBdkFyc1NoQUdfV1hObl95NXBEMXcwWFVocGFmd2xIZWNsdXVRVGM5X0xneGZycEZnQmExNEVUUVJnVGZDSzVwcFRqZ2NwUzVUa3JKdVMyR3NZeUM0RGJ0aS0za2ozMGFYYk5OaFBubVJ2S2p1bEttOU12ZjVrWDdXeUw4QmpBZ25MbWJh?oc=5",
+        "date": "2026-10-17T12:16:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       },
       {
         "title": "Alexander Ditzend: “El más probable de todos los futuros posibles es el paraíso”",
@@ -156,11 +156,25 @@
     ],
     "Vaca Muerta": [
       {
-        "title": "Un gasoducto entre Vaca Muerta y Brasil se mete en la agenda del ballotage entre Lula y Bolsonaro",
-        "description": "Un gasoducto entre Vaca Muerta y Brasil se mete en la agenda del ballotage entre Lula y Bolsonaro econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDJMUlllSTRGMEZrM2kxVVZ4UWxibmhLOG41S1h1NXd6LVNtR2E4TVpMX1d5Q1BTdGdkMzRjVF9vOTZFNEpWNTdwaU1TVlBmQWxzWmtmUjJuMW14bkwwc1YwSllMcWFfOVNsMVZxMUx6dC1lTXAwZjNyUWxlSk5yRjlQN1JJQTF4S2Y3MF9XZVVBTE9MWUpMSDcwYm1OSVN5aTFDLWZ5YzFtcWpnSXVoRS0zNE1QcGdFcWdWM3VvRXIxdFZidUxTQ1NKMDktdw?oc=5",
-        "date": "2026-10-16T12:52:24+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Vaca Muerta impulsa las exportaciones de energía y consolida el superávit",
+        "description": "Vaca Muerta impulsa las exportaciones de energía y consolida el superávit Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM3VHLXZHNE9zcS04cmVTazNmdm83SWxNTjEtUVRVNVhPdWhJLWk1QWtLYnNUaS1KNGYxOElfdm5xRjVRRWdRak9PVUl0N1F4VTVKTmU3d1lYODZqaXhBb0NUaF9jUlU4RmdKWHV0cGZXNnEwZ05WZGFJUUYzemlqODJMZmFDbDNZY3I2STA1SHJVNkhablVnNkMyZVhaaENPTXdPdWRGWUV5ZU00UzZCTzU5UHkwQklJVkHSAb8BQVVfeXFMTUhhZkdNNDVUVUNYZ1pGN0NBQmlqMFNzWjZERmZJQUpZVmM2cjA2eHRyM3dlZDZsVTFNOFFienU4U1FFRHZHZmhjUjRldzFDd2VINmVEUDdZbGRoLS1wZmEtaVpjeDRPekpDUl90dmdZTEtLcXY3dE5GdndoUVBScmdtZHJFTk9FV0RiYS1Pbzh1eWh5UExpa3haTG5YWmQwWkVPaHYyRk11WV8wMDlOMF9MSi1MYWltU0R6cEI3RTg?oc=5",
+        "date": "2026-10-15T13:38:35+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Más inversión, más exportaciones y menos subsidios: cómo Vaca Muerta cambió la ecuación energética",
+        "description": "Más inversión, más exportaciones y menos subsidios: cómo Vaca Muerta cambió la ecuación energética La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUll2V3drYkhBN2hnV19wd3BGOXFQeGY5ZWc2TlBqNTJBR3pLUWo1VGl2bmFmYTBIMG5jUmpSdHU1dkRUSnZvck9RUDNVNl80eFhRclNzbFZSOWc0ZFdXejZ2X19HZmZPZ0tXWnBiekppeXM1ZC1yUE1iazhkV1NRVVJJT3NNVHZ2b0U1bWxwTkhUclJfblpUVEZKTjhJOGpJa28zS0p3Rml6aFVHUlJfRC1zWnloZGJvRlc1bThxckZGWVp1ZHFKWEpDTHY2bk5OVHIxaUZTWVVpdUhQRlow?oc=5",
+        "date": "2026-10-15T15:36:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Petróleo caro, Vaca Muerta en alza: la oportunidad millonaria que mira el mercado - El Economista",
+        "description": "Petróleo caro, Vaca Muerta en alza: la oportunidad millonaria que mira el mercado El Economista - Últimas noticias económicas y financieras",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0pMbWlMSnRpWXQyZmgyQm1xY1lyZ09ST1JjandmN2xSeV83STNObmhZTjhpeTJ5bnc0SjhpdTZ6ZERUS0xUZFcwU2YwTWh2V25LZUxuTDhFMFpZVFlNZ1dybE5vRzRpSGI0dlRicEJIdkRIc2xRTEtvUlZHcVFvSldCWXRVT05EN01wYlhUT2Nmb3Q5eFVrc2trajNiYW5seDJMWS1XZklXOTRuMVHSAbMBQVVfeXFMTXNfVVY1ZWNUZU9McUIyclR2LXNQOXEwTGZnbU5UX2NWOV9nMGVDaUstRXBSQ0JfYUF0Sml2V2l2NXBiamUtUWhJWTZoWmM4TjFZelpjZVpYaUxVVmdyemZ6OU9zVy1KWnh3d2prOExDMGYzanc1YTNiR3dHNUFSLWlORS1ZeEViXzVYcXFUWVplTHVBTzhNNS1QN1FsRGhOS2F5cl9Ca2laRHFoYkQyTENqWFU?oc=5",
+        "date": "2026-10-15T18:37:00+00:00",
+        "source": "El Economista - Últimas noticias económicas y financieras"
       },
       {
         "title": "Efecto Vaca Muerta: las cadenas y locales gastronómicos aceleran sus aperturas en Neuquén",
@@ -170,39 +184,25 @@
         "source": "Forbes Argentina"
       },
       {
-        "title": "Intensas lluvias e inundaciones afectan la zona hidrocarburífera Vaca Muerta en Argentina",
-        "description": "Intensas lluvias e inundaciones afectan la zona hidrocarburífera Vaca Muerta en Argentina Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeExOR3RWVmVUNVFscGFFeDNxU0UzYWhZOUx0dHluMWYwTHVBQ3ZhbDhETXhrMURpU2lna1pTeHBrenBKSEpiQWNtMjh1WnR2Y09leTA0aHI1bnQ0V25VVTlJcHV3djRncG5Tc0NPY0Q2UWV6cUpqS1F1M1RqbXhpRHY5dXY2eTc2NkFJMzdwQjQ0VUktUGtENlhlU19Ub0laUXFMLUNUTGNWbXpPbnRaazVqS202T0ozWVRHR3VZajRZQ2NtT2hGRTdsSzA0dzQyUjQtdTl6YUszQdIB9AFBVV95cUxPdkdMekc5RHNOZXI0WlFxcGpIcTFUeWlXOVRBdFk4aHpmQjExa0xFN1liSlEtRXNGVnVRaHlodmo2WVdTT2dGNmQtblBBOGhwbTcxWXpkQTMwdlBkR2ZLWGNKallFN2tfalAxR0RkdldCU01aV2drQ0RZaXdiSzlfSmFtYkRDUEl6dkFrazUyX2I2T2szTnFjYmJ0YnNKVmdVaE9ISVVTNFdRbDJuOTQ1VkhYSDhELW1JdTB3WmVPUVJpSXRsX0hpX1Npb1ViSmNCUnhuLXdWakd3MTdkMDc0S200d1Azc2RVU3h3TE1TZzhVR1VJ?oc=5",
-        "date": "2026-10-16T21:11:33+00:00",
-        "source": "Infobae"
+        "title": "Vaca Muerta: Neuquén negocia con TotalEnergies un bono de US$ 150 millones para avanzar con la explotación de un área estratégica",
+        "description": "Vaca Muerta: Neuquén negocia con TotalEnergies un bono de US$ 150 millones para avanzar con la explotación de un área estratégica econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWlyTDNRQ2NUOFJmS1N2WE5Hbm91eWFrdUJFb29FU3dEWkZ2M2gzc3hsQU5QMF8wcm5jRkpjVTh4em9zOEVfSHh4MnhyYVVsazh0SDNXNUtsSzY5R1llLW0xbGRrR2ZpZ2ZqQ3pzcWFHVHZNTjhHUnVyOEpsNF9tYnhQbmM5NHB5VER6REtPVmo4V2t1OHZ2NTY1dTJ1XzFDRzcyTEJXVklXeDlFYlA0NjhyQThQRV9QZVN3azJBQWpFb2s?oc=5",
+        "date": "2026-10-16T18:41:20+00:00",
+        "source": "econojournal.com.ar"
       },
       {
-        "title": "Corte total de la Ruta 5 por la crecida del arroyo Carranza en Vaca Muerta: trabajan para reconstruir el desvío",
-        "description": "Corte total de la Ruta 5 por la crecida del arroyo Carranza en Vaca Muerta: trabajan para reconstruir el desvío Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR2tzZWhoNlYwb2lySmhtVVVKQlhKS3ZDVC1oNWRJNXduUjF5TjZRYkwwd0Q2cGRSY210S2JWLTNjaFIxaENMOGZJMmhZUVVTOEg1WHUxTVBRNTYxdl9PUGVyYUlhVzRlMjZoZEVmencwRV9lQXZFOUYzWjZmVWxKdkFnSkhSbDJ0Q1JYUldobnJ0OFplWmJFaXBSTlY1TldlTDlkVWZ2UllLLWZ0a1hSRjBrNFJKTDVZeEFMQkg5bTdUY21LS0RIYmdtaU16VVZxcTZHQnByS3JZM2JWdGVIUUU4RkxKZHlIMmJjX0lB?oc=5",
-        "date": "2026-10-17T12:40:03+00:00",
+        "title": "Horacio Marín expuso ante el CICyP sobre el futuro de YPF y las inversiones en Vaca Muerta",
+        "description": "Horacio Marín expuso ante el CICyP sobre el futuro de YPF y las inversiones en Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSHhkVDB5dlp0WGplaDVlVy1IbUtqdjh6V3dnTkRJbk43RV8xY3o2bERwS2tqVzl0VzVnanJ6RGtwQmY1Z1g4RkQ3V2o0X2FkUzdlQUtnV0VsN3NtUmFXdi1nYWpXZ1dxMzdLY2JnMmVSU1Q1ZEt6NFFtSXItYzVtVHZaSWlTSDlHNURFZWZ3eXpxMHdaSW5NWGxIRG5MT3hrenhaN3ExN0UxemdjZER4am5wbHQxMXpRLVFpUER2NmlHYVF6Y1R2ZlZWbkpuRjlVTXRmUFhpWQ?oc=5",
+        "date": "2026-10-15T13:32:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Exclusiva con Marín de YPF: \"Ya estamos enviando arena por tren a Vaca Muerta\"",
+        "description": "Exclusiva con Marín de YPF: \"Ya estamos enviando arena por tren a Vaca Muerta\" Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FJaGdfQ1RWQkh2dzBDWEZKZTRkV0F1RVlvcXhjS2ZTWDRwdFJYLTc0VWpwWWdmYS1raVhzMTJDVzNFTXJRZDNDdW9Pd3RZaVNROUJNRklkUDZ3MmdCZkxSQ0ZfREszMVhCUWhYZTdhYWpmbDU2ckVhdFJRT2JxMVVOemZzdHdhRHlLQ2g5OF9ramZYT0trbkl2cXd1VS1vb0dhMDlBM25HSWc3QktWTFZB0gG6AUFVX3lxTE5mbzVSSlcyOUFHTWx6LWRrRGRycWFVMEhkUXJHY0pwY3pNS3dVaHlKX04yaHBVdXFFQ1hHY3hNbWRJaHJIaUcycWFQSEVzRUt1TlRfazBxdkR3Umd2RThjYVVxdVpfZ3hyMU0yVm43MUFBdmttWFVRX1NCTFNYajdlbXEyNUtnZC1FUExWQllYa3dSWlRwVjRKd0Uxc0ZLRnVQSnY1eDd0NEttQjZIRm9IMXhBMjBZMUxodw?oc=5",
+        "date": "2026-10-17T03:30:00+00:00",
         "source": "Diario Río Negro"
-      },
-      {
-        "title": "El Niño en Vaca Muerta: una tormenta repentina inundó las calles de barro y los vecinos tuvieron que salir de sus casas en kayak",
-        "description": "El Niño en Vaca Muerta: una tormenta repentina inundó las calles de barro y los vecinos tuvieron que salir de sus casas en kayak Radio Mitre",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQR25MRk5zNENMVjVuUmNOVmJON0dySUpYQ05GT2V1NHptUjFYYkREZFpwdF96Q1Nmc0psWmtzck50dXJmdW1mM213azJ1SXF5REdCOEt0di1CNFVBYld3Ml9IRmFGOTBBaUhiOGsxLW1xYnYyUHNoSDJVb0daMlBhc2lwbEliaEM1WS1OcldaMmtIQlF5cmVUaFhzQ2YzTnFFdjA3TmJMbGFJSnpLNHcwWVVpTnRHdFpFQzlXU0xlcm92M1FJQ0kyWjJmVHF3cFZPaXFTMGd4U25qcVhiZEpYSlFfUmxCSUVPLTdlM3RaR2V6aTZzNHgtcTVHODlTcl9T?oc=5",
-        "date": "2026-10-16T11:58:37+00:00",
-        "source": "Radio Mitre"
-      },
-      {
-        "title": "La \"Vaca Muerta del cobre\" promete inversión de u$s15.000 millones y miles de empleos",
-        "description": "La \"Vaca Muerta del cobre\" promete inversión de u$s15.000 millones y miles de empleos iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGtCOTU5TnRVbHU3a3JhbVpfejFULU9ZZTdjdHU5UVJSeGt3ZGItMDBlWkxudUVjLUMwZ0R4ZG1wOHYwN0RSUGUzV2U1R0k1RzFsQ2N4NXRQTWNCcjIyMk1Fd2pTLXBuenFyRDQwQzJqUDdnazRJeWFuc1ozSE1MLVBKMDNveDlXdmJTeE5SejRRUThvZEY3ZzVuX2ktTmQ0UmhQNXM5SktGVE1FMVBnbzJpbnNQam0yaWlCODIwTEFJU1B2QlJwY9IBzgFBVV95cUxPZk05Ym05Y1FKZXlXSXZpbm9OMW9XN09pN0FkLW51QTZJZk1tYzBxRkVad01HUVFhQ2hBY2c1dFBwUTZTWlRKQjBxYXRfTHprYzMxYjkyZGV2VF95QUFWUWQ0LVpnRUl5aEZaRVVsV0c0ODRYd1NaRWhUUm5PbHhTclQyVDVobGhYcV9EVUh4MmZCY3JfVWRXNC1HM2psSXhQZGRrOHJseDU4R2ctSlBTVkdQZ2R0ZDFlNk8zZjRWcUFVTVE1RUR0VHNuMHRDUQ?oc=5",
-        "date": "2026-10-16T21:05:00+00:00",
-        "source": "iProfesional"
-      },
-      {
-        "title": "Las pymes petroleras bonaerenses se hunden pese al boom de Vaca Muerta",
-        "description": "Las pymes petroleras bonaerenses se hunden pese al boom de Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzhYaTg3R0dLTVdmQ2JZWGJWTGtMaWpDcHdiTmFFM2tvd1B3WlJHalJqZTNoRlNNeTBOa3BfTlJGeUgxdGlHMl93eFRwMmJXWUJQbTF4X2daOXh2aWNrclZNc3J0TGJDNXJjcWFfYnlGNFAxR3FlSkdpVUM5NGtPUHRKZ1lGUWZpdERkVzJFTzhfdVpoOG8xTkFmNEw3MEdEMHhLcEZ2LU5qLTA5elRB?oc=5",
-        "date": "2026-10-16T22:12:00+00:00",
-        "source": "Página|12"
       }
     ]
   }
