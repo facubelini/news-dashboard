@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-10-18T10:13:52Z",
+  "updated_at": "2026-10-18T14:13:41Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft se retira de un acuerdo de centro de datos en el Reino Unido con Nscale",
-        "description": "Microsoft se retira de un acuerdo de centro de datos en el Reino Unido con Nscale Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSzBWbjZBVndOcHhHaklua3NiM21UQXFTbkN4WkNMVExYVXJMYTBRckNTVnRVV3V6ZnRxOERyb2Y3MHBRcFdRNmx5RDBkX3p6SVlNa1NQSmJ0RFRjSTNBcUIxR2J2RmJaQ05UWGVPUzFRVldUSVJhWDB5UU5ZVnExbm9QQ3d1eExTeHZwNnRwa3Fxc3J2TmYtcWpPM1Zmd3lTYnRSNHpGdUNKVkpiaDVKZ1F0MDZ6QWQ0OUo5anN6ZUgwNUduVW0zMmZBUDU?oc=5",
-        "date": "2026-10-18T09:22:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
-        "title": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale - Investing.com México",
-        "description": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale Investing.com México - Finanzas, Bolsa y Forex",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSXJRUi1Kam83dG9SQ2JONFVQb1RJU2hNMkF6V0VfZjNJcWxzOXRjWlJQTzEyX2NRVzFMbE5YbHFZT1NQUTltRlgyV29wY0xkRExvQzNLZmt4ajNJMlB5anZyRldWRXllV2JHM0tOYk1SZEE4RXI5SUlLRWp0cVpsYTU5YjNjMEl1UnlheGNpeTMzWkFJbVZvNnlFYWdGY3pTOGZ6SnpjVi11WktnU18xSWx3SGlDUnFlalQtMmNCaW9ockdV?oc=5",
-        "date": "2026-10-18T09:27:43+00:00",
-        "source": "Investing.com México - Finanzas, Bolsa y Forex"
+        "title": "Microsoft hizo que Windows 11 ande 20% más rápido en las computadoras con menos memoria",
+        "description": "Microsoft hizo que Windows 11 ande 20% más rápido en las computadoras con menos memoria Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGFIVVBkQURQTlJyb0poU2xZWjZWSWI0RkpVbFhlYlBwbnJadEpwSERUX3dscW1vUzFKTUh5Q21ITThnS3RLVTdTQUlYZ19nMHpvQlV5bkdDb1Z6c1FRWGJQNnRrRlR4QXhGUWs3QmotdUdXdTBYenFxeDZpNzQwTmtyYlRRWHowY0ludlFuMzVzT01TalBKWjJFYnluaHFnT0JHelZEZXRvOFdqSVp3WVZXVXlmZ2c1T194djd2TmU3cWhxMXVz0gHiAUFVX3lxTE5MQTRwbnBYeGJmcGF0VUhkaWZvaDNPVnkwLVp2MmhGcE9GeThBQlJVQzRnY21BTmctRWM5LVFGV3J6UWlueGVwcThWaHpZVGE5c3Yxc2xZVVB1V0NHRUhSY1ZXVUdpVTl4VDdsb3NjZjdmZ0NkckEtM08taUt2ZE84dFE5NWpnRk9KVG9UcUZwZTN1czZGSlZYTnZXMV8wdUpEVm15cXM4WFZBVTNvR0x6ZFhGR1Nfdll0OFAzVy1wMHZuWWJtb1NtOXNqZG5fUzh1NExIUHNBa2YwU2wtWEZaalE?oc=5",
+        "date": "2026-10-18T12:32:36+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Microsoft actualiza Windows 11 con optimizaciones y un mejor editor de fotos",
@@ -24,11 +17,18 @@
         "source": "La Nación"
       },
       {
-        "title": "Microsoft trabaja en Project Odeon, una 'app' de configuración para Windows 11 que podrá actualizarse desde la tienda",
-        "description": "Microsoft trabaja en Project Odeon, una 'app' de configuración para Windows 11 que podrá actualizarse desde la tienda Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPajAxU1VyaEVNRGE2aE5kSklhaTZHNlFaYlpWRGRWM1pJOWRVZWdjbWxHM2RmN1EtMHFrZXI1bExPYlJzajBrZGFydzlpZFVMZEpWU2R4Vnc1ZWpDSVQwOVNrb0FtQ1RKMWtvRG9LUi04MmtXYkNHUGxRQTZSTWw5bGpxMTNxb25EOXRDOVVpRFFXajNKMGlCWF82ZHJOejNzb2xTLWZsRmFGc2o2R1hyUThBMkItcUI3Tmt0Sm1ISldPSVBpdHd4S1preWJuS2RDZVlaMDdyVlZPVEZqSDkxWmw3aGhnbEViOXZlR2dibjVlb3pHclFVVHhsb9IBlgJBVV95cUxNUkw4c0ZEUEljelZJRm5CekJKX0xCaE5oMGlFT1I2WEhKUzJ6cGxkSVhrWjQwM0lKdmxRdDRTRm1TUUlHNnhtbnNDQ2RBcjFoSG9ZQ2tSNjdoS1RXcC1jMjU5bW1vbDJPY0F3THVOaE14UXhtWGFIVXNwb3NRcXprVzJTWU5FT1lXTXctSVF6N0x2Skl5bDNuclBsQ1U3d3g5Q1ZsRC1sOFJsajllMERRNE9RZUJQU01melI2VWxLa05MWjVrNlJuT3M2ejU3RWJ3aHZGR3h0R2IzbllEWC1ra0Z5YU9UNXVGVklhZ3FnWWRaWmxrT2djbkhBRjJNYmhuRGpydFNvdFpHeFBaai0yOWZZR2JJUQ?oc=5",
-        "date": "2026-10-16T12:45:24+00:00",
-        "source": "Infobae"
+        "title": "“Windows 11 será más rápido y menos molesto”: Microsoft cambia su mensaje para vender ordenadores",
+        "description": "“Windows 11 será más rápido y menos molesto”: Microsoft cambia su mensaje para vender ordenadores SoftZone",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZG5xUmJzV1JGaDF3U25IWjROYlp6WEdrcWVxYmE0UUhzV3lIc1lJTzdyQzhNeVRiaUk5TWI5M2h0dUZyUml0UzhSYl9HWDFPZDI2TVk5TUNXYzloT2tBUTY3dFBtSEVzdVRqbTBxZXVXcmZJam1RY21qSjRldGhjNFJuMXE5Uk5yTHVNM3lB?oc=5",
+        "date": "2026-10-16T13:16:10+00:00",
+        "source": "SoftZone"
+      },
+      {
+        "title": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale",
+        "description": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2llT2tNVEdDUE1YWDBoR1Q5LVJEUUZ3U2NxUHBDWlBZVldaSm1Vem9wZm9ZaTAxUDgwSTZhczFHNnZ0a0E3NFdMb0lNRDZSU3dsdlRhSFMzWlR2SV8yYTUwTDJJdFpGNmJJdEpwWWNobXQyRVRaTndRU19mT0J4VXNZQ0VNOHNXQUNXbzN4S2xFR1M1UDVVaWVn?oc=5",
+        "date": "2026-10-18T09:52:53+00:00",
+        "source": "Yahoo Finanzas"
       },
       {
         "title": "Microsoft vuelve a los cuatro billones en Bolsa y recupera su papel como uno de los actores principales en la IA",
@@ -45,11 +45,11 @@
         "source": "Genbeta"
       },
       {
-        "title": "La justicia convalidó la demanda de PERFIL contra OpenAI y Microsoft",
-        "description": "La justicia convalidó la demanda de PERFIL contra OpenAI y Microsoft Perfil",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1ZlcG14ZjlHYjFCWVVHYmRzX0pOaFNrVjE0X1RpUWZ0WExuc2xSaUp5QUNoTUQ5N3pCQkd5LWNmUjNaclFFcjMzR1FMRnVDTVZ4c0diSFIxdV9EWUktc29Wd0hpN29YR2NWMU5vTnpHX0JzbmFXcnFyUzhRVjBsZWswcUcta3MyRVVCaXZHQVNSSUFSb0NBTmYwWWtoTFlQS3pJYmJzMHVwTlpZbmMzRVc0ay0za3liRVVEd2ttQnRaZXVMSjRjdzBJYljSAdIBQVVfeXFMUEZsNHd5U3Z6dEt4S2RSQkhKajdmdGRwZ1d2dEZoWlNZcjVzeDNBUUVsNjl1TTg4eGd0QTB0OHhRLWJfelVIM0piOFJSTmNBcnRQbDJnZlJ2NzZhZEIzdVRXZGExeFdxNUp5YUhpcDR1SnJrSC1vUUtpbVduLUdPcGtNLVZrWXAwRFl4ZW84YjJDV3BKMVBUSHRTTnEzOUU4RmloUHI1OW5wX1BnMnB1dUFnekU5STRJRW9CSDVGN3RLbFlhckxFV1FwMllzbldJMmpB?oc=5",
-        "date": "2026-10-15T02:05:47+00:00",
-        "source": "Perfil"
+        "title": "El almacenamiento de Microsoft 365 será más \"flexible\". Es decir, te bajan el espacio, pero te cobran lo mismo",
+        "description": "El almacenamiento de Microsoft 365 será más \"flexible\". Es decir, te bajan el espacio, pero te cobran lo mismo El Grupo Informático",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzdkd1J0ZUdneDZFOFpjUG5idnlEeFJjSUhCUjBEX3NFT2RrT1k1Qi1NTnA3bzVmMFpqZWxSc251S19kbVRuRWQyWG50RkY0QUhsLXdWQXNJY2JxcExtU1dkdE9Va0RTLUJfeko5SVphRFF3SDd2cXhhR0ZDYkVaUFZOcWw5cDFmTktjTTBWeFlmM003ZUtuTWw2Q0hWaXVIR3Y5N19naw?oc=5",
+        "date": "2026-10-18T10:49:45+00:00",
+        "source": "El Grupo Informático"
       }
     ],
     "Marketing": [
@@ -75,13 +75,6 @@
         "source": "Sur 24 Noticias"
       },
       {
-        "title": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,...",
-        "description": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,... Perfil",
-        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTUFjSm1DU3kwUWVGcEkxckdsTmVYT1FUakw3TWJtS1Bab0NTazFtTVcxRldWV3U4dFpZQTJELU54elNCWmU4RG1HRnlnSE9STkRsZVMza1pPZExzZEZWeTRLSUdXSEw5N2dvODdHUVdocERLVGsxQlBMQnZrLS1rMG9lU1M3WXhtajhIeVZMRWZuS2tEMTdXQzNpWl8tLTJ5dDk5cDhqZ1NrdDhUcEpzV3c1cS1QenVHQjBFYWJwMENkbmtHVi1kS2Y3dkpQeWptRkVlU2tmSGxkOFFmdzBuVnhrZE8wdWlNUGw1S21FekJLWUlDV2FOUC1HQlh3Q3YxeEMwNHd5M3VKcFh3YUNxVkZzZkN0azgxLXZj0gGgAkFVX3lxTE8zSGd0TnZaXzBLSWZXWEF2U0RhSmszTkFGQVJxSHVrREZkbFRyVXMwcUNCNjVTUjZRTXl5Q2NxWUhneWFZMFdWQmFNZHFMb1ZNNHdtTm95ajl0VFFia2FpN2RhYjFXOEhZSTlsYVNPVnVMNkFMU2pvbEI0MFllc3poSnVaZHVBOG9wTGtFaUpPOTFTbGtsWm9iTW54eThpR2xienRxRE9SX0dnZmtVTUhvN3ZPbTF1QVZhRFpSWU5yM2ViVzRjY1NaTWVHUm0tYnlfcjFXN2ZFMjdmVVlKNXoxbWFuWV9JVFhtR3d0NF9vd2I2UDJDOXhFcVIxNUN3RWpHaGh4NnRTYkZ0VjdsYjF2c0dQenBXTS10TXFZLW1pNQ?oc=5",
-        "date": "2026-10-16T16:27:23+00:00",
-        "source": "Perfil"
-      },
-      {
         "title": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000",
         "description": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000 Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjI2bkVKem51Wm1JRXBNS1hhNG5zbEZHWmpWM3RxSWEwdllYZzZXNDNueUhkZklXQjVnbFo1d3BSTllfWFRRcWEtajFZMm9RRi11NWNYWERiLXlOajJsZndZYXhEUm5DUkVkd3U3Ui03T2t4LURMYjRidFZaS3RWTE9OWnVuR2lCNVlTUDA3WWFxUXRrenZndjBHTXl6TGxGM2FXNFJoMGRKTFB0eWpHODQxUk5oekdUSklr?oc=5",
@@ -89,11 +82,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,...",
+        "description": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,... Perfil",
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTUFjSm1DU3kwUWVGcEkxckdsTmVYT1FUakw3TWJtS1Bab0NTazFtTVcxRldWV3U4dFpZQTJELU54elNCWmU4RG1HRnlnSE9STkRsZVMza1pPZExzZEZWeTRLSUdXSEw5N2dvODdHUVdocERLVGsxQlBMQnZrLS1rMG9lU1M3WXhtajhIeVZMRWZuS2tEMTdXQzNpWl8tLTJ5dDk5cDhqZ1NrdDhUcEpzV3c1cS1QenVHQjBFYWJwMENkbmtHVi1kS2Y3dkpQeWptRkVlU2tmSGxkOFFmdzBuVnhrZE8wdWlNUGw1S21FekJLWUlDV2FOUC1HQlh3Q3YxeEMwNHd5M3VKcFh3YUNxVkZzZkN0azgxLXZj0gGgAkFVX3lxTE8zSGd0TnZaXzBLSWZXWEF2U0RhSmszTkFGQVJxSHVrREZkbFRyVXMwcUNCNjVTUjZRTXl5Q2NxWUhneWFZMFdWQmFNZHFMb1ZNNHdtTm95ajl0VFFia2FpN2RhYjFXOEhZSTlsYVNPVnVMNkFMU2pvbEI0MFllc3poSnVaZHVBOG9wTGtFaUpPOTFTbGtsWm9iTW54eThpR2xienRxRE9SX0dnZmtVTUhvN3ZPbTF1QVZhRFpSWU5yM2ViVzRjY1NaTWVHUm0tYnlfcjFXN2ZFMjdmVVlKNXoxbWFuWV9JVFhtR3d0NF9vd2I2UDJDOXhFcVIxNUN3RWpHaGh4NnRTYkZ0VjdsYjF2c0dQenBXTS10TXFZLW1pNQ?oc=5",
+        "date": "2026-10-16T16:27:23+00:00",
+        "source": "Perfil"
       },
       {
         "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
@@ -101,6 +94,13 @@
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0td3AzS292aFdYU3BJa0V4dkRudHNZaWlIa2dNQmFfUk15c2w0Y1JIdmU1bkpCTHNfTmxNS1hKSUZjYXc0SkhFdGxDV2p5M0lNd0g0WWFVUUFVLUVBd0VvXw?oc=5",
         "date": "2026-09-24T07:00:00+00:00",
         "source": "UNNE Medios"
+      },
+      {
+        "title": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón",
+        "description": "General Lavalle llevará un taller de marketing digital para emprendedores a Paraje Pavón generallavalle.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVml0NG9oMzRFd3NSNU5BRDU5eVFfWjZyekJUZjNvQzBYa1puVmFaWmdVYklZSGZ1UlV4MHoxMGRwZTd2VDlwVkQ3X1lfX19fd1FhdTc1bVFxRzRsMEROUWtia0d3bGZwNC1mY0pRR1NQVExubjdzcWdoR05rLTZzNUVwc25wRjBYdzBtaE1heEs5UGJhdi11OXRUeUJlX1czd0doX1hPWl85cjBhX1RfU2hTR19EUFd5aUo2V0txblRyaXN1YTViY3lqd0lGZENWZ2ZHQ25vX3dQNURaQXc1OQ?oc=5",
+        "date": "2026-10-09T13:44:35+00:00",
+        "source": "generallavalle.gob.ar"
       }
     ],
     "IA": [
@@ -112,11 +112,25 @@
         "source": "3DJuegos"
       },
       {
+        "title": "La inteligencia artificial no piensa",
+        "description": "La inteligencia artificial no piensa Página|12",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZ3VW1TZk1pSmZtOW5KRFpfSlZTbWZZbm1HdS1WRmRHWXFwVkt4MmFXSFdGTkZ5dnpqV00wdk5rb1ViaTZ0OTRuLWNqS0FTVW5BWEFKeTRfOUZTNkQ5QTFiR2lnM0RZdjdKLVhUOWJlNkY2ZGxJRHB2Y3dXZmVxRmlB?oc=5",
+        "date": "2026-10-18T11:24:21+00:00",
+        "source": "Página|12"
+      },
+      {
         "title": "Inteligencia artificial, narcos, venganza y literatura: las ocho novelas que compiten por el Premio Clarín Novela",
         "description": "Inteligencia artificial, narcos, venganza y literatura: las ocho novelas que compiten por el Premio Clarín Novela Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOUpUWXZKYjdfaEZJVWRCbEp0b0E3Wnh1UFFPcmY0UUR6eE9EZTZWbG5MQXA3S3RtYzdYTGlER3ZGc0dJaVoyaHZDTDVXX1I2R3ZZT3A3Qm5yRzVDYWNRMERxZ19YRVJ2MDhEUFdYWmZJX3JVM1RtckJNWElteGxoRU1VX3lFdEpOcEZWTjByb3RvWW93bGFVU29FdllUYXZ4N0MzcFhKOHlBaUU3VkVsVzVFRkVCblBGQ25VYmE3eFZsVjZnVmZYRWdyeERXT3BHaW9R?oc=5",
         "date": "2026-10-17T08:45:42+00:00",
         "source": "Clarin.com"
+      },
+      {
+        "title": "¿Qué pasaría si las máquinas se apoderaran de la ciencia?",
+        "description": "¿Qué pasaría si las máquinas se apoderaran de la ciencia? Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW9JZXAyemlUZkE0djBkZEpqaHlrbXEwYTQ0Q1c5Z3l3Uld1R19nVWRsM1pvTXlNTmZOc0lWeDVvQjAwaUlyNDduS1JSNkZicGpZOWg0VEVJRl9aeFZ5RjI0aDFpa3RLQlQxQUlhTnN3bXFOZUw2eWR0TVgteGNjSDBjcU95WUtkc2s1Slc1dElwZU1IaDlLWkpwQ1M2bkVPV1Q40gG-AUFVX3lxTE9RVkQ1cnNIVHdBUHVDTWN0SmxKREdCWHhjaVItVDVEd3JPdnJOSEJwY1RsTWRlRDBVN214X2xBNlpzSGRaeDU3N2tOOHkySHltVmpSaUYxcHFyNnUyRzRTMnFoY2V5VUF0cGxmX1Q1LWtYTkRXSnFKN0FrQ3NpQmZjcmxHYVB6cXpjdE9sTEhWcUlnTmhLcktPY1BZQ2djUWcyZHptcFJqY1p2TnNWZnRkUTRMalZRNXVvaG4xRnc?oc=5",
+        "date": "2026-10-18T08:17:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "El auge de la inteligencia artificial está amenazado por una epidemia de números poco confiables",
@@ -126,32 +140,18 @@
         "source": "La Nación"
       },
       {
-        "title": "“El maestro es el puente entre la inteligencia artificial y los alumnos”",
-        "description": "“El maestro es el puente entre la inteligencia artificial y los alumnos” Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFo1Z3hmUXRjNWpmS3A2Yi0yT25ZbWg3TVpzVXFZdThEOWNmTWpIX0libTRBdkFyc1NoQUdfV1hObl95NXBEMXcwWFVocGFmd2xIZWNsdXVRVGM5X0xneGZycEZnQmExNEVUUVJnVGZDSzVwcFRqZ2NwUzVUa3JKdVMyR3NZeUM0RGJ0aS0za2ozMGFYYk5OaFBubVJ2S2p1bEttOU12ZjVrWDdXeUw4QmpBZ25MbWJh?oc=5",
-        "date": "2026-10-17T12:16:00+00:00",
-        "source": "Agencia de Noticias San Luis"
-      },
-      {
-        "title": "Los empleados usan IA sin autorización y exponen datos de sus empresas: qué es el Shadow AI - TN",
-        "description": "Los empleados usan IA sin autorización y exponen datos de sus empresas: qué es el Shadow AI TN",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNm4wRWRReEcyZE9zSEV6dGNtdTNpZ0tHU3BRcFVRa0F2TEU2d1RsTjVwbzFHVEJuYnFlTnVvOTNDYjYtRVF0NWVFZzItamtKa1JXUzQ1VTVqbUlkZm8yWEdlWVlySjEwbkdQNXg3NWY1dmFrQzA2THUzYTc5TTY1Z25oNUdDNl9sTE00d3hOanRDOTEwbURWR3JpR3N3MEpzWHhxaVpKc09qclh3YWJ6RmZSM1Vvb1FVd2NBZ1JITmlDX1ZVR1M0Qm5wbHRmb3B6aGVxcEdhN2xrZS1n0gHwAUFVX3lxTE9LN09BZGV3amdQS2IwLUxiTF9NQlFsTHBCMUFHTWU1UkliY3ZwSVhpWEVXQXhFTkEtRUJVVUVGQ0ZKWWQtQkUwTUVrbi1rTDRWNldNX0RIckkzZ3NYXzVualhqNURHazl6dWxWeHZSNmtZeno1aGhyWnI4Z0RsZlNraXhUdUZLS0o4SkM1WF9zRGl5RUVuUmhuWFoyX1ZuM2Y3d25DQlQ1aWw1YnUzZUh3WE5YWU94bHF3STJ6YWJJbHhXc0toNV9FOWJEanVxOW5KWG5qYkJuQ3lZMUVyRHRvVVp3d3F3R1ViVDIyM21aWg?oc=5",
-        "date": "2026-10-17T10:44:00+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Las empresas adoptan IA más rápido de lo que pueden controlarla: ¿cómo evitar errores, filtraciones y sanciones?",
-        "description": "Las empresas adoptan IA más rápido de lo que pueden controlarla: ¿cómo evitar errores, filtraciones y sanciones? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2NLTjhvbDhmeDNISWJPdnNyZE45TW5NNlhhelM1am5pYXZTcG1hdEYyTWN3cUZkTHptTEhkZWFtWS1tNjdNZWxoVWltY0RIdEZpR1MzZXJCVXI5MmFVVUhlLUMtYkgxa29QVXNLb3RjVnQxQy1yczcyOWVVQ09DaWNYTXJZTXZKRjM2blZWWC1YOVZqaWZOZUVaODJaSFFvYlpVSHVKU0dwWlVScnJZQ0VHd1kyNWRndTZfSHZzOW1XT1RsZ1NhR3l0NHNXT21jWmk2cEczUVdGRS1FbUtzWFNJc9IB_gFBVV95cUxQVllkeEtwM0NiTFd5ZGszOU84dDE0ZUNLOWwyMmhneEtsaUUtOF9UTXk3X3NvUEpiU243dnNLS0RpWnJjZkx2OWFseHR5NW0zNk15Sk5KazhBWkdoLS1oSmFyOS1UZGFYSjdHQlctUU9CcTIwajE0R2RxLVBRMHpzWHVQR3VFV3pGZDllZE9DWkkzX0JaT2xSWVROYVFmbXBvLWZNOHdrbGVsUlk3Rjhpd0dxZTdlN3ZoczBtNFRMcUNYVElDQ3dTSmg3em1VUUM5ZkRWcUMxOFBNQWRtN3diOVk3Mm1uejNoRTdrV1Z3MkZ1N2R1bEFTSmJ1dnFGZw?oc=5",
-        "date": "2026-10-18T02:42:21+00:00",
+        "title": "Wayne Holmes: “La dependencia de la IA está debilitando el aprendizaje de los alumnos y la autonomía de los docentes”",
+        "description": "Wayne Holmes: “La dependencia de la IA está debilitando el aprendizaje de los alumnos y la autonomía de los docentes” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcVd4MTJ5M0M0clZtaEVWV2hyUmhkMFdvdmcyYldmUGZfX0xpOTlmLUswdEZpVjJfRWd4LTUwSHJNMEZwdWIzN2stQ2ZoZ2dLZUcxMVY2bHZXejJiZDFBQ09Lc2dMUUlvcmpueHdDZXVrUlN3RnFDeURRTWR0V3JKdUtKMjFJMURTQXJXRXk1TmZwdTJXNGMtZmM2cVpjaUxjNVp3UDZFWVBjbWhOQ2FLdC1VZ0o1MnZxeWRjUGxRWUNrejhuaEpFTlUtWkkySmQydDIzeVcyZFBsX0FJeFBYcEJucVNuY00zZlR3WkJOM2pQQdIBjAJBVV95cUxOa3FteFFyUzFlLXhzcnJZVzV2cVdEVmszVkFIdnJmUWJfcUpod09qa1BpT2xaN19pNThfNkd3QVFoUC1MdnB5TTB3cU04RWtGUjJ3TklvdG9pMWg2Si15RVdKWC02cjl1OU5tV19WR1RBQkd0UTJKcjNNbUFRR0tvSkJJbEM2ekhRaEt2YXRpWHlCYWdySE93dWRzM2h5cW1TdFBxMG5FMkxaWWFXV2NEeko5ci1lYkJwVUFwaFRjYjQxOHMwYnlzZThVVnZqRzJNcEtLZmxqVVhmM0ZQY1pGSVBYam1uRDF2MURUSnhOVkl6T0JBLXpsUU5xd2RfU2VIcUg1NXB4R2ptRUFo?oc=5",
+        "date": "2026-10-18T04:47:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "La máquina frente al misterio de la creación",
-        "description": "La máquina frente al misterio de la creación Perfil",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1RWZXl5c0psZFBXcTY4Ti1YNnFyTkRFX3QzRllteHAzZGMtM0FDM0VJYlYxX2xJR3RnanBOVkZ5WWppdy16SGpibnRiT2g5SmFPT3BlVVIzQmc2NGFnWkxCenpDVlllOVRUVlZhTXZLNGgxcG5KRU1nai15RlM5ZTVTZEJSQU9lZm1LWUg5MDQ0UUlZ0gGaAUFVX3lxTFBPWEZsMDRDX2hoUTZiOUhkOTYzeTJQLS1kR2ZFZms0OU9iSk93dE1UakdwWG9XN3RtdkZTVEU2Y1BBZTMwRWs1TzZEb3dYUGdScTFSTG52bDRMekh2dlk0V0xxbkpFdXlIdERYajMtTHI1X0syMUdrS3dzSEpzdUpsazNyZDNuLWtSa2Z5ZjZ2RGdxeU5MZXlIQnc?oc=5",
-        "date": "2026-10-18T07:44:15+00:00",
-        "source": "Perfil"
+        "title": "Educadores sanluiseños se capacitaron para incorporar la Inteligencia Artificial al aula",
+        "description": "Educadores sanluiseños se capacitaron para incorporar la Inteligencia Artificial al aula El Chorrillero",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ1lkd1VaNDN6cXB0eW15blhYLXByYWhsZnFfUzlFNjRvOE1kQV85dFR6a2VlMFNnWm1MRlZEbXpaQkUxcnFEaDFCRVRoMGZ0ckJOcW9kYUdVLWxYc001ZFdCcUtYTm1JWm1DOXRvWG5DR2YzdmpkVloxZE5jM3c5akc3REpYV3FBdEt4aEowRmlyVzljZkdZejcxQnNhV2h5REhNUUpUQ1Vyd05UYjBzYzIzMndyUjJCTHZFeEktcnNGbXI5TkhXYWR6YXlFb1p0UkRGT3lSZzFCUdIB2gFBVV95cUxNZ1lkd1VaNDN6cXB0eW15blhYLXByYWhsZnFfUzlFNjRvOE1kQV85dFR6a2VlMFNnWm1MRlZEbXpaQkUxcnFEaDFCRVRoMGZ0ckJOcW9kYUdVLWxYc001ZFdCcUtYTm1JWm1DOXRvWG5DR2YzdmpkVloxZE5jM3c5akc3REpYV3FBdEt4aEowRmlyVzljZkdZejcxQnNhV2h5REhNUUpUQ1Vyd05UYjBzYzIzMndyUjJCTHZFeEktcnNGbXI5TkhXYWR6YXlFb1p0UkRGT3lSZzFCUQ?oc=5",
+        "date": "2026-10-18T00:50:31+00:00",
+        "source": "El Chorrillero"
       }
     ],
     "Vaca Muerta": [
@@ -163,18 +163,18 @@
         "source": "Diario Río Negro"
       },
       {
-        "title": "Radiografía de la arena en Vaca Muerta: 6 millones de toneladas y rutas al límite",
-        "description": "Radiografía de la arena en Vaca Muerta: 6 millones de toneladas y rutas al límite Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmd3ZkVQYWVBc20wa25wUzZNOEV1MHVjT1kwZlVUY0RRS3Z1YU4zU0FxSHJGbkt0WXJyV2t5dTV5Y2dHSTM5dmhFd1FOWUNxeG5aU2pKaW1lM3Jkck85Z092M1JsYWJmckllQmdfQ09FbFdILWFzXzFCMEVPdm5LekVHNS1ibGthTFpSVDBfTE9IYzd2X2kwXzQ3TV9SWnY4aklpam5pUWoxRXRwWWNHdXFPX2RYY1huYzhN0gHAAUFVX3lxTE9nNzduaFF5ZmdQUm5xeF85RTNBSU1JRExlMXZDdzJYT0p6RWVLaXE4TjZBakczbkFCbXFzeVNRZ2VwRG50cmpqQmVsRHVMOVN4YThJaU44VzVxOGxVWDdXbENCQzZaMkVZMy01TUttT1M0S1dHaEctd3lEenNhQm9DRXctUG84QmdqTmVzYmdXT1BrYzNZakV0Ti15SmxvU3F2a2JNVXBvMTFWV016SW5mdFJjMk1JbVpMemVleXM5SQ?oc=5",
-        "date": "2026-10-15T13:38:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
         "title": "Arenas para Vaca Muerta: YPF analiza el uso de barcazas",
         "description": "Arenas para Vaca Muerta: YPF analiza el uso de barcazas InformativoHoy",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNE1iN1lqaG5ycDYxYkc3UGQwV2dUdEU0SWNOcFZmaEVrUmoxNTl4allkbENuWHhvcm9LamNtdHdoUmZpSU9pNzFfamhwZU0wN3FBV3RLNHJ2dmg2aXMxaW1wNDlVWmZkbkhENWI4ZFo1V0otcU1CTmJETFNDMG9uT29TUmtlU1VRb0RmWVJDeHZCM1VUYjBqV19ybGNuUlVfZVpydF9HX1ZWTlRWZmJUNTVKck5rdzJkZEs0RDdacVlqSUloMUI2azBKX1dTbUpZdS1RaFhIMEhJM0d0OFdzMmppc0lUeEJz?oc=5",
         "date": "2026-10-18T09:01:44+00:00",
         "source": "InformativoHoy"
+      },
+      {
+        "title": "Radiografía de la arena en Vaca Muerta: 6 millones de toneladas y rutas al límite",
+        "description": "Radiografía de la arena en Vaca Muerta: 6 millones de toneladas y rutas al límite Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmd3ZkVQYWVBc20wa25wUzZNOEV1MHVjT1kwZlVUY0RRS3Z1YU4zU0FxSHJGbkt0WXJyV2t5dTV5Y2dHSTM5dmhFd1FOWUNxeG5aU2pKaW1lM3Jkck85Z092M1JsYWJmckllQmdfQ09FbFdILWFzXzFCMEVPdm5LekVHNS1ibGthTFpSVDBfTE9IYzd2X2kwXzQ3TV9SWnY4aklpam5pUWoxRXRwWWNHdXFPX2RYY1huYzhN0gHAAUFVX3lxTE9nNzduaFF5ZmdQUm5xeF85RTNBSU1JRExlMXZDdzJYT0p6RWVLaXE4TjZBakczbkFCbXFzeVNRZ2VwRG50cmpqQmVsRHVMOVN4YThJaU44VzVxOGxVWDdXbENCQzZaMkVZMy01TUttT1M0S1dHaEctd3lEenNhQm9DRXctUG84QmdqTmVzYmdXT1BrYzNZakV0Ti15SmxvU3F2a2JNVXBvMTFWV016SW5mdFJjMk1JbVpMemVleXM5SQ?oc=5",
+        "date": "2026-10-15T13:38:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Las cuentas no cierran en Vaca Muerta: la fuga de dólares que oculta el relato extractivo",
@@ -184,13 +184,6 @@
         "source": "Agencia de Noticias Tierra Viva"
       },
       {
-        "title": "Más inversión, más exportaciones y menos subsidios: cómo Vaca Muerta cambió la ecuación energética",
-        "description": "Más inversión, más exportaciones y menos subsidios: cómo Vaca Muerta cambió la ecuación energética La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUll2V3drYkhBN2hnV19wd3BGOXFQeGY5ZWc2TlBqNTJBR3pLUWo1VGl2bmFmYTBIMG5jUmpSdHU1dkRUSnZvck9RUDNVNl80eFhRclNzbFZSOWc0ZFdXejZ2X19HZmZPZ0tXWnBiekppeXM1ZC1yUE1iazhkV1NRVVJJT3NNVHZ2b0U1bWxwTkhUclJfblpUVEZKTjhJOGpJa28zS0p3Rml6aFVHUlJfRC1zWnloZGJvRlc1bThxckZGWVp1ZHFKWEpDTHY2bk5OVHIxaUZTWVVpdUhQRlow?oc=5",
-        "date": "2026-10-15T15:36:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "Vaca Muerta se abre paso en Asia y prepara un salto histórico de sus exportaciones",
         "description": "Vaca Muerta se abre paso en Asia y prepara un salto histórico de sus exportaciones Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUJYWkV1R0ZaeW9EcnZYcmc1LTgtZ1VFdXI4cTBRbE1jQ2RhVGF3cW1BV2plbzhjR2x4bk5nWWZtQmVkdDE3WWl3VHR0bFlRV3p5WERlR0hsS0dvaloydjJEUG1RM00wV21RdmI3bGE4dHdFd3BsV3lIeWFEUWVfSXJfYURCNDFCR2podXJCMVR5T3NyWFRnMGhMdWZhS0hiWkdGR3NCZ3puVDI3eVNxaHdfeE8?oc=5",
@@ -198,11 +191,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Rincón de Aranda: cómo Pampa Energía pasó de 2 a 43 pozos en Vaca Muerta",
-        "description": "Rincón de Aranda: cómo Pampa Energía pasó de 2 a 43 pozos en Vaca Muerta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNanBqVkZvdnlYOGt1bFRCNmhubmhhN2w1ZmVFdWpfQmd5U0NWdnVzYmNfcU9KakdFZllUeHliSWIxQm50SGdOOEZOSDJrWVc1MTlYMlFYR0RNWWR2Zm1iTjNtUWZqaHBDb3ZpLUxBNDNuNVUzV3R2QkstYkJqZzVRbVhaV2s3YUFIWkZuMmtMX05jZHVwQ0xCclFmVXlCZnVNV3doVHhOMWl5elYt0gGyAUFVX3lxTE84MkV5YWxuV25MQlJOY2NuTUp4M3RUaTE5NzNfXzFQSC1DVnplRW4xdjZ1dFFidTBCOHh6dmpHNWZLTmdPUS1Md1djV3IzS05SaVlVb0xpY0xGUGVyQnRYVGhaUDNYWUZKZ3dhVGFna3ZvblVRRE9zRG53Um85djgyRWJ6clpjeF9qMzVRRmFjXzVTbkZqWnl4TWdtLUxNZXB2bjhfbk05V2ZKeXVlUlNESXc?oc=5",
-        "date": "2026-10-17T11:00:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "López Anadón: \"Sin Vaca Muerta estaríamos importando energía los 365 días\"",
+        "description": "López Anadón: \"Sin Vaca Muerta estaríamos importando energía los 365 días\" Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHhZcFJ5dFVKVHB6bjJ0cnNyc2hINVFMU2lGZ2hUOGpsTXNuNlZmZVA4Y1RfTDkxTHN2SXpPZmFuTmhya1lnemV4ZE1ESDBVVUFpY2h2Zmg4eVZ3Z25hSjNhSmtYOE9JOVRlOGJ4ODJqR2plNGtzS1V0eUMtaDVkc3FyZ1RDMkQ2QzdXYXJzWlVqYzhCOWxRYXFla3d4Z1dkWk5Ic3MtaWtXOXc10gG0AUFVX3lxTE9RY3NzdXFOS1EyNmdUR1gwQTZrRmxPNHphU0JDem9WYlhuaWNabGFsZU1rRFg4aEs0eGpvaXhaRFJvVmp6ZGtwMDZpZTJMSUJrZXJ3cDQyUzhOWVFuV2E5MDllNG91V3hvRlRnM05NaFpBWGdRbmpNMDhJQUNRSlpHR3VLSmtVRHl0NWZZbXVvdzZuZEFtVG5DcENuUWUtbG84V1BaSG9iMXpKTmJJTDVCVS02Uw?oc=5",
+        "date": "2026-10-17T03:15:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "Más inversión, más exportaciones y menos subsidios: cómo Vaca Muerta cambió la ecuación energética",
+        "description": "Más inversión, más exportaciones y menos subsidios: cómo Vaca Muerta cambió la ecuación energética La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUll2V3drYkhBN2hnV19wd3BGOXFQeGY5ZWc2TlBqNTJBR3pLUWo1VGl2bmFmYTBIMG5jUmpSdHU1dkRUSnZvck9RUDNVNl80eFhRclNzbFZSOWc0ZFdXejZ2X19HZmZPZ0tXWnBiekppeXM1ZC1yUE1iazhkV1NRVVJJT3NNVHZ2b0U1bWxwTkhUclJfblpUVEZKTjhJOGpJa28zS0p3Rml6aFVHUlJfRC1zWnloZGJvRlc1bThxckZGWVp1ZHFKWEpDTHY2bk5OVHIxaUZTWVVpdUhQRlow?oc=5",
+        "date": "2026-10-15T15:36:00+00:00",
+        "source": "La Nación"
       }
     ]
   }
