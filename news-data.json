@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-10-18T17:43:24Z",
+  "updated_at": "2026-10-18T19:57:59Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Jensen Huang sobre el PC con IA creado por Nvidia y Microsoft: “un trabajo hecho con amor”",
-        "description": "Jensen Huang sobre el PC con IA creado por Nvidia y Microsoft: “un trabajo hecho con amor” Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdlVsUFJyTnhlWm5WVE5DMHlyMl9MTEViRU5EY2pyakpYRjRBVHVZTGFHV3NBaEFQc21KRjdBSUFkWDNYbVZkR1pBQ3lCUUVLb2Q3b2JwOVA2b0NlQkVtNnY5ODUxcnpqcGVkZFRCV1g2d0lpckNrcGZSOUYwUkVVVl9DNVprb3VxTEVDMmxOMFM1Z05jcjlwUFktLXBuUFhQTnVuVmIxYlpPRkRyUW5MWTRxbXVkdWhEd0p3WjNWNTFxZFQxSl8tQ9IB4wFBVV95cUxQTnVSajJkY0FDM3I3bHJ5bFRMREgxUFZVejM5LVAwZnp3T1RKb3VHU2hsY0xERDNjbkNKVlN0YXpQT3N5QmJiZ3pEdFVLWllPSU0tcFZ4dXVIZmY5M2RrN3FmaXh2eDVuZWE0X3dtSXU3WDh6eHVRa2ljR2NqVG9OZHl5R3AyTXJtdzhTbHdIRnY2azEzM0VndEROVlUwNUFlNjVKcUV3T1dwc01ZNDBhS1QzMWIzY1NmcF9UcGI4cnBJdWxWWEZFUkMzT1F2VS03M0pnX2tpQ3VIdjRwZlcwWGd5bw?oc=5",
-        "date": "2026-10-18T13:04:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale",
-        "description": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2llT2tNVEdDUE1YWDBoR1Q5LVJEUUZ3U2NxUHBDWlBZVldaSm1Vem9wZm9ZaTAxUDgwSTZhczFHNnZ0a0E3NFdMb0lNRDZSU3dsdlRhSFMzWlR2SV8yYTUwTDJJdFpGNmJJdEpwWWNobXQyRVRaTndRU19mT0J4VXNZQ0VNOHNXQUNXbzN4S2xFR1M1UDVVaWVn?oc=5",
-        "date": "2026-10-18T09:52:53+00:00",
-        "source": "Yahoo Finanzas"
+        "title": "Microsoft se retira de un acuerdo de centro de datos en el Reino Unido con Nscale",
+        "description": "Microsoft se retira de un acuerdo de centro de datos en el Reino Unido con Nscale Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSzBWbjZBVndOcHhHaklua3NiM21UQXFTbkN4WkNMVExYVXJMYTBRckNTVnRVV3V6ZnRxOERyb2Y3MHBRcFdRNmx5RDBkX3p6SVlNa1NQSmJ0RFRjSTNBcUIxR2J2RmJaQ05UWGVPUzFRVldUSVJhWDB5UU5ZVnExbm9QQ3d1eExTeHZwNnRwa3Fxc3J2TmYtcWpPM1Zmd3lTYnRSNHpGdUNKVkpiaDVKZ1F0MDZ6QWQ0OUo5anN6ZUgwNUduVW0zMmZBUDU?oc=5",
+        "date": "2026-10-18T09:22:00+00:00",
+        "source": "Investing.com España"
       },
       {
         "title": "Microsoft hizo que Windows 11 ande 20% más rápido en las computadoras con menos memoria",
@@ -24,6 +17,13 @@
         "source": "Infobae"
       },
       {
+        "title": "Microsoft actualiza Windows 11 con optimizaciones y un mejor editor de fotos",
+        "description": "Microsoft actualiza Windows 11 con optimizaciones y un mejor editor de fotos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVM5akdtbHphRlp3Zi16aE14eGFpeG1qR0ZtRjBNTmlhT2ItMXhDMHlidVIxemRrVGdKMGFoNUY3RkpsQXdheEgtci10V0ZGVHlseHVXaHZ0dUJfUl9rRXpZb3RJVXg5WEt4NjlKenhxX3JtaldxQ2NoR1ZVdnVLQ1ptcWVjdVhyRHhKcEZ3Yml5TG9odDZnaGZFZTZjaGJVN2RjMXozNGFLb0x5V0ZJSnVfamxOd201NU4yYzY4OTdodnlGYmxF?oc=5",
+        "date": "2026-10-16T14:24:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "“Windows 11 será más rápido y menos molesto”: Microsoft cambia su mensaje para vender ordenadores",
         "description": "“Windows 11 será más rápido y menos molesto”: Microsoft cambia su mensaje para vender ordenadores SoftZone",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZG5xUmJzV1JGaDF3U25IWjROYlp6WEdrcWVxYmE0UUhzV3lIc1lJTzdyQzhNeVRiaUk5TWI5M2h0dUZyUml0UzhSYl9HWDFPZDI2TVk5TUNXYzloT2tBUTY3dFBtSEVzdVRqbTBxZXVXcmZJam1RY21qSjRldGhjNFJuMXE5Uk5yTHVNM3lB?oc=5",
@@ -31,11 +31,11 @@
         "source": "SoftZone"
       },
       {
-        "title": "Microsoft actualiza Windows 11 con optimizaciones y un mejor editor de fotos",
-        "description": "Microsoft actualiza Windows 11 con optimizaciones y un mejor editor de fotos La Nación",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVM5akdtbHphRlp3Zi16aE14eGFpeG1qR0ZtRjBNTmlhT2ItMXhDMHlidVIxemRrVGdKMGFoNUY3RkpsQXdheEgtci10V0ZGVHlseHVXaHZ0dUJfUl9rRXpZb3RJVXg5WEt4NjlKenhxX3JtaldxQ2NoR1ZVdnVLQ1ptcWVjdVhyRHhKcEZ3Yml5TG9odDZnaGZFZTZjaGJVN2RjMXozNGFLb0x5V0ZJSnVfamxOd201NU4yYzY4OTdodnlGYmxF?oc=5",
-        "date": "2026-10-16T14:24:00+00:00",
-        "source": "La Nación"
+        "title": "Shrek 2 Remastered es filtrado por la tienda de Microsoft – Detalles y Trailer de Gameplay",
+        "description": "Shrek 2 Remastered es filtrado por la tienda de Microsoft – Detalles y Trailer de Gameplay PC Master Race Latinoamérica",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmZTZDJQU1g3N1JFa0cwT0tWd1BRN0oxbFNiYktNcGNudDhUVXJsX0RiTWMxS09kODJKV240ejkxS2lFR3lSU1QyVjFaRXYwLUtuQkNjalcyRlFvY1VPc21tOFBuemc1MWctVVl5MzNzaFZXVnRBak5ISFE3TmJSNw?oc=5",
+        "date": "2026-10-16T18:27:11+00:00",
+        "source": "PC Master Race Latinoamérica"
       },
       {
         "title": "Peter Lee, veterano de la investigación de Microsoft, y Ryan Roslansky, ex CEO de LinkedIn, anuncian su salida",
@@ -90,10 +90,10 @@
       },
       {
         "title": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000",
-        "description": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000 Clarin.com",
+        "description": "TikTok busca impulsar a 10 emprendimientos argentinos y los premiará con hasta US$ 15.000 Clarín",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjI2bkVKem51Wm1JRXBNS1hhNG5zbEZHWmpWM3RxSWEwdllYZzZXNDNueUhkZklXQjVnbFo1d3BSTllfWFRRcWEtajFZMm9RRi11NWNYWERiLXlOajJsZndZYXhEUm5DUkVkd3U3Ui03T2t4LURMYjRidFZaS3RWTE9OWnVuR2lCNVlTUDA3WWFxUXRrenZndjBHTXl6TGxGM2FXNFJoMGRKTFB0eWpHODQxUk5oekdUSklr?oc=5",
         "date": "2026-10-17T09:01:45+00:00",
-        "source": "Clarin.com"
+        "source": "Clarín"
       },
       {
         "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
@@ -104,20 +104,6 @@
       }
     ],
     "IA": [
-      {
-        "title": "Hackatón en cuatro ciudades del Perú buscará soluciones de IA para mypes",
-        "description": "Hackatón en cuatro ciudades del Perú buscará soluciones de IA para mypes Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR01HYXMwWW50U1p6R1FMZ2g3MnhoVXpMSDVWcWNRU2dIRUxhZ3ZhQnJmcjU0NG5aVWphQmxlMDNySmltdjlqNGJtLU9yVnYxNFZ3eFJpbWlVcnMyNHJyTnczVXZ0YU04aVBmb3lrZjRJSEdhb3RsdVNoajhvZ3Fqd1BrMnVndi11TEt1MzJPVjUzLTV2WmF0bzJNY2xFOW9xMjBTRmVaWWlmZjZaS0M5Sk1VTdIBzgFBVV95cUxQX3cwWmhHWF85YmpFelJ0VDlpUDZvUlBHZWFnMGRLQmZjbGJRSVB2Y2VnX0U3ZGlBcHNPejFxYl9LNGtEdFVjSldNQjJuTE9zc3ZvTUNJeGtFVlA1eUViejlfbUhaZlExS2RsMUttMElja0VNS2hWVExaQWlBS2hXR0hqdEVXeWZrNGxESlVQTXRKLU8yeVlOMDdwRGoyOFlYNTFWcDNiLTR4WW0xYmhiNnQ4WmNRV21EZkRJTFFacEhpSENleHA2Nk03QXJjZw?oc=5",
-        "date": "2026-10-18T16:52:42+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "La inteligencia artificial no piensa",
-        "description": "La inteligencia artificial no piensa Página|12",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZ3VW1TZk1pSmZtOW5KRFpfSlZTbWZZbm1HdS1WRmRHWXFwVkt4MmFXSFdGTkZ5dnpqV00wdk5rb1ViaTZ0OTRuLWNqS0FTVW5BWEFKeTRfOUZTNkQ5QTFiR2lnM0RZdjdKLVhUOWJlNkY2ZGxJRHB2Y3dXZmVxRmlB?oc=5",
-        "date": "2026-10-18T11:24:21+00:00",
-        "source": "Página|12"
-      },
       {
         "title": "“Creo que es un idiota rico”: la dura crítica de un académico británico al CEO de Nvidia por sus dichos sobre educación",
         "description": "“Creo que es un idiota rico”: la dura crítica de un académico británico al CEO de Nvidia por sus dichos sobre educación La Nación",
@@ -140,11 +126,25 @@
         "source": "Infobae"
       },
       {
+        "title": "La inteligencia artificial no piensa",
+        "description": "La inteligencia artificial no piensa Página|12",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjZ3VW1TZk1pSmZtOW5KRFpfSlZTbWZZbm1HdS1WRmRHWXFwVkt4MmFXSFdGTkZ5dnpqV00wdk5rb1ViaTZ0OTRuLWNqS0FTVW5BWEFKeTRfOUZTNkQ5QTFiR2lnM0RZdjdKLVhUOWJlNkY2ZGxJRHB2Y3dXZmVxRmlB?oc=5",
+        "date": "2026-10-18T11:24:21+00:00",
+        "source": "Página|12"
+      },
+      {
         "title": "Inteligencia artificial, narcos, venganza y literatura: las ocho novelas que compiten por el Premio Clarín Novela",
-        "description": "Inteligencia artificial, narcos, venganza y literatura: las ocho novelas que compiten por el Premio Clarín Novela Clarin.com",
+        "description": "Inteligencia artificial, narcos, venganza y literatura: las ocho novelas que compiten por el Premio Clarín Novela Clarín",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOUpUWXZKYjdfaEZJVWRCbEp0b0E3Wnh1UFFPcmY0UUR6eE9EZTZWbG5MQXA3S3RtYzdYTGlER3ZGc0dJaVoyaHZDTDVXX1I2R3ZZT3A3Qm5yRzVDYWNRMERxZ19YRVJ2MDhEUFdYWmZJX3JVM1RtckJNWElteGxoRU1VX3lFdEpOcEZWTjByb3RvWW93bGFVU29FdllUYXZ4N0MzcFhKOHlBaUU3VkVsVzVFRkVCblBGQ25VYmE3eFZsVjZnVmZYRWdyeERXT3BHaW9R?oc=5",
         "date": "2026-10-17T08:45:42+00:00",
-        "source": "Clarin.com"
+        "source": "Clarín"
+      },
+      {
+        "title": "¿Qué pasaría si las máquinas se apoderaran de la ciencia?",
+        "description": "¿Qué pasaría si las máquinas se apoderaran de la ciencia? Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQW9JZXAyemlUZkE0djBkZEpqaHlrbXEwYTQ0Q1c5Z3l3Uld1R19nVWRsM1pvTXlNTmZOc0lWeDVvQjAwaUlyNDduS1JSNkZicGpZOWg0VEVJRl9aeFZ5RjI0aDFpa3RLQlQxQUlhTnN3bXFOZUw2eWR0TVgteGNjSDBjcU95WUtkc2s1Slc1dElwZU1IaDlLWkpwQ1M2bkVPV1Q40gG-AUFVX3lxTE9RVkQ1cnNIVHdBUHVDTWN0SmxKREdCWHhjaVItVDVEd3JPdnJOSEJwY1RsTWRlRDBVN214X2xBNlpzSGRaeDU3N2tOOHkySHltVmpSaUYxcHFyNnUyRzRTMnFoY2V5VUF0cGxmX1Q1LWtYTkRXSnFKN0FrQ3NpQmZjcmxHYVB6cXpjdE9sTEhWcUlnTmhLcktPY1BZQ2djUWcyZHptcFJqY1p2TnNWZnRkUTRMalZRNXVvaG4xRnc?oc=5",
+        "date": "2026-10-18T08:17:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "La inteligencia artificial no deja afuera a los mayores de 60: el verdadero riesgo es dejar de aprender",
@@ -198,11 +198,11 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Vaca Muerta: Neuquén negocia con TotalEnergies un bono de US$ 150 millones para avanzar con la explotación de un área estratégica",
-        "description": "Vaca Muerta: Neuquén negocia con TotalEnergies un bono de US$ 150 millones para avanzar con la explotación de un área estratégica econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWlyTDNRQ2NUOFJmS1N2WE5Hbm91eWFrdUJFb29FU3dEWkZ2M2gzc3hsQU5QMF8wcm5jRkpjVTh4em9zOEVfSHh4MnhyYVVsazh0SDNXNUtsSzY5R1llLW0xbGRrR2ZpZ2ZqQ3pzcWFHVHZNTjhHUnVyOEpsNF9tYnhQbmM5NHB5VER6REtPVmo4V2t1OHZ2NTY1dTJ1XzFDRzcyTEJXVklXeDlFYlA0NjhyQThQRV9QZVN3azJBQWpFb2s?oc=5",
-        "date": "2026-10-16T18:41:20+00:00",
-        "source": "econojournal.com.ar"
+        "title": "Las pymes petroleras bonaerenses se hunden pese al boom de Vaca Muerta",
+        "description": "Las pymes petroleras bonaerenses se hunden pese al boom de Vaca Muerta Página|12",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzhYaTg3R0dLTVdmQ2JZWGJWTGtMaWpDcHdiTmFFM2tvd1B3WlJHalJqZTNoRlNNeTBOa3BfTlJGeUgxdGlHMl93eFRwMmJXWUJQbTF4X2daOXh2aWNrclZNc3J0TGJDNXJjcWFfYnlGNFAxR3FlSkdpVUM5NGtPUHRKZ1lGUWZpdERkVzJFTzhfdVpoOG8xTkFmNEw3MEdEMHhLcEZ2LU5qLTA5elRB?oc=5",
+        "date": "2026-10-16T22:12:00+00:00",
+        "source": "Página|12"
       }
     ]
   }
