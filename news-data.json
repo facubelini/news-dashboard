@@ -1,34 +1,13 @@
 {
-  "updated_at": "2026-10-19T05:36:21Z",
+  "updated_at": "2026-10-19T11:51:55Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs",
-        "description": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs Hipertextual",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUZLSUxZdWZhdGxBNm82R3NCaDlMYl9Jd1cwQnVDWlA0V1Fkb2pyTW1GSXdmX1EwTXZUR2dJaFZiWWs1MFNzOTlSeGdYSU1NcER0OWdMQTN2ZXdwUGJxZGU3ZFZRMWI4N3FUWFU2djVfcmJ4RXNsUHNaVmloOTVNM3hrbndjSDY2?oc=5",
-        "date": "2026-10-18T18:00:00+00:00",
-        "source": "Hipertextual"
-      },
-      {
-        "title": "Microsoft hizo que Windows 11 ande 20% más rápido en las computadoras con menos memoria",
-        "description": "Microsoft hizo que Windows 11 ande 20% más rápido en las computadoras con menos memoria Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGFIVVBkQURQTlJyb0poU2xZWjZWSWI0RkpVbFhlYlBwbnJadEpwSERUX3dscW1vUzFKTUh5Q21ITThnS3RLVTdTQUlYZ19nMHpvQlV5bkdDb1Z6c1FRWGJQNnRrRlR4QXhGUWs3QmotdUdXdTBYenFxeDZpNzQwTmtyYlRRWHowY0ludlFuMzVzT01TalBKWjJFYnluaHFnT0JHelZEZXRvOFdqSVp3WVZXVXlmZ2c1T194djd2TmU3cWhxMXVz0gHiAUFVX3lxTE5MQTRwbnBYeGJmcGF0VUhkaWZvaDNPVnkwLVp2MmhGcE9GeThBQlJVQzRnY21BTmctRWM5LVFGV3J6UWlueGVwcThWaHpZVGE5c3Yxc2xZVVB1V0NHRUhSY1ZXVUdpVTl4VDdsb3NjZjdmZ0NkckEtM08taUt2ZE84dFE5NWpnRk9KVG9UcUZwZTN1czZGSlZYTnZXMV8wdUpEVm15cXM4WFZBVTNvR0x6ZFhGR1Nfdll0OFAzVy1wMHZuWWJtb1NtOXNqZG5fUzh1NExIUHNBa2YwU2wtWEZaalE?oc=5",
-        "date": "2026-10-18T13:28:00+00:00",
+        "title": "Microsoft extiende su servicio de protección frente a ciberataques Microsoft Defender a estaciones de trabajo Linux",
+        "description": "Microsoft extiende su servicio de protección frente a ciberataques Microsoft Defender a estaciones de trabajo Linux Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0lWaW14cGhuY0lJNDh4YzJ1cVRNdmlwSXctRjRLYUZpcU9ham5rV2VDd3pWbVJ3V0VvN1lxVlYtaENaV0twakc3YTE2SUxzLXFnekR6OWNEbHhlWHhXMXRBZUhQeG9hd2x2Y0NfZUtDSGJyNW5qOUdPQjVvMFE1blRFNTVsQXpkeVBqYUNYVmtxWVJUWDhkZzIydlhSOVdUZ3hDVnM3OFMyTVU0OGhYWjc2M3hQc3lMWVdGMjlrVkNpTVJjVEJQMmZSVGNxRm82eHNzTXJ3OFRzUjhnSTFiS1BCZDhGYjFOQnNrUW5CSWZ3czhjOHZnb01XVW3SAZcCQVVfeXFMT21WRWQ2eEVETUVGVzlQNDdvVjVMVEE2TWo1MzFDM3c5T041T2hwRVpsSDNBN0lEeVJLRHNSRER2Mjd1RTVOWlJVamROamFRX3k0R1hvc1hoekFibmhYQUNNSUNrLXNKY3hCemJqWXFIQi13UUM0ei0tUTcya0w5SFJ2NmlUSHlXT1FMQ2I1aVQ2eGczQ2RadW43YnZlWTJkZlg1U3NMWUtzQ2NGZW5xN0ZxcnhPOC1aS1BCRUpGb292eWVmQWV2SGJzRDAxTm1ERlY3aTBKOVdaM1lBSDBoaEQ0czBIalJXU19IV01KVUhKM05qRFNUN1JheTVOT1BQMEJNdF95Rnd6UXNLb1lZY2lUWEtlQ1dz?oc=5",
+        "date": "2026-10-19T10:33:43+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale",
-        "description": "Microsoft se retira de acuerdo de centro de datos en Reino Unido con Nscale Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2llT2tNVEdDUE1YWDBoR1Q5LVJEUUZ3U2NxUHBDWlBZVldaSm1Vem9wZm9ZaTAxUDgwSTZhczFHNnZ0a0E3NFdMb0lNRDZSU3dsdlRhSFMzWlR2SV8yYTUwTDJJdFpGNmJJdEpwWWNobXQyRVRaTndRU19mT0J4VXNZQ0VNOHNXQUNXbzN4S2xFR1M1UDVVaWVn?oc=5",
-        "date": "2026-10-18T09:52:53+00:00",
-        "source": "Yahoo Finanzas"
-      },
-      {
-        "title": "Peter Lee, veterano de la investigación de Microsoft, y Ryan Roslansky, ex CEO de LinkedIn, anuncian su salida",
-        "description": "Peter Lee, veterano de la investigación de Microsoft, y Ryan Roslansky, ex CEO de LinkedIn, anuncian su salida Genbeta",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdkpWQW1DdFU1RENmbnBUZE1xZVJ1X3VLSVBHQlIwSDljYk00YlhLakQtaVdMZU1BanZZS2I3NnU3eUgxaWFyNFRzaXBOYy1jbkN0ZVpGdDVvY19EN1h2T0pkLXNBQU5fTTNfOU9ZVElaT29oeTJhc2cwQVVoY2hnYUduZEw3UVJlcHRnRHlFV1ZRak54WW1pc0tzcVEzLUFYa2hzUjRScnhJaGlHN3FBbTZWUXYwUDdHakFuU0hDYVYwUWczVVHSAcsBQVVfeXFMT1pBTERpaWtLajZMR3JGb0l4dFJaYTF1UEhocVo5cm9Db1pJbUtaVzNmQ3dsUDFyY1pHeWdGc2x6VGtxVUZ6bjdia3ZCQW9TNy02NnUyYmhnNWFXWm5jdUpqYnp4QUwxSkRxYVRVTkJRejJEREE2NjhOdkVhLXo4QUFIZ0l0SFlKMm1qTlgyWXJMMUZuWk5pWGhIOHQ2UTM1V0pnVFhOWjJKa0xnRWNvV0M4S0pNemo1bjBjQWwzUkxGWE1pNE1EelUyYVE?oc=5",
-        "date": "2026-10-18T08:01:35+00:00",
-        "source": "Genbeta"
       },
       {
         "title": "El almacenamiento de Microsoft 365 será más \"flexible\". Es decir, te bajan el espacio, pero te cobran lo mismo",
@@ -38,18 +17,39 @@
         "source": "El Grupo Informático"
       },
       {
-        "title": "Shrek 2 Remastered es filtrado por la tienda de Microsoft – Detalles y Trailer de Gameplay",
-        "description": "Shrek 2 Remastered es filtrado por la tienda de Microsoft – Detalles y Trailer de Gameplay PC Master Race Latinoamérica",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmZTZDJQU1g3N1JFa0cwT0tWd1BRN0oxbFNiYktNcGNudDhUVXJsX0RiTWMxS09kODJKV240ejkxS2lFR3lSU1QyVjFaRXYwLUtuQkNjalcyRlFvY1VPc21tOFBuemc1MWctVVl5MzNzaFZXVnRBak5ISFE3TmJSNw?oc=5",
-        "date": "2026-10-16T18:27:11+00:00",
-        "source": "PC Master Race Latinoamérica"
+        "title": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs",
+        "description": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs Hipertextual",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUZLSUxZdWZhdGxBNm82R3NCaDlMYl9Jd1cwQnVDWlA0V1Fkb2pyTW1GSXdmX1EwTXZUR2dJaFZiWWs1MFNzOTlSeGdYSU1NcER0OWdMQTN2ZXdwUGJxZGU3ZFZRMWI4N3FUWFU2djVfcmJ4RXNsUHNaVmloOTVNM3hrbndjSDY2?oc=5",
+        "date": "2026-10-18T18:00:00+00:00",
+        "source": "Hipertextual"
       },
       {
-        "title": "Microsoft vuelve a los cuatro billones en Bolsa y recupera su papel como uno de los actores principales en la IA",
-        "description": "Microsoft vuelve a los cuatro billones en Bolsa y recupera su papel como uno de los actores principales en la IA EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVXFRZlFWblhLSVNUbXlTVzYybkFDS2l5Qzk0a3Vnc2J4LWdHUGxSb3NvNHU2WldaQlZrODMya2F2VjZDb2NTckEzcnlZNnFYOVl4aHRDc1NmY3F3VGFwV3NNbXNFX05DUlgtby1sLXZfOE9kUUpOYmtoVDR1RHdzdnRmaEhXV3BJYlRGVTZCVGMyU0d3RXNVUVZpLVp0ZkVBRUhGXy01eXBEdWtUbFp0UGdheDFENFlKaEVIUXhOMUJCUUZXd0VXa0s3WTNyVjBRMllaQlRwME1rVmEwa3RpSC1aencyVXNaWjRycdIBgAJBVV95cUxQckVxYmlvYWZ1UXg2UjdNaE9xYm14TV9ObDBJU1JOT2ZuMW9pM3M1Rmd0MVJrZl95UGl2QnA5UUlON3VjZFpnRmo4TjljcjdiNV9fUFZlbkhUYWFyYmtxR0h1TTJNenNoYkF1amR5dWdDd2ZuRjUtWjctejlweWFnbmpTRm1xek9WTDY5ZnB5WnNDUm1VSGd5VDkwRUw3alFmd3I5Q1E1Z0JuYVZZN2ZiWWFtQjFWMzg5QTdfTER6U21pZnAtS3lxWG1IbUtfSXdTRWRXbE51TzlYUWN6N3QxQUVBLTF5ZEFjZWJuVmVkRkZEOW5Wc1l3Wk9NS0lCQkRn?oc=5",
-        "date": "2026-10-17T03:15:00+00:00",
-        "source": "EL PAÍS"
+        "title": "A finales de los 90, un fan borracho de Van Halen llamó al soporte técnico de Microsoft y exigió hablar con Bill Gates",
+        "description": "A finales de los 90, un fan borracho de Van Halen llamó al soporte técnico de Microsoft y exigió hablar con Bill Gates Xataka",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkpqc21sZDg2ekpuakNxVlNCQzlSOUNnOEs5d0NpcTlmRjRZQU5uZHJhTWVibGtVbHdSV1BhN0VIYnhUNExNdjBTX1BNX2xHM05EM0p4Uk5NNHNQSjdJOHlhQ3N6SkVIMUlCZDdYSnNvZVFYbkh0T0J5T09hUC1EcVBraG5yMXViZkVwQjM0WFBPVENUVXZyUHI0UGxuUXRVRTRUU1pQMnkydzZoNk1LdHV6WWRuM2VLbmlDUzdMM0NsT2NNcDRnQm9jZ2VKdHFsM1RGetIB2gFBVV95cUxQZG9EenhaZ01VMXZScXc4TUxsYm1vRllCRHNqOXJlTjQ0cU04c2h4cncybDdKVEUyai15cGJsSUFlWWhiWVlGczVMNlVRSmZqYm9XdUJkXzcwQ2NlZVpEQnd5ZENrUnFhdU1qLTdZS1NWbG1WM0hPX3JIZ0tzbGkza2xnMWEzX2tXMFZsV0VXT2hkc0lZQ3ZIaTdqOFNqZ3ItZXBZZW1FdzFIdDdwWEpwMl9MYW1uSktfdEkycnRxUzdtMUlLa3E3c1hRU2E1SjFZOVBqOFVkR011Zw?oc=5",
+        "date": "2026-10-18T15:31:34+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Microsoft lanzó equipos con Nvidia",
+        "description": "Microsoft lanzó equipos con Nvidia Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHlLUjhqd2IwZWk5d0xyMF9tZFM0LVpBa2lSY3RnUW52eGk0NU9Sb1JYTlVkTHFabFU5dEtKVjhOZWhjSE5DbXFhSFdBVVVpd3ZMdFNDa0hYVFJpcXZKb1FaRjdaNGUyMHlFWl8tdVF3N3ZKdmh4eEdFaVc4Y0Q1N3l2YWJMN1JRX25tTU9B?oc=5",
+        "date": "2026-10-19T04:35:00+00:00",
+        "source": "Diario El Día de La Plata"
+      },
+      {
+        "title": "Microsoft hizo que Windows 11 ande 20% más rápido en las computadoras con menos memoria",
+        "description": "Microsoft hizo que Windows 11 ande 20% más rápido en las computadoras con menos memoria Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGFIVVBkQURQTlJyb0poU2xZWjZWSWI0RkpVbFhlYlBwbnJadEpwSERUX3dscW1vUzFKTUh5Q21ITThnS3RLVTdTQUlYZ19nMHpvQlV5bkdDb1Z6c1FRWGJQNnRrRlR4QXhGUWs3QmotdUdXdTBYenFxeDZpNzQwTmtyYlRRWHowY0ludlFuMzVzT01TalBKWjJFYnluaHFnT0JHelZEZXRvOFdqSVp3WVZXVXlmZ2c1T194djd2TmU3cWhxMXVz?oc=5",
+        "date": "2026-10-18T13:28:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Microsoft actualiza Windows 11 con optimizaciones y un mejor editor de fotos",
+        "description": "Microsoft actualiza Windows 11 con optimizaciones y un mejor editor de fotos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVM5akdtbHphRlp3Zi16aE14eGFpeG1qR0ZtRjBNTmlhT2ItMXhDMHlidVIxemRrVGdKMGFoNUY3RkpsQXdheEgtci10V0ZGVHlseHVXaHZ0dUJfUl9rRXpZb3RJVXg5WEt4NjlKenhxX3JtaldxQ2NoR1ZVdnVLQ1ptcWVjdVhyRHhKcEZ3Yml5TG9odDZnaGZFZTZjaGJVN2RjMXozNGFLb0x5V0ZJSnVfamxOd201NU4yYzY4OTdodnlGYmxF?oc=5",
+        "date": "2026-10-16T14:24:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Marketing": [
@@ -61,18 +61,18 @@
         "source": "Gobierno de Venado Tuerto"
       },
       {
-        "title": "Resumen semanal: Home Care y Beauty impulsan los ingresos del tercer trimestre y un dividendo de Rs.41; la acción cae 2.10%",
-        "description": "Resumen semanal: Home Care y Beauty impulsan los ingresos del tercer trimestre y un dividendo de Rs.41; la acción cae 2.10% TradingView",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTVRUOUpXWWxmNmwtdTI1SFg2elA3N2FlWUdodGg3aVBISWZjR0NVVkQyLU15eGJwNXY0LWxxejZReFBtSFVaM2F5Y1lnM1BYUlZDdU83bmV1WVJlc0JhT1libWJxVGY5Nm9xOA?oc=5",
-        "date": "2026-10-19T01:00:00+00:00",
-        "source": "TradingView"
-      },
-      {
         "title": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital",
         "description": "Jägermeister y Tombras ganan el Lápiz de Oro de Marketing Digital DossierNet",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak5yWnRMME43TUFrME5ZZjk2ZFlBNVAwcmdrZzFJREd0QXI5a2JjNThOcWw3SEF4TDNMRUxaTXFsV2NfUnJXV0s1cmNDenhtWkhLOVBxOWZjZVFPWmIyenIxYldDSFRmODZvUjFFaTRQcVdxUWZROTBEaXVqMXVCQmtZR2RzTWRVc0xIMlhnX292MUQ2RGhSY0xFWGo2ZjBTZkprMjIxVQ?oc=5",
         "date": "2026-10-14T20:25:01+00:00",
         "source": "DossierNet"
+      },
+      {
+        "title": "Resumen semanal: Home Care y Beauty impulsan los ingresos del tercer trimestre y un dividendo de Rs.41; la acción cae 2.10%",
+        "description": "Resumen semanal: Home Care y Beauty impulsan los ingresos del tercer trimestre y un dividendo de Rs.41; la acción cae 2.10% TradingView",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LTVRUOUpXWWxmNmwtdTI1SFg2elA3N2FlWUdodGg3aVBISWZjR0NVVkQyLU15eGJwNXY0LWxxejZReFBtSFVaM2F5Y1lnM1BYUlZDdU83bmV1WVJlc0JhT1libWJxVGY5Nm9xOA?oc=5",
+        "date": "2026-10-19T01:00:00+00:00",
+        "source": "TradingView"
       },
       {
         "title": "“Impulso Emprendedor”: brindarán una capacitación gratuita sobre marketing digital para emprendedores",
@@ -82,11 +82,11 @@
         "source": "Sur 24 Noticias"
       },
       {
-        "title": "Noticias de Israel y del mundo judío en español",
-        "description": "Noticias de Israel y del mundo judío en español Aurora Israel",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEkzaTlmZDVMVDhJOXpGaHZaY3ZUbU9sc3FzTk54a1Q2ckdOTjJLdjBfMmJ0RlFvYi1hNkozTlA3Um1TUDlEQ1JYemZrWWYzLXZqdFZZSkEtVDNGY3ZUMnBBNlNuUGlQdDcyamdwSnVtY0lEWkZQdVFQZHpBWVBCTW5OQVk?oc=5",
-        "date": "2026-10-18T12:42:42+00:00",
-        "source": "Aurora Israel"
+        "title": "Posicionaze lanza Marketing Empresas Industrial, un servicio integral de marketing B2B para fabricantes y empresas de servicios industriales",
+        "description": "Posicionaze lanza Marketing Empresas Industrial, un servicio integral de marketing B2B para fabricantes y empresas de servicios industriales Diario Siglo XXI",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR2xPREQyTm1HN0MxYlUybjdiX0l5MGpsbzRya0tzUkdheHVvYnd3UHZRSzBaOW5VelFWbllVaHZnWkJ6U1JTdkZEVGhieDFUYXg4aDRfZFFEbmUyTDNfQ0I1N3VrUVpIZ0U2RjJxdHFYN3U2YzVNM3pjOGdNLW1JQmkwdVotMWJ0TlB6ckNWdDlUTFgxUmt0eS1tZXlVSWVfdGFJdFFybW14ZHRoVW9WTzhpckhQQ3pDZDRLN1JlQUp2WTBwUFZYT2MzVHZwVi1MRnJxdVhqMVhGNzRBc3AzRGs4QjRGYVIzbkVneGdYR2tHdlJ1Nk9tLXZYbkNncWhwajhZaWtRUld4RTFoc1RsRw?oc=5",
+        "date": "2026-10-19T06:49:00+00:00",
+        "source": "Diario Siglo XXI"
       },
       {
         "title": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,...",
@@ -96,20 +96,27 @@
         "source": "Perfil"
       },
       {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Serezade García (CloserStill Media): «El futuro del marketing y los eventos tecnológicos en Tech Show Madrid 2026»",
+        "description": "Serezade García (CloserStill Media): «El futuro del marketing y los eventos tecnológicos en Tech Show Madrid 2026» PuroMarketing",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1lyVFVaalBmcHFna0tIZGdoZkozZWhJdTdFXzVuZnlzMklpUU5DQzQ1SUdjcFNTc3liUFNPUGRDOUxsWkNteDA2ZVdsa0NFWmlXRVRSQ0RpU1pZVEZmcDVKdmVNejc2eWNwSzM4MTFveFN4VXhERGlUWTlUMnhieDdORmp4U08ybGk3MmtNUzY1NEJvX1c0aTdKd3VEXzhScjdsa09neVI2T2d0UjRfcl9ZS1JfY2lhR3JkdWs1aXEzc0dGOTB0cDZfMTdSUQ?oc=5",
+        "date": "2026-10-19T10:12:29+00:00",
+        "source": "PuroMarketing"
       }
     ],
     "IA": [
       {
-        "title": "Santander se asocia con Nvidia para impulsar el despliegue de la IA",
-        "description": "Santander se asocia con Nvidia para impulsar el despliegue de la IA Expansión",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1NaV241VU43QmZqakduYVpib2JoS3M2Q2JtcDA3Smt4RC1VamRXTFE0eHNrcGhjWlVjUU9ZUVczOENvcnhTb0NyTmJiQlNjMzB4OGlJMWZWZ3M2Q21uMUV0a3pOUG1DT0lNcklnWjlja3A0MzE1YURyVVN2YXpyS3RtTU4wcVIy0gGIAUFVX3lxTFBpMHA3QTVPTWM1eEVjOWpRTUZfNGNyekU0U1NRekw1QVhBRXBDSkljQ05WQVNSMTkyam1Wd0N2bmQ4T0MyTnJYdVNWb2w1YlVhTVRMYUlXRFc2VnhVdVotbTRHQmYzYnBLSjd3bkdhQXkzNlhudjBPTmxWLUsyTXJ5SHgyV2hIbU0?oc=5",
-        "date": "2026-10-19T05:01:51+00:00",
-        "source": "Expansión"
+        "title": "Irán advierte a los países de la región contra \"dar recursos\" a compañías de IA o datos que \"apoyan invasiones\"",
+        "description": "Irán advierte a los países de la región contra \"dar recursos\" a compañías de IA o datos que \"apoyan invasiones\" Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSVFicE5CWmZmRDVQSXZJS0tPQm04eklyWUYwUU9WdlJQOFdyUnJHX1dsUHdqcUZSTGVaNVFGUnZ4T2gwSm43WWxOVjQ3M1VGckFONmx0QzhJQ2xKWm45N2FDM3ZiRXBTZ294RkxIWjdUSXBpQVlzTDdPZlBVeXZGRUhMV0ZnVW90NmM5czRNSTN5YTk3Ni04Vmc1clotclR1SkFiUjNxZDB0WXBlNUF3TGhPV3dXY1dFTC0wWTV3Zkk5VGlzeGJmRFFsUDlRUkh6RXVXNWZWSlVVR1NSQmFWMG9USk05TFkxcDktUFhtYk1Nd9IBjAJBVV95cUxQaFpoQjMyWU5wTXk4a2tyeFY1T25EdUZ2Tm5VMkt3MEdQN2pqeEVra1FXLXZ4Rm1ORUdfRTdIZ1JpRk5ENkJyQnBIc0wxWFFxajA5NWVkdUY1OFZVRzkwX2gwSEJLSmZ6eGJpTmRHMkFSckg1UlNPdEZfM0xBbU4wbWIwQi1jX19LcGFacmRMMEJ5TmNhT2RIMlZhdjRlTExHcnRGb2YzS21IMWU5NUlMU3lvMlhhVkoxTWtmNTF2QU5WdXA2X0RFOHRmakVyWXBianhOVkUxQjZxNXpfbjBBVjgwY1VpdmRMVzNOV2JsUGsxRi1mYWg1ZGotWFpYaHAxUzVCNk9XWDRCcGU1?oc=5",
+        "date": "2026-10-19T11:47:51+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Pep Martorell, doctor en Informática y experto en IA: \"Como cualquier tecnología superpotente, plantea retos y, por tanto, peligros\"",
+        "description": "Pep Martorell, doctor en Informática y experto en IA: \"Como cualquier tecnología superpotente, plantea retos y, por tanto, peligros\" El Confidencial",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcU53VjVfc1l5aTNzdjB4eTg4a05CdXd0TFpoV3JTZjNVY3kxZGxPOC1MZ2hoVWJPRHlNSzlhWDB1ckVfdk82SW0taEZpSV9ZTjY1bGNpeWtHek9DOTFqZ3h0cVpNOTBQbmhhbWNSM0xjWnJZYmFJRjR4NWh2d2pTMDEtS0xfNWF2cnJhSHkxRTJVR2dnVFRCc1pQTUV4a0dsMzJwN3B0RHUxYS1iWk1lOGhhcnhfLUdhcUhDTVdwcHJnT2Zua2lQVVM3eGZmMXU0SXFwTE9IUlFvTDQ?oc=5",
+        "date": "2026-10-19T10:45:00+00:00",
+        "source": "El Confidencial"
       },
       {
         "title": "Adrián Paenza: “El cambio que trajo la IA es descomunal, inimaginable”",
@@ -119,11 +126,11 @@
         "source": "Página|12"
       },
       {
-        "title": "Un experimento del MIT demuestra cómo la IA puede manipular lo que recordamos",
-        "description": "Un experimento del MIT demuestra cómo la IA puede manipular lo que recordamos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU0VUeFJKNG1zdDJlZ0FQQW5TTmRyRXA2elZPaWpMQmRmeHhBZjE5RjhZSzRzNUJ1aEs0LU1CcFR3WE14LXB3MWtIQUFnaTQybUxRLWE2QXJwYm1uSHQyM2pHWTFuZHJNNTVjeXo0a2N6UVJFVjc3X3MzMXZwM0hxV0Z4QnFKUlhoVlAxbFBvNmh2c2JoOVRVNWFiQ0VqeFNCUkliUFJtRmhpY0JHSG1RQVJLSURyZlVuZmlj0gHWAUFVX3lxTE8xYjBLQnhuc0JfYjY1dmllOS1nMTVUd1JyQUNQby05c19SZ3RuV0VtS2JPQ1J0cGg1blY2clk3NmZsVnVmU0JLTmFDck5nbmJkQ3NXdmhua3RvWFZWTlU4bFdFUjBzS2JKQjdJbUt5Rm9xUkpnTkVYWWlSZVNLejV6bUFoS2FGWWtOT0FNV0FGUUwxNkVCR3VDbDlMa2drWE5tNmdJSFhxRTB3a2ZFQ1hFOU9xbUREbVRIeU1kSGJLZXd2T0VHeVNUblJBMWVrZmp5SFZ6YWc?oc=5",
-        "date": "2026-10-18T22:37:00+00:00",
-        "source": "Infobae"
+        "title": "Mercados: ahora preocupa el pedal de la IA, tras el berrinche de las tasas largas",
+        "description": "Mercados: ahora preocupa el pedal de la IA, tras el berrinche de las tasas largas Ambito",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzRFaHBsbWI5eGtOWVkwS0dEa2pUeGdoTVJlbWRvb2ZHMGZQZTRpdVc3VXQxZXpXMTlqaFhPVV9fQ19sRFFIeW12V0NvMFZzR1J5cTZBTHl2M1RzX0l6TUYtVlVQMjJUQjMxVktCbEJVOTlaQlA4UlhGek5TLWVFUFktQ3puek0zbWZCcHF1TDRyNkZiR2lPaDNvcWZiTmExRGJBV1VJVEttT2lIWmfSAbMBQVVfeXFMUEZTaXZ3aTZPcHF0d041aXVhc3FlNk1yNUtpdFVYZHlybHo2c2dIaUs0Zjg3UTlnMFBFaDYxQzVVeUotcGozQ2xVTlMyZTdjYVM0WDFYcEZmRWV4R3RTeFFYbVZEOS1YekJuNmplLXlrN05yaTZLbE9vbWlxMFB3aFFIX3pGeGVHWkZKTnlNX3ppRGdETnNaUk4wenljcmVCWnBOMHRIV19FTVQ5VzlFamdYT3c?oc=5",
+        "date": "2026-10-19T03:00:00+00:00",
+        "source": "Ambito"
       },
       {
         "title": "El auge de la inteligencia artificial está amenazado por una epidemia de números poco confiables",
@@ -145,13 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeDdwWmJKRkFqMHd5TEZjRGdyekZMRGFOdWdHWUtQQnRfTnEwMUY0SU5zZ1lTQnJ4NmVldTlsY0ZWLW1KalI0aUpmMzVKX1F6d09mMWdtVkxnQlN6dXNFTnQwMkNaMUZpa2NCb1drUzl3U3M3WHI1VmV0V0FKRzZvcEhkRG5QQ3FJQ0MzTVNQSEVnaE1oSl8wdW5fcHA5QnZZS2Ewb1dfa0lOS1Rhei1JcURfUkxieUZnVmo3ZTZmemlleWxHbUdscXljQWlaejR3NlUtRXJoSEV1djlkWHczdmJMaElPRWdVeXfSAe8BQVVfeXFMUHpHWEpzeEZsTWk4Q1J3RW1QS0JfX1pWVzlfdldTRGZsMEt4QXM5X053UXp4clNQZWxVcGgwT0p4RGoxQ1RWaUxWRDg1OXdVVDFSdEJwSzVZRFFkdmp6MFlPbVppN0lzOWltZHVKaWkzSE9Xakc4YTRtWGZMcnNMajYyMi1IUURQZ0tRMHZTb050dW02akM1bk9WdmlNcHNOWnB2anpfeEhfRWIyNEpJVEJITENSMldOQmg2NF8wcmVobTAzWHAzTjB4bDJqaXVxSjdQUTZOTm9OaHI5NjdPWVBlX3UxS2Ntc0wxb05Lc1E?oc=5",
         "date": "2026-10-18T15:47:30+00:00",
         "source": "Cadena 3 Argentina"
-      },
-      {
-        "title": "La Inteligencia Artificial no nos matará, pero sus planes de pago sí",
-        "description": "La Inteligencia Artificial no nos matará, pero sus planes de pago sí Los Andes",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkhFSUhTYkc4TDFWdC1wYmRaR0ROT2tZeTA1TDhjOWhrTDB5LUo4TE82UExmNEl5VmJXWm56aGtfellDSkdUbENHOE5hVzNTN1o5SHlpVTBXR0Qxb2VjeHlINHlHUGFoRkpGU3ZiUnhMQnhlWFFiakloeFl4MmJQNHVwRFdhOEhpbVREU0ZEeFBPNkNGZi1NeXBVYlJHUFV5SUswTEdfYVdSS0kyeHc?oc=5",
-        "date": "2026-10-19T03:35:00+00:00",
-        "source": "Los Andes"
       }
     ],
     "Vaca Muerta": [
@@ -163,11 +163,32 @@
         "source": "Diario Río Negro"
       },
       {
+        "title": "Argentina LNG: YPF y sus socios internacionales definen quién proveerá los tubos del gasoducto más grande de Vaca Muerta",
+        "description": "Argentina LNG: YPF y sus socios internacionales definen quién proveerá los tubos del gasoducto más grande de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMDkxbHhSSDZxSFM2RGhEazF3ZjFEczdjaFRUZWhmLWtRVjZqb3hZUVppWDBJcGFzZk5iOHFyRVV0Z0YzSGZmb1FRaGEtbHZhZEtPSXNEZ21yMWNKS0IwQ3lmbjk5QkU2d0ZVaTNiQ3VBblU1WXp5eEozYUVVNkVQQ1ZPMFdMaXRzRGpzeWo5M1JBWWdORFlFbjNOMzBXYlhBOWhRUEh4SlJUWVNxZ0hiMHhvLXhCZkJqenktQTI3WE9ISlJYWGw5bGNlY1dxelE2cS1FaUNuc2N0SHBnMVd1dFJoR0tLZlIwaS1hVjF2NGxYa0VGVVln0gGSAkFVX3lxTE1DTFFfSHAzcGpPaGpwZlVoVXNIak9FMVZvRG9mZjJHMTBVWi1WbXF0RnJqNUhTOWd0cjlpYzAyQjduSUFkclFqNThySi1wc21aa0FXZTRRU3dVWmRHR2ZGZ0hUMUtuRjZXeWpONk5FSFNFYmFpZGRkOGsxMGxLZzNiaEMxdHdMMzlWdFM5N2EwcGE0VzJlOURRWDBrZzAxSDlMSk93YmZ6NTU3cGIzZ3JhQjdTZDRKZnA0MWgtWFhrRmItUERWdmxlVEh3aWJYWDVfZ3k5YUdFSkg3Q0ltUnY5dWZid2V6STdiODQxQ2JlYVc5Zkt5cS1MdUF3eUdUdmNHMDAzaTd1bHFKRU9CdnFmZnc?oc=5",
+        "date": "2026-10-19T06:33:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Arenas para Vaca Muerta: YPF analiza el uso de barcazas",
+        "description": "Arenas para Vaca Muerta: YPF analiza el uso de barcazas InformativoHoy",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNE1iN1lqaG5ycDYxYkc3UGQwV2dUdEU0SWNOcFZmaEVrUmoxNTl4allkbENuWHhvcm9LamNtdHdoUmZpSU9pNzFfamhwZU0wN3FBV3RLNHJ2dmg2aXMxaW1wNDlVWmZkbkhENWI4ZFo1V0otcU1CTmJETFNDMG9uT29TUmtlU1VRb0RmWVJDeHZCM1VUYjBqV19ybGNuUlVfZVpydF9HX1ZWTlRWZmJUNTVKck5rdzJkZEs0RDdacVlqSUloMUI2azBKX1dTbUpZdS1RaFhIMEhJM0d0OFdzMmppc0lUeEJz?oc=5",
+        "date": "2026-10-18T06:01:44+00:00",
+        "source": "InformativoHoy"
+      },
+      {
         "title": "Las cuentas no cierran en Vaca Muerta: la fuga de dólares que oculta el relato extractivo",
         "description": "Las cuentas no cierran en Vaca Muerta: la fuga de dólares que oculta el relato extractivo Agencia de Noticias Tierra Viva",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZlZNRWQtdXFRVFNhQXNjY2swZ3VpRWZBbXZXZXFzZmNPUkdQMkRCQUlmNlhEWVc1OF9mWVVNWVBsZGRFTHM0OEd3QnRjZFNvaTM3NktPTVpVd2dQc0RsUjd5OF9xSC1FWElJUGNvTk5aa2FCY0VNVEotSjNkbUZERGdhalFWemd0ck1TUnVkR1pWTWd1WnBRbXpQVlh3N2xiMnBTV0prZ1ZRejdCS3Z4eEtNVzN3cnRZOUZzVUtGOA?oc=5",
         "date": "2026-10-16T15:13:54+00:00",
         "source": "Agencia de Noticias Tierra Viva"
+      },
+      {
+        "title": "AOG Patagonia 2026: la JOG reunirá a jóvenes profesionales para debatir sobre Vaca Muerta, exportaciones y empleo",
+        "description": "AOG Patagonia 2026: la JOG reunirá a jóvenes profesionales para debatir sobre Vaca Muerta, exportaciones y empleo Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUEI2TE5kRnVwSmNQRnRka3RSWFhpQTVKVEhXZXVPb1NxSTdFOGJqejlVMUhiNFlDLWlfeGJJZ2hWTFJJSUU4a2FxQXVFYVdQeEUtMHltcDRFcWZKbTRQZk9SLVJ3c1p1TV96LXg1ZFR4Z3dsdHBmYVd5dGVDdGpzMHp0bmdwV0E0RnkxVXhFczRHRXI3LTJGZGE1bXlUSnJjY3Fxd3ZsUVNRZ3dicU90ZERZSHNORUFGNnJhT0NZb3p4bjgzUTE0a0ZuU2RUSnA1b3FvdFZ6eXhpZnc4VUVR0gHkAUFVX3lxTE8wSGE5UUtNdlQyOVJyNW1VS0dORkR0QUNrZ0RrNE5tM011VmhxSVE5WGFjcDJjQUxRRlF1WkdUUlZSTmRLdzFmQmpiWFROMWdMRHRaSmc3d3otODFaV0FSelJIdkxrN2NDVGNnazNxVm9uZERXZExleWRRZkNHUk9YS21kd2Zvb3U4VGlmRE9YS1VrUkhIRmo3clhUOXRoY1ZsTWE2N1JZcXJhejNDQ2QwMHZMMF90UlpLNXNlQU11TmQtRm9KbWtCTzhlbDJFcm9ZZHVLQWdvTUZ6YW5OcnJ3cEhLQQ?oc=5",
+        "date": "2026-10-19T11:00:00+00:00",
+        "source": "Lmneuquen.com"
       },
       {
         "title": "Vaca Muerta se abre paso en Asia y prepara un salto histórico de sus exportaciones",
@@ -177,32 +198,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Milei llega a Neuquén a festejar con Figueroa el saqueo de Vaca Muerta",
-        "description": "Milei llega a Neuquén a festejar con Figueroa el saqueo de Vaca Muerta La Izquierda Diario Agenda de Javier Milei en la AOG Patagonia: a qué hora habla en Neuquén Lmneuquen.com Santa Fe desembarca en Neuquén con 170 empresas para potenciar la cadena del Oil & Gas El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeDZBdUM3YXlGQkxMY0tEOUhOY29PVzREajZidUg2SU05RFk0aTZkR180dXVXUDlnMFBST0pQclVQTTBnb2JUbDFBRGxUNzh5RS1sSEg3TEIzRnQzdVAyRXhqMnl0a3hnWktKRW82M0V2UmZhU1ZrN0w3VmlHaGw3OV9DU3FDSE9yelBMOUw4QkhVc1B4QW5UaXFQM2NSZERjdkxlNnBLa9IBrwFBVV95cUxNSkdXYlNwNnpFQnU5MmFxdy1JaC02a29JRmZvbUNPWWZseGdBMHNuUjlOdTl5NjFzTktTSXo1aHlqLUYtYTNNMmJFMm1EUFh1RjNqSVRIVVRjaE9wRWZYTEpDQWNsYjhyMkVQeHdrblJhNFhlS2dieEJ1dkpzUVh5d2dpR19SWVJlUEhOWm9XOUtJQTdfSXEweUhNMFVmdEpQaVYzRWl1RnJGOFpWcVJN?oc=5",
-        "date": "2026-10-17T22:16:10+00:00",
-        "source": "La Izquierda Diario"
-      },
-      {
         "title": "Vaca Muerta: Neuquén negocia con TotalEnergies un bono de US$ 150 millones para avanzar con la explotación de un área estratégica",
         "description": "Vaca Muerta: Neuquén negocia con TotalEnergies un bono de US$ 150 millones para avanzar con la explotación de un área estratégica econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWlyTDNRQ2NUOFJmS1N2WE5Hbm91eWFrdUJFb29FU3dEWkZ2M2gzc3hsQU5QMF8wcm5jRkpjVTh4em9zOEVfSHh4MnhyYVVsazh0SDNXNUtsSzY5R1llLW0xbGRrR2ZpZ2ZqQ3pzcWFHVHZNTjhHUnVyOEpsNF9tYnhQbmM5NHB5VER6REtPVmo4V2t1OHZ2NTY1dTJ1XzFDRzcyTEJXVklXeDlFYlA0NjhyQThQRV9QZVN3azJBQWpFb2s?oc=5",
         "date": "2026-10-16T18:41:20+00:00",
         "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Las pymes petroleras bonaerenses se hunden pese al boom de Vaca Muerta",
-        "description": "Las pymes petroleras bonaerenses se hunden pese al boom de Vaca Muerta Página|12",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzhYaTg3R0dLTVdmQ2JZWGJWTGtMaWpDcHdiTmFFM2tvd1B3WlJHalJqZTNoRlNNeTBOa3BfTlJGeUgxdGlHMl93eFRwMmJXWUJQbTF4X2daOXh2aWNrclZNc3J0TGJDNXJjcWFfYnlGNFAxR3FlSkdpVUM5NGtPUHRKZ1lGUWZpdERkVzJFTzhfdVpoOG8xTkFmNEw3MEdEMHhLcEZ2LU5qLTA5elRB?oc=5",
-        "date": "2026-10-16T22:12:00+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "Vaca Muerta, bajo control digital: cómo Siemens busca mejorar la eficiencia y reducir costos",
-        "description": "Vaca Muerta, bajo control digital: cómo Siemens busca mejorar la eficiencia y reducir costos Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczVScTdaZmQ3S29YS1lIVHVtZVBCeEJqVnh2MGl3T0YxZ0phU29SY2VFR1hLNDhzMFNiV0xFdzNLMUpvOHhiUXNjTk1GOXVMNUVYVFRtak9RY2YwQ3hlaFY2MEZaUENfeWlVLUJoMGZtcFhZZUNIS0NmWkdSbWRycEhMSGowZzB1Yks1R1BMVlJ5a3M4d3NYa18zZDdEV3ZrMGFLTlk5M2xqaXJzN2NBMTVNZE5Rb1FZYzRLdjVQSUhtLWM?oc=5",
-        "date": "2026-10-17T17:58:00+00:00",
-        "source": "Ambito"
       }
     ]
   }
