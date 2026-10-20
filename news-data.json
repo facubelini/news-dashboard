@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-20T01:27:30Z",
+  "updated_at": "2026-10-20T07:01:02Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft celebra el aniversario de Windows Insider, su mayor programa de prueba",
-        "description": "Microsoft celebra el aniversario de Windows Insider, su mayor programa de prueba MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaV96Y2Z1YWRnZVZJbkFseWZLRDYyM0NoU1dWaTJNTWhmRGZGX2JsRXR4R0Q0QU03YllHcTY4SnYyYVNTalFBbERXTzl6QXNuMm1KQXBidzFGT1FzS2J5cFdoMVMyQWo2RzI2UW9vMndQdHgxSTdSZmoyMjV1bi1qUElMR2RwLUF4X1gxZGlpOGtnLV9wWkx1c1VVU2htdlVkTzZUTkd5U19yWFBURW40U1hYemEzRDBhZVQw?oc=5",
-        "date": "2026-10-19T06:16:49+00:00",
-        "source": "MuyComputer"
-      },
       {
         "title": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs",
         "description": "Microsoft acaba de hacer algo inesperado con Linux y podría cambiar la seguridad de millones de PCs Hipertextual",
@@ -17,17 +10,31 @@
         "source": "Hipertextual"
       },
       {
-        "title": "El almacenamiento de Microsoft 365 será más \"flexible\". Es decir, te bajan el espacio, pero te cobran lo mismo",
-        "description": "El almacenamiento de Microsoft 365 será más \"flexible\". Es decir, te bajan el espacio, pero te cobran lo mismo El Grupo Informático",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzdkd1J0ZUdneDZFOFpjUG5idnlEeFJjSUhCUjBEX3NFT2RrT1k1Qi1NTnA3bzVmMFpqZWxSc251S19kbVRuRWQyWG50RkY0QUhsLXdWQXNJY2JxcExtU1dkdE9Va0RTLUJfeko5SVphRFF3SDd2cXhhR0ZDYkVaUFZOcWw5cDFmTktjTTBWeFlmM003ZUtuTWw2Q0hWaXVIR3Y5N19naw?oc=5",
-        "date": "2026-10-18T10:49:45+00:00",
-        "source": "El Grupo Informático"
+        "title": "¿XBOX prepara un giro inesperado con los juegos físicos? Microsoft da nuevas pistas sobre sus planes",
+        "description": "¿XBOX prepara un giro inesperado con los juegos físicos? Microsoft da nuevas pistas sobre sus planes Vandal",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFVHVzlBOVI0OUdCcktvUjJyY1RfTTBXaHBKY1VyMmZJd0toMzJDb1ltTXlmeGRCVFUxSnZNb0otTl9NRFR6Z0VZUlBCMktXM3d4Y0ZRckNMenVNa3dNNURERmg4bzRicXlURENZN1JtWE5xUzc2Y1VjTWMwdGo2SERBY0RsaVNoWDNsUXd6UU9zSU1ac3hrNnlWUmltY2ZTbWFEVjNjZGc0UXlILWdsZ0JMYkdnejlrV3V0bTRiRHh1SFNlX2tBMTVJcXN1bXhBX1lDTnRodzFNZ3VrdktOddIB5gFBVV95cUxOWFJIVUtGaEJOeXBSWGEzenlXallJOHhSQWFaWklCalFOazlQLXNTWnFRSFQwcGFXeElUMjdKYXhRLUNibnUzaU5XaWRhTWN1bExxRUtxd3FYWXdwaTZMOXM3eW5SYWhpb3JxSWpRcWt4d1RmdExLcTRMNVlhM3h3OFRkekdsZldhRV9kbjFYTmFjeWRQcjQ5MEE1VmI2SDJwbUZLcl9nR2RSeHBJSE9LaHZURVhIa01tOXBLZElHLXBkMlRsNXMtbmVuZXp3cDM2MDlvUmc4VVFOUzRpMU53ek8yb0padw?oc=5",
+        "date": "2026-10-19T11:18:00+00:00",
+        "source": "Vandal"
+      },
+      {
+        "title": "Microsoft sorprende a los jugadores de Xbox: si no usas tu consola, te anima a venderla",
+        "description": "Microsoft sorprende a los jugadores de Xbox: si no usas tu consola, te anima a venderla Generacion Xbox",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzQtZXg2VG14V1ZZVTBoNDQybGdBY25jRWVRdHNRV01ON2pCbWFkMDdpYkM4bGJ6Um1yOGpxbUs3R2drdXNHcHlCemc4THprMUwxR0JTaTVSSkpUWi04cjdEdU5NR3JwalF4NXp4bWdvU0ZQdmlISDc2ZDRrWm12TGozRUZ2YWhrUmFjR3V2Z0tKZ1JXZXdDS2gyRjRGMVd5YmYzRzc2X3g0dGZLdjBIWXp5NA?oc=5",
+        "date": "2026-10-19T21:46:14+00:00",
+        "source": "Generacion Xbox"
+      },
+      {
+        "title": "El formato físico en Xbox va a seguir estando \"en todas las plataformas\", según una oferta de empleo en Microsoft",
+        "description": "El formato físico en Xbox va a seguir estando \"en todas las plataformas\", según una oferta de empleo en Microsoft HobbyConsolas",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQemdGdzFPX2RwdkJGZWNiNXhTWUpVckFMTXQtU3EtMnlzMGQxNURBQ3BYZFIySTUzUjMxR3NCNVAwci1zOV9peHloTlI0U01pdVA4UmFXVTRGZ0Q5cEJ1N0hrQU1KZWt4NEozcU51ZHZITnlUNVJySVlER0RZZ3FuUmM5eFZ2YzRack1vb2dwMi1iMjk1RWtiZDRLV0FQYkFveG51SHJVTnRESVhRRGJ4c0hPTk5EYjFZcnpscHV6NngtUkhzMUl3QVdZS2VIWWh6aU1QZ0Z3YVVmUm5Bd3ZPUG1aZW4yR29sSmJNcXJjM1NsaVh3OF8wSVY4eVNsNnNQcmtFVXZKN01BU2JRRmpMdnZiUjJucVpW?oc=5",
+        "date": "2026-10-19T06:53:55+00:00",
+        "source": "HobbyConsolas"
       },
       {
         "title": "\"Lamentablemente, los modelos más avanzados no son confiables\", Microsoft reconoce el riesgo con sus propios agentes de IA",
         "description": "\"Lamentablemente, los modelos más avanzados no son confiables\", Microsoft reconoce el riesgo con sus propios agentes de IA Infobae",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc0VVY3ZDamFGbGFwZXc1VkYzalM1OE93ZUc4LS1XcmFiMC16QzA4VV9fVHdrd2VwSWQ5UFI0TGJTUE9sQk1obkVrNXZjSi1TWmR1NmhhdTBmUWZjeFotdW1fc1hPWlZIS2xqaVBzcU96cXFqTGZhMWpVb3Bid0t3OFBXWFBEV1JzbUpMMUdiVXYyZFpQb2xDWW9pX04zVkZOSENJbGptb3hZM3BFTkFtOERUYklVSlU3b2FWeXpFX19lV0tRa1BIbkVuTFVXRWc2TWQxallzYk5rVm41bjJiRmtabFo2U0pvYVZNRjduTXV5Z9IBjAJBVV95cUxQVlZTcjZjb3hjVGpWcUk0M3otblowNUtJZkhQcmlzQWdNUEI0RTZGNWdVLXZSQS1HeDc1allKd2pGRkxTbFVIdWgxQ1JMS2NDbWY0cnpESklubjN2WkJhR0xWZktheTkyaUVURjR6QjUtcnpNUTJjblpqYW9IelFHVUdVa213X1VadFhKSDZJM2pTQmw3THYyeEJlVzVnTFJaVGlXVF9qbHF0bGRNNEVJNlNNRkVLRWNzMzNuSDR3NkhuS3FxaFV1Q3NXaWNpUm5FVkhZQm1MRE5YYmFDYzNfSWhYRUlDSU9iRUJvSFZHYmlLN0UwLWp5cmxZQkJBZkhTeERUR0JyM2s4bkg5?oc=5",
-        "date": "2026-10-20T01:08:03+00:00",
+        "date": "2026-10-20T01:54:00+00:00",
         "source": "Infobae"
       },
       {
@@ -43,29 +50,22 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkpqc21sZDg2ekpuakNxVlNCQzlSOUNnOEs5d0NpcTlmRjRZQU5uZHJhTWVibGtVbHdSV1BhN0VIYnhUNExNdjBTX1BNX2xHM05EM0p4Uk5NNHNQSjdJOHlhQ3N6SkVIMUlCZDdYSnNvZVFYbkh0T0J5T09hUC1EcVBraG5yMXViZkVwQjM0WFBPVENUVXZyUHI0UGxuUXRVRTRUU1pQMnkydzZoNk1LdHV6WWRuM2VLbmlDUzdMM0NsT2NNcDRnQm9jZ2VKdHFsM1RGetIB2gFBVV95cUxQZG9EenhaZ01VMXZScXc4TUxsYm1vRllCRHNqOXJlTjQ0cU04c2h4cncybDdKVEUyai15cGJsSUFlWWhiWVlGczVMNlVRSmZqYm9XdUJkXzcwQ2NlZVpEQnd5ZENrUnFhdU1qLTdZS1NWbG1WM0hPX3JIZ0tzbGkza2xnMWEzX2tXMFZsV0VXT2hkc0lZQ3ZIaTdqOFNqZ3ItZXBZZW1FdzFIdDdwWEpwMl9MYW1uSktfdEkycnRxUzdtMUlLa3E3c1hRU2E1SjFZOVBqOFVkR011Zw?oc=5",
         "date": "2026-10-18T15:31:34+00:00",
         "source": "Xataka"
-      },
-      {
-        "title": "¿XBOX prepara un giro inesperado con los juegos físicos? Microsoft da nuevas pistas sobre sus planes",
-        "description": "¿XBOX prepara un giro inesperado con los juegos físicos? Microsoft da nuevas pistas sobre sus planes Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFVHVzlBOVI0OUdCcktvUjJyY1RfTTBXaHBKY1VyMmZJd0toMzJDb1ltTXlmeGRCVFUxSnZNb0otTl9NRFR6Z0VZUlBCMktXM3d4Y0ZRckNMenVNa3dNNURERmg4bzRicXlURENZN1JtWE5xUzc2Y1VjTWMwdGo2SERBY0RsaVNoWDNsUXd6UU9zSU1ac3hrNnlWUmltY2ZTbWFEVjNjZGc0UXlILWdsZ0JMYkdnejlrV3V0bTRiRHh1SFNlX2tBMTVJcXN1bXhBX1lDTnRodzFNZ3VrdktOddIB5gFBVV95cUxOWFJIVUtGaEJOeXBSWGEzenlXallJOHhSQWFaWklCalFOazlQLXNTWnFRSFQwcGFXeElUMjdKYXhRLUNibnUzaU5XaWRhTWN1bExxRUtxd3FYWXdwaTZMOXM3eW5SYWhpb3JxSWpRcWt4d1RmdExLcTRMNVlhM3h3OFRkekdsZldhRV9kbjFYTmFjeWRQcjQ5MEE1VmI2SDJwbUZLcl9nR2RSeHBJSE9LaHZURVhIa01tOXBLZElHLXBkMlRsNXMtbmVuZXp3cDM2MDlvUmc4VVFOUzRpMU53ek8yb0padw?oc=5",
-        "date": "2026-10-19T11:18:00+00:00",
-        "source": "Vandal"
       }
     ],
     "Marketing": [
+      {
+        "title": "Mile Contenidos, de Venado Tuerto, ganó el Premio Vorly 2026 en Marketing Digital -",
+        "description": "Mile Contenidos, de Venado Tuerto, ganó el Premio Vorly 2026 en Marketing Digital - Venado 24",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUVWS1hvMmJFT1RpVjhZODl0OWdGcjFlT3pNdTVhOXdjREFUYi1xb2ZuQWl1eWhBczRmN3hqdnNIdWJkaTFfYWhHTEEzcnl2ZGRGcUtwMlhlN3AwRmwyVG1lMHh0SGZEaEZYY0MzWm9MNE43Z2hFQ1RsNklvbF9pdmp1R3JaZnJmNGlyb2ltQ0pFYk9EM0pFNm02VUE3NkFjVDFsRlpQeWZGMTlJSXQxd1hPdjV6Y01kOE1kdDN3?oc=5",
+        "date": "2026-10-19T23:02:55+00:00",
+        "source": "Venado 24"
+      },
       {
         "title": "Los cinco cambios estructurales que la inteligencia artificial traerá al marketing digital",
         "description": "Los cinco cambios estructurales que la inteligencia artificial traerá al marketing digital MisionesOnline",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOGFRclNXR05ENjYxY2VKbzhmZDB4U2RCZlhFM1NDT1RTOF94Zk1WcVZVc2hEY25qOExzRVM2QU9MQ2ktV2VpTkYxdEpwY2FwcWxISXZUWFdyYUVKcEdkNnExaUtnRktUNGMwSGlIOGladG03VmZ1LWYyeFBSVl9DUEZfZW5paFNUa0RHMnFPLUY5SnZ1TDNlT0wxUkNad0JhdHRZeHFUQ2R2Znd6NW1FbUpGMGpTaVFKMnhuU014QkJBWWxGcG9VNA?oc=5",
         "date": "2026-10-19T19:00:25+00:00",
         "source": "MisionesOnline"
-      },
-      {
-        "title": "Mile Contenidos, de Venado Tuerto, ganó el Premio Vorly 2026 en Marketing Digital -",
-        "description": "Mile Contenidos, de Venado Tuerto, ganó el Premio Vorly 2026 en Marketing Digital - Venado 24",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUVWS1hvMmJFT1RpVjhZODl0OWdGcjFlT3pNdTVhOXdjREFUYi1xb2ZuQWl1eWhBczRmN3hqdnNIdWJkaTFfYWhHTEEzcnl2ZGRGcUtwMlhlN3AwRmwyVG1lMHh0SGZEaEZYY0MzWm9MNE43Z2hFQ1RsNklvbF9pdmp1R3JaZnJmNGlyb2ltQ0pFYk9EM0pFNm02VUE3NkFjVDFsRlpQeWZGMTlJSXQxd1hPdjV6Y01kOE1kdDN3?oc=5",
-        "date": "2026-10-19T22:52:30+00:00",
-        "source": "Venado 24"
       },
       {
         "title": "“Impulso Emprendedor”: capacitarán a emprendedores en Introducción al Marketing Digital",
@@ -89,34 +89,34 @@
         "source": "Sur 24 Noticias"
       },
       {
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T07:00:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
         "title": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,...",
         "description": "Agentes de inteligencia artificial y posicionamiento en IA: cómo cambia la forma en que se eligen las marcas,... Perfil",
         "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTUFjSm1DU3kwUWVGcEkxckdsTmVYT1FUakw3TWJtS1Bab0NTazFtTVcxRldWV3U4dFpZQTJELU54elNCWmU4RG1HRnlnSE9STkRsZVMza1pPZExzZEZWeTRLSUdXSEw5N2dvODdHUVdocERLVGsxQlBMQnZrLS1rMG9lU1M3WXhtajhIeVZMRWZuS2tEMTdXQzNpWl8tLTJ5dDk5cDhqZ1NrdDhUcEpzV3c1cS1QenVHQjBFYWJwMENkbmtHVi1kS2Y3dkpQeWptRkVlU2tmSGxkOFFmdzBuVnhrZE8wdWlNUGw1S21FekJLWUlDV2FOUC1HQlh3Q3YxeEMwNHd5M3VKcFh3YUNxVkZzZkN0azgxLXZj0gGgAkFVX3lxTE8zSGd0TnZaXzBLSWZXWEF2U0RhSmszTkFGQVJxSHVrREZkbFRyVXMwcUNCNjVTUjZRTXl5Q2NxWUhneWFZMFdWQmFNZHFMb1ZNNHdtTm95ajl0VFFia2FpN2RhYjFXOEhZSTlsYVNPVnVMNkFMU2pvbEI0MFllc3poSnVaZHVBOG9wTGtFaUpPOTFTbGtsWm9iTW54eThpR2xienRxRE9SX0dnZmtVTUhvN3ZPbTF1QVZhRFpSWU5yM2ViVzRjY1NaTWVHUm0tYnlfcjFXN2ZFMjdmVVlKNXoxbWFuWV9JVFhtR3d0NF9vd2I2UDJDOXhFcVIxNUN3RWpHaGh4NnRTYkZ0VjdsYjF2c0dQenBXTS10TXFZLW1pNQ?oc=5",
         "date": "2026-10-16T16:27:23+00:00",
         "source": "Perfil"
-      },
-      {
-        "title": "IA en marketing: los 5 cambios que anticipa Forbes",
-        "description": "IA en marketing: los 5 cambios que anticipa Forbes El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHhSUzNtd01aLS1LTGFweXZ3QzVDVmlDM1daX0Q0UExZR3FHVUlWcy1uZl9IV0gwZjRlVkswcVdQcm43MVhWS18tUG1HWElwUXFzYks1TlZ3VXF3ZGRlTnI3aDNaT2tleUQ2anBERXhxU21hbmVOY0lzeENXbWRoRDFjZVN2aW8?oc=5",
-        "date": "2026-10-19T20:06:42+00:00",
-        "source": "El Ecosistema Startup"
       }
     ],
     "IA": [
       {
-        "title": "Elecciones 2027: el riesgo de manipular el voto con Inteligencia Artificial antes de que actúe la Justicia",
-        "description": "Elecciones 2027: el riesgo de manipular el voto con Inteligencia Artificial antes de que actúe la Justicia Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNmJMZXZZLVBSX1dkYXF1QnpYNDRGbmljZHJlQTNfeEFYOGlNUVhFREwwTldoWHZja1ZZTU9jWDVqOTlHcWRySWoyTERZdW9HQi1MVFVrNFJHaDlXeGhLYmM0T2h5RHpGbHFrajlkaDFHRDlCV3dhNU1pWFMtMER3dXRqME83ekYtYklxZDVwaVlpaGphNFF0dURVSkF2c3Y2aGk0NndJRkZrOElYMmxzRlo4SF8tbXN0LXItTGxuNUF6Z2FjNV9EVmFrcktZT2VKY3B5cDFFWFV4ODVMRXl0d0RYc9IB_gFBVV95cUxPZ1RqLTBCNi1VX28xWFo0TWhUZXZWcVd0MVBJUVE2WWp2QWhiNlg0Qld1NnNKTXZNaVkwNERhYzdMcWY0ekpPaldweHh1MV9DaHdOMTNlZjNuSDMxYV9KbkwwSFppSS1XSjNrNEpQZEFlMFEwLWdxVkxBU2tEZGlqVjB6bXhTdmFHWWFxcTBvUmFxWGZXWHI0V3BGVk5CMDN1SWJPMHhFZ2puVFBUWlFCbm5pVk5nd0txSzZBLWZSeUFCMVljTldZaEN3MVU2MTk2cXN4OXlwdF9EakNhNzIxWEdLc1BnaE5WUWkxeDZzeUhBNVhZVlJpUlVuX3B6Zw?oc=5",
-        "date": "2026-10-19T14:09:00+00:00",
+        "title": "Contratar pensando en el futuro: qué cambia en la selección y el liderazgo con la IA en el mercado silver",
+        "description": "Contratar pensando en el futuro: qué cambia en la selección y el liderazgo con la IA en el mercado silver Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYnc5dUtzeWx5dGl3QlZCQVYwYjlzbndhR2Y5TldQRkYxSno3SEwxbWV5TjNKXzNMckI4MXJUZGRVc2xzTThHR0ZZcnpoSmpXMkpBcXg2WFg5ZEdIUEYwc3hRZF9Gd1VGUjIyRXVLU3JnLXlQWC1rZ2xiS2hGM0lnSzZ4MlZ0ZUNVUlBXR0szR0xsb1ZlX2V3MG5GU3pnSnRxa1VQOXkyWU9TMml0bHBWY2tYeU9EdFcwOEkteTFfZ0o1NW8wOUNNQ0lkdnpaeURicFNMVlZTZHNDY29jWWozS2lJODlmVDg2NTFiUjBzSdIBigJBVV95cUxOWVZYODRyVklhZ1hIQWFNaVhKSFlibTAwbHlTWkp0SWNEajctc2drdVFhdklJeWhUTGN6NWxsNFIyVVItQzEzcW5PajZSNVg5cFB4d2ZVMlpCZXBDemZTTlV3Zy12RGtmTmYtNU9JTzhKamRSMk1FbEtBTE9vM1pvYnRVQlhWRnZBYmdBV1VCbkJQZkJrOHh0TXlaMzlqSXZObUJ6Rnhfdk1WSk5uMDRNakNzbzJXZ28wTGp1MTRmVS1NNEM1WFB3Z0xHTGNUcFdlcTFjOEtsR0dxVFo5OFZPNFRYVzFULWZZbWFHT3VBaXN4bVk0X3Y3NnFBUmNpTmdJcmh3WjJLcnRnUQ?oc=5",
+        "date": "2026-10-20T06:39:44+00:00",
         "source": "Infobae"
       },
       {
-        "title": "“No hay evidencia”: qué dice la Sociedad Argentina de la Inteligencia Artificial sobre el peligro de esta tecnología para la humanidad",
-        "description": "“No hay evidencia”: qué dice la Sociedad Argentina de la Inteligencia Artificial sobre el peligro de esta tecnología para la humanidad La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1hKTzZCNnIxUGxfcUtzZndMUnhTc1ViLU1sdWIwSFlWTi15a0ZBVEZIbHotNWdBMWVWdkJLR3pmRDZYZjJxenRCaGRZM2ZHWHlWelFyQ1p0bkI1NFNscWM3MTQ3akJBbk80UUhqRVJUcFZmQ1JqOWdwOUthcThZVUJqbHV3UUNZXzZjWEFhVTUzQlFHRkZfVXFCaU9SZzZFSjMycmQzYVpzdzBDaDlYa1hBQmgyN2FIWXV5SzlaX2hqWEU2d3ZzbHNRNV90VUhKbTNUUGtmM3pBclR6cUlDYUdCU0c?oc=5",
-        "date": "2026-10-19T16:33:00+00:00",
-        "source": "La Nación"
+        "title": "Una IA encuentra en la cara signos para calcular el riesgo de muerte en pacientes de cáncer",
+        "description": "Una IA encuentra en la cara signos para calcular el riesgo de muerte en pacientes de cáncer EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQmk0blc4d296U0hOTmo4aVdQUllRRkRISnpYaWhqaE9JNkMxRmNMNFVyN0o5eTgzbzdCVUpONGVoWFpSWG1PZDZSb3JTZ05QcV9GX2d2cm0wWkRkUnRRTHlOSUNrZTgweVBBSnZxYUJ5S0pGRi1JT2Y3NWxtU1NhSTJKSkVablpSZDdNM1kxdTB4djZtRVJ2UEZrZjc5dFpFNzE4WllhRUxuZ3gwbGFuMFZMbjVKaE9FSVNZZ21BdkYxQm43YXlSaTdXMUp4cHgxVmVGNENITkV0em5s0gHwAUFVX3lxTFBXU1NEU2c4TzlwdFRDa09rQXZQSGozN29Ra1liY2ROeUdzS2wza3RTZ0ZzY2kyc29WaUU3SmU0WW9NZ3lnS0VwOHJMMm5DWm9hbFlSVmE1bzQ5YkV1YzRlTlNGV3dqdVlmdEhpVVBmY0g1ekRjY2xiNERzV3JQS09Ebl9OandrVEF1VHdZNTVvU0hUX1BGa2xLMTBHZUtGeHBUb3U2TlVmN1E3Qk9Ubzc5OGg4SzVfVUg3cFNJbGQ1QmVOZkFjRjI3QWhKVjBucTI0anNyOXpGTFdzN1QwdlltdWlfUzQ0UVl2Q1k1SjA5RA?oc=5",
+        "date": "2026-10-19T22:30:00+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "» Primera Jornada Interdisciplinaria de Ciencia de Datos e Inteligencia Artificial de la UNSAM: ¡Inscribite ahora!",
@@ -126,6 +126,13 @@
         "source": "UNSAM"
       },
       {
+        "title": "“No hay evidencia”: qué dice la Sociedad Argentina de la Inteligencia Artificial sobre el peligro de esta tecnología para la humanidad",
+        "description": "“No hay evidencia”: qué dice la Sociedad Argentina de la Inteligencia Artificial sobre el peligro de esta tecnología para la humanidad La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1hKTzZCNnIxUGxfcUtzZndMUnhTc1ViLU1sdWIwSFlWTi15a0ZBVEZIbHotNWdBMWVWdkJLR3pmRDZYZjJxenRCaGRZM2ZHWHlWelFyQ1p0bkI1NFNscWM3MTQ3akJBbk80UUhqRVJUcFZmQ1JqOWdwOUthcThZVUJqbHV3UUNZXzZjWEFhVTUzQlFHRkZfVXFCaU9SZzZFSjMycmQzYVpzdzBDaDlYa1hBQmgyN2FIWXV5SzlaX2hqWEU2d3ZzbHNRNV90VUhKbTNUUGtmM3pBclR6cUlDYUdCU0c?oc=5",
+        "date": "2026-10-19T16:33:00+00:00",
+        "source": "La Nación"
+      },
+      {
         "title": "La inteligencia artificial llegó a la piel: cómo ya se usa en medicina estética regenerativa - TN",
         "description": "La inteligencia artificial llegó a la piel: cómo ya se usa en medicina estética regenerativa TN",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHZFandkRXhQQzkyY21ORndKNzc0NVdNRVlPUi04OGxsQmI0Wk1IU0ZnU2NGVnNkUTJWNDlZb2FUeVNhbi1Cb2NBRlFJUUFUUWJpQ0dJeGhEZzBiQnNsekkzV3BhYUJIOU1wbU0yZXpyb1Aycm5CYVpFejNENFQzRnlrYkQ1aWZFSFI3b2plR3NkT2lKVk1JYjRmQ3JObUthUnVFQzdjNERhbEhVVHZPZzZDVERaZHRMUmdRTENhUzF1NHlRUV9JVW1pRkZCRjDSAeMBQVVfeXFMUFhIX0hSRjNOSm0yLU9mZGdvaUtIZ1hzdm55SEFrWHZ3NXBvTDNDaHNMam90OTN6Yk1LejBRYXRBMGZpU1RZLXZuMlpER2hmQ1Z5QmQxY05saDNEck9sLTNxUDRWdjAtWDJCeE1VWTdjSm9kT01UYkNNVV8wakRFd3pweE15Z3VFOFN5UjZTejlhOWFqMkJjb09HbWZBdkF4QjZLTmxCNmJzNmtINlEtMVRheEY4Q25kQ0E0ZVZLeEdiSk1lMkJIR1BpRGR1eG9nN3FoX1ZOLXRWcEtnYlZpVndfOGc?oc=5",
@@ -133,11 +140,11 @@
         "source": "TN"
       },
       {
-        "title": "La Unicen realizará una charla abierta en Tandil sobre los desafíos de la Inteligencia Artificial",
-        "description": "La Unicen realizará una charla abierta en Tandil sobre los desafíos de la Inteligencia Artificial El Eco",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0dfTF9TTFVvNDB2MndOckQ3WWliNWxvNmZkbFFaQXRPX0Ffd0swUGJzY1N1NzVBZ1E5UzZQZm5VMFllUmZkc3libXdjWTNCMktWMzlTYVdOV1o1amhxbTZmcmhMZGRNWVlwaEFURXBoeWI2NkxualdkakthRDFQalhPSjJhd2U0dlpCNm9vRTZEWVFRdEhIalNpZmpEZGZBeEt0ZEVzUkNpcDJZZV9hUnBmWkRxVElLbHBqcjZlQjd0ZGxNaU52R3hkMFk5UQ?oc=5",
-        "date": "2026-10-19T14:11:28+00:00",
-        "source": "El Eco"
+        "title": "“La brecha entre ricos y pobres va a seguir ampliándose con la Inteligencia Artificial”",
+        "description": "“La brecha entre ricos y pobres va a seguir ampliándose con la Inteligencia Artificial” Perfil",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYjdhTjhrVjU5VGdjMkpkRU1pQW1JQ1ZnMndSQnAzNXQ2Y1FpSmYtWGhrUXFsUkdacVZxS0liQW1qbXU1UEhkVjNIYTdReFdtLXUxaXFQUGIxT3ljSTNSOE8yNVE3RV9Ma3RxYW9WbmRRV2d5MWpHbHRJRTVQbzdvZ3ZpNGFSUXZqZl81X3hqdHoteElVbFRzZ1J2SU8zVTQ0eFNOTTlFVEN0YzVWenk5Wnk3NE5pV0VjYThhaVN0Q3pSYndzcl9COG1WUGHSAdIBQVVfeXFMUGtnOWV6S3M4WEk2VGdrbTVwa3J6b01lcG5WdHpBS0JrT3M0cXhEWTF6WW9mMzRBWXlVR1Nmdkc0dVo3a0lBQ2Q3VW1SdWF5N0o4SjJwQy1UMmlHOTFIYTh0NkFrQzFrM0dMdmFwbmloT3FNcWxDVlJLbkVSN1pqMWwxS041OWdvSlFFbFhLTmo4T2lZRldGSlQ1ZVdqWFhMaFRwUmwtTEtIY3NLMDlaWDVXS0swaVlablFVVjFscXZKNmozLTdHdlFnUF8xV3p6NUR3?oc=5",
+        "date": "2026-10-20T02:42:23+00:00",
+        "source": "Perfil"
       },
       {
         "title": "La Inteligencia Artificial no nos matará, pero sus planes de pago sí",
@@ -145,47 +152,19 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkhFSUhTYkc4TDFWdC1wYmRaR0ROT2tZeTA1TDhjOWhrTDB5LUo4TE82UExmNEl5VmJXWm56aGtfellDSkdUbENHOE5hVzNTN1o5SHlpVTBXR0Qxb2VjeHlINHlHUGFoRkpGU3ZiUnhMQnhlWFFiakloeFl4MmJQNHVwRFdhOEhpbVREU0ZEeFBPNkNGZi1NeXBVYlJHUFV5SUswTEdfYVdSS0kyeHc?oc=5",
         "date": "2026-10-19T03:35:00+00:00",
         "source": "Los Andes"
-      },
-      {
-        "title": "Ciberseguridad en alerta: cómo el uso sin control de la inteligencia artificial corporativa expone los datos de los usuarios.",
-        "description": "Ciberseguridad en alerta: cómo el uso sin control de la inteligencia artificial corporativa expone los datos de los usuarios. El Destape",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQem14Q2xDZDJQcGlLZ1J3MzlBek40VmxWd3VMdVdSd0FXUmNUaVR6N29FVzhBOFQ4LVFubHNucEFYckFkQWhmSE9YN3l4SW90QXZVSTAtZTFkZnpHYWVkNlQ5Yno1cW5PZ2hBdEM5NXkwSXFVQ01ORVB6OHlvM3FaMG8wMS1uUjA2YnJwYjVfdlV5Wl92cHZHaThEN0xNTExTeE1qOU1DckNmelQ4OHhVcEREdE9ETFVwNkxfUGlTUWFWX1AwaDlBVWd0QlBSRDRObHBmaEo4RmUyZmt1ZVlF0gHzAUFVX3lxTE1WdEVYay1pQW9idjhfVkNva001SHg0T1FkMU5LY2tuaW1HSk9CSG1Cak1qOFoxTy1PVkZ1REFUby15OHpLWjdmV2p0U3o4MTRHbzY3bkQ5b3cxeXBjU0lIS2tBUkNsVlV1aDB2MGlvSzA1VTV2dHZhcE9sak1QaUQzaVYtX1BBbTRrQWNNdEx2SFVQQVFmM1lKLVdPQlE4dGphN2ZiSU9zUDhxVWRTbUlVVkJPMnhCZnNNNmhSNVVUTEoxN1F2dF9YeHdLZHI0U0xBQmJVb2tJam9nVUFxUmFSQ2FiRkVXQXZ3NmgxUGhlZFJXVQ?oc=5",
-        "date": "2026-10-19T16:37:51+00:00",
-        "source": "El Destape"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Exclusiva con Marín de YPF: \"Ya estamos enviando arena por tren a Vaca Muerta\"",
-        "description": "Exclusiva con Marín de YPF: \"Ya estamos enviando arena por tren a Vaca Muerta\" Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3FJaGdfQ1RWQkh2dzBDWEZKZTRkV0F1RVlvcXhjS2ZTWDRwdFJYLTc0VWpwWWdmYS1raVhzMTJDVzNFTXJRZDNDdW9Pd3RZaVNROUJNRklkUDZ3MmdCZkxSQ0ZfREszMVhCUWhYZTdhYWpmbDU2ckVhdFJRT2JxMVVOemZzdHdhRHlLQ2g5OF9ramZYT0trbkl2cXd1VS1vb0dhMDlBM25HSWc3QktWTFZB0gG6AUFVX3lxTE5mbzVSSlcyOUFHTWx6LWRrRGRycWFVMEhkUXJHY0pwY3pNS3dVaHlKX04yaHBVdXFFQ1hHY3hNbWRJaHJIaUcycWFQSEVzRUt1TlRfazBxdkR3Umd2RThjYVVxdVpfZ3hyMU0yVm43MUFBdmttWFVRX1NCTFNYajdlbXEyNUtnZC1FUExWQllYa3dSWlRwVjRKd0Uxc0ZLRnVQSnY1eDd0NEttQjZIRm9IMXhBMjBZMUxodw?oc=5",
-        "date": "2026-10-17T03:30:00+00:00",
+        "title": "El impacto demográfico de Vaca Muerta en Neuquén",
+        "description": "El impacto demográfico de Vaca Muerta en Neuquén Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFJ5enRTVHlrZlRNbDVTOGIyR1RBdVV1WGFzd2g4T0FCQWxoNnZBQlpSZDNCUWtWc2RlOGRnZDlmbGE3c3hWMFJnZnl3S1ZSYUJoVVNfaDJaZUF0YU5VUnpBSEpPdUhXSVdDbUlTTjFzdUNMSWNOcUdGQ0NiVWExSkZrSWV6Vzhvckd1MVVR0gGWAUFVX3lxTFB2bk5ZR21OSkNJb2k1OGc3ek02LXpUOUtKUC01U2NUM2Q5blVOeTdGb1doZjVmSS1OM3lMQTNNWGRudVRWMTdyNERWWmlmTVYwSFoydWhHSmxGNWxqZFZSOHNuR01wdUhpMms4WC1oMWNCc0pwWkJlSEFLTkxmaFZKWGUzVElQcVVBMWFWa0pkcVFqWGt0QQ?oc=5",
+        "date": "2026-10-18T03:23:00+00:00",
         "source": "Diario Río Negro"
       },
       {
-        "title": "Vaca Muerta, cabeza del récord: más de la mitad del superávit comercial del país ya se explica por las exportaciones de energía",
-        "description": "Vaca Muerta, cabeza del récord: más de la mitad del superávit comercial del país ya se explica por las exportaciones de energía Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOazdlWER0Tlh5aGY1WkpfblJzQ1k5OXBPTEhUYm02V3gxek1rVDA0bGdqTml4UWZFd1ZyTndVMHlwZm9WUFdhUjBvQnpzS2c1elZWa21KOGYwUVNMci1jdXFhTFBhUE40a0RvaFZoaGpjMF93QmJTSU1ReHlJZFJSQVZBQmVELURqQnlSWU8zb29kSWhkUWVZNlI5UFBjaFFXUDN6OHdpZjdNWmp3NE8wLXQtbHB1ZzBDWUFSQ1cwaHZMWU81RTkxdzZZVG40SWJfSzFFazJGY19BN0tGb3FqT3FZaFBodDlfYm1uV2dwUktDcGtkenZfclVsVS1mLUHSAZoCQVVfeXFMTmNLbl9YMXhaekRzTktRTWNrTjFObGxIdUYtSTAyVm9KVlpkTXg5LTJOMUlrbkF6QU5HVWdFLWREUEFvSE1uaV9zYmFTc1ZGOS1PV3hwcXBJWnRyWjNZYUhUbEYyYTZSRnBYdV9POG5XSy1qVjhNYTBoVXpSa2FVMUJaanVZalR5M1lqeldvU2lJdGNqZndJMmdmSzNRRjFkTC00QWNtTlhCS0lFenphRkpoZkdRcXRXdW96VjdEMUFkd0FPUWJDQ2wxOGtjNGttRVctR0c1NXUwVkhjdlJudmVtV1JZRmpzUjJxYzFYdFdtcFVCY2pGZDBSaWNhMldKY1JSdV9tbWFsWHNla0IwbUFWaVF1QXRDQWxR?oc=5",
-        "date": "2026-10-19T23:19:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Las exportaciones argentinas superaron los US$10.000 millones en septiembre, impulsadas por Vaca Muerta",
-        "description": "Las exportaciones argentinas superaron los US$10.000 millones en septiembre, impulsadas por Vaca Muerta MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVEFyZE1lRDQxMnFTV3RzOG5LV3RlYk80cUtPenRtTmZEWFlWVHNHUGdVMUxmcVpZNy1EbWFSTW1jb05vQVlkNktCY09ILWRMOVFXTy1IbzhlVy1ieEx3MU5RUXZfdWllUV81MndsdUk2bHMzOE93NVpnMEFLdGI0bTlKX1NZMXZPUk4ybTVPSVNWQkluZHNqanZtcWtkd1J3NHBMV0NaazBXZHEzelNtd1VNeXRObUNNVm5RTFpDbFN3UHR5TGdFYngtM3JMazEwdHVZUFpYaVM1cXNXZ3otV1o4QmpjWU96Wm4w?oc=5",
-        "date": "2026-10-20T00:06:00+00:00",
-        "source": "MDZ Online"
-      },
-      {
-        "title": "Con récord de exportaciones por Vaca Muerta, creció fuerte el superávit comercial",
-        "description": "Con récord de exportaciones por Vaca Muerta, creció fuerte el superávit comercial BAE Negocios",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTBDZGdQXzFLYWk2WXNxbnN3dkxBaG5vdGlDMS1IT0NrM1VVN1RRLUp1VzRBdVFoTFRNTnFHeVJwWERHdDFSbTZvU3NPbkpuaXZ4dEJVaXd6RHFmQXpDZVVXM28wT1ZMems0d3MxSDk1dnQ3YllRWEluVV8td2E2UTV1U3c2bkZQTTNGZ09xVFhJLWM0ZHlzeGsycFdUbXZGREc2TWUxaHhoLW9Bb0tQWmoxWUxDMXdYTWfSAbMBQVVfeXFMT3pNLWdqZVZ4d0Y4SGkyWG9kYnNpWmNXYmJPdXdKbG83RVRobzNvTnFIa2syV3JXczBRMndyUnBRdm1tcVhla042NTRQYXc1bmU2Nkl2TFdKTndkOXBlSnNiTEtVcDg2U0FHazNPWnZzeDNNSHc4LTdiMVl1RDl3bUw2UE8wSGV3X2VPdjl1VUJldjhNd1pwY08zTGJGOE1FY1lRM2FlbFN3SUlodG5xeHdaMnM?oc=5",
-        "date": "2026-10-19T23:49:54+00:00",
-        "source": "BAE Negocios"
-      },
-      {
         "title": "Milei ante petroleros: se abrazó al boom de Vaca Muerta, destacó el récord de exportaciones y dijo que el dólar no está atrasado",
-        "description": "Milei ante petroleros: se abrazó al boom de Vaca Muerta, destacó el récord de exportaciones y dijo que el dólar no está atrasado Clarin.com Javier Milei en la AOG Patagonia 2026: \"El gas de Vaca Muerta es una revancha histórica\" Lmneuquen.com Milei en AOG Patagonia 2026:…",
+        "description": "Milei ante petroleros: se abrazó al boom de Vaca Muerta, destacó el récord de exportaciones y dijo que el dólar no está atrasado Clarin.com Con elogios al gobernador Figueroa y a Horacio Marín, el presidente Milei aseguró: “Podemos hacer que florezcan 1.000 Vaca Muerta” Infobae…",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTjRrRDN5blE2cVZOLWM5ckZ2RllfcFhCZTlTS1RMc1BtaGRRdlVxVGluakJmSnFKZ01VMVZQOUNOSkJlWkFaZzdSTkxmc19YdWJTM2hCQzJfQVB5QlJHMzR3SjlFbWJiTVQ3X0o3YXlFTVFxZTBLUmt2cnNOV2tETjd3Q2poS09uUXdmOTlock50Qm1hVHgyUDNyNWRsT1NNUTVUbjNEc3NjTFgxSzVsTjEtSG1jbmdzRWtrN2hWZG5aU1AxS09VYy1oN1BDZ1VhbTR2SW13?oc=5",
         "date": "2026-10-19T23:40:15+00:00",
         "source": "Clarin.com"
@@ -198,11 +177,32 @@
         "source": "TN"
       },
       {
-        "title": "Nuevo RIGI para Vaca Muerta: será una inversión récord en desarrollo no convencional de hidrocarburos",
-        "description": "Nuevo RIGI para Vaca Muerta: será una inversión récord en desarrollo no convencional de hidrocarburos El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1M0emxOU25uQkNjd2J4UEttQ0hxTENmWXg3TkE1Y3c0NGZGalFPYkJ1OXV6dWowR3YwT3hObkl4cXZBcmxpQUdnMUk4OExKclhQUGhWNGV6cEk5SXRaeFUyU0V4dkppektZdnFLZmlXRFFRUGVKQXN5cjhWbG13M3lpX3JNMGt0ZG5WQkFHQ0ZTZ3RiS1FHd3BJeGJ6WkhrQXNLUEdkRWI0ZVE0OG9MTUZZdUhfbDFURUJkNEV0NEhYYlY0OTBwbjl6REFYZG1h0gHrAUFVX3lxTE1DNHhvQWtzajU1RWhNN01RQWZaZjl2MHprbTlqVEFLWmpQWGVlckZLYkl2QjRXczBtNkp5LTBtSV9qMmxOc3dzbHZLRWF6UFNTeHVUOE1mODVleFhhWHg2S3JKYWc4U2J2SDRsQjNCUC1lOFBqV2RaSUZwUlFfS1NSaHVsMFpPUXIwRUZSMWltcnM0cnVMWFFUaTBjT0RoNVZPSjJ0UUVOUlF2X282ZnR4b0M0NDBCZHJldW1zNjd3dUVFYXh4cVlzdkFzenpxbXFwQWZMOXEyZ3lENTBTX29UTlFDQXd0LVp1cG8?oc=5",
-        "date": "2026-10-19T12:54:58+00:00",
-        "source": "El Cronista"
+        "title": "Pluspetrol invertirá u$s12.240 millones en 620 pozos en Vaca Muerta",
+        "description": "Pluspetrol invertirá u$s12.240 millones en 620 pozos en Vaca Muerta iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGdhNlFmXy1NRkhpNTdpWHlHYU5BZ3laTnFDV3Rmb0F3bTdXcFFfaTRZeW9VeEZmcXZDU1A2Tk9Ec1hhOE9IZnc0RmtRVFhaUXlnX05kbm9RNFhDWTRBMk00Nk9keGM3cXZ2cXZ4MWxUWWxpZUpHT3RsRFhLdFNVSmc4cnA3bVZFV0FsRDNOUi00YkY5NWtfRllDaEwzSFBlMlJCQUFVWVdWSXBJbnJr0gG0AUFVX3lxTFA2Q1VzWjZSeFV1Q3JRLWRzNU9DVXNidTN0ejM0WXlYNllMZ3hlaW9ZZlNESjRHRG9YdEhqMUJHS0FtZHllamFUdkNHWGhNZlFQNGlWam91OGowTHZWVTBPV0FYbDEtZkgxV0FXWG1CMGJEa3cwMTBPNDJHdmp1VUNXNXFaVU0zWDBWT3lnTzVyb25qWlR1UkZmNG9MemdhX3FBcUZndkQzMXpCcGFkY3FDamhaMA?oc=5",
+        "date": "2026-10-19T11:36:00+00:00",
+        "source": "iProfesional"
+      },
+      {
+        "title": "Milei fue a Vaca Muerta con tres proyectos RIGI por US$ 15.400 millones",
+        "description": "Milei fue a Vaca Muerta con tres proyectos RIGI por US$ 15.400 millones Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDQ5SEp0TGtNbGpnQThhNDBUSFl5X3VFQjJhN0l5ZHdUU3hlUHNKcnBXR3YwZERYSENuZjR6bzBEck83bllEdVJQenhtZUlabEsxa2EwMlZsUkpJRm9Yem5FbTdsRDBZbFdoTDNvVGwxMTljb0c1d1I5dS1kTUJVMGNoNDJkOEZBOW96NUdxMkZtcDF0RnQ5RVF3V1h2ODIyVXc?oc=5",
+        "date": "2026-10-19T21:12:32+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "El Gobierno aprobó tres proyectos RIGI por más de USD 15.400 millones para producir petróleo y gas de Vaca Muerta",
+        "description": "El Gobierno aprobó tres proyectos RIGI por más de USD 15.400 millones para producir petróleo y gas de Vaca Muerta Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQT1NWbVdQSlAwajJHbjcwaUVuWXN1T0w2bV9ReVhYTFVnX1RLOGF0R09RaGhiZFUwUFBNLU1kaUJMM1F6NmVSNXpiM2NQWkZEV3ZXTW44R3BiQV9maE4xT0k5blFYV3d5cTNxc0prdUd3SU1PMEtRbG5WNEtiQ0xucFJkSm5RR1dJbVBPSW03RU9EVFRYczJ1UUYteHRuNmZ6ZUlrQ2wxVm1Pb3NaNVllMGlEaXhkbW40R0xRZ0Q0RHRsZ0tHekRUM2Y1dHJJdzBzTmY2cHBQZk5kNFJ5N2xMR2Z4RkpYQnBz0gGDAkFVX3lxTE1RRE85N0hvN05PTDlPMG4tNDRUczgtNjFNdW5WSk81NDYtRGIyblE1NXBuX3dfa21sbjV5WndpMDlhQzVQbUk2Zy1XZWhmb21BeVZxeHpQSjB6RVJBeXpYcmRMSlVkT2NWVEFuRHVRYS1leTh4b2JMZTR1TnU5Q1gxNF9qNERpMUNEdGl2X0x2d2t0ZWJHNXhVbXRNbHhCYXh4WkpjdHpYLUE4bGxKbHM0S3d0bWRQT1ZXeGx3NFlUZk5pU2tTaXBuNC1YTldtR0FSN05WaUpUaFF3SjROeVZYUWdYSmFxNWZ1N3JaVmw0WHlxQkhMaHdQUC1tbHFNM3JIek0?oc=5",
+        "date": "2026-10-19T14:01:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Preocupación en Vaca Muerta: pymes neuquinas denuncian recortes del 23% y demoras en los pagos",
+        "description": "Preocupación en Vaca Muerta: pymes neuquinas denuncian recortes del 23% y demoras en los pagos La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbjE1Rnc0bTN4anpmTF9XUDJwS3ZoeUx1c1g4WHpCX1FaeEt6T0JvV1doLV8zZXY1UFItQ0JBXzYydHV6OF84dkRBMDZ2YjE2c1I4ZFNDRkJlQlhDUXpfaGVHR0hsU2RIUHRjVks1ZHVOOGdqWnBTa3ZtYVZtZmJxdElIZmJLSXJrcFpROWlmcm1pWWZZdHhGRVNpZUVRYm9xRjdLZjZWR0NSMEtHVnp3UXF5Q09oX1hlY1Z4cUlXSnVuSXFGNzhndFNWOVNBTk1XWkN5eEg1SdIB3AFBVV95cUxPQWs0M3lMZ0ZvbzE4eVJ6NnBXZ0ozQVBwZGhsN3JWVV9SSWlDQ2VpSzhRbFJRaHJxNGdkSzRfMGMwbzFJc0hiS1BEblI2MnZ6cFAyMFg1YWdreExwOUxmangtVmFmRERIS3Iwd0ZSQUh6M0hKOUdNYUxQZ1pZTnZiejFQMGNOSW1RT1N4Z2RpbmpEd2FfS1MxQXVQQnNYclBYdGhBLVRBSDh5RTZ3d2pLM0R4b2szSzZuTWhFTU45WjRhbXh1MnlnN1pVTldlSmlsUDVSYV9BdTRpY1Jz?oc=5",
+        "date": "2026-10-19T23:35:10+00:00",
+        "source": "La Gaceta"
       }
     ]
   }
