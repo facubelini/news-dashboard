@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-27T17:16:01Z",
+  "updated_at": "2026-10-27T21:42:55Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft ofreció retiros voluntarios a unos 60.000 empleados en cuatro países",
-        "description": "Microsoft ofreció retiros voluntarios a unos 60.000 empleados en cuatro países Infobae Ajuste masivo en Microsoft: por qué ofrece retiros voluntarios a 60.000 empleados en varios países El Cronista Microsoft ofreció retiros voluntarios a 60.000 empleados: sigue el camino de…",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRTBKMkdCdVdaWGs2Z3V3eVVrWVFHMUpuRVhfaXQwaVdFSlY5VTBqbUIyV2JxS3ZwbExOU0ZPaEdnRUwzcU9aQmh4ZTV6SGJFU2JuSjd6RTY0bV9nMTdUVEpMLWVSaVQxbnFmSW5fNzgyTThOZEFDVFBpaVBFekY4WklaQnkwYnd5RVZGNkwyaS15dUVoSkRMMnhhakx6OHFUUFVYcHJ2djIzMnNwZmo4VHpsRHVNOVpFU3d30gHWAUFVX3lxTE4wUkYzaDJkejFTeGJZNk4yOGZfcHdaR2JvVHUzNzhMaGw5V2NmT1V3YWZ4ZFp5Y1h2Ml9STnRmN0FtZG96eXUxVGZNWk9mSjA0ZkpPb0Q1a3BiZlJUM3paUFlGNlNJU2hhMVlvTXR4TXBXUFRUclBSUmtNMU5BM0RQQV9jRHVKSFB3V3ZSR3ZLLWl4MzNRMGxVZUNYR2xKT0xBMFYxc01Uc09aNE8wN1hkcXFobHhzVFlRc0F4anFNR04xbjRyUnFCUUJFMkxMS1hRZTZoenc?oc=5",
-        "date": "2026-10-26T18:26:00+00:00",
+        "title": "Microsoft acaba de abrir un gigantesco plan de salidas voluntarias para cerca del 27% de su plantilla, unos 60.000 empleados",
+        "description": "Microsoft acaba de abrir un gigantesco plan de salidas voluntarias para cerca del 27% de su plantilla, unos 60.000 empleados Xataka 60.000 empleados alcanzados por retiros voluntarios: en RDC analizaron la estrategia de Microsoft ante el avance de la inteligencia artificial…",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYmdXYnhIVk4xZklIM2ZLb2ZnMEVub2ZoN2ZWU3p4TVA1clVQZFR6bDcxLWkyeDZDZmFwSTRGOElKVHladHoxbW0wQlpwNjRNWDJ6Q3hnR09pdDA0dzhHZF9pbWpnclhfaklxa0QzeXloUERUZHdxZWlvcUFMdnYtNkRfWUx6SFpuQjdNMTVXZHUxeGdkYzdzRW9ZMWxXUGU0eDRjQkdRRDlHVWFMRW5CV2JFYmRrd092NXBJYzNQc1ZkQ1JNZmNXaWtwNFVTUnRmaUp6QTRCSFFMd1IzN1Q5REZCQdIB6AFBVV95cUxObnhNa0dCYlpiWmtzOXJsc1RWYTVHTDdpcXJlR2I4X0N2UVY2MVNhQVZkU3pOOEFfdlUzdG9XUlVldHY4RFdzNGYya09IMUlVSDZEV3h0S3BQdkRiUFZQWF9fM3UyQlpvdzAxb0FNa0Z0cUdPY3hUMENzRzJ0a1Q3SW9kUllySDVudTNZb3Vib1ctV1l1MHhlSUFidW5fZ21HdzdBNnVXOF9JMTFjeF9oLXp3MDV0WGRscS1YMTFiUzN0RmdiUmV2MVJEcVlKUS1ESUJRMEZfZnE3UFFKb1VvQld2X3V3ejRh?oc=5",
+        "date": "2026-10-26T19:15:27+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Una vulnerabilidad de Microsoft Authenticator en Android podía exponer cuentas de trabajo",
+        "description": "Una vulnerabilidad de Microsoft Authenticator en Android podía exponer cuentas de trabajo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmpLblNpMmFFS1g4VU45RU85aGlnMjVyZE40UDY4WDZqSmM2UUJNcnYtUDBlemhoM2RYcllDYV82d2ViR2o5ejhBNHdDU2ROMFlFYi1WRGR4YjFuYW9kaVlZblF1UzQyNl96MXhwckN1SjV2YlV4ZjROYU5ZYUFjS3U2ZVZmQm9zbmxRUk9Ia1RrWkxfRHNqSWVILTRnNEtoRFJsbGxGZGZuamczaEJwdDdRS2hRNWE0blpUWjRhM2ZJTzBlWldmQUh3QdIB5gFBVV95cUxQSG5KQk5jd296WF8ySmhoQ1ZESlFSSW9pSHBpU1p5UHNFQUF0dkZ3QjVwcG5vSDhPZFJZWF82RkZWYUZwakxleWptc2FOalllSFlUTWdROF8tLXhjNlhyQnNSRnJHM1VnTHMtY3NWRnc2Vlp4MDJEblVyX2lFVVMwa3AzZWdkdE5SUjgtUFVFaFRRRGNaY3RwXzhQeXF0QVNveFM2ZUowZ2RId0FuM0F0elN6X3g3U0NFVGVPemlZZlhNb3NKS3JuaVk4U3QyMFdOVF9LMWhic1VCbndMeVA1RTQ3MFJDZw?oc=5",
+        "date": "2026-10-27T16:44:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Microsoft lanza un parche de emergencia por una falla crítica en Brotli que afecta a .NET",
-        "description": "Microsoft lanza un parche de emergencia por una falla crítica en Brotli que afecta a .NET Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjlHOGtDWXgwY2xjRndNSVlXZ3FlYnlhZUN2VzlrVTZrakZiYndPbmVLbm51LXlNSXYyZnpLUXI0UEZtandBU3dyOHVzdER4WGplckd2bXZCVDZuTmVhaXY5ZXVIWlMxQ2dWX00zcDJQemdiMkNkQkdrd0N3djczR1M1bDN1Ni01NWFiOWNIZHNaYUFTMDRsZUFPUHZId0x1N05nbW1odVhPUTByLVczZHljbGdpNnF2dkF4cWdhcVU0cmZiczh1bHpR?oc=5",
-        "date": "2026-10-27T17:11:47+00:00",
-        "source": "Infobae"
+        "title": "El IES Del Atuel nuevamente fue reconocido a nivel mundial por Microsoft",
+        "description": "El IES Del Atuel nuevamente fue reconocido a nivel mundial por Microsoft Portal Educativo DGE",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWx0RWt3SG5qdkthQWpMRGFEZk95SUtleW9Vb1RmSmJSTVY3aUxoWmx4QWIzaVhhcFhrR2NGdEQtakxqTGpVSjJhWF9pNkZ5bGdua0NkZGFyekRGbXFZZXhOcF9EMkFibVR5QzM2OFZZQWJFc2VtbDQ1RGhZNDVBRU4tS0FnQlFBLTRoQnpEQWFzcThwZC13WXVEdWhRelY2YkE?oc=5",
+        "date": "2026-10-27T20:57:24+00:00",
+        "source": "Portal Educativo DGE"
       },
       {
         "title": "Transformación Frontier: el enfoque de plataforma para la IA",
@@ -24,18 +31,11 @@
         "source": "Microsoft Source"
       },
       {
-        "title": "Microsoft ofrece retiros voluntarios a 60.000 empleados",
-        "description": "Microsoft ofrece retiros voluntarios a 60.000 empleados Radio 3 Cadena Patagonia",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG1FUW55eGE0WUpxcnliN09ObW9fNkpPLWhDeGgxM0E4YWl1VlNRSFdIVVlHLV9wYVE3cXhFM19HNTdKYnJtVGlzZ1BBTXlwUUc1T014TTRGbnNldWFCcTNoYUFScldGZTY5NEdab3hhWXlqdTg3a2tQUGdOYjA3WUZtYW96ZG1WSUxTdDlDOFRhUjZINmVDUw?oc=5",
-        "date": "2026-10-27T09:20:46+00:00",
-        "source": "Radio 3 Cadena Patagonia"
-      },
-      {
-        "title": "Anthropic aumenta su dependencia de Google, Amazon y Microsoft",
-        "description": "Anthropic aumenta su dependencia de Google, Amazon y Microsoft Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzNSNjVSWGhORUVqYmV2emtVa0VsZzdWSEMzN3daVC1ONG1qX1BENlVaY2tXeUdqOWl3S2U4LWMydlpmRjRubEp0SVhwSXI5RklkMGJVRWs2TkpYRV9Xa0ZtZ2NvR29xUTktbm1OUUtRUEdTMkN1bmRfeW9IVGtMM0NDN0x0TS12UlpsdmFVUkZHNDlUYlR0XzFHeVowRmt4TFI4StIBuAFBVV95cUxOUFpXcVBKNXRPMXd6N3VYSGlwcXdLMkNnS194VXMycllwLWI2WkdqSUFEZVo1a1c5YU5lQmNrSWZHODZGam0ydEktYlBvZVk5ZzJVOGFGSzhObkxyWGRHTnBSdFl1VVh6T2lKRlBaZWRfblVQQ0xmeUJiazJtTUdHaXhYVlF6NmtCZmxfeURkRWRSeEhHbW9YMmQ4MEI3QkRzX2hqZmFLT192V29OQVZiT3h6X3Y4MzJs?oc=5",
-        "date": "2026-10-27T08:58:09+00:00",
-        "source": "Bloomberg Línea"
+        "title": "Microsoft lanza un parche de emergencia por una falla crítica en Brotli que afecta a .NET",
+        "description": "Microsoft lanza un parche de emergencia por una falla crítica en Brotli que afecta a .NET Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjlHOGtDWXgwY2xjRndNSVlXZ3FlYnlhZUN2VzlrVTZrakZiYndPbmVLbm51LXlNSXYyZnpLUXI0UEZtandBU3dyOHVzdER4WGplckd2bXZCVDZuTmVhaXY5ZXVIWlMxQ2dWX00zcDJQemdiMkNkQkdrd0N3djczR1M1bDN1Ni01NWFiOWNIZHNaYUFTMDRsZUFPUHZId0x1N05nbW1odVhPUTByLVczZHljbGdpNnF2dkF4cWdhcVU0cmZiczh1bHpR?oc=5",
+        "date": "2026-10-27T17:11:47+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Bill Gates, fundador de Microsoft: “Se trata de contratar al robot, despedir al humano y olvidarse del asunto”",
@@ -45,48 +45,27 @@
         "source": "Diario AS"
       },
       {
-        "title": "Microsoft ofreció retiros voluntarios a 60.000 empleados y acelera sus inversiones en inteligencia artificial",
-        "description": "Microsoft ofreció retiros voluntarios a 60.000 empleados y acelera sus inversiones en inteligencia artificial Contexto Tucumán",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaWhRWWFlblFPZ3FvZ2stek10cXU2RmFQdHNIQ2Zsc3ItUmN4MktPdVlpTjVqR3BCUkFja1hZc0VvdkZDV3RaQlB4X1VkQmR2Wm9LNzE3RzZkcGo3NjBjUDlNeUlvRTY1R3NhLVdEY2IzenFZV09yUGNSMmg2cGxmUnBScV9RNDhCS1d0QVRhaURSZjVFT1Y3cm9TekUzdHRFWGhMS1Q1NGtDRVYtOXlyTllXZktCc1otai1FX2FVOWQ0dnk2aVBNVEdmLTdlMTFkUTZOdDB4QnNEQ3lSWmU0NzlxVHdhZ1Q4eGxVeEJnRQ?oc=5",
-        "date": "2026-10-27T09:01:00+00:00",
-        "source": "Contexto Tucumán"
+        "title": "Dinamarca abandona por ahora el reemplazo de Microsoft Office",
+        "description": "Dinamarca abandona por ahora el reemplazo de Microsoft Office Infosertec",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDI3a1ltb3htaUozNDZvZDN1WkNla0NsSTFfdEtMR2pSVXZDa1JMT096ekUxR01FS1MycEtfdjRRVXdnSFF3aHBOWkRya2RuamxhX1NNQWktMko1UXV2dkZ0SEF1bnRzb0ZBZEc0VC1PMUlDYzJod0J1N1ZwcENTZzdlRks4RG02UTlNVC04RGxKdkktSzBVb2d5Q2RGWmM?oc=5",
+        "date": "2026-10-27T19:00:00+00:00",
+        "source": "Infosertec"
       }
     ],
     "Marketing": [
       {
-        "title": "Magalí Pessah en el gimnasio del marketing digital",
-        "description": "Magalí Pessah en el gimnasio del marketing digital Urgente24",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlg1dm04WFdWT0VGUFdpTHlVRDkxRDE5ZkNlQUlFQ2JEckNud1Y1bU1NcVhjUVpYM0MxOUVhdnBDQTBDWGVLbWM3UFVuRlhyTmp2NDJxOVQ2UVNGekdjZVFRRzRBaTc2QVczX1ZLWXhYVTRQbnZtWXFFRjNNV05nRHFCTGRqRkJLa1hn0gGQAUFVX3lxTE1KNzN2cVE4Q3VHbkVuOU1ZQUNWem82ZGJUSUVCYUNfMVpQWHdKX0c5WDFJc2l5OWZjM3dDc2djSW1FWFFwMlllTWdlNWc5T2RrYndXYXQyMEFYVmVZZGQ4SDE5NkEtZERLbE9GczA5Wmw2NXNUNnppZ2dDNlFjWFNyWlVGdVFDMUZRSk1KSGVnZA?oc=5",
-        "date": "2026-10-25T23:01:35+00:00",
-        "source": "Urgente24"
+        "title": "Con la IA en el centro de la escena, más de 12 mil personas se capacitaron en marketing digital",
+        "description": "Con la IA en el centro de la escena, más de 12 mil personas se capacitaron en marketing digital Diario La Capital de Mar del Plata",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemVpZ1pzSHJkd1p4SWNBSk85WTg3YW83aEhLR1pYMVl1Yjg1a1diZmtCY1RiNEdGYkZiLUlsaE1TVzdtYWR6S3lkdVUwQ1M4b0RxZTVadkR2dDEtVUFDOUlSaGp6cG9xN1g0M3hTbXJYelRKUE1PZUNGWWxTYWJBeWJTajROZ29ySTJJS25tdFhwWTBkZkozOC1VTmpvQ0RqTzZzNlFERFd3cWQ2dnAweW9mbVVGSWdGNFo0WnNNYjZCQQ?oc=5",
+        "date": "2026-10-27T20:54:17+00:00",
+        "source": "Diario La Capital de Mar del Plata"
       },
       {
-        "title": "Llega NENE Labs a Morón: una jornada de workshops sobre marketing digital e inteligencia artificial",
-        "description": "Llega NENE Labs a Morón: una jornada de workshops sobre marketing digital e inteligencia artificial Castelar Digital",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQckw0cW1Cc3VzZ0hPZ2puX2NGb1RHSnRkN0ZBOGdHeUYwY3VpQWI5Q2ItOGlWcE0zLUdfd3dlWU9GX0NMMUxqa2lMdkxQZnZtWllPZmpsbENnV01qb0dQX1RYV1dxS09NNW1ld3ItNjFnb3prSEUxdHQzLTdJckh0R1BkRGluT002RzZWSjBaMVBmb1ppTzlQYXlmWVYwdDAybDBTOGdRUmlpOEdnRVM3YVJXMkZMa084R0pUMXlKbGVSMXZHQ0k5bFJhTWtlM1U3SVBJY0ZSOUhwbzVvelE?oc=5",
-        "date": "2026-10-23T20:54:39+00:00",
-        "source": "Castelar Digital"
-      },
-      {
-        "title": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados",
-        "description": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados DossierNet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblFHMFF5TUhWVmZVbWRkbENzYXpCYWxmZDlqanVQMGN1NGFOMnZzZ2lpbUZvOGdrM0xJcy1hbDNzeFZkZkUzMld0SDdoM1pYVVpaam5jTTBRV2dMQkdWVDBLcmNEeVM1dXJMeVdpV1E4ZE9YOGJMVFA4MDY3M1VUQ1RVWGJZdjU2M2UxM3M3UnZHZ241Y1dGbDBTT1ZfNDEydmdQaWVpTTVVdWEySk03M1hreFhiXzJMUTZvRzZNMzg?oc=5",
-        "date": "2026-10-21T13:38:21+00:00",
-        "source": "DossierNet"
-      },
-      {
-        "title": "Dame Clic: agencia costarricense suma 3.000 proyectos",
-        "description": "Dame Clic: agencia costarricense suma 3.000 proyectos El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkR5aUJWb0lRX2IweWRtbW9CaGgxYnNPMnItdk1JcThwSFBvYkdGdFE2c2JFRFJBUnBmRl9EcUowdWllaDNTaE5KdUlVT1l0WHREaXFYcHFGclNjQ0RYcVpILXF1YUtVYzVBRVl1aS13S2hwUGFRMFZFUWlqSVhhY1ktYXlxZjN3TVRV?oc=5",
-        "date": "2026-10-27T13:06:38+00:00",
-        "source": "El Ecosistema Startup"
-      },
-      {
-        "title": "Marketing digital: tres preguntas para saber si una agencia realmente te ayuda a vender más",
-        "description": "Marketing digital: tres preguntas para saber si una agencia realmente te ayuda a vender más Punto a Punto",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYU1NYUF1SFdwcnFzMlFTbDBtYnpJQW14RTdNNEdJbkpuQ25qaWZ6bnRCM1ZLU1pXN0RjbFBwWWJ6UjNteXRpbXVhT0VfYnIyWjJLcURBMHFDRERPMF9WMXAzdGRWbldZNVBDQld1TXpTdDJpM0ZXSlpPTmJuYzdKSTZKSjR3VW1ZZHM5ZDdseHExaFpuYzVyNW1fNkVDWTk0TkpHNm1KUWpyUUkwQTU5OS1yei1QNU1COUE?oc=5",
-        "date": "2026-10-21T16:00:35+00:00",
-        "source": "Punto a Punto"
+        "title": "Un cambio de look para tu negocio: llega “Salta Emprende con estilo”",
+        "description": "Un cambio de look para tu negocio: llega “Salta Emprende con estilo” Municipalidad de Salta",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUZ4RlN1VFNQRmtpT3B5OWdNREhSRFUzUVMtb25QSjRLMGtQbmdYU2hRUGdYeF9xX1FZMXZ4SndkNkpBSU9xRm5XRkRaTno1V1ZGWl9CV2drQnlJTHhqdlg4OFg1VzZiRWl2QVBFQWpxbktjTEtZaFNnN3VhSC1XUVVyb1k3SWZ4QXltWE81ZGZLcExuMWxIOTRXSkZaalFJMmtpaXcza0NWLUU?oc=5",
+        "date": "2026-10-27T17:37:30+00:00",
+        "source": "Municipalidad de Salta"
       },
       {
         "title": "“Impulso Emprendedor”: capacitarán a emprendedores en Introducción al Marketing Digital",
@@ -96,34 +75,55 @@
         "source": "Gobierno de Venado Tuerto"
       },
       {
-        "title": "Un centenar de personas participó de una capacitación sobre marketing digital en Venado Tuerto",
-        "description": "Un centenar de personas participó de una capacitación sobre marketing digital en Venado Tuerto Sur 24 Noticias",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQzJzak9FYUZQM18xeEJ0dHdJcW9SOTBXZWVxZW9kVDFndXY4OG56MmJUV2dkM2t5SzlUX2hYMmhRUmV3NVc5TklPRTdza0ZwbVlMeDhicXVoYmhSTS1VNndXSWdGUlNzRWplZE9scGV6VVBVNEJxamVZejMxMFA5bFFYeDBBeWxmS09IZmtKUGtGS253NFBoYmxRVzdPV0ZOQk52VkJnSGRKVGo4cXB5aXRlSGdhT25uWUthd0tFOXpHazJPUUlF?oc=5",
-        "date": "2026-10-22T14:54:20+00:00",
-        "source": "Sur 24 Noticias"
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T07:00:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
+        "title": "Dame Clic: agencia costarricense suma 3.000 proyectos",
+        "description": "Dame Clic: agencia costarricense suma 3.000 proyectos El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkR5aUJWb0lRX2IweWRtbW9CaGgxYnNPMnItdk1JcThwSFBvYkdGdFE2c2JFRFJBUnBmRl9EcUowdWllaDNTaE5KdUlVT1l0WHREaXFYcHFGclNjQ0RYcVpILXF1YUtVYzVBRVl1aS13S2hwUGFRMFZFUWlqSVhhY1ktYXlxZjN3TVRV?oc=5",
+        "date": "2026-10-27T13:06:38+00:00",
+        "source": "El Ecosistema Startup"
+      },
+      {
+        "title": "Privacidad y rendimiento: el reto del marketing sanitario para medir sus campañas",
+        "description": "Privacidad y rendimiento: el reto del marketing sanitario para medir sus campañas IPMARK",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1Z6Z2xUaVRkcThWcXFCY0M5a2c0Z3lPTDNISWEwcW5XOFlkZFVVZTBIOHFiMDJKWnNpZ21mTnNGTDIxRXA4M1FYV1lSak8weVgzbmJPbWlTZUJXbnhWbnVkQi1XNUd1VmotdkVUUGlPMVUtMTUta2pTQjQxTy1fdUNCelQyWWQ3aWc?oc=5",
+        "date": "2026-10-27T14:59:29+00:00",
+        "source": "IPMARK"
+      },
+      {
+        "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
+        "description": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital UNNE Medios",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0td3AzS292aFdYU3BJa0V4dkRudHNZaWlIa2dNQmFfUk15c2w0Y1JIdmU1bkpCTHNfTmxNS1hKSUZjYXc0SkhFdGxDV2p5M0lNd0g0WWFVUUFVLUVBd0VvXw?oc=5",
+        "date": "2026-09-24T07:00:00+00:00",
+        "source": "UNNE Medios"
       }
     ],
     "IA": [
       {
-        "title": "Shigeru Miyamoto (73 años), sobre la inteligencia artificial generativa: \"Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros\"",
-        "description": "Shigeru Miyamoto (73 años), sobre la inteligencia artificial generativa: \"Si la IA llegara a encargarse de todo, siempre habrá un papel para nosotros\" 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTEZnSEhDV2s2dXVPdzQ4Zjh1ank4QTV3T1ZyS21zRHJ2Tnk4c3daMUlDS1VXNmYtSGZPS0V4dE9NR2JZaUxxLWRLbUN6dGtMYTNiN2lZUWJwNWgyX253TFN0RWN2R3h2aDR0U1hHQnpkNWtOYjhXcEN4b0NuVDBnQ09EWWExVldJcldaSlNVSWIzWjg1T0daTHVjU2d2Y0RSaUl1U3htUDE5VE1kWnotQjZTd2F2T0ZpbDRBOWlJMVRITHYxQml4cU5qbjRiaXJ1aHpleWdGQmVna0g3bWstMUVLbzR2RHpwSnBqd2hucWpKTjFJTkJzTVdYUXowaUprX3fSAYcCQVVfeXFMTkRMcUl1UkFXU3dLaXFhRjNFQUhfeEJUZHVDTjVtOUZIM0FBNFhKX2JjS2hFdXhLQjRaNEhzTlpQbTJ4WnEyQXV4RVJKazFxZmFWQTdiNUZNb2pxaUl0Y1kwWGxvWE9OdTB5a1ppNWp0V2F6eGZqVlMtSEJ1YlpIT05NdlFDYXo3U1VqNzNPRmkxY2J3MWxhTDk0aEZwUUFBbzNGWlFUZ3VFMjlKbkc0ZUhoaXpXTXNock53cHFOb0dqMXZhOGZOajhKdVJUTWlMajIzQnR0TEVVQm5uRjJlbjI2V2xYM2dRTEZ6YzBBdndKU0R5MENPY05xSllmekw2VkhlYkF4a1U?oc=5",
-        "date": "2026-10-25T20:42:47+00:00",
-        "source": "3DJuegos"
+        "title": "Physical Intelligence negocia una ronda de 1.000 millones de dólares con una valoración de 20.000 millones",
+        "description": "Physical Intelligence negocia una ronda de 1.000 millones de dólares con una valoración de 20.000 millones Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc2lRVjN4aVRzaXh2OTR6UVNoUWJUUnU2RzZldUJJaWt3eGRVRDJaREg2eldCVjFEdjdkRnZFamxpS0tDVXVEVmJrWTUzOF9uQ21OYmxscHF2OTc0eWQwUlNvQm9sUnl6ejBWdnNtSl85VmJYLWRveklhQjA3MkFNcFlWZEpsQjdiQ3BtZVJCMDBhNTht?oc=5",
+        "date": "2026-10-27T20:28:52+00:00",
+        "source": "Yahoo"
       },
       {
-        "title": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy",
-        "description": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRk9tb3BhMWl2cjAwQnMyRWZzMjFiY2ZJVVZwVUVkeFZHTmtCVmJ5LXNsc25uSHpGZlloZWh0ZDZ2emR3Y1A5VU5kb0lkaEtwTk1rV3JUSFN6MjQzSWdialdIQ2ZVN01RMmRNb2h6Zy1iVDhWY2RDdFBlWTFOOVpKT0ZaXzZLX2xRVVh6REphZ3B3NGxwR0R1eDl6N2xwRGhKMWtOS1Y4Y1VQWmQtVHlOdFJMTzhSNkc5eVNNaVgtdjkycDNGaVlvVUIwZw?oc=5",
-        "date": "2026-10-27T16:18:00+00:00",
-        "source": "Agencia de Noticias San Luis"
-      },
-      {
-        "title": "La Dian prueba inteligencia artificial en Bogotá para reducir a 15 minutos la validación inicial de documentos",
-        "description": "La Dian prueba inteligencia artificial en Bogotá para reducir a 15 minutos la validación inicial de documentos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRVViOGFiU1BmZWVUUmtoMTY0cVlxWExhZ1NCOW1RRW9kQm00cGNwZFUzM1RnbHBIaENUa1dvUlVMVEIyUXh1OXpOcHZYbW1oMzJ0MExOOFQ3ay1Ba0t4b2EtUmROYUpKNmVPUXo4V2I4SEZQMnNqU21tMDhsa1dhN0N6QkRTcm55T1AxX2NUZEJiVHhpeEpzWXhDeEJuRHotTFFvMy1ZMEhQUTVnYy15ME8zeGZ5V1JkSW5wenpPblB2Zk82TGJ2bWN3djVxV2dvN0pZOG9odVhZZjdsbjhmbXoxSXdfdGRvUFV6UnRJV2c?oc=5",
-        "date": "2026-10-27T16:10:56+00:00",
+        "title": "Los bancos reducen el trabajo manual con agentes de IA",
+        "description": "Los bancos reducen el trabajo manual con agentes de IA Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFAzdGVhUlNWcFNpLUsxenlVNE9VbTR4dEE4RVNfZ1hlYTcweEJmLW1HN1N5bW04S1BlbFQySG5iYkFNMEx3WmEySjhPb29KNEpWblh0d3N0UjM1WVU2VlkzcUR3SGVYNDAwTWdhMkdmNTE1eVBHNzJmUGRscE1sR0NxZEdZZlJBRC16SXVfeTRDTEZod084djY1SlhuSHk2a0trRi1mY3XSAcMBQVVfeXFMTzJ2MnNQTVFOSmpramg1WFhZcVlrQnVXMnA2cklqV0M4YjdMUVJnYm02WWJpTDJUUEtyZkdZdnRtRnZULU41QTJJWkg0OVhSQVZhS0MtVUhTMnEtZ21oSzhtMHVZdHFvaEMzYThJTWl1bERLeW5UN0xvRklOdmtzdTJpaGNnbU56YTJ6WGFuRlkwQVlZUV9jeVVhdXd2bHRwTzN1QXIwT2NXeUVRT2ozTHMtTVcyd0JYV2VJSTVsNUxPMlR3?oc=5",
+        "date": "2026-10-27T21:15:39+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Sólo el 6% de las empresas logra transformar su negocio con inteligencia artificial",
+        "description": "Sólo el 6% de las empresas logra transformar su negocio con inteligencia artificial La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUEFMQnhkaS1XQXdneTNiakxadm1VQUlUMFcyd2tGeUhfeUo4RDBKTU43TldNTmpBNXhVOUlFd2FRckk5RHNFbExTc29PUFpZV0RNRmtwSDB5d3liVG1QOW1qNG9GMmNVLVNMWFliQ3V4VDJ3U0Q0ejBPREMybXZFTjRNb0Q3S2tUUUdESzhWaHRUeTJzMkdyU0FuUGpoX1g4aWV2SksyRkQyRjJac3cwNTFyTDFQaGJP?oc=5",
+        "date": "2026-10-27T20:49:30+00:00",
+        "source": "La Voz del Interior"
       },
       {
         "title": "La inteligencia artificial al servicio del terror",
@@ -147,41 +147,27 @@
         "source": "Diario Judicial"
       },
       {
-        "title": "El Estado no puede delegar su “conciencia” en la inteligencia artificial",
-        "description": "El Estado no puede delegar su “conciencia” en la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3QxNGZrVHF0eWgyY09xMDROODZ3X2tJbmxrM0xDaXlQbGtteGg1NWxYVzFOYXU0UXBMcjBFRjk4ZzVBb3Z1emUzYTQxaXh0Qm1vMFlEbDY5UGZob3FMTGE3bi0taE9oTHEzVkJIejVSMnJaQjlEZXhCTV85aVB1WDFsUWwzWWFoZk1XdW1EaFl2S1RxbTFYZXZsS2xRb2RsYllURjVHRllCbnRYRWtoakx6dExNS1pGMTJ3?oc=5",
-        "date": "2026-10-26T03:15:00+00:00",
-        "source": "La Nación"
+        "title": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy",
+        "description": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRk9tb3BhMWl2cjAwQnMyRWZzMjFiY2ZJVVZwVUVkeFZHTmtCVmJ5LXNsc25uSHpGZlloZWh0ZDZ2emR3Y1A5VU5kb0lkaEtwTk1rV3JUSFN6MjQzSWdialdIQ2ZVN01RMmRNb2h6Zy1iVDhWY2RDdFBlWTFOOVpKT0ZaXzZLX2xRVVh6REphZ3B3NGxwR0R1eDl6N2xwRGhKMWtOS1Y4Y1VQWmQtVHlOdFJMTzhSNkc5eVNNaVgtdjkycDNGaVlvVUIwZw?oc=5",
+        "date": "2026-10-27T16:18:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "La Colonia duplicó la capacidad de fractura en Vaca Muerta con su servicio de abastecimiento continuo de combustible",
-        "description": "La Colonia duplicó la capacidad de fractura en Vaca Muerta con su servicio de abastecimiento continuo de combustible Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZTQxcksxWDU0UVZCVDJvU1p6cTRSaXRGNFZlcTh4YnhOdG1TOHBVWkJqWXVJMTVLQThjNkVfa1RRVVBrMkV3Q2U0cEs3cTFkQVYtSC1yQ21vY2o2bE5yQl9qREl4UVZkdVF2ZDJSYjdNbmlaUUZxT285MWhMMU1ZTkJmS3o4RGZLTXhKdDRJVTdselBZZ3RncGZjTEY5SmJpWW9CSlRKdzFxUjlDbGREbzRvYzY5QWd1bjZLblNCY0xTcmQ4SUcyQmFXaFNwS0ZhR2V3TzNXaHVNSzJ1VXh1eXRn0gHnAUFVX3lxTE1KQ0wyVWJNSjIySkd1RzViRU5xclo0alN6M2lDaXBqVDdLSEltWEZINEhobjhrQUF4YnJ1NWVMS08xUjJVaTRaV1h2RHgxVmp5WDlBSkkzeUJsOHBLbVJfWDlTSGVxbXJpWjFpa0RxV3BPbUdvSDdrYUExU3U3bU1xMmIzeFR4eTJVTDJ2bmZtNGM4bHV0dUNsanE3ZjFEZnB2LXlPaThwdWRKdXlwazVXbXFJSGxsWTZGT0JGZFJZQS1DSGZWNTVmMjN2azhyd0NpVzZvNXpDa0djeWpCX2NWV0RqUHVxUQ?oc=5",
-        "date": "2026-10-26T21:36:19+00:00",
-        "source": "Lmneuquen.com"
+        "title": "\"El Gobierno debe entender que Vaca Muerta no puede recibir al conurbano bonaerense\", sentenció un ex gobernador de Neuquén",
+        "description": "\"El Gobierno debe entender que Vaca Muerta no puede recibir al conurbano bonaerense\", sentenció un ex gobernador de Neuquén Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLTNSd2hMVTJ5bFlkMXFJcE1fS2dkSXFRVG1CdWJhTWRUMklxdlBqd0hlbktmRmFvZWZRcEhWV3BDbExaTXZvdlgyODZPc1o3ZkExc2JxZUdCb055eGE4WlRrdUV5ZnpCMHBUdTV1RWx6dVEyYUIxM0hJT1FoeVM1S3hLNExlRWlNRDBXMkEwX1Qta2xQTjBHcEotNFhQRlZBd2RITWkxOHBydjNhZ29QN1E1UUNYMk5TUTNwdDB5TmN6YXo3Tm5KRG1RdFB6RU1vY0MxMWJtd3pMM0ZzMU40NG95UXJmeG9LRjRLWThOWDlSTUpCdWRwNtIBkwJBVV95cUxQRFhvcU5HMmt3VGZkS0JaWlh0R1RJcjJvb1BWVG4tTjhzNG51eTMwbFEzM1F4bDd5R2Z3UmNfRTNsaHl0aU03SjA1aVRxcG85X2Q2NHlsRE8tQ3FmVk5LUGphQ0pGTDVCZmQ4VDNMcnBEamlKLUticlJmTEYwRXMwRXJyNjNCSkZpRUJJSDNVZXBxdDVQWVFldkVEdl9wS0Q1MWN4NUZSY2EwMlZfZEtFN0kzWWtBU0JtU3ltUFF3TVVOd2xSM0kya2hfdG4xUUJWMllfSFNBSTF0Y0V3anNVM1dyNDdLbElWS3JUUHhudzBUaXVqRUZwU1ZMN000YTk4ZGNsWm5IWlNUTUFKcnh4d3ZEaw?oc=5",
+        "date": "2026-10-27T15:46:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta: empresas logísticas se preparan para acompañar el salto energético",
-        "description": "Vaca Muerta: empresas logísticas se preparan para acompañar el salto energético Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXdIa2hzdWJXZ1RfY1ZrdGF2dDFhMTNMaFA0ZFMyeU1wTjBORmYzRWI2dUtLSXVEZDJnMXUwZXhEZzBSbWdVWms1S1loZ2lvaXA3VzNfY1hwaFZNeGZJWElCWDFOV3hyakItRkRZYmZncnFnQlZEUXJfQXg1QlQtam94S2N4NFBFcUpEVEs0WlVvdXBfUHZldm4yeWZvcUNJYWIwRTBhOHNUcEFuTTc2ejBPSQ?oc=5",
-        "date": "2026-10-26T21:30:00+00:00",
-        "source": "Ambito"
-      },
-      {
-        "title": "Ingeniería 7M apuesta a la capacitación y a consolidar su marca para crecer en Vaca Muerta",
-        "description": "Ingeniería 7M apuesta a la capacitación y a consolidar su marca para crecer en Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHVtZHpLS2EwekpNRlJUTF9GVnBQajU4Q1N3ZjRuUkFZSW5vb0hQQlI5N2Y0NFBlUmtIUmJPN254aXJoUHZUUUFBVnhFZldwUGd4R3NFUlc1ZWwtYkNKdl8zVWVCQzMzSnhSVTBDWFNwQy1wTGFYaGtvanRFYlYzY19qbHRDNVNyNkVsMGhVd3JpZ1RzUmlrYVU0ZDF5VTNvb3Bzd3YwMTdGWFlyZ044alZTRkdqbEdRZjQzMkZvaUZhaUwwaWtUTm5nekFwQkk20gHYAUFVX3lxTE5xSm1zcWRyMkd0b0ZERV9ueUFfVk1hZGdZTmRIR2oyOThUbzNoNW50SE9zbkZFNmd3SlIzRnNIN1FBeXVEQmp5NGhWYmxmb3VDSUg0WHhjTHdQc3BQdjVSSnJzOUFfWGZPc3hDYjFIVFhmbkFiVXBqTmZVS3BCUUVIbFpibEJ3RFp1ZDZDV3RjdF81cVdsb3IyUjBlZFpzZHI1N29sUDJhUzE0aVJ5Z2JaZmZIS194NGhoU0ZXXzRQTG1kaTUwMmRpTGRpU0wtUFdaZ0lrTWtNdQ?oc=5",
-        "date": "2026-10-27T14:54:36+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Un exgobernador de Neuquén dijo que “Vaca Muerta no puede recibir al conurbano bonaerense”",
-        "description": "Un exgobernador de Neuquén dijo que “Vaca Muerta no puede recibir al conurbano bonaerense” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajNWTm9Xd2ZudDBFZklZX2R2ZWtrcjBjUVh6Qk04bEcwTFUtdlBTLXBiR3doVDZMN21kUUhTOEJVcEtTS085UWp5ZldYbUdNcUJFUDRETzRibGR2dlRtZ0c4YWxmdXAzSjVxb2RpeUJ1SHhydGl3LVBBZ3gtb2NiMjdTUnBxRGFtU0xrOGtmY2RNNFd5WVJ0S283MU1GMWZKQWF0ZDBpa1Z2d1h4UWxzeHdlUjVTcFBvS1hqb3g4R3JkUVJhb2ZlMmtxa2RuekJjdWVYMA?oc=5",
-        "date": "2026-10-27T11:54:00+00:00",
-        "source": "La Nación"
+        "title": "Tecnología argentina desarrollada en Vaca Muerta fue premiada en Houston",
+        "description": "Tecnología argentina desarrollada en Vaca Muerta fue premiada en Houston InfoEnergía",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3JvRDRXdXU5VThPX3B5REo3S05YaXJiWVZERzBDNUszVnpXeFlZenZJZ1c1QTdwN0pzdnNFcURaZmNKR2RwRjMtbFVsTkVxQ0gtbGwxY3lxcW5sby1UZUhveWZyWFdFcThLNHNyMHVWUEI1QzVlV25XZmQ2R0ZzalNEOXFhcmY3YW9HZkFNc21TMjVBZkh4aGRLVjVhNXpUMEpzX0dYaFFoWUNsUk5qQmhWVTBvRDjSAa8BQVVfeXFMTWwxSFB1ZTJPME1WRmhhclhlbGV1WU1yN0ZvXzVYRUt6UjlwTV9Zd0U4djE1Nmo3NXc2WEhqbWk3SUV1UUZwMkhWY2l2OUphbi05VF91VTB1UjdnN25fVW5Fd2FGdG1uMlNCWU5wazRXR05jSy1vODlPSDV4em9iRzBoa0JWMXpkcTdxSHA1aWk3eHFBTW5qc29aOFh3Y2l4MWZPY19jdG5XTnl6Y1RGZw?oc=5",
+        "date": "2026-10-26T03:16:55+00:00",
+        "source": "InfoEnergía"
       },
       {
         "title": "Vaca Muerta: todo tiene que ver con todo",
@@ -191,10 +177,17 @@
         "source": "Página|12"
       },
       {
-        "title": "Lula, entre EE.UU. y China: qué busca Brasil con su petróleo y sus minerales y cómo podría impactar en Vaca Muerta",
-        "description": "Lula, entre EE.UU. y China: qué busca Brasil con su petróleo y sus minerales y cómo podría impactar en Vaca Muerta Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWG80MHc5UVpEaTVQZV9rZFpPcUQ0U1JXRjNHVDFmNnJvTmZwOWpWWmdsNDNVcWZwdHdJTDBYckN5OXhHaExOZnBHdWQxZlhEREVvVnFBaDVtaXEwV1VYc1QwU3luZXRzOG1fQm9OMV9Ucy1xV0dHOEFGWFZyTkhGX2JZUC0yNUY3V2wwWlhTY0w5bUxiT2hoWGJGX0s2azNvb1ViWUMydDIzb1V4VERxMFV5cG5zVk1YV09TX1lNMDdDR1ZSTHJRRXM0MGVfbjg?oc=5",
-        "date": "2026-10-26T14:46:27+00:00",
+        "title": "El juez de Vaca Muerta que viajó con Milei a París decide sobre la gran apuesta del Gobierno y ya no es visto como garantista",
+        "description": "El juez de Vaca Muerta que viajó con Milei a París decide sobre la gran apuesta del Gobierno y ya no es visto como garantista La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUUZsNTdOenRrZE82TG1oNi1BalZyQV9Eb0RHTE9wU3BuMjB5Umx1Q2tQRDJvZnRqRFUtS0hjNTdLdUNzRWREU1U0azJ5YVRnMXBSRVhwS0ZpNURNbUpSNFdhbk5VSV82UFc3bnMwM2U5U1g3SkRwcGEzQVl0THFnUnczME1JR3ZxYTlxNTAtZmZsdzVINXBaakFaZ2Zmc1NRMzdqemVGbUxmVDRRM21CTFpqSEpMYmx5enhWRXo4UG5NaUZtNVlQbzI1R2tkTlhVUHZZNmsxSHRsV1F0SHBEQzJvOU4?oc=5",
+        "date": "2026-10-27T18:43:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Vaca Muerta: La Pampa busca atraer inversiones y convertirse en un polo de proveedores",
+        "description": "Vaca Muerta: La Pampa busca atraer inversiones y convertirse en un polo de proveedores Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkpUc0k3bDY0LWhaYlFRNVNRMXdyYmlRRkUyVGE2WWNDQnhZTi1JZVlUS2hIYlQtUWg3TDM5ZXhiZHIxcU9kMlh3M25HeUllci1CQlp0d0pING1WMmNnckQwRDJEbW95M2pyM2EyWE85VVAyUHdPbXhXWHRCekpMTTBkTXhBXy1LQ1I2SjBJVWZLM2RuUnlhajhRUmlzUHI2dWxwbXFLRWZjTXVYSWU0Zk54bkpjVVJxd1pVMmZ3?oc=5",
+        "date": "2026-10-27T20:23:53+00:00",
         "source": "Clarin.com"
       },
       {
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV21NOENKNDFSY1pXLWVvRFYyWUxyNnVzVDlUUmJvRE9VMThTMlA4eGVYRGRmZjdkVkJBcmE2LVlxTklRR0lKMEFiUGpxa0xhbzNlMlNZemRpNXZTemx0amthQ2pkVXpQSkc4VU5fYmRNQVQ5RGVLd04weGNQRzR3MHlRVUVwdU05Qi1wNzF4UXVSakowTUlWaXhldnFSeUNHellnZEYwNi1MTDlLc0RrN2tSUXVWYm1JTFVpeVk3VkJyTzd0dlZzSmRLOXJNTnVCSGNyZ2VZZ2taaWtzSmQw0gHzAUFVX3lxTE9vOU1uSnE3R3Q0d3ZxdVdveUpwN1Z0MGQ0cTBiUXNxeV9STFFIbmZ5TXdOSEVFdFVseERraTY0SnpzQjV0bE9kVVI0aV9EdnBUUmduU0lJM21NY0J2WGdtVTctLU9XUEkxdlRCWmQ1VUMyckZETzlaa0tEUU9kY1plU2ZONEpsbnNzSXRpUzExeHFjZ2MwbFFqbTZHTHZNb3F1QkpDRE1VdExUQmlmWk1HZ1duX2tHY3Y2TjlyTHNPdU9iQ2ZKVW13TUloWE9VUmdBQ2FQMm01M3dEM08tb0U5MERNRF9aMEtpcUxVTFFicmNLSQ?oc=5",
         "date": "2026-10-27T00:23:00+00:00",
         "source": "eltrecetv"
+      },
+      {
+        "title": "La Colonia duplicó la capacidad de fractura en Vaca Muerta con su servicio de abastecimiento continuo de combustible",
+        "description": "La Colonia duplicó la capacidad de fractura en Vaca Muerta con su servicio de abastecimiento continuo de combustible Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZTQxcksxWDU0UVZCVDJvU1p6cTRSaXRGNFZlcTh4YnhOdG1TOHBVWkJqWXVJMTVLQThjNkVfa1RRVVBrMkV3Q2U0cEs3cTFkQVYtSC1yQ21vY2o2bE5yQl9qREl4UVZkdVF2ZDJSYjdNbmlaUUZxT285MWhMMU1ZTkJmS3o4RGZLTXhKdDRJVTdselBZZ3RncGZjTEY5SmJpWW9CSlRKdzFxUjlDbGREbzRvYzY5QWd1bjZLblNCY0xTcmQ4SUcyQmFXaFNwS0ZhR2V3TzNXaHVNSzJ1VXh1eXRn0gHnAUFVX3lxTE1KQ0wyVWJNSjIySkd1RzViRU5xclo0alN6M2lDaXBqVDdLSEltWEZINEhobjhrQUF4YnJ1NWVMS08xUjJVaTRaV1h2RHgxVmp5WDlBSkkzeUJsOHBLbVJfWDlTSGVxbXJpWjFpa0RxV3BPbUdvSDdrYUExU3U3bU1xMmIzeFR4eTJVTDJ2bmZtNGM4bHV0dUNsanE3ZjFEZnB2LXlPaThwdWRKdXlwazVXbXFJSGxsWTZGT0JGZFJZQS1DSGZWNTVmMjN2azhyd0NpVzZvNXpDa0djeWpCX2NWV0RqUHVxUQ?oc=5",
+        "date": "2026-10-26T21:36:19+00:00",
+        "source": "Lmneuquen.com"
       }
     ]
   }
