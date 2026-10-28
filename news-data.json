@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-28T00:53:52Z",
+  "updated_at": "2026-10-28T06:32:23Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft busca recortar una cuarta parte de su plantilla a nivel mundial",
-        "description": "Microsoft busca recortar una cuarta parte de su plantilla a nivel mundial EL PAÍS Microsoft propone salidas voluntarias a 60.000 empleados, el 27% de la plantilla El Mundo Microsoft ofreció retiros voluntarios a 60.000 empleados: sigue el camino de Meta, Netflix, Uber, eBay y…",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWdiLWtVTGliU01vYWR2OFRBUHVzUUlzRzhRc3MycF9kR1JhWDJwZi1rQkNrclE3VjlSU3F4WG1qVGw3alVtTFRDZTlsX2NHZUgwYUJFcU5KRXlqQXFSN0VsYmZuQmJCYS16bEMtNlZ2dU1qYncxRjlSNmhGazVOcWNkSmNDWlJmTk9WY1JNbVNOS2FqZi1pVGFkQmJFQ0drV19ka0tac0lBSk02MmJqMlMxckpRZ0tp0gHMAUFVX3lxTE5HV3ZjT3JrMHhTNTg5VlVUT2FpQ0owVFpPUU43cDc1UlpCZ2t2N1dUdlJLai12OWRQTEpsdEVzUkNvT29zdTEzUEd1SW15NzZxZ05iSUdoY0U3c2libl9YME1HbWp6MDlyd3psdExfT1pibmRBOEZmb3F5NlFNYi1JYmNzUmpnXy1KZWRueWItWmFrWEd4RnhkZzBVTExMU3ZEQ0ZVUjZBRHBKU3VSTlNLSHB0cmxVN0dtRG5DVktkUkZPQmtIN0tyOEQ2Qw?oc=5",
-        "date": "2026-10-26T16:26:34+00:00",
-        "source": "EL PAÍS"
-      },
       {
         "title": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
         "description": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible Xataka",
@@ -17,32 +10,32 @@
         "source": "Xataka"
       },
       {
-        "title": "Una vulnerabilidad de Microsoft Authenticator en Android podía exponer cuentas de trabajo",
-        "description": "Una vulnerabilidad de Microsoft Authenticator en Android podía exponer cuentas de trabajo Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmpLblNpMmFFS1g4VU45RU85aGlnMjVyZE40UDY4WDZqSmM2UUJNcnYtUDBlemhoM2RYcllDYV82d2ViR2o5ejhBNHdDU2ROMFlFYi1WRGR4YjFuYW9kaVlZblF1UzQyNl96MXhwckN1SjV2YlV4ZjROYU5ZYUFjS3U2ZVZmQm9zbmxRUk9Ia1RrWkxfRHNqSWVILTRnNEtoRFJsbGxGZGZuamczaEJwdDdRS2hRNWE0blpUWjRhM2ZJTzBlWldmQUh3QdIB5gFBVV95cUxQSG5KQk5jd296WF8ySmhoQ1ZESlFSSW9pSHBpU1p5UHNFQUF0dkZ3QjVwcG5vSDhPZFJZWF82RkZWYUZwakxleWptc2FOalllSFlUTWdROF8tLXhjNlhyQnNSRnJHM1VnTHMtY3NWRnc2Vlp4MDJEblVyX2lFVVMwa3AzZWdkdE5SUjgtUFVFaFRRRGNaY3RwXzhQeXF0QVNveFM2ZUowZ2RId0FuM0F0elN6X3g3U0NFVGVPemlZZlhNb3NKS3JuaVk4U3QyMFdOVF9LMWhic1VCbndMeVA1RTQ3MFJDZw?oc=5",
-        "date": "2026-10-27T16:44:00+00:00",
+        "title": "Microsoft busca recortar una cuarta parte de su plantilla a nivel mundial",
+        "description": "Microsoft busca recortar una cuarta parte de su plantilla a nivel mundial EL PAÍS Microsoft propone salidas voluntarias a 60.000 empleados, el 27% de la plantilla El Mundo 60.000 empleados alcanzados por retiros voluntarios: en RDC analizaron la estrategia de Microsoft ante el…",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWdiLWtVTGliU01vYWR2OFRBUHVzUUlzRzhRc3MycF9kR1JhWDJwZi1rQkNrclE3VjlSU3F4WG1qVGw3alVtTFRDZTlsX2NHZUgwYUJFcU5KRXlqQXFSN0VsYmZuQmJCYS16bEMtNlZ2dU1qYncxRjlSNmhGazVOcWNkSmNDWlJmTk9WY1JNbVNOS2FqZi1pVGFkQmJFQ0drV19ka0tac0lBSk02MmJqMlMxckpRZ0tp0gHMAUFVX3lxTE5HV3ZjT3JrMHhTNTg5VlVUT2FpQ0owVFpPUU43cDc1UlpCZ2t2N1dUdlJLai12OWRQTEpsdEVzUkNvT29zdTEzUEd1SW15NzZxZ05iSUdoY0U3c2libl9YME1HbWp6MDlyd3psdExfT1pibmRBOEZmb3F5NlFNYi1JYmNzUmpnXy1KZWRueWItWmFrWEd4RnhkZzBVTExMU3ZEQ0ZVUjZBRHBKU3VSTlNLSHB0cmxVN0dtRG5DVktkUkZPQmtIN0tyOEQ2Qw?oc=5",
+        "date": "2026-10-26T16:26:34+00:00",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "Microsoft lanza un parche de emergencia por una falla crítica en Brotli que afecta a .NET",
+        "description": "Microsoft lanza un parche de emergencia por una falla crítica en Brotli que afecta a .NET Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQjlHOGtDWXgwY2xjRndNSVlXZ3FlYnlhZUN2VzlrVTZrakZiYndPbmVLbm51LXlNSXYyZnpLUXI0UEZtandBU3dyOHVzdER4WGplckd2bXZCVDZuTmVhaXY5ZXVIWlMxQ2dWX00zcDJQemdiMkNkQkdrd0N3djczR1M1bDN1Ni01NWFiOWNIZHNaYUFTMDRsZUFPUHZId0x1N05nbW1odVhPUTByLVczZHljbGdpNnF2dkF4cWdhcVU0cmZiczh1bHpR0gHkAUFVX3lxTE1lMjJFMDhFWGVHaEY4dWxjY1luYWVhcTgtYUFHTHlHVlpIVGVfT3ZocVV1ZDhqYWhIeENZeERmU3lfaEJVeHZOeGtvNms4OTdQRnRQc0tYLU1SX2tRbTFyeUNsSVh2dHVmUlRlX1lEVGVOb2VjT0RXM09mQ19WazYyNjM0cjdnZGRqcDhtMjREQ1ljeXJTT1JnLS1FUWNoZ3JyRU9ZcE85bGpJU3d4U0dNRWlBS2RFeHlHN2FvQlRPWjdLVGxqQ3JoNjA1OG1pZ0tUM3lwVVJ6eGhzMXlMNjVuV1lTdQ?oc=5",
+        "date": "2026-10-27T18:05:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "El IES del Atuel nuevamente fue reconocido a nivel mundial por Microsoft",
-        "description": "El IES del Atuel nuevamente fue reconocido a nivel mundial por Microsoft PRENSA GOBIERNO DE MENDOZA",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnR3UVFONGNLYXpkRHFFNGdJMlhMWDd1dkdPVDR3NjhzSl9vamZDbERsVzhvVG80RjVtejludUFfRmVvZW9JcndVc2R6dTJmc01SSUdUVlFjM2NTbDJGZF9sT3BuNEQ4U0w5ZVVJRHQ1SWZ0ZW9JQS1zdWQwVnlHdDU1bGR1SUsyMkl5cFo0NWl4a2pfRGNSTklIeVgzVGt2d1k0V19R?oc=5",
-        "date": "2026-10-27T20:36:19+00:00",
-        "source": "PRENSA GOBIERNO DE MENDOZA"
+        "title": "Anthropic depende de Google, Amazon y Microsoft para casi la mitad de sus ingresos",
+        "description": "Anthropic depende de Google, Amazon y Microsoft para casi la mitad de sus ingresos Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVN2NEtiMTNua2dXRHpxVXZJdjhxVHptR1pyZlJiYlUwYnJNb2pnVHZONG5MdzdjVWJUZFJZbVFpZnNkcEM4b04zMzRVVUQ3dzk3UEx0R3BaTXRXY01meGxKd1g0REdDUXVsNU1GR0Y2M2RDNEE3R2lnX2Y5a3JsOUFkcUc0QURyaFdzZVNSUTVIWUZhOTRpbmtjN1NKN2hNR3BWSk1qdUR1bEpkXzRGcGJTLU56Ym1kMzJ4WGhBdE1RN0FhLXdVTzExMlpIMzVBRDlr?oc=5",
+        "date": "2026-10-26T17:21:00+00:00",
+        "source": "Investing.com España"
       },
       {
-        "title": "El enfoque de plataforma para convertirse en Frontier",
-        "description": "El enfoque de plataforma para convertirse en Frontier Microsoft Source",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNE1nc0JxVmlNNlFwbjlsZENnN0tLd0tqaExIaENwdWtna3BNeHFhTzFXaXV6YnBHRXBfeHhLSHpDYy10c1V2OTI4MktLX2M1ckJtckFCSXZwMEtzZDZtdDF1Q0JQczItTG1VQjB6eDhGYmpmR3JtM1I4UXpJVTBHcjJ4bUxTTV9LOVVnaW83NWc4czkxRHZuZnhXQzlSSlpZTEE?oc=5",
-        "date": "2026-10-27T17:07:27+00:00",
-        "source": "Microsoft Source"
-      },
-      {
-        "title": "Anthropic aumenta su dependencia de Google, Amazon y Microsoft",
-        "description": "Anthropic aumenta su dependencia de Google, Amazon y Microsoft Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzNSNjVSWGhORUVqYmV2emtVa0VsZzdWSEMzN3daVC1ONG1qX1BENlVaY2tXeUdqOWl3S2U4LWMydlpmRjRubEp0SVhwSXI5RklkMGJVRWs2TkpYRV9Xa0ZtZ2NvR29xUTktbm1OUUtRUEdTMkN1bmRfeW9IVGtMM0NDN0x0TS12UlpsdmFVUkZHNDlUYlR0XzFHeVowRmt4TFI4StIBuAFBVV95cUxOUFpXcVBKNXRPMXd6N3VYSGlwcXdLMkNnS194VXMycllwLWI2WkdqSUFEZVo1a1c5YU5lQmNrSWZHODZGam0ydEktYlBvZVk5ZzJVOGFGSzhObkxyWGRHTnBSdFl1VVh6T2lKRlBaZWRfblVQQ0xmeUJiazJtTUdHaXhYVlF6NmtCZmxfeURkRWRSeEhHbW9YMmQ4MEI3QkRzX2hqZmFLT192V29OQVZiT3h6X3Y4MzJs?oc=5",
-        "date": "2026-10-27T08:58:09+00:00",
-        "source": "Bloomberg Línea"
+        "title": "¡SOLO 40 HORAS! Prepárate para la Fed, Alphabet y Microsoft con 55% de descuento",
+        "description": "¡SOLO 40 HORAS! Prepárate para la Fed, Alphabet y Microsoft con 55% de descuento Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHY3QVI0X0ZQSjlVZWFwXzJYU0hVUTMybDBNWUphY3ZBbVUyV0JUQnlVMlg4NDkyVDJFNElrSnZGSlg0VVRGaURKV1dQUW42UzRYQWRPZ2hnbnVDR0VOMVBCdmN0WFF1YXZqVlRndmNoWVpJNlh1Tkh1a2RGMVljdFBJQzZnT1RQR2Nqc0pqaEpBanZXWG9VQQ?oc=5",
+        "date": "2026-10-28T00:28:00+00:00",
+        "source": "Yahoo Finanzas"
       },
       {
         "title": "Bill Gates, fundador de Microsoft: “Se trata de contratar al robot, despedir al humano y olvidarse del asunto”",
@@ -50,6 +43,13 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdzJsY3c0a3RDMG5HY3BVU096c0g2VE04OHN5ZlVvWUQzNk9HRXhvVXhINGxNLWdIV1BlVng1a0dzZWNXZUFTWkRVMVNURE9wWERRdUFValRIdUs2cThDc2M0WE9ONFN5YUxHNWZaa3dxZW5yWTE1VEtyQ1JvMlpiZFk1dks4bFFMbFFUcGNZcW15R28taEgzQmhiakJzTW5GeUVWMWRUX1M2REpLQll1QmhtbktYZzFBdXBERVpha0NpYThsSjlfNkVqeVV6S3JLU3VqN0VwbnRjd1NQSGJDSzh2NDnSAfgBQVVfeXFMTmR2S3lXbnJLclNTMVAyWGFXMHBLcHBxSUZyNzlhc0NYYWhDWldObGhOdXluOWpzNERIQjM5TjFodlZkRGZNLXVyUjM5Z2ZXLWo1Q0tSZng2SXVNaXdBR09YdG1ndHlsZ2xLMFF5ZGRwaGlJMzdqa25uU3V5ZnJRQzdyYzhBX09jU3BDYUZPbG56T1NFQUpMdHlPNTlDVHMxaklNalR5dzBURlN2T0xINHkwV1ZxTnkxeVBqelBSYnZIelZzdk9EeU1UdnE3UG1Ba2Zlb2FSRE1idW50X3dzT0lneFpvbVhidk91SFBwRWQxNUhaS3F1N3g?oc=5",
         "date": "2026-10-27T14:30:03+00:00",
         "source": "Diario AS"
+      },
+      {
+        "title": "El IES del Atuel nuevamente fue reconocido a nivel mundial por Microsoft",
+        "description": "El IES del Atuel nuevamente fue reconocido a nivel mundial por Microsoft Diario San Rafael",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjdseUJ3MUdsQzZPeUdEWW1MS0VZQVZMcnkydHhON1IyN3I1N19qaGFaU3AtQ0hOZW9LdVJQZERBYldmTk81XzhMTFFoMVlMWXI0NUpKby13UkE1SG14TTFqeFozbmh2enZvX1VPdVhGQnkzTE04VFNvcFhtRFE2X0NRNEMwaU1VUWZ0WVNpUi1Va1BLWEZILUgzLTFNaHNkZmQtLWY3VQ?oc=5",
+        "date": "2026-10-28T00:36:00+00:00",
+        "source": "Diario San Rafael"
       }
     ],
     "Marketing": [
@@ -61,11 +61,25 @@
         "source": "Diario La Capital de Mar del Plata"
       },
       {
+        "title": "Peluqueros y barberos podrán capacitarse en técnicas y marketing digital en Salta - El Vocero",
+        "description": "Peluqueros y barberos podrán capacitarse en técnicas y marketing digital en Salta El Vocero - El Vocero",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1FBdWhOc2ZaamxDY3FlYnkwLWhwWWtMSWNWZ3BSVXlzV3RjRUJFQjFEZXlDS1JIek5Ebi1HUkNCek9LQ0ZGNXctdXNRZHhWY2VmYnUzNlJJVnlROWllMXZpeXEzY2dIRnpMc1NmM25keUc4bTVrdVo4VFh4NXNpVzg5Mzk5MWFHVlpLMEtRQndyY2s5ckhfY1kwTlJYRGxZT1FkZVFxdm9mZGk2b2wtbFZOSUJrT2hFLU5raA?oc=5",
+        "date": "2026-10-28T04:12:00+00:00",
+        "source": "El Vocero - El Vocero"
+      },
+      {
         "title": "Un cambio de look para tu negocio: llega “Salta Emprende con estilo”",
         "description": "Un cambio de look para tu negocio: llega “Salta Emprende con estilo” Municipalidad de Salta",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUZ4RlN1VFNQRmtpT3B5OWdNREhSRFUzUVMtb25QSjRLMGtQbmdYU2hRUGdYeF9xX1FZMXZ4SndkNkpBSU9xRm5XRkRaTno1V1ZGWl9CV2drQnlJTHhqdlg4OFg1VzZiRWl2QVBFQWpxbktjTEtZaFNnN3VhSC1XUVVyb1k3SWZ4QXltWE81ZGZLcExuMWxIOTRXSkZaalFJMmtpaXcza0NWLUU?oc=5",
         "date": "2026-10-27T17:40:09+00:00",
         "source": "Municipalidad de Salta"
+      },
+      {
+        "title": "Santiago González Espinel es el nuevo marketing manager de digital en GSK",
+        "description": "Santiago González Espinel es el nuevo marketing manager de digital en GSK Marketers by Adlatina",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlc0X3Ywa1hGVE5FYWtfSTFTellyNjZkd1c5Z25SdWZDM19LWlhZSjZ3M3pmUWlveHZZeERyS29OLWR5czJuYkVLQklDQ3lXRlJhU0gxWjJBMVhlZDdfTldjQ2toOWwzbkpRX2FkWWszSkROa3VEOGpJb21sZEJsaTRmQWZUYmh0b0d0aTVCYTFNLTZjdG9nT0xSaC0wWDA3MXNhTTJXZkFUZjNsbmtQQWswTHNRWlp4RXRUaGJ5RFhZZw?oc=5",
+        "date": "2026-10-28T03:19:33+00:00",
+        "source": "Marketers by Adlatina"
       },
       {
         "title": "Magalí Pessah en el gimnasio del marketing digital",
@@ -82,48 +96,34 @@
         "source": "Castelar Digital"
       },
       {
-        "title": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados",
-        "description": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados DossierNet",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblFHMFF5TUhWVmZVbWRkbENzYXpCYWxmZDlqanVQMGN1NGFOMnZzZ2lpbUZvOGdrM0xJcy1hbDNzeFZkZkUzMld0SDdoM1pYVVpaam5jTTBRV2dMQkdWVDBLcmNEeVM1dXJMeVdpV1E4ZE9YOGJMVFA4MDY3M1VUQ1RVWGJZdjU2M2UxM3M3UnZHZ241Y1dGbDBTT1ZfNDEydmdQaWVpTTVVdWEySk03M1hreFhiXzJMUTZvRzZNMzg?oc=5",
-        "date": "2026-10-21T13:38:21+00:00",
-        "source": "DossierNet"
-      },
-      {
         "title": "“Impulso Emprendedor”: capacitarán a emprendedores en Introducción al Marketing Digital",
         "description": "“Impulso Emprendedor”: capacitarán a emprendedores en Introducción al Marketing Digital Gobierno de Venado Tuerto",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1FEZjJzbU12amNkVnpXblI5OF9sYm00ZGFJRWNhSXdjazJadHNmNlBOaFNiTktFa2JMaUxHd0VRVWozZzhSRW8xQTBzdWZISGhOWWdzRnRLX0JpZE9HRS1IMUxBS1FHSERKdUhXZkNGaTZLdUt3VWFyS01OS3lXUHZsOEd4djBZMTgzOVRTT2hhcGhwN0NLOU1VemFvcnlwN2FfNWRRazZYUWl1bmRETEphMkFtVVI0NXdIaUlqVkROZw?oc=5",
         "date": "2026-10-15T13:18:31+00:00",
         "source": "Gobierno de Venado Tuerto"
-      },
-      {
-        "title": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 8",
-        "description": "Galería de Avanti | Agencia de Marketing Digital y E-commerce / Desterro Arquitetos - 8 ArchDaily",
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPYzA1bVhoRk43OTVCejRNajNBUVg3b093RXl4TjRuVjlzLUhIdDZsT2o0UW9PQnZYWHZBWjVoM29BRHc1emlnNjlOaC1Jd1dMeUFTdTB5Y01iOHhDRXR5N2hSNjR6TzdUWnA4OHduYjI1RGk0Xy1RMWs3OHdUaGNJMEI4Sl9HLWFTZmpUM3JEZ3hsc0NFMENma0QtbnFpbFotZDM1cjVUV2JkNEJMX3dBdUJFd2NwSEh1bEkwR0hQaU1XNFZIaG9vSXJlZ2x3SlJEcjROOWhXYkszT3M4SGl5elJ1Sk4xelpIZ01xc2VUZDYxX1dOZUwzbEZzbWVObnJsdG5qeTAwS3VaWnBGLUFFNHJ2THNNQjFzTmxVeTdqcXpLVi00X1ZyaVdCWTA?oc=5",
-        "date": "2026-10-23T02:15:36+00:00",
-        "source": "ArchDaily"
       }
     ],
     "IA": [
       {
+        "title": "IA sin control: adultos mayores en riesgo",
+        "description": "IA sin control: adultos mayores en riesgo Infobae",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUdYQmdteElXOUJrY3E1SHRWUE9qMUkyNkcyUnF4cDdwcGlNRnJicTJOSGQxbWxmb3JtdUEzZGNLX0xacUYtWHNkaU4zQ1RGZFo0M3Z3M0h3eXJwSGwteXJiTUVZTnZUVUFuc0NnRlBiNDhMMmdDd2phanJRN2NUNU9wNTRQUFNHbjQ1d9IBpwFBVV95cUxQZkFyQ2hyYmxZNkRfYXM1WEs2Z281SW01RGZFR0U3NEd6emZiWWItMDZNMGlfQXVEV0ZZX095U1J3WklPM2xURU84cjlNMEdQLU1iQ0g1LUctajd4R2xsUHIxRTVGQkdqaGpZV2JBbG5XTmtsMVQ2cDJ4Q2pYNnFUcWg2RUo4V1pWMW10YlU1UnZZQWdhMjM2bXRYMHF3cmRDUW5PaTZZTQ?oc=5",
+        "date": "2026-10-28T06:12:22+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Argentina se alinea con EE.UU. y Brasil con China",
         "description": "Argentina se alinea con EE.UU. y Brasil con China Página|12",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3lCLTFjaHc0M2ZmMnVFejY0aWh2bHVKTmZGRTQwOXdmcy1wdC1zeUlBSzMyT09IQ3VUNFB6RTRMZFhjV3FhWFdnMGJpb1REUDFIdHQ2aTNnZUJfa3dCbUZSOHJZZWZxRzB3QjNZV1l4OTlGQmVfVURjamVRR1dOXzBxbGF0M3RuZ2hQRmpvbHQ?oc=5",
-        "date": "2026-10-27T23:11:36+00:00",
+        "date": "2026-10-27T23:14:17+00:00",
         "source": "Página|12"
       },
       {
-        "title": "Hitachi presenta Hitachi Digital, una nueva compañía global de servicios digitales que ayuda a las empresas a transformar su negocio con tecnología en la nube, datos e inteligencia artificial, para lograr resultados medibles",
-        "description": "Hitachi presenta Hitachi Digital, una nueva compañía global de servicios digitales que ayuda a las empresas a transformar su negocio con tecnología en la nube, datos e inteligencia artificial, para lograr resultados medibles Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlpqUlNpRW1BR01hejByZkVDVUdDazlUMHhaZ0Q1ZzZEN3R3TEhXLW9VNUx3ZXhEcW9pNUdtRXF1MG4td2tHbWJFaWdmS09rQ2dNZ3VrVmlkNzQzU3BDdnNpamcwQTlERV9ydDNBR3NxRmtjcTF3NEVxSDVKYmw4NFRUZ1cycTVzdDFjM20ybEJFNldYVzNlZWNSWTBhelVWWUtfc2k1VQ?oc=5",
-        "date": "2026-10-28T00:00:00+00:00",
-        "source": "Yahoo"
-      },
-      {
-        "title": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy",
-        "description": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRk9tb3BhMWl2cjAwQnMyRWZzMjFiY2ZJVVZwVUVkeFZHTmtCVmJ5LXNsc25uSHpGZlloZWh0ZDZ2emR3Y1A5VU5kb0lkaEtwTk1rV3JUSFN6MjQzSWdialdIQ2ZVN01RMmRNb2h6Zy1iVDhWY2RDdFBlWTFOOVpKT0ZaXzZLX2xRVVh6REphZ3B3NGxwR0R1eDl6N2xwRGhKMWtOS1Y4Y1VQWmQtVHlOdFJMTzhSNkc5eVNNaVgtdjkycDNGaVlvVUIwZw?oc=5",
-        "date": "2026-10-27T16:18:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "La inteligencia artificial llega a las audiencias judiciales",
+        "description": "La inteligencia artificial llega a las audiencias judiciales Diario Judicial",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlBY0tyc0dVcWN3T3VpQmhFaXZfRGtzMmlua1hVeTA4TWpDUHZaNUJUN2RwZW85RFZhdTFPSzhTczBGTG4tZ0NuNUtoUEFhazRsODBHV0tselFPa281S0trZTF5VEhHN2FUVWc0LUtQemFFbzNBVDhXSWlNWnc4dG92MWZUQzhLVkpmVlgtdTZaMWx0c2sxZE0tOF9GcHF4b2NpWWNB?oc=5",
+        "date": "2026-10-27T21:34:34+00:00",
+        "source": "Diario Judicial"
       },
       {
         "title": "Inteligencia artificial en las escuelas: de las resistencias a su incorporación y cómo cambió la forma de evaluar a los alumnos - TN",
@@ -133,25 +133,25 @@
         "source": "TN"
       },
       {
-        "title": "“Hay que tener más miedo a perder el empleo por no usar IA que por usarla”: Jon Hernández, divulgador de inteligencia artificial",
-        "description": "“Hay que tener más miedo a perder el empleo por no usar IA que por usarla”: Jon Hernández, divulgador de inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORVhrbE1JaE9SeHJFZGwwaHowMlI1a2hyS05IYzdRT0Z6ZjJJd1Atek85U1l0UmFHcXBodE5WWV9rS1I5SjMwczR3OWkzekl3TERTT1JQbHQwN2hQa3hLQUNoQ2ZfSG4zTGdvWFcxZmRLZE9SWWFKQ2Q4TWJydVdlS0xOR2ZWc0poTHI0LXktaml3XzFaRm55YmJ5RUZfQnRkZHNpT2hrMlV1UUE0eUltMUFLVFJYU2tzRVlQUnF3SkQzUVNoaWZ1VlgxUlN0bnFlSF9SQTRxS0FBV2ZFTjFkUF9lQWxwa3l6Q1RYMjZNQWJRMmdMTUFMVGNB0gGUAkFVX3lxTE03c1gwdEZ2TEJCRVh6X1hmZi1GRHpUNW5jaEZnbGc3ai0wRUFJSUt0NUtzLVFrMnZVdEt4MGRsX3Y4NkZINlRBOVl0dkdDRGtTSG1BSkJqN2xHNWEwOTNHZ3ZiUHpiNzRxMzI0a3BuMV8zSEx5UU1xRXhWcGhDUUVGZ2wyX0lhTmh2UVFyV2M5T2ozNl9hdllKVV83Z1R0V0ViQmZKTlc3R0tGdVhSenhNUzhwVERMY0x1RWc4NGFtNFlQVUNfSFRmZVJGRnpWMGx6dzZoLXZQWlEwNkh2WFBmSFMtajl3OGY1MXBDanBxLXhLalNWWl9xWjdfVGh1cGhRUjBDUUlEUS1NQ3BoWk5POWpHbQ?oc=5",
-        "date": "2026-10-27T12:00:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Verificar créditos en tiempos de inteligencia artificial",
-        "description": "Verificar créditos en tiempos de inteligencia artificial Diario Judicial",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON01vN2ZxNC1ZQzFITEppRmpscXd0X0N6NGVwMkZmVUNna2JSTzZVNnk5OVJzQUhOYkpscUFLX3IyVWVMdUYtNlZJTmk4ekNzWnRTZVZrNms4U3N5R0xYRUI4WHA1RlA0Mjh1cFpOTEJSNkQ1WTYxSktxOE0yQ21Ga2pQOGlsbjlDWlRYUk5JaDd5eGJnLWFCaHQ1Y3VfRWZT?oc=5",
-        "date": "2026-10-26T20:17:23+00:00",
-        "source": "Diario Judicial"
-      },
-      {
-        "title": "El escritor David Silva Rojas defiende en un comunicado que su novela ‘Donde el agua trabaja’ no está escrita por la IA",
-        "description": "El escritor David Silva Rojas defiende en un comunicado que su novela ‘Donde el agua trabaja’ no está escrita por la IA EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaFJadGYycndnMnNFQV9ndzZDaVRnaEtGcEFqQk5oY05QVGN1ODJ4V1F0bE5RcW1oMndiSzd2UXlYb05IX05fbVFoWlg4QkFMU1NNajVuM0JKT0RwN2swUEVLRmwyVnZQTTJZMkcydTB0VjlpaEMwaGduY2lpODMwdGxEMXMyb081NFNHQ1lvUnVTN1JXWEUxMWxYZGZNUjdTYlVja1Z6a1Q1QlQyLUtBaGFFckg1Qkk3cFJ0ZHNKcEpDTEZ2OFNJSWNrcjVPYUZ0STQwWDVvRGlrTUhxd3JSUjZrMjBpeWR0UU1Tb1ozOWh4d9IBhgJBVV95cUxOalhaUzBFSTBUcWNMNnJwbXBiQ3k5V2VRX3ZiZmR0OWxZakVKSzJEV2ZZN3loc2tRQkFnQkJSUW1IdGMtWFZsWk5UUWFfdXVPT1FHSUEyZ3VFM0JZYkZRVGRMWlZGTjFaeFlyVzRYODZneDdUR3lpcjdwRUo2Nk8xbTJ5QkRjRmhWUGZkSWdlczdib2o1MFRvckVkTkN1VWI1TzU1bC03a09vYVRyWjFPM09OQjJnUzJFZGQ4V0I4YXN6QXFxODM3MmVhWEM3ZGYzVzhhLS1NWnF4ekZwR3BsNnFzVHltTkVCVDFnbW5ldFhSSW04QnprSGpweEwzOEJyU3dFM2h3?oc=5",
-        "date": "2026-10-27T20:01:45+00:00",
+        "title": "Cuando ser visto se confunde con existir: redes sociales, identidad, intimidad e inteligencia artificial",
+        "description": "Cuando ser visto se confunde con existir: redes sociales, identidad, intimidad e inteligencia artificial EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVRRMmlvWFktcnpaanE3cFotU0NQY3BkWFZHMzVvOVpDTjR5NmhUVGJQSVAtZVc4Q05XOHQtblVFb3FEaXF2RFJYUHVERE5ONmVsMFIyMW1aa25aZjdtQjgwbG5wTmFQUGFNaVVOemR5QUx1TGxkUnZMVXIwWFNsYUpFVWV3MlV3QllSelRWemhxTDJvUEJQVEx0YzNCTmxET2hMV2R1dEVlb0ZjNjVuZjBlYUd1SkNXZVRVMmVMTFloRUJPY1RxR1hjckZGQll1RXZscGd0Z2FMLW9ET3JIdXRQUkFZZ9IB-gFBVV95cUxPd2drQW8wdUpVYkxPaGtxVGE1V1ZsZzI5TnNPNUJacG1BeEtxdzZOYkNyaEs4ai1zTW1iSEVSVWNCdWkwRm1meEVzdWRoUlVsZkhKN2NxdXllRHgxaUJhdF80dnYxQmFxX0ppSUMwVUVLLWRWdllieTdCTUxzNTB5c0Z0Y1JIMnN0enp0YktuT2YxQlNnZkdqMTdSeUoyX3FaT2puclZUN0RXZkVkUE1HLU5ueDFDX2ZzZ3c1dkRQcEs5S0RrZGJRSlB6YldhMmtERkFrdTdfUkszY2ZpWGFjYmRNQU1PQTNNTmIzNmd5am8xeWlIUkRpSkxn?oc=5",
+        "date": "2026-10-28T04:30:00+00:00",
         "source": "EL PAÍS"
+      },
+      {
+        "title": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy",
+        "description": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRk9tb3BhMWl2cjAwQnMyRWZzMjFiY2ZJVVZwVUVkeFZHTmtCVmJ5LXNsc25uSHpGZlloZWh0ZDZ2emR3Y1A5VU5kb0lkaEtwTk1rV3JUSFN6MjQzSWdialdIQ2ZVN01RMmRNb2h6Zy1iVDhWY2RDdFBlWTFOOVpKT0ZaXzZLX2xRVVh6REphZ3B3NGxwR0R1eDl6N2xwRGhKMWtOS1Y4Y1VQWmQtVHlOdFJMTzhSNkc5eVNNaVgtdjkycDNGaVlvVUIwZw?oc=5",
+        "date": "2026-10-27T16:18:00+00:00",
+        "source": "Agencia de Noticias San Luis"
+      },
+      {
+        "title": "Segunda jornada de capacitación en materia de inteligencia artificial",
+        "description": "Segunda jornada de capacitación en materia de inteligencia artificial Consejo de la Magistratura de la Ciudad de Buenos Aires",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY21sQXY5aGtUWnJSRjFyZkk5ZVdlc3pnQkEtbTF1Qjhsc2NJd0huTDBrbUlsMFk1azR6eUFZVnpCcVpNTHE3b2ZJeEZkVWZacmhxQ0Y3RG1OTkV2b1dhUExPNHUyMnh6N0REdWRWVTZ5V0VvSzNoVDlQUkNFd05vVjh4ekVkY1hyMFZxTlJXQ05NWE02Rm5tZFVBUEZkbENNMUtoaDh3?oc=5",
+        "date": "2026-10-27T18:07:43+00:00",
+        "source": "Consejo de la Magistratura de la Ciudad de Buenos Aires"
       }
     ],
     "Vaca Muerta": [
@@ -160,6 +160,13 @@
         "description": "\"El Gobierno debe entender que Vaca Muerta no puede recibir al conurbano bonaerense\", sentenció un ex gobernador de Neuquén Infobae",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLTNSd2hMVTJ5bFlkMXFJcE1fS2dkSXFRVG1CdWJhTWRUMklxdlBqd0hlbktmRmFvZWZRcEhWV3BDbExaTXZvdlgyODZPc1o3ZkExc2JxZUdCb055eGE4WlRrdUV5ZnpCMHBUdTV1RWx6dVEyYUIxM0hJT1FoeVM1S3hLNExlRWlNRDBXMkEwX1Qta2xQTjBHcEotNFhQRlZBd2RITWkxOHBydjNhZ29QN1E1UUNYMk5TUTNwdDB5TmN6YXo3Tm5KRG1RdFB6RU1vY0MxMWJtd3pMM0ZzMU40NG95UXJmeG9LRjRLWThOWDlSTUpCdWRwNtIBkwJBVV95cUxQRFhvcU5HMmt3VGZkS0JaWlh0R1RJcjJvb1BWVG4tTjhzNG51eTMwbFEzM1F4bDd5R2Z3UmNfRTNsaHl0aU03SjA1aVRxcG85X2Q2NHlsRE8tQ3FmVk5LUGphQ0pGTDVCZmQ4VDNMcnBEamlKLUticlJmTEYwRXMwRXJyNjNCSkZpRUJJSDNVZXBxdDVQWVFldkVEdl9wS0Q1MWN4NUZSY2EwMlZfZEtFN0kzWWtBU0JtU3ltUFF3TVVOd2xSM0kya2hfdG4xUUJWMllfSFNBSTF0Y0V3anNVM1dyNDdLbElWS3JUUHhudzBUaXVqRUZwU1ZMN000YTk4ZGNsWm5IWlNUTUFKcnh4d3ZEaw?oc=5",
         "date": "2026-10-27T15:46:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Jorge Sapag, exgobernador de Neuquén: “El desafío más importante es el de la educación”",
+        "description": "Jorge Sapag, exgobernador de Neuquén: “El desafío más importante es el de la educación” Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcFMxVHpsT1VUR3h2dkdsdzRQX2VVYW1MdXByN0pSbGFaRGFpZUJLQzZQSGxIX2phWVRIZ0VQbllHdkhLeWlCdzRibU1iQ1hqdGVsVzF6WHR0VkxFNGhFSGRoSmZQVHIydy1yYUZDYlZGeDVNRzYxaFBVbldfSTR5anhLWnBKeEtVVlk4VHE3R3k1b1ZXZ0FyS2FpYUdZR1NJQ3ctcGVNMXZIVkhyRFdfUTVKQTc4UEVXZTNmVlZGcWVsRmlnaDNVctIB4wFBVV95cUxNekxCaWltTm1NRzVRZnJ6ZzhCOGZZOVo4bmRsSFAzNGV3M3hEOFF1Q2lTNXE3MXh1MzA5cG9sVkhMMzZTOGxSanpBU3hTcklfdld5c3QtdTNjXzJLX1ZOMDBHdk1LLWR6UWtVS3ZQMDlJN3ZKdno4bl9lbWE0TUhOT2ZmbldERGc0YWR3Mzd4VmJTbzFzXzl5R25XNEpKUS0tMDJWZjV4WXRiQlhuR21uWElMeFk3dE9IUlh3RXNJNkhYZzliNXVSbFlJQVhIN05wNzNFQWhlTF80UU9GT2FaVFNjdw?oc=5",
+        "date": "2026-10-28T06:26:33+00:00",
         "source": "Infobae"
       },
       {
@@ -196,13 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNekJkVDhMZTBRaXhxeE9FWVNVSjNsY2stNU50Uy10RkFnRmFXT1dZYV92S2xwYVA2OEdDeW5GNFYySnhuU1dUMklSbFgxT3V1eW9IZUw3Z2JLUzJycEdCdkpnT3hsRkJ4blhuVzgxQzZZV3QzUkE5cHpEMzZQRXpQYlpKdXFKWWdKV2RMLWRlckhWdHkzSDIyNzRneDJiMDE1dm5Qd3JKUjdYZ3BNUnJ6Y0lMTmI4UTkzWUpwTFBTb3l1QnVpWXhXdNIBzgFBVV95cUxPYnlMZ1RjVnZDSC1zSHVoU1BoZVZnb3NGbEJnU1Y2X1R1ckF1NnpsZEFyWkhiVEpreE9lZ3J5Sk5yWGx6X2thWFVxZmZKSmMxZTFlRjBBTkRoTVBkMmg3RjVzbHowS3lGSmtzaDFUVEtwbGpkRG10cTNLUV9SbUZ3ajA1enhCQ24wbXBBZjV3VnYyaGhGZUNqWTVFSzF0M0xiRmVFUXI5Y3FGS0o4amh5UHQ2UmVTRTBwOURhN0YtNjNXUnIzR19EZHFSUUJvdw?oc=5",
         "date": "2026-10-27T14:03:00+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Ingeniería 7M apuesta a la capacitación y a consolidar su marca para crecer en Vaca Muerta",
-        "description": "Ingeniería 7M apuesta a la capacitación y a consolidar su marca para crecer en Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHVtZHpLS2EwekpNRlJUTF9GVnBQajU4Q1N3ZjRuUkFZSW5vb0hQQlI5N2Y0NFBlUmtIUmJPN254aXJoUHZUUUFBVnhFZldwUGd4R3NFUlc1ZWwtYkNKdl8zVWVCQzMzSnhSVTBDWFNwQy1wTGFYaGtvanRFYlYzY19qbHRDNVNyNkVsMGhVd3JpZ1RzUmlrYVU0ZDF5VTNvb3Bzd3YwMTdGWFlyZ044alZTRkdqbEdRZjQzMkZvaUZhaUwwaWtUTm5nekFwQkk20gHYAUFVX3lxTE5xSm1zcWRyMkd0b0ZERV9ueUFfVk1hZGdZTmRIR2oyOThUbzNoNW50SE9zbkZFNmd3SlIzRnNIN1FBeXVEQmp5NGhWYmxmb3VDSUg0WHhjTHdQc3BQdjVSSnJzOUFfWGZPc3hDYjFIVFhmbkFiVXBqTmZVS3BCUUVIbFpibEJ3RFp1ZDZDV3RjdF81cVdsb3IyUjBlZFpzZHI1N29sUDJhUzE0aVJ5Z2JaZmZIS194NGhoU0ZXXzRQTG1kaTUwMmRpTGRpU0wtUFdaZ0lrTWtNdQ?oc=5",
-        "date": "2026-10-27T14:54:36+00:00",
-        "source": "Diario Río Negro"
       }
     ]
   }
