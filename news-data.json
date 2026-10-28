@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-10-28T13:44:22Z",
+  "updated_at": "2026-10-28T19:15:21Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft ofreció retiros voluntarios a unos 60.000 empleados en cuatro países",
-        "description": "Microsoft ofreció retiros voluntarios a unos 60.000 empleados en cuatro países Infobae Microsoft propone salidas voluntarias a 60.000 empleados, el 27% de la plantilla El Mundo 60.000 empleados alcanzados por retiros voluntarios: en RDC analizaron la estrategia de Microsoft ante…",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRTBKMkdCdVdaWGs2Z3V3eVVrWVFHMUpuRVhfaXQwaVdFSlY5VTBqbUIyV2JxS3ZwbExOU0ZPaEdnRUwzcU9aQmh4ZTV6SGJFU2JuSjd6RTY0bV9nMTdUVEpMLWVSaVQxbnFmSW5fNzgyTThOZEFDVFBpaVBFekY4WklaQnkwYnd5RVZGNkwyaS15dUVoSkRMMnhhakx6OHFUUFVYcHJ2djIzMnNwZmo4VHpsRHVNOVpFU3d30gHWAUFVX3lxTE4wUkYzaDJkejFTeGJZNk4yOGZfcHdaR2JvVHUzNzhMaGw5V2NmT1V3YWZ4ZFp5Y1h2Ml9STnRmN0FtZG96eXUxVGZNWk9mSjA0ZkpPb0Q1a3BiZlJUM3paUFlGNlNJU2hhMVlvTXR4TXBXUFRUclBSUmtNMU5BM0RQQV9jRHVKSFB3V3ZSR3ZLLWl4MzNRMGxVZUNYR2xKT0xBMFYxc01Uc09aNE8wN1hkcXFobHhzVFlRc0F4anFNR04xbjRyUnFCUUJFMkxMS1hRZTZoenc?oc=5",
-        "date": "2026-10-26T18:26:00+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible",
         "description": "Con 190.000 millones de dólares en gasto en IA, Microsoft ha anunciado el movimiento más intuitivo posible Xataka",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSHJWUkxZUDE1VFl6X0JQaWJYdkF3aVVpbDRBcEQ2WUV3aENld1VKWFVpUVBIdlVyYjg2T05jTUZBdFY1bGJBTjZYanhUbWFwRjNHUHhUUThseFA5NzhHdDhtaVdzVmgyVzhaVjFqVWVZU20tRXhjVWZCcUNBT085OW1fQ2JWTTZUSEtfM1djSkM3RWVmUWJpWXJuMkNlVnlNdWdTOG9OdTUxVFZDVm8wWjhZWmVKQkdvQU9SSjg5LTNsTFhTZEFWdUkza2xSSUUtdWJISXR0Ry1vbmdtZjNmQXNVQlItSE0yWVk00gHwAUFVX3lxTE9ZeldybU1QZXBfMlpObDVLYWRNSmFvNGJuMVpPd2lYNTN4UHB5WlhlTnR3SWZPc3NJdVM4aEUtcTQ4X2ZoMVU4ejY5cWE0emFJcGJyQU5tQzlaTUNaaC0xR25FYnZ3NzJ4V2ZKOHdNNTVickxyTGNuM25HRlNadXFScy01Qk5uVmFYOXRzandrMFdXc29SOUczODJXMThZT0laSk1DN1lZVWFkNzEyQ0NEQjhheWs3SG5FaTFJdzJvdzlLVUFSdm8wV2k3X3BXdm9zUjllaWR6S1pOVDl5c1Y5NkYxM3ZRMDVTYVY0X19jUA?oc=5",
         "date": "2026-10-26T18:33:23+00:00",
         "source": "Xataka"
+      },
+      {
+        "title": "Microsoft ofreció retiros voluntarios a 60.000 empleados en Estados Unidos y otros tres países",
+        "description": "Microsoft ofreció retiros voluntarios a 60.000 empleados en Estados Unidos y otros tres países Ambito Microsoft busca recortar una cuarta parte de su plantilla a nivel mundial EL PAÍS 60.000 empleados alcanzados por retiros voluntarios: en RDC analizaron la estrategia de…",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOGVnTkh4RkpjUDdrVzdScDNCRUlxdHpKZ0NpWkdzaTVoRTNmU2xEQ1pZVlRPQW9uOHB1VVpLMEpkQ2J4eGFKdjdtWHNDZTBfcl9ldzhONGxoNjQyZUIyVjNORjVkYzNoUHFBVjdEZlRKOTFXZnQ0dXhOX0RHYWZjWWFQV2VISG5ldW9TVVRoeF9BcUdNNlF1aVc1Q3BvMHlGWlNvd1puQk9lSTZtQ3BQWnZ0YlFqRkIxTndna0VndE15VjNjemJ2OdIBzgFBVV95cUxQMzVMSmhYZi1mLXlTTDNlcEhOM3hGNk1VdlNweHpuUmNscTFsbW1kYTRlR2c1OFFIVS1oMC1XRGxvNG0zdXNYemwwOTBjZ0VlZ0toOEg5aHVZVGVnakNYSnd1WHBlY2JDSGFIb0ZISWlmTHdUZ1hrQWctTHUxcjFaNHhGWTN2SnJNUDBpU2Z5dXhhbUxESVJmbF9vdldIZm90S2RFM3pGdUs1NU1SVFpUMVVzdERnckRBRzF4LTJ6T21WRjFORjF6UGRmbmh3UQ?oc=5",
+        "date": "2026-10-28T18:50:00+00:00",
+        "source": "Ambito"
+      },
+      {
+        "title": "Microsoft y Alphabet enfrentan una prueba clave: demostrar que sus inversiones en IA son rentables",
+        "description": "Microsoft y Alphabet enfrentan una prueba clave: demostrar que sus inversiones en IA son rentables Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUktRTkkxdmdtcTZLZXlKeDdhcF85Y0FlN0NfNzY5M1EzLWRGQlZKXzZjdlJqVC1uWUpGQ1pOME14bzdOZDZoc1JCX2tUVFJaOUlndW9OQlRCWW50c1NsU3hpLThMV3U5dVNXeFQtQ0RuX2pLbkJUUXZfYVBEZnlHZjlNM1BGX2xTR0lKZmpuUUFPS2hfMkpCcEdmVjh0Q3k3bWdWa0JrbkcwS0g0UkdRWEdqTlFzcExxYmRtbWxUWGttTW9kZ3ZwM3VVUE9zQ1h1WXk1WdIB6AFBVV95cUxPVS1UT3BaX0V0ZHNFVjJWNVBwRmNkYXYwR3RSb1BWS0hjRzY1RUFkWGhpbnJvVjVCZ3hjYmJpU1didTg2aWpqZklGbmh1QWowbmViUFZMU0JqSFJTbFlYNzJBMjNKb2g5TFRjbHJIVWl2bFJsSDdFYUlJeWJLT09UVFVqaUU0bWF0Ni1OQU8tbVdpTnRLRC1RNER2UElROUxYNTEyV3Y1dWZPQ3pWWWNERVljNWhjckp6QnpVT0RhLW9yS3J2NjVKb1h4b2ZNb1dYdEpndWFQdWsyUjZydTdsb1o1VWU4a2hO?oc=5",
+        "date": "2026-10-28T17:32:55+00:00",
+        "source": "Bloomberg Línea"
       },
       {
         "title": "Una vulnerabilidad de Microsoft Authenticator en Android podía exponer cuentas de trabajo",
@@ -24,41 +31,41 @@
         "source": "Infobae"
       },
       {
-        "title": "Alphabet y Microsoft reportan; decisión de la Fed: 5 claves en Wall Street",
-        "description": "Alphabet y Microsoft reportan; decisión de la Fed: 5 claves en Wall Street Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR01tZWxaZlVmMkZrU3BZZnRwNVRUd0VGb21nVHI0QktLb3lFa0Rna1JfWHNvUUtpemlvUzB4QURBRE5tYnliZ0dFOFZIZE5URml5Z1JyclVZbERUQmhVSlJpLWtaS29fUko4X2kteEpSUEdDLU55YU5sdUM4d2M1bzhEWVlkbmRRZnoxUXNla2V3MEtKcUdHWmFmYnJnbW4wVDBTUA?oc=5",
-        "date": "2026-10-28T09:17:55+00:00",
-        "source": "Yahoo Finanzas"
+        "title": "De renunciar a los 23 años a crear la app de noticias que llegó a Harvard, Microsoft y Yahoo",
+        "description": "De renunciar a los 23 años a crear la app de noticias que llegó a Harvard, Microsoft y Yahoo MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaTVHSy1hZmVEamNlQTExYjlJTVdCVzRnVGFUSm8tWFA2clhxbTBxOEtuOXpDN0Vyb2ltNDhEV1FnMGo5TmszSklvbk5tRU5pemx4bnNrUDFLZGs2V0xBXzI4b3l5UmZXWGN5b2NTLV9jLTYzWXFKRmxHOGt1ODFRdExrTzRLcWNPMlEwSHI1VUFpZEdYYkRYZG1MSFAzVE1fanYxak01Rmp6TjNXX2Vza1NDSUVLQnZfel9IREl6YzVzbTJ3UUI2WTNCdXlVckdnU0Vka0NvTjU4RV9oSnhJ?oc=5",
+        "date": "2026-10-28T13:02:27+00:00",
+        "source": "MDZ Online"
       },
       {
-        "title": "Bill Gates, fundador de Microsoft: “Se trata de contratar al robot, despedir al humano y olvidarse del asunto”",
-        "description": "Bill Gates, fundador de Microsoft: “Se trata de contratar al robot, despedir al humano y olvidarse del asunto” Diario AS",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdzJsY3c0a3RDMG5HY3BVU096c0g2VE04OHN5ZlVvWUQzNk9HRXhvVXhINGxNLWdIV1BlVng1a0dzZWNXZUFTWkRVMVNURE9wWERRdUFValRIdUs2cThDc2M0WE9ONFN5YUxHNWZaa3dxZW5yWTE1VEtyQ1JvMlpiZFk1dks4bFFMbFFUcGNZcW15R28taEgzQmhiakJzTW5GeUVWMWRUX1M2REpLQll1QmhtbktYZzFBdXBERVpha0NpYThsSjlfNkVqeVV6S3JLU3VqN0VwbnRjd1NQSGJDSzh2NDnSAfgBQVVfeXFMTmR2S3lXbnJLclNTMVAyWGFXMHBLcHBxSUZyNzlhc0NYYWhDWldObGhOdXluOWpzNERIQjM5TjFodlZkRGZNLXVyUjM5Z2ZXLWo1Q0tSZng2SXVNaXdBR09YdG1ndHlsZ2xLMFF5ZGRwaGlJMzdqa25uU3V5ZnJRQzdyYzhBX09jU3BDYUZPbG56T1NFQUpMdHlPNTlDVHMxaklNalR5dzBURlN2T0xINHkwV1ZxTnkxeVBqelBSYnZIelZzdk9EeU1UdnE3UG1Ba2Zlb2FSRE1idW50X3dzT0lneFpvbVhidk91SFBwRWQxNUhaS3F1N3g?oc=5",
-        "date": "2026-10-27T14:30:03+00:00",
-        "source": "Diario AS"
+        "title": "Bill Gates, magnate y cofundador de Microsoft: “La lectura alimenta la curiosidad por el mundo. Creo que me ayudó a avanzar en mi carrera y en el trabajo”",
+        "description": "Bill Gates, magnate y cofundador de Microsoft: “La lectura alimenta la curiosidad por el mundo. Creo que me ayudó a avanzar en mi carrera y en el trabajo” El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPei1rQ3FyZTFQWDJGWXpFQmtUYXhHVDZ0UE01VHA1TUtMSHhIaDRLRXBqZGU2c01WTnZhRUs2QmVqWVRnbEZJVnFlV2s2TTZiZHRKbm9PWkFNNlVzYi1UQ0RaaE1SZVBQY2V4dFVxZGVrSzR1MU9Dd1VwWTZLQW1ONV82WnNyUjhVc3FWMHIzTkhCSTV1dFkza1E2YnJtWjZaRW94ZnRwU0lyR1RQWXdTZUJqZVZqY2xpWTJuQWFOM1BVMTU4eC1HVGtNWnl0TGtzQndFWmpLWjJqdlAxUHJzcno2LTg0VjBZMFBVLU9Ka1kxSmd4T1BqV1VJU01aSVNZSEg3RVJmakIwQ1p6aHJHa2N1VUdENVFi0gGzAkFVX3lxTE45T0J4UEdtc0F5Q3VVc1FibzdOd0Y5R0txYnNkV0pUc25NNDFDVllmWEZtNGt2VThYa1Jpd0t2YXdlNUpFZ1V5ZWZFZUpDZEVKNFlRVm1BZnhuWXkzODkxdUE4bE9uYlVSd3NwRDAxbkR2b2oxYUxoQllheDNfMHkzQWlmRDZhZlphNUlRdDlQaGd4R0FiQkJlX1Q0V2pqOTRidVR2NXdXM0FvaVNNcWh0LWtsYk13cHdJbXhlRDRYZHhRZDM0RDZUZTJ3eFNZMHlaMHBJeEo5SjUtTXlJTFdBRkRiREE1T0RrQ0NrcDQ1OW9mbUxCUWtrVVNJWG9NRGw1RjBab3hWc09UVlMyMG9NOEdkamZ2ZlN3SldraTNIS3VycERGS3lsLTFxZ1dhZmtEM3M?oc=5",
+        "date": "2026-10-28T13:37:28+00:00",
+        "source": "El Cronista"
       },
       {
-        "title": "El IES del Atuel nuevamente fue reconocido a nivel mundial por Microsoft",
-        "description": "El IES del Atuel nuevamente fue reconocido a nivel mundial por Microsoft Diario San Rafael",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjdseUJ3MUdsQzZPeUdEWW1MS0VZQVZMcnkydHhON1IyN3I1N19qaGFaU3AtQ0hOZW9LdVJQZERBYldmTk81XzhMTFFoMVlMWXI0NUpKby13UkE1SG14TTFqeFozbmh2enZvX1VPdVhGQnkzTE04VFNvcFhtRFE2X0NRNEMwaU1VUWZ0WVNpUi1Va1BLWEZILUgzLTFNaHNkZmQtLWY3VQ?oc=5",
-        "date": "2026-10-28T00:36:00+00:00",
-        "source": "Diario San Rafael"
-      },
-      {
-        "title": "Anthropic depende de Google, Amazon y Microsoft para casi la mitad de sus ingresos",
-        "description": "Anthropic depende de Google, Amazon y Microsoft para casi la mitad de sus ingresos Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVN2NEtiMTNua2dXRHpxVXZJdjhxVHptR1pyZlJiYlUwYnJNb2pnVHZONG5MdzdjVWJUZFJZbVFpZnNkcEM4b04zMzRVVUQ3dzk3UEx0R3BaTXRXY01meGxKd1g0REdDUXVsNU1GR0Y2M2RDNEE3R2lnX2Y5a3JsOUFkcUc0QURyaFdzZVNSUTVIWUZhOTRpbmtjN1NKN2hNR3BWSk1qdUR1bEpkXzRGcGJTLU56Ym1kMzJ4WGhBdE1RN0FhLXdVTzExMlpIMzVBRDlr?oc=5",
-        "date": "2026-10-26T17:21:00+00:00",
+        "title": "Alphabet y Microsoft presentan resultados; decisión de la Fed, en el horizonte",
+        "description": "Alphabet y Microsoft presentan resultados; decisión de la Fed, en el horizonte Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNi1PTlJvRzNpNDl1M0dyYjExY1V6akpINjQzS0YwOURFTDRsS0VuV1hTUjZINGlsYmN1RjV0OWVNZmFRTUNmY09iMVdVUlNyOWRJTy1BSHQ0QjVlZ3M2OW4wTC14czhmazB0U1B5dk4wVlo2MnRKUVJJcmozcEFnc0lBemN4cjZMdERTWVRKWjdvZ01zWlN6Yk9hb0lNVmNFS1U3YUZCUldLVU1ObVRVeFRobVh5bjI4QnZDNHh6NGRDNDdrcHc?oc=5",
+        "date": "2026-10-28T08:47:00+00:00",
         "source": "Investing.com España"
       }
     ],
     "Marketing": [
       {
-        "title": "Con la IA en el centro de la escena, más de 12 mil personas se capacitaron en marketing digital",
-        "description": "Con la IA en el centro de la escena, más de 12 mil personas se capacitaron en marketing digital Diario La Capital de Mar del Plata",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemVpZ1pzSHJkd1p4SWNBSk85WTg3YW83aEhLR1pYMVl1Yjg1a1diZmtCY1RiNEdGYkZiLUlsaE1TVzdtYWR6S3lkdVUwQ1M4b0RxZTVadkR2dDEtVUFDOUlSaGp6cG9xN1g0M3hTbXJYelRKUE1PZUNGWWxTYWJBeWJTajROZ29ySTJJS25tdFhwWTBkZkozOC1VTmpvQ0RqTzZzNlFERFd3cWQ2dnAweW9mbVVGSWdGNFo0WnNNYjZCQQ?oc=5",
-        "date": "2026-10-27T20:54:17+00:00",
-        "source": "Diario La Capital de Mar del Plata"
+        "title": "FINALIZARON LOS CURSOS DE MARKETING DIGITAL Y CALIDAD DE ATENCIÓN AL CLIENTE DEL CEDER EN ARROYITO",
+        "description": "FINALIZARON LOS CURSOS DE MARKETING DIGITAL Y CALIDAD DE ATENCIÓN AL CLIENTE DEL CEDER EN ARROYITO Municipalidad de Arroyito",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEV2OFhLSkpFcHlMeWQwODM5ZzZ2bWlpa2VuaUxtRTFFbVRRcTlObWVzMXhwaWYwUjdzRVhZbWU2Tm5RM1ZlSWJVWGRBOUtTYlBscWZWaHlWMTA1d20yUGtfUXk2ckZtXzFING1ZbTJOQWtZVFFaaC1WTmNmRzF4Y251RzhBazF0M1BveDhaMEpIU2FkcnFWU1V0WGZEMFFIRURVUGNETmFfTERlUEFpRy1udW9BWWV0VXRkWG9ySmRPMHVORFZuYUc1bHVLaDNwTlR3bDJ5NnNMZ3ZaN1Qybw?oc=5",
+        "date": "2026-10-28T14:29:40+00:00",
+        "source": "Municipalidad de Arroyito"
+      },
+      {
+        "title": "Capacitación en marketing y venta digital",
+        "description": "Capacitación en marketing y venta digital Prensa Libre SN",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzlXdVRBQU9SeVRRUzB0cldGNjh0ZzlmUFYtdlVoR0JrZ1FxRWxLSHpQVjhzUW5xekxINlFZaVFlS1FNV2c4RndaUG01eko4b0xQZE9yaTE2V2t3RGFLZ2M3ZjBOTFJIVXhENV9HZGRNYzhwM0hoU2pmVjVheTJPQUM5YTZmOHAx?oc=5",
+        "date": "2026-10-28T14:21:06+00:00",
+        "source": "Prensa Libre SN"
       },
       {
         "title": "Peluqueros y barberos podrán capacitarse en técnicas y marketing digital en Salta - El Vocero",
@@ -68,25 +75,18 @@
         "source": "El Vocero - El Vocero"
       },
       {
-        "title": "10 cursos cortos y gratuitos con salida laboral para empezar antes de fin de año",
-        "description": "10 cursos cortos y gratuitos con salida laboral para empezar antes de fin de año Aptus | Propuestas Educativas",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUEpQSFJDNVdyemZkb21pa2VnT1p4a2t3Z3pQME5OVDVJRHFMUVJEYWN0YXVUZE5OOHIzbTJVVHdlRUhtNVF4Z09GbXlLZlhVUlJQd0UwUlplYXNiV2xWUU8zYkhpSVBPcGZPVDNzdmpYbkE1WVhPOFlTUGJXRkJYSFlZekJ1SHB6TDlrc3FCeTBRdnp1eUU5VXo4NWY?oc=5",
-        "date": "2026-10-28T13:31:10+00:00",
-        "source": "Aptus | Propuestas Educativas"
+        "title": "Con la IA en el centro de la escena, más de 12 mil personas se capacitaron en marketing digital",
+        "description": "Con la IA en el centro de la escena, más de 12 mil personas se capacitaron en marketing digital Diario La Capital de Mar del Plata",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemVpZ1pzSHJkd1p4SWNBSk85WTg3YW83aEhLR1pYMVl1Yjg1a1diZmtCY1RiNEdGYkZiLUlsaE1TVzdtYWR6S3lkdVUwQ1M4b0RxZTVadkR2dDEtVUFDOUlSaGp6cG9xN1g0M3hTbXJYelRKUE1PZUNGWWxTYWJBeWJTajROZ29ySTJJS25tdFhwWTBkZkozOC1VTmpvQ0RqTzZzNlFERFd3cWQ2dnAweW9mbVVGSWdGNFo0WnNNYjZCQQ?oc=5",
+        "date": "2026-10-27T20:54:17+00:00",
+        "source": "Diario La Capital de Mar del Plata"
       },
       {
-        "title": "Un cambio de look para tu negocio: llega “Salta Emprende con estilo”",
-        "description": "Un cambio de look para tu negocio: llega “Salta Emprende con estilo” Municipalidad de Salta",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUZ4RlN1VFNQRmtpT3B5OWdNREhSRFUzUVMtb25QSjRLMGtQbmdYU2hRUGdYeF9xX1FZMXZ4SndkNkpBSU9xRm5XRkRaTno1V1ZGWl9CV2drQnlJTHhqdlg4OFg1VzZiRWl2QVBFQWpxbktjTEtZaFNnN3VhSC1XUVVyb1k3SWZ4QXltWE81ZGZLcExuMWxIOTRXSkZaalFJMmtpaXcza0NWLUU?oc=5",
-        "date": "2026-10-27T17:40:09+00:00",
-        "source": "Municipalidad de Salta"
-      },
-      {
-        "title": "Santiago González Espinel es el nuevo marketing manager de digital en GSK",
-        "description": "Santiago González Espinel es el nuevo marketing manager de digital en GSK Marketers by Adlatina",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlc0X3Ywa1hGVE5FYWtfSTFTellyNjZkd1c5Z25SdWZDM19LWlhZSjZ3M3pmUWlveHZZeERyS29OLWR5czJuYkVLQklDQ3lXRlJhU0gxWjJBMVhlZDdfTldjQ2toOWwzbkpRX2FkWWszSkROa3VEOGpJb21sZEJsaTRmQWZUYmh0b0d0aTVCYTFNLTZjdG9nT0xSaC0wWDA3MXNhTTJXZkFUZjNsbmtQQWswTHNRWlp4RXRUaGJ5RFhZZw?oc=5",
-        "date": "2026-10-28T03:19:33+00:00",
-        "source": "Marketers by Adlatina"
+        "title": "10 cursos cortos con salida laboral para empezar antes de que termine 2026",
+        "description": "10 cursos cortos con salida laboral para empezar antes de que termine 2026 Rosario3",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeEtMc0NCMkdZejltTFN6LUFKdGJFYk1NcVltVGhmMHFMbVYxUXB4WWlVdFFFSy03a3Bsc2p0d0NhMWJLRkRDejlOeGlma056djkzamNxODVTR0plM1pwbk4yOHUxZ2NJVWxkN0RGNlBTZ2RLT2duMGNpNXFEeDZTeUVWeGk1OGppd3AydDlpbGRNVTNnYVh5cGRKQUU4T0RoQmFTX3ZrX3l6b05td2l5cmI3d2drUkI5RWlnQ3RVWGpGeUZnMEc40gHHAUFVX3lxTE14S0xzQ0IyR1l6OW1MU3otQUp0YkViTU1xWW1UaGYwcUxtVjFRcHhZaVV0UUVLLTdrcGxzanR3Q2ExYktGREN6OU54aWZrTnp2OTNqY3E4NVNHSmUzWnBuTjI4dTFnY0lVbGQ3REY2UFNnZEtPZ24wY2k1cUR4NlN5RVZ4aTU4aml3cDJ0OWlsZE1VM2dhWHlwZEpBRThPRGhCYVNfdmtfeXpvTm13aXlyYjd3Z2tSQjlFaWdDdFVYakZ5RmcwRzg?oc=5",
+        "date": "2026-10-28T14:16:00+00:00",
+        "source": "Rosario3"
       },
       {
         "title": "Magalí Pessah en el gimnasio del marketing digital",
@@ -96,27 +96,27 @@
         "source": "Urgente24"
       },
       {
-        "title": "Llega NENE Labs a Morón: una jornada de workshops sobre marketing digital e inteligencia artificial",
-        "description": "Llega NENE Labs a Morón: una jornada de workshops sobre marketing digital e inteligencia artificial Castelar Digital",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQckw0cW1Cc3VzZ0hPZ2puX2NGb1RHSnRkN0ZBOGdHeUYwY3VpQWI5Q2ItOGlWcE0zLUdfd3dlWU9GX0NMMUxqa2lMdkxQZnZtWllPZmpsbENnV01qb0dQX1RYV1dxS09NNW1ld3ItNjFnb3prSEUxdHQzLTdJckh0R1BkRGluT002RzZWSjBaMVBmb1ppTzlQYXlmWVYwdDAybDBTOGdRUmlpOEdnRVM3YVJXMkZMa084R0pUMXlKbGVSMXZHQ0k5bFJhTWtlM1U3SVBJY0ZSOUhwbzVvelE?oc=5",
-        "date": "2026-10-23T20:54:39+00:00",
-        "source": "Castelar Digital"
+        "title": "Santiago González Espinel es el nuevo marketing manager de digital en GSK",
+        "description": "Santiago González Espinel es el nuevo marketing manager de digital en GSK Marketers by Adlatina",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlc0X3Ywa1hGVE5FYWtfSTFTellyNjZkd1c5Z25SdWZDM19LWlhZSjZ3M3pmUWlveHZZeERyS29OLWR5czJuYkVLQklDQ3lXRlJhU0gxWjJBMVhlZDdfTldjQ2toOWwzbkpRX2FkWWszSkROa3VEOGpJb21sZEJsaTRmQWZUYmh0b0d0aTVCYTFNLTZjdG9nT0xSaC0wWDA3MXNhTTJXZkFUZjNsbmtQQWswTHNRWlp4RXRUaGJ5RFhZZw?oc=5",
+        "date": "2026-10-28T03:19:33+00:00",
+        "source": "Marketers by Adlatina"
       }
     ],
     "IA": [
       {
-        "title": "El gigante surcoreano SK hynix registra ganancias récord por la demanda de chips para IA",
-        "description": "El gigante surcoreano SK hynix registra ganancias récord por la demanda de chips para IA Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQandpeWU0X2d2M2hPczVMY09pNEp2dTJTZVQ4V09hbG1DQjVfSm1LWmpQMjdIc2t1WWhHMVZJaVJ6Y3g0QnVodFNheVdJYTgxTVlkVFRWVlRZaE1TQ2NWNlVPbGZVMnh6QmpCemE3U3N1WjdWdGhFUVh0YUlZNjdVVVIySGZHalRwRDRTNUczNko0QjFDM1lobg?oc=5",
-        "date": "2026-10-28T13:00:12+00:00",
-        "source": "Yahoo Finanzas"
+        "title": "N5 invirtió US$34 millones para adquirir tres empresas de inteligencia artificial",
+        "description": "N5 invirtió US$34 millones para adquirir tres empresas de inteligencia artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNazM1dy1nV01JNHBMOTRyM1VtdGI0emdEUzBuZE9WdGdhYnJDVEQwOFhMeUhBX2pfTWJ0em1aRy1oZXF1SmVCNWRPemlzQnl6QkgtSlkwMnVwaFQ5QWNsQnJqYTZZSW92Ml9xQ21pYzRFUGVRdWd1eEhicDIxbEg5NlBfdGdVOF8yaF9OM0x0MURaNVRtMFF1OHR5QWVqandMc3FsVlVFM183WGJPVnZUMEQyWWtvLUNQaXV6Y2tMTEcyZXREUHN5ZUtOMEJsLVJLU2dXN3hn?oc=5",
+        "date": "2026-10-28T18:24:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Del sistema legacy al agente de IA, el desafío de llevar la inteligencia artificial a la operación real",
-        "description": "Del sistema legacy al agente de IA, el desafío de llevar la inteligencia artificial a la operación real La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3Z1ZTZxdlZwQzdGcGt3ZUViUlBob0R2YldtdEVaUHRHc2x0a0tBQWllazJqbUE5RUMwZkRWYW5HVktQQ1BLRXI3elQ1WXZqT3c0WTVwbERTYmdWaTd2VjdTNFVJOVZ6VERITWdZNko4YTlzSjRPeXBZc09WSllNLU1CeHNCbkZXbHZDYWRTOHRKdDlfYlhDaVNzWnhjNlZfUmVnMndzUzlvTWV3Ykl0TUoxb20yWVRSZW14UklJcVlyWURsNWRJRHNDM3lZTk9vNnJDNXNoNA?oc=5",
-        "date": "2026-10-28T12:50:48+00:00",
-        "source": "La Voz del Interior"
+        "title": "Una jueza creó una aplicación con inteligencia artificial para evitar peleas entre padres separados: cómo funciona",
+        "description": "Una jueza creó una aplicación con inteligencia artificial para evitar peleas entre padres separados: cómo funciona Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMHVuOXZwTUVCWEtpRXZXek9qdk5fXzFwSlpWSzc2ZVhvVXZaNHdVTzZRMWJvVEhOWlJTdFlkOWw0eHdOLW15R0tyVkJ0YUNYVFc0WENXT2tEOVhVUjgtdm5XLXBBU1RTRjZxdTJyTnRndFo3MHFoYWhNVEJCOW53S2I3ZlQzNTVCLTlWOVFPdHVLTUU3Y2h0cndQVDBwQmg5Y0RkMmU1SEVHeTRpYk14Z2tVRkJvSWVkUE1LdEp1ZVcwaHFJdTAzNWN1aWxwaFF1UTBqMk5yekkzMVQ2WFY0TGtPeG9na2xyUk9hdVBwONIBigJBVV95cUxOX2ZnV3YydERiUDdGdDRGS01oWW9McXhsbkIxWXJZdlNNNFVwb3AwMWZybHZzTWluNFNXZHh0SGYwcmZTbEJYeGdzZmFYcUQ0ejFoMV84aDczd1BxMDZZRnM4YlBvN1dSZ0lwSFdZUGdDZ3hLaFhwd0RwZXdieTVqTHMzdEx3cG95dUo1UnBFXzBOM0NZSlNVWDdYS014alJkRWVMbmhzTV9CM21rSldjNDNPZ3dlT1hfNFd0OWN6UUdPMERJVkdSTHRwSTlMMmNpdllMcEtMQlhLbUF5b193UkgzeFlLZjZPNFBIRzB4dHI2ZUszTDY0T3pLTWpDXzREZjZSV1pUTENQZw?oc=5",
+        "date": "2026-10-28T13:22:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Esta inteligencia artificial predice el clima más rápido y barato. Los científicos todavía no saben cómo funciona del todo",
@@ -126,6 +126,13 @@
         "source": "Página|12"
       },
       {
+        "title": "¿Se puede hacer literatura con inteligencia artificial?",
+        "description": "¿Se puede hacer literatura con inteligencia artificial? Letras Libres",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFh6RHlfdDg2N1NwdVZHOGVLb1FhbkFCUU96RUdfUC11YlNwdXh5XzZRYVNGeGtfWGNObk1ZMFVJa2dGdGZxZHphRmU4QmV1TU80Wm42ejgtcE9LR21HdUtfVE94blQzVEtuWDMxWTVVQlZFMzF3XzN2UTNKLWZEWUc5R0c5QnpsM3F1SWd1NVl0YkRVZi14alNJYjhaaFlZVkZj?oc=5",
+        "date": "2026-10-27T19:44:16+00:00",
+        "source": "Letras Libres"
+      },
+      {
         "title": "La inteligencia artificial llega a las audiencias judiciales",
         "description": "La inteligencia artificial llega a las audiencias judiciales Diario Judicial",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZzlBY0tyc0dVcWN3T3VpQmhFaXZfRGtzMmlua1hVeTA4TWpDUHZaNUJUN2RwZW85RFZhdTFPSzhTczBGTG4tZ0NuNUtoUEFhazRsODBHV0tselFPa281S0trZTF5VEhHN2FUVWc0LUtQemFFbzNBVDhXSWlNWnc4dG92MWZUQzhLVkpmVlgtdTZaMWx0c2sxZE0tOF9GcHF4b2NpWWNB?oc=5",
@@ -133,25 +140,18 @@
         "source": "Diario Judicial"
       },
       {
-        "title": "Todo bien con la inteligencia artificial, pero ¿y la inteligencia emocional?",
-        "description": "Todo bien con la inteligencia artificial, pero ¿y la inteligencia emocional? Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0FOWkh4N2MwbVljcERpMGNwNWtRMU13RjhzTE90SmNpWFlrem85X3BwWnJnMWx0VDYwQXI2TlFRMmpBV01XZEJPSlNpbWZUcGF4Rmh1aTNtMG5sNG52MV9kRzcxN29LWW5Rck92WGNXTlBMUlh1cnUyOFFqY3JpZm1jdFlEcWdoNzZzX2s0c1pJUnJJMkR2VTREUkx1X3UydGtpUHl1YXY0dkJ0WGhVWVVXRE4xVnpEVTAw0gHWAUFVX3lxTE11c012RkFiRW5QdDZIQ2M4cjdybkx5LUVSZEwzTi0yeUR6QUdLQjQzN0k3dzIxbDc4SkpwWjhtY1NhQlhaZ2h4dURjbkdZT1p3bUpLUXhOdUVuQVZhTXZOc3llVExheVZsd2NpRzVRYnpmZkVTbXk1MjkwV1duYnBGU2gzQWZPUGNnSUZkWVgtOGdpT1lESk45b0JDQUJqb0FSN0FKQ2dBV281Z0ZUa3AybTU2bDg2aHBMNnRLNHZIc2ZMR2s4eUp1NWtiZ2tSSkpwM1FZRFE?oc=5",
-        "date": "2026-10-28T08:03:00+00:00",
-        "source": "Infobae"
+        "title": "José Elías, experto en servicios empresariales, explica por qué las empresas deberían plantearse qué tareas puede hacer ya la inteligencia artificial",
+        "description": "José Elías, experto en servicios empresariales, explica por qué las empresas deberían plantearse qué tareas puede hacer ya la inteligencia artificial Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdjVvTWwxX2ZDbTZWQVV5cUVnRm5qWmFCWHNkZkdKcFA3S0IyQzJ2X3dOdFBDS2d5MmhDVkV1eWJQVUpQWGxKTk1aWXV1VUV0dDM3bzA5dWJZVDJZWmJpZDZ4WUsxczI0cTVDeS1rYmNHM3BNMzZySDZGLWVWYmh5Uy03aUJweldLRXFSRTFxaXdpYnE4Zmc2dnBjWnhsVXpCdllHWFFDVFlqY1dnYkVUeGR1dUREbFhIZkZtVUlWcTlPallRY29TMndReUc3bW14N09mb0xMTDhXOWtPRXQ5ZU01UVVlUmtOUktJVmQyVnBGUWpXa0pnVmlQblAyTzBZTWVNRjNVVkrSAY4CQVVfeXFMT0UtMTZhX3NhYkEzdlVvQmpmTU9GdE02M1VjUk5lcS16dnpIbFhnQkRsM3I1VTJLMXJWbXNpcWtNSXd0MmlCQWY0dXptV2lrVE1HX3UtdUwxX2FQRHRBanJJMDlJT18wVTdQUzFCVlZWV3ZLTGhIcHBHSnNkVjl2d3oyaWJvXzluaGlaSDlWclJxdFBtbTZtYmdlckRZNU96X2d5cnZvVmhka1JpT2t6aWZWMF9Md1dfWmVjSWVxeXRhX0V2V05HdUNtcE0xWU1hZWk1VDkySXlRRllBdDV3Vy1Fb1VVM2d3STdPWFVyNjNpdV9aOC1XUkhYMU1BVmF4N1lxWHIxNks3QjA2bDVn?oc=5",
+        "date": "2026-10-28T15:39:00+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Caspar Llewellyn Smith: “La inteligencia artificial será el mayor cambio que experimentarán los medios durante nuestra vida”",
-        "description": "Caspar Llewellyn Smith: “La inteligencia artificial será el mayor cambio que experimentarán los medios durante nuestra vida” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRHZfNm1pa1h3X2VEbjRNM25iOERPZHkxTjFNeElKUkdMeHJkNW4wVXluNW9NWVdzRk94OGtTTlJoV19Ndjh5cXdyRWktemtxN29wUTJ6eVVfbmpzU09ESGpaOU85NkZoSjF5UlJwdmdodDhKWUZDR1pHTVU2SXVRNlZ4N1dNcjZuUVZNN3ZQRF9KajBNQ3ZBSzdsU0VWdENGeUkyMXFCUzVTMEdNb0VNLTB5TXNtYThRa2ZCMTlBX2ZXLVhfSWNhcFpkWWFqZVJHUFBtNVpxdjVxM0tLa1JqNWg0VlI?oc=5",
-        "date": "2026-10-28T12:01:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy",
-        "description": "Un proyecto de San Luis que utiliza Inteligencia Artificial fue distinguido en Jujuy Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRk9tb3BhMWl2cjAwQnMyRWZzMjFiY2ZJVVZwVUVkeFZHTmtCVmJ5LXNsc25uSHpGZlloZWh0ZDZ2emR3Y1A5VU5kb0lkaEtwTk1rV3JUSFN6MjQzSWdialdIQ2ZVN01RMmRNb2h6Zy1iVDhWY2RDdFBlWTFOOVpKT0ZaXzZLX2xRVVh6REphZ3B3NGxwR0R1eDl6N2xwRGhKMWtOS1Y4Y1VQWmQtVHlOdFJMTzhSNkc5eVNNaVgtdjkycDNGaVlvVUIwZw?oc=5",
-        "date": "2026-10-27T16:18:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Uno de cada cuatro argentinos usa inteligencia artificial para comprar y el 85% sigue sus recomendaciones - TN",
+        "description": "Uno de cada cuatro argentinos usa inteligencia artificial para comprar y el 85% sigue sus recomendaciones TN",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWg2OHNPcjRoUmhySFhfVWFhZFhQVGhnQXJneXg2VUZaalhRdFJxMExUenVSNHkwNEtKRC0wRDBxTjctWVlZVDBYVGlhWkw3THpHZ3U0dDBsMUVObkh2ZnhMb2k5SHFnRnJiSVhpZ1ctcXN2TjZCT3VwSG9Bbm4teWd3Y3BzYlQwWG43cngwTkdqWUhDdlJpSGNsektlUlhuazZudFhTY2dFTjBwcjc4OTBIRDRIcUo2UjRBZG9BbkU3STdTbkwtVWthUmdJN3U3NTYza0FfbDVYQTjSAe8BQVVfeXFMUGtqbmxvdHNxaEV0cnp4VFlnQ3hyMTdlb21HUnpybHNSYXpETGljSG9sbEJvMlRheUZVYW1xNkp5dG9QUnJiU2s3NDl2dG9UdlcwNXhXLUlzZy1VQVQtQ3IzTnpQSFVYZE9RWVJRMl96eFdaeENLOHNBQlpnczc3X1NEY21Ib1BBQjBxa0FxYTJFckFNazhQSTA3Y2ZkQlBHRVI3cGEzN0VaQUJ2cXhUNFJmRUxzMnlMNkFzUzRrWl83SkhuZDJjLUxvUUl6UnBjbWNwejh4Y0xoUS1OdEo5bTFJRWFzUFk5dU1OV0gxWWs?oc=5",
+        "date": "2026-10-28T16:35:39+00:00",
+        "source": "TN"
       }
     ],
     "Vaca Muerta": [
@@ -170,25 +170,18 @@
         "source": "El Economista - Últimas noticias económicas y financieras"
       },
       {
+        "title": "Vaca Muerta: hay 43 equipos de perforación activos y proyectan llegar a 50 en 2027",
+        "description": "Vaca Muerta: hay 43 equipos de perforación activos y proyectan llegar a 50 en 2027 Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXlRN1p6aG8xVVl4bld3NWdNa1VfY2t0WGFmb1RvLXA4cWFtQll6S1RkMlRHQmJNZkNrR1pMZGt1dXpmeDFRb3dDUl93T0xzZ2wxUlhGUVJORWRSMVNGRHhNT3pwQUlTZVhlbXE0N253MmVBTkNnb1RqM2plMEpSZFNVNEkxYkpmaVhiSkozcGNDRFc3VVpialFGRnAyMlJ3UExRLXlEemVvSWlzOWtBZXF1b1JGdU45c2Nrb05n0gHDAUFVX3lxTE5CbVJWRG4xVWNvSDFuMjUzbHBvbEhRY2FTODVKUllVNHd5RnduU0hsUlQ2MmtFeWNJdWJlMEtwdlczRGczcXdqV3VmU2JibFd2QmhQbTVFbVpVdnZyQnNqS3NzN3c5OVUybXlXRU5qS1ZnYmhTbkdZbjEzR2R4Q0xRVENvNGpUWGVtQXBWdHdIV3ZYQ3hIUzRRMHJfZjZjNjh4S3BMV3VzM3pQYlRRMGVMN3M4X3EtSFdqUWFDUjFOVVVYdw?oc=5",
+        "date": "2026-10-28T16:07:42+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
         "title": "Vaca Muerta: La Pampa busca atraer inversiones y convertirse en un polo de proveedores",
         "description": "Vaca Muerta: La Pampa busca atraer inversiones y convertirse en un polo de proveedores Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkpUc0k3bDY0LWhaYlFRNVNRMXdyYmlRRkUyVGE2WWNDQnhZTi1JZVlUS2hIYlQtUWg3TDM5ZXhiZHIxcU9kMlh3M25HeUllci1CQlp0d0pING1WMmNnckQwRDJEbW95M2pyM2EyWE85VVAyUHdPbXhXWHRCekpMTTBkTXhBXy1LQ1I2SjBJVWZLM2RuUnlhajhRUmlzUHI2dWxwbXFLRWZjTXVYSWU0Zk54bkpjVVJxd1pVMmZ3?oc=5",
         "date": "2026-10-27T20:23:53+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Vaca Muerta, el abandono de una ruta clave, Telenoche acompañó a un camionero suarense Mauricio Alonso en los 1.400 kilómetros que separan Entre Ríos de Neuquén",
-        "description": "Vaca Muerta, el abandono de una ruta clave, Telenoche acompañó a un camionero suarense Mauricio Alonso en los 1.400 kilómetros que separan Entre Ríos de Neuquén La Nueva Radio Suárez",
-        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2x2RVZkY2JINFgtLTVlRDZlWEtFVWlRdlFGdlF6bkE4RnN2dkkydjRDTjAweXVBSGlwSGV2WEE4Z0Zrc0o1RkNIelJEaGdZb1RPNmJCSGdjOGVtU1VlNTRCdXBMR2dtV0g4anlhQi1QQXhzWjdjZURUNEtOekx3NDYyNkE3RVY3NTJGRF92OFptSUhic0pjd0hhV2Q3bGQ1RmxTcHVydHBrUWkyOUV4dFVXd3c5SWVjajRuLWhsVHBLUm1pSDlfb2ItMzd2X0ZIOWNpdnZCM1Z2OE1kaHkwS3lXTXZMVkQwdGt3Y2N1VEVvaHltYVpKbGNVLWtXUkVEaktoWU1lRVZyaEJ6eEYtQTByYUt6TFdTTzYzMjBFUGc1X3dWTkZBa21MUFJDZ0V0ZVFfdVU2QjU?oc=5",
-        "date": "2026-10-27T21:04:30+00:00",
-        "source": "La Nueva Radio Suárez"
-      },
-      {
-        "title": "Un “boom que no arrastra”: Prat Gay contra todos en el debate por el “derrame” en Vaca Muerta",
-        "description": "Un “boom que no arrastra”: Prat Gay contra todos en el debate por el “derrame” en Vaca Muerta La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYUtEYlpCdlNWV2NPZmhGd1lla1NZOUc1WGFoV1FxYjFIeTd6TTdjT1hmdHFPSVpwVEVXTUY3cTRXaHA4YXc5LXREX2NUb0hzMXkyWU9RQ1Z3MFQ1R015cEhpeWw1a0FYdXB2U2JCYTNyYjBFNFZrX0dMU3N3Q05leF9xdkRsRl9qOU1XS0dpWE9wVjdXVGNOSHA1NjE3ZkM3b1NwS1dCRWhPNHB3bXQ1eUh5Rm5PZ1BJb3Jka0Ffanp2aVRrX1JTbmpERnBEdDhERTZhcw?oc=5",
-        "date": "2026-10-27T22:32:00+00:00",
-        "source": "La Nación"
       },
       {
         "title": "Vaca Muerta: todo tiene que ver con todo",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHdfZ3FqZ2VJbDZLWXpFWmp6Vk5aSUptb052ajljZlZtS3FDcTlfQldHYno0b0ZkQjcwaHJZOXo0V04tVjd2Vk9idHJMR2k0YV9oS1NtNjdxaUE4SlJCbEVETG9rdWtiVUZlWG9QZUNiUVVHdWliR2FlNUtKMTB2V2I0MDhLRlhXV0o1TjZ2SlN5T25mMTUtbi1kT3F0YkNkNTF4bXNicThpUkpELXRqLURLT1FaQUF1WVg3d3ExZ0c2cFBnOFpDMlBaeUzSAdQBQVVfeXFMTkozRkd3Ny1idFJ5Q3diOU4zSTlsSEJIb3Bwem5McENhT3pXMVlOdUdDU3UwQ0FZNVRmZnNYSnIwM3FDZXA3M0ltb29Salk1R3hUVGhNMWZmdm5mYV9Dd2JsS2ZGdi0yR0pFTlVmRWtwVVRreVVBVDliVWVaMUR4cnlvaG12M3l5WG5EZWZBbzJKanBrRGNTdDBkTTNjaFRoOGwtMUFoN0pNQ0t6cTAwTzF0SjEtR1Q0bFB0d1lOVC0tbFlrX1AzTTVabkhJbFdvSXQ2RWs?oc=5",
         "date": "2026-10-28T03:36:00+00:00",
         "source": "Diario Río Negro"
+      },
+      {
+        "title": "Vaca Muerta, el abandono de una ruta clave, Telenoche acompañó a un camionero suarense Mauricio Alonso en los 1.400 kilómetros que separan Entre Ríos de Neuquén",
+        "description": "Vaca Muerta, el abandono de una ruta clave, Telenoche acompañó a un camionero suarense Mauricio Alonso en los 1.400 kilómetros que separan Entre Ríos de Neuquén La Nueva Radio Suárez",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxON2x2RVZkY2JINFgtLTVlRDZlWEtFVWlRdlFGdlF6bkE4RnN2dkkydjRDTjAweXVBSGlwSGV2WEE4Z0Zrc0o1RkNIelJEaGdZb1RPNmJCSGdjOGVtU1VlNTRCdXBMR2dtV0g4anlhQi1QQXhzWjdjZURUNEtOekx3NDYyNkE3RVY3NTJGRF92OFptSUhic0pjd0hhV2Q3bGQ1RmxTcHVydHBrUWkyOUV4dFVXd3c5SWVjajRuLWhsVHBLUm1pSDlfb2ItMzd2X0ZIOWNpdnZCM1Z2OE1kaHkwS3lXTXZMVkQwdGt3Y2N1VEVvaHltYVpKbGNVLWtXUkVEaktoWU1lRVZyaEJ6eEYtQTByYUt6TFdTTzYzMjBFUGc1X3dWTkZBa21MUFJDZ0V0ZVFfdVU2QjU?oc=5",
+        "date": "2026-10-27T21:04:30+00:00",
+        "source": "La Nueva Radio Suárez"
       }
     ]
   }
