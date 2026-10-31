@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:18:48Z",
+  "updated_at": "2026-10-31T01:21:19Z",
   "categories": {
     "Microsoft": [
       {
@@ -31,18 +31,18 @@
         "source": "Perfil"
       },
       {
+        "title": "Alphabet se desploma y Microsoft avanza: 5 claves del impacto desigual de la IA en Wall Street",
+        "description": "Alphabet se desploma y Microsoft avanza: 5 claves del impacto desigual de la IA en Wall Street Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb2VTdUJjbnYwRkNSOFZLVTJZTmtfTi1fLUVxbG5GTlJTS29UaGU0TUVaX0drcERMdTFzZTNUaWd3cVNQSWVIVEJaWHBtcEhwQ1pScG9kT1VZMDROOXM5SnowNS1UaFJadElERnJEbFd0OC1PaTBBc0phVXN4V1ZFQUoxcDUyWkxndGRZekdFbXc0WE5BY0RnWWJEZTU2OHp1b1hSdDZQNVNYZDQyakgzeDVDY0RGQ3hpM0FuN3hjUDNVTzI2RVVTcDFkTGNUX2fSAeMBQVVfeXFMTm1Ha00tSkVpMnRPZmEyYVJQcmQ1VFdxMThCZEd2UlNMNDE1cHdUeFNhMWwtY0NVeWYxQzg5OGE2QjNfODJjVDN1LXhQalVYcTNZcGNMYmltNi0zLXFYdVU2MjBmVEFvcG4zV2s1N3QxNVNQaDNFdC0zc2MyTFEtVWkwUkJYOFY4R2dXdUZfLWlmREdSY0ZnandsWE5UMThYdGx4bjJ4UHlUT2trSTlrZzJYVnIzOGgyTUlJUU45V3RZY3lDUWRUZmk0b1RVbDRwd0ZBVUlKZjdEVHVWS3VEaVY2bFU?oc=5",
+        "date": "2026-10-29T13:58:49+00:00",
+        "source": "Bloomberg Línea"
+      },
+      {
         "title": "Cuando la pesadilla se hace realidad: el último paseo de una directiva de Microsoft con el hombre que después confesó haberla asesinado",
         "description": "Cuando la pesadilla se hace realidad: el último paseo de una directiva de Microsoft con el hombre que después confesó haberla asesinado HOLA",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcU5EMG5ZclBFeENMSGRUVFh3bTN4SEJHcklJRXJHUnpXVldBcWl5ZlI1OXZFLWZyNnpkY1hEenRpaXA0cFlBVnc0d0l0Y0hNbllXdktzSzk3bGs1NGxheHpibHVaVm11OURSSU00R2pGNVpPVDh2dUxwWnVqSHJsd2E0aE4yZ3M?oc=5",
         "date": "2026-10-30T15:14:00+00:00",
         "source": "HOLA"
-      },
-      {
-        "title": "Microsoft Corporation (MSFT) Gráfico de rendimientos estacionales",
-        "description": "Microsoft Corporation (MSFT) Gráfico de rendimientos estacionales Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DR2pMMlA1WUY5OWl3ZmlIMk5INkxzRmFoYVl3eHpFVmFRMHgtM0JnNW5lcWpFem5kY01oUEpsQnUyLUpKdkhqMUVGNVpWSko0YXhMMmtXVTA1Tm9XYlZuZnZXVlQ5bGc?oc=5",
-        "date": "2026-10-29T22:08:24+00:00",
-        "source": "Yahoo Finanzas"
       },
       {
         "title": "Dos juegos acaban de abandonar XBOX, uno luchó por el GOTY en 2018 contra Red Dead Redemption 2. No es un error, es un boicot a Microsoft",
@@ -64,7 +64,7 @@
         "title": "Semillero Digital celebró su cena de recaudación con 150 personas",
         "description": "Semillero Digital celebró su cena de recaudación con 150 personas CanalAR",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzNBRlVfSi1LeTk1a2otaGR6dWZiUWc2RDFhWWtmU3RNVG03QnpvaGp2RE1MSmVrMHhDbTkzdFN1Sk0zRElLZ2NKVmVEYkg2RG9oMWd4YTJXa0MzRDllaExPUEFjcDVScmtUVkZHV0JyYWJya2tPdWhwZTIxOHRvV0tGam11RGxsZGNhZHRCZFhGSm5nYTRLVWVJQ0JxTUxOQUNjSzVwOA?oc=5",
-        "date": "2026-10-30T15:19:16+00:00",
+        "date": "2026-10-30T15:20:37+00:00",
         "source": "CanalAR"
       },
       {
@@ -105,18 +105,32 @@
     ],
     "IA": [
       {
-        "title": "Desplome bursátil: Wall Street se hunde hasta 3,8% ante el renovado temor por las inversiones en IA",
-        "description": "Desplome bursátil: Wall Street se hunde hasta 3,8% ante el renovado temor por las inversiones en IA Ambito",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOWF3aGhXT19aODdZZ1ZmNW96aENFTGliZmlkc2NwUXZ4aFA4MlhQUU9JTW5sZWgzaVdYZjBjdW8tQ2c2bVpjZ3RMYTU4M3hLSm05ZTYtUDc0RE84ZHZDWU96R0VnV3NKZ2ZpNmZ4WmN6YVplUmJtcE91WFI5Q0tRcjhpQ2U4NlhkY0d0dGh6ZlNJdGJPdFFSMnVSSzJnNmZnMWQ0LTNzTkE4ME1VLXRiQkozU1kzcGJBb2pRVGxhV01wUl9xSUNFbFJCb0RYZ9IB0wFBVV95cUxPRnNIRGxmT0pNV2hrLWdXSG9jd085Tmc3aW9oX2FWcFFQZkc0SHljY1M0UHNyUjNYelpycFJhdVE5bU9TbGJORTVwb0xrVTBNOG9Va1pZT1JNRFRybDNoeE9PUWZ1bmhoQjZLQ3VoUFVDdnBfOTZjcndrbkJtcnJQVGFzWFh0bjlNdUFjNXpRNXRXRGlDY2FhTmRzbG1kUUozR2xVXzRYenNvUG9lRnIweUlzbXRsT2d0aEdhTFZMT0ZVQzlYZ1VzbGhEWFpBd3p2MDlR?oc=5",
-        "date": "2026-10-30T20:10:03+00:00",
-        "source": "Ambito"
+        "title": "Una inteligencia artificial para todos",
+        "description": "Una inteligencia artificial para todos Perfil",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDhHbmdFMUduVnJMenhZUWM2S0ZNS1BZc0x2a19BdE1LcTJMcGp6NDJCLVVNMGVWckdnc3R3eHNMU05hMW84bHpPRXE0b2wza2NZREFWYWRMckNjVjc5Q3BGaHFQMTlqZ3NIZHVkSjhITGNzN2M5Mkh2eC1mcjRDaVFjMXhCcWFEbDMxdnljeWE3N19RZGZLYm9qVQ?oc=5",
+        "date": "2026-10-31T00:55:00+00:00",
+        "source": "Perfil"
       },
       {
-        "title": "RDC: Wall Street puso en revisión el auge de la inteligencia artificial y buscó refugio en sectores tradicionales",
-        "description": "RDC: Wall Street puso en revisión el auge de la inteligencia artificial y buscó refugio en sectores tradicionales Perfil",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdExpXzJLeXJybWoxRFd1UzkzNGMtVnZNV2dfa1g4TFVzblZBTXpPdHNtamZtTW9IN3ctTGNzWFF3emUtV2lLVEdlOHRxWEFsS2ZEbVRzVDFBd2g4WFNIUFlvTFRGWkotajdJN2JPZU1YczdUNnlNN0NLU2ZEX0pTRFhJaFZJYmlUUWhmNEo4U3FpX2RVU3dPb295YVZfYnFIQV9SQUxWZUpERDZNN2Zpb2RrZWtqa0pCbkdVWHV5Y29wMUpKNGNtR0s3bDR1dXhRWjVhZEQ1elZuWGVwdnNFRkxQSmlzLWl6WTgtV2dDQkI?oc=5",
-        "date": "2026-10-30T20:56:42+00:00",
-        "source": "Perfil"
+        "title": "Renunció el subsecretario de Ciencia y Tecnología y denunció maltratos de su jefa",
+        "description": "Renunció el subsecretario de Ciencia y Tecnología y denunció maltratos de su jefa Página|12",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWtrWDFQem5RMlVEeGR0Ym5CMWhIeUVyVTZNWV9BUi1MZEZHalctWTl2bkxuMHBRd3pGSENIb2NSODFBTF9WLTlkbWpvVGd5RVoxYWZJdThxeVdPWG1oUVpyY1RBR3dpZjZCUVhnRGtpZkM5QlBYTE56T2NMbkxUT2xicUROQVFlcEFYUGNUYnFFbDRaRTZOX3JYM0hmVjZaajBKUDlvSWRhM0trX0l0NEpoODdGelM5R05DUXhB?oc=5",
+        "date": "2026-10-30T18:57:35+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Cómo son las nuevas computadoras de escritorio que usan inteligencia artificial sin conectarse a Internet",
+        "description": "Cómo son las nuevas computadoras de escritorio que usan inteligencia artificial sin conectarse a Internet Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY2VpdmloSUZoaFpRR1gyUWRITHZjVklBN18wWktNbzZDb2VhLVNCTTBZMjYxWDk3VXB3bGNySGhHa3pqcWJyWFVsM2xKVXdtVW1xVUxfcnVlaENpby1hc0lxVzFVYThGZFRBX1pvMmNSdm1jWktzY1hXNEo3T2oxUV9PcVJaNzJUQ19oeGNYOUx0U2JiWWNvWk9WU2hOWXRtU2dkbWlZMVc4YUgwT2xrdm05UFRpYzA0VDFLa3NDTnlpdnQyLXRDQy1yRdIB0AFBVV95cUxPcjB6dVZ4eWg1SXNRV25OTS1LZm8xX1o2cUxWUzVXNlVqLU43c2UxX2phb3ltZGJKWDJWb25oUlhzZUNlM2d0aXM5dGJLdEliUWJJMGtBOHlxMUI5cmtwaWVvWEpvSUF5M2dpc0dGeEk2STRvTGxneklkdEVmbW82VTI4OHFhNjBzN3pDakU3bWpnQ2xRRGpMd0ZYNnRVZnVSd083N3VsMFlPWWhIM3g4LTN6UkhKLUFLY0xOTFJmbFpOdFduVlZuS0hfTkhzTHJF?oc=5",
+        "date": "2026-10-30T08:45:05+00:00",
+        "source": "Clarin.com"
+      },
+      {
+        "title": "La literatura y la inteligencia artificial",
+        "description": "La literatura y la inteligencia artificial www.latempestad.mx",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jbWk5RDFJVVR5bnIxemJyTUVQQVFMWWVGOFBHZFdyUUFSMzJraHJZYVA4LVFoZEl0OE9tLWtMZURhRWJsSnNNM2oweDc2WkVGS3RHRXRKQ21iRXpGRi10UWlMRlF4RG9Jai1BcC13YV9jR0E2YWF3ZXp3?oc=5",
+        "date": "2026-10-27T23:21:35+00:00",
+        "source": "www.latempestad.mx"
       },
       {
         "title": "Fuertes bajas en Wall Street por las dudas sobre la inversión en inteligencia artificial: Intel se desploma más del 25%",
@@ -126,32 +140,18 @@
         "source": "Infobae"
       },
       {
-        "title": "Flow cumplió 10 años: Personal destacó su crecimiento regional y la apuesta por inteligencia artificial",
-        "description": "Flow cumplió 10 años: Personal destacó su crecimiento regional y la apuesta por inteligencia artificial eldoce",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcWhKZEMyZVNOUjByd040dTJ3ZmxPcVJ6czZjWUVneTVyWGd0dk9XZkNJc0I5QTV5VVJzOGZiODJ0a2E2VjlVQk5jdGFJTEtWMm1DVzkxb3ozVmc5czl2TllvX0RQMF90cWtHSUxoQkdZUGxEcmwyUlIwZ2VuNTFUUEk0bzJNQnk0U25Sa2RMNUVZZkVFQnBJNWtBai1KaUpSNTZnTlRESkFBS2JKOGUwT0YzS2JaU2Q0Z2pVdWViVDBXZzhsWXl2c1d1aExJNjdjOUQxNE0yUkZHMGvSAe8BQVVfeXFMUGtmTC1xY0w0ZEtraVZVd0JvejVTTEtGbWtPMXpwMzItWm5McEw4NEZ0X2JRRjN5X1R1d3hVVXA5M0VYY0c0SlQ2X3hfQnhJRjR6LW0zdC1yODFmQzg1X2oxRzYxRHA5SUNnT1VQcHJNLTJYTzcza01RNWlkZnZFcXJSZXBXQUQ5Uno3QW9rb0FDS0ZlYlJGRVM3M09MbUlrUldST1ZLOHN1UVpyYVFnVWJCRHBXUHVlZjREOGt0RFZFNkJrWjFDakNuSTRlWkdJQ3gwc19xcjRCa0tqaGJyejBwVEEtMEJMOTFtaW9OM00?oc=5",
-        "date": "2026-10-30T21:04:02+00:00",
-        "source": "eldoce"
+        "title": "La caída de las tecnológicas se intensifica por las dudas sobre el gasto en inteligencia artificial",
+        "description": "La caída de las tecnológicas se intensifica por las dudas sobre el gasto en inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTE4bFhEUE9ObEI4Yjd6QmZYbFdMTDEwbGIwcFR1U3pWMERnZUxzRkNjeWpWUlI1dGdTWDFEd3B0ZW1GRjlrNWFxemc3d2d0dkF1bUZ1U0NLNi1SaVQxdDVNMU9nVWhqRXdISVFxT2ZQRE55LUhWZXB0dWVaOFNhRXRxQ2daQ096YkNpQVB5bk1kMzhJSDRaUEVtZ0MyN0RhM3Y1MEFHOEJXNUtiSXhlc3BDaXk5RWszdFV0NjZwb2FzZzM2ZVlxbWZjU01VX2RuZzRNZFM1eGdGbGk0LUZtRTRLeXFOVHVrME9oX3dfYWRQNEhLeEY00gGSAkFVX3lxTFBtMFpVMU9feGE2RmVhNFI2TjdjVy1oNjdMcjNldkZjMHk4WF9GQUgxaEJRQ3VILV9rZm03aWRjVVBDZWJ0NG1ETEQ3WG9fTEhlazREeTY3cFNZQWpEdUVtN0J2X3Z1bmNtcmxhelJKOVZ3N2ZiXzRWSmI3QXJOSGZLeTUxVFFNb3FUeERKVnZDb0dEdzJyMGNXRUxMNDItWWhPVTRFNUNvR0tYdW1zN191LXg1ejRnSjc3ZVJtVDlYWDRLVEV5N05TcUtrd2UzbUliSnh6VlRMOFphSTFKdk5fUTJUd3NyRWVIVV9vTmlLcnJGREQ3OHFGWUZuY1RRWjVjc0hwTU9WMjdsWWVRc3YxMnc?oc=5",
+        "date": "2026-10-30T13:58:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "De las recomendaciones de amigos a la inteligencia artificial: cómo cambia la forma de planificar viajes",
-        "description": "De las recomendaciones de amigos a la inteligencia artificial: cómo cambia la forma de planificar viajes La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVGdkMWRlZjltWW9tX0dNc1pwRkZMRC1wS1A0V3EzT2txNFhCdXJ6MWVXcmtWdWR2MDVjNFB0RUFxTXRvMVlCQzdxX09QbTA4Q3U1LTV0Rmcxck9QT2l6TXc3SzBhQWtDWWNQS2lWU3FyNnZycUJtWlFRNjNMV2JvUThJQXZMeGtKR2tGN19adDREYkZNXzRheWE5YzZnRHctQVRzaUg3Q1liazR5bm9QTVhRT1ZVMVhoNVdLM2JickxzTy1EWlpGV1dwZ2hBdGlYaXlhT1BlWVp2NGIt?oc=5",
-        "date": "2026-10-30T19:18:08+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "Las 11 formas en las que los ciberdelincuentes utilizan inteligencia artificial para cometer estafas y cómo protegerte - TN",
-        "description": "Las 11 formas en las que los ciberdelincuentes utilizan inteligencia artificial para cometer estafas y cómo protegerte TN",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQmVPMUZzQXhVNHlYeVRrbVh3X0xYWmZKLU1GbE5PclNRcWhfV0x3Z3ppU2tCd2lnd3pEaUo3bFdIZ3IzeUNUMDBhRENYd2R5OFJLcWV6UHhvZU9QaEFFSmVmWnM4SE1BbVRzd3UtWTdYb2ZQcWJ6cXo4MHZfQ1dBdFZxaHhGM2lObEtoSmNfa1NROFd3Yy1zY084aklZNHZQM09VOFJXdWk3Ni0zeE5Bd0pEektfNGhiZUhFanNqRFd4ZVlvMUFka1NCby1uY3JYNndubnpxV1FyTnl3dXE3QnN1WFRWTFFBaUF6REc2X2lKMGhpUDZR0gGLAkFVX3lxTFA1U0k3VU1wQW1NMlExcF9fOF9LdW5mMVI2bENuT1B4R0RlWm1uZFBmS0FUZ3pqVTY3bDNwVm5DOUFvUFZqemJETUltZGtDUTNPV2xqN2paaVJVOUhRb25hSUplLTZrODRZVUloajJEVDBOZklvUUlnZERLejk5YkpwNGYtdW5KWDV1R1VNMGtSZl80QnE1ckdIVndBM2NPd181MjZpVFRtbVFURDdpTHI4NExxY3BxTGtQYmxlZFM4b0hXdXFFUkRlRmpfS3kzR0pzdVNQc3BQM01KN25uYU9iY3dyMTRFUjBEUy1lSHJkaEV1UGhoWG5qTkw2emMyWVVnX3c4b1hZOVFFMA?oc=5",
-        "date": "2026-10-29T19:03:51+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Samsung renueva su apuesta premium con las Galaxy Tab S12: inteligencia artificial, pantallas gigantes y foco en la productividad",
-        "description": "Samsung renueva su apuesta premium con las Galaxy Tab S12: inteligencia artificial, pantallas gigantes y foco en la productividad La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdFZ5WHF0ZWR0QmZKYkNFZ2ZaQkIyRzc5TktHQkd0cUpQYjlDY3hvdDVkV25iWkl4dUQwSDVXNVlmWml3b19VN3QtYkQ5Wk54NU5xVDJlbGVYRmlZXzg0U01vWUVUTlMzckdQdFh5VHRaT0x4RER3RzBweUw4SjhDODBpOG1RSlpMMkgyQmpveXU2bVJSZzdNRXZGMHBfanIwdWx6Y3M1SG1TWHBaS09wb19SMzY2dUhYa2tHSUF5RC11d1I0RS0xUHdKS1JUVS0xMFpuTjJiS1BQX0tjV3NkUEtMME1nNnJJbUJscg?oc=5",
-        "date": "2026-10-30T03:00:00+00:00",
-        "source": "La Nación"
+        "title": "RDC: Wall Street puso en revisión el auge de la inteligencia artificial y buscó refugio en sectores tradicionales",
+        "description": "RDC: Wall Street puso en revisión el auge de la inteligencia artificial y buscó refugio en sectores tradicionales Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdExpXzJLeXJybWoxRFd1UzkzNGMtVnZNV2dfa1g4TFVzblZBTXpPdHNtamZtTW9IN3ctTGNzWFF3emUtV2lLVEdlOHRxWEFsS2ZEbVRzVDFBd2g4WFNIUFlvTFRGWkotajdJN2JPZU1YczdUNnlNN0NLU2ZEX0pTRFhJaFZJYmlUUWhmNEo4U3FpX2RVU3dPb295YVZfYnFIQV9SQUxWZUpERDZNN2Zpb2RrZWtqa0pCbkdVWHV5Y29wMUpKNGNtR0s3bDR1dXhRWjVhZEQ1elZuWGVwdnNFRkxQSmlzLWl6WTgtV2dDQkI?oc=5",
+        "date": "2026-10-30T20:56:42+00:00",
+        "source": "Perfil"
       }
     ],
     "Vaca Muerta": [
@@ -177,25 +177,18 @@
         "source": "CCT CONICET Mendoza"
       },
       {
-        "title": "Vaca Muerta: YPF proyecta llegar a 22 perforadores en febrero",
-        "description": "Vaca Muerta: YPF proyecta llegar a 22 perforadores en febrero Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODUyOW05cW9MRXlJVGxyR1FEOU5LOW1aN0ZGYk9KMDItZ0hGay03b0ozMUVWSnBJbjFiME1OR1l1X3lhOTRJbnFNdkVoUlN4QW1fbTVhNnpGZ3RHN3lXOXdOVkNHUGQ5cGF0SlhMbEU5NFJuMXc1cFY3SlpIU2M3NlBRUXlua3VMTTVmTU9PYjZlNTYwQ0xBaGZpT3d6NFZxMGtuZ0pn0gGrAUFVX3lxTE9jRXlOSlN0YlBjYTFQYXFIeHRmd2FOc05NY0UzS0lGZFliQU5FVGJSQll3UkRGVi1nWEV2QXJHM1ZabThDUkxzZFpwYnhEOEp1RjlLdlllQ3lad1J3Wkd5QTI0bzh6ckJ4d1lFVmNCVld4RXJhdGI3Tk5RWHBaeHFNcmZXMzVzV2RYZkJDaGY3X2ZpUlIwbGdvT0tWektOVEwtNXpSVkVhVEZ6SQ?oc=5",
-        "date": "2026-10-30T15:50:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "YPF activa la megaterminal de u$s 3000 millones que llevará Vaca Muerta de la estepa patagónica al mar",
-        "description": "YPF activa la megaterminal de u$s 3000 millones que llevará Vaca Muerta de la estepa patagónica al mar El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1J1ZXI0Ty1iQzFEcHpzSkZnb2FoVGtQZDFqdnQ0bTFjdklGeTltNmI3R1pqeUlwSzV5Z1RlOWdWdjlIWElYa2tpekF2Z2pCQVM3WU5fQ05IUU5JYi1uZWdEVUxZM1BIRjlMU0NtY1AxME9vUm5NNEtkRkpXQ1g1YTVFOXhUX3RycTZ0bEg5dXRjRUNYdzR5T0J1bW1aOWtFZmtlTVhPWXBWNHpvelFjNEhB0gHMAUFVX3lxTE1ZVHZmZ3dqdDBlNEljOV8xUWhoR2JvQmQ1Rm5DcWFla2NKZXdoMkViY2Q1ejNfeml3SjRSNDhSOUJ6ejFEQUx1alRLWktYVjFlTWRYQUtpdi1jZkZ5WFc4Wlh6Zm9WVEo3aG04Smx1QVlYaUUxMVVsR3RnTThmRHVtT3JWQ1RFVWdKZnJjN01lYzlndzNEaGRUMHY5Q283RU9acW9iWVVPSUlremd0UU1nbHJBVWtyZmZ5TFBxTzJZcDB2RUhkcUZyZlFHRA?oc=5",
-        "date": "2026-10-29T14:00:00+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "El CEO de YPF le anticipó a inversores de Wall Srtreet que se van a llevar una “sorpresa” en 2027",
-        "description": "El CEO de YPF le anticipó a inversores de Wall Srtreet que se van a llevar una “sorpresa” en 2027 Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWmptMXpFNlRoWUd4RnpEb01UVE01YXRsSml0ZXhsZGlNQmFOVGhadEJncTBIck5VTjZYYXBrdllVb3cyUnJpeE5DWEg5aW82MkViQ2QxVEs4T2RXNDVjRnItbTh2bGRKSlJtWUxQb1lsMktsVEJ5em9hSThhUzNqXzBteG5iblcxNXVCM0RNLXhHRUM0RmJZMVh6V2JSUmFObmhzNXRfSTUwc2VxYVJyUGY2b3djRXA2dXhNMThBcW5YT0pGMFFzck9KT1F5aXp4TWVWZzZNY9IB8gFBVV95cUxNMDFSZTFxXzNhRGRNZWdza0pldFRpVENybmFlOXRaSElDeFhRS29fM29uLTVGLWdNTE1iWENWUkZPT2lfOWRYS0ZIS1JpbTRNMEU5S19sRHBma0ZwVWVJNVVadWo2THJKY0VwaVp4RGNfZ1NGY0kzazNDM0ZDQU1pbUxnY29ScWN6T3hNNnJwc29hTjZ2YjZfSlBrUXZrU0VZNG5RRmhjUWxLOGhUemtjLU9iNXBvVlY1dDd6bV82UjFudzRtYXJHa19WRmdmd0JuY1pUYUw0c1pUVjl6dHpINXVha1hHUE04V05hSUJmR1NJdw?oc=5",
-        "date": "2026-10-29T18:57:00+00:00",
+        "title": "YPF pidió un RIGI para el norte de Vaca Muerta: invertirá USD 8.700 millones y prevé exportar USD 25.000 millones entre 2027 y 2055",
+        "description": "YPF pidió un RIGI para el norte de Vaca Muerta: invertirá USD 8.700 millones y prevé exportar USD 25.000 millones entre 2027 y 2055 Infobae Vaca Muerta: YPF proyecta llegar a 22 perforadores en febrero Lmneuquen.com Las “YPF” del Pacífico le enseñan a Argentina cómo juntar u$s…",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSzNLMDFObnN3Q2Nrd3pOX2ZQT2lHYWtjNjQxSHFvY2U1ZDlHckxwVlFUMFBxQ0RrYzRwYlV2azZDVTV3RXBjcGlRMEl5VlJJNXZ3ako1VzBGbXBqdHF6SVduTExyVHZGWENqOUtCVFNIbjVqaGNIRjVERWY5UkJ1QTZEeWREN2FycFFvVUVTSFJLMUFOc0NlcGh5UElwODlGUWFfQW5UX2Jrc3dlUWRucGNCZUk3b2N0a280T1gtTXBHNHZhZV84aHIwekxubU5wclhPN3N5c0JOeFZBaFBpaHhIRUhrTXV5LUIxLVRNQ3ZBVU5ZLV9XVEF0el9xV0RTeF9v0gGeAkFVX3lxTE5OQWNtdlhYdXVVUlhja3p1TG9PczF1LWdNckMzNTJRcFBSekFTVHBmM2V3T0E5NnlxMmZtVUQtbDVvSGpTclZKMGViclAwOHlHd1BwOVNxSW9nU2lIQk9GbHIzYkVrajdXTl9velo5QXNkS215amRzV2FmUnJNdXRSNGRqVHl2bUZWYjZhN2s4VXVYU2dEeWJEN2lnWG9vOEtMVzVZclgzTGg3OVNHTnduVEt0MW1iaWtuOV9nMWcteXkxMEFQU2M1MEhCeG9wZmtqYXlMTXAxWF9TcElZZk1jSUtPbEx6MUlUeWdORzVvZWdFUlQtRjNsek9DTnlFU0VlX0U1WUNfeWdVV0RlMlJNUkd5T3Q5aEp2VE5TM1E?oc=5",
+        "date": "2026-10-30T23:47:55+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "VMOS en detalle: un recorrido por la obra que busca llevar Vaca Muerta al mundo",
+        "description": "VMOS en detalle: un recorrido por la obra que busca llevar Vaca Muerta al mundo Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmF2a2pYQmRSS05EeG9SZlU2TGpaRE5IOVBaVEE3bmpfblFWd1ZBOXBZREU2Y2h6TTh4elluOEh1LVlZc3NBVnI0STJIV2lRUEMxc1lIR2FXczRUMlU0REFzNVFFZlZiNlBuekxyR283SUpNUENwUkxWN2FkUFRVUDdVMHQyZU10WWtnSGpseVg1bF91ZUcxcGU1MFdtd1Y1SEo2WEswSFVxeGV4MVRQZmFNaFlTTzRlNlVYSWFTVmjSAcgBQVVfeXFMT19BRWtnVXRxSkw4NTRhNTZrYmJXLWRiNm1xNHhUN2k5TmctWUtEbWI2YUhHYUtVUmtXMUpiSW54emNKZS03VEVlRlE0Yy1IcVVzU0RNNFZqdThXMUliaS1PTzRuSVY4MlJDdWMxTjNrRGVxdlAzd0RyNGFvTlpYQ0I3WlNNbG9xSjdwSUdOQ29mYVQxUDhPcG5Ma1BoVm42Z0gwRndYWVNkOGZaekd6NFBGTzBaUC14N0s2cGE1Z2JLd1N6M1dSTFo?oc=5",
+        "date": "2026-10-29T13:57:50+00:00",
+        "source": "Diario Río Negro"
       },
       {
         "title": "Vaca Muerta: un puerto que exportó hierro y estuvo 30 años abandonado ahora renace como la gran puerta de salida del petróleo argentino",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdDlZZlBXWE5YcWVMRGpaenh5VzZwUjlidUZkVEQ3REV4SDFTNUdPbjd4N2x2WERXU19ERm5KaDdNcDFZeGlZZGdHRm9JZVZMVU5Pek40Qk85Z2pCaVdkMWZ0WVh2LXhQU0h5OVJPUllyVVMxR1h4R2VEYW1yNjBYaTZIUmxCREdkYVJHTWFFV1ZnZUtsaGFVR0IxSVdZM3lHSFYtbTF6Zk1saV9LMUM3QmxxQWY1TE5lcnZGTDZnbzNUbndMOTFMSDdmSXhuS2VWQ1hSRF9wQ3dQN3JKZ05ncllFZGtIdkI1bXIyQ3daRVlXcEZWZE96YUF0MDJXTXJFcnRoZVdxNklYaUHSAaYCQVVfeXFMTnFKS2oydno3aUEtaDdzMWhxcXpzeUR4MGZyeFAyZHZNOG85VG05YmNaV1FLVzl3cnhiNk1RcmVETFBtTFEwZVRCa2VNWFU2MEJFU1A4bUc4anluRGloQzRabHNHeE04bEpnZGRzcm1hQ28wS0dfV3l6YXQ4Z1hBTENwdTFZdHRac2VOQlljRGZPLTU2a2NGT3hLUy1qMjRibndhTXdHSE5yaC0tQ0p2NVBUV3FWUEJoM0xKRE9xRGM0b1RHYWpYcHM2dDgtX1o1MWF3aVdwYURyN2FrdVVNVm5mSUtJT1ZJQnZtWkFqeUYwU2dwcjRfRzl2dkk4clRMbTRldFkyN25yUUhjNkN1dEZxSEp5Zkpzd2YwY0FJTVJiTUlabFdR?oc=5",
         "date": "2026-10-29T14:17:17+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "VMOS, el proyecto que aportará u$s 15.000 millones y cambiará la industria argentina",
+        "description": "VMOS, el proyecto que aportará u$s 15.000 millones y cambiará la industria argentina El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeFNqcnRpMF81VHo5MFhkWVZmWVh2SkwzVkM3V0xLYlo2YlA2c1ZoSGxmSDBFc1U2ZXhKb1NHVkhxZ2dsalFHMm5YOUdidVFhTkVubXpZTmJqSVdJNXpaay1DUUNMVDhlbnFMMGdQamxybkVxcVN5TmFDdkQ5eTZpV0tFQVNvNWI0SFhabXY1UUNWaldIbXdodm1ia3ZzRWk4QU5SRkQ4ZmZSYl9TenpXbGpadVRKV3BuWW82RmFGcFdieDJPdFV5dGhR?oc=5",
+        "date": "2026-10-30T14:54:33+00:00",
+        "source": "El Cronista"
       }
     ]
   }
