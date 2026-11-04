@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-11-04T16:45:22Z",
+  "updated_at": "2026-11-04T22:20:47Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Windows 11 ahora es hasta un 40% más rápido en ordenadores con solo 8 GB de memoria RAM",
-        "description": "Windows 11 ahora es hasta un 40% más rápido en ordenadores con solo 8 GB de memoria RAM Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTm5EN1g5MjNxSzlxS2dwek1vdmxCTGRMNm0wQkFCRGtITEtQbGE3a3VQeFNVQV9TSFhVUU1Rek55TkdVUG9GbmlrTW5jd0RUckV1QmxXcmwzWnZMYkFvREhjOTQtWmFQNVhzNFdUWTJHYmE2TFRHVzlNRnFaZl9wUmZ0UjhOLWI1NUQxU3o5NW9nUTI1NnpqZk5LaWItNDltYjd0RkFQNkNxY3VTZWdKajVYbUpqN1dYUUg0SnI5VVBXZ3RLVXZCSURhazY5bWpqM1dpa1FB0gHwAUFVX3lxTE1qVVNCdkhqUVJqUE1qTmxpWjZZMHk0SURoc1V2OHhSeEtydTdQVkNfVGJGRURwQ2NXTG1kYndMZldDU0VlVHVCa1F5aU0xaER1MlpoZTM1U2NLSGh3YlRQR2xWQi1VQ0FWcU52TXIzVG9pVEl1RGRhU2RkZzR0WkIyd19ma0llLTA4QWphVGxSVXVTdndCTTVQV2tZdjRDOUxTUV9HTWtrZEdST0ZORHlIWTJxNi0tSHBwa3ZRbWFScklQVmZaSTJvQ1NZTTAxNkZoaXEwM2JYQ0lnUUF3NGxxOHZqS25YdTI4eVBCMFRkdA?oc=5",
-        "date": "2026-11-04T10:45:00+00:00",
+        "title": "Microsoft reduce el consumo de memoria de Windows 11 en 900 MB",
+        "description": "Microsoft reduce el consumo de memoria de Windows 11 en 900 MB Noticias 3D",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemhzRHZUXzJVWHlQYk9QVF83NWtJUDkzck05VlRKQ1doMHEyWVBLTmRBWDNxYldmelMzX3YxLXBEbDhrUm5zZE11VmFRRUU5TGgybGh5a2ljYk1ORUxmS3plRTlrUklKRjBQMDhXcVVjeTAzQkhKc2RvTU9UcjNJa0x5czNMQQ?oc=5",
+        "date": "2026-11-04T11:04:08+00:00",
+        "source": "Noticias 3D"
+      },
+      {
+        "title": "Nueva actualización de Windows 11 vuelve 40% más rápido un PC con memoria RAM de 8 GB",
+        "description": "Nueva actualización de Windows 11 vuelve 40% más rápido un PC con memoria RAM de 8 GB Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUUh3dEhDeEFHRWwtWFFGS2MtLXdqSW0xU0JJREk0MXM3dl91RkRjY0s3V2Y5UktBcXBBbWNWcjd4Q1gxU3prakozd05vc2YzV2U1WnZYT1pPTVc3NFkyT0dkb2x0VERFRjJVci1DTGdPeFR4cDRvWFZfUDZkU2ZlVDRwZTA1VUhoRjFrSGFKVkN5ZkE2TWlZVlhjeUtzNFZqazdIdXdBSGF0MTlSZ2psV0RGbV9rbl94R1hwVGZzN1BvTkd40gHfAUFVX3lxTE5qWkItbHVseEhOVzJlUlZvc0xkT1BSUTQ5djlFTGFYZUdMUkI2djVrbG5nX2dsZ1UtallnTlpmcThfM3NRMGc3UHdCb0JyNmpsVFJwMnJTNVN5ejhiRVJfY1ZwWTVBTjl5LWJHMjYxMDBvSVliTUdJRHJnQ04zZjZ0dEtfNHNFSkQzdVFfWGVMcDdUaWk3TTNBdDF0N2ZPNlZiQUs5VURKNHRLUnJMYWNLcjhCdWdKaGctVDAxRUdIcXN4OV9wMlpVVFhJM01fMFZiSUs0NkxoSk5pMG00bFk?oc=5",
+        "date": "2026-11-04T14:35:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Microsoft detalló cómo hizo que Windows 11 vaya mejor en computadoras con 8 GB de RAM",
+        "description": "Microsoft detalló cómo hizo que Windows 11 vaya mejor en computadoras con 8 GB de RAM La 100",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkItSE9jNE9fNVJheFJyajRYcm5zYnlWanRVQTgwRVNETEhoV2hVRFM2LXJhaEtEYzNZQ1FIWWRTenBhX2o4QlduTWd4Zi1obE83UmRDN2Y1MVNFLU0xd1lDUDgtMGlNd1d0bEVnLXppNTBneFRlRkNRekVpU2hUN3RpbnpLOVNNNkdGT2NaUXpYdG5QQmNJRndDVGg5T0prSUltWG1CSElUejZPN3hKSlVSNmdrdXh0cWJ4YXBCaFEyUE9r?oc=5",
+        "date": "2026-11-04T21:25:34+00:00",
+        "source": "La 100"
       },
       {
         "title": "No todo pasa por comprar una tarjeta gráfica más potente. Microsoft prepara un cambio para que el ray tracing aproveche mejor la GPU que tienes",
@@ -31,20 +45,6 @@
         "source": "Eurogamer.es"
       },
       {
-        "title": "Microsoft no puede hacer marketing de GTA 6 pero sí lanzar una Xbox X-Bite, única en el mundo y que trae la consola dentro de un caimán",
-        "description": "Microsoft no puede hacer marketing de GTA 6 pero sí lanzar una Xbox X-Bite, única en el mundo y que trae la consola dentro de un caimán HobbyConsolas",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdkF6OGVsUl9IMW1fV2FKQk9XbWFhOG16b29oTGk0ZGZpbnVTNE5GTkpEZHV4Zjdnd3BfTFRKa2V5TnY5SFZCaC1oUFBuRE5ibF83b2MyWUMtaWNmSkNkNXVPWkI1U3d5Q0hLQldiWEl6anEwWFIzUlAzS3lMVnBueTl4TGtBVHBVaWs5b1hnYXYySlY0MGxwV2NxbWxvLXJXXzQtQlB2MW5qNExiUFJOcjBHaVNXUlJzTndoRUF2X1VZTkdJZkFfdWpSYzBLM3IwbFlOa0xQSXh0RGpOWkIwSW5Bem0yazU3aTNsQjlocjdoS0d5eVdSSDNWZnlPWUN1MEMyZA?oc=5",
-        "date": "2026-11-03T20:52:22+00:00",
-        "source": "HobbyConsolas"
-      },
-      {
-        "title": "Xbox Game Pass anuncia una enorme tanda de juegos para noviembre: 23 incorporaciones",
-        "description": "Xbox Game Pass anuncia una enorme tanda de juegos para noviembre: 23 incorporaciones Generacion Xbox",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXQ5bUVLOWZDSkJlYUllVE5SblZmbWFTMklwVWUxc2hFSUFjZ2IzVEUtWi10NW9vSmx6OFhsbXZ5dGJtNUxIMjBMM29HMHJLcHFJTWZnN1pRMzlnZzBHbkpnOGlGRWhPMEVaRDAtZkQ0a2gzajZ1QU1NRU9zbVN5ckJ2Nkp4cWVFSTFjcHA0bTR5S20wSDB2V3NzakZjVS05ZVlkZ2VVR3VLejhNZUttMg?oc=5",
-        "date": "2026-11-03T18:32:57+00:00",
-        "source": "Generacion Xbox"
-      },
-      {
         "title": "Microsoft confirma que modernizará la herramienta para desfragmentar y optimizar unidades de Windows 11",
         "description": "Microsoft confirma que modernizará la herramienta para desfragmentar y optimizar unidades de Windows 11 Profesional Review",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTV4VDktbkg1U1pFTzVXc0VJbHhTb2t3TzJfSlpYanNmcGRUVl96UUZvWGQ3bjAxQlVQdzAyLTdJbjF5bldFalJpTTBKMXRCdlhCQXUyMmpQSUJfT05HUWZDOTJGZGpUZ01hRkJ2WEozTTlDVVB0SmxYbkxqSmNlc2hiOTdQc2xXSlh2UUx3VXY1MmpndF9ySzRCVjd3T3BVYmRKVWhGdE9tQTExUFVfcEtwSGpCYkRvVElWQzdVVXRtQjdxelJzT0dEYzhTYk9ZZzRpWVJ2MUZ1ckRocTNFNHluZ9IB6AFBVV95cUxQVE1RcjAzSDRndExnQjdHay1iREhHSU44SHVHc24taU9DeS1tZ3lwUFFsbVZ3d3BaVU9QYi0wVUlGeWk4UE9nYzNlRm5kS2t3Mm85WHRJblNMUjBWa3VMVF9qQlN1bXZpZUpueWloQktiUGJILXpsTWg1b2NoaHFPLUlodHlyYXlDWlVtTU45M1ZMNnloYm8wSjF3VmQ5YlN1cVBUSnNqWGNFU0l1R2VsWEI4ZURISjVWazhSQmZxWThVcThvUjMwd0lfY21iSXhtZkVWem4tR3B0UDI2RkdvLXVZWHRjUWVF?oc=5",
@@ -53,6 +53,13 @@
       }
     ],
     "Marketing": [
+      {
+        "title": "Agentes de IA en marketing: solo 9% ejecuta acciones",
+        "description": "Agentes de IA en marketing: solo 9% ejecuta acciones El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTFoYTFEWWZNRG1aY2hmdjJ2TVVsckMyd0JrU0VxYWhQWHJIMGpMSExDZTVPYU05YklBc05MbmtMOUNjZmxncjllOF9OQXRlZTFxSUppbXUxZHNxWThCX0RqOXFXRmx0XzlFblFsTnBLakotLVhMYU5kVkk5OXo3N3ZjNXdlQkZ5?oc=5",
+        "date": "2026-11-04T22:06:39+00:00",
+        "source": "El Ecosistema Startup"
+      },
       {
         "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
         "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
@@ -68,11 +75,11 @@
         "source": "Gobierno de Venado Tuerto"
       },
       {
-        "title": "StackAdapt publica 'The State of Programmatic Advertising 2027'",
-        "description": "StackAdapt publica 'The State of Programmatic Advertising 2027' Marketing Insider Review",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU5yd1hRcGQ0aGkwOVNWdGFESXhPc1FRM25vcFA3X0I2NzVBbU1ld3dtUUpQMDJiTUtyakRSQUlHc1F2QXFHbklGbFEwdlFBRUpDNE50QmpJYUdkd21uSFVSY1RWOVFjeExDenpBbDVFY3Y5VHB0TFN0bzZsTkZEMy1qX1ZRbDY3QlJITmJpZjFCdEtmU182VTRGWl9Cc0RKU3V6TmZNV2g?oc=5",
-        "date": "2026-11-04T13:04:58+00:00",
-        "source": "Marketing Insider Review"
+        "title": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados",
+        "description": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados DossierNet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblFHMFF5TUhWVmZVbWRkbENzYXpCYWxmZDlqanVQMGN1NGFOMnZzZ2lpbUZvOGdrM0xJcy1hbDNzeFZkZkUzMld0SDdoM1pYVVpaam5jTTBRV2dMQkdWVDBLcmNEeVM1dXJMeVdpV1E4ZE9YOGJMVFA4MDY3M1VUQ1RVWGJZdjU2M2UxM3M3UnZHZ241Y1dGbDBTT1ZfNDEydmdQaWVpTTVVdWEySk03M1hreFhiXzJMUTZvRzZNMzg?oc=5",
+        "date": "2026-10-21T07:00:00+00:00",
+        "source": "DossierNet"
       },
       {
         "title": "Lejos de la tele y digital, el negocio de Matías Palleiro, la pareja de Jimena Barón",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXhFUUZzS1FCQnpaQXpXZGZHUmNTQ2NPdC1OZmI4Mzc1ZzE1N1RjMzFxbjFpTmVKQlN0aGJWdDJkdXVNVFJKVVFoMXAxOWdtS3ZUbHBsbC1sSVhRU0d1ZkRTN05WMmUzOWQ0T3BmRWdIRlBmTGlfU3F1eFVhdEZLZTVPZ3BSamxBZ3RneEh4cWZETlZMenZibGVkeWJzWEowS1JkMWFPaEdjLTBOMGVXRg?oc=5",
         "date": "2026-09-01T07:00:00+00:00",
         "source": "Gobierno de Chacabuco"
-      },
-      {
-        "title": "Vértigo Marketing: de trabajar gratis a líder GEO en Murcia",
-        "description": "Vértigo Marketing: de trabajar gratis a líder GEO en Murcia El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnFDcWdmR19sSXpObXc1eUxiMGZuVUUyNThMTGhDSU82M25YN21aZWtmMkJzdUt1bFBGNmZRM1BTbDc1TFhGXzhjWWo0RkJ0c3pwTEQtNFpIVUxaZjZRaGJSYXdFb0UwQ04xZnltR1hpWUlCMEw1TmZZeW5EUTg3TTVoZG5SMUNjZjBrWC1WckxxRDQ?oc=5",
-        "date": "2026-11-03T11:06:24+00:00",
-        "source": "El Ecosistema Startup"
       }
     ],
     "IA": [
@@ -112,32 +112,39 @@
         "source": "Infobae"
       },
       {
-        "title": "Apple lanzó la nueva Siri con inteligencia artificial en Argentina: qué puede hacer y cuáles son los iPhone compatibles",
-        "description": "Apple lanzó la nueva Siri con inteligencia artificial en Argentina: qué puede hacer y cuáles son los iPhone compatibles Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZDRKcWw4M1hobGQ4OG1SdE1EMTJVTHRmTEIzQlVMak1RUWlPcUNneVd6S3lDMzdJQ0U1VUhVN3BDX0k2ZWFqNmVfZXVEMWFCWWliNkVqWnRta3Btd25QSmV4eWFJT3BRTHJJMEhBbW5ZWE5tVi1mSEY0UURXMHBHcy1ncDhIcGsycGR1bnZUcFVjb2ZnWkRMcmQ1V1RlQThoaFFTRzRSV1c0MWt5VUZWMWstVVFYRGR6akc3eC1UbTh5eFZWS1NZN211aEdlblVHdVdNaHN30gHbAUFVX3lxTE5fZllVLTdOcHJ4elBIazBQNkJ6SkVMOW9zcVpMeGRuUmJUeTZLTlJ0SzVVblNTdjZqRURUclpLWjdSc3JaTHN3bUVGbEV4ckJpRkxybWZoLUlfc05JY1hRNnpVdWZlcU1lX0MyS2NmM05SWjhFMVpROVVvZmJDUGdYYmhFdWhMRHJZR19ZU241SERQVkRUODZ0dVZ0U1ZpQlZaSkxnUTRpTElwcktpR2FLTEFmOW1ONlpwejhaRXVoUFlmcmp6OThSa0ZGclFfcVpFZDVvZUZMTGNBTQ?oc=5",
-        "date": "2026-11-03T20:21:53+00:00",
-        "source": "Clarin.com"
+        "title": "La sombra de los data centers para IA: del rechazo electoral en Estados Unidos a los “juegos del hambre” en América Latina",
+        "description": "La sombra de los data centers para IA: del rechazo electoral en Estados Unidos a los “juegos del hambre” en América Latina Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQX20tVHZzZnZIWXlIdjdYaUdDUXdxenhpeVpiOFJfSFB1TUtCR1hxUzFyMUdDYkJjZ3VWcWx6TjdYRk5FQUZoeV95MWN2czRKbmlGb0xVSHlxUFJnR2FZSElic2dDRXRUdW1Sd1pMa0dpWF80VmVSVnk2c0ZWblN3OXRTb0ZaLURXc1YzcnV3bjBfVFczaVg1ZzNOYllSanhObWxiOC1kdTRoeE42U3lGUU9LZ1NJTm9RczFIdnVLVldHcmhuTExYNzdkeHBJSUJWVGhkZjVuZ2M5Tk5kRm9qMTdXeklBQU5CdV9YWmZfdld2d1FhejgxZ1FfRHJXdjg?oc=5",
+        "date": "2026-11-04T21:16:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Por qué cayeron las acciones de las empresas de IA luego de las elecciones en EE.UU. y la victoria demócrata en Texas - TN",
+        "description": "Por qué cayeron las acciones de las empresas de IA luego de las elecciones en EE.UU. y la victoria demócrata en Texas TN",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOHUwbzQ5aG1GQ0I0X0FONFljVC1MT25MM3doU2pLUC1uU0txdDNBSllUR043QXlsUnhQNUdadWlMSVF4MkVZNkpXU1BBWTh6MEl3NkZwYTZ5TF9vRFZoS1k0eXhlSUNINEN4TExMZU1zRjI3TzZRMVBLVkROejhOeTBzeGpHdDVHU2VZWlg2S05wUjY3aGRYVlA5b242a0piQXJOdW9QN0NUYzdOdmNmNTVld2dXQ3NoVUY2YzBjMzBPd2lxNGFGX0dyV0FRY014aTdUQmNEOXptMm9mS1ROX3d3Y0JuQlJXV3lmeDZjM2YtX1Vs0gGIAkFVX3lxTE1hcDZ0X3VyS01GMDc1VGQ0em55bXFYaXF0RTJmakE1THJzZlhtNkk0VmNRWlRfYWp5cFNwWkJUMWRSdkZIZVFURm01aWltTkcyT056MGM2Yi1KenNRd2YySmVtUW05cHdsTE9VMzU0SXRZbUpRLWhFMDhvSGVaM1VnamY5dmJ1STJIM3hGVlExcmxLbWJ0Nm1vcC1aUEdSZFQ3Ri1RUjdVWkVTZHl2YlNPNEFXcDdHa0xZQWQzOWVOaVJZQWgzbmktNGYzVm0yMUxEWWZhRnZfcnlmQXk1RFN4NDVnZ2ZadE9NZnhfaGIyRmYzVTNHOUw1N1doWFJtOHFvcHJhVk5GTA?oc=5",
+        "date": "2026-11-04T18:05:42+00:00",
+        "source": "TN"
+      },
+      {
+        "title": "La inteligencia artificial redefine el desarrollo de software y acelera la productividad empresarial",
+        "description": "La inteligencia artificial redefine el desarrollo de software y acelera la productividad empresarial La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXVJcUFCWWxYMGZYNzhLQjlJeTFmQUdIeTlCZDFUYWNIcVVEclR0VW1VQ2RWU0MtNTlPMTBBZk9pNlA5dmpTZnVRYzFIVmRvLXZlUEc2Nm5VVUdXeE1LTkFFQ2JyUWd4QmEyRndpYm55YzQ1cEQ5UzBLM0lPSGxtWng1UWVFQXV6bndQVGd4ZVB3UDNKVE9fRWtkS0tCRnlNYTdjOHZWeDJHeVJLM1hfOHRhX2NTOGtlUmF4U1ZMMU9EQ21tTnBMU3BkYlZyUXJWYUl4ZTU3VHl5bmplSUFzdm9n?oc=5",
+        "date": "2026-11-04T18:33:36+00:00",
+        "source": "La Voz del Interior"
       },
       {
         "title": "Avellaneda incorporó Inteligencia Artificial al monitoreo de cámaras de seguridad",
         "description": "Avellaneda incorporó Inteligencia Artificial al monitoreo de cámaras de seguridad Municipalidad de Avellaneda",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekUycllwNkd2MC1udTNvUzd3TE0wQkpZRjB0S3JBdERIT1d5Q3VySmRSTUZsNld6T0QzV1JZb3cxY1lUYXNUUGN3NVFZZVN3d2l2eUhPX25oTnhjVUVEdTNlSGFWcnR6empYenhtMkNaN1VmeHd3REs3NG5BMVVib3pFS1kzS2Z0SU5fZlFvZUdEMzdsd0pBZldPSE1kaEtCYmNsUWhMUGFBOVRKUmJvYWptTVM?oc=5",
-        "date": "2026-11-04T16:12:20+00:00",
+        "date": "2026-11-04T16:11:40+00:00",
         "source": "Municipalidad de Avellaneda"
       },
       {
-        "title": "Trama: inteligencia artificial para la atención y la venta en turismo",
-        "description": "Trama: inteligencia artificial para la atención y la venta en turismo Revista Noticias",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmoxRmFidG0yVVlrNml5MUtvdGxRLTFKbWJQVllxaWdhSlhZeE1EX3pEVWU4VHBDVUtuTDI0eXR2bDNIVzBLbzA2OXE2QldONHl1aG1GZ3oxdVdycUJyWmV3eUNSZkJPSktIMFpjZVFJR0ZNZ3d3TXRVQXgtcDBJS1owdktkbG94Nl92UzhlOE9DdXZ1N3RnV0tYdzIxcDdnUUY2QjhRQ0RDWE5US2hCa0UyRzdBb3JpY05mbGFDdnhfckpERjhJMXpoMmPSAdIBQVVfeXFMTWwxaE5EcUtJSXRuZVE4QkhsQ2FyWG5zLVY3SWxDRENsdmNqbUJYWVRLcFlhdjVpWUwwQnY0ZExZM3V3U0FLbUJoOF9hbFQzWVJhOWFMa3pXbjlvLXVLcnFmLUxrdXpQZWZ6REMwOFVPUVpfVzliLVJ0UUEzTXl6eVZ6bGJfeFUtSFYzVFo1cXR3clVYaXJhLWFaTVdUWkVkeTdZUVZCaUVYXzJETEhmcVhGVUJwM1RPTUtIRnJvWU02ZGhoTGJKSUM2V0dFeHRlV3RB?oc=5",
-        "date": "2026-11-03T18:57:26+00:00",
-        "source": "Revista Noticias"
-      },
-      {
-        "title": "¿Se termina el entusiasmo por la inteligencia artificial? El 42% de los británicos ya limita su uso",
-        "description": "¿Se termina el entusiasmo por la inteligencia artificial? El 42% de los británicos ya limita su uso La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaHZPSDdvMlNoQUowNzRQNEJLdFZSUm84QkY3enRiVnpsVG9QUldDLUJ1cENsQ2dsV0tKS2JkbjhRZkpwZjVobzJ6QnZXS3V0M05JeFVOWDIzd3Y2bmFqNGxvVktGdmxxdHpWYUNvQVNydDNvYkdIVWVtOXhNM18zMGZEbXRBLWNEeEpZWi1vYkxRT3RwSFVXdG5nQWhvX2ZWYTlaLUd3cl96bUpDWGo0azhGMXNhcVhyVjNpLXF3?oc=5",
-        "date": "2026-11-04T14:04:26+00:00",
-        "source": "La Voz del Interior"
+        "title": "Cómo es la PropTech que usa inteligencia artificial para potenciar las ventas entre colegas en Latam",
+        "description": "Cómo es la PropTech que usa inteligencia artificial para potenciar las ventas entre colegas en Latam Fortuna web",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdnZ2Vk9mSVVycHVrLWk0TWRGMUtyMTNTTWNWQXlaM3ZoMnA1TXhmQmRRMVZmMDFlQzNoTFhRTUVBcjRHMlltN3ZlOTZQdkdMOVI4bkRRa3U4ZU4wVVVfdGRxcE13QllRTzF3d3JPUGtpXzRRNDR4dzgzZDBnRy1jUDBKd3dlSmdMTV91OEQ2dnNjdG1PaWM0MVl3X0FHdWYwR0ktdFhmT1lTZ1NTdzdtczgzLVVVRGwwT0RJS3llSTlGZ3dmT2dmUVV2QTBESUJtWmdFUE5jNEFNZ3JrTFpqYVI4NjBhSUljYWfSAe8BQVVfeXFMTm5aRExfeFJ5M0prUUlZOWpYVjZNamVwcGIyWXdndThGYTlOX1ZOa3NzWFZvSVdoWk5GaVM5QnlaWnNFXzVJVVNPZlBHY2txcHlGUV8tbmkxTjVJT0xmZkYyR3BSMDRQSVZlU1pmeWZHcmZ1eUVkcnR3RGZDVWsydXFkYkZZeG4wWGxBanF2WHdUdWxVSHhIcldMVTdhVkxEVUJJNzRodFRyQlFVWG1hekdrUXNzR1VyNTVOVkloY0hxdTE5a0xvV19WWm9WbzBnZEFUcmdLLWI0TGVzRGJoMHBRRzlOekRpYVJNMHdIWXc?oc=5",
+        "date": "2026-11-04T11:32:25+00:00",
+        "source": "Fortuna web"
       },
       {
         "title": "Un ataque a escuelas británicas encendió las alertas por el uso de IA para automatizar ciberataques - TN",
@@ -145,16 +152,16 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV1ZCWVlxQTF3RTNtd214b1hZWk45WnJNdTcwdEhkZFNyVjFMVDhGdl9uSndsMDd1V3gxQjZDWEJJc19wRHJ5SVlvSmJPa214aWZlRXAzSm5KUG03aUN3RlcyR24wSi0wd0Noel9pcTk2RkVOUWtXbDZqV1UzZWRtaldnd3NwSWc1eHpPVkRobjMxYTZLZ09xUzVFemR2UHkzN1RJamg3cERmYTAwZ29MZmlZMXZWTTFYX1d2ejFORVoyM1ZHQ0JqZVBBZy11Tzd6X1VVbGlocGkzUTM0cFV0X1Jn0gH2AUFVX3lxTFBfS00wZEdOQnNUS0wwZmVSRW9xNHpJLTVqVlRTYXlmQnJLY1hTS3VDdDBmWGJmUlBvS0VRblhoRUtfNnh1eTdLNzdDOEVSTkh1SEhUTTBLMmo3U3pqeGdxMVNsYmpYZ3RQUHpLeHZ1cFF2WVBHTUZMUk0wTjdKaHhPcnBINlNNb1hKTnBQWnhhaHNmRnlXSnRiRlBWczZUa25pSUVkYlNzWkJxQjhLY0hWc0RBcG1nM0huY1B4NFp0VnozUHBwX1VWOTJNRS1YMElBSlZCWnNKNElZcUNhUkUzRElHa281Rjg3ejZDMmQwc1BkbzZCQQ?oc=5",
         "date": "2026-11-04T11:30:38+00:00",
         "source": "TN"
-      },
-      {
-        "title": "Seleccionaron a 40 salteños para acceder a becas de Inteligencia Artificial Generativa",
-        "description": "Seleccionaron a 40 salteños para acceder a becas de Inteligencia Artificial Generativa Municipalidad de Salta",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdDhSUFowdi1mT25MUlFVM3FqcE9aZTZuQWwzeEdsUDJhQ2tyMDRQY0FCMHVwQWVSYm1OdU5wM3hjSFpVY0tPTGEtM1BiS2h6S2xwdE5nSTlldERPMU1ZZnQ4YUJpR1Nhc2ZHUjBKTDQxN2xIdFJhM1plT3ZFNTR5TmY1a24yN3RzcE42cG9idDhya3hsOVFmYzJLLUNKdWN0M3l3Y0xIaWUzWHBfRThsTHFoYTc0Vm5iSFlzQV9HNVU0cWJaRkQw?oc=5",
-        "date": "2026-11-03T15:34:10+00:00",
-        "source": "Municipalidad de Salta"
       }
     ],
     "Vaca Muerta": [
+      {
+        "title": "¿Habrá una migración masiva desde Buenos Aires a Vaca Muerta y las zonas mineras? Esto ven analistas",
+        "description": "¿Habrá una migración masiva desde Buenos Aires a Vaca Muerta y las zonas mineras? Esto ven analistas Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnRqM2dTWHNCOHdCdnd0S29Sd19ld2k4YjBtY2lVOHRNQ3FpbXd1dTh6LXlvY3gweWFPRTlCeFcxLVp5RkxJN0NTWDl4X1hBX2hfS1l0b0NQUmh4VGtNMnNXelROZWlYRDRfREI0aURkYkdaZmtaTWN5Q29SNXVBdllEQkpsWlVMakt0ZGVCal9xOGg0VHRLU2ZCdUIwVmljU2ZsSldqV3BvR3BZQ0tOQ1dGMzZpUUlYWGpyR1F2YTkzbXpWQWVZLTBqaTFSbmFmMjZlUHFrSXJVdXNQaFM0dmJoLXBmVGdCSUHSAf4BQVVfeXFMTVVVbDczTmhxWlZaSHZuWHd1RnpIWTVKSERXYl81VUd4Q1c1R05nVkJWNlpZRUtDd21nU1lHUXNMdGl4NWVmZ3Q2Q0xFcWQ2MExvVjJTcmdHcVBYdHpsVVlTTFNla3liNC1XZ0k5T1dXS2R2bDU3RzRZc25LNm1lZU5wWXNDUE9fanBQSTZvRllHNG9WRmtBeHZpczVkSTFZd3NDZ2dieE8xdXdiTnFYOEpzSlFoN0E3cDF4QmhFVTVHdzY2d1BYRGJ5djMyd01MM1lObnlzcnhnYmFCZ2NHel9JTlhWTm1qODY4T1BlU01EUGhOWlJnM0dneGlyS2c?oc=5",
+        "date": "2026-11-02T07:10:00+00:00",
+        "source": "Bloomberg Línea"
+      },
       {
         "title": "El gobierno de Javier Milei cumplirá un fallo de la Corte y construirá un canal aliviador de Vaca Muerta en la presa Portezuelo Grande",
         "description": "El gobierno de Javier Milei cumplirá un fallo de la Corte y construirá un canal aliviador de Vaca Muerta en la presa Portezuelo Grande econojournal.com.ar",
@@ -177,32 +184,25 @@
         "source": "iProfesional"
       },
       {
-        "title": "Haciendo Argentina: cómo la industria de Santa Fe busca convertirse en proveedora del desarrollo energético argentino - TN",
-        "description": "Haciendo Argentina: cómo la industria de Santa Fe busca convertirse en proveedora del desarrollo energético argentino TN",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDYwNVdQdWEwNnNTaHFHYlk2RkFyQThwT1ZhWmVDdk1yUHR3MXUxZVh6aG5vX0dyNzdxTENUUHhUQmZqU2pfcUM0dmNuaXhubDVGQmZGa0FHam5PS3psMDlXc2p6dzhKNGd1UkVVVHZURFN2SlZHcDRLTkdvS2RyNTVmY0hOdHdwaHkweWxtSmwwTkIzdDFseGRhWHNQajVRYk1NTE9nUG5udXdTcHZIU0RIN01kUkRXQVhWeGVzUDJ1QklnRV9raFlBMWFRZjc3TDVyQ2FlLTdJemZJOFY1T3ZjOTRQQdIB-gFBVV95cUxOblNKelp1U1pqOE55em85amhuejR2SGpxR0lseUFaTWNEcGdvdnhFOVhzUXVhUTVGOGxDd2RhWHBtT3dUSkpnZ0ZlQ05md29wdl9nTTlnU0Zia25oREczVG9WVlQxeFJJellZS2hlRnROd3A3UUlFOVJXcnVVVVdrLXI0SEJZY2FUQWF1THRfOVoyMnhqRkZGNHhXb1ZwVFc3azRPRDlzYmctaFVzbnZyMlFtUlRlblRYZWozWXZZcjNsSWgwUWxYVDZjbl9kakU2UUd4MG80d0FqN2YxcDRPb1l5c0prTXFGLXlmRWNWM0tibERqVkFtcG53?oc=5",
-        "date": "2026-11-04T15:42:11+00:00",
-        "source": "TN"
-      },
-      {
-        "title": "Reciclaje en Vaca Muerta: el centro de clasificación de Fortín de Piedra triplicó los residuos tratados",
-        "description": "Reciclaje en Vaca Muerta: el centro de clasificación de Fortín de Piedra triplicó los residuos tratados Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2Ezc3VUNGFvc1lHaFpiN01wa2pZcDJUOW5MRnctQUlxNGNjbUc4ZkRyemIwT29vclFqUkg2NlhBOTJDY1psQzNWNHNMbWZIdjgzbmE0REJSNklUQUJtUnE3VWJsem9vSVlNY3Z3ZWxvVm00RGJNQzNSeGo1Q2hJSTc3MHowUFFvNnBIQkpINl9tUUk4SUJPV3pNMXRrOTQ1SHJiSmZXRF9BbnRIVmR6RnlhQ1JESFp0QU1BeDQ4bkFrMXBRS1gta1lQcUlQakp30gHWAUFVX3lxTFBsdjRzSnRvc3Ewd0NPVFZiNnk0RDZpOXF4TEpFbllZVk5pSGZOaFBTZWI4aEgzeGhhZm1MYktkMS1PRjlhRkdUd3RmZmV1WWhRbDlianNTNmFGNHNqR2lhMWVmdF80S0NQLWw3QmV1Mlo1SkdlQjkyMVRNZzNhcGtPYmVXZk9ReWNqcGxhd0ZMbXJUdlJfMWY1V2pkSkhZU19IWXFuTzhBZTBpR1hsX2VQU1htUDFsVS04amRIUHBGb1J0M21SRW80MG81NWkwNmxGT0xiM0E?oc=5",
-        "date": "2026-11-03T15:15:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
         "title": "Vaca Muerta genera empleo y atrae trabajadores, pero Neuquén enfrenta un desafío: cómo recibir a miles de nuevos habitantes",
         "description": "Vaca Muerta genera empleo y atrae trabajadores, pero Neuquén enfrenta un desafío: cómo recibir a miles de nuevos habitantes Infobae",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQczRrc0N4NU95RjhwTmJxWUZBWUlNMjBoSmM4bjhtMklWVkxaYjNJalZVRDZ6d1FpT3NBMnROdWtLeGhnUlJySVB5cE9URnd0YzVBV3dxNGpkTTFHQ0V5YncweWxGRi1VbllnNkRjQUdYSGltbFB4OTlVV1AwR0hKRUZNZ3dvMVNHSXY0eU8teDBQbXZaaHB6WktlTTlSTUFJSVFrQlRkVFV6aEFkUEJJa0xMcEVxbHZSTFNWTFluTzhLVXpMdlJURmlsQ1NCYThGelA1YjZhT1NaZlY0WDZvMUJtMDVYY2lfOEFTUDhWemQwd3c5NU00bG530gGUAkFVX3lxTE9NZTM3YTc5NE9sQ2NHLXlJMmlQTl85R2daeWJ1eHV1cWYtTElwa0VrOE5qZmxnUlpZWWE2UFFfLWF6T29nVFZTUnpGcUgtRWo1MVhxV1NhZnEyTldrTzQyS1duclhGSFpFNDdCUmpRalE2Vk5LYU9lU2xZQXdrelI0X3pPeWI0bTJaazV6X190TmJFVGJXU1E4azlWRkZpMHB2U3lSUF9GMVpUTjNUZFc2dS1MWGxneGtRVE5uQUctV21JQklSSERwU2N3bXU0Y3NZTHBWUVNiOTg1UzFueENfZjl3VVdOTDZ6RlRmNU5GTlRrcFpwRGNVVl9WUHl5YUxmOUxRdU5WcHRRVkxMSnh3cE5tbQ?oc=5",
-        "date": "2026-11-04T13:56:00+00:00",
+        "date": "2026-11-04T13:58:19+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Cuál es el efecto de Vaca Muerta en el bolsillo de los neuquinos",
-        "description": "Cuál es el efecto de Vaca Muerta en el bolsillo de los neuquinos Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ2JvUzV2ZndweWVGYWhTNVpuT1FadWc5TUJzcHpPSzF4S3hkaGxuQTNKejBhbEpvZ19ZeWVwV1E0WFFLUmEzWFdhQ0E2VjJtenhCeEh5UWhYNkxIeFRmS2Y2S0V0RUIyVlFSYzNOVjBySVVES3lhQ0hxSFhvdnBILVJNRDkyZjE1cFpQMlpYaTNpNGdlN0JEeHUzME14cWZnSDJhY2JB0gGrAUFVX3lxTE5hXzlncFZQVENBYTQ2b0RCc1JrRjdORWQ3V0Q4VElaeVIybnRxQlZLS1RIUHlOVmFIaGpKX2s4RHdhQ0JEdU9ISVptNHpkaF9pVUJqdWZMMUpFYmZncGJ2M2JNTldmUXNES2Zfd0N3X0dKSFU5dVVkYmVSVktGX2NUQndaZWtPcjB1MEI1WEFGWjFEMEdiWk11YWZWd1VJWm1pOHJLZm8tZGNkaw?oc=5",
-        "date": "2026-11-03T12:24:00+00:00",
+        "title": "GeoPark prioriza Vaca Muerta y Venezuela para incrementar su rentabilidad",
+        "description": "GeoPark prioriza Vaca Muerta y Venezuela para incrementar su rentabilidad Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkwzOHF5WVNZcFJ5WGFpRzAxalFaRy1lVk92bXlWV3hoVVozRThUM3JMZ29Tb3ZZYlZBSXdEeDVvTnRrQndhVWNnczNTR0pIYXVaTHZUTHRqMHZXajFvN3NsSDRVTmc0ZTE1VE5MMVBCclpFeXEyTkZpVk9TUDNQZndiYlh2Q2t2YlVsLWdVcWhNbFR3UGF3RTJJVkllNVh2M2d0dG1URThhSV9weHdleGpMYlBqM1nSAbwBQVVfeXFMT0NGbFhvZUt2UGlyWW9xOTVadjV5TUh4c0NXcURBTkhpZWlpUmNyaHpuMnNRMElmcURUTDRLNi1CdE4yNGNZVzRQVkNEVl9IX05Bd21aV3hISmFUd3ZDR1RsUFdLaDJ4NG9yRUZFQU12elM1Y2ZVb0c5SU05Y1h0ajE0UmZEb2RoT0c1N2FnWHk2VU8zQ3BmYUlfeUxSS2FxUi1iQnRrT0p3X1ozejdRN1dsV081UG9aUGpYaVY?oc=5",
+        "date": "2026-11-04T16:59:00+00:00",
         "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Vaca Muerta responde positivamente en el actual contexto internacional",
+        "description": "Vaca Muerta responde positivamente en el actual contexto internacional El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnZhN2p1YVROSGEweWVfMTRyNzB6ZGNoaExmeTBXT0dFY1RxckV0UkJnWVdVQ1ctYUNVNWJVSjM4QUE4QXVTbkpEaHgyTUFiT0JsZnp1cF9ucGptaGVXSlNvR1ZKTFloNktYOWszSldVbnJJazFDSXlMa21naTJiS01MUS1lZ1JEcWtGOXU2Zm5fdWIyQUdUYmtpcjI2RDgxVmdobl9VQ3lsMWo50gHHAUFVX3lxTE94dU1IWDREWXJDY21vQkhPd3VPTmZ5X3NMRk80QXptUDRiUDc5YndkUFlJMzIzRGs5endyeFFEUlhoRXJndEJ5NVc0bEFpWnJhTk1jMVVpNElwZU5DdUNIa1hNcTFhV29yWDlVZ2lJRGttbUZpZmpzLU1JeVEzZTJMcVJWRE1QYmVKUTF1UUdkOXBTQjFkbnhKbEFLVm0tUGlxWW9ORzN5UVhIMXZ0d3dpV2FyeDc1VV9Yd3pMOEtRSTBtaGlsY2s?oc=5",
+        "date": "2026-11-04T19:50:10+00:00",
+        "source": "El Cronista"
       }
     ]
   }
