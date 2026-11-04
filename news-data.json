@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T21:26:11Z",
+  "updated_at": "2026-11-04T01:49:33Z",
   "categories": {
     "Microsoft": [
       {
@@ -8,6 +8,13 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSDJsOUhFbFlUM2NheVU4NGJaTHVBREpoNlhEejc2dDJ1ZkNScXVmY2xvSUFwNExGcFpsbm5JcGhLMUl6c0kwcmFQM2d5SG5EQTFDUnNuZGNyaGY0VVNhODI1YnRHRDNUNHh2TVRZVGxUZVVJN3dnTUhOQnh1Z0ZPY0tPWEJhQWMzc2NmenBIVlBRenZkWS1ZbXVFaTVGZGRQZUtSeG8wQTFEdW9qb3BqYUdxVlUwUE8xTjBqa3BxN0Z3NU0zbGJwWWFwU2hyYW1nd3NpOE5DTWlFbktPUC1FcHJ30gH8AUFVX3lxTFBpWExsQ0J5SDdPR1ptc2VYRDZTdDN3U1ROYWxHQnFOU1Y2Z2g0M05VRVE1Q0o3X3p0TmRDalQ0M3dDc29Id2t0UnBYVHdaSkVybVRjRHRNYkpyQk9tVWZXeXJ1WXpEak9VeXYwVW5NakZoRm1mVVVCSDVQTWllQnhNblBEQUx2bkJzYkVzYWZ1UUI5WDJiV0lUbDFpZkJKUFhMY2ZGQVAyY1VTSEhnUkdBenFqdXRDWDR0UlA4ampvbXd5WmQ4RW5DNnYwc1BRUFk2ZDBTdFpKS0NtU0ZlN2NmMEZYaTZjQXg4bkhuaENDSk1mWU1VR3Y1TnFhQw?oc=5",
         "date": "2026-11-03T19:40:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "La advertencia de un exingeniero de Google y Microsoft: \"La probabilidad de una extinción humana provocada por la IA es superior al 50%\" - TN",
+        "description": "La advertencia de un exingeniero de Google y Microsoft: \"La probabilidad de una extinción humana provocada por la IA es superior al 50%\" TN",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnlNLUg5YVY1VXJlUUI1M1EzV0hOVFlKMXVQR1Z2OEF5bUVkQUQwM2FSbFFZYm01dXB0WV92ZU1LaG5tZTRUcnZRTXNtRVNHZTV2X3BpeXQ1blp5Xzg0bFlmNHN5eHBseUJIa0VnYlBPd1dSMjhfYjIzVlJuOXh6VGJVNDNwTkE3djBFNDB6VXdWcWhNU3NiUmRIbzlsZXl5aUJDOHBfcEFfdXJyMXloUU5CY2hISmVJZ2lQVmgyQXBDcHdqRFpDemsxbWVvUWlMUFRjZUJJRHZDZFV5Uksxa3hMTjBGVlQya1F3SVprRUhWd9IBhgJBVV95cUxPdXBOVGk3UENQTHZGa2xnejhhRS1oaWNRQzhteTNha2c2Y0dqOEJnM0k1azB2ZklZb2VaeGpURThOMTRqb1dyNnFMWjNhWWlDM3JYWEY0aC1Bd2VSVWtlTjdwUDdOZkVBZzJRQkJhUlZ3NTF5M2oxYXczWGlwdDVkeDBDak15eUR6ZlVzVVhoaldPTGhTT0dmOTJRbFM4WmdEeUpLQTc5YkZsYmdycm1oazRhRDJNVDJzelFfRVp0X25MYVprZktUV21TNklFTFdxdHV5aFItdjMtdEZmRml1Y3h0Z2hZUFBEc3BlSVRuUkhhbUUwUGtxWm5uN1lKcDZWektOS3ln?oc=5",
+        "date": "2026-11-02T11:48:14+00:00",
+        "source": "TN"
       },
       {
         "title": "La exdirectora de operaciones de Xbox negó que la despidieran por violar normas y dijo tener \"serias preocupaciones\"",
@@ -31,13 +38,6 @@
         "source": "Vandal"
       },
       {
-        "title": "La advertencia de un exingeniero de Google y Microsoft: \"La probabilidad de una extinción humana provocada por la IA es superior al 50%\" - TN",
-        "description": "La advertencia de un exingeniero de Google y Microsoft: \"La probabilidad de una extinción humana provocada por la IA es superior al 50%\" TN",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORnlNLUg5YVY1VXJlUUI1M1EzV0hOVFlKMXVQR1Z2OEF5bUVkQUQwM2FSbFFZYm01dXB0WV92ZU1LaG5tZTRUcnZRTXNtRVNHZTV2X3BpeXQ1blp5Xzg0bFlmNHN5eHBseUJIa0VnYlBPd1dSMjhfYjIzVlJuOXh6VGJVNDNwTkE3djBFNDB6VXdWcWhNU3NiUmRIbzlsZXl5aUJDOHBfcEFfdXJyMXloUU5CY2hISmVJZ2lQVmgyQXBDcHdqRFpDemsxbWVvUWlMUFRjZUJJRHZDZFV5Uksxa3hMTjBGVlQya1F3SVprRUhWd9IBhgJBVV95cUxPdXBOVGk3UENQTHZGa2xnejhhRS1oaWNRQzhteTNha2c2Y0dqOEJnM0k1azB2ZklZb2VaeGpURThOMTRqb1dyNnFMWjNhWWlDM3JYWEY0aC1Bd2VSVWtlTjdwUDdOZkVBZzJRQkJhUlZ3NTF5M2oxYXczWGlwdDVkeDBDak15eUR6ZlVzVVhoaldPTGhTT0dmOTJRbFM4WmdEeUpLQTc5YkZsYmdycm1oazRhRDJNVDJzelFfRVp0X25MYVprZktUV21TNklFTFdxdHV5aFItdjMtdEZmRml1Y3h0Z2hZUFBEc3BlSVRuUkhhbUUwUGtxWm5uN1lKcDZWektOS3ln?oc=5",
-        "date": "2026-11-02T11:48:14+00:00",
-        "source": "TN"
-      },
-      {
         "title": "El IES Del Atuel renovó una certificación internacional de Microsoft por su innovación educativa",
         "description": "El IES Del Atuel renovó una certificación internacional de Microsoft por su innovación educativa Diario San Rafael",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSy0zNmVMTzFrYk5fSDNnZ01aOHZQc0tYNmR5T1c1WVlaUmtVRzJ0M2x1bFNMbWpodGp0emRITWxvSTdURGNrUjB0YjBjWXRKaWpHbkNQTVFOSEpvOFNJMUZsVktoMGV5d0VXR2lxT1liN2hBNmRwS0JZNHFqMjMyNkxJSGJiRW9XMlFHVTdPU1IwX2h4Vm5oM3VpdHBuVVNIUXVfZEFlZmVVWE8wQXA4UHpSZW9SQmk4TE82QW5sbDZsTkhqb0dR?oc=5",
@@ -45,10 +45,10 @@
         "source": "Diario San Rafael"
       },
       {
-        "title": "Microsoft retirará catorce juegos de Xbox Game Pass el día 15 de noviembre",
-        "description": "Microsoft retirará catorce juegos de Xbox Game Pass el día 15 de noviembre Eurogamer.es",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcThiWG0wMUtscEg2a0RiU1FNcEhmakhna1pFS3RPOEphQ2luMTQzYm5hWThMSmJfQXlhOE40TmtTQzdlRmhIWWtNMllGTVJsbHBfQ1AyVUVOa3czeTMyN2hwdjhEblRaZ1JUOWhENTZSN0h2LVhrRHZsb0Nrb3Eyb1dKUzBMNFJhaUswb0FPUHpaUHozd2lldzM1X2h5NVJt?oc=5",
-        "date": "2026-11-02T20:20:29+00:00",
+        "title": "Microsoft anuncia los juegos de Game Pass para la primera mitad de noviembre",
+        "description": "Microsoft anuncia los juegos de Game Pass para la primera mitad de noviembre Eurogamer.es",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXMtSGpnUE5NZEdyWWVJMjVKaHY3UmtXcU81QVJBeEFiRlQ1THJ3UzBEY083QzRhekdSZ0Jfai0wd3dCVEVNVEVzdUZ1SS1jYzlfQ3JqSDE3cG9qTmZvdnNoVXN2Njh1MU95MVRlZUZQaHdYSmltVlM2Qjkwc1dkSmo4N0VyVk0yX2NQUG9QaExUS2tKOWpGQ0xGZDdHSVZXV3Jn?oc=5",
+        "date": "2026-11-04T00:36:00+00:00",
         "source": "Eurogamer.es"
       }
     ],
@@ -61,18 +61,18 @@
         "source": "El Ecosistema Startup"
       },
       {
+        "title": "FINALIZARON LOS CURSOS DE MARKETING DIGITAL Y CALIDAD DE ATENCIÓN AL CLIENTE DEL CEDER EN ARROYITO",
+        "description": "FINALIZARON LOS CURSOS DE MARKETING DIGITAL Y CALIDAD DE ATENCIÓN AL CLIENTE DEL CEDER EN ARROYITO Municipalidad de Arroyito",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaEV2OFhLSkpFcHlMeWQwODM5ZzZ2bWlpa2VuaUxtRTFFbVRRcTlObWVzMXhwaWYwUjdzRVhZbWU2Tm5RM1ZlSWJVWGRBOUtTYlBscWZWaHlWMTA1d20yUGtfUXk2ckZtXzFING1ZbTJOQWtZVFFaaC1WTmNmRzF4Y251RzhBazF0M1BveDhaMEpIU2FkcnFWU1V0WGZEMFFIRURVUGNETmFfTERlUEFpRy1udW9BWWV0VXRkWG9ySmRPMHVORFZuYUc1bHVLaDNwTlR3bDJ5NnNMZ3ZaN1Qybw?oc=5",
+        "date": "2026-10-28T14:29:40+00:00",
+        "source": "Municipalidad de Arroyito"
+      },
+      {
         "title": "De trabajar gratis a revolucionar el marketing digital: la historia de Vértigo Marketing",
         "description": "De trabajar gratis a revolucionar el marketing digital: la historia de Vértigo Marketing Notimérica",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM3p6TE1CX0xiS1NrRkVIMTZCZktRUUZ0Y3dpSklpV05TanBhQVZGNmNFNHd3b2d6TTYyal9qZ3RuM0dFREI1RXJXalhfcEJQSUdZdUtEajFKdmlUbWVVVVhPVF96WGJFN1VRVXpXNEJVcWhEZTVpSWFOZG9ObVctelo1ZG5VSTRybzBvVlNiYnFPczhnSDdrbEdOdS1wRjFJUGo4bHJZd29HTGNCc3N3V2FDcGdsWF84QnhlVUhySGhjOVJjbFZsZWdMTXVwc0RaSWVuYlduTkExbHdUczN5cFIySG1Pdw?oc=5",
         "date": "2026-11-03T10:05:42+00:00",
         "source": "Notimérica"
-      },
-      {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
       },
       {
         "title": "“Impulso Emprendedor” y Gobierno Provincial capacitaron sobre Introducción al Marketing Digital",
@@ -82,11 +82,18 @@
         "source": "Gobierno de Venado Tuerto"
       },
       {
-        "title": "Lejos de la tele y digital, el negocio de Matías Palleiro, la pareja de Jimena Barón",
-        "description": "Lejos de la tele y digital, el negocio de Matías Palleiro, la pareja de Jimena Barón El Intransigente",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWI4TlNldEJhU3g1aDBISms2WndvMllJRDNBVG1mWFMyVm8wVmg1NFZlM2g0Y0NSUmlRYWdRX29EQ1g4S2phdG9udDlCWEx1LV9hSnZsTEphOFNHeVlfOG8wU0I5RTE4ZHY3SEo3Q0pPQnYxdm9FMDFNVjc1cW9tVkNuUUh2ejRIQjJTdXY0dkZQUUlCdU5rOWQ4ZmZhZFFUQ010MXhEZDJoekpUVWFvUGQ2R2pQeXpM?oc=5",
-        "date": "2026-11-01T23:48:01+00:00",
-        "source": "El Intransigente"
+        "title": "Magalí Pessah en el gimnasio del marketing digital",
+        "description": "Magalí Pessah en el gimnasio del marketing digital Urgente24",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlg1dm04WFdWT0VGUFdpTHlVRDkxRDE5ZkNlQUlFQ2JEckNud1Y1bU1NcVhjUVpYM0MxOUVhdnBDQTBDWGVLbWM3UFVuRlhyTmp2NDJxOVQ2UVNGekdjZVFRRzRBaTc2QVczX1ZLWXhYVTRQbnZtWXFFRjNNV05nRHFCTGRqRkJLa1hn0gGQAUFVX3lxTE1KNzN2cVE4Q3VHbkVuOU1ZQUNWem82ZGJUSUVCYUNfMVpQWHdKX0c5WDFJc2l5OWZjM3dDc2djSW1FWFFwMlllTWdlNWc5T2RrYndXYXQyMEFYVmVZZGQ4SDE5NkEtZERLbE9GczA5Wmw2NXNUNnppZ2dDNlFjWFNyWlVGdVFDMUZRSk1KSGVnZA?oc=5",
+        "date": "2026-10-25T07:00:00+00:00",
+        "source": "Urgente24"
+      },
+      {
+        "title": "Abrió la inscripción para un curso gratuito de Marketing Digital e Inteligencia Artificial",
+        "description": "Abrió la inscripción para un curso gratuito de Marketing Digital e Inteligencia Artificial El Ciudadano de Mar Chiquita",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYWpic0NxSUhQS2pZYTIzTzRHTVJnZDZBZ01QMU9ib0x1QThST1dJMFA3TGo0QWtGV1RiUThxZUxYU3pnanV3aFdTNUY4UUxINW1TWlc4cGNmY1VTeUw2YjNLbFNWUi1JM2NiYlRqSEJIQmxkMC1aQkVLdjBfYzBObFg5VXllS3RSN1p5VXZFYTZtLTYxWGlZa1h1MFQyNnlPbXo3SGV2bjZwZWxQc05WR0RNZnVNUDRGbldqVmRUZjRHRl9sVHNhcy11dzE5TnczVXJzQQ?oc=5",
+        "date": "2026-10-29T20:56:36+00:00",
+        "source": "El Ciudadano de Mar Chiquita"
       },
       {
         "title": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados",
@@ -94,13 +101,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblFHMFF5TUhWVmZVbWRkbENzYXpCYWxmZDlqanVQMGN1NGFOMnZzZ2lpbUZvOGdrM0xJcy1hbDNzeFZkZkUzMld0SDdoM1pYVVpaam5jTTBRV2dMQkdWVDBLcmNEeVM1dXJMeVdpV1E4ZE9YOGJMVFA4MDY3M1VUQ1RVWGJZdjU2M2UxM3M3UnZHZ241Y1dGbDBTT1ZfNDEydmdQaWVpTTVVdWEySk03M1hreFhiXzJMUTZvRzZNMzg?oc=5",
         "date": "2026-10-21T07:00:00+00:00",
         "source": "DossierNet"
-      },
-      {
-        "title": "Conoce a los moderadores que guiarán las conversaciones sobre el futuro del marketing digital en el CNMD 2026",
-        "description": "Conoce a los moderadores que guiarán las conversaciones sobre el futuro del marketing digital en el CNMD 2026 Revista Merca2.0",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3EzckN6ak8yTHhEN3dQOXF5cG9EQmNNc2xEQkMzeHEwb3pFSjlTSTFFbVY2c2drTzlxSlRBZlBTMVowX3FEaXR3ck9aR2tHdGJqQk1XSF83U1J1di1VSmNCejJJeE1nUzFueDJxVEhJbGpxR2hjRVNGSWZoWklOVlRqSG8ybFBYV0R0VlpvOEZFMG9aZW5QN1A4ZFJXaHFrN2Z1Y053dWs5TzU3b084RDlKblFTcy04R3NtR0k4QkphX1Z2YUVUX3M1RThhUkE?oc=5",
-        "date": "2026-11-03T20:28:41+00:00",
-        "source": "Revista Merca2.0"
       }
     ],
     "IA": [
@@ -112,18 +112,11 @@
         "source": "Página|12"
       },
       {
-        "title": "Innova Futuro: Córdoba integra inteligencia artificial, plataformas digitales y biotecnología para transformar la educación",
-        "description": "Innova Futuro: Córdoba integra inteligencia artificial, plataformas digitales y biotecnología para transformar la educación Prensa Cba",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmZIc2hid1RBQ2d1MzVyVDBqVmlBQTRfSUtabS1PRUdxYzJfRjlJNnIzaG1TQ05ma1R0WTFhNGlYaUR6bXRXeWd1V2dQbnVUc2wtTGNBeXNzcGxxV2w3VmIzRjRrOEo0TkNPejJOTHBMRXNWamZLaDJtWkttSDBmdWZHbnc0cHpybFRpVDVaODVyM1EtRlM2VnFZSXNsck8wUFdvdGxLaEtzUlBobVVVZXQySUNBUHhhaG4wemRXSl9Xejd0aEtZTktkeU55UWR4ZjRRSFg5Y0xWdGRFeW51VnhR?oc=5",
-        "date": "2026-11-02T17:21:10+00:00",
-        "source": "Prensa Cba"
-      },
-      {
-        "title": "Verdad e Inteligencia Artificial",
-        "description": "Verdad e Inteligencia Artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXhyRGEyelAzZjBFcTh4ek9BT1JvdkMtTzZKTTdqZHV3UlRyN0pUYWJHQnpsZElWOTd5UUdUeFVIMEE2UEozT0dmeUFpMmFuY2VXbWtrSFNiZmFseGM1MFhBUjlkbXVXVEtiYjRxLVFyVm9KS3lOalVTWUl2RUhwUWhIVnpwcVBS?oc=5",
-        "date": "2026-11-03T03:00:00+00:00",
-        "source": "La Nación"
+        "title": "El FMI alerta de los empleos que la inteligencia artificial puede poner en peligro: los jóvenes, entre los más afectados",
+        "description": "El FMI alerta de los empleos que la inteligencia artificial puede poner en peligro: los jóvenes, entre los más afectados Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcHQ3SjlLUS1pZEpqRTl2YkhlcjFvUGk5LTNVMW4xeDRKbDFKcnZMazBTSElZSFNGLTNoZThwMU1DUmNuV2FYYWNuSHh1X1BoUWpqTkZ4S29lMWU5NWNreTdZSGFaa1FuT2NfOVNocExzU3ZzNkRraXFoZkRScl9wMnNQVDMwUGlOeGVtLUJCQWNKTXhNb2wtRjVYV05GSV84WGI1WHFKcUpzcTBKbEtweU9SR3Y3NGJRT3ZuVEgwUnliRzVUaC1SeGZDQnE4eWQ3TEpLNEdUTlh1cVBCWDFPMXlXUlFmVnowWWlPYTl5QWQ4RFHSAY4CQVVfeXFMTUhrYl9lTlp6aFY0WUdOcEdpclpoRURMOWt3Nk5aVVVIS1o4Q0cya2t0ZExoSU44Q2Q4R0V2Z2dfMTNZZFFldk9RNFYtOXNXeVl5NDlKOUdTb3hXTThzSlh3UGQ0Mm5tTHNiY3NmOW15REZMWG5XREdSZmtYM3duellrREdPclNIOUhwbGNqNFp0OEZPVVdBblBtdFJQSzFObWVZVmZUWlhaWkp4c1RtQVhvNkNVdUoxREtaX2l2Yk9jV2Vlb2RtSFBkeFJRSWVsU3NDcy01LWp1MGtWRzlwYk5CMExZV0tlTU5TS3JGOXgxTkNSaDNjWGZFQjdoS2hiZmFWQk5KM3RpOUNIYlJn?oc=5",
+        "date": "2026-11-03T16:15:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Apple lanzó la nueva Siri con inteligencia artificial en Argentina: qué puede hacer y cuáles son los iPhone compatibles",
@@ -133,11 +126,18 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Cyber Monday 2026: cómo usan los argentinos la inteligencia artificial para evitar falsas ofertas",
-        "description": "Cyber Monday 2026: cómo usan los argentinos la inteligencia artificial para evitar falsas ofertas La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVEtUSFJScDJVTFhfSFRVTG1HYmplTDlqNEFIR0J3ZUtVR3JMOFY1QjZpRnpGbUFQM0tCMDYtOHJMTi1BZXVBcGMtcVBZMDZoU3hSaHlyV2o5bEdDa3RNTWl3T3lwVG1Gd201RzNiS2dyanJrbXRHcEtzQ1F5SkpqbHo2VU1tSFVMcE8taEQtU0k5bTBpR2VFVDNPbEt4cV9kS2g0X1ZpazNtRU9ES0NxNU5kWTZ4cnktMnN6MnA1Mzd2dWV1R014NXB2OHpFb3FmYm85c0JoTkxDbDFI0gHiAUFVX3lxTE9vNmNTNUJ2eTVZSEh5X09GcFpmdEVFbFNSUTFnYWRjd2pYNkt3Z3EyTkJySEVzTVVELVhFM2swbUhua0RpeHNvTUFESGNhb3BWbXN0WkFBR0tBVjVKUjlQR0sxMXd6eENHT0QwbVBJSkRhMTkzNzlTMmFFNWdFaXpycDhENnozQVVpSDYyZzFKMTM3dklFM3Z0dkVuMkRhRzhQU0l3bWYxUzl1UHBQam5MZVRzVHVvOUFUMHB5TDRtMFZuVW8tb1JoUG81ZEhqX3hZcVlpSU1YTUNhcWRUZG9MUlE?oc=5",
-        "date": "2026-11-03T11:53:14+00:00",
-        "source": "La Gaceta"
+        "title": "Innova Futuro: Córdoba integra inteligencia artificial, plataformas digitales y biotecnología para transformar la educación",
+        "description": "Innova Futuro: Córdoba integra inteligencia artificial, plataformas digitales y biotecnología para transformar la educación Prensa Cba",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmZIc2hid1RBQ2d1MzVyVDBqVmlBQTRfSUtabS1PRUdxYzJfRjlJNnIzaG1TQ05ma1R0WTFhNGlYaUR6bXRXeWd1V2dQbnVUc2wtTGNBeXNzcGxxV2w3VmIzRjRrOEo0TkNPejJOTHBMRXNWamZLaDJtWkttSDBmdWZHbnc0cHpybFRpVDVaODVyM1EtRlM2VnFZSXNsck8wUFdvdGxLaEtzUlBobVVVZXQySUNBUHhhaG4wemRXSl9Xejd0aEtZTktkeU55UWR4ZjRRSFg5Y0xWdGRFeW51VnhR?oc=5",
+        "date": "2026-11-02T17:21:10+00:00",
+        "source": "Prensa Cba"
+      },
+      {
+        "title": "La inteligencia artificial: una revolución que pone en discusión el lugar de la inteligencia humana",
+        "description": "La inteligencia artificial: una revolución que pone en discusión el lugar de la inteligencia humana Diario Junio",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVlgwZXhvdktGTC15bmdtZnAxMFBrMno4eWxUZE9aZHlLakNFYktxd2I5eFdXRFYzX08xMGk5V1JqbVZBUV9LclFWdGJ0QllUTUtwR1dvZUc2dHdZdFQzWjhZa19rZzBlQ043b0FFbldoQlR2WVp6dmpSeGdCWjNhWEZwN2RfR0NGcENvbFVLVmQzekRaRTJyZzdnRGd0V1RUbThUcU5YM2lUQXRHbGF5dktyQzZSMzAzZlZjVDY3Z3Z3Y0lla0JGc3RabWd2Y0h0c2FR?oc=5",
+        "date": "2026-11-03T20:10:22+00:00",
+        "source": "Diario Junio"
       },
       {
         "title": "Trama: inteligencia artificial para la atención y la venta en turismo",
@@ -147,11 +147,11 @@
         "source": "Revista Noticias"
       },
       {
-        "title": "Apuestas online, inteligencia artificial y acoso sexual: las cifras que exponen los riesgos digitales entre los adolescentes",
-        "description": "Apuestas online, inteligencia artificial y acoso sexual: las cifras que exponen los riesgos digitales entre los adolescentes Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUEhUd1NSZnRYb29BaGdzeTRENnhQMnpSTnBJckk0enJWOHZEM0JvN3JYNEppdTlaU0wxX3BGdmRTdzBZQlJmSkpqa3hMU00walVDQnlKUmxia1BpZkNmMXpTRVMtYW9qazlhUWVBV0tRUUJQQ0ExaGRSek42TnlVdEtfYnNOY1B5UG9FNjNBc2xVSHAweWRHNlRrTWJpYzFCUGgybzVKd2NMQVFJU3hlcmlhTzY1M1hLNTEzZnIxaUd1QVdoeWJuYUhLN1RwN0pjaVdKYURMZWhVMDRtT1RBWTU0NjhNajB1ZlNXdDM1eGRYQTc5NkFQWjZnc9IBlgJBVV95cUxPQzFGRWVOYjRBNTcxRllpblFXandXZ1lEUWhHN3ZNc2t4WnNneXNlbXVHLTlpcUlFT0FCZEhNTFBROE1kME1HQVZfR2NfbnhUVUVWc2VDdTFJSmc2Y3prTTlkXzhMWDRwYWM3UUVmQXJEcVBzakxmRzc5b1NxcnR5R2ltck5xZVZ0QThBeFFCcm93NUN2WUUwc2NmQnFhWUl5bklFWi1pSmRzbHVSNkJuM2tORXZtdUo4RlE1aktVZTJvY014ekxfMmVTaW9Nb3VlVWRWazRaOG9yOE8wU1ZITTVCOThrYXl5SXM1S3FEeFBvV1JBSmdzNzBWM1FFY1lpRks0MC1DOUZKeHhVdkFRVkxHNmRkdw?oc=5",
-        "date": "2026-11-02T16:32:00+00:00",
-        "source": "Infobae"
+        "title": "Verdad e Inteligencia Artificial",
+        "description": "Verdad e Inteligencia Artificial La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXhyRGEyelAzZjBFcTh4ek9BT1JvdkMtTzZKTTdqZHV3UlRyN0pUYWJHQnpsZElWOTd5UUdUeFVIMEE2UEozT0dmeUFpMmFuY2VXbWtrSFNiZmFseGM1MFhBUjlkbXVXVEtiYjRxLVFyVm9KS3lOalVTWUl2RUhwUWhIVnpwcVBS?oc=5",
+        "date": "2026-11-03T03:00:00+00:00",
+        "source": "La Nación"
       }
     ],
     "Vaca Muerta": [
@@ -160,27 +160,6 @@
         "description": "Vaca Muerta anticipa otro \"cuello de botella\" por la demanda de trabajo: los puestos más solicitados Diario Río Negro",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTDZtS294eVF6UEhQYXlKdllqN0RLbUZFcjkwUFFDdTZoYmZEQVd6SklKQ0VZR2I2NTVBV1N6QUxWQThOaWJ4MTd1NGRjdC1iazhrR1VjejB3VWR0RnMxeFA2UDdSXzFfazhzRm1NamNmMy0tVmtVVTRwRFJvM3ViQmVZU1loOVFGT3E2Qm00Y09nb0dXV0dYcTNpSTdDV3BBbkZPYUxmTEhhNTlzNGJvakJqQkZsTk04NzFTbXBNQVU3d3VSSkVSellkSDYwSnRC0gHYAUFVX3lxTE5oTWw1T25mOUVlRVBSU2J1Y3JaLUV2VF9Zbk4xRkY0ajNFNHNJZkIzWmRUZnFfSFhnb1lvOVhpUWxHaTdEU01CMVFab2lCSzBNZDA4aUNRZG1iNVVDckE5NmtEY010ZG5UTS1oN1RBZURocEFBeXdUWnhnMXhCOWdaRVZHX1YxbURhNjJrN01sQ21MYkNUSHliSUE4aWpDVUtuQTFTRkRIczVPLThoTWFURFhHUEhFOWRGWFFoQTZnWEVNS0hzbE1MUGtONlI5QVlva0RNYmxVSQ?oc=5",
         "date": "2026-11-02T03:30:00+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "YPF cambió de escala: el dato que muestra cuánto pesa Vaca Muerta en su negocio",
-        "description": "YPF cambió de escala: el dato que muestra cuánto pesa Vaca Muerta en su negocio El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGR1ZzlxcWVjRko2dlF3V3R6MUpFSE5JaUlSSHEwSWtqWkVaQWVscFFhMF91a3JyTGFTZXVBYVI5SjZLLXBSTTJmZkpkN2tVV016NU50WUpRd09pWTVOOVBYNnJiTGEwMnlnWDdCQmJCRkZOYllqZHR5X09WemxoaURzbVRYTDNmekpvSFoxRllhTGhsQV9oWjU2WXNHMkVPdUFoVzloeld2TExCeW9OaDNZV1BPaVl4U3E4QVdaMNIB2gFBVV95cUxPNTc0TDFIT0daRDl3SlNBRmNzZF91dVRHUmxnNHZRN2o2WVJldVBHNFlCeC05VVBmZkpJZUNZSzR6SkdyelNPNER4TkFRTkVaMnpXMnpqUDA3ZDhsZGxzQlp4UEhSdTBHMGpDQk9RamR1eFdXeUM1bFI4bmRnNElGaVZ1Y2ZjaWRIdlZLcVRTeXRhdHVuWjkxNFJ0cTlZbmtKVUU1c19GMlQ0OTNzR2gyQmlGMlFxc0ZvS185X3I1VGdJRWlrb3VhZlMzbS11UjNXWkl0QjM3bnRsdw?oc=5",
-        "date": "2026-11-03T13:52:59+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "YPF presentó la solicitud de adhesión al RIGI para el proyecto Bajo del Toro",
-        "description": "YPF presentó la solicitud de adhesión al RIGI para el proyecto Bajo del Toro El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXR1TDVSbzg5bzFxbnFvaG5mT05qVjlVWFFsOXlzaUlRaFpnUFN5V2l4ZFI1M2xVeUNmN291VnA1aVBDWllmT2pUNGctTk5RYlpOdlZUQWtWYXJUeGtUWnRIVHd1cFF3NXhsR1lVSHhvcXZWRnBIZVo0VUNvWEpsVTlxNnZNanoyZ0pBRnhMeTU5UDlCbmt3cmc3Z2tITlVXd3V2SWloVXRPaXJPTGVKc0laeVdzSVROZEFnRHdONlFPVlBRVDZZdUtrdi1TS3REeFZ1U3EydHhrZFA1bUJDY2VJNDZFNjA0?oc=5",
-        "date": "2026-11-03T18:42:09+00:00",
-        "source": "El Litoral"
-      },
-      {
-        "title": "YPF se prepara para dar el próximo salto en Vaca Muerta: presentará 3 proyectos al RIGI por US$ 44.000 millones",
-        "description": "YPF se prepara para dar el próximo salto en Vaca Muerta: presentará 3 proyectos al RIGI por US$ 44.000 millones Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRFB0YkxwU1JFZ2ZQZUhFbTE2R2pqXy1rZWl3WUZ6VDdvQ3ZVb0V4a1l6bGFwY2ExNF8wREI5YVhjY3hfN1c0RnFPR0ZPVHZLWGRlYTlwam1PRkFxUEpXdERjOE9hX3Vva2MzbnpPcGEyTHpRbEdyUnhsMUdnTnJzWkh1VG5ySlpvV2lDU3ZwVXd2ZXRHS3dIazAzTHVXd25NeGU1anlyS0IzQzdNS2tpLWR0eFZIQ2s1Umg3d3JFNGFPWUJBNGEtbElDZ0FqRE4ycDRSYXF6SlVqcE1Uc1dtZmVRN2ozVHBYbmfSAfIBQVVfeXFMTWVrc2k2VWdpcEFDTWxlMXlJOUMxVGpjVWsyQmt4c2JFWDZZY1BQTEZMb2I5YjZLT1o1b0lKN09MUTNWcVE3dEpFbWRyQ0xGLVRscUo5VFY5UDhFS01LTGdMM0QwWGVvYkhZcE5tOXBRcFBwUlc0Z2RWMHlmWDhqaHpKTDBaNzAwcUxPcmlmZTRkVGVmUjVmY3hJbGNjcGlLU0hLMk54MmpITlBwTFRHZ01UbHlpNWZFRDhoU1VJbXpZT2FxdS1TRjhtXzlzOEtSUDNSVkxBRVQtRXBrM0ZsRXhMb1dkSFNaX2p6QVBqeVRWRmc?oc=5",
-        "date": "2026-11-03T13:59:48+00:00",
         "source": "Diario Río Negro"
       },
       {
@@ -203,6 +182,27 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeERSQXVWdy13bmZ6ZV90R3VkZkExWlJ6eVF1VTBJNDhoWFBlUHpEQ2lTWHdndHlyaUloaUhaVWExVlpxQXI4QjRHM29sbUhXYXpyaE4zcG9SM0NUOTR1UDJjZlNucFZFNEJjVFFxQS1MV2J6Z050Wk9iV1ZQejZCS3dvUVZGT2IyZUt2Si03WTFsVDVENmxFc0lubWQwVUNSdGNrMjI4bUdZbjktOE92N2FuVm4xUdIBuwFBVV95cUxPV1oyWFpjOTU3V0JKRVliNUwySEN2VlF5Rm9CUTVXNEpzZXo4NTNkUWhhVkdjNldkaGhrajQ0ckpCaVlJcUxGcDdMTUNHcE1VNlZjb3o4VW9XMGs3SzIwVW56aEpzUjhGYmtLazZBM2Z2U053d2VPakRVQWswVGo0REJZT1hOdGFZUEJzUVc4SHQ5RnVqZktKWUpJcVQ0RTh2eUVDQmMwSWo3akx6ZUZYZXV0MmJwSDJGVzZz?oc=5",
         "date": "2026-11-01T07:00:00+00:00",
         "source": "iProfesional"
+      },
+      {
+        "title": "Ziliotto lanza un plan para impulsar inversiones en la cadena de valor de Vaca Muerta",
+        "description": "Ziliotto lanza un plan para impulsar inversiones en la cadena de valor de Vaca Muerta APN La Pampa Ziliotto presentó un plan de incentivos fiscales para proveedores de Vaca Muerta El Diario de la Pampa Intendentes y empresarios destacaron plan de integración con Vaca Muerta La…",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaDEwcldzVUFna0tpcDJXUmFfM1lVZ29KbVVsb3JwRUFPcFB1cko0bWxLbUgwZks2cF9rbHVESTNoZUo1d3NiRml5b05TenlmZEFybXgtNDFkazRUUktFUjJDNVVhbU5zSXVZOFp5Q3dxN0JaS1RxUmZtU1R2THRKTlFHdFp0azFvNG9pblFxSEtFZkNqeF9HSmpqQW5lZGZyS01WeUxYbmV3MV9ic2x5QTA1WGZkLTV4WE9lUkNpeHpjMmIySnRGc096WWwxSmc?oc=5",
+        "date": "2026-11-03T21:21:06+00:00",
+        "source": "APN La Pampa"
+      },
+      {
+        "title": "YPF cambió de escala: el dato que muestra cuánto pesa Vaca Muerta en su negocio",
+        "description": "YPF cambió de escala: el dato que muestra cuánto pesa Vaca Muerta en su negocio El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGR1ZzlxcWVjRko2dlF3V3R6MUpFSE5JaUlSSHEwSWtqWkVaQWVscFFhMF91a3JyTGFTZXVBYVI5SjZLLXBSTTJmZkpkN2tVV016NU50WUpRd09pWTVOOVBYNnJiTGEwMnlnWDdCQmJCRkZOYllqZHR5X09WemxoaURzbVRYTDNmekpvSFoxRllhTGhsQV9oWjU2WXNHMkVPdUFoVzloeld2TExCeW9OaDNZV1BPaVl4U3E4QVdaMNIB2gFBVV95cUxPNTc0TDFIT0daRDl3SlNBRmNzZF91dVRHUmxnNHZRN2o2WVJldVBHNFlCeC05VVBmZkpJZUNZSzR6SkdyelNPNER4TkFRTkVaMnpXMnpqUDA3ZDhsZGxzQlp4UEhSdTBHMGpDQk9RamR1eFdXeUM1bFI4bmRnNElGaVZ1Y2ZjaWRIdlZLcVRTeXRhdHVuWjkxNFJ0cTlZbmtKVUU1c19GMlQ0OTNzR2gyQmlGMlFxc0ZvS185X3I1VGdJRWlrb3VhZlMzbS11UjNXWkl0QjM3bnRsdw?oc=5",
+        "date": "2026-11-03T13:52:59+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "YPF presentó la solicitud de adhesión al RIGI para el proyecto Bajo del Toro",
+        "description": "YPF presentó la solicitud de adhesión al RIGI para el proyecto Bajo del Toro El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXR1TDVSbzg5bzFxbnFvaG5mT05qVjlVWFFsOXlzaUlRaFpnUFN5V2l4ZFI1M2xVeUNmN291VnA1aVBDWllmT2pUNGctTk5RYlpOdlZUQWtWYXJUeGtUWnRIVHd1cFF3NXhsR1lVSHhvcXZWRnBIZVo0VUNvWEpsVTlxNnZNanoyZ0pBRnhMeTU5UDlCbmt3cmc3Z2tITlVXd3V2SWloVXRPaXJPTGVKc0laeVdzSVROZEFnRHdONlFPVlBRVDZZdUtrdi1TS3REeFZ1U3EydHhrZFA1bUJDY2VJNDZFNjA0?oc=5",
+        "date": "2026-11-03T18:42:09+00:00",
+        "source": "El Litoral"
       }
     ]
   }
