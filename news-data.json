@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T22:20:47Z",
+  "updated_at": "2026-11-05T03:01:32Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,13 +10,6 @@
         "source": "Noticias 3D"
       },
       {
-        "title": "Nueva actualización de Windows 11 vuelve 40% más rápido un PC con memoria RAM de 8 GB",
-        "description": "Nueva actualización de Windows 11 vuelve 40% más rápido un PC con memoria RAM de 8 GB Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUUh3dEhDeEFHRWwtWFFGS2MtLXdqSW0xU0JJREk0MXM3dl91RkRjY0s3V2Y5UktBcXBBbWNWcjd4Q1gxU3prakozd05vc2YzV2U1WnZYT1pPTVc3NFkyT0dkb2x0VERFRjJVci1DTGdPeFR4cDRvWFZfUDZkU2ZlVDRwZTA1VUhoRjFrSGFKVkN5ZkE2TWlZVlhjeUtzNFZqazdIdXdBSGF0MTlSZ2psV0RGbV9rbl94R1hwVGZzN1BvTkd40gHfAUFVX3lxTE5qWkItbHVseEhOVzJlUlZvc0xkT1BSUTQ5djlFTGFYZUdMUkI2djVrbG5nX2dsZ1UtallnTlpmcThfM3NRMGc3UHdCb0JyNmpsVFJwMnJTNVN5ejhiRVJfY1ZwWTVBTjl5LWJHMjYxMDBvSVliTUdJRHJnQ04zZjZ0dEtfNHNFSkQzdVFfWGVMcDdUaWk3TTNBdDF0N2ZPNlZiQUs5VURKNHRLUnJMYWNLcjhCdWdKaGctVDAxRUdIcXN4OV9wMlpVVFhJM01fMFZiSUs0NkxoSk5pMG00bFk?oc=5",
-        "date": "2026-11-04T14:35:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Microsoft detalló cómo hizo que Windows 11 vaya mejor en computadoras con 8 GB de RAM",
         "description": "Microsoft detalló cómo hizo que Windows 11 vaya mejor en computadoras con 8 GB de RAM La 100",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkItSE9jNE9fNVJheFJyajRYcm5zYnlWanRVQTgwRVNETEhoV2hVRFM2LXJhaEtEYzNZQ1FIWWRTenBhX2o4QlduTWd4Zi1obE83UmRDN2Y1MVNFLU0xd1lDUDgtMGlNd1d0bEVnLXppNTBneFRlRkNRekVpU2hUN3RpbnpLOVNNNkdGT2NaUXpYdG5QQmNJRndDVGg5T0prSUltWG1CSElUejZPN3hKSlVSNmdrdXh0cWJ4YXBCaFEyUE9r?oc=5",
@@ -24,10 +17,17 @@
         "source": "La 100"
       },
       {
-        "title": "No todo pasa por comprar una tarjeta gráfica más potente. Microsoft prepara un cambio para que el ray tracing aproveche mejor la GPU que tienes",
-        "description": "No todo pasa por comprar una tarjeta gráfica más potente. Microsoft prepara un cambio para que el ray tracing aproveche mejor la GPU que tienes 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3JtZDgwTGRVdnRCWGVNOG5KUGJEc0JmMGc3YnVVamRFRERITG40NXN5YnAybmswRlRIT0t0RFBlUzcyQnYzQnJjaWFBUU82dVRfWV9ENkFadEtfMEt0dHd4VXFiakxoalp2RmpOYmhvbExFWHZXQ1BjeDVlZ01MaERWdm1tZGpacGU0bjE2TXVjUnU1OWJuQ0o3b1FqaFdPQkViUE1GSmlOZ0VGXzJiRGJlNDJ2bkYtZXdLWXpfQmpEYjlIYlZFYTVBWmJIM2tJQ1VpRjBtUXA3M1N6RXlYX2hxTdIB6AFBVV95cUxNT0FxQVpYWm1fTXZyX0VCTXRkVHNHMDYtZXhZLTE0WnBNWXJsV2txeWs1eEl0bWxXZ2NTRS1nYW9wUnVoNDBUcjlhT1Rrc1FZUlJQQ3Z6V1NIeVZwTWhseHo5NjQwQVhuRGo2TGZYTDIyel9TTlRDaDJYQ0lMWGZLck5rOUh0RmYxTTIzUDUzUnhJU2JqTE8yUXE2ZnhEY09SMG54OVZwREp3RXhEbG50Z0NkZDc5a3pLWmZQVHg3QnFqV1dOZ2hrZnh3b2QybFItT2JzX0J5T3IxbENFZlg2YWZ0VWluYU5P?oc=5",
-        "date": "2026-11-04T00:55:00+00:00",
+        "title": "Windows 11 ahora es hasta un 40% más rápido en ordenadores con solo 8 GB de memoria RAM",
+        "description": "Windows 11 ahora es hasta un 40% más rápido en ordenadores con solo 8 GB de memoria RAM Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTm5EN1g5MjNxSzlxS2dwek1vdmxCTGRMNm0wQkFCRGtITEtQbGE3a3VQeFNVQV9TSFhVUU1Rek55TkdVUG9GbmlrTW5jd0RUckV1QmxXcmwzWnZMYkFvREhjOTQtWmFQNVhzNFdUWTJHYmE2TFRHVzlNRnFaZl9wUmZ0UjhOLWI1NUQxU3o5NW9nUTI1NnpqZk5LaWItNDltYjd0RkFQNkNxY3VTZWdKajVYbUpqN1dYUUg0SnI5VVBXZ3RLVXZCSURhazY5bWpqM1dpa1FB0gHwAUFVX3lxTE1qVVNCdkhqUVJqUE1qTmxpWjZZMHk0SURoc1V2OHhSeEtydTdQVkNfVGJGRURwQ2NXTG1kYndMZldDU0VlVHVCa1F5aU0xaER1MlpoZTM1U2NLSGh3YlRQR2xWQi1VQ0FWcU52TXIzVG9pVEl1RGRhU2RkZzR0WkIyd19ma0llLTA4QWphVGxSVXVTdndCTTVQV2tZdjRDOUxTUV9HTWtrZEdST0ZORHlIWTJxNi0tSHBwa3ZRbWFScklQVmZaSTJvQ1NZTTAxNkZoaXEwM2JYQ0lnUUF3NGxxOHZqS25YdTI4eVBCMFRkdA?oc=5",
+        "date": "2026-11-04T10:45:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "El sindicato de Arkane acusa a Microsoft de \"sabotear\" el desarrollo de Marvel's Blade",
+        "description": "El sindicato de Arkane acusa a Microsoft de \"sabotear\" el desarrollo de Marvel's Blade 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelBqOG9iNUx4T0paeEw1S19na0pOV0tkX3F3OFFFaEJfbks3ejV1SzlVWEJ0MjNGSldVc2NjYUdXalhIaERBRGw4ZGpidjZKV2pmUGxKSW5ZS2dlOFQzNWNJZl9JdHptU25DdHI3dlFxTmFxX1ljM194N0pneHJiTDFXNTF1dFJ4Y19UM3p0anZ5N2NRWkhKSldudVhJeVRkSUFrcGdCVlVZLS00eXRtZGJWM2RJUlZRMEo3U2xlTGpLZ9IBxwFBVV95cUxPbjdHckZxcFcwVUxVSExJUk5wdWc0U1NrbHNwa2Z0a19rS2JfQ0JWZGpyX2s3UklhdS1zTkRjd3ZYTTVmWHFLZUppVmNkQlhFZTROLUloZGFib1pDVE92WDhqREdoSElhbEFRaXUtZFpZRE4yZC04b05BNWhnVjh1cENiZnlpVjM4clNEaDl2dzB0cHNpMjFxZlVrLTZEaVFhZFItaVQteG9fMlM1TUVYM0tqdlM1NkVlcUVkU1hkNUxESGdKMmRF?oc=5",
+        "date": "2026-11-04T20:01:26+00:00",
         "source": "3DJuegos"
       },
       {
@@ -82,18 +82,18 @@
         "source": "DossierNet"
       },
       {
-        "title": "Lejos de la tele y digital, el negocio de Matías Palleiro, la pareja de Jimena Barón",
-        "description": "Lejos de la tele y digital, el negocio de Matías Palleiro, la pareja de Jimena Barón El Intransigente",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWI4TlNldEJhU3g1aDBISms2WndvMllJRDNBVG1mWFMyVm8wVmg1NFZlM2g0Y0NSUmlRYWdRX29EQ1g4S2phdG9udDlCWEx1LV9hSnZsTEphOFNHeVlfOG8wU0I5RTE4ZHY3SEo3Q0pPQnYxdm9FMDFNVjc1cW9tVkNuUUh2ejRIQjJTdXY0dkZQUUlCdU5rOWQ4ZmZhZFFUQ010MXhEZDJoekpUVWFvUGQ2R2pQeXpM?oc=5",
-        "date": "2026-11-01T23:48:01+00:00",
-        "source": "El Intransigente"
-      },
-      {
         "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
         "description": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital Medios Unne",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0td3AzS292aFdYU3BJa0V4dkRudHNZaWlIa2dNQmFfUk15c2w0Y1JIdmU1bkpCTHNfTmxNS1hKSUZjYXc0SkhFdGxDV2p5M0lNd0g0WWFVUUFVLUVBd0VvXw?oc=5",
         "date": "2026-09-24T07:00:00+00:00",
         "source": "Medios Unne"
+      },
+      {
+        "title": "Lejos de la tele y digital, el negocio de Matías Palleiro, la pareja de Jimena Barón",
+        "description": "Lejos de la tele y digital, el negocio de Matías Palleiro, la pareja de Jimena Barón El Intransigente",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWI4TlNldEJhU3g1aDBISms2WndvMllJRDNBVG1mWFMyVm8wVmg1NFZlM2g0Y0NSUmlRYWdRX29EQ1g4S2phdG9udDlCWEx1LV9hSnZsTEphOFNHeVlfOG8wU0I5RTE4ZHY3SEo3Q0pPQnYxdm9FMDFNVjc1cW9tVkNuUUh2ejRIQjJTdXY0dkZQUUlCdU5rOWQ4ZmZhZFFUQ010MXhEZDJoekpUVWFvUGQ2R2pQeXpM?oc=5",
+        "date": "2026-11-01T23:48:01+00:00",
+        "source": "El Intransigente"
       },
       {
         "title": "Estudia en Chacabuco – Diplomatura de Extensión Universitaria en Marketing Digital (UNAB)",
@@ -112,18 +112,39 @@
         "source": "Infobae"
       },
       {
-        "title": "La sombra de los data centers para IA: del rechazo electoral en Estados Unidos a los “juegos del hambre” en América Latina",
-        "description": "La sombra de los data centers para IA: del rechazo electoral en Estados Unidos a los “juegos del hambre” en América Latina Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQX20tVHZzZnZIWXlIdjdYaUdDUXdxenhpeVpiOFJfSFB1TUtCR1hxUzFyMUdDYkJjZ3VWcWx6TjdYRk5FQUZoeV95MWN2czRKbmlGb0xVSHlxUFJnR2FZSElic2dDRXRUdW1Sd1pMa0dpWF80VmVSVnk2c0ZWblN3OXRTb0ZaLURXc1YzcnV3bjBfVFczaVg1ZzNOYllSanhObWxiOC1kdTRoeE42U3lGUU9LZ1NJTm9RczFIdnVLVldHcmhuTExYNzdkeHBJSUJWVGhkZjVuZ2M5Tk5kRm9qMTdXeklBQU5CdV9YWmZfdld2d1FhejgxZ1FfRHJXdjg?oc=5",
-        "date": "2026-11-04T21:16:00+00:00",
-        "source": "Infobae"
+        "title": "El dólar global retrocede mientras la victoria democrática siembra dudas sobra la inteligencia artificial",
+        "description": "El dólar global retrocede mientras la victoria democrática siembra dudas sobra la inteligencia artificial Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOckVQVnRHVEE1NU9qaVpaNVgyNHJIM1p0eS1nT2RNYU9udnpXZzZrNG1TT25ieHNNTG9xVGduTWhPM2FZTEpiQU8tWlV6czhQWU5Xa1BRNmd4a09GNGZkTmdxVmw2WlJ0ZGZHSjQ4UlBROF9BVTk4YUdfNWRKYjJjaDhlWjlodW85bTRmQXBabGtNZW0tQW5uVWJfR1U3LUdzVmhxNVhENTZRTjFVcGI0b3dCbUdBanRBem1PMk9xUVVORW9LSGIwNzRBVG53UUl0T2ZpT2VWNm1qdGh3M3fSAeMBQVVfeXFMTUdXR21sSU5WYkhaNi1PR3RFQzU3RzNFREZFRjBwUHo5NWkxRVhUSFl5WnlUWnVLZC1WSTdTTERENjAwZjdOSzlKQ2RSLThGZjNuMzZoTE9xNDFkeDlQLXZ6QzZjYVRpX3hBenljbnFRSjJyTTBxOFI2aDlvQnRYd3hfOVdIU0JLOEcwZDA4Z2dGY0tYQUlGY3lGRldZb2dBcUtvSE5fcERMVWZ1SXNySzRHQnhTcGJTVE9FOG9vd1EzV1lteU41N2JnMThhNGlKUjN5NXp2SjVMaVg5aEswM0p3Mzg?oc=5",
+        "date": "2026-11-04T12:15:28+00:00",
+        "source": "Ambito"
       },
       {
-        "title": "Por qué cayeron las acciones de las empresas de IA luego de las elecciones en EE.UU. y la victoria demócrata en Texas - TN",
-        "description": "Por qué cayeron las acciones de las empresas de IA luego de las elecciones en EE.UU. y la victoria demócrata en Texas TN",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOHUwbzQ5aG1GQ0I0X0FONFljVC1MT25MM3doU2pLUC1uU0txdDNBSllUR043QXlsUnhQNUdadWlMSVF4MkVZNkpXU1BBWTh6MEl3NkZwYTZ5TF9vRFZoS1k0eXhlSUNINEN4TExMZU1zRjI3TzZRMVBLVkROejhOeTBzeGpHdDVHU2VZWlg2S05wUjY3aGRYVlA5b242a0piQXJOdW9QN0NUYzdOdmNmNTVld2dXQ3NoVUY2YzBjMzBPd2lxNGFGX0dyV0FRY014aTdUQmNEOXptMm9mS1ROX3d3Y0JuQlJXV3lmeDZjM2YtX1Vs0gGIAkFVX3lxTE1hcDZ0X3VyS01GMDc1VGQ0em55bXFYaXF0RTJmakE1THJzZlhtNkk0VmNRWlRfYWp5cFNwWkJUMWRSdkZIZVFURm01aWltTkcyT056MGM2Yi1KenNRd2YySmVtUW05cHdsTE9VMzU0SXRZbUpRLWhFMDhvSGVaM1VnamY5dmJ1STJIM3hGVlExcmxLbWJ0Nm1vcC1aUEdSZFQ3Ri1RUjdVWkVTZHl2YlNPNEFXcDdHa0xZQWQzOWVOaVJZQWgzbmktNGYzVm0yMUxEWWZhRnZfcnlmQXk1RFN4NDVnZ2ZadE9NZnhfaGIyRmYzVTNHOUw1N1doWFJtOHFvcHJhVk5GTA?oc=5",
-        "date": "2026-11-04T18:05:42+00:00",
-        "source": "TN"
+        "title": "La inteligencia artificial chocó con las urnas en las elecciones de EEUU",
+        "description": "La inteligencia artificial chocó con las urnas en las elecciones de EEUU BAE Negocios",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUliUl9wQS00SWVHeHo2N0QyVXd3VzhvY19SaXRBV2VNMXVDMFpGS3lPdHB4cWFheE1yVjhFUzlLdUszTDl6T2duaWE5RUVsZkFOcWFNb3hxdzlkY1N0MTF6ZVM1MjM1akEwREZlSUtBMy1BVTBJc0ZkRDlpUm9EMXd6aHU0LXJ6Wm5rdEZJMkpSN1o5a2lvN0ZyU2VUaVgzYjloZWpUaG9WLVJpSmZ0QmY5U0VtLUtueUEzdVFKbURkQmY3SXF6VHBNOG9WUdIBywFBVV95cUxQaXZHTndoeVowdkhST3Y1Z3J5YVo4aDVrNFc3bWQyWURQeVpwNm8ybkxadmhJckYwdjVtdmlaa1FqUVFaSmxlTFVfbVYxTDQ0Q1ZiVHNfQ3otWUE4YzVVQVhvaWZhLWV0SWFpVm5ObktyVlY0X1R2YzBTVXlsOVkySlA4cFpiNjB6TnQ3dXZscnIyNV91X2haQi13MEc3R1pwR05rTHZIYjBYVHdLc2FUOVRaMEJKWl9lejJ4Z0wxSXZQd2E5c2NBNnZIcw?oc=5",
+        "date": "2026-11-04T21:00:00+00:00",
+        "source": "BAE Negocios"
+      },
+      {
+        "title": "Avellaneda incorporó Inteligencia Artificial al monitoreo de cámaras de seguridad",
+        "description": "Avellaneda incorporó Inteligencia Artificial al monitoreo de cámaras de seguridad Página|12",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNempOU0drcjZjTzFKVUc1clo5OWtJci1JWHBaSk9mWHRyWmRzSlVETjZZNUxVRE5aaGVxUVgtQnV1UVNJbU1SNWV3VzRLYkFrRExISGFKRHU4NVpmSXBPRmZ3SW1BUmtNd3JyZzgtbDEzd0FoUnRGQmZrNWF6bXBHZ0tuSHNHdVpKZ0NBNkJaUlZPQUdkMDA4bnRXZ3NYSFVKejkyekJqejA3R2FjZ3ZTVTdVVkgxTjVUclNobmZR?oc=5",
+        "date": "2026-11-04T17:48:49+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "Avellaneda: Magdalena Sierra suma inteligencia artificial a 2.500 cámaras",
+        "description": "Avellaneda: Magdalena Sierra suma inteligencia artificial a 2.500 cámaras Crónica",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFozT0tXLU1vVUZDaVhGNW4xYmhkbXY1dGstXzRBQjUtU3pMb050T0xIbGZhc0pSS24zbUNKN3k0dGZDUjA4eDlSOGlQMGFvQUdhd29PeVVub2EyVi0zV2VLR1lRV2N1X0owZkY2NUYycHZHTE56NzAwamUzMENCODQ3aWFON2hZUmpkVWpubHhzajJWOHNOb2ZhcVNnRkkyMy1RZHR5ekhhVV83N2fSAbMBQVVfeXFMTnJrNURnWXkwMjB4R3BpUXZUaXJ1eDIwbFFidGZZYjJaaWlnY25KRHJvZnFVT084Y0xwMXc4R0tJeGRTZlpKYVMwUDdTYlVIYUlidl8zdkF1R1dlcXhMSTNxTkNMb0ZJNm81NDA0aVRfRmJjaDBGQnZzbW9rbk9Oa2lxRUM2VXJBcU9kODZMMng3bzA2Y3lhRTVvdlljUG16cGZVNnBGQTI4VDJGRTZ2MGNCNUE?oc=5",
+        "date": "2026-11-04T17:50:37+00:00",
+        "source": "Crónica"
+      },
+      {
+        "title": "Avellaneda incorporó Inteligencia Artificial para el monitoreo de sus 2.500 cámaras de seguridad",
+        "description": "Avellaneda incorporó Inteligencia Artificial para el monitoreo de sus 2.500 cámaras de seguridad MinutoUno",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSjh4VnNlbUNFd0hsNnFHd2NxMk41VVhHSE9HTkNIUElPVDJCNVh4bjJpS0htcXZGVUlQTXhwQnZGdjJNdDhPOGcwUXFHWklZMFdoSUppWkRLVy1hWEhmLVA0WTRNYlQ0OEVyLVc5SlByYzBfdTlEV19PNXV1ZFNlOF9Id3pNaVMyOUNBYWNJRHF3WXZocDZSamNCWlYxRm1FTzlMUHY2NlUtcmtJS0dJamsydHdjLUpwUFVVQ3RRYVFOWDNDczJv0gHHAUFVX3lxTFBKOHhWc2VtQ0V3SGw2cUd3Y3EyTjVVWEdIT0dOQ0hQSU9UMkI1WHhuMmlLSG1xdkZVSVBNeHBCdkZ2Mk10OE84ZzBRcUdaSVkwV2hJSmlaREtXLWFYSGYtUDRZNE1iVDQ4RXItVzlKUHJjMF91OURXX081dXVkU2U4X0h3ek1pUzI5Q0FhY0lEcXdZdmhwNlJqY0JaVjFGbUVPOUxQdjY2VS1ya0lLR0lqazJ0d2MtSnBQVVVDdFFhUU5YM0NzMm8?oc=5",
+        "date": "2026-11-04T18:25:00+00:00",
+        "source": "MinutoUno"
       },
       {
         "title": "La inteligencia artificial redefine el desarrollo de software y acelera la productividad empresarial",
@@ -131,27 +152,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVXVJcUFCWWxYMGZYNzhLQjlJeTFmQUdIeTlCZDFUYWNIcVVEclR0VW1VQ2RWU0MtNTlPMTBBZk9pNlA5dmpTZnVRYzFIVmRvLXZlUEc2Nm5VVUdXeE1LTkFFQ2JyUWd4QmEyRndpYm55YzQ1cEQ5UzBLM0lPSGxtWng1UWVFQXV6bndQVGd4ZVB3UDNKVE9fRWtkS0tCRnlNYTdjOHZWeDJHeVJLM1hfOHRhX2NTOGtlUmF4U1ZMMU9EQ21tTnBMU3BkYlZyUXJWYUl4ZTU3VHl5bmplSUFzdm9n?oc=5",
         "date": "2026-11-04T18:33:36+00:00",
         "source": "La Voz del Interior"
-      },
-      {
-        "title": "Avellaneda incorporó Inteligencia Artificial al monitoreo de cámaras de seguridad",
-        "description": "Avellaneda incorporó Inteligencia Artificial al monitoreo de cámaras de seguridad Municipalidad de Avellaneda",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekUycllwNkd2MC1udTNvUzd3TE0wQkpZRjB0S3JBdERIT1d5Q3VySmRSTUZsNld6T0QzV1JZb3cxY1lUYXNUUGN3NVFZZVN3d2l2eUhPX25oTnhjVUVEdTNlSGFWcnR6empYenhtMkNaN1VmeHd3REs3NG5BMVVib3pFS1kzS2Z0SU5fZlFvZUdEMzdsd0pBZldPSE1kaEtCYmNsUWhMUGFBOVRKUmJvYWptTVM?oc=5",
-        "date": "2026-11-04T16:11:40+00:00",
-        "source": "Municipalidad de Avellaneda"
-      },
-      {
-        "title": "Cómo es la PropTech que usa inteligencia artificial para potenciar las ventas entre colegas en Latam",
-        "description": "Cómo es la PropTech que usa inteligencia artificial para potenciar las ventas entre colegas en Latam Fortuna web",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdnZ2Vk9mSVVycHVrLWk0TWRGMUtyMTNTTWNWQXlaM3ZoMnA1TXhmQmRRMVZmMDFlQzNoTFhRTUVBcjRHMlltN3ZlOTZQdkdMOVI4bkRRa3U4ZU4wVVVfdGRxcE13QllRTzF3d3JPUGtpXzRRNDR4dzgzZDBnRy1jUDBKd3dlSmdMTV91OEQ2dnNjdG1PaWM0MVl3X0FHdWYwR0ktdFhmT1lTZ1NTdzdtczgzLVVVRGwwT0RJS3llSTlGZ3dmT2dmUVV2QTBESUJtWmdFUE5jNEFNZ3JrTFpqYVI4NjBhSUljYWfSAe8BQVVfeXFMTm5aRExfeFJ5M0prUUlZOWpYVjZNamVwcGIyWXdndThGYTlOX1ZOa3NzWFZvSVdoWk5GaVM5QnlaWnNFXzVJVVNPZlBHY2txcHlGUV8tbmkxTjVJT0xmZkYyR3BSMDRQSVZlU1pmeWZHcmZ1eUVkcnR3RGZDVWsydXFkYkZZeG4wWGxBanF2WHdUdWxVSHhIcldMVTdhVkxEVUJJNzRodFRyQlFVWG1hekdrUXNzR1VyNTVOVkloY0hxdTE5a0xvV19WWm9WbzBnZEFUcmdLLWI0TGVzRGJoMHBRRzlOekRpYVJNMHdIWXc?oc=5",
-        "date": "2026-11-04T11:32:25+00:00",
-        "source": "Fortuna web"
-      },
-      {
-        "title": "Un ataque a escuelas británicas encendió las alertas por el uso de IA para automatizar ciberataques - TN",
-        "description": "Un ataque a escuelas británicas encendió las alertas por el uso de IA para automatizar ciberataques TN",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV1ZCWVlxQTF3RTNtd214b1hZWk45WnJNdTcwdEhkZFNyVjFMVDhGdl9uSndsMDd1V3gxQjZDWEJJc19wRHJ5SVlvSmJPa214aWZlRXAzSm5KUG03aUN3RlcyR24wSi0wd0Noel9pcTk2RkVOUWtXbDZqV1UzZWRtaldnd3NwSWc1eHpPVkRobjMxYTZLZ09xUzVFemR2UHkzN1RJamg3cERmYTAwZ29MZmlZMXZWTTFYX1d2ejFORVoyM1ZHQ0JqZVBBZy11Tzd6X1VVbGlocGkzUTM0cFV0X1Jn0gH2AUFVX3lxTFBfS00wZEdOQnNUS0wwZmVSRW9xNHpJLTVqVlRTYXlmQnJLY1hTS3VDdDBmWGJmUlBvS0VRblhoRUtfNnh1eTdLNzdDOEVSTkh1SEhUTTBLMmo3U3pqeGdxMVNsYmpYZ3RQUHpLeHZ1cFF2WVBHTUZMUk0wTjdKaHhPcnBINlNNb1hKTnBQWnhhaHNmRnlXSnRiRlBWczZUa25pSUVkYlNzWkJxQjhLY0hWc0RBcG1nM0huY1B4NFp0VnozUHBwX1VWOTJNRS1YMElBSlZCWnNKNElZcUNhUkUzRElHa281Rjg3ejZDMmQwc1BkbzZCQQ?oc=5",
-        "date": "2026-11-04T11:30:38+00:00",
-        "source": "TN"
       }
     ],
     "Vaca Muerta": [
@@ -170,25 +170,18 @@
         "source": "econojournal.com.ar"
       },
       {
-        "title": "Portezuelo Grande: qué es el Canal Aliviador de Vaca Muerta y cómo será la obra que Neuquén acordó con Nación",
-        "description": "Portezuelo Grande: qué es el Canal Aliviador de Vaca Muerta y cómo será la obra que Neuquén acordó con Nación Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaDdrblRpMGkxVzM4VzJSMHhxSXYyaVQybGc1MllxY2hhU0kyRXlRN3lKM21BeTZJanVnSnhoR3M2bkdJMzlpZ1YzdU9PUWV3ZGRBRURmNGpvT3BoTjlXajJUS0h6LVVMSzhVQUtzMzVoVmo2aUg1RVM1UXM4SktuXzcyVUpvcFpRWjBiUWtSRDVodGI5UTYxdUpuU1UzV3c4QlNzZkpsT01JNGFTcFJYRGZmc3dhdHp5MUtQQ1l5SVc4d0dPRFQ1SUNoTHZ0dGRhVkp5YkFYYVFJaDAyNmk2eV9DV3lfQXA4aWx3UUtTcmtXZnRJallNbG1ub0xqQ0nSAYcCQVVfeXFMUE1GU1Ffb2tJSUdUeE55STFyQ1BZQkxNaVNWaEx2RFFLaXo1YmNkMVJ2YUEtbkRHclQyUTh0NXllZW52NVRVMnRNUlJIaGVQVTNJTGF0SWp5T1k4TndFWHRTdmJ6OGF4b01hSEZ1d2FtQWF2VVgzbk5oamZNdlJNS0tCRDRLWG16WDR1c3k2Q1VQSlBWcnhTaWwtUFU0ekRZMnZDd2duaXFKU0hibHQ3UW9KemI3ZWo4alB5dkJyQXBlQnVUUlowV3g3a1R6VmhGLVZOUkQ2NFEwTnRFaHdIQmptVWtrcDQ4RUphbm5hS0dubVdRaUlWNVBQZkxRRGttbVk2YzFnUTQ?oc=5",
-        "date": "2026-11-02T20:10:15+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Nación traspasa ruta icónica y construirá una obra vital en Vaca Muerta",
-        "description": "Nación traspasa ruta icónica y construirá una obra vital en Vaca Muerta iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeERSQXVWdy13bmZ6ZV90R3VkZkExWlJ6eVF1VTBJNDhoWFBlUHpEQ2lTWHdndHlyaUloaUhaVWExVlpxQXI4QjRHM29sbUhXYXpyaE4zcG9SM0NUOTR1UDJjZlNucFZFNEJjVFFxQS1MV2J6Z050Wk9iV1ZQejZCS3dvUVZGT2IyZUt2Si03WTFsVDVENmxFc0lubWQwVUNSdGNrMjI4bUdZbjktOE92N2FuVm4xUdIBuwFBVV95cUxPV1oyWFpjOTU3V0JKRVliNUwySEN2VlF5Rm9CUTVXNEpzZXo4NTNkUWhhVkdjNldkaGhrajQ0ckpCaVlJcUxGcDdMTUNHcE1VNlZjb3o4VW9XMGs3SzIwVW56aEpzUjhGYmtLazZBM2Z2U053d2VPakRVQWswVGo0REJZT1hOdGFZUEJzUVc4SHQ5RnVqZktKWUpJcVQ0RTh2eUVDQmMwSWo3akx6ZUZYZXV0MmJwSDJGVzZz?oc=5",
-        "date": "2026-11-02T22:20:00+00:00",
-        "source": "iProfesional"
-      },
-      {
         "title": "Vaca Muerta genera empleo y atrae trabajadores, pero Neuquén enfrenta un desafío: cómo recibir a miles de nuevos habitantes",
         "description": "Vaca Muerta genera empleo y atrae trabajadores, pero Neuquén enfrenta un desafío: cómo recibir a miles de nuevos habitantes Infobae",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQczRrc0N4NU95RjhwTmJxWUZBWUlNMjBoSmM4bjhtMklWVkxaYjNJalZVRDZ6d1FpT3NBMnROdWtLeGhnUlJySVB5cE9URnd0YzVBV3dxNGpkTTFHQ0V5YncweWxGRi1VbllnNkRjQUdYSGltbFB4OTlVV1AwR0hKRUZNZ3dvMVNHSXY0eU8teDBQbXZaaHB6WktlTTlSTUFJSVFrQlRkVFV6aEFkUEJJa0xMcEVxbHZSTFNWTFluTzhLVXpMdlJURmlsQ1NCYThGelA1YjZhT1NaZlY0WDZvMUJtMDVYY2lfOEFTUDhWemQwd3c5NU00bG530gGUAkFVX3lxTE9NZTM3YTc5NE9sQ2NHLXlJMmlQTl85R2daeWJ1eHV1cWYtTElwa0VrOE5qZmxnUlpZWWE2UFFfLWF6T29nVFZTUnpGcUgtRWo1MVhxV1NhZnEyTldrTzQyS1duclhGSFpFNDdCUmpRalE2Vk5LYU9lU2xZQXdrelI0X3pPeWI0bTJaazV6X190TmJFVGJXU1E4azlWRkZpMHB2U3lSUF9GMVpUTjNUZFc2dS1MWGxneGtRVE5uQUctV21JQklSSERwU2N3bXU0Y3NZTHBWUVNiOTg1UzFueENfZjl3VVdOTDZ6RlRmNU5GTlRrcFpwRGNVVl9WUHl5YUxmOUxRdU5WcHRRVkxMSnh3cE5tbQ?oc=5",
         "date": "2026-11-04T13:58:19+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "Haciendo Argentina: cómo la industria de Santa Fe busca convertirse en proveedora del desarrollo energético argentino - TN",
+        "description": "Haciendo Argentina: cómo la industria de Santa Fe busca convertirse en proveedora del desarrollo energético argentino TN",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbDYwNVdQdWEwNnNTaHFHYlk2RkFyQThwT1ZhWmVDdk1yUHR3MXUxZVh6aG5vX0dyNzdxTENUUHhUQmZqU2pfcUM0dmNuaXhubDVGQmZGa0FHam5PS3psMDlXc2p6dzhKNGd1UkVVVHZURFN2SlZHcDRLTkdvS2RyNTVmY0hOdHdwaHkweWxtSmwwTkIzdDFseGRhWHNQajVRYk1NTE9nUG5udXdTcHZIU0RIN01kUkRXQVhWeGVzUDJ1QklnRV9raFlBMWFRZjc3TDVyQ2FlLTdJemZJOFY1T3ZjOTRQQdIB-gFBVV95cUxOblNKelp1U1pqOE55em85amhuejR2SGpxR0lseUFaTWNEcGdvdnhFOVhzUXVhUTVGOGxDd2RhWHBtT3dUSkpnZ0ZlQ05md29wdl9nTTlnU0Zia25oREczVG9WVlQxeFJJellZS2hlRnROd3A3UUlFOVJXcnVVVVdrLXI0SEJZY2FUQWF1THRfOVoyMnhqRkZGNHhXb1ZwVFc3azRPRDlzYmctaFVzbnZyMlFtUlRlblRYZWozWXZZcjNsSWgwUWxYVDZjbl9kakU2UUd4MG80d0FqN2YxcDRPb1l5c0prTXFGLXlmRWNWM0tibERqVkFtcG53?oc=5",
+        "date": "2026-11-04T15:42:11+00:00",
+        "source": "TN"
       },
       {
         "title": "GeoPark prioriza Vaca Muerta y Venezuela para incrementar su rentabilidad",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnZhN2p1YVROSGEweWVfMTRyNzB6ZGNoaExmeTBXT0dFY1RxckV0UkJnWVdVQ1ctYUNVNWJVSjM4QUE4QXVTbkpEaHgyTUFiT0JsZnp1cF9ucGptaGVXSlNvR1ZKTFloNktYOWszSldVbnJJazFDSXlMa21naTJiS01MUS1lZ1JEcWtGOXU2Zm5fdWIyQUdUYmtpcjI2RDgxVmdobl9VQ3lsMWo50gHHAUFVX3lxTE94dU1IWDREWXJDY21vQkhPd3VPTmZ5X3NMRk80QXptUDRiUDc5YndkUFlJMzIzRGs5endyeFFEUlhoRXJndEJ5NVc0bEFpWnJhTk1jMVVpNElwZU5DdUNIa1hNcTFhV29yWDlVZ2lJRGttbUZpZmpzLU1JeVEzZTJMcVJWRE1QYmVKUTF1UUdkOXBTQjFkbnhKbEFLVm0tUGlxWW9ORzN5UVhIMXZ0d3dpV2FyeDc1VV9Yd3pMOEtRSTBtaGlsY2s?oc=5",
         "date": "2026-11-04T19:50:10+00:00",
         "source": "El Cronista"
+      },
+      {
+        "title": "La Pampa busca atraer inversiones de Vaca Muerta con un plan de beneficios fiscales",
+        "description": "La Pampa busca atraer inversiones de Vaca Muerta con un plan de beneficios fiscales Diario Río Negro Ofensiva pampeana por el petróleo: La Pampa sale a competirle a Neuquén con tierra barata y blindaje fiscal El Economista - Últimas noticias económicas y financieras La Pampa…",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSENSV29ERlh1bVp3UDRRd09kNEVXbHk3T2NweVF4aFpPNElkZ251NGJaZGkwaGVCYU1wMVZLQk56cEZiVjl4TWZ4N1pJLTNRWFJZMzJLbmd3R3hYTzdkZ0U3SWJKRkxaN1Q5RjYzZmR1ZXhmTEZLWXpQUzRIVjhvZlBKVHNNdHRycUNnU3JkMmNLRTJXVmpyMUYxOUN2aWhhUlY1d3YwQU5iTFBHRUY1cWhqMnF3OUFYbXNpYS1NSXVzcVk2SlQ40gHPAUFVX3lxTFBTRm5jTElDZVhBTnVzVVdBOWFybFNLTGFIdGctcTZBVzEtSXQ4U01SekgxbGxndzVvanJMOUwzVzc3UW1wcXRWRktPa1Nfd3VhX3VGSDVoNHU0Q0xlODV4NE94ZjIxNHZabmhsaWhQTktsSzRHSjFuOUNJQTh4YkQ3WGxiajNUQTQzcmpBdS11VjI1U3l2dU1JVFhxUkFhaVUybVJ1UmhxU0psWVBqR1gydE1pbzNVd3hCOVpDMm9ta1ppQjU3MUROU284OWpZSQ?oc=5",
+        "date": "2026-11-04T15:27:46+00:00",
+        "source": "Diario Río Negro"
       }
     ]
   }
