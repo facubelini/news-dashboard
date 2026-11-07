@@ -1,34 +1,13 @@
 {
-  "updated_at": "2026-11-06T21:13:02Z",
+  "updated_at": "2026-11-07T01:31:09Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Microsoft vendería XBOX para priorizar su negocio de IA a causa de los cambios políticos en Estados Unidos",
-        "description": "Microsoft vendería XBOX para priorizar su negocio de IA a causa de los cambios políticos en Estados Unidos Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZk5zWjVyR1hrcURoZE1JUGJ0UDg1dDhXNHRRQUh6WG9wSVc0QTBqVS1QUjlwVkp5eGdpZkFuZjk5X2J3eHZYbFdWZE5Zcm43WXlsMnJhVlVqZU9xVUNHNkc2ZDVqRTdQekp6SzFzUFFQdXBxeXhaYzFkNklrUl84eU1xc0YxRWIzQkt2SDBzZUJaVldWcXhYX0pPb2V5azBBZThCNkhsWEpIdThpS29VQUVfcjk3dUtDZTNzNXBfMk5TMl85SG03OVNNQ2oxbXFoY0lOWVAwNNIB3AFBVV95cUxQMHBlTU1kc05xdFJMcWhFMnJfbXU4aFJ0REVkbk1qbGljY1FQSzVCeFAwd3VBYzY2V2g3M1R6R2RrcEwxbU1oa19FM2JTVDE2RGFKYmVJRGNXTk9ORjJ0eWFQRTZkZGlTV0NwZkdMWHhUa1VjQ29sTVRGR09meWtiRHBmZDZZVTlOd1ZiYlNKeTI5b3gwam13QUJrQjE0VkM3VlZLZTFDZEdPVzRieEFUZmZ1bEFWTW51SEpDOWpOck1BLU81QUlaTVp1eTM0YWFsSUxSUDktT1g0V25R?oc=5",
-        "date": "2026-11-06T16:42:00+00:00",
-        "source": "Vandal"
-      },
       {
         "title": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads",
         "description": "Protesters break into Microsoft data center site in Amsterdam as Europe’s backlash spreads La Nación",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWtrMF8takFRSjZJaFU1emNzeE1tWUl4OUV3aFp5b2kteTh1dXVqXzBVMzV1b2J0cEtEa190U1JsNUxyUnB2a2gyYnNnQlZDRXMyWVNvWmFvb1dCU0JxeUNlb0hXOUVlQy01VEZpdFA2TXBXSnBmNzVpNDVRcjh3YndQZG1fT090c2VzTDhtUy1lX3BPUTF3TEVJeF9RNVJZQmYtX0lwOUpIZ3BPUW14d0I1MWhqSnJrTFBaRU5PQzhOdzZhVFJ5Q2Z2TjRRVnc?oc=5",
         "date": "2026-11-06T16:02:00+00:00",
         "source": "La Nación"
-      },
-      {
-        "title": "Oracle cae un 4% tras cancelar Microsoft acuerdo de nube con IA",
-        "description": "Oracle cae un 4% tras cancelar Microsoft acuerdo de nube con IA Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0lWNzlNbk1MU1RETlpLc2x0WkhyMVRiSnc2RkxFc0dBZ2FQOEg4TGYzeERoWmNOYmVqRkhPeDNrSVMwR08zOHA5RzdoZlNWY3hIUEs2RldrT09KTFU0amo2T2xZWmc0aUlZM1hhU0xqU3ZYeEVHT2lYc2Y0R2FpejRYT1VNN0lVZm9zMFMzdmFPSHhWbHVqSkxoc2FPeG9jR3ZOQkRpX0E5VkYzM3FQQWM2eU9pbEw1Rmc?oc=5",
-        "date": "2026-11-06T17:47:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
-        "title": "Acciones de IREN caen 18% por retrasos en centros de datos de Microsoft",
-        "description": "Acciones de IREN caen 18% por retrasos en centros de datos de Microsoft Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUFBRWtaUTdlYjZuTDR4dldNVG05Y2lDdUsyX1BtX1dUV1hpd1RfNUdBcGV4LWN0WFdyd0ljTXZFQ3E4eURrUEZWaVBEendhbjRqaWxFUTRlMVZaTkNxUTJ2UEo1S1ZSblVCX05kZFRiXy1YLXotUUFuaFAzX1dhaktXOXQ4dm9nNHZKVFc4U3E?oc=5",
-        "date": "2026-11-05T16:21:34+00:00",
-        "source": "Yahoo Finanzas"
       },
       {
         "title": "La policía desaloja una protesta contra un centro de datos de Microsoft en Ámsterdam",
@@ -38,18 +17,39 @@
         "source": "Infobae"
       },
       {
+        "title": "Protestas en Ámsterdam contra centro de datos de Microsoft marcan ola de rechazo en Europa",
+        "description": "Protestas en Ámsterdam contra centro de datos de Microsoft marcan ola de rechazo en Europa Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa09JWGpBT1ZQZFl5aHV1NzZCRzhVY2QyVHdWY2JvbGFrcVRrRDdLcnkzbndJQkRDNHJHeVRDUHpneFctVXpKYllrTEl4bWdhZEVwb1RsUGtkRXJsQUhURURSa08tOHVfQmlmMGJfLWFYVnJBMGhpLVBvZ191VzhoQkQyNDdKUHplMnVLOERwV2Y3Z004MFhsWi1UcGY2dHhNQ0M4ZThMR083TllIT2lJaXpBaE1MVHMtWVFzQjlIcXBnQlA5Slh1S3NMZlFJZlVV0gHWAUFVX3lxTE5GeHJUdm9MaDFHR2o2eDF6ZDFkU21qMy1BbzA0c2twaHlpckxrbkNzRnRseE9qV2VydU0zbnVqMkNmUjh1VkgyWXdHZWZ3Q2xSMEdZUWVaOTNZQVNYU2NLUjBIRGhCWllzalZ5RThKc0JWcTVaWUZmX3h1aEJ3WjZNUk5jdEM0TG1SNmN1VjNORW9tblRKMFptdmFaZnNQajdaQlRZcUxiZVhwSXpFOFRVZTJzQ3RVNDdHcU1sS3ZuN3BMeGpHLVdqTnRnNmVYNmxmMkhwV0E?oc=5",
+        "date": "2026-11-06T17:55:53+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
+        "title": "Microsoft vendería XBOX para priorizar su negocio de IA a causa de los cambios políticos en Estados Unidos",
+        "description": "Microsoft vendería XBOX para priorizar su negocio de IA a causa de los cambios políticos en Estados Unidos Vandal",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZk5zWjVyR1hrcURoZE1JUGJ0UDg1dDhXNHRRQUh6WG9wSVc0QTBqVS1QUjlwVkp5eGdpZkFuZjk5X2J3eHZYbFdWZE5Zcm43WXlsMnJhVlVqZU9xVUNHNkc2ZDVqRTdQekp6SzFzUFFQdXBxeXhaYzFkNklrUl84eU1xc0YxRWIzQkt2SDBzZUJaVldWcXhYX0pPb2V5azBBZThCNkhsWEpIdThpS29VQUVfcjk3dUtDZTNzNXBfMk5TMl85SG03OVNNQ2oxbXFoY0lOWVAwNNIB3AFBVV95cUxQMHBlTU1kc05xdFJMcWhFMnJfbXU4aFJ0REVkbk1qbGljY1FQSzVCeFAwd3VBYzY2V2g3M1R6R2RrcEwxbU1oa19FM2JTVDE2RGFKYmVJRGNXTk9ORjJ0eWFQRTZkZGlTV0NwZkdMWHhUa1VjQ29sTVRGR09meWtiRHBmZDZZVTlOd1ZiYlNKeTI5b3gwam13QUJrQjE0VkM3VlZLZTFDZEdPVzRieEFUZmZ1bEFWTW51SEpDOWpOck1BLU81QUlaTVp1eTM0YWFsSUxSUDktT1g0V25R?oc=5",
+        "date": "2026-11-06T16:42:00+00:00",
+        "source": "Vandal"
+      },
+      {
+        "title": "Oracle cae un 4% tras cancelar Microsoft acuerdo de nube con IA",
+        "description": "Oracle cae un 4% tras cancelar Microsoft acuerdo de nube con IA Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0lWNzlNbk1MU1RETlpLc2x0WkhyMVRiSnc2RkxFc0dBZ2FQOEg4TGYzeERoWmNOYmVqRkhPeDNrSVMwR08zOHA5RzdoZlNWY3hIUEs2RldrT09KTFU0amo2T2xZWmc0aUlZM1hhU0xqU3ZYeEVHT2lYc2Y0R2FpejRYT1VNN0lVZm9zMFMzdmFPSHhWbHVqSkxoc2FPeG9jR3ZOQkRpX0E5VkYzM3FQQWM2eU9pbEw1Rmc?oc=5",
+        "date": "2026-11-06T17:47:00+00:00",
+        "source": "Investing.com España"
+      },
+      {
+        "title": "Microsoft Paint después de 40 años se sigue usando, pero hoy está asediado por ciberataques",
+        "description": "Microsoft Paint después de 40 años se sigue usando, pero hoy está asediado por ciberataques Infobae",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPODNQMWt0VFNMbXNCQ1U4cmllU09HZE5NUDA2eWpidk1nUExXeXhfeVQ0RWtDRk1rbFhBUUJESDVQVUNDTnYzQzMwdmE0THQzb0pYZFJTMEdGNFJfZ3ZlTHM4Z0FfUjgtNF9KMkZFM0xWSmxlWF9XNE5tWEhINnhwNmxLZkZrSzA2UWhfaTQxaGdTN1VXZEk4WTEyOGpIRGZmenZ3X1BtRmwybVBQR2NaTWtQdFRtYjBFcnVmMkVGOGM5a0lrSGVJ0gHiAUFVX3lxTE9sTktmNlhpN2hCaHBhTXRQQWRJZUVTckVYclJwSzdwa2E0Y3ZYMGZKektnclhYeG5saXV1WU5oXzgtejd3T0t4VmRPN0ZrRzdLenJfVC1wWGlGZENjdkJld3laa2FzZ2ZCU0dQOGlCVm56bWVid2NGMWpyNnZZeFNKaDB3ZkxfZlNxeHJZWkRpRXZRbXNQN2RCd1ExSVF4czctWkZjbXRoQzdUR2NJanJQNzZCc1FpUDJOeTdTLURLV1B0UUQ4MDE0UG1Xd3BSelp1U3Z6X3Etb3hWSE1FZl9YZUE?oc=5",
+        "date": "2026-11-06T23:51:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "Microsoft puede salvar el PC Gaming si la nueva actualización de DirectX es lo que promete",
         "description": "Microsoft puede salvar el PC Gaming si la nueva actualización de DirectX es lo que promete VidaExtra",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVRCSnhyajB5NDFOaGFJSTlVQm1WMWxMYWc3a05EQ3dkZ0xxTVdkRXhtaTZZb2MwTnlDTnBoLTBUUWVIOG9OaDBNS2QwenF5WW5vX1V4STJtQzRSOUFvTWM5WGs3UXhjTkltMEtHSFZVRzNNbURvT1JFZHhGdXBEekJ6UC1vMUxIMXVqRHJFcl90UTlhbUlUbWJXLV9mSEdQZHc?oc=5",
         "date": "2026-11-05T13:51:33+00:00",
         "source": "VidaExtra"
-      },
-      {
-        "title": "El sindicato de Arkane acusa a Microsoft de \"sabotear\" el desarrollo de Marvel's Blade",
-        "description": "El sindicato de Arkane acusa a Microsoft de \"sabotear\" el desarrollo de Marvel's Blade 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPelBqOG9iNUx4T0paeEw1S19na0pOV0tkX3F3OFFFaEJfbks3ejV1SzlVWEJ0MjNGSldVc2NjYUdXalhIaERBRGw4ZGpidjZKV2pmUGxKSW5ZS2dlOFQzNWNJZl9JdHptU25DdHI3dlFxTmFxX1ljM194N0pneHJiTDFXNTF1dFJ4Y19UM3p0anZ5N2NRWkhKSldudVhJeVRkSUFrcGdCVlVZLS00eXRtZGJWM2RJUlZRMEo3U2xlTGpLZ9IBxwFBVV95cUxPbjdHckZxcFcwVUxVSExJUk5wdWc0U1NrbHNwa2Z0a19rS2JfQ0JWZGpyX2s3UklhdS1zTkRjd3ZYTTVmWHFLZUppVmNkQlhFZTROLUloZGFib1pDVE92WDhqREdoSElhbEFRaXUtZFpZRE4yZC04b05BNWhnVjh1cENiZnlpVjM4clNEaDl2dzB0cHNpMjFxZlVrLTZEaVFhZFItaVQteG9fMlM1TUVYM0tqdlM1NkVlcUVkU1hkNUxESGdKMmRF?oc=5",
-        "date": "2026-11-04T20:01:26+00:00",
-        "source": "3DJuegos"
       }
     ],
     "Marketing": [
@@ -64,7 +64,7 @@
         "title": "Publicis Groupe nombra a Aldana Mandel como Performance Marketing Lead",
         "description": "Publicis Groupe nombra a Aldana Mandel como Performance Marketing Lead DossierNet",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTJmNHhqY3VGQ2R3WlRjYXlsVXVPNkpFa2k0QXJkUDNfYmY0cEJSdG9VSnR0ZzlmSUdpOWxvT1Zic2FuRE9MNFBNRGQzZGRaYkJGRXhYMVlxU3FlelQyeUdqZmVXUEVNU0J3RXlKYTJ2MUpBNGRMMXk2UGdSRkNuQXV2RGJPdFRCZDhidUlfLU9ZeVJtWXE0emdYak9ScUM3V2xmNjJ1cV9RWTVx?oc=5",
-        "date": "2026-11-06T16:27:08+00:00",
+        "date": "2026-11-06T21:41:47+00:00",
         "source": "DossierNet"
       },
       {
@@ -75,18 +75,18 @@
         "source": "PuroMarketing"
       },
       {
-        "title": "UFLO abre INNOVA con tres tecnicaturas y ya inscribe para 2027",
-        "description": "UFLO abre INNOVA con tres tecnicaturas y ya inscribe para 2027 Alerta Digital",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWY4SUhCVW93R1hTanl4aC1CaWZSZjA1S3NsT21YX3BlQk1jd0cyRlJpQzN4RS1lUzRIdmhxbmJEaEZVY1BLNlFFQVc4M1pQaFdOWllLSVN4azU0THZzZnBkQmZpMFJ1dmI1RjZZMmViQnltNkpQbUpNUFg0WHlxeEtfZkdveG9tZUg2SmhZUllnUjBiNW9nNi1OdmhCLVpqMFZNNXRnWmF1b05MbmtfX2E0SkdhNWpYclHSAb8BQVVfeXFMT3JOXy1GVXE0ekpwV3FBVmJ6alpFSUZSNU0yaFNfV3JEZGc0UGw4RnVnbG1VdUI0R2gwa1Z1eW5kNEt6bTRoQ2Ntd0k2R0VzdXRUOUwxLU51WDVqYTU1RFJJSGl0b19Sc2pidUppUHRoM2JkX3A5TlF4NkJKLXhfdWZudENyU0JxYkY0T1ZEZkZmVlZCUFoxRnpWWmVXa0NhWUdXaGl0bWxhRzlGUkZqZzRiRV9kZy1GbUhXTTFkMVk?oc=5",
-        "date": "2026-11-06T00:15:40+00:00",
-        "source": "Alerta Digital"
+        "title": "CIMEDU: Rafa Agüero y la IA en el marketing educativo",
+        "description": "CIMEDU: Rafa Agüero y la IA en el marketing educativo El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb19ab3RyaWl5VXRzbWlmUk9pOVVyQ0ZpdVdOUkc2dzVCQnZ1Q2JSQXBINEhJN3VITVJwLXdzRzFYODItemh6RnYxa2dKeUhoV1NsMXEyV1NfUlJVeENWUTZNT0R4UF9rZ2x3WkszNHhFSGxpNFlhSW05bHhaSXM2cjF4WVNHbmh5SGdN?oc=5",
+        "date": "2026-11-06T22:33:28+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
-        "title": "Growth Hacking México: dirigir la IA sube ventas de 30 a 39",
-        "description": "Growth Hacking México: dirigir la IA sube ventas de 30 a 39 El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmNLdGlJSVFKcEtyRkxCOFVsM0JNc3VzMjZUclhjYnJaV1BUSG9hTlg1eTNtb0NNVmJ5ZTlhRHhkXzlLRzlyUng4TmkxQVJHc1NicTd3cVl4UFI4YTM0TnlyblJrUUg4N3JLd1dPN2l0ekhUQTE3dk9tUDAxRHNKRFZQS29GMjBPTmFSZDcwWXptMjg?oc=5",
-        "date": "2026-11-06T19:06:52+00:00",
-        "source": "El Ecosistema Startup"
+        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
+        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
+        "date": "2026-09-28T07:00:00+00:00",
+        "source": "Agencia de Noticias San Luis"
       },
       {
         "title": "Investigación internacional en la UV indaga cómo el marketing digital influye en la alimentación",
@@ -96,20 +96,20 @@
         "source": "Universidad de Valparaíso"
       },
       {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "UFLO abre INNOVA con tres tecnicaturas y ya inscribe para 2027",
+        "description": "UFLO abre INNOVA con tres tecnicaturas y ya inscribe para 2027 Alerta Digital",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOWY4SUhCVW93R1hTanl4aC1CaWZSZjA1S3NsT21YX3BlQk1jd0cyRlJpQzN4RS1lUzRIdmhxbmJEaEZVY1BLNlFFQVc4M1pQaFdOWllLSVN4azU0THZzZnBkQmZpMFJ1dmI1RjZZMmViQnltNkpQbUpNUFg0WHlxeEtfZkdveG9tZUg2SmhZUllnUjBiNW9nNi1OdmhCLVpqMFZNNXRnWmF1b05MbmtfX2E0SkdhNWpYclHSAb8BQVVfeXFMT3JOXy1GVXE0ekpwV3FBVmJ6alpFSUZSNU0yaFNfV3JEZGc0UGw4RnVnbG1VdUI0R2gwa1Z1eW5kNEt6bTRoQ2Ntd0k2R0VzdXRUOUwxLU51WDVqYTU1RFJJSGl0b19Sc2pidUppUHRoM2JkX3A5TlF4NkJKLXhfdWZudENyU0JxYkY0T1ZEZkZmVlZCUFoxRnpWWmVXa0NhWUdXaGl0bWxhRzlGUkZqZzRiRV9kZy1GbUhXTTFkMVk?oc=5",
+        "date": "2026-11-06T00:15:40+00:00",
+        "source": "Alerta Digital"
       }
     ],
     "IA": [
       {
-        "title": "Los únicos empleos que sobrevivirán al avance de la inteligencia artificial según Bill Gates",
-        "description": "Los únicos empleos que sobrevivirán al avance de la inteligencia artificial según Bill Gates El Debate",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSkY0UlZmV3VtS21NZTkxMkR4NElSbUVSY09JaFRheGFQSDFKaEdDSmxST2Z1Nk5wWDFVZWVxeVpVRlBnejFkYTdYcTdsajYwYTE2Z2VqR08xcDRlVlBwWHQyR29zcE9vOVFaWWxzRzN0THAzNVQxWDg0eFV1N25NeFNHNXFEWHRmVlhMUVh0S0FLVE9aTmRvUzhUXzdXVXFxR1NIdkhJQXBpSE9rM1U3Nk9BLXk3ZG1jZ041N3I5Y1l3N1Y2cWdSV3dvVWpWQjlkR1HSAdcBQVVfeXFMUDlxRUlpRm9sTlFfa2l6dk1QckZlWVZ6bXNwWk5GbzBpRXU0WTZnaHM0WWt0dkNOTFlUZGZ0QzFBNzZYOXk2UzR1WGttUWNpM3RoZk5tSi1ScWVaSmhfWFdsU2xFZXdMS3Q2elV2MUFCTXE3WlI4ak9qX3NkSUtGdEREMlAtT0JWYnpDLURXWFZtN2xiaGI1RnJkNVBlbExzQ04wTnhhTG5feUQ3OE5ZalZhS3VzQlR3c1l0endJTkotV3NJNGR1ZjBMMEhNRFZodTNNOFBncUU?oc=5",
-        "date": "2026-11-06T09:36:54+00:00",
-        "source": "El Debate"
+        "title": "Wall Street ensayó un rebote tecnológico, pero persisten los temores por el futuro de la inteligencia artificial",
+        "description": "Wall Street ensayó un rebote tecnológico, pero persisten los temores por el futuro de la inteligencia artificial Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZEtXcjZ5cVdGMDNHUXlVMlNPeGc2Mi1OU1M3Smc4UDlfSVJJUTFoQXpiRWFFdGlRamNyNERXYzM3MmN1UmQycEJFZ21JMEZ0WlFsSG8teVZETG9mZkpnRHhMQi00aURIY2xfY1VUN2ZFX3I0eDVyTzVVRk9jcC0weEhLQ3M5NFdTMFR3NVRHSjBSa0hGYklhb1hCQjVuWVEyVndXNWRtZk1IQlRIUkFEVFhTZEc2NGhLWnd6N2ktbU5oWWJyXzNva2p3aUFsTGxmc1lWTkNWamVjcGVYOEh3UWE1OHZTTDJsUXZYR1JLaHo0bEJLZUJqYWdvOW9nTEJfdnlCeEliajJ6dDZPYVlzYzJR?oc=5",
+        "date": "2026-11-06T23:39:03+00:00",
+        "source": "Diario El Día de La Plata"
       },
       {
         "title": "ADEPA da la bienvenida al Papa León XIV y destaca su rol frente al avance de la inteligencia artificial",
@@ -119,32 +119,32 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Expertos piden a México modernizar su industria para competir en inteligencia artificial",
-        "description": "Expertos piden a México modernizar su industria para competir en inteligencia artificial Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3MxbVpPRlprUlhuaWVEaWVwYXl3VGFlemFQZTV1WU85cGNjZVJfeVhtbC03clk4RnI5ZlRHUGJucFlrcjdEc1VvZUV1RWJNTlNuQTdhV01MaHZLdTRuTWh2anJ2cWF0M3ZiVUhvNmMwSTA0MGJxWWNVUVdvY0g5dks1Rmdyc1lJZlZQTFNZU1NSWHZLNzV2c3F0SjZvRDBGV2MzSFR5OVE1amNCelNiNnViSGY3SGdfZFN1ODFMSG9XSEtxb25PWU85dHd0c1ZjYzBFRHNfOGvSAfMBQVVfeXFMT0FHT2ZJYkZ3VURMT1g1bXJHR3VXV1RfQTBjSVh5d2E5UlJyX2dYQjNvM3Q0QWZiN1FPdlMxUVpGQ09pOGtKS0hxMk5VZnpMVkVwUFJ4MGRMWGdTVUhaYVkwSllKNjc2bS1yVnAzaXpmQ2hUOHZBZE4tRHJGZmp5OXdNblgzV3NldmJROVUwSW4zOU5Oc21rX0VvVG1CU1RFVzhTM3JfSVRMT1prNzJfMlM4U1laQzVaU2J2SnBQYWhiZEZRNXdFcjlpVG5lZkx4MzVaREVuT2VyRDZKTER4WWZ1T2pvakJuYnp4LUhoaDRfMnFV?oc=5",
-        "date": "2026-11-06T20:46:00+00:00",
+        "title": "Primer discurso de León XIV en Uruguay: qué dijo sobre la la inteligencia artificial, la familia y el trabajo",
+        "description": "Primer discurso de León XIV en Uruguay: qué dijo sobre la la inteligencia artificial, la familia y el trabajo La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRjgwZ3BubDlkMGxkWHU4RHlHQ2hrbWFKb05xN3lQVjRwbEVfVFozTzBsc2VCZF9yYUxLeDBjeDZWT2dSS2FOMGRRcDJGMldZYVN3dEdiTzJsWlhoamFVSmFNV0NpaDBLSDNlbUVRVWFLNWx4VXllaDZTd1UxNEdYYXJLZnhaNXRFZVktYW5XVm52THBmNVZaWnAwMkREeGZsQ0NHV2szVm9pZjk3QkQxVEFoU3lVd3hVdHd4SU01QWx6aklLdDJEMHRsX3QybnlmcUhGWNIB2gFBVV95cUxPeWxuMlBxbl9pQ2hLeWotOWJjMmZ1X1dSYVdiNk5vcEVCUTNyNk5LOWctOXN2QkxlSkpiU1lIc0Z5aXMweTZ6UUxWaXpvTlFOaTZDdzBsUVpINl9jTWZQQVlNMEp3RTZOMEV3YktheXV3TE5fN0VUN08wS2d3NXd3TnBneGJnQjlRSl93X3lHSmZuWURnRElMa3VILVhramJmb0lWdHJpeS1ndmg1dnNXSE5oSUhWZkV4eUZqNS1UT00xSFduam01RGV4RktyVlFSSE1ZWHZTNExiZw?oc=5",
+        "date": "2026-11-06T22:57:54+00:00",
+        "source": "La Gaceta"
+      },
+      {
+        "title": "León XIV: de 1891 a la revolución de la Inteligencia Artificial",
+        "description": "León XIV: de 1891 a la revolución de la Inteligencia Artificial Diario La Opinión de Rafaela",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa1pLNVR6RkZFZl84RDB6UHdCUWpaR2kwUTJPaEdFR1B0dmRMYTJQdXppRkRNYkxJZ2NNRS1TWHRfZGk3M2NVZHljZGFBTFFXNklPVUlraG9jNHpEa3RSUnF0ZVlMYUxNRjhuSEhBcVBRdjdTaXN2dUt6eG5idy00VlNGQ2hpWHA3RlFmc3ZIQUJRODhfMTZWLUZTVzBsaUdBX3Vwa0ZGWUtMbERSbzdONG1wZmTSAaMBQVVfeXFMT2N2N0w3LUVKQWRwM01oTmRwZVRGVG1hSHRPNXR4NTdEaWowUG52ZHptM3pkQzcwaEJWOWxqWmhlcWxmMDMySlVZLUhsX2M0QmxURnI4Z3RPTndHY285RUV3MmhxX3k4MEJGQjZtWDhmSnlrTkt6dFA3cGczYlM3M3l5Y3NHa1VmUnVlOXlhem9vNEdQd3BGNkdPbmN6M0NoWFFRSQ?oc=5",
+        "date": "2026-11-06T05:28:05+00:00",
+        "source": "Diario La Opinión de Rafaela"
+      },
+      {
+        "title": "Deepfakes: el fallo que protege la imagen y la reputación frente a los videos falsos creados por inteligencia artificial",
+        "description": "Deepfakes: el fallo que protege la imagen y la reputación frente a los videos falsos creados por inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc0htY3ptUi1OZDRiS0JoSFF6QjBBcjVTQ2ZNNTRQU3JPclJoN0xtR1IzemNKZFJFeUxYTFktOHZIZ1N4RG5ObmN5d1Y1U3JrZU5GWFVfeXBzOWRLRjFPcG5PeldsWnllN00yMlJsbko0TVV4WEx0a2dOYVNHME1KNk45eGc4Z3JiYWdrYld3eDdOSVZneTU3NVdxLUlsY0ZBLUtwMUJLRnZ1Vjh4Q2p4N09zMmc1aHZkb1ZVMkdFMWhnWkVRYUtwZk1hNXB2NFdMd29mODRjSURWcmxmSU9JQms2RWJwWWxUZzVDUUxWazlXQ2RsWlHSAZACQVVfeXFMT1Rud0VnaDlzRTh5cGFKODBFMzUzNExKLWlKSFBFTjJvdnRERG5UaXZKNXZNNlNtcWsxV2hud0h1d1g4TE01TFNSSHJ2RkNGbTVTNllwaWVzM3V2RXNLVzZ0QXMxcXYxUGhqRlRXMUZzMksyWGhuQjVXeDNZNzY4djBBcUVXN29vdUd3XzVOQnRhZlhhbjhxYWhqYnJ3NC1SQWpsTDMzWFFFUUhZNEphMDAySzA3ZUxHOHdMUHhEcFhlcDNCSkU2T09kUk9Md0V0eGZtNS1jQVlfeU9DaDNvVHhpQkVYeURtU3c2Ui1hbWR1bEcxeW82ZEFSYVpPZzhGTXBzRkt0aWVHQTg5LThCa1Q?oc=5",
+        "date": "2026-11-06T17:23:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Nube soberana, inteligencia artificial y datos: una apuesta para acelerar la innovación y la transformación digital en Argentina",
-        "description": "Nube soberana, inteligencia artificial y datos: una apuesta para acelerar la innovación y la transformación digital en Argentina La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTWI2cG1CdUFoVTkyWWlDRXUwRDFUVS1nbjNWX2laTE56bnJyQVRocWIzS193STZMNFhKdVRvSEJpY1JBd3hMYkQ4aUtPaVByTVBPWGd2Q2pBMDh1WmhWX2Z1NTNLMmFsUUFEdkxDSi1WcWNReFp2UnM0Wmx3b1ZVNWRqbXQ4MGhRejBfcW1USUtjSUlHSWhud2dURG9hWnlpRUhqaGVqX3pIRWxLNl9pOEYyTVZZYUlzSnhDX3UtVjlzVTE2a0tsUVYxX21pMC1VWDZxSV9OMkJTZktQT2RJY0IyYUtGRzlHVHdOdkZjMC14RFpRSk81Zlln?oc=5",
-        "date": "2026-11-06T21:04:16+00:00",
-        "source": "La Voz del Interior"
-      },
-      {
-        "title": "Más de 40 escuelas del interior exploran la innovación, inteligencia artificial y nuevas tecnologías",
-        "description": "Más de 40 escuelas del interior exploran la innovación, inteligencia artificial y nuevas tecnologías Prensa Cba",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlBvZU1KNUVpbDV4U0REVHFFTlJPTFZrUDdRWThmUFlVOG5sa1VlNzZXdHlEb1l2UnFzWk0xczJ3RzNJWWpGUjQ0Y21GdC02TEh5Ukxxai0wRVFZTmxwUDJsRjlnODVGYS1kNHR6ZVZsaUV0UkNOODh3ZlVvT0FpQ0dqRGNhM0RWNWNwYnFRMUNoV3pkbnN1Qi1PUzdWdmJKTU9sR2xzdjBKWGdNTDh4dW9COGR4bUJqYnExeTVDY3o0dmlr?oc=5",
-        "date": "2026-11-05T19:30:49+00:00",
-        "source": "Prensa Cba"
-      },
-      {
-        "title": "Poggi disertó en la UNViMe sobre inteligencia artificial y educación",
-        "description": "Poggi disertó en la UNViMe sobre inteligencia artificial y educación Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWZxU2dZdzJPOGx0aFZpbmFwalBJcGpOZ19yUzB4RDJ5ZHRNX013LWlwamYwVWgtYVVwMHdscTVrYU9MQVVMNnZraENmWEd3X2lneDZaZUpYRWw1bFNya2lKS0Vpc2tob3JiaV82dFVZOXZEcUZfbWktY2p1aEZJV3hkcFlMa21RNS0zMFJuRTkySVBKdDNoeHBrZTZjbl91RklwZUZETlpHMjNWaWxfVlJxZVJFQQ?oc=5",
-        "date": "2026-11-05T16:44:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Del campo y la inteligencia artificial a los cinco continentes: el mapa cordobés de las firmas que conquistan divisas para el país",
+        "description": "Del campo y la inteligencia artificial a los cinco continentes: el mapa cordobés de las firmas que conquistan divisas para el país Página|12",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT0FlajRrbTJzRDlVdzN4NEN2UzdCMVRZTWF4MmVMaVN3NkplM1pTSExSQjF6Ml9SQmdrVFZsSERYY0hET294NjllbEdsV1NxLXI1RzJLLWN0TzY1dHBTbklCVFJSYnJxZFcxWk9MQXUtME12WWxKZG1YNXZIMTJTdnpHZm03N0FLY2diRTlxVlFfdVlicnA5R3F0TE1EZkxJUXBEMHJKMnhic1hqeVQtYWNVWXlCc1J3NjNzSWtGdmFoRFd0cVN2QzhXbDg5NmIwaWhDNklWQzZDQVVWOHpUSm9saTY3X0cwZ1NjMHFDU1cxYjZfSGhfbDlKcEFfQQ?oc=5",
+        "date": "2026-11-06T15:34:03+00:00",
+        "source": "Página|12"
       },
       {
         "title": "Capacitación: 370 docentes que se formaron en inteligencia artificial para la enseñanza recibieron los diplomas",
@@ -156,18 +156,25 @@
     ],
     "Vaca Muerta": [
       {
+        "title": "Tango Energy comenzó a perforar sus dos primeros pozos en Vaca Muerta en Río Negro",
+        "description": "Tango Energy comenzó a perforar sus dos primeros pozos en Vaca Muerta en Río Negro Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbjczUTQyS2FMMXBvQ0l2bEtOQ0tCZGhwOFpkOU9pR2tjX2VyOVFiblVmWndMRG1VRzY5UER4NzF5c2c5ZDZxNldaUHNXbnNJQl9VMGN2Vk80NFduXzN3d2JfcDRycEtaT1JMVGx0N3F6UjdNWU1JU1MxMkU4SzJDcHhBcUhORy1kSFlBUUk4NGlPN1Zfc1VHZFZrRW52bDhCVXV2bDRKVTYxc21XYnlPQ0IzaDNGTl8zV3lR0gHAAUFVX3lxTE43VmNNdXpIeHVld0hiUEFCQmw4OEx6d0s0VGdha09seHNGUUxtX2hLb1h2S3RjN0xiZm9JaFRFV21hVl9icmZ5QmlHd2NZZ3k2NXhmZjdRZHQ5TVJMNjJ4WWpGdFNnbzJoa0dsSWJUNWI5SExfVUVYSGJhTnhSVEdrTmdyMWtTcEplT3ZWUnVJSWxQV1lJd0ZCRFB6c0toN200WktaZTZwNk0yZDBhRUNHdGVwbUhNcWZxR01STFcxXw?oc=5",
+        "date": "2026-11-06T16:13:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Comenzó la soldadura del gasoducto de Vaca Muerta a Río Negro: los detalles de la obra",
+        "description": "Comenzó la soldadura del gasoducto de Vaca Muerta a Río Negro: los detalles de la obra Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEFNenpWZHQ1V2t2NWhCNFlheUFrUm5vc1hZcWFacGZIbVFBek94ejFBeXRnTHNCeVIzcnRtQURMamlGcm05Q0tBbllhcWFZQWhyNjQ2NWRJUEx4U1piTTJlRW42YXJZM01heHN6RzAwZkt3S2lKdld4dzh3X0t6eTlOQXFRN3JjMVotYWlsV0FVNzFNSk55RFctZGpWZGdmVEdKUEhtMy11dzJIZkdnQWtIdHR4a21pVXhVa2xweW04LV9Zc1JLX0lB0gHSAUFVX3lxTE82cE5kOEkyTnlRdmdRM3d5a1ZWemdSczZnQWhuYzlYVHYzbWhKb19YTmJxeFp1WHBtNnZNSDZacHhsTjM3eGpxYTF3UFZJRkNzd2RLMUxuUVVNRlpaM1loVTBQR052cnRQRGZEcWxuM2VXZGtZTEtRQWpNU2JScW9BRjBGLWhPbS1lWmFSa2NSWVZUbmFFNDBCSnJUaEF1TDlvQUNWSWluZTNCeWtiZ0JQRGE3S2FLQzFaVVFTdUdjemVwQk1aRklreW5JazlpVHBqdw?oc=5",
+        "date": "2026-11-06T23:54:13+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
         "title": "La petrolera de Galuccio aumenta su producción y exporta más del 70% de lo que extrae en Vaca Muerta",
         "description": "La petrolera de Galuccio aumenta su producción y exporta más del 70% de lo que extrae en Vaca Muerta Infobae",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNmdIemZibkRrZkdwUEJhZVpqVE1TMl92LUk3UnpkVHdRRnlkMmVRdktyeE82b1hkMEVrUXphZUczTmRZQ2YyTlAtY21FdzlpbTFNbzFRbUhEZHY2eFhDTUpIZFV3RVJmc0pMM2J1MHFQcE9MRTZpSzJfTnlHOEpTMlplRnVsOEJBM2tnaHhRRnl1cWxoVC1rVlJ0YngyQS16cjY0dEpBNjl2NzR1OFY4a2hmMnZiUDhLSGozNkhXOUkwbFV1M3M1Vl9IUTk3QTFpTHM2bXZ6UVpvdGPSAfYBQVVfeXFMTVRhcnVwbFVja1RBT2xSaE11WmktQ2hYeFEwS3hQdWNFcXJzelliSTJJRjJVWGU5NjNYTDhNelNXbE5RQ2stalFtelI5YUhtWkdKNXMtMU9zejlSTmhmRzJfZUJJWVRmRkUzSkdIaHpSYS1kUXNEM1pxMjBXOWl4LVhIZ1NDMlBuSk1pRGlkN1Z0UEVkTlFNM2xBcUFIN3BieFo5SW15bTh4WWtjM2pGNzJFcEZfVVlMcnN0UlFBNXJnZUI1UkhsaEduVU81YWEtRXp3UVl2ck9wd25Dd3FIZjVIUzk5QU1nYXhRWE43a1EtZ2ZzT2J3?oc=5",
         "date": "2026-11-06T04:30:00+00:00",
         "source": "Infobae"
-      },
-      {
-        "title": "Zeus en Vaca Muerta: cuenta regresiva para el primer set de fractura eléctrica de Latinoamérica",
-        "description": "Zeus en Vaca Muerta: cuenta regresiva para el primer set de fractura eléctrica de Latinoamérica Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMGxxUlpGR255em43ZW1DV1pKM1FSa2tpSC01bDJ6NkVlc3otT254cUJZQ2tWR3g4S1haVW5mcHF4NmdvenNQSVkwYTNKSGVlNmtwUWVDanhYVDN2TDgtR2xaTEJiQnp3aHdSN1BFOWllUXI2UzZYNUNTSEdKVzRPeFEyWmZzR1FPdHV2ZllIczhkMzh1bVJRN3dkUjl3M3VhWExmaHhaQmR1cExkeXg0Nm5TTmtPa2haZXNBQjBhSVFFcnh4S1Vj0gHMAUFVX3lxTFBFd0FUS2pEYm90UEhib2lQMDctM1B6ZkxnUEFlano4bXZLYldic1l5VVFMZXc1c2pPaUdtaUdyLU1vZFN0R1FvSTFGekVtWVhGemc3RFBhY1REa0t1b1l1QWQ3TTBkdElHZ1hiUXVEWE9TWVN4RGgxVU5GbkFuTzQtRUw5R2h3clN6NWRaVFlEMTZOUEd0Rm51Smh4VGhtN0twMHI3TkRZRVoyeEVCY0ZPeE5VVE4zbk5peDZaWVRfbjdDWmRYcTMxWDdqMQ?oc=5",
-        "date": "2026-11-05T16:55:00+00:00",
-        "source": "Lmneuquen.com"
       },
       {
         "title": "El revés electoral de Donald Trump sacude el mercado energético global: los dilemas para la Argentina y Vaca Muerta",
@@ -177,32 +184,25 @@
         "source": "Ambito"
       },
       {
-        "title": "Una alianza argentina y americana se mete en el negocio del gas de Vaca Muerta",
-        "description": "Una alianza argentina y americana se mete en el negocio del gas de Vaca Muerta La Nación",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHRSNDE0TzJhVVRkTmhFdDQwRk1rZzBNbDBUOXRMWjg4cnA2N2VWWkFyd0pxYUhLMHFMYTRQOHF0V1JjTEJGQXl2SDdyaTFTVjU1WDJ3TmV6dTJkMU9JdmExdW10c1VJbG5TM0xHa1VoMnBraGNOVUxTUTJtemdRNUd5QjJOVVhPWTdZa0NMVy0xX3M5X3FpNnRGQU4zdUhaYkpkdzhTZzR6VHZCRTEwbWhJRkJNOVVBTWkxbDV3TlRqNXp2YUhn?oc=5",
-        "date": "2026-11-06T13:44:00+00:00",
+        "title": "La provincia que decretó impuestos cero para empresas vinculadas a Vaca Muerta",
+        "description": "La provincia que decretó impuestos cero para empresas vinculadas a Vaca Muerta La Nación",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYXlJWVpJWlRKVEdIaVg0bnhsVEFhT1lrYk1McFlsT1VNTHFpYnNVTFlRVDdCM1FoMWUwNkRqdFZXbkpWcXp3NGtxbWptVENTZ04zWlJWYjNKQVRDemQtaFdlb0F1MmkxczNLWmdpTzhoUUpTNDNvUU1NbEFZU2ZsTU1zeXIxWHFJOUh0WlZTeXJkZHhWWGV6SkJsSERhVWpqakRtTnVVeW5jUGVwYm1UZFFqVmttZGlrOVRDQjVrR09ubTZoaUJj?oc=5",
+        "date": "2026-11-05T18:06:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "Equinor e YPF reactivan la búsqueda de una Vaca Muerta del mar",
-        "description": "Equinor e YPF reactivan la búsqueda de una Vaca Muerta del mar iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2N0LWJOUTc5S2ZrLS1fa2VwSndDLTVCT0pjcThGQ1ZfZ0w3bE9zUnZROFYwenJhTVBJUERhZVlnR0U1Um85LUpOVWI5SGZWYmgwYmQ3ZEFGeWdwZXFxQ204bG1GdmZMdVFLT0h6U0NMSDBYcDI4MkhDbEVIOFJQQ2t4SzczTGlVSFRNT2I4RG0tWk9DY2lpV3F4U0l5cnhhdWg3Vkl0azc4QdIBrwFBVV95cUxQVEJEelZEcTN3N1h1dTVfOVpFbktTakM2NVFkbndUQ19KSGZjbFpWakx4RVBiME1ETmlsYURJeUh3c1lqcHNWNFl5SG1QN25NUEJzWm42SzliaWVmd0ZKLTdzSXR4RjhuWkoxZS1jUmlVLTBFRzhTQ3J0aFY3azUwSk5zeEk5cVBJYVY4cHM5UjVxa1RTOVpVYU9FNzQ3WlJZVk1hLTZ1cmZDeVBTOVY0?oc=5",
-        "date": "2026-11-05T14:36:00+00:00",
-        "source": "iProfesional"
+        "title": "Vaca Muerta: cuáles son los desafíos de formación de las empresas que multiplicaron su personal al ritmo del petróleo y el gas",
+        "description": "Vaca Muerta: cuáles son los desafíos de formación de las empresas que multiplicaron su personal al ritmo del petróleo y el gas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPS0JkUVJZYjZrR296UkhtN1RjT19OOXAwYmJHbXF6OWdQTTdzdnh2X3lVMWZNcC1nSTdyQllSSmpnUUY3Z1d3T3B1NXN0di1vamc4OGJoWUZUTUphNGo2Slg4bW43N3N0RDRxb2xNLWFsTFZxcm9oSXhiZ2NpaDFmSk1GQzc2WV9ERmoxSHNHcHpCUmdVU19ic3lNaUFCcy1hQ1l2OGd5RVVHR1F4bWtOV3Rrc2YzeHU4ZlJMZXJCdk5IN2g3RHRJREhfSnZJTjVENUc0Z01iRWl6bFVIMFd3ajMxVTFoU0w0N2tNTmZXRjNrbk1WS3IySERsRmpiWDVm0gGbAkFVX3lxTFB5bUctVGFTaEtpVnVOZ0xWVXQzNGZEeFNhMkFIa1NNbEdaOFZfbGNVOFJnd2xrY1JzcjdGOXg3N0w0U1JOZF90SEpONXpheEx5THNuMFp1bFBycmhvOFBuaVBhNEQwdTFobmRpUlJ3b1g4NXZwRzE3T1JYZjdhbHoxZE0zeHZwMXF6UmNqTzlGN0VOR2tBV1Z0T1R4aUxzWjFCUHBLTW1DelFubjBjOXp2dnNRUjYzTGpBMHMtMjZKZGYyalYzcTU3cTBOM0xOMzlGNW94WG9nbEY1X3NlcEpGdkwwLUotcTd5b25Ga2VPLUkwLURwQUwzSXZZRUhVc2dPQnluZDM1WnRFd2xjOXg3QmFWcGxKYUtRR2s?oc=5",
+        "date": "2026-11-05T06:25:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Abogado breñense analizó desafíos energéticos para cadena de valor de Vaca Muerta",
-        "description": "Abogado breñense analizó desafíos energéticos para cadena de valor de Vaca Muerta Diario Norte",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXgwb0RGN2RBLXJ0MXJ4WWVWRjZYRzlxdVVFNjhLaXRYbGw2RGs5cVJNc3lKM3d0Y3lHR1JPNFlyRGZIT1I3cDdzYy1vcnFuUmtGN2JfMDBmWWpuMDJlX3BHN2d6Q21QM3dCLXZVVk43N1RoTkl4dXdDaGdpbnA1djNZenZONVRabW5UYTJ2YlFRMWd2ZzFYNTZGV1RaOGZGOUJWb2h5UllheUZ5MXlSMW8xNU8tZlU?oc=5",
-        "date": "2026-11-06T15:03:57+00:00",
-        "source": "Diario Norte"
-      },
-      {
-        "title": "Vaca Muerta en Río Negro: TanGo Energy comenzó a perforar sus dos primeros pozos no convencionales",
-        "description": "Vaca Muerta en Río Negro: TanGo Energy comenzó a perforar sus dos primeros pozos no convencionales Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ2pfZ3FRTmJwaEgxX25NN29Jcldid0I1TmpYTlNkbDMtRVN5VEdGU2xkaTdvbGN2R3VZQ3BGM0VNN09xYnVZajB0MlZIclUxclBESnIzRXhwc0IwN2hSYUx4WGlubHdsdGVUNFlSd29UeUNxZzdsalBFcExyUEtfWDYzZ2dEN1hlcTJsV1NBczZOQXFfMGhiM0FMUzQydTAzWUxlOTRSaG1ScEpVMFhPZ1VjU3h6bUl6MGl2TTFXMlJSUnRFVHpoSGRpZTRWa3VwMllubjJOSTVYd9IB4gFBVV95cUxON3pZRzVsNUFsczdYLThjZS12TFZtTGFfVU9rMHFYRU5nMDRlYUlyU0ZmdlQyejZqTENBeGc3RVFNdmtsY2RZZG5iZ1Q5SHJoMjk0cDNCR2RuRklmbV9FT1h2WVRNNEd0WXJ5M0x5WWhSczBmYjVlcnZWcXdlUWE3ZDRCYlpsUE04bkVkYk0yTTZoSlc4ME1naEktbVpPdnY3V1BFUVpvRTNTYTFDdWZ5ekZGREtZM1RybDc3QzNjSmlWT0xCSUhDODY0bnN0NGtXOE5JcDJsUV9MQ00ybkQ3RGtR?oc=5",
-        "date": "2026-11-06T16:49:54+00:00",
-        "source": "Diario Río Negro"
+        "title": "Una alianza argentina-estadounidense se mete en el gas de Vaca Muerta",
+        "description": "Una alianza argentina-estadounidense se mete en el gas de Vaca Muerta Punto Biz",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaW1KVHV3TjNlb1J4OVJrcG5TM01RZDJnNE02dXdXcXhmcW8yUlQ2eVF1RDVnUi12Z1lvSHB6SVpoXzZyVjJvNTBQVG9FVXJRZFpNTnF3MGtVc2JzWDJfX3hzQUxvLUdCLU82RDMwUF9jMGprYnN2bjI3WS0tNlk0OEVHZ0htdnZfVllXLW1fcnUxWTVqTnZFYllsWXRTT2tmRGNoajBmYy1OUGF2b2RJbk5IY3A?oc=5",
+        "date": "2026-11-06T14:14:32+00:00",
+        "source": "Punto Biz"
       }
     ]
   }
