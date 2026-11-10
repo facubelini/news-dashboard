@@ -1,20 +1,41 @@
 {
-  "updated_at": "2026-11-10T18:24:28Z",
+  "updated_at": "2026-11-10T23:51:11Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Las acciones de Microsoft caen ante la ofensiva de Anthropic en software de oficina",
-        "description": "Las acciones de Microsoft caen ante la ofensiva de Anthropic en software de oficina Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaHgxcTl5ZkxlekVBbU9zTnY0ZFl0YURiYld5Y2Ntc0RXamxLSzBaYjNLUGhmX3FnQzNwZmhkVVpRaHhxdnlZSmNvelVKbVpxMTMtQWVEZS1zWkZBRUpQWkpjMFhjNjdRUTFOTkRjRXpLMzVFMXlMUVNwVFByYnlRVFlXT3ZMSWZwRzdXZkdRbm10M1paQkJGWG9PTm1MRnZZaldyaExyZjY2R3BCUG9Gak1TYWg0TkYtcGg5LTcwUXlITzVyTGluMFBRU083QjU4TFA2cXpn?oc=5",
-        "date": "2026-11-10T17:34:00+00:00",
-        "source": "Investing.com España"
-      },
       {
         "title": "Una falla en Paint deja a Windows 11 vulnerable a ciberataques - TN",
         "description": "Una falla en Paint deja a Windows 11 vulnerable a ciberataques TN",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1JNYWtJQi1CV0xKc1FxUkU2bW5ZV2hFMkgtZmlGWUhseG5qZ1h6OXpUd3lRdUx4MjJiY1M3Rll0Q0VjQ1ladmNuekFvUF9TVVQ3bno4eHNXN01iandKWDZQemJ0Z0hfdC1MbGxNM2NWUi1EakQzNllwV3pXcHBpLUUyMWlVeVk0cFZiT3E4SmExTUxRT1E5a0wybXpmQUUzVWZoRnllTmlBak8zNlRQRW5YeHctekk1U0HSAc4BQVVfeXFMTmZpLXJlWlhjeTVpUjVVb2VJMGJfVWwzanZPRUNfUEVOYnV1RzlUTEwxLXUyZHN6ZlZSeTZlQ2tfLUNnWGNSRTh5OXpDWFh4VUNvTFlLYVRVeGZtelBFSG5tUUREWVBiSEM4TUJmUThQMjBlQ1NjVGJDZE14djdkODY5OVBsS1dXWEs1VTJkSE1UWm9fY1Zlc1dTZE5mUnFqc1otRVNpTmdISHpxbm85bGR0UXFkT1JmVm9XbUtSNVBkS1RsYUI3U1l6eEZQTUE?oc=5",
         "date": "2026-11-10T11:41:37+00:00",
         "source": "TN"
+      },
+      {
+        "title": "Windows 11 deja atrás sus errores más graves con su nueva actualización",
+        "description": "Windows 11 deja atrás sus errores más graves con su nueva actualización MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNHdyUWk1T3dOTFEtNVk0SkRZMmpZVkJNNEJ1OXNQUGFxaENaT3RuQ1B0Sm8zaWJFY2tZMGdRSGdON0x6dXYtdmQzT2lGX0FuVndyY2tUQk84S2lDNmZOdUZXeF9JbGNsNjhRMjIzRXE3ajdNa29JSUJYRVpPYkozSjJKMjNEVzdDQzlXeTRnS3YyWDNQVXNrbUxmaDV2bUMycU5tLVN0YzA5Ti02RW1QS2VUTnZKcG5ncUhQU0g3ZHEzcTRoamc?oc=5",
+        "date": "2026-11-09T18:00:00+00:00",
+        "source": "MDZ Online"
+      },
+      {
+        "title": "Windows Update: Las computadoras obsoletas dejarán de recibir actualizaciones en junio de 2027",
+        "description": "Windows Update: Las computadoras obsoletas dejarán de recibir actualizaciones en junio de 2027 Genbeta",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWWlnNkg5eWN6bWVwRGRMYmJ1Slo0MnE1OXZmcmwwVzVpQXNxN3U2T3RrYzYzN1JjdkdDWmkyWnVjZ3Z6TGk0VXZEb2l0OGR3cmJBLUtlSmNSeXpMQm1Ob1FSNER5VGxMcUpDdTR2a1hoVUVIdWNaRzY0UkEtZjkwRnJSSGVrNUxEZS11anVzazE4X0l0aFVXLUhLdmRyREJYbEhMVmd1T3dGS1l3Wm5jSVl30gG3AUFVX3lxTE03ekJBYUZadklKRUlsWER1ODFieWJ2cXhVRDlxd0xqWTZTd2QzU3UzTzRUT0hFMWNfVDJtdHlhZEdsQ2p6RHpKeUJvNGVYeUx2ekl0eHpUMGFxTmNqa0lzNl8wVDh5WENReFowWE9aTlVnNTFuOGlJbW5kek50Z3JrdlA2QUdCbVg3TUZMM2lGM0R5MDUtSy1LQVBLVkJaaUFLZnVYRlNFMzFsMHowVVVSTFVobE5sRQ?oc=5",
+        "date": "2026-11-09T19:01:07+00:00",
+        "source": "Genbeta"
+      },
+      {
+        "title": "Microsoft superó brevemente a Nvidia como la segunda empresa más valiosa del mundo por primera vez desde junio de 2025",
+        "description": "Microsoft superó brevemente a Nvidia como la segunda empresa más valiosa del mundo por primera vez desde junio de 2025 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcnhrZElQOUFORk5fcTRSLWp6R0F4a3dBRENjTE1xeVk3S2tqb2Z1V2kya0ZuWlN0OXRXTlJnX3paZFBBZXR2OWNpSmk4TFlmTUdDVFR2aDEyMm1NcWFDdVpmUjFmWTlBb21qcExIaHRORUVrbFdrVTdORU5BQXh0aXBGR2pfUEpEQmpNY2J5dzZyNUpwbWJmbHVVWDB0U19hZnhiT3VxenBrZUZrTmEyUTBOcXQ5N2hqUTZXVjBod0ROaVAwV21Tb0lVcmhERkdZSDZIZVVKc3AxdE8tNkJsSUFxeGVyZmstMTIwazFZRnc5Z9IBjAJBVV95cUxQck5lQXZqN1NsRFk0U2tocXVlTmV5OGgyX2xlLVVuZ25rLXh6dm5DWHhSZXZTZjlEaUF5LWlIQkMxOVFIQ3hRS1pnMlR1bDhvVmJha1lVckNQSFUzTW4wdGZSNlhsZDdPZlpJQllwWVAzZDFnTmN3ZXBnbGJVeHpTYVdYV09uSV83cGhQZHJtaGFFNlBqVXNGaldGWWdSNi10bVZDaUFURmRreHJ1eW1MQi1MdXhoYnpvS29mMjhyWWJkc195bE9Tb3NjXzRJZkgzRjVRd2wwaWxLdFFOMHhpOXo1eDNqSThPLUZsV2RYRjYwUVRRaTJuekpYRkNnRnJuOFhqV3RmcFVKX1Z1?oc=5",
+        "date": "2026-11-10T21:09:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Las acciones de Microsoft caen ante la ofensiva de Anthropic en software de oficina",
+        "description": "Las acciones de Microsoft caen ante la ofensiva de Anthropic en software de oficina Investing.com España",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaHgxcTl5ZkxlekVBbU9zTnY0ZFl0YURiYld5Y2Ntc0RXamxLSzBaYjNLUGhmX3FnQzNwZmhkVVpRaHhxdnlZSmNvelVKbVpxMTMtQWVEZS1zWkZBRUpQWkpjMFhjNjdRUTFOTkRjRXpLMzVFMXlMUVNwVFByYnlRVFlXT3ZMSWZwRzdXZkdRbm10M1paQkJGWG9PTm1MRnZZaldyaExyZjY2R3BCUG9Gak1TYWg0TkYtcGg5LTcwUXlITzVyTGluMFBRU083QjU4TFA2cXpn?oc=5",
+        "date": "2026-11-10T17:34:00+00:00",
+        "source": "Investing.com España"
       },
       {
         "title": "Microsoft busca frenar el plan de Donald Trump para prohibir importaciones chinas clave para la IA",
@@ -24,35 +45,21 @@
         "source": "Ambito"
       },
       {
-        "title": "La contundente reflexión de Bill Gates, fundador de Microsoft, sobre el avance de la inteligencia artificial y el futuro del trabajo: “Se trata de contratar al robot, despedir al humano y olvidarse del asunto”",
-        "description": "La contundente reflexión de Bill Gates, fundador de Microsoft, sobre el avance de la inteligencia artificial y el futuro del trabajo: “Se trata de contratar al robot, despedir al humano y olvidarse del asunto” Vía País",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS2ZkVllzdzR3V3E4TldhMjNsQ2tkU201Z2UwNXNRNjM4bXZxTVRwNEVST2dFanF3Q25jc0pJMDJfRzhLLTRSQ3ZDNTBhczdFN212YTI4VzFNNzk5VXFrLUwzT1BEYmRJbDlhSnh2eFhKN3piMzN1X3hYMDNJTlU3bTZON3lYRFB4TlJ2cmttaXA5LTNCWmRrV2xldWlWM1pXM0g3MHQ5QmhZOEZpaGtJWVVyelNwWGhBVV9zeUtEQ0M1YTE4MkIzY3R0U21pdWhVUVc3bU5ZVnFBWmVYQTdEUXY3eW1pUEdfYnlkWjlwaEVMN1ZYN2c5VXRDSGQyVWQ4X0I1bE5RbU5iT1BaLUFvQWZvUmZDQUo3UndWUmtSYWdMWXFr?oc=5",
-        "date": "2026-11-10T14:03:52+00:00",
-        "source": "Vía País"
-      },
-      {
-        "title": "Microsoft despide a varios empleados en Vietnam",
-        "description": "Microsoft despide a varios empleados en Vietnam Genbeta",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanB3OHJEcEFvY3g2ck80TkU5Q1p2Vm93UEJMLWQ5ZVpaN3JsRERuT0FkcU1CeUR5bFoxX2kxd2VFbjBaRWxYUk4wZWtONHpXQTJPTVdaZGJ6T2o0YjE1THM5czQ2bXdIRFllWWRuamtHSC1aSVFXM3N5a1dvX00taGZxVDFEZ9IBiwFBVV95cUxOYkdTZUoxQktsNzhjUFBVY196QTkzMUtFVmZVM0hfMS1kSTI1TGhhTUtDN0MtWGozejU5X1h2czlHR2JDUVB0Vk16T09Pc2xyWm04UlBUdVVVVzJxQm96MXlqSTZPaHhyRS1LOUROblVuaHU1S0w4MVpNTHpqaHk4d2FYUHZDUnhqU2Rj?oc=5",
-        "date": "2026-11-10T15:01:49+00:00",
-        "source": "Genbeta"
-      },
-      {
-        "title": "Microsoft patenta que puedas alquilar tu GPU para entrenar modelos de IA a cambio de dinero o software",
-        "description": "Microsoft patenta que puedas alquilar tu GPU para entrenar modelos de IA a cambio de dinero o software El Chapuzas Informático",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa0o4OE9VOUV3NHItU2dweVdzTkNWVWQxYzlCQlpna0Y0WXVpR21VTDk4am1lbjRyS2VPT3otSXVoeWpPOWhRVUxZZEN0dThPazFwSzZIN29jTU9NcFNNSTRMaDdFd29sSFhRcmJvZU1tVGVtb0dsSFBUWkItdlFkblNQcEFOcUpnUUE?oc=5",
-        "date": "2026-11-09T20:24:33+00:00",
-        "source": "El Chapuzas Informático"
-      },
-      {
-        "title": "Windows 11 deja atrás sus errores más graves con su nueva actualización",
-        "description": "Windows 11 deja atrás sus errores más graves con su nueva actualización MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNHdyUWk1T3dOTFEtNVk0SkRZMmpZVkJNNEJ1OXNQUGFxaENaT3RuQ1B0Sm8zaWJFY2tZMGdRSGdON0x6dXYtdmQzT2lGX0FuVndyY2tUQk84S2lDNmZOdUZXeF9JbGNsNjhRMjIzRXE3ajdNa29JSUJYRVpPYkozSjJKMjNEVzdDQzlXeTRnS3YyWDNQVXNrbUxmaDV2bUMycU5tLVN0YzA5Ti02RW1QS2VUTnZKcG5ncUhQU0g3ZHEzcTRoamc?oc=5",
-        "date": "2026-11-09T18:00:00+00:00",
-        "source": "MDZ Online"
+        "title": "Anthropic desafía a Microsoft y Google con nuevas herramientas de Claude",
+        "description": "Anthropic desafía a Microsoft y Google con nuevas herramientas de Claude Yahoo Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXFuaFBJeUtCQzlzVFdoRXZZQWtqRHNUdEM0UUY0MHpVUzRvU2lsVThESG5mWi12SzZtd0k1bDQzWUMzRWFDQWxzWG5HdWJ4OElCRElqNlc0cExHcDdmRW1DMHM3Nm56dWxObnBDb0V0WWxmRXZmU3pjTEMzQVpqUEhEaDlWbmhjcjFFMFAwU0hhV1ZTMzAxczhvMGFOc3E1UVFacTliTk9BVW1sWFE?oc=5",
+        "date": "2026-11-10T18:42:46+00:00",
+        "source": "Yahoo Finanzas"
       }
     ],
     "Marketing": [
+      {
+        "title": "Mobiquity Technologies será el proveedor exclusivo de marketing digital de Intercept Music",
+        "description": "Mobiquity Technologies será el proveedor exclusivo de marketing digital de Intercept Music TradingView",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6LUhKcExtWkI4dm0tc2hsU0UtZWl4Mk9yOTM0N0htdWlOS0szWm8tYndidDA5NFNkYzljU1oyYmRwQzVERU1qZEh3MGQzOHpNM0xZQlBQbGtMUjJXMC1JOXJBYmsyZ0pmTWRweg?oc=5",
+        "date": "2026-11-10T18:43:00+00:00",
+        "source": "TradingView"
+      },
       {
         "title": "El futuro se construye en Bariloche con el primer Patagonia Marketing Summit",
         "description": "El futuro se construye en Bariloche con el primer Patagonia Marketing Summit Bache3000",
@@ -68,11 +75,11 @@
         "source": "El Ecosistema Startup"
       },
       {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "“Impulso Emprendedor” y Gobierno Provincial capacitaron sobre Introducción al Marketing Digital",
+        "description": "“Impulso Emprendedor” y Gobierno Provincial capacitaron sobre Introducción al Marketing Digital Gobierno de Venado Tuerto",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWc0NDJCNTcxMnJ3Z1Vkczh2VXRyRTJ2S3dCTkFmenc2Smtydk1tWFlJRngwOVZubE1lVDE2d2lISEhlVGFKTmk1ZV9TQ0YtWHJrREdyaUd4XzRnaWNTeFU1Z0NqazRIemtBVjZBR2tDTGtFcjJYcUpNbmJxbDFNMk9mOEEwVHp4TVByXzY2ZHprSGdOcG5ON2dsTzhNYW1Gak83bnI3MTB6YkI2WnB4aDBibDV3UnJlZUdfZlBjVi1aYzFXaTNFcEhiRWVvdw?oc=5",
+        "date": "2026-10-22T07:00:00+00:00",
+        "source": "Gobierno de Venado Tuerto"
       },
       {
         "title": "Wplay quiere 'entrar en la conversación': así busca conquistar a un consumidor que ya no se conforma con publicidad",
@@ -82,69 +89,62 @@
         "source": "Portafolio.co"
       },
       {
-        "title": "“Impulso Emprendedor” y Gobierno Provincial capacitaron sobre Introducción al Marketing Digital",
-        "description": "“Impulso Emprendedor” y Gobierno Provincial capacitaron sobre Introducción al Marketing Digital Gobierno de Venado Tuerto",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWc0NDJCNTcxMnJ3Z1Vkczh2VXRyRTJ2S3dCTkFmenc2Smtydk1tWFlJRngwOVZubE1lVDE2d2lISEhlVGFKTmk1ZV9TQ0YtWHJrREdyaUd4XzRnaWNTeFU1Z0NqazRIemtBVjZBR2tDTGtFcjJYcUpNbmJxbDFNMk9mOEEwVHp4TVByXzY2ZHprSGdOcG5ON2dsTzhNYW1Gak83bnI3MTB6YkI2WnB4aDBibDV3UnJlZUdfZlBjVi1aYzFXaTNFcEhiRWVvdw?oc=5",
-        "date": "2026-10-22T07:00:00+00:00",
-        "source": "Gobierno de Venado Tuerto"
+        "title": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados",
+        "description": "Lápiz de Oro de Marketing Digital e Influencer Marketing: las opiniones de los jurados DossierNet",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPblFHMFF5TUhWVmZVbWRkbENzYXpCYWxmZDlqanVQMGN1NGFOMnZzZ2lpbUZvOGdrM0xJcy1hbDNzeFZkZkUzMld0SDdoM1pYVVpaam5jTTBRV2dMQkdWVDBLcmNEeVM1dXJMeVdpV1E4ZE9YOGJMVFA4MDY3M1VUQ1RVWGJZdjU2M2UxM3M3UnZHZ241Y1dGbDBTT1ZfNDEydmdQaWVpTTVVdWEySk03M1hreFhiXzJMUTZvRzZNMzg?oc=5",
+        "date": "2026-10-21T07:00:00+00:00",
+        "source": "DossierNet"
       },
       {
-        "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
-        "description": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital Medios Unne",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0td3AzS292aFdYU3BJa0V4dkRudHNZaWlIa2dNQmFfUk15c2w0Y1JIdmU1bkpCTHNfTmxNS1hKSUZjYXc0SkhFdGxDV2p5M0lNd0g0WWFVUUFVLUVBd0VvXw?oc=5",
-        "date": "2026-09-24T07:00:00+00:00",
-        "source": "Medios Unne"
-      },
-      {
-        "title": "Estudia en Chacabuco – Diplomatura de Extensión Universitaria en Marketing Digital (UNAB)",
-        "description": "Estudia en Chacabuco – Diplomatura de Extensión Universitaria en Marketing Digital (UNAB) Gobierno de Chacabuco",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXhFUUZzS1FCQnpaQXpXZGZHUmNTQ2NPdC1OZmI4Mzc1ZzE1N1RjMzFxbjFpTmVKQlN0aGJWdDJkdXVNVFJKVVFoMXAxOWdtS3ZUbHBsbC1sSVhRU0d1ZkRTN05WMmUzOWQ0T3BmRWdIRlBmTGlfU3F1eFVhdEZLZTVPZ3BSamxBZ3RneEh4cWZETlZMenZibGVkeWJzWEowS1JkMWFPaEdjLTBOMGVXRg?oc=5",
-        "date": "2026-09-01T07:00:00+00:00",
-        "source": "Gobierno de Chacabuco"
+        "title": "Adbreaking, nueva consultora estratégica de marketing digital",
+        "description": "Adbreaking, nueva consultora estratégica de marketing digital Anuncios.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnBlVFFNOEdKX01hbWRqQkxZaVByekZmcnVEenFLcFhhcy1CbkdsU0MwWk5HbnAtTGtFa0Q4YzNTUTBUSmQwVzB4c3RWUFBUV3VOSFB1VGg4bF9saUM1WF80RDducXB6Sy1xMnV5UnMxa1VsRkFPNGZ6NF9fM0wzMUJUZnFtem1zU3ZlQmJlVlpDWlNTcWlCRVpvWE1kcUNlcXhLYWM3OFgwRFdSWDFhdFZYXzVDMlV1dUZuLWl0dmg?oc=5",
+        "date": "2026-11-10T09:03:43+00:00",
+        "source": "Anuncios.com"
       }
     ],
     "IA": [
       {
-        "title": "Google abre la caja negra de Gemini: ya puedes ver y borrar lo que recuerda de ti gracias a Memory",
-        "description": "Google abre la caja negra de Gemini: ya puedes ver y borrar lo que recuerda de ti gracias a Memory Cinco Días",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWUluUWNiWFpNMjY0QmdZa1dkaDhydUlfQUpTdmE3RkFTRTF2Yml6SWZ4N3NWUFk0cGxYazZVMDFsdGlhUk90eWx0dTg5M1JQMWVzWUpuN1dhYmhib2YxVHVIS2hURGNtNXNPcGpxY0NHZ3BlT1RQOHRZTkh6RnpSVjdleUVPYzltSTJDMnZTNXNvbXo0eElMUzVaakx1YkFsbmpvZE91bkdiWGZPTkJXMl94VUQySmY4eUJ0bmlpdFZsZ9IB1gFBVV95cUxNSlBaRXRNeHJQRnlkR05ueGI4ZzlxVTNfclpSd3lXX1NYR2xMNHV6Z0tPeDVfR2RHelRreG4xUXRlUWRQM19EeUNidTVpZUd5Vkh0ODhRX21pRFB0cHY1eDVfU29TdnI5YUxTMExJZjRZbXZzODd2eEJUVEIwdHNoaUl5SUJBT1hxdjc4MzVoeUtEMXdTLXZiUkhUSGRadUtPeWxpTHV3YlZDVWFKT0lsMkVRMWJvekdTZXppamdMb0R6dkZkWGhoZno1eGpVTkZHNlVGMVdn?oc=5",
-        "date": "2026-11-10T18:00:00+00:00",
-        "source": "Cinco Días"
-      },
-      {
-        "title": "El thriller de espionaje de la inteligencia artificial",
-        "description": "El thriller de espionaje de la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWFPeGZZaEx5d2k2bURLMG9oS3RsLXNlOU0yTU04dGxkSlRxNVA4QjJUaVRwQWNJdl8wRVlvMGRNMHBUaHp6dE1rckxyREpadldLclVzZHNjREJVdEVWVUl4VnpQVXZ4Vl85STZuSE9PakMyNlhfSmpFc3NPM05BbE1rMTFiUE5ydlBydEZKYktnRFRoMFdacllVSXY2S0w0TTVQMUlnTQ?oc=5",
-        "date": "2026-11-10T15:00:00+00:00",
+        "title": "Lactancia: más de la mitad de las mujeres le preguntaría antes a la IA que a un médico",
+        "description": "Lactancia: más de la mitad de las mujeres le preguntaría antes a la IA que a un médico La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaF93RVhkVS15R3NydnVONS04TllPV3ZUTEFRRzNyZmdVVm5XUWUwdmRwV0VEM1dvbEdZRnFZeGlPNmk3cmd5NXhla2tRaG9MRVJ2QWkwRjlpLWNYOFg2ZlloV24yMjlXWlVJVDgwUnlHTzN0b1RQQUNSdWR4NkVZWW80X3kxbllfTnNBRTM2UFc3ZVMtckFBcnhiNDZHQnRfWEwwaVIwQVY2UUlBQWR3Rk9hV25kQnk5ZnR0THZpaFlPZWg1dXl2TVljMkliMDdK?oc=5",
+        "date": "2026-11-10T23:00:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "La inteligencia artificial ayuda a robar datos y acelerar ciberataques en América Latina",
-        "description": "La inteligencia artificial ayuda a robar datos y acelerar ciberataques en América Latina Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdVhVZ0R4QzJ6ZUgtSUpGNjQ1Yi1JYkJ5NWVuNnVuOV9VQjR1ZFFnWDhvR1ZOb2ZuaURObEgzd3VULXBvWS16U0FvenNYV0VUYkNJUXpKZThYMjdVMDJDV0lOdVM1enFEZWFsa200ZzViNVFyOHV5RWRKM2V1X2RvbTBPUU5nRlhFSVJqZF9XYlVWcXl0aDhYR3ZodWZ2NU5OeTVJM3ItVGZpemFDeUJEczY5VjhOdTBjT285eDR0M2RtQjQ3QjZJY1BR0gHPAUFVX3lxTE9QTmpjVnBJYXVsUzFVUjI1Tkx1REl6d3VzOFIydTFnOG56UGdIcl9LQk84ZUVBVXg5bExMeVhfRVRlbDBwMkd0NDFZQ29yS0xjSjlKdmhlLWNLeURkYlNYazAyaTl5WmNtV3NXQno4WnU4Y0N6Ulc3ckZRS3JlZzY0MThnVGpMSUE0ZFBxSGN4TWU3Q09OMDA5bXMwZ2Q5cnF1NHRLdXZkcTN3MWZxTWV0Mi1kTEhuQ3oyaHo3RS1QMko3U1hvR0lqXzFVTG5TOA?oc=5",
-        "date": "2026-11-09T08:45:34+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "IA en Alemania: 800.000 empleos desaparecerán y otros tantos surgirán",
-        "description": "IA en Alemania: 800.000 empleos desaparecerán y otros tantos surgirán DW.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFRJVGV2OWhqRzZGX19nbE5JbU53NE9XZHhCeGgzVFlHTFVqc1F5OEd2alNjMWJjQU1xTVlUSWd4R0pjaGx5RHl3WklyWmw1YWhFaE8yWXpJeWE0eWpOSzhnUkpTdmdqTFJRTFN2cEVxUVdHa0ZrOGQ1R1NSc01CR0ZfdUhTcV9fWjFYdmhBZzBmSlV0dzlYYS1wcjlmaC1YXzNQelB6N0vSAagBQVVfeXFMT0x0TktCTnpVSFRFUnVNblgwd1h0Z1lpWG5ibFNZQ2M2dDBrOG5NbjNhQVJ6bVZXY2tBbjRabHU4QnZoWkZ1NkVVenVyaEFkWVZkRWdYamllaEViZVNTYkpodW4yeUVzRkNpQ2x4d0tHT0t2MWFGbGFfNzR1VVlnUUtlc2pBR0ItQXQ5NXdMN2s3dFJQQkJGc1hmbEsyVlBWdUFWb3ViZjJo?oc=5",
-        "date": "2026-11-10T17:26:15+00:00",
-        "source": "DW.com"
-      },
-      {
-        "title": "Así afecta a la IA el supuesto caso de espionaje chino al director ejecutivo de Nvidia",
-        "description": "Así afecta a la IA el supuesto caso de espionaje chino al director ejecutivo de Nvidia DW.com",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaHlZMUR1TDRPdVJsbGNPTFBaMF9MWmtBeVBOQ1pXUU5sUVlleGVhVzJNSXduRjB5ZEVXRkxoY1dUeFpmcU9lcVZFMGd5aGdOS0FZbU5SN3h3YXlRNHBHSi1vdEQwZzVpaUhUeEtReGxFWEQyRzJkMVRYQ01CZnlHbmVSMDd5UXdkNF9DakVaZENNaGNKWWJPVzFpZTkySFVKMzdKYTBHRlRGN3FyNmxodkZiTkducFhVcWxYVlE0cFRVQjhnWTFkaVQ0aXE4SHNqdlNTY0dMZi01WnZodGF0cGZBT2dsT0hrZnJDQ2dyTVpBMWVieHpRLUdzTTM2am8zdGxKYdIBhAJBVV95cUxQdzUtN3llVTBBeUlpa3U0REhkUWR4TU9KZHl4LXVEZmNkNEVsdkVZWHpUaXBMelhjdXFGS2VMamV3Tl9RcEFNZkRVMnMzWU1PRkxybG9jMThRWVppRkxhdkpqUzBjSVNDSjcyS2dBNEJ0RUpZUUlpbFlNWWNtcVBzRmhZaWw4bjViQWxZaVFqdHY0ZkRQR25KdWNsSUJ3aV90QnBHdHdpVlI0NlR1VENlc1N2alpxeW9zSlZxOUhXRFFSa1hsQ0N2OFBvYjEyWWc5UFcxOGR1ZUk3MXZteGpTV1pmR1RBNFRoM2dZZmhBSDZWaHdEekpOa1o4RHFySkE2V1l2WA?oc=5",
-        "date": "2026-11-10T17:41:59+00:00",
-        "source": "DW.com"
-      },
-      {
-        "title": "El Papa alertó sobre los riesgos de la inteligencia artificial en el trabajo: “El algoritmo no puede sustituir el discernimiento humano” - TN",
-        "description": "El Papa alertó sobre los riesgos de la inteligencia artificial en el trabajo: “El algoritmo no puede sustituir el discernimiento humano” TN",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObVh0cXVxbnlYRTJJck5DR1pHOEMtU3RTLTRtYUZ2RWoydVJUTVNaOWJ0a1ZZQnBpQmt2Qm45NlNVTEliX3B1RjN4cXJzUFZmQzhUTVREcm52ajlRdEVQc3NBZVAwc3ZKTklvWldCOFlQVHBEQWdRUVB0RndEbklQWU9zZVYtVGdNSzVxSTZyTTdFdDhLUnRKaTlaQU5hWFVlZEk5ekgtZk5Nd1hWVEl0WXdMWW8weXlsTzNocWZPbkhHcXdYdHY0anprY2h4T3dReHVzckpHUERKV0N3Vkl5Y3RQRnR4Z9IB-gFBVV95cUxNLVF6SHFGbFJBUm9GZTJyLUVTcGNoaUc4RmluX2JzcU03U1NEbHZaSTF6ZHZ5bU8xNkMzVmIwN2hZdFpaLXZ6NVZGbHQ5ZndiYmxGMGR3dmk0S1hJUXhBeXhFUTRuUVFqZHItenh1NkpEMG9NSXB5NHZNN3p0UU12TXhxUXpGWF81NDl2TDJhOEV1blNZb3JEYkpTeHY5ejdrMFVLR0l4QUZkUmswNEMtZTdOVlZwbnJmQjdnb1Izb3R2OEo1WFhtLXhmTkx5cl9iN0RnSnRiNEpYU2xCZVVSSnZrTnJyS0ZCQlNtSUdyS1pRcjNiWkZHU2J3?oc=5",
-        "date": "2026-11-09T20:10:42+00:00",
+        "title": "Escándalo en Nvidia: qué pasó, quiénes están involucrados y cómo puede afectar a la inteligencia artificial - TN",
+        "description": "Escándalo en Nvidia: qué pasó, quiénes están involucrados y cómo puede afectar a la inteligencia artificial TN",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaHJFNUNKdC1PXzN2aS0zZGswRFpkenREdlhDbGh0VTd4blp5UTBfTGkyTXEyMzMxQ0xhaDBtZHVfZHl0NDNQc3FsTEI2NkNucDdkZ3pNdTk3V3Nkajk5VzNFMGdQRmVtODRkVTNxbmdIbmtaY3dlTjB4dTZpWHdhNDZRdE1HYWhmMkVTNkJ2RFpKbG1RQlpRdlN6SkxnenRiUVNJMzBQem9SeTR2YlQzaE1HVGdlYVhOYl9Tam43OG1FNldFTEVOMWI2RFRRendQUVRQQUR2N2paNEkzOGppS29XMW1ZUQ?oc=5",
+        "date": "2026-11-10T22:50:54+00:00",
         "source": "TN"
+      },
+      {
+        "title": "El director colombiano Sebastián Infante conquista festivales en Europa con un cortometraje que se propone redefinir el uso de la IA en el cine",
+        "description": "El director colombiano Sebastián Infante conquista festivales en Europa con un cortometraje que se propone redefinir el uso de la IA en el cine Infobae",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPd0xjSjducXpGQWs5bHN1S1lKLUlYX3ctdUd0a1Z3UnNYQTJFMjFSbUQxVXM0NENmT3B6RUhHN0lkd0VUaW9lejRMTm13Z0NzcVdycC0ydWc0cVc1VVo1ZHY2bGdwQ3J1YzAxb0E4Qk9RYW5kRjFnNGxVQjNaeXJtQXp0VlRGTG5TZjFDYnZoM1JVWXhhSmItSnlwMy1qaU1GVUdRY3E0Ti10M2toY2tuS3NNMmNGUWNWMTNJWlRWM2czX2ZnUjVzclZqZm9zWmtwcEV3ak1ISUdCcm5tSE9SUHZRUEt3empTUEFLV0Z0WVh3QlEtbWRzeWtDRmxpNmRQQWZ6bFZSWWVEYUVNLUhhYzNxem16U0HSAbICQVVfeXFMTXN3U0VNdEdJdVE2anJkVVMtREtjWV9taF9VYW9lVU96V0hMeXVCVXJBcHdqTDc2MVJsV0Rzdm1vMmh3ZnlHeXFOakFQb0xsQk5Xdjk1TnpXb0luYTBTN2RhWlh4UE9wRXhLd0MtQ1VmQU1CSmw0X3UwOTdhUnlJSnZaS2hDZ0xyc0xKVUdOMnNkT2gtUXlRNmxNMkJHcUZQdnBLbVQ0Snl1ei1pZDhGQWh0TV9ZenFuYy1Wd2FTXzhXZDdBMmtMVzdqSUY5QlpfaXQtSkVUZlRveHRrMTlVZ1IybFBZT281Z0pNZnRVTDgxakFnYVNPX1VnVnV3YXh0ZTlOZ1Z3Qkh0NDdNcld6OThQNjBRVUJpYmR6Q3lOUFRBMTJFQ2pZbHhLOTFBVkhjTi1B?oc=5",
+        "date": "2026-11-10T23:40:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La película de ciencia ficción sobre inteligencia artificial que se convirtió en símbolo de una huelga: Hollyw",
+        "description": "La película de ciencia ficción sobre inteligencia artificial que se convirtió en símbolo de una huelga: Hollyw Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaFJENTZOREJPUUx4ZV95c0JwRHlDODJIVV94QmZMaTMzV19XYVhsYU0zY2stVnRmcjFzXzM2cTVpOUtZM3R5cFM0M0JqMHV3NVFJOHBOalRESm80T0IxOC1pTy1jdk1rd3k0eEF4RGJMWEVlZVV3VzdZRE9KNTUxWUJfeXhsR3RvWk5ybEY5OXVLTnl6Y3ZvMmRncVRYYWI1eGpOZjRvbnJ0M2xwYldYT2ktN3FMZVJDS3BoZlo2dzJ3Z2V3R1VtNU54UERqZDhTUVRIU3dsbTQtY29iUE9YQ3B1RG92Ul83RFdjVUZYS1dDZTVseU1US25ScTNPNkJhaHNqbTFYZmJiWmp0amVtYjE5X0tWOUt6MWhzdzVrWHdyRG_SAbcCQVVfeXFMUDFmSnlSajUwdTRQLTZ5YWVoT3pNTXg1LXdWV3pqWGIxb2cwSkNtS2F6VlFJRXZnU3NhNEp6OVJJZTZUaU95Xzg1S0xYS1dPZm5MZkh3NElOYjBiVkZ5TWZJY0o0aXpNd292SEU5Ti1jdndhb2lfQTVKaE0tbjVxbmMzUUVpek5RdEJkcU9LQkd1VjhTTk5XUnpYbUpEWkR2LVhLVGg2NWlHYkxZY1E3RWtKTUcyZVBJdGROZkpKMnZmWEZycmE0VnI0bkswVXRHX001cEpGUVNXdDZxNXl3NXY2cko4QzBHWDlZV1VRNXZWM2RCOXNCY0p2a2ZZZDQ4OTBiNWc3MjR3NXY1cExKTXJuZGFYNWtYSndacnBiSXNITVZ1dEw2Nk1sMjFiVnp3bUU4UkEtSGc?oc=5",
+        "date": "2026-11-10T19:40:00+00:00",
+        "source": "Diario AS"
+      },
+      {
+        "title": "La ventaja que la inteligencia artificial todavía no puede copiar",
+        "description": "La ventaja que la inteligencia artificial todavía no puede copiar La Prensa Digital",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDNuUlJBdXkzTVpUcXgtYTdHZUZvWGR6ZUVJazd2U0hEUy15RTYwMUtKNmxIY2F5QVEzSnVFMVFCcmJuT3lxVThoc3U4Rlk0VDd2ckoxTW9UMXZRblZkbkptclpaREozLVdUVXozQ3RtM3gxN2QwMVR3N216NWl3d08wSHQtVTU2WXY0RjA4Nk4tQnhYd3R5TGFMSlFpYS1wcVo5aVdVNjdJOUZ4cktJ?oc=5",
+        "date": "2026-11-10T20:41:24+00:00",
+        "source": "La Prensa Digital"
+      },
+      {
+        "title": "Qué dijo el Papa León XIV sobre la inteligencia artificial en su paso por la Argentina",
+        "description": "Qué dijo el Papa León XIV sobre la inteligencia artificial en su paso por la Argentina La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3VDQUdVd0xsdFAydGdIeTlETXh6Y0JURGZwQnZ1ZGZwWWVtd3VhSWhkc3dvUVJIQlU1S2pHUHZNQ1E2QjcxcVdwN0pkazdGNXhfUjNFQUFxRlZKRFE5NzRWRktRWGh0TmJYZUN4Rl9DRmRuZDR0TXBsaExKMW5UdGlJeEZTRHBCUlBNZHYyQjRJRFV1SnN0Um15dXVyeWxSQ2lnT0lCeGVPOEdWX1QzVzRwX0lyR0dHT25NX0xyZEl0OU53LXhNNGI2MlprUWF5bktkcA?oc=5",
+        "date": "2026-11-10T19:46:00+00:00",
+        "source": "La Nación"
       },
       {
         "title": "La mirada de Alejandro \"Topo\" Rodríguez sobre la visita del Papa, trabajo e inteligencia artificial",
@@ -170,6 +170,20 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "Javier Milei y Toto Caputo le pisan a Paolo Rocca y a Eduardo Eurnekian la renovación de la concesión de TGN",
+        "description": "Javier Milei y Toto Caputo le pisan a Paolo Rocca y a Eduardo Eurnekian la renovación de la concesión de TGN Letra P",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMnlGSUpEVENoWjBkYnFpNXpWNl9WQmRYZEJ3dDZtcmdqdEt2THpnb2NIbHJRM3JSMzNEbUQyQVhOMFJSbzRkWVNhSGdOcE8zM3dBWlotenRyZ1RPSGlQc2Mwc3gwVVdIQXktVkJJSVVZeFJJUy1kSGxHR3I3aWUzNk9PTjVVS1FfWHNLLXZ3TUpKdHljZDhYd0NTM0pXQzA2akpyd1F0RHRhSURTY1R0TkM3dVlWSlU4R2RQY0V4dlJ1czZEbEFCMWxLZUlpRWl5Qzc4bmc5czZTdnprd1BTZWcwdjdQTHdMbFFQeg?oc=5",
+        "date": "2026-11-10T17:08:00+00:00",
+        "source": "Letra P"
+      },
+      {
+        "title": "US$ 38.000 millones en juego: las inversiones más grandes en Vaca Muerta y la minería se definen en los próximos 90 días",
+        "description": "US$ 38.000 millones en juego: las inversiones más grandes en Vaca Muerta y la minería se definen en los próximos 90 días Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHFuMEctV0p1NGlSdGVyd003QmVzYTZLY2RmVkRlYzJuaVU2a3pqTm9wYWdBTExGVUtfNjJ3NDJWUkhXNGlXSzM0N0lKUmRhbXhyd0RRWGpyQlg2NzlYcEV6amo3akM0WjdFOW54eVNVZEJ5Zkk5YXV0YWNuaGdoeTBKMmU5bGoweDlFbFJpLXRuaWM5QXNEMmYycjZRcUN2WXB4OFQ3c1lVWGU3UVJvOEl4RFp1MHAwMC1FV3NraFFVLTl4LUVaZ0NCMGJHRFEzVGxFUXFxX2pMYUFWeFpJcw?oc=5",
+        "date": "2026-11-09T16:42:26+00:00",
+        "source": "Clarin.com"
+      },
+      {
         "title": "Vaca Muerta tiene récord de exportación, pero la inversión extranjera no llega pese al RIGI",
         "description": "Vaca Muerta tiene récord de exportación, pero la inversión extranjera no llega pese al RIGI La Política Online",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11ODJrNGx1SElpUzJDbkVfQVl2bmp6VEFBUkRBUTQxUmNFVk5PTHBHNUlpaGxKRDBZTGxrSENxSlR3NUc1dFc5WUZWWjdOWm8wYWlIZ1ZBaUVMdktYSFVYTE9nYnExaXVLOXh5RdIB0AFBVV95cUxNSE1jRmx2VU9vcVJlYS1CbnNWcnZMZGo2LW1DazQzV1BkVXA1cE5JVTZESEtSQmVNRkxPYkRWX3JocndRVWtHOFZoRzBtdERKT1hycHNMTHlnNU9uN0Z2VHVpNThvVmN4YWlrX0FHWllmN1ZrX0lud3FVR3E3SFZqbTBRVVlsUE1FVFlZTHF6NXVmVUhyNWJabDIyUHFzMm5TT3NuOGlXSWJ6M1R5UVhSd2Z2anUtSDY3TG1abk8xTG55MkxOS19xTzQ3RmRxVnJo?oc=5",
@@ -177,25 +191,11 @@
         "source": "La Política Online"
       },
       {
-        "title": "Comenzó la soldadura del gasoducto que conectará Vaca Muerta con el Golfo San Matías",
-        "description": "Comenzó la soldadura del gasoducto que conectará Vaca Muerta con el Golfo San Matías Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWs0QTVsaXhxdE11MVRnSzBIMWVjdXVLb1prbUdCYkpGN2pEbGRBaVV1cU5RNnZ5VFhiOWYzZ2JoLWRENDlwT3JmQ3g3X1czRThxNVdBSFhKb3BSWkdpRWh4QWV4Rk1TM2tqVWRCYnM1em5yZGt0Q083UU81QVlDRU5tdTNLNG5xUUd4V05wRVFiSmpmcU1rTkFVWC1lZS1VaE5YZ1NTT1pMX1dQdW8zU2VrWU9saGc?oc=5",
-        "date": "2026-11-08T01:05:19+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Comenzó la soldadura del gasoducto que conectará Vaca Muerta con el Golfo San Matías para la exportación de GNL",
-        "description": "Comenzó la soldadura del gasoducto que conectará Vaca Muerta con el Golfo San Matías para la exportación de GNL Página|12",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTGlFZ3VmcmljMER3X2JzTUxSYXg3ZTJwTFRKa0ZBS213aWpiT3loM0UwS1lTSXNjQXUyZ05nY09lekxhTGZoa0dsbVpnUjZZXzNQWWtXVlFkbW9LQUxVcDdrSEQxUVVKY29PN1JCSFp3NThTLTZjNVRTVlBhYnRYaHF3VnBxX0xtaFQzcWJQQ295MHN6bFRySUFHenZwaGc3WjBCeDNlQTNjQVhNdWVoVEJjUm11d3ZoMmRfLXJ2YlVta3RpbXQ2dlcyQ2hZY0VXeFRwYWRsaFM5bHpELThlMVVZRVRNUQ?oc=5",
-        "date": "2026-11-09T23:19:22+00:00",
-        "source": "Página|12"
-      },
-      {
-        "title": "Comenzó la soldadura del gasoducto de Vaca Muerta al Golfo San Matías",
-        "description": "Comenzó la soldadura del gasoducto de Vaca Muerta al Golfo San Matías elheraldo.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT05YdlVfMDQ2a29POXFIck5KLTRTMElrNk5LeXJPVTJxa3dyRjk4S2RuX2pKNHdLLUY2ZFdpUVR6Q1NYSmloak5iLTRJV0JfVGV3UDZVNzNnZmZXQUcyOEt3QTdEbWdmazg5LVh4MFkydUNIZE93MlRaTzFGak9PVzVWVlVlZHg1UWE1Tlk5MEdBOXJRcWdBQlNhSEI5U2V5YTcwNW1JS0xiX3NrUzBDbElGRGZ4T2M?oc=5",
-        "date": "2026-11-10T01:30:00+00:00",
-        "source": "elheraldo.com.ar"
+        "title": "Vaca Muerta acelera con nuevos proyectos en el RIGI y superávit energético récord",
+        "description": "Vaca Muerta acelera con nuevos proyectos en el RIGI y superávit energético récord Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3JIT1k2UnRYNm1LYjFSaE1Rb05iUUsyMUdEQVBKdDdxZGtBYnI4UTVDQjhzNEhUNDB4RnVHTVp6NjU0cEs5Y0hZTDZySnUwY0lDbWU4RGZoWEY2RXgydHp1Q3N0VjhqU2VvN3Rtbk80Z1RaUFhUZTBRcGd0UlBXZ0wyampSV2pGVFp2NU9tN0pmQm0xQkpTU1luZUloWDN2ak40ODUtZFAwTlhiVXVlLTBHd2VNYlo0bklSQ3JBWUNWejRY0gHMAUFVX3lxTE95ZW95cUtvczBYdUh4bzJCNjNKejh1bDkxZ2M0S2xicUVPYzQ4ZGQxSVVzZDk5b0xUZVR0RXBQN2NBTlN3YllGNGQzRC1xZ21EQlA1ZzVoUHl2bURkRmxUc2J0ZEpkSEJRX2VPN3k4SjZhbklpMTFDa0ZWeHZmMThkblVIeXZqUEJmc1d0WkVmZVZmTHJUZDRLODZ5WHUzaVJKV2NDZjBXVmQ4eHRrdkctMGdNOXhsRmNjREg5R3lpUXhWdkViZTRMQjVKaQ?oc=5",
+        "date": "2026-11-09T15:35:01+00:00",
+        "source": "Diario Río Negro"
       },
       {
         "title": "Efecto Vaca Muerta: S&P elevó el perfil crediticio de Neuquén, que sube puestos en el ranking subnacional",
