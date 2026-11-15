@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T00:37:42Z",
+  "updated_at": "2026-11-15T07:27:15Z",
   "categories": {
     "Microsoft": [
       {
@@ -10,11 +10,11 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Microsoft recupera Outlook más de 24 horas después: ya sabemos qué provocó la caída de sus servicios",
-        "description": "Microsoft recupera Outlook más de 24 horas después: ya sabemos qué provocó la caída de sus servicios Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWU5zRmstaEt4Zlp5YUJOSHdadEFsdjgwRExkSUYzU2VDNjBrbWNpcldYa2ZENVlEaHVNZG9oX0RwSnRqN0F3X3JLOGRUNWNVcEU3d21JRWotTDJ6Ynl0NnVvYlZRZjd2UmtjanQwRnNnOERSanVUQ3JiclN3RWRSWVhwMU9IUjc5T0Rvd3ZkV0Q1c1V0STNnVjdKU1BpcTBGYVV0b19NV0ZtVGYzNnVTaW5oUWh1NXQzc3lN0gHAAUFVX3lxTE9udktpX3RfbktwVTJFOU0xNU1iTnpBUzI3ejRrTXAtUks4VkRqWEh1WkxXNENBRkxvOTcwQ2U1UXdMNHFabS1YX21TWmhMMEJKMzYyenhVWFZ5Sy1TVGJKSFRrSTBhYkw4by1zS1Bwc1N0MG9xZGItalQ0TUJCUGpkRHBDQ1JDR0JHbDNnUVFBTDZ0bkYwUHFpZXg5SXcxTk02MFM1ZWYwZWlreHk2WGEyeVhiRVFkdXJNN3dwYVVWVQ?oc=5",
-        "date": "2026-11-14T10:35:00+00:00",
-        "source": "Xataka"
+        "title": "Microsoft corrigió una falla de Outlook que los atacantes ya explotaban para robar datos de acceso",
+        "description": "Microsoft corrigió una falla de Outlook que los atacantes ya explotaban para robar datos de acceso Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZE9CR2Z5NlJlcktWS1VZT1JleWlITlVJT3Z3TlljdFhRRUg4VngzVkdSV2xmVW5FRnJlcnFKY2hLbDMzZkZ4ZTNMQ1BWcW44Tzl2THlWajZIeFdGbjVZcnZJeHFQRjBGRjlOOEczbW44OVhubU8yckgzVnNKWmJUSk92cmplbGhwcDJEcGktdzAzNEpxOWZiYWZBUnN0V0FGNVBlSjdsTlJlckM4Qm8teERRaFlUemxOR0ptVjBkQVY3VGFJWXBtUGU0dnRNSUF4NjRWeFZWc9IB8gFBVV95cUxQN3MyNnlXR01OLW1ySHNyM0RrNkR3R09iOGg3VE9BNnQ2S2JiTjVNWDZsM0VjY1lvTXJYeUF0T21hQ3dHSEdBZmVmNm5vZ1NXVVJrcEJTdVhYMWJhN1k3cEhtQkF5OFM1NWI3UFE5dG1jNFNYcGJsNHEwVGRkUmZHa3FGcTlpeklSSkdDYW5ZQlRZVVlvR2tQQ29hYnRXUGE2OXZkdklzZDZoOG4ydnFWNkVhZzRzUnZBMThGRzN1U1NHT1Uwc05yNXZWeWJ2ZUUzcDEwZzBzV1ZnamdRakU4T0JpNlY3cU5IdWtzYjVYYkRuZw?oc=5",
+        "date": "2026-11-12T14:03:00+00:00",
+        "source": "Infobae"
       },
       {
         "title": "Microsoft se recupera después de una caída mundial: afectó a más de 70 países y fue una de sus fallas más largas",
@@ -31,11 +31,11 @@
         "source": "La Nación"
       },
       {
-        "title": "Microsoft corrigió una falla de Outlook que los atacantes ya explotaban para robar datos de acceso",
-        "description": "Microsoft corrigió una falla de Outlook que los atacantes ya explotaban para robar datos de acceso Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZE9CR2Z5NlJlcktWS1VZT1JleWlITlVJT3Z3TlljdFhRRUg4VngzVkdSV2xmVW5FRnJlcnFKY2hLbDMzZkZ4ZTNMQ1BWcW44Tzl2THlWajZIeFdGbjVZcnZJeHFQRjBGRjlOOEczbW44OVhubU8yckgzVnNKWmJUSk92cmplbGhwcDJEcGktdzAzNEpxOWZiYWZBUnN0V0FGNVBlSjdsTlJlckM4Qm8teERRaFlUemxOR0ptVjBkQVY3VGFJWXBtUGU0dnRNSUF4NjRWeFZWc9IB8gFBVV95cUxQN3MyNnlXR01OLW1ySHNyM0RrNkR3R09iOGg3VE9BNnQ2S2JiTjVNWDZsM0VjY1lvTXJYeUF0T21hQ3dHSEdBZmVmNm5vZ1NXVVJrcEJTdVhYMWJhN1k3cEhtQkF5OFM1NWI3UFE5dG1jNFNYcGJsNHEwVGRkUmZHa3FGcTlpeklSSkdDYW5ZQlRZVVlvR2tQQ29hYnRXUGE2OXZkdklzZDZoOG4ydnFWNkVhZzRzUnZBMThGRzN1U1NHT1Uwc05yNXZWeWJ2ZUUzcDEwZzBzV1ZnamdRakU4T0JpNlY3cU5IdWtzYjVYYkRuZw?oc=5",
-        "date": "2026-11-12T14:03:00+00:00",
-        "source": "Infobae"
+        "title": "Microsoft restablece sus servicios tras falla que afectó a millones de usuarios",
+        "description": "Microsoft restablece sus servicios tras falla que afectó a millones de usuarios DW.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNi1JcU9NTlBHbG9rR1lTUHA2TVRZX2dZRUprZHhmZjQ2TGZXSVllNkRfYXZPVXotLXM4Q2MwdnhlQ3p0VkEyYzg4VVhpcUFTRUlyRFB6WWZ4U2JYXzl6RU5MQlVuakVScFhjRTdsNXRBcFZaTEg3dFNyWmlKWmx0ak1feFc5U2F4MHVOY3RnLURCZk96M19aVXNhS3VRUkp1al9idGJWZml0NGIydWd1NlZkQnc0Z2Q30gG4AUFVX3lxTE45YmJ6ak5ZZnZYS2VZc2U5WUNwNktmQU9XODQwVmV4MkZzNVo2X05EdHVUeEhjYzJFS3lzS1ZBUFhTa2hKYnhFM1ByVDQ3OEJjMlNsaS14WVZBUmdLc3BDcERrVWZvVnk4NFgtdFJLMjlUdnJyUlZwampTZ2l2U1dDNmppUHB2TXRDZ2R0Z0VaTFYtYWtJbl9TNGpIbzhYU096QmNqcmd1RVBjZnpvNWEwd0JSc0FnbDU?oc=5",
+        "date": "2026-11-15T03:58:05+00:00",
+        "source": "DW.com"
       },
       {
         "title": "Se cayó Microsoft Outlook: usuarios de todo el mundo no pueden usar Word ni Excel",
@@ -45,11 +45,11 @@
         "source": "Página|12"
       },
       {
-        "title": "Qué le ha pasado a Microsoft y por qué su correo electrónico ha estado fuera de juego",
-        "description": "Qué le ha pasado a Microsoft y por qué su correo electrónico ha estado fuera de juego EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWklvNE03LWduVnRlYU9YRzlFd05yQjFlLUlVN29lWl9ndE91ZnJhS3U0RlZkVGEwRVBmSHlQZHNMRUN5M0I2NGZBT2NZcWxUVlE3ODJqbS1iRzJMckY1SEtDNlhzbkhXYmQ1VmpMdXJ1ZGhORzQ3LXIyZ1g0Tl9FQnJlTWRTLTc3R2hzRDRFcmd4SGpNem9nZ01tcUZzakdSbWE4dmlTZTA5SmNYVTJ4V0ZMTHgxUkxsTDJLTDV1eV9OTTJ5TkE?oc=5",
-        "date": "2026-11-14T05:55:00+00:00",
-        "source": "EL PAÍS"
+        "title": "Todo lo que se conoce de la caída de servicios de Microsoft",
+        "description": "Todo lo que se conoce de la caída de servicios de Microsoft Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWhRRU1nVUVpQ0hUaG1FaV9SNUJ6c21lWEMwWWR2eW9FbnE0d29zenprZmRIR1VmZkxkSkdOcExVdWJFX0hBYWFXNGs3Q3hLU3FwTk40eVVJSVVsTVRkSlp6VU9PYzNGMUFBLWhqTkJPVnpsNjJzNW9IYjE2d0dDVkZMa1BmX1N6N3U0VDQxeVEtM3BYZndvZnh5akVZc1MxYzFza1Z3?oc=5",
+        "date": "2026-11-13T10:19:50+00:00",
+        "source": "Euronews.com"
       }
     ],
     "Marketing": [
@@ -61,18 +61,18 @@
         "source": "CureCompass"
       },
       {
+        "title": "Marketing, contenidos y neuromarketing: tres caminos para impulsar tu futuro profesional",
+        "description": "Marketing, contenidos y neuromarketing: tres caminos para impulsar tu futuro profesional Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13N1NZNmttdmFCSzRsTWY4LXJYTzI3NFAtM0tJelJaVW9sSmlWVVVJQ05lZ045emk3VWN3MnNtS2dGMHhOQ3B6S3hSdUpEZ3FXcVlQVmY2RkpxQ0ZYMUtYV2lZVHI0dDlta01PcUlWb2NiSG5hWmZhZ9IBjAFBVV95cUxQd2FHb3dNcWgzcUtqWWZQZk5xaUhuWEQtMkh2YUpKWkp5eVZPYnctLTR2TGtpRmFRZWg3MGZrT0p2WU9fTEhjTEp1R3JpdmVyeGhfTG1Ca1JxVFp5NWwxWW9nM0xrUUlSU204ZW5GNTU0azRfdG84c2MxN0Y3SGtCTExJb1JtcTNMXzlYXw?oc=5",
+        "date": "2026-11-15T05:00:00+00:00",
+        "source": "Diario AS"
+      },
+      {
         "title": "IAS: la IA une branding y conversión en turismo",
         "description": "IAS: la IA une branding y conversión en turismo El Ecosistema Startup",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzM4NkRBakpJRkVNczB3Y3pnUVZOTk9KNHJtcWxxNDl2cnZZM1hhdnY3Q01DUFVZczhOZWQxOXJBaXhSTEswNG40b3FSTmVHdHhWdjMwWjFJQ2tDeXJtYUFpNVVMMmRkc0hhdGo4OTVQS05xSXIwQjB1ckJ2SVJqV2ZPTQ?oc=5",
         "date": "2026-11-14T23:21:53+00:00",
         "source": "El Ecosistema Startup"
-      },
-      {
-        "title": "La IA transforma las estrategias de marketing turístico digital",
-        "description": "La IA transforma las estrategias de marketing turístico digital Hosteltur",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXhmYmQ5dUo5OGl1elRrMUlkVXNaLVQxd3lsbzJFcW9qOTR4eVpJUEl0Zmw3RnlmalhMR1JKbXJpc3h1UVM3dmppeXBqTlNYNzkzN2twOFdDMy1Qc2t4MnpXUElCVHlrNDlHRjJTR2xEMXp1VzNxYkpXd1V2SWlaMEtReHVFemNuS3JCXzJ5YjRaN0tpOG9HTE9VMk93SEctNHJj?oc=5",
-        "date": "2026-11-14T23:00:00+00:00",
-        "source": "Hosteltur"
       },
       {
         "title": "Invitan a una capacitación presencial sobre marketing digital para emprendedores",
@@ -89,33 +89,33 @@
         "source": "Máxima Online"
       },
       {
+        "title": "La IA transforma las estrategias de marketing turístico digital",
+        "description": "La IA transforma las estrategias de marketing turístico digital Hosteltur",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXhmYmQ5dUo5OGl1elRrMUlkVXNaLVQxd3lsbzJFcW9qOTR4eVpJUEl0Zmw3RnlmalhMR1JKbXJpc3h1UVM3dmppeXBqTlNYNzkzN2twOFdDMy1Qc2t4MnpXUElCVHlrNDlHRjJTR2xEMXp1VzNxYkpXd1V2SWlaMEtReHVFemNuS3JCXzJ5YjRaN0tpOG9HTE9VMk93SEctNHJj?oc=5",
+        "date": "2026-11-14T23:00:00+00:00",
+        "source": "Hosteltur"
+      },
+      {
         "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
         "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
         "date": "2026-09-28T07:00:00+00:00",
         "source": "Agencia de Noticias San Luis"
-      },
-      {
-        "title": "Marketing digital: CNMD 2026 analizará cómo convertir datos digitales en decisiones de negocio",
-        "description": "Marketing digital: CNMD 2026 analizará cómo convertir datos digitales en decisiones de negocio Revista Merca2.0",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNlJnZDIzNklMaE94RG5mRzlWWW5TRzZMZXNrQUVHTno5Q0hxbldqbEZ0eVoyNnJmb0JDNXNRU1R4Vlg3RGFlQ3hMaFlJWHloVVh5S25wREE5dURmNDdCOVZEZ0llWkg5M19hRGZZTFN3NzRhVlJ5ZGduVHVrdnJ3M2dpemJWSmNJdkIxbENDQ2FzemRDbk5FNmVsaDhSaVZQa19tY1IzRkF0UGR2Y1FKZWFINnNoU0xaWWc?oc=5",
-        "date": "2026-11-14T15:32:12+00:00",
-        "source": "Revista Merca2.0"
       }
     ],
     "IA": [
       {
-        "title": "El desafío de asesorar en la era de la inteligencia artificial",
-        "description": "El desafío de asesorar en la era de la inteligencia artificial La Nación",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkZIU2hGTDk2WU9jOG5POXBMQ2Jlay1wUngyLUJpTV9jSE1TeHByMlFrMHlZeU4tSGZrYzN2Uk44YXZqcUwzdWtIMlYyYXFGaUswb1o5OUpVQ3h2LWpYdkZfeDRvdmVxMktMeVF1SzdlUDU2TDFjUjFIV3pBbG1sUWxfNGlJbUpGUklLVUhLNmZPSGMyVTE2NXI1cHcyc210TGc?oc=5",
-        "date": "2026-11-14T09:18:00+00:00",
+        "title": "La inteligencia artificial está convirtiendo a los proteccionistas en librecambistas",
+        "description": "La inteligencia artificial está convirtiendo a los proteccionistas en librecambistas La Nación",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGpOX3hPcWF0Z2NnZnVSY1dETW1WN1pqbWpsZTB0ZzRaclVfLVZUbUdvQ3U5b2ZNTDJWOWVtUmJpYS1aLWFJWHN3ZElKZ3dDcHA1SVNpOWdXd0tSN2NtRzFzVFR5T1h4VnVPUjlOeHlYRl9TYUdNamd3TWdiMG1oZjRISVRpNnc4TTBQZVhTaDVfQzl4bmRaUVZ2bTlKNi1YMkpTVWMzaFlGNEpNSFlwQlRIOUptenBnWHNhYi1ybHVtc3lRRVUtQkt6eFVDUU0?oc=5",
+        "date": "2026-11-15T03:01:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "Trump descartó que un ciberataque o la inteligencia artificial hayan provocado la suspensión de vuelos en Estados Unidos",
-        "description": "Trump descartó que un ciberataque o la inteligencia artificial hayan provocado la suspensión de vuelos en Estados Unidos Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdHQxTXRlZnlOUGR2Q3VVUy0zV2lLZmVhSkxuVnR0SERiWFRfUnM0eV9RN1RXQTFRVExJUC1UMmt5UmxjUTVUWHlMMDNWT1hFUHE4R0Vaa2ljWEZkMHY2ek1kNEh3aGFxc1dLWG5OWGRoVE8tZ2pmTXhyMTNhMkhvaC1VLTgwSWFyM0N1WlBoVmlBV1NDT1AzOVpfYkRyeU05eU9wc0NiUGNWaG5xTzZlX2xhSVMzakxGRmUzdWNjZXVmV3Rma1g5ZW5FN1V1TUg2ZEdtS3g2Wi1aeXQ4cEpzWkxWbUcwWXZDUkF6bUE2ZWNBSExZUTIzSXRYSkNoVDNV0gGbAkFVX3lxTE1sa1Y2MGZIMDhFQTlaYklMamEtbU5iWnp3c2c4dTRHSXAxVGUyOWc5cmNZb2c0MHVoRkw1MXpxTHJtTldWVEZfUUFDODFCS3Fob0hPZWVVdG13Sy1fUURMMXVVTXpIaDdUQUZXRmdXZTR4eVJNeUJmcmJuUjkyLWxzYk9VQmRiaGZYUE9LLVY1Zkw1TXdvMDhRWHdNbW1rRUNjRmlmal9fdHN6dERJWWF0cXFVV0t0OTc3ZmE2OEE5Rk5KUE54eXdPV0pLLS13a1RUdHkzVklrckRPY2tkUnd1N25yTTdQbFJNYktMUDRFdmJyVmZaVzdSZ1I5NF9JV2NYRTlnZnNPRlowdmdiN1BUZ1Z0Wk0zTllfeUk?oc=5",
-        "date": "2026-11-14T02:36:00+00:00",
+        "title": "¿La inteligencia artificial podría reemplazar a los abogados? Experto advierte cómo cambiaría el sistema de justicia",
+        "description": "¿La inteligencia artificial podría reemplazar a los abogados? Experto advierte cómo cambiaría el sistema de justicia Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRFNwbm9oRXdTQk5HeVBNZXB2ZFFKMUFGWlRDZWNNbVQzQ0lUQXhkU1hlWlZjMDZTWDVINVp4MkpYb084cWtIdGJWMHJtaU1sY3ZTZFU4LXBBVzFkSnhaMjltckZDVl9ZUU1XbjA1OWFpeUhZbzI1VG1VYk5VbWhzdnBiZnhpN00wQmF6b1haLWlHdFlMbFpTX2k5eUVOdTJ6U0lveTgwM1IyblZiOTJlcW1NRl82UGVTMlpJTVRqbEhLU0I3bDBlV210Wlo5Z0U3Nm4wQ0VXemR6RXJUdkdHSkNfWTA2OV9xd3FrRk9B0gGIAkFVX3lxTFBLSkdseEpVc3JJSDhWSXo0WHJiQnE4RnFNaGtPY0hSejRjWFVzR2dHV01ISE84VlRPX0IyTTRDS1NJc1BXTWhQTkFWWU1sMG9zUEdSbTRVUjh4QUw3LW04bVRuMHZQYVdDRVJfX3hPVk5jb3dGMkFaTWh0XzNxSG04N0hMejF0MjdfR2ZpZi1XcnFFb3U3UWhxdVdFMmI0dlhQWEswaEx1VGxCUEg1VzJSbmpZbGpkZVUyOTdGNGk4NFJaQWo4bW52ejA3X1Q5WkEtRFVzQWJLNE1RNjUyYVlaNnRPOVliRlpXYklwQkppbFg5ZU9UNU9FYnN0UHE1ZHptVDJkSUhrNA?oc=5",
+        "date": "2026-11-14T18:03:00+00:00",
         "source": "Infobae"
       },
       {
@@ -126,6 +126,13 @@
         "source": "Ambito"
       },
       {
+        "title": "Cada vez más platenses chequean su salud con la inteligencia artificial o en las redes sociales",
+        "description": "Cada vez más platenses chequean su salud con la inteligencia artificial o en las redes sociales Diario El Día de La Plata",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTnNJTFFYaHBGS2dXbkpzV285SHhRbFFhRlRtSzZ3R2JLRVVsUzlJMWE4QXZTVk5YcDJLZXdYcXRJelBmbzRzeEZ6YURxMS1xZU51b2h5RzFSY1VfeERQeDJxaFRXc1h3LW51T2wxTy1RRXJiaF9GbENLc21LTC1QUUNUaTM5TUlFVE1lYkVhUmNaUVlaekw5ZWwtUUFNSFJJSGV6VHJpRjRlSUZ2ekZvelFyRG44aEVsVmM1X2dwMjFJZGNiVHZIaFhLSGRFTldjNTZlX3lNcnVnSlZPdEwwUmJn?oc=5",
+        "date": "2026-11-15T07:08:15+00:00",
+        "source": "Diario El Día de La Plata"
+      },
+      {
         "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial?",
         "description": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial? La Capital",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVE44LVN6RHpobFdQZnRlS0ZZQ1NBaDNTbmw4bmRoWVZOdXg3R3FDT1Nlak9MZkpwRFU5aEk1SjZ5RndtaUttOUVtekNWTUpiUzZka00tRWFxR1FNNDc2SDFScjFndFpDbmJKTVZqM1dJTEZ2SU5lc3o0aGFUaUlnZ2pjQmptbzNMaXhHS285N01rNmdzSEZseHRvQllpV3RyY2xNbTB5OENJWTBmRjZhcXlPU25ueWRTeU4xc9IBwgFBVV95cUxPbGRScXN5VmtuQnIxWERVckc3alRNalN3dm1tOVZvc2I4cWpxRFVmMkJsVmhxUGJkZ0hrckR4VG5fRTA1VUlsZ0YxVjdOdU5Ua2JuNUJPajJFcUxGWHIwZElzeWFWSGxQSjRhcFh4TFd3Rm9rSWI5YlRxUFF3bEp3WVQ0ak9rbXlZWl9ZZ3pzVnFlNWtkbXgzQ0VsaHFuOWN3Rm5NOHZWQmVKdkdYWFRBaUxueVZPVlZGc1RGRlpneTV2QQ?oc=5",
@@ -133,18 +140,11 @@
         "source": "La Capital"
       },
       {
-        "title": "Trump toma la ofensiva contra los demócratas y reivindica el boom de la inteligencia artificial",
-        "description": "Trump toma la ofensiva contra los demócratas y reivindica el boom de la inteligencia artificial Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZjNjZ0FPMDlCUF80QzRUVXpnWVpoSXBPWWo2eUY4VUNwU25JaTFpZzJQX2RqVDhUcGU3NzRKci1wLTg1MnJDMmM4alc4eVJNWXRDMlozbi1GbWFMRzg1ekczTjdiTWhESm1nc1RZN1hoSG5zaC1sZ0k0UEpyOTJSM1FsUk8yZG85WlpNUGJveTU0OHRVQS1JaW1WTVFHT0pDblF3Y2czTVVLZWFwRGxXMXRzVFdqYmtGbnVUMQ?oc=5",
-        "date": "2026-11-14T03:52:49+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "La inteligencia artificial agéntica gana terreno en las empresas y abre una nueva etapa de transformación",
-        "description": "La inteligencia artificial agéntica gana terreno en las empresas y abre una nueva etapa de transformación La Voz del Interior",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWlU4SVIwdDIwWXN4MFJ0R2xDeTBvNTl2RXpZMXVYUW5ZVGNRNk9KckM1d25sWmZ5NTFaOVRCRmdyMkl6ZU91aUFuY0djalBtVXFJT1I1eUhsb2JSa1BtUjFvZ3pXeWZ1TFM4bV9Dd1FiOTlScVA3NTJmazB1T0ZFMFBIcVlRR2hQMFVGZl91QWVzaWpmQVhsRUNzUzl2M0FmVWpOLXdEdVlDbmtTVlhJN3dwOWtkSUZhbEotM1BHNnhhMGVOQmpwckZiRVpFR2sxTFYxa3hQMlVQTDNFcmhRTC1FVFI3Zw?oc=5",
-        "date": "2026-11-13T22:56:53+00:00",
-        "source": "La Voz del Interior"
+        "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+        "description": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVhXS2tiWHF4Z3Nlb09OLXJIQVBKbGVhcXY0alFBS2hSbXRLNDlneTJQbDRXX0pCRW5Cc2kyeklGaDFnMUtyWHgzd2o2S2tvRjVFeWZrbWNYZ1YxZUpYRGYyY05lQ1hRZC10eUw0T2REdzFyMVd2alJHemwzcFVvUHVzVkNxT0ZMeGVOdlFCMzJ1bDJaOWlaQ3VrdTFEN0FWOEo2Q3gtLTdveXM5OWdDMDBsX0NQbF9oZnNhOXhwd2ljMFc0UDduUXpSbGPSAeABQVVfeXFMTjQ2YW91Y01wQ19XV1VKSHFZWWxsRGEzUjNNdk1sLVhCc2FnMDVsZUdGblRiQVBKV0RnSjRaZkpzNnlCODNhbFhHNWtwSElwMmFJVEpfLTQ3SEJhdlNQaWd0TkVKZkZ0eXczbzVUWlBJd2Y3b0E1dThmM0JQTkVPRkljM2ZGeG4tbklKekl6ak9BYi1xUl9DNGlyNVVSWE5vU2w2R1lvZmc2aWNRUEJPSVVhNEVOamJzSzZPUktLQzdGY004aThFc19uVElVN2pqRWdhQW0zRjg1YktZUUEyajg?oc=5",
+        "date": "2026-11-15T04:45:01+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "SimRosario: un joven rosarino recreó la ciudad con inteligencia artificial al estilo de un clásico videojue...",
@@ -184,25 +184,25 @@
         "source": "El Cronista"
       },
       {
+        "title": "Las megainversiones que se vienen en Bahía y el desafío de reactivar la construcción",
+        "description": "Las megainversiones que se vienen en Bahía y el desafío de reactivar la construcción La Nueva Provincia",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlJzNVVFM0RETlpaMXRGbi1OV2xtRzlvRW9uZkV6cFhXSVVwaEh4d0FjRnBFUWpsa0xrYjZlSzc3MWhjVmJnbVREb0ZEbGlRdUc0LVpXMkREVDhMS3hiOGZ5bzdOLXBmdWRwVFg5YjRUX0lfRTBVeEJ3OGRVX1E0WndXZmY2VXZUdXF2cTZ2UHJsMDJqVDVSNTY2VW5IekdzbVpXVHNRM19VQWhrV1VfR0U4UnlDZ2hrN2NlZXY0NUxDNG5TdXR0TU9XTWU?oc=5",
+        "date": "2026-11-15T07:17:54+00:00",
+        "source": "La Nueva Provincia"
+      },
+      {
+        "title": "Petróleo: los récords de producción de crudo envejecen rápido en Argentina",
+        "description": "Petróleo: los récords de producción de crudo envejecen rápido en Argentina Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUN6VnRaR3JBcFlUQ3pfY1NFbVU3VlZPeWRQdkJkRkxVTmFZX21KVjYxRmE3dldxOXJXRE9rOFJFTlV6TmswTU5wYU0wUjNoVEdScW95T2Vnbks0MHZWQlNJUUJUWWR5UkhpVmpubE5LOHVkMi1iaUtwUGVzWG9NZy0weU1sX1lIVjJST0JDQWJCd2hqV19kMUFwVExZMEwyeG80bl94YUtXUdIBrwFBVV95cUxQakhzMC1nX3gtSjBmNUVUWjY4b01tbkZNUl9zMTMtRVZodHV3SlNhNkJoQjl0R3FKeEpFS3dsRkR4RUNSNU8xcjk3MU85dGdOWWlfd1JXS3U2WUZnSzNXd1dVMGtaMnZKX201RmhzczZGMk5WV096VnMxaHZLSmtWRk1OeFk1aEZJMDZRM0kxZHQyVkRmYmk1cGJHZmY2bHBNT0VJb2ZWZjVfLVo4R1J3?oc=5",
+        "date": "2026-11-15T03:00:00+00:00",
+        "source": "Ambito"
+      },
+      {
         "title": "La caída del petróleo pincha los dólares de Vaca Muerta y complica el programa financiero de Caputo",
         "description": "La caída del petróleo pincha los dólares de Vaca Muerta y complica el programa financiero de Caputo La Política Online",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXVtRjZsV3dzMm9Od0w1MS01ckstbEtIdDVFV0FGME1WUHVUUm1KZ3lUcEpJMVd6Y2w1NmttaEZtSmVfdVcwSW92V3g5dHlJU0xuS3dKVzRaa1JqMFpKZGhrczBqNWVDTGlNYU4tbk1IUUduTjlTYjFKdFZ6LXR4dWFKellkWWJzNGMxMUhlYS1yRHhhcWw1OG1wYmtvZ2d5Q21iYmxudzY5VzNDT0Y2WXNXdDlsdV96TEJxbjBvTEJmblNMZFNEb0JHOEhqV0hzRG40UEJKQXE5Z9IB3AFBVV95cUxOLWhGd2xVM3h2NGdrNnExTTlMaDhqZUZLakwweWo3MEpkYXl3NmVxazA0MTFKSjR6eG5RQjdiZXRJbmZIbjY4TF8wVGFUZkdyQldJSFZRTlY5eFRULTl6LW5ZMjdSYjcyYjQ1VzhLTFMybG1hbDhlNnlpUXFNYWJ2WWM1aG81NWJZbHh4SDF0MVYzU3c4VmVCQS1mSk9HUkRKRW0tY0R1VWczTzVndklsSkJvTUhrbGNoS1BuWG11NkhnTzNVM0lkTlVlRnc5Tm9uNkdnZGRocjVTWGVP?oc=5",
         "date": "2026-11-12T22:22:58+00:00",
         "source": "La Política Online"
-      },
-      {
-        "title": "Cuándo vota Vaca Muerta: el mapa electoral de la cuenca petrolera y la provincia de Neuquén",
-        "description": "Cuándo vota Vaca Muerta: el mapa electoral de la cuenca petrolera y la provincia de Neuquén ADNSUR",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSklJSF8wYnVKNENPU2h1QVZGTlhja3pXTzg1dzItdEhEVFZFd3hta2RjNWVjMTZ1dXVRamY0Nm5rMnBDbmUzNWZTeXFpNUY0R2Rha01ZaXdxcjBTS044LWpQVzAxdTNLRTFwUFlOWWhTOTk1dVR4SVRYcXZrMkxnTmVJSDFKdjlEMkkyVTRPd25XekxpVmNiTFd1N0ZqRFdES0RXck01Q29zUTJCRjRnekRISHJXX1lmMmh0MEdMRHUxTlhTdHMyN2M3eWwwSDJjUzJzdnZaM0xqUzZZUjhVa3JORzFEUmc?oc=5",
-        "date": "2026-11-14T12:15:00+00:00",
-        "source": "ADNSUR"
-      },
-      {
-        "title": "Vaca Muerta mira al Permian y busca cuatro claves para reducir el costo de perforación",
-        "description": "Vaca Muerta mira al Permian y busca cuatro claves para reducir el costo de perforación Minuto Neuquén",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTTZyd0JhM3RJTERnbkRoZUtjUXI1WG5sNlZLS2l4ZXBhbWFtWEI5RWd2cEdzMmR3bWNmT1AxWG5Ndi1lZ0dVYmk1Sk9PMV8teEVrNmVEMUUxaERtemNQLVJXVlIxdEtKWGVVdGNXYVFQMVVfM2ZYaFp4OU5FMmtHeEdRQ2owZDA5eXFaRngyUU9BSjRoQnRLMEJWY1gwNWFON1BNcXIwNkk5RExOVzM0X1VneERrMDNxYW1DeDV5a051QXNSZ0VSNFNpXzVUVXZVQlQtQUdvYVU2aEJ0WG1TRA?oc=5",
-        "date": "2026-11-14T16:18:00+00:00",
-        "source": "Minuto Neuquén"
       }
     ]
   }
