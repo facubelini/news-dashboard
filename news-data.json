@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-11-15T20:43:22Z",
+  "updated_at": "2026-11-16T00:37:54Z",
   "categories": {
     "Microsoft": [
       {
         "title": "Caída global de Microsoft: qué pasó, por qué y cuándo podrían volver a funcionar Outlook y Teams con normalidad",
-        "description": "Caída global de Microsoft: qué pasó, por qué y cuándo podrían volver a funcionar Outlook y Teams con normalidad elDiarioAR.com ¿Se ha solucionado la caída de Microsoft? Outlook y Teams siguen sin funcionar hoy, mientras la IA Claude sufre graves errores de inicio de sesión…",
+        "description": "Caída global de Microsoft: qué pasó, por qué y cuándo podrían volver a funcionar Outlook y Teams con normalidad elDiarioAR.com Microsoft se recupera después de una caída mundial: afectó a más de 70 países y fue una de sus fallas más largas Clarin.com Microsoft restablece sus…",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3pUN0xnVjhKR0pfTXdNRE1rV0JBNVc2S0Ztb2dzNU8xb1NlQ1BwdUJBeTdIWmVJTWV3NW05RjBBalZBVjhGZlRjdjJIb0I4Z0RpaXFYR1FnSVZZcndPNkZKSmdBSEFwSE14cm15TzZCQU1JSkRVU3NXT1h2ZHV0d1JwdXpwNEVJdnE1LTJUNWN6VUdQWTZLSDBPd3lZamdDNDRaWHZwdEtzdVZqbUxaSDVxS3FlclZ0UHI4cDJOLXRqVUpT0gHKAUFVX3lxTE9RV00tN0NVYmY2R0diUWJ0ajRpejBZM2Zuc045ek1KeEkwWGZ1d21VX1JnSGxGVkt0enhhUjhsck94WHBzZklWQUhxV1lIcUViTzZhUVRsejBIeHVLWW9XNDNwNjhuWTZPcmd3dDdKdjFrbFZibTdTaU0zOVlES3lhaGVMbHRpWXoxM190aWtoLVhjcDQtN3Qzc1p0LWFSQUJVMkppS3pWNWxEV2NRdHJQU3MwaEF5QzBGUnB5RzZLSGp3RUJGYmVWSkE?oc=5",
         "date": "2026-11-13T22:17:32+00:00",
         "source": "elDiarioAR.com"
+      },
+      {
+        "title": "Microsoft da otra razón para comprar ROG XBOX Ally X: su alternativa a DLSS ya funciona en portátil y es una gran noticia para tus juegos",
+        "description": "Microsoft da otra razón para comprar ROG XBOX Ally X: su alternativa a DLSS ya funciona en portátil y es una gran noticia para tus juegos 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUlo1TnF2SGh0TDdFQ0FORm9CRXpwZTQtZWFMNzYySFpJQjBCMFhzRGVaTEZ5NGF4ZnNWQ1lPVUs2aHAxY2F3aEdObjRyX1VPeUM2TFM4WnpWNW9JVm5xVS00WXJ0elJwb0NPTFBOSUdNcHFLZ1R6WnZ1blpiYUVqQWlQRzVFdmJnZWQ5dTA1SERSaFRFOVJEU2U4VWphV2d4dEd1cWZobmhidDVuQTM0R096M1ZOZVRqVkZTY2I1bkJ3VnRJZVN0ajh4dlRlNkhFR0ZOZGZjdGNCM1hTYzl5UFJvOEZWSFNPQkh2eWRDSdIB9AFBVV95cUxQT0FRcl91RUw1OTM0di04Rk5DcEtBM2RJcjFfV0pmeGx4SW5uX2hEN3BBRlZYLTZoOFJhR3d1eDRUdXQyYnVaV0RzREIxS19qdDhRNjZITFFKM0RPU0hMYVpURWVESmNIME9fSC16VkNYTzJQRXlPRGN5dzg0QU9DTl81bzdYY3psOW9BR0ZHT1FwbDZseVpYT09xM3RKNzFXWWtzc3FJcWZBanRaRVNaWU5WaFBGZW10Y3NtUVgzOGNlQUdBbXE4YkJGeklyakpzMzduZUxmMDJnN2ZlMkhxengybzlibnlINnNaamZ3RWYxXzdW?oc=5",
+        "date": "2026-11-15T11:01:22+00:00",
+        "source": "3DJuegos"
       },
       {
         "title": "¿Podría romperse todo? Aviones en tierra, la caída global de Microsoft y el caos de IA inquietan a muchos",
@@ -24,11 +31,11 @@
         "source": "El Tiempo"
       },
       {
-        "title": "Microsoft da otra razón para comprar ROG XBOX Ally X: su alternativa a DLSS ya funciona en portátil y es una gran noticia para tus juegos",
-        "description": "Microsoft da otra razón para comprar ROG XBOX Ally X: su alternativa a DLSS ya funciona en portátil y es una gran noticia para tus juegos 3DJuegos",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUlo1TnF2SGh0TDdFQ0FORm9CRXpwZTQtZWFMNzYySFpJQjBCMFhzRGVaTEZ5NGF4ZnNWQ1lPVUs2aHAxY2F3aEdObjRyX1VPeUM2TFM4WnpWNW9JVm5xVS00WXJ0elJwb0NPTFBOSUdNcHFLZ1R6WnZ1blpiYUVqQWlQRzVFdmJnZWQ5dTA1SERSaFRFOVJEU2U4VWphV2d4dEd1cWZobmhidDVuQTM0R096M1ZOZVRqVkZTY2I1bkJ3VnRJZVN0ajh4dlRlNkhFR0ZOZGZjdGNCM1hTYzl5UFJvOEZWSFNPQkh2eWRDSdIB9AFBVV95cUxQT0FRcl91RUw1OTM0di04Rk5DcEtBM2RJcjFfV0pmeGx4SW5uX2hEN3BBRlZYLTZoOFJhR3d1eDRUdXQyYnVaV0RzREIxS19qdDhRNjZITFFKM0RPU0hMYVpURWVESmNIME9fSC16VkNYTzJQRXlPRGN5dzg0QU9DTl81bzdYY3psOW9BR0ZHT1FwbDZseVpYT09xM3RKNzFXWWtzc3FJcWZBanRaRVNaWU5WaFBGZW10Y3NtUVgzOGNlQUdBbXE4YkJGeklyakpzMzduZUxmMDJnN2ZlMkhxengybzlibnlINnNaamZ3RWYxXzdW?oc=5",
-        "date": "2026-11-15T11:01:22+00:00",
-        "source": "3DJuegos"
+        "title": "¿Por qué se llama XBOX? La curiosa historia detrás del nombre de la primera consola de Microsoft que cumple 25 años",
+        "description": "¿Por qué se llama XBOX? La curiosa historia detrás del nombre de la primera consola de Microsoft que cumple 25 años Vandal",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSXp0VlJMRE0weWlsdlZxbXlJaFJwNmFvbkhVYThpcG5aS0RYc3diSUlWSWdGdjBSallLT05VV3VSZC01VmxwRlB2eGFPUFcxNm1YWUw0YnpLczliYXluRmZnVjFJYzBKWmp4eXF6dncwN2k3NWlzN205dG0zWFhJclZmT1lRaHFYcnB0c3RWYUlXaFFQa3JMN2gtTXZBUTl3U0hjNm9FWTZnOGVfbnlTVnJZWnoyUmY1clQ0cXBxRDNXZEh5S0J5VFZSdzBQZm5DdnAxVmdmanFJb1lQQ1pHTHpVejN6WURBSzNCMHEzdTYxblpP0gH6AUFVX3lxTE1GNVlZMExZVWJ3T2tFSVY0bklkTEcwcDFKNDRESXl5Yk5BVnYtUWo5WTN3TzNrbXVhY0R6cFpoLWl6TkRyMDBENXRxd3lwZV83cUgxSzBUZFM1UnZqU3p5SzlLVGozYV9zb18zME5sbzNaYjA5VnhxbU9NcG1vV3FuSVlLZGFsQlVHeV9ZSWNUby1jZG9EdkUxNHF1QWttcW9TVk14UGZYQmhpWDRIY0NoNThsNHpuaG1IZkdwWDRHRW11SDNNdEJMaGxEQkU0YVo2ZldKdHNXa2hENnZpQU1mTDlNVVdYN1ZyRzJwM2QtSGw1dm0ybTh5SUE?oc=5",
+        "date": "2026-11-15T10:08:00+00:00",
+        "source": "Vandal"
       },
       {
         "title": "Las invitaciones falsas a eventos sobre IA tienen como objetivo los datos de inicio de sesión de Microsoft y Google",
@@ -36,13 +43,6 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTBFVnREZGNmS2NOYWlGcWZVeDJ3RkFtdm5lVU16Z3ZqLTZ4V1JTdWtfeUExMk5UazJOUW5WQjlEMjFhV2phX2pKTTZIX200Zlo0SDVsUGlJU3JPQUFZbElfYzJpN2xCYnhRVmg2ZmdFQW8wRlBCNnNQb3RxVzhGYkxVQlUtNDBnT1dMWnA0bWtsVXFqaWNUN0VvUHQ?oc=5",
         "date": "2026-11-15T15:51:15+00:00",
         "source": "Yahoo Finanzas"
-      },
-      {
-        "title": "¿Por qué se llama XBOX? La curiosa historia detrás del nombre de la primera consola de Microsoft que cumple 25 años",
-        "description": "¿Por qué se llama XBOX? La curiosa historia detrás del nombre de la primera consola de Microsoft que cumple 25 años Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSXp0VlJMRE0weWlsdlZxbXlJaFJwNmFvbkhVYThpcG5aS0RYc3diSUlWSWdGdjBSallLT05VV3VSZC01VmxwRlB2eGFPUFcxNm1YWUw0YnpLczliYXluRmZnVjFJYzBKWmp4eXF6dncwN2k3NWlzN205dG0zWFhJclZmT1lRaHFYcnB0c3RWYUlXaFFQa3JMN2gtTXZBUTl3U0hjNm9FWTZnOGVfbnlTVnJZWnoyUmY1clQ0cXBxRDNXZEh5S0J5VFZSdzBQZm5DdnAxVmdmanFJb1lQQ1pHTHpVejN6WURBSzNCMHEzdTYxblpP0gH6AUFVX3lxTE1GNVlZMExZVWJ3T2tFSVY0bklkTEcwcDFKNDRESXl5Yk5BVnYtUWo5WTN3TzNrbXVhY0R6cFpoLWl6TkRyMDBENXRxd3lwZV83cUgxSzBUZFM1UnZqU3p5SzlLVGozYV9zb18zME5sbzNaYjA5VnhxbU9NcG1vV3FuSVlLZGFsQlVHeV9ZSWNUby1jZG9EdkUxNHF1QWttcW9TVk14UGZYQmhpWDRIY0NoNThsNHpuaG1IZkdwWDRHRW11SDNNdEJMaGxEQkU0YVo2ZldKdHNXa2hENnZpQU1mTDlNVVdYN1ZyRzJwM2QtSGw1dm0ybTh5SUE?oc=5",
-        "date": "2026-11-15T10:08:00+00:00",
-        "source": "Vandal"
       },
       {
         "title": "Microsoft sufre una caída masiva de sus servicios Outlook, Teams y 365: esto se sabe",
@@ -61,11 +61,11 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "Marketing, contenidos y neuromarketing: tres caminos para impulsar tu futuro profesional",
-        "description": "Marketing, contenidos y neuromarketing: tres caminos para impulsar tu futuro profesional Diario AS",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13N1NZNmttdmFCSzRsTWY4LXJYTzI3NFAtM0tJelJaVW9sSmlWVVVJQ05lZ045emk3VWN3MnNtS2dGMHhOQ3B6S3hSdUpEZ3FXcVlQVmY2RkpxQ0ZYMUtYV2lZVHI0dDlta01PcUlWb2NiSG5hWmZhZ9IBjAFBVV95cUxQd2FHb3dNcWgzcUtqWWZQZk5xaUhuWEQtMkh2YUpKWkp5eVZPYnctLTR2TGtpRmFRZWg3MGZrT0p2WU9fTEhjTEp1R3JpdmVyeGhfTG1Ca1JxVFp5NWwxWW9nM0xrUUlSU204ZW5GNTU0azRfdG84c2MxN0Y3SGtCTExJb1JtcTNMXzlYXw?oc=5",
-        "date": "2026-11-15T05:00:00+00:00",
-        "source": "Diario AS"
+        "title": "Alpina y Movistar: publicidad con IA generativa",
+        "description": "Alpina y Movistar: publicidad con IA generativa El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVNDeEVRYzVzekxpbW84YTJfZ2p4Smw3cXNDTjlnMEpNbmNLZ0lOUnVHS2ZlN2xmRkhJRzNaQ3ZFc0ZfNUdOanNBczBXYXNaUkc3RGNLbmxPSUtuMDZxUktmcWwzZWd5b3ZMXzhTMVI0TEdvUEgxblh6enZ1ZmJkZnM5NA?oc=5",
+        "date": "2026-11-15T21:21:26+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
         "title": "Cómo vender más por internet: una capacitación gratuita reunirá a emprendedores",
@@ -89,41 +89,27 @@
         "source": "Gobierno de Venado Tuerto"
       },
       {
+        "title": "Marketing, contenidos y neuromarketing: tres caminos para impulsar tu futuro profesional",
+        "description": "Marketing, contenidos y neuromarketing: tres caminos para impulsar tu futuro profesional Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13N1NZNmttdmFCSzRsTWY4LXJYTzI3NFAtM0tJelJaVW9sSmlWVVVJQ05lZ045emk3VWN3MnNtS2dGMHhOQ3B6S3hSdUpEZ3FXcVlQVmY2RkpxQ0ZYMUtYV2lZVHI0dDlta01PcUlWb2NiSG5hWmZhZ9IBjAFBVV95cUxQd2FHb3dNcWgzcUtqWWZQZk5xaUhuWEQtMkh2YUpKWkp5eVZPYnctLTR2TGtpRmFRZWg3MGZrT0p2WU9fTEhjTEp1R3JpdmVyeGhfTG1Ca1JxVFp5NWwxWW9nM0xrUUlSU204ZW5GNTU0azRfdG84c2MxN0Y3SGtCTExJb1JtcTNMXzlYXw?oc=5",
+        "date": "2026-11-15T05:00:00+00:00",
+        "source": "Diario AS"
+      },
+      {
         "title": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital",
         "description": "Cursos Extender: inscripción abierta para cursos de logística y marketing digital Medios Unne",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0td3AzS292aFdYU3BJa0V4dkRudHNZaWlIa2dNQmFfUk15c2w0Y1JIdmU1bkpCTHNfTmxNS1hKSUZjYXc0SkhFdGxDV2p5M0lNd0g0WWFVUUFVLUVBd0VvXw?oc=5",
         "date": "2026-09-24T07:00:00+00:00",
         "source": "Medios Unne"
-      },
-      {
-        "title": "IAS: la IA une branding y conversión en turismo",
-        "description": "IAS: la IA une branding y conversión en turismo El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzM4NkRBakpJRkVNczB3Y3pnUVZOTk9KNHJtcWxxNDl2cnZZM1hhdnY3Q01DUFVZczhOZWQxOXJBaXhSTEswNG40b3FSTmVHdHhWdjMwWjFJQ2tDeXJtYUFpNVVMMmRkc0hhdGo4OTVQS05xSXIwQjB1ckJ2SVJqV2ZPTQ?oc=5",
-        "date": "2026-11-14T23:21:53+00:00",
-        "source": "El Ecosistema Startup"
       }
     ],
     "IA": [
       {
-        "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
-        "description": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVhXS2tiWHF4Z3Nlb09OLXJIQVBKbGVhcXY0alFBS2hSbXRLNDlneTJQbDRXX0pCRW5Cc2kyeklGaDFnMUtyWHgzd2o2S2tvRjVFeWZrbWNYZ1YxZUpYRGYyY05lQ1hRZC10eUw0T2REdzFyMVd2alJHemwzcFVvUHVzVkNxT0ZMeGVOdlFCMzJ1bDJaOWlaQ3VrdTFEN0FWOEo2Q3gtLTdveXM5OWdDMDBsX0NQbF9oZnNhOXhwd2ljMFc0UDduUXpSbGPSAeABQVVfeXFMTjQ2YW91Y01wQ19XV1VKSHFZWWxsRGEzUjNNdk1sLVhCc2FnMDVsZUdGblRiQVBKV0RnSjRaZkpzNnlCODNhbFhHNWtwSElwMmFJVEpfLTQ3SEJhdlNQaWd0TkVKZkZ0eXczbzVUWlBJd2Y3b0E1dThmM0JQTkVPRkljM2ZGeG4tbklKekl6ak9BYi1xUl9DNGlyNVVSWE5vU2w2R1lvZmc2aWNRUEJPSVVhNEVOamJzSzZPUktLQzdGY004aThFc19uVElVN2pqRWdhQW0zRjg1YktZUUEyajg?oc=5",
-        "date": "2026-11-15T04:45:01+00:00",
-        "source": "EL PAÍS"
-      },
-      {
-        "title": "Películas hechas con Inteligencia Artificial: cómo está cambiando la forma de hacer cine",
-        "description": "Películas hechas con Inteligencia Artificial: cómo está cambiando la forma de hacer cine Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkRxd0xhbUFVQWxLNmsyYVFWbDFHY2RkZjlueDk3dDFIU3Uwa081cC1QUXFERmFOLXVtQndvLVk2eWZRMjFzVnFOa29yam5MZHc4blBGVHBQT0wtTllRZ1N3YjBvblp1WnlRaXk0N2pad3NNdzBzOTM2andlWXJoT21oMGxaTDE3VWgyUHRBYktXdFRpSUpjUXdjeUJvV1hWdVM0RE1Kd1RQUTd2R3ByMXF1N2NrdjlvOHZ3ZnNB0gHDAUFVX3lxTE9xSV8wblNvUmx3ZG9mV3hXeDRYTGtrM25Gc21wS0hDeDg2cjladWlrSXBzQ2laTUs2SUVzYXhXZjh5RUVsOTdwRGpFNEwwZ2lfVUcxUm8wM0M1MFNWRkNiekxLeHlhTG8tWlBRTGhLeXE3RGo4N3lIMVJvODRYR2dZekVxTldXX0NYRlVyZUIzX2x2bW1EOS1idEFLMElVT1pBa0h6V3YtdWlOUlJDZndHMWFsWXdnM0hDQ1BjQkkyQTVNMA?oc=5",
-        "date": "2026-11-15T09:01:12+00:00",
+        "title": "Shadow AI, el riesgo de usar ChatGPT en el trabajo: cómo pueden filtrarse los secretos de las empresas",
+        "description": "Shadow AI, el riesgo de usar ChatGPT en el trabajo: cómo pueden filtrarse los secretos de las empresas Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalFVZHQ0N2dKSDdVLTFTRXRaaExNWGxkYmJLaGloc3hIY1RHVzU4WTlWM2EzYV93T2FIZkgtS0xWc1VDU3ZPNGxwelhBQWg3am9BYTNQdi1WMkNQWFpBYXBvVTBaQWtmTmxwSGpxWlFCcWFnMzFuNjhJX3Z4bjBfTlRaZjMxWTkwSFh4MUxBQ05WaWt0bXRMOGlBY0IyZmhETUNqQWwtdGVSdlpIN1pWRzBXRnpZVHpMZ3E3UThna1UtZ9IBxwFBVV95cUxOS0RnRnZ3akZOUzJzQlQ2RE9JWElDUElrUng3VE9rQzJ2Vy1QWW1LVEhFbklDWHQweHg3Y0NRa0NZWlZfY1dtdzF4cC1iQkl1cnptT2lrZ1UwNEx5SjJpS3N0b2FhQzFCRmlOMFlqSjVEVmc3Q2s2dGY2TzNValFUQVpVeEs5dHR6UFpCaW40M29CQjNjWURiQmhERXNCbWJETnQzTlplLVNFbDAxbUZ0eWFRY0tYZTlraG9CSTVlcEhzSDV2ZGFB?oc=5",
+        "date": "2026-11-15T09:03:10+00:00",
         "source": "Clarin.com"
-      },
-      {
-        "title": "Cómo la inteligencia artificial mejoró un implante cerebral para que una persona con ceguera perciba destellos de luz",
-        "description": "Cómo la inteligencia artificial mejoró un implante cerebral para que una persona con ceguera perciba destellos de luz Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWFGS1doSEtLcW1KZVZqb1dqeDBRc1h3XzB3dlVPb3RjVW1tY3VwWTVCd01jRTVKV3YwbVdvZ1FYUjdwNzZKaDRhTjExeVoxbjhIOW5sYjlsS05zOUR2bFd1Qk1fYnpJQ0FoNUtkN2dGWG1MaTJSN3FzNm1DeTVRWlBRdmhlaGcxWEwxS28zWFlKMm5oWV9HM3pFWjZqdV9LRElxOXNOLS16dTJ3NmFyWE9ZcEdwWEdDaGlTd0RVVmw1RVhMMWxpNG9La205djhwUGVsallnal9id2ZBRmhVTzhtSldvZC1uYi1zRXZJTkJzamQ1MkUwN3hjRdIBlgJBVV95cUxNWHBEa054QThPUmgtZlZ5czA1elRfRjZ1RFpyaXNhd2FRSlk1ZmJGQ2tSaFI2SXhfV0pYV2ZFaTZhVzBJcWFseEVwWjBLLUswNjVhbVhVc3dlYU41WVlyRGwxYWFtRnN1aE03ekoxeTFYT0dfS0ZjY01KemVKdF81cjRVdHMweVEtdEVaNFNXSWNXYjVOV3RuUmxqSloydlpGTjdNQ0trYWNvTC16MmEybTJwNGZqTnlRX3lXOVVzQlpuZjlQTGJjWU53R2J2Y1cwVFMxSFBFVE04aTBEVW00R1E2RHB1TVd0QVpxbHV3a1hxY3ppend6VEdzSWYtZUphWnlla2VmUUxVRFl4NHJVYmxyeG5RUQ?oc=5",
-        "date": "2026-11-15T15:07:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "“La inteligencia artificial debe estar guiada por un docente”",
@@ -133,10 +119,17 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
+        "title": "Cómo la inteligencia artificial mejoró un implante cerebral para que una persona con ceguera perciba destellos de luz",
+        "description": "Cómo la inteligencia artificial mejoró un implante cerebral para que una persona con ceguera perciba destellos de luz Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdWFGS1doSEtLcW1KZVZqb1dqeDBRc1h3XzB3dlVPb3RjVW1tY3VwWTVCd01jRTVKV3YwbVdvZ1FYUjdwNzZKaDRhTjExeVoxbjhIOW5sYjlsS05zOUR2bFd1Qk1fYnpJQ0FoNUtkN2dGWG1MaTJSN3FzNm1DeTVRWlBRdmhlaGcxWEwxS28zWFlKMm5oWV9HM3pFWjZqdV9LRElxOXNOLS16dTJ3NmFyWE9ZcEdwWEdDaGlTd0RVVmw1RVhMMWxpNG9La205djhwUGVsallnal9id2ZBRmhVTzhtSldvZC1uYi1zRXZJTkJzamQ1MkUwN3hjRdIBlgJBVV95cUxNWHBEa054QThPUmgtZlZ5czA1elRfRjZ1RFpyaXNhd2FRSlk1ZmJGQ2tSaFI2SXhfV0pYV2ZFaTZhVzBJcWFseEVwWjBLLUswNjVhbVhVc3dlYU41WVlyRGwxYWFtRnN1aE03ekoxeTFYT0dfS0ZjY01KemVKdF81cjRVdHMweVEtdEVaNFNXSWNXYjVOV3RuUmxqSloydlpGTjdNQ0trYWNvTC16MmEybTJwNGZqTnlRX3lXOVVzQlpuZjlQTGJjWU53R2J2Y1cwVFMxSFBFVE04aTBEVW00R1E2RHB1TVd0QVpxbHV3a1hxY3ppend6VEdzSWYtZUphWnlla2VmUUxVRFl4NHJVYmxyeG5RUQ?oc=5",
+        "date": "2026-11-15T15:07:00+00:00",
+        "source": "Infobae"
+      },
+      {
         "title": "¿Podría la renta básica universal ser parte de la solución en una economía de IA?",
         "description": "¿Podría la renta básica universal ser parte de la solución en una economía de IA? DW.com",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3o2M0RqWjhNRmpzdmNhZGdxaWJSdTR3NUltVGllUkVtaUJPTXdxcU9URnJ0WFh5Y2NUR2hjNXVMS1dVVkFCdENxeV8yMTJLTlJqRU16WGIxcWE3Zl9OMWM1RDlnTDdYWWRDUEw1TWROQWR3aG5JUlprVERKVkVyejlxWmV3ZXFuclFiNkpRQ0pUT3NfZ1M5di1EY3lQUkFONlVLTVViM2dJZXdYNm5BOFJyVFFVS2s1VzlZS3NFVzM3blAtSFpmcGhnbUZBd1RFS3dBb0ZGSi1ZUURWQTh2MkFkVk_SAeQBQVVfeXFMTUg1VTdvNjZXV1pidjB0d1ZlaXFuVFhwcHp4clYwNXU1aEFUNjIxUWR2anVuSUFfZFFGQXRBb1I1VHBwSXY4Ukd5WnVvZno2dEY1NEFCN0hCR211eGxfRE1pTXJ6XzBQMEdLeFFNc3VfX3locjdyZlpaa3pDWktxd3R5ZmdfdDRmZzIwcVJlZmJuNHg1M1UwNEEwd2Z1a05XWndsX1lNSm9wS0MxMUNvbHdLWmJ3eHBteXpwNWsyWmswU1Z5ZVI5WURLRUN5SVZjZ1hJYVZsOEpsS1JOUzNDRjJZd1pH?oc=5",
-        "date": "2026-11-15T16:08:31+00:00",
+        "date": "2026-11-15T16:02:11+00:00",
         "source": "DW.com"
       },
       {
@@ -145,6 +138,13 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2h5eGluQVRsc3RGZENRZXJDc0d4ZVhDNzNQVXA1eTVwd3FEc1NleDkyYmR4eVh6eDBKRS1PR1J5cGpCR1JNdlBsVVZKR0dYU0tPWEQ2TjJLVXJubGZCRzFiWmxSYnBWTV9VSllwd0pfbFhSOWhSUExRLVB6QVFYM1BDSFNMbmFaQU95MzZwaXVJbkJmZEtqUTRRQXgydw?oc=5",
         "date": "2026-11-15T11:03:07+00:00",
         "source": "La Verdad Junín"
+      },
+      {
+        "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+        "description": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVhXS2tiWHF4Z3Nlb09OLXJIQVBKbGVhcXY0alFBS2hSbXRLNDlneTJQbDRXX0pCRW5Cc2kyeklGaDFnMUtyWHgzd2o2S2tvRjVFeWZrbWNYZ1YxZUpYRGYyY05lQ1hRZC10eUw0T2REdzFyMVd2alJHemwzcFVvUHVzVkNxT0ZMeGVOdlFCMzJ1bDJaOWlaQ3VrdTFEN0FWOEo2Q3gtLTdveXM5OWdDMDBsX0NQbF9oZnNhOXhwd2ljMFc0UDduUXpSbGPSAeABQVVfeXFMTjQ2YW91Y01wQ19XV1VKSHFZWWxsRGEzUjNNdk1sLVhCc2FnMDVsZUdGblRiQVBKV0RnSjRaZkpzNnlCODNhbFhHNWtwSElwMmFJVEpfLTQ3SEJhdlNQaWd0TkVKZkZ0eXczbzVUWlBJd2Y3b0E1dThmM0JQTkVPRkljM2ZGeG4tbklKekl6ak9BYi1xUl9DNGlyNVVSWE5vU2w2R1lvZmc2aWNRUEJPSVVhNEVOamJzSzZPUktLQzdGY004aThFc19uVElVN2pqRWdhQW0zRjg1YktZUUEyajg?oc=5",
+        "date": "2026-11-15T04:45:01+00:00",
+        "source": "EL PAÍS"
       },
       {
         "title": "Cada vez más platenses chequean su salud con la inteligencia artificial o en las redes sociales",
@@ -163,13 +163,6 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "De la Patagonia a San Pablo: empieza a tomar forma el proyecto de exportar gas de Vaca Muerta a Brasil",
-        "description": "De la Patagonia a San Pablo: empieza a tomar forma el proyecto de exportar gas de Vaca Muerta a Brasil Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakRrNmpUenE2aEp6dktucFRIbjRhYUw2TnQ3dlZsSmw5QUNERkl4VlBvX1QyMkowWTdIb0szczV5TTBkMkxQUjVSQmd2Q3M2U0R2TnpiN1ZEdVV3Wk5sRWR3cXZ6NE5hMW9MbWtTMFE4Qm8zdDRIUjFpLUxzelpib05qSXJYT2pVOG1wUU80SmlWNlkwY2U3RVpEWkxaeVozUGFsQms4UmxMa0Q3bnZiR2xIb0pqSkNEUlRNSkVzRENhNE9QSThMcHFYSGl6UTR5MTNOLTJwWlhOVFJBYllz0gH6AUFVX3lxTE5XY3c5ZUxWbmphWUQ1RDNBclcxbnlOTG05UzAwWGVDU1cxYlo0SkF0cGtMcUVEdXVCemlWLWluQnEwbHNJd3JMVVFlQ3FNc3ZHcWQ5UmRtYTgwODQ0VXlNOXlFN3M4bjNjN1hyZXZJRlFmUk5kd0hHSDNqcURfY2g4Si01ZEhhUDQwUlZUWFlCd1FYdW5iWjdiWnhzc3VmUFdCR1hHcV82VG9yREhjUVBGNTEyY2U1Tl80S0RRSXJpa3JlM3RGMi04akRrcDIteUI0a0FBR2dRa05TTVV6eWI0R3lfTGRpRWZoYVlZcm41bnRKRzRtbFQ4SkE?oc=5",
-        "date": "2026-11-15T16:34:00+00:00",
-        "source": "Infobae"
-      },
-      {
         "title": "Cambios en el mercado de gas natural: la expansión de Vaca Muerta presiona sobre los costos de extracción en cuencas maduras",
         "description": "Cambios en el mercado de gas natural: la expansión de Vaca Muerta presiona sobre los costos de extracción en cuencas maduras econojournal.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdUE4cGNRcTJkcGFLMk85eUdzOHQxRGJZei1JVG5ZeElpdmQzRzZnc3NIQWE4Qk03U2V3eFdiR1hDVldKdDgwazBYYVBKN2xyZ3NNNlZyVFJQSzNwUWZ6RVVURXI2RU5qZkNnRVdvdGtDVnF3YnhLQXpxSXNqSzZpbjhWZ3BWWnhlLU5ZUEl1dnUzakxJUjc0SkpmdGx4VUFGb1pCZWtxQllZU3NoYnVUZzdudDBmS0x0YnpCbGZBZFBhZ2JhdVdFM0pfQTJkM09RQUVIOWJNb213Um5ucHlsWDh1QllTaU5Wa05MSFdNTGIyZw?oc=5",
@@ -177,18 +170,25 @@
         "source": "econojournal.com.ar"
       },
       {
+        "title": "De la Patagonia a San Pablo: empieza a tomar forma el proyecto de exportar gas de Vaca Muerta a Brasil",
+        "description": "De la Patagonia a San Pablo: empieza a tomar forma el proyecto de exportar gas de Vaca Muerta a Brasil Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakRrNmpUenE2aEp6dktucFRIbjRhYUw2TnQ3dlZsSmw5QUNERkl4VlBvX1QyMkowWTdIb0szczV5TTBkMkxQUjVSQmd2Q3M2U0R2TnpiN1ZEdVV3Wk5sRWR3cXZ6NE5hMW9MbWtTMFE4Qm8zdDRIUjFpLUxzelpib05qSXJYT2pVOG1wUU80SmlWNlkwY2U3RVpEWkxaeVozUGFsQms4UmxMa0Q3bnZiR2xIb0pqSkNEUlRNSkVzRENhNE9QSThMcHFYSGl6UTR5MTNOLTJwWlhOVFJBYllz0gH6AUFVX3lxTE5XY3c5ZUxWbmphWUQ1RDNBclcxbnlOTG05UzAwWGVDU1cxYlo0SkF0cGtMcUVEdXVCemlWLWluQnEwbHNJd3JMVVFlQ3FNc3ZHcWQ5UmRtYTgwODQ0VXlNOXlFN3M4bjNjN1hyZXZJRlFmUk5kd0hHSDNqcURfY2g4Si01ZEhhUDQwUlZUWFlCd1FYdW5iWjdiWnhzc3VmUFdCR1hHcV82VG9yREhjUVBGNTEyY2U1Tl80S0RRSXJpa3JlM3RGMi04akRrcDIteUI0a0FBR2dRa05TTVV6eWI0R3lfTGRpRWZoYVlZcm41bnRKRzRtbFQ4SkE?oc=5",
+        "date": "2026-11-15T16:34:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Vaca Muerta pone al petróleo en la cima del comercio exterior",
+        "description": "Vaca Muerta pone al petróleo en la cima del comercio exterior El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGhBMnVMSWt5M1p1ZEppVnIzb1h2eGpueFlkMHMwS0FjTU95c3ZIZFhOZFM4Y1BYaHBPZXM4U28zTmZsRnBySThXWUJSSEtoX1BCNF9xeXQwSW90STVFY3o1NXZnNWJJN1hrYlFXd1EwUWdpcjBOWEhqMmxsV1RVRGw0V1pMb21FbVF6R0hDeFYtR0p0WGFIMTdaUzFtYXE5Mm14ZjBiY0N6Q19GdGYxZFNUYkJ6LUZ4b3FWeUdBc1A4QQ?oc=5",
+        "date": "2026-11-15T18:56:57+00:00",
+        "source": "El Litoral"
+      },
+      {
         "title": "¿Dónde están los dólares de Vaca Muerta?",
         "description": "¿Dónde están los dólares de Vaca Muerta? Página|12",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb1gySXVDUTBIZnJBQ3RBWXlHYzRmMG05ZEt6VFp4b2EyclJxd0szcHB4MHdNbnZGa1FfTDF4ZFdvbGJEWEloTkRiQVFMakM4OTkxZllqRWprRl9FeExqM0o5ZHdsaUFUb0lmN05mTUFDYVhJbUF0LUxSY2NoQWFNVWdRMjc?oc=5",
         "date": "2026-11-15T11:20:00+00:00",
         "source": "Página|12"
-      },
-      {
-        "title": "Avanza la ampliación del gasoducto que cambió de nombre y puede dar vuelta la ecuación del gas natural",
-        "description": "Avanza la ampliación del gasoducto que cambió de nombre y puede dar vuelta la ecuación del gas natural El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNckdCUWZDT2hRWmNvVDFzQ09CQ09zOFVjdXdzRm55ZW1tSTgzdUNsNGw3UjFKaXRlejNKa2JMZEg1SWdCQV9GTzNVeGxJYXQ2UFpjNDY1QTQ3TEY0Z0ZsYXEwSGd0MVhfR1ByclNGZl9wTlkzUDRnbWVMaXZGQzUwazRmcXF3RnEwdU52eVNPVlBfSjdGZzZMTWg2cllVQTlTYThmY0hua0V4WVA1Qmg2cUplMzl3N1V0cHk3ZThUZENzc0s5RmRndmZjWVVLR2lmRTFCVmFYc05sUzE1dG16YmxKUmdCT2c?oc=5",
-        "date": "2026-11-15T10:05:09+00:00",
-        "source": "El Litoral"
       },
       {
         "title": "De Vaca Muerta a las hamburguesas: el desembarco de Manzano en el consumo masivo",
