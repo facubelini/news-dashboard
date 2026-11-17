@@ -1,58 +1,72 @@
 {
-  "updated_at": "2026-11-17T10:00:29Z",
+  "updated_at": "2026-11-17T19:30:49Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "La caída global de Microsoft se debió a un fallo introducido por la compañía hace meses y que tumbó el 80% de sus servidores",
-        "description": "La caída global de Microsoft se debió a un fallo introducido por la compañía hace meses y que tumbó el 80% de sus servidores EL PAÍS Un error de julio que nadie detectó causó la caída de Microsoft 365 que duró casi 24 horas Infobae Microsoft explica las tres causas de la caída…",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeGt3R1AwU1E4WXN4Unk3R0YwRGpYMjdhMk44ZEZvSXFOY0I1dVNrZFFFVG1tam9yaDlCbkxzTVZIQUJyajhaWVJRdGpxcS1WQXdCM2Jha2lZaFV3b2xXWHZnY0tTbkRDRHhxRmRfMlFpaEh2dEdxNHlvcGF4U1hlVXhkTFNubWIzQmNFcXNjM3RnaVJZZFMzdndWR0pRR2NvRnptMXVZY3lJUWtESjNqY3FucURCT21NZmYwNndqZkRKY2ZqUktWdnBRUTFzSndBSVlRZ1VGcVZvbjlBSng2ZmJudHdRZ0E4R3Rfdk91bGpUak1HT3REa1AySDRRUdIBkgJBVV95cUxQY3g5TDcxbHg5STNjTHBXWGQyaDM1NmlEMFVscWpUMEgtajZqUkRnc1NpakJXZEhjMmUxYzFvb1haTkNfVU5TQmczSHpTWF9XU21abHJFNDdFX2huOE1SV1FsbDZWSThmNWh1SGtvTldmVG1LUEtDUUNIX1hMVmJRbE9FV2dkb1l2ay1lYk5SUUxyR1F3bDhzajJaRFRZM1F0SGRrRWVKbm5Vem1fdjFVdDByNWIxdDlyaXVDU0VaNlhsTHRaMWlncXJnc09aY05TQ01sUEFMYW4ydEQ3TXdia1V2ZHZsbjJVd2dlNWp6dUxRVjJxY25ibHpRTUM0aTJtdzY2S01sM28zS3VTaVNZSXlB?oc=5",
-        "date": "2026-11-16T09:59:24+00:00",
-        "source": "EL PAÍS"
-      },
-      {
-        "title": "Tito Arciniega, Presidente de Microsoft Latinoamérica: “Cada vez más, el mundo está hecho para que un ser humano sea más independiente”",
-        "description": "Tito Arciniega, Presidente de Microsoft Latinoamérica: “Cada vez más, el mundo está hecho para que un ser humano sea más independiente” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY0lndVpodEJucXlQcV9ZUkkxYnk5am5pa1N4M3ZXNDVqZV81VE45OTFoUm5vT3hYTmlPdzV4UXoySnl6SEFtbjhRNDdxQnU3dDF5cEx2NEhMOURGWnJuaElHbGdCaWNVV0JlNWhuajNKYkFUc0w5SFBpSE5mY2prcDlkUWQ0OGNBR0lmRHdSVHBMWDRGNnQzZ0R3NnRYcjFyRjJCdy1LRXp1RE1TbjRISVBiSks5TmZRdGNhTVRNVHYtSmxPZFh6MGVGSnJ6RVRSUlRZWmU0eHFtSDNJRnVjbVJxMA?oc=5",
-        "date": "2026-11-16T18:38:00+00:00",
-        "source": "La Nación"
-      },
-      {
-        "title": "Microsoft confirma que Project Helix ejecutará juegos de PC sin abandonar el formato consola",
-        "description": "Microsoft confirma que Project Helix ejecutará juegos de PC sin abandonar el formato consola Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTEtHeXU1NzBzdDhPc1pGRmIxYnAwdzVaWnNfTHdyOVNJX2QydXRlOEl3bjhRT08wVks5aWNtNWFnUWU4N05oVEpZV2NKUFp6U3MtaFdUUjZjZm9lbEJncFRuSWs5VUM0S2Z5S0VBM0s5WWhJVVVXcWZjQ3FXSFB3emh3dDdKdnRRaURLVkduRGdkeEpjcVRuVFhNR3A0MF9RZ2oxMy1iR3dRMWJsX3Z4XzlrMGh5UWtETTNzTUJ6VnZBWlFxWEdfTW5wcDFfcEtCRzk1LU5WdlVPLXPSAfYBQVVfeXFMTVpBRDJxNFpoVUlTei1FLUx1M3pZeXptV09VSlhYNmlfa0Z5OTZxVXpZY0M3SVFOX3ZaN29MVTJUbE9CM2Z5bWctdGh5Vk1xMWdyUjFvMUdkQjlrcm1QZ1ZqQ1lFZ2dWR1dCbmtQbnVMTHB5MTJWUmttRFhzVnh3Y09SNEZPVURZSjZEYzFfSC0xeHBzcDJjbDE1ZGtmYTEzMzNwTFhJejRTREJySk5NRU81S2kyVXpaRWtvMDYzUEdJUVdYbk5PMXRnZ29WVF9QdC1qVVM4Z2Q1d3lzVDZiT0pmaGFtcDVibUtvU1ZYbVVGNldEc0dn?oc=5",
-        "date": "2026-11-16T17:31:00+00:00",
+        "title": "Tras falla en los servidores de Microsoft, se reanudaron los términos judiciales en los juzgados de Bogotá",
+        "description": "Tras falla en los servidores de Microsoft, se reanudaron los términos judiciales en los juzgados de Bogotá Infobae La caída global de Microsoft se debió a un fallo introducido por la compañía hace meses y que tumbó el 80% de sus servidores EL PAÍS Microsoft explica las tres…",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONDFhVmhRR3FjeEg3aVVzbUUtQU85OXlZOUIyUUt0NV9TWWZ0ekRNUmlLalljTFZHMkVRaE56eGtISmVUTEJGbzROaE0weEZzdm1wbGNqVVU2YUwxM3JkNGJKMWxMTXpNZXJ3Q1hFZHliSnNERlVyZ1FfZ2gwTXhsRTJqSF8xaXNxQld4MUwyaGxTUWZjUEdpTXpfUkEtUmU2eFBDaVVuYzhURFIzUi1GVWUzRUExMERaaDladFZ3X21nLU80OE9JQmdOMlNyTnBDc2IyNkpYRnFCZ21lNEJDME1XTjDSAf8BQVVfeXFMUG5Gb1R5S25aMlVYX0hQNnNPYXlwMmxhYzFxdUd5Mk5INnpkRGFtX1BtcC0xLXFOeE82U2ZNa2JVZFJrc18yQndNc21OX3puUHhpTW1HRS1tU0g1Wl9CS3lwQkJhblgtQkY0TVRzdmlXQ2QwU1AtcXdwajlQa1QwV21ScXJvR0RWX0hiV0lGNHo4QVRYQTdPdjRtWGd2czBIYXQ4N0JIdnJGR05IeVI1YlQ1SllGWHVyZC1NUExuc0NCQVU1cEpONTRXZXQ0VWVWeDBOdGhSNVdrZnB3SXR5aHJqOC1OUWs2ajQ0aGRFVTFvMXZ2bzYwZVFDcnFIWmVZ?oc=5",
+        "date": "2026-11-17T19:01:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Primero Microsoft y los aeropuertos, ahora los bancos: otra caída por fallos de software sacude EE.UU.",
-        "description": "Primero Microsoft y los aeropuertos, ahora los bancos: otra caída por fallos de software sacude EE.UU. Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFRwbklRMlljTWt3SWdOa09ReGhHTG50ZnZJMUlfOXR5aTEyRFRtTkN4b1lGbmRqbk1JeGNUOXdjejItTTRnbUlRTUpTV3luOGNhRzRhcnVFam9rRWRBcjlZdlU2eEhEaEF6ZjBlSlRyWnhYLVFkNUNGanRWaXZxQXNGYmZkQ2x2QkwxZGRYUlRUQVZGc2dB?oc=5",
-        "date": "2026-11-17T05:44:57+00:00",
-        "source": "Yahoo Finanzas"
+        "title": "Por qué la caída de Outlook le trajo problemas en las vías respiratorias a turistas en Alemania",
+        "description": "Por qué la caída de Outlook le trajo problemas en las vías respiratorias a turistas en Alemania La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHhZWVJ1MlFHNVZYbXFkQl9uRnI3bC1MTnY0YkwwV1NVY2NWR0JNZHNyRU9ERW9WME1pbXVwQ1h6eFlrSnRSUTlqVE9TV205YUdWNFNQdUltZHlyZnBFNFAzZktDUVh1cjEzTEpsNzl3RUMxZUE4aUVkVGFKUjhfNWxWVnp1eXBJUGdTa2tmUDNyOWRwV1dSOGZUTzhlbFZickNQUW9YeHF3a0lUc1R4Q294TGVhTXFNQ1UwekQ0ZXVCSXprR2hkTHl0cnBCZWluMHY2WVRNelZ6VXludktMVA?oc=5",
+        "date": "2026-11-17T19:18:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre",
-        "description": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDJJb1BsZFZTakhUVzlrYTFVZ05PZGhzOTZSTHBPMjFGc0FwZ1ozV0hIdjk3b0U1ZzJtVUFuWDFHYlNvTnVVd1UzWVdsakFWR09DTDhjZC1tT0xtZkxHMzJ6QTd1MlV1QVJJMFoweGltT293SWdnREV0SXE2OFNab19aZEVmbTFIM0NKSjVjUUhxdXlQSUpETnl3T2Nwa1paYTFSdmR6N1o?oc=5",
-        "date": "2026-11-13T21:18:00+00:00",
-        "source": "CNN en Español"
+        "title": "MAI-Image-2.7 de Microsoft llega a Vercel AI Gateway",
+        "description": "MAI-Image-2.7 de Microsoft llega a Vercel AI Gateway El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeG9sQUtsbmdSTmZkRHhPRzc5YXcwdVZOVjRrTS1KTzNVZGsybFh5N0dnQnJmWDdMWW5NS1p3cFpYUWwxN0VrNzdEenJpRlJZZEZFelY5QUhKYkN3VS1lYllBYjhzSE9RR1Y0bmpWcTd0SXA4SzZGRHdDMm1qXzAxcjEtWldmLWJpWEVZ?oc=5",
+        "date": "2026-11-17T18:33:31+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
-        "title": "Euro-Office, la alternativa europea a Microsoft Office ya está disponible para descargar gratis en versión de escritorio para Windows, macOS y Linux",
-        "description": "Euro-Office, la alternativa europea a Microsoft Office ya está disponible para descargar gratis en versión de escritorio para Windows, macOS y Linux Computer Hoy",
-        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxORU1XWWFyT3l5dmtsWlZ1MHpmVGxZMnpCOGh3Rmc2d1FLNFJnTFNoR1ZJdUhVbFRGZk82TFZ5S3hnQS1EeG9sMmZYMTZwSG9ER2Z1UHNOM0hHSmZhcDJhaVFmTTNiaE1yekl0R0lPV3VtUXNLV0xwV0w2Y1RZanRGUDIxMm9JRjZzdkVtbm4zTHhYcDRTMS1QbXpPc2dDY080YWZ2ODktR291YmhadHdVaU1GUXBXM3M2TmhHYmltMGRJb0RLdkVXVm9aRmtfcVR2THlNSWN0bUx2Ym5MNW5fczM0dUk4M0kxQkJ5STVva1dJa2ZJRUE2U2VBNmJzNnBUcS1tdFA4cFlUX1M5YlFfdTRMNTNrU2dlRkE?oc=5",
-        "date": "2026-11-16T10:19:29+00:00",
-        "source": "Computer Hoy"
+        "title": "Proyecto Helix: Microsoft reveló más detalles sobre su próxima consola - TN",
+        "description": "Proyecto Helix: Microsoft reveló más detalles sobre su próxima consola TN",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzd5RTJabkhDU2MxRFV2STRfLWpjWUlfU2pETENSVU4wZ0VGd2pwbVZ4NTFjaUpueGlkVnZVUHJ4WGwzZXo0R2VDU1BPOWNXendBQlN0Z1FGOFA0YmxlOWdHaktUdDZhSmgzRXJvUzBqTFA0WUhJUXVrcXF5Q3c4b3VMNTRGTF9HUUZUd1dfaEYwYlU3OFpDQWJORDA0b2daZ2t0RGQ3R0xXcmE1c3fSAcIBQVVfeXFMUElLcENkX0JKWjZkM2xOVTVqN1ZnYUhyZkZTM3d5RHo1VlFkQmhTWFVMbUJUbVl3MWNPZTlEd3Q0REpJWmtvQjJCaGVPTmp2UXBHX0l1UWVQb0tEX1huYWUyUmVvRGl1TGdDenVub2RxU25rU29kRE1RaFpkVmZCdlIwREN1akJTcVFHSjVTbnJTT2pCTnBuVFRZVkN3ZTR3aHF1c2xGdWN4YWNRNDBCeXp3NTVnaGJOaGk3cVN4QmJmdUE?oc=5",
+        "date": "2026-11-17T14:55:49+00:00",
+        "source": "TN"
       },
       {
-        "title": "Fallas globales y avance de la IA: las alertas por la creciente vulnerabilidad tecnológica",
-        "description": "Fallas globales y avance de la IA: las alertas por la creciente vulnerabilidad tecnológica Diario Democracia",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnh5SmdlVVVRN2JRTkdFanhxUlVhc2xHX3FkaUVsRVg3c1JyN1VrTXpRVC11R1VRNGVOX2dpYk5YWVdHOTczY3Z4TmdCb1ZDZVNrWjZ5LWhWLThvVDhJTUFzNGJyS2dWWWxwdFV0LWlQUUx3c05QUkJlMFBhTFVIdE8xVTdHbDJRbWZaZXB4cjJQWTdfVGRhQW1IalZFcEhVeEE1TUlEWEVPQQ?oc=5",
-        "date": "2026-11-16T15:05:14+00:00",
-        "source": "Diario Democracia"
+        "title": "Microsoft mató las apps de Android en Windows 11. Un proyecto libre acaba de resucitarlas",
+        "description": "Microsoft mató las apps de Android en Windows 11. Un proyecto libre acaba de resucitarlas Xataka Móvil",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUF2c3dMYm5MVEtPUm1ESmhSdkg2YVVCcUVzUnNCVnNmZWh4MkIxMnNtUDRpOG5oNmNoMWpFZXUzRHV5WWJtV1UwTWVvYWYzTU53UnpxX3NPRDVmYzVqZFdsdWVtWDB6Rlc0cl84NlhRclQ1SkI4NDF6eFlvYU8waUE2MEpNZDQ0Z2NGMnBDLXRxZVdLZHFSRFR3V3I5dlZ2QlQ2ci1BRWtnekFTN3I2S3U2VdIBuAFBVV95cUxNd1I0UEVOUm9vdHpCZE5EXzBfZ2tod2NUSWYtRG5POGFrdUtSNlBtS0pmYUZXUTFLa01SNXJsdlJZWVVKQjBka0VXZUtudC1zYkJMZDFoWFh5azB3a2xBNUdkVjRQTlA2bkNnR2tFQW1hQXhvS1hJMWtQQjBhT3ZzdlV3dndiX3VjQzlqM3JadDZPa1FtQXlHYWlHRnpYZDhRYmwzdmlvV1RNWEVvdUVleFU3QU05WnF0?oc=5",
+        "date": "2026-11-17T11:05:21+00:00",
+        "source": "Xataka Móvil"
+      },
+      {
+        "title": "Nueva caída masiva de servicios en EE.UU.: ahora fallan los bancos",
+        "description": "Nueva caída masiva de servicios en EE.UU.: ahora fallan los bancos Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVXdWQXJZNlhoSGhQaE9yeGhnVkUxbHFtQURhNXM2Zk01eUhYeVVrWjFvV09rTzhPX1pybXp5ZlBVNmE4d1YwcVBHQzRNVmIzM0o4dFFHVDdiejFuV3VRX251VTJQbU5CZUVJNmw4NS10SnhEYjByT1JDV1ZnMHBGLUI2RTdPWVRkS2Nqb0ppazFVSzFpWnRXN2lsQktCQjY3bUE3OV9EaHgyTzVYN2ZNVWM3Qm9sd0U?oc=5",
+        "date": "2026-11-17T05:26:25+00:00",
+        "source": "Euronews.com"
+      },
+      {
+        "title": "Microsoft corrige errores de activación de Windows",
+        "description": "Microsoft corrige errores de activación de Windows MuyComputer",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25sZHZzQTN3RWg5Sl9GZUl6ZU5TWU1yMHoySUtIMmdwRjJBSmNMMGctekRrTFBOSTZQanpMemNaaDU0dEdfS2lUd2R3M3BXSUJaM3Q4QWZnVk1HbG9yWnFwbklpbG96SDQxV1ljcVlPTlk5VGU2Y1BiVFkwckxOYk5meDUxd2dWdXZVOGcwWm42UjJobkRXNEpyTWJnMnBnaFZYYlBTNFFfVk9FNDZZcEQ5ajB3M1JxRlFaeHQ1UVhvdmFo?oc=5",
+        "date": "2026-11-17T18:40:53+00:00",
+        "source": "MuyComputer"
       }
     ],
     "Marketing": [
+      {
+        "title": "Se realizó una capacitación sobre marketing digital para potenciar las ventas de emprendedores",
+        "description": "Se realizó una capacitación sobre marketing digital para potenciar las ventas de emprendedores gualeguaychu.gov.ar",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2ZxUWM4dEJsUUFBbmVaWVpXNmRENnFKZjR3OFVIMzlfaFNjVUp0QTRNRlhBc2pYaXpTR3duU1hxM3RHSGROTm5jMnBOVkF2c1cyRXhWZFphSm9xN3Rkbnd4RU91UXFHUTlwZ3RZakpnNGdIYV83ZlJyd2hVTFFQQ0ozSUxNY1NTdlozZGNTTWlROUxGRU12LWlheFVIVnZqczY5V1pPZnBlVW1Jc1NNMHRtSWVmOXZoMlM2UXdwNmt3ZnZMckEwRk10dWZVamxLLXc?oc=5",
+        "date": "2026-11-17T13:28:13+00:00",
+        "source": "gualeguaychu.gov.ar"
+      },
+      {
+        "title": "Seis actividades para emprendedores en Tucumán: cuáles son gratis y cómo anotarse",
+        "description": "Seis actividades para emprendedores en Tucumán: cuáles son gratis y cómo anotarse La Gaceta",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFQ2M2ZFSGhwX0dLV1dBMWhRR0c3cEVkeVo0dVJWX3VUeEZLWjlzYkNiX01rM1ZHWU5pdnRqemFHcm5VUXZhbUJXTU5fSDNRbkFEWm5kWmc1ajN4TXFhU01lelJDelJldUI2c2VtVWUxcmJOckRxcWx6ZkxpUXc1dldhbTBlQkM5eWdUblk0S256aU1KeWV5aS1JbzBBcWNQNi1WU2RaVUpBQTA5REt6b21fc3hRMmZneVJ1OWF3bTVGZUNhVVhzLTZR0gHPAUFVX3lxTE91WVVtZ3RQYk10QUZ4UGdkWHNBdVZidTI0QXMzNGliSlFtczh4OXdfampVSnczWU1DU3gzX2RVcExFVkhIcktKOFRpanRuSUI4bUdkWlBLTnNPRGg1RkwwaW5rNEtqNTVfdUdlbmx2VTdWaEJadU14VV9oNU8zNk5JYnZjbWlMMWhBc2ZIVDQ5bnpLS1A0NDZXU3RMelZNV3FaekNVd3drSUJiZjI2SE5fX0lfSU5BUzlDa2RrRjd3M1ZjNEEzTU0zV1FVaGxrTQ?oc=5",
+        "date": "2026-11-17T17:28:58+00:00",
+        "source": "La Gaceta"
+      },
       {
         "title": "Beatriz Castillo asumió como head of marketing de General Mills para Latinoamérica",
         "description": "Beatriz Castillo asumió como head of marketing de General Mills para Latinoamérica Marketers by Adlatina",
@@ -61,10 +75,10 @@
         "source": "Marketers by Adlatina"
       },
       {
-        "title": "Advolution 2026 reunirá en Lima a referentes de la publicidad y el marketing digital de la región",
-        "description": "Advolution 2026 reunirá en Lima a referentes de la publicidad y el marketing digital de la región Insider Latam",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHNTQ2V2U01WbHc2TzU1MFpEXzNGVElGb09mYUhIT3E2T19DcmstcDQzWHJZRFFZZGNDcUhUb1NFamdBSEFtWGFfWlBidGZYbmxKLVFoZjE4UXpUamFSVl9DajZON1VrdFhLVDd0NzlWSFRjR3FuTjdHVm4tVndJd2podVB4WndtMnFzdUtmV2lkR1Y3V3BRaXlHZEx5YjZIQnpHR3pvRnp0WENwOER6cnZKaVRjUHhuaXlEOGxLTDU?oc=5",
-        "date": "2026-11-16T18:22:30+00:00",
+        "title": "IAB Perú cumple 20 años acompañando la transformación de la publicidad digital",
+        "description": "IAB Perú cumple 20 años acompañando la transformación de la publicidad digital Insider Latam",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeE9JWk9SX1FidEVUZG1BY2hYX0txbjZMOUsyZWxQa0tERkZMRk84TGFRdndaNS1xVnc5YzdyRVlRdURlZkVPelFuTHRpWUJNTFluR2lPellYRUQ2cmFxRGtUbTZ3SVZPMWNNcW5sV0kxLXFZbUlOYVZubmtwbmNXV2xwNV85ZVhCTWpOSTZSdzdWVnl1STZaV2pvelppQkZkbnlvREYyQQ?oc=5",
+        "date": "2026-11-17T15:48:26+00:00",
         "source": "Insider Latam"
       },
       {
@@ -82,48 +96,41 @@
         "source": "Agencia de Noticias San Luis"
       },
       {
-        "title": "Francisco Bautista, experto en marketing: «La reputación digital es un activo competitivo clave»",
-        "description": "Francisco Bautista, experto en marketing: «La reputación digital es un activo competitivo clave» Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNTlvbmd2ZHZ1d2xTWmF2QmhIRTJZVjhDN1lPRGh0RVl3dkRhN2pVYmNLWGpOMzdEaFprMUc0bG0zLXJNV1JPOXBxNm1Qcnd2RkRMbkVxY1FaZDJtTjBYV3N6Wk9FSzJUS3FFQTZ2ZXprS0MzbF9MbmtGS3hGb1R1VTh0dFQtdlphYUx5Yl8xdVBPb2ctWUR4aEZnNEFxNDBSM2UwaGpZNlVWRWIwMjliaFNRTm91NWhRUGNJUzZhQ3JPYVBrTVkzUkJyazd1V2tPZXRNb2hBaE42cXM0czBSQUNn?oc=5",
-        "date": "2026-11-16T11:56:00+00:00",
-        "source": "Investing.com España"
-      },
-      {
         "title": "Estudia en Chacabuco – Diplomatura de Extensión Universitaria en Marketing Digital (UNAB)",
         "description": "Estudia en Chacabuco – Diplomatura de Extensión Universitaria en Marketing Digital (UNAB) Gobierno de Chacabuco",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXhFUUZzS1FCQnpaQXpXZGZHUmNTQ2NPdC1OZmI4Mzc1ZzE1N1RjMzFxbjFpTmVKQlN0aGJWdDJkdXVNVFJKVVFoMXAxOWdtS3ZUbHBsbC1sSVhRU0d1ZkRTN05WMmUzOWQ0T3BmRWdIRlBmTGlfU3F1eFVhdEZLZTVPZ3BSamxBZ3RneEh4cWZETlZMenZibGVkeWJzWEowS1JkMWFPaEdjLTBOMGVXRg?oc=5",
         "date": "2026-09-01T07:00:00+00:00",
         "source": "Gobierno de Chacabuco"
-      },
-      {
-        "title": "“Impulso Emprendedor” y Gobierno Provincial capacitaron sobre Introducción al Marketing Digital",
-        "description": "“Impulso Emprendedor” y Gobierno Provincial capacitaron sobre Introducción al Marketing Digital Gobierno de Venado Tuerto",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWc0NDJCNTcxMnJ3Z1Vkczh2VXRyRTJ2S3dCTkFmenc2Smtydk1tWFlJRngwOVZubE1lVDE2d2lISEhlVGFKTmk1ZV9TQ0YtWHJrREdyaUd4XzRnaWNTeFU1Z0NqazRIemtBVjZBR2tDTGtFcjJYcUpNbmJxbDFNMk9mOEEwVHp4TVByXzY2ZHprSGdOcG5ON2dsTzhNYW1Gak83bnI3MTB6YkI2WnB4aDBibDV3UnJlZUdfZlBjVi1aYzFXaTNFcEhiRWVvdw?oc=5",
-        "date": "2026-10-22T07:00:00+00:00",
-        "source": "Gobierno de Venado Tuerto"
       }
     ],
     "IA": [
       {
-        "title": "Los resultados de Nvidia quedan en segundo plano mientras la destitución de Huang domina el mercado",
-        "description": "Los resultados de Nvidia quedan en segundo plano mientras la destitución de Huang domina el mercado Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ05iNHFCZXE2Yk9ER0dDbnZpSWFLazJuM1VtdkNVeGEzb0k2V1FscjhYZmZHNFctMHBLM1hoMG1mRW9obW1oR28yLU9PaEw0VlNPaGg3MEsxTTFwUmYzb0VDQ3AyQ3ZzOHpqV3VkS084czhrODh1M1ZlQTZVd3U1TW02UXZDQkhFa3VCWjlwREFJTjhkN2tIZHk3U1o3R0lOV1BEX012aDc4Zl83bXF2SnJyeGdhZjFwZlRFMFVDMFc4MkgyT1NZRkJEZlYyQXdmOGp4dWNwb3JVeXhKcWQ0enM1b9IB_gFBVV95cUxQVWI4RWJ6SGx5d1hBSHgxVF9DeHY4UEtwT1pfYk5NdEVnVnhPTWRJYXNlNXRVakNNQTRjclV5WlFIZU5DSEt1NGMyOE1rVXFZZ2NobzZBV1drUzVSWjVySW42cklEczZaZGF0WFZ2NmsybC12YUN6VS1sZHJ6UE9NRHRsblJmRTNyaWY1QkIxZnlEOUtfd0h5ZURpQ0tRWjB5SDAtQ1FiSTRBSjRaaXA4cnI2SzFJVjJsdC0xTEFXOC1heWlEV1JTV3lSMEQxd1ZtVzAxRFZFN243UE9qTHkwdm1aejF4RjNpaHVyVkZobUxQaWlFck50Vk4zNmx1Zw?oc=5",
-        "date": "2026-11-16T22:49:00+00:00",
-        "source": "Infobae"
+        "title": "» Conferencias Internacionales EEyN: Aldo Geuna analizará cómo la inteligencia artificial y la supercomputación transforman los descubrimientos científicos",
+        "description": "» Conferencias Internacionales EEyN: Aldo Geuna analizará cómo la inteligencia artificial y la supercomputación transforman los descubrimientos científicos Universidad Nacional de San Martín (UNSAM)",
+        "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbmNGWG9fSkR5X0JBMm5zWmZ5OTJkcmVDWnd6cDk3akpRQUlfZ2tRYzBXSFFhNk1Zd3J5QjZscEk4Smc4aDJ4eU41a2xKR1hlVnBRTENfc2NublktMVNkbXZ6ODU2cGNCRkxQTV9ZZk1aZGdPTkMtX1RBNmVMSjRpc3B4SjZMXy1HUjhWa3QwdEpGUzdrN1NCb2hUTkVkbTdMMkdPSnJlcHh6NUJsUXRpU2hKbHBJd3V1cEZScW41Y2hJQ2ZIeGszTV9jS1ZWdzNtWkFNRFl4bUkzNnNQVUE4bUhwYzZhZUN5WHVIZTh4aHVtY1BxcXA4cXN3c0hUUXFaOERVYzhZamZqV0JIUjY4VXhpQUVoZFJOSFp5dTBSWQ?oc=5",
+        "date": "2026-11-17T19:27:46+00:00",
+        "source": "Universidad Nacional de San Martín (UNSAM)"
       },
       {
-        "title": "Ante el avance de la Inteligencia Artificial: con el miedo no se juega",
-        "description": "Ante el avance de la Inteligencia Artificial: con el miedo no se juega Clarín",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnhwQ2hjMjRSQV90T3JZalI1dnVscFBlb3RHWlhyTnVtTTNhOVZQNXZwZW5RZ3NsNGQ0MlBtanBNdVFna1BJZ0FKMGdKTWJmb2dqZ1dmZnlIRlduTFZXMEZKb0JhSWJSZl96UWRQYmw1MVA3VjhlNF9QTm5hVFVuM1NQdElyenFreDJmLUJ1cHRVS1p4ZlE?oc=5",
-        "date": "2026-11-16T16:38:49+00:00",
-        "source": "Clarín"
+        "title": "Desnudar con inteligencia artificial: el nuevo bullying que llegó a las escuelas y pone en alerta a los adolescentes",
+        "description": "Desnudar con inteligencia artificial: el nuevo bullying que llegó a las escuelas y pone en alerta a los adolescentes Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUY2Q21maHFhZVdGVFdTV1FvWUZIWW5wLXdYaTVRTUYyc0ozaHNyRzlpTWZoNGVqRm1TNy1aSFZ1Qzk4VkgxNGxjNzAzT1FrdWhwclZNMm1aSzBJY24tSTBiUGtKVlRhWTJvRjNIQy1Uc2ZaVEp4MkJnNUVyZ0ZLMHpscEtnbGhTaTAtdXFJeXd1TDVwNWR2Vml5UkkzaThZUThsS0tRZU16d3NScnh4Y3pnS1BoVHA5UzM4T19iYkZOZHRDdEpoZUJOTjN6ZWptd3NR?oc=5",
+        "date": "2026-11-17T10:00:09+00:00",
+        "source": "Clarin.com"
       },
       {
-        "title": "Los gobernantes del mundo piden por una “IA sostenible”",
-        "description": "Los gobernantes del mundo piden por una “IA sostenible” Página|12",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSE9GX29rbzRZZGI2aXpYcFVNQmV0YTBjN1JicVZIVU0xUEdsRkFlQ0drNzdTMXMtUGpkYWVPQ0ZmdEhfTTJaSWtIY3ZoNEFfNk9oU2FtdG1wdmhZclI4MHBreG9BdWkzcEtVSmttNE5sX0ZZWElJY3IwdUZtOWIzQlRLdm4xejFEU2h1ZmRpSzhITzRMVFdGVQ?oc=5",
-        "date": "2026-11-16T22:01:00+00:00",
-        "source": "Página|12"
+        "title": "El impacto de la IA en el acoso escolar",
+        "description": "El impacto de la IA en el acoso escolar Consumer Eroski",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb2l0LURfYlpDNEhiWmxNR2x2V1cxU0ZnN1ZyUmdwazZXNTdUR2xDckVZV09ZU2pEeHJKckJvNXEzamlFejBqSnZnbzNYS1hrQy1MMkFZLUlDR2Y0UTVHbGNLQ0VwaS15azJjTmhrdWx6TkJfTnZhcTQyX01WMXFNVzZBRjdJUUlXY2tV?oc=5",
+        "date": "2026-11-17T12:04:37+00:00",
+        "source": "Consumer Eroski"
+      },
+      {
+        "title": "Desnudar con inteligencia artificial: el nuevo bullying que llegó a las escuelas y se multiplica",
+        "description": "Desnudar con inteligencia artificial: el nuevo bullying que llegó a las escuelas y se multiplica Los Primeros TV",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWkh0WFZmbWpXeEdCbFd4cXB4Q3pnaG1OTzVPZkk3NzJzQ0tWWktWeUxFb096am1Bdk9ZbkFOb1haQ1JlOWotWUlnQzdreEJGdFFSdHV3aVBrcUE3LW1nRmoyNWhQVmZweWdUWHFBM3RoX3lCcW9lU2d3c1YtZ1JNdnRISER4S0ozVzBmYnVWWjczVGplejYyazRUaGZDSFJFZUpidUNiOUxsai0xUGpEbGYyTUl3ei00enMyaGxTSTVHOS03WkJMbVVhVy1LYkVOQ3lJcnZTSnhqRldFZlV3bVlRQUVraVJiMjVsMGY1V2RrUQ?oc=5",
+        "date": "2026-11-17T12:48:20+00:00",
+        "source": "Los Primeros TV"
       },
       {
         "title": "Nueva York le puso un freno a la inteligencia artificial",
@@ -133,48 +140,62 @@
         "source": "La Nación"
       },
       {
-        "title": "La tecla off",
-        "description": "La tecla off Revista Anfibia",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UaDliV1o4SGJSNm5FSkI4R3Vob3V5WTJBUHkyU0RveFdHdkx6TVl2d2FLaTNNVmFlWXBrb0ZDZWl4RnQ5Y1dyNVBWZGpDM05ReF8xb2RtY3NYNThyVWh5a1JmaHczRGptYV9aSmJka1NLN2M2?oc=5",
-        "date": "2026-11-16T19:57:21+00:00",
-        "source": "Revista Anfibia"
+        "title": "Academia BA Emprende presenta un ciclo de masterclasses sobre inteligencia artificial para pymes",
+        "description": "Academia BA Emprende presenta un ciclo de masterclasses sobre inteligencia artificial para pymes Buenos Aires Ciudad",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDYxeFM1OGpvWUtJTHczV0h1RVpXeWdMYnF6d3MtNWNEUnpUT0tFQUtrZV9tcjU4dHFuemZWTF9WTFpaOTZmMUhBX3ZxQjRsa1FHeXVhNXZ5UEp6ZVdTOUNmclZmREtKYVZZMzk4aWM1VS1PclBOU0YwX0FQZTJscWpLMko4NjZ5cmoxNUpuSlBCRXF2VnVkNXVjMVVRcVJhNVdNVHdsUnRNTV9EclJhNFNPSXZ3SWhsUnRrU3U2czFDakVL?oc=5",
+        "date": "2026-11-17T17:14:30+00:00",
+        "source": "Buenos Aires Ciudad"
       },
       {
-        "title": "Mientras los estudiantes usan IA para solicitar ingreso a la universidad, las oficinas de admisiones buscan adaptarse",
-        "description": "Mientras los estudiantes usan IA para solicitar ingreso a la universidad, las oficinas de admisiones buscan adaptarse CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWpackVvUnJ6LWVxR0E0dHFlb3ZJeHVSUW1OVTJ5bEVyYnlOd09qS29Ccnp6MVZScFhpWkcyYV9wdGFQV21SMU9OeDBicklYN2RFams1ZVJmME1qbzNVRm1NNTd1LTNrUnkwbEt0SXptcW4xbWpKbFZxU2IwN09GdFJjNFA?oc=5",
-        "date": "2026-11-15T18:13:00+00:00",
-        "source": "CNN en Español"
-      },
-      {
-        "title": "Llegan cuatro nuevos Cedears de ETF para invertir en China, India, EEUU y empresas de inteligencia artificial",
-        "description": "Llegan cuatro nuevos Cedears de ETF para invertir en China, India, EEUU y empresas de inteligencia artificial Ambito",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTHFQOFpOQmxvY2l4YjhlRjZ2YTJYM3JkbGc3cC1zMkNpanltZGxTcnIwMk00LXlFdDU1VTFzNFl6ZldNN1dMUW81bXJoM0lSMUFkbmw1MFlIZmRhMkR0TkNNekZCUzR1WFhIN205SDR0c2lEUzRZRkdGZ0dXQUVfd3pEa0NzY3pWZ3YyQlBJSjg3aDVWVGtYNWk2WkFLOEkyOENIZFFUclpNZ3lzQWxVcHp0YkM2SlVySWpKc1RCNzdqYTBEV0tDT1dXNjdwRFnSAdQBQVVfeXFMT3FrRmN6NkZHZGZFbzhvbnlUSTIxa0FzRnZhWUNQY055R25oQnZPQTFFS1JQSUhnOXVWR0JEa094N3VaUlc4NXJwQkdZdDNURHhRc2pCOHVudTFGdUJFaWE5NV9lNUZLQTBEdHFDS0ViT3R6bXAyalZZd1RXRkNGUVoxVnpuQjhGUU83UkFXQUhMZDh5R19nSXFoUTF0UE1pWGRSR0F6RUJjZWhBbzhQSmNuRmtvVHluRXNDV3dnMUtrZ0JTd21KeGthV3lqaWdDQnJLbzI?oc=5",
-        "date": "2026-11-16T22:15:00+00:00",
-        "source": "Ambito"
+        "title": "Estados Unidos impuso nuevas restricciones para bloquear el acceso de China a sus chips más avanzados de Inteligencia Artificial",
+        "description": "Estados Unidos impuso nuevas restricciones para bloquear el acceso de China a sus chips más avanzados de Inteligencia Artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMG5QWEFqQUxzZFhRMDlYMmNTdDdob3RIZERKTjIyczFDNW9OYW94TW1CS3ZVd21rSTdEYnpoYWpqME9DdXNPZWZsejA4Qk1fdXZGMURCMUtaU2JYT3JCVXFIVUNGZ0JsM19xYVAzRWhNWTBDUi1zUnpyTXJTbUUxLWozZUlkMkl3Y092TWt6dEZubDhJT1dSZ18tdGNHbFBZVVlFWWlkYWpCVXYxbmJtNnBIQ0hLeElBVlhnYTA2QzhkbzB6dF9zcTE3QXp1WFVBREhGRXhxblllZFEwVXVwbEUtV0ZXenkwTkZLLVpzSkVWQlloOGNyMkJOSHVhZVdEUzdRdFVMV1M5TlnSAaYCQVVfeXFMUFZVd0IxWW1RQS1UenZPLTNrZDBWX05uQkpXal9OWVI4RjRhdTdaNUg5a1dxdlRyZDFlNi16dFdHa3FiSnVnSGFDaXVuUFlSN0JXWHIzZ08yVGg4dGVuc0Q3M3gxM1c4bTkwcmFRRmJnS1pMcmlCcEtKLUJoN0Zsc1RkOXlfZEI4d0tORzlnUUpEMno0T2k5d1lRaDNHdWJZbWxkZ1B1ZjRvb1d3cFBsOFZPSGpCeTlqbHhnWmhUU01XbVBCUmdBRDNZMTZrT19zWEEtNGNyWXQya2hKbTV4ZG9oMDBGdUpjOXU2WUlnYXR2YzRMeThyOVBuY2wyUlBkZzZldVNWOTdCbHRYMFhkaXo0NnF5eFFqUlU2Ry1zZk01N21IRkpn?oc=5",
+        "date": "2026-11-16T22:43:00+00:00",
+        "source": "Infobae"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Vaca Muerta: la pelea por los equipos de perforación cambia la forma de contratar",
-        "description": "Vaca Muerta: la pelea por los equipos de perforación cambia la forma de contratar Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUWhzRVFjUUlGZWFoNEVCRjRKd2NKNVR5T05jWjM2SzJyYlhZT08xNHNVU0FKLVladVRyZzNyYVo2SWNPY2dMUk16RlpQVEc0ampDTy1nWnBQZkRueGRHX010WFBaU2tKSFpOQ19jWHYtd1JGVEdQN2FLTzdWZmlfMGlQd0ltc1lMOHJCNW13UUloZFNxWFZXb3hWYTdHd1A3VUZXQVZqdFduTzFic0VCamxVSlVja05HdUHSAb8BQVVfeXFMTW4xUmREaUJIdkVQdWQzYkV3cXVncVpOcmhxT2V5MVVKeEpINVRXZVN1aXVySWdwa3FKbldNSHEyNk5oMTJWMzQxOWhTMDJZdm81WWtqMmhEU1JWZDBVdHJFb2xRRDdSM3JMUXBuUzFVNUNRNTZZcDNZckQ0eHFkbjJwRDhxVnJjOGNoMjFVVGUzUlJQQnFkekhNSmpzcExMNXJLOGxXSWFoZ3FtOWVfUGhFWkJxb0prNmNWWDVsck0?oc=5",
-        "date": "2026-11-14T02:55:00+00:00",
+        "title": "Argentina LNG: cuántos empleos creará el megaproyecto de YPF para exportar el gas de Vaca Muerta",
+        "description": "Argentina LNG: cuántos empleos creará el megaproyecto de YPF para exportar el gas de Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3JTOWhjVVdoNG5BOFVzRWRlMy1tWERnb2s3b3F0RmZHMHI2cG9UdUNXQ2s4RS1YREhNVjJXTnlZZEd3YjdnY2VlbDIxTEF3ODR3R2tpeTJoR3NZY01qeG5WVmJxeXN2SkExU0lMMndMWlVxWkNFSGlXSzh3M0FHeUh0d1F0OElnUnVwZ2lGYmdLV0tnNlBxYjg1NGNLYzdjVEZsR0pObGY2X0lUSUc1VW1waXNSNHdqVzVKdlNxMlFBd9IBxwFBVV95cUxNOUZnTGlYXy1SUi1tM3RFa2VVemtnOHZXdW1MblVrZGljTmVBV3FHRWxseWVjdks4T2xoQjM0VGdPbDJxMzNqQ0JMVi1IWDF1ci03bXI3WHExRXUtRGZ4ZXZKZDdPS1gyRS1USVQ3Vmg4SHRZRl9MZWhFaU0tampSSktjX09VLTdKdVFDUVcwQW84N0EzYlkzNnNlM2R0Sk03MzNINGkzRkNXd3ZzNFBoOC1mT1JXR00tWFJYeURsNE1qaFNqX3NJ?oc=5",
+        "date": "2026-11-16T15:43:00+00:00",
         "source": "Lmneuquen.com"
       },
       {
-        "title": "RIGI: la estrategia del Gobierno para que el boom de Vaca Muerta derrame",
-        "description": "RIGI: la estrategia del Gobierno para que el boom de Vaca Muerta derrame La Nación",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnNyZHZEZkZ6SE4ycmNrMWdDQ3BfMTNSRjh3MlQyLXR1ZWpxNWE5OTNfUGF4c2oyZlZpTWlFR183ei1YYWZHUFJZNko5eFdhZC0wOU5PZHZRVTFXcC02NG1rdi1BclFLU0p6Q29VT0JJTDlCMnpuUVpqaHNSYmoxc3hHVmdsY1VKdmh1ajFyTXJLcVJGbDlyTE1GUjNaMENtdUFBbUNZREp1YUR4eXVfMG90a0RtYU9rekJyX2xB?oc=5",
-        "date": "2026-11-16T19:09:00+00:00",
+        "title": "Peter Thiel amplió su apuesta por una petrolera de Vaca Muerta y la posición casi igualó en valor a la de Amazon",
+        "description": "Peter Thiel amplió su apuesta por una petrolera de Vaca Muerta y la posición casi igualó en valor a la de Amazon La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUGxnSERpd1BDaUVqRC1KOEZKT0V1MzFmRkxJalZpeXdqRDUwMXZFZXlFWHJtMEQzd09LTXpVUlBIX2RwQUlRZmhWOWZoeXcxTUJma3dtSlJNdHRDdE5ubklMNXJTWUVoLUdrYTUwdVcyUnpYMDJJbTZ3S0RCbGhBT2gzamUzT1BuOWFQV2JNQ0xHLVVRMXFnYlBJZU1HeGVZWVFpTGQtWGlRUDhOZVp4elNSMHU1NFRra1pVZ2tVekhnTUMycm03UThHNjJTTTMxUGpNYmt0ZG9takpaNEs3ZUNlNA?oc=5",
+        "date": "2026-11-17T15:53:00+00:00",
         "source": "La Nación"
       },
       {
-        "title": "¿Dónde están los dólares de Vaca Muerta?",
-        "description": "¿Dónde están los dólares de Vaca Muerta? Página|12",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb1gySXVDUTBIZnJBQ3RBWXlHYzRmMG05ZEt6VFp4b2EyclJxd0szcHB4MHdNbnZGa1FfTDF4ZFdvbGJEWEloTkRiQVFMakM4OTkxZllqRWprRl9FeExqM0o5ZHdsaUFUb0lmN05mTUFDYVhJbUF0LUxSY2NoQWFNVWdRMjc?oc=5",
-        "date": "2026-11-15T11:20:00+00:00",
-        "source": "Página|12"
+        "title": "El magnate Peter Thiel redobló su apuesta por Vaca Muerta: qué petrolera ganó peso en sus inversiones",
+        "description": "El magnate Peter Thiel redobló su apuesta por Vaca Muerta: qué petrolera ganó peso en sus inversiones Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVDhYeFo0YVBMSm1vQ1JvaW1lYWtZUmN3U21URXZaWHl6ZlBxaVVucC1lcEdrV1BxLXE2VUs1UHZvV1F5UGxPcnBGNjNpVnFUNEFoZVRNQnJhTU9ZYzRpZXVLcUJ2UEsxOWdsWUQtbVNUZXh5Tm81cUlYd3BYc0NQd3l6akRRcnlnYU10UEVoM2wwU0ktNFdvYUtKaFEyaXdSRWdNRmYxQ2FCRXMxYnNPbFR3Y1d0aFpmLUV5RXYyandCT2x5cXV1ZzVsS3Z2NmQxSlZsQ2tXUGJxcENFOFHSAfgBQVVfeXFMUE1keXF1cXFOZklBZS1fNTdLZXFSaTJ4SlYwRTdVZjF0Wjd2aFVFTjNvWE5hWEI2ZUtsdnBnbk1Yd09YWVdVamkxemh4aEpxa19FazFXelVEZEU4U0dEWGdPWGd1WjNlb3o1YTdIM0VUZ3M1T0tVTVhtVVpKNTFEYjBfS0R6S1BiZ0lNd3M2YllvS0x2ZHVrTHpMMzhoWl9DZkdjUFNKQVVwa3Njb1NwQW9uQWlqUXNGRnFNa05LempqMHc5a3JDRVI4RHdJWXNNV19nRDV5V3RPQ3V3NE9qY1BUUTlRbWlKbkdzX3pZNGpBdnpQbGQ0Mng?oc=5",
+        "date": "2026-11-17T18:24:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Peter Thiel compró más acciones de Vista Energy, la petrolera de Galuccio que opera en Vaca Muerta",
+        "description": "Peter Thiel compró más acciones de Vista Energy, la petrolera de Galuccio que opera en Vaca Muerta Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmNENF9QaEtTdi1ZZHFsaTZrUGJXcWJadnlDanMzcUptdWlIWDQ3V1U0MWVSd1VMWHpEaElQaGlQYmV6NHdRMG9iQXpHeGxkZHE0QTZNZDAyWU1IUGtOUlJPc2pMUEV3VndRcGV3YlBlVmJIWGFtRGFZUGFuTkhydEFuaGxvelhQMUNscW5JSHZ5ZDB0NUJxMHlNaEIyc3RVY2hRdnFnQU9DSmtTNGxJQ2ZYZ3R2aUNDQnFzc05iY2t6eWdiekQtelhWdi1RTEx5Qzh5d2owYXFGUQ?oc=5",
+        "date": "2026-11-17T17:37:09+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Vaca Muerta: cómo impacta el costo de los fletes petroleros en el precio del crudo Medanito",
+        "description": "Vaca Muerta: cómo impacta el costo de los fletes petroleros en el precio del crudo Medanito econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsMWNERFVtc1pUeWlkczZOM1JtR2d4czBmWEdQaVd6N2M2UEVsamU2cmZEcm4xZTZfb1Rfd0tVWFNmZzItQW8tdF9ORHV5aXBsUlNEc25aSnBzM1paT185QlQyWjd3cVlJZ2lKS2FSdV9ZMEt0dHhR?oc=5",
+        "date": "2026-11-16T19:48:16+00:00",
+        "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Economistas ‘top’ definieron cómo capitalizar el auge de Vaca Muerta y por qué se necesita ahorro",
+        "description": "Economistas ‘top’ definieron cómo capitalizar el auge de Vaca Muerta y por qué se necesita ahorro El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWlF1b1BzUzB2MUQ3Z3VsWEs4Rlh0Q0R0OEJYYjZHeFV4bFB5OWRycXI2dVZQM2M1Qk5hR09ObzBsR3FTTi0yTWJYMll0bnpqY0ZHSzRSYllDQkUzNE14YkxXM185Rkg1eTNCLTF4ZTlmZktKbEtBVDhMVC04VlVNMVVpd2stcWNYWmJZSWcyY3FyODMxTnNJaVQ3SHRIbmIzUWo4X0tVeDJYdzl6cmpfMmFUQ21ZQng4amRiUGQ4TVFHU0cwTURBbVE0SzFFemlvSkM0Y1R30gHwAUFVX3lxTE1EaHNKalh2VVR6ZnpCeVVCazk4WjdVUWxVMGpPb1ZTQzlkYld5YU5fOEJVMUYyOVl5dDFLT094Q1NFTWV1MWJLOXg1T2p3dm12cDZoWVYyLUVhcTlOR2JtUWtRUVd1TnMtWGVOWFVSX1N3SEQ4WHdBZlNDdFJDcEwzVFBGNmhDbjBUbmJXbUpTQlA0NU5XSjIxYXpYTkFucGhZZGEtWjdHX2dOVnk1cjNscTZwUnpIVzlubktUcXhwX3JLbFhTY1BYSTBJVVFTZUhrNzhBZFVWRFlzb0Y1VlhYT2N1NGRuaEc0dU5HY0gwVA?oc=5",
+        "date": "2026-11-17T09:00:01+00:00",
+        "source": "El Cronista"
       },
       {
         "title": "El negocio millonario de Vaca Muerta: tres petroleras dispararon sus ganancias operativas y una lideró en eficiencia",
@@ -182,27 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVzg3YlhTRlNNZ1NIWGtFNEZKckZoRGVNMlpwZjFlejhIa2xSTllTQlp4bjZYWlBoNTZhRnZOeVJyUUhLUV9RQnk5N1BSS3A2WmNsNkplS3ZaRlJlNndiYU9nRVZuOVFRcEp1aExwdEhhTDF0SGdBbE93dFBjVFJRZ2htS1ZIYWd2V19Cb213QzdxbTJBc1AtNWN2QVhtOFdpTmtIcTZSdE1SZzB3ZmtKMXRHc2xVQXkzMmJ6UnVjalg1MjZGZ0lsbUx5ejlCRExXcXRQN29iNHVDRkFKaFhpLWl1RQ?oc=5",
         "date": "2026-11-16T17:31:00+00:00",
         "source": "Ambito"
-      },
-      {
-        "title": "El salto de escala de la energía argentina choca con nuevos cuellos de botella",
-        "description": "El salto de escala de la energía argentina choca con nuevos cuellos de botella El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTDVaaWxCekpyaVY1cE5TcTRxanl1a3d3RW9tWGJyQUh3Rm80QlF2R1ptUEkxUHdSQlRyNVZpbGlGY3UzOFRnYVFNMllnZERTWXNKdk45aHJVVUJTMTBxelZIRzY1Ym5wSmFZSzNuLTB3aVBmckFlR0xENHFVekRVZzJxVE5FQ1lkNURMZDdZVkJxRnByVS05Mnlta29TU0lob0prWlNBQW1odXgxZEhjdDRuc9IBzgFBVV95cUxPX1dybTdha0o3ZHA4c3NXb2ZoaWlfYVpwUjFoTmdxT0dSY0NfMWswRE5fYjJpMVd2aGhVZmVQenljU1g1b0hXeXBiS2tNZlJCQldqTVJuUTUtREgyLVVtb2xpNkJLQ0ZmR2x3UGJDZ1BEdlB0bXBqSlNrN0dPLXhJZ3RYMjFLWDVJdzA3T0o0QldrV0xOd0VRSENCZllHVUxZOGxXS2Jzcm9Fa0JscVd3ZVFsZ0ZFcm54MjhQRkZHUzlYUUhkTTNDNkQ1Skl1UQ?oc=5",
-        "date": "2026-11-16T22:36:00+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "Vaca Muerta es el motor del upstream argentino: cómo fue el desempeño de YPF, Vista y Pampa en los primeros nueve meses del año",
-        "description": "Vaca Muerta es el motor del upstream argentino: cómo fue el desempeño de YPF, Vista y Pampa en los primeros nueve meses del año Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcmtGcmRrSVY4c3YtYlRBU3NBRklhN043dWkwU0FTYlN1M2NaV19BRWNYWENkdVIyV3dVSGZNODNxcW5NaWs5US03ekZVOUQ0NWhCQ1BPS1cwN3RKTEFhY2lDd0VPX19QQV9LSlVFU19GYk9MTnJtY29reGtCTXh0OXdhVWdvVnY2R3hhcW9iV1RRTXhsdG1UdjVfMGZIVTlyemNtOUpJbzhIQUxlLXZaWEJFNVZfSmJDX3pGU2pzcmJhMWY4VXhPYkt0cEhYd2FrdTQ5Y0h4cnVzT2NnaS1LeFJiaU53UW9aVndvdlVaQ1JxVHIz0gH8AUFVX3lxTFBhbHlmR1NvOUYzemdnTTE4c3NJTU9ZMW8xeFJMWUJhRzRFdzlyLXBnS3FzeW5rc0pER3ROZjU2enFPX1p1bnNVcm43MTNCWFNaeVJ0dEVWQXZuc29yNWFsVVdRZkFaZTctRy1sdzEyUkVubTRQdFhEbV9DWkhodjNzTzNfeVgyNngxbnlpeWpLZUVvemlZYmp4Q0loalh6RTNaU0NRSFFrR2d0TV9tSWFTUVpGWTZJVFFJZnJoM19GRTg4T051M3NYallxYmFiOW9wS3lEMS1VajhKSEJtQmdRSTE1dTQxZS10Z2dEbVNzVGRjUnNCOUxWUExCRg?oc=5",
-        "date": "2026-11-17T03:20:00+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Cambios en el mercado de gas natural: la expansión de Vaca Muerta presiona sobre los costos de extracción en cuencas maduras",
-        "description": "Cambios en el mercado de gas natural: la expansión de Vaca Muerta presiona sobre los costos de extracción en cuencas maduras econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdUE4cGNRcTJkcGFLMk85eUdzOHQxRGJZei1JVG5ZeElpdmQzRzZnc3NIQWE4Qk03U2V3eFdiR1hDVldKdDgwazBYYVBKN2xyZ3NNNlZyVFJQSzNwUWZ6RVVURXI2RU5qZkNnRVdvdGtDVnF3YnhLQXpxSXNqSzZpbjhWZ3BWWnhlLU5ZUEl1dnUzakxJUjc0SkpmdGx4VUFGb1pCZWtxQllZU3NoYnVUZzdudDBmS0x0YnpCbGZBZFBhZ2JhdVdFM0pfQTJkM09RQUVIOWJNb213Um5ucHlsWDh1QllTaU5Wa05MSFdNTGIyZw?oc=5",
-        "date": "2026-11-15T15:07:48+00:00",
-        "source": "econojournal.com.ar"
       }
     ]
   }
