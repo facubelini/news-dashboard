@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-20T00:10:35Z",
+  "updated_at": "2026-11-20T07:58:47Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Sebastián Aveille, de Microsoft, sobre la adopción de IA en las empresas: \"Todos los directores están preguntando cómo aceleramos\"",
-        "description": "Sebastián Aveille, de Microsoft, sobre la adopción de IA en las empresas: \"Todos los directores están preguntando cómo aceleramos\" Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZTVYWEg1Mk5SWkZaNGNrcGJzcGVxTUlwWDQzc1hNZjNwTUFxb29jXy1QN3BIcHp1WW93VHZlbWVMdmtoeEUwTW1RczUybFpIMVBfbm82X2x1MUhuUHZZMWZ5YVdqMXJXVEZBUHZtaktPMDNnMFJ3cHN4bkxmd1hYMFZDWE9NdGpOY1dIZHE2RVlocjdWSVlSU2FVWlRmN0U5WW56V2JLbWswUjNVY2YxSTBRdzlxaTlVeG55NUVhbUttOE9YUENJSnh1dENYa0lUWDA2TDNMYTlXUllMWlRSRUpHeDFCd9IB6wFBVV95cUxNZ3U1QlRGYlBuVUR5LWRVV1c4ak9qbGMwYy1SSEhvVGxtVlZpc2xwcExUeGFZajM5VmRuQ3lYLUJIbWgydzhackI2bzU2aVQ4Tm45N3oyMGFmM1N6dnBRZ0JfM08yWTdQSU02eGhtVklCMnR1S2ZIU0xtbjc0SXNvLU5zM1RzNElxNXlhOXY0aG5fVFdBcV9YVWZIZENxMVNicTREUk1xMFAwNDNyVC1BVmRiOEx1cUllc2Z0ZS04bDNZcW8ybkhGdVRheGR2cjg3cDVEZmlWR0JOVUpQSk5jNFl0NTRsbmxRRGRB?oc=5",
-        "date": "2026-11-19T03:00:00+00:00",
-        "source": "Ambito"
-      },
       {
         "title": "Alertan de una campaña de phishing que aprovecha la caída de servicio de Microsoft 365 para robar credenciales",
         "description": "Alertan de una campaña de phishing que aprovecha la caída de servicio de Microsoft 365 para robar credenciales Infobae",
@@ -24,6 +17,27 @@
         "source": "Rosario3"
       },
       {
+        "title": "Bill Gates en Argentina: cuál es la relación del fundador de Microsoft con el país austral",
+        "description": "Bill Gates en Argentina: cuál es la relación del fundador de Microsoft con el país austral Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnQ0YlVsb1BIVG5HVUdWam9uOWY3WW1fdjJrR2ZVNHBwampzT0NIcTlyN3A4WE5zc0pOMnZ0UGxsOHZTbjU0Z0dnVmdDbW9PNE8tTWU1ZDZKeVJpSFFRQm1vQUxCUHJRQWs5WmZlSXR3RlJneTF3dWU4RTNDY0hnVFRFdDlSYi1nTC0zRWRHTXBNVC0wUm5kWWdpWFEzb0pjMThweFE1eWY1NTF6LVJuYUozMTdzWnRKSzRNbU5mbkNaYmlXT1VmZlV2WdIB5gFBVV95cUxQVE9KUGNHczZxMU95RzBuRWh4WV9NQktLbUQ2czVLMzRMcEtYenpUalhVb2duSFMzQlBZc1lmU0lyWF9HWjFvTnJWdUZqSzRPdkcwUThiVGFFMUxEdUtpZm1xUEFLNURUa0s0QmFwUURxV3ZoekQwUEMwZHVhZkZZTmhlYTV3Mzd5RlNjNXRwcDVORjBZVmlKMmFyNWNLT1RmRTlMX2VXa1Y1M3ROTzFnWEoycUdTRXp3LVRubWVoRDZRZHBaT2dkanp3THpISWRaZy16VEZacUJFQkxJa20wY25lTnFHUQ?oc=5",
+        "date": "2026-11-20T00:59:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "La misteriosa visita de Bill Gates a la Argentina: qué ciudades recorrió el magnate tecnológico",
+        "description": "La misteriosa visita de Bill Gates a la Argentina: qué ciudades recorrió el magnate tecnológico Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWZ3UFlUSlU4aU1aSzcxZWVHeVpJRUpaVTBQdFA0UVBfN3Fkc0FaUS1rZmlJTGNYR202bFdyY2RZSUtoSnJnOXFqd1BFcXRXWk56REZnZzFHekdXUTZCS1kwRHlKbjl2V1p3U1dpeEQwQ0hsUFZGOEt4ZVo2N3VJNlVQcU9HZmc4YWdLQ3ZuUHZxTTZ6QnN6Z2JUUzhfaFpOMnR1MG9xcGxHem1IaUdXVXJzTVdmci1SdEpMdVJNclRvNk0yam5nadIBzgFBVV95cUxQbDlrbTR4UlE4Xy1KVUs2T3cwVHZ4QWtCbWJDNnBLaEJ5U1lOT0pST1k5Y3pRQTAybFlxNkdWZklOZHhKZmc2QmZZWjBTZXFEMnhpay1ORjZ4WHNhY19KUUc0OGw5QnpqT3lZeVd5dEx6OENCSVFVc3hIYU94UUlGU3J5WnJ6QUROejVEV2VVd2NJSURVZ05KRXUteThvRE1fTGU5V25pSFB3R2N0UnNRalREUVNhQkdselJiMTE0UFZjREp1cHppN2JuNE5VQQ?oc=5",
+        "date": "2026-11-19T21:32:00+00:00",
+        "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Sorpresiva visita de Bill Gates en Argentina: dónde lo vieron",
+        "description": "Sorpresiva visita de Bill Gates en Argentina: dónde lo vieron Punto Biz",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXFIbURBOUExODVOLUt2QnNxT1NMaUZqcjIyY3N1YU04Q0ZCWTBEOGtHM0sxNXR5SlM0UTlCbVNaaWk3clk1SjZTcFpnNE5hSzdVYzRZdTdrd3ktdVVlVDkzbnFkR0FfdTlpTzdsbE9NUzJyWHhCQ2w1NWczWERaME5jQS12bVI0WTJOY1VXVVBMVnFnVVVrS0FicFlVZUQ1T1o5eGlOY210RHc5Y2dHeg?oc=5",
+        "date": "2026-11-19T21:07:36+00:00",
+        "source": "Punto Biz"
+      },
+      {
         "title": "Chau a las tareas repetitivas: así funcionan los nuevos agentes autónomos de Microsoft a los que ya se les delegan trabajos complejos",
         "description": "Chau a las tareas repetitivas: así funcionan los nuevos agentes autónomos de Microsoft a los que ya se les delegan trabajos complejos El Destape",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZEJ2VXVfTldrYkJ4N2dBMktkYjhzWEo2dDFOaFhLSVRJUkVyU29sNFkwZXBjMHV5c1B0blcxS2E5aEpNOExCQUNBMktoWlRyLUtYczc0RkxjZFBqT2hVTjBkaFM5bklNRUdzOThnOFVjenU4YkpMV183eXcyMUpxa1NhWWM4ajVCcUF4dzZEQXQxRGRVZndDWUpvYUFxMXltaE1MYUJ6VVhjZXZIM0VMcV9YaTBvLXpsR1VlWXhTZEEzVXNRaXVqTHdiSEU1Mk1kTzNVLS1GSUpUaUxaOGZLWFBwV3RpVU5ndm9lanFpSdIBgwJBVV95cUxNalZKdEFSZUtEejIyM0JUdzZiWnEzVGpEcHZuZlEzd0ZsTFdzdTFpZV80VnFlUU5kdVFMN21scEZ1ZUNGYWk4eGFWdVVoUmpoVGFUZERqdnNRR3lkdDV5OWx3V2xkWUhJMGJCT1lTdUtxNU42ZnBmWlJqWnVsTzBVVmRndXlzcFdIWmVfMlowSVAwS084VGtrQWh3WDlhNG9NdHVOdDc2Uk9NcmUwSW5tdVc5SlVNMDI1VVRQdWFpblQwazdFSXN1aTFhZzd3RU4zMHFoaDl5ak9WTXFjZ1I1bUd3RGRTTklXdHVmNzNITklkWHNONEhqd2tUWXo5ZGpOM0Nv?oc=5",
@@ -36,20 +50,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmV2TXpseGhwUkpGajJMankzRm1uWmNCMnNtYk5YMGlXbDM2bUYxR1ZLQm1KSDVkTWVVWDhRcjhTTXJPV1JEdW0yU0x4UUtXMHFNT2M2UmpYWER2eEJxVVlQVW1aSVh5Q2VuZ0hRSWpTcEdhaGY4N1lSUDQxMjNCRVg5M1l3eUVKdnUzUEQ5Q0pBRkx2NnBERUE4UGNXT3k2UEU1TlhYa1ZZSm1TaWdFbUU3aWd3bWUxTEFYQXpoeHN4X2fSAcgBQVVfeXFMTTV4amtJRWxaa0JkYU9qRS1YSXBMWWdXMUI2OE1LWjREWDY4aVl3bmdfTVcyUjlCVFlmdkVKU0h3SFV1ZVIzZk56RHFRTXdjZHpwMlBoaVhGVTFuMjJzYjhXM1ZaOUdMMENHdXlyRlVmTzAwbXJxS3ljSDFCYXgydkVyQ0FEWThxVm1NSXlneWxVTzNHNjh2U3NDNkljTmZaSjMxU3QzdHotbjJPbUI2d29Xd0FUMVJRZ2pqSlFkU1pGeVlqRFQtRG4?oc=5",
         "date": "2026-11-19T17:25:00+00:00",
         "source": "Vandal"
-      },
-      {
-        "title": "Microsoft lanza Azure Linux 4, basado en Fedora y con soporte para máquinas virtuales",
-        "description": "Microsoft lanza Azure Linux 4, basado en Fedora y con soporte para máquinas virtuales MuyLinux",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kY2RVRm5UekNpaHZKRll6UFFCWmNHUzlmZkZibmx4R0xyQnpMa1g2V3k3ZWxjUmR4dDNrZFdYazE3dG5veWh3WXllZkF6UzdzQlhDRlV1eXd2Y1pCcEprdGVUaExzOGJQUzNfdw?oc=5",
-        "date": "2026-11-19T11:03:43+00:00",
-        "source": "MuyLinux"
-      },
-      {
-        "title": "Análisis de Nvidia, Apple, Microsoft, Alphabet, Amazon, Tesla y Meta",
-        "description": "Análisis de Nvidia, Apple, Microsoft, Alphabet, Amazon, Tesla y Meta Investing.com España",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbTU0cVl3REJBMGtHQmYtUWxyT2l2bUNMQVdCSnpiQXZFQ3FxeTNnRkpwUzRZSTA5OXpPZWFQeHYtRlprWmFnTVVuOU5vLTJpVjhpS21jWnZ3dHNRU1FBbUFjSFpNYklPMEdvR3BpT2ZpZ1BKdDJBR0JHV0lFenlYR3hMcEJMZVdVSml1eHlxejlTV1VrN1ppSzlvZm5DN3ZPRGtNZ0dCb0FIQWs?oc=5",
-        "date": "2026-11-19T11:12:00+00:00",
-        "source": "Investing.com España"
       }
     ],
     "Marketing": [
@@ -61,18 +61,25 @@
         "source": "gualeguaychu.gov.ar"
       },
       {
-        "title": "Llega \"Emprende Joven\" a Avellaneda con capacitaciones gratuitas para jóvenes emprendedores",
-        "description": "Llega \"Emprende Joven\" a Avellaneda con capacitaciones gratuitas para jóvenes emprendedores Avellaneda Hoy",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzladTRBaDBjNmpCUl9OVEljVmtMV2h3U0R5RDRDdHQ0VDIzcXFzS0txaUNvN2VoVTA3aXctSmNWbXE0Vk5KckJEUTczd200VE9UcUdXSUxDNkdkVHBBaklWcXpSTVY0bkFpLXl0MVhpYUs3MTFSRkFINTJWd2pYcG9FZzUyTG9TZi1QTjJneGxCTG1iaGVjeXNZa2Y2Qlk4aHN1V2h5ZU5kSTlBV0xfdTU4SzJEaUtXMWRrWjc1S1VsRkV1Wk5lRmR3?oc=5",
-        "date": "2026-11-19T09:49:48+00:00",
-        "source": "Avellaneda Hoy"
-      },
-      {
         "title": "La UNCuyo incorpora la Tecnicatura en Marketing Digital y amplía su oferta educativa en -",
         "description": "La UNCuyo incorpora la Tecnicatura en Marketing Digital y amplía su oferta educativa en - 8 Digital",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVkxMFNSajBmXzFEaEcweVd0S1dKeEw2cFRVRG8wMUpfa3oxd1RMenNQWnk1OEtHU2xHMjVJaEoyMGh3aFllV0N4ZE1tcFU0cTJMcS1KT19KcFNXQzQtNmRzZXRvd0V1X25BT0pMMnA4WEktazVHX1FvdDkwR2lTME8wMy15ZG1QZWFNVWs3LVAta0xuVlV0WG1yNkVwcUhWaTRyQjRzS3BnV0FqNXExaXhZVGRIVEk?oc=5",
         "date": "2026-11-18T15:02:17+00:00",
         "source": "8 Digital"
+      },
+      {
+        "title": "HubSpot consolida el cambio de paradigma en el marketing digital: de 'la Suiza de la IA' a un CRM que se actualiza solo",
+        "description": "HubSpot consolida el cambio de paradigma en el marketing digital: de 'la Suiza de la IA' a un CRM que se actualiza solo El Español",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOam5Ya0pNSE15TFhZWE9fRF9lTk9CM243QnB6UFVkQnZnTWtnb0NGUlZFTWVfVEo3dzVHOUMtdnVVX2k2NGJFOHhqQm9Cenp6NlFWbmZ2LWxhTHFyTXhadk9icmt0Q1k5bmo5cTltdFRkUUI0RW5VWFRvUDQtN0ZNc2pHNkMtQ1ctbHVScWRJcU5aUWtOUno4dlU1RUMwY2FPOXRvTzB2bXlwY1huZEEteFU5dVlJNklvdW9iaHVoN1dURWdULXdmNDNDVm1FUzZzT21fYU1Idkd5RHd4T2QwcVNUa1cyMU5Ec1NaZVRqVndDejFUdUxaZVh5RFczZzVNQUQtc3BORGlCbmhvbHZfZkFGemzSAZoCQVVfeXFMUHg2aXFpem5kQkVYRTdTazJhNF9JSi1QdGtJQmUzSlVVTXFsZVd4V3pubE9PNWQta2JpZmRXRm0zZjlIUUd0cGpNajZvU2t6c2lhdWhYM2pKZU9yTFUxNkxwSkhsUm1LWjItYUstbVRfNVJ3a2QxVDEwMjFKM0V3eHp4V2xNejdPVmw0LW9HTlBlVDNvZVNVT1poek1QcEY4OGFJZHNYTENfMFpXUmZrSXI0Q2ZWbXRWSnRsQ212alNfa3RJd1VGOVhoU1ZvcGs0V1JWa25LVlFsQ1ZVLVJqanh0NU8tT19MUEhZdzJVdFNVSkhOSjBkTVMwTHE5SGRMV1pmZi1zSzh0UDZGb1NHeE5mYnpZZnRnMl93?oc=5",
+        "date": "2026-11-20T03:41:27+00:00",
+        "source": "El Español"
+      },
+      {
+        "title": "Llega \"Emprende Joven\" a Avellaneda con capacitaciones gratuitas para jóvenes emprendedores",
+        "description": "Llega \"Emprende Joven\" a Avellaneda con capacitaciones gratuitas para jóvenes emprendedores Avellaneda Hoy",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzladTRBaDBjNmpCUl9OVEljVmtMV2h3U0R5RDRDdHQ0VDIzcXFzS0txaUNvN2VoVTA3aXctSmNWbXE0Vk5KckJEUTczd200VE9UcUdXSUxDNkdkVHBBaklWcXpSTVY0bkFpLXl0MVhpYUs3MTFSRkFINTJWd2pYcG9FZzUyTG9TZi1QTjJneGxCTG1iaGVjeXNZa2Y2Qlk4aHN1V2h5ZU5kSTlBV0xfdTU4SzJEaUtXMWRrWjc1S1VsRkV1Wk5lRmR3?oc=5",
+        "date": "2026-11-19T09:49:48+00:00",
+        "source": "Avellaneda Hoy"
       },
       {
         "title": "Marketing, negocios digitales e IA: una nueva carrera apuesta por perfiles profesionales híbridos",
@@ -82,34 +89,27 @@
         "source": "Sobre Tiza"
       },
       {
-        "title": "El Bolsón apuesta a la innovación turística con una capacitación en marketing digital e inteligencia artificial",
-        "description": "El Bolsón apuesta a la innovación turística con una capacitación en marketing digital e inteligencia artificial NoticiasdelBolson",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeTN3eGRzVHIyb3o4Rm1xbmdOTHZEZF9FQ1NVUWtGRzRUY042RWVxdU96NTB1NzZaSlZ6NjdqWnNjMjlHRmV5aVBERVVkeGFsekZ4U0s2X25vOG1ldU9jMFNYbVR4SFpvbGExZFY0S2w0MVNKYkVMSF9DNTJHOEp3VGFtREZuaDg?oc=5",
-        "date": "2026-11-17T23:05:52+00:00",
-        "source": "NoticiasdelBolson"
-      },
-      {
-        "title": "YouTube y Facebook: el vídeo corto que ignoran las marcas",
-        "description": "YouTube y Facebook: el vídeo corto que ignoran las marcas El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTV1aEY4X1Izck55ek5hUkxROE00N2kybjFnaFhqd2NPdUNWZGRGM2E0SVZYM1FsQWlSTU1LMmVMVXotNU8zVThUYjR2MjIyWVN1THhLd1UtYU5VbmNqdnJtdW8wUldyVVpoTHc1QTh6aUZyRk9jMHNia2RtWDdKTmNNLVNyYU5fWkRiMkJsblk?oc=5",
-        "date": "2026-11-19T16:24:51+00:00",
+        "title": "Fidelizador 4: plataforma de campañas con agentes de IA",
+        "description": "Fidelizador 4: plataforma de campañas con agentes de IA El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzVIWV8xbUVWYlRyaFhtV2xPNW12QlltdXlOLUJyYUNOVHFTUEpBelFNTGQ1Q0ZDSzBneklPTk5McEJlOHI1VllpYnBTc0xJM1RZdUxldENWSFFiRGNfMi1obERTSTR0WFpIeXBUQ2drNXM0Y24xNGFFaWVIaUhwM2FaQkV5dENmb3owdTR3?oc=5",
+        "date": "2026-11-20T03:54:42+00:00",
         "source": "El Ecosistema Startup"
       },
       {
-        "title": "MGID se afianza en el mercado digital peruano",
-        "description": "MGID se afianza en el mercado digital peruano DossierNet",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVBPRWQxU253MzktTmE1UDJoaDVVUjdERmFLeXgzbnZuRUwwbmY1VHd3VFl1RzdDdktVUG1WWlVobzZsNnpEN2Y4aUI5UWF3VUpKUEE3a2o0OXc1TGxDSU1YNUM3RWtheEk2RnoxUm5XZ29DNFBfYWMwbjRMQjc0ZkdWYnNxYVNacHdR?oc=5",
-        "date": "2026-11-19T13:06:39+00:00",
-        "source": "DossierNet"
+        "title": "Fundacite Carabobo impulsa formación en inteligencia artificial y marketing digital",
+        "description": "Fundacite Carabobo impulsa formación en inteligencia artificial y marketing digital MINCYT",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3E4R2xUOTZ0R25yMTVOZm5Ra0ZLd2tlNEl5d1ZndkxoalItaEZLcWp0T2QwX3R0VGhfVnAzbHJsVU5mRUYzRy1uWExERVU2dDNYeHpka0VwNFJSYWVFQkZINjdON0J3TW5xeFVHR21PSTlOMkFKalJNcW9zNUV3U3NKQ2gzTHVoSWJIenRaN1I4WGZqOGxmc1VBWEVxQmNPbnBULThqcUVpUQ?oc=5",
+        "date": "2026-11-19T19:39:11+00:00",
+        "source": "MINCYT"
       }
     ],
     "IA": [
       {
-        "title": "De Messi a Trump: tres jóvenes argentinos crearon un negocio millonario con IA",
-        "description": "De Messi a Trump: tres jóvenes argentinos crearon un negocio millonario con IA La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVRLX3dGWm1JVVhrTGg0M1JablhkcU1QYzk3ZlpLYVd5ZjNjTlJIUlJrNkJfVmZyTFJCejlQbVhaRkpHY2k3enZ6WUtVNmdmZ1pxZjdOanN4Rm43VjhIdnJaQ1FCTlpWNjFzaU1ITmtWZzRmeDh5VmNobnRwTFNJbnYtcHFBQmt6M3R5SE40dnY0bUFLdmIycFU4ZmVleGxTTk1BZ3Z3R1N2NDBFTUNEbDNtbWpHdnlYX3lmTU5TczM0aUEzVURLcXZsbS1IUDh2OWhUYg?oc=5",
-        "date": "2026-11-19T19:57:00+00:00",
-        "source": "La Nación"
+        "title": "25 Y 26: EL GOBIERNO DEL CHACO CAPACITARÁ A MUNICIPIOS EN INTELIGENCIA ARTIFICIAL",
+        "description": "25 Y 26: EL GOBIERNO DEL CHACO CAPACITARÁ A MUNICIPIOS EN INTELIGENCIA ARTIFICIAL Gobierno del Chaco",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGJFVmhZVmVNNlN4TThSVWpXVk54dEt5VURCQ25RZE0zSHRIUWY1cXMtVUFUdWVlSTgxVTFTbnhyU2t6dHEtSGQ1MFQ5VlEyaEkyeThqSHo4TUQtc0dBZTVrOTBtcXlsMFh5SENqc3VmWGRDQmJFMG8tTDRuZTFEOHc1TlZWc0FRUi1UMEtRWTl5QXEtSmJ2X0wzNFVRSVV0elJkVnFBS2ZseUpFbElmMHJieHV3OG1RSGowamVpdEhLR0l2?oc=5",
+        "date": "2026-11-19T15:05:05+00:00",
+        "source": "Gobierno del Chaco"
       },
       {
         "title": "Trump rechazó cualquier regulación de la inteligencia artificial y defendió su desarrollo durante la cumbre de la APEC",
@@ -119,10 +119,10 @@
         "source": "Infobae"
       },
       {
-        "title": "La Comisión Europea informó que fue víctima de un ciberataque potenciado con inteligencia artificial - TN",
-        "description": "La Comisión Europea informó que fue víctima de un ciberataque potenciado con inteligencia artificial TN",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObTh1M3ZRd2tlQVRmNmJSNVRsVndGOXhSM0xoSlJnOVFqeEo5OFlwWFpJQnpvTk9ZXzZ2bW1PNzdEcWFfb0FLd0owY0N2X2FXMVM0T0ZkSDltM0w0TUV1eWpPTk1kX2hIWTRFX1VtU0FSOTBESlZoTHpISWVlMl9MMWJ5c0l0di13ekdIWDdzNjdGUGRPZzhiSHljSUQtLTZNSUYteEpZUHJCWEhNb0ZuMXVuNWRBUHBBMnZlaF9rMGRMWS14aHBIclNnTVVnYWYxbk9HdkJwclJpWWYw0gHwAUFVX3lxTE9lSWhOUFI4ZVNjR00wMGxWSU11OU9ad1lmeUJsdUdZYndSREJmZ3NOLUZvNlBDdV80TEFrR1VYYThCQjZYWFpyMTZFNjVpOU9WcV92bTJnbkxtV0NzbkF4QUxRZFdEVnBIWThidXBrVGxQcEhpai1zSzBJcmlOR3FyVUlIRGVNWTM4V1JtM2VkUENjZExGa3VCQm1VcVBPWVJvXzJtaTg2MmR1YktjTW5mM1pvYl9CbXROM21XajZJSVY2Uk9uRXRwdi0yM2tITnFTUWd0bURCZWRrUWI1YlBkTFhuaEY4TTdpY3NuVmU5NQ?oc=5",
-        "date": "2026-11-19T16:49:45+00:00",
+        "title": "El peronismo resucita a Perón con inteligencia artificial, pero no sabe cómo conectar con los jóvenes - TN",
+        "description": "El peronismo resucita a Perón con inteligencia artificial, pero no sabe cómo conectar con los jóvenes TN",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY3Z4WndxOUZnWFYxMXVURFpLRTVNam5lRFRvSEZXSUpneUJSSG1qZGdCSUtBcEhtcXFFSWZaY21LbUF3bzZKRThnZVN0cTduYkNkb1N2TXg0b0s0eFBaSS1JWmI2dnhqRzV5TnNaNHFSVUZUQmppWjhwS01UWWhpc0I0Q2tNOW9zN0pZZjR5aGlFdzBZMGh1WkcySzZ5WndmMk92c0dYbW9aNkl1a05NZjJzZ2hlcEt3TzVIbWlHSzV1NkZ3Qk9vMTdKeG92cUlTRmUwU9IB6AFBVV95cUxPZ005WVQ1eGZNN010OUxWaFM0R2h5bFIyRHdJSlRObGp2aTBPSHkxWlNzdzNiZzZ3bmtMdVMtUFJZS0xGVXJEWWNtclNBc1pIbVRaVzBreXVEa0NzalhYd3pzYTdxb3hoOV9TMThrOTNjR3dPbk41VWFHRUtzWHlTeVJCbXRCa0ktOEp1WVR5RHIzUE5QRG5BV3p3eHRFbGNEdzhyQkNncGZ2Z1RNOHc5SFIxcDEyakVyQU1oelNOVDZ3Mk9UaEF1c21EN2VKSHJ1VXF4XzJfRnlvWFRVTnNBXzhjV2gyWFVv?oc=5",
+        "date": "2026-11-19T00:07:00+00:00",
         "source": "TN"
       },
       {
@@ -133,6 +133,13 @@
         "source": "Perfil"
       },
       {
+        "title": "La Unión Europea sufrió un ciberataque impulsado por inteligencia artificial en octubre",
+        "description": "La Unión Europea sufrió un ciberataque impulsado por inteligencia artificial en octubre Cadena 3 Argentina",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNFFIN3YxbEtUNHJpME56MUFERmVMejFjM0w5UXNsWElGcWtGQ1ppeVZkeUdiVXNQMGZHRlA2cE5zR2hsMVZEWFV0YnNwaEhBNC1YVlFsUVMwMHBrQmNETE9WMEdRYXRsWFJCZHZocGJqdTI3LXdfNEJjSDlCdkxlQTVWWmMtYVdCakhkcld4eUJHRi1VV3FVMGtEdXhDeXNhcl9LT0NYakw3T3QwbGNRUE9XZ0Z0Q3ZoaVRoOTFndWFlbmNld25RNV9nTVrSAdIBQVVfeXFMTkU4WG5JZ29DeGVjdUcxOXBSM01SVjYwbEtLa0xaMlRmd0pJcFZDT0lmTWZHa2ZQczY1Vm5pU1ZWRVhNelNSWEE4bEh4MW9MVkdRYl8xOTBsZGxhZ2NIMlF0NmVKSXo5QTRaTlNFb1d3Y2VDYU9nWXV0MjNsS2lpNzE0X0I4Y2tmZDFRMHBxWXE5WHNvQ09UaEZFakNNSVFQQUc3bFRLbEd5LUdmNGdZWDBGaE51MUd1QlNSV2dLTUk0SFJwQjVKeDdfSEZhY1BSZHRB?oc=5",
+        "date": "2026-11-19T13:11:27+00:00",
+        "source": "Cadena 3 Argentina"
+      },
+      {
         "title": "Revelan que la Unión Europea fue víctima de un ciberataque potenciado con inteligencia artificial",
         "description": "Revelan que la Unión Europea fue víctima de un ciberataque potenciado con inteligencia artificial Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeG11V2RPM2FMZzhZeHBPVU51Zl9DUnFCLUtqclN2cG03b2UteDN0Sk9iY1RnQ1E1TWwxZWdCUUc3NkotTU9yMDJIZmI4cDJWbE9nSkNoOHF0T1ZMX2dzRE94YjdmZDZROXg4RVFld0hLT0hoOHo0bTlScF9XYU5URlVQOEZobnNtX1NXUlpSanhkdndnT3p5b2NsNXNhY1RGTFp2dE5EY211MF9uQV9CYThQc3cxdkRkQmVuSHBDWmw?oc=5",
@@ -140,47 +147,33 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Anthropic ya cotiza en Wall Street: cómo invertir en la acción del gigante de la IA desde la Argentina",
-        "description": "Anthropic ya cotiza en Wall Street: cómo invertir en la acción del gigante de la IA desde la Argentina Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlA1eWxqbHpCckhVTDdSZWFwUzlpVXg0UWJNdGZQd2h5VFo2Qi1HMk9pR1lMbW5yeklrWlVrZWFVZEdxU2wyQWNPVGdMT3l0OC1RM3pITmlDdEJzMTVIS0RjUEhpUDhNa1A5aE93YUF6ZzF6MUZSRGhOSHZSSlhJaTkwZXoySzhlZHlZamVsRWU5enlFVjZ5WmlYOElmVDQzd1lpMFFaQ01xbnFKWGxCcEE0UG8tVFhpaHJrQVUxMEl6QzVhMExKQjFmd2d3RWdhS2FLdUgwYUhzM2hUckRz0gH6AUFVX3lxTE1OeXR5d0FTczZSWTBUX09nQllNMVppbjFhMWJTbEtid1puT0xTOF9QWVdEeHR1Z0tfUy1CT1E4ZzBiS0ZRRFlVYW8wcW03R2pfRE1VQ2E2Y1h3SzYzV192QTVYczRJV3FGNHZ1T01vNWV6SEZvMHlUUUFLdmM1VkFzb3BsVlFxOWpmQ0JpTXl5YnU2UGpjNl9OQjBxRWx1Y3JqQ1N5OXpyQWYxc1UwVXMzLVc3ZVF3T2RIczFIMV9Oa3M1T0FaaXZ1MW5mRzNsTklhSWI3b1pxcmFmUjBNVUZqUEZCTTQxeDhQS2RvOGhfeFJWWmk1LWtza2c?oc=5",
-        "date": "2026-11-19T19:05:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Anthropic, la empresa detrás de Claude, desembarcó en Wall Street en la mayor salida a Bolsa de la historia - TN",
-        "description": "Anthropic, la empresa detrás de Claude, desembarcó en Wall Street en la mayor salida a Bolsa de la historia TN",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONUtQdUE1TzZNMDE1Rlp5bmRCeExCVGlteDFpTzgyN0M2YmttRXBWUjhzMlRiT3d4T0haRXh5T0xibkU0NnBOS1pfeHNhdkJXdnNiZFhNRnBLN2pVWHRoaEc4ZXBqUmJnV2pzU2haTW1HVkwyQndCNFdteXV0eDRJdzZRNGEtSE5aNnRjTVlvQTJnWHRVYV9TS0VMa1F2ZEJhUlRTb3d3QmpFM1QyN081U2swRmEyQ0xTeFdFQ2RlM3dPS1paYmFfSGk1MGlsRm95d0ROWnRyVG44STlEREd3ejNUblZvN1hZYzNpRtIBgAJBVV95cUxPMkNYZjJIcE9RbVN5U2ZreTMzSnZvNVVLaGdMS1pTTlVwbTBwcEhEYXNHOFVINEFnRmVRbkNuM3BGSlJYSUpwMFlua3QyZUN1UVNrM0ZhdVZnSnpqMmtTSVl3U2V0VF9yd2l4bE1pX3VqaVZEVlFJSmZUd2V3dlJQcWxtdENNbzM4cUpUYUdXdGpIS2plSzBOZFRERlBDaUxhN25UTWVSNnBlczFnSndKNlFnTmRPWlpIZ2h5dlNxdFN4T1pObkQ3clRaTlFqODVjc0xkRVNkeHM1OWtjcEpEbmxOMC1wdUNsS21BSHlRZk50aHBWY1NwSHlac0RCY0xG?oc=5",
-        "date": "2026-11-19T14:59:02+00:00",
-        "source": "TN"
+        "title": "Wall Street cayó fuerte ante el sorpresivo sube y baja de Anthropic en su debut bursátil",
+        "description": "Wall Street cayó fuerte ante el sorpresivo sube y baja de Anthropic en su debut bursátil Ambito Anthropic, la empresa detrás de Claude, desembarcó en Wall Street en la mayor salida a Bolsa de la historia TN Anthropic ya cotiza en Wall Street: cómo invertir en la acción del…",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzU5dTF5MURMcVZNOGk1alNqWFphdHROV1g1SHpfSy1OR1U2MXFvNE1mQW9PS3VkdUdPSDEwU1ZHU3M4REV3UW1KU00xTGVLUU1YYmhjZ0doYThxQk0tLVkxREg0dXVCN3c0aVlteXZkaXIwSTFzZUVDcnNzTS13YzQ1cXFzNDdFdDBlVzY0R1JPd0R0Y3pPY2kwcFhjYmxXa21fdHFKbGZsWXEwSkJXcGxOM3A1emFIUEtsYWdOZlpYczY0ZjRj0gHMAUFVX3lxTE9pcE5xS2EwN1hBalhPd0wwWENUZGdKM0lBMHNRLUNfMG1NWUQzMW1lUHhJZ1I4ZnphQlYwOHoxQjVJM1pjRlpRNmFyZTVmeWdRVlV1OWpfbGEzQnFISUlzMFMzeUxqNzZwOXRqVzkwYXlFajdRYmRLSHAwZEFzelotT005NEoyY21GckJHOENvVnhTUW5lUW90ekVRRnFOaGhaTU9yeFBLdUE4clNiWE90MHk5ZDFCT1hCN0JHdGtvZHdJaENPMDFaUDRxTg?oc=5",
+        "date": "2026-11-20T01:02:41+00:00",
+        "source": "Ambito"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Alfonso Prat-Gay le contestó a las críticas por el derrame de Vaca Muerta: “Bienvenidos sean los insultos”",
-        "description": "Alfonso Prat-Gay le contestó a las críticas por el derrame de Vaca Muerta: “Bienvenidos sean los insultos” La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGhxSE1JMTc3eWRQUlMyaTJHUEVKX0l0YThmWUtUeUdlMVo3UzZpMTNkRHEtc0RCeTlLbmhSN1BoWkVoVlpOQWM5MlJWcXlXTGRBS2RPa1o3LWFtNXd3MjBRR01JT3BTTWxDSDN1eTdiX2c1ZjlpNWkyQ1d6aE1ocm4xaTVVa0VMb1BPcXpzUU9uNDNwcHJQU0hPRWhWdHVOcW5raHhNd2RmNTBpdEhTTlhFVkpYTHFOZWZ5UWhqTy1Ra21jRkpFd2JIRFdrVW1pUkFtZFJfVW5hMXI1?oc=5",
-        "date": "2026-11-18T20:17:00+00:00",
-        "source": "La Nación"
-      },
-      {
         "title": "El magnate Peter Thiel redobló su apuesta por Vaca Muerta: qué petrolera ganó peso en sus inversiones",
-        "description": "El magnate Peter Thiel redobló su apuesta por Vaca Muerta: qué petrolera ganó peso en sus inversiones Infobae Tres magnates financieros redoblaron su apuesta sobre Vaca Muerta: en qué acciones invirtieron El Cronista Peter Thiel y otros magnates profundizan inversiones en Vaca…",
+        "description": "El magnate Peter Thiel redobló su apuesta por Vaca Muerta: qué petrolera ganó peso en sus inversiones Infobae Peter Thiel y otros magnates profundizan inversiones en Vaca Muerta: qué acciones compraron Ambito Tres magnates financieros redoblaron su apuesta sobre Vaca Muerta: en…",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVDhYeFo0YVBMSm1vQ1JvaW1lYWtZUmN3U21URXZaWHl6ZlBxaVVucC1lcEdrV1BxLXE2VUs1UHZvV1F5UGxPcnBGNjNpVnFUNEFoZVRNQnJhTU9ZYzRpZXVLcUJ2UEsxOWdsWUQtbVNUZXh5Tm81cUlYd3BYc0NQd3l6akRRcnlnYU10UEVoM2wwU0ktNFdvYUtKaFEyaXdSRWdNRmYxQ2FCRXMxYnNPbFR3Y1d0aFpmLUV5RXYyandCT2x5cXV1ZzVsS3Z2NmQxSlZsQ2tXUGJxcENFOFHSAfgBQVVfeXFMUE1keXF1cXFOZklBZS1fNTdLZXFSaTJ4SlYwRTdVZjF0Wjd2aFVFTjNvWE5hWEI2ZUtsdnBnbk1Yd09YWVdVamkxemh4aEpxa19FazFXelVEZEU4U0dEWGdPWGd1WjNlb3o1YTdIM0VUZ3M1T0tVTVhtVVpKNTFEYjBfS0R6S1BiZ0lNd3M2YllvS0x2ZHVrTHpMMzhoWl9DZkdjUFNKQVVwa3Njb1NwQW9uQWlqUXNGRnFNa05LempqMHc5a3JDRVI4RHdJWXNNV19nRDV5V3RPQ3V3NE9qY1BUUTlRbWlKbkdzX3pZNGpBdnpQbGQ0Mng?oc=5",
         "date": "2026-11-17T18:24:00+00:00",
         "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta y una fuga millonaria que puede llegar a US$ 16 millones por año",
-        "description": "Vaca Muerta y una fuga millonaria que puede llegar a US$ 16 millones por año Fortuna/Perfil",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmtSZVczMFNvODFsNlYzYmxzRkdYWEJkb21ranpKWG42S09GTUtTMFpwUzBzMjM4ZXoxSmZSeVNXaGtCV1FueXNOb0l3TWZ0M2g1RzJMdjBUNVJCYzJUb2FfUDZmTEYzTTNVdlhwenRZS3lqMU5zVllVTENpbm9mamc5M2NLRFhBamZqdkRGT0JCaXNLdG9YTG5HeUdJWTFCWXFfekJTSkNkVDhsZi00bnFSVVROWmw3S2xJOG5ZakRod2hz0gHKAUFVX3lxTE1UMXl5eG5YZUJzUVV6bDItQ2N1RE11dlAyRWYxWjNZRUpqV0gtYkJQcklGc1lxQlViYWFKQ0EyUmZja1JjbGp3RllRelJwcFRsM1NSQXVZXzYyWFQwTExGcENaQ21wWUdYb1dqMERhM3MycUdLbmVTMkxoQ1g0ZkM2VjQwbHBxMzEzaUt0UlhjMklSajgwWXN3NzJ5NHlST0w2eW5PWTdFUHNRSHV0QUdXcnMyeUtMc1NnWTl2Z0hWNFQzTlZXZElOWnc?oc=5",
-        "date": "2026-11-19T22:30:21+00:00",
-        "source": "Fortuna/Perfil"
+        "title": "De Ushuaia a Vaca Muerta y Puerto Madero: qué buscan Bill Gates, Peter Thiel y Tesla en la Argentina de Milei",
+        "description": "De Ushuaia a Vaca Muerta y Puerto Madero: qué buscan Bill Gates, Peter Thiel y Tesla en la Argentina de Milei Perfil",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjBNWUNBb2txMU4xVHNuQVM4Q3g0T1ZWY1M2LTJncG1WZi1KVldKQU0xNDFPenQ0QnJTUDI5ZmNxUkJ4bFg0LXB6ekhkVzlaclJtdENDdk9CMzJCdmxNY2YwZlZlZ2o2ZFNpaDhqdlVLNkpLN2p4cDQydlBGOExDR2hyNVExYUNRVDZVVHdOeXRCRV9BbHpwSmo1Tk4zYlZuejA3UjNhYVA1ZXo3YUtn?oc=5",
+        "date": "2026-11-20T00:02:27+00:00",
+        "source": "Perfil"
       },
       {
-        "title": "Vaca Muerta vs. Permian: la productividad que puede compensar los mayores costos del shale argentino",
-        "description": "Vaca Muerta vs. Permian: la productividad que puede compensar los mayores costos del shale argentino Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRDJMYlRaVTMzNHF0eG5QYkEzSmxxaVNXd2ZwWDJWOE1QdmVjbkVxVFNyRVp3WTFEZk1zUHdhZTdZVHBKaGNpX1dFb0lXNzF0dXRMMm9vRTJfWERMRU5DQlJFOWVBNk5TSV9kVUVyWnhZSE43UmxOSTFGY21CaVZTbjNUb1o0N01nRDMwV3RXNXIyNHRSbnBUcnFTRGt4dDZFZDgyQUh2d3BiMHgzeEliYzNmOURveVNjWXBmcFlBMDJ5NEJNTHdkZzZnWFVVT3ZXTWtGcG1kQklBWkNSaXlV0gHkAUFVX3lxTFBTT1lZaE5TVHQ1bTF6emlyVEV0cE5ERFJjTW5IS2xaTjVwQ0dyc0JHM014RGdCYmJlNTNvWkl2ZUM5eGRCaEh2VlRrNHNvTEF0U1VBTFVkVGp3VGNBSURBTmVtTzNVZ3g5SDRnczcxRmNBQmRHaVd2R2pFNGVXSDgzN2g3WHVQOGhfREl1UGhDY0FaTWo5ZjlZSklPSmItWXlGc2hDSzNIRENqclVkN3lJZ25RWE9DdVN3V1lOX3c3TENiYlZUNnJFRl9TRGJVZGI5M1ZpR2xzSjVIVDB4RHJZYUloRw?oc=5",
-        "date": "2026-11-18T17:16:43+00:00",
+        "title": "TGN busca darle vida a los ductos vacíos del norte y aprovechar que Bolivia ya no envía gas a Argentina",
+        "description": "TGN busca darle vida a los ductos vacíos del norte y aprovechar que Bolivia ya no envía gas a Argentina Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPblpubklQV0J4enRHVjJHbWV5dmdRTjZNQWx5STE5TklRN0liWlRCenVibWVwbHdUcExVTi1abXZQQXV0aGFvTnd3M3FFd0t3d3lhQzdNNVRJby1oUmlyTDg5NDdham9jcGJKa24zS0MxWm9fdEhHTGdmNlZSS2FsUy00S1d2bVJWcVpsSncyS3pwbTR6amI3czRrN0NXYjhST3ZUM1NHODd1MjZNdlY4UWVHSUk3YmJTV1ZnZHZaZHFRc1hwX055dU1XSDVBa09oS0VONHFn0gHbAUFVX3lxTE5rcDE0bGN4Q1JFX0dzdVl0YndLVlU1MmJ5ZmgxcEVFa1M2T2V1SGlvSzNMaGgwRFpQWUxnUzlKN19nVF9DbUt4bENJa0pyME45ZGM4RGNidWMwSnlKXy1sMDZqb0szWWJoZGlXZjFRNW8zVDF0ODVmalNsYUpqb0dQT09tZF96VDdOQjk1VlVmQVFoclNIaHZ5V0F0dWhtQTdZNHV6N28zZTFFQ3BEazd5UWQ0NG1WMlFaN0hyeE9VQURXTkR6d1dyZnYzTTZoQkNIYnA4T2pxLWV5WQ?oc=5",
+        "date": "2026-11-19T13:57:38+00:00",
         "source": "Lmneuquen.com"
       },
       {
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjJsQUxPTWxGRjVaTHlQcUp4eDRkYjl4MmZ3aHdMV1NVX1VJMVRpZmFCYm9FV2lpX1luVVZjOTJUVFAyYWRvMGh6eUZUS1E3OHQzcmJHYkFsSDVQS2ExZ2xXVUM0OE56NTEwaTc0VTRNOUNaMUNUbmE0WWV4a1dVZlBDVUpDVHFYRGE1RzFxdlRkLW84WEpsYkRiZjVaN2NFNWJpRXpWM1Zyd1hpdWx4dnhhdVVMU3FfTE5MdDU3WHp0bWt0a2JjaUx3dWMyc2FWVzlIdkl6eVFQWHl2aDNwQWJnNNIB3AFBVV95cUxNTTQ4d3VaREtBaE01cUFWRV9naE9sMVExOXNfQ19MUldLVXFtWG5qMVBzbE1tWmVvZ1NxeG1ETGNHLUl3UDdjWnkwTzgyUlY0YlpKQnBiWFhpT3FqZUlNRGV3R2h3U2RtT0NaWVFGTTZZb003WlA3dmt0UkpTWi1NMFRCcWFFRDhxZUJpSGk0U0pWLWlydE9kTDVWcXl2b1RScUUtbnhfR2hKb2ZBeExDMUpWX01JdVZocWtfbndlOHBVa2dBNE1EZU5xZ3Vianh6QzhyYUxHUDdESTM2?oc=5",
         "date": "2026-11-18T21:54:00+00:00",
         "source": "Elonce.com"
+      },
+      {
+        "title": "El boom de Vaca Muerta atrae nuevas cadenas gastronómicas y acelera el negocio de las franquicias",
+        "description": "El boom de Vaca Muerta atrae nuevas cadenas gastronómicas y acelera el negocio de las franquicias IN Neuquén",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY1dJUVdXVFYyXzZjWmc4M0F4eUZMWEwzcVBOUFNkVWRCWFFUYmIyTFllVjRncV9mOUNZZ3EyN19HVDI5RUJYT29hUHg4dFFVNlBWUTVSOVkyV1BaUzRuNTIwY1E5WTB5SDl0M1Z0Yk5CRmFvY01wMUhEZnl1TWI5eUFTbWx0d2trbmJaYzVTRVFsd2lEMHVtSlNidnIyWEhzQTJrUTVDd1F0X3ZoSF9UeVFjWjVSSDZGQ0Noekx3OE1rbjAySFVmb3U4WDNtcG5Z0gHWAUFVX3lxTE90eEhhc3RGV3luc01ndlpVSnBkRW1GQnVrUzV0LW9mMlJXZ2tya2oxUnpMbHMzVmh5cmhNaldENjdNQzE2R29xQTRvUkg0d2l0b2dGbFNkalNMcUFIV3pUcjhGMDRRQ3NRTUJjYzh3al9ibHVzQy1DdUZqbDRGeFlTdEtfYS1qSm5hMGs3dk9KT0lRMTVrM3ZYWnh4czJjajNZdWZpLXJWZlBOQlRzV2tmQUxqWmtNT3hYZEdRUTJBeFl4QTY3ZG5rU1NTOVVCU1ZhclNkYmc?oc=5",
+        "date": "2026-11-19T07:41:26+00:00",
+        "source": "IN Neuquén"
       }
     ]
   }
