@@ -1,41 +1,13 @@
 {
-  "updated_at": "2026-11-21T18:55:42Z",
+  "updated_at": "2026-11-21T23:41:28Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "Outlook, los vuelos y Apple fallaron en seis días: la explicación oficial es peor que un ataque",
-        "description": "Outlook, los vuelos y Apple fallaron en seis días: la explicación oficial es peor que un ataque Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMkpvWDJfeTV4VWYwRlR4c0dqRFpQanNaVkFtQ25DSXVscTV6NG5oc1MwQkVPb0pnRmk4cGZBZk1hTng5aXVjc2NwUUc1U1pUc1ZjYnZ0SnpPdFBaREF3OTl5SDhFd0JNc0k3Q0FWUVNLcHU2Vk55OGpaMkVKb0NxNzZsQ3NiVDdfY2hIbXpnUGFQQXlGd2tIeDNDMUVsS2ZwcFJsZXkxU3VYQ0NScTl3aVFscWw0OFlMMERWdVp5eUpJZ3Uwa2RBamdSRE5WQW0zZFRJeXdpMkFJY0E30gH3AUFVX3lxTE5DWlhSQ0gwTzJJNHBFdmFfdG9ZTnpUV1E5VWF5UksyYW5ZelZZaUxSYVpaSk5SaDFYNEhQWGV1X2NYZ1pvRHBKc2NNZnBsMXlMWGh3RnZxTEliX0JpWkxnTHBQZEJJb3hYZUxiTy1taDBMem42WU94Qy1EMUNtbVg1ZUstb1UtRTdnTl9lSjY2REFtM0hiNW8xQ2g0eWhWekpwOEZBUWlUUFZjOUFMUGNnNlJ0cmo3MW5pUUx1QnloVzBYcE9USlJrbmdscFA4bUJqZFJ5NkE5ZHdqMjNYbEltSmUtSnVXTkZ1X3F6UDl0UUktbzFQZ0E?oc=5",
-        "date": "2026-11-21T13:59:00+00:00",
-        "source": "Infobae"
-      },
       {
         "title": "¿Qué pasa si Google y Microsoft caen a la vez? La economía mundial se ha hipotecado con un puñado de servidores",
         "description": "¿Qué pasa si Google y Microsoft caen a la vez? La economía mundial se ha hipotecado con un puñado de servidores EL PAÍS",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNemRxbEFSYXloNFI0d1EzcGoyTnVGZWk4S3kzSWlIZzRoMERKZ3VSYU1MbzdITk15cWQ4VjN0TUVyLUNhZlBOOUtHSE9Xd2ZycEE2RzdDT1UtRVM5a3VaaFZzZlpZNHNaaGFoX19UdTc0X1I2RWRwckt0Rnl1OW5JTzdUbTlNQXMwanM0WVRrcVlWMGI3M1dqNjdGVXhlQXJWVlZPbEF5QlRBdjNYTkFBX3YxTDBsVU96OTdhWHJUeDl1Y2o1dTZMZDdldzExZDg4UjZvbl9IX3hlYWJjSkxhc3N6TVJGNHRHWk5QM3pQVdIBgwJBVV95cUxQS08zamhYZ0xUUEpsYzY4M3psUlJYclktb0RUc0pqeTF1a3RkSVB0a3h4c05XTkp2MldVMDFqdzZpdDhUR3lqQ0R2VkljUHZGcWRnWTJ3Ums2Rzd6TldxMzR2N0lCYVNEUWJRcm1EME5rVTkxMmZSNUJOVXR2V3JXY0E5ZUVlMXB5RkNlN19FZm1EYmZ2UERKSXR3dVh0RUZpR2JBam40eExQZ3lOQW1GZFhza3dKS1htRUxZVDE2RGFhbGFXQkhGMkt5LS1lcXhvcHRpQlhLZHFDMkhES2hMRGxpS2pvUXJrOVA5S29kbXVfYVg5dVI4Z1oxUlBPRGRPVzlN?oc=5",
         "date": "2026-11-21T16:11:25+00:00",
         "source": "EL PAÍS"
-      },
-      {
-        "title": "Algunas apps de Windows 11 podrán negarse a arrancar si tu PC no supera un nuevo control de seguridad",
-        "description": "Algunas apps de Windows 11 podrán negarse a arrancar si tu PC no supera un nuevo control de seguridad Vandal",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZHB3a2VHZGZfQmtEZ3NRUVNSd3VWRnpXNkFvSmllV1BQYS04Qmw1MklYNzVBWWxIVk4wbVlmWU9sc0htNWotaDNMRDF1bEdsZXRpN0V0Rjh4NDZuNVE5THJKMFhudnJEUGtCUDZ4R28xampVVXJIcU1sVmNnU3pJTHlrb2Z2N2dnNTBacmEzQzEyRFBuX196YS1ENXR5Rm1qVW16LVJIYm5vcE9ORWg3YU1ZS2ZmemtSM3EyQ0daNVFSd010N2p4ZFl2U1hoMXEybnQtLWZRdHFJVXNjUmx0OThtb0nSAeoBQVVfeXFMUHZMQ0lWLURHbTFoQmVDeVVFMXlrQnhWUDZCM3dCdl9aSUpTQk85ajdodnhnWk1ZTURxaVVqZHA4Um9NamZzSkJpOTNzdFlfMFZJMWNUcmdKZjRjb1ZscnM3Z0xhNFU1WGp1UmRpTmNtUUUtdjE0M0xIUWlXTE1CTExCWUZndDlTQVVEem9yOEZCX0ZZVWtBb0UyUG5JTDVqSktmT2U1V3pkWkVZNXhDYmxrWkwzallZUV9zdVpvWTE0aE5Md2R4Ni14cGNNNHlDSlJ2UWExMEZPcXAyQjlmcm00X09HclNCVFNn?oc=5",
-        "date": "2026-11-20T16:28:00+00:00",
-        "source": "Vandal"
-      },
-      {
-        "title": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre",
-        "description": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDJJb1BsZFZTakhUVzlrYTFVZ05PZGhzOTZSTHBPMjFGc0FwZ1ozV0hIdjk3b0U1ZzJtVUFuWDFHYlNvTnVVd1UzWVdsakFWR09DTDhjZC1tT0xtZkxHMzJ6QTd1MlV1QVJJMFoweGltT293SWdnREV0SXE2OFNab19aZEVmbTFIM0NKSjVjUUhxdXlQSUpETnl3T2Nwa1paYTFSdmR6N1o?oc=5",
-        "date": "2026-11-13T08:00:00+00:00",
-        "source": "CNN en Español"
-      },
-      {
-        "title": "Los hackers aprovechan un fallo de seguridad de Microsoft Outlook para robar tus datos de inicio de sesión",
-        "description": "Los hackers aprovechan un fallo de seguridad de Microsoft Outlook para robar tus datos de inicio de sesión Yahoo Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVVXLVpubXNNaEJZTVJDREl2b2Y0MkpUY0kwVTN5dEdSTEF3LU9INDRGOFdhM3l0SFF0S1I3VXZJN1hzdEtybXdfa0llSWRIbTVzVUxERkY3blFEMzNBU2ljVGRfQUg4OFRPNE1kVXlkTDB0cUtRQmFmZEtQNDFuNFFuNC1zWmxhTDZlTVctS0pydV8wWE9Gc3pFRzUzZURwZktF?oc=5",
-        "date": "2026-11-20T14:09:17+00:00",
-        "source": "Yahoo Finanzas"
       },
       {
         "title": "“Tus correos se borrarán en 24 horas”: el mensaje que usuarios de Microsoft 365 reciben para robarle sus datos",
@@ -45,10 +17,38 @@
         "source": "Infobae"
       },
       {
+        "title": "En 1998, empezó una colecta para salvar un bosque: 2 años después, el cofundador de Microsoft ayudó a proteger 10.000 hectáreas con una donación de US$3 millones",
+        "description": "En 1998, empezó una colecta para salvar un bosque: 2 años después, el cofundador de Microsoft ayudó a proteger 10.000 hectáreas con una donación de US$3 millones Canal26",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNSjR2dGktdlhmMjIyN29meTNOWUtSOXZjRGp0ZllOSFQzMzk0YmdBMFEyaWpmYVlQLW1Ubk45cm8zTjVIeUxnOU9hcjVPbnBES1p1MTJtNlpLLVhqZjBhVUhpMEs4OUlTa0VZMzdrY3NKZmltT0VYVWJNN3MwcXh4NkxSb3FPUjhvOHVUODc4RGJIekNPSGc0cXdBTklkY0ZLbG5aMHJrVDBrRlo1clFKSjVGXzE3WVB3N04zRWNOUWltdGk4Tlo3bmFYaGxjZ1BESklOQWExbEtZM3lMN3JXWmd0QkZoQnpwUmptZXJRZ0dRekhqX2RIcHU4STFiQm5fQjAtMG4zSFBXNHlUcFByeU5WSnpqemg5MTY3cDduelZaZlUtQXlV?oc=5",
+        "date": "2026-11-21T19:39:29+00:00",
+        "source": "Canal26"
+      },
+      {
+        "title": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre",
+        "description": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDJJb1BsZFZTakhUVzlrYTFVZ05PZGhzOTZSTHBPMjFGc0FwZ1ozV0hIdjk3b0U1ZzJtVUFuWDFHYlNvTnVVd1UzWVdsakFWR09DTDhjZC1tT0xtZkxHMzJ6QTd1MlV1QVJJMFoweGltT293SWdnREV0SXE2OFNab19aZEVmbTFIM0NKSjVjUUhxdXlQSUpETnl3T2Nwa1paYTFSdmR6N1o?oc=5",
+        "date": "2026-11-13T08:00:00+00:00",
+        "source": "CNN en Español"
+      },
+      {
         "title": "Microsoft recortará el espacio de OneDrive en el plan Familia",
         "description": "Microsoft recortará el espacio de OneDrive en el plan Familia Infobae",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGJrQlFURmJ5Q0VuNk9hVER6a0RyZWNjaVlSaWJqbHRuVHFxeTc5ZmRfUmtEMTIzRFBKajFXZWxTYzhYdkJETG5hUUdEN0poaTJkNEZYbS1hRmFGZnBlZWI4enliS0FSWjlwR3pTVUtrN0ZLZUFmMXhzTEM1MFhuVkxoX042UTlpWTJwUms2Nm5CTUhNUmxDajRlRnFoSkZVQ25vQ2NR0gHAAUFVX3lxTFAtZGgtaTJTamRJbTFyU19ELUpZZUFCWWVlV0RYLWVpNDcyc21SelNTanJfS1JnY1RRbmhfRDBHelZGX25ENFFnVTc0MmhOUWlXUW83OFlKS0tZZUh6T1IxTGpmdU80M0ZZZ3JDbUktNE5EbWxtRHZLcWRHOG10amZiNVJncmd4WFU1MW9BS1VIMGNfcVU0eUVheXR2MW91T2cxREtUWVloXzRIMmw3bHY2clF3eFRVWDJvbXlQM3pySA?oc=5",
         "date": "2026-11-21T14:27:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Bill Gates en Argentina: cuál es la relación del fundador de Microsoft con el país austral",
+        "description": "Bill Gates en Argentina: cuál es la relación del fundador de Microsoft con el país austral Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnQ0YlVsb1BIVG5HVUdWam9uOWY3WW1fdjJrR2ZVNHBwampzT0NIcTlyN3A4WE5zc0pOMnZ0UGxsOHZTbjU0Z0dnVmdDbW9PNE8tTWU1ZDZKeVJpSFFRQm1vQUxCUHJRQWs5WmZlSXR3RlJneTF3dWU4RTNDY0hnVFRFdDlSYi1nTC0zRWRHTXBNVC0wUm5kWWdpWFEzb0pjMThweFE1eWY1NTF6LVJuYUozMTdzWnRKSzRNbU5mbkNaYmlXT1VmZlV2WdIB5gFBVV95cUxQVE9KUGNHczZxMU95RzBuRWh4WV9NQktLbUQ2czVLMzRMcEtYenpUalhVb2duSFMzQlBZc1lmU0lyWF9HWjFvTnJWdUZqSzRPdkcwUThiVGFFMUxEdUtpZm1xUEFLNURUa0s0QmFwUURxV3ZoekQwUEMwZHVhZkZZTmhlYTV3Mzd5RlNjNXRwcDVORjBZVmlKMmFyNWNLT1RmRTlMX2VXa1Y1M3ROTzFnWEoycUdTRXp3LVRubWVoRDZRZHBaT2dkanp3THpISWRaZy16VEZacUJFQkxJa20wY25lTnFHUQ?oc=5",
+        "date": "2026-11-20T00:59:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Consumidores europeos acusan a Microsoft, Apple y Meta de cumplir solo en apariencia la ley de mercados digitales",
+        "description": "Consumidores europeos acusan a Microsoft, Apple y Meta de cumplir solo en apariencia la ley de mercados digitales Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY1ZwdmswWlJWLVJuR2ZlX0o0SjF0NExTaDhLWDdMNEZFY2xVZXkzR3dkR05IdkRqLWc5UnlOWUZkVG1jaVJpQVdobjhEeVFkbDZwNmJOM2hpMHdnTjU0bXlEdmVqRlRqR2Z5UklabGlobGJNaGZUdmZZaDloa21QQXJVVC05R2JSVEJvTGV4enprRGhuX0w4eWlVNldrZWFGdzdHbVNZZUlndC1HelZtdTdlb3NrYTJ1RjIyZkF3V1NIMmc3T3N1U2ZvZVBSWVNOWEdCaHVKWWdIaGZDNHlCdnJuSmRkbGIxMkHSAYQCQVVfeXFMTm9hTFJLemo3VDl6R1pUcm1vZGwxQ1pHbXVIMWhJZ0gxNUZDdHZOZFFRSEdOWmFocGxzREZ3Ri1QaXBfUHJBalF3UlBQWFVzOWRfT1FIVkhIbUU2Z3k5RWlxWFBDWnFJMzRJTkJUeXZQc3FlR3BLUGpGdW9ZUkFnNE0talpELVpCamk4LU51bG5sS3pmQXhTREtaQjFuLTN3T3FYbFBOUXFRajEwazhWRF9kTXgteDl6ODktUWY0aGNZTDhSYVdrTWhLSDBzaTM2V2JvbUtBVmJVUFBUTXZXVDFYeHlURTltcmd2S3ZtbFZ6UmlDSE1jUkpjekhRT25zLUU4b2U?oc=5",
+        "date": "2026-11-20T11:07:00+00:00",
         "source": "Infobae"
       }
     ],
@@ -59,6 +59,13 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2ZxUWM4dEJsUUFBbmVaWVpXNmRENnFKZjR3OFVIMzlfaFNjVUp0QTRNRlhBc2pYaXpTR3duU1hxM3RHSGROTm5jMnBOVkF2c1cyRXhWZFphSm9xN3Rkbnd4RU91UXFHUTlwZ3RZakpnNGdIYV83ZlJyd2hVTFFQQ0ozSUxNY1NTdlozZGNTTWlROUxGRU12LWlheFVIVnZqczY5V1pPZnBlVW1Jc1NNMHRtSWVmOXZoMlM2UXdwNmt3ZnZMckEwRk10dWZVamxLLXc?oc=5",
         "date": "2026-11-17T13:28:13+00:00",
         "source": "gualeguaychu.gov.ar"
+      },
+      {
+        "title": "Darán cursos gratuitos para que jóvenes de Lomas de Zamora potencien sus emprendimientos",
+        "description": "Darán cursos gratuitos para que jóvenes de Lomas de Zamora potencien sus emprendimientos Diario La Unión",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkQ0WGVzV0YxZEhoMkhSay11eUVkZm9lUlV0aU9pLWppQ25HdUJ1UUhiVkhXWXNfRDk3cHE3WTI0ajh2S0xOb0gxSkhveVFjdHFvTmR0cTEzc1k3MTJzQTJTLXN0NFp5SnNSVl9aRmx4NzN6LXJCU2liX0JaZDg1NGpPYkJ3S0dkVjVZbndMYUdaUU1pekg3d3k3Zk1VQXBaVEROZ0diOFd2VlZiSkVBZ0prcE0tR2Iwb0RoM29Dc9IBxAFBVV95cUxNLV80SHZRa2hVQ2VGRkljMk9vSHU3ZDU4cEpzMjBQN2VnT3J6UndjRlFhMlVLZDhjTDVnSGYwaDd5VVFTaEF6X21qa19MQ3lPWjJOaXM0QlJvSWd5Nzl3TFJHZU9IT2dkM1VUcFQ5cWdkX1lNanAtdUViTUFTLS15WWU0NUhjNEZuVW02dHV3WW9sQXE3eldsN1V6TVV2ZEZKRk1scVI1YllZSmlVNlFON3JBMVhJOWFrZzBaNFFQb1ZtMm9L?oc=5",
+        "date": "2026-11-21T17:00:00+00:00",
+        "source": "Diario La Unión"
       },
       {
         "title": "La UNCuyo incorpora la Tecnicatura en Marketing Digital y amplía su oferta educativa en -",
@@ -82,11 +89,11 @@
         "source": "Avellaneda Hoy"
       },
       {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "10 aprendizajes del Congreso Nacional de Marketing Digital 2026 sobre cuándo corregir una campaña y qué hace que el público vuelva",
+        "description": "10 aprendizajes del Congreso Nacional de Marketing Digital 2026 sobre cuándo corregir una campaña y qué hace que el público vuelva Revista Merca2.0",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMjlHa2FSV0dka2U5dnVUUlhwOFIycjN5Z2ZneWs4aklpNXkwV0lJeHVOaklJWExCTnJCQ1lHUzFHV2xwREZEV3QzaUxnLWFDd25rc0RIdUdfYm9rWUo0ZHJjb3NyNk12LWRWckt5M3M5QXJrVmI1Z24wOUxKX2RONW9XV3JkWXctSE1EcnowQ2hzLW11aWlOeHRkVTZOM3BXNEVJSkN0VUtqVGtXeFVZRk1nSEE4TmY4YTJVR1FGMlgtMEdvSWVVSzl3YTRPb2JKTzF5ckdVaEVxQVA0cEJCcjNGZUNjSlhXcFlv?oc=5",
+        "date": "2026-11-21T21:04:50+00:00",
+        "source": "Revista Merca2.0"
       },
       {
         "title": "Ituzaingó inscribe a cursos de formación a distancia: marketing, Excel, CV y otras propuestas",
@@ -94,50 +101,29 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXlWQmVDd2RRMUQ5bTh0OWtNLWpYb1ExbDY5aFF1RzdWaDh5c0xyV3RYRkd1TElfUlFRTDRrRW9SRS1VcW9wNmZxTTdDVElEb2piOVhNN0pueThwY25GMWhPdUFMWDNxU0ZDWVV6S3lfUHoyOGRzSUhiNDM4STg5bXczdVBFbXBFWGFLVkJDb3J2MmtNSV93a2NscUxFcmk4RW9qcXVVR0E2WXdaSVIwbG1xR2dIMVc4SDVqbXBBcmpPcjg?oc=5",
         "date": "2026-11-18T19:04:16+00:00",
         "source": "Que Pasa Web"
-      },
-      {
-        "title": "Estudia en Chacabuco – Diplomatura de Extensión Universitaria en Marketing Digital (UNAB)",
-        "description": "Estudia en Chacabuco – Diplomatura de Extensión Universitaria en Marketing Digital (UNAB) Gobierno de Chacabuco",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXhFUUZzS1FCQnpaQXpXZGZHUmNTQ2NPdC1OZmI4Mzc1ZzE1N1RjMzFxbjFpTmVKQlN0aGJWdDJkdXVNVFJKVVFoMXAxOWdtS3ZUbHBsbC1sSVhRU0d1ZkRTN05WMmUzOWQ0T3BmRWdIRlBmTGlfU3F1eFVhdEZLZTVPZ3BSamxBZ3RneEh4cWZETlZMenZibGVkeWJzWEowS1JkMWFPaEdjLTBOMGVXRg?oc=5",
-        "date": "2026-09-01T07:00:00+00:00",
-        "source": "Gobierno de Chacabuco"
       }
     ],
     "IA": [
       {
-        "title": "La histórica salida a Bolsa de Anthropic añade más riesgo al ecosistema de financiación circular de la IA",
-        "description": "La histórica salida a Bolsa de Anthropic añade más riesgo al ecosistema de financiación circular de la IA EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHJsWTNPRmhET2t2S2RKZUlwbS1fa0JJOURLa3ZoUl8yWllGdl93RkJKQVA2cmUteU4tdUtLWUlOTjE5NEdpVUVqaHR6WXdva3psT1RIMkplX0pFeWM0Z2REMFczaWNlMWMybXRWM2hMOHFHakEyY3dOVVlidDVWcWs3RkV2V1ptczZzMGlwTVFlSWNvQzdETzNFYzZqSzNRTGhnR0FPZmZ0RWI3UTMzSlNHazk5cWU0MXExNGxUdlU2Z0FOMXRTbjdOdkhjWUxDV3ZCUUFZby1OaVk?oc=5",
-        "date": "2026-11-21T09:30:00+00:00",
-        "source": "EL PAÍS"
-      },
-      {
-        "title": "Los hermanos Amodei y la cultura singular que convirtió a Anthropic en una compañía valorada en más de un billón de dólares",
-        "description": "Los hermanos Amodei y la cultura singular que convirtió a Anthropic en una compañía valorada en más de un billón de dólares Infobae",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbWt2b2lnLTlpSVR6WW5FOHp5OElVZVFrcGJKWVZjamNYNVA1aUgwVFNxc2wwdmlfNWNwX3J0ems4SFZ3RXdEUkd4bUVqRkcwalFhMEFPOTZ2ZU5Ebklzd0NxemJUTWpUYjgtZDdQYzBaN3NfbDhiZl9fclVMdGswU3VZZmRHdGpBWVc4WnZxVWZ3bnN2eW13RTEySHVndzMwcFJ4M2xwV3VFYjZKMEhxWmhWZU53TGthdG1kMDRFcEh0OUgybzlycEhqQzJ2NUJiTTV2OC1zSmNNUUQyT25reGttb0I1VUFlMHY1QzFTZGNtcFA0SWwtbkh4Y1VzZnhqRkowTtIBnwJBVV95cUxPYndQbmJEQktBbFlOd1ZNUGFhTWMzV1RZUk9ydlpUdThRYmRmZ0ZMNXVZNWVyV1FaRmdGNzBKUEF5WGNIemw1dzlqNWQyV2tIeVdDRlJrY2I0alBtZmJ1Vk9aTnhuZnNkSm9zMUxLeEZaUV95Z2pBV0J2MEo4akNOQTFGblBGdnItU0lvMzgtTUluQWhHQWFhRGNhQ2FZd0FEcVgzX2JMVnp5MVBLZWQ2SHU0WHB2MlhOQ1AwUWwxZkNQZE10SkdpZE8xWUp1WE96OTVReHAtU0l6NUh4UkxJU2dsZ09oQU9FMzA4MmRsenljR2dvSEg5VWI0MW9UYnpBRXhxMGcybmd1Tk5HeGNEVjRTU0JHUkFQdjNWRkdPRQ?oc=5",
-        "date": "2026-11-21T16:53:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Los \"7 magníficos\" de Anthropic: los creadores de Claude ya tienen una fortuna de US$ 140.000 millones",
-        "description": "Los \"7 magníficos\" de Anthropic: los creadores de Claude ya tienen una fortuna de US$ 140.000 millones Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNi1PeFlfbEpwVVlMOV9VQ3I5ZUxadllQR2U5WC1pRUtRYno3ZXY3SlNUUjd0NWdjQTNDQlJMZEhWVEg5aHR1NDNkd2I3QU12Ti0zclJQRGdVejNiMlIzOTJnamJITUFTU2FWbW1sYTRrRU1oYlk5dE53QlpBOVZXRGxzWVhpX0l0UGJoTXlfalFWbnctVzdXZWFjWUJrTlVPSnlVQ1BCX19YZVUwd05UaUZyb1VDdG8?oc=5",
-        "date": "2026-11-19T16:56:11+00:00",
+        "title": "Dudas y temores en los mercados por el apogeo de los colosos de la Inteligencia Artificial",
+        "description": "Dudas y temores en los mercados por el apogeo de los colosos de la Inteligencia Artificial Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNllpekl5eEN3ZkVqLWZMZXRvWTgyZHVvUzc1MDNuUF9fYmVlMWtNMUc3Zmd5UWpGUXJsRUFvWThQbjNWemp5OEU4ZnZtQXNVY201dkJYSWZiX1RkVUZ2QjZtUG1aMGxkVmpHSUZtdUphUTBvRnBrVF90dnB4TEVHTmdjcmpTYXNNMkpmSmtTQ2JvOTNrZHZDSlp6a3QxUklQRVBNbU9BWVZmWjNu?oc=5",
+        "date": "2026-11-21T22:30:54+00:00",
         "source": "Clarin.com"
       },
       {
-        "title": "El impacto Huang y por qué la IA no es una burbuja",
-        "description": "El impacto Huang y por qué la IA no es una burbuja Infobae",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUmpyWlF2R09tRHNWVXYtdGZMZUZ0YjU4R0NHWEtPNzdncTNtblFpaXU3MEFxNlBRcG9DaXZuclgtLXhBcEZhT0xHaTBkUFNYSE8tcXMyNnpZdlJLT25INTFNODZkdkx0bEZmMWRDOFlNdVpwc3d5ZXk5bXY3VlhFdHFTTFc0SUFVRGtlcHc2M0JTbnZGWWR2MNIBswFBVV95cUxOQmpkNUZPMnBDbWd0ZW1PbTdNR2F5aU9IRFRsNjdGNWRfeC1hQ2dScEIxSUJYRDdxX1lrUXF1TnhRTFJUWkxfUHRPbGZMQk5tajRmbmhiTmo0WXhLQ0hEc09qbm9zQjl2QmVnMFRHYVlhNUxXcmpicko1OEJJbUUxcW9JWlE2TENPWUphVXVuaklsTWlGZ1l0dFFUYW8yZ0ZuMS1lalRnVG0tajAtb2JvdXBoNA?oc=5",
-        "date": "2026-11-21T18:33:00+00:00",
-        "source": "Infobae"
+        "title": "Lactancia: por qué cada vez más mujeres recurren a la IA para resolver dudas",
+        "description": "Lactancia: por qué cada vez más mujeres recurren a la IA para resolver dudas La Nación",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHZtNU1fY24zQ091bERqMEx5cmtTbjk1TmpQUTBxc0pOQ1JkLU5FRTgwREdLbEhMa2NrTjI2SHhCYWg2SS1KdTIzUk5EWW90WDNzSHVCVFE5YTJ6Z0ZURmFlWTlteF9CUXJENFA1SFZEdUV5b2pabVYtc09nbXZGSnUyR3dQcGFHYXkzVml6N0RSNWItekFTclk1T0pHZVE5NzczRS1UY0FlMEgwRkg2MldBaVpkdDVrVzFrUFdqREwyYVE?oc=5",
+        "date": "2026-11-21T23:00:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Un matemático de Anthropic asegura haber resuelto la hipótesis de Riemann, el mayor enigma de las matemáticas, con ayuda de la IA",
-        "description": "Un matemático de Anthropic asegura haber resuelto la hipótesis de Riemann, el mayor enigma de las matemáticas, con ayuda de la IA EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcFp4X3JIYkZ1TGxDZWNpeUE4bzBBLWJ2bUprd0FpMGlrWWtVTFpuM2ptZFVLSVpZM0o5ZllRYmpzZEN3MEZpa3BiRTM2c2xva2R6MG9iN1YxWmU1ZjZ0bjVGZ0dqY3NaSnZRdnpsQTd1emtlVE1TV29LWjd1SEdOUVlqSHVjOE1rZEYxbFBCS2doSDREN20zVkZ6Nl9qbXlwUHpRTm9kTVVjVXQwYTZKTy0xSnNQUUFkTlU1SHBEUy1oZHZOM04xSmc3ZEtwVEdjaXVCeWdHUXlJbUdaTVEzSFdJWjR0QXJuMHdweEM2MVZDdTRfb1dvedIBjAJBVV95cUxOVnJOMnhuR2FVLVU4Zmt0STEzdHpsLTJtYTd4cXIzcXoyMmVoRlpldU1JSldQZDFINGZlSkpsSlNsWDR4OE54UmxGRGlURmhqMk9jNXBCOTZNS3RtOHkweDFWMFNtS05vblJDODhDd1BDOVlCWGt3Vmd3RUNCWlNEbHZsSTlGZTZzMjIwaEx2N055dmd0ZzBreUFQczNHZThNMkVSZE50dnB0ZDVpdmpaNUNlNjlpeUtSdUtFQjVYcHIzaDNQN0pZZ3ZIVHpDai14VElLd0NrLVIzX1oyd3h5OG5vTkpqVFBUSGdLZ3JkUDYwdHJadXNMRU13VHh1TGVuTDJRcy0xeXlxSzlP?oc=5",
-        "date": "2026-11-21T01:12:10+00:00",
-        "source": "EL PAÍS"
+        "title": "Manual de usuario silver: cómo tener un asistente de inteligencia artificial sin ser un experto",
+        "description": "Manual de usuario silver: cómo tener un asistente de inteligencia artificial sin ser un experto Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb29OY3hIeHZwMnd4NlkydnhUb2w5OTgwSzh3MHBsRGx1aDhINzVNSXRXdUV0RDFqQmt0Zk1CczdVdEZoRVNpMU5SNEVBMWM4TkVpaDlWYnU2MnNvV3JBWG5WUjU1bWYxanQ4QnBPZnRYV24zQlUwb25VcWpRT0F5S1o2WUlmZ3ZPZ0pzTzFIYVJic2YxaExiMnkydXI5R2lSY2J0eThwVnRtdGhWOE95TG9WN1BPS3U4aVBWLUF4UlFmN1NxTEVSRTZkT0RxeHFFR2lFUFhvUkNtUjZzOGVMZTN30gH8AUFVX3lxTE1nbkVGQkJCVXJxNy0ybzVSVGNoMFBjTUF6Tk9DdlV1VmdEdWtqak9HTFhPM1hlWnBXNXEzVmdrd0dUcDhLcmhhUGd2M0RfNE4zNTU1aDl4TEtkc3pPY1hXNkRaU2lZeVFTV2syTUJHMzNVcm8wODdkeEpRYWsxRDIyemI0LXBZcHdaRnRZMXlNVzVubnhDb2ZqallCQ1BPWnUxWXMyNlQzNnl2RFBJWlBVLWFzenE5LTFLSEZGNTNya3JpQ3I4S0hnd29CQlhtQUZ1SFI2UW9CZEUzZk8wR0JEcUZYWkhLTU1PVXlUTWxuYjlraGZKWmJUZ3ZSSA?oc=5",
+        "date": "2026-11-21T10:34:21+00:00",
+        "source": "Infobae"
       },
       {
         "title": "La inteligencia artificial eliminará muchos empleos. ¿Qué deberían estudiar tus hijos ahora?",
@@ -147,11 +133,25 @@
         "source": "CNN en Español"
       },
       {
-        "title": "Caídas de sistemas, ciberataques e inteligencia artificial: qué explica la seguidilla de fallas tecnológicas en el mundo",
-        "description": "Caídas de sistemas, ciberataques e inteligencia artificial: qué explica la seguidilla de fallas tecnológicas en el mundo Filo News",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdzdfTDEtQVNEWU8wYUNoU2pZVHo0aWx4UHdtU0tTekpvQ05rc3N6cnAzLXpxUThwekRsTS04T2ZWdmdTaERMTWFJODNOOFVZd0JpVDRGdEF0SUp1Z2lKekh4UXVGNjJkeXZBbXJnVFMtWGpzdnQ2ZHo4Y0M0XzNMOGRHZnJmZUZrTERMQWRhVENwTUg3cUk1TEt1UXNLRU4zbG9uTnFJdFVJTG1Gb1VfTUJfdnBqTy0xTDN6b0lWQjlraVdqaFZJUHliVWhXX3hPclJUcHh0YTdmeVZwTzA5UFg2M2N2U0N5cFRBalZQRHc?oc=5",
-        "date": "2026-11-20T15:08:17+00:00",
-        "source": "Filo News"
+        "title": "Un matemático de Anthropic asegura haber resuelto la hipótesis de Riemann, el mayor enigma de las matemáticas, con ayuda de la IA",
+        "description": "Un matemático de Anthropic asegura haber resuelto la hipótesis de Riemann, el mayor enigma de las matemáticas, con ayuda de la IA EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcFp4X3JIYkZ1TGxDZWNpeUE4bzBBLWJ2bUprd0FpMGlrWWtVTFpuM2ptZFVLSVpZM0o5ZllRYmpzZEN3MEZpa3BiRTM2c2xva2R6MG9iN1YxWmU1ZjZ0bjVGZ0dqY3NaSnZRdnpsQTd1emtlVE1TV29LWjd1SEdOUVlqSHVjOE1rZEYxbFBCS2doSDREN20zVkZ6Nl9qbXlwUHpRTm9kTVVjVXQwYTZKTy0xSnNQUUFkTlU1SHBEUy1oZHZOM04xSmc3ZEtwVEdjaXVCeWdHUXlJbUdaTVEzSFdJWjR0QXJuMHdweEM2MVZDdTRfb1dvedIBjAJBVV95cUxOVnJOMnhuR2FVLVU4Zmt0STEzdHpsLTJtYTd4cXIzcXoyMmVoRlpldU1JSldQZDFINGZlSkpsSlNsWDR4OE54UmxGRGlURmhqMk9jNXBCOTZNS3RtOHkweDFWMFNtS05vblJDODhDd1BDOVlCWGt3Vmd3RUNCWlNEbHZsSTlGZTZzMjIwaEx2N055dmd0ZzBreUFQczNHZThNMkVSZE50dnB0ZDVpdmpaNUNlNjlpeUtSdUtFQjVYcHIzaDNQN0pZZ3ZIVHpDai14VElLd0NrLVIzX1oyd3h5OG5vTkpqVFBUSGdLZ3JkUDYwdHJadXNMRU13VHh1TGVuTDJRcy0xeXlxSzlP?oc=5",
+        "date": "2026-11-21T01:12:10+00:00",
+        "source": "EL PAÍS"
+      },
+      {
+        "title": "La UBA reformó la carrera de Contador Público: menos materias, inteligencia artificial y un título intermedio",
+        "description": "La UBA reformó la carrera de Contador Público: menos materias, inteligencia artificial y un título intermedio El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGdhMllod0lLMkVMMlF2N0pIS2d5RGl4NlE0Rm12cEJIdjBKVmZtVGtPakduZ1FlWXR0cVdUY0k4SG94QktDdzJLUW5vSWw5ekx4N0lIRnBwVzl6NV9FVDVySXhTMGUxOTQzbmQ2T2FCNEFuaS1ZUXNVX3l5Yk45a2wxaUxsSEhqVkRJVmo4bmJtN2cyZFQ3dzhqamJGcTUxczJOcXR3dnlXd2ZlNG9tSk5iRDFzZUxpWElqRV9POWwzcVprNV96MTR2a0xkWGJFXzc3Z25Cd3N6ZUtYdVJlVndTYzRnd9IBgAJBVV95cUxPM0VTMWU1bVNtb1NiZ0F2c0xIYlNnclE3UXBZeXZfdUxmS0lkRnhCUVZfdUZSQlRDVFBfb3JXVTc0amR3bndIbDl6MG5lbXRNRDlHa185LVVkVVhWUmtfSnZ2TjAxcHdXVnA3djhGQXFhNENOUjFaLUExRVU0eDB6TE5YWkV6UUk1cEFwVWJscjVpSmc4Y3VycmFES0Qta1ZVbjFST3ZCRmpZdUp1RzFUS1dUVHdlcXFRRXRCdURsbUNJbnZqX1dKeFZqSnM4OV9XQ19HZjIxR3JWQVRjMlFpdWpoS0dBaHJZYWVjTXhOblc3c2FjVDVOTHB2VDlqNlZI?oc=5",
+        "date": "2026-11-21T11:29:46+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "ONU prolonga complejas negociaciones sobre la regulación de los \"robots asesinos\"",
+        "description": "ONU prolonga complejas negociaciones sobre la regulación de los \"robots asesinos\" DW.com",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObmtwWDh2VDVqMjNYblJOMDR4d0NMc0N5ekNvQ0xmaVVmaGpGM1l1c0pocW9VRnlDUkwxSVdqWlU4Nll3OUZrV3F5eWpWamxtaC1TQ2JaUTIxLXp4WnBubGxFSmxMNXI3M2pzMnhEdHhEVXBweVlZVDNrQ1dJaGxSWlJQM0IwYkcwTjNXRnBqc0lpMnNacXlEMERscDVvZ3JsdXo3ZTdfWnpnZDdZdHBvSFBNZDlBVE5FcE9waW1QY2t3Z085b3hhN3I5N29ra3c1eG1MMFJITFlZc3libi1lbTVGeXg0ZEFn0gHoAUFVX3lxTE5OX2FyY1hta0UwUnlvZnZjU2hETlZnQ2RuRnZGcHRJMHNIeWNxenV6YkdFendrR1dxTE16TDJkQU1JdjdxcnRsaWtPZEZkOGxZWmxveHI2RkNyczZZV0E3bk40d2Roc2pMT3RPUWY4VkVDUmFIU0RjT1M2QXFVbkF5THgxRFFRMWo5aHJzWVdMYzM4MElIaGJabzNLeTJSSldQaDloQWRWM3FfMG5pU1lIcjdPSVVBWS1hTi1WTk93Rmd0bzRlU1h5QlJlV2lrV3AycWlESV9WRWRHWEREM3RTdllKSU5xN3g?oc=5",
+        "date": "2026-11-21T11:21:55+00:00",
+        "source": "DW.com"
       }
     ],
     "Vaca Muerta": [
@@ -163,6 +163,13 @@
         "source": "La Nación"
       },
       {
+        "title": "Acuerdo comercial entre Milei y Trump: el Gobierno lo enviará al Congreso en diciembre y hay impacto clave para Vaca Muerta",
+        "description": "Acuerdo comercial entre Milei y Trump: el Gobierno lo enviará al Congreso en diciembre y hay impacto clave para Vaca Muerta Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdEFBai1kdHZ1MjJBRDFfekx1akNoYjNsR2JmOFZrTmxKRXBWb2YxWkNXOVFKUHJMWUNLcHZMYUNkX0NhazZzU0FILXZYVm1hVlVmMVFwVVhpd01zYmZjUDh3d1dSM0c5LUVuTjYxb2R6c1Q5LXMySmp2YWRJSEdJUzVUZGNMN2o1czhYWTNTdVVtVW0wYk41WlFLaTJvc2Y4SExYY3pudUNmOFVyY0J2YkZpQmMtalBRUk9LVF9OMmNVSHI5U3ZDczMwZkZFNUpPZGVFdmRzNW93UGh2cS1LZW5qZWg1LUI4SGx4cEFVTjh1YmJSaUQwYW1TaHg?oc=5",
+        "date": "2026-11-21T21:55:46+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
         "title": "Vaca Muerta, una historia de 15 años que dio vuelta la ecuación energética y de divisas de la Argentina",
         "description": "Vaca Muerta, una historia de 15 años que dio vuelta la ecuación energética y de divisas de la Argentina Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOUt6dFI4dlJ1T2Jad2JNRzBsdXh5aTVFeFphVVZtTHpYZ3l1eHJ4TkhsRFRmSGVTVEFrS1liS2pWN1J1QmctLVhLS0FId3UzT0txc2VxMlFxbUtWZWpSV0VJd25CdFpCS3luRld2T0UydmlNb3UwdHZ0b2lCS2JxTVNRVnhvVDVoMHBZQy1pdS1VMlRBQVJQYkRId1hlTEdsZXd2clU2dVJKMTNFYTluVDdKQWVDRXd5MkE4NFNkYXN6ZDU2eTJFYWdMaXI1MmZQX2fSAdcBQVVfeXFMUExOaDRMR0ZtNDNFWmFJdUtXdFJhekJ4N2pURWQ4aVgySDZlR2VZTjhsazgyMjVlWlVwdUFMZmpCb3R6QWpPelcxSVJ6eWxvcEF1X0VyeFZVUVZwd1FLWHJld2ZPTFRxV214bUJyckt3Y1pvN3cyUEItVGhZSkcxcjFKSWxKTWc0SHRLWEdYbEJjRzl1empZcWVkNk5xbnlXbV9BLVpUbHZkZy1jUzRVc0RQTHhtWV9PNGFmdTVfMkRfbTYzenhoTUNGdng3SDV4bW83QVBzVmM?oc=5",
@@ -171,10 +178,24 @@
       },
       {
         "title": "La ingeniería de los 50.000 millones: megacomplejos, puertos y buques para exportar Vaca Muerta",
-        "description": "La ingeniería de los 50.000 millones: megacomplejos, puertos y buques para exportar Vaca Muerta Lmneuquen.com Aprueban el RIGI con la mayor inversión de la historia: u$s 50.700 millones en Vaca Muerta El Cronista Luis Caputo confirmó que YPF entró al RIGI con un proyecto de…",
+        "description": "La ingeniería de los 50.000 millones: megacomplejos, puertos y buques para exportar Vaca Muerta Lmneuquen.com",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFA1VnpVOVM5VHVLMy1kYUQ4SFJxcG5hdEYxaXhRMGh1c3gzTzRkVEdrV0lyZDBFSXBNSkJyRm94Mi1SdG14Y0JqaE1uWF9ub3FaYmk4QW1LWDJDbmNBdHhyc2ZWRHpKQUN4YThkb1lpbnFiaGNlNjNuUmdjQ25vOHlGUXdmOVlHOHpRb3YwY0laRHlHZlByd0NDcndVQ0txa1JMSWhFejdyaGlqM3FGbWV5TWVhejhKczVXc2RZbk45R1VEWUV4NkxxNmHSAdIBQVVfeXFMTUxzZllWeWRhMU5GNkM5UmJwNUZVWFBCQ1dVMlF5LXQzT0RTbjRQX2x3VEJzOWZqY0k3b3J2c3hIZHBJUVBOUlNNUjBJYmxpTFpnLXRCN2Q0QmxtQkZCZ09tblhhTjBadjc2Wm5XdTM5SEt0Sm5ucmwxdTZpT2ZoUXNxd2pwMWxHR0Q1M3JuWUpYbUtIWjFtX3RnVnQzYUs3cHZ1MWVSQkxDVXJDV1VGRDlGY0NCV3UzVUNjQjMzWVRsWTRrVGZoZlFaUWhWMEhPX3FR?oc=5",
         "date": "2026-11-21T03:00:00+00:00",
         "source": "Lmneuquen.com"
+      },
+      {
+        "title": "Aprueban el RIGI con la mayor inversión de la historia: u$s 50.700 millones en Vaca Muerta",
+        "description": "Aprueban el RIGI con la mayor inversión de la historia: u$s 50.700 millones en Vaca Muerta El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObU11VjJiQVh6aU83d3FRUWJERDloUUpzX0NqajBNOVRlVUNFV3FudUFUZDF2dVRSczV1bl91Zl9FQVRKYlVjMWxhaFZEQndudk52Sk13aTN4cGxoaGYyWXdJVVNZWUxDZUpRYTAxMXVTbzZPZ2hpS1piQWJ4SGt3cExKQjRPXzllSzA1RlhHYUZGZVJNT0l5enZFYXBmTThzNk5XNlV3U0VTT0pXZzZCendhWXcxLVBSUEhkVEk3Y3dxeWJl0gHfAUFVX3lxTE5sVmM1cmRxamItZmp5RmNudTVIbFViTFJpenFqQ0J2UmNId1hLZDYyalo1NDNVQkJiNWVtZERPNHp5WnhERDhGaFhHaGF1SjdEYVdzdVhQZmNGaWhuS0NZcGlqX0RXb1BoRy1Ec2h1Vnl3aS05QndPX3kxVF9ObGFORGgyZy1qT1RQMEFTV05NMGNtM1RBcHE3U09qa3JuMG1xanZTRXZxdWcybnZxVllYN2NQbG9BOUdIM2tRenlJUXVCSERzR3I2dzBCcHFtbHpEUnpaVk5SOHFFdXF0RlU?oc=5",
+        "date": "2026-11-20T19:08:24+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "Cómo será el gasoducto más grande del país que habilitó el RIGI",
+        "description": "Cómo será el gasoducto más grande del país que habilitó el RIGI iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTlaX01BVTJyUnZ3T05iMDFMLVpTLUtzQnJ2Z2wyR1czRkdjY3h3bUVwbUdGUlNFcGJFTUZGcnBzUnpCZDBmbndlNnhzVTkwdVh6YnBPV2pnMDY4VU90SDN4LWUyV0o3bmxfeU8wYkZOZTZleHJ0N3d1YVcwcG9TNF9EMGYweWd4bG1MYld6eEdhMTMxWjdTTXFpRmQ4WTktM1Vic3NKZEJkNW_SAbABQVVfeXFMTlFlcXJjaU9sVE9vLVN0UnJEd0ttUmg0N1g2Wk04a01IZ1NzNEJZQ0hPOEdsN3dYMDFIajhuZG9CTnlEeFdLSGpGbHc4SWtGYlhtMFBWaXRNVi1uN0JnNU42RWpGZWtnNUM4dUFZNDF6VHNJZ3ZKU3dQRWNpOEhTTXFsbFlTcldibG96Q0diRUotbXhhQVNCRnJjSmtSM0U0N2UyMzk1Yk9fdXdGMXBkQmk?oc=5",
+        "date": "2026-11-20T22:40:00+00:00",
+        "source": "iProfesional"
       },
       {
         "title": "Una petrolera británica toma distancia de Sea Lion y apuesta por Vaca Muerta",
@@ -182,27 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRS1GM01iOHh3Q2Qxb0xBNXRiQkVNUEVJdWtyTmtkUDRzeEwxWmx5WmhNNURNMlhILVhxa0VmeWVrN1ppWGQ3bFpqaC1TS3hUYjFlLVZRa1ZQRW9VMC04SjhQRHVYMHdJMk1uU211bUpjQ0NETTNSN0FFQjBzbURONHlZR1RlTVBWeXJBcUlMT19FMWJocjQ4UzJRY0xuWmt3R1EzWHE5UlJJUW5ORXBzbnpadmRYdF9y?oc=5",
         "date": "2026-11-20T21:20:00+00:00",
         "source": "Filo News"
-      },
-      {
-        "title": "De Ushuaia a Vaca Muerta y Puerto Madero: qué buscan Bill Gates, Peter Thiel y Tesla en la Argentina de Milei",
-        "description": "De Ushuaia a Vaca Muerta y Puerto Madero: qué buscan Bill Gates, Peter Thiel y Tesla en la Argentina de Milei Perfil",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjBNWUNBb2txMU4xVHNuQVM4Q3g0T1ZWY1M2LTJncG1WZi1KVldKQU0xNDFPenQ0QnJTUDI5ZmNxUkJ4bFg0LXB6ekhkVzlaclJtdENDdk9CMzJCdmxNY2YwZlZlZ2o2ZFNpaDhqdlVLNkpLN2p4cDQydlBGOExDR2hyNVExYUNRVDZVVHdOeXRCRV9BbHpwSmo1Tk4zYlZuejA3UjNhYVA1ZXo3YUtn?oc=5",
-        "date": "2026-11-20T00:02:27+00:00",
-        "source": "Perfil"
-      },
-      {
-        "title": "Data centers: la oportunidad estratégica que podría traer la IA de la mano de Vaca Muerta",
-        "description": "Data centers: la oportunidad estratégica que podría traer la IA de la mano de Vaca Muerta Diario Río Negro",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOGl3enZlUHBvT1dGamptOUZWdVJOS0ZUTUV5WHZ3OFZUN09PSGNCeFJfZnNybzVLNjc4UVY2WUJQWjQwYWxSRjcwcEFyUXR5b28wdUxIdEZOT3JfWVl0cjB1dUh4a1ROS0N1eDJrY0xiM0RpOWNBZ1JWN1pHQVhLQklHY1ZzbjRDQXQwekVzOFlEM3B5UzR1ak5vNmVFWFpOUlpJYkNvWEtXaHU3N2VKcUJ0ek1QcTVLbTV2TVo3NTFQUGFw0gHMAUFVX3lxTFBIaGU2SVFnY0dHeUFwc2UtbkhqdlFENHVqMUJmeVdNMl9mOFYyM0NVbGlEdFVnRzNGVlRvakxpanl3QlVnQU94bGl4MUp6bk1qV2k5Zk5qem00VUxjbVVRT1MycllPZlRnTjRDVWJIdXozZWtaTVJSMlhieWxPQlIxelNYZjdZV1A4a2QyNWt6ZEJYLTZrNkNhdnVYNnkxRE9QUUstemI3ZUZ1Q2NvS2ZneG8yS29GbTRscWRXa3l3RkVlS2RWWTdSNzAwYQ?oc=5",
-        "date": "2026-11-21T03:45:00+00:00",
-        "source": "Diario Río Negro"
-      },
-      {
-        "title": "Vaca Muerta busca ingenieros y la escasez de profesionales dispara los salarios",
-        "description": "Vaca Muerta busca ingenieros y la escasez de profesionales dispara los salarios LA17",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPendaZ3ppS2FxWHMtMGhuWUZKT0JjTThXaHc5V1V3QUV0RkxUeEhmUWM3b2lWX1dEWE5jaFZoMk1pYm5xNjZQOUJhc2VWUEFqMWJhcXkyNWxtaTdSeEVHMkhyUl9XVVdyUmlZVWZyM20tbUJRTy1kTnhuc1RGcjlKVFlwbHVkZEFuTmwxQmI4MHFyVVp0ZXJ1bExQdW05ZlpoQ0dxNFo2Y2pWQThZRjNKLU1TYw?oc=5",
-        "date": "2026-11-21T10:54:00+00:00",
-        "source": "LA17"
       }
     ]
   }
