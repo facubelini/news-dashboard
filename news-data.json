@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-11-25T02:53:58Z",
+  "updated_at": "2026-11-25T11:59:36Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Fallo de Windows 11 permite saltar la pantalla de bloqueo con el Narrador y no tiene parche",
-        "description": "Fallo de Windows 11 permite saltar la pantalla de bloqueo con el Narrador y no tiene parche Infobae",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdDctSFdOcXJsSFAyc0dLMTNFODV3MHBJcDlsLUpsY3pFZUZYdnpWSjRBeWRYZjd6clN5cF9yeFFxUllIQTVzX1NuMFVOUEd6bWwycFFqb3RYRGFFX3R0d2hFd25jRHZUSU9uQTMtS0paRU96QW94QjJ2WGI0V3Vvc0ZoLXZCVEU5X1pWajNxeUlNX3gzeXV5SUVXRFVEc09HdFJBdWdpdWhnTTN4RDJVU2s4VXJra2VpQjREUEl6T0I0Vnhsam1DWVc0N2dhUdIB6AFBVV95cUxPS2NhSWZjSFZIUzQzYjdRWHJKb1ZSbjc1c0Y0MEtiUzdVSDJyQVEzNEtUaVVSazBid19fcGZTQV9UMjAxMjhhaEJrUHlVeGtPcG5qV2RSei12cVR2M0RiUktrR1dhQzJTTXpieHc5QUZwR1ZNc2IyNlB6cWVOMGVSSGFTMldfM2dJOW5ZQmJNeXhReHU3c0FKbV9rbDdJQURhaXB6Qkh2LVpDSjl0WHNYdFlMbUZlRWlLTzF3UGJlakxZa3NiZmh5STBOV0F3czVmenJ2dDgxVDBrOEpKS2FGYTBMWEpxOHR6?oc=5",
-        "date": "2026-11-24T21:04:35+00:00",
+        "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
+        "description": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnlOeVZpZy1oX0xhNThJczhYampkVXU0V1JjRlN6UERHUk9PaWNFNEtZeS1OaUVCUE51bVBXaFAtekJjVm1KYlhCdzZRMWJuSmZPZUo5d0xheXdoZEVIQjdrWUJjS3hKSEkwcDZJNUFxNjdMNk92MjlBZVZuNWc4ei1jYnkyX0ZNU1VtSWQxZDM2M3JDbkpoSFdSaHlhSUoyX1R0dERrOHVWTmx5UnRkRGxCTUZMRW14WHBJQjR0Z0ZpZ2YyOWtjQy1n0gHPAUFVX3lxTFBzcFpVV2JNQ1AxNzk4V3FoQVM0NHdtVEpCdFdJUTZRcENFWFFoSGF6TUJpUjNqaWxPY0tibDFidzg4aHR0RklPNzZFQWlmTW11bHU3Ui1Qb0hBZGlBTk15TUdmbHYxcE9QVXJrTkVEdm1KOWsxb3g0NGpDeFFUdHZEcG0xdXU2ajlILWc1Zm5EYUF6eWRtN1dUa1VvOWZHdnlER3ZucUt1NS1GcUxLTUItVFBzZzJpbEpJTjB2ck5nMjVEOUFnSW45UEFoazZOMA?oc=5",
+        "date": "2026-11-24T21:00:00+00:00",
+        "source": "Xataka"
+      },
+      {
+        "title": "Cita del día de Bill Gates, ex-CEO de Microsoft, sobre el valor de aprender de los fracasos",
+        "description": "Cita del día de Bill Gates, ex-CEO de Microsoft, sobre el valor de aprender de los fracasos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQmh2cnMzbUdyaFRFdDl6Rk90dFllV0F3eDNKc2FjdlpwYm5PMktUUGFxVzdrV1N3ZGlGNElxNlFZbjBWLTZhbWRhM0tJVFc5NExrdzZVeE5ZTy0xdW9UY2tzdXcteENHUVZ1aDVDV3A2RnRjZ1QtUDV6aG1uRXBmV0trLUNKclRLNU1kVTZVN2R3a1ZKb051d3F6cDlrd0JJMjBXc19sWjRGWnpiSWItWG1PZlNuT3hxUHR4dm92Q0xGbjBNR2Vzb1M1SkEwbGJJU2R1T3h3?oc=5",
+        "date": "2026-11-25T10:59:00+00:00",
+        "source": "La Nación"
+      },
+      {
+        "title": "Microsoft Teams detectará las llamadas fraudulendas con una nueva herramienta de inteligencia artificial",
+        "description": "Microsoft Teams detectará las llamadas fraudulendas con una nueva herramienta de inteligencia artificial Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeTdqWmM5b0k1NE5PaUpzYnIxOE1raktXN2duU0xfcURZbk9OWm52MXk4UTBvWDljOVUzeGppSXpqQl9XTVl1bUVtMnhLVURKT3k0cFZ5QXh2THEwRHNLUmY4aTBqRXNtYVlneWI4azZpX0dzZE4xNkJycjdyNGhaN0hxcFJ4M2hpOEFWMXZ1bE9qZ1dZVU9vOHVnU01OV3R1Sk1ISmpxazgzUlJuUG0zRmdPdlFoVG5YdHd6ZENFZjY4aHhuWUhMVnNjY1JHOXdrajNwMFBBTk44ZnZCdU1qaVk2NTY4Q0pOZ2lMajlB0gGIAkFVX3lxTE1EU05CWmJNZlJYNFp6ZE4xZGVGdVUtVzl0UlVxRjk4Q0g4VnppYWc0eGoyeEd1YTdFS3dkVUF2cFQ3WnlpRFVVX3JaR1RmMGx0eDUyX3M0emNSSllSRkk4SEo1UERoU21kY3AzWTAzSEpYaDluUjRzVFlMT0FHVEdMamhtandScnJqQVVqdHZ4NmE3alU1SUJtY044bkxvblF0eEZtUHBITDV3RW1qdzV1SHJsdWF5bGJDWkR6Zk95QzlRSHp2azc3c1VLTGtmdlFmazVkTUJQWkZWOHZUa2lwcS0tcHdZeEVKYjlKei1fZk9STFNSVEt2Y253U1JnLTF5b284QTlxZg?oc=5",
+        "date": "2026-11-24T13:16:00+00:00",
         "source": "Infobae"
       },
       {
@@ -17,32 +31,11 @@
         "source": "Radio Mitre"
       },
       {
-        "title": "Microsoft reveló paso a paso cómo se produjo su gran caída global y por qué tardó tanto en recuperar sus servicios",
-        "description": "Microsoft reveló paso a paso cómo se produjo su gran caída global y por qué tardó tanto en recuperar sus servicios El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUmtMWVF0ejVWankwNW81eFJYU0c3cnUtZmh6MktEWHprZHhVMWlOdEN0MWh0OUpNMmlFOFN3RFRyV2VVZXN2eUU0aGlDQS1CMjRlM3NXTDUwWmFtRlV6ZUNYVjNmaG1CWFMxMGZBb1lPRERIRF9JRFZGd0RpZTZuaUNEQnNtY1pDWUFmemRyZVFyNkhOUGxfMmQxcFhhTnFYRzhmTFdDSVk4X1hqYWF5QXFlR3BQbWRQZmwwcjFna0tVYlJuUmJkRjVfV0JFN2N4ajFmNnVhTXM2UFFvdHk2UEh3c3ZRU21wSVc0WNIBhwJBVV95cUxQd0V0NmhjV3h0WjBzdGpBczZlcjAxQnZ4RFVoRG9zbnlpeFotenVZQVVGRm1tYlIwUE9aZXE3WFYzN1pHMnN0MG5VdGV6UFpYd3ZKaV82alE3WG5RckNqVTI5YVJOWVdJQnpjX1d5VUowQVhGWWYxUnlKU3I5Rmt6MWk0VDlFcHRNTm1aS18wSkNtanQ5NGpGTTlJVTR5M0Z6amloUzRNc0REa3JCVjdtME15Rm44cXRJZ0NmMWQxUEtUYWdKS3M5dHRKUDZDQWtOWG5UdWJqMnJnUlhuLXhtU2YyYnpkb1RaUW81WHNUaVJ2aUdZcTZCcFFtaHpiTFlwLUFlQS10bw?oc=5",
-        "date": "2026-11-23T13:58:38+00:00",
-        "source": "El Cronista"
-      },
-      {
-        "title": "Microsoft se cansa de los drivers de los fabricantes y empieza a desarrollar los suyos para Windows 11",
-        "description": "Microsoft se cansa de los drivers de los fabricantes y empieza a desarrollar los suyos para Windows 11 Profesional Review",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVHBmNGZVWlpuYW51cU1oWWhSNlJ2dFQwQkRaOTk4dnhGRE9ETmgyQlBmTWd6cGk4RURBdExTaHBfdFZrdktqeXNYdGRJZjlYWWFZUGlXT1A4UkJSa1gxS3N2TTFlZWtrM09OWmdkVkJELTVFVjVVWVlYUno3cEg2M2doVGxhX0FfZ0ktYmtwbTM2cFVzZDhQc2E1SGhVTTdFX0stYXhTanljMkFrR2wzWkRQZVhsbEtiWmk4NTBkT1dka2hPb3k4dGNkR250OEQyWGVldWhNS1d1VFlMdV9Hb0p30gHnAUFVX3lxTE1ITE1KSXBpbzZucmJnX0h4a2xWWFA3dHpXUlNHNUJRcVZGaHY5akRfNkRIWkloRnZ1NDJtaDkzX3hIcFFvUDNWbExwRHRIVEJJdFVNNldXcWJ2em5BTHl0dDlHamZPQ1VqRzRLWGxfbTNMc2xzV3o2NnF5VTlabG5UbVlSVFZCUExSWU80RVJ6VlVwQklIZnEwdWJiTGRNcHJOTEJmVUJZRTNfNWdTdXZGTXdHb0hieHd2MlJUSS1GeWRtR3FSREpIcHF3MHpqWXZUdzZHYmM3WkhYckVOcnpiLTRmQk4yRQ?oc=5",
-        "date": "2026-11-24T08:48:41+00:00",
-        "source": "Profesional Review"
-      },
-      {
-        "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
-        "description": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnlOeVZpZy1oX0xhNThJczhYampkVXU0V1JjRlN6UERHUk9PaWNFNEtZeS1OaUVCUE51bVBXaFAtekJjVm1KYlhCdzZRMWJuSmZPZUo5d0xheXdoZEVIQjdrWUJjS3hKSEkwcDZJNUFxNjdMNk92MjlBZVZuNWc4ei1jYnkyX0ZNU1VtSWQxZDM2M3JDbkpoSFdSaHlhSUoyX1R0dERrOHVWTmx5UnRkRGxCTUZMRW14WHBJQjR0Z0ZpZ2YyOWtjQy1n0gHPAUFVX3lxTFBzcFpVV2JNQ1AxNzk4V3FoQVM0NHdtVEpCdFdJUTZRcENFWFFoSGF6TUJpUjNqaWxPY0tibDFidzg4aHR0RklPNzZFQWlmTW11bHU3Ui1Qb0hBZGlBTk15TUdmbHYxcE9QVXJrTkVEdm1KOWsxb3g0NGpDeFFUdHZEcG0xdXU2ajlILWc1Zm5EYUF6eWRtN1dUa1VvOWZHdnlER3ZucUt1NS1GcUxLTUItVFBzZzJpbEpJTjB2ck5nMjVEOUFnSW45UEFoazZOMA?oc=5",
-        "date": "2026-11-24T21:01:02+00:00",
-        "source": "Xataka"
-      },
-      {
-        "title": "Microsoft empieza a despedirse de los 32 bits en Windows Server",
-        "description": "Microsoft empieza a despedirse de los 32 bits en Windows Server MuyComputer",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2dmNVhLeElqaEc5RHdfWW5DSEp4Tm9IbDdnaF9GOW1HSzlOaEFVSTZ6YlFVa0lwNDV1M25iN1owcTFzbjd5V1RZdXJpTEJ1a2tLUnljNjZjRHN5cjNnM2xKSXBDOVM4dm9mMk5LeTlfeWRTWHVTc2hGc3pDMl9qVWRYeGxRU2FVU25ZMk42Z1FUY2pwUTBXNzU1TDdEMnRnRHU5T05R?oc=5",
-        "date": "2026-11-23T20:51:27+00:00",
-        "source": "MuyComputer"
+        "title": "Charles Lamanna, alto ejecutivo de Microsoft, sobre la IA: \"El 90% de mi trabajo ha sido reemplazado\"",
+        "description": "Charles Lamanna, alto ejecutivo de Microsoft, sobre la IA: \"El 90% de mi trabajo ha sido reemplazado\" MARCA",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlUteE9GQ2JaOVJKd19DWTJKRkM1MlQ3ZnlHRy1kS053VVVSYThHckZvWFd3aHNCOGFMdmc3dkEwMmt0VGJ2OURnekJfcjFtRlI0S3l3LWwySXlhNXU1SFhPOEhaY2Jfd2RLb0pHVS1yam1BMFVhYjk5YXNQTmdpQWpJV1ZPTDZVaUZkMmlERDFkalptSElyUUVFVlBPRHV2Z0I5aEgxS09kS2FRYWVfMjQ0enAwcFFIcExJN3JhakRYNk5aUFMwQ9IByAFBVV95cUxNUEVQb2dQdE5qOVRFeFVMZHFHTUg5NTd3aUhBdlZNUmpoUEFwYUh6N1lBeHNPYnlTZnNORHQ3dzZ1NVZRZXcxbXBnbnJvWkZIaUlyNmxILUJMMlF2emxaZ3J1M2o1amhtZGw3WmRvTF9ld1duNDNURTBVTklfWDg5aF9kU3FOWjlEU09OYXZRUDhqRWJEX05PTnkxY2l3aHk2blZBalJHTVZrVG5LMWZndXpuMzAzSFhDeTdWM2hjWUFuQkFfQ3BuTQ?oc=5",
+        "date": "2026-11-25T07:17:24+00:00",
+        "source": "MARCA"
       },
       {
         "title": "¿Adiós al temido drift? Microsoft patenta unos sticks intercambiables para solucionar un gran problema de los mandos",
@@ -50,22 +43,36 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkEzZHpfUVJQOTJ3ODk3VjhTTms5bTE0czVpdEZUb1M2MjNzR3dlZ0lIQ0szemNPaTJwNjNwdmctY1hHTV80aUYxVTZweGFxV29udkpVV3pyX3FYT0VGUjl3d2FDZ0l4OXhYU3ZIRHZqX1Nyb1RGM0hEdjJFU3BHTzBpNWJaMlFrLUtPREhRcHlsdmlNQWttdDF4dE9SZnduUHZqSzJkOTR4Vk9RZmRWaERqc3BHWmx1cllTSDlxbF85WFZ2OEVDalA5MVdiRzUxVFJUWXBnc9IB3AFBVV95cUxONzZQenEtZzMyWEdiX3lHWkJfZ3EwY3U5ckdITzJXandxT05OYVF1dnlWeWhLUUhhcHk0cHFWYkxCZmJ3N2NSMC1oVklHOXI2bTJKYWxQeXJUVkdyTkNmTlI0Ujc5THJ0MlVCVWlHSDBnREVlTEdncHoxNGNFdmo5cWpXVjFvYk5qTk9yY05oX3JzRUJIeHJjS19zZERJVzNVMWlveVNhZGNlT2pnTTItVjYtZGczOVdLOHZMWHpfZ2FrNjVEQ25wRUZWZE1uQ20yWnpVS0Y0ODZoTXk0?oc=5",
         "date": "2026-11-23T09:59:00+00:00",
         "source": "Vandal"
+      },
+      {
+        "title": "Microsoft reveló paso a paso cómo se produjo su gran caída global y por qué tardó tanto en recuperar sus servicios",
+        "description": "Microsoft reveló paso a paso cómo se produjo su gran caída global y por qué tardó tanto en recuperar sus servicios El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUmtMWVF0ejVWankwNW81eFJYU0c3cnUtZmh6MktEWHprZHhVMWlOdEN0MWh0OUpNMmlFOFN3RFRyV2VVZXN2eUU0aGlDQS1CMjRlM3NXTDUwWmFtRlV6ZUNYVjNmaG1CWFMxMGZBb1lPRERIRF9JRFZGd0RpZTZuaUNEQnNtY1pDWUFmemRyZVFyNkhOUGxfMmQxcFhhTnFYRzhmTFdDSVk4X1hqYWF5QXFlR3BQbWRQZmwwcjFna0tVYlJuUmJkRjVfV0JFN2N4ajFmNnVhTXM2UFFvdHk2UEh3c3ZRU21wSVc0WNIBhwJBVV95cUxQd0V0NmhjV3h0WjBzdGpBczZlcjAxQnZ4RFVoRG9zbnlpeFotenVZQVVGRm1tYlIwUE9aZXE3WFYzN1pHMnN0MG5VdGV6UFpYd3ZKaV82alE3WG5RckNqVTI5YVJOWVdJQnpjX1d5VUowQVhGWWYxUnlKU3I5Rmt6MWk0VDlFcHRNTm1aS18wSkNtanQ5NGpGTTlJVTR5M0Z6amloUzRNc0REa3JCVjdtME15Rm44cXRJZ0NmMWQxUEtUYWdKS3M5dHRKUDZDQWtOWG5UdWJqMnJnUlhuLXhtU2YyYnpkb1RaUW81WHNUaVJ2aUdZcTZCcFFtaHpiTFlwLUFlQS10bw?oc=5",
+        "date": "2026-11-23T13:58:38+00:00",
+        "source": "El Cronista"
       }
     ],
     "Marketing": [
       {
-        "title": "Carlos Cetina llegó a The Palace Company como gerente de marketing B2B",
-        "description": "Carlos Cetina llegó a The Palace Company como gerente de marketing B2B Marketers by Adlatina",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXlZVjJxUEdDNnVrY3lrbkpGcDZVQTZUdU80Yl9SN05faHlhQnYwRzluVHNUQ2ZNc0xibUxMdGFXaXhOcFc1c3VpbFRVWEZTbGZsNDdvdUdKY3M3RXFMWUpOWXBIc2w0LTNYa3VmWlp3RGNvdFl3Ynh5S25NNlg3V01Wd0o0R1lTRndEWmo0UDFQTF9JREJmcW5Eel9IMUZYSFB3d2R3YnJ2YmFHNlNXeTZuLWVoOE1oTk9ucmRB?oc=5",
-        "date": "2026-11-24T09:17:38+00:00",
-        "source": "Marketers by Adlatina"
+        "title": "'Cuatro tendencias que los profesionales del marketing digital deben conocer antes de planificar 2027'",
+        "description": "'Cuatro tendencias que los profesionales del marketing digital deben conocer antes de planificar 2027' Periodico PublicidAD",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYThlcGVUX3hTOFhQRXk0ekZlNGR2ODlSLWlQREJKUDR5MDVsczFLNy1nS19nV3lCbTRNeXJYT1Fwd2xQWUFDVUVjQmpvX0xCNzJGOGUzS1E5UWFLandiZXREZHVQR205VEZUeHEwRGUxYnFVWF9DUHRLZ180VEhmNEtfRGlNYVI2VnBxc051YlJSN1FpVHIwNGdZWnkzbUdtS3VVRmFfOFRRQ1dqRTAwMWxSV3l3NWMzbjFIbUpsWHZQeTdzZUlXRmpxRmpVN0RkeXZKN2xQSmtxbGM4TE9YWmszeUc0aHpQU2p4REk1c1h5RnUzbEtLaTcyU2F5MWfSAYQCQVVfeXFMTk9UdjJtUmFhcERTdUY3NFV6OExzcFFrOG1CZHhRU05mSGdVU0FsdG5iZGFYVU9RNWdOS24xQ3pidUJUVmEtZHhwVVY4QVRPNFdCZVU0M1RYbzg3Q3VKdjE4WFFVX0UweFZzMjFCbWdYR3l3cnR0eVktMlAwaG1Oa3pRbmJsMEhGbGE2eEZzNzhsdzN0ZXIxUm56VWFPTXpxZk9hT3pKX2h2Ymtja0lBX3Q1NlhFbUJlTG1pQU5aWnBwRTB0XzB3dFdhTzFXQzZnbFo2cjB0M2xCMUFSOFY0VkloeWRkRUdUcE9fM1ZsbnJQc0k2OUlOXzhrSHVTLWJEQVlWZUs?oc=5",
+        "date": "2026-11-25T09:54:49+00:00",
+        "source": "Periodico PublicidAD"
       },
       {
-        "title": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027",
-        "description": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027 produ",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVVXUF9tUW82VFRkOWZFNGFPdmN1TlpQRGJaT2gyb3RwM0NKbjVxb2tmUW16TTd4RU1CbjV2bVhVRlE0elB2TG9jS3FZaFpDd0s1QnlsUU9IRHBWLS1YOTBJSF9kWXBSTzNmaUpleGFiSEJMdDZqM0JINXl2dlVMWHF1dDkzOThrT3llaXlldHFaclJBUFl3TUNTc3F6eDA?oc=5",
-        "date": "2026-11-24T06:46:08+00:00",
-        "source": "produ"
+        "title": "Fedepesca promueve el uso de IA como herramienta de marketing digital para las pequeñas pescaderías",
+        "description": "Fedepesca promueve el uso de IA como herramienta de marketing digital para las pequeñas pescaderías Industrias pesqueras",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHFXRmtsLVg2OGhTajczczlqZTlhNDF2OTVjdTlCQjNFeTY2MDJ4dnZtdTVFVFBST0Q0a01HVWtwXzMtbWRoSUdCMU51VFRhelhFcnJCRnVOX1I5WVNIWXVvUll1cVpTV3dJNFBncW5mMjJKUWhkd3h3OVdOVExvcVhJcw?oc=5",
+        "date": "2026-11-25T11:32:59+00:00",
+        "source": "Industrias pesqueras"
+      },
+      {
+        "title": "Meta México: 5 tendencias de marketing digital para 2027",
+        "description": "Meta México: 5 tendencias de marketing digital para 2027 El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3Azd2tDbGpvV21NNHpxWjZ4cmtNbnJJZWFlb1FfdEtnQldjV3BCZEd5bHByWmwweFFBUEdWb1Q2bzJkS0FHc2tNVlVEcEZrQ0VVVm1hVy1PbnRvY3gxc1pfWWRDT29uMjR2Qkxhd25zSVpLdm0xdm5BMVVobHlRbFZLV05SSlA5ODBrdXdHcw?oc=5",
+        "date": "2026-11-25T05:21:36+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
         "title": "Se realizó una capacitación sobre marketing digital para potenciar las ventas de emprendedores",
@@ -75,54 +82,40 @@
         "source": "gualeguaychu.gov.ar"
       },
       {
-        "title": "Últimos días para anotarse en los cursos de Santander: hay de tecnología, idiomas y negocios",
-        "description": "Últimos días para anotarse en los cursos de Santander: hay de tecnología, idiomas y negocios La Gaceta",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWEpUa290ZkQ1ZWUtMGQ4TlpoVkk3cGd6N29KZnNLLWJsZU96V3VlTVdJUG15b2g1QUtrVENocDVVM1VHVFNtbmloaW8yTlRJRmFiZkVNSWpWMzh5NV9zYWxwNm0zdW5wUXdQMG5BUDdOaU91MDVMakxkSmFjNHJFbUZuQndkSjlfTm1RQmtPdjFwa2JsSHZOSFlzRDN0RVg3LUpiVHRSX3hLYW50eDJ0TU1zVjRGcHZ6M2VuZ1owMy1WRDJRdmFuMdIBzgFBVV95cUxQU3Y5MGduc1lMXzNlakdGNjRmUTFqcGVwWXdUVUlkeG5GSVdYSVFGZHFzaVItY2Fwdm5wb0FoLWk3RzBueEc5R0dJdlVNbk5lRk90M2FUa3lRLTVwTTFtVWp4TjJFOXlqR1NPOU1wNUZhZ2lwM0NjZ0V2dHdGdDQyTjZpYzFpSHhESE01bmZIc0IwSmJSR0oxcUtlNldFRVh1VWZReWlwclRBdWJweWtQbzU3dGVweWdreENxRDZUNm4xYl9JN3EtODBNSnc1QQ?oc=5",
-        "date": "2026-11-23T18:01:25+00:00",
-        "source": "La Gaceta"
+        "title": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027",
+        "description": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027 produ",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVVXUF9tUW82VFRkOWZFNGFPdmN1TlpQRGJaT2gyb3RwM0NKbjVxb2tmUW16TTd4RU1CbjV2bVhVRlE0elB2TG9jS3FZaFpDd0s1QnlsUU9IRHBWLS1YOTBJSF9kWXBSTzNmaUpleGFiSEJMdDZqM0JINXl2dlVMWHF1dDkzOThrT3llaXlldHFaclJBUFl3TUNTc3F6eDA?oc=5",
+        "date": "2026-11-24T06:46:08+00:00",
+        "source": "produ"
       },
       {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "Carlos Cetina llegó a The Palace Company como gerente de marketing B2B",
+        "description": "Carlos Cetina llegó a The Palace Company como gerente de marketing B2B Marketers by Adlatina",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXlZVjJxUEdDNnVrY3lrbkpGcDZVQTZUdU80Yl9SN05faHlhQnYwRzluVHNUQ2ZNc0xibUxMdGFXaXhOcFc1c3VpbFRVWEZTbGZsNDdvdUdKY3M3RXFMWUpOWXBIc2w0LTNYa3VmWlp3RGNvdFl3Ynh5S25NNlg3V01Wd0o0R1lTRndEWmo0UDFQTF9JREJmcW5Eel9IMUZYSFB3d2R3YnJ2YmFHNlNXeTZuLWVoOE1oTk9ucmRB?oc=5",
+        "date": "2026-11-24T09:17:38+00:00",
+        "source": "Marketers by Adlatina"
       },
       {
-        "title": "Marketing logístico: 72% prioriza visibilidad de marca",
-        "description": "Marketing logístico: 72% prioriza visibilidad de marca El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNW5pM0hVdl9CMWVpVE5ZNnRqTy1IWm00dW8zRGVySnlXTk9UREtuNTF2MG5neENLTkNWSy1ER3hVQXFOdjZKQ1ZIbks0Z29aeDNTVFdVLXJlcTBtOUFveFluZjdZZFhaRy03SEdrdVF2T09KNTI0alU5b01Lbk5lUGFrdDNKUVNIRk5Z?oc=5",
-        "date": "2026-11-24T16:21:40+00:00",
-        "source": "El Ecosistema Startup"
-      },
-      {
-        "title": "NVIDIA restituye a Jensen Huang como CEO",
-        "description": "NVIDIA restituye a Jensen Huang como CEO News America Digital",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHNOWTdSb1ZoNmUyejdId2E3aG9sdUNMNFMwZ1VZQURTbzFIaGF5WGktd29JQjR6OFNBeUZNRmxENGkzUlJja2lhY1BjeVdCemtPWG9VZHlYOWFQTXRvMWItZUU5NU5uY01LbHRKX053QjlDNFhwTkFNUXVxa2xScC13WVVablB2Zi1fV2htenNEalA5cm15bWlEVEgzWEt1VTZ2WEt3?oc=5",
-        "date": "2026-11-24T09:45:17+00:00",
-        "source": "News America Digital"
+        "title": "IA, creadores y comercio conversacional: así cambiará el marketing digital en 2027",
+        "description": "IA, creadores y comercio conversacional: así cambiará el marketing digital en 2027 Emprendedor | El medio líder de Emprendimiento y Negocios",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnAxTzVRYUJROC04X2RzWjRLOE9Kd3JUd1hZRFdhXy03S0FXa1hvOVlsX2Qxdk1FTkFMb3FFVTZKMTJlOFU3Y3ZBT2d0ZVBWRGNMajBHaEJWdjZyYnd6aWJES2tDZExfajh2Z2w2Y1NvX1VNajZ6eWViRk1GX0o4LXRfQWkyekk50gGOAUFVX3lxTE5rRUlpZ2pyUkZ3emdXazZZUVQ3a0swY3dKRG41N2drdXpNLUxzOFlWTmVZY2RlZlNoY2hHUUsyNlQ1aTZEUUdiV1lBcnBHaEFneF9SMEliZzNUc093aE9Mc0lXanBKNG9WSFRyWHVUUWZfaVU5bWh0bGNtUmFsYnFjRnFFZ3B1cVBtcE1keXc?oc=5",
+        "date": "2026-11-25T01:04:46+00:00",
+        "source": "Emprendedor | El medio líder de Emprendimiento y Negocios"
       }
     ],
     "IA": [
       {
-        "title": "La IA local, la alternativa a la inteligencia artificial de los oligarcas: ventajas y peligros",
-        "description": "La IA local, la alternativa a la inteligencia artificial de los oligarcas: ventajas y peligros El Español",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNUQwOUUxNHctbHFEUWc3Z0VkRTZTVExWOGNQdlJfdmhNRFdacDFQQkxnTlVpcXBESjR6Vlh5dFFZaHRLRWp5aElaQnFfQ29yV3o4WGRoamRIOUFMdWFiZW9qWDk3cGtlUkRpallKX2xiVHRzNlBPaGkwTHNVREhyb3hkUTJPb3JoMloyaWdoVEFldWlaMVlhN2lJQlFDWlVXdmhUSFU5TXVzNkRHQ0I0WWtPLXpFTERqam9DT04tSk1reHNuVHZhOGRoNmstcmFtR0Q2M3djeWNrU09UcHhGTlpn0gHnAUFVX3lxTE5ORXZwN2RfRHRHWk9waWgxRkgxb1Y2ZXdBNmJxc1RQdkY3Z3l5RzVtUUpzMm9qcllzZ1FHVWZTS1B0THZZOUpJSGxaQ3Nwc3B1aXFfQUViQWxVV29wTUc0TmRDekNNVW9YNzJJYTltcmQ3Z2ZXQ3VnMnUyVUIxMFFTb0tYaDFTWVZZdXFnQWdrbUUyNG9IWHZsVWRDVE85TkcwUXJ1MEV3OUotY2p0X09mdEY5VmVkeGtZZFV5a2tFZVNKalgxWG5NQTVVR0pIX29PSnBybEhxcFZienJWTGZ4TzdzemRJWQ?oc=5",
-        "date": "2026-11-24T01:25:17+00:00",
-        "source": "El Español"
+        "title": "Vaca Muerta será protagonista de un encuentro internacional sobre inteligencia artificial aplicada al Oil & Gas",
+        "description": "Vaca Muerta será protagonista de un encuentro internacional sobre inteligencia artificial aplicada al Oil & Gas InfoEnergía",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcXR0SVB0R3R0RGxnQmw3QzNHSDdzZVhLeGNKbHdJeUhIS09ZSHlWaF80STFmMzh6enR5UU5SdmliODV1eFJxLWtPY2JHSkZSR1g0dFVmVWxDVThjMnVMSUtCX1VJZ2tQdzZzTTJYR1NrLUF4NDNwdWZ0ZWRlSVEwLVNxb0NvSURHWGZtV2c1azZWVWkzb1g4VnljSHMxM1ZNcEhWYmp3Q3kzeWtndFJvY1JrMGtqR2x0eVNNU3ZZS0N0d2tyRE1VU2x0dVg2LTd6VUdUOFNzOWFmOV9ud1U4aTBGU0pmSzdk0gHfAUFVX3lxTE5QOEJCcnd1U3V4RkxXVUdpbC1DTndDNGpsWmNXblgxamw2VkEtYXA1ejZud0JfUDJ0c3JTcGlYaU9VZEZPajFMbjZkaWZ5ay1KdWpxUi1XcnM5aDBSdzhoR3h3V2FOYWdjNUNMTXAwTHFOUW0wUWtCTzVidlFYMWM1VFlzdnJQVEwtOWxSOFNoYjZRbGpmSG5BSmxkOEFQQkRrLXFpSFdwUW1UTEdvemVZSHlPdS1fc2pLS1NxWTREWGhBaXZScGlDVFhSYURzM0hyQmNDSmc2djJPMWlHNm8?oc=5",
+        "date": "2026-11-24T03:00:56+00:00",
+        "source": "InfoEnergía"
       },
       {
-        "title": "Un hombre usó inteligencia artificial para imitar la voz de un streamer y estafar USD 260.000 en criptomonedas",
-        "description": "Un hombre usó inteligencia artificial para imitar la voz de un streamer y estafar USD 260.000 en criptomonedas Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdnlPNFlCdW0zelZ4NzQ4dzFWVWpBMTdfcDhQY2l5N0o0RG5LNUtXWE1Rajk1Yjhzb0MwWFRnSFZ4RWdXUkhXWmdxb0dDWi1Tb3hNLXpsZ0gzTEtQNmZfWXVpV1VoZWxYNWR6MkxpX0pDSFJYN2VtektoMkJGaGNzT09zcFRrRGEtZUtDcUNSUVhQbGQ4VEc1aGFhM25LQ1pJMzVkUFhHTUpFcFMwS0E5dnFpQWdGSFhuY0FnVUlWbWdKd0tEUVdBWFM4eWxKUkVOVm1zY2VtTEwzYVprOTZhcGpLcWxRWC1NSW5reU1UMVN5UdIBjAJBVV95cUxQRnhPcE9sOW1jcjcyWF9vMWhOeHpGU2hHUWdXcm9TcXd1X09hd1U4UlB2UC1nQVJsbUdvTW9JSGRsdWNfczc5dVdFSkRIN2h1S2traGU3d1lMV25Ec3hoOVJaaUM3Ukwzd2tmQWp1OXFBTnRPdTRsZXRVSlFRWURaU1BndDVXTGVvVUlBanZ1U2dkYm9OMVF6WHlJQnZ4bWNTeVR6N01CdmFCV1lNajlyME42UFMyRV8ydy1hMnhjdS01YWUxMkM5ZXRvUmxjRU5Tbk9FdEV1VzdCVnQwdnlFVDlOVDExaVNkcXhPUjRMajhOZjFOQXdabjU4VE9SaVQtTTdsLWVfUFZQeDJU?oc=5",
-        "date": "2026-11-25T00:41:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Trabajadores de Uber e Instacart usan inteligencia artificial para disputar bloqueos de cuentas",
-        "description": "Trabajadores de Uber e Instacart usan inteligencia artificial para disputar bloqueos de cuentas Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLVVDemVIdHRzLS1jWEpzandoa0pWQUlSYVRlU1g3Skd0TVlNOVZEb2s1YWpxQk1kVnQ1cnRUMDJwSmdoUnM2bnhJT2JORW45SHBFSWJ6TjlvUElKeEE5WGdGTWg5anlXb3VvSm9ZNVFiN2M1bkxqTzRORFdfMjR0ZGF0Slp2QnBWd29VZVYzWjI2THBkVk4wRzhOTUJsSXViaE9adUV3eVp5OHpzZkxYaG9nV1BlUFYyQUZxdTFDQUxNNDQ2SEhYbEl6X3JJc2IyYVlzc9IB2gFBVV95cUxQMDh0WDNhYkw1cHNRZHBCV2l6WkkxblRoNU1sVk9DSnRzbUxiTWV0T29aWHlTcmkxY1BvMFFVS1lWTlhXRTlqak1vTzJ1eHFIanlfbU9idXRhV01mTXcwR1NuLU1pZFd4cks4a3pscGFmRnNSQ01ZSk01YVBHeWNOaE15UWdnVFN1QUZtUnhOTTdRX2o5TmxTX1czdEFtejZOZVpsRi1zZS1vYm1QOUFLd0VJdHRSeWxjUUU0ZmJKTkhNLU4tTmQ1WHRScUVpSDd3eFRUNzFaVlg2Zw?oc=5",
-        "date": "2026-11-24T13:55:34+00:00",
+        "title": "Del supermercado a la factura de luz: cinco formas de usar la inteligencia artificial para resolver problemas cotidianos",
+        "description": "Del supermercado a la factura de luz: cinco formas de usar la inteligencia artificial para resolver problemas cotidianos Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcGdEOWNlMDV2MmhkSEJiSGxXSmxiM1Vrdm1aOC1EenA0cmRhbVdFMV9BaUlsUWlULXk2V0F6RDItWExTUWdibjFQTjhyOHZwNFNGLTBpa3E5anptZFJWR0t0cnVfcGw5TEFkRzNDekZ0NnpSNHg5TG9CZXBtT0w2NEM2aVVkQUJvVnhqOU5JcHh5cEZzMzhLV3RPTzBUMTZYZzFRWlIzdHozLVdhbDVGTjRtZEVIc3EtWTFfQ19KMTkyWFdVaERsNGNDRXRmcjZTT1VNZ2xBU0JNQdIB3wFBVV95cUxNdnN2Q1FfVExVcmszOFNQZDFzb3dDQjl2UHZfRjNENjNGTGhSTUxYMXRfQ19Sd1pkTUVCRW9adEtNcUk1Q2NvU2hvU05zRG03a3VsYmgzWnpGcC11bkQyVGl0WTNaaUNudXE3eXJBQm83bWF0WS01bzRVekdmTUlyOEttREJ0TEt0T2JxWXI2MVJPcUxmTF9mWUNDbkpnTFJzcHkzS21ncVJwU2UyRUZkZzdZZDZ1QlJFbkpxZDRyamJadnBjVW9QRW5tWXNtcXlYbzVGbVd1eVBLbjRoWjNj?oc=5",
+        "date": "2026-11-25T08:45:45+00:00",
         "source": "Clarin.com"
       },
       {
@@ -133,48 +126,48 @@
         "source": "Godoy Cruz - Municipalidad"
       },
       {
-        "title": "Una IA de Anthropic habría resuelto el santo grial de las matemáticas, pero falta verificarlo",
-        "description": "Una IA de Anthropic habría resuelto el santo grial de las matemáticas, pero falta verificarlo DW.com",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcnlsLTA0S3N4a2NUMlRQdDJydktkanZ2dDMzTENqZUxSUmkxbEVnVUZJTi1waW03UE16cVhtSm9oLWVJRWVCb3hDei1JazViZzdjN3pncUlTYU9aX2tfY3o4bkZieExMVGcyZGR6WWx5ZU03RjNkVHFMYUJFZHlLSDZudmF4MHNuOV94YjJVQ3RxWWdQa1VHenc4a2RnNGFTdjZZNWxPU29JbnlRUERlVzhKYlgxcHZMWGdXOUNYTjhHbmdpSUotU2xkZ1d2WnplMnM3Qk9MUXowUlhaM0twMTNLblZQbEpqck9LM1F5ektLZS1vMWtpUGlB0gH6AUFVX3lxTFBqUzYxUFNZZEJfZWZLOGVBd2cxanVuWHcycG8xZGkxd1otZjhqbDAxWnpudk1OMllyQVB5Y1dvVGJEeFZaMmt3M2NuQ2hIY1gwajVRQTNFNkdhMDF1Zzhha2ZTTmpOTE1EVE5IZE8xdm9kT1M4WW9lZDZpTGxFLW0yYUp4VXRkRGRVcXdON3FjdERkODNBMms0R0pMMDFyalFNblBDWDhkLWM1UzQ0eTFJQVJ5REFsQ2lEY3F6OUZ6ZXdEa3dPUTd1QUpWd0d1UkI1M0tIWVNlSTJiYnRGa2Z4YmFfQy1IN3JYN3RySVBvWHVzSEJLY1QzdUE?oc=5",
-        "date": "2026-11-24T17:21:59+00:00",
-        "source": "DW.com"
+        "title": "Un hombre usó inteligencia artificial para imitar la voz de un streamer y estafar USD 260.000 en criptomonedas",
+        "description": "Un hombre usó inteligencia artificial para imitar la voz de un streamer y estafar USD 260.000 en criptomonedas Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdnlPNFlCdW0zelZ4NzQ4dzFWVWpBMTdfcDhQY2l5N0o0RG5LNUtXWE1Rajk1Yjhzb0MwWFRnSFZ4RWdXUkhXWmdxb0dDWi1Tb3hNLXpsZ0gzTEtQNmZfWXVpV1VoZWxYNWR6MkxpX0pDSFJYN2VtektoMkJGaGNzT09zcFRrRGEtZUtDcUNSUVhQbGQ4VEc1aGFhM25LQ1pJMzVkUFhHTUpFcFMwS0E5dnFpQWdGSFhuY0FnVUlWbWdKd0tEUVdBWFM4eWxKUkVOVm1zY2VtTEwzYVprOTZhcGpLcWxRWC1NSW5reU1UMVN5UdIBjAJBVV95cUxQRnhPcE9sOW1jcjcyWF9vMWhOeHpGU2hHUWdXcm9TcXd1X09hd1U4UlB2UC1nQVJsbUdvTW9JSGRsdWNfczc5dVdFSkRIN2h1S2traGU3d1lMV25Ec3hoOVJaaUM3Ukwzd2tmQWp1OXFBTnRPdTRsZXRVSlFRWURaU1BndDVXTGVvVUlBanZ1U2dkYm9OMVF6WHlJQnZ4bWNTeVR6N01CdmFCV1lNajlyME42UFMyRV8ydy1hMnhjdS01YWUxMkM5ZXRvUmxjRU5Tbk9FdEV1VzdCVnQwdnlFVDlOVDExaVNkcXhPUjRMajhOZjFOQXdabjU4VE9SaVQtTTdsLWVfUFZQeDJU?oc=5",
+        "date": "2026-11-25T00:41:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "Los 7 Mejores Tangos de la historia según la inteligencia artifical.",
-        "description": "Los 7 Mejores Tangos de la historia según la inteligencia artifical. Página|12",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRHNoWTFIUXE1c0VoWllUR2xlUU9LOHItV1JRSlRrRDlBRXRXQk5qN1A1LXU1dTZaMkRNc1U3MWx1ODlXZUROVDBpWWJyUUV2c05fVXdYUjNneTdtUlF5V2NsaTBrYnpfUnNCc0x4VlBjdlFUa0s2X3dIZmQyQkRZU1FvVHYxclV5eVdtWWhxSHdmT1NOaGEyazdmRmpYV0NBaXFNMFQ3ekFaaXc?oc=5",
-        "date": "2026-11-24T23:30:00+00:00",
-        "source": "Página|12"
+        "title": "Las 250.000 páginas de una IA con la presunta solución a un enigma irresoluble conmocionan al mundo de las matemáticas",
+        "description": "Las 250.000 páginas de una IA con la presunta solución a un enigma irresoluble conmocionan al mundo de las matemáticas EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUTI5RnhSVTZjbG5qaVB1aVpQRTNuTzAycVZUMnVFYzh5Y29zTS1LVkpSb3F3ZW11MFlmOTZiTWlUX2t1cnFQTkJSZHVBSGNpemtVTWFZMGFBcUs0akt0Q2tCWHN4bjNuLWFzcGRZOEFycWpMSjNzakRXR1FtZHR4dHA1OE1PQTl4ZVNWdm1aRDk1bndJYW4wMktqWEJFSW1OVmVnV3NaVVgza016UlNSX3dZLUNlVWJ4MHkxRzZMcjdOQTNGUVZNQWp5TTE0VkZDU1EyNkQ4N2s3cktjaVZpampFQ3VCUnVGdlFCeEM0SzBNUdIBhgJBVV95cUxQM25SM1NkdlZHWEU3QWhVcDE2ODYxMTNzM1c2Q3JfTjlLNlpmWThUNTFsclAtcXYxNE9TSE1nU20yYnM5dk1CRFAwbm51ZVZpUGREZjZLU0RhVjZ4T1BBX1c3TjBFbTBqTmtEakMwNHdVNl90bW40RzgzVXBZLUQxbmNiY2dXUWF2aHptZW9qYjlBQmN0b3hUU0lZRmYzOFVRM1IzcUl2WEhjeTFJTGVqeVZzZ3RBVmdaUnd1dUJ3eWdtdmdhdWMxdlh4NzBlWWk1NFFHOFdNQlY1bkMxOEkxSktSUjFvVUxWMWs5QWpLVjVpTVprRU14NDM4aXpSb29jOTRKSkRR?oc=5",
+        "date": "2026-11-24T04:30:01+00:00",
+        "source": "EL PAÍS"
       },
       {
-        "title": "¿Es momento de invertir en acciones de inteligencia artificial tras el rally de Nvidia?",
-        "description": "¿Es momento de invertir en acciones de inteligencia artificial tras el rally de Nvidia? Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONnFOeFBBcm1fbjFhck0teDN1S09SNkpPbEUwYlY4b3QxY2g0amNBcjZ5N0ppekVTRDlob0dHR1lLSEZJYlR6UU1PMmNRdllWZG9lNU84ODA4WW9UU1h6V1BlaXdxV290THhOeDdpMnFvektnT3EtOHNEdjlfSHdXbjQ4RUFiTEs5bGhYcGFNdWlOQmJjY1JhcU1ndklPRXlpVTNtTzhlZVFwd3NSczJ5cWs4LUxweGZqYVpPYXVhb2ZISmMz0gHYAUFVX3lxTE9nYklVSzVZcjlUaEZpZDZHUUtpMG9RVlBpX21YalVtbXhRSVJSU2JnX3JnNlBRTDZENUFNYVhxRjN6aG5TRVBJUEZFTm1zU2lvSDdQUXZrSUUwRzc3eDBoTmgxUjl5NHdzcXplemp4SWxBMUJoaUpIdTAwV19GcXd5RFFpTjN3eGFWRkN5dFVKWkZyNm1iei14cFFxUlRETWFpYkg2NXpfN28tdGNzcC1IOWlodFJuOW5HZjdmM3JUcTYxTDkzVk9zSkJHVGRMLVVJNk9OREdKZQ?oc=5",
-        "date": "2026-11-24T16:18:12+00:00",
-        "source": "Bloomberg Línea"
+        "title": "Señales de superinteligencia",
+        "description": "Señales de superinteligencia La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjM4ZTNIaDF2X2ZfMGR5Um1VRXZoMm9DbW42bG4yNUwyT2ZKanpQbWU2Rzhvdi1ocERRc0VKLVYxWkhoaFBjMVIzMk9ySTJGd245ZTBIcGk1WGhGWnlSTGRTelliQ3phT1JLVUN0OHJBNjlscmZEMzdtR3JERXBWRHV5QUhaNDBkMHfSAY8BQVVfeXFMTnhBZFFVSDl0dGpvaTZSdldMVUxYNWF5a2pacnFvcmFqdHVYTnNvUnVFLTJmdXJmZXJNQUpvVzBpeURNQ0d5NFlfZjlBSzV4MVNFQkZoUDk4bF9OYlZna3BiUWIzVy1LV0czYklZWFBoYzlLRHpweEYwWHVLQm9Pb0FncVA3ekFZOHdkcmpYU1k?oc=5",
+        "date": "2026-11-25T05:00:00+00:00",
+        "source": "La Vanguardia"
+      },
+      {
+        "title": "Por qué no voy a dejar las matemáticas, aunque la inteligencia artificial resuelva problemas que llevan siglos sin resolverse",
+        "description": "Por qué no voy a dejar las matemáticas, aunque la inteligencia artificial resuelva problemas que llevan siglos sin resolverse elDiarioAR.com",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFhVRHdWc3pHMXg1cFE5THhMQkRsQ1lhQ25FdEdKbFJkT1JYODkyakpDRFZrYXFfRC1uRTh3aE04Y3FyS2c1V3lCVVphU2g5UWNZUk53RGV5aG85T21JeDl6eGdOQkRzVkJKN1VTa3oycnRUbndOQ0l6SmZJVkxEVlg2ZVFMUFVjS0hYR1lGWWRVVWNhQVE4Q2NBV1YyRXhlU2ZERkQ1Z0xrNVd6alh4LUJLbkVnaTh2dC1JRkozNkJrUnFzSlkyYjlzaVZNbGhHaXfSAdcBQVVfeXFMTm1mWjdIeWR3YmxsZGF4TzRWS0VtZzdOYUZpaVVwZENUZ2dCclpta0dlS1lxY1JJSkdNYlc1ZjBHbUt3dXpXUkd5M0RkZ2NyOWVIZHdYRjkzYm55aUFfdmdHRF9UaHlfUC1EY3Z4QnVqdzcwUlpyYW03WUhGZ2dXYmRGbDdNbnB3REVTVThQcVNldFh6ODY4b0hPWVdRY3RKbmhGQ0VQMTBPaGNVbnE5Z2xmVHhXbndjV2t3VTZTbTlnVHpSQmF6eUh2cGNaSmktZ1RBYlJzV2c?oc=5",
+        "date": "2026-11-24T08:51:16+00:00",
+        "source": "elDiarioAR.com"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "\"Se cayó el plato\": grave accidente dentro de un tanque en Vaca Muerta",
-        "description": "\"Se cayó el plato\": grave accidente dentro de un tanque en Vaca Muerta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGtqeUUwR20zUFBMeHBlckwwMmNvNllObGc0UGxZWjdtRjRQMXVXeUtrdGNYeFd4YXc4OEVLNk55RXpadElrR0RpODBwZkR1Y1VjcWlJZTBScmxPMzl3ckR3UnlCSDU0ZGlKSTFhSkJnNmpDNnhBbXVVcEVZbnlQMGhrNVR2NmVpTnkxb1lhWlFqUVNYcWNmRV84YnlDTkRMU3JNRjNKa9IBrAFBVV95cUxPbVJxLWotRzZ4TlIzY3VTRTVJMHBlRGNhWWkwZVBoUU0yOW5IOF9tb3E3cm1wcmtnSVBkeHo2TzBhVnZpWEkzMTVfSXQzVlVjUG0wbDBoeE1YOE1yWkxuMWNnT1JFLTFiSnJGbU44TVdfUzRmUmYwYkVOYV9RbHAxT2ZaYkEyUWJmdGRnanhqd1VLaVIyWFJ6bWZkYndmQmFPVnBtTE5aaU9PaEEw?oc=5",
-        "date": "2026-11-23T09:15:00+00:00",
+        "title": "Vaca Muerta, en una cinta caminadora: seis de cada diez pozos nuevos solo compensan su declive natural",
+        "description": "Vaca Muerta, en una cinta caminadora: seis de cada diez pozos nuevos solo compensan su declive natural ADNSUR",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbmlSNXhtWFJHaElabS1vM0djRU1UcjlpY1J5YXU0dk12QTBCSmtOSG1WSUxUb29LQUhRbmZMNW5rdS1IX005M2ZLaDZyNWFaaGczMlROTHNrRzRtMkxmVWpmZEZkRzY3N1YxTlh5cjRFb25BU0tXT0N4d2hYRkR5dXZnUnBKdlhMdEU2djdPalBYS3hMeFZ2V2VtTjVZVFNGZ1JXUm9wNDVLSUdqM3MydXRzTmZzLW10VVg4NjdpTC10S2pRVUpxNElTZ1hWS2JFSnpyUUVoWWMzV0FrZ3FZUzZya1BXTUdrOFZoeTFPQTlQNFZ6N2w0eEpEclBVV3VR?oc=5",
+        "date": "2026-11-24T13:42:38+00:00",
+        "source": "ADNSUR"
+      },
+      {
+        "title": "Habló Marcelo Rucci tras el grave accidente en un tanque que aplastó a trabajadores en Vaca Muerta",
+        "description": "Habló Marcelo Rucci tras el grave accidente en un tanque que aplastó a trabajadores en Vaca Muerta Lmneuquen.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFBpdmhWNW9BTGcyZnhOVGVxUlZHYWxPblEweldFMjhkYXM4dkgzdFU1N0VZakpYTnR4WGpIV3FMWVVaYnhXU2xUMlFMZUxydnVZNU1TYlFXcU1aaENwZVlWX1dLTXFuRlZvdjR4OEphVjlXaTJRVERiWTRvSGhzUXZjSFVBXzVrdGo1alRsczZFaHdoMWhSMlJLdWphVGxiMVE3UDVlRE0tclJjVTBNZmNJODc1M3BFVnVGS29TOUFSWWZ3QUQ00gHMAUFVX3lxTE1TX05pRWNiemVvOFlLeHVHSExkX0ozU05CWm9INFJuVndUYXFJaThSYWxHUVJtZ2V3YnNkWnVFeDNHSkM3SzZFUzc1SjJmMk1nMFZWVnJLR1VoTFE0UGp0YjF2OHE0ejlVR0N5OVEtQWI1Xzk4YXd3M1gtemsxTmxBZURQbnZ5bEh1UDZfbHdNQm0wa2NfV092d3Z4MlBweWZVTEZMSWNpbzNsbzdNZzE5R1RwX0hRSGw0RklGSThHSUdFNEE3a0Y1d2RSNQ?oc=5",
+        "date": "2026-11-23T12:59:00+00:00",
         "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Vaca Muerta necesitará 40.000 trabajadores adicionales y las petroleras evalúan contratar personal extranjero",
-        "description": "Vaca Muerta necesitará 40.000 trabajadores adicionales y las petroleras evalúan contratar personal extranjero Diario Neuquino",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlJVWGdib3RvTEJWNTZRTUZfc3pPVHJfNmQ3M1V5WG9qc2tqeEw4QlpUSnMyQ2lBa1FZemJwT1RLbXlLV0RZcU05UmpteXdqd0VmUFVVdTQtOEI4STlXaVYzd3RRMnFqSjFZdEYzbkJvdXFUTjBNdHc2RTVQdXFJT01WejE5WkFEVHNMQkFCN3poNlNjN3lZY0ZKdkZnd0N2R0NIWmZPdExfQQ?oc=5",
-        "date": "2026-11-22T19:02:04+00:00",
-        "source": "Diario Neuquino"
-      },
-      {
-        "title": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI",
-        "description": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM1dPclFuSVB5VVZYbUstYXBJc2MxYTQ5QmE5Z1MtS3cxYTVzOERxeU9xRDlGaDREOXpOZFZTQTlzZHpxS20tbU1EUHpLeEh5OWN3MnBRalZoeXc4Q09mNlA2OTI4WG1sZkkyNXI5LWNEUXM1aVZ2Q25kUDMzX0lDLXZkbmhJSnpsbDdjTUFPcHQxRXNjTkVKUUZUOXMxckJiMmk0Skt2MXhaMEFaYWtTcmpwSDd0eC1BNnhYTUxDNzc2Y3d4R2M3cGxmSi1IM1ctSGVqdDVPM1ktVXI0WWpTT1l3aFBIU0tEZTVZ0gGGAkFVX3lxTFBnQU9iS3NCajZZaEphNzQtV1dxOUV3akRCdmNibXFnMEE4VTM1S1JwaWZKTGZ0Vjcza05venFrSHotUklTdzFQYnZEMjVMY2E0Ny1neVRTaUJOUk9MaE9vcGVVdWYyVGxGUmVmdXRmQkhTdm53VXBEMnM1NnpuT29aRkhXLWtGbnhQamNSWmlpTWxac3A3cHF2VEJYdTdwNEQ5QkhZQUVaMXhlYVNZWGZOaGtWZE1hQkRaQThaYU90MlRlOW9sRldXZEozbEwxZHV4dmZwXzRXbkNUWXh1dVNnd0M5a1I2M1htZTJEN1NsSXBJS0loSXFtOVlIRndYdXotckxRUlE?oc=5",
-        "date": "2026-11-24T19:23:00+00:00",
-        "source": "Infobae"
       },
       {
         "title": "Un puente invisible que une a la mexicana Pesquería con la formación de Vaca Muerta",
@@ -184,25 +177,32 @@
         "source": "Clarin.com"
       },
       {
-        "title": "\"Vienen por Vaca Muerta y esto es nuestro\": Marcelo Rucci lanzó su partido en Neuquén y confirmó el apoyo a Rolando Figueroa",
-        "description": "\"Vienen por Vaca Muerta y esto es nuestro\": Marcelo Rucci lanzó su partido en Neuquén y confirmó el apoyo a Rolando Figueroa econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFFoVTlkSDRhNksxWnBpMEhMS1lKTDlSTDFURTBlR0d1Y0VVLUkxM0JZbHJNQlZaV19MOFlyNVpZeG83Wm1BWURPcWJ6dnZ5UUhORHZLOU10ci1idURjSlRzNHVsOXZNSWx4SGlfdkp4ZzdIWFVhekM3RUgtbDh2UGt6bVRpemdwWWpmemNqMEc0WW02ZUJqQ2Z2V3d6bm1wN2QwZVVoenVtQURWM2VqR0dISWtKV0lYSTB1SUpWMA?oc=5",
-        "date": "2026-11-24T18:38:57+00:00",
-        "source": "econojournal.com.ar"
-      },
-      {
-        "title": "Neuquén ejecuta más de 450 kilómetros de obras viales para mejorar la conectividad de Vaca Muerta",
-        "description": "Neuquén ejecuta más de 450 kilómetros de obras viales para mejorar la conectividad de Vaca Muerta Neuquen Informa",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPclppVFFzQzUyQ3V2WC1kRGVFd3pKMlVZM09KSUdvWGFvTUY3eVkxZ3lyZTJfMk1mS3djeXlCUThZMGlRb0RiT1RkdlZjV3ZMbk1ZWXJBMVFNZUdMaXJQLUdOMEg2MnZLWTVndFlFLTZPdVZRbDlRamx2ZEwxeFhrUHVZd3hfSlRXMW9yczNwRWJ1UVNGbjNLb0NnNGFnMU5pQUQ1SFdzbThnOElMOW1Pay0wLVUyTldOaEJGc1p3VGd1MVZJUE9MRDRPSFd3Mm0tS1p5eVdUSmVCaS1JaWFwWlUzNUl1SEQzRU8xeDVRY9IB9AFBVV95cUxQRm0xNlBTQ0h2TzRVRlJxU3RpUllWbDFXNnhHajFzeDdjVXlpQzE5NjJRY1J1NTdzWVpicmk4QkdHYW1pT25iMm5jbzllRXhySjZ6cFhRdkZwMGdLU1ZMX2JyQ1NmYl9JY1dNNWl0dTdvODBwXzF1X3lqcmdQbW5ZMnhQQmRvVlVrX29idi1hb1c3bDMwcXFCSFFYVExXZFo1cS04QU5Rdm85UzVNNDBzdThJNEd1VGUxZXlMcXJDZU53X3dvY2tudS1GeW9iUElXS2hUbDdKZEhBTUN3NEZYQXpXSWxLdjJWcDl5X2VzUG5menhj?oc=5",
-        "date": "2026-11-23T15:05:56+00:00",
-        "source": "Neuquen Informa"
-      },
-      {
         "title": "Arenas para Vaca Muerta: una ley puede cerrar una brecha de u$s1.650 millones anuales",
         "description": "Arenas para Vaca Muerta: una ley puede cerrar una brecha de u$s1.650 millones anuales Ambito",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0lYbWRmNUd1eTU1dXdrN1VpSzg2b3o1TkRBSUpyRTFybk1CVU0zQjZjMVVlektqZ2FoU1pSb2FnVGRKellFenpTUlhEbVQ5SkVYQlEzZGd5M1djeGxXNTNyQ01NTXd2YnNTWkhPTmMyU0FJSGNOVGJzS3IxdVg3WVA5XzNaQlRtenFkVGRXb3hIRTczWHhUNVNibFpvV3dqaFcxcHc1N0RLdC1IU3FJVWNpUzk?oc=5",
         "date": "2026-11-24T15:24:08+00:00",
         "source": "Ambito"
+      },
+      {
+        "title": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI",
+        "description": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM1dPclFuSVB5VVZYbUstYXBJc2MxYTQ5QmE5Z1MtS3cxYTVzOERxeU9xRDlGaDREOXpOZFZTQTlzZHpxS20tbU1EUHpLeEh5OWN3MnBRalZoeXc4Q09mNlA2OTI4WG1sZkkyNXI5LWNEUXM1aVZ2Q25kUDMzX0lDLXZkbmhJSnpsbDdjTUFPcHQxRXNjTkVKUUZUOXMxckJiMmk0Skt2MXhaMEFaYWtTcmpwSDd0eC1BNnhYTUxDNzc2Y3d4R2M3cGxmSi1IM1ctSGVqdDVPM1ktVXI0WWpTT1l3aFBIU0tEZTVZ0gGGAkFVX3lxTFBnQU9iS3NCajZZaEphNzQtV1dxOUV3akRCdmNibXFnMEE4VTM1S1JwaWZKTGZ0Vjcza05venFrSHotUklTdzFQYnZEMjVMY2E0Ny1neVRTaUJOUk9MaE9vcGVVdWYyVGxGUmVmdXRmQkhTdm53VXBEMnM1NnpuT29aRkhXLWtGbnhQamNSWmlpTWxac3A3cHF2VEJYdTdwNEQ5QkhZQUVaMXhlYVNZWGZOaGtWZE1hQkRaQThaYU90MlRlOW9sRldXZEozbEwxZHV4dmZwXzRXbkNUWXh1dVNnd0M5a1I2M1htZTJEN1NsSXBJS0loSXFtOVlIRndYdXotckxRUlE?oc=5",
+        "date": "2026-11-24T19:23:00+00:00",
+        "source": "Infobae"
+      },
+      {
+        "title": "Vaca Muerta y la inteligencia artificial: SPE Patagonia celebrará sus 30 años con una jornada técnica en Neuquén",
+        "description": "Vaca Muerta y la inteligencia artificial: SPE Patagonia celebrará sus 30 años con una jornada técnica en Neuquén Diario Río Negro",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZGN3ME55ekE1eTNGTWYyRDRZb0xnSUQ4dXU5MTZKbTN2cjM1NVA2aE1OVDVsby1QVXN0cmFNSFpBOVNkTklqQ2tmSVh4Zm1MNWlaSTc4Y29TRlRvVnRxUkJ4ZTlRWkpsenVYY3ZpSHB4enBIeGRHRWFwcTZMZF9Db2hxN1U1OTZkY0l6RFhyTDhDcXFYVGFwUUthSUkwbGptZk1aSUE0Z1ladHU2MVU5dnAxMWxkSkd0MC1ZdUxRUERtRWl0dm5CVHd3Mmt1M2dnOU5sRE5vMUFrNDBtN2gyNmtLbGtJSkFtNjNzNtIB9AFBVV95cUxNbVlkNWF0cVRnYW1CUzg2OWxMVVd6cWRvZ1RVeUJaY3VBVndZN01nQ2ZUMHJLem9Fa0pwQzhUaWxNWVU4RHB1RHhHYWxnQVJIcEpTV193OVhMWksxVjBOX0lSa1psZmdCQ19nOFJKZFJmeERGZlY3UTBjR21kWDlXUGJ1RHpiRC01eG9Tb0tfUkhYWGxMRHNUYVhESmVDY2dtc1VHUkZZMW5vbkxyU1R0THFUZ1lZNjhqOFU1NGt1amZjMnprSTB2ZEpPbHZqVXFoWDQyVUtnaGFSVjFVSllrNjhlMC00NGI1OG50S3FHZzVOZzVk?oc=5",
+        "date": "2026-11-25T03:25:00+00:00",
+        "source": "Diario Río Negro"
+      },
+      {
+        "title": "\"Vienen por Vaca Muerta y esto es nuestro\": Marcelo Rucci lanzó su partido en Neuquén y confirmó el apoyo a Rolando Figueroa",
+        "description": "\"Vienen por Vaca Muerta y esto es nuestro\": Marcelo Rucci lanzó su partido en Neuquén y confirmó el apoyo a Rolando Figueroa econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFFoVTlkSDRhNksxWnBpMEhMS1lKTDlSTDFURTBlR0d1Y0VVLUkxM0JZbHJNQlZaV19MOFlyNVpZeG83Wm1BWURPcWJ6dnZ5UUhORHZLOU10ci1idURjSlRzNHVsOXZNSWx4SGlfdkp4ZzdIWFVhekM3RUgtbDh2UGt6bVRpemdwWWpmemNqMEc0WW02ZUJqQ2Z2V3d6bm1wN2QwZVVoenVtQURWM2VqR0dISWtKV0lYSTB1SUpWMA?oc=5",
+        "date": "2026-11-24T18:38:57+00:00",
+        "source": "econojournal.com.ar"
       }
     ]
   }
