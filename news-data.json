@@ -1,20 +1,27 @@
 {
-  "updated_at": "2026-11-26T22:45:04Z",
+  "updated_at": "2026-11-27T04:43:00Z",
   "categories": {
     "Microsoft": [
       {
-        "title": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios",
-        "description": "Microsoft declara un \"Código Rojo\" tras la caída global de 24 horas que afectó a Outlook, Teams y otros servicios Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnlOeVZpZy1oX0xhNThJczhYampkVXU0V1JjRlN6UERHUk9PaWNFNEtZeS1OaUVCUE51bVBXaFAtekJjVm1KYlhCdzZRMWJuSmZPZUo5d0xheXdoZEVIQjdrWUJjS3hKSEkwcDZJNUFxNjdMNk92MjlBZVZuNWc4ei1jYnkyX0ZNU1VtSWQxZDM2M3JDbkpoSFdSaHlhSUoyX1R0dERrOHVWTmx5UnRkRGxCTUZMRW14WHBJQjR0Z0ZpZ2YyOWtjQy1n0gHPAUFVX3lxTFBzcFpVV2JNQ1AxNzk4V3FoQVM0NHdtVEpCdFdJUTZRcENFWFFoSGF6TUJpUjNqaWxPY0tibDFidzg4aHR0RklPNzZFQWlmTW11bHU3Ui1Qb0hBZGlBTk15TUdmbHYxcE9QVXJrTkVEdm1KOWsxb3g0NGpDeFFUdHZEcG0xdXU2ajlILWc1Zm5EYUF6eWRtN1dUa1VvOWZHdnlER3ZucUt1NS1GcUxLTUItVFBzZzJpbEpJTjB2ck5nMjVEOUFnSW45UEFoazZOMA?oc=5",
-        "date": "2026-11-24T21:00:00+00:00",
-        "source": "Xataka"
+        "title": "Microsoft en código rojo: qué significa y qué cambia para los usuarios de Outlook, Teams y Microsoft 365",
+        "description": "Microsoft en código rojo: qué significa y qué cambia para los usuarios de Outlook, Teams y Microsoft 365 Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWFdxQWVlbS1QSm9Hek1NX2M0dUN4aEZBSllTRWxzR0ZJTDVpektxSHQwSlp4NUpranFhRUF0STFNSE1WRkdNZHhlTTRTdzdDRWFDVE1lbUcxeU9LNjBhaC1Gd1BwVktxUk1sUW9iNG5LVkllYU5JRVdjZUJGZklsZ2x4VC1ZZkdXektxMGVsLU1ialhtM0dNQ2dlTmwwNmZhcExZVGs4aFZpVGREdV9iSk1EdlRHS0h1UTRjdDgtTUVKTTFVcU5mZDJWVzdtS0w5bEktTVc5a2ItbVRl0gH3AUFVX3lxTE04aTBTcE1xaVZBQTVSdEhQV0tNUE1faHJCRUhLOWNxZG5MRmpNS1d1anl3bjBnMWx3VkxzdUtzRHFVQ0lRWW56X1E5bktSSE1zVlh5MTluTFVzZXhYM1pWYThVVFJweUxmVUpyUy1RUVRUeDBETFhERHNua19QdlFPWE4xQjVQWVpaM2EzaHBkelpSb2pNV2N0NkFBcDBQNjU4NzIwR1pVR21CR05PaGdRNnFfWnQxVXgwMFlEZ0JkUzBvNkkzVkRSeERGWnpQSXhyRHdHTG90ZTVnMjhEajlBSkJhck1uV3hvT3BwMkstdlBpOGxEZVU?oc=5",
+        "date": "2026-11-25T13:06:00+00:00",
+        "source": "Infobae"
       },
       {
-        "title": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
-        "description": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFONWtwWV9HU0pJR1RId19GWEIwcnA5UzE3dGVqYXAtS3VMVXRNVnE1dnVqWVNzZzVJZ25JdDdkREVXLXdFdHJrOXAzUEFmbkxNUTlvRDRsWFNCdUNhVVJjQzBfd1dBQ09fa05WdUlMVENTNXNkRHJrdklaYk9TT3FaUnNyN1pNUUZQOWRKcFQ5MnpIV1kxLVpIc1M0Uk9JTkRFOEVYdVV5WkFKb0RBN0cyWnhtbTB6d0NZRmZkQlczQ3hwZGxxTEFn0gHPAUFVX3lxTE5jZmNydDljY0hNYjdQMHZOVTdDQnZYbXpGX2tyWnZzbmhHdl9VR0tIWW53RGdJcHZzRm1Zek4wS0NDZlIxYVhZbFJmY25LekRBNHU0OVJib2JlZzRpVFZYaE9BaEZ5LTNOWG5rWWRUbXpoV3NJQkl4aHJSSDFYekVldVdoTFh5NlVwU2Y1YUllSnQxVDhZT3F4X3hNNC1iTVpLc1A2U01KdklSdG5VcEJlSlVidUxsY3VYQjNaV1VoeUU3U0tPQm9lSkJpRkNPTQ?oc=5",
-        "date": "2026-11-26T21:00:29+00:00",
-        "source": "Xataka"
+        "title": "Microsoft activó un código rojo tras la histórica caída de Exchange Online",
+        "description": "Microsoft activó un código rojo tras la histórica caída de Exchange Online La 100",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSndYamp4eXFuQWpHa05vaElheFZ2U1FPLXgtSFo0REVxQ1VYb2dKa1ZMWEFJSGo0a1U5eDBaclc5VWlvUkZxeW9tSllPWGpxRlloWnRwOGpLeEM3QlpfMTdMWjVFbndyaURWWkNlNlhkcm9HelJ0cGlCakNzbFpGcDZLZFE5MFFBNk5SUllnNjJtNUFXdmpTY2ZBRVB1SEZNOTRhbnFXS1REREh1cWJNS2xtM3VwZw?oc=5",
+        "date": "2026-11-26T21:27:50+00:00",
+        "source": "La 100"
+      },
+      {
+        "title": "Microsoft declara un \"Código Rojo\" interno. La compañía ha necesitado una caída histórica para darse cuenta de que tiene un problema enorme",
+        "description": "Microsoft declara un \"Código Rojo\" interno. La compañía ha necesitado una caída histórica para darse cuenta de que tiene un problema enorme 3DJuegos",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOa1UtaVpyZjRpdS1rc0tsczBPOU1tVWVEbmRwVnk5WGZmXzcyZHVUSWZTRUFRMmNSaFR6Z0l6dHM3bVBJZUVrb3VldnZRX1NoWW5YampuOG56UUs2a1hUNzBDbmwtNnZXSmVITlJGajczcHRNZ193MzZfMllUS0k3TG8taEQ1R1F6bkhLci1KckFMZ0FoTkk4OV9tNXJwNnRGbV9sYW1iQ0thZjZSMEdNX01ZZjRYWUtZdEtPM2JHOHRRdVB1MjE0SmJaU0V2Wjk1eGVzaTFBb29sUmh3V2ZFaFloMS0teGlpZG1rdUo2QXlXYWhhazNKa9IB_gFBVV95cUxPTVVVRjlmdzVFWENZdXl6aERFdXdBX0MxVVA3OFlYZzNBZHB3NlYyV1Q3eHVfUGNnUmVjMTZ4Z0NRRWVDUmZJQWgyMDNrbHpYby1jWU9jMllOajRMY1hhUEdWVl9VTks5TXRqem9iYWJBbzJIaVBZUGNQT1B2enJQdnZQVjV2X1ptOUMzY0M2X0NjMS0zWVlYNjllcUlQTEwzcWVCRDQ1czVodVIxTWljX1p5ajctODZudTlIa2pIYmxNd1pkdG9EaWVQS2Z5ZW9DNHVVS01HX2xINlgyRnZqcDFZY0liOVB4aVEwdWJmSDNncU5HYXlpcnNUcUFudw?oc=5",
+        "date": "2026-11-25T12:18:20+00:00",
+        "source": "3DJuegos"
       },
       {
         "title": "Pampa Energía profundiza su estrategia de inteligencia artificial con un nuevo hito: la adopción de Microsoft 365 Copilot y agentes de IA",
@@ -24,10 +31,10 @@
         "source": "Página|12"
       },
       {
-        "title": "Actualización de Windows impide iniciar sesión en redes de empresas, confirma Microsoft",
-        "description": "Actualización de Windows impide iniciar sesión en redes de empresas, confirma Microsoft Infobae",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSV9nNEFWV2RxVDZ5N1dSR2lORjZFYURZX1VfbFdiNWNVMjZhQ2s1aVlsWm9JaEJpa3pYTHVFZFdPUDRjUUdVRlpPazFkVDVrRFhoQ0xLRWFRUmg4aUlqbWJ1WEtSZ0ItM2EwdV9oUXJ1VmdOS0tQNGo2cS1yRy1BYmdXSWJzaVIzTHdDeV8wY0tPNWJ5U3JsSHVwczZ0S2NxX3VoeDg3UldFMVJzRTcxbkR0Y0pmeTdRQ0w4YlFlbURTYXdvV0Uw0gHiAUFVX3lxTE1lbGxrYlJYcllkSi15YUh6TVM5UVVDb3huR0xYWDZIWTkzcDhfNTBmN1NBdTVzbEZMdm5UbXFHX19fNElueTlHb2pCN1BVWllEdWdjWUtZM1JFRmdsbHVLbjVpY2xrZ1pRLWI5OVp3TE8zc0VybnZWM2JUd19jVS1SYWV1QnV5TE1hQXpJSW9leUM5NW1aOWlicG5xdW5DUTBZRGFYV0wyWUlweVA4OGZITzRjeDB5Uno2c3I1QjNlbktVblhoX0YzM1FfMXRUTUJJZnJfdEJBemFtbjZRZnJsOWc?oc=5",
-        "date": "2026-11-26T21:16:00+00:00",
+        "title": "Microsoft alertó que hackers de China y Corea del Norte automatizaron ataques cibernéticos",
+        "description": "Microsoft alertó que hackers de China y Corea del Norte automatizaron ataques cibernéticos Infobae",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeVFCZ2xNUFE5WlRRWDE0OFJpYTd4VlFpYnd2QW9ia01KVk80NlV5Z19YbFlPUkVsa2N2ZWxwMXg3blNOLTIzRnhmMV9OVkxZVXJwa3NjVEM1STE3OGZKeTY3UTVSWGFmV0RCaF91MG90aWVpOTJLQzhvUDNwOVB5WFo5WUtmYUpYb1lpb3I4V0M1SWlWWHVQd0RGUlgxQVFoajJvZEJMZmRya1JTanhaSGNqcDNwcDhMZXQtMkFsNTlvdFFza05mMUdoX3nSAecBQVVfeXFMUGs5TmN2WmZzMzVBcy11VTlBVTBDYzNLN1ZrUHFlNnV0ZjMtOHhyME04R1dfVldSNlQxUVVRZ0VDSm13UXZvV0cybTc0a0xpalJXQ2ZhbW15QnRkWFFFZllQelhhV3RqbTVkMy1wcUFfN0NpWGFhWVhTWnR5bVFmNTFGLUJQbkJSbG01a1NibmVsc3I5amt4ZmVDbV9zTmxYOUtkWGhBTXNlckIwdmJqV044YTBEa2p5Ym9RdU9yQXgzcE8zZmwwVlRmRExSV3k0a2V2d1FIbVdXVUpFREdhOXBNeGhLaTFr?oc=5",
+        "date": "2026-11-27T00:05:00+00:00",
         "source": "Infobae"
       },
       {
@@ -43,30 +50,9 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazhDN0RNUUNLSTF4Nndxdm8tQXh3YmdTZC1OMXVVdS13aFRXZ0FDaE52YlFWTXllUTAxaWl0T29Qa2lrTWVIUFpid3dVbXh0TGZjUGs4YmYzSjZWX0MtbzZ3VWxtZXlMMFhoWUxEeVpZbG9hdFVHM2w0QWVHV282eENoV3hUZVhjU2YtbXl3ai1JMm1ZZlR6R2JUcm5BeXZLRWVrSndnem5BbE5kUXN0WXFvMkN0Zw?oc=5",
         "date": "2026-11-26T11:38:19+00:00",
         "source": "VidaExtra"
-      },
-      {
-        "title": "El padre de PlayStation dice que su \"intención secreta\" era engañar a Microsoft para que creasen Xbox",
-        "description": "El padre de PlayStation dice que su \"intención secreta\" era engañar a Microsoft para que creasen Xbox Hobbyconsolas",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSjY2NGpQQkZJQzRCTmU5UHE5djdPNVl2QTdzU1VIaTJSeGJkVGJHVjZsV0xCZWpra193dnBRWEZIYklZaWdoM21TVFN2TjBpVHVjMGw0WjFxS1F3WDAtWEh6dWRGNnVnUGY4b0ZmNnhGSzFPeUw3MnlaWS1mWTV6REFZaERSbkl3dFo5UmtYT2d2OHlJT0VvMXJzcUlOOThsZW1CVEdiVEk0SS1KeW1Va0c4UmFSNFJqR0locTU3QzBPRmRJQlRMM1lpeURtQTdCci1QVzJZY2hJT2M2bjlrbHp2Z3lCMTgtSGpRZ3FDQzcyampzTndjajJ6WTNpcjZxcUJqSUdCQXJvakdKb25semRyd0pPbkxzZzZlTFNndUJDZnF0?oc=5",
-        "date": "2026-11-26T11:30:00+00:00",
-        "source": "Hobbyconsolas"
       }
     ],
     "Marketing": [
-      {
-        "title": "¿Cómo usan las áreas de marketing en América Latina la IA para impulsar ingresos?",
-        "description": "¿Cómo usan las áreas de marketing en América Latina la IA para impulsar ingresos? Marketers by Adlatina",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObzRtWFJNMGRENG9RMGVDbHFjb0pTNFY4NDF2a2FsbHZxX0xmS2NtMmpRWjZtYUt4MDlTbTZ3SThvelNoYTBzb3ZpQXQteXJVMHRjdkNnaVlUUnVGS2p2bTdfTlk5V0NGanNiaF9SNFlkUHlXRHI1dUJwSGY4NWxPLUNaT1JQcEczMmpGZVZWRlVQX0NwVGlMd3dNd1RYVnB4a3g1eldobDg2NXdSU0pESW9YZzdsQVJCQ1JxbHpleHgxWHhXOXg1OUN3?oc=5",
-        "date": "2026-11-26T03:18:37+00:00",
-        "source": "Marketers by Adlatina"
-      },
-      {
-        "title": "Google premia en México campañas con IA y Google Ads",
-        "description": "Google premia en México campañas con IA y Google Ads El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUtmUlVFSGJCYlhEUGpueEt1UXp5WWIwbGFIaHRDUFBsSmlvQ29MbVZ1c0RVLUlIeURHZkNKc0Z4N3VaVVlBLTY5UW5oaWV2TDR0MHZUZm80TEN4NzJ2S3UydG1jODdtWnFwbDRFLUV6QmIydGxCaFc2S3ltY2FUZmg4YWtDV3lLaWx3?oc=5",
-        "date": "2026-11-26T19:36:24+00:00",
-        "source": "El Ecosistema Startup"
-      },
       {
         "title": "El IDEP y Tiendanube capacitaron en habilidades digitales a más de 200 emprendedores",
         "description": "El IDEP y Tiendanube capacitaron en habilidades digitales a más de 200 emprendedores Comunicación Tucumán",
@@ -82,18 +68,32 @@
         "source": "gualeguaychu.gov.ar"
       },
       {
-        "title": "Cómo internacionalizar tu empresa con marketing digital: guía paso a paso",
-        "description": "Cómo internacionalizar tu empresa con marketing digital: guía paso a paso Tiempo de Negocios",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56emNNM3VXel9VeklHdTlSdm5UQ3ozUnFjYk5qSFFMeU82bnVLRGxzb0ZEaENQeS1lSEt6b0VWcmVnaXl3SlZsNFpfUE1GTUk0cEtuVGNFcXRpVkhPLUZVNVlaZFVIRlR1WFVtX0NwUzRPeENVcE0xT29kSmxOUQ?oc=5",
-        "date": "2026-11-26T08:01:34+00:00",
-        "source": "Tiempo de Negocios"
+        "title": "Google premia en México campañas con IA y Google Ads",
+        "description": "Google premia en México campañas con IA y Google Ads El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUtmUlVFSGJCYlhEUGpueEt1UXp5WWIwbGFIaHRDUFBsSmlvQ29MbVZ1c0RVLUlIeURHZkNKc0Z4N3VaVVlBLTY5UW5oaWV2TDR0MHZUZm80TEN4NzJ2S3UydG1jODdtWnFwbDRFLUV6QmIydGxCaFc2S3ltY2FUZmg4YWtDV3lLaWx3?oc=5",
+        "date": "2026-11-26T19:36:24+00:00",
+        "source": "El Ecosistema Startup"
       },
       {
-        "title": "La ULP lanza una capacitación en Marketing Digital con puntaje docente",
-        "description": "La ULP lanza una capacitación en Marketing Digital con puntaje docente Agencia de Noticias San Luis",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlNaYm8tU0JKb0NwNGZ3bFRWNThOTkZsWGlZcVpPd0trS2Uxbl80RFd1Z3lnZTE5ZDZoZnJuTlBVR2RUSjBWM1Z2c2tYTnVSWks3MERkZmdGdF9ZNzRtWDZiS1ZPREtheUxnUVpIN0plWTM3VVdCcWxHYlhGQ1hxWlVYb1lVaGRlX1hXeHJYNzlkM1k5LWRxN2FuUk83Y2pfTUNsZkllNThyQ1BLUUpfUGoxbFZ3b252?oc=5",
-        "date": "2026-09-28T07:00:00+00:00",
-        "source": "Agencia de Noticias San Luis"
+        "title": "¿Cómo usan las áreas de marketing en América Latina la IA para impulsar ingresos?",
+        "description": "¿Cómo usan las áreas de marketing en América Latina la IA para impulsar ingresos? Marketers by Adlatina",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObzRtWFJNMGRENG9RMGVDbHFjb0pTNFY4NDF2a2FsbHZxX0xmS2NtMmpRWjZtYUt4MDlTbTZ3SThvelNoYTBzb3ZpQXQteXJVMHRjdkNnaVlUUnVGS2p2bTdfTlk5V0NGanNiaF9SNFlkUHlXRHI1dUJwSGY4NWxPLUNaT1JQcEczMmpGZVZWRlVQX0NwVGlMd3dNd1RYVnB4a3g1eldobDg2NXdSU0pESW9YZzdsQVJCQ1JxbHpleHgxWHhXOXg1OUN3?oc=5",
+        "date": "2026-11-26T03:18:37+00:00",
+        "source": "Marketers by Adlatina"
+      },
+      {
+        "title": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027",
+        "description": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027 produ",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVVXUF9tUW82VFRkOWZFNGFPdmN1TlpQRGJaT2gyb3RwM0NKbjVxb2tmUW16TTd4RU1CbjV2bVhVRlE0elB2TG9jS3FZaFpDd0s1QnlsUU9IRHBWLS1YOTBJSF9kWXBSTzNmaUpleGFiSEJMdDZqM0JINXl2dlVMWHF1dDkzOThrT3llaXlldHFaclJBUFl3TUNTc3F6eDA?oc=5",
+        "date": "2026-11-24T06:46:08+00:00",
+        "source": "produ"
+      },
+      {
+        "title": "'Cuatro tendencias que los profesionales del marketing digital deben conocer antes de planificar 2027'",
+        "description": "'Cuatro tendencias que los profesionales del marketing digital deben conocer antes de planificar 2027' Periodico PublicidAD",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYThlcGVUX3hTOFhQRXk0ekZlNGR2ODlSLWlQREJKUDR5MDVsczFLNy1nS19nV3lCbTRNeXJYT1Fwd2xQWUFDVUVjQmpvX0xCNzJGOGUzS1E5UWFLandiZXREZHVQR205VEZUeHEwRGUxYnFVWF9DUHRLZ180VEhmNEtfRGlNYVI2VnBxc051YlJSN1FpVHIwNGdZWnkzbUdtS3VVRmFfOFRRQ1dqRTAwMWxSV3l3NWMzbjFIbUpsWHZQeTdzZUlXRmpxRmpVN0RkeXZKN2xQSmtxbGM4TE9YWmszeUc0aHpQU2p4REk1c1h5RnUzbEtLaTcyU2F5MWfSAYQCQVVfeXFMTk9UdjJtUmFhcERTdUY3NFV6OExzcFFrOG1CZHhRU05mSGdVU0FsdG5iZGFYVU9RNWdOS24xQ3pidUJUVmEtZHhwVVY4QVRPNFdCZVU0M1RYbzg3Q3VKdjE4WFFVX0UweFZzMjFCbWdYR3l3cnR0eVktMlAwaG1Oa3pRbmJsMEhGbGE2eEZzNzhsdzN0ZXIxUm56VWFPTXpxZk9hT3pKX2h2Ymtja0lBX3Q1NlhFbUJlTG1pQU5aWnBwRTB0XzB3dFdhTzFXQzZnbFo2cjB0M2xCMUFSOFY0VkloeWRkRUdUcE9fM1ZsbnJQc0k2OUlOXzhrSHVTLWJEQVlWZUs?oc=5",
+        "date": "2026-11-25T09:54:49+00:00",
+        "source": "Periodico PublicidAD"
       },
       {
         "title": "De hacker a la cúpula de Meta: el salto global de Chema Alonso",
@@ -105,18 +105,18 @@
     ],
     "IA": [
       {
-        "title": "El 94% de los jóvenes bonaerenses tiene celular propio y el 63,4% utiliza inteligencia artificial",
-        "description": "El 94% de los jóvenes bonaerenses tiene celular propio y el 63,4% utiliza inteligencia artificial El Eco",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM2c3YjlpX05XTTgzQW5PUy16Y3hXWG1TVU10a2VoeFM0U3E3c3U0T3Y0RTJWZDFMa3lSckFFOG1iTU00TVJNUDZBX1pNMjJPVXZIMG5wQ1d3Nmprd2FfNkFOMUx0R0NlQU9FZ1g1enFuUFlZRF9UX0ZLOE9SaExEYjV6cUY1RC1fTmUyVTBidnVmWVhGUDZWSG0xcU1ZVUswUXB5OGpvVnB2M1BvY2NXdXZyV1VydUVIQ3d4N3RMTjFGZHVzdm9CYQ?oc=5",
-        "date": "2026-11-26T19:18:57+00:00",
-        "source": "El Eco"
+        "title": "LA NACION inició acciones legales contra grandes plataformas de inteligencia artificial por el uso no autorizado de sus contenidos",
+        "description": "LA NACION inició acciones legales contra grandes plataformas de inteligencia artificial por el uso no autorizado de sus contenidos La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZW13Q2E2dUFUbjJBejRnelp5QWhCY25CeVlrZDZ6LUxmZVFmTUJLMzNnUVVjdzQzNDlHcVJJVC0wVnhkRmMtb290dEo4bWY2MWl4WnAyay02Tm9BTldRc2liaVpsekg2bkRHaW5XZ29TRTFyWG40enZObldrSlBNSElYdUFYdWk4bTExa0lfSXJqa25pOUdlTDBGdTJlYlpNd3NBYmhXNGI5eXVhdmVmVEN4Wk5VN1hfRkNFR0tvcjA0YmZ5b0MyejBHemVSc3pfV1JwNVQ3Rkt5WWg5VkNNSG5n?oc=5",
+        "date": "2026-11-26T15:08:00+00:00",
+        "source": "La Nación"
       },
       {
-        "title": "Regreso de Jensen Huang a Nvidia desata nueva ola de videos falsos creados con IA",
-        "description": "Regreso de Jensen Huang a Nvidia desata nueva ola de videos falsos creados con IA La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3dpWk1sei1rak1nd3E5RmxtOWVSaUhfdzJNU1htQ01RQUxJT0JSN0xKbjhrcWwyQkRqbzIxakdWVFVzQVN1Y2NUWEtQLVk5TWVJLVA5NGM2cEJHS0pmRlpQRV8wRVpJSTd3MlNLeXFTOHBtcXZQUlloaVB5cUZpS3hkNzRYMHU3TzBReDNGcjJUZE1fZzAyTDdZdUhQd0VTZ0c4QlpTaGlqUTFBU2Z0YV9MdG1nMlRhMXZkUnZVaWFSMWJ6NjVhOG53b0RJeFJyTm5F?oc=5",
-        "date": "2026-11-26T21:55:00+00:00",
-        "source": "La Nación"
+        "title": "El mapa de la inteligencia artificial: el ranking de las 15 ciudades más avanzadas del mundo",
+        "description": "El mapa de la inteligencia artificial: el ranking de las 15 ciudades más avanzadas del mundo Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTVvaTFiQjgtN0x0M2lEX1NQaWdQNFVmR0dfSkJXX09ucllHUXN4cmVTV3BTOUtkZHh2dUhHdUM4WTBWVWQyTlRPZldUbmxWWGVRRDE0cHJxZ0VjRFJvdFlpbDJOamdfZW5QdEg3WDdnUjg2eWtHSXJJN1RycFhIQUI5Zmlrc0RjQlY3SFQzQzhhWFUwS2I2a0JUMFVNMUJmM09ELXpzOGgtUDIwYjRhXzVvSUJuM2_SAbwBQVVfeXFMTXN2Z1Vod1NIVVU4WDhJU2c2WW13TjlfWldlcU9Ccy0xUGxrNHRxNFFaS2tZZl9aWDFfVkZ3aThvV28xcG9XbG4yNWlKbjFKSE9QZml0c0NOaWt1LUdrN2xaRXVXWGNlOFRGSmwxYU05ZllvY1dlYTRvdjUyNEFZQW1vRzZjWnlxcnpWaUxubnhlV2RRdnZPcW9XeTY0dnAwQnJrcXJ3TzRqaXR2U3JqeW56QkM3MDhuRTMxQm4?oc=5",
+        "date": "2026-11-26T08:46:02+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Nvidia vendió chips de inteligencia artificial a dos empresas de California controladas por firmas chinas",
@@ -126,18 +126,18 @@
         "source": "Infobae"
       },
       {
-        "title": "¿Qué tan confiable es la IA para los votantes latinos en EE.UU.? Errores, aciertos y brechas entre el inglés y el español",
-        "description": "¿Qué tan confiable es la IA para los votantes latinos en EE.UU.? Errores, aciertos y brechas entre el inglés y el español CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWJOelgwM3FtWWFjSHRabGY1X1kxcE5NemlRWldkSlg3WFdoV0VyUGk5ckEwdUJ2MkZYMzJOcTBkTGRmQmhUalc4TXhTSjk5c3YtLUJsblVaZnJBWkY3cmRjaUdTWkVGS1ZaNF96clJ4VjV3bUZMV3ZlVl9Ca2Fma2pvSlcyMGtDT3hvUXJmUGo2NmdDUW1wU1BNZUw2dw?oc=5",
-        "date": "2026-11-26T21:18:00+00:00",
-        "source": "CNN en Español"
+        "title": "Literatura e Inteligencia Artificial: Donde la IA trabaja",
+        "description": "Literatura e Inteligencia Artificial: Donde la IA trabaja Letras Libres",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelR2aldWZ0E1QmhjbWhBZ3ZGZ2lOQWoxVzRzM0xBVUQxazRZaVZrUkRJWHNEUXBKRWZ5UHlEZExZZlBYTUZSVDU0WDFITm9HVm5DVEdhVks1eUpRNFU2TkRzNXVIQ2ttZDZKTzkzVmR4aWZiRjU0SElpRTU2QXFpZ2ZMM2U5Qy1ZcXkxYzczandfZkFBLXdrbQ?oc=5",
+        "date": "2026-11-25T09:17:27+00:00",
+        "source": "Letras Libres"
       },
       {
-        "title": "Tidal le pone un freno a la música hecha con inteligencia artificial y eliminará millones de canciones",
-        "description": "Tidal le pone un freno a la música hecha con inteligencia artificial y eliminará millones de canciones Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTkxwS2YxN2hMN3E1NzRvdDZDdEdacVFZX1JCZmtoUml1Um9tWHdPYzJqS2ZpbnM1QW54aGd6VjlHMklxalJPV2lGSUtLdFRLN3puSGlPdllBNDlaWHB2LVA1OTJKWEFLRlQyT2J0ZHd2akZBcnZUTmNlSFhvZk41czdhUm5aWnZLYy03U1FwbHY4WUhUX2gxMk44a0JPZWktdUtUV28tblpfYkpPMzVWNklFbC1PaUhoYkNYSWZWOG5UUW4xQ0ljTTlzb3dMLUhqMXfSAdcBQVVfeXFMTjk2V1hMUTNfamg5cEUwbGtvbVNDdm9hU1JSaE5oNV9Kd3c0a3hvZExndXR5N1loOWlqcWRkWjlWbjZfR2duMGU2eWJVTy1yQk4wQW9NTVM5NzRDRlJIS281ZjRWcjdsZmd6OTFRS1BTT3k0Nm43ZGx5WE1VYXN5SENlMlhzUGlpelJZZUg4dUNfMENOVHlIdUhzS3ZKLXpVY09jT0F6THNWb1pxMHMwYnNSU3prMnB3RWI5QmZ3UFlqQXlMUl9RUXBOZjUzeERiNHRTY21ObTQ?oc=5",
-        "date": "2026-11-26T15:59:13+00:00",
-        "source": "Clarin.com"
+        "title": "Artistas abandonan Facebook e Instagram por temor a que la inteligencia artificial les robe el trabajo",
+        "description": "Artistas abandonan Facebook e Instagram por temor a que la inteligencia artificial les robe el trabajo CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXN5dVlnU1BLWlRDa3ppQTB2SWhQVmsxV1V6bmlOd3JRZ3pXSUoxVnBxUS13QWl6cTdMeHNCWlJ5UFhTN0Rlc1FIMFVyQWxzQkVHNzU0NWF4UmpsZUJBN3lFV2lJUU9MNlR2N25sT2R6a0ZuRG5WQkpNdDJxQXJuUFFjUHlVWDJaajFnS0FKSVkyMkZxdFlsUFFxNzJSQmlFYUdCcVNWMmphdUM4dVR2VXY3QkhrcXZ3Zi1EVg?oc=5",
+        "date": "2026-11-26T12:10:00+00:00",
+        "source": "CNN en Español"
       },
       {
         "title": "Pampa Energía profundiza su estrategia de inteligencia artificial con un nuevo hito: la adopción de Microsoft 365 Copilot y agentes de IA",
@@ -147,27 +147,20 @@
         "source": "Página|12"
       },
       {
-        "title": "Los cinco avances de la Inteligencia Artificial que podrían cambiar cómo nos cuidamos",
-        "description": "Los cinco avances de la Inteligencia Artificial que podrían cambiar cómo nos cuidamos Diario Norte",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3hCYnVsYVY1ZFY4NjlXa3lfbVdFa3g5OFRJVDZzVTdHRW1iU19ZelJ2VU1XVWQ3TUV3dlFEWEw4ajhOOHFsSXNxX3VNYkdkSnF1dmcwUGRaa1FONjNWRjE3WmJTZUNUM0I2YjBUanJMSG50LS1panY0NmVkb2U4OEI3UUtRYkpvczVwT3ZSdTFMOXdSZW5lQklTSFlLdnFqb1daYWd5aUIzanFpWk0yQlpnMnA1Q2g2d1ZtZg?oc=5",
-        "date": "2026-11-26T15:38:46+00:00",
-        "source": "Diario Norte"
+        "title": "2da Semana de la IA: nueva jornada de actividades en el Centro Cultural de la Ciencia",
+        "description": "2da Semana de la IA: nueva jornada de actividades en el Centro Cultural de la Ciencia Argentina.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdS01T194NnZfVE9pd25jTnJpT3BkUEdkRUZHSHR2Q3ptSUJwVnhJV3QwNUJFU2hGT19TMkk4YmRBXzVvYXNvUmp1OG5yNERoVHQ5SFlsMjRZcjFlTkROalBqRjVLLVp0NzRHcGZYOWFycU44U3o1empyNm8wei1BMjcxTHZWVDBuTW5qZEN6emRsc3czV1dxMm5taHdUWnRJSEptbFZEVHZBdk1FdHlBWDJqQUt3aVZJN3BONHFjVQ?oc=5",
+        "date": "2026-11-26T23:59:20+00:00",
+        "source": "Argentina.gob.ar"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "Habló Marcelo Rucci tras el grave accidente en un tanque que aplastó a trabajadores en Vaca Muerta",
-        "description": "Habló Marcelo Rucci tras el grave accidente en un tanque que aplastó a trabajadores en Vaca Muerta Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFBpdmhWNW9BTGcyZnhOVGVxUlZHYWxPblEweldFMjhkYXM4dkgzdFU1N0VZakpYTnR4WGpIV3FMWVVaYnhXU2xUMlFMZUxydnVZNU1TYlFXcU1aaENwZVlWX1dLTXFuRlZvdjR4OEphVjlXaTJRVERiWTRvSGhzUXZjSFVBXzVrdGo1alRsczZFaHdoMWhSMlJLdWphVGxiMVE3UDVlRE0tclJjVTBNZmNJODc1M3BFVnVGS29TOUFSWWZ3QUQ00gHMAUFVX3lxTE1TX05pRWNiemVvOFlLeHVHSExkX0ozU05CWm9INFJuVndUYXFJaThSYWxHUVJtZ2V3YnNkWnVFeDNHSkM3SzZFUzc1SjJmMk1nMFZWVnJLR1VoTFE0UGp0YjF2OHE0ejlVR0N5OVEtQWI1Xzk4YXd3M1gtemsxTmxBZURQbnZ5bEh1UDZfbHdNQm0wa2NfV092d3Z4MlBweWZVTEZMSWNpbzNsbzdNZzE5R1RwX0hRSGw0RklGSThHSUdFNEE3a0Y1d2RSNQ?oc=5",
-        "date": "2026-11-23T12:59:00+00:00",
-        "source": "Lmneuquen.com"
-      },
-      {
-        "title": "Uruguay quiere ser la ruta del gas de Vaca Muerta pero propone repartir los riesgos a cada lado de la frontera",
-        "description": "Uruguay quiere ser la ruta del gas de Vaca Muerta pero propone repartir los riesgos a cada lado de la frontera Lmneuquen.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTHFJNU9aVWo4N0ZKSWlFWEJEbkFSYkl0emRHVktSZk5vZS1uc3JpQkxBdEhBUGNXdExGOGpQdC1IX2p6bmFwc2h3MEt0elFQMm1FYUlwSUlJQmhheExrMFJpZ2RyQWFabTg3a0hiRi04dG1lN194Vjd3RFJ4Wnd2ZXpFZFIwM1NwWUxCVklBbFZfU19KQXozUzNlNWFjSzMxcXptMC1wZHBjaFlaMVVSSHlnRFFyLTlJdG1FZ3pIbndkQ0lLSmRUaC1RYk9UYWVfSU95N3llOEtnUdIB3wFBVV95cUxQcGJVbVY4NUhQaWN5ZG1oTG84TDFSRVBJZDdYdVgta2lTdWNuenJad0pjQ2g2QzF3M1Vjc1dvaVo2ZV9jZjhJVGF0Z3FyRzNpMHpUM3BPVUtDUWc0dDFvMkZCajdReFpVNzFrOTMyTU8yZXZMSV9OSDNYRHdHMzVEdUhYbjA2MGpxZkFneGt0THFJYmFmSVpXUXNEUTVDNkRFdTZmUE1Xdkw2YWRIMHpGWXItSzAwYnJjM0prbHNPUDVjQ1N4Vi11ZEU3SlNkXzB3Z0lNSW13S05VYmJ3QVVB?oc=5",
-        "date": "2026-11-26T20:25:00+00:00",
-        "source": "Lmneuquen.com"
+        "title": "Vaca Muerta: el gasoducto Manuel Belgrano, la pieza clave para la integración gasífera regional",
+        "description": "Vaca Muerta: el gasoducto Manuel Belgrano, la pieza clave para la integración gasífera regional econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5M2h6NTVOSUtnaG5oZU43ZGphNXdWMDV6SVFEa1otc3ZGMGE1dWpSSVNNU183ZlQ3TDNrT19ubDV6bVpLZnpZQ0xTU0ZxdEVJZ0wxbm1fY1NyYklBTmY3bHU3VVpnNVpOS0pkQ3g1dkExaGlRT0o4?oc=5",
+        "date": "2026-11-26T22:19:34+00:00",
+        "source": "econojournal.com.ar"
       },
       {
         "title": "Una propuesta para la UBA: Vaca Muerta está entre Ciudad Universitaria y Plaza Houssay",
@@ -177,16 +170,9 @@
         "source": "Infobae"
       },
       {
-        "title": "Vaca Muerta produce cada vez más, pero el gran salto está afuera del pozo: los sectores que se llevan el derrame",
-        "description": "Vaca Muerta produce cada vez más, pero el gran salto está afuera del pozo: los sectores que se llevan el derrame El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGtOWFl1aUIwbjlzbmlGXzhHMlVGNktKekxOU2xJcDdUOEdzb2dfZlJDcmZJSFhmbGxPNTFLcDhpSWVoRnpRTTlzbUs5RjdpTW5QckdQakYtSVRfb1VrUC1XZ2Y2MjZ1bVZLc1dyQjVlQVZBOFdlX3dic1lWNFphTnR2OTdWcUI0TE9lcFA3MkJtQmxITVZkY3h3WXY0UU9rN0ItOWJoX0tWSzlJX3RUem9BLXZkOHZmdjZLN3lJZWJTRG9ta3ZNS3hnaWktSDhJRkNnZWthR0ZfVlBOdEHSAfgBQVVfeXFMTUJRa1haVTJJbEFTUEpVNm1nZGFxcFd5ZVZsckdtOHloZFhrOGFlLVdTenI4OGZMQmxDVWZhQjZYUURyZWJ3N0hVZ0lVVFFKVW1jSm82SGJ5S2hFZU9LZm51V1VvWW9NQjVJTGVtR0gySi1lVEVaSndaaGttUndJeEpfSHdpS0s3a3JsX0ZtaUtiMUpfSVF5YUxtOXJiVnA3eFBES0ZiRWw0eEh1RHNldW9BQ1E4bndjY2VHM0NqMnRES1BnaFY1S3VLNWc3SUl3dzV2Z1M3S0IwV1RNM3k1UHd0b0JoVk9YbFdYUHNHVm9nSlFuQzNBV1c?oc=5",
-        "date": "2026-11-26T13:47:04+00:00",
-        "source": "El Cronista"
-      },
-      {
         "title": "Vaca Muerta, apertura del Mercosur y un apoyo al reclamo por Malvinas: los detalles de la cumbre bilateral entre Milei y Alliana - TN",
         "description": "Vaca Muerta, apertura del Mercosur y un apoyo al reclamo por Malvinas: los detalles de la cumbre bilateral entre Milei y Alliana TN",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWFicE1NZTFVMlB1b0k3LVhHdzEyVDJON3FmS2J0ZjNOVlFxMy1vZlRYOEhGM2VrRUItMW54ZjIteGE4U0x2dUZxSlJFTlpyVjI1aEJoNnRNb3FkLUVGSFBDeHluM1BlWkUwX1YzQXZJSkRTT18tQ3lXalIxZkNtSjczNFFaYVBFWmZuNi1Tb3JDWTFQWTBmZnE4SDVCTGxzLTduVkwzdmllY0NyNW1qTlBrYmo0cDVOalk2aUtkSVJRVFRYemI5R0p6dHpZNDI0MmdsU296RHNEaEhJSGhJSDhJR0ZKcWo2VXlBX2ExNUZVQS0zdUMyWtIBjAJBVV95cUxNdVA4Tk9HQVA3U01lQ29IRVJ0VnpaY1I4Tk93Y2oxSVRQSmlhb0txdk1YMnhTcWNCQXpYTlRsM3BCdEUxcXh5Mkd6WXFVUEdsV05mSmJRcDVkTEtJYzN4VGdOX3dWdC1DbEcxY2dqUFZoa3RPbkM0STdMUmt1UFN4VlJQNnR4VVUzM3BhZGhKdDFndlhXdGd1aGZJQmJQWW1PSnlzcFdielpJSlBycndwdVpGakdGWUpnbVpzVFduTzhFSW9NR21Pbm9UelRXS3JpVFpaRXh5Mmp2RjlmeUNKTmpWSVlBQ1JfX2d4cUszNGFsMHRHUnBTN0h0RC10cEo0WU5xV2hOYXU2QzVL?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWFicE1NZTFVMlB1b0k3LVhHdzEyVDJON3FmS2J0ZjNOVlFxMy1vZlRYOEhGM2VrRUItMW54ZjIteGE4U0x2dUZxSlJFTlpyVjI1aEJoNnRNb3FkLUVGSFBDeHluM1BlWkUwX1YzQXZJSkRTT18tQ3lXalIxZkNtSjczNFFaYVBFWmZuNi1Tb3JDWTFQWTBmZnE4SDVCTGxzLTduVkwzdmllY0NyNW1qTlBrYmo0cDVOalk2aUtkSVJRVFRYemI5R0p6dHpZNDI0MmdsU296RHNEaEhJSGhJSDhJR0ZKcWo2VXlBX2ExNUZVQS0zdUMyWg?oc=5",
         "date": "2026-11-26T20:34:57+00:00",
         "source": "TN"
       },
@@ -198,11 +184,25 @@
         "source": "La Política Online"
       },
       {
-        "title": "Milei y Alliana acordaron profundizar la relación entre Argentina y Paraguay: Vaca Muerta, Mercosur y Malvinas en la agenda",
-        "description": "Milei y Alliana acordaron profundizar la relación entre Argentina y Paraguay: Vaca Muerta, Mercosur y Malvinas en la agenda El Liberal",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbFJiRmZYODNxYnY1MzBaYUIyNGhoa2ZMU2Z1NUgyTWRPZDEwZ0s3czN3bnU1T2JZVXQxN0FJaWRSbV9JVElyb29BY1BrTTJIM2VCb3BiTkZMWUNWalBVemhmLXpFdzRwd0JzcTBRV3pmbFJmSVpKX3VwaW9KOHQ5Yld3YWpyNWgzVDlxc2w0MjJrRmhKNTVRNUlMTzh1b3ZybWxPZEVrNEFZYjRueWJTWW4ydnQyUzV1NGlNM2pUSHV0ZEhSdGxieW9sazdueG5lRk9zb1gwT2xRX3NqVElEQ0dSUDczQktGbFdNekZId3pOWXlxcGhNUksyRmluMDDSAYgCQVVfeXFMTkJNTF9DcjdlU0NfSXoxQjEzV1VDcDg2dFViN3NkYWRZU1kwU3dUdVRIeEdFSlY2R0x4MHlNTGpIVnlXcHlZZ3FDd0ZiQlR1eXpWaUhOOUJSTG1LN2ZYX3MwWEg5aThLN1hWaFlMUm5PeW4xTFNjaHNfREhqWWJQVC0zWGJQWEdVamRZQ0I1ZUk0d3FfT1pLS2dhTm1waGQ1YU5zaEtHTDNxODAwQlZSeU1YY3ZPXzZod1N6bkw1NlZ4N2tNMVdDSk9yekZMMjNQRVlYOGppX2xuQTdaVC1zTWNJWHdRQ0lkWWlfQUMwb1g0UGlHRXpodnJteUNsZ0hMZEdfX1YxLTR1?oc=5",
-        "date": "2026-11-26T21:18:00+00:00",
-        "source": "El Liberal"
+        "title": "Argentina y Paraguay ratificaron su alianza con eje en Vaca Muerta, la Hidrovía y el apoyo a Grossi para la ONU",
+        "description": "Argentina y Paraguay ratificaron su alianza con eje en Vaca Muerta, la Hidrovía y el apoyo a Grossi para la ONU Perfil",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNXzB5akJFWGpvVTR5UFROY0hlWWtJcENNczBFS1EtU0pXY3lfbzVKNTVWX0hrMHVnU0ROUUpkUVk1d3lFM19PcDZjQ3NxU0NlZ0xXV2o1VURfc180aVI1OEZQVmxNNUpsVVNfUGJSaVFVblJaTXNpQnVmQ05fX1pCRVoxTHZILVJpNFJhZGQzRExpdktMM1E5ZjRscVZQTjk4UHRrUEJYTGxSTXhmeF9NV2JOdlBaa2xPbjBnZnYycnR0d1dHRTBqLWRfRmtuUExwMVZkbmtqdGs1ZXpSSkRlOFpJXzNSb0RrQ0l4b0JucDd5UQ?oc=5",
+        "date": "2026-11-26T23:16:19+00:00",
+        "source": "Perfil"
+      },
+      {
+        "title": "Vaca Muerta produce cada vez más, pero el gran salto está afuera del pozo: los sectores que se llevan el derrame",
+        "description": "Vaca Muerta produce cada vez más, pero el gran salto está afuera del pozo: los sectores que se llevan el derrame El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGtOWFl1aUIwbjlzbmlGXzhHMlVGNktKekxOU2xJcDdUOEdzb2dfZlJDcmZJSFhmbGxPNTFLcDhpSWVoRnpRTTlzbUs5RjdpTW5QckdQakYtSVRfb1VrUC1XZ2Y2MjZ1bVZLc1dyQjVlQVZBOFdlX3dic1lWNFphTnR2OTdWcUI0TE9lcFA3MkJtQmxITVZkY3h3WXY0UU9rN0ItOWJoX0tWSzlJX3RUem9BLXZkOHZmdjZLN3lJZWJTRG9ta3ZNS3hnaWktSDhJRkNnZWthR0ZfVlBOdEHSAfgBQVVfeXFMTUJRa1haVTJJbEFTUEpVNm1nZGFxcFd5ZVZsckdtOHloZFhrOGFlLVdTenI4OGZMQmxDVWZhQjZYUURyZWJ3N0hVZ0lVVFFKVW1jSm82SGJ5S2hFZU9LZm51V1VvWW9NQjVJTGVtR0gySi1lVEVaSndaaGttUndJeEpfSHdpS0s3a3JsX0ZtaUtiMUpfSVF5YUxtOXJiVnA3eFBES0ZiRWw0eEh1RHNldW9BQ1E4bndjY2VHM0NqMnRES1BnaFY1S3VLNWc3SUl3dzV2Z1M3S0IwV1RNM3k1UHd0b0JoVk9YbFdYUHNHVm9nSlFuQzNBV1c?oc=5",
+        "date": "2026-11-26T13:47:04+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "Tecnológica cordobesa entra en Vaca Muerta y automatiza procesos para una de las grandes transportistas de petróleo",
+        "description": "Tecnológica cordobesa entra en Vaca Muerta y automatiza procesos para una de las grandes transportistas de petróleo La Voz del Interior",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1Fia19uVWcwZDZlUlg5dmwwX3EtRi1FS3o5WHBGUTluR3NKelRubEI3RHJMdzJaTng0SGlNd3JaS0JvNlBFRzYzYUV0anluenB1RmpOYUV3a3V4dHJXSTFLYVZ5V2VOQWd2RzU3emlrTjdCMFNjTWVGMHQwNS10TjFCUTRzWm9vQ2FlSTRSS2lxWlY2RnpRaEdHMEVJRlQ5ZFY1MVRSXzlrRG5NTm5yajltX1gtc1FUNnVScmphX2FlbGFoc1hqSlpjdGdaQkFSeXZKWHZfd1JoTTQ?oc=5",
+        "date": "2026-11-26T22:40:50+00:00",
+        "source": "La Voz del Interior"
       }
     ]
   }
