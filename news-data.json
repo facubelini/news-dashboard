@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-27T14:36:46Z",
+  "updated_at": "2026-11-27T23:08:57Z",
   "categories": {
     "Microsoft": [
-      {
-        "title": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
-        "description": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA Xataka",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFONWtwWV9HU0pJR1RId19GWEIwcnA5UzE3dGVqYXAtS3VMVXRNVnE1dnVqWVNzZzVJZ25JdDdkREVXLXdFdHJrOXAzUEFmbkxNUTlvRDRsWFNCdUNhVVJjQzBfd1dBQ09fa05WdUlMVENTNXNkRHJrdklaYk9TT3FaUnNyN1pNUUZQOWRKcFQ5MnpIV1kxLVpIc1M0Uk9JTkRFOEVYdVV5WkFKb0RBN0cyWnhtbTB6d0NZRmZkQlczQ3hwZGxxTEFn0gHPAUFVX3lxTE5jZmNydDljY0hNYjdQMHZOVTdDQnZYbXpGX2tyWnZzbmhHdl9VR0tIWW53RGdJcHZzRm1Zek4wS0NDZlIxYVhZbFJmY25LekRBNHU0OVJib2JlZzRpVFZYaE9BaEZ5LTNOWG5rWWRUbXpoV3NJQkl4aHJSSDFYekVldVdoTFh5NlVwU2Y1YUllSnQxVDhZT3F4X3hNNC1iTVpLc1A2U01KdklSdG5VcEJlSlVidUxsY3VYQjNaV1VoeUU3U0tPQm9lSkJpRkNPTQ?oc=5",
-        "date": "2026-11-26T21:00:29+00:00",
-        "source": "Xataka"
-      },
       {
         "title": "Microsoft en código rojo: qué significa y qué cambia para los usuarios de Outlook, Teams y Microsoft 365",
         "description": "Microsoft en código rojo: qué significa y qué cambia para los usuarios de Outlook, Teams y Microsoft 365 Infobae",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWFdxQWVlbS1QSm9Hek1NX2M0dUN4aEZBSllTRWxzR0ZJTDVpektxSHQwSlp4NUpranFhRUF0STFNSE1WRkdNZHhlTTRTdzdDRWFDVE1lbUcxeU9LNjBhaC1Gd1BwVktxUk1sUW9iNG5LVkllYU5JRVdjZUJGZklsZ2x4VC1ZZkdXektxMGVsLU1ialhtM0dNQ2dlTmwwNmZhcExZVGs4aFZpVGREdV9iSk1EdlRHS0h1UTRjdDgtTUVKTTFVcU5mZDJWVzdtS0w5bEktTVc5a2ItbVRl0gH3AUFVX3lxTE04aTBTcE1xaVZBQTVSdEhQV0tNUE1faHJCRUhLOWNxZG5MRmpNS1d1anl3bjBnMWx3VkxzdUtzRHFVQ0lRWW56X1E5bktSSE1zVlh5MTluTFVzZXhYM1pWYThVVFJweUxmVUpyUy1RUVRUeDBETFhERHNua19QdlFPWE4xQjVQWVpaM2EzaHBkelpSb2pNV2N0NkFBcDBQNjU4NzIwR1pVR21CR05PaGdRNnFfWnQxVXgwMFlEZ0JkUzBvNkkzVkRSeERGWnpQSXhyRHdHTG90ZTVnMjhEajlBSkJhck1uV3hvT3BwMkstdlBpOGxEZVU?oc=5",
         "date": "2026-11-25T13:06:00+00:00",
         "source": "Infobae"
+      },
+      {
+        "title": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA",
+        "description": "\"Tenemos que prepararnos para los próximos meses\": el presidente de Microsoft alerta del riesgo de más caídas ligado a la IA Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFONWtwWV9HU0pJR1RId19GWEIwcnA5UzE3dGVqYXAtS3VMVXRNVnE1dnVqWVNzZzVJZ25JdDdkREVXLXdFdHJrOXAzUEFmbkxNUTlvRDRsWFNCdUNhVVJjQzBfd1dBQ09fa05WdUlMVENTNXNkRHJrdklaYk9TT3FaUnNyN1pNUUZQOWRKcFQ5MnpIV1kxLVpIc1M0Uk9JTkRFOEVYdVV5WkFKb0RBN0cyWnhtbTB6d0NZRmZkQlczQ3hwZGxxTEFn0gHPAUFVX3lxTE5jZmNydDljY0hNYjdQMHZOVTdDQnZYbXpGX2tyWnZzbmhHdl9VR0tIWW53RGdJcHZzRm1Zek4wS0NDZlIxYVhZbFJmY25LekRBNHU0OVJib2JlZzRpVFZYaE9BaEZ5LTNOWG5rWWRUbXpoV3NJQkl4aHJSSDFYekVldVdoTFh5NlVwU2Y1YUllSnQxVDhZT3F4X3hNNC1iTVpLc1A2U01KdklSdG5VcEJlSlVidUxsY3VYQjNaV1VoeUU3U0tPQm9lSkJpRkNPTQ?oc=5",
+        "date": "2026-11-26T21:00:29+00:00",
+        "source": "Xataka"
       },
       {
         "title": "Microsoft activó un código rojo tras la histórica caída de Exchange Online",
@@ -38,34 +38,48 @@
         "source": "Infobae"
       },
       {
-        "title": "Bill Gates, cofundador de Microsoft: “La capacidad de realizar un ciberataque que altere todas las cuentas bancarias y paralice la red eléctrica existe hoy en día”",
-        "description": "Bill Gates, cofundador de Microsoft: “La capacidad de realizar un ciberataque que altere todas las cuentas bancarias y paralice la red eléctrica existe hoy en día” El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOak5JWGxOQjM2bkxRRUhjOTBGSmRsbkZ0SWwyWk1rYlR4Q3c3WGtPQjNFLVFoRk5Td0lsWV82TGdVQnNKWEhtV3N1QVFONkJOR0J2eG5XSmlYSXRMYlp0WUpmTmlwN0Z0c1NRVjJwOXZPdl91M0NEQ01sdkhQX0VWM2RMM0F6dnYtcW9DSlZCbWt3d3VRVHVmNFlTbGtQSkN0R3BRWDJyeEJ6VlFHZG1PWjVPQWtGU0ItS3Ffbk5yeFZnOG4xVENOS29HckRhWjlfeTZUNVdVTXNiUTdzOFNobFI4SFRWQy1kV24zYlp4NmJGaTR1ZHV2MmVKNG91dnF4NDRNYVl4VUtZU1l3MFVHUGxjSjl5WW9DSzR6M2NjUkRuaFRMLTA0ZW9LdUVQR2vSAcoCQVVfeXFMT1g4SDQ5ei1meDdOeGZ6U2hCZFk5bUI2Q3JaQnp4Vkp5cFdWblEtVjZGdnFBbFhRcVQ0Z2VWeDJOYXREb2p1WnZXcjhMNlJHanNTb2pnSFh3UUoySThwcjZld2V2d2YwYk1HaVA2eW5OZDgxVnJqbkRBMno4N01PVERPc0c3Zkx6SEVlMENpc0Y0QThUbmY3MW1kZUt6dHJ4NjB0T0xwUXhMdWlIUXV5ajk0b0NCaEE3djA0YjlZbThUSGIzTVdSZlNtNE9qODVxM1JLT3RvSmt1RDctYW5hRkFwT2RnUDlIbmpRbllnajRlczdMR0pTcXVMc29PSzY0R010ZHVBazRjNGRCZG8xbjVuc3E3Qy1jZWdpMTZXSDRLU1FBaks4Mml1d0pxWDlrVHVpRVFqYW9PTkxac3kybDBaTlU5QlBFVV9B?oc=5",
-        "date": "2026-11-27T10:30:50+00:00",
-        "source": "El Cronista"
+        "title": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre",
+        "description": "Resumen de la caída global de Microsoft, Outlook, Teams, 13 de noviembre CNN en Español",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDJJb1BsZFZTakhUVzlrYTFVZ05PZGhzOTZSTHBPMjFGc0FwZ1ozV0hIdjk3b0U1ZzJtVUFuWDFHYlNvTnVVd1UzWVdsakFWR09DTDhjZC1tT0xtZkxHMzJ6QTd1MlV1QVJJMFoweGltT293SWdnREV0SXE2OFNab19aZEVmbTFIM0NKSjVjUUhxdXlQSUpETnl3T2Nwa1paYTFSdmR6N1o?oc=5",
+        "date": "2026-11-13T08:00:00+00:00",
+        "source": "CNN en Español"
       },
       {
-        "title": "Ken Kutaragi, padre de PlayStation: \"Quería que Microsoft hiciera XBOX y amo a Nintendo\"",
-        "description": "Ken Kutaragi, padre de PlayStation: \"Quería que Microsoft hiciera XBOX y amo a Nintendo\" VidaExtra",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazhDN0RNUUNLSTF4Nndxdm8tQXh3YmdTZC1OMXVVdS13aFRXZ0FDaE52YlFWTXllUTAxaWl0T29Qa2lrTWVIUFpid3dVbXh0TGZjUGs4YmYzSjZWX0MtbzZ3VWxtZXlMMFhoWUxEeVpZbG9hdFVHM2w0QWVHV282eENoV3hUZVhjU2YtbXl3ai1JMm1ZZlR6R2JUcm5BeXZLRWVrSndnem5BbE5kUXN0WXFvMkN0Zw?oc=5",
-        "date": "2026-11-26T11:38:19+00:00",
-        "source": "VidaExtra"
+        "title": "Bill Gates, cofundador de Microsoft: “Si alguien tuviera un plan convincente para frenar el avance de la IA, probablemente yo lo apoyaría”",
+        "description": "Bill Gates, cofundador de Microsoft: “Si alguien tuviera un plan convincente para frenar el avance de la IA, probablemente yo lo apoyaría” El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORkk5eXA4NHVzWlhlREFRMWRSbXpaZ3VJdHNVNWtkTTB2SkRyc2VUWkprS0JHTWdRZUhtMi01akpjeTRtV2NyakhveG10NmVRMVM1UW5INkZGTXBjWWQwLUJoeE9lVlF0VU52NlBOU2ZnSmd3OHVVc19CeHltalpOQndoQ2JUUkZDYXpnZGw2QXpjSmV3OHhic3V4RTBLN0FPMVpINjlOdlFpYjI5dHlKRDM0M0JpMnhRYnZmcEZtcndha2hjRmZMR1hJbXRyUEZXcTFXWVhzQ0pySkU5Q2lsVUc5X001RFB5VmowQ2ozMDB0dlVHOXpMMTFFeWlYVEs1YmfSAZwCQVVfeXFMTWhfTGw5UlQ5YnBVODlNbFRqXzUzbk5Kdml3WmRVNjkzNUk5a3FIaWZRdWNWSWIyMUc2M2Q0VHBuWHFnTGNLYlZlSUFtLXBTNU1LdHIwQVZfQV82NHFyM2Zfc09abHprQlJ0SWxZcWpWbnZYb1lSSC1VMTZ0ZUdlLUdtSXFyVXV3MjJ1eWZYWDhiblNUTmlsOWsxUHM2QUNmOVFQcEozeTZoT3NJb3Vob004ekNhSEI4bng2VnM0SUZxbFplcjVxdlplMzdWdVpfYTFSS3FvNjFxb1BwSGtJS0RsdHJqZHM1enQzeGljREdJdXE1WExCWkRPb3pmbkVISlBVWnRJRmV4XzVXc0ZpSHphVEpMTVBxRDlIVWg?oc=5",
+        "date": "2026-11-27T17:31:45+00:00",
+        "source": "El Cronista"
       }
     ],
     "Marketing": [
+      {
+        "title": "Office Max deja atrás las promociones y apuesta por la experiencia para conquistar a sus clientes",
+        "description": "Office Max deja atrás las promociones y apuesta por la experiencia para conquistar a sus clientes El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc3RqRlJnNTNNVXhZelZVaG9RU1Z3X2RHbkJlSUJTZE5jazE4X1F2MWhJajVlOFdIZ0hfWmhNaWl6R01PTXdkVUh4NnV3VFY4UVJRUVZHTE9lU0hJQlNFaEJUYnY0SzRUZ2s1YzVqNmJKdU1yWGJqalJGT0VrbnBhcnlzTFNydEVQNnhScEFIeEgzZGtXaXl4SHppYTBrbWJpWTVBa0NwLUN4bmsteWxHNHl2c3Z6WC0tQjBjUjNEYmR5MjBTXzZSbW4tcDlzZ3VpSm1pWWZmdFNTeGd3dHg5Wnpn0gH8AUFVX3lxTE5MVXdDd0pOX09NdjdBbHotbl9La3lubTlMZlIxZ0E0NWZPTXI0RHVscTQyQkRPUC1HcjM0TFEtWi1tWjRndkRFaDNFa2Fia2lleGtrRmdnQi1TUXZvallrajVWWDdBODFWZTNsdkduRDhacHpwZEI5WHgybkVVU0JOalBxaEw5Y0hQSC1NUXI5YmwzSk5pa2IxaGJpelA1UmpuYnFpOXk0a3plRkkzbWxBWkpjd3lBd2xiT1p6aUFWSTk0NnM4QVpValRocFVTd2UwTU5pOUxKSFpPM1BzUTBGSVhIVnNGa2xlanhoRkU2UG5fRE9uYmNQZmdIWg?oc=5",
+        "date": "2026-11-27T18:33:47+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "IA en marketing LATAM: solo 11% usa modelos predictivos",
+        "description": "IA en marketing LATAM: solo 11% usa modelos predictivos El Ecosistema Startup",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFE5aDZieTJkTk9kNUhValNudjBaWjhleU80bHlBSDlkLWp2cW1GX1lxM21uVGViODJWNnU0b2FlV1pnbkFlZHdSeDdGZmFRb3NWZEJyUDllMGR3SWZXVkNZUDZtSm8xcUxoYVVHZVpmMGR5T3lCMXF6ZG9DaXNvNzA4VDBURE01eEc0NA?oc=5",
+        "date": "2026-11-27T15:27:53+00:00",
+        "source": "El Ecosistema Startup"
+      },
+      {
+        "title": "Advolution 2026 reunió a la industria digital y celebró los 20 años de IAB Perú",
+        "description": "Advolution 2026 reunió a la industria digital y celebró los 20 años de IAB Perú Insider Latam",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbGpGVjVmaTdpT3RJZW9WZmg0TTNfckY3bzUxWTU4SFNoZ2c1ckp2dDl3ZDZFUHRYWkNMQ1lDeFdBUi12NHU5SzRQbGNoZ2I0b3Zvd2wwNUZnVzh6Ml9nd3F2UDZYamoteWtyQnlaa3NjaEkzZ0NlRk9aclJqUDEzUXExTGlUYmpLRk9sRDh3SFdzZWxSbGFnV1ZyWXpXZ3JORlFNRDRRYTY?oc=5",
+        "date": "2026-11-27T18:08:30+00:00",
+        "source": "Insider Latam"
+      },
       {
         "title": "Brandwatch: el contenido centrado en las personas lidera 11 tendencias de marketing digital 2027",
         "description": "Brandwatch: el contenido centrado en las personas lidera 11 tendencias de marketing digital 2027 mercado.com.ar",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWV2X2F2aXRXcWdUMjg2TjFsMzdJUnVYeWh0bEVMaGdvVktHdFVHZVZNdGpxYVl5eXk5VWQ0UVdaYXdxV1Z2X2hLRHg1bkhXWERNelhMY25XeHd3dXVyODBidngtZjRPTmI5SVFzbXd5b2MyaklleHRIQk9tYnBLTl9KZFloQ2RXYW1xbnhHLWpSUDV3SG5uOWlKNE5wdGlFQ3VxS1RpSDVveWpwSGxSTER6UUp5dDdyMXhsOElkLXJvODZadVpn?oc=5",
         "date": "2026-11-26T14:32:34+00:00",
         "source": "mercado.com.ar"
-      },
-      {
-        "title": "CrowdStrike sacude la ciberseguridad con una compra histórica",
-        "description": "CrowdStrike sacude la ciberseguridad con una compra histórica News America Digital",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFV3cVlRSzFaWkRQSTBoS053anUwWGdkMWMzRFN3SlNTZVJHbEpxMzFnUGt6TVg5MWpZUmdRVk5tNEpTWTlwRkRQc0xLZk41OWpkb3FFYVJWN2pEeHViNjhwWjgzaXNVTTNUMlpab0d6b2JzMjVQcVZjSU1HWUtGQW4xeXI?oc=5",
-        "date": "2026-11-27T12:40:14+00:00",
-        "source": "News America Digital"
       },
       {
         "title": "El IDEP y Tiendanube capacitaron en habilidades digitales a más de 200 emprendedores",
@@ -82,40 +96,40 @@
         "source": "gualeguaychu.gov.ar"
       },
       {
-        "title": "¿Cómo usan las áreas de marketing en América Latina la IA para impulsar ingresos?",
-        "description": "¿Cómo usan las áreas de marketing en América Latina la IA para impulsar ingresos? Marketers by Adlatina",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObzRtWFJNMGRENG9RMGVDbHFjb0pTNFY4NDF2a2FsbHZxX0xmS2NtMmpRWjZtYUt4MDlTbTZ3SThvelNoYTBzb3ZpQXQteXJVMHRjdkNnaVlUUnVGS2p2bTdfTlk5V0NGanNiaF9SNFlkUHlXRHI1dUJwSGY4NWxPLUNaT1JQcEczMmpGZVZWRlVQX0NwVGlMd3dNd1RYVnB4a3g1eldobDg2NXdSU0pESW9YZzdsQVJCQ1JxbHpleHgxWHhXOXg1OUN3?oc=5",
-        "date": "2026-11-26T03:18:37+00:00",
-        "source": "Marketers by Adlatina"
-      },
-      {
-        "title": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027",
-        "description": "IA agéntica, creadores y mensajería lideran las tendencias de marketing digital de Meta para 2027 produ",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVVXUF9tUW82VFRkOWZFNGFPdmN1TlpQRGJaT2gyb3RwM0NKbjVxb2tmUW16TTd4RU1CbjV2bVhVRlE0elB2TG9jS3FZaFpDd0s1QnlsUU9IRHBWLS1YOTBJSF9kWXBSTzNmaUpleGFiSEJMdDZqM0JINXl2dlVMWHF1dDkzOThrT3llaXlldHFaclJBUFl3TUNTc3F6eDA?oc=5",
-        "date": "2026-11-24T06:46:08+00:00",
-        "source": "produ"
-      },
-      {
-        "title": "NTT Data: 69% usa IA en marketing, solo 14% personaliza",
-        "description": "NTT Data: 69% usa IA en marketing, solo 14% personaliza El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0pqcXNQa2dTTFBtZ1dTNUdkQ0xISnRXdm1HVzk1VUJGRWxLZkFhX3k0VmExX0o2WF9sVWFQNndraG5ZNk9vNFRzazB2UEhMVkZ3LVRDdnFVV0w1NlJOVFdwTW9xU0tsSnNuZWQxb3dCa0xkbzl2LWVFY3kySVlmS2FHN2hrQzRJVWc?oc=5",
-        "date": "2026-11-26T03:36:38+00:00",
-        "source": "El Ecosistema Startup"
+        "title": "CrowdStrike sacude la ciberseguridad con una compra histórica",
+        "description": "CrowdStrike sacude la ciberseguridad con una compra histórica News America Digital",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFV3cVlRSzFaWkRQSTBoS053anUwWGdkMWMzRFN3SlNTZVJHbEpxMzFnUGt6TVg5MWpZUmdRVk5tNEpTWTlwRkRQc0xLZk41OWpkb3FFYVJWN2pEeHViNjhwWjgzaXNVTTNUMlpab0d6b2JzMjVQcVZjSU1HWUtGQW4xeXI?oc=5",
+        "date": "2026-11-27T12:40:14+00:00",
+        "source": "News America Digital"
       }
     ],
     "IA": [
       {
-        "title": "Una IA podría detectar los primeros signos de deterioro cognitivo a partir del movimiento del mouse",
-        "description": "Una IA podría detectar los primeros signos de deterioro cognitivo a partir del movimiento del mouse CONICET",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPME10UTFCUTd2bzRWMGZUODNPZURhY2JiOHJsOWNSWHRiMEVULVd1a1F6X2lyc3RLeWVlMVZ6OExSZ0x6b2hHeUdRclVJaEcxRFlxenY2MV8yMUZlRWJ3bFVaclM3aFhkU2E0aC1QWmRJZXJNTDVuSnFFSHVnMFJrbEdWWndIeU1rRURNTTc2OHB2am1nZnFoOG5mUXhzV0JSLXVuTUJhTW0wRGRrcENsd3JsNnBFYmtRNGN3Qk9adXNQemp0UzVucUNmUQ?oc=5",
-        "date": "2026-11-27T14:01:16+00:00",
-        "source": "CONICET"
+        "title": "La carrera por la inteligencia artificial ya no se libra solo en la Tierra: China acaba de dar otro paso desde el espacio",
+        "description": "La carrera por la inteligencia artificial ya no se libra solo en la Tierra: China acaba de dar otro paso desde el espacio Xataka",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXd0dkF4SV9nMGFjbVpyVFBqUXBaOHU4cFdfVVRHQm5FMFA0dnV3RVYtcEVQNFFvRWJxNVBSNE1KenRYQkVlWnZnSW5IS29wUUdOTmJKLUl1S3BRUUJhTXJMczhVS20tZG5say1ldjdNdk5TVkFHVHBRY2tOdnRFU3p3VVlHSmlLYVZjVlVhU3ptLThFdENtNUZ6c0ZBVHRaUmpiUWlpYWxqX19Dc21xcUtQcWJUVDJuSHlnWtIBwgFBVV95cUxPaFJIYkRkblRFNlNwZWQzODlqbXhhR0xIZTBuNEhiX3R3MmJyd3JHTXVHYzkwT1NOUDFxUUdFZE8wbzFLSEFyc2dOcVh2dllNd2pyVjRVWGxabDh2ZGRCcElJNGdES0d1SXBObENhbTRrMEw5YVB0Qms5WWh3ZW5IWjItMmF6blhJOE5SWFgxN0dFUFNlcEJKN252V015NUxiR3hYQkRlLURUZ0RWdzVsajJ1aTYtUENBdkdONG4wbDdUdw?oc=5",
+        "date": "2026-11-27T06:02:16+00:00",
+        "source": "Xataka"
       },
       {
-        "title": "Un estudio reveló que más de la mitad de los adolescentes invertiría sus ahorros por recomendación de un influencer o de la IA",
-        "description": "Un estudio reveló que más de la mitad de los adolescentes invertiría sus ahorros por recomendación de un influencer o de la IA Infobae",
-        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcjR5ckZnRHVmcHEzai0tNndGNnZrVHdOblhwZzZDdm1mTGx6Vlc5MHVNRWxqdGZEcW80cWtfM05xT0Rya0VGOV9tTFF0Vm5vQlVONks2bl9la0toRmlBb2FpRkZ3YWRBX2tJQmlQNmtRMk1ZNnFMZXF3SUNnRWN0Q05UTGNaSVd5U1hKekRaajNuU3FMZF85QjBMLUJuZlZuMzN2UnJiS3dZV0RBNVhsaUZRRGFIczRvU1RmVFpmT0ZvNkUzcXcwR2FLMHVQbW5zLWs5eWs0b1dxZERxNDJ4bGtUQlFwZGhlUWFQeE5TX1UzYmRVWElsYjI0ZGswNm5EYzhmMWtZX1hvSU90S2ltR2dPQkQ0eVFHR1V30gG2AkFVX3lxTFBIQ19paGtGYjhtOFFxWHpnbWdNWjU0WnMtNlJzRjQ5ZHdzb3hibmdwWjVDWFgzOVpQRllKYkpxamNJTGRqWGw4cUx3c1pEby1UZ2JIWGdZM1RHUXRrck9hUzBUbXNZNkJCZ2s2UVN2ZGhBMXJBMzNOUGJEblZEYmdDTXNyZGZUX3c3Q0Nsa2pXaEw2Snc5T2pER0l1Ulh6aU1qb0JxVXphOW9TRmhaYTlSUVZ1MXZBR2ZrNm1Ba3g5RGYyTUpsYjNMVXUwcjRSYjgxanN4ZGhhMGtfMXZKUkFWVDZJWjdxR1VNd1JNOExvRnlzbTlWempwQlFhYnNZcUUtZzh5dWloZGU5aUd2ZDUzd2k5RldPOEhsdE5zbzJKeU5uSFBYWHJTRUVnel8tUzNmS25DcFE?oc=5",
-        "date": "2026-11-27T14:15:00+00:00",
+        "title": "León XIV: la militarización de la IA amenaza la paz",
+        "description": "León XIV: la militarización de la IA amenaza la paz Página|12",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTBfeXNtN1BPNEVWVElGcVdkbk5IRllZWlg5SjM1WUx6V2ZvdEFUbHJSTkVLRDN2dzFvXzZQUWZYcklDNnlvQjBoWnNLYWg1Z2xLeUI2bUZ2c1NfWnB1TjBaQ2stbEJZeFZUTElMRFJidFJIZTZNazJ2dlFBRTROSXFQeGxMZDI4VU5hVmg5cUc0OE9K?oc=5",
+        "date": "2026-11-27T22:49:35+00:00",
+        "source": "Página|12"
+      },
+      {
+        "title": "“Invertir en IA es invertir en inteligencia humana”, reflexionó la Secretaria Baravalle durante el cierre de la 2da Semana de la IA",
+        "description": "“Invertir en IA es invertir en inteligencia humana”, reflexionó la Secretaria Baravalle durante el cierre de la 2da Semana de la IA Argentina.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWtsTVZXRFVOU3RqT2M1VmdKYk1fY2dmMFNDUW1ZcEswMEF3X2Q3RVIyR3VoN212WjFtZVF1WGFzV0FvSVBjQl9uMFhNYjl4SUQxR1B6STBIZHc1WC1mOE1LYmM1UVFWMmZENjBFczN2YmtSdldlOTVsVmlkanJvYVVKeC1uVXFuRk1id0tTTzlvYmtLZ0VaLTh2bzc4NlNJUUt3UzFmS1A0ZEpLS0x3bHdjS294RFFVZmVQZWNLMA?oc=5",
+        "date": "2026-11-27T21:26:34+00:00",
+        "source": "Argentina.gob.ar"
+      },
+      {
+        "title": "“Si creamos una especie o criatura más inteligente que nosotros, es ridículo pensar que vamos a fijar las reglas”: Santiago Bilinkis advirtió sobre los riesgos de la inteligencia artificial y alertó sobre sus límites",
+        "description": "“Si creamos una especie o criatura más inteligente que nosotros, es ridículo pensar que vamos a fijar las reglas”: Santiago Bilinkis advirtió sobre los riesgos de la inteligencia artificial y alertó sobre sus límites Infobae",
+        "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQTNvYlJDM2lsZmZ0QkZ0ZFNfTjNFclVpUU9WdjBtaDN2amNQUVgxYlcxejltWjlOZTJCVEJhUjR0V2N3ODlIdTBQYU95QnlZUDJ5Y1dCUzh3R0NWTDB0d1JJVVdrVl80RmxrUmZCdWRodUE4WmFFbk1OMm1lZU9rRlV3bmRTdm5ja1Y4aC1XcjZWc2J4OS0xRmRBYWtTd1JuLVdObTFrRVdTNzVLTmRLRWs1dnZzZnJETFJXTElsRmY3THNsYWFVUmM5bUZJaFEyVzgxUDdaNEhBRkNWQ2JyMzc3R2VfX2hEM2lERVAzMmlKSWV4RFpCN19EWm1tdzFaRVczVkRqYnBiN0FmZ1Z1TS0xTGU5VjdtR214dkFyd180SEw3eldQLVp1VmxOYlNTbUtvNnVXdVNScFhraFZzWWhzODRSYkFZZTAzRnZHTXFDRGlORF9zZEc3ZWdsTC13MnhrX0YwMnVVWEx5alhlN2hKTUktMG0weHJneGhDTWVOQdIBnANBVV95cUxQMWRuTlZLakZCalROMjBFdExHSm9hYVg5WDlWX1pjNS1GaFFvWkNwMlJCUS1hN041NlI5eWJ1Vi1qRk51RWRhQTVvM3pORHczWnM2MnQxVmdNUk0xbWxnWjVadl9ITG5EeTI0clg0V2Z3NlhfNDJJNnVKbnJmVUFCcXVTR1BmMWl1WlFwWUQ1QldkTUU2Rk5oS2FyTEpGZ2NnSmd3MGE5RG1ZRDZXc0M4Q1lXVEZTME1HODFuZkdjZC04VDhmVUdVNWZmdWNsVGd6QllqWTlDeC02M2JMX19XQWlPWXMxS3FPbnJHSm0xVVlJeWplbU5LZ3hhOTc3X0JNYXRSYUI3YWpodk9YSGszN3NjSlExSFJTZDFYLTBzamFDR0FLcWJ1aE1HS0ZoY1lGMktuaEczLWRLbUlPQ0RYRThiZk1SVklDYy1GOVRWWExpbkhwUFZiUVFjX3FoVkRBb2FLZERIVWFlTzRXR3NmRWJRUWFPeXVhNkxpa2ZGT1ljNzRJTl9RSWRGQnkyWFU5R25vSzFsYmlPcnQy?oc=5",
+        "date": "2026-11-27T12:47:00+00:00",
         "source": "Infobae"
       },
       {
@@ -126,20 +140,6 @@
         "source": "La Nación"
       },
       {
-        "title": "Artistas abandonan Facebook e Instagram por temor a que la inteligencia artificial les robe el trabajo",
-        "description": "Artistas abandonan Facebook e Instagram por temor a que la inteligencia artificial les robe el trabajo CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXN5dVlnU1BLWlRDa3ppQTB2SWhQVmsxV1V6bmlOd3JRZ3pXSUoxVnBxUS13QWl6cTdMeHNCWlJ5UFhTN0Rlc1FIMFVyQWxzQkVHNzU0NWF4UmpsZUJBN3lFV2lJUU9MNlR2N25sT2R6a0ZuRG5WQkpNdDJxQXJuUFFjUHlVWDJaajFnS0FKSVkyMkZxdFlsUFFxNzJSQmlFYUdCcVNWMmphdUM4dVR2VXY3QkhrcXZ3Zi1EVg?oc=5",
-        "date": "2026-11-26T12:10:00+00:00",
-        "source": "CNN en Español"
-      },
-      {
-        "title": "Literatura e Inteligencia Artificial: Donde la IA trabaja",
-        "description": "Literatura e Inteligencia Artificial: Donde la IA trabaja Letras Libres",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelR2aldWZ0E1QmhjbWhBZ3ZGZ2lOQWoxVzRzM0xBVUQxazRZaVZrUkRJWHNEUXBKRWZ5UHlEZExZZlBYTUZSVDU0WDFITm9HVm5DVEdhVks1eUpRNFU2TkRzNXVIQ2ttZDZKTzkzVmR4aWZiRjU0SElpRTU2QXFpZ2ZMM2U5Qy1ZcXkxYzczandfZkFBLXdrbQ?oc=5",
-        "date": "2026-11-25T09:17:27+00:00",
-        "source": "Letras Libres"
-      },
-      {
         "title": "El mapa de la inteligencia artificial: el ranking de las 15 ciudades más avanzadas del mundo",
         "description": "El mapa de la inteligencia artificial: el ranking de las 15 ciudades más avanzadas del mundo Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTVvaTFiQjgtN0x0M2lEX1NQaWdQNFVmR0dfSkJXX09ucllHUXN4cmVTV3BTOUtkZHh2dUhHdUM4WTBWVWQyTlRPZldUbmxWWGVRRDE0cHJxZ0VjRFJvdFlpbDJOamdfZW5QdEg3WDdnUjg2eWtHSXJJN1RycFhIQUI5Zmlrc0RjQlY3SFQzQzhhWFUwS2I2a0JUMFVNMUJmM09ELXpzOGgtUDIwYjRhXzVvSUJuM2_SAbwBQVVfeXFMTXN2Z1Vod1NIVVU4WDhJU2c2WW13TjlfWldlcU9Ccy0xUGxrNHRxNFFaS2tZZl9aWDFfVkZ3aThvV28xcG9XbG4yNWlKbjFKSE9QZml0c0NOaWt1LUdrN2xaRXVXWGNlOFRGSmwxYU05ZllvY1dlYTRvdjUyNEFZQW1vRzZjWnlxcnpWaUxubnhlV2RRdnZPcW9XeTY0dnAwQnJrcXJ3TzRqaXR2U3JqeW56QkM3MDhuRTMxQm4?oc=5",
@@ -147,41 +147,27 @@
         "source": "Clarin.com"
       },
       {
-        "title": "Pampa Energía profundiza su estrategia de inteligencia artificial con un nuevo hito: la adopción de Microsoft 365 Copilot y agentes de IA",
-        "description": "Pampa Energía profundiza su estrategia de inteligencia artificial con un nuevo hito: la adopción de Microsoft 365 Copilot y agentes de IA Página|12",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0RuX0F4Rm1hd1NjZ2IzaDJzbHYxdDJyTy02X3lXVjlDWk1DeFZqZjU2ajZBSy0zVTlrVUxhUGFsaHFhaWFZaFJfWXJmVFdRWk1pcTdFYWs1QTBzQlRNakV3MVQ3LVNNMnl5aFI4eGFSQ3pORnI5MnIzRDBSLU9GbmdWT2dEQzhWc0RqeHI2S1NYS0Q1YWdVMlNUQnlxZGsyV3ZSOWNRdWthd1dtYkZDSEM2cHFMcU51SXZHdWFVMzl6OXZjaWdYajJGS2ctaWhXU1dRd1BTajBsbldkcUNmSTk3aERab21PSlNiNi05U1Q4aU1icHVhZUdpYkxDNU5RZVMtZ3pRYw?oc=5",
-        "date": "2026-11-26T15:47:29+00:00",
-        "source": "Página|12"
+        "title": "Una IA podría detectar los primeros signos de deterioro cognitivo a partir del movimiento del mouse",
+        "description": "Una IA podría detectar los primeros signos de deterioro cognitivo a partir del movimiento del mouse CONICET",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPME10UTFCUTd2bzRWMGZUODNPZURhY2JiOHJsOWNSWHRiMEVULVd1a1F6X2lyc3RLeWVlMVZ6OExSZ0x6b2hHeUdRclVJaEcxRFlxenY2MV8yMUZlRWJ3bFVaclM3aFhkU2E0aC1QWmRJZXJNTDVuSnFFSHVnMFJrbEdWWndIeU1rRURNTTc2OHB2am1nZnFoOG5mUXhzV0JSLXVuTUJhTW0wRGRrcENsd3JsNnBFYmtRNGN3Qk9adXNQemp0UzVucUNmUQ?oc=5",
+        "date": "2026-11-27T14:02:10+00:00",
+        "source": "CONICET"
       }
     ],
     "Vaca Muerta": [
       {
-        "title": "YPF amplía su protagonismo en el RIGI con nuevos proyectos en Vaca Muerta",
-        "description": "YPF amplía su protagonismo en el RIGI con nuevos proyectos en Vaca Muerta Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHB0dHJWS3JMXy1EamxsYVk5dk5YVkV5bGowa1RXZjBIZk8tclVJUV84U21lSXRWdVZfV0hlZzBtWXRaVnR5UVdjTldQblpWZmlkUVdXRlBCMlI0RHJiZm54UWFYRjJQcmFWdnZYSG9UaDlTUkJtTVFSN2JfSDJmWFlZVEdGM195Z2ctZ1hhR2xEUFRJa3N1clhkclRoSjJFcFc5Q19JU29kYXQ0dTFtclJ6WlQ5UHM?oc=5",
-        "date": "2026-11-24T19:34:51+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI",
-        "description": "Narambuena: cómo es el proyecto para desarrollar el norte de Vaca Muerta por el que YPF presentó un nuevo RIGI Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM1dPclFuSVB5VVZYbUstYXBJc2MxYTQ5QmE5Z1MtS3cxYTVzOERxeU9xRDlGaDREOXpOZFZTQTlzZHpxS20tbU1EUHpLeEh5OWN3MnBRalZoeXc4Q09mNlA2OTI4WG1sZkkyNXI5LWNEUXM1aVZ2Q25kUDMzX0lDLXZkbmhJSnpsbDdjTUFPcHQxRXNjTkVKUUZUOXMxckJiMmk0Skt2MXhaMEFaYWtTcmpwSDd0eC1BNnhYTUxDNzc2Y3d4R2M3cGxmSi1IM1ctSGVqdDVPM1ktVXI0WWpTT1l3aFBIU0tEZTVZ0gGGAkFVX3lxTFBnQU9iS3NCajZZaEphNzQtV1dxOUV3akRCdmNibXFnMEE4VTM1S1JwaWZKTGZ0Vjcza05venFrSHotUklTdzFQYnZEMjVMY2E0Ny1neVRTaUJOUk9MaE9vcGVVdWYyVGxGUmVmdXRmQkhTdm53VXBEMnM1NnpuT29aRkhXLWtGbnhQamNSWmlpTWxac3A3cHF2VEJYdTdwNEQ5QkhZQUVaMXhlYVNZWGZOaGtWZE1hQkRaQThaYU90MlRlOW9sRldXZEozbEwxZHV4dmZwXzRXbkNUWXh1dVNnd0M5a1I2M1htZTJEN1NsSXBJS0loSXFtOVlIRndYdXotckxRUlE?oc=5",
-        "date": "2026-11-24T19:23:00+00:00",
-        "source": "Infobae"
-      },
-      {
-        "title": "Más allá de Vaca Muerta, las petroleras y las provincias buscan frenar la caída del convencional",
-        "description": "Más allá de Vaca Muerta, las petroleras y las provincias buscan frenar la caída del convencional Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW4tUHdlazRXV0F3Y0JrZnBtNzZGc0VjbE8ySzFBTWVQb3VyZ0NsRkI0bTVUVXZzVTUzMmRLV1gxU3ZaNVNtdy1PMFhGZFpOWUdnckN1S3RfV2FJUTg5NGhZTmJmM25DRW41ZTFtcG04dWJ0RmlLd2djMDFka1YtQmtFRXVDUWN1dkhPQlNIM2txLXM4U0VnWTgwMnFMV3ptUkpMN05MUjg2QVhtMm1VdkJqWHVoQ3JodzhvUHYwaUk0azg4Y1ZBSHVR0gHPAUFVX3lxTE5uNXdiQm41S2QydHZWdkVtb2tkNTJmVTZaeXRELXlDRmo0RW5iWl9jcWZPVzZSZDFyTjdDcTNocXhTNXBIbkhBbm5POEU0TTlHZ3A0WXIyNnVPWGp0QnJhXzNxcTEwelY2Q0I1b1FiSDFHUVF3S2JqNDZ0ZDRfTUs5RFMtX1UxYmUwMFdDbkh6MmNZTGhBOTRRTlpOMkU3YnRsMTluX28wNGw5aF9RSm5KZFU0NkJhXy1EaXZkWTFGZmUyNUdXSTV5VTFOMjhTQQ?oc=5",
-        "date": "2026-11-27T14:14:36+00:00",
-        "source": "Clarin.com"
-      },
-      {
-        "title": "Vaca Muerta: el gasoducto Manuel Belgrano, la pieza clave para la integración gasífera regional",
-        "description": "Vaca Muerta: el gasoducto Manuel Belgrano, la pieza clave para la integración gasífera regional econojournal.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5M2h6NTVOSUtnaG5oZU43ZGphNXdWMDV6SVFEa1otc3ZGMGE1dWpSSVNNU183ZlQ3TDNrT19ubDV6bVpLZnpZQ0xTU0ZxdEVJZ0wxbm1fY1NyYklBTmY3bHU3VVpnNVpOS0pkQ3g1dkExaGlRT0o4?oc=5",
-        "date": "2026-11-26T22:19:34+00:00",
+        "title": "Vaca Muerta, RIGI y minería: qué lugar tiene la industria nacional en los grandes proyectos",
+        "description": "Vaca Muerta, RIGI y minería: qué lugar tiene la industria nacional en los grandes proyectos econojournal.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVDBPS0E4QUhrdlprbFVFaDVhanNLYmVGRFZwV2hVbGxCamUyVVZkR05yVkJHTkh2b1lCbjBNajdkM1NHUVQ3ZkFIR0w5WlpNTnhJbVp5TVVwazMyVHJzalp1RnpKUUpXV2hiM0VpSkFGNWlTVjcwSGNIZjVKMzFsSU9TVTFOcVdsUGMxdjZsTmpZN2JtOG1CTDN3QUlrM3dBVDhwblo4cUpjQk5aWmV0UUxaU0tlT3NJWW9KNkw0R1h3VTRV?oc=5",
+        "date": "2026-11-27T22:33:44+00:00",
         "source": "econojournal.com.ar"
+      },
+      {
+        "title": "Por qué las grandes minas no avanzan al ritmo de Vaca Muerta",
+        "description": "Por qué las grandes minas no avanzan al ritmo de Vaca Muerta Clarin.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDk5U3hVLWF6YmVOWXlGOFllZ0poMU53dkdHUl9WSVhJNGkwZmRWVUtHdTRQWmREYkhJZVBZWkxGZGJnc0Z6UHpKTURCZjdRWEQwTXo2UEdxWVVrZDNEUFZMS0trcE52NDhZNEFLdW5tdV9laGxrWmx5NkJydHcyVk5VWnM4amxXcnVwbzlHaG9WUTVuc3dES3dIaG0ydVU?oc=5",
+        "date": "2026-11-27T09:00:25+00:00",
+        "source": "Clarin.com"
       },
       {
         "title": "Uruguay quiere ser la ruta del gas de Vaca Muerta pero propone repartir los riesgos a cada lado de la frontera",
@@ -191,11 +177,18 @@
         "source": "Lmneuquen.com"
       },
       {
-        "title": "Chile busca exportar gas y crudo de Vaca Muerta por el Pacífico",
-        "description": "Chile busca exportar gas y crudo de Vaca Muerta por el Pacífico iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGVDdjJkUDdacUZRdjdlZnQyYjV0OEsyU2VwVU9OVlFWY0hiRV9wY0xnVlV6QW5TdVhkWXJfWGVEdVhRcWg2NDl2WTdUVDVkdU1FWjU4RmZ6dk5KRkpQSUFKMG94VXRNZnVLQ3JlbDhrcFhKUzNBbjQxOU5zUWs1VnRnZDNGTHVxajdTb1c4dmpOUm15T1dyekVLaWJDQ2hSOTJoX0pNRFVxMmfSAbABQVVfeXFMT29nQ08wLVNTNU1VZGxZN2hhMnRkMzRVVTZSQjVvbkp5MUJPcEdkM2ZXUHlzYnI1WDgwMWN2a2JBeEhiNEd0UnE0aHNlc0RwRExoVU5EWTc1aDZ3NkJJbXlTdmtqa2F2dm9JS2ZNeHpCMGUtMEE1a1dxSHM3T25SQUJHZS16SWNheHN0YVpPS3NEcE5lSmhTTG1Md1pGbXRGVU4wNFgzSkNvV1VaUV9vNmc?oc=5",
-        "date": "2026-11-25T12:25:00+00:00",
-        "source": "iProfesional"
+        "title": "“Si esto pasa en Vaca Muerta, imaginate el resto”: la inflación en dólares que golpea a la producción",
+        "description": "“Si esto pasa en Vaca Muerta, imaginate el resto”: la inflación en dólares que golpea a la producción El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNFdCNDl5TVVuUjNWNjNGTWFMbm92SFJBS2hBX2Y1YTU1OE9BV0U2R3I3ZnRIQy16WTBjU19PNFFxa1RueHUydmstNGJMRTBSMEptRzZYVVZQTUpHYUhqb2VrSXdqRDNwNDV3MlhFempYTVBsY3AwQzF6cnB6NmhwU1hiSTJlTnVGZjlVQjlTZW96R29ieGVDSG5nOFlaZ3owaFhQRi1HbVRsS2V6NktjeW5SLUJtM0IwRnhaQjVzLVdINmo2c3pZVVFjcXRWMVpHczRQT0kwc1_SAfMBQVVfeXFMTVpNR09YWGtVckFWQWRfMER2MDE4ZTZEd28tMVBfWkd1T2ZWSzFoWWlDYkFFWGo2OEJRZGx1T0VBVDg0OWN4Xy1MNFV6WVRiMVhJTmdmT3ZXWWVfTVYwNGVxUW9KNzh2RllnX3lha0s4d01aQ2JpSnlvbFVIU2tUdmtocnZydlZodWpuTHpITEJ6QTRyRTJRY0lNd0ktSmxEY2h3VkdJOE1Fc2hNRW84dXVFMDFYRXZTaTh5ZkxoQUlfUjQzcFdXNjlPVE5VUjFwbVhFRjNTSmFla3BwSnNtNEhsbGFfNHZZaGgxNEczZ2JjdEcw?oc=5",
+        "date": "2026-11-27T11:30:00+00:00",
+        "source": "El Cronista"
+      },
+      {
+        "title": "Los apocalipsis también fallan",
+        "description": "Los apocalipsis también fallan Revista Anfibia",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdWktRVpDRjBtbHBqTXVoZGNjdmxrMFVwSXNkbGRMbFZRY0hyR0pIeUFYZ0RnUnkyek5KVVBBMHMtM082WWFJWERsM0xJbWhCY3lGWXJTcVMwS01LR01BMDdKM09Sd19TN2ZYbXZXTQ?oc=5",
+        "date": "2026-11-27T09:00:51+00:00",
+        "source": "Revista Anfibia"
       },
       {
         "title": "Tecnológica cordobesa entra en Vaca Muerta y automatiza procesos para una de las grandes transportistas de petróleo",
@@ -203,6 +196,13 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1Fia19uVWcwZDZlUlg5dmwwX3EtRi1FS3o5WHBGUTluR3NKelRubEI3RHJMdzJaTng0SGlNd3JaS0JvNlBFRzYzYUV0anluenB1RmpOYUV3a3V4dHJXSTFLYVZ5V2VOQWd2RzU3emlrTjdCMFNjTWVGMHQwNS10TjFCUTRzWm9vQ2FlSTRSS2lxWlY2RnpRaEdHMEVJRlQ5ZFY1MVRSXzlrRG5NTm5yajltX1gtc1FUNnVScmphX2FlbGFoc1hqSlpjdGdaQkFSeXZKWHZfd1JoTTQ?oc=5",
         "date": "2026-11-26T22:40:50+00:00",
         "source": "La Voz del Interior"
+      },
+      {
+        "title": "Vaca Muerta, apertura del Mercosur y un apoyo al reclamo por Malvinas: los detalles de la cumbre bilateral entre Milei y Alliana - TN",
+        "description": "Vaca Muerta, apertura del Mercosur y un apoyo al reclamo por Malvinas: los detalles de la cumbre bilateral entre Milei y Alliana TN",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWFicE1NZTFVMlB1b0k3LVhHdzEyVDJON3FmS2J0ZjNOVlFxMy1vZlRYOEhGM2VrRUItMW54ZjIteGE4U0x2dUZxSlJFTlpyVjI1aEJoNnRNb3FkLUVGSFBDeHluM1BlWkUwX1YzQXZJSkRTT18tQ3lXalIxZkNtSjczNFFaYVBFWmZuNi1Tb3JDWTFQWTBmZnE4SDVCTGxzLTduVkwzdmllY0NyNW1qTlBrYmo0cDVOalk2aUtkSVJRVFRYemI5R0p6dHpZNDI0MmdsU296RHNEaEhJSGhJSDhJR0ZKcWo2VXlBX2ExNUZVQS0zdUMyWg?oc=5",
+        "date": "2026-11-26T20:34:57+00:00",
+        "source": "TN"
       }
     ]
   }
